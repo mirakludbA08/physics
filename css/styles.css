@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: bryant-web, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
@@ -20,12 +20,21 @@ body {
   left: 0;
   height: 100vh;
   overflow-y: auto;
+  box-shadow:10px 10px 10px rgba(0, 0, 0, 0.1);
 }
 .logo {
   font-size: 24px;
   font-weight: bold;
   margin-bottom: 20px;
   text-align: center;
+  border-radius: 6px;
+  transition: transform 0.35s cubic-bezier(.2,.9,.2,1),
+        background-color 0.5s ease;
+    will-change: transform;
+}
+.logo:hover {
+  background-color: #0056b3;
+  transform: scale(1.05) translateY(3px);
 }
 .nav-links {
   list-style: none;
@@ -35,6 +44,7 @@ body {
 }
 .nav-links li {
   margin-bottom: 10px;
+  
 }
 .nav-links li a {
   color: white;
@@ -43,16 +53,53 @@ body {
   padding: 8px 10px;
   border-radius: 6px;
   transition: background-color 0.3s;
+  transition: transform 0.35s cubic-bezier(.2,.9,.2,1),
+        background-color 0.5s ease;
+    will-change: transform;
 }
 
 .nav-links li a:hover {
   background-color: #0044cc;
+    transform: scale(1.05) translateX(3px) rotate(3deg);
 }
 .content {
-  margin-left: 250px; /* pushes content to the right of sidebar */
+  margin-left: 250px; 
   padding: 40px;
-  overflow-y: auto; /* makes main content scrollable separately */
-  height: 100vh; /* ensure full viewport height */
+  overflow-y: auto; 
+  height: 100vh;
   background-color: #f8f9fa;
   box-sizing: border-box;
+  
+}
+.IntroductionText {
+    font-size: 20px;
+    display: block;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+.main-title {
+    display: inline-block;
+    background-color: #007bff;   
+    color: white;              
+    padding: 15px 25px;         
+    border-radius: 12px;        
+    font-size: 2rem;            
+    font-weight: bold;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    transition: transform 0.35s cubic-bezier(.2,.9,.2,1),
+        background-color 0.5s ease;
+    will-change: transform;
+    text-align: center;
+}
+.main-title:hover {
+  transform: scale(1.05) rotate(-3deg) translateY(-2px);
+
+}
+.mainpage-image {
+    display: inline-block;
+    transform: rotate(-5deg);
+    border-radius: 5px;
+}
+.bookimg {
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.2);
 }

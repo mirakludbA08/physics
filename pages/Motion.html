@@ -3,25 +3,55 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Physics_Notes_MainPage</title>
-    <link rel="stylesheet" href="css/styles.css">
-    <script src="js/script.js" defer></script>
+    <title>Motion</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <script src="../js/script.js" defer></script>
 </head>
 <body>
     <nav class="sidebar">
-        <div class="logo">Physics Notes</div>
-        <ul class="nav-links">
-            <li><a href="index.html" class="nav-link">Home</a></li>
-            <li><a href="pages/Motion.html" class="nav-link">Motion</a></li>
-            <li><a href="pages/Forces_Momentum.html" class="nav-link">Forces & Momentum</a></li>
-            <li><a href="pages/Moments.html" class="nav-link">Moments</a></li>
-            <li><a href="pages/Energy.html" class="nav-link">Energy</a></li>
-            <li><a href="pages/Density_Upthrust_VisDrag.html" class="nav-link">Density, Upthrust & Viscous Drag</a></li>
-            <li><a href="pages/Stretching_Materials.html" class="nav-link">Stretching Materials</a></li>
-        </ul>
+        <div class="sidebar_items"></div>
+            <div class="logo">Physics Notes</div>
+            <ul class="nav-links">
+                <li><a href="../index.html" class="nav-link">Home</a></li>
+                <li><a href="Motion.html" class="nav-link">Motion</a></li>
+                <li><a href="Forces_Momentum.html" class="nav-link">Forces & Momentum</a></li>
+                <li><a href="Moments.html" class="nav-link">Moments</a></li>
+                <li><a href="Energy.html" class="nav-link">Energy</a></li>
+                <li><a href="Density_Upthrust_VisDrag.html" class="nav-link">Density, Upthrust & Viscous Drag</a></li>
+                <li><a href="Stretching_Materials.html" class="nav-link">Stretching Materials</a></li>
+            </ul>
+        </div>
     </nav>
-
-
-
+    <div class="content">
+        <h1 class="main-title">Motion</h1>
+        <p class="IntroductionText">Motion is the change in position of an object over time. It can be described in terms of displacement, distance, speed, velocity, and acceleration. Understanding motion is fundamental to the study of physics as it helps explain how objects interact with forces and energy.</p>
+        <h2 class="section-title">Key Concepts in Motion</h2>
+        <ul class="key-concepts">
+            <li><strong>Displacement:</strong> A vector quantity that refers to the change in position of an object. It has both magnitude and direction.</li>
+            <li><strong>Distance:</strong> A scalar quantity that refers to how much ground an object has covered during its motion.</li>
+            <li><strong>Speed:</strong> A scalar quantity that refers to how fast an object is moving. It is calculated as distance divided by time (s = d/t).</li>
+            <li><strong>Velocity:</strong> A vector quantity that refers to the rate at which an object changes its position. It is calculated as displacement divided by time (v = Δx/Δt).</li>
+            <li><strong>Acceleration:</strong> A vector quantity that refers to the rate at which an object's velocity changes over time. It is calculated as change in velocity divided by time (a = Δv/Δt).</li>
+        </ul>
+        <h2 class="section-title">Equations of Motion</h2>
+        <p class="equations-text">The equations of motion describe the relationship between displacement, velocity, acceleration, and time for uniformly accelerated motion. The three main equations are:</p>
+        <ul class="equations-list">
+            <li>v = u + at</li>
+            <li>s = ut + 0.5at²</li>
+            <li>v² = u² + 2as</li>
+        </ul>
+        <p class="equations-explanation">Where:
+            <ul>
+                <li>v = final velocity (m/s)</li>
+                <li>u = initial velocity (m/s)</li>
+                <li>a = acceleration (m/s²)</li>
+                <li>s = displacement (m)</li>
+                <li>t = time (s)</li>
+            </ul>
+        </p>
+        <p class="intuition">  
+            Where do these equations come from? They can be derived from the definitions of velocity and acceleration, along with the assumption of constant acceleration. For example, the first equation (v = u + at) comes directly from the definition of acceleration as the change in velocity over time. The second and third equations can be derived by integrating the acceleration and velocity equations.
+        </p>
+    </div>
 </body>
 </html>
