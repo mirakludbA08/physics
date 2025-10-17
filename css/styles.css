@@ -103,3 +103,12 @@ body {
 .bookimg {
     box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.2);
 }
+.animations {
+  width: 600px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.2);
+}

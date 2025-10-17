@@ -6,6 +6,7 @@
     <title>Motion</title>
     <link rel="stylesheet" href="../css/styles.css">
     <script src="../js/script.js" defer></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
 </head>
 <body>
     <nav class="sidebar">
@@ -37,6 +38,7 @@
         <p class="equations-text">The equations of motion describe the relationship between displacement, velocity, acceleration, and time for uniformly accelerated motion. The three main equations are:</p>
         <ul class="equations-list">
             <li>v = u + at</li>
+            <li>s = 0.5(v+u)t</li>
             <li>s = ut + 0.5at²</li>
             <li>v² = u² + 2as</li>
         </ul>
@@ -49,9 +51,48 @@
                 <li>t = time (s)</li>
             </ul>
         </p>
+        <h1 class="section-title">Derivation of Equations of Motion</h1>
         <p class="intuition">  
-            Where do these equations come from? They can be derived from the definitions of velocity and acceleration, along with the assumption of constant acceleration. For example, the first equation (v = u + at) comes directly from the definition of acceleration as the change in velocity over time. The second and third equations can be derived by integrating the acceleration and velocity equations.
+            They can be derived from the definitions of velocity and acceleration, along with the assumption of constant acceleration. For example, the first equation (v = u + at) comes directly from the definition of acceleration as the change in velocity over time. The second and third equations can be derived by integrating the acceleration and velocity equations.
         </p>
-    </div>
+        <video class="animations" src="..\assets\SUVAT_derivation.mp4" alt="Equation Derivation" autoplay loop muted></video>
+        <h1 class="section-title">Further Insight</h1>
+        <p class="intuition">
+            As you saw in the animation, these equations all assume that acceleration is constant. The point of showing the derivation of these equations is to give a deeper understanding and insight into this topic, as that is vital to being able to solve the questions given in the exams. Physics is not about memorizing, but about understanding
+            <br><br>
+            Another - more mathematical - way to derive these equations is to use integration:
+        </p>
+        \[
+        \int_{}^{} ( v ) dt  =  \int_{}^{} ( u + at )  dt
+        \]
+        <p class="intuition">
+            First, we integrate both sides of the original velocity - time graph equation with respect to '<b>t</b>' and use the <b>POWER RULE</b>
+            <br><br>
+            <b>Remember</b> to treat any other variable except 't' as a <b><i>constant</i></b>
+        </p>
+        \[
+        \frac{vt^{0+1}}{0+1}  =  \frac{ut^{0+1}}{0+1}  +  \frac{at^{1+1}}{1+1}
+        \]
+        \[
+        vt  =  ut  +  0.5 a t^2
+        \]
+        <p class="intuition">
+            However, we still dont have our 's' component equal to our equation...  Or do we? <br><br> Take a closer look...
+        </p>
+        \[
+        v  =  \frac {s}{t}
+        \]
+        \[
+        s  =  v t
+        \]
+        <p><i>Thus:</i></p>
+        \[
+        vt  =  ut  +  0.5 a t^2
+        \]
+        <p><i>Can be written as:</i></p>
+        \[
+        s  =  ut  +  0.5 a t^2
+        \]
+        <p class="intuition">Now we can work out the other SUVAT equations using the same method shown in the animation, cool no?</p>
 </body>
 </html>
