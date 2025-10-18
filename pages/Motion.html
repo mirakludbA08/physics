@@ -34,6 +34,32 @@
             <li><strong>Velocity:</strong> A vector quantity that refers to the rate at which an object changes its position. It is calculated as displacement divided by time (v = Δx/Δt).</li>
             <li><strong>Acceleration:</strong> A vector quantity that refers to the rate at which an object's velocity changes over time. It is calculated as change in velocity divided by time (a = Δv/Δt).</li>
         </ul>
+        <h2 class="section-title">interpreting displacement-time, velocity-time and acceleration-time graphs</h2>
+
+        <video src="..\assets\S_Tgraphs.mp4" class="animations" autoplay loop muted></video>
+        
+        <p class="explanation">
+            As you can see, when displacement is increasing at a constant rate, where displacement is directly proportional to time, the velocity is constant.
+            <br><br>
+            This shows that obtaining the velocity graph from a displacement graph is just <b>diffrentiating</b> the function used to graph displacement
+            <br><br>
+            Just in case it is not clear yet,<br>lets suppose this is the equation for displacement:
+            
+            \[
+            s  =  10t
+             \frac {ds} {dt}  =  \frac {ds} {dt} \cdot (10t)
+             \frac {ds} {dt} \cdot (10t)  =  10
+             \frac {ds} {dt}  =  v
+            \]
+            <p class="explanation">
+                Thus:
+            </p>
+            \[
+            v  =  10
+            \]
+
+        </p>
+        
         <h2 class="section-title">Equations of Motion</h2>
         <p class="equations-text">The equations of motion describe the relationship between displacement, velocity, acceleration, and time for uniformly accelerated motion. The three main equations are:</p>
         <ul class="equations-list">
@@ -52,12 +78,12 @@
             </ul>
         </p>
         <h1 class="section-title">Derivation of Equations of Motion</h1>
-        <p class="intuition">  
+        <p class="explanation">  
             They can be derived from the definitions of velocity and acceleration, along with the assumption of constant acceleration. For example, the first equation (v = u + at) comes directly from the definition of acceleration as the change in velocity over time. The second and third equations can be derived by integrating the acceleration and velocity equations.
         </p>
         <video class="animations" src="..\assets\SUVAT_derivation.mp4" alt="Equation Derivation" autoplay loop muted></video>
         <h1 class="section-title">Further Insight</h1>
-        <p class="intuition">
+        <p class="explanation">
             As you saw in the animation, these equations all assume that acceleration is constant. The point of showing the derivation of these equations is to give a deeper understanding and insight into this topic, as that is vital to being able to solve the questions given in the exams. Physics is not about memorizing, but about understanding
             <br><br>
             Another - more mathematical - way to derive these equations is to use integration:
@@ -65,7 +91,7 @@
         \[
         \int_{}^{} ( v ) dt  =  \int_{}^{} ( u + at )  dt
         \]
-        <p class="intuition">
+        <p class="explanation">
             First, we integrate both sides of the original velocity - time graph equation with respect to '<b>t</b>' and use the <b>POWER RULE</b>
             <br><br>
             <b>Remember</b> to treat any other variable except 't' as a <b><i>constant</i></b>
@@ -76,7 +102,7 @@
         \[
         vt  =  ut  +  0.5 a t^2
         \]
-        <p class="intuition">
+        <p class="explanation">
             However, we still dont have our 's' component equal to our equation...
         </p>
         \[
@@ -93,6 +119,6 @@
         \[
         s  =  ut  +  0.5 a t^2
         \]
-        <p class="intuition">Now we can work out the other SUVAT equations using the same method shown in the animation.</p>
+        <p class="explanation">Now we can work out the other SUVAT equations using the same substitution method shown in the animation.</p>
 </body>
 </html>
