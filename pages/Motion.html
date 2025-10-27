@@ -190,5 +190,208 @@
         s  =  ut  +  0.5 a t^2
         \]
         <p class="explanation">Now we can work out the other SUVAT equations using the same substitution method shown in the animation.</p>
+        <br><br>
+        <p class="explanation">The last thing you need to know are the 7 S.I units. These are base units which are what every other form of measurement are compared to.
+            They serve as the modern form of the metric system, used world wide.
+            <br>
+            They are: 
+        </p>
+        <ul class="equations-list">
+            <li>Meter (\(m\)): For length<br></li>
+            <li>Kilogram (\(kg\)): for mass<br></li>
+            <li>Second (\(s\)): For time<br></li>
+            <li>Ampere (\(A\)): for electric current<br></li>
+            <li>Kelvin (\(K\)): for temperature<br></li>
+            <li>Mole (\(mol\))<br></li>
+            <li>Candela (\(cd\)): for light intensity<br></li>
+        </ul>
+        <p class="explanation">
+            <br>
+            Here are some examples of derived units:
+        </p>
+        <ul class="equations-list">
+            <li>Newton (\(N\)): the unit of force, equivalent to \(kg\cdot m/s^{2}\)<br></li>
+            <li>Joule (\(J\)): the unit of work or energy, equivalent to \(N\cdot m\)<br></li>
+            <li>Pascal (\(Pa\)): the unit of pressure, equivalent to \(N/m^{2}\)<br></li>
+            <li>Watt (\(W\)): the unit of power, equivalent to \(J/s\)<br></li>
+            <li>Meters per second (\(m/s\)): the unit for velocity and speed<br></li>
+            <li>Meters per second squared (\(m/s^{2}\)): the unit for acceleration<br></li>
+            <li>Cubic meters (\(m^{3}\)): the unit for volume<br></li>
+            <li>Square meters (\(m^{2}\)): the unit for area<br></li>
+        </ul>
+        <h1 class="main-title">Projectile motion</h1>
+        <p class="explanation">To understand projectile motion, you first need to understand the nature of 
+            vector quantities and how they can be broken up into vertical and horizontal components
+        </p>
+        <image src="..\assets\velocitycomponents.png" class="example"></image>
+        <p class="explanation">As a ball is moving at an angle, it is moving forward a certain velocity and upwards a certain velocity. We can calculate
+            these velocity components using our SohCahToa rules as   \(V_{y}\)   and   \(V_{x}\)   are perpendicular.
+            <br>
+            Thus, we can write \(V_{y}\)   and   \(V_{x}\) as:
+            \[
+            V_{y} = V \cdot sin(\theta)
+            \]
+            \[
+            V_{x} = V \cdot cos(\theta)
+            \]
+            where \(\theta\) is the <b>angle</b> the ball is thrown at
+            <br>
+            <p>Now lets do a question (<b>remember</b>, this concept applies to all vector quantities, such as force, momentum etc.)</p>
+        </p>
+        <image src="..\assets\componentsquestion.png" class="question"></image>
+        <p class="explanation">
+            First, let us find the weight of the trolley...<br><br>
+            we know that:
+            \[
+            W = m \cdot g
+            \]
+            Thus
+            \[
+            W = 0.2 \cdot 9.81
+            \newline
+            W = 1.962 N
+            \newline
+            \newline
+            V = W
+            \newline
+            V = [1.962 N]
+            \]
+            Now let us use the formula from before (remember, we are trying to find the component of the weight along the slope, which is the vertical component in the diagram):
+            <image src="..\assets\DiagramCompQuestion.png" class="question"></image>
+            \[
+            V_{y} = V \cdot sin(\theta)
+            \newline
+            \theta = 1.8^{\circ}
+            \newline
+            v_{y} = 1.962 \cdot sin(1.8)^{\circ}
+            \newline
+            v_{y} = 0.0616_{3.s.f}
+            \newline
+            \newline
+            [0.0616 N \approx 0.06 N]
+
+            \]
+            <br><br>
+            Now lets look at a projectile motion question:
+            <br>
+            
+        </p>
+        <image src="..\assets\projectilequestion1.png" class="question"></image>
+        <p class="explanation">
+            In this question, we are given the height the ball was thrown from, the distance between the cannon and the ship, and the initial vertical velocity (which is 0 as it is shot at horizontally)
+            <br>
+            Out of the 2 distances given, the one we will use is the vertical one, we choose this one as acceleration due to gravity (9.81 m/s^2) 
+            acts downwards, which causes the ball to touch the floor. Now, we can use the SUVAT equations we derived previously (to choose which
+            equation to use, you compare what values you are given and what you have to find with the equations provided on the sheet, then choose accordingly).
+            <br>
+            Thus:
+            \[
+            s_{y}=u_{y}t + \frac{1}{2} a_{y} t^{2}
+            \newline
+            \newline
+            s_{y} = 67
+            \newline
+            u_{y} = 0
+            \newline
+            a_{y} = 9.81
+            \newline
+            \newline
+            67 = 0 \cdot t + \frac{1}{2} \cdot 9.81 t^{2}
+            \newline
+            \newline
+            67 = \frac{1}{2} \cdot 9.81 t^{2}
+            \newline
+            \newline
+            rearrange
+            \newline
+            \newline
+            t^{2} = \frac{2 \cdot 67}{9.81}
+            \newline
+            t^{2} = 13.66_{2.d.p}
+            \newline
+            t = 3.696 s
+            \newline
+            \newline
+            [3.696 s \approx 3.7 s]
+            \]
+        </p>
+        <image src="..\assets\projectileq1ii.png" class="question"></image>
+        <p class="explanation">
+            For this question, we need to use the <b>t</b> value we calculater previously. As we know the distance to the ship and the time it takes to reach it,
+            we can use the v=s/t equation to work out its initial horizontal velocity (constant)
+            \[
+            V_{x} = \frac{S_{x}}{t}
+            \newline
+            \newline
+            V_{x} = \frac{150}{3.696}
+            \newline
+            \newline
+            V_{x} = [40.6ms^{-1}]_{3.s.f}
+            \]
+        </p>
+        <image src="..\assets\projectileq1iii.png" class="explanation"></image>
+        <p class="explanation">
+            Now, we can use the value of t and the acceleration equation to find out the vertical component of velocity just before the ball hits the ship (which is t = 3.696)
+            \[
+            a_{y} = \frac{v_{y} - u_{y}}{t}
+            \newline
+            v_{y} = a_{y}\cdot t + u_{y}
+            \newline
+            \newline
+            a_{y} = 9.81 \>\>\>
+            u_{y} = 0 \>\>\>
+            t = 3.696
+            \newline
+            \newline
+            v_{y} = 9.81 \cdot 3.696 + 0
+            \newline
+            v_{y} = [36.3 ms^{-1}]_{3.s.f}
+            \]
+        </p>
+        <image src="..\assets\projectileq1iv.png" class="question"></image>
+        <p class="explanation">
+            To do this question, we use our answer from part (ii.) and (iii.) and apply our knowledge of vector components.
+            <br>
+            <br>
+            First we need to find the magnitude of the force, which is simple as we use pythagoras' theorem:
+            \[
+            V^{2} = v_{y}^{2} + v_{x}^{2}
+            \]
+            as the question explicitly states <b>just before it hits the ship</b>, our \(v_{y}\) and \(v_{x}\) are:
+            \[
+            v_{y} = 36.3
+            \newline
+            \newline
+            v_{x} = 40.6
+            \newline
+            \newline
+            Thus:
+            \newline
+            \newline
+            V = \sqrt{36.3^{2} + 40.6^{2}}
+            \newline
+            \newline
+            V = [54.5 ms^{-1}]_{3.s.f}
+            \]
+            Now, we need find the direction, which is the angle at which it is travelling during that time. 
+            <br>
+            To calculate this, we will use SohCahToa
+            \[
+            tan(\theta) = \frac{OPP}{ADJ}
+            \newline
+            \newline
+            tan(\theta) = \frac{v_{y}}{v_{x}}
+            \newline
+            \newline
+            tan(\theta) = \frac{36.3}{40.6}
+            \newline
+            \newline
+            \theta = arctan(\frac{36.3}{40.6})
+            \newline
+            \newline
+            \theta = [41.8^{\circ}]_{3.s.f}
+            \]
+            As you can see, projectile motion is nothing more than applying your knowledge on SUVAT equations and vectors, there is nothing <i>new</i>.
+        </p>
 </body>
 </html>
