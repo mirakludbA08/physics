@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Question Bank · Physics · IALqBank</title>
+    <meta name="description" content="Past paper questions for Pearson Edexcel International AS and A Level Physics, with hidden answers, step-by-step explanations and keyword search.">
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/bank.css">
+</head>
+<body class="bank" data-subject="physics">
+    <header class="bank-top">
+        <a class="bank-logo" href="questions.html">IALqBank</a>
+        <nav class="subject-tabs" aria-label="Subjects">
+            <a class="subject-tab active" href="questions.html" data-subject="physics">Physics</a>
+            <span class="subject-tab soon" title="Coming soon">Chemistry</span>
+            <span class="subject-tab soon" title="Coming soon">Biology</span>
+            <span class="subject-tab soon" title="Coming soon">Maths</span>
+        </nav>
+        <button class="notes-toggle" type="button" aria-controls="notes-drawer" aria-expanded="false">Notes</button>
+    </header>
+
+    <main class="bank-main">
+        <section class="bank-intro">
+            <h1>Physics question bank</h1>
+            <p>Past paper questions for Pearson Edexcel International AS and A Level Physics, grouped by paper. Answers stay hidden until you choose to reveal them, and each one opens into step-by-step working.</p>
+        </section>
+
+        <section class="search-panel" aria-label="Search questions">
+            <label class="search-label" for="q-search">Search by topic or keyword</label>
+            <input id="q-search" class="search-input" type="search" placeholder="e.g. projectile, ball, SUVAT, momentum" autocomplete="off">
+            <div class="filter-row" id="topic-filters" role="group" aria-label="Filter by topic"></div>
+            <p class="result-count" id="result-count" aria-live="polite"></p>
+        </section>
+
+        <section class="question-list" id="question-list" aria-live="polite"></section>
+    </main>
+
+    <aside class="notes-drawer" id="notes-drawer" aria-label="Physics notes" aria-hidden="true">
+        <div class="drawer-head">
+            <h2>Physics notes</h2>
+            <button class="drawer-close" type="button" aria-label="Close notes">×</button>
+        </div>
+        <div class="drawer-body" id="notes-body"></div>
+    </aside>
+    <div class="drawer-scrim" id="drawer-scrim" hidden></div>
+
+    <script src="js/data/physics.js"></script>
+    <script src="js/bank.js"></script>
+</body>
+</html>

@@ -1,0 +1,203 @@
+/* Physics question bank data.
+   Each paper lists its questions. A question with status "ready" has a worked
+   answer; "pending" means the answer depends on a diagram or option table that
+   still needs checking against the PDF. */
+window.BANK = window.BANK || {};
+
+window.BANK.physics = {
+  papers: [
+    {
+      code: '1A',
+      title: 'Suvat formulae',
+      unit: 'Unit 1 · Mechanics',
+      pdf: 'papers/physics/02-1A-Suvat-Formulae.pdf',
+      questions: [
+        {
+          id: '1A-Q1', no: 'Q1', marks: 1, topic: 'Projectiles', status: 'ready',
+          keywords: ['ball', 'table', 'horizontal', 'velocity', 'projectile', 'time', 'distance', 'lands'],
+          question: 'A ball rolls off a table with horizontal velocity 1.2 m s⁻¹ and takes 0.9 s to reach the ground. Which expression gives the horizontal distance s it lands from the table?',
+          answer: 's = 1.2 × 0.9 = 1.08 m',
+          steps: [
+            'The horizontal velocity stays constant after the ball leaves the table, so the horizontal motion uses s = v × t.',
+            'Substitute v = 1.2 m s⁻¹ and t = 0.9 s.',
+            's = 1.2 × 0.9 = 1.08 m.'
+          ]
+        },
+        {
+          id: '1A-Q3', no: 'Q3', marks: 5, topic: 'Free fall & graphs', status: 'ready',
+          keywords: ['free fall', 'g', 'gravity', 'ball bearing', 'graph', 'gradient', 'time', 'distance', 'experiment'],
+          question: 'A ball bearing is released from rest and the time t to fall a distance l is measured for several values of l. Explain how these measurements give a value for g, and sketch the graph the student expects.',
+          answer: 'Plot l against t² (a straight line through the origin). The gradient is g/2, so g = 2 × gradient.',
+          steps: [
+            'Starting from rest, l = ½gt², so g is related to the distance and the square of the time.',
+            'Rearrange: l = (g/2) × t². This has the form y = mx with y = l, x = t², and gradient m = g/2.',
+            'Measure l and t for several drops, calculate t² for each, and plot l against t² (not t).',
+            'Expect a straight line through the origin. Draw the best-fit line and find its gradient.',
+            'Then g = 2 × gradient, since the gradient equals g/2.'
+          ]
+        },
+        {
+          id: '1A-Q5', no: 'Q5', marks: 1, topic: 'Vectors & scalars', status: 'ready',
+          keywords: ['vector', 'scalar', 'units', 'density', 'speed', 'force', 'acceleration'],
+          question: 'Which unit could only be used for a scalar quantity? Options: m s⁻¹, m s⁻², kg m s⁻², kg m⁻³.',
+          answer: 'D: kg m⁻³ (density).',
+          steps: [
+            'A vector has a direction as well as a size. Speed (m s⁻¹) and mass-based units can describe scalars, but force and acceleration are vectors.',
+            'kg m s⁻² is the unit of force, which is a vector, so it is ruled out.',
+            'kg m⁻³ is the unit of density, which has no direction, so it can only describe a scalar.'
+          ]
+        },
+        {
+          id: '1A-Q6', no: 'Q6', marks: 1, topic: 'Free fall', status: 'ready',
+          keywords: ['free fall', 'acceleration', 'ball bearing', 'distance', 'time', '50 cm', 'expression'],
+          question: 'A ball bearing falls from rest through 50 cm in 0.32 s. Which expression gives its acceleration in m s⁻²?',
+          answer: 'A: 1 ÷ 0.32²  (a = 2s/t² with s = 0.50 m gives a = 9.8 m s⁻²)',
+          steps: [
+            'Convert the distance to metres: s = 50 cm = 0.50 m.',
+            'From rest, s = ½at², so a = 2s/t².',
+            'Substitute: a = 2 × 0.50 / 0.32² = 1 ÷ 0.32². This is option A.',
+            'Evaluate to check: a ≈ 9.8 m s⁻².'
+          ]
+        },
+        {
+          id: '1A-Q8', no: 'Q8', marks: 3, topic: 'Projectiles', status: 'ready',
+          keywords: ['projectile', 'stone', 'cliff', 'horizontal', 'velocity', 'height', 'distance', 'ground', 'range'],
+          question: 'A stone is projected horizontally at 3.8 m s⁻¹ from a cliff 12 m high. Calculate the horizontal distance from the bottom of the cliff to where it lands.',
+          answer: 'x ≈ 5.9 m',
+          steps: [
+            'Split the motion into two parts. Vertically the stone starts with no vertical velocity and falls 12 m.',
+            'Use s = ut + ½at² vertically with u = 0: 12 = ½ × 9.81 × t², so t² = 24 ÷ 9.81 = 2.45 and t ≈ 1.56 s.',
+            'Horizontally the speed is constant, so x = v × t = 3.8 × 1.56 ≈ 5.9 m.'
+          ]
+        },
+        {
+          id: '1A-Q9', no: 'Q9', marks: 3, topic: 'Free fall', status: 'ready',
+          keywords: ['mars', 'earth', 'ratio', 'velocity', 'free fall', 'gravity', 'rock', 'fall', '0.38g'],
+          question: 'A rock falls from rest through distance s on Mars, where g = 0.38g(Earth), and hits the surface at vM. A second rock falls the same distance s on Earth and hits at vE. Calculate the ratio vM / vE.',
+          answer: 'vM / vE = √0.38 ≈ 0.62',
+          steps: [
+            'For a fall from rest, v² = 2as, so v = √(2as).',
+            'On Mars a = 0.38g, so vM = √(2 × 0.38g × s). On Earth vE = √(2gs).',
+            'Divide: vM / vE = √(0.38g / g) = √0.38.',
+            'Evaluate: √0.38 ≈ 0.62.'
+          ]
+        },
+        {
+          id: '1A-Q11', no: 'Q11', marks: 1, topic: 'SUVAT', status: 'ready',
+          keywords: ['car', 'acceleration', 'uniform', 'velocity', 'distance', 'suvat', 'v²', 'straight line'],
+          question: 'A car has velocity 3 m s⁻¹, accelerates uniformly in a straight line over 15 m, and ends at 5 m s⁻¹. Which expression gives its acceleration in m s⁻²?',
+          answer: 'a = (5² − 3²) / (2 × 15) = 0.53 m s⁻²',
+          steps: [
+            'Use v² = u² + 2as. This avoids needing the time.',
+            'Rearrange for a: a = (v² − u²) / (2s).',
+            'Substitute u = 3 m s⁻¹, v = 5 m s⁻¹ and s = 15 m: a = (25 − 9) / 30.',
+            'a = 16 / 30 ≈ 0.53 m s⁻². Pick the option that matches this expression.'
+          ]
+        },
+        {
+          id: '1A-Q13', no: 'Q13', marks: 1, topic: 'SUVAT', status: 'ready',
+          keywords: ['car', 'stop sign', 'brakes', 'deceleration', 'stop', 'uniform', 'braking', 'distance'],
+          question: 'A car travels at 25 m s⁻¹ towards a stop sign. The driver brakes 20 m before the sign and decelerates uniformly to rest just before it. What is the magnitude of the deceleration in m s⁻²?',
+          answer: 'a = 25² / (2 × 20) = 15.6 m s⁻² (about 16 m s⁻²)',
+          steps: [
+            'Use v² = u² + 2as with v = 0, u = 25 m s⁻¹ and s = 20 m.',
+            '0 = 25² + 2 × a × 20 where a is negative, so the magnitude is |a| = 625 / 40.',
+            '|a| = 15.6 m s⁻².'
+          ]
+        },
+        {
+          id: '1A-Q15', no: 'Q15', marks: 1, topic: 'Free fall', status: 'ready',
+          keywords: ['moon', 'free fall', 'gravity', 'acceleration', 'distance', 'time', 'from rest'],
+          question: 'An object on the Moon falls 0.32 m from rest in 0.63 s. Which expression gives the acceleration due to gravity on the Moon in m s⁻²?',
+          answer: 'g_Moon = 2 × 0.32 / 0.63² ≈ 1.6 m s⁻²',
+          steps: [
+            'From rest, s = ½gt², so g = 2s / t².',
+            'Substitute s = 0.32 m and t = 0.63 s: g = 0.64 / 0.3969.',
+            'g ≈ 1.6 m s⁻².'
+          ]
+        },
+        {
+          id: '1A-Q16a', no: 'Q16(a)', marks: 4, topic: 'Projectiles', status: 'ready',
+          keywords: ['tennis', 'ball machine', 'projectile', 'height', 'time', 'horizontal', 'velocity', 'angle', 'show that'],
+          question: 'A tennis ball machine projects balls horizontally from a height of 2.54 m. (i) Show that the time to reach the ground is about 0.7 s. (ii) The ball lands 17.89 m away horizontally. Calculate its launch speed.',
+          answer: '(i) t ≈ 0.72 s, so about 0.7 s. (ii) v = 17.89 / 0.72 ≈ 25 m s⁻¹.',
+          steps: [
+            '(i) Vertically the ball starts with no vertical velocity: h = ½gt².',
+            '2.54 = ½ × 9.81 × t², so t² = 5.08 ÷ 9.81 = 0.518 and t = √0.518 ≈ 0.72 s, which is about 0.7 s.',
+            '(ii) Horizontal speed is constant, so v = x ÷ t.',
+            'v = 17.89 ÷ 0.72 ≈ 25 m s⁻¹ (the horizontal launch speed).'
+          ]
+        },
+        {
+          id: '1A-Q16b', no: 'Q16(b)', marks: 3, topic: 'Projectiles', status: 'ready',
+          keywords: ['tennis', 'ball machine', 'angle', 'increase velocity', 'impact', 'projectile', 'explain'],
+          question: 'Explain how increasing the launch velocity of the tennis ball would change the angle at which it hits the ground.',
+          answer: 'The ball hits the ground at a smaller angle to the horizontal (closer to horizontal).',
+          steps: [
+            'The drop height is unchanged, so the time to fall is unchanged. That means the vertical velocity at impact is unchanged.',
+            'The horizontal velocity is constant, and increasing the launch speed increases it.',
+            'The angle θ below the horizontal satisfies tan θ = v_vertical / v_horizontal. A larger horizontal velocity gives a smaller θ.'
+          ]
+        },
+        {
+          id: '1A-Q17i', no: 'Q17(a)(i)', marks: 2, topic: 'Projectiles', status: 'ready',
+          keywords: ['firework', 'vertical component', 'maximum height', 'launch', 'velocity', 'show that'],
+          question: 'A firework reaches a maximum height of 350 m. Show that its vertical launch velocity is about 80 m s⁻¹.',
+          answer: 'v = √(2gh) = √(2 × 9.81 × 350) ≈ 83 m s⁻¹, which rounds to about 80 m s⁻¹ to one significant figure.',
+          steps: [
+            'At the top of the flight the vertical velocity is zero, so v² = u² + 2as with v = 0 and s = −350 m.',
+            'So u² = 2 × 9.81 × 350 = 6867, giving u ≈ 83 m s⁻¹.',
+            'That is about 80 m s⁻¹ to one significant figure, which is what the question asks you to show.'
+          ]
+        },
+        {
+          id: '1A-Q2', no: 'Q2', marks: 1, topic: 'Free fall', status: 'pending',
+          keywords: ['falling sphere', 'camera', 'images', 'free fall', 'acceleration', 'position'],
+          question: 'A camera takes images of a falling sphere at equal time intervals. Which position (P, Q, R or S) will the sphere be at in Image 3?',
+          answer: 'Answer coming soon: the positions are shown in a diagram that still needs checking against the PDF.',
+          steps: []
+        },
+        {
+          id: '1A-Q4', no: 'Q4', marks: 9, topic: 'Projectiles', status: 'pending',
+          keywords: ['popcorn', 'kernel', 'steam', 'height', 'speed', 'photograph', 'mass', 'momentum'],
+          question: 'A popcorn kernel pops and rises. Using photographs taken 83 ms apart, find its maximum height and launch speed, then the speed at which steam is ejected.',
+          answer: 'Answer coming soon: part (a) uses measurements from the photographs, which are not in the text.',
+          steps: []
+        },
+        {
+          id: '1A-Q7', no: 'Q7', marks: 7, topic: 'SUVAT', status: 'pending',
+          keywords: ['trolley', 'track', 'slope', 'speed', 'time', 'point A', 'point B', 'point C'],
+          question: 'A trolley accelerates down a slope from point A to point B, then along a horizontal track to point C. Show its speed at B is about 3 m s⁻¹ and find the total time from A to C.',
+          answer: 'Answer coming soon: the track dimensions are in a diagram that still needs checking.',
+          steps: []
+        }
+      ]
+    }
+  ],
+  notes: [
+    { unit: 'AS · Unit 1', title: 'Motion', file: 'pages/Motion.html', blurb: 'SUVAT, motion graphs, vectors and projectiles' },
+    { unit: 'AS · Unit 1', title: 'Forces & Momentum', file: 'pages/Forces_Momentum.html', blurb: "Newton's laws, free-body diagrams, momentum" },
+    { unit: 'AS · Unit 1', title: 'Moments', file: 'pages/Moments.html', blurb: 'Moments, centre of gravity, equilibrium' },
+    { unit: 'AS · Unit 1', title: 'Energy', file: 'pages/Energy.html', blurb: 'Work, kinetic & potential energy, power, efficiency' },
+    { unit: 'AS · Unit 1', title: 'Density, Upthrust & Viscous Drag', file: 'pages/Density_Upthrust_VisDrag.html', blurb: "Archimedes, Stokes' law, terminal velocity" },
+    { unit: 'AS · Unit 1', title: 'Stretching Materials', file: 'pages/Stretching_Materials.html', blurb: "Hooke's law, stress, strain, Young modulus" },
+    { unit: 'AS · Unit 2', title: 'Progressive Waves', file: 'pages/Waves.html', blurb: 'Transverse & longitudinal waves, v = fλ' },
+    { unit: 'AS · Unit 2', title: 'Superposition & Stationary Waves', file: 'pages/Superposition_Stationary_Waves.html', blurb: 'Interference, path difference, standing waves' },
+    { unit: 'AS · Unit 2', title: 'Refraction, Diffraction & Polarisation', file: 'pages/Refraction_Diffraction_Polarisation.html', blurb: "Snell's law, TIR, gratings" },
+    { unit: 'AS · Unit 2', title: 'Particle Nature of Light', file: 'pages/Particle_Nature_Light.html', blurb: 'Photons, photoelectric effect, de Broglie' },
+    { unit: 'AS · Unit 2', title: 'Current, P.D. & Resistance', file: 'pages/Current_Resistance.html', blurb: 'I = nqvA, resistivity, I–V graphs' },
+    { unit: 'AS · Unit 2', title: 'Circuits & E.M.F.', file: 'pages/DC_Circuits.html', blurb: 'Series & parallel, potential dividers' },
+    { unit: 'A2 · Unit 4', title: 'Impulse & 2D Collisions', file: 'pages/Further_Momentum.html', blurb: 'Impulse, 2D momentum, collisions' },
+    { unit: 'A2 · Unit 4', title: 'Circular Motion', file: 'pages/Circular_Motion.html', blurb: 'Radians, angular velocity, centripetal force' },
+    { unit: 'A2 · Unit 4', title: 'Electric Fields', file: 'pages/Electric_Fields.html', blurb: "Coulomb's law, field strength, potential" },
+    { unit: 'A2 · Unit 4', title: 'Capacitors', file: 'pages/Capacitors.html', blurb: 'Capacitance, energy stored, RC circuits' },
+    { unit: 'A2 · Unit 4', title: 'Magnetic Fields & Induction', file: 'pages/Magnetic_Fields_Induction.html', blurb: "F = BIl, Faraday's and Lenz's laws" },
+    { unit: 'A2 · Unit 4', title: 'Nuclear & Particle Physics', file: 'pages/Nuclear_Particle_Physics.html', blurb: 'Alpha scattering, accelerators, quarks' },
+    { unit: 'A2 · Unit 5', title: 'Thermodynamics', file: 'pages/Thermodynamics.html', blurb: 'Heat capacity, latent heat, ideal gases' },
+    { unit: 'A2 · Unit 5', title: 'Nuclear Decay', file: 'pages/Nuclear_Decay.html', blurb: 'Binding energy, half-life, exponential decay' },
+    { unit: 'A2 · Unit 5', title: 'Oscillations', file: 'pages/Oscillations.html', blurb: 'SHM, damping, resonance' },
+    { unit: 'A2 · Unit 5', title: 'Gravitational Fields', file: 'pages/Gravitational_Fields.html', blurb: "Newton's law of gravitation, orbits" },
+    { unit: 'A2 · Unit 5', title: 'Astrophysics & Cosmology', file: 'pages/Astrophysics_Cosmology.html', blurb: 'Stars, HR diagram, redshift, Hubble' },
+    { unit: 'AS + A2', title: 'Practical Skills', file: 'pages/Practical_Skills.html', blurb: 'Uncertainties, graphs, all core practicals' }
+  ]
+};

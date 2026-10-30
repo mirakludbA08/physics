@@ -1,0 +1,354 @@
+/* IALqBank — question bank styles.
+   Reuses the Physics Hub palette from styles.css. Each subject sets its own
+   accent colours on body[data-subject]; physics uses the navy and blue. */
+body.bank {
+  --accent: #007bff;
+  --accent-deep: #002b80;
+  --accent-hover: #0044cc;
+  --accent-tint: #e7f1ff;
+  --card-line: #dfe5ee;
+  font-family: bryant-web, system-ui, sans-serif;
+  background: #f8f9fa;
+  color: #333;
+  margin: 0;
+}
+
+body.bank[data-subject="physics"] {
+  --accent: #007bff;
+  --accent-deep: #002b80;
+  --accent-hover: #0044cc;
+  --accent-tint: #e7f1ff;
+}
+
+.bank-top {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 14px 24px;
+  background: var(--accent-deep);
+  color: #fff;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+}
+
+.bank-logo {
+  color: #fff;
+  font-weight: 700;
+  font-size: 22px;
+  text-decoration: none;
+  letter-spacing: 0.3px;
+}
+
+.subject-tabs {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  flex: 1;
+}
+
+.subject-tab {
+  padding: 6px 12px;
+  border-radius: 999px;
+  color: #cfe0ff;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.subject-tab.active {
+  background: #fff;
+  color: var(--accent-deep);
+  font-weight: 600;
+}
+
+.subject-tab.soon {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.notes-toggle {
+  background: var(--accent);
+  color: #fff;
+  border: 0;
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.notes-toggle:hover { background: var(--accent-hover); }
+
+.bank-main {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 28px 20px 60px;
+}
+
+.bank-intro h1 {
+  margin: 0 0 8px;
+  color: var(--accent-deep);
+  font-size: 32px;
+}
+
+.bank-intro p {
+  margin: 0 0 22px;
+  line-height: 1.55;
+  color: #5b6573;
+}
+
+.search-panel {
+  background: #fff;
+  border: 1px solid var(--card-line);
+  border-radius: 14px;
+  padding: 18px 20px;
+  box-shadow: 0 4px 14px rgba(0, 32, 96, 0.10);
+  margin-bottom: 24px;
+}
+
+.search-label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: var(--accent-deep);
+}
+
+.search-input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 12px 14px;
+  border: 1px solid #c7d2e3;
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+.search-input:focus {
+  outline: 3px solid var(--accent-tint);
+  border-color: var(--accent);
+}
+
+.filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.filter-chip {
+  border: 1px solid #c7d2e3;
+  background: #fff;
+  border-radius: 999px;
+  padding: 6px 12px;
+  font-size: 14px;
+  cursor: pointer;
+  color: #333;
+}
+
+.filter-chip.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.result-count {
+  margin: 12px 0 0;
+  color: #5b6573;
+  font-size: 14px;
+}
+
+.paper-head {
+  margin: 34px 0 4px;
+  color: var(--accent-deep);
+  font-size: 22px;
+}
+
+.paper-pdf {
+  display: inline-block;
+  margin-bottom: 12px;
+  color: var(--accent);
+  font-size: 14px;
+}
+
+.q-card {
+  background: #fff;
+  border: 1px solid var(--card-line);
+  border-left: 5px solid var(--accent);
+  border-radius: 12px;
+  padding: 18px 20px;
+  margin-bottom: 14px;
+  box-shadow: 0 4px 14px rgba(0, 32, 96, 0.08);
+}
+
+.q-card.pending {
+  border-left-color: #adb5bd;
+}
+
+.q-head {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+
+.q-code {
+  background: var(--accent-deep);
+  color: #fff;
+  padding: 3px 9px;
+  border-radius: 6px;
+  font-weight: 600;
+}
+
+.q-topic {
+  background: var(--accent-tint);
+  color: var(--accent-deep);
+  padding: 3px 9px;
+  border-radius: 6px;
+}
+
+.q-marks { color: #5b6573; }
+
+.q-text {
+  margin: 0 0 14px;
+  line-height: 1.6;
+  font-size: 16px;
+}
+
+.q-pending {
+  margin: 0;
+  color: #5b6573;
+  font-style: italic;
+}
+
+.reveal-btn {
+  background: #fff;
+  color: var(--accent);
+  border: 1.5px solid var(--accent);
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.reveal-btn:hover {
+  background: var(--accent);
+  color: #fff;
+}
+
+.answer-block {
+  margin-top: 14px;
+  padding: 14px 16px;
+  background: var(--accent-tint);
+  border-radius: 10px;
+}
+
+.answer-block[hidden] { display: none; }
+
+.final-answer {
+  margin: 0 0 10px;
+  color: var(--accent-deep);
+}
+
+.steps {
+  margin: 0;
+  padding-left: 22px;
+  line-height: 1.6;
+}
+
+.steps li { margin-bottom: 6px; }
+
+.empty {
+  color: #5b6573;
+  padding: 24px 0;
+}
+
+/* ---------- Notes drawer (slides in from the right) ---------- */
+.notes-drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  width: min(380px, 92vw);
+  background: var(--accent-deep);
+  color: #fff;
+  transform: translateX(100%);
+  transition: transform 0.35s cubic-bezier(.2, .9, .2, 1);
+  z-index: 60;
+  box-shadow: -10px 0 30px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+}
+
+.notes-drawer.open { transform: translateX(0); }
+
+.drawer-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 20px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.drawer-head h2 {
+  margin: 0;
+  font-size: 20px;
+}
+
+.drawer-close {
+  background: none;
+  border: 0;
+  color: #fff;
+  font-size: 28px;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.drawer-body {
+  overflow-y: auto;
+  padding: 10px 14px 30px;
+}
+
+.drawer-unit {
+  margin: 18px 6px 6px;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #9fbcf0;
+}
+
+.drawer-link {
+  display: block;
+  padding: 10px 12px;
+  border-radius: 8px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.drawer-link:hover { background: rgba(255, 255, 255, 0.1); }
+
+.drawer-link-title {
+  display: block;
+  font-weight: 600;
+}
+
+.drawer-link-blurb {
+  display: block;
+  font-size: 13px;
+  color: #cfe0ff;
+  margin-top: 2px;
+}
+
+.drawer-scrim {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 55;
+}
+
+@media (max-width: 640px) {
+  .bank-top { flex-wrap: wrap; gap: 10px; padding: 12px 16px; }
+  .subject-tabs { order: 3; width: 100%; }
+  .bank-main { padding: 20px 16px 50px; }
+  .bank-intro h1 { font-size: 26px; }
+}
