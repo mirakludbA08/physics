@@ -1,0 +1,2021 @@
+{
+  "code": "3B",
+  "title": "Behaviour of Waves",
+  "unit": "AS Unit 2",
+  "pdf": "papers/physics/16-3B-Behaviour-of-Waves.pdf",
+  "questions": [
+    {
+      "id": "3B-Q1a",
+      "no": "Q1(a)",
+      "marks": 3,
+      "topic": "Constructive Interference",
+      "keywords": [
+        "interference",
+        "loud sound",
+        "constructive",
+        "path difference",
+        "coherent",
+        "loudspeakers",
+        "wavelength",
+        "in phase"
+      ],
+      "question": "Two loudspeakers driven by one signal generator (160 Hz) are in phase. Explain why students hear a loud sound at point O.",
+      "status": "ready",
+      "answer": "Waves from both speakers arrive at O in phase (path difference is a whole number of wavelengths), so they reinforce: constructive interference.",
+      "steps": [
+        "Both loudspeakers are driven by the same signal generator, so they are coherent and emit in phase.",
+        "At O the path lengths from the two speakers differ by a whole number of wavelengths (including zero).",
+        "Waves arriving with zero phase difference superpose, so their displacements add.",
+        "The resultant amplitude is a maximum, so the sound is loud at O."
+      ]
+    },
+    {
+      "id": "3B-Q1b(i)",
+      "no": "Q1(b)(i)",
+      "marks": 5,
+      "topic": "Speed of Sound",
+      "keywords": [
+        "speed of sound",
+        "minimum",
+        "destructive interference",
+        "wavelength",
+        "frequency",
+        "path difference",
+        "loudspeakers",
+        "160 Hz"
+      ],
+      "question": "Loudspeakers at 3.00 m from line XY (160 Hz) give a minimum 84 cm from O. Determine the speed of sound.",
+      "status": "pending",
+      "answer": "Pending: needs the separation of the two loudspeakers, which is shown only on the missing diagram.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q1b(ii)",
+      "no": "Q1(b)(ii)",
+      "marks": 2,
+      "topic": "Microphone and Oscilloscope",
+      "keywords": [
+        "microphone",
+        "oscilloscope",
+        "amplitude",
+        "uncertainty",
+        "loud and quiet zones",
+        "measurement",
+        "human hearing",
+        "objective"
+      ],
+      "question": "Explain one reason why a microphone connected to an oscilloscope gives much less uncertainty than students walking along XY.",
+      "status": "ready",
+      "answer": "The microphone and oscilloscope locate the amplitude minimum objectively, removing the subjective judgement of human hearing.",
+      "steps": [
+        "Human hearing judges loudness subjectively and cannot reliably pinpoint the exact quiet position.",
+        "A microphone converts the sound into an electrical signal whose size depends on the pressure amplitude.",
+        "The oscilloscope displays this signal, so the amplitude can be read precisely at each position.",
+        "The position of minimum amplitude is therefore found with much less uncertainty."
+      ]
+    },
+    {
+      "id": "3B-Q1c",
+      "no": "Q1(c)",
+      "marks": 2,
+      "topic": "Classroom Reflections",
+      "keywords": [
+        "reflections",
+        "classroom",
+        "walls",
+        "interference pattern",
+        "reverberation",
+        "accuracy",
+        "sound waves",
+        "open space"
+      ],
+      "question": "A student suggests the speed of sound experiment gives equally valid results in a classroom. Criticise this suggestion.",
+      "status": "ready",
+      "answer": "Sound reflects off walls, ceiling and floor, so reflected waves superpose with the direct waves and blur the loud and quiet zones.",
+      "steps": [
+        "Sound reflects from walls, the ceiling and the floor of a classroom.",
+        "Reflected waves travel different path lengths and superpose with the direct waves.",
+        "This changes the pattern of loud and quiet zones, so the minimum positions no longer match the direct-wave geometry.",
+        "The results are therefore unreliable; an open space avoids these reflections."
+      ]
+    },
+    {
+      "id": "3B-Q2",
+      "no": "Q2",
+      "marks": 1,
+      "topic": "Stationary Wave Statements",
+      "keywords": [
+        "stationary wave",
+        "antiphase",
+        "amplitude",
+        "frequency",
+        "antinode",
+        "displacement distance",
+        "points X Y Z"
+      ],
+      "question": "Displacement-distance graph of a stationary wave at two instants. Which statement is not correct (points X, Y, Z)?",
+      "status": "pending",
+      "answer": "Pending: the displacement-distance diagram of the stationary wave and the statement options are missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q3",
+      "no": "Q3",
+      "marks": 1,
+      "topic": "Diffraction Grating Spacing",
+      "keywords": [
+        "diffraction grating",
+        "fringe spacing",
+        "maxima",
+        "line spacing",
+        "screen distance",
+        "wavelength",
+        "grating equation"
+      ],
+      "question": "Laser light through a diffraction grating. Which change would increase the distance between adjacent maxima? A decrease grating-screen distance; B decrease distance between grating lines; C decrease intensity; D decrease wavelength.",
+      "status": "ready",
+      "answer": "B - decreasing the distance between the lines (d) increases the spacing of the maxima.",
+      "steps": [
+        "Spacing of adjacent maxima on the screen is x = lambda D / d, where D is grating-screen distance and d is line spacing.",
+        "Option A decreases D, so x decreases.",
+        "Option B decreases d (lines closer together), so x increases: this is correct.",
+        "Option C changes brightness only, not the position of the maxima.",
+        "Option D decreases lambda, so x decreases."
+      ]
+    },
+    {
+      "id": "3B-Q4",
+      "no": "Q4",
+      "marks": 1,
+      "topic": "Phase Difference and Path",
+      "keywords": [
+        "phase difference",
+        "path difference",
+        "radians",
+        "wavelength",
+        "interference",
+        "two waves",
+        "coherent",
+        "1.5 rad"
+      ],
+      "question": "Two coherent waves have a phase difference of 1.5 rad at point P. Which path difference could produce this?",
+      "status": "pending",
+      "answer": "Pending: the answer options are missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q5",
+      "no": "Q5",
+      "marks": 1,
+      "topic": "Diffraction Grating Set Up",
+      "keywords": [
+        "diffraction grating",
+        "wavelength",
+        "n lambda = d sin theta",
+        "experiment set up",
+        "screen",
+        "parallel",
+        "laser"
+      ],
+      "question": "Which is a correct description of how to use laser light and a diffraction grating with n = d sin theta? A angle measured by protractor; B grating parallel to beam; C grating parallel to screen; D spacing measured with micrometer.",
+      "status": "ready",
+      "answer": "C - the grating is set parallel to the screen so the grating-screen distance is uniform.",
+      "steps": [
+        "The equation n lambda = d sin theta needs the angle of each maximum, found from distances measured on the screen, not with a protractor (A is wrong).",
+        "The grating must face the beam, so it is perpendicular to the beam, not parallel to it (B is wrong).",
+        "The grating must be parallel to the screen so that the grating-screen distance is the same across the grating (C is correct).",
+        "Distances between dots are measured with a metre rule, not a micrometer (D is wrong)."
+      ]
+    },
+    {
+      "id": "3B-Q6a",
+      "no": "Q6(a)",
+      "marks": 2,
+      "topic": "Huygens Construction Diffraction",
+      "keywords": [
+        "diffraction",
+        "huygens construction",
+        "wavefront",
+        "secondary wavelets",
+        "gap",
+        "wavelength",
+        "spreading",
+        "circular gap"
+      ],
+      "question": "Using Huygens construction, explain how diffraction occurs as laser light passes through a small circular gap.",
+      "status": "ready",
+      "answer": "Each point of the wavefront at the gap acts as a source of secondary wavelets, which spread into the region behind the gap so the wave bends round the edge.",
+      "steps": [
+        "Huygens: every point on a wavefront acts as a source of secondary spherical wavelets.",
+        "At the gap only the wavefront points inside the opening pass the wave through.",
+        "The secondary wavelets spread out into the region behind the gap, forming a new, curved wavefront.",
+        "Diffraction is significant when the gap width is comparable to the wavelength."
+      ]
+    },
+    {
+      "id": "3B-Q6b",
+      "no": "Q6(b)",
+      "marks": 3,
+      "topic": "Diffraction Intensity Graph",
+      "keywords": [
+        "diffraction pattern",
+        "intensity",
+        "circular gap",
+        "graph",
+        "central maximum",
+        "sketch",
+        "line AB",
+        "concentric rings"
+      ],
+      "question": "Sketch a graph of intensity along line AB across the circular-gap diffraction pattern.",
+      "status": "pending",
+      "answer": "Pending: the pattern along line AB is shown only in the missing diagram; expected a tall central maximum with weaker, decreasing outer maxima.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q7a",
+      "no": "Q7(a)",
+      "marks": 2,
+      "topic": "Wavelength on a String",
+      "keywords": [
+        "stationary wave",
+        "string",
+        "wavelength",
+        "nodes",
+        "antinodes",
+        "length",
+        "harmonic",
+        "1.70 m"
+      ],
+      "question": "A string of length L = 1.70 m vibrates in the stationary wave pattern shown. Determine the wavelength.",
+      "status": "pending",
+      "answer": "Pending: the number of loops in the stationary wave is shown only in the missing diagram.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q7b",
+      "no": "Q7(b)",
+      "marks": 3,
+      "topic": "Wave Speed on String",
+      "keywords": [
+        "wave speed",
+        "string",
+        "tension",
+        "mass per unit length",
+        "weight",
+        "stretched string",
+        "hanging mass",
+        "speed of waves"
+      ],
+      "question": "A hanging mass m = 0.20 kg stretches a string with mass per unit length 4.5 x 10^-3 kg m-1. Calculate the speed of waves on the string.",
+      "status": "ready",
+      "answer": "Speed = 20.9 m s-1 (about 21 m s-1).",
+      "steps": [
+        "The tension is provided by the hanging mass: T = mg = 0.20 x 9.81 = 1.96 N.",
+        "Wave speed on a stretched string is v = sqrt(T / mu), where mu is the mass per unit length.",
+        "v = sqrt(1.962 / 4.5 x 10^-3) = sqrt(436) m s-1.",
+        "v = 20.9 m s-1."
+      ]
+    },
+    {
+      "id": "3B-Q7c",
+      "no": "Q7(c)",
+      "marks": 2,
+      "topic": "Frequency and Wave Speed",
+      "keywords": [
+        "frequency",
+        "wave speed",
+        "string",
+        "vibration generator",
+        "wavelength",
+        "tension",
+        "mass per unit length",
+        "no effect"
+      ],
+      "question": "The vibration generator frequency is reduced to give a different standing wave. Explain the effect on the speed of the waves on the string.",
+      "status": "ready",
+      "answer": "No effect: wave speed depends only on tension and mass per unit length, not on frequency; the wavelength increases instead.",
+      "steps": [
+        "Wave speed on a string is set by the tension and the mass per unit length: v = sqrt(T / mu).",
+        "Lowering the generator frequency does not change the tension or mu.",
+        "Since v = f lambda and v is constant, a lower frequency gives a longer wavelength.",
+        "So the speed of the waves on the string stays the same."
+      ]
+    },
+    {
+      "id": "3B-Q8",
+      "no": "Q8",
+      "marks": 1,
+      "topic": "Constructive Interference Condition",
+      "keywords": [
+        "constructive interference",
+        "path difference",
+        "phase difference",
+        "wavelength",
+        "diverge",
+        "meet",
+        "single source",
+        "options"
+      ],
+      "question": "Two waves of wavelength lambda from one source diverge and meet again. Which path or phase difference gives constructive interference?",
+      "status": "pending",
+      "answer": "Pending: the option expressions use symbols missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q9",
+      "no": "Q9",
+      "marks": 1,
+      "topic": "Phase Difference from Path",
+      "keywords": [
+        "phase difference",
+        "path difference",
+        "wavelength",
+        "degrees",
+        "two waves",
+        "same source",
+        "34 deg",
+        "270 deg"
+      ],
+      "question": "Two waves from the same source arrive with a path difference equal to a multiple of the wavelength (symbol missing). Which phase difference (34, 68, 135 or 270 deg) results?",
+      "status": "pending",
+      "answer": "Pending: the path difference expression is missing from the text (phase difference = 360 deg x path difference / wavelength).",
+      "steps": []
+    },
+    {
+      "id": "3B-Q10",
+      "no": "Q10",
+      "marks": 1,
+      "topic": "Diffraction Grating Wavelength",
+      "keywords": [
+        "diffraction grating",
+        "300 lines per mm",
+        "first order maximum",
+        "wavelength",
+        "grating equation",
+        "calculation",
+        "sin theta"
+      ],
+      "question": "A grating has 300 lines per mm. The first order maximum position is shown. Which calculation gives the wavelength?",
+      "status": "pending",
+      "answer": "Pending: the calculation options and the diagram of the first-order angle are missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q11",
+      "no": "Q11",
+      "marks": 1,
+      "topic": "Wave Speed on String",
+      "keywords": [
+        "wave speed",
+        "string",
+        "tension",
+        "frequency",
+        "length",
+        "mass per unit length",
+        "increase speed",
+        "vibrating string"
+      ],
+      "question": "Which change would increase the speed of waves along a vibrating string? A increase frequency; B increase length; C increase mass per unit length; D increase tension.",
+      "status": "ready",
+      "answer": "D - increasing the tension increases the speed, since v = sqrt(T / mu).",
+      "steps": [
+        "The speed of waves on a string is v = sqrt(T / mu).",
+        "Frequency and length do not appear in this formula, so changing them does not change v (A and B are wrong).",
+        "Increasing mass per unit length mu reduces v (C is wrong).",
+        "Increasing the tension T increases v (D is correct)."
+      ]
+    },
+    {
+      "id": "3B-Q12",
+      "no": "Q12",
+      "marks": 1,
+      "topic": "Constructive Interference Path",
+      "keywords": [
+        "constructive interference",
+        "path difference",
+        "wavelength",
+        "phase difference",
+        "in phase",
+        "coherent",
+        "8.0 cm"
+      ],
+      "question": "Two waves leave a source in phase with wavelength 8.0 cm. Which gives constructive interference? A path difference 16.0 cm; B path difference (symbol missing); C phase difference 180 deg; D phase difference 3 rad.",
+      "status": "ready",
+      "answer": "A - a path difference of 16.0 cm, which is two wavelengths.",
+      "steps": [
+        "Constructive interference needs a path difference that is a whole number of wavelengths.",
+        "16.0 cm / 8.0 cm = 2.0 wavelengths, a whole number, so the waves reinforce (A).",
+        "A phase difference of 180 deg gives destructive interference (C is wrong).",
+        "3 rad is about 172 deg, which is not 0 or 360 deg, so it is not constructive (D is wrong)."
+      ]
+    },
+    {
+      "id": "3B-Q13",
+      "no": "Q13",
+      "marks": 1,
+      "topic": "Diffraction Wavefront Shape",
+      "keywords": [
+        "diffraction",
+        "wavefront",
+        "gap size",
+        "semicircular",
+        "wavelength",
+        "huygens",
+        "wavefront diagrams"
+      ],
+      "question": "Wavefronts approach gaps of different sizes. In which diagram are the diffracted wavefronts not semicircular?",
+      "status": "pending",
+      "answer": "Pending: the four wavefront diagrams (A to D) are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q14",
+      "no": "Q14",
+      "marks": 1,
+      "topic": "Wave Speed on String Expression",
+      "keywords": [
+        "wave speed",
+        "string",
+        "pulley",
+        "hanging masses",
+        "tension",
+        "mass per unit length",
+        "expression",
+        "vibrator"
+      ],
+      "question": "String between vibrator and pulley (length L), hanging masses M, whole string mass m. Which expression gives the wave speed on the string?",
+      "status": "pending",
+      "answer": "Pending: the answer options and the string-length diagram are missing from the text (expected v = sqrt(Mg / (m / total length))).",
+      "steps": []
+    },
+    {
+      "id": "3B-Q15",
+      "no": "Q15",
+      "marks": 4,
+      "topic": "Superposition in Ripple Tank",
+      "keywords": [
+        "superposition",
+        "ripple tank",
+        "constructive",
+        "destructive",
+        "positions A and B",
+        "crests",
+        "in phase",
+        "water waves"
+      ],
+      "question": "Two in-phase sources S1 and S2 in a ripple tank. Explain the type of superposition at positions A and B on the diagram of crests.",
+      "status": "pending",
+      "answer": "Pending: positions A and B are marked only on the missing ripple-tank diagram.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q16",
+      "no": "Q16",
+      "marks": 1,
+      "topic": "Microwave Interference Heating",
+      "keywords": [
+        "microwave",
+        "interference",
+        "heating",
+        "path difference",
+        "wavelength",
+        "constructive",
+        "microwave oven",
+        "table"
+      ],
+      "question": "Two microwave rays meet at point L in a microwave oven. Which row of the table shows the possible interference at L?",
+      "status": "pending",
+      "answer": "Pending: the table of rows is missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q17",
+      "no": "Q17",
+      "marks": 1,
+      "topic": "Compression in Sound Wave",
+      "keywords": [
+        "compression",
+        "rarefaction",
+        "sound wave",
+        "displacement",
+        "longitudinal",
+        "wavelength",
+        "air particles",
+        "position V"
+      ],
+      "question": "The displacement of air particles in a sound wave is shown at an instant, with a compression at V. At which other position is there a compression (W, X, Y or Z)?",
+      "status": "pending",
+      "answer": "Pending: the displacement-position diagram of the sound wave is missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q18",
+      "no": "Q18",
+      "marks": 1,
+      "topic": "Diffraction Grating Measurements",
+      "keywords": [
+        "laser wavelength",
+        "diffraction grating",
+        "screen",
+        "measurements",
+        "first order",
+        "grating spacing",
+        "not required"
+      ],
+      "question": "A student finds the wavelength of laser light with a laser, grating and screen. Which measurement is not required? A grating-to-screen distance; B central maximum to first order distance; C laser-to-grating distance; D slit spacing of the grating.",
+      "status": "ready",
+      "answer": "C - the laser-to-grating distance; it does not appear in the working equation.",
+      "steps": [
+        "The working equation is lambda = d x / L, or n lambda = d sin theta.",
+        "The grating-to-screen distance L (option A) is needed.",
+        "The distance x from the central maximum to the first order (option B) is needed.",
+        "The slit spacing d (option D) is known from the grating label, so it is needed as a value.",
+        "The laser-to-grating distance does not appear in the equation, so it is not required (C)."
+      ]
+    },
+    {
+      "id": "3B-Q19",
+      "no": "Q19",
+      "marks": 1,
+      "topic": "Stationary Wave Statements",
+      "keywords": [
+        "stationary wave",
+        "antiphase",
+        "in phase",
+        "displacement",
+        "nodes",
+        "antinodes",
+        "points W X Y Z"
+      ],
+      "question": "Displacement-distance graph of a stationary wave at two instants (points W, X, Y, Z). Which statement is correct?",
+      "status": "pending",
+      "answer": "Pending: the displacement-distance diagram with points W, X, Y and Z is missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q20a",
+      "no": "Q20(a)",
+      "marks": 4,
+      "topic": "Laser Wavelength from Grating",
+      "keywords": [
+        "wavelength",
+        "diffraction grating",
+        "450 lines per mm",
+        "first order",
+        "screen position",
+        "grating equation",
+        "laser"
+      ],
+      "question": "A grating has 450 lines per mm. The first bright dot X is at a measured position on the screen. Determine the wavelength of the laser light.",
+      "status": "pending",
+      "answer": "Pending: the position of X and the screen distance are shown only in the missing diagram.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q20b",
+      "no": "Q20(b)",
+      "marks": 3,
+      "topic": "Bright Dots Explanation",
+      "keywords": [
+        "bright dots",
+        "diffraction grating",
+        "constructive interference",
+        "coherent",
+        "path difference",
+        "maxima",
+        "laser"
+      ],
+      "question": "Explain why a series of bright dots is seen on the screen when the laser is switched on.",
+      "status": "ready",
+      "answer": "Coherent laser light diffracted by the grating interferes constructively only at angles where the path difference is a whole number of wavelengths, giving bright maxima.",
+      "steps": [
+        "Laser light is monochromatic and coherent, so the waves from all the lines are in phase at the grating.",
+        "Each line diffracts the light into many directions.",
+        "Waves from neighbouring lines meet with path difference n lambda, which is constructive.",
+        "This happens only at angles given by d sin theta = n lambda, producing bright maxima.",
+        "At other angles the waves cancel, so dark background shows between the bright dots."
+      ]
+    },
+    {
+      "id": "3B-Q20c",
+      "no": "Q20(c)",
+      "marks": 2,
+      "topic": "White Light Diffraction",
+      "keywords": [
+        "white light",
+        "diffraction grating",
+        "spectrum",
+        "central maximum",
+        "violet",
+        "red",
+        "dispersion",
+        "maxima"
+      ],
+      "question": "The laser is replaced by a parallel beam of white light. Suggest what is now observed on the screen.",
+      "status": "ready",
+      "answer": "A white central maximum with coloured spectra on each side, with violet nearest the centre and red furthest away.",
+      "steps": [
+        "Each wavelength has its own maxima at angles given by sin theta = n lambda / d.",
+        "Zero path difference applies to all wavelengths at the centre, so the central maximum is white.",
+        "On either side, the maxima of different colours spread out into a spectrum.",
+        "Violet has the shortest wavelength, so its angle is smallest and it lies closest to the centre; red is furthest."
+      ]
+    },
+    {
+      "id": "3B-Q21a",
+      "no": "Q21(a)",
+      "marks": 1,
+      "topic": "Measurement Precision",
+      "keywords": [
+        "resolution",
+        "metre rule",
+        "nodes",
+        "uncertainty",
+        "stationary wave",
+        "nearest 0.5 cm",
+        "precision",
+        "string"
+      ],
+      "question": "The metre rule has resolution 1 mm, but distances were recorded to the nearest 0.5 cm. Suggest why.",
+      "status": "ready",
+      "answer": "The nodes on the string are not sharply defined, so their positions can only be judged to about 0.5 cm, not to 1 mm.",
+      "steps": [
+        "The metre rule can resolve 1 mm, so its resolution is not the limit.",
+        "The string blurs over a region near each node, so there is no sharp point to read.",
+        "The uncertainty in judging the node position is therefore about 0.5 cm.",
+        "Recording to a finer resolution would not improve the true precision."
+      ]
+    },
+    {
+      "id": "3B-Q21b(i)",
+      "no": "Q21(b)(i)",
+      "marks": 5,
+      "topic": "Total Hanging Mass",
+      "keywords": [
+        "hanging masses",
+        "gradient",
+        "mass per unit length",
+        "stationary wave",
+        "d against 1/f",
+        "tension",
+        "total mass",
+        "graph"
+      ],
+      "question": "Using the graph of d against 1/f and mass per unit length 4.5 x 10^-4 kg m-1, determine the total mass of the hanging masses.",
+      "status": "pending",
+      "answer": "Pending: the gradient of the d against 1/f graph is needed and is shown only on the missing graph.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q21b(ii)",
+      "no": "Q21(b)(ii)",
+      "marks": 2,
+      "topic": "Graph for New String",
+      "keywords": [
+        "graph line",
+        "mass per unit length",
+        "stationary wave",
+        "nodes",
+        "frequency",
+        "twice mass per unit length",
+        "straight line"
+      ],
+      "question": "The string is replaced by one with twice the mass per unit length, other quantities unchanged. Add a line to the graph of d against 1/f for the new string.",
+      "status": "pending",
+      "answer": "Pending: the original graph is missing from the text; expected a line through the origin with a gradient smaller by a factor of 1 / sqrt(2).",
+      "steps": []
+    },
+    {
+      "id": "3B-Q22a",
+      "no": "Q22(a)",
+      "marks": 2,
+      "topic": "Diffraction Angle Calculation",
+      "keywords": [
+        "diffraction grating",
+        "angle",
+        "normal incidence",
+        "angle of diffraction",
+        "screen",
+        "geometry",
+        "14 deg"
+      ],
+      "question": "Laser light is incident on a grating at 90 deg, with angle theta1 = 14.0 deg shown on the diagram. Calculate angle theta2.",
+      "status": "pending",
+      "answer": "Pending: the diagram showing which angle theta2 is measured from is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q22b",
+      "no": "Q22(b)",
+      "marks": 3,
+      "topic": "Graphical Wavelength Method",
+      "keywords": [
+        "graph",
+        "sin theta",
+        "order n",
+        "gradient",
+        "wavelength",
+        "grating spacing",
+        "straight line",
+        "best fit"
+      ],
+      "question": "The angles of maxima for n = 1 to 4 are measured. Describe a graphical method to find the wavelength, with grating spacing d known.",
+      "status": "ready",
+      "answer": "Plot sin theta against n; the best-fit straight line through the origin has gradient lambda / d, so lambda = gradient x d.",
+      "steps": [
+        "For a maximum of order n, the grating equation is n lambda = d sin theta.",
+        "Rearranged, sin theta = (lambda / d) n, which is a straight line through the origin.",
+        "Plot sin theta on the y-axis against n on the x-axis for n = 1 to 4, and draw the best-fit line.",
+        "Find the gradient of the line; gradient = lambda / d.",
+        "Wavelength lambda = gradient x d."
+      ]
+    },
+    {
+      "id": "3B-Q22c",
+      "no": "Q22(c)",
+      "marks": 4,
+      "topic": "Grating Label Check",
+      "keywords": [
+        "grating labelling",
+        "lines per mm",
+        "second order",
+        "screen distance",
+        "650 nm",
+        "tan theta",
+        "grating spacing",
+        "deduce"
+      ],
+      "question": "Grating labelled 300 lines per mm. The distance on the screen from n = 0 to n = 2 is 0.397 m, screen distance 2.00 m, wavelength 650 nm. Deduce whether the label is correct.",
+      "status": "ready",
+      "answer": "Incorrect: the data give about 150 lines per mm (d about 6.7 micrometres), not 300 lines per mm.",
+      "steps": [
+        "For the second order, 2 lambda = d sin theta.",
+        "From geometry, tan theta = x / L = 0.397 / 2.00 = 0.1985, so theta = 11.2 deg.",
+        "sin theta = 0.1947.",
+        "d = 2 x 650 x 10^-9 / 0.1947 = 6.7 x 10^-6 m, so 1 / d is about 150 lines per mm.",
+        "300 lines per mm would give d = 3.3 micrometres, so the label is incorrect."
+      ]
+    },
+    {
+      "id": "3B-Q23a(i)",
+      "no": "Q23(a)(i)",
+      "marks": 2,
+      "topic": "Frequency Discrimination",
+      "keywords": [
+        "frequency difference",
+        "0.3 percent",
+        "percentage",
+        "beats",
+        "hearing",
+        "880 Hz",
+        "882 Hz",
+        "same frequency"
+      ],
+      "question": "Sounds of 880 Hz and 882 Hz are produced. The ear hears frequencies differing by less than 0.3 percent as the same. Show that they are heard as the same frequency.",
+      "status": "ready",
+      "answer": "The difference of 2 Hz is 0.23 percent of 880 Hz, less than 0.3 percent, so they are heard as one frequency.",
+      "steps": [
+        "Frequency difference = 882 Hz - 880 Hz = 2 Hz.",
+        "Percentage difference = 2 / 880 x 100 = 0.227 percent.",
+        "0.227 percent is less than the 0.3 percent threshold, so the ear cannot resolve the two frequencies.",
+        "Therefore the sounds are heard as the same frequency."
+      ]
+    },
+    {
+      "id": "3B-Q23a(ii)",
+      "no": "Q23(a)(ii)",
+      "marks": 6,
+      "topic": "Beats and Coherence",
+      "keywords": [
+        "beats",
+        "coherence",
+        "phase difference",
+        "superposition",
+        "loudness",
+        "frequency difference",
+        "constructive",
+        "destructive"
+      ],
+      "question": "When 880 Hz and 882 Hz are heard together, loudness rises and falls repeatedly. Explain why, referring to coherence and phase difference.",
+      "status": "ready",
+      "answer": "The two sources differ slightly in frequency, so they are not coherent: their phase difference changes steadily, so they reinforce and cancel in turn, giving beats at 2 Hz.",
+      "steps": [
+        "The two sounds differ in frequency by 2 Hz, so their phase difference is not constant; they are not coherent.",
+        "The phase difference between the two waves at the ear changes steadily with time.",
+        "When the waves are in phase they superpose constructively, giving a loud sound.",
+        "When they are in antiphase they superpose destructively, giving a quiet sound.",
+        "The loudness therefore varies at the beat frequency f1 - f2 = 2 Hz.",
+        "Loud maxima occur twice every second."
+      ]
+    },
+    {
+      "id": "3B-Q23b",
+      "no": "Q23(b)",
+      "marks": 4,
+      "topic": "Wire Tension Change",
+      "keywords": [
+        "wire tension",
+        "frequency",
+        "standing wave",
+        "antinode",
+        "mass per unit length",
+        "decrease in tension",
+        "wire length",
+        "fundamental"
+      ],
+      "question": "A wire of length 18.7 cm (fixed at both ends, fundamental) has mu = 5.08 x 10^-3 kg m-1 and gives 882 Hz. Tension is adjusted to give 880 Hz. Calculate the decrease in tension.",
+      "status": "ready",
+      "answer": "Decrease in tension = 2.5 N.",
+      "steps": [
+        "Fundamental on a wire fixed at both ends: wavelength = 2 x length = 2 x 0.187 = 0.374 m.",
+        "Wave speed v = f lambda, and tension T = v^2 mu = (f lambda)^2 mu.",
+        "At 882 Hz: T1 = (882 x 0.374)^2 x 5.08 x 10^-3 = 552.8 N.",
+        "At 880 Hz: T2 = (880 x 0.374)^2 x 5.08 x 10^-3 = 550.3 N.",
+        "Decrease in tension = T1 - T2 = 2.5 N."
+      ]
+    },
+    {
+      "id": "3B-Q24",
+      "no": "Q24",
+      "marks": 1,
+      "topic": "Grating Wavelength Expression",
+      "keywords": [
+        "diffraction grating",
+        "300 lines per mm",
+        "first order",
+        "wavelength expression",
+        "central maximum",
+        "laser",
+        "expression"
+      ],
+      "question": "Laser, grating (300 lines per mm) and screen; O is the central maximum and X the first order. Which expression gives the wavelength?",
+      "status": "pending",
+      "answer": "Pending: the expression options and the diagram are missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q25",
+      "no": "Q25",
+      "marks": 1,
+      "topic": "Phase Difference in Radians",
+      "keywords": [
+        "phase difference",
+        "path difference",
+        "radians",
+        "wavelength",
+        "coherent",
+        "two waves",
+        "same source"
+      ],
+      "question": "Two waves of wavelength lambda from the same source meet with path difference lambda. What is the phase difference in radians?",
+      "status": "pending",
+      "answer": "Pending: the answer options are missing from the text (expected 2 pi rad for a path difference of one wavelength).",
+      "steps": []
+    },
+    {
+      "id": "3B-Q26",
+      "no": "Q26",
+      "marks": 1,
+      "topic": "Coherence Requirement",
+      "keywords": [
+        "coherent",
+        "coherence",
+        "same frequency",
+        "phase",
+        "amplitude",
+        "antiphase",
+        "two waves",
+        "must be true"
+      ],
+      "question": "Two waves are coherent. Which must be true? A antiphase; B in phase; C same amplitude; D same frequency.",
+      "status": "ready",
+      "answer": "D - coherent waves must have the same frequency.",
+      "steps": [
+        "Coherent waves have the same frequency and a constant phase difference.",
+        "They need not be in phase or antiphase, so A and B are not required.",
+        "Their amplitudes do not have to be equal, so C is not required.",
+        "The same frequency is required, so D is correct."
+      ]
+    },
+    {
+      "id": "3B-Q27",
+      "no": "Q27",
+      "marks": 1,
+      "topic": "Stationary Wave Phase Sections",
+      "keywords": [
+        "stationary wave",
+        "string",
+        "in phase",
+        "sections VW WX XY",
+        "antinodes",
+        "nodes",
+        "phase"
+      ],
+      "question": "Standing wave pattern on a string with sections VW, WX and XY. Which sections are in phase with each other?",
+      "status": "pending",
+      "answer": "Pending: the standing wave diagram labelling V, W, X and Y is missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q28a",
+      "no": "Q28(a)",
+      "marks": 6,
+      "topic": "Sound Interference Through Gaps",
+      "keywords": [
+        "sound interference",
+        "loudspeaker",
+        "gaps",
+        "path difference",
+        "destructive interference",
+        "wavelength",
+        "huygens",
+        "quieter"
+      ],
+      "question": "Sound passes through gaps in metal plates about the wavelength in size. Walking along a line, the sound becomes quieter until no sound is heard. Explain this, referring to interference.",
+      "status": "ready",
+      "answer": "Waves from the gaps are coherent; as she walks the path differences change, and where they are odd multiples of half a wavelength the waves cancel, giving zero sound when the amplitudes are equal.",
+      "steps": [
+        "Gaps of about one wavelength in size diffract the sound, so each gap acts as a secondary source.",
+        "The waves from the gaps come from one source, so they are coherent and interfere.",
+        "At X the path differences are zero or whole wavelengths, so the waves reinforce and the sound is loud.",
+        "As she walks along the line, the path differences from the gaps change steadily.",
+        "When the path difference is an odd multiple of lambda / 2, the waves arrive in antiphase and cancel (destructive interference).",
+        "With equal amplitudes from the gaps the resultant amplitude is zero, so no sound is heard."
+      ]
+    },
+    {
+      "id": "3B-Q28b",
+      "no": "Q28(b)",
+      "marks": 2,
+      "topic": "Filament Lamps Not Coherent",
+      "keywords": [
+        "filament lamps",
+        "coherence",
+        "interference pattern",
+        "incoherent",
+        "phase difference",
+        "visible light",
+        "independent sources"
+      ],
+      "question": "Two filament lamps on the same supply are used to try to produce a consistent interference pattern. Explain why this is not possible.",
+      "status": "ready",
+      "answer": "Filament lamps are independent, incoherent sources, so their phase difference changes randomly and no stable pattern forms.",
+      "steps": [
+        "Each filament lamp emits light from many independent atomic emissions.",
+        "The waves from the two lamps have no fixed phase relationship, so they are not coherent.",
+        "The phase difference at any point changes rapidly and randomly.",
+        "So maxima and minima average out and no stable interference pattern is seen."
+      ]
+    },
+    {
+      "id": "3B-Q29",
+      "no": "Q29",
+      "marks": 1,
+      "topic": "Diffraction Grating Symbols",
+      "keywords": [
+        "diffraction grating",
+        "d sin theta",
+        "grating spacing",
+        "lines per metre",
+        "symbol meaning",
+        "wavelength",
+        "equation"
+      ],
+      "question": "In n = d sin theta for laser light through a grating, what does d represent? A spacing between adjacent lines; B grating-screen distance; C number of lines per metre; D order of the maximum.",
+      "status": "ready",
+      "answer": "A - the distance between adjacent lines (the grating spacing).",
+      "steps": [
+        "In the grating equation n lambda = d sin theta, d is the grating spacing.",
+        "The grating spacing is the distance between adjacent lines or slits.",
+        "The grating-screen distance (B) is not the spacing d.",
+        "Lines per metre (C) is the reciprocal of d, and the order of maximum (D) is n."
+      ]
+    },
+    {
+      "id": "3B-Q30",
+      "no": "Q30",
+      "marks": 1,
+      "topic": "Units in Grating Equation",
+      "keywords": [
+        "units",
+        "grating equation",
+        "dimensionless",
+        "order",
+        "angle",
+        "d",
+        "n = d sin theta"
+      ],
+      "question": "The grating equation n = d sin theta is given. Which quantity has no units? Options are A n, B (symbol missing), C d, D (symbol missing).",
+      "status": "pending",
+      "answer": "Pending: options B and D are missing their symbols in the text, so the correct letter cannot be confirmed (A, n, is dimensionless; C, d, has units of metres).",
+      "steps": []
+    },
+    {
+      "id": "3B-Q31",
+      "no": "Q31",
+      "marks": 1,
+      "topic": "Displacement Time Graph",
+      "keywords": [
+        "displacement time graph",
+        "period",
+        "wavelength",
+        "transverse",
+        "longitudinal",
+        "wave graph",
+        "not correct"
+      ],
+      "question": "A displacement-time graph for one point as a wave passes. Which statement is not correct? A period can be read; B wavelength can be read directly; C could be longitudinal; D could be transverse.",
+      "status": "ready",
+      "answer": "B - the wavelength cannot be read from a displacement-time graph; it gives the period.",
+      "steps": [
+        "A displacement-time graph shows how one point oscillates against time.",
+        "The period, the time for one cycle, is read directly from it (A is correct).",
+        "Wavelength needs a displacement-distance graph, so B is not correct.",
+        "Whether the wave is longitudinal or transverse cannot be decided from this graph, so C and D are both possible."
+      ]
+    },
+    {
+      "id": "3B-Q32",
+      "no": "Q32",
+      "marks": 1,
+      "topic": "Tension and String Length",
+      "keywords": [
+        "tension",
+        "string length",
+        "wave speed",
+        "mass",
+        "same velocity",
+        "twice the length",
+        "options"
+      ],
+      "question": "A string under tension T carries a wave. A second string has the same mass but twice the length and the same wave speed. What is its tension?",
+      "status": "pending",
+      "answer": "Pending: the answer options are missing from the text; derived result is T/2 (half the original tension).",
+      "steps": []
+    },
+    {
+      "id": "3B-Q33",
+      "no": "Q33",
+      "marks": 1,
+      "topic": "Stationary Wave Properties",
+      "keywords": [
+        "stationary wave",
+        "nodes",
+        "antinodes",
+        "phase",
+        "wavelength",
+        "energy transfer",
+        "adjacent nodes",
+        "not correct"
+      ],
+      "question": "Which statement about stationary waves is not correct? A points between adjacent nodes are in phase; B antinodes have maximum amplitude; C adjacent nodes are one wavelength apart; D no net energy transfer.",
+      "status": "ready",
+      "answer": "C - adjacent nodes are half a wavelength apart, not one wavelength.",
+      "steps": [
+        "Adjacent nodes are separated by lambda / 2.",
+        "All points between two adjacent nodes move in phase (A is correct).",
+        "Antinodes are the points of maximum amplitude (B is correct).",
+        "A stationary wave transfers no net energy (D is correct), so C is the incorrect statement."
+      ]
+    },
+    {
+      "id": "3B-Q34",
+      "no": "Q34",
+      "marks": 1,
+      "topic": "Diffraction Definition",
+      "keywords": [
+        "diffraction",
+        "spreading",
+        "waves",
+        "object",
+        "gap",
+        "reflection",
+        "refraction",
+        "interference"
+      ],
+      "question": "Waves spread out as they pass an object. Which process is this? A diffraction; B interference; C reflection; D refraction.",
+      "status": "ready",
+      "answer": "A - diffraction.",
+      "steps": [
+        "Waves spreading out after passing an object or gap is diffraction.",
+        "Interference is superposition of waves, not spreading.",
+        "Reflection is bouncing back off a surface.",
+        "Refraction is a change of direction on a change of speed."
+      ]
+    },
+    {
+      "id": "3B-Q35",
+      "no": "Q35",
+      "marks": 1,
+      "topic": "Phase Difference from Path",
+      "keywords": [
+        "phase difference",
+        "path difference",
+        "wavelength 12 cm",
+        "in phase",
+        "source",
+        "point X",
+        "radians"
+      ],
+      "question": "Two waves of wavelength 12 cm leave a source in phase and have path difference 18 cm at X. What is the phase difference at X? (Option list missing.)",
+      "status": "pending",
+      "answer": "Pending: the answer options are missing from the text; derived phase difference is 3 pi rad (540 deg).",
+      "steps": []
+    },
+    {
+      "id": "3B-Q36",
+      "no": "Q36",
+      "marks": 1,
+      "topic": "Grating Maxima Separation",
+      "keywords": [
+        "diffraction grating",
+        "central maximum",
+        "first order",
+        "screen",
+        "lines per millimetre",
+        "wavelength",
+        "decrease distance"
+      ],
+      "question": "Laser light on a grating gives maxima on a screen. Which change decreases the distance between the central maximum and the first order? A decrease laser-grating distance; B increase grating-screen distance; C more lines per mm; D smaller wavelength.",
+      "status": "ready",
+      "answer": "D - using light of smaller wavelength decreases the separation.",
+      "steps": [
+        "The separation of maxima on the screen is x = lambda D / d.",
+        "The laser-grating distance does not appear in the equation (A has no effect).",
+        "Increasing D increases x (B is wrong), and more lines per mm reduces d so increases x (C is wrong).",
+        "A smaller wavelength lambda reduces x, so D is correct."
+      ]
+    },
+    {
+      "id": "3B-Q37a",
+      "no": "Q37(a)",
+      "marks": 3,
+      "topic": "Standing Waves on a Cable",
+      "keywords": [
+        "standing wave",
+        "cable",
+        "fixed ends",
+        "nodes",
+        "superposition",
+        "reflection",
+        "wavelength",
+        "wind"
+      ],
+      "question": "Explain how a standing wave can form on a cable fixed at both ends, driven by wind.",
+      "status": "ready",
+      "answer": "Waves reflect at the fixed ends and the incident and reflected waves superpose; when the length is a whole number of half wavelengths, nodes form at the ends and antinodes between.",
+      "steps": [
+        "Wind makes the cable vibrate, sending transverse waves along it.",
+        "The waves reflect at both fixed ends, so waves travel in both directions.",
+        "Incident and reflected waves of the same frequency and amplitude superpose.",
+        "Where they are always in antiphase there are nodes; where they are in phase there are antinodes.",
+        "A standing wave forms when the cable length is a whole number of half wavelengths."
+      ]
+    },
+    {
+      "id": "3B-Q37b",
+      "no": "Q37(b)",
+      "marks": 3,
+      "topic": "Points on Standing Wave",
+      "keywords": [
+        "standing wave",
+        "points X and Y",
+        "phase difference",
+        "nodes",
+        "antinodes",
+        "wavelength",
+        "cable",
+        "diagram"
+      ],
+      "question": "A standing wave on a cable fixed at both ends, with two points X and Y marked on the diagram. Answer the part about X and Y.",
+      "status": "pending",
+      "answer": "Pending: the question wording for part (b) and the diagram showing points X and Y are not fully in the text.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q37c(i)",
+      "no": "Q37(c)(i)",
+      "marks": 2,
+      "topic": "Mass Per Unit Length",
+      "keywords": [
+        "mass per unit length",
+        "cable",
+        "mass",
+        "length",
+        "kg m-1",
+        "calculation",
+        "suspending cable",
+        "24 kg per m"
+      ],
+      "question": "A suspending cable has mass 2.10 x 10^3 kg and length 87.0 m. Show that the mass per unit length is about 24 kg m-1.",
+      "status": "ready",
+      "answer": "mu = 2.10 x 10^3 kg / 87.0 m = 24.1 kg m-1, which is about 24 kg m-1.",
+      "steps": [
+        "Mass per unit length mu = total mass / length.",
+        "mu = 2.10 x 10^3 kg / 87.0 m.",
+        "mu = 24.1 kg m-1, which rounds to about 24 kg m-1 as required.",
+        "Check the units: kg divided by m gives kg m-1, as required."
+      ]
+    },
+    {
+      "id": "3B-Q37c(ii)",
+      "no": "Q37(c)(ii)",
+      "marks": 6,
+      "topic": "Cable Frequency Check",
+      "keywords": [
+        "suspending cable",
+        "tension",
+        "wave speed",
+        "fundamental frequency",
+        "humming",
+        "280 Hz",
+        "mass per unit length",
+        "bridge"
+      ],
+      "question": "Lowest humming frequency is 280 Hz. Road mass 140 x 10^6 kg is supported equally by 500 cables of lengths 3.5 m to 160 m, mu = 24 kg m-1. Deduce whether the lowest-frequency standing waves on the cables could produce the hum.",
+      "status": "ready",
+      "answer": "No. The lowest (fundamental) frequencies of the cables lie between about 1 Hz and 48 Hz, so none can give 280 Hz.",
+      "steps": [
+        "Tension in each cable: T = (140 x 10^6 kg / 500) x 9.81 = 2.75 x 10^6 N.",
+        "Wave speed on each cable: v = sqrt(T / mu) = sqrt(2.75 x 10^6 / 24) = 338 m s-1.",
+        "The lowest standing wave on a cable fixed at both ends has f = v / (2L).",
+        "Longest cable (160 m): f = 338 / 320 = 1.06 Hz; shortest cable (3.5 m): f = 338 / 7.0 = 48.3 Hz.",
+        "So the lowest frequencies of all the cables lie between about 1 Hz and 48 Hz.",
+        "280 Hz is outside this range, so the lowest-frequency standing waves cannot produce the hum."
+      ]
+    },
+    {
+      "id": "3B-Q38a",
+      "no": "Q38(a)",
+      "marks": 1,
+      "topic": "Transverse Wave Definition",
+      "keywords": [
+        "transverse wave",
+        "oscillation",
+        "perpendicular",
+        "direction of energy transfer",
+        "light",
+        "definition"
+      ],
+      "question": "State what is meant by a transverse wave.",
+      "status": "ready",
+      "answer": "A wave in which the oscillations are perpendicular to the direction of energy transfer.",
+      "steps": [
+        "In a transverse wave the particles or fields oscillate.",
+        "The oscillations are at right angles to the direction in which the wave transfers energy.",
+        "Light is transverse because its electric and magnetic fields oscillate perpendicular to its direction of travel.",
+        "Unlike a longitudinal wave, the oscillations are not along the direction of travel."
+      ]
+    },
+    {
+      "id": "3B-Q38b",
+      "no": "Q38(b)",
+      "marks": 3,
+      "topic": "Constructive Interference in Hologram",
+      "keywords": [
+        "constructive interference",
+        "coherent",
+        "path difference",
+        "phase",
+        "photographic film",
+        "beam splitter",
+        "laser",
+        "hologram"
+      ],
+      "question": "A laser beam is split into two paths that reach a photographic film. Explain how light from the two paths could cause constructive interference.",
+      "status": "ready",
+      "answer": "The two beams are coherent (from one laser); where their path difference is a whole number of wavelengths they arrive in phase and reinforce.",
+      "steps": [
+        "The beam splitter divides one laser beam, so the two beams are coherent with a constant phase difference.",
+        "At points on the film where the path lengths differ by a whole number of wavelengths, the waves are in phase.",
+        "In-phase waves superpose constructively, so the amplitude and intensity increase there.",
+        "These bright regions are recorded on the film, forming the interference pattern."
+      ]
+    },
+    {
+      "id": "3B-Q39a",
+      "no": "Q39(a)",
+      "marks": 3,
+      "topic": "Frequency from Oscilloscope",
+      "keywords": [
+        "oscilloscope",
+        "frequency",
+        "time base",
+        "period",
+        "1.5 ms per division",
+        "sound wave",
+        "microphone",
+        "panpipes"
+      ],
+      "question": "Oscilloscope trace of a pipe sound with time base 1 division = 1.5 ms. Calculate the frequency.",
+      "status": "pending",
+      "answer": "Pending: the oscilloscope trace (number of divisions per cycle) is in the missing photograph.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q39b",
+      "no": "Q39(b)",
+      "marks": 3,
+      "topic": "Harmonics in a Pipe",
+      "keywords": [
+        "harmonics",
+        "pipe",
+        "stationary wave",
+        "frequency ratio",
+        "nodes",
+        "antinodes",
+        "closed pipe",
+        "wave 1 wave 2"
+      ],
+      "question": "Wave 1 and wave 2 in the same pipe (open top, closed bottom) are shown with nodes and antinodes. Explain how the frequency of wave 1 compares with wave 2.",
+      "status": "pending",
+      "answer": "Pending: the node and antinode diagrams for wave 1 and wave 2 are missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q39c",
+      "no": "Q39(c)",
+      "marks": 2,
+      "topic": "Speed of Sound from Graph",
+      "keywords": [
+        "speed of sound",
+        "graph",
+        "wavelength",
+        "frequency",
+        "gradient",
+        "stationary wave",
+        "pipe",
+        "plotted"
+      ],
+      "question": "The student plotted frequency and wavelength of sound from different pipes. Determine a value for the speed of sound from the graph.",
+      "status": "pending",
+      "answer": "Pending: the graph values are missing from the text; speed equals the gradient of frequency against 1 / wavelength.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q39d",
+      "no": "Q39(d)",
+      "marks": 3,
+      "topic": "Pipe Resonance Frequency",
+      "keywords": [
+        "pipe",
+        "closed end",
+        "open end",
+        "fundamental frequency",
+        "quarter wavelength",
+        "speed of sound 340",
+        "longest pipe",
+        "28.2 cm"
+      ],
+      "question": "Speed of sound is 340 m s-1. The stationary wave in the longest pipe (length 28.2 cm, open at top, closed at bottom) is produced. Determine its frequency.",
+      "status": "ready",
+      "answer": "Frequency = 301 Hz (simplest mode, lambda = 4L).",
+      "steps": [
+        "The pipe is closed at one end and open at the other, so the simplest stationary wave has a node at the closed end and an antinode at the open end.",
+        "This is a quarter wavelength in the pipe: L = lambda / 4, so lambda = 4 L = 4 x 0.282 = 1.128 m.",
+        "f = v / lambda = 340 / 1.128 = 301 Hz.",
+        "This assumes the simplest (fundamental) mode, as the question describes the simplest stationary wave in the longest pipe."
+      ]
+    },
+    {
+      "id": "3B-Q40a",
+      "no": "Q40(a)",
+      "marks": 1,
+      "topic": "Laser Safety Precaution",
+      "keywords": [
+        "laser safety",
+        "eye protection",
+        "diffraction grating",
+        "laser beam",
+        "precaution",
+        "do not look",
+        "eyes"
+      ],
+      "question": "Give one safety precaution for the laser diffraction grating experiment.",
+      "status": "ready",
+      "answer": "Do not look directly into the laser beam or its reflections (use eye protection and keep the beam away from eyes).",
+      "steps": [
+        "Laser light is intense and concentrated, and can damage the retina.",
+        "Never look directly into the beam or at reflections from shiny surfaces.",
+        "Keep the beam at a height away from people's eyes and use eye protection where appropriate.",
+        "Laser safety rules apply even though the beam is low power."
+      ]
+    },
+    {
+      "id": "3B-Q40b",
+      "no": "Q40(b)",
+      "marks": 2,
+      "topic": "Measurements for Wavelength",
+      "keywords": [
+        "measurements",
+        "wavelength",
+        "grating",
+        "screen distance",
+        "first order",
+        "distance between maxima",
+        "laser",
+        "250 lines per mm"
+      ],
+      "question": "State what measurements the student should make to determine the wavelength of the laser light.",
+      "status": "ready",
+      "answer": "The grating-to-screen distance L and the distance x from the central maximum to the first order maximum.",
+      "steps": [
+        "Use lambda = d x / L, from the grating equation for small angles.",
+        "Measure the grating-to-screen distance L with a metre rule.",
+        "Measure the distance x from the central maximum to the first order maximum on the screen.",
+        "Use d = 1 / 250 mm, the known grating spacing, to find lambda."
+      ]
+    },
+    {
+      "id": "3B-Q40c(i)",
+      "no": "Q40(c)(i)",
+      "marks": 4,
+      "topic": "Wavelength from First Order Angle",
+      "keywords": [
+        "wavelength",
+        "first order",
+        "18 deg",
+        "250 lines per mm",
+        "grating equation",
+        "600 nm",
+        "sin theta",
+        "two maxima"
+      ],
+      "question": "Two first order maxima are 18 deg apart with a grating of 250 lines per mm. Show that the wavelength is about 600 nm.",
+      "status": "ready",
+      "answer": "lambda = d sin theta = 4.0 x 10^-6 m x sin 9.0 deg = 6.3 x 10^-7 m (626 nm), about 600 nm.",
+      "steps": [
+        "Grating spacing d = 1 / 250 mm = 4.0 x 10^-3 mm = 4.0 x 10^-6 m.",
+        "The two first order maxima are symmetric about the centre, so each is at theta = 18 / 2 = 9.0 deg.",
+        "Grating equation for first order: lambda = d sin theta = 4.0 x 10^-6 x sin 9.0 deg.",
+        "sin 9.0 deg = 0.1564, so lambda = 6.26 x 10^-7 m = 626 nm, which rounds to about 600 nm."
+      ]
+    },
+    {
+      "id": "3B-Q40c(ii)",
+      "no": "Q40(c)(ii)",
+      "marks": 2,
+      "topic": "Greatest Order of Maximum",
+      "keywords": [
+        "greatest order",
+        "maximum",
+        "grating",
+        "sin theta at most 1",
+        "wavelength",
+        "order number",
+        "grating spacing"
+      ],
+      "question": "Using the same grating and laser, determine the greatest order of maximum the student could observe.",
+      "status": "ready",
+      "answer": "n = 6.",
+      "steps": [
+        "The largest possible angle has sin theta = 1, so n lambda / d must be at most 1.",
+        "n is at most d / lambda = 4.0 x 10^-6 / 6.26 x 10^-7 = 6.4.",
+        "The greatest whole-number order is n = 6 (check: sin theta = 6 x 626 / 4000 = 0.94, which is valid).",
+        "A seventh order would need sin theta above 1, so it cannot be seen."
+      ]
+    },
+    {
+      "id": "3B-Q41a",
+      "no": "Q41(a)",
+      "marks": 2,
+      "topic": "Dispersion of Violet Light",
+      "keywords": [
+        "dispersion",
+        "diffraction grating",
+        "violet",
+        "shorter wavelength",
+        "angle of diffraction",
+        "white light",
+        "spectrum"
+      ],
+      "question": "In a white light spectrum from a grating, explain why violet light is closest to the central maximum.",
+      "status": "ready",
+      "answer": "Violet has the shortest wavelength, so for a given order its diffraction angle (sin theta = n lambda / d) is the smallest.",
+      "steps": [
+        "For a given order n, sin theta = n lambda / d.",
+        "Violet light has the shortest wavelength of visible light.",
+        "So sin theta, and therefore theta, is smallest for violet.",
+        "Violet is therefore closest to the central maximum."
+      ]
+    },
+    {
+      "id": "3B-Q41b",
+      "no": "Q41(b)",
+      "marks": 2,
+      "topic": "Wavelength of Violet Light",
+      "keywords": [
+        "violet light",
+        "wavelength",
+        "line spacing",
+        "1.62 x 10^-6 m",
+        "grating",
+        "diffraction angle",
+        "calculation"
+      ],
+      "question": "The grating has line spacing 1.62 x 10^-6 m. Calculate the wavelength of the violet light.",
+      "status": "pending",
+      "answer": "Pending: the diffraction angle of the violet light is needed and is shown only on the missing diagram.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q42a",
+      "no": "Q42(a)",
+      "marks": 2,
+      "topic": "Huygens Construction Wavefront",
+      "keywords": [
+        "Huygens construction",
+        "wavefronts",
+        "secondary wavelets",
+        "envelope",
+        "diffraction",
+        "harbour",
+        "gap"
+      ],
+      "question": "Describe how Huygens construction can be used to predict the shape of diffracted wavefronts.",
+      "status": "ready",
+      "answer": "Treat each point on the incoming wavefront at the gap as a source of circular wavelets; the common tangent (envelope) of these wavelets is the new wavefront.",
+      "steps": [
+        "Mark a series of points along the incoming wavefront at the gap.",
+        "From each point draw a circle (wavelet) whose radius is the wave speed times the time interval.",
+        "Draw the envelope, the common tangent to all the wavelets; this is the new wavefront.",
+        "For a narrow gap the new wavefronts beyond it are approximately semicircular."
+      ]
+    },
+    {
+      "id": "3B-Q42b",
+      "no": "Q42(b)",
+      "marks": 6,
+      "topic": "Harbour Wave Amplitudes",
+      "keywords": [
+        "harbour",
+        "wavelength",
+        "boats",
+        "amplitude",
+        "positions A and B",
+        "interference",
+        "diffraction",
+        "path difference"
+      ],
+      "question": "Waves arrive parallel to the harbour wall through two gaps, with varying wavelength. Explain why the boat at A always oscillates strongly and the boat at B oscillates strongly or very weakly depending on wavelength.",
+      "status": "pending",
+      "answer": "Pending: positions A and B relative to the two gaps are shown only on the missing harbour diagram.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q43",
+      "no": "Q43",
+      "marks": 1,
+      "topic": "Wave Speed on Longer String",
+      "keywords": [
+        "wave speed",
+        "string",
+        "tension",
+        "twice the length",
+        "same material",
+        "diameter",
+        "expression"
+      ],
+      "question": "String of length l, tension T, speed v. A string of length 2l, same diameter and material, has tension 2T. Which expression gives the wave speed on it? (Options missing.)",
+      "status": "pending",
+      "answer": "Pending: the answer options are missing from the text; derived speed is sqrt(2) v.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q44a",
+      "no": "Q44(a)",
+      "marks": 1,
+      "topic": "Transverse Wave Definition",
+      "keywords": [
+        "transverse wave",
+        "harp",
+        "oscillation",
+        "perpendicular",
+        "energy transfer",
+        "string",
+        "definition"
+      ],
+      "question": "State what is meant by a transverse wave, for waves travelling along a harp string.",
+      "status": "ready",
+      "answer": "A wave in which the oscillations are perpendicular to the direction of energy transfer.",
+      "steps": [
+        "In a transverse wave the string moves up and down or side to side.",
+        "The motion is at right angles to the direction the wave carries energy along the string.",
+        "This is what distinguishes a transverse wave from a longitudinal one.",
+        "Example: each point on the string moves up and down while the wave travels along the string."
+      ]
+    },
+    {
+      "id": "3B-Q44b",
+      "no": "Q44(b)",
+      "marks": 2,
+      "topic": "Fundamental Standing Wave",
+      "keywords": [
+        "fundamental",
+        "standing wave",
+        "harp string",
+        "nodes",
+        "antinode",
+        "lowest frequency",
+        "fixed ends"
+      ],
+      "question": "A harp string fixed at both ends vibrates at its lowest frequency. Describe the stationary wave to be added to the diagram, labelling nodes and antinodes.",
+      "status": "ready",
+      "answer": "A single loop: nodes at both fixed ends and one antinode at the centre of the string.",
+      "steps": [
+        "Both fixed ends must be nodes, since the string cannot move there.",
+        "The lowest frequency has the longest wavelength, so the string length equals lambda / 2.",
+        "This gives one antinode in the centre between the two nodes.",
+        "Mark a node at each fixed end and one antinode at the centre."
+      ]
+    },
+    {
+      "id": "3B-Q44c",
+      "no": "Q44(c)",
+      "marks": 4,
+      "topic": "Choosing Replacement Harp String",
+      "keywords": [
+        "replacement string",
+        "mass per unit length",
+        "wave speed",
+        "tension 41 N",
+        "frequency 196 Hz",
+        "wavelength 0.72 m",
+        "harp string"
+      ],
+      "question": "String produces 196 Hz with wavelength 0.72 m under tension 41 N. Deduce which new string (A, B, C or D, of given masses for 1.5 m) should replace it, cut to the same length.",
+      "status": "pending",
+      "answer": "Pending: the mass table for strings A to D is missing from the text. Required mass per unit length is about 2.06 x 10^-3 kg m-1, but the cut length is not stated in the text.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q45a",
+      "no": "Q45(a)",
+      "marks": 1,
+      "topic": "Coherence Definition",
+      "keywords": [
+        "coherent",
+        "coherence",
+        "phase difference",
+        "same frequency",
+        "laser",
+        "definition",
+        "waves"
+      ],
+      "question": "Light from a laser is coherent. State what is meant by coherent.",
+      "status": "ready",
+      "answer": "Waves have the same frequency (wavelength) and a constant phase difference between them.",
+      "steps": [
+        "Coherent waves have the same frequency.",
+        "They also maintain a constant phase difference over time.",
+        "Only coherent waves produce stable interference patterns.",
+        "Because the laser light is coherent, the incident and reflected light can interfere."
+      ]
+    },
+    {
+      "id": "3B-Q45b",
+      "no": "Q45(b)",
+      "marks": 1,
+      "topic": "Standing Wave Formation Laser",
+      "keywords": [
+        "standing wave",
+        "incident wave",
+        "reflected wave",
+        "superposition",
+        "reflective surface",
+        "laser",
+        "nodes",
+        "antinodes"
+      ],
+      "question": "Laser light is incident at 90 deg on a reflective surface. State why a standing wave forms between the laser and the surface.",
+      "status": "ready",
+      "answer": "The incident and reflected waves have the same frequency and travel in opposite directions, so they superpose to form a standing wave.",
+      "steps": [
+        "Light travels from the laser to the surface and is reflected straight back along the same path.",
+        "The incident and reflected waves have the same frequency and travel in opposite directions.",
+        "They superpose, forming nodes and antinodes at fixed positions.",
+        "The reflected wave returns along the same path, so the two waves are exactly opposed in direction."
+      ]
+    },
+    {
+      "id": "3B-Q46a",
+      "no": "Q46(a)",
+      "marks": 6,
+      "topic": "Standing Waves in a Tube",
+      "keywords": [
+        "stationary wave",
+        "closed tube",
+        "tuning fork",
+        "resonance",
+        "node",
+        "antinode",
+        "incident and reflected",
+        "open end"
+      ],
+      "question": "Describe how a stationary wave is formed inside a tube closed at one end, with a vibrating tuning fork near the open end.",
+      "status": "ready",
+      "answer": "Sound from the fork travels into the tube, reflects at the closed end and superposes with the incident wave; resonance gives a stationary wave with a node at the closed end and an antinode at the open end.",
+      "steps": [
+        "The tuning fork produces longitudinal sound waves that enter the tube through the open end.",
+        "The waves travel down the tube and reflect at the closed end, where the air cannot move, so it is a displacement node.",
+        "Incident and reflected waves of the same frequency and amplitude superpose in opposite directions.",
+        "At the open end the air can move freely, so there is an antinode there.",
+        "The waves reinforce when the tube length is an odd number of quarter wavelengths: L = (2n - 1) lambda / 4.",
+        "At this resonant frequency the air column vibrates strongly in a stationary wave and the sound is loud."
+      ]
+    },
+    {
+      "id": "3B-Q46b(i)",
+      "no": "Q46(b)(i)",
+      "marks": 3,
+      "topic": "Tube Resonance Frequency",
+      "keywords": [
+        "closed tube",
+        "fundamental",
+        "quarter wavelength",
+        "speed of sound 340",
+        "frequency",
+        "20.4 cm",
+        "resonance"
+      ],
+      "question": "Tube length 20.4 cm gives the simplest stationary wave; speed of sound 340 m s-1. Calculate the frequency of the sound produced.",
+      "status": "ready",
+      "answer": "Frequency = 417 Hz.",
+      "steps": [
+        "The simplest stationary wave in a tube closed at one end has L = lambda / 4.",
+        "lambda = 4 L = 4 x 0.204 = 0.816 m.",
+        "f = v / lambda = 340 / 0.816 = 417 Hz.",
+        "Use consistent SI units, with L converted to metres (0.204 m)."
+      ]
+    },
+    {
+      "id": "3B-Q46b(ii)",
+      "no": "Q46(b)(ii)",
+      "marks": 2,
+      "topic": "End Correction",
+      "keywords": [
+        "end correction",
+        "open end",
+        "effective length",
+        "frequency",
+        "tube",
+        "antinode",
+        "lower frequency"
+      ],
+      "question": "The actual frequency of the tube sound is slightly less than the calculated value. Suggest why.",
+      "status": "ready",
+      "answer": "The antinode at the open end lies slightly outside the tube, so the effective length is longer than 20.4 cm, which lowers the frequency.",
+      "steps": [
+        "At the open end the antinode does not form exactly at the physical end of the tube.",
+        "The effective acoustic length of the air column is slightly longer than the physical length.",
+        "Using this longer length in f = v / (4L) gives a lower frequency than the calculated value.",
+        "This end correction makes the tube sound at a slightly lower pitch than calculated."
+      ]
+    },
+    {
+      "id": "3B-Q47a",
+      "no": "Q47(a)",
+      "marks": 1,
+      "topic": "Transverse Wave Definition",
+      "keywords": [
+        "transverse wave",
+        "light",
+        "oscillations",
+        "perpendicular",
+        "energy transfer",
+        "diffraction grating",
+        "definition"
+      ],
+      "question": "Light is a transverse wave. State what is meant by a transverse wave.",
+      "status": "ready",
+      "answer": "A wave whose oscillations are perpendicular to the direction of energy transfer.",
+      "steps": [
+        "In a transverse wave the oscillations are at right angles to the direction of travel.",
+        "Energy is transferred along the direction of travel of the wave.",
+        "Polarisation is possible only for transverse waves.",
+        "Light waves in a vacuum travel at 3.00 x 10^8 m s-1."
+      ]
+    },
+    {
+      "id": "3B-Q47b(i)",
+      "no": "Q47(b)(i)",
+      "marks": 4,
+      "topic": "Lines per mm Calculation",
+      "keywords": [
+        "diffraction grating",
+        "lines per mm",
+        "first order",
+        "650 nm",
+        "screen distance",
+        "grating spacing",
+        "calculation",
+        "0.22 m"
+      ],
+      "question": "Monochromatic light of wavelength 650 nm; screen distance L = 1.30 m; distance from central maximum to first order x = 0.22 m. Calculate the number of lines per mm on the grating.",
+      "status": "ready",
+      "answer": "About 257 lines per mm (d = 3.90 x 10^-6 m).",
+      "steps": [
+        "For the first order, d sin theta = lambda, with lambda = 650 x 10^-9 m.",
+        "From the geometry, tan theta = x / L = 0.22 / 1.30 = 0.169, so theta = 9.61 deg.",
+        "sin theta = 0.1669.",
+        "d = lambda / sin theta = 650 x 10^-9 / 0.1669 = 3.895 x 10^-6 m.",
+        "Lines per mm = 1 / (3.895 x 10^-3 mm) = 257 lines per mm."
+      ]
+    },
+    {
+      "id": "3B-Q47b(ii)",
+      "no": "Q47(b)(ii)",
+      "marks": 3,
+      "topic": "First Order Maximum Formation",
+      "keywords": [
+        "first order maximum",
+        "diffraction",
+        "path difference",
+        "constructive interference",
+        "grating",
+        "wavelength",
+        "in phase",
+        "coherent"
+      ],
+      "question": "Explain how a first order maximum is produced on the screen.",
+      "status": "ready",
+      "answer": "Light diffracts at each line; at the first order angle the path difference between neighbouring lines is one wavelength, so the waves are in phase and interfere constructively.",
+      "steps": [
+        "Each line of the grating diffracts the coherent laser light in many directions.",
+        "At the first order angle, the path difference between waves from adjacent lines is exactly one wavelength.",
+        "Waves from all the lines are therefore in phase at this angle and reinforce.",
+        "This gives a bright first order maximum where d sin theta = lambda."
+      ]
+    },
+    {
+      "id": "3B-Q48",
+      "no": "Q48",
+      "marks": 1,
+      "topic": "Phase Difference at Point Y",
+      "keywords": [
+        "phase difference",
+        "wavelength 2 m",
+        "path difference",
+        "point Y",
+        "source X",
+        "radians",
+        "in phase"
+      ],
+      "question": "Two waves of wavelength 2 m from source X start in phase and meet at Y after travelling different distances. What is the phase difference in radians? (Diagram and options missing.)",
+      "status": "pending",
+      "answer": "Pending: the path difference at Y is shown only on the missing diagram, and the answer options are missing.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q49",
+      "no": "Q49",
+      "marks": 1,
+      "topic": "Frequency of Vibrating String",
+      "keywords": [
+        "fundamental frequency",
+        "string length",
+        "tension",
+        "mass per unit length",
+        "frequency increase",
+        "plucked string",
+        "wave speed"
+      ],
+      "question": "A plucked string of frequency f in an apparatus. Which single change would increase f? A decrease length l; B decrease mass m; C increase cross-sectional area; D increase mass per unit length.",
+      "status": "ready",
+      "answer": "A - decreasing the length l increases the frequency.",
+      "steps": [
+        "The fundamental frequency of a string fixed at both ends is f = (1 / 2l) sqrt(T / mu).",
+        "Decreasing the length l increases f, so A is correct.",
+        "Decreasing the hanging mass m reduces the tension T and so reduces f (B is wrong).",
+        "Increasing the cross-sectional area or the mass per unit length mu reduces f (C and D are wrong)."
+      ]
+    },
+    {
+      "id": "3B-Q50",
+      "no": "Q50",
+      "marks": 1,
+      "topic": "Superposition of Pulses",
+      "keywords": [
+        "superposition",
+        "string",
+        "two waves",
+        "half wavelength",
+        "pulses",
+        "displacement",
+        "moving towards each other"
+      ],
+      "question": "Two waves of equal speed and wavelength move towards each other on a string. Which diagram shows the string after both waves have moved half a wavelength?",
+      "status": "pending",
+      "answer": "Pending: the answer options are diagrams that are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q51a",
+      "no": "Q51(a)",
+      "marks": 1,
+      "topic": "Labelling Nodes and Antinodes",
+      "keywords": [
+        "nodes",
+        "antinodes",
+        "standing wave",
+        "labelling",
+        "vibrating string",
+        "stationary wave diagram"
+      ],
+      "question": "Label each node N and each antinode A on the standing wave shown.",
+      "status": "pending",
+      "answer": "Pending: the standing wave diagram is missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q51b",
+      "no": "Q51(b)",
+      "marks": 3,
+      "topic": "Standing Wave Formation",
+      "keywords": [
+        "standing wave",
+        "incident wave",
+        "reflected wave",
+        "superposition",
+        "nodes",
+        "antinodes",
+        "string",
+        "vibration generator"
+      ],
+      "question": "Explain how a standing wave forms on the vibrating string.",
+      "status": "ready",
+      "answer": "Incident and reflected waves of equal frequency and amplitude travelling in opposite directions superpose; nodes are where they cancel and antinodes where they reinforce.",
+      "steps": [
+        "The vibration generator sends transverse waves along the string.",
+        "The waves reflect at the fixed support, so waves travel in both directions.",
+        "Incident and reflected waves of equal frequency and amplitude superpose.",
+        "Points where they are always in antiphase are nodes, with zero displacement; points in phase are antinodes, with maximum amplitude.",
+        "A standing wave forms when the string length is a whole number of half wavelengths."
+      ]
+    },
+    {
+      "id": "3B-Q51c(i)",
+      "no": "Q51(c)(i)",
+      "marks": 3,
+      "topic": "Straight Line f Squared Graph",
+      "keywords": [
+        "f squared against T",
+        "gradient",
+        "stationary wave",
+        "mass per unit length",
+        "straight line",
+        "tension",
+        "string length",
+        "proportional"
+      ],
+      "question": "Explain why the graph of f squared against T is a straight line with gradient 1 / (4 l^2 mu) (same mode and length l).",
+      "status": "ready",
+      "answer": "f^2 = (n^2 / 4 l^2 mu) T, so f^2 is directly proportional to T; the line passes through the origin and its gradient is n^2 / (4 l^2 mu), a constant for fixed mode, length and mu.",
+      "steps": [
+        "For the same shape of standing wave the mode n and length l are fixed.",
+        "Wave speed v = sqrt(T / mu), and v = f lambda with lambda = 2l / n.",
+        "So f = (n / 2l) sqrt(T / mu), and squaring gives f^2 = (n^2 / 4 l^2 mu) T.",
+        "Since l, mu and n are constant, f^2 is directly proportional to T, giving a straight line through the origin."
+      ]
+    },
+    {
+      "id": "3B-Q51c(ii)",
+      "no": "Q51(c)(ii)",
+      "marks": 3,
+      "topic": "Mass per Unit Length from Graph",
+      "keywords": [
+        "mass per unit length",
+        "gradient",
+        "graph",
+        "l = 0.85 m",
+        "f squared",
+        "tension",
+        "string"
+      ],
+      "question": "Using the student's graph of f squared against T with l = 0.85 m, determine the mass per unit length mu of the string.",
+      "status": "pending",
+      "answer": "Pending: the gradient read from the graph is needed and the graph is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "3B-Q52",
+      "no": "Q52",
+      "marks": 1,
+      "topic": "Stationary Wave Table",
+      "keywords": [
+        "stationary wave",
+        "amplitude",
+        "points P and Q",
+        "table",
+        "wave on string",
+        "phase",
+        "energy"
+      ],
+      "question": "A wave of amplitude A on a string with points P and Q. Which row of the table is correct for the stationary wave?",
+      "status": "pending",
+      "answer": "Pending: the table rows and the wave diagram are missing from the text.",
+      "steps": []
+    }
+  ]
+}

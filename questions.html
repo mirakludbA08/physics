@@ -11,20 +11,20 @@
 </head>
 <body class="bank" data-subject="physics">
     <header class="bank-top">
-        <a class="bank-logo" href="questions.html">IALqBank</a>
+        <a class="bank-logo" href="questions.html?s=physics">IALqBank</a>
         <nav class="subject-tabs" aria-label="Subjects">
-            <a class="subject-tab active" href="questions.html" data-subject="physics">Physics</a>
-            <span class="subject-tab soon" title="Coming soon">Chemistry</span>
-            <span class="subject-tab soon" title="Coming soon">Biology</span>
-            <span class="subject-tab soon" title="Coming soon">Maths</span>
+            <a class="subject-tab" href="questions.html?s=physics" data-subject="physics">Physics</a>
+            <a class="subject-tab" href="questions.html?s=chemistry" data-subject="chemistry">Chemistry</a>
+            <a class="subject-tab" href="questions.html?s=biology" data-subject="biology">Biology</a>
+            <a class="subject-tab" href="questions.html?s=maths" data-subject="maths">Maths</a>
         </nav>
         <button class="notes-toggle" type="button" aria-controls="notes-drawer" aria-expanded="false">Notes</button>
     </header>
 
     <main class="bank-main">
         <section class="bank-intro">
-            <h1>Physics question bank</h1>
-            <p>Past paper questions for Pearson Edexcel International AS and A Level Physics, grouped by paper. Answers stay hidden until you choose to reveal them, and each one opens into step-by-step working.</p>
+            <h1 id="subject-title">Question bank</h1>
+            <p id="subject-blurb">Past paper questions for Pearson Edexcel International A-level, grouped by paper. Answers stay hidden until you choose to reveal them, and each one opens into step-by-step working.</p>
         </section>
 
         <section class="search-panel" aria-label="Search questions">
@@ -46,7 +46,7 @@
     </aside>
     <div class="drawer-scrim" id="drawer-scrim" hidden></div>
 
-    <script src="js/data/physics.js"></script>
+    <script src="js/taxonomy.js"></script>
     <script src="js/bank.js"></script>
 </body>
 </html>

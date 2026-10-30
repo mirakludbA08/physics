@@ -13,11 +13,38 @@ body.bank {
   margin: 0;
 }
 
+/* Subject palettes. --accent-strong is used behind white text, so it stays
+   above the 4.5:1 contrast minimum. */
 body.bank[data-subject="physics"] {
   --accent: #007bff;
+  --accent-strong: #0056b3;
   --accent-deep: #002b80;
-  --accent-hover: #0044cc;
+  --accent-hover: #003f88;
   --accent-tint: #e7f1ff;
+}
+
+body.bank[data-subject="chemistry"] {
+  --accent: #0f9d7a;
+  --accent-strong: #0b6e55;
+  --accent-deep: #063f33;
+  --accent-hover: #084f40;
+  --accent-tint: #e3f6f0;
+}
+
+body.bank[data-subject="biology"] {
+  --accent: #3d9a3d;
+  --accent-strong: #2a6f2a;
+  --accent-deep: #173d17;
+  --accent-hover: #1f5a1f;
+  --accent-tint: #e9f5e9;
+}
+
+body.bank[data-subject="maths"] {
+  --accent: #7b4fd1;
+  --accent-strong: #5f32b0;
+  --accent-deep: #2e1a5c;
+  --accent-hover: #4a2490;
+  --accent-tint: #f0eaff;
 }
 
 .bank-top {
@@ -68,7 +95,7 @@ body.bank[data-subject="physics"] {
 }
 
 .notes-toggle {
-  background: var(--accent);
+  background: var(--accent-strong);
   color: #fff;
   border: 0;
   border-radius: 8px;
@@ -145,8 +172,8 @@ body.bank[data-subject="physics"] {
 }
 
 .filter-chip.active {
-  background: var(--accent);
-  border-color: var(--accent);
+  background: var(--accent-strong);
+  border-color: var(--accent-strong);
   color: #fff;
 }
 
@@ -165,14 +192,13 @@ body.bank[data-subject="physics"] {
 .paper-pdf {
   display: inline-block;
   margin-bottom: 12px;
-  color: var(--accent);
+  color: var(--accent-strong);
   font-size: 14px;
 }
 
 .q-card {
   background: #fff;
   border: 1px solid var(--card-line);
-  border-left: 5px solid var(--accent);
   border-radius: 12px;
   padding: 18px 20px;
   margin-bottom: 14px;
@@ -180,7 +206,7 @@ body.bank[data-subject="physics"] {
 }
 
 .q-card.pending {
-  border-left-color: #adb5bd;
+  background: #fafbfc;
 }
 
 .q-head {
@@ -223,8 +249,8 @@ body.bank[data-subject="physics"] {
 
 .reveal-btn {
   background: #fff;
-  color: var(--accent);
-  border: 1.5px solid var(--accent);
+  color: var(--accent-strong);
+  border: 1.5px solid var(--accent-strong);
   border-radius: 8px;
   padding: 8px 16px;
   font-size: 15px;
@@ -232,7 +258,7 @@ body.bank[data-subject="physics"] {
 }
 
 .reveal-btn:hover {
-  background: var(--accent);
+  background: var(--accent-strong);
   color: #fff;
 }
 
@@ -351,4 +377,108 @@ body.bank[data-subject="physics"] {
   .subject-tabs { order: 3; width: 100%; }
   .bank-main { padding: 20px 16px 50px; }
   .bank-intro h1 { font-size: 26px; }
+}
+
+/* ---------- Grouped topic panel: broad topics with a subtopic arrow ---------- */
+.filter-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 8px;
+  align-items: start;
+}
+
+.filter-row > .filter-chip {
+  justify-self: start;
+}
+
+.topic-group {
+  border: 1px solid #c7d2e3;
+  border-radius: 10px;
+  background: #fff;
+  overflow: hidden;
+}
+
+.topic-group.open {
+  grid-column: 1 / -1;
+}
+
+.topic-row {
+  display: flex;
+  align-items: stretch;
+}
+
+.topic-pick,
+.sub-chip {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  border: 0;
+  background: transparent;
+  padding: 9px 12px;
+  font-size: 14px;
+  color: #333;
+  text-align: left;
+  cursor: pointer;
+}
+
+.topic-pick:hover,
+.sub-chip:hover {
+  background: var(--accent-tint);
+}
+
+.topic-pick.active,
+.sub-chip.active {
+  background: var(--accent-strong);
+  color: #fff;
+}
+
+.topic-pick.active .topic-count,
+.sub-chip.active .topic-count {
+  background: rgba(255, 255, 255, 0.25);
+  color: #fff;
+}
+
+.topic-count {
+  flex: none;
+  font-size: 12px;
+  color: #5b6573;
+  background: #eef2f8;
+  border-radius: 999px;
+  padding: 2px 8px;
+}
+
+.topic-arrow {
+  flex: none;
+  width: 40px;
+  border: 0;
+  border-left: 1px solid #c7d2e3;
+  background: transparent;
+  color: var(--accent-strong);
+  font-size: 20px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.topic-arrow:hover {
+  background: var(--accent-tint);
+}
+
+.topic-group.open .topic-arrow {
+  transform: rotate(90deg);
+}
+
+.sub-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  border-top: 1px solid #c7d2e3;
+}
+
+.sub-chip {
+  border-top: 1px solid #eef2f8;
+}
+
+.topic-group.open .sub-list .sub-chip:nth-child(odd) {
+  border-right: 1px solid #eef2f8;
 }

@@ -1,0 +1,1132 @@
+{
+  "code": "5A",
+  "title": "Photosynthesis",
+  "unit": "AS (inferred from topic order; unit number not stated in source)",
+  "pdf": "papers/biology/05A-Photosynthesis.pdf",
+  "questions": [
+    {
+      "id": "5A-Q1a(i)",
+      "no": "Q1(a)(i)",
+      "marks": 1,
+      "topic": "Seaweed Pigment Colours",
+      "keywords": ["chloroplast pigments", "seaweed colour", "absorption spectrum", "chlorophyll", "carotenoid", "table"],
+      "question": "Which row of the table shows the colour of each of the three seaweeds?",
+      "status": "pending",
+      "answer": "Pending: the table of seaweed colours is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q1a(ii)",
+      "no": "Q1(a)(ii)",
+      "marks": 2,
+      "topic": "Pigment Role In LDR",
+      "keywords": ["chloroplast pigments", "light-dependent reactions", "absorb light", "excited electrons", "electron transport chain", "atp"],
+      "question": "Explain the role of chloroplast pigments in the light-dependent reactions of photosynthesis.",
+      "status": "ready",
+      "answer": "Pigments absorb light energy to excite electrons, which pass along the electron transport chain to make ATP and reduced NADP.",
+      "steps": [
+        "Chloroplast pigments absorb light energy at specific wavelengths.",
+        "This energy excites electrons to a higher energy level.",
+        "The electrons pass along an electron transport chain, releasing energy.",
+        "This energy makes ATP by chemiosmosis and reduces NADP."
+      ]
+    },
+    {
+      "id": "5A-Q1b(i)",
+      "no": "Q1(b)(i)",
+      "marks": 3,
+      "topic": "GALP To Protein",
+      "keywords": ["galp", "protein synthesis", "amino acids", "nitrate ions", "peptide bond", "ribosome", "calvin cycle"],
+      "question": "Describe how GALP, produced in chloroplasts, is converted into protein.",
+      "status": "ready",
+      "answer": "GALP is converted to intermediates such as pyruvate; nitrogen from nitrate is added to form amino acids, which are joined by peptide bonds at ribosomes.",
+      "steps": [
+        "GALP is made in the light-independent reactions in the stroma.",
+        "GALP is converted into intermediates such as pyruvate, which provide the carbon skeletons.",
+        "Nitrate ions from the soil are reduced to supply nitrogen, and the nitrogen is added to form amino acids.",
+        "Amino acids are joined by condensation to form peptide bonds at ribosomes, guided by mRNA."
+      ]
+    },
+    {
+      "id": "5A-Q1b(ii)",
+      "no": "Q1(b)(ii)",
+      "marks": 6,
+      "topic": "Seaweed As Food Source",
+      "keywords": ["seaweed", "food source", "protein", "nutrition", "sustainable", "economic", "table of compounds"],
+      "question": "Comment on the statement that these seaweeds are a healthy, environmentally friendly and economic food source, using the table and your own knowledge.",
+      "status": "pending",
+      "answer": "Pending: the table of compounds in the two seaweeds is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q2a(i)",
+      "no": "Q2(a)(i)",
+      "marks": 1,
+      "topic": "Energy Released By Photolysis",
+      "keywords": ["photolysis", "bond energy", "glucose", "photosynthesis equation", "calculation", "water", "kj"],
+      "question": "Using the photosynthesis equation and the bond energy table, calculate the energy released by photolysis to make one glucose molecule.",
+      "status": "pending",
+      "answer": "Pending: the bond energy table is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q2a(ii)",
+      "no": "Q2(a)(ii)",
+      "marks": 4,
+      "topic": "Light Energy To ATP",
+      "keywords": ["light energy", "atp", "chemiosmosis", "proton gradient", "atp synthase", "electron transport", "photophosphorylation"],
+      "question": "Explain how light energy is converted into chemical energy in the form of ATP.",
+      "status": "ready",
+      "answer": "Light excites chlorophyll electrons; energy from their transport pumps protons, and protons flowing through ATP synthase phosphorylate ADP to ATP.",
+      "steps": [
+        "Light is absorbed by chlorophyll in photosystems, exciting electrons.",
+        "The excited electrons pass along electron carriers, releasing energy at each step.",
+        "This energy pumps protons into the thylakoid space, creating a proton gradient.",
+        "Protons flow back through ATP synthase, and this drives phosphorylation of ADP to ATP (chemiosmosis)."
+      ]
+    },
+    {
+      "id": "5A-Q2b(i)",
+      "no": "Q2(b)(i)",
+      "marks": 1,
+      "topic": "Bond Energy Data",
+      "keywords": ["bond energy", "glucose", "energy needed", "table", "bonds formed", "calculation"],
+      "question": "State what other information is needed in the bond energy table for the energy of 9164 kJ to be calculated.",
+      "status": "pending",
+      "answer": "Pending: the bond energy table is not in the text, so the missing data cannot be identified.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q2b(ii)",
+      "no": "Q2(b)(ii)",
+      "marks": 1,
+      "topic": "Location Of Glucose Bond Formation",
+      "keywords": ["glucose", "bonds formed", "stroma", "chloroplast", "light-independent reactions", "calvin cycle"],
+      "question": "Where in the chloroplast are the bonds of glucose formed? A (missing from text), B matrix, C stroma, D thylakoid membrane.",
+      "status": "ready",
+      "answer": "C stroma.",
+      "steps": [
+        "Glucose is made by the light-independent reactions (Calvin cycle).",
+        "These reactions take place in the stroma, not the thylakoid membrane or the matrix (a mitochondrial part)."
+      ]
+    },
+    {
+      "id": "5A-Q2c(i)",
+      "no": "Q2(c)(i)",
+      "marks": 1,
+      "topic": "Peptide Bond Formation",
+      "keywords": ["amino acids", "peptide bond", "condensation", "hydrolysis", "table", "protein"],
+      "question": "Which row of the table describes how two amino acids join together?",
+      "status": "pending",
+      "answer": "Pending: the table of joining reactions is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q2c(ii)",
+      "no": "Q2(c)(ii)",
+      "marks": 2,
+      "topic": "Nitrogen For Amino Acids",
+      "keywords": ["amino acids", "glucose", "nitrogen", "nitrate ions", "carbon hydrogen oxygen", "protein synthesis"],
+      "question": "Explain why amino acids cannot be produced from glucose alone.",
+      "status": "ready",
+      "answer": "Glucose contains only carbon, hydrogen and oxygen, but amino acids also need nitrogen (and sulfur), so nitrate ions must be absorbed.",
+      "steps": [
+        "Glucose contains only carbon, hydrogen and oxygen.",
+        "Amino acids contain nitrogen, and some contain sulfur.",
+        "Plants therefore absorb nitrate ions from the soil to supply the nitrogen."
+      ]
+    },
+    {
+      "id": "5A-Q3a",
+      "no": "Q3(a)",
+      "marks": 1,
+      "topic": "Location Of LDR And LIR",
+      "keywords": ["light-dependent reactions", "light-independent reactions", "thylakoid", "stroma", "chloroplast", "table"],
+      "question": "Which row of the table shows where the light-dependent and light-independent reactions take place?",
+      "status": "pending",
+      "answer": "Pending: the table of locations is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q3b",
+      "no": "Q3(b)",
+      "marks": 3,
+      "topic": "Chloroplast Structures",
+      "keywords": ["chloroplast", "labelled diagram", "grana", "envelope", "starch grain", "dna", "ribosome"],
+      "question": "Draw three labelled features on the chloroplast outline, other than the stroma and thylakoid membranes.",
+      "status": "pending",
+      "answer": "Pending: this is a drawing task on a diagram that is not in the text (suitable labels include grana, envelope, starch grain, DNA and ribosomes).",
+      "steps": []
+    },
+    {
+      "id": "5A-Q3c",
+      "no": "Q3(c)",
+      "marks": 1,
+      "topic": "Least Absorbed Wavelength",
+      "keywords": ["absorption spectrum", "wavelength", "green light", "chloroplast", "520 nm", "least absorbed"],
+      "question": "Which wavelength of light is absorbed the least by chloroplasts? A 460 nm, B 520 nm, C 600 nm, D 680 nm.",
+      "status": "ready",
+      "answer": "B 520 nm (green light).",
+      "steps": [
+        "Chloroplast pigments absorb blue (around 460 nm) and red (around 680 nm) light strongly.",
+        "Green light (around 520 nm) is poorly absorbed and is mostly reflected.",
+        "So 520 nm is absorbed the least."
+      ]
+    },
+    {
+      "id": "5A-Q3d",
+      "no": "Q3(d)",
+      "marks": 1,
+      "topic": "Action Spectrum Definition",
+      "keywords": ["action spectrum", "rate of photosynthesis", "wavelength", "absorption spectrum", "definition"],
+      "question": "State what is meant by the term action spectrum.",
+      "status": "ready",
+      "answer": "A graph showing the rate of photosynthesis at each wavelength of light.",
+      "steps": [
+        "An action spectrum plots the rate of photosynthesis against wavelength.",
+        "It shows how effectively each wavelength drives photosynthesis.",
+        "This differs from an absorption spectrum, which shows light absorbed by pigments."
+      ]
+    },
+    {
+      "id": "5A-Q3e(i)",
+      "no": "Q3(e)(i)",
+      "marks": 1,
+      "topic": "Chromatography",
+      "keywords": ["chromatography", "pigment separation", "rf value", "solvent", "chloroplast pigments", "separation method"],
+      "question": "Which process can be used to separate chloroplast pigments? Options: A (missing from text), B dendrochronology, C osmosis, D PCR.",
+      "status": "ready",
+      "answer": "Chromatography (option A, which is cut off in the text; B, C and D are not pigment separation methods).",
+      "steps": [
+        "Pigments are separated by chromatography, where a solvent carries them over paper or a plate.",
+        "Pigments travel at different rates depending on their solubility and attraction to the paper.",
+        "Dendrochronology dates tree rings, osmosis moves water, and PCR amplifies DNA, so B to D are wrong."
+      ]
+    },
+    {
+      "id": "5A-Q3e(ii)",
+      "no": "Q3(e)(ii)",
+      "marks": 1,
+      "topic": "Rf Value Of Pigment",
+      "keywords": ["rf value", "chromatogram", "pigment j", "solvent front", "distance", "calculation"],
+      "question": "What is the Rf value for chloroplast pigment J on the chromatogram? Options: A 0.625, B 0.800, C 0.830, D 1.714.",
+      "status": "pending",
+      "answer": "Pending: the distances travelled on the chromatogram are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q4a",
+      "no": "Q4(a)",
+      "marks": 3,
+      "topic": "Chloroplast Versus Mitochondrion",
+      "keywords": ["chloroplast", "mitochondrion", "structure", "double membrane", "thylakoid", "cristae", "compare"],
+      "question": "Compare and contrast the structure of a chloroplast with that of a mitochondrion.",
+      "status": "ready",
+      "answer": "Both have a double membrane, their own DNA and ribosomes; chloroplasts have thylakoids and stroma, mitochondria have cristae and matrix.",
+      "steps": [
+        "Both organelles have a double membrane and their own DNA and ribosomes.",
+        "Chloroplasts contain thylakoid membranes stacked as grana, with chlorophyll, and a stroma.",
+        "Mitochondria have an inner membrane folded into cristae, enclosing a matrix.",
+        "Chloroplasts carry out photosynthesis and mitochondria carry out aerobic respiration."
+      ]
+    },
+    {
+      "id": "5A-Q4b(i)",
+      "no": "Q4(b)(i)",
+      "marks": 3,
+      "topic": "Cyclic Photophosphorylation Diagram",
+      "keywords": ["cyclic photophosphorylation", "photosystem i", "electron transport chain", "atp synthase", "diagram", "labels"],
+      "question": "Complete the diagram of cyclic photophosphorylation by writing the correct words on the dotted lines labelled D, E, F, G and H.",
+      "status": "pending",
+      "answer": "Pending: the labelled cyclic photophosphorylation diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q4b(ii)",
+      "no": "Q4(b)(ii)",
+      "marks": 1,
+      "topic": "Non-cyclic Products",
+      "keywords": ["non-cyclic photophosphorylation", "cyclic photophosphorylation", "reduced nadp", "oxygen", "photolysis", "photosystem ii"],
+      "question": "Name one molecule produced in non-cyclic photophosphorylation that is not produced in cyclic photophosphorylation.",
+      "status": "ready",
+      "answer": "Reduced NADP (oxygen is also acceptable).",
+      "steps": [
+        "Non-cyclic photophosphorylation uses photosystem II, which splits water (photolysis).",
+        "This releases oxygen and produces reduced NADP.",
+        "Cyclic photophosphorylation only produces ATP."
+      ]
+    },
+    {
+      "id": "5A-Q4b(iii)",
+      "no": "Q4(b)(iii)",
+      "marks": 2,
+      "topic": "Role Of Photolysis",
+      "keywords": ["photolysis", "non-cyclic photophosphorylation", "electrons", "protons", "oxygen", "photosystem ii", "water"],
+      "question": "Describe the role of photolysis in non-cyclic photophosphorylation.",
+      "status": "ready",
+      "answer": "Photolysis splits water to give electrons to replace those lost by photosystem II, protons for the gradient, and oxygen as a by-product.",
+      "steps": [
+        "Light energy splits water into protons, electrons and oxygen.",
+        "The electrons replace those lost from photosystem II, keeping electron flow going.",
+        "The protons add to the proton gradient used to make ATP.",
+        "Oxygen is released as a by-product."
+      ]
+    },
+    {
+      "id": "5A-Q5a",
+      "no": "Q5(a)",
+      "marks": 2,
+      "topic": "Meaning Of Biodiversity",
+      "keywords": ["biodiversity", "definition", "species diversity", "genetic diversity", "ecosystem diversity", "variety of life"],
+      "question": "State the meaning of the term biodiversity.",
+      "status": "ready",
+      "answer": "The variety of living organisms, including the number of species, their genetic variation and the ecosystems they live in.",
+      "steps": [
+        "Biodiversity is the variety of life in an area.",
+        "It includes species diversity (number and types of species).",
+        "It also includes genetic diversity and ecosystem diversity."
+      ]
+    },
+    {
+      "id": "5A-Q5b",
+      "no": "Q5(b)",
+      "marks": 2,
+      "topic": "Chlorophyll In LDR",
+      "keywords": ["chlorophyll", "light-dependent reactions", "absorb light", "excite electrons", "atp", "reduced nadp"],
+      "question": "Explain the role of chlorophyll in the light-dependent reactions of photosynthesis.",
+      "status": "ready",
+      "answer": "Chlorophyll absorbs light energy to excite electrons, which drive the production of ATP and reduced NADP.",
+      "steps": [
+        "Chlorophyll absorbs light energy, mainly in the blue and red regions.",
+        "The absorbed energy excites electrons in chlorophyll to a higher energy level.",
+        "These electrons pass along an electron transport chain.",
+        "The energy released is used to make ATP and reduced NADP."
+      ]
+    },
+    {
+      "id": "5A-Q5c(i)",
+      "no": "Q5(c)(i)",
+      "marks": 6,
+      "topic": "Effectiveness Of Extraction Solvents",
+      "keywords": ["propanone", "dmso", "extraction", "chlorophyll", "seaweed species", "identification", "graphs"],
+      "question": "Discuss the effectiveness of the two solvents, propanone and DMSO, in extracting pigments for identifying these seaweed species, using the graphs.",
+      "status": "pending",
+      "answer": "Pending: the graphs of pigment concentrations for the two solvents are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q5c(ii)",
+      "no": "Q5(c)(ii)",
+      "marks": 2,
+      "topic": "Solvent Choice And Yield",
+      "keywords": ["solvent", "propanone", "dmso", "polarity", "chlorophyll concentration", "extraction", "solubility"],
+      "question": "Suggest why different concentrations of chlorophyll were obtained using the two solvents.",
+      "status": "ready",
+      "answer": "The solvents differ in polarity and solubility for chlorophyll, so each extracts a different amount of pigment from the same mass of seaweed.",
+      "steps": [
+        "Extraction works by the solvent dissolving pigments out of the cells.",
+        "Propanone and DMSO have different polarities and so dissolve chlorophyll to different extents.",
+        "The solvent that dissolves more chlorophyll gives a higher measured concentration."
+      ]
+    },
+    {
+      "id": "5A-Q6a(i)",
+      "no": "Q6(a)(i)",
+      "marks": 2,
+      "topic": "Light Energy Into ATP",
+      "keywords": ["light energy", "atp", "photoexcitation", "electron transport chain", "chemiosmosis", "phosphorylation", "proton gradient"],
+      "question": "Explain why light energy is converted into energy stored in ATP in the light-dependent reactions.",
+      "status": "ready",
+      "answer": "Light excites chlorophyll electrons; their transport releases energy that pumps protons, and protons flowing through ATP synthase phosphorylate ADP.",
+      "steps": [
+        "Light is absorbed by chlorophyll, exciting electrons.",
+        "The excited electrons move along electron carriers, releasing energy in steps.",
+        "This energy pumps protons across the thylakoid membrane, creating a gradient.",
+        "Protons flowing through ATP synthase drive the phosphorylation of ADP (chemiosmosis)."
+      ]
+    },
+    {
+      "id": "5A-Q6a(ii)",
+      "no": "Q6(a)(ii)",
+      "marks": 2,
+      "topic": "ATP Production And Breakdown Equation",
+      "keywords": ["atp", "adp", "inorganic phosphate", "phosphorylation", "hydrolysis", "condensation", "equation"],
+      "question": "Complete the equation for the production and breakdown of ATP by naming the substrates and the type of reaction on the dotted lines.",
+      "status": "ready",
+      "answer": "ADP + inorganic phosphate (Pi) -> ATP (phosphorylation, a condensation reaction); ATP + water -> ADP + Pi (hydrolysis).",
+      "steps": [
+        "ATP is made from ADP and inorganic phosphate (Pi) by phosphorylation.",
+        "Making ATP removes water, so it is a condensation reaction.",
+        "Breaking ATP back to ADP and Pi adds water, so it is a hydrolysis reaction that releases energy."
+      ]
+    },
+    {
+      "id": "5A-Q6a(iii)",
+      "no": "Q6(a)(iii)",
+      "marks": 3,
+      "topic": "Role Of Light In LDR",
+      "keywords": ["light energy", "light-dependent reactions", "photolysis", "electrons", "atp", "reduced nadp", "chlorophyll"],
+      "question": "Explain the role of light energy in the light-dependent reactions.",
+      "status": "ready",
+      "answer": "Light excites electrons in chlorophyll, splits water to supply electrons and protons, and its energy drives ATP and reduced NADP production.",
+      "steps": [
+        "Light is absorbed by chlorophyll in photosystems, exciting electrons.",
+        "Light energy splits water (photolysis), giving electrons, protons and oxygen.",
+        "Electron transport releases energy that pumps protons, and ATP is made by chemiosmosis.",
+        "The electrons reduce NADP, providing reduced NADP for the Calvin cycle."
+      ]
+    },
+    {
+      "id": "5A-Q6b(i)",
+      "no": "Q6(b)(i)",
+      "marks": 1,
+      "topic": "Products Used In LIR",
+      "keywords": ["light-independent reactions", "atp", "reduced nadp", "products", "table", "calvin cycle"],
+      "question": "Which row of the table shows the products of the light-dependent reactions that are used in the light-independent reactions?",
+      "status": "pending",
+      "answer": "Pending: the table of products is not in the text (the answer should be ATP and reduced NADP).",
+      "steps": []
+    },
+    {
+      "id": "5A-Q6b(ii)",
+      "no": "Q6(b)(ii)",
+      "marks": 2,
+      "topic": "Origin Of Elements In Sugar",
+      "keywords": ["simple sugars", "carbon dioxide", "water", "carbon", "hydrogen", "oxygen", "photolysis"],
+      "question": "Simple sugars have the formula CnH2nOn. Name the inorganic molecule from which each of the C, H and O in a simple sugar originated.",
+      "status": "ready",
+      "answer": "C from carbon dioxide; H from water; O from carbon dioxide and water.",
+      "steps": [
+        "Carbon in sugars is fixed from carbon dioxide by RuBisCO.",
+        "Hydrogen comes from water, split by photolysis to give reduced NADP.",
+        "Oxygen comes from carbon dioxide and from water."
+      ]
+    },
+    {
+      "id": "5A-Q6b(iii)",
+      "no": "Q6(b)(iii)",
+      "marks": 3,
+      "topic": "Inorganic Ions For Biomolecules",
+      "keywords": ["inorganic ions", "nitrate", "magnesium", "phosphate", "sulfate", "biological molecules", "table"],
+      "question": "Which row of the table shows the inorganic ions needed to synthesise new biological molecules from simple sugars?",
+      "status": "pending",
+      "answer": "Pending: the table of inorganic ions is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q7a(i)",
+      "no": "Q7(a)(i)",
+      "marks": 2,
+      "topic": "Action Spectrum Graph",
+      "keywords": ["action spectrum", "absorption spectrum", "chlorophyll a", "chlorophyll b", "graph", "wavelength"],
+      "question": "Draw the action spectrum for this plant on the axes below, using the absorption spectra of the two pigments.",
+      "status": "pending",
+      "answer": "Pending: this is a drawing task on axes and absorption graphs that are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q7a(ii)",
+      "no": "Q7(a)(ii)",
+      "marks": 1,
+      "topic": "Ratio Of Pigment Absorption",
+      "keywords": ["chlorophyll b", "chlorophyll a", "absorption", "ratio", "maximum absorption", "graph"],
+      "question": "Calculate how many times greater the percentage of light absorbed by chlorophyll b is than that absorbed by chlorophyll a, at their maximum absorptions.",
+      "status": "pending",
+      "answer": "Pending: the maximum absorption values are read from the graph, which is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q7a(iii)",
+      "no": "Q7(a)(iii)",
+      "marks": 2,
+      "topic": "Advantage Of Multiple Pigments",
+      "keywords": ["chlorophyll types", "absorption range", "wavelengths", "light capture", "photosynthesis rate"],
+      "question": "Explain the advantage to a plant of having different types of chlorophyll pigment in its thylakoid membranes.",
+      "status": "ready",
+      "answer": "Different pigments absorb different wavelengths, so a wider range of light is absorbed and more light energy drives photosynthesis.",
+      "steps": [
+        "Chlorophyll a and chlorophyll b absorb different wavelengths of light.",
+        "Having both widens the range of wavelengths the plant can use.",
+        "More light energy is absorbed, so more ATP and reduced NADP are made."
+      ]
+    },
+    {
+      "id": "5A-Q7b(i)",
+      "no": "Q7(b)(i)",
+      "marks": 1,
+      "topic": "Peptide Bonds",
+      "keywords": ["peptide bond", "amino acids", "protein", "condensation", "table", "bonds"],
+      "question": "Which row of the table describes the bonds that form between amino acids in a protein?",
+      "status": "pending",
+      "answer": "Pending: the table of bonds is not in the text (the answer is peptide bonds formed by condensation).",
+      "steps": []
+    },
+    {
+      "id": "5A-Q7b(ii)",
+      "no": "Q7(b)(ii)",
+      "marks": 2,
+      "topic": "Amino Acid Synthesis In Plants",
+      "keywords": ["amino acids", "nitrate", "gp", "galp", "transamination", "nitrogen", "light-independent reactions"],
+      "question": "Describe how plants synthesise amino acids from the products of the light-independent reactions.",
+      "status": "ready",
+      "answer": "GALP is converted into carbon skeletons such as pyruvate, and nitrogen from nitrate (reduced to ammonia) is added to form amino acids.",
+      "steps": [
+        "GALP from the light-independent reactions is converted into intermediates such as pyruvate.",
+        "Nitrate ions from the soil are reduced to ammonium ions, which supply nitrogen.",
+        "The nitrogen is added to the carbon skeletons (transamination) to form amino acids."
+      ]
+    },
+    {
+      "id": "5A-Q8a",
+      "no": "Q8(a)",
+      "marks": 1,
+      "topic": "LDR And LIR Locations",
+      "keywords": ["light-dependent reactions", "light-independent reactions", "thylakoid", "stroma", "table", "chloroplast"],
+      "question": "Which row of the table is correct for the light-dependent and light-independent reactions?",
+      "status": "pending",
+      "answer": "Pending: the table of locations is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q8b(i)",
+      "no": "Q8(b)(i)",
+      "marks": 3,
+      "topic": "Labelling Chloroplast Structures",
+      "keywords": ["chloroplast", "labelled diagram", "grana", "envelope", "starch", "dna", "ribosomes"],
+      "question": "Complete the diagram of part of a chloroplast to show three other labelled structures.",
+      "status": "pending",
+      "answer": "Pending: the partly labelled chloroplast diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q8b(ii)",
+      "no": "Q8(b)(ii)",
+      "marks": 4,
+      "topic": "Chloroplast Membranes Compared",
+      "keywords": ["outer membrane", "thylakoid membrane", "phospholipid bilayer", "proteins", "atp synthase", "photosystems", "envelope"],
+      "question": "Compare and contrast the structure of the outer membrane of a chloroplast with that of a thylakoid membrane.",
+      "status": "ready",
+      "answer": "Both are phospholipid bilayers with proteins; the outer envelope is a smooth boundary, whereas the thylakoid is folded into grana and holds photosystems and ATP synthase.",
+      "steps": [
+        "Both membranes are phospholipid bilayers containing proteins.",
+        "The outer envelope is a smooth double membrane that controls what enters and leaves the chloroplast.",
+        "The thylakoid membrane is folded into grana and contains chlorophyll, photosystems and ATP synthase.",
+        "The thylakoid membrane is the site of the light-dependent reactions, which the envelope is not."
+      ]
+    },
+    {
+      "id": "5A-Q9a(i)",
+      "no": "Q9(a)(i)",
+      "marks": 1,
+      "topic": "Location Of RuBisCO",
+      "keywords": ["rubisco", "stroma", "thylakoid", "chloroplast structures", "table", "location"],
+      "question": "Where in the chloroplast is RUBISCO active? Options refer to the table labels A P, B Q, C R, D S.",
+      "status": "pending",
+      "answer": "Pending: the table linking the letters P, Q, R and S to chloroplast structures is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q9a(ii)",
+      "no": "Q9(a)(ii)",
+      "marks": 1,
+      "topic": "Structure S Contents",
+      "keywords": ["starch", "glycerol", "chloroplast", "structure s", "table", "stored product"],
+      "question": "What is stored in structure S? Options: A GALP, B lipid, C starch, D sucrose.",
+      "status": "pending",
+      "answer": "Pending: the table identifying structure S is not in the text (the answer is likely C starch).",
+      "steps": []
+    },
+    {
+      "id": "5A-Q9a(iii)",
+      "no": "Q9(a)(iii)",
+      "marks": 1,
+      "topic": "Location Of GP Formation",
+      "keywords": ["glycerate 3-phosphate", "gp", "stroma", "calvin cycle", "table", "location"],
+      "question": "Where is GP (glycerate 3-phosphate) formed? Options refer to the table labels A P, B Q, C R, D S.",
+      "status": "pending",
+      "answer": "Pending: the table linking the letters to chloroplast structures is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q9a(iv)",
+      "no": "Q9(a)(iv)",
+      "marks": 1,
+      "topic": "Size Order Of Structures",
+      "keywords": ["size", "chloroplast structures", "order", "table", "smallest to largest"],
+      "question": "Which is the correct order of size, smallest to largest, for the structures P, R and S? Options: A PRS, B PSR, C RSP, D SRP.",
+      "status": "pending",
+      "answer": "Pending: the table of structure sizes is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q9b(i)",
+      "no": "Q9(b)(i)",
+      "marks": 1,
+      "topic": "Units Of Photosynthesis Rate",
+      "keywords": ["rate of photosynthesis", "units", "mg co2 used", "mm-2", "hr-1", "per area per time"],
+      "question": "Which could be the units for rate of photosynthesis? A mg CO2 produced mm^-2 hr^-1, B mg CO2 produced mm^-1 hr^-2, C mg CO2 used mm^-2 hr^-1, D mg CO2 used mm^-1 hr^-2.",
+      "status": "ready",
+      "answer": "C mg CO2 used mm^-2 hr^-1.",
+      "steps": [
+        "Photosynthesis uses CO2, so the rate is measured as CO2 used, not produced.",
+        "Rate is per unit area of leaf (mm^-2) and per unit time (hr^-1).",
+        "Option C has both correct features."
+      ]
+    },
+    {
+      "id": "5A-Q9b(ii)",
+      "no": "Q9(b)(ii)",
+      "marks": 3,
+      "topic": "Comparing Two Plant Species",
+      "keywords": ["spartina", "leucopoa", "rate of photosynthesis", "temperature", "comparison", "graph"],
+      "question": "Compare and contrast the rate of photosynthesis of Spartina and Leucopoa at different temperatures, using the graph.",
+      "status": "pending",
+      "answer": "Pending: the graph of photosynthesis rates for the two species is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q9b(iii)",
+      "no": "Q9(b)(iii)",
+      "marks": 2,
+      "topic": "Calculating Q10",
+      "keywords": ["q10", "temperature coefficient", "rate of photosynthesis", "graph", "calculation"],
+      "question": "Describe how a Q10 value for the rate of photosynthesis can be calculated using the graph.",
+      "status": "pending",
+      "answer": "Pending: the graph is needed to give the specific rates at the two temperatures.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q9b(iv)",
+      "no": "Q9(b)(iv)",
+      "marks": 3,
+      "topic": "Habitat Of Spartina",
+      "keywords": ["spartina", "maximum temperature", "wheatland", "pole mountain", "graph", "habitat", "photosynthesis"],
+      "question": "Explain in which of the two North American regions Spartina is most likely to grow, using both graphs.",
+      "status": "pending",
+      "answer": "Pending: the graphs of maximum temperatures and photosynthesis rates are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q10a",
+      "no": "Q10(a)",
+      "marks": 2,
+      "topic": "Importance Of Magnesium Ions",
+      "keywords": ["magnesium ions", "chlorophyll", "plant nutrition", "photosynthesis", "mineral ion"],
+      "question": "Explain the importance of magnesium ions to a plant.",
+      "status": "ready",
+      "answer": "Magnesium is a central component of chlorophyll, so without it light cannot be absorbed efficiently and photosynthesis is reduced.",
+      "steps": [
+        "Magnesium ions are the central atom of the chlorophyll molecule.",
+        "Without magnesium, chlorophyll cannot be made properly.",
+        "Less light is absorbed, so less ATP and reduced NADP are produced and photosynthesis falls."
+      ]
+    },
+    {
+      "id": "5A-Q10b",
+      "no": "Q10(b)",
+      "marks": 4,
+      "topic": "Active Transport Of Magnesium",
+      "keywords": ["active transport", "magnesium ions", "oxygen", "respiration", "atp", "uptake", "graph"],
+      "question": "Explain why the student concluded that magnesium ions are taken up by active transport, using the graph of uptake in the presence and absence of oxygen.",
+      "status": "pending",
+      "answer": "Pending: the graph of magnesium uptake with and without oxygen is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q11a(i)",
+      "no": "Q11(a)(i)",
+      "marks": 1,
+      "topic": "Bacterial Photosynthesis Genes",
+      "keywords": ["photosynthetic bacteria", "genes", "labelled structure", "nucleoid", "plasmid", "diagram"],
+      "question": "Which labelled structure in the photosynthetic bacterium contains the genes coding for the enzymes of photosynthesis? Options: A P, B Q, C R, D T.",
+      "status": "pending",
+      "answer": "Pending: the labelled bacterium diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q11a(ii)",
+      "no": "Q11(a)(ii)",
+      "marks": 1,
+      "topic": "LDR In Bacteria",
+      "keywords": ["bacteria", "light-dependent reactions", "location", "membrane", "diagram", "photosynthesis"],
+      "question": "Where do the light-dependent reactions take place in the photosynthetic bacterium? Options: A Q, B S, C T, D U.",
+      "status": "pending",
+      "answer": "Pending: the labelled bacterium diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q11a(iii)",
+      "no": "Q11(a)(iii)",
+      "marks": 1,
+      "topic": "LIR In Bacteria",
+      "keywords": ["bacteria", "light-independent reactions", "location", "cytoplasm", "diagram", "photosynthesis"],
+      "question": "Where do the light-independent reactions take place in the photosynthetic bacterium? Options: A Q, B S, C T, D U.",
+      "status": "pending",
+      "answer": "Pending: the labelled bacterium diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q11b",
+      "no": "Q11(b)",
+      "marks": 2,
+      "topic": "Absorption Spectra Differences",
+      "keywords": ["absorption spectrum", "bacterium", "plant", "pigments", "comparison", "wavelength"],
+      "question": "Describe two conclusions about the differences in absorption spectra of the plant and the bacterium.",
+      "status": "pending",
+      "answer": "Pending: the two absorption spectrum graphs are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q11c",
+      "no": "Q11(c)",
+      "marks": 3,
+      "topic": "Measuring Rf Value",
+      "keywords": ["rf value", "chromatogram", "baseline", "solvent front", "pigment spot", "chromatography", "calculation"],
+      "question": "Describe the measurements taken from a chromatogram and how they are used to calculate the Rf value for a pigment.",
+      "status": "ready",
+      "answer": "Measure the distance from the baseline to the centre of the pigment spot and to the solvent front; Rf = pigment distance / solvent front distance.",
+      "steps": [
+        "Draw a pencil baseline near the bottom of the chromatogram and mark the origin.",
+        "Measure the distance from the baseline to the centre of the pigment spot.",
+        "Measure the distance from the baseline to the solvent front.",
+        "Divide the pigment distance by the solvent front distance; Rf is a value between 0 and 1."
+      ]
+    },
+    {
+      "id": "5A-Q12a",
+      "no": "Q12(a)",
+      "marks": 1,
+      "topic": "Site Of Photolysis",
+      "keywords": ["photolysis", "chloroplast", "thylakoid", "diagram", "site", "water splitting"],
+      "question": "Which is the site of photolysis in the chloroplast diagram? Options: A P, B R, C T, D V.",
+      "status": "pending",
+      "answer": "Pending: the labelled chloroplast diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q12b",
+      "no": "Q12(b)",
+      "marks": 1,
+      "topic": "Gene For RuBisCO",
+      "keywords": ["rubisco", "gene", "chloroplast dna", "stroma", "diagram", "location"],
+      "question": "Which structure in the chloroplast diagram contains a gene coding for RUBISCO? Options: A P, B Q, C S, D V.",
+      "status": "pending",
+      "answer": "Pending: the labelled chloroplast diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q12c",
+      "no": "Q12(c)",
+      "marks": 1,
+      "topic": "Hydrogen Ion Accumulation",
+      "keywords": ["hydrogen ions", "protons", "thylakoid space", "chloroplast", "diagram", "atp"],
+      "question": "Where do hydrogen ions accumulate for use in photosynthesis? Options: A Q, B R, C S, D V.",
+      "status": "pending",
+      "answer": "Pending: the labelled chloroplast diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q12d(i)",
+      "no": "Q12(d)(i)",
+      "marks": 1,
+      "topic": "Phospholipid Structures",
+      "keywords": ["phospholipid", "membrane", "structures", "diagram", "count", "chloroplast"],
+      "question": "How many of the structures labelled P, T, U and W are made of phospholipids? Options: A 1, B 2, C 3, D 4.",
+      "status": "pending",
+      "answer": "Pending: the labelled diagram is not in the text, so the membranes cannot be counted.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q12d(ii)",
+      "no": "Q12(d)(ii)",
+      "marks": 1,
+      "topic": "Structure Of A Phospholipid",
+      "keywords": ["phospholipid", "glycerol", "fatty acids", "phosphate group", "membrane", "structure"],
+      "question": "Which describes a phospholipid? A glycerol attached to two fatty acids and one phosphate group, B glycerol attached to two fatty acids and two phosphate groups, C glycerol attached to three fatty acids and one phosphate group, D glycerol attached to three fatty acids and two phosphate groups.",
+      "status": "ready",
+      "answer": "A glycerol attached to two fatty acids and one phosphate group.",
+      "steps": [
+        "A phospholipid has a glycerol backbone with two fatty acid tails.",
+        "The third glycerol carbon carries one phosphate group, which makes the head polar.",
+        "Options B, C and D describe the wrong number of fatty acids or phosphates."
+      ]
+    },
+    {
+      "id": "5A-Q12e",
+      "no": "Q12(e)",
+      "marks": 2,
+      "topic": "Chloroplast Length From Ratio",
+      "keywords": ["ratio", "cell length", "chloroplast length", "calculation", "significant figures", "metres"],
+      "question": "A cell is 0.0085 cm long. Using the ratio of cell length to chloroplast length (garbled in the text), calculate the chloroplast length in metres to 2 significant figures.",
+      "status": "pending",
+      "answer": "Pending: the ratio is garbled in the text. If it is 17 : 1 (cell to chloroplast), the answer is 5.0 x 10^-6 m, but this must be checked against the original.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q13a",
+      "no": "Q13(a)",
+      "marks": 3,
+      "topic": "LDR Products In Calvin Cycle",
+      "keywords": ["calvin cycle", "atp", "reduced nadp", "gp", "galp", "light-dependent reactions", "carbon fixation"],
+      "question": "Explain the role of the products of the light-dependent reactions in the Calvin cycle.",
+      "status": "ready",
+      "answer": "ATP provides energy to convert GP into GALP, and reduced NADP supplies hydrogen to reduce GP to GALP.",
+      "steps": [
+        "CO2 is fixed onto RuBP by RuBisCO, forming GP.",
+        "ATP from the light-dependent reactions phosphorylates GP, giving it energy.",
+        "Reduced NADP supplies hydrogen to reduce this compound to GALP.",
+        "Some GALP regenerates RuBP so that the cycle continues."
+      ]
+    },
+    {
+      "id": "5A-Q13b(i)",
+      "no": "Q13(b)(i)",
+      "marks": 3,
+      "topic": "Rate Of Decrease In Carbon Fixation",
+      "keywords": ["net carbon fixation", "rate of decrease", "12 00 hours", "graph", "units", "gradient"],
+      "question": "Calculate the rate of decrease of net carbon fixation at 12 00 hours, including units.",
+      "status": "pending",
+      "answer": "Pending: the net carbon fixation graph is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q13b(ii)",
+      "no": "Q13(b)(ii)",
+      "marks": 3,
+      "topic": "Midday Decrease In Carbon Fixation",
+      "keywords": ["net carbon fixation", "stomata", "water loss", "midday", "carbon dioxide", "temperature", "transpiration"],
+      "question": "Suggest an explanation for the decrease in net carbon fixation between 12 00 and 13 00 hours.",
+      "status": "ready",
+      "answer": "At midday transpiration is high, so stomata partly close to save water, reducing CO2 entry and carbon fixation.",
+      "steps": [
+        "At midday, light and temperature are high, so transpiration is high.",
+        "To conserve water, guard cells close the stomata.",
+        "Less CO2 enters the leaf, so the Calvin cycle fixes less carbon.",
+        "Net carbon fixation therefore falls."
+      ]
+    },
+    {
+      "id": "5A-Q13b(iii)",
+      "no": "Q13(b)(iii)",
+      "marks": 3,
+      "topic": "Negative Net Carbon Fixation",
+      "keywords": ["net carbon fixation", "negative", "respiration", "night", "no light", "carbon dioxide release"],
+      "question": "Suggest why net carbon fixation was negative before 05 00 hours and after 19 00 hours.",
+      "status": "ready",
+      "answer": "There is no light, so photosynthesis stops, but respiration continues and releases CO2, giving a net loss.",
+      "steps": [
+        "Before dawn and after dusk there is no light for the light-dependent reactions.",
+        "Photosynthesis therefore stops or is negligible.",
+        "Respiration continues in all living cells and releases carbon dioxide.",
+        "The net carbon fixation is negative because more CO2 is released than fixed."
+      ]
+    },
+    {
+      "id": "5A-Q14a",
+      "no": "Q14(a)",
+      "marks": 3,
+      "topic": "Carbon Into Biomass",
+      "keywords": ["carbon dioxide", "biomass", "rubisco", "calvin cycle", "glucose", "cellulose", "starch"],
+      "question": "Describe how carbon becomes incorporated into plant biomass.",
+      "status": "ready",
+      "answer": "CO2 is fixed by RuBisCO onto RuBP, reduced to GALP and then glucose, which is built into starch, cellulose and other biomass.",
+      "steps": [
+        "CO2 diffuses into the leaf through stomata.",
+        "RuBisCO fixes CO2 onto RuBP, forming GP.",
+        "GP is reduced to GALP, which is converted to glucose.",
+        "Glucose is built into starch, cellulose and other organic molecules that make up biomass."
+      ]
+    },
+    {
+      "id": "5A-Q14b(i)",
+      "no": "Q14(b)(i)",
+      "marks": 2,
+      "topic": "Air Temperature And CO2 Effect",
+      "keywords": ["air temperature", "co2 fertilisation", "enzymes", "optimum temperature", "denaturation", "photosynthesis rate"],
+      "question": "Explain why air temperature affects the CO2 fertilisation effect.",
+      "status": "ready",
+      "answer": "Photosynthesis is enzyme-controlled, so rising temperature speeds it up until the optimum; above it, enzymes such as RuBisCO denature.",
+      "steps": [
+        "The CO2 fertilisation effect depends on how fast photosynthesis runs.",
+        "Photosynthesis is catalysed by enzymes, whose rate increases with temperature up to an optimum.",
+        "Above the optimum, enzymes denature, so the extra CO2 cannot be used."
+      ]
+    },
+    {
+      "id": "5A-Q14b(ii)",
+      "no": "Q14(b)(ii)",
+      "marks": 2,
+      "topic": "Soil Temperature And Roots",
+      "keywords": ["soil temperature", "roots", "mineral ions", "nitrate", "water uptake", "enzymes", "mycorrhizal"],
+      "question": "Suggest why soil temperature affects the CO2 fertilisation effect.",
+      "status": "ready",
+      "answer": "Soil temperature affects root enzyme activity and the uptake of water and mineral ions such as nitrate, which limits growth.",
+      "steps": [
+        "Roots absorb water and mineral ions (e.g. nitrate) from the soil.",
+        "Uptake depends on enzyme-controlled and active processes, which slow at low temperatures.",
+        "If uptake is limited, the plant cannot use the extra CO2 fully.",
+        "At very high soil temperatures, root enzymes may denature."
+      ]
+    },
+    {
+      "id": "5A-Q14c",
+      "no": "Q14(c)",
+      "marks": 3,
+      "topic": "Water Shortage And Stomata",
+      "keywords": ["water availability", "stomata", "co2 uptake", "photosynthesis", "guard cells", "turgor", "leaves"],
+      "question": "Explain why a lack of water in the leaves would decrease the CO2 fertilisation effect.",
+      "status": "ready",
+      "answer": "Low water makes guard cells lose turgor so stomata close, reducing CO2 entry and so limiting carbon fixation and biomass gain.",
+      "steps": [
+        "Lack of water reduces turgor in guard cells, so the stomata close.",
+        "Closed stomata stop CO2 diffusing into the leaf.",
+        "With less CO2, RuBisCO fixes less carbon, so photosynthesis is limited.",
+        "The extra CO2 cannot increase biomass as much."
+      ]
+    },
+    {
+      "id": "5A-Q14d",
+      "no": "Q14(d)",
+      "marks": 4,
+      "topic": "Mycorrhizal Fungi Results",
+      "keywords": ["mycorrhizal fungi", "ecm", "am", "nitrate", "biomass", "graph", "plant growth"],
+      "question": "Explain the results of the investigation into the effect of ECM and AM mycorrhizal fungi on plant biomass at low and high nitrate concentrations, using the graph.",
+      "status": "pending",
+      "answer": "Pending: the graph of biomass change for ECM and AM fungi is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q15a",
+      "no": "Q15(a)",
+      "marks": 3,
+      "topic": "Role Of Light In LDR",
+      "keywords": ["light", "light-dependent reactions", "photolysis", "excited electrons", "atp", "reduced nadp", "photosystems"],
+      "question": "Explain the role of light in the light-dependent reactions of photosynthesis.",
+      "status": "ready",
+      "answer": "Light excites chlorophyll electrons, splits water to replace them and supply protons, and its energy drives ATP and reduced NADP production.",
+      "steps": [
+        "Light is absorbed by chlorophyll in photosystems, exciting electrons.",
+        "Light splits water (photolysis), replacing the lost electrons and releasing protons and oxygen.",
+        "The excited electrons pass along electron carriers, releasing energy that pumps protons.",
+        "The proton gradient drives ATP synthesis, and the electrons reduce NADP."
+      ]
+    },
+    {
+      "id": "5A-Q15b(i)",
+      "no": "Q15(b)(i)",
+      "marks": 1,
+      "topic": "Positive Control Light",
+      "keywords": ["positive control", "sunlight", "wavelength", "thale cress", "photosynthesis", "control light"],
+      "question": "Which would be the most appropriate light to use as a positive control? A green, B mixture of green, blue and red light, C ultraviolet, D sunlight.",
+      "status": "ready",
+      "answer": "D sunlight.",
+      "steps": [
+        "A positive control should give the normal, expected response of photosynthesis.",
+        "Sunlight contains all the visible wavelengths that chlorophyll absorbs.",
+        "Single-colour green and ultraviolet light do not give the expected full response."
+      ]
+    },
+    {
+      "id": "5A-Q15b(ii)",
+      "no": "Q15(b)(ii)",
+      "marks": 4,
+      "topic": "Wavelength Effects On Photosynthesis",
+      "keywords": ["wavelength", "rate of photosynthesis", "leaf biomass", "thale cress", "blue light", "red light", "amber light"],
+      "question": "Explain the results shown in the graphs for the mean rate of photosynthesis and mean leaf biomass of thale cress under blue, amber and red light.",
+      "status": "pending",
+      "answer": "Pending: the graphs of rate of photosynthesis and leaf biomass are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q15b(iii)",
+      "no": "Q15(b)(iii)",
+      "marks": 3,
+      "topic": "Pigment Content Conclusions",
+      "keywords": ["pigment content", "chlorophyll", "carotenoids", "wavelength", "conclusions", "table", "thale cress"],
+      "question": "Describe three conclusions from the table of pigment content of the leaves under the different wavelengths.",
+      "status": "pending",
+      "answer": "Pending: the table of pigment content is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q15b(iv)",
+      "no": "Q15(b)(iv)",
+      "marks": 3,
+      "topic": "Genes Upregulated By Blue Light",
+      "keywords": ["transcription", "genes", "blue light", "rubisco", "light-harvesting proteins", "photosynthesis", "gene expression"],
+      "question": "Suggest two genes whose transcription could be increased by blue light, giving a reason for each.",
+      "status": "ready",
+      "answer": "Genes for the small subunit of RuBisCO and for light-harvesting chlorophyll a/b binding proteins, which code for proteins needed for photosynthesis.",
+      "steps": [
+        "The gene for the small subunit of RuBisCO codes for an enzyme needed for carbon fixation.",
+        "The gene for chlorophyll a/b binding proteins codes for light-harvesting proteins.",
+        "More transcription of these genes means more of these proteins are made, so photosynthesis increases."
+      ]
+    },
+    {
+      "id": "5A-Q16a(i)",
+      "no": "Q16(a)(i)",
+      "marks": 1,
+      "topic": "Location Of LDR And LIR",
+      "keywords": ["light-dependent reactions", "light-independent reactions", "chloroplast", "table", "location", "thylakoid", "stroma"],
+      "question": "Which row of the table shows where the light-dependent and light-independent reactions take place?",
+      "status": "pending",
+      "answer": "Pending: the table of locations is not in the text (the answer should be thylakoid membranes for LDR and stroma for LIR).",
+      "steps": []
+    },
+    {
+      "id": "5A-Q16a(ii)",
+      "no": "Q16(a)(ii)",
+      "marks": 1,
+      "topic": "Hydrogen Ion Accumulation Site",
+      "keywords": ["hydrogen ions", "protons", "thylakoid space", "chloroplast diagram", "accumulate", "gradient"],
+      "question": "Where do hydrogen ions (protons) accumulate in the chloroplast diagram? Options: A Q, B R, C S, D W.",
+      "status": "pending",
+      "answer": "Pending: the labelled chloroplast diagram is not in the text (protons accumulate in the thylakoid space).",
+      "steps": []
+    },
+    {
+      "id": "5A-Q16a(iii)",
+      "no": "Q16(a)(iii)",
+      "marks": 3,
+      "topic": "Surface Area Of Actual Chloroplast",
+      "keywords": ["surface area", "magnification", "chloroplast", "4 pi r squared", "scale", "calculation"],
+      "question": "The diagram is 16 000 times larger than an actual chloroplast. Calculate the surface area of the actual chloroplast using surface area = 4 pi r^2, given as a whole number in m^2.",
+      "status": "pending",
+      "answer": "Pending: the radius of the chloroplast in the diagram is not given in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q16a(iv)",
+      "no": "Q16(a)(iv)",
+      "marks": 2,
+      "topic": "Advantage Of Thylakoid Surface Area",
+      "keywords": ["thylakoid", "surface area", "photosystems", "light absorption", "atp", "reduced nadp", "grana"],
+      "question": "Explain the advantages of thylakoids in a chloroplast having a large surface area.",
+      "status": "ready",
+      "answer": "A large surface area holds more photosystems and ATP synthase, so more light is absorbed and more ATP and reduced NADP are made.",
+      "steps": [
+        "Thylakoids are stacked into grana, giving a large membrane surface area.",
+        "A large area holds many photosystems and chlorophyll molecules.",
+        "More light is absorbed at once, so more electron transport takes place.",
+        "More ATP and reduced NADP are made, so the light-dependent reactions are faster."
+      ]
+    },
+    {
+      "id": "5A-Q16b(i)",
+      "no": "Q16(b)(i)",
+      "marks": 1,
+      "topic": "ATP Generation Description",
+      "keywords": ["atp", "phosphorylation", "adp", "energy requiring", "hydrolysis", "light-dependent reactions"],
+      "question": "Which describes how ATP is generated in the light-dependent reactions? A hydrolysis of ADP releasing energy, B hydrolysis of ADP requiring energy, C phosphorylation of ADP releasing energy, D phosphorylation of ADP requiring energy.",
+      "status": "ready",
+      "answer": "D phosphorylation of ADP requiring energy.",
+      "steps": [
+        "ATP is made by adding a phosphate group to ADP, which is phosphorylation.",
+        "Adding a phosphate needs energy input, supplied by the proton gradient.",
+        "Hydrolysis breaks ATP down and releases energy, so A and B describe the wrong reaction."
+      ]
+    },
+    {
+      "id": "5A-Q16b(ii)",
+      "no": "Q16(b)(ii)",
+      "marks": 2,
+      "topic": "ATP To Reduced NADP Ratio",
+      "keywords": ["atp", "reduced nadp", "ratio", "glucose", "calvin cycle", "diagram", "calculation"],
+      "question": "Show how the ratio of ATP used to reduced NADP used (1.5 : 1) for one glucose molecule can be calculated from the diagram.",
+      "status": "pending",
+      "answer": "Pending: the diagram of the light-independent reactions showing the ATP and reduced NADP counts is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "5A-Q16b(iii)",
+      "no": "Q16(b)(iii)",
+      "marks": 2,
+      "topic": "Why Little GALP Makes Glucose",
+      "keywords": ["galp", "glucose", "calvin cycle", "rubp regeneration", "light-independent reactions", "organic molecules"],
+      "question": "Explain why only a small proportion of the GALP produced is used to make glucose.",
+      "status": "ready",
+      "answer": "Most GALP is used to regenerate RuBP so the Calvin cycle can continue, and some is used to make other organic molecules.",
+      "steps": [
+        "The Calvin cycle needs RuBP to keep fixing CO2.",
+        "Most GALP molecules are used to regenerate RuBP.",
+        "The rest of the GALP is used to make glucose, lipids, amino acids and other molecules."
+      ]
+    },
+    {
+      "id": "5A-Q17a(i)",
+      "no": "Q17(a)(i)",
+      "marks": 1,
+      "topic": "Location Of Chloroplast DNA",
+      "keywords": ["chloroplast dna", "stroma", "location", "circular dna", "ribosomes", "chloroplast"],
+      "question": "Where in the chloroplast is its DNA located? A intergranal membrane, B matrix, C stroma, D thylakoid space.",
+      "status": "ready",
+      "answer": "C stroma.",
+      "steps": [
+        "Chloroplast DNA is circular and lies free in the stroma.",
+        "The stroma also contains the ribosomes that use this DNA."
+      ]
+    },
+    {
+      "id": "5A-Q17a(ii)",
+      "no": "Q17(a)(ii)",
+      "marks": 1,
+      "topic": "Other Organelles With DNA",
+      "keywords": ["dna", "mitochondria", "nucleus", "organelles", "plant cell", "amyloplast"],
+      "question": "Which other structures in a plant cell contain DNA? A amyloplast and mitochondria, B mitochondria and nucleus, C nucleus and vacuole, D vacuole and amyloplast.",
+      "status": "ready",
+      "answer": "B mitochondria and nucleus.",
+      "steps": [
+        "The nucleus contains the main nuclear DNA.",
+        "Mitochondria also contain their own DNA.",
+        "Vacuoles do not contain DNA, so options A, C and D are wrong."
+      ]
+    },
+    {
+      "id": "5A-Q17b(i)",
+      "no": "Q17(b)(i)",
+      "marks": 1,
+      "topic": "Mean Template Strand Bases",
+      "keywords": ["template strand", "antisense", "base pairs", "mean", "coding regions", "chloroplast dna", "calculation"],
+      "question": "The DNA contains 150 000 base pairs in 105 regions that code for proteins. Which is the mean number of bases in the template (antisense) strand of one region? A 239, B 476, C 714, D 1429.",
+      "status": "ready",
+      "answer": "D 1429.",
+      "steps": [
+        "150 000 base pairs / 105 regions = 1428.6 base pairs per region.",
+        "Each base pair has one base on the template strand, so the template strand has about 1429 bases.",
+        "This matches option D."
+      ]
+    },
+    {
+      "id": "5A-Q17b(ii)",
+      "no": "Q17(b)(ii)",
+      "marks": 2,
+      "topic": "Extra Chloroplast DNA",
+      "keywords": ["chloroplast dna", "base pairs", "non-coding dna", "introns", "regulatory sequences", "promoters"],
+      "question": "Suggest two reasons why this DNA contains more than 150 000 base pairs.",
+      "status": "ready",
+      "answer": "It contains non-coding DNA (such as spacers or introns) and regulatory sequences such as promoters, as well as genes for RNA that do not code for protein.",
+      "steps": [
+        "Only the protein-coding regions are counted in the 150 000 base pairs.",
+        "Non-coding sequences such as spacers and introns add more base pairs.",
+        "Regulatory sequences such as promoters and genes for tRNA and rRNA also add base pairs."
+      ]
+    },
+    {
+      "id": "5A-Q17b(iii)",
+      "no": "Q17(b)(iii)",
+      "marks": 4,
+      "topic": "Roles Of Chloroplast Proteins",
+      "keywords": ["rna polymerase", "ribosomal protein", "rubisco", "atp synthase", "transcription", "translation", "calvin cycle", "chemiosmosis"],
+      "question": "Describe the roles of the proteins RNA polymerase, ribosomal protein, RUBISCO and ATP synthetase in the chloroplast.",
+      "status": "ready",
+      "answer": "RNA polymerase transcribes genes into mRNA; ribosomal protein forms part of the ribosome for translation; RUBISCO fixes CO2 onto RuBP; ATP synthase makes ATP by chemiosmosis.",
+      "steps": [
+        "RNA polymerase binds to a gene and synthesises mRNA by transcription.",
+        "Ribosomal proteins are part of ribosomes, where translation makes proteins.",
+        "RUBISCO catalyses the fixation of carbon dioxide onto RuBP in the Calvin cycle.",
+        "ATP synthase uses the proton gradient to phosphorylate ADP to ATP."
+      ]
+    }
+  ]
+}

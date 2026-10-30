@@ -89,6 +89,10 @@
     logo.href = href('index.html');
     nav.appendChild(logo);
 
+    const bankLink = el('a', 'bank-back', '← Question bank');
+    bankLink.href = new URL('questions.html?s=physics', ROOT).href;
+    nav.appendChild(bankLink);
+
     const homeList = el('ul', 'nav-links');
     const homeLi = el('li');
     const homeA = el('a', 'nav-link' + (here === 'index.html' ? ' active' : ''), 'Home');

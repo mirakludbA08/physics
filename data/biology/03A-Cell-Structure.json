@@ -1,0 +1,447 @@
+{
+  "code": "3A",
+  "title": "Cell structure",
+  "unit": "AS Unit 3",
+  "pdf": "papers/biology/03A-Cell-Structure.pdf",
+  "questions": [
+    {
+      "id": "3A-Q1a(i)",
+      "no": "Q1(a)(i)",
+      "marks": 1,
+      "topic": "Electron Microscope Organelle",
+      "keywords": ["electron microscope", "organelle", "pancreas", "centriole", "golgi apparatus", "rough endoplasmic reticulum", "smooth endoplasmic reticulum"],
+      "question": "Name the organelle seen with the electron microscope, from the four options A to D (centriole, Golgi apparatus, rough ER, smooth ER).",
+      "status": "pending",
+      "answer": "Missing: the description of the organelle seen in the photograph or diagram is not in the text, so the correct option cannot be chosen.",
+      "steps": []
+    },
+    {
+      "id": "3A-Q1a(ii)",
+      "no": "Q1(a)(ii)",
+      "marks": 2,
+      "topic": "Resolution Limit",
+      "keywords": ["light microscope", "resolution", "organelle", "wavelength", "electron microscope", "nanometres", "limit of resolution"],
+      "question": "Explain why this organelle cannot be seen using a light microscope.",
+      "status": "ready",
+      "answer": "It is smaller than the resolution limit of a light microscope (about 200 nm), so it cannot be resolved.",
+      "steps": [
+        "The organelle is a small structure, far below 1 micrometre in size.",
+        "The resolution of a light microscope is limited by the wavelength of visible light, about 200 nm.",
+        "Structures closer together than this appear as one blur, so the organelle cannot be seen as separate.",
+        "An electron microscope uses electrons with a much shorter wavelength, giving much higher resolution."
+      ]
+    },
+    {
+      "id": "3A-Q1a(iii)",
+      "no": "Q1(a)(iii)",
+      "marks": 2,
+      "topic": "Organ versus Tissue",
+      "keywords": ["organ", "tissue", "differences", "cell types", "organ system", "specialised cells"],
+      "question": "Give two differences between an organ and a tissue.",
+      "status": "ready",
+      "answer": "An organ contains several different tissues and carries out a complex function; a tissue is a group of similar cells doing one job.",
+      "steps": [
+        "A tissue is a group of similar cells that work together for one function, such as muscle tissue.",
+        "An organ is made of two or more different tissues that work together, such as the stomach.",
+        "So an organ has a more complex function than one tissue, because several tissue types contribute to it.",
+        "Organs are larger structures than tissues and usually form part of an organ system."
+      ]
+    },
+    {
+      "id": "3A-Q1b",
+      "no": "Q1(b)",
+      "marks": 2,
+      "topic": "Animal Cell Structures",
+      "keywords": ["animal cell", "plant cell", "centrioles", "lysosomes", "electron microscope", "structures", "organelles"],
+      "question": "Name two structures present in animal cells that are not present in plant cells.",
+      "status": "ready",
+      "answer": "Centrioles and lysosomes.",
+      "steps": [
+        "Plant cells have a cell wall, chloroplasts and a large permanent vacuole, which animal cells lack.",
+        "Cell surface membrane and mitochondria are present in both cell types, so they cannot be the answer.",
+        "Centrioles are non-membrane organelles that help organise the spindle during cell division.",
+        "Lysosomes are vesicles containing hydrolytic enzymes used to digest material inside the cell."
+      ]
+    },
+    {
+      "id": "3A-Q1c",
+      "no": "Q1(c)",
+      "marks": 4,
+      "topic": "Fluorescence Investigation",
+      "keywords": ["amino acids", "fluorescent marker", "secretion", "glycoproteins", "small intestine", "percentage fluorescence", "pancreas"],
+      "question": "Explain the results of an investigation in which pancreas cells were given fluorescently labelled amino acids, measuring green fluorescence inside and outside the cells at the start and after 60 minutes.",
+      "status": "pending",
+      "answer": "Missing: the results table with the percentage fluorescence values is not in the text, so the explanation cannot be checked against the data.",
+      "steps": []
+    },
+    {
+      "id": "3A-Q2a(i)",
+      "no": "Q2(a)(i)",
+      "marks": 1,
+      "topic": "Prokaryotic Cell Structure",
+      "keywords": ["prokaryotic cell", "plasmid", "bacteria", "diagram", "circular DNA", "labelled structure"],
+      "question": "From the labelled prokaryotic cell diagram (options AW, BX, CY, DZ), state which structure is a plasmid.",
+      "status": "pending",
+      "answer": "Missing: the labelled diagram of the prokaryotic cell is not in the text, so the letter cannot be matched to the plasmid.",
+      "steps": []
+    },
+    {
+      "id": "3A-Q2a(ii)",
+      "no": "Q2(a)(ii)",
+      "marks": 1,
+      "topic": "Conjugation Structure",
+      "keywords": ["prokaryotic cell", "conjugation", "pilus", "adhere", "bacteria", "labelled structure", "diagram"],
+      "question": "From the same prokaryotic cell diagram (options AV, BX, CY, DZ), state which labelled structure lets the cell adhere to other bacteria during conjugation.",
+      "status": "pending",
+      "answer": "Missing: the labelled diagram is not in the text; the structure is a pilus, but its letter cannot be confirmed.",
+      "steps": []
+    },
+    {
+      "id": "3A-Q2a(iii)",
+      "no": "Q2(a)(iii)",
+      "marks": 1,
+      "topic": "Prokaryotic Ribosomes",
+      "keywords": ["ribosomes", "prokaryotic", "eukaryotic", "70S", "80S", "smaller", "protein synthesis"],
+      "question": "State how ribosomes in prokaryotic cells differ from ribosomes in eukaryotic cells.",
+      "status": "ready",
+      "answer": "Prokaryotic ribosomes are smaller, 70S, whereas eukaryotic ribosomes are larger, 80S.",
+      "steps": [
+        "Ribosomes in both cell types carry out protein synthesis from mRNA.",
+        "Prokaryotic ribosomes are 70S, which is smaller and lighter than eukaryotic ribosomes.",
+        "Eukaryotic ribosomes are 80S and are larger, so they are a different size from the prokaryotic ones.",
+        "Ribosomes are not membrane-bound in either cell type."
+      ]
+    },
+    {
+      "id": "3A-Q2b",
+      "no": "Q2(b)",
+      "marks": 2,
+      "topic": "Capsule and Flagellum",
+      "keywords": ["capsule", "flagellum", "prokaryotic", "function", "protection", "movement", "bacteria"],
+      "question": "State one function each of a capsule and a flagellum in a prokaryotic cell.",
+      "status": "ready",
+      "answer": "Capsule: protects the cell (e.g. against drying out or engulfing by phagocytes). Flagellum: rotates to move the cell.",
+      "steps": [
+        "The capsule is a slimy outer layer made of polysaccharide, lying outside the cell wall.",
+        "It protects the bacterium, for example from drying out and from being engulfed by white blood cells.",
+        "The flagellum is a long, whip-like protein structure attached to the cell.",
+        "It rotates like a propeller so the bacterium can swim towards nutrients or away from harmful substances."
+      ]
+    },
+    {
+      "id": "3A-Q3a(i)",
+      "no": "Q3(a)(i)",
+      "marks": 1,
+      "topic": "Ribosome Production Site",
+      "keywords": ["beta cell", "pancreas", "ribosomes", "nucleolus", "electron micrograph", "labelled structure"],
+      "question": "From the labelled electron micrograph of a beta cell (options AP, BQ, CR, DS), state which structure produces ribosomes.",
+      "status": "pending",
+      "answer": "Missing: the labelled photograph is not in the text; the structure is the nucleolus, but its letter cannot be confirmed.",
+      "steps": []
+    },
+    {
+      "id": "3A-Q3a(ii)",
+      "no": "Q3(a)(ii)",
+      "marks": 2,
+      "topic": "Appearance of Organelles",
+      "keywords": ["structures T and U", "photograph", "organelle", "sectioning", "beta cell", "appearance", "electron micrograph"],
+      "question": "Suggest why the two structures labelled T and U, which are the same type of organelle, look different in the photograph.",
+      "status": "pending",
+      "answer": "Missing: the photograph with labels T and U is not in the text, so the difference in appearance cannot be explained from the image.",
+      "steps": []
+    },
+    {
+      "id": "3A-Q3a(iii)",
+      "no": "Q3(a)(iii)",
+      "marks": 2,
+      "topic": "Magnification Calculation",
+      "keywords": ["magnification", "image size", "actual size", "micrometres", "electron microscope", "U", "calculation"],
+      "question": "A structure U has an image length of 52 mm, and its actual length is 3.0 um (micrometres). Calculate the magnification of the image.",
+      "status": "ready",
+      "answer": "About 17 000 times (52 000 um / 3.0 um = 17 333).",
+      "steps": [
+        "Magnification = image size / actual size, using the same units for both.",
+        "The actual length is written as 3.0 m in the text, but the mu symbol is lost; for a cell structure it must be 3.0 um.",
+        "Convert the image size to micrometres: 52 mm x 1000 = 52 000 um.",
+        "Divide: 52 000 / 3.0 = 17 333, so the magnification is about 17 000 (1.7 x 10^4)."
+      ]
+    },
+    {
+      "id": "3A-Q3b",
+      "no": "Q3(b)",
+      "marks": 5,
+      "topic": "Insulin Transport and Secretion",
+      "keywords": ["insulin", "ribosomes", "rough endoplasmic reticulum", "golgi apparatus", "vesicles", "exocytosis", "beta cell", "secretion"],
+      "question": "Describe how insulin is transported from the ribosomes and then secreted by a beta cell.",
+      "status": "ready",
+      "answer": "Ribosomes on rough ER make the polypeptide into the ER; vesicles carry it to the Golgi, which modifies and packages it; vesicles move to the membrane and release insulin by exocytosis.",
+      "steps": [
+        "Ribosomes on the rough ER translate mRNA, and the new polypeptide chain enters the lumen of the rough ER.",
+        "The polypeptide folds into its shape inside the rough ER.",
+        "Transport vesicles bud off the rough ER and carry the protein to the Golgi apparatus.",
+        "The Golgi modifies the protein (for example by cleaving proinsulin) and packages it into secretory vesicles.",
+        "Secretory vesicles move along the cytoskeleton/microtubules to the cell surface membrane, using ATP from mitochondria.",
+        "The vesicle membrane fuses with the cell surface membrane and insulin is released by exocytosis."
+      ]
+    },
+    {
+      "id": "3A-Q3c",
+      "no": "Q3(c)",
+      "marks": 5,
+      "topic": "Differential Gene Expression",
+      "keywords": ["beta cells", "insulin", "gene expression", "differentiation", "transcription factors", "pancreas", "genome"],
+      "question": "Explain why beta cells can produce insulin but other cells in the pancreas do not.",
+      "status": "ready",
+      "answer": "All pancreas cells have the same genes, but only beta cells switch on the insulin gene (differential gene expression) during differentiation.",
+      "steps": [
+        "All cells in the pancreas have the same genome, so every cell has the insulin gene.",
+        "During differentiation, genes are switched on or off, so each cell type expresses only some of its genes.",
+        "Beta cells contain the transcription factors needed to switch on the insulin gene, so insulin mRNA is made.",
+        "Other pancreas cells lack these transcription factors or have the gene repressed, so no insulin is transcribed.",
+        "Each cell type therefore makes only the proteins needed for its specialised function, for example alpha cells make glucagon."
+      ]
+    },
+    {
+      "id": "3A-Q4a(i)",
+      "no": "Q4(a)(i)",
+      "marks": 4,
+      "topic": "Golgi Apparatus Diagram",
+      "keywords": ["golgi apparatus", "diagram", "cisternae", "vesicles", "cis face", "trans face", "labelled"],
+      "question": "Draw a labelled diagram of the Golgi apparatus.",
+      "status": "ready",
+      "answer": "Draw a stack of flattened, curved membrane sacs (cisternae) with vesicles budding off the edges; label cisternae, vesicles, cis face and trans face.",
+      "steps": [
+        "Draw a stack of several flattened, slightly curved membrane sacs called cisternae, with no ribosomes on them.",
+        "Draw small vesicles pinching off from the edges of the stack, especially on the cis (forming) face.",
+        "Label the cis face, which receives vesicles from the rough ER.",
+        "Label the trans face, which releases secretory vesicles to the cell surface membrane or lysosomes."
+      ]
+    },
+    {
+      "id": "3A-Q4a(ii)",
+      "no": "Q4(a)(ii)",
+      "marks": 1,
+      "topic": "Golgi Apparatus Functions",
+      "keywords": ["golgi apparatus", "functions", "extracellular enzymes", "protein modification", "peptide bonds", "condensation", "ribosomes"],
+      "question": "How many of three listed statements (formation of extracellular enzymes, modification of proteins, formation of peptide bonds by condensation) are functions of the Golgi apparatus? Options: A none, B one, C two, D three.",
+      "status": "ready",
+      "answer": "C (two).",
+      "steps": [
+        "Formation of extracellular enzymes is a Golgi function: it packages and secretes them in vesicles.",
+        "Modification of proteins is a Golgi function, such as adding carbohydrate or cleaving protein chains.",
+        "Peptide bonds form by condensation at ribosomes during translation, not in the Golgi.",
+        "Two of the three statements are Golgi functions, so the answer is C."
+      ]
+    },
+    {
+      "id": "3A-Q4a(iii)",
+      "no": "Q4(a)(iii)",
+      "marks": 1,
+      "topic": "Radioactive Amino Acid Tracing",
+      "keywords": ["radioactive", "amino acids", "protein synthesis", "ribosomes", "golgi apparatus", "centrioles", "lysosomes"],
+      "question": "A cell is supplied with radioactive amino acids, which it uses in protein synthesis. Which structure becomes radioactive first? Options: A centrioles, B Golgi apparatus, C lysosomes, D ribosomes.",
+      "status": "ready",
+      "answer": "D (ribosomes).",
+      "steps": [
+        "Protein synthesis begins when amino acids are joined into polypeptides at the ribosomes.",
+        "So the radioactive amino acids are incorporated into proteins at the ribosomes first.",
+        "The Golgi apparatus and lysosomes only receive the proteins later, after they have been made.",
+        "Centrioles are not involved in protein synthesis, so they are not labelled."
+      ]
+    },
+    {
+      "id": "3A-Q4b(i)",
+      "no": "Q4(b)(i)",
+      "marks": 1,
+      "topic": "Percentage Difference",
+      "keywords": ["percentage difference", "golgi diameter", "mammalian cell", "maize cell", "micrometres", "calculation"],
+      "question": "A mammalian Golgi apparatus has a diameter of 1.1 um, and the largest Golgi in a maize cell is 0.5 um. Calculate the percentage difference between these diameters.",
+      "status": "ready",
+      "answer": "About 120% (difference 0.6 um / 0.5 um x 100); against the mammalian value it would be 55%.",
+      "steps": [
+        "Difference = 1.1 - 0.5 = 0.6 um.",
+        "Express the difference as a percentage of the maize value (0.5 um), which is the convention used for this comparison.",
+        "0.6 / 0.5 = 1.2, so the percentage difference is 1.2 x 100 = 120%.",
+        "If the difference were expressed against 1.1 um instead, it would be 0.6 / 1.1 x 100 = 55%."
+      ]
+    },
+    {
+      "id": "3A-Q4b(ii)",
+      "no": "Q4(b)(ii)",
+      "marks": 1,
+      "topic": "Golgi Changes in Cell Cycle",
+      "keywords": ["cell cycle", "golgi apparatus", "interphase", "prophase", "anaphase", "telophase", "maize cell"],
+      "question": "In which stage of the cell cycle does the number and size of Golgi apparatus increase in a maize cell? Options: A anaphase, B interphase, C prophase, D telophase.",
+      "status": "ready",
+      "answer": "B (interphase).",
+      "steps": [
+        "In interphase the cell grows and makes large amounts of protein and membrane for growth.",
+        "Golgi apparatus must increase in number and size to process and package this extra protein.",
+        "Anaphase and prophase are stages of mitosis in which the Golgi are broken up and dispersed, not increased.",
+        "Telophase is when the Golgi are reformed after division, so interphase is the stage of increase."
+      ]
+    },
+    {
+      "id": "3A-Q4b(iii)",
+      "no": "Q4(b)(iii)",
+      "marks": 4,
+      "topic": "Golgi Changes Explained",
+      "keywords": ["golgi apparatus", "cell cycle", "interphase", "mitosis", "daughter cells", "protein secretion", "organelle duplication"],
+      "question": "Suggest why the number and size of Golgi apparatus change during the cell cycle.",
+      "status": "ready",
+      "answer": "In interphase more Golgi are needed for protein processing and growth; during mitosis they break up and are shared between daughter cells, then reform.",
+      "steps": [
+        "In interphase the cell grows and synthesises many proteins, so more Golgi are needed to modify and package them.",
+        "The Golgi grow in size and number by using vesicles from the rough ER to build new cisternae.",
+        "During prophase the Golgi break up into small vesicles dispersed through the cytoplasm.",
+        "This ensures each daughter cell receives a share of Golgi, and they reform after telophase to give working Golgi."
+      ]
+    },
+    {
+      "id": "3A-Q5a",
+      "no": "Q5(a)",
+      "marks": 2,
+      "topic": "Volume of a Sphere",
+      "keywords": ["liposome", "volume", "sphere", "diameter", "radius", "standard form", "nm3", "calculation"],
+      "question": "A spherical liposome has a diameter of 75 nm. Calculate its volume in nm^3, giving the answer in standard form.",
+      "status": "ready",
+      "answer": "2.2 x 10^5 nm^3 (V = 4/3 x pi x 37.5^3 = 220 893 nm^3).",
+      "steps": [
+        "The formula is not printed in the text, but the volume of a sphere is V = (4/3) x pi x r^3.",
+        "Radius = diameter / 2 = 75 / 2 = 37.5 nm.",
+        "Cube the radius: 37.5^3 = 52 734 nm^3.",
+        "V = 4/3 x 3.142 x 52 734 = 220 893 nm^3, which is 2.2 x 10^5 nm^3 to two significant figures."
+      ]
+    },
+    {
+      "id": "3A-Q5b",
+      "no": "Q5(b)",
+      "marks": 4,
+      "topic": "Pre-mRNA and Active mRNA",
+      "keywords": ["pre-mRNA", "mRNA", "post-transcriptional modification", "introns", "exons", "splicing", "5' cap", "poly-A tail"],
+      "question": "Compare and contrast the structures of pre-mRNA produced by transcription and active mRNA formed after post-transcriptional modification.",
+      "status": "ready",
+      "answer": "Both are single-stranded ribonucleotide chains; pre-mRNA contains introns that are removed by splicing, and active mRNA has a cap and poly-A tail.",
+      "steps": [
+        "Similarity: both are single-stranded polynucleotides made of ribose, phosphate and bases A, G, C and U.",
+        "Similarity: both are made by transcription, with the DNA template strand providing the sequence.",
+        "Difference: pre-mRNA contains introns (non-coding) as well as exons, whereas active mRNA contains only exons after splicing removes the introns.",
+        "Difference: active mRNA has a 5' cap and a poly-A tail added, which protect it and help it leave the nucleus and be translated."
+      ]
+    },
+    {
+      "id": "3A-Q6a",
+      "no": "Q6(a)",
+      "marks": 1,
+      "topic": "Stem Cell Potency",
+      "keywords": ["pluripotent", "stem cells", "extraembryonic", "red blood cells", "bone marrow", "potency", "differentiation"],
+      "question": "Which statement about pluripotent stem cells found in bone marrow is correct? Options: A all types of cell; B all types except extraembryonic cells; C some types of cell; D red blood cells only.",
+      "status": "ready",
+      "answer": "B.",
+      "steps": [
+        "Pluripotent stem cells can differentiate into almost all cell types of the body.",
+        "They cannot form extraembryonic tissues such as the placenta, so option A is wrong.",
+        "Option C is wrong because they can produce many types, not just some.",
+        "Option D is wrong because they can produce many cell types, not only red blood cells."
+      ]
+    },
+    {
+      "id": "3A-Q6b",
+      "no": "Q6(b)",
+      "marks": 3,
+      "topic": "Rough ER in Haemoglobin",
+      "keywords": ["rough endoplasmic reticulum", "haemoglobin", "polypeptide", "ribosomes", "protein synthesis", "golgi apparatus", "folding"],
+      "question": "Describe the role of the rough endoplasmic reticulum in the synthesis of haemoglobin, a protein with four polypeptides and haem groups.",
+      "status": "ready",
+      "answer": "Ribosomes on the rough ER make the globin polypeptides, which enter the ER lumen and fold, then are transported in vesicles to the Golgi.",
+      "steps": [
+        "Ribosomes attached to the rough ER translate the mRNA for each globin polypeptide.",
+        "The polypeptide enters the lumen of the rough ER, where it begins to fold into its correct shape.",
+        "Vesicles bud off the rough ER and carry the polypeptides to the Golgi apparatus for further processing.",
+        "The haem groups are not made of amino acids, so they are not synthesised on the rough ER."
+      ]
+    },
+    {
+      "id": "3A-Q6c(i)",
+      "no": "Q6(c)(i)",
+      "marks": 3,
+      "topic": "Globin Percentages Graph",
+      "keywords": ["fetal haemoglobin", "adult haemoglobin", "polypeptides", "percentage", "graph", "birth", "gamma", "beta"],
+      "question": "Describe the changes in the percentages of the polypeptides in red blood cells before and after birth, using the graph.",
+      "status": "pending",
+      "answer": "Missing: the graph of polypeptide percentages before and after birth is not in the text, so the changes cannot be read.",
+      "steps": []
+    },
+    {
+      "id": "3A-Q6c(ii)",
+      "no": "Q6(c)(ii)",
+      "marks": 4,
+      "topic": "Epigenetic Control of Globin",
+      "keywords": ["epigenetic", "methylation", "histone modification", "gene expression", "fetal haemoglobin", "gamma globin", "beta globin", "switching genes"],
+      "question": "Explain how epigenetic modification could result in the changes in globin polypeptide percentages seen before and after birth.",
+      "status": "ready",
+      "answer": "Epigenetic changes such as DNA methylation and histone modification switch off the fetal gamma-globin gene after birth and keep the adult beta-globin gene active, without changing the DNA base sequence.",
+      "steps": [
+        "Epigenetic modification changes gene expression without changing the DNA base sequence.",
+        "DNA methylation adds methyl groups to cytosine bases of the fetal gamma-globin gene, which blocks transcription.",
+        "Histone modifications pack the DNA tightly around histones, so transcription factors and RNA polymerase cannot reach the gene.",
+        "After birth, less gamma-globin mRNA is made, so the percentage of fetal-type polypeptide falls.",
+        "The beta-globin gene is not methylated and is transcribed, so the adult polypeptide percentage rises."
+      ]
+    },
+    {
+      "id": "3A-Q7a",
+      "no": "Q7(a)",
+      "marks": 1,
+      "topic": "Organ System Definition",
+      "keywords": ["organ system", "organs", "digestive system", "function", "tissues", "definition"],
+      "question": "State what is meant by the term organ system.",
+      "status": "ready",
+      "answer": "A group of organs that work together to carry out a particular function.",
+      "steps": [
+        "An organ is a structure made of several tissues that together perform a specific function.",
+        "An organ system is a group of organs working together for a larger, shared function.",
+        "For example, the digestive system includes the mouth, stomach, pancreas and intestines, which together digest food.",
+        "Organ systems allow the whole organism to carry out processes such as digestion or respiration."
+      ]
+    },
+    {
+      "id": "3A-Q7b(i)",
+      "no": "Q7(b)(i)",
+      "marks": 1,
+      "topic": "Organelle Identification",
+      "keywords": ["organelle A", "extracellular enzymes", "electron micrograph", "photograph", "golgi apparatus", "rough endoplasmic reticulum"],
+      "question": "Name organelle A, shown in the electron micrograph, which is involved in the formation of extracellular enzymes.",
+      "status": "pending",
+      "answer": "Missing: the electron micrograph with organelle A is not in the text, so the organelle cannot be identified.",
+      "steps": []
+    },
+    {
+      "id": "3A-Q7b(ii)",
+      "no": "Q7(b)(ii)",
+      "marks": 2,
+      "topic": "Role in Enzyme Secretion",
+      "keywords": ["extracellular enzymes", "organelle", "formation", "transport", "vesicles", "secretion", "modification"],
+      "question": "Describe the role of organelle A in the formation and transport of extracellular enzymes.",
+      "status": "pending",
+      "answer": "Missing: organelle A has not been identified in the text (Q7(b)(i) is pending), so its role cannot be stated with certainty.",
+      "steps": []
+    },
+    {
+      "id": "3A-Q7b(iii)",
+      "no": "Q7(b)(iii)",
+      "marks": 2,
+      "topic": "Magnification of Photograph",
+      "keywords": ["magnification", "image width", "actual width", "centimetres", "micrometres", "significant figures", "calculation"],
+      "question": "A student measured the width of part of the organelle in a photograph as 3.2 cm; the actual width is 0.95 um. Calculate the magnification to two significant figures.",
+      "status": "ready",
+      "answer": "3.4 x 10^4 times (32 000 um / 0.95 um = 33 684).",
+      "steps": [
+        "Magnification = image size / actual size, with both in the same units.",
+        "The actual width is written as 0.95 m in the text, but the mu symbol is lost; for an organelle it must be 0.95 um.",
+        "Convert the image width: 3.2 cm = 32 mm = 32 000 um.",
+        "Divide: 32 000 / 0.95 = 33 684, which is 3.4 x 10^4 to two significant figures."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4251 @@
+{
+  "code": "2B",
+  "title": "Proteins and DNA",
+  "unit": "AS Unit 1",
+  "pdf": "papers/biology/02B-Proteins-DNA.pdf",
+  "questions": [
+    {
+      "id": "2B-Q1a(i)",
+      "no": "Q1(a)(i)",
+      "marks": 1,
+      "topic": "Amino Acid Sequence From DNA",
+      "keywords": [
+        "dna base sequence",
+        "amino acid sequence",
+        "codon",
+        "genetic code table",
+        "translation",
+        "triplet code",
+        "amino",
+        "acid",
+        "sequence",
+        "dna",
+        "ial biology"
+      ],
+      "question": "Complete the diagram to show the amino acid sequence coded by a given DNA base sequence.",
+      "status": "pending",
+      "answer": "Missing: the DNA base sequence diagram and the amino acid genetic code table are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q1a(ii)",
+      "no": "Q1(a)(ii)",
+      "marks": 2,
+      "topic": "Degenerate Genetic Code",
+      "keywords": [
+        "degenerate code",
+        "repeated codons",
+        "five amino acids",
+        "genetic code",
+        "dna sequence",
+        "codon",
+        "degenerate",
+        "genetic",
+        "code",
+        "ial biology"
+      ],
+      "question": "Explain why only five amino acids are coded by the DNA sequence shown.",
+      "status": "pending",
+      "answer": "Missing: the DNA base sequence diagram is needed to see which codons repeat.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q1b",
+      "no": "Q1(b)",
+      "marks": 3,
+      "topic": "Degenerate Genetic Code",
+      "keywords": [
+        "alanine",
+        "degenerate code",
+        "more than one codon",
+        "genetic code",
+        "amino acid",
+        "third base",
+        "degenerate",
+        "genetic",
+        "code",
+        "ial biology"
+      ],
+      "question": "Explain why some amino acids, such as alanine, have more than one genetic code.",
+      "status": "ready",
+      "answer": "The genetic code is degenerate: 64 codons code for only 20 amino acids, so alanine has several codons (GCU, GCC, GCA, GCG).",
+      "steps": [
+        "There are 64 possible codons but only 20 amino acids.",
+        "So some amino acids are coded by more than one triplet codon.",
+        "Alanine's codons all start GC and differ only in the third base.",
+        "This degeneracy means a third-base change is less likely to change the amino acid."
+      ]
+    },
+    {
+      "id": "2B-Q1c(i)",
+      "no": "Q1(c)(i)",
+      "marks": 1,
+      "topic": "Percentage Of Codons",
+      "keywords": [
+        "percentage",
+        "genetic codes",
+        "61 codons",
+        "64 codons",
+        "significant figures",
+        "calculation",
+        "codons",
+        "ial biology"
+      ],
+      "question": "Calculate the percentage of the 64 genetic codes that code for amino acids, to four significant figures.",
+      "status": "ready",
+      "answer": "95.31 %",
+      "steps": [
+        "Percentage = 61 / 64 x 100.",
+        "61 / 64 = 0.953125.",
+        "0.953125 x 100 = 95.3125 %.",
+        "Round to four significant figures: 95.31 %."
+      ]
+    },
+    {
+      "id": "2B-Q1c(ii)",
+      "no": "Q1(c)(ii)",
+      "marks": 2,
+      "topic": "Stop Codons",
+      "keywords": [
+        "stop codons",
+        "termination",
+        "translation",
+        "polypeptide",
+        "genetic code",
+        "tAA TAG TGA",
+        "stop",
+        "codons",
+        "ial biology"
+      ],
+      "question": "Explain the role of the other three genetic codes that do not code for amino acids.",
+      "status": "ready",
+      "answer": "They are stop codons (TAA, TAG, TGA) that signal the end of translation and release the polypeptide.",
+      "steps": [
+        "Three of the 64 codons do not code for any amino acid.",
+        "These are the stop codons TAA, TAG and TGA.",
+        "They are recognised by release factors at the ribosome.",
+        "This stops translation and releases the completed polypeptide chain."
+      ]
+    },
+    {
+      "id": "2B-Q1d",
+      "no": "Q1(d)",
+      "marks": 1,
+      "topic": "Codon Anticodon Pairing",
+      "keywords": [
+        "tryptophan",
+        "codon",
+        "anticodon",
+        "mrna",
+        "trna",
+        "complementary pairing",
+        "pairing",
+        "ial biology"
+      ],
+      "question": "Choose the row of the table showing the mRNA codon and tRNA anticodon for tryptophan.",
+      "status": "pending",
+      "answer": "Missing: the table rows (options) are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q2a",
+      "no": "Q2(a)",
+      "marks": 1,
+      "topic": "Amino Acid R Group",
+      "keywords": [
+        "azphe",
+        "r group",
+        "phenylalanine",
+        "amino acid structure",
+        "side chain",
+        "diagram",
+        "amino",
+        "acid",
+        "r",
+        "group",
+        "ial biology"
+      ],
+      "question": "Choose the diagram that shows the R group only of the amino acid AzPhe.",
+      "status": "pending",
+      "answer": "Missing: the four diagram options are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q2b(i)",
+      "no": "Q2(b)(i)",
+      "marks": 1,
+      "topic": "Peptide Bond",
+      "keywords": [
+        "peptide bond",
+        "condensation",
+        "covalent bond",
+        "amino acids",
+        "polypeptide",
+        "translation",
+        "peptide",
+        "bond",
+        "ial biology"
+      ],
+      "question": "Name the covalent bond that joins two amino acids in a condensation reaction.",
+      "status": "ready",
+      "answer": "Peptide bond",
+      "steps": [
+        "Amino acids join during translation by condensation reactions.",
+        "The carboxyl group of one amino acid reacts with the amino group of the next.",
+        "A water molecule is removed in the reaction.",
+        "The new covalent bond formed is a peptide bond (C-N)."
+      ]
+    },
+    {
+      "id": "2B-Q2b(ii)",
+      "no": "Q2(b)(ii)",
+      "marks": 2,
+      "topic": "Condensation Reaction",
+      "keywords": [
+        "condensation",
+        "water removed",
+        "amino group",
+        "carboxyl group",
+        "azphe",
+        "circle",
+        "reaction",
+        "ial biology"
+      ],
+      "question": "Draw two circles on the AzPhe diagram to show the parts lost in a condensation reaction.",
+      "status": "pending",
+      "answer": "Missing: the AzPhe structure diagram is needed to circle the groups.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q2b(iii)",
+      "no": "Q2(b)(iii)",
+      "marks": 3,
+      "topic": "Specific tRNA Requirement",
+      "keywords": [
+        "trna",
+        "aminoacyl trna synthetase",
+        "anticodon",
+        "codon",
+        "azphe",
+        "selectively bred",
+        "specific",
+        "requirement",
+        "ial biology"
+      ],
+      "question": "Suggest why AzPhe is not inserted into proteins in silkworms that have not been selectively bred.",
+      "status": "ready",
+      "answer": "Non-bred silkworms lack the specific tRNA and synthetase enzyme needed to attach AzPhe, so it cannot reach the ribosome.",
+      "steps": [
+        "AzPhe needs its own tRNA whose anticodon pairs with a codon for AzPhe.",
+        "That tRNA must be charged with AzPhe by a specific aminoacyl-tRNA synthetase.",
+        "Non-bred silkworms lack this tRNA or enzyme, so AzPhe cannot be attached.",
+        "Phenylalanine, with its own tRNA, is inserted instead."
+      ]
+    },
+    {
+      "id": "2B-Q2c(i)",
+      "no": "Q2(c)(i)",
+      "marks": 2,
+      "topic": "Amino Acid Ratio Calculation",
+      "keywords": [
+        "ratio",
+        "percentage",
+        "phenylalanine",
+        "azphe",
+        "1100 amino acids",
+        "calculation",
+        "amino",
+        "acid",
+        "ial biology"
+      ],
+      "question": "Calculate the ratio of phenylalanine to AzPhe in a modified silk section of 1100 amino acids (1% natural phenylalanine, 16% replaced).",
+      "status": "ready",
+      "answer": "5.25 : 1 (phenylalanine : AzPhe)",
+      "steps": [
+        "Natural phenylalanine = 1% of 1100 = 11 amino acids.",
+        "16% of these are replaced: 0.16 x 11 = 1.76 AzPhe.",
+        "Phenylalanine left = 11 - 1.76 = 9.24.",
+        "Ratio = 9.24 : 1.76 = 5.25 : 1."
+      ]
+    },
+    {
+      "id": "2B-Q2c(ii)",
+      "no": "Q2(c)(ii)",
+      "marks": 4,
+      "topic": "Silk Fibre Properties",
+      "keywords": [
+        "r group",
+        "larger",
+        "silk fibre",
+        "protein folding",
+        "tertiary structure",
+        "bonds",
+        "properties",
+        "silk",
+        "fibre",
+        "ial biology"
+      ],
+      "question": "Suggest how inserting an amino acid with a larger R group could affect the properties of silk fibres.",
+      "status": "ready",
+      "answer": "A bulkier R group changes how the chains fold and interact, altering silk fibre strength, elasticity and stiffness.",
+      "steps": [
+        "A larger R group takes up more space in the polypeptide chain.",
+        "This changes folding (secondary and tertiary structure) and the bonds formed.",
+        "Chains may pack differently, altering the fibre's strength and elasticity.",
+        "So the silk's mechanical properties (e.g. flexibility or stiffness) may change."
+      ]
+    },
+    {
+      "id": "2B-Q3a(i)",
+      "no": "Q3(a)(i)",
+      "marks": 2,
+      "topic": "Semi-Conservative Replication",
+      "keywords": [
+        "semi-conservative",
+        "dna replication",
+        "parental strand",
+        "new strand",
+        "meselson stahl",
+        "replication",
+        "ial biology"
+      ],
+      "question": "State what is meant by the term semi-conservative replication.",
+      "status": "ready",
+      "answer": "Each new DNA molecule contains one original (parent) strand and one newly synthesised strand.",
+      "steps": [
+        "The double helix separates into two template strands.",
+        "Each old strand acts as a template for a new complementary strand.",
+        "Each new DNA molecule therefore keeps one parental strand.",
+        "The other strand in each molecule is newly made, so the process is semi-conservative."
+      ]
+    },
+    {
+      "id": "2B-Q3a(ii)",
+      "no": "Q3(a)(ii)",
+      "marks": 1,
+      "topic": "Replication Enzymes",
+      "keywords": [
+        "dna polymerase",
+        "dna helicase",
+        "enzyme",
+        "replication",
+        "ligase",
+        "primase",
+        "enzymes",
+        "ial biology"
+      ],
+      "question": "Name one enzyme involved in semi-conservative replication.",
+      "status": "ready",
+      "answer": "DNA helicase (DNA polymerase, DNA ligase or primase are also acceptable)",
+      "steps": [
+        "Semi-conservative replication requires enzymes to unwind and copy DNA.",
+        "DNA helicase unwinds the double helix by breaking hydrogen bonds.",
+        "DNA polymerase adds complementary nucleotides to the new strand.",
+        "Any one correctly named enzyme gains the mark."
+      ]
+    },
+    {
+      "id": "2B-Q3a(iii)",
+      "no": "Q3(a)(iii)",
+      "marks": 2,
+      "topic": "Importance Of Replication",
+      "keywords": [
+        "identical dna",
+        "daughter cells",
+        "genetic information",
+        "mitosis",
+        "semi-conservative",
+        "new cells",
+        "importance",
+        "replication",
+        "ial biology"
+      ],
+      "question": "Explain the importance of semi-conservative replication in producing new cells.",
+      "status": "ready",
+      "answer": "Each new cell gets an accurate, identical copy of the genetic information, so daughter cells are genetically identical.",
+      "steps": [
+        "Before a cell divides, its DNA must be copied.",
+        "Semi-conservative replication makes new DNA that is an accurate copy of the original.",
+        "Each daughter cell therefore receives the same genetic information.",
+        "This keeps the genetic information of the new cells the same as the parent."
+      ]
+    },
+    {
+      "id": "2B-Q3b",
+      "no": "Q3(b)",
+      "marks": 3,
+      "topic": "Meselson Stahl Band Percentages",
+      "keywords": [
+        "meselson stahl",
+        "density gradient",
+        "heavy nitrogen",
+        "light nitrogen",
+        "percentage",
+        "semi-conservative",
+        "meselson",
+        "stahl",
+        "band",
+        "percentages",
+        "ial biology"
+      ],
+      "question": "Complete the table showing the percentage of DNA molecules with heavy only, light only or both nitrogen at each stage.",
+      "status": "pending",
+      "answer": "Missing: the flow chart and the table are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q4a",
+      "no": "Q4(a)",
+      "marks": 3,
+      "topic": "Nucleotide Structure Diagram",
+      "keywords": [
+        "mononucleotide",
+        "phosphodiester bond",
+        "deoxyribose",
+        "dna strand",
+        "diagram",
+        "nucleotide",
+        "structure",
+        "ial biology"
+      ],
+      "question": "Draw a diagram of two mononucleotides joined in a single DNA strand, using the symbols shown.",
+      "status": "pending",
+      "answer": "Missing: the symbol key the question refers to is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q4b(i)",
+      "no": "Q4(b)(i)",
+      "marks": 1,
+      "topic": "Distance Between Bases",
+      "keywords": [
+        "pitch",
+        "base pairs",
+        "helix",
+        "nm",
+        "distance",
+        "calculation",
+        "between",
+        "bases",
+        "ial biology"
+      ],
+      "question": "Calculate the distance between one base and the next on one strand, given 10 base pairs per pitch.",
+      "status": "pending",
+      "answer": "Missing: the pitch length (nm) is shown on the diagram, not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q4b(ii)",
+      "no": "Q4(b)(ii)",
+      "marks": 2,
+      "topic": "Adenine Identification",
+      "keywords": [
+        "adenine",
+        "thymine",
+        "hydrogen bonds",
+        "base pairing",
+        "two hydrogen bonds",
+        "bases p q r s",
+        "identification",
+        "ial biology"
+      ],
+      "question": "Explain which of bases P, Q, R or S is adenine.",
+      "status": "pending",
+      "answer": "Missing: the diagram showing which of Q or R is thymine is needed.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q4c",
+      "no": "Q4(c)",
+      "marks": 4,
+      "topic": "mRNA Versus tRNA Structure",
+      "keywords": [
+        "mrna",
+        "trna",
+        "structure",
+        "single strand",
+        "anticodon",
+        "clover leaf",
+        "compare contrast",
+        "versus",
+        "ial biology"
+      ],
+      "question": "Compare and contrast the structure of mRNA with the structure of tRNA.",
+      "status": "ready",
+      "answer": "Both are single-stranded polynucleotides; mRNA is long and linear with codons, tRNA is short and folded with an anticodon and amino acid binding site.",
+      "steps": [
+        "Both are single polynucleotide strands made of nucleotides with ribose and bases.",
+        "mRNA is long and linear, carrying codons in sequence.",
+        "tRNA is short and folded (clover-leaf shape) with internal base pairing.",
+        "tRNA has an anticodon loop and a site at the 3' end for an amino acid; mRNA does not."
+      ]
+    },
+    {
+      "id": "2B-Q5a",
+      "no": "Q5(a)",
+      "marks": 1,
+      "topic": "Amino Acid Sequence From DNA",
+      "keywords": [
+        "dna sequence",
+        "amino acid sequence",
+        "genetic code table",
+        "first four amino acids",
+        "codon",
+        "translation",
+        "amino",
+        "acid",
+        "sequence",
+        "dna",
+        "ial biology"
+      ],
+      "question": "State the sequence of the first four amino acids coded by the DNA shown.",
+      "status": "pending",
+      "answer": "Missing: the DNA base diagram and the genetic code table are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q5b(i)",
+      "no": "Q5(b)(i)",
+      "marks": 2,
+      "topic": "Gene Mutation Types",
+      "keywords": [
+        "substitution",
+        "deletion",
+        "insertion",
+        "frameshift",
+        "mutation",
+        "base change",
+        "gene",
+        "types",
+        "ial biology"
+      ],
+      "question": "Name the type of each mutation described for the DNA base sequence.",
+      "status": "pending",
+      "answer": "Missing: the DNA base sequence diagram is needed to classify the second and third mutations.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q5b(ii)",
+      "no": "Q5(b)(ii)",
+      "marks": 6,
+      "topic": "Effects Of Mutations",
+      "keywords": [
+        "mutation effects",
+        "frameshift",
+        "substitution",
+        "amino acid sequence",
+        "stop codon",
+        "genetic code table",
+        "effects",
+        "mutations",
+        "ial biology"
+      ],
+      "question": "Explain the possible effects of the three mutations on the amino acid sequence, using the code table.",
+      "status": "pending",
+      "answer": "Missing: the DNA base sequence diagram and genetic code table are needed.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q6a",
+      "no": "Q6(a)",
+      "marks": 3,
+      "topic": "Prothrombin In Clotting",
+      "keywords": [
+        "prothrombin",
+        "thrombin",
+        "fibrinogen",
+        "fibrin",
+        "clotting",
+        "blood clot",
+        "platelets",
+        "ial biology"
+      ],
+      "question": "Describe the role of prothrombin in the blood clotting process.",
+      "status": "ready",
+      "answer": "Prothrombin is converted to thrombin, which converts soluble fibrinogen into insoluble fibrin fibres that trap cells to form a clot.",
+      "steps": [
+        "Prothrombin is a plasma protein that is converted into the enzyme thrombin.",
+        "Thrombin is an enzyme that catalyses fibrinogen conversion.",
+        "Fibrinogen is converted to fibrin, which forms a mesh of insoluble fibres.",
+        "The fibres trap platelets and red blood cells, forming a clot that stops bleeding."
+      ]
+    },
+    {
+      "id": "2B-Q6b",
+      "no": "Q6(b)",
+      "marks": 1,
+      "topic": "Anticoagulant Drugs",
+      "keywords": [
+        "warfarin",
+        "anticoagulant",
+        "treatment type",
+        "drug classes",
+        "clotting",
+        "blood clot",
+        "drugs",
+        "ial biology"
+      ],
+      "question": "Which type of treatment is warfarin?",
+      "status": "ready",
+      "answer": "A - anticoagulant",
+      "steps": [
+        "Warfarin is used to treat blood clots.",
+        "It lowers the number of active clotting factors.",
+        "Drugs that prevent blood clotting in this way are anticoagulants.",
+        "Option A (anticoagulant) is correct."
+      ]
+    },
+    {
+      "id": "2B-Q6c(i)",
+      "no": "Q6(c)(i)",
+      "marks": 2,
+      "topic": "Warfarin And Vitamin K Structures",
+      "keywords": [
+        "warfarin",
+        "vitamin k",
+        "structure",
+        "vkor",
+        "reduced vitamin k",
+        "prothrombin synthesis",
+        "vitamin",
+        "k",
+        "structures",
+        "ial biology"
+      ],
+      "question": "Using the diagrams of warfarin and vitamin K, suggest why warfarin inhibits prothrombin synthesis.",
+      "status": "pending",
+      "answer": "Missing: the structure diagrams of warfarin and vitamin K are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q6c(ii)",
+      "no": "Q6(c)(ii)",
+      "marks": 2,
+      "topic": "Vitamin K Intake",
+      "keywords": [
+        "vitamin k",
+        "warfarin",
+        "competition",
+        "vkor",
+        "reduced vitamin k",
+        "active site",
+        "vitamin",
+        "k",
+        "intake",
+        "ial biology"
+      ],
+      "question": "Suggest why people taking warfarin must avoid foods with a high concentration of vitamin K.",
+      "status": "ready",
+      "answer": "High vitamin K competes with warfarin for the VKOR enzyme, so more reduced vitamin K is made and warfarin's effect is reduced.",
+      "steps": [
+        "Warfarin blocks the enzyme VKOR, which makes reduced vitamin K.",
+        "Reduced vitamin K is needed to make prothrombin.",
+        "Vitamin K and warfarin compete for the same enzyme.",
+        "A high vitamin K intake outcompetes warfarin, so prothrombin synthesis partly recovers."
+      ]
+    },
+    {
+      "id": "2B-Q6d",
+      "no": "Q6(d)",
+      "marks": 4,
+      "topic": "Designing A Drug Comparison Study",
+      "keywords": [
+        "clinical trial",
+        "control group",
+        "drug x",
+        "warfarin",
+        "study design",
+        "variables",
+        "designing",
+        "a",
+        "drug",
+        "comparison",
+        "study",
+        "ial biology"
+      ],
+      "question": "Explain how the study shown should be designed so that warfarin and drug X can be compared.",
+      "status": "pending",
+      "answer": "Missing: the study diagram comparing warfarin and drug X is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q7a",
+      "no": "Q7(a)",
+      "marks": 6,
+      "topic": "Nature Of The Genetic Code",
+      "keywords": [
+        "genetic code",
+        "triplet",
+        "non-overlapping",
+        "degenerate",
+        "universal",
+        "stop codons",
+        "codons",
+        "nature",
+        "genetic",
+        "code",
+        "ial biology"
+      ],
+      "question": "Explain the nature of the genetic code, using information from the table.",
+      "status": "ready",
+      "answer": "The genetic code is a triplet code, non-overlapping, degenerate and (almost) universal; three stop codons end translation.",
+      "steps": [
+        "Each amino acid is coded by a triplet (three bases) called a codon.",
+        "The code is non-overlapping: each base belongs to only one codon.",
+        "The code is degenerate: most amino acids have more than one codon.",
+        "It is universal across organisms, and TAA, TAG and TGA are stop codons."
+      ]
+    },
+    {
+      "id": "2B-Q7b(i)",
+      "no": "Q7(b)(i)",
+      "marks": 1,
+      "topic": "Amino Acid Sequence From DNA",
+      "keywords": [
+        "antisense strand",
+        "template strand",
+        "amino acid sequence",
+        "codons",
+        "complementary",
+        "dna bases",
+        "amino",
+        "acid",
+        "sequence",
+        "dna",
+        "ial biology"
+      ],
+      "question": "Give the sequence of amino acids coded for by the bases shown on the antisense strand.",
+      "status": "pending",
+      "answer": "Missing: the base sequence diagram of the template strand is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q7b(ii)",
+      "no": "Q7(b)(ii)",
+      "marks": 5,
+      "topic": "Substitution Mutation Effects",
+      "keywords": [
+        "substitution mutation",
+        "9th base",
+        "codon change",
+        "amino acid change",
+        "degenerate code",
+        "protein structure",
+        "substitution",
+        "mutation",
+        "effects",
+        "ial biology"
+      ],
+      "question": "Explain the possible effects on a protein of a substitution mutation at the 9th base of the strand.",
+      "status": "pending",
+      "answer": "Missing: the base sequence and genetic code table are needed to work out the effect.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q8a(i)",
+      "no": "Q8(a)(i)",
+      "marks": 1,
+      "topic": "Lactose Hydrolysis Sequence",
+      "keywords": [
+        "lactase",
+        "lactose",
+        "hydrolysis",
+        "monosaccharides",
+        "enzyme action",
+        "sequence of events",
+        "sequence",
+        "ial biology"
+      ],
+      "question": "Choose the diagram showing the sequence of events for the hydrolysis of lactose.",
+      "status": "pending",
+      "answer": "Missing: the symbol diagrams are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q8a(ii)",
+      "no": "Q8(a)(ii)",
+      "marks": 1,
+      "topic": "Monosaccharides In Lactose",
+      "keywords": [
+        "lactose",
+        "galactose",
+        "glucose",
+        "monosaccharides",
+        "disaccharide",
+        "fructose",
+        "ial biology"
+      ],
+      "question": "Which monosaccharides are present in lactose?",
+      "status": "ready",
+      "answer": "B - galactose and glucose",
+      "steps": [
+        "Lactose is a disaccharide.",
+        "Its two monosaccharide units are glucose and galactose.",
+        "Fructose is not in lactose (sucrose contains glucose and fructose).",
+        "Option B is correct."
+      ]
+    },
+    {
+      "id": "2B-Q8b",
+      "no": "Q8(b)",
+      "marks": 1,
+      "topic": "Activation Energy Graph",
+      "keywords": [
+        "lactase",
+        "activation energy",
+        "energy profile",
+        "line p",
+        "graph",
+        "enzyme",
+        "activation",
+        "energy",
+        "ial biology"
+      ],
+      "question": "Which row of the table describes line P and identifies the letter showing the decrease in activation energy due to lactase?",
+      "status": "pending",
+      "answer": "Missing: the energy graph and table rows are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q8c(i)",
+      "no": "Q8(c)(i)",
+      "marks": 2,
+      "topic": "Substrate Concentration Effect",
+      "keywords": [
+        "substrate concentration",
+        "rate of reaction",
+        "active sites",
+        "saturation",
+        "collisions",
+        "vmax",
+        "substrate",
+        "concentration",
+        "effect",
+        "ial biology"
+      ],
+      "question": "Explain why substrate concentration affects the rate of reaction of lactase.",
+      "status": "ready",
+      "answer": "At low substrate, more substrate means more collisions with active sites; at high substrate, all active sites are occupied so the rate plateaus.",
+      "steps": [
+        "Enzyme reactions need substrate molecules to collide with active sites.",
+        "Increasing substrate increases collisions and enzyme-substrate complexes per second.",
+        "Once all active sites are full (saturation), adding more substrate does not raise the rate.",
+        "So the rate increases then levels off at Vmax."
+      ]
+    },
+    {
+      "id": "2B-Q8c(ii)",
+      "no": "Q8(c)(ii)",
+      "marks": 2,
+      "topic": "Michaelis Menten Rate",
+      "keywords": [
+        "vmax",
+        "k",
+        "substrate concentration",
+        "rate formula",
+        "calculation",
+        "michaelis menten",
+        "michaelis",
+        "menten",
+        "rate",
+        "ial biology"
+      ],
+      "question": "Calculate the reaction rate (V) at a substrate concentration of 4 a.u. using the given formula.",
+      "status": "pending",
+      "answer": "Missing: the values of Vmax and K (from the graph) are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q9a(i)",
+      "no": "Q9(a)(i)",
+      "marks": 1,
+      "topic": "Mononucleotide Structure",
+      "keywords": [
+        "mononucleotide",
+        "base r",
+        "deoxyribose",
+        "phosphate",
+        "dna diagram",
+        "circle",
+        "structure",
+        "ial biology"
+      ],
+      "question": "Draw a circle around one mononucleotide that includes the base labelled R.",
+      "status": "pending",
+      "answer": "Missing: the DNA diagram showing base R is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q9a(ii)",
+      "no": "Q9(a)(ii)",
+      "marks": 1,
+      "topic": "Bonds In DNA",
+      "keywords": [
+        "phosphodiester",
+        "hydrogen bonds",
+        "bonds s t u",
+        "dna structure",
+        "table",
+        "bond types",
+        "bonds",
+        "dna",
+        "ial biology"
+      ],
+      "question": "Which row of the table identifies the bonds labelled S, T and U?",
+      "status": "pending",
+      "answer": "Missing: the diagram and table rows are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q9a(iii)",
+      "no": "Q9(a)(iii)",
+      "marks": 1,
+      "topic": "Complementary Base Pairing",
+      "keywords": [
+        "adenine",
+        "thymine",
+        "cytosine",
+        "guanine",
+        "base pairing",
+        "base q",
+        "complementary",
+        "base",
+        "pairing",
+        "ial biology"
+      ],
+      "question": "Given base P is adenine, which base is labelled Q (A cytosine, B guanine, C thymine, D uracil)?",
+      "status": "pending",
+      "answer": "Missing: the diagram showing where Q sits relative to P is needed to confirm the pairing.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q9b(i)",
+      "no": "Q9(b)(i)",
+      "marks": 5,
+      "topic": "Meselson Stahl Density Bands",
+      "keywords": [
+        "density gradient",
+        "bands",
+        "heavy nitrogen",
+        "light nitrogen",
+        "semi-conservative",
+        "meselson stahl",
+        "meselson",
+        "stahl",
+        "density",
+        "ial biology"
+      ],
+      "question": "Complete the diagram to show the DNA density bands after each stage of the Meselson and Stahl experiment.",
+      "status": "pending",
+      "answer": "Missing: the flow chart and band diagram are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q9b(ii)",
+      "no": "Q9(b)(ii)",
+      "marks": 1,
+      "topic": "Dispersive Theory Bands",
+      "keywords": [
+        "dispersive theory",
+        "density gradient",
+        "bands",
+        "stage 2",
+        "meselson stahl",
+        "diagram",
+        "dispersive",
+        "theory",
+        "ial biology"
+      ],
+      "question": "Which diagram shows the bands at stage 2 if the dispersive theory were correct?",
+      "status": "pending",
+      "answer": "Missing: the diagram options are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q10",
+      "no": "Q10",
+      "marks": 6,
+      "topic": "DNA And mRNA Components",
+      "keywords": [
+        "dna",
+        "mrna",
+        "venn diagram",
+        "phosphate",
+        "nitrogenous base",
+        "deoxyribose",
+        "ribose",
+        "uracil",
+        "thymine",
+        "components",
+        "ial biology"
+      ],
+      "question": "Complete a Venn diagram of components found in DNA only, mRNA only and both, writing two components in each part.",
+      "status": "ready",
+      "answer": "Overlap: phosphate, adenine (also guanine, cytosine). DNA only: deoxyribose, thymine. mRNA only: ribose, uracil.",
+      "steps": [
+        "Both DNA and mRNA are polynucleotides, so both contain phosphate groups.",
+        "Both contain adenine, guanine and cytosine, so these go in the overlap.",
+        "DNA alone has deoxyribose and thymine.",
+        "mRNA alone has ribose and uracil."
+      ]
+    },
+    {
+      "id": "2B-Q11a(i)",
+      "no": "Q11(a)(i)",
+      "marks": 3,
+      "topic": "Clotting Passage",
+      "keywords": [
+        "prothrombin",
+        "thrombin",
+        "fibrinogen",
+        "fibrin",
+        "clotting factors",
+        "warfarin",
+        "clotting",
+        "passage",
+        "ial biology"
+      ],
+      "question": "Complete the passage about warfarin and the clotting process.",
+      "status": "ready",
+      "answer": "Prothrombin is converted to thrombin by prothrombinase (factor Xa); the active site of thrombin binds fibrinogen; a mesh of fibrin fibres and platelets forms.",
+      "steps": [
+        "Prothrombin is converted into thrombin by an activator enzyme (prothrombinase, containing factor Xa).",
+        "Thrombin's active site binds fibrinogen.",
+        "Thrombin converts fibrinogen into fibrin fibres.",
+        "The fibres trap platelets (and blood cells) to form a clot."
+      ]
+    },
+    {
+      "id": "2B-Q11a(ii)",
+      "no": "Q11(a)(ii)",
+      "marks": 1,
+      "topic": "Type Of Drug",
+      "keywords": [
+        "warfarin",
+        "anticoagulant",
+        "drug type",
+        "clotting",
+        "options",
+        "type",
+        "drug",
+        "ial biology"
+      ],
+      "question": "Which type of drug is warfarin?",
+      "status": "ready",
+      "answer": "A - an anticoagulant",
+      "steps": [
+        "Warfarin lowers the number of clotting factors in the blood.",
+        "Drugs that stop blood from clotting are anticoagulants.",
+        "It is not an antihypertensive, platelet inhibitor or statin.",
+        "Option A is correct."
+      ]
+    },
+    {
+      "id": "2B-Q11b",
+      "no": "Q11(b)",
+      "marks": 2,
+      "topic": "Clotting Time Rate Of Change",
+      "keywords": [
+        "clotting time",
+        "tangent",
+        "rate of decrease",
+        "graph",
+        "warfarin",
+        "calculation",
+        "clotting",
+        "time",
+        "rate",
+        "change",
+        "ial biology"
+      ],
+      "question": "Calculate the rate of decrease in clotting time at two days after stopping warfarin, using a tangent.",
+      "status": "pending",
+      "answer": "Missing: the clotting time graph is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q12a",
+      "no": "Q12(a)",
+      "marks": 4,
+      "topic": "Polymer Monomers Table",
+      "keywords": [
+        "polymer",
+        "monomer",
+        "table",
+        "polysaccharide",
+        "protein",
+        "nucleic acid",
+        "bond type",
+        "monomers",
+        "ial biology"
+      ],
+      "question": "Complete the table by filling the empty boxes with monomer names, elements or bond types.",
+      "status": "pending",
+      "answer": "Missing: the table is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q12b",
+      "no": "Q12(b)",
+      "marks": 3,
+      "topic": "Unsaturated Triglyceride Synthesis",
+      "keywords": [
+        "triglyceride",
+        "unsaturated fatty acid",
+        "glycerol",
+        "ester bond",
+        "condensation",
+        "c=c double bond",
+        "unsaturated",
+        "synthesis",
+        "ial biology"
+      ],
+      "question": "Describe how an unsaturated triglyceride is synthesised.",
+      "status": "ready",
+      "answer": "Glycerol combines with three fatty acids, at least one containing a C=C double bond, by condensation reactions forming ester bonds and releasing water.",
+      "steps": [
+        "A triglyceride is made from one glycerol and three fatty acids.",
+        "Each fatty acid's carboxyl group reacts with an OH group on glycerol.",
+        "This is a condensation reaction that forms an ester bond and releases water.",
+        "At least one fatty acid has a C=C double bond, so the triglyceride is unsaturated."
+      ]
+    },
+    {
+      "id": "2B-Q13a(i)",
+      "no": "Q13(a)(i)",
+      "marks": 1,
+      "topic": "Mononucleotide Diagram",
+      "keywords": [
+        "mononucleotide",
+        "diagram",
+        "polynucleotide",
+        "components",
+        "nucleotide",
+        "representation",
+        "ial biology"
+      ],
+      "question": "Which diagram shows a mononucleotide?",
+      "status": "pending",
+      "answer": "Missing: the diagram options are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q13a(ii)",
+      "no": "Q13(a)(ii)",
+      "marks": 1,
+      "topic": "Phosphodiester Bond Diagram",
+      "keywords": [
+        "phosphodiester bond",
+        "two components",
+        "diagram",
+        "polynucleotide",
+        "nucleotides",
+        "phosphodiester",
+        "bond",
+        "ial biology"
+      ],
+      "question": "Which diagram shows two components joined by a phosphodiester bond?",
+      "status": "pending",
+      "answer": "Missing: the diagram options are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q13a(iii)",
+      "no": "Q13(a)(iii)",
+      "marks": 1,
+      "topic": "Complementary Base Pairing Diagram",
+      "keywords": [
+        "complementary base pairing",
+        "hydrogen bonds",
+        "diagram",
+        "base pairs",
+        "dna",
+        "complementary",
+        "base",
+        "pairing",
+        "ial biology"
+      ],
+      "question": "Which diagram shows complementary base pairing?",
+      "status": "pending",
+      "answer": "Missing: the diagram options are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q13b(i)",
+      "no": "Q13(b)(i)",
+      "marks": 3,
+      "topic": "Complementary Strand And mRNA",
+      "keywords": [
+        "antisense",
+        "template strand",
+        "complementary strand",
+        "mrna",
+        "transcription",
+        "base sequence",
+        "complementary",
+        "strand",
+        "ial biology"
+      ],
+      "question": "For each statement about the new complementary DNA strand and the mRNA strand, tick the correct box.",
+      "status": "pending",
+      "answer": "Missing: the base sequence diagram and statement table are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q13b(ii)",
+      "no": "Q13(b)(ii)",
+      "marks": 1,
+      "topic": "Transcription",
+      "keywords": [
+        "transcription",
+        "mrna synthesis",
+        "rna polymerase",
+        "template strand",
+        "dna template",
+        "ial biology"
+      ],
+      "question": "Name the process that synthesises an mRNA strand using the DNA template strand.",
+      "status": "ready",
+      "answer": "Transcription",
+      "steps": [
+        "mRNA is made from a DNA template strand in the nucleus.",
+        "The enzyme RNA polymerase reads the template and joins complementary ribonucleotides.",
+        "This is transcription.",
+        "Translation is the later step where the mRNA is read to make protein."
+      ]
+    },
+    {
+      "id": "2B-Q14a(i)",
+      "no": "Q14(a)(i)",
+      "marks": 2,
+      "topic": "Clinical Trial Design",
+      "keywords": [
+        "clinical trial",
+        "control group",
+        "sample size",
+        "design",
+        "bias",
+        "placebo",
+        "clinical",
+        "trial",
+        "ial biology"
+      ],
+      "question": "Comment on the design of this clinical trial (94 patients, 48 given the drug, 46 controls).",
+      "status": "ready",
+      "answer": "It has a control group for comparison and patients from many countries, but the text gives no randomisation or blinding, which are needed to reduce bias.",
+      "steps": [
+        "A control group is present, so the drug's effect can be compared.",
+        "Patients from 18 countries increase how widely the results apply.",
+        "The text does not say the groups were randomised or that the trial was blinded.",
+        "Randomised, double-blind design would reduce bias and improve reliability."
+      ]
+    },
+    {
+      "id": "2B-Q14a(ii)",
+      "no": "Q14(a)(ii)",
+      "marks": 2,
+      "topic": "Drug Dose Volume",
+      "keywords": [
+        "dose",
+        "mg per kg",
+        "concentration",
+        "volume",
+        "calculation",
+        "body mass",
+        "drug",
+        "ial biology"
+      ],
+      "question": "Calculate the volume of drug given each month to a 64 kg patient receiving 2.5 mg per kg, with a concentration of 189 mg per cm3.",
+      "status": "ready",
+      "answer": "0.85 cm3 (0.847 cm3)",
+      "steps": [
+        "Dose = 2.5 mg per kg x 64 kg = 160 mg.",
+        "Volume = mass / concentration = 160 mg / 189 mg cm-3.",
+        "160 / 189 = 0.847 cm3.",
+        "Rounded: 0.85 cm3."
+      ]
+    },
+    {
+      "id": "2B-Q14a(iii)",
+      "no": "Q14(a)(iii)",
+      "marks": 2,
+      "topic": "Percentage Of Patients",
+      "keywords": [
+        "percentage",
+        "nausea",
+        "patients",
+        "48 patients",
+        "calculation",
+        "whole number",
+        "ial biology"
+      ],
+      "question": "Calculate the number of patients who experienced nausea when 27% of the patients receiving the drug experienced it.",
+      "status": "ready",
+      "answer": "13 patients (12.96)",
+      "steps": [
+        "The drug was given to 48 patients.",
+        "Number with nausea = 27% of 48 = 0.27 x 48 = 12.96.",
+        "Patients are whole people, so round to the nearest whole number.",
+        "Answer: 13 patients."
+      ]
+    },
+    {
+      "id": "2B-Q14b(i)",
+      "no": "Q14(b)(i)",
+      "marks": 2,
+      "topic": "Complementary RNA Strand",
+      "keywords": [
+        "double stranded rna",
+        "complementary base pairing",
+        "base sequence",
+        "rna strand",
+        "diagram",
+        "complete",
+        "complementary",
+        "rna",
+        "strand",
+        "ial biology"
+      ],
+      "question": "Complete the diagram showing the base sequence on the other RNA strand.",
+      "status": "pending",
+      "answer": "Missing: the base sequence diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q14b(ii)",
+      "no": "Q14(b)(ii)",
+      "marks": 3,
+      "topic": "RNA Base Pairing Bonds",
+      "keywords": [
+        "double stranded rna",
+        "hydrogen bonds",
+        "base pairing",
+        "phosphodiester",
+        "bonding",
+        "complementary",
+        "rna",
+        "base",
+        "pairing",
+        "bonds",
+        "ial biology"
+      ],
+      "question": "Describe the bonding in this double-stranded RNA molecule.",
+      "status": "ready",
+      "answer": "Complementary bases pair by hydrogen bonds (A-U, G-C) between strands; phosphodiester bonds link nucleotides within each strand.",
+      "steps": [
+        "Within each strand, nucleotides are joined by phosphodiester bonds.",
+        "Between the two strands, complementary bases form hydrogen bonds.",
+        "Adenine pairs with uracil by two hydrogen bonds.",
+        "Guanine pairs with cytosine by three hydrogen bonds."
+      ]
+    },
+    {
+      "id": "2B-Q14b(iii)",
+      "no": "Q14(b)(iii)",
+      "marks": 3,
+      "topic": "RNA Interference Mechanism",
+      "keywords": [
+        "rna interference",
+        "mrna",
+        "gene silencing",
+        "enzyme",
+        "porphyrin",
+        "ahp",
+        "haem synthesis",
+        "rna",
+        "interference",
+        "mechanism",
+        "ial biology"
+      ],
+      "question": "Explain how the drug, which interferes with mRNA copies of one enzyme's gene, helps patients with AHP.",
+      "status": "ready",
+      "answer": "The drug destroys or blocks the mRNA for one haem-pathway enzyme, so less of that enzyme is made and less toxic porphyrin accumulates.",
+      "steps": [
+        "The drug is a double-stranded RNA that interferes with mRNA.",
+        "Its complementary strand binds to the mRNA from the enzyme's gene.",
+        "The mRNA is degraded or translation is blocked (RNA interference).",
+        "Less of that enzyme is made, so fewer toxic porphyrins build up."
+      ]
+    },
+    {
+      "id": "2B-Q15a(i)",
+      "no": "Q15(a)(i)",
+      "marks": 1,
+      "topic": "Lactose Digestion Products",
+      "keywords": [
+        "lactose",
+        "lactase",
+        "galactose",
+        "glucose",
+        "hydrolysis",
+        "products",
+        "digestion",
+        "ial biology"
+      ],
+      "question": "Which are the products of lactose digestion?",
+      "status": "ready",
+      "answer": "C - galactose and glucose",
+      "steps": [
+        "Lactose is a disaccharide of glucose and galactose.",
+        "Lactase catalyses its hydrolysis by adding water.",
+        "This splits lactose into its two monosaccharides.",
+        "Option C (galactose and glucose) is correct."
+      ]
+    },
+    {
+      "id": "2B-Q15a(ii)",
+      "no": "Q15(a)(ii)",
+      "marks": 3,
+      "topic": "Enzyme Three Dimensional Structure",
+      "keywords": [
+        "lactase",
+        "active site",
+        "tertiary structure",
+        "lock and key",
+        "induced fit",
+        "substrate binding",
+        "enzyme",
+        "three",
+        "dimensional",
+        "structure",
+        "ial biology"
+      ],
+      "question": "Explain how the three-dimensional structure of lactase affects its mechanism of action.",
+      "status": "ready",
+      "answer": "The specific 3D shape of the active site is complementary to lactose, so it binds the substrate to form an enzyme-substrate complex that lowers activation energy.",
+      "steps": [
+        "Lactase's tertiary structure gives it an active site with a specific shape and charge.",
+        "Only lactose fits this active site, forming an enzyme-substrate complex.",
+        "The bonds in the substrate are strained, lowering the activation energy for hydrolysis.",
+        "Changing the shape (denaturation) stops the substrate fitting, so activity is lost."
+      ]
+    },
+    {
+      "id": "2B-Q15b(i)",
+      "no": "Q15(b)(i)",
+      "marks": 1,
+      "topic": "Immobilised Enzyme Advantage",
+      "keywords": [
+        "immobilised lactase",
+        "reuse",
+        "free enzyme",
+        "advantage",
+        "product purity",
+        "continuous",
+        "immobilised",
+        "enzyme",
+        "ial biology"
+      ],
+      "question": "Suggest one advantage of using immobilised lactase.",
+      "status": "ready",
+      "answer": "The enzyme can be reused, so it is cheaper, and the milk is not contaminated by the enzyme.",
+      "steps": [
+        "Immobilised enzymes are held in beads, not mixed into the milk.",
+        "They can be recovered and reused.",
+        "This lowers the cost of enzyme per batch.",
+        "The milk is not contaminated with enzyme."
+      ]
+    },
+    {
+      "id": "2B-Q15b(ii)",
+      "no": "Q15(b)(ii)",
+      "marks": 4,
+      "topic": "Lactase pH Activity",
+      "keywords": [
+        "ph",
+        "lactase",
+        "immobilised",
+        "free enzyme",
+        "activity",
+        "denaturation",
+        "ial biology"
+      ],
+      "question": "Explain the effects of pH on the activity of free and immobilised lactase, using the table.",
+      "status": "pending",
+      "answer": "Missing: the table of pH and activity values is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q15b(iii)",
+      "no": "Q15(b)(iii)",
+      "marks": 2,
+      "topic": "Measuring Lactase Activity",
+      "keywords": [
+        "lactase activity",
+        "measure",
+        "rate",
+        "units",
+        "glucose produced",
+        "lactose broken down",
+        "measuring",
+        "lactase",
+        "activity",
+        "ial biology"
+      ],
+      "question": "Suggest how the rate of activity of the lactase could be measured, with units.",
+      "status": "ready",
+      "answer": "Measure the glucose produced per minute (e.g. with a glucose test strip or colorimeter), in mmol dm-3 min-1.",
+      "steps": [
+        "Lactase releases glucose and galactose from lactose.",
+        "Measure how much glucose is produced over a fixed time.",
+        "Use a glucose test strip or a colorimeter reading.",
+        "Express the rate as mmol dm-3 min-1 (or mg min-1)."
+      ]
+    },
+    {
+      "id": "2B-Q15c",
+      "no": "Q15(c)",
+      "marks": 2,
+      "topic": "Founder Effect In CLI",
+      "keywords": [
+        "congenital lactose intolerance",
+        "founder effect",
+        "genetic drift",
+        "inbreeding",
+        "allele frequency",
+        "population",
+        "founder",
+        "effect",
+        "cli",
+        "ial biology"
+      ],
+      "question": "Suggest why most people with congenital lactose intolerance are found in one country.",
+      "status": "ready",
+      "answer": "A founder effect or inbreeding in that population raised the frequency of the recessive allele.",
+      "steps": [
+        "CLI is caused by a rare recessive allele.",
+        "If the allele was present in a small founding population, it could become common there.",
+        "Inbreeding or a small gene pool raises the chance of two carriers having children.",
+        "So the disorder is concentrated in that population."
+      ]
+    },
+    {
+      "id": "2B-Q16a",
+      "no": "Q16(a)",
+      "marks": 3,
+      "topic": "DNA Nucleotide Pair",
+      "keywords": [
+        "base pair",
+        "complementary",
+        "hydrogen bonds",
+        "adenine",
+        "thymine",
+        "cytosine",
+        "guanine",
+        "dna",
+        "nucleotide",
+        "pair",
+        "ial biology"
+      ],
+      "question": "Describe the structure of a nucleotide pair.",
+      "status": "ready",
+      "answer": "Two nucleotides on opposite strands pair through complementary bases joined by hydrogen bonds: A with T (2 bonds) and C with G (3 bonds).",
+      "steps": [
+        "A nucleotide pair is one nucleotide from each of the two antiparallel strands.",
+        "The bases pair by complementary base pairing.",
+        "A pairs with T by two hydrogen bonds; C pairs with G by three.",
+        "Each purine always pairs with a pyrimidine, keeping the helix width constant."
+      ]
+    },
+    {
+      "id": "2B-Q16b",
+      "no": "Q16(b)",
+      "marks": 2,
+      "topic": "DNA Replication Time",
+      "keywords": [
+        "replication rate",
+        "nucleotides per second",
+        "time",
+        "hours",
+        "calculation",
+        "dna replication",
+        "dna",
+        "replication",
+        "ial biology"
+      ],
+      "question": "Calculate how long it would take, to the nearest hour, to replicate 150 million nucleotides at 50 nucleotides per second from one end.",
+      "status": "ready",
+      "answer": "833 hours",
+      "steps": [
+        "Time = number of nucleotides / rate.",
+        "Time = 150 000 000 / 50 = 3 000 000 s.",
+        "3 000 000 s / 3600 = 833.3 hours.",
+        "To the nearest hour: 833 hours."
+      ]
+    },
+    {
+      "id": "2B-Q16c(i)",
+      "no": "Q16(c)(i)",
+      "marks": 2,
+      "topic": "DNA Polymerase In Replication Bubble",
+      "keywords": [
+        "dna polymerase",
+        "replication bubble",
+        "phosphodiester bonds",
+        "nucleotides",
+        "new strand",
+        "template",
+        "dna",
+        "polymerase",
+        "replication",
+        "bubble",
+        "ial biology"
+      ],
+      "question": "Explain the role of DNA polymerase in a replication bubble.",
+      "status": "ready",
+      "answer": "DNA polymerase adds complementary nucleotides to the 3' end of each new strand, using the template strand, forming phosphodiester bonds.",
+      "steps": [
+        "DNA polymerase works at the replication fork within the bubble.",
+        "It reads each template strand and matches complementary free nucleotides.",
+        "It joins each new nucleotide to the growing strand by phosphodiester bonds.",
+        "It builds the new strand 5' to 3' on each template."
+      ]
+    },
+    {
+      "id": "2B-Q16c(ii)",
+      "no": "Q16(c)(ii)",
+      "marks": 3,
+      "topic": "Replication Bubbles Reason",
+      "keywords": [
+        "replication bubbles",
+        "s phase",
+        "10 hours",
+        "replication time",
+        "many origins",
+        "parallel replication",
+        "replication",
+        "bubbles",
+        "reason",
+        "ial biology"
+      ],
+      "question": "Suggest why each DNA molecule is replicated using many replication bubbles when S phase lasts about 10 hours.",
+      "status": "ready",
+      "answer": "Replicating from one end would take far longer than 10 hours, so many bubbles copy different sections at the same time.",
+      "steps": [
+        "From part (b), replicating 150 million nucleotides from one end takes 833 hours.",
+        "A whole human chromosome is about 300 million nucleotides, so one fork is far too slow.",
+        "Many replication bubbles (origins) replicate sections in parallel.",
+        "This lets the whole DNA molecule be copied within the 10-hour S phase."
+      ]
+    },
+    {
+      "id": "2B-Q17a",
+      "no": "Q17(a)",
+      "marks": 3,
+      "topic": "Bases In DNA Structure",
+      "keywords": [
+        "purine",
+        "pyrimidine",
+        "adenine",
+        "guanine",
+        "cytosine",
+        "thymine",
+        "base pairing",
+        "bases",
+        "dna",
+        "structure",
+        "ial biology"
+      ],
+      "question": "Explain the role of the four bases in the structure of DNA, using the ring structures shown.",
+      "status": "ready",
+      "answer": "Guanine and adenine are purines (two rings), cytosine and thymine are pyrimidines (one ring); a purine always pairs with a pyrimidine, keeping the helix width constant, and the sequence codes for genetic information.",
+      "steps": [
+        "Adenine and guanine are purines with two rings; cytosine and thymine are pyrimidines with one ring.",
+        "A pyrimidine always pairs with a purine (A-T, G-C).",
+        "This pairing keeps the double helix a uniform width.",
+        "The sequence of bases carries the genetic code."
+      ]
+    },
+    {
+      "id": "2B-Q17b(i)",
+      "no": "Q17(b)(i)",
+      "marks": 1,
+      "topic": "Mean Mass Of Base Pair",
+      "keywords": [
+        "mean mass",
+        "base pair",
+        "daltons",
+        "standard form",
+        "calculation",
+        "dna mass",
+        "mean",
+        "mass",
+        "base",
+        "pair",
+        "ial biology"
+      ],
+      "question": "Calculate the mean mass of a base pair for E. coli DNA of mass 3.1 x 10^9 Da and 4.7 x 10^6 base pairs.",
+      "status": "ready",
+      "answer": "6.6 x 10^2 Da",
+      "steps": [
+        "Mean mass = total mass / number of base pairs.",
+        "= 3.1 x 10^9 / 4.7 x 10^6.",
+        "= 659.6 Da.",
+        "Standard form to 2 s.f.: 6.6 x 10^2 Da."
+      ]
+    },
+    {
+      "id": "2B-Q17b(ii)",
+      "no": "Q17(b)(ii)",
+      "marks": 2,
+      "topic": "DNA Mass In Grams",
+      "keywords": [
+        "dna mass",
+        "daltons",
+        "grams",
+        "conversion",
+        "cell divisions",
+        "standard form",
+        "dna",
+        "mass",
+        "ial biology"
+      ],
+      "question": "Calculate the total mass of DNA in grams after three cell divisions (1 Da = 1.67 x 10^-24 g).",
+      "status": "ready",
+      "answer": "4.1 x 10^-14 g",
+      "steps": [
+        "Three divisions give 2^3 = 8 cells, each with one copy of the DNA.",
+        "Total mass = 8 x 3.1 x 10^9 Da = 2.48 x 10^10 Da.",
+        "Mass in grams = 2.48 x 10^10 x 1.67 x 10^-24 g.",
+        "= 4.14 x 10^-14 g, i.e. 4.1 x 10^-14 g."
+      ]
+    },
+    {
+      "id": "2B-Q17c(i)",
+      "no": "Q17(c)(i)",
+      "marks": 3,
+      "topic": "Meselson Stahl Band Diagram",
+      "keywords": [
+        "meselson stahl",
+        "density gradient",
+        "heavy nitrogen",
+        "light nitrogen",
+        "bands",
+        "semi-conservative",
+        "meselson",
+        "stahl",
+        "band",
+        "diagram",
+        "ial biology"
+      ],
+      "question": "Complete the diagram showing the results of the Meselson and Stahl experiment.",
+      "status": "pending",
+      "answer": "Missing: the flow chart and band diagram are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q17c(ii)",
+      "no": "Q17(c)(ii)",
+      "marks": 2,
+      "topic": "Conservative Replication Bands",
+      "keywords": [
+        "conservative replication",
+        "density gradient",
+        "bands",
+        "heavy dna",
+        "light dna",
+        "diagram",
+        "conservative",
+        "replication",
+        "ial biology"
+      ],
+      "question": "Complete the diagram showing band positions if the conservative theory were correct.",
+      "status": "pending",
+      "answer": "Missing: the conservative theory diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q17c(iii)",
+      "no": "Q17(c)(iii)",
+      "marks": 2,
+      "topic": "Dispersive Replication Bands",
+      "keywords": [
+        "dispersive replication",
+        "density gradient",
+        "bands",
+        "intermediate density",
+        "meselson stahl",
+        "diagram",
+        "dispersive",
+        "replication",
+        "ial biology"
+      ],
+      "question": "Complete the diagram showing band positions if the dispersive theory were correct.",
+      "status": "pending",
+      "answer": "Missing: the dispersive theory diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q18a",
+      "no": "Q18(a)",
+      "marks": 1,
+      "topic": "Pectinase Molecule Type",
+      "keywords": [
+        "pectinase",
+        "protein",
+        "enzyme",
+        "molecule type",
+        "pectin",
+        "fruit",
+        "molecule",
+        "type",
+        "ial biology"
+      ],
+      "question": "What type of molecule is pectinase?",
+      "status": "ready",
+      "answer": "C - protein",
+      "steps": [
+        "Pectinase is an enzyme.",
+        "All enzymes are globular proteins.",
+        "Disaccharides, polysaccharides and triglycerides are not enzymes.",
+        "Option C is correct."
+      ]
+    },
+    {
+      "id": "2B-Q18b",
+      "no": "Q18(b)",
+      "marks": 2,
+      "topic": "Enzymes As Biological Catalysts",
+      "keywords": [
+        "biological catalyst",
+        "activation energy",
+        "enzyme",
+        "not used up",
+        "reaction rate",
+        "active site",
+        "enzymes",
+        "as",
+        "biological",
+        "catalysts",
+        "ial biology"
+      ],
+      "question": "Explain why enzymes are described as biological catalysts.",
+      "status": "ready",
+      "answer": "Enzymes are biological (protein) molecules that lower the activation energy of reactions without being used up.",
+      "steps": [
+        "Enzymes are made by living organisms and are proteins.",
+        "They speed up reactions by lowering the activation energy.",
+        "They do this by binding substrate at the active site.",
+        "They are not used up, so they can catalyse many reactions."
+      ]
+    },
+    {
+      "id": "2B-Q18c(i)",
+      "no": "Q18(c)(i)",
+      "marks": 1,
+      "topic": "Temperature Effect On Rate",
+      "keywords": [
+        "temperature",
+        "rate of reaction",
+        "pectinase",
+        "graph",
+        "gradient",
+        "a.u. per degree",
+        "effect",
+        "rate",
+        "ial biology"
+      ],
+      "question": "Calculate the effect on the rate of reaction of each degree increase between 46 C and 50 C (2 s.f.).",
+      "status": "pending",
+      "answer": "Missing: the rate values are read from the graph, which is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q18c(ii)",
+      "no": "Q18(c)(ii)",
+      "marks": 1,
+      "topic": "Enzyme Denaturation",
+      "keywords": [
+        "denaturation",
+        "optimum temperature",
+        "active site",
+        "tertiary structure",
+        "hydrogen bonds",
+        "enzyme shape",
+        "enzyme",
+        "ial biology"
+      ],
+      "question": "State why the rate of reaction decreases above the optimum temperature.",
+      "status": "ready",
+      "answer": "The high temperature denatures the enzyme: bonds in its tertiary structure break and the active site changes shape.",
+      "steps": [
+        "Above the optimum, the enzyme gains too much kinetic energy.",
+        "This breaks the hydrogen and ionic bonds holding its tertiary structure.",
+        "The active site changes shape (denatures).",
+        "The substrate no longer fits, so the rate falls."
+      ]
+    },
+    {
+      "id": "2B-Q19a(i)",
+      "no": "Q19(a)(i)",
+      "marks": 2,
+      "topic": "Phospholipid Diagram",
+      "keywords": [
+        "phospholipid",
+        "diagram",
+        "glycerol",
+        "fatty acids",
+        "phosphate head",
+        "table",
+        "ial biology"
+      ],
+      "question": "Draw a diagram of a phospholipid using the information in the table.",
+      "status": "pending",
+      "answer": "Missing: the table of phospholipid components is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q19a(ii)",
+      "no": "Q19(a)(ii)",
+      "marks": 1,
+      "topic": "Ester Bond Diagram",
+      "keywords": [
+        "ester bond",
+        "phospholipid",
+        "diagram",
+        "fatty acid",
+        "glycerol",
+        "bond types",
+        "ester",
+        "bond",
+        "ial biology"
+      ],
+      "question": "Which diagram shows an ester bond?",
+      "status": "pending",
+      "answer": "Missing: the diagram options are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q19b(i)",
+      "no": "Q19(b)(i)",
+      "marks": 2,
+      "topic": "Temperature And Membrane Fluidity",
+      "keywords": [
+        "temperature",
+        "kinetic energy",
+        "fluidity",
+        "phospholipid movement",
+        "membrane",
+        "movement",
+        "ial biology"
+      ],
+      "question": "Explain why an increase in temperature increases the fluidity of the membrane.",
+      "status": "ready",
+      "answer": "Higher temperature gives phospholipids more kinetic energy, so they move more and the bilayer becomes more fluid.",
+      "steps": [
+        "Heating increases the kinetic energy of the phospholipid molecules.",
+        "They vibrate and move more vigorously.",
+        "Weak hydrophobic interactions between tails are overcome more easily.",
+        "The membrane becomes more fluid."
+      ]
+    },
+    {
+      "id": "2B-Q19b(ii)",
+      "no": "Q19(b)(ii)",
+      "marks": 1,
+      "topic": "Unsaturated Versus Saturated Fatty Acid",
+      "keywords": [
+        "unsaturated fatty acid",
+        "saturated",
+        "double bond",
+        "table row",
+        "kinked",
+        "carbon atoms",
+        "unsaturated",
+        "versus",
+        "fatty",
+        "acid",
+        "ial biology"
+      ],
+      "question": "Which row of the table describes an unsaturated fatty acid compared with a saturated fatty acid with the same number of carbons?",
+      "status": "pending",
+      "answer": "Missing: the table rows are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q19b(iii)",
+      "no": "Q19(b)(iii)",
+      "marks": 2,
+      "topic": "Cholesterol And Fluidity",
+      "keywords": [
+        "cholesterol",
+        "membrane fluidity",
+        "phospholipid packing",
+        "fatty acid tails",
+        "hydrophobic",
+        "movement",
+        "fluidity",
+        "ial biology"
+      ],
+      "question": "Explain why a decrease in cholesterol increases the fluidity of the membrane.",
+      "status": "ready",
+      "answer": "Cholesterol sits between phospholipid tails and restricts their movement, so less cholesterol means the tails move more freely.",
+      "steps": [
+        "Cholesterol is found between the phospholipid tails.",
+        "It packs between the hydrophobic tails and restricts their movement.",
+        "Less cholesterol lets the tails move and slide past each other more.",
+        "So the membrane is more fluid."
+      ]
+    },
+    {
+      "id": "2B-Q19b(iv)",
+      "no": "Q19(b)(iv)",
+      "marks": 1,
+      "topic": "Shorter Fatty Acid Chains",
+      "keywords": [
+        "shorter fatty acid",
+        "fluidity",
+        "packing",
+        "hydrophobic interactions",
+        "tails",
+        "membrane",
+        "shorter",
+        "fatty",
+        "acid",
+        "chains",
+        "ial biology"
+      ],
+      "question": "Suggest why a fatty acid with a shorter side chain increases the fluidity of a membrane.",
+      "status": "ready",
+      "answer": "Shorter chains have fewer hydrophobic interactions between tails, so they pack less tightly and move more.",
+      "steps": [
+        "Longer chains have more contact (van der Waals) between tails.",
+        "Shorter chains have fewer points of contact.",
+        "They pack less tightly.",
+        "So the membrane is more fluid."
+      ]
+    },
+    {
+      "id": "2B-Q19c(i)",
+      "no": "Q19(c)(i)",
+      "marks": 2,
+      "topic": "Fatty Acid Change In Cold",
+      "keywords": [
+        "fatty acid composition",
+        "unsaturated fatty acids",
+        "cold temperature",
+        "fish membrane",
+        "fluidity",
+        "adaptation",
+        "fatty",
+        "acid",
+        "change",
+        "cold",
+        "ial biology"
+      ],
+      "question": "Suggest how the fatty acid content of fish membranes may have changed when fish moved to colder water.",
+      "status": "ready",
+      "answer": "The membranes probably became richer in unsaturated fatty acids (and/or shorter chains).",
+      "steps": [
+        "Cold makes membranes less fluid (more rigid).",
+        "To counter this, membranes need more fluidity.",
+        "Unsaturated fatty acids have kinked tails that pack less tightly.",
+        "So the proportion of unsaturated fatty acids increased."
+      ]
+    },
+    {
+      "id": "2B-Q19c(ii)",
+      "no": "Q19(c)(ii)",
+      "marks": 2,
+      "topic": "Membrane Adaptation In Fish",
+      "keywords": [
+        "membrane fluidity",
+        "fish",
+        "low temperature",
+        "survival",
+        "enzymes",
+        "transport",
+        "membrane",
+        "adaptation",
+        "ial biology"
+      ],
+      "question": "Suggest why these changes are necessary for the survival of the fish.",
+      "status": "ready",
+      "answer": "Keeping membranes fluid at low temperature keeps membrane proteins, enzymes and transport working.",
+      "steps": [
+        "At low temperature, membranes would become too rigid.",
+        "Rigid membranes stop transport proteins and enzymes working properly.",
+        "Keeping the membrane fluid maintains cell function.",
+        "So the fish can survive in cold water."
+      ]
+    },
+    {
+      "id": "2B-Q20a",
+      "no": "Q20(a)",
+      "marks": 2,
+      "topic": "Biological Catalyst Meaning",
+      "keywords": [
+        "biological catalyst",
+        "enzyme",
+        "activation energy",
+        "not used up",
+        "speeds up reaction",
+        "protein",
+        "biological",
+        "catalyst",
+        "meaning",
+        "ial biology"
+      ],
+      "question": "State the meaning of the term biological catalyst.",
+      "status": "ready",
+      "answer": "A protein produced by living organisms that speeds up a chemical reaction by lowering its activation energy, without being used up.",
+      "steps": [
+        "Biological means it is made by living organisms (usually a protein).",
+        "Catalyst means it speeds up a reaction.",
+        "It does this by lowering the activation energy.",
+        "It is not used up or changed by the reaction."
+      ]
+    },
+    {
+      "id": "2B-Q20b",
+      "no": "Q20(b)",
+      "marks": 1,
+      "topic": "Activation Energy Arrow",
+      "keywords": [
+        "activation energy",
+        "energy profile",
+        "arrow",
+        "graph",
+        "reaction pathway",
+        "enzyme",
+        "activation",
+        "energy",
+        "ial biology"
+      ],
+      "question": "Which arrow on the energy graph shows the energy required to start the reaction?",
+      "status": "pending",
+      "answer": "Missing: the energy graph is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q20c",
+      "no": "Q20(c)",
+      "marks": 3,
+      "topic": "Enzyme Specificity",
+      "keywords": [
+        "enzyme specificity",
+        "active site",
+        "substrate",
+        "reaction pathway",
+        "e1",
+        "shape",
+        "enzyme",
+        "specificity",
+        "ial biology"
+      ],
+      "question": "Explain why E1 cannot convert AB into AC or AC into D, using the diagram.",
+      "status": "pending",
+      "answer": "Missing: the reaction pathway diagram with enzymes E1, E2 and E3 is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q20d",
+      "no": "Q20(d)",
+      "marks": 2,
+      "topic": "pH And Temperature Conclusions",
+      "keywords": [
+        "pectinase",
+        "ph",
+        "temperature",
+        "optimum",
+        "rate of reaction",
+        "conclusion",
+        "conclusions",
+        "ial biology"
+      ],
+      "question": "Describe two conclusions from the table of rates at different pH and temperature combinations.",
+      "status": "pending",
+      "answer": "Missing: the table of rates is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q21a",
+      "no": "Q21(a)",
+      "marks": 2,
+      "topic": "Protein Intake Calculation",
+      "keywords": [
+        "protein synthesis",
+        "graph",
+        "minimum protein",
+        "mg per kg",
+        "calculation",
+        "weekly intake",
+        "protein",
+        "intake",
+        "ial biology"
+      ],
+      "question": "Calculate the minimum mass of protein a 70 kg person should eat in one week to reach a synthesis rate of 150 mg per kg.",
+      "status": "pending",
+      "answer": "Missing: the graph relating protein intake to synthesis rate is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q21b(i)",
+      "no": "Q21(b)(i)",
+      "marks": 1,
+      "topic": "Stages Of Protein Synthesis",
+      "keywords": [
+        "transcription",
+        "translation",
+        "protein synthesis",
+        "stage order",
+        "mrna",
+        "stages",
+        "protein",
+        "synthesis",
+        "ial biology"
+      ],
+      "question": "Name the two stages of protein synthesis, in the order they occur.",
+      "status": "ready",
+      "answer": "Stage 1: transcription; Stage 2: translation",
+      "steps": [
+        "Protein synthesis starts in the nucleus with DNA.",
+        "Transcription makes an mRNA copy of the gene.",
+        "The mRNA then moves to the ribosome.",
+        "Translation then builds the polypeptide from the mRNA codons."
+      ]
+    },
+    {
+      "id": "2B-Q21b(ii)",
+      "no": "Q21(b)(ii)",
+      "marks": 4,
+      "topic": "Roles Of mRNA And tRNA",
+      "keywords": [
+        "mrna",
+        "trna",
+        "translation",
+        "codon",
+        "anticodon",
+        "amino acid",
+        "ribosome",
+        "roles",
+        "ial biology"
+      ],
+      "question": "Describe the roles of mRNA and tRNA in protein synthesis.",
+      "status": "ready",
+      "answer": "mRNA carries the codons copied from the gene to the ribosome; tRNA carries specific amino acids and its anticodon pairs with the mRNA codon.",
+      "steps": [
+        "mRNA is a copy of the gene that carries codons out of the nucleus to the ribosome.",
+        "tRNA is a small molecule with an anticodon at one end.",
+        "tRNA carries the specific amino acid matching its anticodon.",
+        "The anticodon pairs with the mRNA codon, so amino acids join in the correct order."
+      ]
+    },
+    {
+      "id": "2B-Q22a",
+      "no": "Q22(a)",
+      "marks": 2,
+      "topic": "Cholesterol Evidence For And Against",
+      "keywords": [
+        "cholesterol",
+        "heart disease",
+        "evidence for",
+        "evidence against",
+        "graph",
+        "correlation",
+        "evidence",
+        "against",
+        "ial biology"
+      ],
+      "question": "Describe the evidence for and against a relationship between blood cholesterol and heart disease.",
+      "status": "pending",
+      "answer": "Missing: the graph of cholesterol and heart disease results is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q22b",
+      "no": "Q22(b)",
+      "marks": 3,
+      "topic": "HDL LDL Graph Evidence",
+      "keywords": [
+        "hdl",
+        "ldl",
+        "cvd incidence",
+        "ratio",
+        "graph",
+        "evidence",
+        "ial biology"
+      ],
+      "question": "Describe the evidence in the HDL and LDL graph that supports the three conclusions.",
+      "status": "pending",
+      "answer": "Missing: the HDL and LDL graph is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q22c(i)",
+      "no": "Q22(c)(i)",
+      "marks": 3,
+      "topic": "LDL Receptor Endocytosis",
+      "keywords": [
+        "ldl receptor",
+        "endocytosis",
+        "vesicle",
+        "ldl binding",
+        "receptor-mediated",
+        "cvd",
+        "ldl",
+        "receptor",
+        "ial biology"
+      ],
+      "question": "Explain how the LDL receptor is involved in endocytosis of LDL.",
+      "status": "ready",
+      "answer": "LDL binds to its specific receptor, which clusters in a coated pit that invaginates to form a vesicle taking LDL into the cell.",
+      "steps": [
+        "The LDL receptor is a membrane protein with a binding site specific to LDL.",
+        "LDL binds to the receptor on the outer surface of the liver cell.",
+        "The receptor-LDL complex collects in a coated pit that folds in.",
+        "The pit pinches off as a vesicle carrying LDL into the cell."
+      ]
+    },
+    {
+      "id": "2B-Q22c(ii)",
+      "no": "Q22(c)(ii)",
+      "marks": 2,
+      "topic": "pH And LDL Separation",
+      "keywords": [
+        "ph",
+        "ldl",
+        "receptor",
+        "tertiary structure",
+        "ionic bonds",
+        "binding site",
+        "separation",
+        "ial biology"
+      ],
+      "question": "Suggest how a change in pH could cause LDL to separate from its receptor.",
+      "status": "ready",
+      "answer": "Lower pH alters ionic and hydrogen bonds in the receptor or LDL, changing their shapes so they no longer bind.",
+      "steps": [
+        "Proteins have ionic and hydrogen bonds that depend on charge.",
+        "A lower pH changes the charges on the amino acid R groups.",
+        "This alters the tertiary shape of the receptor's binding site.",
+        "LDL can no longer bind and is released."
+      ]
+    },
+    {
+      "id": "2B-Q22c(iii)",
+      "no": "Q22(c)(iii)",
+      "marks": 3,
+      "topic": "LDL Receptor Mutations And CVD",
+      "keywords": [
+        "ldl receptor mutation",
+        "ldl cholesterol",
+        "cvd",
+        "receptor function",
+        "blood cholesterol",
+        "atheroma",
+        "ldl",
+        "receptor",
+        "mutations",
+        "ial biology"
+      ],
+      "question": "Explain why mutations in the LDL receptor gene can increase the risk of CVD.",
+      "status": "ready",
+      "answer": "A mutated receptor may not bind or internalise LDL, so LDL and cholesterol stay high in the blood and build up in arteries.",
+      "steps": [
+        "A mutation can change the receptor's amino acid sequence and shape.",
+        "The receptor may fail to bind LDL or be made at all.",
+        "LDL is not removed from the blood by endocytosis, so blood LDL and cholesterol rise.",
+        "Cholesterol then builds up in artery walls, causing atherosclerosis and CVD."
+      ]
+    },
+    {
+      "id": "2B-Q23a",
+      "no": "Q23(a)",
+      "marks": 5,
+      "topic": "DNA Structure Passage",
+      "keywords": [
+        "phosphodiester bonds",
+        "condensation",
+        "water",
+        "hydrogen bonds",
+        "double helix",
+        "dna structure",
+        "dna",
+        "structure",
+        "passage",
+        "ial biology"
+      ],
+      "question": "Complete the passage about the structure of DNA.",
+      "status": "ready",
+      "answer": "Phosphodiester bonds form during condensation reactions, releasing water; hydrogen bonds join complementary base pairs; the DNA twists into a double helix.",
+      "steps": [
+        "Mononucleotides are linked by phosphodiester bonds.",
+        "These form in condensation reactions, releasing a molecule of water.",
+        "Complementary base pairs are held by hydrogen bonds.",
+        "The double-stranded molecule twists into a double helix."
+      ]
+    },
+    {
+      "id": "2B-Q23b",
+      "no": "Q23(b)",
+      "marks": 3,
+      "topic": "DNA Mononucleotide Drawing",
+      "keywords": [
+        "dna mononucleotide",
+        "deoxyribose",
+        "phosphate",
+        "base",
+        "table shapes",
+        "draw",
+        "dna",
+        "mononucleotide",
+        "drawing",
+        "ial biology"
+      ],
+      "question": "Draw one DNA mononucleotide using shapes selected from the table.",
+      "status": "pending",
+      "answer": "Missing: the table of component shapes is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q24a(i)",
+      "no": "Q24(a)(i)",
+      "marks": 1,
+      "topic": "Activation Energy Arrow",
+      "keywords": [
+        "activation energy",
+        "polyphenol oxidase",
+        "energy profile",
+        "arrow",
+        "graph",
+        "reaction",
+        "activation",
+        "energy",
+        "ial biology"
+      ],
+      "question": "Which arrow shows the activation energy for this reaction?",
+      "status": "pending",
+      "answer": "Missing: the energy graph and option arrows are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q24a(ii)",
+      "no": "Q24(a)(ii)",
+      "marks": 1,
+      "topic": "Molecules At Times Y And Z",
+      "keywords": [
+        "substrate",
+        "product",
+        "time",
+        "reaction",
+        "table",
+        "polyphenol oxidase",
+        "molecules",
+        "at",
+        "times",
+        "y",
+        "z",
+        "ial biology"
+      ],
+      "question": "Which row of the table shows the molecule present at time Y and time Z on this graph?",
+      "status": "pending",
+      "answer": "Missing: the table and graph are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q24a(iii)",
+      "no": "Q24(a)(iii)",
+      "marks": 1,
+      "topic": "Enzyme Effect On Arrows",
+      "keywords": [
+        "activation energy",
+        "enzyme",
+        "arrow lengths",
+        "lower",
+        "polyphenol oxidase",
+        "energy",
+        "effect",
+        "arrows",
+        "ial biology"
+      ],
+      "question": "Which row shows how the lengths of arrows P and Q would change when polyphenol oxidase is present?",
+      "status": "pending",
+      "answer": "Missing: the table of options and graph are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q24b(i)",
+      "no": "Q24(b)(i)",
+      "marks": 2,
+      "topic": "Rate Of Reaction Tangent",
+      "keywords": [
+        "rate of reaction",
+        "tangent",
+        "gradient",
+        "mmol dm-3 min-1",
+        "graph",
+        "3 minutes",
+        "rate",
+        "reaction",
+        "ial biology"
+      ],
+      "question": "Calculate the rate of reaction at 3 minutes by drawing a tangent.",
+      "status": "pending",
+      "answer": "Missing: the monophenol concentration graph is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q24b(ii)",
+      "no": "Q24(b)(ii)",
+      "marks": 2,
+      "topic": "Temperature Increase To Optimum",
+      "keywords": [
+        "optimum temperature",
+        "rate",
+        "curve shape",
+        "kinetic energy",
+        "collisions",
+        "enzyme",
+        "temperature",
+        "increase",
+        "optimum",
+        "ial biology"
+      ],
+      "question": "Explain what would happen to the shape of the curve if the temperature increased to the enzyme's optimum.",
+      "status": "ready",
+      "answer": "The curve would become steeper initially and reach its plateau sooner, because more collisions and enzyme-substrate complexes form per second.",
+      "steps": [
+        "Below the optimum, raising temperature increases kinetic energy.",
+        "More frequent collisions give more enzyme-substrate complexes.",
+        "So the initial rate (slope) increases and the curve is steeper.",
+        "The plateau is reached earlier and at a higher rate, as the optimum gives the fastest rate."
+      ]
+    },
+    {
+      "id": "2B-Q25a(i)",
+      "no": "Q25(a)(i)",
+      "marks": 1,
+      "topic": "mRNA Base Sequence",
+      "keywords": [
+        "mrna",
+        "template strand",
+        "complementary bases",
+        "uracil",
+        "transcription",
+        "base sequence",
+        "base",
+        "sequence",
+        "ial biology"
+      ],
+      "question": "Complete the diagram showing the base sequence of the mRNA made from the template strand.",
+      "status": "pending",
+      "answer": "Missing: the template strand base diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q25a(ii)",
+      "no": "Q25(a)(ii)",
+      "marks": 1,
+      "topic": "Transcription Stage Name",
+      "keywords": [
+        "transcription",
+        "stage of protein synthesis",
+        "mrna formation",
+        "dna template",
+        "rna",
+        "stage",
+        "name",
+        "ial biology"
+      ],
+      "question": "Name this stage of protein synthesis.",
+      "status": "ready",
+      "answer": "Transcription",
+      "steps": [
+        "The mRNA is made from a DNA template strand.",
+        "This happens in the nucleus.",
+        "Making mRNA from DNA is called transcription.",
+        "Translation is the next stage."
+      ]
+    },
+    {
+      "id": "2B-Q25a(iii)",
+      "no": "Q25(a)(iii)",
+      "marks": 1,
+      "topic": "RNA Polymerase",
+      "keywords": [
+        "rna polymerase",
+        "transcription enzyme",
+        "mrna synthesis",
+        "enzyme name",
+        "template",
+        "rna",
+        "polymerase",
+        "ial biology"
+      ],
+      "question": "Name the enzyme used in this stage of protein synthesis.",
+      "status": "ready",
+      "answer": "RNA polymerase",
+      "steps": [
+        "Transcription needs an enzyme to read the DNA template.",
+        "RNA polymerase unwinds DNA and joins complementary ribonucleotides.",
+        "It forms phosphodiester bonds 5' to 3'.",
+        "So the enzyme is RNA polymerase."
+      ]
+    },
+    {
+      "id": "2B-Q25b",
+      "no": "Q25(b)",
+      "marks": 3,
+      "topic": "mRNA Versus tRNA Structure",
+      "keywords": [
+        "mrna",
+        "trna",
+        "structure",
+        "compare contrast",
+        "single strand",
+        "anticodon",
+        "versus",
+        "ial biology"
+      ],
+      "question": "Compare and contrast the structure of an mRNA molecule with that of a tRNA molecule.",
+      "status": "ready",
+      "answer": "Both are single-stranded polynucleotides; mRNA is long and linear with codons, tRNA is short, folded and has an anticodon and amino acid site.",
+      "steps": [
+        "Both are single polynucleotide strands with ribose and bases.",
+        "mRNA is long and unfolded, with codons in sequence.",
+        "tRNA is short and folded (clover-leaf) with some base pairing.",
+        "tRNA has an anticodon and an amino acid attachment site."
+      ]
+    },
+    {
+      "id": "2B-Q26a",
+      "no": "Q26(a)",
+      "marks": 3,
+      "topic": "Collagen Structure",
+      "keywords": [
+        "collagen",
+        "triple helix",
+        "polypeptide chains",
+        "glycine",
+        "hydrogen bonds",
+        "structure",
+        "ial biology"
+      ],
+      "question": "Describe the structure of collagen.",
+      "status": "ready",
+      "answer": "Collagen has three polypeptide chains wound into a triple helix, with repeating glycine-X-Y sequences, stabilised by hydrogen bonds.",
+      "steps": [
+        "Collagen is a fibrous protein made of three polypeptide chains.",
+        "The chains are wound together into a triple helix.",
+        "Every third amino acid is glycine, allowing tight packing.",
+        "Hydrogen bonds between chains give strength."
+      ]
+    },
+    {
+      "id": "2B-Q26b(i)",
+      "no": "Q26(b)(i)",
+      "marks": 2,
+      "topic": "Rate At 30 Minutes",
+      "keywords": [
+        "rate of reaction",
+        "tangent",
+        "elastin",
+        "protease",
+        "graph",
+        "30 minutes",
+        "rate",
+        "at",
+        "30",
+        "minutes",
+        "ial biology"
+      ],
+      "question": "Calculate the rate of reaction at 30 minutes by drawing a tangent.",
+      "status": "pending",
+      "answer": "Missing: the elastin protease graph is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q26b(ii)",
+      "no": "Q26(b)(ii)",
+      "marks": 3,
+      "topic": "Protease Action On Elastin",
+      "keywords": [
+        "protease",
+        "elastin",
+        "peptide bonds",
+        "hydrolysis",
+        "active site",
+        "breakdown",
+        "action",
+        "ial biology"
+      ],
+      "question": "Explain how a protease breaks down elastin.",
+      "status": "ready",
+      "answer": "The protease binds elastin at its active site and hydrolyses peptide bonds, splitting the protein into smaller peptides.",
+      "steps": [
+        "Proteases are enzymes that hydrolyse peptide bonds.",
+        "The enzyme's active site binds a specific sequence in elastin.",
+        "Water is used to break the peptide bonds (hydrolysis).",
+        "This splits elastin into smaller peptides and amino acids."
+      ]
+    },
+    {
+      "id": "2B-Q27a",
+      "no": "Q27(a)",
+      "marks": 2,
+      "topic": "Thrombin Formation From Endothelial Damage",
+      "keywords": [
+        "endothelial damage",
+        "thrombin",
+        "prothrombin",
+        "clotting cascade",
+        "collagen",
+        "platelets",
+        "formation",
+        "endothelial",
+        "damage",
+        "ial biology"
+      ],
+      "question": "Explain how damage to endothelial cells results in the formation of thrombin.",
+      "status": "ready",
+      "answer": "Damaged endothelium exposes underlying collagen and tissue factor, triggering the clotting cascade that converts prothrombin to thrombin.",
+      "steps": [
+        "Healthy endothelial cells prevent clotting.",
+        "Damage exposes underlying collagen and tissue factor.",
+        "This triggers platelet activation and the clotting cascade.",
+        "The cascade converts prothrombin into thrombin."
+      ]
+    },
+    {
+      "id": "2B-Q27b",
+      "no": "Q27(b)",
+      "marks": 1,
+      "topic": "Anticoagulant Risk",
+      "keywords": [
+        "anticoagulant",
+        "risk",
+        "bleeding",
+        "haemorrhage",
+        "side effect",
+        "ial biology"
+      ],
+      "question": "Give one risk of treating patients with anticoagulants.",
+      "status": "ready",
+      "answer": "Excessive bleeding (haemorrhage).",
+      "steps": [
+        "Anticoagulants stop blood from clotting.",
+        "This lowers the body's ability to stop bleeding.",
+        "So the patient may bleed excessively.",
+        "Bleeding (haemorrhage) is the main risk."
+      ]
+    },
+    {
+      "id": "2B-Q27c(i)",
+      "no": "Q27(c)(i)",
+      "marks": 1,
+      "topic": "Gene Bases From Amino Acids",
+      "keywords": [
+        "gene",
+        "bases",
+        "amino acids",
+        "codons",
+        "stop codon",
+        "32 amino acids",
+        "amino",
+        "acids",
+        "ial biology"
+      ],
+      "question": "Which is the minimum number of bases in the gene coding for a 32-amino-acid peptide (A 32, B 33, C 96, D 99)?",
+      "status": "ready",
+      "answer": "D - 99",
+      "steps": [
+        "Each amino acid is coded by 3 bases: 32 x 3 = 96 bases.",
+        "The gene also needs a stop codon (3 bases) to end translation.",
+        "Total = 96 + 3 = 99 bases.",
+        "Option D is correct."
+      ]
+    },
+    {
+      "id": "2B-Q27c(ii)",
+      "no": "Q27(c)(ii)",
+      "marks": 2,
+      "topic": "Variegin Blocks Thrombin",
+      "keywords": [
+        "variegin",
+        "thrombin",
+        "active site",
+        "competitive inhibition",
+        "fibrinogen",
+        "clotting",
+        "blocks",
+        "ial biology"
+      ],
+      "question": "Explain how variegin prevents blood clotting.",
+      "status": "ready",
+      "answer": "Variegin binds to thrombin's active site, blocking it, so thrombin cannot convert fibrinogen into fibrin.",
+      "steps": [
+        "Thrombin needs its active site to act on fibrinogen.",
+        "Variegin fits into the active site of thrombin.",
+        "It blocks the site (competitive inhibition).",
+        "Fibrinogen cannot be converted to fibrin, so no clot forms."
+      ]
+    },
+    {
+      "id": "2B-Q27c(iii)",
+      "no": "Q27(c)(iii)",
+      "marks": 2,
+      "topic": "Thrombin Splitting Peptide",
+      "keywords": [
+        "thrombin",
+        "protease",
+        "hydrolysis",
+        "peptide bonds",
+        "active site",
+        "variegin",
+        "splitting",
+        "peptide",
+        "ial biology"
+      ],
+      "question": "Explain how thrombin splits variegin into two molecules.",
+      "status": "ready",
+      "answer": "Thrombin is a protease: its active site binds variegin and hydrolyses a peptide bond, using water, splitting it into two parts.",
+      "steps": [
+        "Thrombin is a protease enzyme.",
+        "Its active site binds a specific sequence in variegin.",
+        "A peptide bond is broken by hydrolysis, which uses a water molecule.",
+        "This splits variegin into two smaller molecules."
+      ]
+    },
+    {
+      "id": "2B-Q27c(iv)",
+      "no": "Q27(c)(iv)",
+      "marks": 2,
+      "topic": "Variegin Versus Drug H Clot Mass",
+      "keywords": [
+        "variegin",
+        "drug h",
+        "clot mass",
+        "stent",
+        "graph",
+        "anticoagulant comparison",
+        "versus",
+        "drug",
+        "h",
+        "clot",
+        "mass",
+        "ial biology"
+      ],
+      "question": "Comment on the results comparing the effect of variegin and drug H on clot mass in stents.",
+      "status": "pending",
+      "answer": "Missing: the graph of clot masses is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q28a(i)",
+      "no": "Q28(a)(i)",
+      "marks": 1,
+      "topic": "Sugar In UMP",
+      "keywords": [
+        "uridine monophosphate",
+        "ribose",
+        "sugar",
+        "nucleotide",
+        "rna",
+        "ump",
+        "ial biology"
+      ],
+      "question": "Which sugar is present in uridine monophosphate?",
+      "status": "ready",
+      "answer": "D - ribose",
+      "steps": [
+        "UMP is a ribonucleotide, found in RNA.",
+        "RNA nucleotides contain the sugar ribose.",
+        "DNA nucleotides use deoxyribose instead.",
+        "Option D (ribose) is correct."
+      ]
+    },
+    {
+      "id": "2B-Q28a(ii)",
+      "no": "Q28(a)(ii)",
+      "marks": 1,
+      "topic": "Base In UMP",
+      "keywords": [
+        "uracil",
+        "base",
+        "uridine monophosphate",
+        "circle",
+        "nucleotide",
+        "ump",
+        "ial biology"
+      ],
+      "question": "Draw a circle around the base in uridine monophosphate.",
+      "status": "pending",
+      "answer": "Missing: the UMP structure diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q28a(iii)",
+      "no": "Q28(a)(iii)",
+      "marks": 1,
+      "topic": "Use Of UMP",
+      "keywords": [
+        "uridine monophosphate",
+        "rna synthesis",
+        "nucleotide use",
+        "cells",
+        "transcription",
+        "use",
+        "ump",
+        "ial biology"
+      ],
+      "question": "Suggest one way cells use uridine monophosphate.",
+      "status": "ready",
+      "answer": "To make RNA (it is a nucleotide monomer used in transcription).",
+      "steps": [
+        "UMP is a nucleotide.",
+        "Nucleotides are the building blocks of nucleic acids.",
+        "UMP can be phosphorylated to UTP.",
+        "UTP is used as a monomer to synthesise RNA."
+      ]
+    },
+    {
+      "id": "2B-Q28b(i)",
+      "no": "Q28(b)(i)",
+      "marks": 2,
+      "topic": "OMP Decarboxylase Mechanism",
+      "keywords": [
+        "enzyme",
+        "activation energy",
+        "rate of reaction",
+        "catalysis",
+        "active site",
+        "omp decarboxylase",
+        "omp",
+        "decarboxylase",
+        "mechanism",
+        "ial biology"
+      ],
+      "question": "State how OMP decarboxylase increases the rate of the reaction.",
+      "status": "ready",
+      "answer": "It lowers the activation energy by binding the substrate at its active site and straining the bonds.",
+      "steps": [
+        "The enzyme binds orotidine monophosphate at its active site.",
+        "This forms an enzyme-substrate complex.",
+        "The complex strains bonds and orients the substrate.",
+        "So less activation energy is needed, speeding the reaction up."
+      ]
+    },
+    {
+      "id": "2B-Q28b(ii)",
+      "no": "Q28(b)(ii)",
+      "marks": 3,
+      "topic": "Enzyme Specificity",
+      "keywords": [
+        "enzyme specificity",
+        "active site",
+        "complementary shape",
+        "substrate",
+        "lock and key",
+        "only this reaction",
+        "enzyme",
+        "specificity",
+        "ial biology"
+      ],
+      "question": "Explain why OMP decarboxylase catalyses this reaction only.",
+      "status": "ready",
+      "answer": "Its active site has a specific shape and charge complementary to only its substrate, so only that reaction is catalysed.",
+      "steps": [
+        "The active site's shape and charge are determined by the enzyme's tertiary structure.",
+        "Only the correct substrate can bind (lock and key).",
+        "Other molecules do not fit, so they are not converted.",
+        "Hence the enzyme is specific to this reaction."
+      ]
+    },
+    {
+      "id": "2B-Q29a",
+      "no": "Q29(a)",
+      "marks": 5,
+      "topic": "RNA Roles In Collagen Synthesis",
+      "keywords": [
+        "rna",
+        "mrna",
+        "trna",
+        "rrna",
+        "collagen synthesis",
+        "transcription",
+        "translation",
+        "roles",
+        "collagen",
+        "synthesis",
+        "ial biology"
+      ],
+      "question": "Describe the roles of RNA in the synthesis of collagen.",
+      "status": "ready",
+      "answer": "mRNA is transcribed from the collagen gene and carries the code to ribosomes; tRNA brings amino acids; rRNA in ribosomes catalyses peptide bond formation.",
+      "steps": [
+        "Transcription makes mRNA copies of the collagen gene in the nucleus.",
+        "mRNA carries the code from the nucleus to ribosomes.",
+        "tRNA molecules bring specific amino acids to the ribosome, matched by anticodons.",
+        "rRNA forms part of the ribosome and catalyses peptide bond formation.",
+        "Together these build the collagen polypeptide chains."
+      ]
+    },
+    {
+      "id": "2B-Q29b",
+      "no": "Q29(b)",
+      "marks": 4,
+      "topic": "Collagen Primary Structure",
+      "keywords": [
+        "primary structure",
+        "collagen",
+        "triple helix",
+        "glycine",
+        "proline",
+        "fibrous protein",
+        "hydrogen bonds",
+        "primary",
+        "structure",
+        "ial biology"
+      ],
+      "question": "Explain how the primary structure of collagen determines its properties.",
+      "status": "ready",
+      "answer": "Its amino acid sequence (repeating glycine-X-Y with proline and hydroxyproline) allows the chains to form a tight triple helix, giving strength and insolubility.",
+      "steps": [
+        "The primary structure is the sequence of amino acids.",
+        "Glycine at every third position lets the three chains pack closely.",
+        "Proline and hydroxyproline stabilise the helix.",
+        "The triple helix and hydrogen bonds give collagen its strength and insolubility."
+      ]
+    },
+    {
+      "id": "2B-Q30a",
+      "no": "Q30(a)",
+      "marks": 1,
+      "topic": "Definition Of Gene",
+      "keywords": [
+        "gene",
+        "definition",
+        "dna sequence",
+        "polypeptide",
+        "base sequence",
+        "ial biology"
+      ],
+      "question": "State what is meant by the term gene.",
+      "status": "ready",
+      "answer": "A sequence of DNA bases that codes for a polypeptide (or functional RNA).",
+      "steps": [
+        "A gene is a length of DNA.",
+        "Its base sequence contains the code for one polypeptide or functional RNA.",
+        "Genes are found at loci on chromosomes.",
+        "A gene therefore determines a characteristic."
+      ]
+    },
+    {
+      "id": "2B-Q30b",
+      "no": "Q30(b)",
+      "marks": 2,
+      "topic": "Holding DNA Strands",
+      "keywords": [
+        "hydrogen bonds",
+        "complementary base pairs",
+        "double helix",
+        "dna strands",
+        "base pairing",
+        "holding",
+        "dna",
+        "strands",
+        "ial biology"
+      ],
+      "question": "Describe how the two strands of DNA in a gene are held together.",
+      "status": "ready",
+      "answer": "By hydrogen bonds between complementary base pairs (A-T and G-C).",
+      "steps": [
+        "The two DNA strands are antiparallel and complementary.",
+        "Bases on opposite strands pair up.",
+        "Adenine pairs with thymine by two hydrogen bonds.",
+        "Guanine pairs with cytosine by three hydrogen bonds."
+      ]
+    },
+    {
+      "id": "2B-Q30c",
+      "no": "Q30(c)",
+      "marks": 3,
+      "topic": "Codon Length",
+      "keywords": [
+        "codon",
+        "three bases",
+        "20 amino acids",
+        "genetic code",
+        "combinations",
+        "doublet",
+        "length",
+        "ial biology"
+      ],
+      "question": "Explain why each codon must contain at least three bases.",
+      "status": "ready",
+      "answer": "Four bases make only 16 combinations (not enough for 20 amino acids), whereas three bases give 64 combinations.",
+      "steps": [
+        "There are 20 different amino acids to code for.",
+        "A doublet (two bases from four types) gives 4 x 4 = 16 combinations.",
+        "16 is fewer than 20, so it is not enough.",
+        "A triplet gives 4 x 4 x 4 = 64 combinations, which is enough."
+      ]
+    },
+    {
+      "id": "2B-Q30d",
+      "no": "Q30(d)",
+      "marks": 3,
+      "topic": "Colour Blindness Probability",
+      "keywords": [
+        "colour blindness",
+        "x-linked",
+        "probability",
+        "genetic diagram",
+        "heterozygous",
+        "punnett square",
+        "colour",
+        "blindness",
+        "ial biology"
+      ],
+      "question": "Determine the probability that a child of a colour-blind father and a heterozygous mother is colour blind.",
+      "status": "ready",
+      "answer": "1/2 (0.5)",
+      "steps": [
+        "Father: X(c)Y (colour blind). Mother: X(N)X(c) (carrier).",
+        "Gametes: father X(c) or Y; mother X(N) or X(c).",
+        "Offspring: X(N)Y, X(c)Y, X(N)X(c), X(c)X(c), each 1/4.",
+        "Colour blind children are X(c)Y and X(c)X(c), so probability = 1/4 + 1/4 = 1/2."
+      ]
+    },
+    {
+      "id": "2B-Q31a",
+      "no": "Q31(a)",
+      "marks": 3,
+      "topic": "Glycosidic Bond Formation",
+      "keywords": [
+        "glycosidic bond",
+        "condensation",
+        "glucose",
+        "maltose",
+        "water",
+        "diagram",
+        "glycosidic",
+        "bond",
+        "formation",
+        "ial biology"
+      ],
+      "question": "Complete the diagram showing how two glucose molecules join by a glycosidic bond to form two products.",
+      "status": "pending",
+      "answer": "Missing: the glucose diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q31b(i)",
+      "no": "Q31(b)(i)",
+      "marks": 2,
+      "topic": "Amylase Digestion Products",
+      "keywords": [
+        "amylopectin",
+        "amylase",
+        "alpha 1-4 glycosidic bonds",
+        "disaccharide",
+        "oligosaccharide",
+        "digestion",
+        "products",
+        "ial biology"
+      ],
+      "question": "Draw one disaccharide and two different oligosaccharides produced by amylase digesting the amylopectin shown.",
+      "status": "pending",
+      "answer": "Missing: the amylopectin diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q31b(ii)",
+      "no": "Q31(b)(ii)",
+      "marks": 2,
+      "topic": "Amylase Specificity",
+      "keywords": [
+        "amylase",
+        "1-4 glycosidic bonds",
+        "active site",
+        "specificity",
+        "shape",
+        "enzyme",
+        "ial biology"
+      ],
+      "question": "Explain why amylase is able to break only 1-4 glycosidic bonds.",
+      "status": "ready",
+      "answer": "Its active site is shaped to fit the 1-4 linkage of the glucose chain, so it only binds and hydrolyses that bond type.",
+      "steps": [
+        "Enzymes have an active site with a specific shape.",
+        "Amylase's active site fits the alpha 1-4 glycosidic linkage.",
+        "The 1-6 linkage at branch points has a different shape and does not fit.",
+        "So amylase only hydrolyses 1-4 bonds."
+      ]
+    },
+    {
+      "id": "2B-Q31c(i)",
+      "no": "Q31(c)(i)",
+      "marks": 3,
+      "topic": "Intestinal Digestion Of Disaccharides",
+      "keywords": [
+        "disaccharidase",
+        "maltase",
+        "sucrase",
+        "lactase",
+        "small intestine",
+        "hydrolysis",
+        "intestinal",
+        "digestion",
+        "disaccharides",
+        "ial biology"
+      ],
+      "question": "Suggest how disaccharides and oligosaccharides are broken down in the small intestine, giving reasons.",
+      "status": "ready",
+      "answer": "Specific enzymes on the small intestine lining (e.g. maltase, sucrase, lactase) hydrolyse each disaccharide and oligosaccharide, because each enzyme's active site is specific to one glycosidic bond.",
+      "steps": [
+        "Disaccharides and oligosaccharides are hydrolysed by enzymes on the intestinal wall.",
+        "Each disaccharidase (maltase, sucrase, lactase) fits a specific disaccharide.",
+        "Oligosaccharides are broken down by enzymes that remove glucose units from the end of the chain.",
+        "Specificity of the active site is the reason different enzymes are needed."
+      ]
+    },
+    {
+      "id": "2B-Q31c(ii)",
+      "no": "Q31(c)(ii)",
+      "marks": 2,
+      "topic": "Glucose Membrane Transport",
+      "keywords": [
+        "glucose",
+        "hydrophilic",
+        "phospholipid bilayer",
+        "membrane transport protein",
+        "polar molecule",
+        "diffusion",
+        "membrane",
+        "transport",
+        "ial biology"
+      ],
+      "question": "Explain why glucose cannot diffuse into the bloodstream without membrane transport proteins.",
+      "status": "ready",
+      "answer": "Glucose is a large polar molecule that cannot pass through the hydrophobic phospholipid bilayer of the cell membrane.",
+      "steps": [
+        "Glucose is polar and hydrophilic.",
+        "The inner part of the membrane is hydrophobic.",
+        "Polar molecules cannot dissolve through the phospholipid bilayer.",
+        "A transport protein provides a channel or carrier for glucose."
+      ]
+    },
+    {
+      "id": "2B-Q32a(i)",
+      "no": "Q32(a)(i)",
+      "marks": 2,
+      "topic": "Water Dipole",
+      "keywords": [
+        "water",
+        "dipole",
+        "electronegativity",
+        "partial charge",
+        "hydrogen bonds",
+        "bent shape",
+        "ial biology"
+      ],
+      "question": "Explain the dipole nature of water.",
+      "status": "ready",
+      "answer": "Oxygen is more electronegative than hydrogen, so it pulls shared electrons, giving oxygen a partial negative charge and each hydrogen a partial positive charge.",
+      "steps": [
+        "Oxygen is more electronegative than hydrogen.",
+        "Shared electrons in O-H bonds are pulled towards oxygen.",
+        "Oxygen becomes slightly negative and hydrogen slightly positive.",
+        "The bent shape means the charges do not cancel, so water is a dipole."
+      ]
+    },
+    {
+      "id": "2B-Q32a(ii)",
+      "no": "Q32(a)(ii)",
+      "marks": 1,
+      "topic": "Hydrogen Bond Diagram",
+      "keywords": [
+        "hydrogen bond",
+        "water molecules",
+        "diagram",
+        "dipole",
+        "partial charges",
+        "hydrogen",
+        "bond",
+        "ial biology"
+      ],
+      "question": "Complete the diagram to show a hydrogen bond between two water molecules.",
+      "status": "pending",
+      "answer": "Missing: the three-water-molecule diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q32b",
+      "no": "Q32(b)",
+      "marks": 1,
+      "topic": "Sodium Ion Hydration",
+      "keywords": [
+        "sodium ion",
+        "hydration",
+        "water solvent",
+        "diagram",
+        "partial negative oxygen",
+        "sodium",
+        "ion",
+        "ial biology"
+      ],
+      "question": "Complete the diagram showing two water molecules around a sodium ion.",
+      "status": "pending",
+      "answer": "Missing: the sodium ion diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q32c",
+      "no": "Q32(c)",
+      "marks": 4,
+      "topic": "Solubility Temperature Graph",
+      "keywords": [
+        "solubility",
+        "temperature",
+        "graph",
+        "chemicals",
+        "kinetic energy",
+        "solute",
+        "ial biology"
+      ],
+      "question": "Describe the effects of temperature on the solubility of chemicals A, B, C and D.",
+      "status": "pending",
+      "answer": "Missing: the solubility graph is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q33a",
+      "no": "Q33(a)",
+      "marks": 1,
+      "topic": "Cell Membrane Model",
+      "keywords": [
+        "fluid mosaic model",
+        "cell membrane",
+        "phospholipid bilayer",
+        "proteins",
+        "structure",
+        "cell",
+        "membrane",
+        "model",
+        "ial biology"
+      ],
+      "question": "Name the current model for the structure of the cell membrane.",
+      "status": "ready",
+      "answer": "The fluid mosaic model",
+      "steps": [
+        "The membrane is a phospholipid bilayer.",
+        "Proteins are embedded in or on it.",
+        "The components move laterally, so it is fluid.",
+        "This is the fluid mosaic model."
+      ]
+    },
+    {
+      "id": "2B-Q33b",
+      "no": "Q33(b)",
+      "marks": 3,
+      "topic": "Phospholipid Arrangement",
+      "keywords": [
+        "phospholipid bilayer",
+        "hydrophilic head",
+        "hydrophobic tail",
+        "water",
+        "arrangement",
+        "membrane",
+        "phospholipid",
+        "ial biology"
+      ],
+      "question": "Describe the arrangement of phospholipids in the cell membrane.",
+      "status": "ready",
+      "answer": "Phospholipids form a bilayer with hydrophilic heads facing outwards to water and hydrophobic tails facing inwards, away from water.",
+      "steps": [
+        "Phospholipids have a hydrophilic phosphate head and hydrophobic fatty acid tails.",
+        "In water they form a double layer (bilayer).",
+        "The heads face outwards to the aqueous environment on each side.",
+        "The tails face inwards and are sheltered from water."
+      ]
+    },
+    {
+      "id": "2B-Q33c(i)",
+      "no": "Q33(c)(i)",
+      "marks": 3,
+      "topic": "Nanoparticle Diameter",
+      "keywords": [
+        "volume of sphere",
+        "diameter",
+        "standard form",
+        "pi",
+        "nanoparticle",
+        "calculation",
+        "ial biology"
+      ],
+      "question": "Calculate the diameter of a lipid nanoparticle with a volume of 0.108 (units as given), using pi = 3.0.",
+      "status": "pending",
+      "answer": "Missing: the exponent in the volume is lost in extraction (0.108 m3 would not be a 'very small' particle).",
+      "steps": []
+    },
+    {
+      "id": "2B-Q33c(ii)",
+      "no": "Q33(c)(ii)",
+      "marks": 3,
+      "topic": "mRNA Structure",
+      "keywords": [
+        "mrna",
+        "structure",
+        "nucleotides",
+        "ribose",
+        "phosphodiester bond",
+        "bases",
+        "single strand",
+        "ial biology"
+      ],
+      "question": "Describe the structure of an mRNA molecule.",
+      "status": "ready",
+      "answer": "A single-stranded chain of ribonucleotides (ribose, phosphate and bases A, U, G, C) joined by phosphodiester bonds.",
+      "steps": [
+        "mRNA is a single polynucleotide strand.",
+        "Each nucleotide contains ribose, a phosphate and a base (A, U, G or C).",
+        "Nucleotides are joined by phosphodiester bonds.",
+        "It is linear and carries codons."
+      ]
+    },
+    {
+      "id": "2B-Q33c(iii)",
+      "no": "Q33(c)(iii)",
+      "marks": 3,
+      "topic": "Phospholipid Arrangement In Nanoparticles",
+      "keywords": [
+        "lipid nanoparticle",
+        "phospholipid",
+        "hydrophilic heads",
+        "hydrophobic tails",
+        "mrna delivery",
+        "monolayer",
+        "arrangement",
+        "nanoparticles",
+        "ial biology"
+      ],
+      "question": "Explain the arrangement of phospholipids in a lipid nanoparticle that carries mRNA to tissues.",
+      "status": "ready",
+      "answer": "Phospholipids form a sphere with hydrophilic heads facing the watery outside and hydrophobic tails facing inwards, enclosing the mRNA in a protected core.",
+      "steps": [
+        "The nanoparticle is in an aqueous environment, so heads face outwards.",
+        "Tails face inwards, away from water, forming a hydrophobic interior.",
+        "The hydrophilic, negatively charged mRNA is held in the aqueous core.",
+        "This protects mRNA from enzymes and lets it be carried to tissues."
+      ]
+    },
+    {
+      "id": "2B-Q34a",
+      "no": "Q34(a)",
+      "marks": 3,
+      "topic": "Soybeans And Heart Disease",
+      "keywords": [
+        "soybeans",
+        "cholesterol",
+        "ldl",
+        "heart disease",
+        "atherosclerosis",
+        "peptides",
+        "heart",
+        "disease",
+        "ial biology"
+      ],
+      "question": "Explain why eating soybeans may reduce the risk of heart disease.",
+      "status": "pending",
+      "answer": "Soybean compounds lower cholesterol and LDL in the blood, which reduces atherosclerosis and the risk of heart disease.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q34b",
+      "no": "Q34(b)",
+      "marks": 1,
+      "topic": "Primary Structure Differences",
+      "keywords": [
+        "primary structure",
+        "amino acids",
+        "sequence",
+        "protein differences",
+        "glycinin",
+        "conglycinin",
+        "primary",
+        "structure",
+        "differences",
+        "ial biology"
+      ],
+      "question": "Give two ways the primary structure of two proteins could differ.",
+      "status": "ready",
+      "answer": "The types of amino acids and the sequence (order) of amino acids can differ, and so can the number of amino acids.",
+      "steps": [
+        "Primary structure is the sequence of amino acids in a chain.",
+        "Two proteins can contain different amino acids.",
+        "They can also have the same amino acids in a different order.",
+        "Either the type, order or number of amino acids gives a valid answer."
+      ]
+    },
+    {
+      "id": "2B-Q34c(i)",
+      "no": "Q34(c)(i)",
+      "marks": 2,
+      "topic": "Digested Soybean Extract",
+      "keywords": [
+        "digestion",
+        "peptides",
+        "extract",
+        "liver cells",
+        "simulate digestion",
+        "absorbed",
+        "digested",
+        "soybean",
+        "ial biology"
+      ],
+      "question": "Explain why the scientists used digested soybeans to make the extract.",
+      "status": "ready",
+      "answer": "Digestion produces the peptides that are absorbed in the gut, so the extract mimics what would reach the liver.",
+      "steps": [
+        "In the human gut, soybean proteins are digested into peptides first.",
+        "The peptides, not whole proteins, are what enters the body.",
+        "Using digested soybean copies this.",
+        "So the results reflect the effect of real absorbed products."
+      ]
+    },
+    {
+      "id": "2B-Q34c(ii)",
+      "no": "Q34(c)(ii)",
+      "marks": 1,
+      "topic": "Different Enzymes In Digestion",
+      "keywords": [
+        "enzymes",
+        "pepsin",
+        "trypsin",
+        "digestion",
+        "peptide bonds",
+        "specificity",
+        "different",
+        "ial biology"
+      ],
+      "question": "Suggest why the soybean flour was incubated with different enzymes in steps 2 and 3.",
+      "status": "ready",
+      "answer": "Different enzymes act at different peptide bonds, copying digestion in the stomach and then the small intestine.",
+      "steps": [
+        "Each protease has a different specificity.",
+        "The stomach and small intestine use different enzymes.",
+        "Using them in sequence copies the digestive process.",
+        "So the soybean protein is fully broken into peptides."
+      ]
+    },
+    {
+      "id": "2B-Q34c(iii)",
+      "no": "Q34(c)(iii)",
+      "marks": 2,
+      "topic": "37 C Incubation",
+      "keywords": [
+        "37 c",
+        "enzyme optimum",
+        "body temperature",
+        "enzymes",
+        "denaturation",
+        "digestion",
+        "37",
+        "c",
+        "incubation",
+        "ial biology"
+      ],
+      "question": "Explain why the soybean flour and enzymes were incubated at 37 C for 2 hours.",
+      "status": "ready",
+      "answer": "37 C is body temperature, the optimum for human digestive enzymes, so they work at their fastest without denaturing.",
+      "steps": [
+        "Human digestive enzymes work best at body temperature.",
+        "37 C is the optimum temperature for these enzymes.",
+        "This copies conditions in the human gut.",
+        "Two hours allows the digestion to proceed to completion."
+      ]
+    },
+    {
+      "id": "2B-Q34d",
+      "no": "Q34(d)",
+      "marks": 3,
+      "topic": "Soybean Peptides And HMGCR",
+      "keywords": [
+        "hmgcr",
+        "cholesterol synthesis",
+        "soybean peptides",
+        "graph",
+        "enzyme activity",
+        "soybean",
+        "peptides",
+        "ial biology"
+      ],
+      "question": "Explain why eating soybeans may reduce blood cholesterol, using the graph of HMGCR activity.",
+      "status": "pending",
+      "answer": "Missing: the graph of HMGCR activity and cholesterol synthesis is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q35a",
+      "no": "Q35(a)",
+      "marks": 2,
+      "topic": "RNA Polymerase Role",
+      "keywords": [
+        "rna polymerase",
+        "transcription",
+        "template strand",
+        "mrna",
+        "nucleotides",
+        "phosphodiester bonds",
+        "rna",
+        "polymerase",
+        "role",
+        "ial biology"
+      ],
+      "question": "Describe the role of RNA polymerase in protein synthesis.",
+      "status": "ready",
+      "answer": "RNA polymerase unwinds the DNA and joins complementary ribonucleotides to form mRNA using the template strand.",
+      "steps": [
+        "RNA polymerase binds to the gene's promoter region.",
+        "It unwinds the DNA double helix.",
+        "It reads the template strand and joins complementary ribonucleotides.",
+        "It forms phosphodiester bonds, producing mRNA 5' to 3'."
+      ]
+    },
+    {
+      "id": "2B-Q35b",
+      "no": "Q35(b)",
+      "marks": 3,
+      "topic": "Start And Stop Codons",
+      "keywords": [
+        "start codon",
+        "stop codon",
+        "aug",
+        "uaa",
+        "uag",
+        "uga",
+        "translation",
+        "release factor",
+        "start",
+        "stop",
+        "codons",
+        "ial biology"
+      ],
+      "question": "Compare and contrast the structure of the start and stop codons and how they work.",
+      "status": "ready",
+      "answer": "Both are triplet codons; the start codon AUG codes for methionine and starts translation, while stop codons (UAA, UAG, UGA) do not code for an amino acid and end it.",
+      "steps": [
+        "Both are triplet (three-base) codons on mRNA.",
+        "The start codon AUG codes for methionine and initiates translation.",
+        "Stop codons UAA, UAG and UGA do not code for amino acids.",
+        "Stop codons are recognised by release factors, which end translation."
+      ]
+    },
+    {
+      "id": "2B-Q35c",
+      "no": "Q35(c)",
+      "marks": 2,
+      "topic": "Ribosome Roles",
+      "keywords": [
+        "ribosome",
+        "translation",
+        "peptide bond",
+        "trna binding",
+        "mrna",
+        "rrna",
+        "roles",
+        "ial biology"
+      ],
+      "question": "Describe the roles of ribosomes in protein synthesis.",
+      "status": "ready",
+      "answer": "Ribosomes bind mRNA and tRNA, bringing amino acids together, and rRNA catalyses the formation of peptide bonds.",
+      "steps": [
+        "Ribosomes provide the site for translation.",
+        "They hold the mRNA and align tRNAs with their codons.",
+        "The ribosome's rRNA catalyses peptide bond formation.",
+        "It moves along the mRNA, linking amino acids into a polypeptide."
+      ]
+    },
+    {
+      "id": "2B-Q36a",
+      "no": "Q36(a)",
+      "marks": 2,
+      "topic": "Triplet Code Meaning",
+      "keywords": [
+        "triplet code",
+        "codon",
+        "three bases",
+        "amino acid",
+        "genetic code",
+        "example",
+        "triplet",
+        "code",
+        "meaning",
+        "ial biology"
+      ],
+      "question": "Explain what is meant by the genetic code being a triplet code.",
+      "status": "ready",
+      "answer": "Each amino acid is coded for by a sequence of three bases (a codon).",
+      "steps": [
+        "Each codon is made of three consecutive bases.",
+        "One codon codes for one amino acid.",
+        "For example, GCC codes for alanine.",
+        "So the code is read in triplets."
+      ]
+    },
+    {
+      "id": "2B-Q36b",
+      "no": "Q36(b)",
+      "marks": 2,
+      "topic": "Non-overlapping Code",
+      "keywords": [
+        "non-overlapping",
+        "codon",
+        "base",
+        "reading frame",
+        "triplets",
+        "one base",
+        "code",
+        "ial biology"
+      ],
+      "question": "Explain what is meant by the genetic code being non-overlapping.",
+      "status": "ready",
+      "answer": "Each base belongs to only one codon, so consecutive codons do not share bases.",
+      "steps": [
+        "The code is read in consecutive, separate triplets.",
+        "A base in one codon is not used again in the next codon.",
+        "This means the reading frame is fixed.",
+        "So each base has one specific role in the code."
+      ]
+    },
+    {
+      "id": "2B-Q36c",
+      "no": "Q36(c)",
+      "marks": 2,
+      "topic": "Degenerate Code",
+      "keywords": [
+        "degenerate code",
+        "more than one codon",
+        "same amino acid",
+        "genetic code",
+        "synonyms",
+        "example",
+        "degenerate",
+        "code",
+        "ial biology"
+      ],
+      "question": "Explain what is meant by the genetic code being degenerate.",
+      "status": "ready",
+      "answer": "More than one codon codes for the same amino acid.",
+      "steps": [
+        "There are 64 codons but only 20 amino acids.",
+        "So some amino acids have more than one codon.",
+        "For example, several codons code for alanine.",
+        "Changes in the third base may therefore not change the amino acid."
+      ]
+    },
+    {
+      "id": "2B-Q37a",
+      "no": "Q37(a)",
+      "marks": 2,
+      "topic": "Cholesterol And CHD Graph",
+      "keywords": [
+        "cholesterol",
+        "chd death rate",
+        "graph",
+        "conclusions",
+        "countries",
+        "relationship",
+        "chd",
+        "ial biology"
+      ],
+      "question": "Describe two conclusions from the graph of blood cholesterol and coronary heart disease death rate.",
+      "status": "pending",
+      "answer": "Missing: the graph of cholesterol and CHD death rate is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q37b(i)",
+      "no": "Q37(b)(i)",
+      "marks": 1,
+      "topic": "Statin Side Effects",
+      "keywords": [
+        "statins",
+        "side effects",
+        "muscle pain",
+        "liver damage",
+        "cholesterol lowering",
+        "statin",
+        "side",
+        "effects",
+        "ial biology"
+      ],
+      "question": "Give two side effects of taking statins.",
+      "status": "ready",
+      "answer": "Muscle pain (myopathy) and liver damage.",
+      "steps": [
+        "Statins lower cholesterol synthesis in the liver.",
+        "A known side effect is muscle pain or weakness (myopathy).",
+        "Another side effect is raised liver enzymes or liver damage.",
+        "Muscle pain and liver damage are the answers."
+      ]
+    },
+    {
+      "id": "2B-Q37b(ii)",
+      "no": "Q37(b)(ii)",
+      "marks": 2,
+      "topic": "LDL Receptors And Cholesterol Uptake",
+      "keywords": [
+        "ldl receptors",
+        "endocytosis",
+        "cholesterol uptake",
+        "liver cells",
+        "blood cholesterol",
+        "ldl",
+        "receptors",
+        "cholesterol",
+        "uptake",
+        "ial biology"
+      ],
+      "question": "Explain how an increase in LDL receptors helps reduce blood cholesterol levels.",
+      "status": "ready",
+      "answer": "More LDL receptors means more LDL is endocytosed by liver cells, removing cholesterol from the blood.",
+      "steps": [
+        "LDL receptors on liver cells bind LDL particles in the blood.",
+        "More receptors means more LDL is bound.",
+        "The LDL is taken into liver cells by endocytosis.",
+        "So less cholesterol remains in the blood."
+      ]
+    },
+    {
+      "id": "2B-Q37c(i)",
+      "no": "Q37(c)(i)",
+      "marks": 2,
+      "topic": "UK Population Size",
+      "keywords": [
+        "population size",
+        "standard form",
+        "1 in 250",
+        "fh",
+        "calculation",
+        "uk",
+        "population",
+        "size",
+        "ial biology"
+      ],
+      "question": "Calculate the UK population, given about 270 000 people with FH, affecting 1 in 250 people.",
+      "status": "ready",
+      "answer": "6.75 x 10^7",
+      "steps": [
+        "Population = number with FH / fraction affected.",
+        "= 270 000 / (1/250) = 270 000 x 250.",
+        "= 67 500 000.",
+        "In standard form: 6.75 x 10^7."
+      ]
+    },
+    {
+      "id": "2B-Q37c(ii)",
+      "no": "Q37(c)(ii)",
+      "marks": 2,
+      "topic": "Statins In Homozygous FH",
+      "keywords": [
+        "statins",
+        "homozygous",
+        "ldl receptors",
+        "no functional receptors",
+        "fh",
+        "mutation",
+        "ial biology"
+      ],
+      "question": "Suggest why statins are less effective in people homozygous for FH.",
+      "status": "ready",
+      "answer": "Homozygous people have little or no functional LDL receptor, and statins work by increasing these receptors.",
+      "steps": [
+        "Statins act by increasing the number of LDL receptors on liver cells.",
+        "Homozygous people have two mutant copies of the LDL receptor gene.",
+        "They produce little or no functional receptor.",
+        "So statins have little effect."
+      ]
+    },
+    {
+      "id": "2B-Q37c(iii)",
+      "no": "Q37(c)(iii)",
+      "marks": 2,
+      "topic": "Antisense DNA Action",
+      "keywords": [
+        "antisense",
+        "apo b",
+        "mrna",
+        "translation",
+        "complementary",
+        "rna interference",
+        "dna",
+        "action",
+        "ial biology"
+      ],
+      "question": "Suggest how an antisense strand of DNA from the apo B gene would reduce apo B protein levels.",
+      "status": "ready",
+      "answer": "It binds complementarily to the apo B mRNA, blocking translation or causing the mRNA to be degraded.",
+      "steps": [
+        "The antisense strand is complementary to the apo B mRNA.",
+        "It binds to the mRNA by complementary base pairing.",
+        "This blocks the ribosome from translating it or marks it for degradation.",
+        "Less apo B protein is therefore made."
+      ]
+    },
+    {
+      "id": "2B-Q38a",
+      "no": "Q38(a)",
+      "marks": 2,
+      "topic": "Semi-Conservative Replication Meaning",
+      "keywords": [
+        "semi-conservative",
+        "replication",
+        "parental strand",
+        "new strand",
+        "dna",
+        "meaning",
+        "ial biology"
+      ],
+      "question": "State the meaning of the term semi-conservative replication.",
+      "status": "ready",
+      "answer": "Each new DNA molecule contains one original strand and one newly synthesised strand.",
+      "steps": [
+        "The original double helix separates into two template strands.",
+        "Each template is used to make a new complementary strand.",
+        "Each new molecule has one old strand and one new strand.",
+        "This is semi-conservative."
+      ]
+    },
+    {
+      "id": "2B-Q38b",
+      "no": "Q38(b)",
+      "marks": 2,
+      "topic": "DNA Polymerase Role",
+      "keywords": [
+        "dna polymerase",
+        "nucleotides",
+        "3' end",
+        "phosphodiester bonds",
+        "template",
+        "dna",
+        "polymerase",
+        "role",
+        "ial biology"
+      ],
+      "question": "Describe the role of DNA polymerase in DNA replication.",
+      "status": "ready",
+      "answer": "DNA polymerase adds complementary nucleotides to the 3' end of the new strand, forming phosphodiester bonds, using the template strand.",
+      "steps": [
+        "DNA polymerase reads each template strand.",
+        "It matches complementary free nucleotides to the template bases.",
+        "It joins each nucleotide to the 3' end of the growing strand.",
+        "This forms phosphodiester bonds."
+      ]
+    },
+    {
+      "id": "2B-Q38c",
+      "no": "Q38(c)",
+      "marks": 6,
+      "topic": "Density Graphs Replication",
+      "keywords": [
+        "heavy nitrogen",
+        "light nitrogen",
+        "density",
+        "graph",
+        "concentration",
+        "meselson stahl",
+        "graphs",
+        "replication",
+        "ial biology"
+      ],
+      "question": "Complete the graphs showing the concentrations and densities of DNA at stages 1, 2 and 3 of the flowchart.",
+      "status": "pending",
+      "answer": "Missing: the flowchart and the graph axes are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2B-Q39a",
+      "no": "Q39(a)",
+      "marks": 2,
+      "topic": "DNA Replication Mechanism",
+      "keywords": [
+        "dna synthesis",
+        "identical dna",
+        "semi-conservative",
+        "helicase",
+        "dna polymerase",
+        "template",
+        "dna",
+        "replication",
+        "mechanism",
+        "ial biology"
+      ],
+      "question": "Explain how two identical molecules of DNA are produced.",
+      "status": "ready",
+      "answer": "The double helix is unwound and each strand acts as a template for a new complementary strand, so two identical molecules form.",
+      "steps": [
+        "DNA helicase unwinds the double helix, breaking hydrogen bonds.",
+        "Each separated strand acts as a template.",
+        "DNA polymerase adds complementary nucleotides to each template.",
+        "Each new molecule has one original and one new strand, so both are identical to the parent."
+      ]
+    },
+    {
+      "id": "2B-Q39b",
+      "no": "Q39(b)",
+      "marks": 3,
+      "topic": "mRNA And tRNA Roles",
+      "keywords": [
+        "mrna",
+        "trna",
+        "protein synthesis",
+        "codon",
+        "anticodon",
+        "amino acid",
+        "roles",
+        "ial biology"
+      ],
+      "question": "Describe the roles of mRNA and tRNA in protein synthesis.",
+      "status": "ready",
+      "answer": "mRNA carries the codons from the gene to the ribosome; tRNA carries specific amino acids, its anticodon pairing with the codons.",
+      "steps": [
+        "mRNA is transcribed from DNA and carries codons to the ribosome.",
+        "tRNA carries the specific amino acid for each codon.",
+        "tRNA's anticodon pairs with the mRNA codon.",
+        "Amino acids are joined in the order set by the codons."
+      ]
+    },
+    {
+      "id": "2B-Q39c(i)",
+      "no": "Q39(c)(i)",
+      "marks": 2,
+      "topic": "Voronoi Diagram Advantage And Disadvantage",
+      "keywords": [
+        "voronoi diagram",
+        "advantage",
+        "disadvantage",
+        "proportions",
+        "data presentation",
+        "area",
+        "voronoi",
+        "diagram",
+        "ial biology"
+      ],
+      "question": "Give one advantage and one disadvantage of using a Voronoi diagram to show the proportions of molecules in a bacterial cell.",
+      "status": "ready",
+      "answer": "Advantage: it shows the relative proportions clearly by area. Disadvantage: the shapes have no meaning and exact values are hard to read.",
+      "steps": [
+        "Area is proportional to the percentage, so proportions are visible at a glance.",
+        "A Voronoi diagram can show many components together.",
+        "The shapes carry no meaning, which can confuse the reader.",
+        "Exact values are harder to read than in a table or bar chart."
+      ]
+    },
+    {
+      "id": "2B-Q39c(ii)",
+      "no": "Q39(c)(ii)",
+      "marks": 6,
+      "topic": "Voronoi Changes In Cell Cycle",
+      "keywords": [
+        "voronoi diagram",
+        "dna",
+        "cell division",
+        "bacterial cell",
+        "dry mass",
+        "cell growth",
+        "voronoi",
+        "changes",
+        "cell",
+        "cycle",
+        "ial biology"
+      ],
+      "question": "Discuss how the appearance of the Voronoi diagram changes as a bacterial cell prepares to divide, in its new daughter cells, and as a daughter cell grows.",
+      "status": "ready",
+      "answer": "Before division the DNA area grows as it is replicated; in each daughter cell the DNA area is halved; during growth the proportions of other molecules rise while DNA's share falls.",
+      "steps": [
+        "Before division, DNA is replicated, so the DNA share of dry mass increases.",
+        "Ribosomes and proteins also increase to prepare for division.",
+        "After division each daughter cell gets one copy of the DNA, so its DNA area is about half.",
+        "As a daughter cell grows, its proteins and RNA increase, so the DNA proportion falls and the diagram changes shape."
+      ]
+    },
+    {
+      "id": "2B-Q40a",
+      "no": "Q40(a)",
+      "marks": 2,
+      "topic": "Active Site Properties",
+      "keywords": [
+        "active site",
+        "amino acid sequence",
+        "r groups",
+        "tertiary structure",
+        "enzyme shape",
+        "properties",
+        "active",
+        "site",
+        "ial biology"
+      ],
+      "question": "Explain what determines the properties of an active site.",
+      "status": "ready",
+      "answer": "The primary sequence of amino acids determines the folding (tertiary structure), so the R groups in the active site set its shape and charge.",
+      "steps": [
+        "The amino acid sequence (primary structure) is set by the gene.",
+        "This sequence folds into the tertiary structure.",
+        "The R groups that line the active site determine its shape and charge.",
+        "These properties determine which substrates can bind."
+      ]
+    },
+    {
+      "id": "2B-Q40b(i)",
+      "no": "Q40(b)(i)",
+      "marks": 3,
+      "topic": "High Temperature Enzyme Denaturation",
+      "keywords": [
+        "high temperature",
+        "denaturation",
+        "tertiary structure",
+        "hydrogen bonds",
+        "active site shape",
+        "enzyme",
+        "high",
+        "temperature",
+        "ial biology"
+      ],
+      "question": "Explain why some enzymes cannot function at high temperatures.",
+      "status": "ready",
+      "answer": "High temperature breaks the hydrogen and ionic bonds holding the tertiary structure, so the active site changes shape and the substrate cannot bind.",
+      "steps": [
+        "Enzymes are held in shape by hydrogen, ionic and disulfide bonds.",
+        "At high temperature, these bonds break as the molecule vibrates.",
+        "The tertiary structure changes, so the active site changes shape.",
+        "The substrate no longer fits, and the enzyme is denatured."
+      ]
+    },
+    {
+      "id": "2B-Q40b(ii)",
+      "no": "Q40(b)(ii)",
+      "marks": 2,
+      "topic": "Bonding And Thermal Stability",
+      "keywords": [
+        "bonding",
+        "stability",
+        "higher temperature",
+        "disulfide bonds",
+        "tertiary structure",
+        "bond strength",
+        "thermal",
+        "ial biology"
+      ],
+      "question": "Suggest why changing the bonding could enable enzymes to work at higher temperatures.",
+      "status": "ready",
+      "answer": "Extra or stronger bonds (e.g. disulfide bonds) need more energy to break, so the tertiary structure and active site stay intact at higher temperature.",
+      "steps": [
+        "Heat breaks bonds that hold the tertiary structure.",
+        "Stronger or additional bonds need more energy to break.",
+        "So the protein keeps its folded shape at higher temperatures.",
+        "The active site therefore stays the correct shape to work."
+      ]
+    },
+    {
+      "id": "2B-Q40b(iii)",
+      "no": "Q40(b)(iii)",
+      "marks": 2,
+      "topic": "Bonding And Plastic Binding",
+      "keywords": [
+        "bonding",
+        "active site shape",
+        "plastic binding",
+        "substrate",
+        "complementary",
+        "plastic",
+        "binding",
+        "ial biology"
+      ],
+      "question": "Suggest why changing the bonding could affect the binding of the plastics to the active site.",
+      "status": "ready",
+      "answer": "Changing bonds can alter the shape or charge of the active site, so the plastic no longer fits or binds as well.",
+      "steps": [
+        "The active site's shape and charge determine substrate binding.",
+        "Changing the bonding changes the folding.",
+        "This alters the shape and charge of the active site.",
+        "So the plastic may bind less well, or bind differently."
+      ]
+    },
+    {
+      "id": "2B-Q40c(i)",
+      "no": "Q40(c)(i)",
+      "marks": 2,
+      "topic": "Larger Active Site Rate",
+      "keywords": [
+        "active site",
+        "rate of breakdown",
+        "enzyme substrate complexes",
+        "plastic",
+        "larger",
+        "binding",
+        "active",
+        "site",
+        "rate",
+        "ial biology"
+      ],
+      "question": "Suggest how a larger active site could increase the rate of breakdown of plastic.",
+      "status": "ready",
+      "answer": "A larger active site can bind more plastic molecules at once, forming more enzyme-substrate complexes per second.",
+      "steps": [
+        "A larger active site has room for more or larger substrate molecules.",
+        "More plastic molecules can bind at the same time.",
+        "More enzyme-substrate complexes form per unit time.",
+        "So more plastic is broken down per second."
+      ]
+    },
+    {
+      "id": "2B-Q40c(ii)",
+      "no": "Q40(c)(ii)",
+      "marks": 1,
+      "topic": "Larger Active Site Less Active",
+      "keywords": [
+        "active site",
+        "less active",
+        "specificity",
+        "binding",
+        "shape",
+        "lower rate",
+        "larger",
+        "active",
+        "site",
+        "less",
+        "ial biology"
+      ],
+      "question": "Suggest why an enzyme with a larger active site may be less active.",
+      "status": "ready",
+      "answer": "A larger, less precisely shaped active site may bind the substrate less tightly or less specifically, reducing the rate.",
+      "steps": [
+        "Enzymes depend on a close, specific fit with the substrate.",
+        "A larger active site may hold the substrate less tightly.",
+        "Poor fit reduces the number of effective enzyme-substrate complexes.",
+        "So the rate of reaction may fall."
+      ]
+    },
+    {
+      "id": "2B-Q40d",
+      "no": "Q40(d)",
+      "marks": 2,
+      "topic": "Linking Enzymes Speeds Breakdown",
+      "keywords": [
+        "linked enzymes",
+        "products",
+        "short chains",
+        "monomers",
+        "substrate channelling",
+        "rate",
+        "linking",
+        "enzymes",
+        "speeds",
+        "breakdown",
+        "ial biology"
+      ],
+      "question": "Explain why linking enzyme 1 to enzyme 2 will speed up the breakdown of plastic.",
+      "status": "ready",
+      "answer": "Enzyme 2 is held next to enzyme 1, so the short chains made by enzyme 1 pass straight to enzyme 2 and are broken into monomers quickly.",
+      "steps": [
+        "Enzyme 1 produces short chains from plastic.",
+        "Enzyme 2 is linked close to enzyme 1.",
+        "The short chains are passed directly to enzyme 2.",
+        "They are broken into monomers quickly, so the overall breakdown is faster."
+      ]
+    }
+  ]
+}

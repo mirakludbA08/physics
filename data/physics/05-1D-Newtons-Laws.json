@@ -1,0 +1,1069 @@
+{
+  "code": "1D",
+  "title": "Newton's laws",
+  "unit": "AS Unit 1",
+  "pdf": "papers/physics/05-1D-Newtons-Laws.pdf",
+  "questions": [
+    {
+      "id": "1D-Q1",
+      "no": "Q1",
+      "marks": 1,
+      "topic": "Lift Acceleration",
+      "keywords": ["lift", "acceleration", "normal force", "apparent weight", "newton second law", "resultant force", "weight", "mass"],
+      "question": "A 70 kg student in a lift that starts from rest and accelerates upwards pushes on the lift floor with 800 N. Which expression gives the lift acceleration a?",
+      "status": "ready",
+      "answer": "C: 800 - 70g = 70a",
+      "steps": [
+        "The student pushes the floor down with 800 N, so the floor pushes the student up with 800 N (Newton third law).",
+        "Forces on the student: 800 N upwards and weight 70g downwards.",
+        "Taking upwards as positive, net force = 800 - 70g (Newton second law).",
+        "Net force = mass x acceleration, so 800 - 70g = 70a.",
+        "Option C matches. A and B have the wrong forces or signs; D has the wrong sign for the weight."
+      ]
+    },
+    {
+      "id": "1D-Q2",
+      "no": "Q2",
+      "marks": 1,
+      "topic": "Upward Motion Equation",
+      "keywords": ["projected upwards", "air resistance", "weight", "net force", "deceleration", "newton second law", "ball", "vertical motion"],
+      "question": "A ball of mass m is projected vertically upwards and air resistance F acts on it at all times. Which equation applies while it is moving upwards?",
+      "status": "ready",
+      "answer": "D: mg + F = ma",
+      "steps": [
+        "While moving upwards, weight mg acts downwards.",
+        "Air resistance opposes the upward motion, so F also acts downwards.",
+        "The net downward force is mg + F.",
+        "The ball decelerates, so its acceleration a is directed downwards; Newton second law gives mg + F = ma.",
+        "Option D is correct. A and B ignore the acceleration; C has the air resistance acting in the wrong direction."
+      ]
+    },
+    {
+      "id": "1D-Q3",
+      "no": "Q3",
+      "marks": 6,
+      "topic": "Skydiver Acceleration Graph",
+      "keywords": ["skydiver", "terminal velocity", "parachute", "acceleration-time graph", "air resistance", "drag", "weight", "newton second law"],
+      "question": "Explain the shape of an acceleration-time graph for a skydiver who opens a parachute, referring to the forces acting on her.",
+      "status": "pending",
+      "answer": "Needs the acceleration-time graph from the PDF to check the shape against the explanation.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q4a",
+      "no": "Q4(a)",
+      "marks": 3,
+      "topic": "Newton Third Law Pair",
+      "keywords": ["unicycle", "newton third law", "reaction force", "normal force", "weight", "pair", "photograph", "forces"],
+      "question": "Assess whether the forces R and W on a unicycle, shown on a photograph, are a Newton third law pair.",
+      "status": "pending",
+      "answer": "Needs the unicycle photograph to see which bodies R and W act on and their directions.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q4b",
+      "no": "Q4(b)",
+      "marks": 2,
+      "topic": "Constant Speed Forces",
+      "keywords": ["unicycle", "constant speed", "resultant force", "normal force", "weight", "newton first law", "photograph", "forces"],
+      "question": "Explain the motion of a unicycle moving at constant speed on a horizontal surface, referring to all the forces acting on it.",
+      "status": "pending",
+      "answer": "Needs the photograph in the PDF to list all force arrows on the unicycle (R, W and any others).",
+      "steps": []
+    },
+    {
+      "id": "1D-Q5",
+      "no": "Q5",
+      "marks": 1,
+      "topic": "Friction On Tyres",
+      "keywords": ["van", "constant velocity", "friction", "tyres", "resultant force", "newton first law", "driving force", "road"],
+      "question": "A van moves at constant velocity along a straight horizontal road. Which statement about the frictional force of the road on the tyres is correct?",
+      "status": "ready",
+      "answer": "C: the friction on the tyres is in the direction of motion",
+      "steps": [
+        "Constant velocity means zero resultant force on the van (Newton first law).",
+        "A is wrong: friction acts on the tyres and cannot be ignored when the van is driven forward.",
+        "B is wrong: the resultant force is zero, so the friction is not equal to it.",
+        "For driven wheels, the road pushes the tyres forwards; this forward friction balances the backward drag on the van.",
+        "C is correct. D describes braking friction, which is not present at constant velocity."
+      ]
+    },
+    {
+      "id": "1D-Q6a(i)",
+      "no": "Q6(a)(i)",
+      "marks": 2,
+      "topic": "Buoy Force Resolution",
+      "keywords": ["buoy", "chain", "horizontal force", "resolve", "trigonometry", "equilibrium", "tension", "water flow"],
+      "question": "Show that the chain force F on a buoy at 33 deg to the vertical, with horizontal force 260 N, is about 500 N.",
+      "status": "pending",
+      "answer": "As read, F = 260 / sin33 = 477 N, not about 500 N. Check the angle in the PDF before marking.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q6a(ii)",
+      "no": "Q6(a)(ii)",
+      "marks": 3,
+      "topic": "Buoy Upthrust Equilibrium",
+      "keywords": ["buoy", "upthrust", "weight of displaced water", "chain force", "equilibrium", "vertical component", "weight", "newton first law"],
+      "question": "A buoy floats with upthrust equal to the weight of displaced water, 2.9 kN. The chain force F is at 33 deg to the vertical. Determine the weight of the buoy.",
+      "status": "ready",
+      "answer": "About 2.5 kN (about 2500 N)",
+      "steps": [
+        "Upthrust U = weight of displaced water = 2900 N, acting upwards.",
+        "The chain pulls the buoy downwards and sideways, so its vertical component F cos33 acts downwards.",
+        "Horizontal balance: F sin33 = 260 N, so F = 260 / sin33 = 477 N.",
+        "Vertical component = F cos33 = 477 x 0.839 = 400 N downwards.",
+        "Vertical equilibrium: U = W + F cos33, so W = 2900 - 400 = 2500 N.",
+        "Using F = 500 N instead gives W = 2480 N, still about 2.5 kN."
+      ]
+    },
+    {
+      "id": "1D-Q6b",
+      "no": "Q6(b)",
+      "marks": 3,
+      "topic": "Buoy Force Change",
+      "keywords": ["buoy", "water speed", "horizontal force", "upthrust", "angle to vertical", "equilibrium", "resolve forces", "chain tension"],
+      "question": "The horizontal force on the buoy increases while the weight of displaced water stays the same. Explain how F and the angle to the vertical change.",
+      "status": "ready",
+      "answer": "F increases and the angle to the vertical increases.",
+      "steps": [
+        "Upthrust and the buoy weight are unchanged, so the vertical balance requires F cos(theta) to stay constant.",
+        "Horizontal balance requires F sin(theta) to equal the horizontal force, which increases.",
+        "Since tan(theta) = (F sin theta)/(F cos theta) and the horizontal part rises while the vertical part is constant, tan(theta) increases.",
+        "So the angle theta to the vertical increases.",
+        "F = sqrt((F cos theta)^2 + (F sin theta)^2) therefore increases too."
+      ]
+    },
+    {
+      "id": "1D-Q7a",
+      "no": "Q7(a)",
+      "marks": 2,
+      "topic": "Projectile Velocity Components",
+      "keywords": ["motorcyclist", "ramp", "projectile", "velocity components", "horizontal", "vertical", "trigonometry", "resolve"],
+      "question": "A motorcyclist leaves a ramp at 25 deg to the horizontal with speed 35 m/s. Calculate the horizontal and vertical components of the velocity.",
+      "status": "ready",
+      "answer": "Horizontal 32 m/s; vertical 15 m/s upwards",
+      "steps": [
+        "Resolve the launch velocity along the horizontal and vertical directions.",
+        "Horizontal component = 35 cos25 = 35 x 0.906 = 31.7 m/s, about 32 m/s.",
+        "Vertical component = 35 sin25 = 35 x 0.423 = 14.8 m/s, about 15 m/s upwards.",
+        "The components are independent; with no air resistance the horizontal component stays constant."
+      ]
+    },
+    {
+      "id": "1D-Q7b",
+      "no": "Q7(b)",
+      "marks": 4,
+      "topic": "Projectile Range Check",
+      "keywords": ["motorcyclist", "river", "projectile", "range", "landing", "vertical displacement", "equations of motion", "air resistance"],
+      "question": "The rider leaves a ramp end 3.0 m above the landing level with horizontal speed 31.7 m/s and vertical speed 14.8 m/s upwards. The river is 100 m wide. Ignoring air resistance, does the rider land on the far side?",
+      "status": "ready",
+      "answer": "Yes: horizontal range about 102 m, which is more than 100 m (about 1.7 m clear of the river).",
+      "steps": [
+        "Take upwards as positive: u = +14.8 m/s, s = -3.0 m, a = -9.81 m/s^2.",
+        "Use s = ut - (1/2)gt^2, giving 4.905t^2 - 14.8t - 3.0 = 0.",
+        "Positive root: t = (14.8 + 16.7)/9.81 = 3.21 s.",
+        "Horizontal motion is uniform: x = 31.7 x 3.21 = 102 m (101.7 m).",
+        "102 m is more than 100 m, so the rider lands on the far bank.",
+        "Assumes the far bank is level with the foot of the ramp (3.0 m below the ramp end)."
+      ]
+    },
+    {
+      "id": "1D-Q7c",
+      "no": "Q7(c)",
+      "marks": 3,
+      "topic": "Air Resistance Effect",
+      "keywords": ["air resistance", "projectile", "motorcyclist", "horizontal velocity", "range", "drag", "river", "jump"],
+      "question": "Explain how air resistance would affect the motorcyclist's jump across the river.",
+      "status": "ready",
+      "answer": "Air resistance reduces the horizontal velocity, so the rider travels less than 102 m and may land in the river.",
+      "steps": [
+        "Air resistance acts opposite to the velocity of the motorcycle.",
+        "Its horizontal component steadily reduces the horizontal velocity.",
+        "The horizontal distance covered in the air is therefore less than the 102 m found without air resistance.",
+        "The rider may land short, in the river, rather than on the far bank."
+      ]
+    },
+    {
+      "id": "1D-Q8",
+      "no": "Q8",
+      "marks": 6,
+      "topic": "Lift Scale Reading",
+      "keywords": ["lift", "scales", "weight", "constant velocity", "deceleration", "normal contact force", "apparent weight", "newton second law"],
+      "question": "A 600 N student stands on scales in a lift that moves up at constant velocity, then decelerates to rest. Explain the readings on the scales.",
+      "status": "ready",
+      "answer": "600 N at constant velocity, less than 600 N while decelerating upwards, and 600 N again when at rest.",
+      "steps": [
+        "At constant velocity the acceleration is zero, so the scale reading (normal contact force) equals the weight, 600 N.",
+        "While decelerating upwards, the acceleration is directed downwards.",
+        "Taking upwards as positive: R - 600 = m x a with a negative, so R is less than 600 N.",
+        "The scale reads less than 600 N for the whole time the lift decelerates.",
+        "When the lift is at rest, the acceleration is zero again and the reading returns to 600 N."
+      ]
+    },
+    {
+      "id": "1D-Q9a",
+      "no": "Q9(a)",
+      "marks": 3,
+      "topic": "Rocket Initial Acceleration",
+      "keywords": ["rocket", "thrust", "weight", "initial acceleration", "net force", "mass", "newton second law", "launch"],
+      "question": "A rocket of mass 5.0 x 10^6 kg has a total upward thrust of 7.3 x 10^7 N at launch. Calculate its initial acceleration.",
+      "status": "ready",
+      "answer": "4.8 m/s^2 upwards (4.79 m/s^2)",
+      "steps": [
+        "Weight = mg = 5.0 x 10^6 x 9.81 = 4.905 x 10^7 N downwards.",
+        "Net upward force = 7.3 x 10^7 - 4.905 x 10^7 = 2.395 x 10^7 N.",
+        "Newton second law: a = F/m = 2.395 x 10^7 / 5.0 x 10^6 = 4.79 m/s^2.",
+        "Initial acceleration is about 4.8 m/s^2 upwards."
+      ]
+    },
+    {
+      "id": "1D-Q9b",
+      "no": "Q9(b)",
+      "marks": 1,
+      "topic": "Rocket Acceleration Increase",
+      "keywords": ["rocket", "acceleration", "fuel burnt", "mass", "thrust", "newton second law", "rising", "reason"],
+      "question": "Give one reason why the acceleration of the rocket increases as it rises.",
+      "status": "ready",
+      "answer": "Fuel is burnt, so the mass decreases while the thrust stays roughly constant.",
+      "steps": [
+        "Acceleration = net force / mass (Newton second law).",
+        "As fuel is burnt and expelled, the mass of the rocket decreases.",
+        "The thrust stays roughly constant, so the net force divided by a smaller mass gives a larger acceleration."
+      ]
+    },
+    {
+      "id": "1D-Q10",
+      "no": "Q10",
+      "marks": 1,
+      "topic": "Rocket Force Equation",
+      "keywords": ["rocket", "thrust", "drag", "weight", "accelerating upwards", "newton second law", "free-body diagram", "equation"],
+      "question": "A rocket of mass m accelerates upwards with acceleration a. Forces are thrust T upwards, force D and weight mg downwards. Which equation gives D?",
+      "status": "ready",
+      "answer": "D: D = T - m(g + a)",
+      "steps": [
+        "Take upwards as positive; T acts upwards, while D and mg act downwards (diagram labels assumed in this order).",
+        "Newton second law: T - D - mg = ma.",
+        "Rearrange: D = T - mg - ma = T - m(g + a).",
+        "Option D matches. A and B have the wrong signs; C has (g - a) instead of (g + a)."
+      ]
+    },
+    {
+      "id": "1D-Q11a",
+      "no": "Q11(a)",
+      "marks": 5,
+      "topic": "Skier Landing Check",
+      "keywords": ["skier", "ramp", "projectile", "landing", "flat surface", "launch angle", "air resistance", "range"],
+      "question": "A skier leaves a ramp angled 10 deg upwards at 25 m/s. A flat surface starts 30 m away and is 2.9 m below the ramp. Ignoring air resistance, deduce whether the skier reaches the flat surface before landing.",
+      "status": "ready",
+      "answer": "Yes. She passes the 30 m point about 2.0 m below the ramp (above the flat surface) and lands on it about 33 m from the ramp.",
+      "steps": [
+        "Components: u_x = 25 cos10 = 24.6 m/s; u_y = 25 sin10 = 4.34 m/s upwards.",
+        "Landing 2.9 m below launch: 4.905t^2 - 4.34t - 2.9 = 0, giving t = 1.33 s.",
+        "Horizontal distance at landing: x = 24.6 x 1.33 = 32.7 m, which is more than 30 m.",
+        "At x = 30 m, t = 30/24.6 = 1.22 s and height = 4.34(1.22) - 4.905(1.22)^2 = -2.0 m.",
+        "At 30 m she is 2.0 m below launch, which is 0.9 m above the flat surface (at -2.9 m).",
+        "So she passes over the start of the flat surface and lands on it about 33 m from the ramp."
+      ]
+    },
+    {
+      "id": "1D-Q11b",
+      "no": "Q11(b)",
+      "marks": 3,
+      "topic": "Average Stopping Force",
+      "keywords": ["skier", "stopping force", "average force", "deceleration", "horizontal surface", "mass", "newton second law", "equations of motion"],
+      "question": "A 63 kg skier travels along a horizontal surface at 23 m/s and stops after 43 m. Calculate the average force needed to bring her to rest.",
+      "status": "ready",
+      "answer": "About 390 N (388 N), acting opposite to the motion",
+      "steps": [
+        "Use v^2 = u^2 + 2as with v = 0: a = -u^2/(2s).",
+        "a = -(23^2)/(2 x 43) = -529/86 = -6.15 m/s^2.",
+        "Newton second law: F = ma = 63 x 6.15 = 388 N.",
+        "The average force is about 390 N, acting opposite to the motion."
+      ]
+    },
+    {
+      "id": "1D-Q12",
+      "no": "Q12",
+      "marks": 1,
+      "topic": "Bubble Resultant Force",
+      "keywords": ["soap bubble", "wind", "upthrust", "weight", "resultant force", "vector diagram", "free-body diagram", "newton second law"],
+      "question": "A soap bubble has wind force P, weight W and upthrust U acting on it. Which vector diagram (A to D) shows the resultant force F?",
+      "status": "pending",
+      "answer": "Needs the four vector diagrams A to D from the PDF, which are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q13",
+      "no": "Q13",
+      "marks": 1,
+      "topic": "Parachute Resultant Velocity",
+      "keywords": ["parachute", "resultant velocity", "vertical component", "horizontal component", "magnitude", "angle", "vector", "wind"],
+      "question": "A student in a windy parachute jump has vertical velocity 5.0 m/s and horizontal velocity 8.0 m/s. Which row gives the magnitude and angle of the resultant velocity?",
+      "status": "pending",
+      "answer": "Needs the table of options from the PDF. Calculated: resultant 9.4 m/s at 58 deg to the vertical.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q14",
+      "no": "Q14",
+      "marks": 1,
+      "topic": "Scaled Vector Diagram",
+      "keywords": ["resultant", "vector addition", "scaled vector diagram", "forces P and Q", "vectors", "resultant force", "diagram", "magnitude"],
+      "question": "Two forces P and Q act on an object. Which of the diagrams A to D is a correctly drawn, scaled vector diagram for their resultant R?",
+      "status": "pending",
+      "answer": "Needs the diagrams A to D and the directions of P and Q from the PDF.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q15",
+      "no": "Q15",
+      "marks": 6,
+      "topic": "Balloon Newton Laws",
+      "keywords": ["balloon", "air escaping", "newton first law", "newton second law", "newton third law", "thrust", "velocity", "straw"],
+      "question": "Explain how Newton's three laws apply to a balloon that moves forwards from rest as air escapes backwards from it.",
+      "status": "ready",
+      "answer": "First law: the forces are unbalanced once the peg is removed, and the velocity is constant once the net force is zero. Second law: the net force gives an acceleration. Third law: the air is pushed backwards and the balloon is pushed forwards by an equal and opposite force.",
+      "steps": [
+        "First law: the balloon is at rest while its forces balance; removing the peg produces an unbalanced force that makes it move.",
+        "Second law: the net force from the escaping air causes an acceleration in the direction of that net force; the balloon speeds up.",
+        "As the velocity rises, the resistive forces grow, so the net force falls.",
+        "At maximum velocity the net force is zero, so by the first law the velocity is constant.",
+        "Third law: the balloon pushes the air backwards and the air pushes the balloon forwards with an equal and opposite force.",
+        "The pair acts on different bodies (balloon and air) and is the same type of force (contact/pressure)."
+      ]
+    },
+    {
+      "id": "1D-Q16",
+      "no": "Q16",
+      "marks": 1,
+      "topic": "Third Law Pair Identification",
+      "keywords": ["trolley", "newton third law", "pair", "person", "floor", "drag force", "constant velocity", "forces"],
+      "question": "A person pushes a trolley at constant velocity. P (floor on person), Q (person on trolley), R (trolley on person) and S (drag on trolley). Which pair is a Newton third law pair?",
+      "status": "ready",
+      "answer": "B: Q and R",
+      "steps": [
+        "A third law pair acts on two different bodies, is equal in size, opposite in direction and the same type of force.",
+        "Q (person on trolley) and R (trolley on person) act on different bodies, in opposite directions, and are both contact forces.",
+        "P and R both act on the person, and Q and S both act on the trolley, so these are not pairs.",
+        "Option B is correct."
+      ]
+    },
+    {
+      "id": "1D-Q17",
+      "no": "Q17",
+      "marks": 1,
+      "topic": "Third Law Statement",
+      "keywords": ["newton third law", "action reaction", "same object", "magnitude", "same time", "same type", "not true", "forces"],
+      "question": "Two forces form a Newton third law pair. Which statement is not true?",
+      "status": "ready",
+      "answer": "A: the forces act on the same object",
+      "steps": [
+        "A third law pair acts on two different objects, not the same object.",
+        "The forces have the same magnitude and act for the same time.",
+        "They are always the same type of force (for example both gravitational or both contact).",
+        "So the untrue statement is A."
+      ]
+    },
+    {
+      "id": "1D-Q18",
+      "no": "Q18",
+      "marks": 1,
+      "topic": "Third Law Properties",
+      "keywords": ["newton third law", "pair", "different bodies", "same type", "magnitude", "direction", "true statement", "forces"],
+      "question": "Two forces make a Newton third law pair. Which statement is true of these forces?",
+      "status": "ready",
+      "answer": "B: they are the same type of force and act on different bodies",
+      "steps": [
+        "Third law pairs are equal in magnitude and opposite in direction.",
+        "They act on different bodies, so A (same body) is wrong.",
+        "C and D are wrong because the magnitudes are the same.",
+        "B is correct: they are the same type of force and act on different bodies."
+      ]
+    },
+    {
+      "id": "1D-Q19",
+      "no": "Q19",
+      "marks": 1,
+      "topic": "Third Law Description",
+      "keywords": ["newton third law", "interaction", "same direction", "opposite direction", "magnitude", "different objects", "same time", "forces"],
+      "question": "When two objects interact they exert forces on each other. Which statement is not a correct description of these forces?",
+      "status": "ready",
+      "answer": "B: the forces act in the same direction",
+      "steps": [
+        "Newton third law forces act at the same time (A is correct).",
+        "The forces act on different objects (C is correct) and have the same magnitude (D is correct).",
+        "The forces act in opposite directions, so B is the incorrect statement."
+      ]
+    },
+    {
+      "id": "1D-Q20",
+      "no": "Q20",
+      "marks": 1,
+      "topic": "Gravitational Force Pair",
+      "keywords": ["star", "planet", "gravitational force", "newton third law", "pair", "table", "magnitude", "direction"],
+      "question": "A massive star exerts gravitational force Fstar on a distant planet, and the planet exerts Fplanet on the star. Which row of the table is correct?",
+      "status": "pending",
+      "answer": "Needs the table rows from the PDF; the text does not show the options.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q21",
+      "no": "Q21",
+      "marks": 1,
+      "topic": "Cube Table Force Pairs",
+      "keywords": ["cube", "table", "normal force", "weight", "newton third law", "four legs", "reaction", "free-body diagram"],
+      "question": "A uniform solid cube rests on a four-legged table. Which statement about the forces on the table and cube is correct according to Newton third law?",
+      "status": "pending",
+      "answer": "Needs the diagram of forces on the table and cube (labels Rc, Rt, Rf, Wc, Wt) from the PDF to match the labels.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q22",
+      "no": "Q22",
+      "marks": 1,
+      "topic": "Rocket In Orbit",
+      "keywords": ["rocket", "orbit", "engines off", "motion", "newton first law", "gravity", "table", "resulting motion"],
+      "question": "Once in orbit above the atmosphere, the rocket engines are switched off. Which row of the table gives the resulting motion and the law explaining it?",
+      "status": "pending",
+      "answer": "Needs the table rows from the PDF; the options are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q23a",
+      "no": "Q23(a)",
+      "marks": 5,
+      "topic": "Golf Ball Range",
+      "keywords": ["golf ball", "projectile", "range", "upper level", "launch angle", "landing height", "air resistance", "trajectory"],
+      "question": "A golf ball is hit at 33 m/s at 28 deg to the horizontal from the lower level and lands 92 m away. An upper level 4.5 m higher adds 10 m. Ignoring air resistance, would the upper level be sufficient?",
+      "status": "ready",
+      "answer": "No. From 4.5 m the ball travels about 99.8 m, an increase of about 8 m, which is less than the 10 m needed.",
+      "steps": [
+        "Components: u_x = 33 cos28 = 29.1 m/s; u_y = 33 sin28 = 15.5 m/s upwards.",
+        "Check on the lower level: R = u^2 sin(2 theta)/g = 33^2 sin56 / 9.81 = 92.0 m, matching the text.",
+        "From the upper level the ball lands 4.5 m below launch: 4.905t^2 - 15.5t - 4.5 = 0, so t = 3.43 s.",
+        "Horizontal distance = 29.1 x 3.43 = 99.8 m.",
+        "Increase = 99.8 - 92 = 7.8 m, which is less than the 10 m required (102 m needed).",
+        "So an upper level at 4.5 m would not be sufficient."
+      ]
+    },
+    {
+      "id": "1D-Q23b",
+      "no": "Q23(b)",
+      "marks": 6,
+      "topic": "Air Resistance Trajectory",
+      "keywords": ["golf ball", "air resistance", "trajectory", "drag", "projectile", "range", "horizontal velocity", "path"],
+      "question": "Explain the differences between the golf ball paths with and without air resistance, as shown in a diagram.",
+      "status": "pending",
+      "answer": "Needs the two trajectories from the PDF diagram to describe the differences accurately.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q24a",
+      "no": "Q24(a)",
+      "marks": 4,
+      "topic": "Kite Tension Equilibrium",
+      "keywords": ["kite", "tension", "wind force", "equilibrium", "weight", "resolve", "vector diagram", "string"],
+      "question": "A kite of weight 24 N is held in equilibrium by a string. The wind exerts 70 N at 43 deg to the vertical. Find the tension in the string.",
+      "status": "ready",
+      "answer": "About 55 N",
+      "steps": [
+        "Resolve the wind force: horizontal = 70 sin43 = 47.7 N; vertical = 70 cos43 = 51.2 N (wind pushes the kite upwards and sideways).",
+        "Vertical balance: the string must supply 51.2 - 24 = 27.2 N downwards.",
+        "Horizontal balance: the string supplies 47.7 N opposite to the wind's horizontal component.",
+        "T = sqrt(27.2^2 + 47.7^2) = 54.9 N, about 55 N.",
+        "A scaled vector diagram gives the same value."
+      ]
+    },
+    {
+      "id": "1D-Q24b",
+      "no": "Q24(b)",
+      "marks": 5,
+      "topic": "Tension From Photograph",
+      "keywords": ["kite", "tension", "mass holder", "photograph", "equilibrium", "vector diagram", "horizontal string", "scale"],
+      "question": "A student uses masses on a holder until part of the string is horizontal, then photographs the arrangement. Describe how the photograph can be used to determine the tension T.",
+      "status": "pending",
+      "answer": "Needs the photograph in the PDF to see which angles and forces the student measures.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q25a",
+      "no": "Q25(a)",
+      "marks": 4,
+      "topic": "Luge Free Body Diagram",
+      "keywords": ["luge", "sledge", "athlete", "free-body diagram", "weight", "normal reaction", "friction", "air resistance"],
+      "question": "Draw a free-body force diagram for the sledge and athlete accelerating down a straight section of an icy track, showing the relative sizes of the forces.",
+      "status": "pending",
+      "answer": "Needs the luge diagram in the PDF to check the force arrows and their relative sizes.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q25b(i)",
+      "no": "Q25(b)(i)",
+      "marks": 3,
+      "topic": "Mass And Acceleration",
+      "keywords": ["luge", "mass", "initial acceleration", "weight component", "gravity", "friction", "slope", "newton second law"],
+      "question": "Explain why the mass of the athlete has little effect on her initial acceleration down the track.",
+      "status": "ready",
+      "answer": "The weight component down the slope is proportional to mass, so a = g sin(theta) is almost independent of mass while resistive forces are small.",
+      "steps": [
+        "The net force down the slope is the weight component mg sin(theta) minus resistive forces.",
+        "The weight component is proportional to mass.",
+        "Acceleration = force/mass, so the mass cancels: a = g sin(theta).",
+        "Initially the speed is low, so friction and air resistance are small compared with the weight component.",
+        "So the mass has little effect on the initial acceleration."
+      ]
+    },
+    {
+      "id": "1D-Q25b(ii)",
+      "no": "Q25(b)(ii)",
+      "marks": 3,
+      "topic": "Maximum Velocity Forces",
+      "keywords": ["luge", "maximum velocity", "resistive forces", "air resistance", "friction", "weight component", "resultant force", "constant velocity"],
+      "question": "Explain, in terms of forces, why the athlete reaches a maximum velocity.",
+      "status": "ready",
+      "answer": "Resistive forces increase with speed until they equal the weight component down the slope; the resultant force is then zero, so the velocity is constant.",
+      "steps": [
+        "Initially the weight component down the slope is larger than the resistive forces, so the athlete accelerates.",
+        "Air resistance and friction increase as speed increases.",
+        "The resultant force, and so the acceleration, decreases as speed increases.",
+        "At maximum velocity the resistive forces equal the weight component down the slope.",
+        "The resultant force is zero, so by Newton first law the velocity is constant."
+      ]
+    },
+    {
+      "id": "1D-Q25b(iii)",
+      "no": "Q25(b)(iii)",
+      "marks": 2,
+      "topic": "Athlete Mass Limit",
+      "keywords": ["luge", "mass", "maximum speed", "air resistance", "frontal area", "drag", "athlete", "suggest"],
+      "question": "It is stated that maximum speed is greater for heavier athletes, but only up to a certain mass. Suggest why.",
+      "status": "pending",
+      "answer": "Open-ended; check the expected reasoning (for example drag from body size) against the PDF mark scheme before marking.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q25c(i)",
+      "no": "Q25(c)(i)",
+      "marks": 1,
+      "topic": "Track Gradient Angle",
+      "keywords": ["gradient", "percent", "angle", "tan", "track", "horizontal", "slope", "trigonometry"],
+      "question": "Show that a track with a gradient of 20 % is at an angle of about 11 deg to the horizontal.",
+      "status": "ready",
+      "answer": "tan(theta) = 0.20, so theta = 11.3 deg, about 11 deg",
+      "steps": [
+        "A gradient of 20 % means a rise of 20 m for every 100 m of horizontal distance.",
+        "So tan(theta) = 0.20.",
+        "theta = tan^-1(0.20) = 11.3 deg.",
+        "This is about 11 deg, as stated."
+      ]
+    },
+    {
+      "id": "1D-Q25c(ii)",
+      "no": "Q25(c)(ii)",
+      "marks": 5,
+      "topic": "Braking Length Uphill",
+      "keywords": ["sledge", "braking force", "uphill", "gradient", "deceleration", "length", "work done", "energy"],
+      "question": "A 95 kg athlete reaches the finish at 33 m/s on an uphill section of 20 % gradient. Her braking force is 240 N. Ignoring friction other than her braking, calculate the minimum uphill length L needed to stop.",
+      "status": "ready",
+      "answer": "L = 122 m (about 120 m)",
+      "steps": [
+        "Weight component down the slope = mg sin(theta) = 95 x 9.81 x sin(11.3 deg) = 95 x 9.81 x 0.196 = 183 N.",
+        "Total retarding force along the slope = 183 + 240 = 423 N.",
+        "Deceleration a = 423 / 95 = 4.45 m/s^2.",
+        "Use v^2 = u^2 - 2aL with v = 0: L = 33^2 / (2 x 4.45) = 122 m.",
+        "Check by energy: (1/2)mv^2 = (240 + mg sin theta) x L gives the same result."
+      ]
+    },
+    {
+      "id": "1D-Q26",
+      "no": "Q26",
+      "marks": 1,
+      "topic": "Box On Ramp Pair",
+      "keywords": ["box", "ramp", "newton third law", "normal reaction", "friction", "free-body diagram", "constant velocity", "pair"],
+      "question": "A box moves down a ramp at constant velocity. Which two forces on the box have corresponding forces acting on the ramp by Newton third law?",
+      "status": "ready",
+      "answer": "B: F and R (friction and normal reaction)",
+      "steps": [
+        "Third law partners of contact forces from the ramp on the box act on the ramp.",
+        "Friction F and normal reaction R are both contact forces from the ramp on the box.",
+        "The reaction to the weight W acts on the Earth, not the ramp, so options A, C and D are wrong.",
+        "Option B is correct."
+      ]
+    },
+    {
+      "id": "1D-Q27a",
+      "no": "Q27(a)",
+      "marks": 2,
+      "topic": "Sledge Free Body Diagram",
+      "keywords": ["sledge", "frictionless slope", "free-body diagram", "weight", "normal contact force", "slope", "forces", "diagram"],
+      "question": "Complete the free-body force diagram for a sledge sliding down a frictionless slope with no air resistance.",
+      "status": "pending",
+      "answer": "Needs the diagram in the PDF; expected forces are weight vertically down and normal contact force perpendicular to the slope.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q27b(i)",
+      "no": "Q27(b)(i)",
+      "marks": 2,
+      "topic": "Slope Acceleration",
+      "keywords": ["sledge", "slope", "frictionless", "acceleration", "gravity", "6.9 degrees", "weight component", "newton second law"],
+      "question": "Show that the initial acceleration of a sledge down a frictionless slope at 6.9 deg to the horizontal is about 1 m/s^2.",
+      "status": "ready",
+      "answer": "a = g sin(6.9 deg) = 1.18 m/s^2, about 1.2 m/s^2",
+      "steps": [
+        "With no friction or air resistance, the only force along the slope is the weight component mg sin(theta).",
+        "Newton second law: m a = mg sin(theta), so a = g sin(theta).",
+        "a = 9.81 x sin(6.9 deg) = 9.81 x 0.120 = 1.18 m/s^2.",
+        "This is about 1 m/s^2, as stated."
+      ]
+    },
+    {
+      "id": "1D-Q27b(ii)",
+      "no": "Q27(b)(ii)",
+      "marks": 2,
+      "topic": "Speed At Slope End",
+      "keywords": ["sledge", "slope", "speed", "acceleration", "distance", "constant acceleration", "suvat", "end of slope"],
+      "question": "The slope is 60 m long. Determine the speed of the sledge at the end of the slope, starting from rest with acceleration 1.18 m/s^2.",
+      "status": "ready",
+      "answer": "11.9 m/s (about 12 m/s)",
+      "steps": [
+        "The sledge starts from rest and has constant acceleration along the slope.",
+        "Use v^2 = u^2 + 2as with u = 0: v^2 = 2 x 1.18 x 60 = 141.6 m^2/s^2.",
+        "v = sqrt(141.6) = 11.9 m/s.",
+        "The speed at the end of the slope is about 12 m/s."
+      ]
+    },
+    {
+      "id": "1D-Q27b(iii)",
+      "no": "Q27(b)(iii)",
+      "marks": 2,
+      "topic": "Time Down Slope",
+      "keywords": ["sledge", "slope", "time", "acceleration", "speed", "displacement", "constant acceleration", "suvat"],
+      "question": "Determine the time taken for the sledge to travel the 60 m slope from rest with acceleration 1.18 m/s^2.",
+      "status": "ready",
+      "answer": "10.1 s",
+      "steps": [
+        "The sledge starts from rest with constant acceleration a = 1.18 m/s^2.",
+        "Use s = ut + (1/2)at^2 with u = 0: t = sqrt(2 x 60 / 1.18) = sqrt(101.7) = 10.1 s.",
+        "Check with v = u + at: t = 11.9 / 1.18 = 10.1 s.",
+        "The time taken is about 10.1 s."
+      ]
+    },
+    {
+      "id": "1D-Q28",
+      "no": "Q28",
+      "marks": 1,
+      "topic": "Force Position Diagram",
+      "keywords": ["cube", "table", "force diagram", "point of action", "normal force", "weight", "wrong position", "arrows"],
+      "question": "A uniform solid cube rests on a table. The dot at the start of each arrow shows where the force acts. Which force (Rc, Rt, Wc or Wt) is drawn in the wrong position?",
+      "status": "pending",
+      "answer": "Needs the cube and table diagram in the PDF to see which arrow starts at the wrong point.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q29a",
+      "no": "Q29(a)",
+      "marks": 2,
+      "topic": "Disc Force Pair Reasons",
+      "keywords": ["disc", "magnetic base", "newton third law", "equal and opposite", "same object", "free-body diagram", "forces", "reasons"],
+      "question": "A disc of mass m is held stationary by a magnetic force F. Its free-body diagram shows two equal and opposite forces. Give two reasons why these are not a Newton third law pair.",
+      "status": "pending",
+      "answer": "Needs the disc free-body diagram from the PDF to name the forces and their types (both act on the disc).",
+      "steps": []
+    },
+    {
+      "id": "1D-Q29b",
+      "no": "Q29(b)",
+      "marks": 2,
+      "topic": "Magnetic Base Diagram",
+      "keywords": ["magnetic base", "table", "weight", "normal reaction", "free-body diagram", "magnetic force", "disc", "forces"],
+      "question": "A magnetic base of weight W rests on a horizontal table and holds a disc. Complete the free-body force diagram for the base.",
+      "status": "pending",
+      "answer": "Needs the PDF diagram; expected forces are weight W down, normal reaction up from the table, and the disc's downward pull on the base.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q30a",
+      "no": "Q30(a)",
+      "marks": 4,
+      "topic": "Engine Free Body Diagram",
+      "keywords": ["railway engine", "truck", "free-body diagram", "constant velocity", "normal reaction", "weight", "drag", "forces"],
+      "question": "A railway engine pushes a truck at constant velocity on horizontal rails. Complete the free-body diagram showing all forces acting on the engine.",
+      "status": "pending",
+      "answer": "Needs the engine diagram in the PDF to check the arrow labels and directions.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q30b",
+      "no": "Q30(b)",
+      "marks": 5,
+      "topic": "Third Law Pair Features",
+      "keywords": ["weight", "normal reaction", "newton third law", "pair", "engine", "different bodies", "same type", "explain"],
+      "question": "A student suggests the weight of a railway engine and the normal reaction on it form a Newton third law pair. Explain why this is not correct.",
+      "status": "ready",
+      "answer": "Both forces act on the engine, and they are different types of force, so they are not a third law pair.",
+      "steps": [
+        "A third law pair acts on two different bodies, and the two forces are the same type.",
+        "The weight of the engine is the pull of the Earth on the engine; its pair is the engine's pull on the Earth.",
+        "The normal reaction is the push of the rails on the engine; its pair is the engine's push on the rails.",
+        "Weight and normal reaction both act on the engine, so they cannot be a pair.",
+        "Weight is gravitational and normal reaction is a contact force, so they are different types of force.",
+        "Being equal and opposite in equilibrium does not by itself make them a third law pair."
+      ]
+    },
+    {
+      "id": "1D-Q31",
+      "no": "Q31",
+      "marks": 1,
+      "topic": "Gravitational Field Strength",
+      "keywords": ["gravitational field strength", "per unit mass", "gravitational force", "definition", "newtons per kilogram", "field", "point", "potential"],
+      "question": "Which statement describes the gravitational field strength acting on a body at a point? A: force per unit length; B: force per unit mass; C: potential energy per unit length; D: potential energy per unit mass.",
+      "status": "ready",
+      "answer": "B: gravitational force per unit mass",
+      "steps": [
+        "Gravitational field strength g is defined as the gravitational force per unit mass at a point (g = F/m).",
+        "Its unit is N/kg, which is the same as m/s^2.",
+        "A uses length, C and D involve potential energy, which are not the definition of field strength.",
+        "Option B is correct."
+      ]
+    },
+    {
+      "id": "1D-Q32",
+      "no": "Q32",
+      "marks": 1,
+      "topic": "Field Strength Definition",
+      "keywords": ["gravitational field strength", "weight per unit mass", "acceleration", "units", "newtons per kilogram", "definition", "gravity", "field"],
+      "question": "Which of the following describes gravitational field strength? A: weight per unit mass; B: acceleration per unit mass; C: gravitational potential energy per unit mass; D: acceleration per unit weight.",
+      "status": "ready",
+      "answer": "A: weight per unit mass",
+      "steps": [
+        "Field strength g = W/m, so it is weight per unit mass.",
+        "Its unit is N/kg, equivalent to m/s^2 because weight is mass x acceleration.",
+        "B has the wrong units for field strength (acceleration per unit mass is m s^-2 kg^-1).",
+        "C and D do not match the definition, so A is the answer."
+      ]
+    },
+    {
+      "id": "1D-Q33",
+      "no": "Q33",
+      "marks": 1,
+      "topic": "Equivalent Units",
+      "keywords": ["units", "equivalent units", "table", "newton", "joule", "kilogram", "si units", "dimensions"],
+      "question": "Which row of the table contains two units that are not equivalent?",
+      "status": "pending",
+      "answer": "Needs the table of unit pairs from the PDF; the options are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q34",
+      "no": "Q34",
+      "marks": 2,
+      "topic": "Perpendicular Force Resultant",
+      "keywords": ["resultant force", "perpendicular forces", "scaled vector diagram", "magnitude", "vector addition", "newtons", "pythagoras", "forces"],
+      "question": "Two perpendicular forces act on an object. Determine the magnitude of the resultant force using a scaled vector diagram.",
+      "status": "pending",
+      "answer": "Needs the two force magnitudes from the PDF diagram to scale the vector triangle.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q35a",
+      "no": "Q35(a)",
+      "marks": 3,
+      "topic": "Zip Line Free Body Diagram",
+      "keywords": ["zip-line", "wheel", "person", "free-body diagram", "accelerating", "tension", "weight", "forces"],
+      "question": "A person on a zip-line is accelerating. Complete the free-body diagram showing the three forces acting on the person.",
+      "status": "pending",
+      "answer": "Needs the PDF diagram of the person on the zip-line to confirm the three forces and their directions.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q35b(i)",
+      "no": "Q35(b)(i)",
+      "marks": 2,
+      "topic": "Cable Force On Wheel",
+      "keywords": ["zip-line", "cable", "tension", "wheel", "angle", "resultant", "cosine", "newtons"],
+      "question": "The cable tension is 1200 N and the angle formed by the cable at the wheel is 144 deg. Show by calculation that the force on the wheel from the cable is about 740 N.",
+      "status": "ready",
+      "answer": "R = 2 x 1200 x cos72 = 742 N, about 740 N",
+      "steps": [
+        "The cable pulls the wheel along two parts, each with tension T = 1200 N.",
+        "The angle between the two parts is 144 deg, so each part makes 72 deg with the line bisecting that angle.",
+        "The resultant of two equal forces is R = 2T cos(144/2) = 2 x 1200 x cos72.",
+        "R = 2400 x 0.309 = 742 N, about 740 N."
+      ]
+    },
+    {
+      "id": "1D-Q35b(ii)",
+      "no": "Q35(b)(ii)",
+      "marks": 4,
+      "topic": "Resultant Force On Wheel",
+      "keywords": ["wheel", "resultant force", "cable force", "wire force", "150 degrees", "scaled vector diagram", "cosine rule", "newtons"],
+      "question": "The wheel has a 740 N force from the cable and an 800 N force from the wire, with an angle of 150 deg between them. Find the magnitude of the resultant force, ignoring the weight of the wheel.",
+      "status": "ready",
+      "answer": "About 400 N (403 N)",
+      "steps": [
+        "Place the two forces tail to tail with 150 deg between them.",
+        "Cosine rule: R^2 = 740^2 + 800^2 + 2 x 740 x 800 x cos150.",
+        "R^2 = 547 600 + 640 000 - 1 025 300 = 162 300 N^2.",
+        "R = sqrt(162 300) = 403 N, about 400 N.",
+        "A correctly scaled vector diagram with the same angle gives about 400 N."
+      ]
+    },
+    {
+      "id": "1D-Q35c",
+      "no": "Q35(c)",
+      "marks": 3,
+      "topic": "Energy And Speed",
+      "keywords": ["zip-line", "speed", "mass", "gravitational potential energy", "kinetic energy", "low point", "energy conservation", "height"],
+      "question": "People of different masses start from rest at the high point of a zip-line. Explain why their speeds at the low point are always about the same.",
+      "status": "ready",
+      "answer": "Loss of gravitational potential energy mgh equals gain of kinetic energy (1/2)mv^2, so v = sqrt(2gh), which does not depend on mass.",
+      "steps": [
+        "Each person starts from rest at the same height, so their initial kinetic energy is zero.",
+        "The gravitational potential energy lost is mgh.",
+        "At the low point the kinetic energy gained is (1/2)mv^2.",
+        "Energy conservation gives (1/2)mv^2 = mgh, so v^2 = 2gh.",
+        "The mass cancels, so the speed depends only on the height drop.",
+        "Friction and drag are small, so the speeds are about the same."
+      ]
+    },
+    {
+      "id": "1D-Q36",
+      "no": "Q36",
+      "marks": 1,
+      "topic": "Bird On String Tension",
+      "keywords": ["bird", "string", "tension", "weight", "angle", "equilibrium", "posts", "resolve"],
+      "question": "A bird of weight W stands on the middle of a string between two posts. The string makes 80 deg with each post and has tension T. Which expression is correct?",
+      "status": "pending",
+      "answer": "Needs the four expression options from the PDF; expected W = 2T cos80, so T = W/(2 cos80).",
+      "steps": []
+    },
+    {
+      "id": "1D-Q37",
+      "no": "Q37",
+      "marks": 1,
+      "topic": "Constant Speed On Slope",
+      "keywords": ["box", "slope", "constant speed", "resistive forces", "weight component", "equilibrium", "newton first law", "friction"],
+      "question": "A box slides down a slope at constant speed under weight and resistive forces. Which is a reason why its speed is constant?",
+      "status": "ready",
+      "answer": "A: the component of weight parallel to the slope equals the sum of the resistive forces",
+      "steps": [
+        "Constant speed means zero resultant force along the slope (Newton first law).",
+        "The weight component down the slope must be balanced by the resistive forces up the slope.",
+        "So the weight component parallel to the slope equals the sum of the resistive forces.",
+        "B would give acceleration, and C and D concern the perpendicular component, which balances the normal reaction."
+      ]
+    },
+    {
+      "id": "1D-Q38",
+      "no": "Q38",
+      "marks": 1,
+      "topic": "Third Law Pair Weight",
+      "keywords": ["cable car", "weight", "newton third law", "pair", "gravitational pull", "earth", "equilibrium", "normal contact force"],
+      "question": "A cable car hangs in equilibrium from a cable. Which force forms a Newton third law pair with the weight of the cable car?",
+      "status": "ready",
+      "answer": "B: the gravitational pull of the cable car on the Earth",
+      "steps": [
+        "The weight of the cable car is the gravitational pull of the Earth on the car.",
+        "Its third law partner is the equal and opposite gravitational pull of the car on the Earth.",
+        "Option B is that force.",
+        "A, C and D are forces on the car, not on the Earth, so they cannot be the pair."
+      ]
+    },
+    {
+      "id": "1D-Q39",
+      "no": "Q39",
+      "marks": 1,
+      "topic": "Boats Forward Component",
+      "keywords": ["boats", "ship", "rope", "forward component", "resolve", "angle", "tow", "force components"],
+      "question": "Two boats A and B pull a ship with forces FA and FB at angles of 31 deg and 27 deg. Which expression gives the forward component of the total force?",
+      "status": "pending",
+      "answer": "Needs the diagram to confirm whether 31 deg and 27 deg are measured from the forward direction (which would give option C).",
+      "steps": []
+    },
+    {
+      "id": "1D-Q40",
+      "no": "Q40",
+      "marks": 3,
+      "topic": "Cartesian Diver Buoyancy",
+      "keywords": ["cartesian diver", "upthrust", "boyle's law", "trapped air", "pressure", "weight", "net force", "downward"],
+      "question": "Squeezing a sealed bottle forces more water into a diver tube and reduces the trapped air volume. Explain why the diver accelerates downwards.",
+      "status": "ready",
+      "answer": "Pressure compresses the trapped air, so the displaced volume and upthrust fall while the weight rises slightly; weight then exceeds upthrust.",
+      "steps": [
+        "Squeezing the bottle increases the pressure of the water.",
+        "The trapped air is compressed (pV constant, Boyle's law), so its volume decreases.",
+        "The diver displaces less water, so the upthrust (weight of water displaced) decreases.",
+        "More water enters the tube, so the weight of the diver increases slightly.",
+        "Weight now exceeds upthrust, so the resultant force is downwards and the diver accelerates downwards."
+      ]
+    },
+    {
+      "id": "1D-Q41",
+      "no": "Q41",
+      "marks": 1,
+      "topic": "Coin And Feather Fall",
+      "keywords": ["coin", "feather", "air resistance", "terminal velocity", "acceleration", "falling", "table", "free fall"],
+      "question": "A coin and a feather are dropped from the same height through air. Which row of the table is correct as they fall?",
+      "status": "pending",
+      "answer": "Needs the table rows from the PDF; the options are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q42",
+      "no": "Q42",
+      "marks": 3,
+      "topic": "Mass Of People",
+      "keywords": ["car", "mass", "acceleration", "resultant force", "people", "newton second law", "total mass", "kilograms"],
+      "question": "A car of mass 1850 kg accelerates at 0.230 m/s^2 under a resultant force of 460 N after people sit in it. Calculate the total mass of the people.",
+      "status": "ready",
+      "answer": "150 kg",
+      "steps": [
+        "Newton second law: total mass = F/a = 460 / 0.230 = 2000 kg.",
+        "Total mass = mass of car + mass of people.",
+        "Mass of people = 2000 - 1850 = 150 kg."
+      ]
+    },
+    {
+      "id": "1D-Q43",
+      "no": "Q43",
+      "marks": 3,
+      "topic": "Boat Weight",
+      "keywords": ["boat", "weight", "resultant force", "acceleration", "mass", "newton second law", "gravity", "newtons"],
+      "question": "A boat has a resultant force of 4800 N acting on it and an acceleration of 0.31 m/s^2. Calculate the weight of the boat.",
+      "status": "ready",
+      "answer": "1.5 x 10^5 N",
+      "steps": [
+        "Newton second law: m = F/a = 4800 / 0.31 = 1.55 x 10^4 kg.",
+        "Weight W = mg = 1.55 x 10^4 x 9.81 = 1.52 x 10^5 N.",
+        "Weight of the boat is about 1.5 x 10^5 N."
+      ]
+    },
+    {
+      "id": "1D-Q44",
+      "no": "Q44",
+      "marks": 1,
+      "topic": "Projectile Time Of Flight",
+      "keywords": ["ball", "table", "time of flight", "mass", "speed", "projectile", "height", "landing"],
+      "question": "A ball of mass m leaves a table at speed v and takes time t to land. A second ball of mass 2m leaves at speed 2v. Which expression gives its time from leaving the table to landing?",
+      "status": "pending",
+      "answer": "Needs the four options from the PDF (the options are not in the text); expected answer t, since fall time depends only on height.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q45",
+      "no": "Q45",
+      "marks": 1,
+      "topic": "Picture Wire Forces",
+      "keywords": ["picture", "wire", "tension", "weight", "hook", "equilibrium", "relationship", "forces"],
+      "question": "A wire hangs a picture of weight W from a hook, exerting tensions T1 and T2. Which option describes the relationship between the forces?",
+      "status": "pending",
+      "answer": "Needs the four options and the diagram from the PDF; the text does not show them.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q46",
+      "no": "Q46",
+      "marks": 1,
+      "topic": "Box Constant Speed Friction",
+      "keywords": ["box", "ramp", "friction", "constant speed", "weight component", "incline", "equilibrium", "resultant force"],
+      "question": "A box of weight W slides at constant speed down a ramp at angle theta, with friction F acting up the slope. Which relationship is correct?",
+      "status": "ready",
+      "answer": "C: F = W sin(theta)",
+      "steps": [
+        "Constant speed means zero resultant force along the slope.",
+        "Along the slope, the friction F acts up the slope and the weight component W sin(theta) acts down it.",
+        "So F = W sin(theta) (options A and B use cos, which is the perpendicular component).",
+        "D gives an inequality, but at constant speed the forces are equal, so C is correct."
+      ]
+    },
+    {
+      "id": "1D-Q47",
+      "no": "Q47",
+      "marks": 1,
+      "topic": "Chair Forces Not Pair",
+      "keywords": ["person", "chair", "weight", "normal contact force", "newton third law", "same object", "pair", "reason"],
+      "question": "A person sits on a chair and the forces on the person are weight and normal contact force. Which is a reason these do not form a Newton third law pair?",
+      "status": "ready",
+      "answer": "C: the forces act on the same object",
+      "steps": [
+        "A third law pair acts on two different objects.",
+        "Weight and normal contact force both act on the person.",
+        "So they are not a third law pair; this is the reason in option C.",
+        "A and B are not reasons, since the chair is stationary and opposite directions is a feature of pairs; D is also a feature of pairs."
+      ]
+    },
+    {
+      "id": "1D-Q48",
+      "no": "Q48",
+      "marks": 1,
+      "topic": "Helicopter Resultant Force",
+      "keywords": ["helicopter", "resultant force", "forces", "vector", "magnitude", "newtons", "diagram", "expression"],
+      "question": "Forces act on a helicopter shown as a dot in a diagram. Which expression gives the magnitude of the resultant force on it?",
+      "status": "pending",
+      "answer": "Needs the force diagram and the options from the PDF; the text does not show them.",
+      "steps": []
+    },
+    {
+      "id": "1D-Q49a(i)",
+      "no": "Q49(a)(i)",
+      "marks": 3,
+      "topic": "Projectile Position Check",
+      "keywords": ["projectile", "launch angle", "horizontal velocity", "ship", "time of flight", "horizontal distance", "air resistance", "vertically above"],
+      "question": "A projectile is launched at 500 m/s at 22 deg to the horizontal. The ship is 15 km away horizontally. Show the projectile is vertically above the ship about 30 s after launch, ignoring air resistance.",
+      "status": "ready",
+      "answer": "The horizontal distance of 15 km is reached at t = 32 s, which is about 30 s.",
+      "steps": [
+        "Horizontal velocity is constant: u_x = 500 cos22 = 464 m/s.",
+        "The projectile is above the ship when its horizontal distance is 15 000 m.",
+        "t = 15 000 / 464 = 32.4 s.",
+        "This is about 30 s, as stated."
+      ]
+    },
+    {
+      "id": "1D-Q49a(ii)",
+      "no": "Q49(a)(ii)",
+      "marks": 4,
+      "topic": "Projectile Height At Ship",
+      "keywords": ["projectile", "height above sea level", "launch height", "vertical velocity", "time of flight", "displacement", "ship", "altitude"],
+      "question": "The launch site is 2.0 km above sea level. Find the height above sea level of the projectile when it passes over the ship, ignoring air resistance.",
+      "status": "ready",
+      "answer": "About 2.9 km (about 2920 m) above sea level",
+      "steps": [
+        "Vertical velocity at launch: u_y = 500 sin22 = 187 m/s upwards.",
+        "After t = 32.4 s the vertical displacement is y = 187 x 32.4 - 4.905 x 32.4^2 = 6060 - 5150 = 920 m.",
+        "Height above the launch point is about 920 m.",
+        "Height above sea level = 2000 + 920 = 2920 m, about 2.9 km."
+      ]
+    },
+    {
+      "id": "1D-Q49b",
+      "no": "Q49(b)",
+      "marks": 4,
+      "topic": "Range Maximum Angle",
+      "keywords": ["projectile", "launch angle", "maximum range", "horizontal component", "vertical component", "time of flight", "components", "sea"],
+      "question": "For a fixed launch speed, the horizontal distance before landing in the sea increases to a maximum and then decreases as the launch angle increases. Explain why there is a maximum.",
+      "status": "ready",
+      "answer": "The horizontal velocity falls as the angle rises while the flight time rises; the range is largest at an optimum angle.",
+      "steps": [
+        "The horizontal component u cos(theta) is largest at small angles, but a small vertical component gives a short flight time.",
+        "The vertical component u sin(theta) increases with angle, so the flight time increases.",
+        "Range = horizontal velocity x flight time, so both effects multiply.",
+        "At small and large angles one of these factors is small, so the range is small.",
+        "The maximum occurs at an optimum angle; because the sea is below the launch point, this angle is less than 45 deg."
+      ]
+    },
+    {
+      "id": "1D-Q50",
+      "no": "Q50",
+      "marks": 1,
+      "topic": "Traffic Light Wire Tension",
+      "keywords": ["traffic lights", "wire", "tension", "weight", "angle", "supports", "equilibrium", "expression"],
+      "question": "Traffic lights of weight W hang from a wire held at an angle theta to the horizontal by two supports. Which expression gives the tension in the wire?",
+      "status": "pending",
+      "answer": "Needs the four expression options from the PDF; the text does not show them (expected T = W/(2 sin theta)).",
+      "steps": []
+    }
+  ]
+}

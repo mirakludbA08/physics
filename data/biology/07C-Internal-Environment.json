@@ -1,0 +1,1880 @@
+{
+  "code": "7C",
+  "title": "Internal environment",
+  "unit": "A2 Unit 4",
+  "pdf": "papers/biology/07C-Internal-Environment.pdf",
+  "questions": [
+    {
+      "id": "7C-Q1a(i)",
+      "no": "Q1(a)(i)",
+      "marks": 1,
+      "topic": "Kidney Region Of Nephron",
+      "keywords": [
+        "kidney",
+        "nephron",
+        "cortex",
+        "medulla",
+        "structures W and X",
+        "diagram",
+        "location"
+      ],
+      "question": "In which part of the kidney are structures W and X on the nephron diagram located (options: cortex, inner medulla, outer medulla, renal pelvis)?",
+      "status": "pending",
+      "answer": "Pending: the labelled nephron diagram (structures W and X) is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q1a(ii)",
+      "no": "Q1(a)(ii)",
+      "marks": 1,
+      "topic": "Site Of Ultrafiltration",
+      "keywords": [
+        "ultrafiltration",
+        "nephron",
+        "Bowman capsule",
+        "glomerulus",
+        "diagram",
+        "structure"
+      ],
+      "question": "In which labelled structure of the nephron diagram does ultrafiltration take place (options W, X, Y, Z)?",
+      "status": "pending",
+      "answer": "Pending: the labelled nephron diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q1a(iii)",
+      "no": "Q1(a)(iii)",
+      "marks": 1,
+      "topic": "Structures Of Loop Of Henle",
+      "keywords": [
+        "loop of Henle",
+        "nephron",
+        "structures X and Y",
+        "diagram",
+        "countercurrent"
+      ],
+      "question": "Which labelled structures on the nephron diagram form part of the loop of Henle (options: X only, X and Y, Y only, Y and Z)?",
+      "status": "pending",
+      "answer": "Pending: the labelled nephron diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q1b",
+      "no": "Q1(b)",
+      "marks": 2,
+      "topic": "Urea Removal By Ultrafiltration",
+      "keywords": [
+        "urea",
+        "ultrafiltration",
+        "blood",
+        "Bowman capsule",
+        "glomerulus",
+        "excretion",
+        "pressure"
+      ],
+      "question": "Explain how ultrafiltration removes urea from the blood.",
+      "status": "ready",
+      "answer": "Urea is small and dissolved in plasma, so it is forced through the glomerulus capillary walls into Bowman capsule by high pressure.",
+      "steps": [
+        "Blood entering the glomerulus is at high hydrostatic pressure.",
+        "Small soluble molecules such as urea pass through the capillary endothelium and basement membrane.",
+        "Urea enters the Bowman capsule as part of the glomerular filtrate, then flows into the nephron.",
+        "Urea is not reabsorbed in significant amounts, so it leaves the body in urine."
+      ]
+    },
+    {
+      "id": "7C-Q1c",
+      "no": "Q1(c)",
+      "marks": 3,
+      "topic": "Kangaroo Rat Desert Success",
+      "keywords": [
+        "kangaroo rat",
+        "brown rat",
+        "desert",
+        "kidney adaptation",
+        "loop of Henle",
+        "urine concentration",
+        "table"
+      ],
+      "question": "Deduce why the kangaroo rat is more successful than the brown rat at living in desert habitats, using the table of kidney adaptations.",
+      "status": "pending",
+      "answer": "Pending: the table comparing the two small mammals is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q2a(i)",
+      "no": "Q2(a)(i)",
+      "marks": 1,
+      "topic": "Reflex Arc Neurone",
+      "keywords": [
+        "reflex arc",
+        "sensory neurone",
+        "receptor",
+        "relay neurone",
+        "motor neurone",
+        "pinprick"
+      ],
+      "question": "Which component of the nervous system continues a reflex arc immediately after the receptor is stimulated (options: motor neurone, relay neurone, Schwann cell, sensory neurone)?",
+      "status": "ready",
+      "answer": "D sensory neurone",
+      "steps": [
+        "The receptor is stimulated and sends the impulse into the reflex arc.",
+        "The next component is the sensory neurone, which carries the impulse to the CNS.",
+        "Relay neurones come later in the CNS, and Schwann cells only insulate axons."
+      ]
+    },
+    {
+      "id": "7C-Q2a(ii)",
+      "no": "Q2(a)(ii)",
+      "marks": 1,
+      "topic": "Pathway Showing Reflex Arc",
+      "keywords": [
+        "reflex arc",
+        "pathway",
+        "receptor",
+        "effector",
+        "sensory neurone",
+        "relay neurone",
+        "pinprick"
+      ],
+      "question": "Which pathway shows a reflex arc (options AW, BX, CY, DZ)?",
+      "status": "pending",
+      "answer": "Pending: the pathway options AW, BX, CY, DZ are not described in the text, so the diagram is needed.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q2b(i)",
+      "no": "Q2(b)(i)",
+      "marks": 3,
+      "topic": "Resting Potential Maintenance",
+      "keywords": [
+        "resting potential",
+        "sodium potassium pump",
+        "active transport",
+        "potassium ions",
+        "membrane permeability",
+        "axon",
+        "-70 mV"
+      ],
+      "question": "Describe how the resting potential of -70 mV is maintained in the axon when no pressure is applied.",
+      "status": "ready",
+      "answer": "The Na+/K+ pump actively moves 3 Na+ out and 2 K+ in using ATP, and the membrane is more permeable to K+, giving a negative inside.",
+      "steps": [
+        "The sodium-potassium pump uses ATP to move 3 Na+ out of the axon and 2 K+ into the axon.",
+        "This creates a higher concentration of Na+ outside and of K+ inside.",
+        "The membrane is more permeable to K+ (K+ leak channels), so K+ diffuses out down its gradient.",
+        "K+ leaving with no balancing anion leaves the inside negative, giving the resting potential of about -70 mV."
+      ]
+    },
+    {
+      "id": "7C-Q2b(ii)",
+      "no": "Q2(b)(ii)",
+      "marks": 3,
+      "topic": "Pressure Triggers Action Potential",
+      "keywords": [
+        "action potential",
+        "Pacinian corpuscle",
+        "pressure",
+        "stretch-mediated",
+        "sodium channels",
+        "depolarisation",
+        "threshold"
+      ],
+      "question": "Suggest how a change in pressure at the Pacinian corpuscle causes an action potential in the axon.",
+      "status": "ready",
+      "answer": "Pressure deforms the corpuscle and stretches the axon membrane, opening Na+ channels; Na+ influx depolarises it to threshold.",
+      "steps": [
+        "Pressure on the Pacinian corpuscle deforms its layers.",
+        "This stretches the membrane of the sensory neurone at its end, opening stretch-mediated sodium channels.",
+        "Na+ diffuses into the axon, making the inside less negative (a generator potential).",
+        "If the depolarisation reaches threshold, voltage-gated Na+ channels open and an action potential is generated."
+      ]
+    },
+    {
+      "id": "7C-Q2b(iii)",
+      "no": "Q2(b)(iii)",
+      "marks": 3,
+      "topic": "All Or Nothing Action Potential",
+      "keywords": [
+        "all or nothing",
+        "action potential",
+        "pressure",
+        "electrode Y",
+        "threshold",
+        "frequency",
+        "membrane potential"
+      ],
+      "question": "Explain why the membrane potential at electrode Y was the same when medium or high pressure was applied to the fingertip.",
+      "status": "ready",
+      "answer": "Once threshold is reached an action potential always has the same size (all-or-nothing); higher pressure only increases the frequency.",
+      "steps": [
+        "Medium and high pressure both produce a generator potential that reaches threshold.",
+        "An action potential is all-or-nothing: once threshold is reached it has the same size (about +40 mV).",
+        "Higher pressure makes action potentials more frequent rather than bigger.",
+        "So the membrane potential measured at Y is the same at medium and high pressure."
+      ]
+    },
+    {
+      "id": "7C-Q3a",
+      "no": "Q3(a)",
+      "marks": 2,
+      "topic": "Role Of Calcium In Contraction",
+      "keywords": [
+        "calcium ions",
+        "troponin",
+        "tropomyosin",
+        "muscle fibre",
+        "contraction",
+        "actin",
+        "myosin binding sites"
+      ],
+      "question": "Describe the role of calcium ions in producing contraction of a muscle fibre.",
+      "status": "ready",
+      "answer": "Ca2+ binds to troponin, moving tropomyosin off the actin binding sites so myosin can form cross bridges.",
+      "steps": [
+        "A nerve impulse releases Ca2+ from the sarcoplasmic reticulum.",
+        "Ca2+ binds to troponin, which changes shape.",
+        "This moves tropomyosin away from the myosin binding sites on actin, so cross bridges can form and the muscle contracts."
+      ]
+    },
+    {
+      "id": "7C-Q3b",
+      "no": "Q3(b)",
+      "marks": 4,
+      "topic": "Slow Twitch Fibre Benefits",
+      "keywords": [
+        "slow twitch fibres",
+        "marathon runner",
+        "endurance",
+        "mitochondria",
+        "myoglobin",
+        "table",
+        "features"
+      ],
+      "question": "Explain how the features of slow twitch fibres, shown in the table, benefit an Olympic marathon runner.",
+      "status": "pending",
+      "answer": "Pending: the table listing the features of slow and fast twitch fibres is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q3c",
+      "no": "Q3(c)",
+      "marks": 2,
+      "topic": "Heat Loss During Exercise",
+      "keywords": [
+        "heat loss",
+        "exercise",
+        "rest",
+        "graph",
+        "metabolic heat",
+        "body temperature",
+        "thermoregulation"
+      ],
+      "question": "Comment on the rate of heat loss during exercise, using the graph of heat loss at rest and during exercise.",
+      "status": "pending",
+      "answer": "Pending: the graph of the rate of heat loss at rest and during exercise is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q4a",
+      "no": "Q4(a)",
+      "marks": 2,
+      "topic": "Negative Versus Positive Feedback",
+      "keywords": [
+        "negative feedback",
+        "positive feedback",
+        "homeostasis",
+        "stimulus",
+        "response",
+        "reverses",
+        "reinforces"
+      ],
+      "question": "Describe the difference between a negative feedback mechanism and a positive feedback mechanism.",
+      "status": "ready",
+      "answer": "Negative feedback reverses a change to return conditions to a set point; positive feedback amplifies the change further.",
+      "steps": [
+        "Negative feedback: a change triggers a response that opposes and reverses the change, returning conditions to normal (homeostasis).",
+        "Positive feedback: a change triggers a response that increases the change further, pushing it away from the set point.",
+        "Negative feedback is the common homeostatic control; positive feedback is rarer, for example in blood clotting or childbirth."
+      ]
+    },
+    {
+      "id": "7C-Q4b",
+      "no": "Q4(b)",
+      "marks": 1,
+      "topic": "Thermoregulation Equilibrium",
+      "keywords": [
+        "thermoregulation",
+        "homeostasis",
+        "body temperature",
+        "37 degrees",
+        "dynamic equilibrium",
+        "heat"
+      ],
+      "question": "Which statement about thermoregulation at a body temperature of 37 degrees C is correct (options given in text)?",
+      "status": "ready",
+      "answer": "D the body temperature is maintained in a dynamic equilibrium",
+      "steps": [
+        "Thermoregulation is always required to keep temperature steady.",
+        "The body always generates heat and loses heat, so statement B is false.",
+        "Heat production and loss are balanced (dynamic equilibrium), so D is correct."
+      ]
+    },
+    {
+      "id": "7C-Q4c(i)",
+      "no": "Q4(c)(i)",
+      "marks": 3,
+      "topic": "Filtration Of Small Molecules",
+      "keywords": [
+        "glomerulus",
+        "ultrafiltration",
+        "creatinine",
+        "pressure",
+        "small molecules",
+        "capillary",
+        "basement membrane"
+      ],
+      "question": "Explain how small molecules such as creatinine are filtered from the blood in the glomerulus.",
+      "status": "ready",
+      "answer": "High hydrostatic pressure in the glomerulus forces small molecules through the capillary wall and basement membrane into Bowman capsule.",
+      "steps": [
+        "The afferent arteriole is wider than the efferent arteriole, so pressure in the glomerulus is high.",
+        "Small molecules such as creatinine can pass through the gaps (fenestrations) in the capillary endothelium.",
+        "They then pass through the basement membrane, where larger molecules such as proteins and blood cells are retained.",
+        "Podocytes and the filtration slits prevent the filtrate from reaching the cells, so the filtrate contains only small molecules."
+      ]
+    },
+    {
+      "id": "7C-Q4c(ii)",
+      "no": "Q4(c)(ii)",
+      "marks": 1,
+      "topic": "GFR Calculation",
+      "keywords": [
+        "glomerular filtration rate",
+        "GFR",
+        "creatinine",
+        "urine",
+        "plasma concentration",
+        "calculation",
+        "3 significant figures"
+      ],
+      "question": "Calculate the GFR of a person who excreted 1960 mg of creatinine in urine over 15 hours (3 s.f.).",
+      "status": "pending",
+      "answer": "Pending: GFR needs the plasma creatinine concentration as well as the urine data, and this value is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q4d(i)",
+      "no": "Q4(d)(i)",
+      "marks": 3,
+      "topic": "Surgery And Glucose Uptake Trial",
+      "keywords": [
+        "type II diabetes",
+        "insulin",
+        "glucose uptake",
+        "surgery",
+        "non-diabetic",
+        "pre-diabetic",
+        "clinical trial",
+        "results"
+      ],
+      "question": "Comment on the results of the clinical trial of surgery on glucose uptake in the presence of insulin.",
+      "status": "pending",
+      "answer": "Pending: the trial results (graph or table of glucose uptake for each group) are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q4d(ii)",
+      "no": "Q4(d)(ii)",
+      "marks": 2,
+      "topic": "Difference In Mean Glucose Uptake",
+      "keywords": [
+        "glucose uptake",
+        "non-diabetic",
+        "type II diabetic",
+        "surgery",
+        "mean",
+        "difference",
+        "calculation"
+      ],
+      "question": "Calculate the difference that surgery makes to the mean glucose uptake in the non-diabetic group and the type II diabetic group.",
+      "status": "pending",
+      "answer": "Pending: the mean glucose uptake values from the trial data are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q5a(i)",
+      "no": "Q5(a)(i)",
+      "marks": 1,
+      "topic": "Function Of tRNA",
+      "keywords": [
+        "tRNA",
+        "cytokine synthesis",
+        "amino acid",
+        "ribosome",
+        "translation",
+        "anticodon"
+      ],
+      "question": "Which is the function of tRNA in cytokine synthesis (options given in text)?",
+      "status": "ready",
+      "answer": "A identifies an amino acid and transports it to a ribosome",
+      "steps": [
+        "tRNA carries a specific amino acid to the ribosome.",
+        "Its anticodon pairs with the mRNA codon during translation.",
+        "It does not act as a template for DNA or RNA polymerase, so A is correct."
+      ]
+    },
+    {
+      "id": "7C-Q5a(ii)",
+      "no": "Q5(a)(ii)",
+      "marks": 1,
+      "topic": "Organelle Modifying Proteins",
+      "keywords": [
+        "Golgi apparatus",
+        "protein modification",
+        "cytokine",
+        "secretion",
+        "vesicle",
+        "endoplasmic reticulum"
+      ],
+      "question": "Which organelle chemically modifies cytokine proteins before they are secreted (options: Golgi apparatus, ribosome, smooth ER, vesicle)?",
+      "status": "ready",
+      "answer": "A Golgi apparatus",
+      "steps": [
+        "Proteins made on rough ER are transported to the Golgi apparatus.",
+        "The Golgi modifies proteins (for example by adding carbohydrate groups) and packages them into vesicles for secretion."
+      ]
+    },
+    {
+      "id": "7C-Q5b",
+      "no": "Q5(b)",
+      "marks": 2,
+      "topic": "Role Of DNA Polymerase",
+      "keywords": [
+        "DNA polymerase",
+        "DNA replication",
+        "nucleotides",
+        "base pairing",
+        "phosphodiester bonds",
+        "cell proliferation"
+      ],
+      "question": "Describe the role of DNA polymerase in DNA replication during cell proliferation.",
+      "status": "ready",
+      "answer": "DNA polymerase joins complementary nucleotides to the 3 end of each new strand by forming phosphodiester bonds.",
+      "steps": [
+        "DNA polymerase binds to each template strand at the replication fork.",
+        "It adds free nucleotides that are complementary to the bases on the template strand (A-T, G-C).",
+        "It forms phosphodiester bonds between adjacent nucleotides, building the new strand in the 5 to 3 direction."
+      ]
+    },
+    {
+      "id": "7C-Q5c",
+      "no": "Q5(c)",
+      "marks": 3,
+      "topic": "Cytokine Gene Expression",
+      "keywords": [
+        "cytokine gene",
+        "expression",
+        "transcription",
+        "transcription factors",
+        "RNA polymerase",
+        "mRNA",
+        "translation",
+        "activated T lymphocyte"
+      ],
+      "question": "Explain how cytokine genes can be expressed in an activated T lymphocyte.",
+      "status": "ready",
+      "answer": "Activation switches on transcription factors that bind the promoter, so RNA polymerase transcribes the gene into mRNA that is translated.",
+      "steps": [
+        "Antigen binding activates the T lymphocyte, switching on specific transcription factors.",
+        "These bind to the promoter region of the cytokine gene, allowing RNA polymerase to bind.",
+        "RNA polymerase transcribes the gene into pre-mRNA, which is processed and exported from the nucleus.",
+        "Ribosomes translate the mRNA into cytokine protein, which is modified and secreted."
+      ]
+    },
+    {
+      "id": "7C-Q5d",
+      "no": "Q5(d)",
+      "marks": 3,
+      "topic": "Cytokine Receptor Specificity",
+      "keywords": [
+        "cytokines",
+        "receptors",
+        "T killer cells",
+        "B cells",
+        "cell membrane",
+        "specificity",
+        "complementary shape"
+      ],
+      "question": "Explain why different cytokines can activate different cells.",
+      "status": "ready",
+      "answer": "Each cytokine has a specific shape that binds only to receptors on the target cell membrane, so only cells with that receptor respond.",
+      "steps": [
+        "Cytokines are signalling proteins with a specific tertiary structure.",
+        "Target cells have membrane receptor proteins with complementary shapes.",
+        "Only a cell with the matching receptor binds the cytokine and is activated.",
+        "Different cytokines therefore bind different receptors, so T killer cells and B cells are activated separately."
+      ]
+    },
+    {
+      "id": "7C-Q5e",
+      "no": "Q5(e)",
+      "marks": 3,
+      "topic": "Different CD45 Forms From One Gene",
+      "keywords": [
+        "CD45",
+        "alternative splicing",
+        "gene expression",
+        "mRNA",
+        "exons",
+        "lymphocytes",
+        "protein isoforms"
+      ],
+      "question": "Describe how different forms of the CD45 protein can be produced from a single CD45 gene.",
+      "status": "ready",
+      "answer": "Alternative splicing of the pre-mRNA includes or excludes different exons, producing different mRNAs and so different CD45 proteins.",
+      "steps": [
+        "The CD45 gene is transcribed into pre-mRNA containing several exons.",
+        "Different exons are included or excluded when the introns are removed (alternative splicing).",
+        "Each different mRNA is translated into a different form of the CD45 protein.",
+        "Different lymphocytes express different splicing patterns, so their CD45 forms differ."
+      ]
+    },
+    {
+      "id": "7C-Q6a(i)",
+      "no": "Q6(a)(i)",
+      "marks": 1,
+      "topic": "Bowman Capsule Location On Diagram",
+      "keywords": [
+        "Bowman capsule",
+        "renal capsule",
+        "kidney",
+        "arrow",
+        "diagram",
+        "nephron"
+      ],
+      "question": "Draw an arrow on the diagram of part of a human kidney to show the location of a single Bowman capsule.",
+      "status": "pending",
+      "answer": "Pending: the kidney diagram is not in the text, so the arrow cannot be placed.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q6a(ii)",
+      "no": "Q6(a)(ii)",
+      "marks": 1,
+      "topic": "Site Of Amino Acid Reabsorption",
+      "keywords": [
+        "amino acids",
+        "reabsorption",
+        "nephron",
+        "proximal tubule",
+        "loop of Henle",
+        "collecting duct",
+        "distal tubule"
+      ],
+      "question": "Where in the kidney are most amino acids reabsorbed from the nephron (options: collecting duct, distal tubule, loop of Henle, proximal tubule)?",
+      "status": "ready",
+      "answer": "D proximal tubule",
+      "steps": [
+        "Almost all amino acids and glucose are reabsorbed from the filtrate in the proximal convoluted tubule.",
+        "This is done by sodium co-transport and the proximal tubule has many microvilli for this.",
+        "The other parts reabsorb only small amounts of amino acids."
+      ]
+    },
+    {
+      "id": "7C-Q6a(iii)",
+      "no": "Q6(a)(iii)",
+      "marks": 1,
+      "topic": "Water Molecule Pathway Through Nephron",
+      "keywords": [
+        "water molecule",
+        "pathway",
+        "nephron",
+        "glomerulus",
+        "Bowman capsule",
+        "proximal tubule",
+        "table of rows"
+      ],
+      "question": "Which row shows the correct pathway taken by a water molecule through the kidney nephron?",
+      "status": "pending",
+      "answer": "Pending: the table of pathways is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q6b",
+      "no": "Q6(b)",
+      "marks": 4,
+      "topic": "Countercurrent Multiplier In Loop Of Henle",
+      "keywords": [
+        "countercurrent multiplier",
+        "loop of Henle",
+        "concentrated urine",
+        "sodium ions",
+        "ascending limb",
+        "descending limb",
+        "water"
+      ],
+      "question": "Explain how the loop of Henle acts as a countercurrent multiplier to produce concentrated urine.",
+      "status": "ready",
+      "answer": "The ascending limb pumps Na+ out into the medulla, making it hypertonic, so water leaves the descending limb and the collecting duct draws water out.",
+      "steps": [
+        "The ascending limb is impermeable to water but actively pumps Na+ (and Cl-) out into the medulla.",
+        "This makes the interstitial fluid of the medulla very concentrated (hypertonic).",
+        "The descending limb is permeable to water, so water leaves it by osmosis into the medulla, concentrating the filtrate further.",
+        "Filtrate reaching the collecting duct is more concentrated, so with ADH more water is reabsorbed and urine becomes concentrated."
+      ]
+    },
+    {
+      "id": "7C-Q6c",
+      "no": "Q6(c)",
+      "marks": 4,
+      "topic": "ADH And Blood Water Potential",
+      "keywords": [
+        "ADH",
+        "water potential",
+        "blood",
+        "collecting duct",
+        "aquaporins",
+        "osmoreceptors",
+        "hypothalamus",
+        "pituitary"
+      ],
+      "question": "Describe how ADH is involved in controlling the water potential of the blood.",
+      "status": "ready",
+      "answer": "Low blood water potential is detected by osmoreceptors, which raise ADH release; ADH makes the collecting duct more permeable to water, so more water is reabsorbed.",
+      "steps": [
+        "Osmoreceptors in the hypothalamus detect a fall in blood water potential (rise in solute concentration).",
+        "They stimulate the posterior pituitary to release more ADH into the blood.",
+        "ADH binds to receptors on collecting duct cells, causing aquaporins to be inserted into the membrane.",
+        "More water is reabsorbed by osmosis, so the blood water potential rises and urine becomes more concentrated."
+      ]
+    },
+    {
+      "id": "7C-Q7a",
+      "no": "Q7(a)",
+      "marks": 1,
+      "topic": "Camel Water Loss Adaptations",
+      "keywords": [
+        "camel",
+        "water loss",
+        "concentrated urine",
+        "glomerular filtration rate",
+        "loop of Henle",
+        "ADH",
+        "adaptations"
+      ],
+      "question": "How many of four adaptations enable a camel to reduce water loss (concentrated urine; high GFR; long loop of Henle; reduced ADH release)?",
+      "status": "ready",
+      "answer": "C 2",
+      "steps": [
+        "Production of very concentrated urine reduces water loss, so this counts.",
+        "A high GFR increases the volume filtered and so tends to increase water loss.",
+        "A long loop of Henle sets up a larger medulla gradient, so it counts.",
+        "Reduced ADH release produces more dilute urine and more water loss, so it does not count.",
+        "Two adaptations reduce water loss, so the answer is C."
+      ]
+    },
+    {
+      "id": "7C-Q7b(i)",
+      "no": "Q7(b)(i)",
+      "marks": 2,
+      "topic": "Water Use Difference Buffalo And Camel",
+      "keywords": [
+        "water use",
+        "buffalo",
+        "camel",
+        "dm3",
+        "difference",
+        "table",
+        "day"
+      ],
+      "question": "Calculate the difference in the volume of water used in a day by a buffalo and a camel, in dm3 (2 s.f.).",
+      "status": "pending",
+      "answer": "Pending: the table of daily water use for the five species is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q7b(ii)",
+      "no": "Q7(b)(ii)",
+      "marks": 2,
+      "topic": "No Correlation Between Water Use And Mass",
+      "keywords": [
+        "water use",
+        "mean mass",
+        "correlation",
+        "species",
+        "table",
+        "reasons"
+      ],
+      "question": "Suggest two reasons why there is no correlation between water use and mean mass for the species in the table.",
+      "status": "pending",
+      "answer": "Pending: the table of water use and mean mass for the five species is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q7c",
+      "no": "Q7(c)",
+      "marks": 3,
+      "topic": "Water Type Effect On Kangaroo Rat Mass",
+      "keywords": [
+        "kangaroo rat",
+        "fresh water",
+        "sea water",
+        "no water",
+        "mean body mass",
+        "soya beans",
+        "graph"
+      ],
+      "question": "Determine the effect of the type of water given on the mean mass of kangaroo rats, using the graph.",
+      "status": "pending",
+      "answer": "Pending: the graph of mean body mass over 16 days for each water treatment is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q7d",
+      "no": "Q7(d)",
+      "marks": 2,
+      "topic": "Concentrated Urine In Kangaroo Rat",
+      "keywords": [
+        "kangaroo rat",
+        "nephron",
+        "concentrated urine",
+        "loop of Henle",
+        "countercurrent multiplier",
+        "ADH",
+        "water conservation"
+      ],
+      "question": "Explain how the nephrons of the kangaroo rat are able to produce very concentrated urine.",
+      "status": "ready",
+      "answer": "Long loops of Henle create a steep medulla salt gradient, and ADH makes the collecting duct highly permeable to water.",
+      "steps": [
+        "The long loop of Henle sets up a steep salt gradient in the medulla by countercurrent multiplication.",
+        "High ADH makes the collecting duct very permeable to water, so water is reabsorbed down this gradient, producing very concentrated urine."
+      ]
+    },
+    {
+      "id": "7C-Q8a(i)",
+      "no": "Q8(a)(i)",
+      "marks": 3,
+      "topic": "Complete Bowman Capsule Diagram",
+      "keywords": [
+        "Bowman capsule",
+        "glomerulus",
+        "diagram",
+        "labels",
+        "blood supply",
+        "afferent arteriole"
+      ],
+      "question": "Complete the diagram of the Bowman capsule showing its blood supply and label two structures.",
+      "status": "pending",
+      "answer": "Pending: the partially drawn Bowman capsule diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q8a(ii)",
+      "no": "Q8(a)(ii)",
+      "marks": 1,
+      "topic": "Substances Filtered In Bowman Capsule",
+      "keywords": [
+        "ultrafiltration",
+        "Bowman capsule",
+        "glucose",
+        "sodium chloride",
+        "plasma proteins",
+        "filtered substances"
+      ],
+      "question": "Which substances are normally filtered from the blood in the Bowman capsule (options: amylose and glucose; glucose and sodium chloride; potassium ions and haemoglobin; urea and prothrombin)?",
+      "status": "ready",
+      "answer": "B glucose and sodium chloride",
+      "steps": [
+        "Ultrafiltration lets small molecules through the capillary wall, while large molecules are retained.",
+        "Glucose and sodium chloride are small and are filtered.",
+        "Haemoglobin and prothrombin are large plasma or blood proteins and are not filtered; amylose is not in blood."
+      ]
+    },
+    {
+      "id": "7C-Q8a(iii)",
+      "no": "Q8(a)(iii)",
+      "marks": 1,
+      "topic": "Water Molecule Route In Nephron",
+      "keywords": [
+        "water molecule",
+        "nephron",
+        "route",
+        "kidney",
+        "row",
+        "table"
+      ],
+      "question": "Which row shows the route taken by a water molecule through a nephron in the kidney?",
+      "status": "pending",
+      "answer": "Pending: the table of routes is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q8b",
+      "no": "Q8(b)",
+      "marks": 3,
+      "topic": "Glucose Reabsorption In Nephron",
+      "keywords": [
+        "glucose reabsorption",
+        "proximal tubule",
+        "sodium co-transport",
+        "facilitated diffusion",
+        "active transport",
+        "capillaries"
+      ],
+      "question": "Describe how glucose reabsorption takes place in the nephron.",
+      "status": "ready",
+      "answer": "Glucose is taken up by sodium co-transport in the proximal tubule, then leaves the cell by facilitated diffusion into the blood.",
+      "steps": [
+        "Na+ is actively pumped out of the proximal tubule cell into the blood by the Na+/K+ pump (using ATP).",
+        "This lowers Na+ inside the cell, so Na+ moves in down its gradient with glucose (sodium co-transport) via carrier proteins.",
+        "Glucose accumulates inside the cell and leaves across the basolateral membrane by facilitated diffusion into the blood."
+      ]
+    },
+    {
+      "id": "7C-Q8c",
+      "no": "Q8(c)",
+      "marks": 1,
+      "topic": "Urea Production Site",
+      "keywords": [
+        "urea",
+        "liver",
+        "amino acids",
+        "deamination",
+        "metabolic breakdown",
+        "glycogen"
+      ],
+      "question": "Which statement describes the production of urea (options: in kidneys from amino acids; in kidneys from glycogen; in liver from amino acids; in liver from glycogen)?",
+      "status": "ready",
+      "answer": "C in the liver from excess amino acids",
+      "steps": [
+        "Urea is made in the liver by the ornithine cycle.",
+        "Excess amino acids are deaminated in the liver, releasing the amine group used to make urea.",
+        "Glycogen is not a source of urea, so C is correct."
+      ]
+    },
+    {
+      "id": "7C-Q9a(i)",
+      "no": "Q9(a)(i)",
+      "marks": 1,
+      "topic": "Energy Use In Muscle Contraction",
+      "keywords": [
+        "energy",
+        "muscle contraction",
+        "ATP",
+        "table",
+        "antagonistic muscles"
+      ],
+      "question": "Which row in the table shows the energy use in muscle contraction?",
+      "status": "pending",
+      "answer": "Pending: the table with rows of energy use is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q9a(ii)",
+      "no": "Q9(a)(ii)",
+      "marks": 4,
+      "topic": "Sliding Filament Theory",
+      "keywords": [
+        "sliding filament theory",
+        "actin",
+        "myosin",
+        "sarcomere",
+        "cross bridges",
+        "ATP",
+        "Ca2+",
+        "troponin"
+      ],
+      "question": "Describe the sliding filament theory of muscle contraction.",
+      "status": "ready",
+      "answer": "Myosin heads form cross bridges with actin and pull the thin filaments past the thick filaments, shortening the sarcomere, using ATP.",
+      "steps": [
+        "A nerve impulse releases Ca2+ from the sarcoplasmic reticulum, which binds troponin and moves tropomyosin.",
+        "Myosin heads bind to exposed actin binding sites, forming cross bridges.",
+        "Myosin heads swivel (power stroke), pulling actin filaments towards the centre of the sarcomere.",
+        "ATP binds to myosin to break the cross bridge and is hydrolysed to re-cock the head; the sarcomere shortens as the filaments slide."
+      ]
+    },
+    {
+      "id": "7C-Q9b(i)",
+      "no": "Q9(b)(i)",
+      "marks": 2,
+      "topic": "Conclusions About Muscle Mass",
+      "keywords": [
+        "ostrich",
+        "muscle mass",
+        "South African Black",
+        "Zimbabwean Blue",
+        "table",
+        "conclusions"
+      ],
+      "question": "State two conclusions about the mean masses of the three ostrich muscles shown in the table.",
+      "status": "pending",
+      "answer": "Pending: the table of mean muscle masses for the two ostrich types is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q9b(ii)",
+      "no": "Q9(b)(ii)",
+      "marks": 2,
+      "topic": "Validity Of Ostrich Conclusions",
+      "keywords": [
+        "validity",
+        "ostrich",
+        "sample size",
+        "variables",
+        "conclusions",
+        "data"
+      ],
+      "question": "Comment on the validity of conclusions drawn from the data for the two ostrich groups.",
+      "status": "pending",
+      "answer": "Pending: the data for the two ostrich groups (table) is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q9b(iii)",
+      "no": "Q9(b)(iii)",
+      "marks": 2,
+      "topic": "Percentage Difference Ostrich Muscle",
+      "keywords": [
+        "percentage difference",
+        "muscle G",
+        "ostrich",
+        "mean mass",
+        "South African Black",
+        "Zimbabwean Blue"
+      ],
+      "question": "Calculate the percentage difference in the mean mass of muscle G between the South African Black and Zimbabwean Blue ostriches (2 d.p.).",
+      "status": "pending",
+      "answer": "Pending: the mean mass values for muscle G and the full equation are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q9c",
+      "no": "Q9(c)",
+      "marks": 3,
+      "topic": "Hypothalamus Temperature Control",
+      "keywords": [
+        "hypothalamus",
+        "internal temperature",
+        "thermoregulation",
+        "thermoreceptors",
+        "negative feedback",
+        "ostrich"
+      ],
+      "question": "Describe the role of the hypothalamus in maintaining a steady internal temperature.",
+      "status": "ready",
+      "answer": "The hypothalamus receives impulses from thermoreceptors and triggers responses that increase or decrease heat loss and heat production.",
+      "steps": [
+        "Thermoreceptors in the skin and the hypothalamus detect changes in blood or body temperature.",
+        "The hypothalamus acts as the thermostat, comparing the temperature with the set point (about 37 degrees C in mammals).",
+        "If too hot, it triggers vasodilation and sweating; if too cold, it triggers vasoconstriction, shivering and raised metabolism.",
+        "These responses are negative feedback that keeps body temperature steady."
+      ]
+    },
+    {
+      "id": "7C-Q10a(i)",
+      "no": "Q10(a)(i)",
+      "marks": 1,
+      "topic": "Substances Filtered In Renal Capsule",
+      "keywords": [
+        "Bowman capsule",
+        "filtered substances",
+        "glucose",
+        "urea",
+        "prothrombin",
+        "healthy individual"
+      ],
+      "question": "Which substances are filtered from the blood in the Bowman capsule of a healthy individual (options: glucose and prothrombin; glucose and urea; glycogen and urea; urea and prothrombin)?",
+      "status": "ready",
+      "answer": "B glucose and urea",
+      "steps": [
+        "Glucose and urea are small molecules that pass through the filter.",
+        "Prothrombin and glycogen are large plasma proteins or stored polysaccharide, so they are not filtered."
+      ]
+    },
+    {
+      "id": "7C-Q10a(ii)",
+      "no": "Q10(a)(ii)",
+      "marks": 1,
+      "topic": "Part Preventing Protein Filtration",
+      "keywords": [
+        "basement membrane",
+        "plasma proteins",
+        "Bowman capsule",
+        "filtration barrier",
+        "ultrafiltration"
+      ],
+      "question": "Which part of the Bowman capsule prevents plasma proteins being filtered out of the bloodstream (options: basement membrane; smooth muscle of capillaries; epithelial cells of collecting duct; epithelial cells of loop of Henle)?",
+      "status": "ready",
+      "answer": "A basement membrane",
+      "steps": [
+        "The basement membrane is a mesh of collagen and glycoproteins that acts as a size-selective filter.",
+        "Plasma proteins are too large to pass through this mesh and so are retained in the blood."
+      ]
+    },
+    {
+      "id": "7C-Q10a(iii)",
+      "no": "Q10(a)(iii)",
+      "marks": 1,
+      "topic": "Glucose Uptake Mechanism In Proximal Tubule",
+      "keywords": [
+        "glucose uptake",
+        "proximal tubule",
+        "sodium co-transport",
+        "endocytosis",
+        "exocytosis",
+        "osmosis"
+      ],
+      "question": "Which transport mechanism is responsible for the uptake of glucose into the cells of the proximal tubule (options: endocytosis, exocytosis, osmosis, sodium co-transport)?",
+      "status": "ready",
+      "answer": "D sodium co-transport",
+      "steps": [
+        "Glucose enters proximal tubule cells together with Na+ through carrier proteins.",
+        "The Na+ gradient is maintained by the Na+/K+ pump, so the uptake is co-transport.",
+        "Osmosis is water movement, and endocytosis and exocytosis move bulk material, so D is correct."
+      ]
+    },
+    {
+      "id": "7C-Q10b",
+      "no": "Q10(b)",
+      "marks": 4,
+      "topic": "Loop Of Henle Countercurrent Multiplier",
+      "keywords": [
+        "loop of Henle",
+        "countercurrent multiplier",
+        "ascending limb",
+        "descending limb",
+        "sodium ions",
+        "water",
+        "medulla gradient"
+      ],
+      "question": "Describe how the loop of Henle acts as a countercurrent multiplier.",
+      "status": "ready",
+      "answer": "The ascending limb pumps Na+ out, making the medulla hypertonic; water leaves the descending limb, multiplying the gradient along the loop.",
+      "steps": [
+        "Filtrate flows down the descending limb, which is permeable to water, so water leaves by osmosis into the hypertonic medulla.",
+        "Filtrate flows up the ascending limb, which is impermeable to water, and Na+ and Cl- are actively pumped out.",
+        "Each stage adds to the concentration gradient in the medulla, so the gradient is multiplied along the length of the loop.",
+        "This gradient allows water to be reabsorbed from the collecting duct, producing concentrated urine."
+      ]
+    },
+    {
+      "id": "7C-Q10c(i)",
+      "no": "Q10(c)(i)",
+      "marks": 2,
+      "topic": "Ratio Of Female Urine Rates",
+      "keywords": [
+        "urine production",
+        "females",
+        "ratio",
+        "nothing to drink",
+        "water",
+        "salt solution",
+        "graph"
+      ],
+      "question": "Calculate the ratio of mean urine production rate for females in the nothing, water and salt solution groups (1 s.f.).",
+      "status": "pending",
+      "answer": "Pending: the mean urine production rates for females in each group are read from the graph, which is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q10c(ii)",
+      "no": "Q10(c)(ii)",
+      "marks": 2,
+      "topic": "Conclusions From Urine Investigation",
+      "keywords": [
+        "urine production",
+        "conclusions",
+        "males",
+        "females",
+        "salt solution",
+        "water",
+        "graph"
+      ],
+      "question": "Describe two conclusions from the results of the urine production investigation.",
+      "status": "pending",
+      "answer": "Pending: the graph of mean urine production for males and females in each group is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q10c(iii)",
+      "no": "Q10(c)(iii)",
+      "marks": 2,
+      "topic": "Effect Of Drinking Water On Urine Output",
+      "keywords": [
+        "urine output",
+        "drinking water",
+        "ADH",
+        "osmoreceptors",
+        "dilute urine",
+        "water potential"
+      ],
+      "question": "Explain the effect on the mean urine output of the group that drank water.",
+      "status": "ready",
+      "answer": "Drinking water lowers blood solute concentration, so ADH falls and less water is reabsorbed, giving a higher urine output.",
+      "steps": [
+        "Drinking water dilutes the blood, so its water potential rises.",
+        "Osmoreceptors detect this and reduce ADH secretion.",
+        "Less ADH means the collecting duct is less permeable, so less water is reabsorbed.",
+        "More dilute urine is produced, so the urine output increases."
+      ]
+    },
+    {
+      "id": "7C-Q11a(i)",
+      "no": "Q11(a)(i)",
+      "marks": 1,
+      "topic": "Definition Of Mutation",
+      "keywords": [
+        "mutation",
+        "base sequence",
+        "DNA",
+        "gene",
+        "change",
+        "cancer"
+      ],
+      "question": "State what is meant by the term mutation.",
+      "status": "ready",
+      "answer": "A change in the base sequence of DNA (genetic material) of an organism.",
+      "steps": [
+        "A mutation is a random change in the base sequence of DNA.",
+        "This can be a substitution, deletion or insertion of one or more bases.",
+        "It may alter the amino acid sequence of a protein."
+      ]
+    },
+    {
+      "id": "7C-Q11a(ii)",
+      "no": "Q11(a)(ii)",
+      "marks": 1,
+      "topic": "Nuclear Division In Tumour",
+      "keywords": [
+        "tumour",
+        "mitosis",
+        "nuclear division",
+        "cell cycle",
+        "cancer",
+        "proliferation"
+      ],
+      "question": "Name the type of nuclear division taking place as a tumour develops.",
+      "status": "ready",
+      "answer": "Mitosis",
+      "steps": [
+        "A tumour forms when cells divide uncontrollably.",
+        "Body cells divide by mitosis, producing genetically identical daughter cells."
+      ]
+    },
+    {
+      "id": "7C-Q11b",
+      "no": "Q11(b)",
+      "marks": 1,
+      "topic": "Epigenetic Modification Statements",
+      "keywords": [
+        "epigenetic modification",
+        "histone modification",
+        "DNA methylation",
+        "phenotype",
+        "base sequence",
+        "statements"
+      ],
+      "question": "How many of four statements about epigenetic modification are correct (base sequence change; histone modification; altered phenotype; DNA methylation)?",
+      "status": "ready",
+      "answer": "C 3",
+      "steps": [
+        "Epigenetic modification changes gene expression without changing the base sequence, so statement 1 is false.",
+        "Histone modification (e.g. acetylation) and DNA methylation are epigenetic, so statements 2 and 4 are correct.",
+        "Altered gene expression can change the phenotype, so statement 3 is correct.",
+        "Three statements are correct, so the answer is C."
+      ]
+    },
+    {
+      "id": "7C-Q11c",
+      "no": "Q11(c)",
+      "marks": 4,
+      "topic": "Oestrogen And Breast Cancer Proliferation",
+      "keywords": [
+        "oestrogen",
+        "steroid hormone",
+        "breast cancer",
+        "proliferation",
+        "receptor",
+        "transcription",
+        "gene expression",
+        "cell division"
+      ],
+      "question": "Explain how oestrogen may result in the proliferation of some breast cancer cells.",
+      "status": "ready",
+      "answer": "Oestrogen diffuses into the cell, binds an intracellular receptor that acts as a transcription factor, and switches on genes that promote cell division.",
+      "steps": [
+        "Oestrogen is a lipid-soluble steroid hormone, so it diffuses through the cell membrane.",
+        "It binds to a specific receptor in the cytoplasm or nucleus, forming a hormone-receptor complex.",
+        "The complex acts as a transcription factor, binding to DNA and switching on (up-regulating) genes.",
+        "Genes for proteins such as cyclins are expressed, promoting the cell cycle and so proliferation of cancer cells."
+      ]
+    },
+    {
+      "id": "7C-Q11d",
+      "no": "Q11(d)",
+      "marks": 2,
+      "topic": "Histone Acetylation And Gene Expression",
+      "keywords": [
+        "histone acetylation",
+        "gene expression",
+        "DNA",
+        "histone proteins",
+        "chromatin",
+        "transcription",
+        "positive charge"
+      ],
+      "question": "Suggest how acetylation of histone proteins could result in increased gene expression.",
+      "status": "ready",
+      "answer": "Acetyl groups neutralise the positive charge on histones, so DNA is less tightly bound and genes are more accessible for transcription.",
+      "steps": [
+        "Histones are positively charged proteins that bind tightly to negatively charged DNA.",
+        "Adding acetyl groups neutralises this positive charge, so DNA is less tightly wound around the histones.",
+        "The DNA is exposed, so transcription factors and RNA polymerase can access the gene and expression increases."
+      ]
+    },
+    {
+      "id": "7C-Q12a(i)",
+      "no": "Q12(a)(i)",
+      "marks": 1,
+      "topic": "Substances Filtered In Renal Capsule",
+      "keywords": [
+        "renal capsule",
+        "filtered substances",
+        "glucose",
+        "urea",
+        "fibrinogen",
+        "prothrombin"
+      ],
+      "question": "Which substances are filtered from the blood in the renal capsule (options: glucose and fibrinogen; glucose, fibrinogen and urea; glucose and urea; urea and prothrombin)?",
+      "status": "ready",
+      "answer": "C glucose and urea",
+      "steps": [
+        "Glucose and urea are small molecules that pass through the filter.",
+        "Fibrinogen and prothrombin are large plasma proteins that are retained in the blood."
+      ]
+    },
+    {
+      "id": "7C-Q12a(ii)",
+      "no": "Q12(a)(ii)",
+      "marks": 1,
+      "topic": "Filter In Renal Capsule",
+      "keywords": [
+        "renal capsule",
+        "filter",
+        "basement membrane",
+        "podocytes",
+        "ultrafiltration",
+        "capillaries"
+      ],
+      "question": "Which structure acts as the filter in the renal capsule (options: basement membrane; cells lining the renal capsule; endothelial cells of capillaries; podocytes)?",
+      "status": "ready",
+      "answer": "A basement membrane",
+      "steps": [
+        "Blood is filtered through the capillary endothelium and the basement membrane.",
+        "The basement membrane is the main size-selective filter that holds back large molecules."
+      ]
+    },
+    {
+      "id": "7C-Q12a(iii)",
+      "no": "Q12(a)(iii)",
+      "marks": 1,
+      "topic": "Glucose Uptake Into Proximal Tubule Cells",
+      "keywords": [
+        "glucose uptake",
+        "proximal tubule",
+        "sodium co-transport",
+        "diffusion",
+        "endocytosis",
+        "osmosis"
+      ],
+      "question": "Which transport mechanism is responsible for the uptake of glucose into the cells of the wall of the proximal tubule (options: diffusion, endocytosis, sodium co-transport, osmosis)?",
+      "status": "ready",
+      "answer": "C sodium co-transport",
+      "steps": [
+        "Glucose is taken up together with Na+ through carrier proteins (co-transport).",
+        "This is driven by the Na+ gradient maintained by the Na+/K+ pump."
+      ]
+    },
+    {
+      "id": "7C-Q12a(iv)",
+      "no": "Q12(a)(iv)",
+      "marks": 2,
+      "topic": "Urea Reabsorption In Proximal Tubule",
+      "keywords": [
+        "urea",
+        "reabsorption",
+        "proximal tubule",
+        "water reabsorption",
+        "concentration gradient",
+        "diffusion"
+      ],
+      "question": "Explain why some urea is reabsorbed in the proximal tubule.",
+      "status": "ready",
+      "answer": "Water is reabsorbed from the proximal tubule, so urea becomes more concentrated in the filtrate and diffuses back into the blood.",
+      "steps": [
+        "Water and many solutes are reabsorbed from the proximal tubule.",
+        "This leaves urea more concentrated in the tubule fluid than in the blood.",
+        "Urea, a small uncharged molecule, therefore diffuses down its concentration gradient back into the blood."
+      ]
+    },
+    {
+      "id": "7C-Q12b(i)",
+      "no": "Q12(b)(i)",
+      "marks": 2,
+      "topic": "Percentage Decrease In Urine Rate",
+      "keywords": [
+        "percentage decrease",
+        "urine production",
+        "salt solution",
+        "carotid artery",
+        "10 minutes",
+        "injection",
+        "table"
+      ],
+      "question": "Calculate the percentage decrease in the rate of urine production 10 minutes after the injection (2 d.p.).",
+      "status": "pending",
+      "answer": "Pending: the table of urine production rates after the injection is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q12b(ii)",
+      "no": "Q12(b)(ii)",
+      "marks": 1,
+      "topic": "Times For More Urine Measurements",
+      "keywords": [
+        "urine production",
+        "lowest rate",
+        "time intervals",
+        "measurements",
+        "table",
+        "minutes"
+      ],
+      "question": "At what times should more measurements be taken to find the lowest rate of urine production (options A to D)?",
+      "status": "pending",
+      "answer": "Pending: the table of urine production results is needed to choose the correct interval.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q12b(iii)",
+      "no": "Q12(b)(iii)",
+      "marks": 4,
+      "topic": "Explain Urine Results After Salt Injection",
+      "keywords": [
+        "urine production",
+        "salt solution injection",
+        "carotid artery",
+        "osmoreceptors",
+        "ADH",
+        "table",
+        "explanation"
+      ],
+      "question": "Explain the results of the investigation in which salt solution was injected into the carotid artery, using the table.",
+      "status": "pending",
+      "answer": "Pending: the answer must be supported by the results table, which is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q13a(i)",
+      "no": "Q13(a)(i)",
+      "marks": 2,
+      "topic": "Magnification Of Bowman Capsule Photograph",
+      "keywords": [
+        "magnification",
+        "Bowman capsule",
+        "photograph",
+        "X to Y",
+        "standard form",
+        "image size"
+      ],
+      "question": "Calculate the magnification of the photograph of the Bowman capsule, given the diameter from X to Y (standard form).",
+      "status": "pending",
+      "answer": "Pending: the length of the X to Y line on the photograph (image size) is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q13a(ii)",
+      "no": "Q13(a)(ii)",
+      "marks": 2,
+      "topic": "Volume Of Bowman Capsule",
+      "keywords": [
+        "volume",
+        "Bowman capsule",
+        "sphere",
+        "diameter",
+        "nm3",
+        "calculation",
+        "standard form"
+      ],
+      "question": "Calculate the volume of the spherical Bowman capsule with diameter 70 nm (2 s.f., nm3).",
+      "status": "ready",
+      "answer": "1.8 x 10^5 nm3",
+      "steps": [
+        "Radius = 70 / 2 = 35 nm.",
+        "Volume of a sphere = (4/3) x pi x r^3 = (4/3) x pi x 35^3.",
+        "35^3 = 42 875, so V = 4.18879 x 42 875 = 179 594 nm3, which is 1.8 x 10^5 nm3 (2 s.f.)."
+      ]
+    },
+    {
+      "id": "7C-Q13b(i)",
+      "no": "Q13(b)(i)",
+      "marks": 1,
+      "topic": "Osmoreceptor",
+      "keywords": [
+        "osmoreceptor",
+        "plasma solute concentration",
+        "receptor",
+        "baroreceptor",
+        "chemoreceptor",
+        "thermoreceptor"
+      ],
+      "question": "Which specialised receptor detects changes in plasma solute concentration (options: baroreceptor, chemoreceptor, osmoreceptor, thermoreceptor)?",
+      "status": "ready",
+      "answer": "C osmoreceptor",
+      "steps": [
+        "Osmoreceptors in the hypothalamus detect changes in solute concentration (water potential).",
+        "Baroreceptors detect pressure, chemoreceptors detect gases and pH, and thermoreceptors detect temperature."
+      ]
+    },
+    {
+      "id": "7C-Q13b(ii)",
+      "no": "Q13(b)(ii)",
+      "marks": 1,
+      "topic": "Narrow Range Of Plasma Solutes",
+      "keywords": [
+        "plasma solute concentration",
+        "water potential",
+        "homeostasis",
+        "cells",
+        "osmosis",
+        "narrow range"
+      ],
+      "question": "Suggest one reason why plasma solute concentration must be kept within a narrow range.",
+      "status": "ready",
+      "answer": "To keep the water potential of the blood constant so cells do not gain or lose water by osmosis.",
+      "steps": [
+        "Cells gain water by osmosis if plasma is too dilute, and may swell or burst.",
+        "Cells lose water if plasma is too concentrated, and may shrink.",
+        "A narrow range keeps cell volume and enzyme function stable."
+      ]
+    },
+    {
+      "id": "7C-Q13c",
+      "no": "Q13(c)",
+      "marks": 4,
+      "topic": "Response To Drinking Too Much Water",
+      "keywords": [
+        "drinking water",
+        "plasma solute concentration",
+        "blood volume",
+        "ADH",
+        "osmoreceptors",
+        "baroreceptors",
+        "urine output"
+      ],
+      "question": "Describe how the body responds when drinking too much water lowers plasma solute concentration and raises blood volume.",
+      "status": "ready",
+      "answer": "Osmoreceptors detect the lower solute level, so ADH falls and more dilute urine is produced; baroreceptors also reduce ADH and aldosterone to restore volume.",
+      "steps": [
+        "Osmoreceptors in the hypothalamus detect the fall in plasma solute concentration.",
+        "Less ADH is released from the posterior pituitary.",
+        "The collecting ducts become less permeable, so less water is reabsorbed and more dilute urine is produced.",
+        "Stretch receptors detect the higher blood volume, reducing aldosterone and ADH further so the volume falls back to normal."
+      ]
+    },
+    {
+      "id": "7C-Q13d(i)",
+      "no": "Q13(d)(i)",
+      "marks": 1,
+      "topic": "Glucose Reabsorption Method",
+      "keywords": [
+        "glucose reabsorption",
+        "proximal convoluted tubule",
+        "sodium co-transport",
+        "endocytosis",
+        "osmosis",
+        "exocytosis"
+      ],
+      "question": "Which method reabsorbs glucose from the proximal convoluted tubule into the blood (options: co-transport with sodium ions, endocytosis, exocytosis, osmosis)?",
+      "status": "ready",
+      "answer": "A co-transport with sodium ions",
+      "steps": [
+        "Glucose is taken up into cells with Na+ by co-transport.",
+        "Osmosis is water movement and endocytosis and exocytosis handle bulk material, so A is correct."
+      ]
+    },
+    {
+      "id": "7C-Q13d(ii)",
+      "no": "Q13(d)(ii)",
+      "marks": 2,
+      "topic": "Glucose Filtration Rate",
+      "keywords": [
+        "glucose filtration",
+        "milligrams per second",
+        "Bowman capsule",
+        "g per hour",
+        "unit conversion",
+        "calculation"
+      ],
+      "question": "Calculate the rate of glucose filtration in mg per second if the healthy Bowman capsule filters up to 7.5 g of glucose per hour.",
+      "status": "ready",
+      "answer": "2.1 mg s-1 (2.08)",
+      "steps": [
+        "7.5 g = 7500 mg.",
+        "Divide by 3600 seconds in an hour: 7500 / 3600 = 2.08 mg per second.",
+        "To 2 s.f. the rate is 2.1 mg s-1."
+      ]
+    },
+    {
+      "id": "7C-Q14a",
+      "no": "Q14(a)",
+      "marks": 4,
+      "topic": "Regulating Body Temperature During Exercise",
+      "keywords": [
+        "thermoregulation",
+        "body temperature",
+        "exercise",
+        "hypothalamus",
+        "sweating",
+        "vasodilation",
+        "kangaroo rat",
+        "heat loss"
+      ],
+      "question": "Explain how the kangaroo rat body temperature is regulated to stay between 38.5 and 40 degrees C during exercise.",
+      "status": "ready",
+      "answer": "The hypothalamus detects the rise in temperature and triggers sweating, vasodilation and reduced heat production to lose heat.",
+      "steps": [
+        "Thermoreceptors and the hypothalamus detect the rise in body temperature above the set point.",
+        "The hypothalamus triggers vasodilation of arterioles near the skin, increasing heat loss by radiation.",
+        "Sweating (or panting, in some mammals) increases evaporative heat loss.",
+        "Once temperature falls back, these responses are reduced by negative feedback."
+      ]
+    },
+    {
+      "id": "7C-Q14b",
+      "no": "Q14(b)",
+      "marks": 3,
+      "topic": "Kangaroo Rat Water Adaptations",
+      "keywords": [
+        "kangaroo rat",
+        "drinking water",
+        "dry seeds",
+        "water conservation",
+        "loop of Henle",
+        "ADH",
+        "metabolic water",
+        "concentrated urine"
+      ],
+      "question": "Suggest how kangaroo rats are adapted to survive in areas with little drinking water and dry seeds.",
+      "status": "ready",
+      "answer": "Long loops of Henle and high ADH concentrate urine, and water is made by metabolism of seeds.",
+      "steps": [
+        "Kangaroo rat kidneys have long loops of Henle, which produce very concentrated urine.",
+        "High ADH levels make the collecting ducts highly permeable to water, reducing water loss.",
+        "Metabolic water from the breakdown of dry seeds provides additional water."
+      ]
+    },
+    {
+      "id": "7C-Q14c(i)",
+      "no": "Q14(c)(i)",
+      "marks": 2,
+      "topic": "Urine Difference Kangaroo Rat And Human",
+      "keywords": [
+        "urine volume",
+        "kangaroo rat",
+        "human",
+        "seven days",
+        "standard form",
+        "difference",
+        "diagram"
+      ],
+      "question": "Calculate the difference in urine produced over seven days by the kangaroo rat and the human, in standard form.",
+      "status": "pending",
+      "answer": "Pending: the daily water balance values in the diagram are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q14c(ii)",
+      "no": "Q14(c)(ii)",
+      "marks": 4,
+      "topic": "Water Gain And Loss In Kangaroo Rat Versus Human",
+      "keywords": [
+        "water gain",
+        "water loss",
+        "kangaroo rat",
+        "human",
+        "diagram",
+        "metabolic water",
+        "urine",
+        "sweat"
+      ],
+      "question": "Comment on the differences in water gain and water loss between the kangaroo rat and the human, using the diagram.",
+      "status": "pending",
+      "answer": "Pending: the water balance diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q15a(i)",
+      "no": "Q15(a)(i)",
+      "marks": 1,
+      "topic": "Structure Transporting Blood To Renal Vein",
+      "keywords": [
+        "renal vein",
+        "blood supply",
+        "kidney tubule",
+        "diagram",
+        "labelled structure"
+      ],
+      "question": "Which labelled structure on the nephron and blood supply diagram transports blood to the renal vein (options Q, R, S, U)?",
+      "status": "pending",
+      "answer": "Pending: the labelled kidney tubule and blood supply diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q15a(ii)",
+      "no": "Q15(a)(ii)",
+      "marks": 1,
+      "topic": "Structures In Kidney Medulla",
+      "keywords": [
+        "medulla",
+        "kidney",
+        "labelled structures",
+        "loop of Henle",
+        "collecting duct",
+        "diagram"
+      ],
+      "question": "Which labelled structures would be found in the medulla region of the kidney?",
+      "status": "pending",
+      "answer": "Pending: the labelled diagram of the kidney tubule and blood supply is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q15a(iii)",
+      "no": "Q15(a)(iii)",
+      "marks": 3,
+      "topic": "Structures A And B In Proximal Tubule",
+      "keywords": [
+        "proximal convoluted tubule",
+        "microvilli",
+        "mitochondria",
+        "reabsorption",
+        "electron micrograph",
+        "structures A and B"
+      ],
+      "question": "Explain how structures A and B and their locations in the proximal convoluted tubule enable reabsorption of solutes, using the micrograph.",
+      "status": "pending",
+      "answer": "Pending: the electron micrograph with labelled structures A and B is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q15b",
+      "no": "Q15(b)",
+      "marks": 4,
+      "topic": "Urine Composition After Water Drink",
+      "keywords": [
+        "urine composition",
+        "drinking water",
+        "table",
+        "graph",
+        "urine volume",
+        "ADH",
+        "dilute urine"
+      ],
+      "question": "Comment on the results of the investigation in which individuals drank 1000 cm3 of water, using the table and graph.",
+      "status": "pending",
+      "answer": "Pending: the table and graph of urine volume and composition are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q15c",
+      "no": "Q15(c)",
+      "marks": 3,
+      "topic": "ADH Causes Low Blood Sodium",
+      "keywords": [
+        "ADH",
+        "hyponatraemia",
+        "sodium ion concentration",
+        "collecting duct",
+        "water reabsorption",
+        "dilution",
+        "blood volume"
+      ],
+      "question": "Explain how excessive release of ADH causes the blood sodium concentration to fall in hyponatraemia.",
+      "status": "ready",
+      "answer": "Excess ADH makes the collecting duct very permeable, so too much water is reabsorbed, diluting the blood sodium.",
+      "steps": [
+        "Excess ADH increases the permeability of the collecting duct to water.",
+        "More water is reabsorbed by osmosis from the filtrate into the blood.",
+        "The blood volume increases and the sodium ion concentration is diluted, so it falls below normal."
+      ]
+    },
+    {
+      "id": "7C-Q16a(i)",
+      "no": "Q16(a)(i)",
+      "marks": 1,
+      "topic": "Afferent Arteriole Width Effect",
+      "keywords": [
+        "afferent arteriole",
+        "efferent arteriole",
+        "glomerulus",
+        "pressure",
+        "ultrafiltration"
+      ],
+      "question": "Which describes the effect of the afferent arteriole being wider than the efferent arteriole (options: increases pressure in glomerulus for ultrafiltration; increases water movement by osmosis; reduces risk of capillary damage; reduces water reabsorption)?",
+      "status": "ready",
+      "answer": "A it increases pressure in the glomerulus for ultrafiltration",
+      "steps": [
+        "A wider afferent arteriole lets more blood in, and the narrower efferent arteriole restricts outflow.",
+        "This raises hydrostatic pressure in the glomerulus, driving ultrafiltration."
+      ]
+    },
+    {
+      "id": "7C-Q16a(ii)",
+      "no": "Q16(a)(ii)",
+      "marks": 1,
+      "topic": "Blood Filtered In 24 Hours",
+      "keywords": [
+        "blood filtered",
+        "kidney",
+        "24 hours",
+        "cm3",
+        "dm3",
+        "unit conversion"
+      ],
+      "question": "How much blood will be filtered in 24 hours if the kidneys filter 6000 cm3 each hour (options: 124 dm3, 144 cm3, 144 dm3, 1440 cm3)?",
+      "status": "ready",
+      "answer": "C 144 dm3",
+      "steps": [
+        "Blood filtered in 24 hours = 6000 cm3 x 24 = 144 000 cm3.",
+        "Convert: 144 000 / 1000 = 144 dm3, so C is correct."
+      ]
+    },
+    {
+      "id": "7C-Q16b(i)",
+      "no": "Q16(b)(i)",
+      "marks": 2,
+      "topic": "Urine Volume At 75% ADH",
+      "keywords": [
+        "ADH concentration",
+        "urine volume",
+        "table",
+        "75%",
+        "standard form",
+        "one day"
+      ],
+      "question": "Calculate the volume of urine produced in one day with an ADH concentration of 75%, assuming ADH stays constant (standard form).",
+      "status": "pending",
+      "answer": "Pending: the urine production rate at 75% ADH is in the table, which is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q16b(ii)",
+      "no": "Q16(b)(ii)",
+      "marks": 2,
+      "topic": "Effect Of ADH On Urine",
+      "keywords": [
+        "ADH",
+        "urine concentration",
+        "rate of urine production",
+        "effect",
+        "table",
+        "inverse"
+      ],
+      "question": "Describe the effect of ADH concentration on the concentration of urine and the rate of urine production.",
+      "status": "ready",
+      "answer": "Higher ADH concentration produces more concentrated urine and a lower rate of urine production.",
+      "steps": [
+        "ADH increases the permeability of the collecting duct to water.",
+        "More water is reabsorbed, so the urine becomes more concentrated.",
+        "Less water remains in the filtrate, so the rate of urine production falls as ADH concentration rises."
+      ]
+    },
+    {
+      "id": "7C-Q16c",
+      "no": "Q16(c)",
+      "marks": 3,
+      "topic": "ADH And Water Movement From Collecting Duct",
+      "keywords": [
+        "ADH",
+        "collecting duct",
+        "water movement",
+        "aquaporins",
+        "osmosis",
+        "blood",
+        "medulla gradient"
+      ],
+      "question": "Explain how ADH affects the movement of water from the lumen of the collecting duct into the blood.",
+      "status": "ready",
+      "answer": "ADH causes aquaporins to be inserted into the collecting duct membrane, so water moves out by osmosis into the hypertonic medulla and then into the blood.",
+      "steps": [
+        "ADH binds to receptors on collecting duct cells, triggering a cAMP second messenger pathway.",
+        "Aquaporin water channels are inserted into the cell membrane, increasing its water permeability.",
+        "Water moves out of the collecting duct lumen by osmosis into the hypertonic medulla and then into the blood."
+      ]
+    },
+    {
+      "id": "7C-Q17a(i)",
+      "no": "Q17(a)(i)",
+      "marks": 2,
+      "topic": "Dipeptide Diagram",
+      "keywords": [
+        "dipeptide",
+        "amino acids",
+        "peptide bond",
+        "diagram",
+        "molecules formed"
+      ],
+      "question": "Complete the diagram to show the molecule formed when the two amino acids join together (dipeptide).",
+      "status": "pending",
+      "answer": "Pending: the diagram of the two amino acids is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "7C-Q17a(ii)",
+      "no": "Q17(a)(ii)",
+      "marks": 1,
+      "topic": "Reaction Joining Amino Acids",
+      "keywords": [
+        "condensation",
+        "peptide bond",
+        "amino acids",
+        "water",
+        "hydrolysis",
+        "reaction"
+      ],
+      "question": "Which type of reaction joins two amino acids together (options: condensation, decarboxylation, hydrolysis, phosphorylation)?",
+      "status": "ready",
+      "answer": "A condensation",
+      "steps": [
+        "Two amino acids join with a peptide bond.",
+        "A water molecule is removed in the process, which is a condensation reaction.",
+        "Hydrolysis is the reverse, breaking the bond by adding water."
+      ]
+    },
+    {
+      "id": "7C-Q17b",
+      "no": "Q17(b)",
+      "marks": 3,
+      "topic": "Fate Of Excess Amino Acids",
+      "keywords": [
+        "amino acids",
+        "deamination",
+        "liver",
+        "urea",
+        "excess protein",
+        "keto acid",
+        "respiration"
+      ],
+      "question": "Describe what happens to the amino acids produced when excess proteins are broken down.",
+      "status": "ready",
+      "answer": "Excess amino acids are deaminated in the liver: the amine group becomes urea, and the keto acid is respired or converted to glycogen or fat.",
+      "steps": [
+        "Excess amino acids cannot be stored, so they are deaminated in the liver.",
+        "The amine group is removed and converted to urea, which is excreted by the kidney.",
+        "The remaining keto acid is used in respiration or converted to glucose, glycogen or fat for storage."
+      ]
+    }
+  ]
+}

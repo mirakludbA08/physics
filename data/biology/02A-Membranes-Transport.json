@@ -1,0 +1,2944 @@
+{
+  "code": "2A",
+  "title": "Membranes and transport",
+  "unit": "AS Unit 2",
+  "pdf": "papers/biology/02A-Membranes-Transport.pdf",
+  "questions": [
+    {
+      "id": "2A-Q1a",
+      "no": "Q1(a)",
+      "marks": 1,
+      "topic": "Giraffe Neck Length Estimate",
+      "keywords": [
+        "giraffe",
+        "neck length",
+        "estimate",
+        "photograph",
+        "shoulders",
+        "metres",
+        "scale"
+      ],
+      "question": "Estimate the length of the neck of the adult giraffe from the shoulders, using the information in the photograph.",
+      "status": "pending",
+      "answer": "Missing: the photograph of the giraffe with its scale reference is not in the text, so the neck length cannot be estimated.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q1b",
+      "no": "Q1(b)",
+      "marks": 2,
+      "topic": "Large Giraffe Heart",
+      "keywords": [
+        "giraffe",
+        "heart",
+        "blood pressure",
+        "gravity",
+        "brain",
+        "high pressure",
+        "cardiac output",
+        "long neck"
+      ],
+      "question": "Explain why the heart of a giraffe, which can be 60 cm long, needs to be so large.",
+      "status": "ready",
+      "answer": "The heart must generate very high blood pressure to pump blood up the long neck against gravity to the brain.",
+      "steps": [
+        "The giraffe's head is several metres above the heart, so blood must be pumped against gravity.",
+        "A large, thick-walled ventricle generates the high pressure needed to push blood up the neck.",
+        "Blood must reach the brain at a pressure high enough to keep it supplied with oxygen and glucose.",
+        "A large heart also gives a large stroke volume, so enough blood reaches the brain and other tissues each beat."
+      ]
+    },
+    {
+      "id": "2A-Q1c(i)",
+      "no": "Q1(c)(i)",
+      "marks": 3,
+      "topic": "Artery Cross Section Diagram",
+      "keywords": [
+        "artery",
+        "cross section",
+        "diagram",
+        "endothelium",
+        "elastic fibres",
+        "smooth muscle",
+        "lumen",
+        "labelled"
+      ],
+      "question": "Draw a labelled diagram of an artery as seen in section.",
+      "status": "ready",
+      "answer": "A thick wall with a narrow-ish lumen, showing endothelium, elastic tissue, smooth muscle and a collagen-rich outer layer; labels for the lumen and layers.",
+      "steps": [
+        "Draw a circle for the artery with a small, round lumen at the centre.",
+        "Draw a thin inner layer of endothelium lining the lumen, with folded elastic tissue beneath it.",
+        "Draw a thick middle layer of smooth muscle and elastic fibres, which is much thicker than in a vein.",
+        "Draw an outer layer of collagen and connective tissue, then label the lumen, endothelium, elastic layer and smooth muscle."
+      ]
+    },
+    {
+      "id": "2A-Q1c(ii)",
+      "no": "Q1(c)(ii)",
+      "marks": 2,
+      "topic": "Elasticity of Arteries",
+      "keywords": [
+        "elastic arteries",
+        "giraffe",
+        "pressure",
+        "recoil",
+        "heart",
+        "systole",
+        "diastole",
+        "blood flow"
+      ],
+      "question": "Explain why the arteries near the heart of a giraffe are highly elastic.",
+      "status": "ready",
+      "answer": "The elastic walls stretch to take the high pressure surge from each heartbeat and then recoil, maintaining pressure and smoothing blood flow.",
+      "steps": [
+        "Each ventricular contraction forces a surge of blood into the arteries at high pressure.",
+        "Elastic fibres in the arterial wall stretch to accommodate this surge, storing energy.",
+        "Elastic recoil keeps blood flowing steadily to the tissues between heartbeats.",
+        "During diastole the elastic walls recoil, pushing blood forward and keeping the pressure high between beats."
+      ]
+    },
+    {
+      "id": "2A-Q1d(i)",
+      "no": "Q1(d)(i)",
+      "marks": 2,
+      "topic": "Narrow Capillaries and Bleeding",
+      "keywords": [
+        "capillaries",
+        "narrow",
+        "bleeding",
+        "blood pressure",
+        "resistance",
+        "blood flow",
+        "damage",
+        "giraffe legs"
+      ],
+      "question": "Explain why very narrow capillaries near the skin surface prevent excessive bleeding if the legs are damaged.",
+      "status": "ready",
+      "answer": "Narrow capillaries give high resistance and low blood pressure, so blood flows out of a damaged vessel slowly and clotting can seal it.",
+      "steps": [
+        "Narrow vessels create a high resistance to blood flow.",
+        "This keeps the blood pressure in the capillaries low.",
+        "Narrow vessels also slow the flow, so clotting has more time to seal the wound.",
+        "Low pressure means blood leaks out of a damaged capillary slowly, giving time for clotting to seal the wound."
+      ]
+    },
+    {
+      "id": "2A-Q1d(ii)",
+      "no": "Q1(d)(ii)",
+      "marks": 2,
+      "topic": "Small Red Cells and Oxygen Supply",
+      "keywords": [
+        "red blood cells",
+        "surface area",
+        "volume",
+        "diffusion",
+        "oxygen",
+        "capillaries",
+        "giraffe legs",
+        "small size"
+      ],
+      "question": "Explain why smaller red blood cells, about one third the size of human cells, increase the supply of oxygen to the legs.",
+      "status": "ready",
+      "answer": "Smaller cells have a larger surface area to volume ratio and a shorter diffusion distance, and more cells can pass through capillaries, so oxygen is released faster.",
+      "steps": [
+        "Smaller red blood cells have a larger surface area to volume ratio than larger cells.",
+        "A larger ratio means oxygen can diffuse out of the cell and into the tissues faster.",
+        "Their small size lets them pass through very narrow capillaries, so they reach the tissues in the legs.",
+        "More cells can therefore pass per unit time, increasing the total oxygen delivered."
+      ]
+    },
+    {
+      "id": "2A-Q2a",
+      "no": "Q2(a)",
+      "marks": 3,
+      "topic": "Transport Mechanism Features Table",
+      "keywords": [
+        "active transport",
+        "facilitated diffusion",
+        "amoeba",
+        "transport mechanisms",
+        "table",
+        "features",
+        "ATP"
+      ],
+      "question": "From a table of features of transport mechanisms, identify the feature that is true for active transport only, facilitated diffusion only, both, or neither.",
+      "status": "pending",
+      "answer": "Missing: the table of transport mechanism features is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q2b(i)",
+      "no": "Q2(b)(i)",
+      "marks": 2,
+      "topic": "Uptake of Substances K and L",
+      "keywords": [
+        "substance K",
+        "substance L",
+        "uptake",
+        "amoeba",
+        "graph",
+        "18 C",
+        "cytoplasm"
+      ],
+      "question": "Explain the differences in the uptake of substance K and substance L into an amoeba at 18 C, shown on the graph.",
+      "status": "pending",
+      "answer": "Missing: the graph of uptake of substances K and L is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q2b(ii)",
+      "no": "Q2(b)(ii)",
+      "marks": 2,
+      "topic": "Graph Line at 10 C",
+      "keywords": [
+        "substance L",
+        "10 C",
+        "uptake",
+        "graph",
+        "temperature",
+        "active transport",
+        "line"
+      ],
+      "question": "On the graph, draw a line to show the uptake of substance L at 10 C.",
+      "status": "pending",
+      "answer": "Missing: the graph to be annotated is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q2c(i)",
+      "no": "Q2(c)(i)",
+      "marks": 2,
+      "topic": "Membrane Flexibility",
+      "keywords": [
+        "pseudopodia",
+        "membrane",
+        "phospholipids",
+        "fluid mosaic",
+        "flexible",
+        "cytoplasm",
+        "shape change"
+      ],
+      "question": "Explain why the cell surface membrane is able to change its shape when cytoplasm flows towards it to form pseudopodia.",
+      "status": "ready",
+      "answer": "The phospholipids in the membrane can move past one another, so the fluid bilayer deforms and the membrane changes shape.",
+      "steps": [
+        "The cell surface membrane is a phospholipid bilayer that is fluid, not rigid.",
+        "Phospholipid molecules can move laterally past each other, so the membrane flows.",
+        "The cytoskeleton (actin filaments) pushes and reorganises the membrane at each pseudopodium.",
+        "Proteins and cholesterol are embedded in this fluid mosaic, allowing it to stretch and deform as cytoplasm pushes against it."
+      ]
+    },
+    {
+      "id": "2A-Q2c(ii)",
+      "no": "Q2(c)(ii)",
+      "marks": 2,
+      "topic": "Pseudopodia and Uptake Rate",
+      "keywords": [
+        "pseudopodia",
+        "endocytosis",
+        "surface area",
+        "uptake",
+        "phagocytosis",
+        "amoeba",
+        "substances"
+      ],
+      "question": "Explain how the uptake of substances would be affected if the amoeba increased its number of pseudopodia.",
+      "status": "ready",
+      "answer": "More pseudopodia increase the membrane surface area available for endocytosis and phagocytosis, so more substances are taken in per unit time.",
+      "steps": [
+        "Pseudopodia surround food and water, forming vesicles by endocytosis.",
+        "Each extra pseudopodium adds membrane surface area for engulfing substances.",
+        "A larger surface area allows more vesicles to form in a given time.",
+        "So the overall rate of uptake of substances increases."
+      ]
+    },
+    {
+      "id": "2A-Q3a(i)",
+      "no": "Q3(a)(i)",
+      "marks": 2,
+      "topic": "Liposome Volume Calculation",
+      "keywords": [
+        "liposome",
+        "volume",
+        "sphere",
+        "diameter",
+        "radius",
+        "phospholipids",
+        "calculation",
+        "formula"
+      ],
+      "question": "Calculate the volume of the liposome shown in the diagram, using the formula given in the question.",
+      "status": "pending",
+      "answer": "Missing: the diagram giving the liposome dimensions and the formula image are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q3a(ii)",
+      "no": "Q3(a)(ii)",
+      "marks": 2,
+      "topic": "Phospholipid Arrangement in Liposomes",
+      "keywords": [
+        "liposome",
+        "phospholipid",
+        "hydrophilic head",
+        "hydrophobic tail",
+        "bilayer",
+        "water",
+        "arrangement"
+      ],
+      "question": "Explain the arrangement of phospholipids in liposomes made by adding phospholipids to water.",
+      "status": "ready",
+      "answer": "Hydrophilic heads face the water on the outside and inside, while hydrophobic tails point inwards, away from water, forming a bilayer sphere.",
+      "steps": [
+        "Phospholipids have a hydrophilic phosphate head and two hydrophobic fatty acid tails.",
+        "In water the heads are attracted to the water and face outwards, both on the outer and inner surfaces.",
+        "The hydrophobic tails are shielded from the water and point towards the centre of the membrane.",
+        "This forms a spherical phospholipid bilayer, the liposome."
+      ]
+    },
+    {
+      "id": "2A-Q3b(i)",
+      "no": "Q3(b)(i)",
+      "marks": 1,
+      "topic": "Glycerol Membrane Movement",
+      "keywords": [
+        "glycerol",
+        "liposome membrane",
+        "diffusion",
+        "active transport",
+        "endocytosis",
+        "osmosis",
+        "permeability"
+      ],
+      "question": "How does glycerol pass through the liposome membrane? Options: A active transport, B diffusion, C endocytosis, D osmosis.",
+      "status": "ready",
+      "answer": "B (diffusion).",
+      "steps": [
+        "Glycerol is a small molecule that moves down its concentration gradient.",
+        "No ATP is used and no vesicles form, so it is not active transport or endocytosis.",
+        "Its movement depends only on the concentration gradient across the liposome membrane.",
+        "Osmosis refers only to the movement of water, so D is wrong; the answer is simple diffusion."
+      ]
+    },
+    {
+      "id": "2A-Q3b(ii)",
+      "no": "Q3(b)(ii)",
+      "marks": 3,
+      "topic": "Cholesterol and Temperature Permeability Graph",
+      "keywords": [
+        "cholesterol",
+        "temperature",
+        "permeability",
+        "glycerol",
+        "liposome",
+        "graph",
+        "20%",
+        "50%"
+      ],
+      "question": "Describe the effects of cholesterol and temperature on membrane permeability to glycerol, as shown in the graph.",
+      "status": "pending",
+      "answer": "Missing: the graph of glycerol permeability against temperature for each cholesterol level is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q3b(iii)",
+      "no": "Q3(b)(iii)",
+      "marks": 2,
+      "topic": "Why Cholesterol and Temperature Affect Permeability",
+      "keywords": [
+        "cholesterol",
+        "temperature",
+        "permeability",
+        "fluidity",
+        "phospholipids",
+        "kinetic energy",
+        "packing"
+      ],
+      "question": "Explain why cholesterol and temperature affect membrane permeability.",
+      "status": "ready",
+      "answer": "Cholesterol packs between phospholipids and reduces fluidity, lowering permeability; higher temperature increases kinetic energy and fluidity, raising permeability.",
+      "steps": [
+        "Cholesterol sits between the phospholipid tails and restricts their movement.",
+        "This makes the membrane less fluid and less permeable to small molecules such as glycerol.",
+        "Higher temperature gives phospholipids more kinetic energy, so they move more and the membrane becomes more fluid.",
+        "A more fluid membrane allows more glycerol to diffuse through, increasing permeability."
+      ]
+    },
+    {
+      "id": "2A-Q4a",
+      "no": "Q4(a)",
+      "marks": 2,
+      "topic": "Elephant to Mouse Height Ratio",
+      "keywords": [
+        "elephant",
+        "mouse",
+        "height",
+        "white line",
+        "photograph",
+        "ratio",
+        "times taller"
+      ],
+      "question": "The mouse is 3 cm tall. Using the white line on the elephant photograph, calculate how many times taller the elephant is than the mouse.",
+      "status": "pending",
+      "answer": "Missing: the elephant photograph with the white line measurement is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q4b",
+      "no": "Q4(b)",
+      "marks": 3,
+      "topic": "Elephant Lung Adaptations",
+      "keywords": [
+        "elephant",
+        "lungs",
+        "collagen fibres",
+        "gas exchange",
+        "alveoli",
+        "chest wall",
+        "diaphragm",
+        "surface area"
+      ],
+      "question": "The lungs of an elephant are attached to the chest wall and diaphragm by collagen fibres. Describe how the lungs are adapted for gas exchange.",
+      "status": "ready",
+      "answer": "The attachments keep the lungs expanded so alveoli stay open, giving a large surface area and efficient gas exchange across thin, well-supplied walls.",
+      "steps": [
+        "Collagen fibres attach the lungs to the chest wall and diaphragm, so the lungs are held open.",
+        "This stops the alveoli from collapsing, keeping a large surface area for gas exchange.",
+        "The alveolar walls are thin, giving a short diffusion distance for oxygen and carbon dioxide.",
+        "A rich capillary network around the alveoli maintains a steep concentration gradient."
+      ]
+    },
+    {
+      "id": "2A-Q4c",
+      "no": "Q4(c)",
+      "marks": 6,
+      "topic": "Haemoglobin Dissociation Mouse and Elephant",
+      "keywords": [
+        "oxygen dissociation curve",
+        "haemoglobin",
+        "mouse",
+        "elephant",
+        "metabolic rate",
+        "mass-specific",
+        "affinity",
+        "graph"
+      ],
+      "question": "Explain the difference in the oxygen dissociation curves of haemoglobin for a mouse and an elephant, using both graphs.",
+      "status": "pending",
+      "answer": "Missing: Graph 1 (oxygen dissociation curves) and Graph 2 (mass-specific metabolic rate) are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q5a",
+      "no": "Q5(a)",
+      "marks": 3,
+      "topic": "Triglyceride and Phospholipid Structure",
+      "keywords": [
+        "triglyceride",
+        "phospholipid",
+        "glycerol",
+        "fatty acids",
+        "ester bond",
+        "phosphate",
+        "hydrophilic",
+        "hydrophobic"
+      ],
+      "question": "Compare and contrast the structure of a triglyceride and a phospholipid.",
+      "status": "ready",
+      "answer": "Both have a glycerol backbone joined to fatty acids by ester bonds; a triglyceride has three fatty acids, whereas a phospholipid has two fatty acids and a phosphate-containing head.",
+      "steps": [
+        "Similarity: both contain a glycerol backbone with fatty acid chains attached by ester bonds.",
+        "Similarity: both are made of carbon, hydrogen and oxygen and are lipids.",
+        "Difference: a triglyceride has three fatty acid chains, all hydrophobic.",
+        "Difference: a phospholipid has two fatty acids and a phosphate group, giving a hydrophilic head and hydrophobic tails."
+      ]
+    },
+    {
+      "id": "2A-Q5b",
+      "no": "Q5(b)",
+      "marks": 3,
+      "topic": "LDL Cholesterol Transport",
+      "keywords": [
+        "LDL",
+        "lipoprotein",
+        "cholesterol",
+        "transport",
+        "blood",
+        "phospholipid monolayer",
+        "hydrophobic core",
+        "solubility"
+      ],
+      "question": "Explain why the properties of LDLs enable cholesterol to be transported in the blood.",
+      "status": "ready",
+      "answer": "LDL has a surface of phospholipid and protein that is soluble in plasma, while its hydrophobic core carries cholesterol and other lipids safely through the water-based blood.",
+      "steps": [
+        "Cholesterol is hydrophobic and cannot dissolve in the water-based blood plasma on its own.",
+        "LDL is a lipoprotein with a surface layer of phospholipids whose hydrophilic heads face the plasma.",
+        "The hydrophobic core of the LDL holds cholesterol and other lipids away from the water.",
+        "Apolipoproteins on the surface are recognised by receptors on cells, so cholesterol is delivered to them."
+      ]
+    },
+    {
+      "id": "2A-Q5c(i)",
+      "no": "Q5(c)(i)",
+      "marks": 3,
+      "topic": "LDL Volume and Ratio Table",
+      "keywords": [
+        "LDL",
+        "volume",
+        "diameter",
+        "19 nm",
+        "24 nm",
+        "cholesterol volume",
+        "ratio",
+        "table"
+      ],
+      "question": "Complete the table by calculating the volume of LDL (diameters 19 to 24 nm) and the ratio of LDL volume to cholesterol volume, using the formula given.",
+      "status": "pending",
+      "answer": "Missing: the table of LDL and cholesterol data and the formula image are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q5c(ii)",
+      "no": "Q5(c)(ii)",
+      "marks": 6,
+      "topic": "LDL as CVD Predictor",
+      "keywords": [
+        "LDL",
+        "HDL",
+        "CVD",
+        "risk",
+        "predictor",
+        "graph",
+        "cholesterol",
+        "atherosclerosis"
+      ],
+      "question": "Explain why measuring only the level of LDL in the blood is not a reliable predictor of cardiovascular disease, using the graph of LDL and HDL against risk.",
+      "status": "pending",
+      "answer": "Missing: the graph relating LDL and HDL to CVD risk is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q6a(i)",
+      "no": "Q6(a)(i)",
+      "marks": 1,
+      "topic": "Partial Pressure Definition",
+      "keywords": [
+        "partial pressure",
+        "gas mixture",
+        "pressure",
+        "oxygen",
+        "total pressure",
+        "definition"
+      ],
+      "question": "State what is meant by the term partial pressure.",
+      "status": "ready",
+      "answer": "The pressure exerted by one gas in a mixture of gases; it is the proportion of the total pressure contributed by that gas.",
+      "steps": [
+        "A gas mixture exerts a total pressure, shared between its component gases.",
+        "The partial pressure of one gas is the pressure that gas alone would exert.",
+        "It is measured in kPa, which is why the partial pressure of oxygen is quoted in kPa.",
+        "It equals the mole fraction of that gas multiplied by the total pressure."
+      ]
+    },
+    {
+      "id": "2A-Q6a(ii)",
+      "no": "Q6(a)(ii)",
+      "marks": 3,
+      "topic": "Haemoglobin Sigmoidal Curve",
+      "keywords": [
+        "haemoglobin",
+        "sigmoidal",
+        "S-shaped",
+        "quaternary structure",
+        "cooperative binding",
+        "haem",
+        "oxygen binding",
+        "affinity"
+      ],
+      "question": "Explain how the structure of haemoglobin causes its oxygen dissociation curve to be sigmoidal (S-shaped).",
+      "status": "ready",
+      "answer": "Haemoglobin has four polypeptide chains with haem groups; binding one oxygen changes its shape and increases affinity for further oxygen (cooperative binding), giving the S shape.",
+      "steps": [
+        "Haemoglobin has four polypeptide chains, each with a haem group that can bind one oxygen molecule.",
+        "When the first oxygen binds, the quaternary structure changes shape.",
+        "This change makes it easier for the next oxygen molecules to bind, so affinity increases.",
+        "The curve is therefore shallow at low partial pressure, steep in the middle, and levels off at saturation."
+      ]
+    },
+    {
+      "id": "2A-Q6b(i)",
+      "no": "Q6(b)(i)",
+      "marks": 1,
+      "topic": "Lower Alveolar Oxygen Pressure",
+      "keywords": [
+        "alveoli",
+        "oxygen",
+        "partial pressure",
+        "atmosphere",
+        "carbon dioxide",
+        "water vapour",
+        "oxygen cascade",
+        "diffusion"
+      ],
+      "question": "Suggest why the partial pressure of oxygen in the alveoli is lower than in the atmosphere.",
+      "status": "ready",
+      "answer": "Oxygen diffuses from the alveoli into the blood, and the alveolar air is diluted by carbon dioxide and water vapour, so oxygen pressure is lower.",
+      "steps": [
+        "Oxygen is continuously absorbed from the alveolar air into the blood by diffusion.",
+        "The alveolar air also contains carbon dioxide and water vapour, which dilute the oxygen.",
+        "Alveolar air is mixed with air left in the lungs after breathing, which dilutes the oxygen.",
+        "So the partial pressure of oxygen in the alveoli is lower than in the atmosphere."
+      ]
+    },
+    {
+      "id": "2A-Q6b(ii)",
+      "no": "Q6(b)(ii)",
+      "marks": 3,
+      "topic": "Oxygen Pressure Falls Along Vessels",
+      "keywords": [
+        "partial pressure",
+        "oxygen",
+        "arteries",
+        "veins",
+        "respiring tissues",
+        "diffusion",
+        "concentration gradient",
+        "oxygen unloading"
+      ],
+      "question": "Explain why the partial pressure of oxygen decreases as blood flows through the arteries and into the veins.",
+      "status": "ready",
+      "answer": "Oxygen diffuses out of the blood into respiring tissues down a concentration gradient, and tissues use oxygen in respiration, so the blood oxygen pressure falls.",
+      "steps": [
+        "Respiring tissue cells use oxygen for aerobic respiration, so their oxygen concentration stays low.",
+        "Oxygen diffuses from the blood into the tissues down the concentration gradient.",
+        "As oxygen leaves the blood, the partial pressure of oxygen in the blood falls.",
+        "This continues through the capillaries, so the venous blood has a lower oxygen pressure than the arterial blood."
+      ]
+    },
+    {
+      "id": "2A-Q6b(iii)",
+      "no": "Q6(b)(iii)",
+      "marks": 1,
+      "topic": "Saturation at Point X",
+      "keywords": [
+        "percentage saturation",
+        "point X",
+        "oxygen dissociation curve",
+        "high altitude",
+        "haemoglobin",
+        "graph"
+      ],
+      "question": "Using the point X on the graph and the oxygen dissociation curve, determine the percentage saturation of haemoglobin in blood leaving the lungs of the person at high altitude.",
+      "status": "pending",
+      "answer": "Missing: the graph and the point X are not in the text, so the percentage saturation cannot be read.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q6b(iv)",
+      "no": "Q6(b)(iv)",
+      "marks": 4,
+      "topic": "Low Saturation at High Altitude",
+      "keywords": [
+        "high altitude",
+        "saturation",
+        "low partial pressure",
+        "haemoglobin",
+        "oxygen",
+        "sea level",
+        "dissociation curve",
+        "adaptation"
+      ],
+      "question": "Explain why the percentage saturation of haemoglobin in a person at high altitude is much lower than in a person at sea level.",
+      "status": "ready",
+      "answer": "Lower partial pressure of oxygen at altitude means less oxygen loads onto haemoglobin, so the curve gives a lower percentage saturation.",
+      "steps": [
+        "At high altitude the air contains less oxygen, so the partial pressure of oxygen in the alveoli is lower.",
+        "Less oxygen diffuses into the blood, so the partial pressure in the blood is lower.",
+        "On the oxygen dissociation curve, a lower partial pressure gives a lower saturation of haemoglobin.",
+        "So the blood carries less oxygen, although the body may respond with more red blood cells over time."
+      ]
+    },
+    {
+      "id": "2A-Q7a(i)",
+      "no": "Q7(a)(i)",
+      "marks": 2,
+      "topic": "Water Entry into Paramecium",
+      "keywords": [
+        "paramecium",
+        "water",
+        "osmosis",
+        "water potential",
+        "pond water",
+        "hypertonic",
+        "cell membrane"
+      ],
+      "question": "Explain why water enters the paramecium, which lives in pond water.",
+      "status": "ready",
+      "answer": "The cytoplasm of the paramecium has a lower water potential than the pond water, so water enters by osmosis across the cell membrane.",
+      "steps": [
+        "The cytoplasm of the paramecium contains dissolved solutes, giving it a lower water potential than the pond water.",
+        "Water moves down its water potential gradient by osmosis.",
+        "Water enters by osmosis, so its entry is passive and needs no ATP.",
+        "Water crosses the cell surface membrane by osmosis, entering the cell continuously."
+      ]
+    },
+    {
+      "id": "2A-Q7a(ii)",
+      "no": "Q7(a)(ii)",
+      "marks": 3,
+      "topic": "Importance of Contractile Vacuole",
+      "keywords": [
+        "contractile vacuole",
+        "paramecium",
+        "water",
+        "pump",
+        "osmosis",
+        "lysis",
+        "ATP",
+        "water balance"
+      ],
+      "question": "Explain the importance of the contractile vacuole in the paramecium.",
+      "status": "ready",
+      "answer": "The contractile vacuole actively pumps excess water out of the cell, using ATP, so the cell does not swell and burst.",
+      "steps": [
+        "Water enters the paramecium continuously by osmosis because its cytoplasm is hypertonic.",
+        "The contractile vacuole collects this water and pumps it out of the cell.",
+        "This pumping uses ATP, because the water must be moved against the water potential gradient.",
+        "Without it, the cell would take in too much water, swell and burst (lysis)."
+      ]
+    },
+    {
+      "id": "2A-Q7b",
+      "no": "Q7(b)",
+      "marks": 6,
+      "topic": "Paramecium Vacuole Pumping Investigation",
+      "keywords": [
+        "paramecium",
+        "contractile vacuole",
+        "solution A",
+        "solution B",
+        "pond water",
+        "osmosis",
+        "pumping rate",
+        "investigation"
+      ],
+      "question": "Explain the results of an investigation in which paramecia in pond water, solution A and solution B had the number of contractile vacuole pumps counted in 30-second intervals, using the graphs.",
+      "status": "pending",
+      "answer": "Missing: the graphs of contractile vacuole pumping for pond water, solution A and solution B are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q8a(i)",
+      "no": "Q8(a)(i)",
+      "marks": 1,
+      "topic": "Monosaccharides and Disaccharides Table",
+      "keywords": [
+        "monosaccharides",
+        "disaccharides",
+        "sugars",
+        "table",
+        "classification",
+        "glucose",
+        "sucrose"
+      ],
+      "question": "From a table of sugars, identify the row that shows which sugars are monosaccharides and which are disaccharides.",
+      "status": "pending",
+      "answer": "Missing: the table of sugars and the row options are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q8a(ii)",
+      "no": "Q8(a)(ii)",
+      "marks": 1,
+      "topic": "Glycosidic Bond",
+      "keywords": [
+        "glycosidic bond",
+        "disaccharide",
+        "monosaccharides",
+        "condensation",
+        "ester",
+        "peptide",
+        "phosphodiester"
+      ],
+      "question": "Which type of bond joins two monosaccharides to form a disaccharide? Options: A ester, B glycosidic, C peptide, D phosphodiester.",
+      "status": "ready",
+      "answer": "B (glycosidic bond).",
+      "steps": [
+        "Two monosaccharides are joined by a condensation reaction that removes water.",
+        "The bond formed between sugar units is a glycosidic bond.",
+        "A glycosidic bond forms between one sugar and the hydroxyl group of the other, releasing water.",
+        "Peptide bonds join amino acids, phosphodiester bonds join nucleotides, and ester bonds join fatty acids to glycerol, so B is correct."
+      ]
+    },
+    {
+      "id": "2A-Q8b(i)",
+      "no": "Q8(b)(i)",
+      "marks": 2,
+      "topic": "Mean Glucose Concentration",
+      "keywords": [
+        "mean concentration",
+        "glucose",
+        "pineapples",
+        "g dm-3",
+        "table",
+        "calculation"
+      ],
+      "question": "Calculate the mean concentration of glucose in three pineapples, giving the answer in g dm-3, using the table of sugar concentrations.",
+      "status": "pending",
+      "answer": "Missing: the table of sugar concentrations in the three pineapples is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q8b(ii)",
+      "no": "Q8(b)(ii)",
+      "marks": 6,
+      "topic": "Osmotic Dehydration Sugar Solution",
+      "keywords": [
+        "osmotic dehydration",
+        "pineapple",
+        "sugar solution",
+        "water potential",
+        "concentration",
+        "sweet taste",
+        "table",
+        "preserve"
+      ],
+      "question": "Explain what the solution of sugars should contain to preserve pineapples by osmotic dehydration, using the table of sugar concentrations.",
+      "status": "pending",
+      "answer": "Missing: the table of sugar concentrations in the pineapples is not in the text, so the sugar composition needed cannot be justified.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q9a",
+      "no": "Q9(a)",
+      "marks": 3,
+      "topic": "Membrane Bilayer Evidence",
+      "keywords": [
+        "cell membrane",
+        "bilayer",
+        "electron micrograph",
+        "phosphate head",
+        "fatty acid tails",
+        "5.00 nm",
+        "evidence",
+        "phospholipid"
+      ],
+      "question": "Explain how the electron micrograph of a 5.00 nm wide cell membrane provides evidence for its structure, using the head diameter (0.8 to 0.9 nm) and tail length (1.25 to 1.75 nm).",
+      "status": "ready",
+      "answer": "A bilayer of two heads and two tails has a width of 4.1 to 5.3 nm, which matches the measured 5.00 nm, supporting the phospholipid bilayer model.",
+      "steps": [
+        "The micrograph shows two dark outer layers (hydrophilic phosphate heads) and a lighter central layer (hydrophobic tails).",
+        "The full membrane thickness is two heads plus two tails: 2(0.8 to 0.9) + 2(1.25 to 1.75) = 4.1 to 5.3 nm.",
+        "The measured width of 5.00 nm falls inside this range, so the measured membrane matches a phospholipid bilayer.",
+        "This is evidence for the bilayer structure with heads facing outwards and tails inwards."
+      ]
+    },
+    {
+      "id": "2A-Q9b",
+      "no": "Q9(b)",
+      "marks": 3,
+      "topic": "Cholesterol Location in Membranes",
+      "keywords": [
+        "cholesterol",
+        "cell membrane",
+        "steroid",
+        "hydrophobic",
+        "hydroxyl group",
+        "phospholipid bilayer",
+        "location",
+        "C27H46O"
+      ],
+      "question": "Explain the location of cholesterol in cell membranes, using the diagram of a cholesterol molecule (formula C27H46O).",
+      "status": "ready",
+      "answer": "Cholesterol sits within the phospholipid bilayer, with its hydrophobic steroid rings among the fatty acid tails and its small polar hydroxyl group near the phospholipid heads.",
+      "steps": [
+        "Cholesterol has a large non-polar steroid ring structure, which is hydrophobic.",
+        "It has only one small polar hydroxyl (-OH) group, which is hydrophilic.",
+        "The steroid rings sit between the fatty acid tails of the phospholipids, while the -OH group sits near the phosphate heads.",
+        "So cholesterol is embedded within the bilayer, where it helps regulate membrane fluidity."
+      ]
+    },
+    {
+      "id": "2A-Q9c(i)",
+      "no": "Q9(c)(i)",
+      "marks": 2,
+      "topic": "Dipolar Nature of Water",
+      "keywords": [
+        "water",
+        "dipole",
+        "polar",
+        "electronegativity",
+        "partial charge",
+        "hydrogen",
+        "oxygen",
+        "bent shape"
+      ],
+      "question": "Describe the dipolar nature of water.",
+      "status": "ready",
+      "answer": "Oxygen is more electronegative than hydrogen, so the shared electrons are pulled towards oxygen, giving the oxygen a partial negative charge and each hydrogen a partial positive charge.",
+      "steps": [
+        "Oxygen attracts the shared electron pairs in the O-H bonds more strongly than hydrogen does.",
+        "This makes the oxygen end slightly negative (delta-) and the hydrogen ends slightly positive (delta+).",
+        "The bent shape of water means the partial charges do not cancel, making water polar.",
+        "The bent shape of the water molecule means the charges do not cancel, so water is a polar molecule with a dipole."
+      ]
+    },
+    {
+      "id": "2A-Q9c(ii)",
+      "no": "Q9(c)(ii)",
+      "marks": 4,
+      "topic": "Membrane Permeability to Polar Molecules",
+      "keywords": [
+        "permeability",
+        "polar",
+        "non-polar",
+        "ions",
+        "glucose",
+        "water",
+        "steroid",
+        "phospholipid bilayer",
+        "hydrophobic core"
+      ],
+      "question": "Explain the permeability of cell membranes to sodium and chloride ions, glucose, water and a steroid, which are polar or non-polar.",
+      "status": "ready",
+      "answer": "Non-polar steroids pass freely through the hydrophobic core; ions and glucose cannot pass easily; water passes slowly because it is small and polar.",
+      "steps": [
+        "The phospholipid bilayer has a hydrophobic core, which non-polar molecules such as steroids dissolve in and cross easily.",
+        "Ions are charged and strongly hydrated, so they cannot cross the hydrophobic core and need channel or carrier proteins.",
+        "Glucose is polar and too large to diffuse through the bilayer, so it needs a carrier protein (facilitated diffusion).",
+        "Water is small and polar, so it crosses slowly by simple diffusion, and faster through aquaporins."
+      ]
+    },
+    {
+      "id": "2A-Q10a(i)",
+      "no": "Q10(a)(i)",
+      "marks": 2,
+      "topic": "Smoking and Lung Cancer Correlation",
+      "keywords": [
+        "smoking",
+        "lung cancer",
+        "correlation",
+        "death rate",
+        "men",
+        "graph",
+        "positive correlation"
+      ],
+      "question": "Explain how the graph shows a correlation between smoking and death rate from lung cancer in men.",
+      "status": "pending",
+      "answer": "Missing: the graph of smoking against death rate from lung cancer is not in the text, so the trend cannot be described.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q10a(ii)",
+      "no": "Q10(a)(ii)",
+      "marks": 2,
+      "topic": "Emphysema and Gas Exchange",
+      "keywords": [
+        "emphysema",
+        "alveoli",
+        "collapse",
+        "surface area",
+        "gas exchange",
+        "fewer larger alveoli",
+        "smoking"
+      ],
+      "question": "People with emphysema have weakened alveoli that collapse, creating fewer but larger alveoli. Explain how this affects gas exchange.",
+      "status": "ready",
+      "answer": "Fewer, larger alveoli give a smaller total surface area and a lower surface area to volume ratio, so diffusion of oxygen and carbon dioxide is slower.",
+      "steps": [
+        "Gas exchange happens across the alveolar walls, so the total surface area of alveoli sets the rate.",
+        "Fewer alveoli reduce the total surface area available for diffusion.",
+        "Larger alveoli have a smaller surface area to volume ratio, and diffusion distances can increase in collapsed regions.",
+        "So less oxygen enters the blood and less carbon dioxide leaves, reducing gas exchange efficiency."
+      ]
+    },
+    {
+      "id": "2A-Q10b",
+      "no": "Q10(b)",
+      "marks": 6,
+      "topic": "Gas Diffusion Through Egg Shell",
+      "keywords": [
+        "egg shell",
+        "pores",
+        "diffusion rate",
+        "surface area",
+        "thickness",
+        "concentration gradient",
+        "bird embryo",
+        "carbon dioxide"
+      ],
+      "question": "Explain the factors that determine the rate of diffusion of gases between the air and the tissues of a bird embryo, using the egg shell thickness (0.5 mm) and pore density (40 to 400 per cm2).",
+      "status": "ready",
+      "answer": "Rate depends on the number of pores (surface area for diffusion), the shell thickness (diffusion distance), the concentration gradient of gases, and temperature.",
+      "steps": [
+        "Diffusion rate is proportional to the surface area available, so more pores per cm2 (up to 400) allow faster gas exchange.",
+        "A thicker shell (0.5 mm here) increases the diffusion distance and slows diffusion.",
+        "The concentration gradient of oxygen (high in air, low in embryo) and of carbon dioxide (the reverse) drives diffusion; a steeper gradient speeds it up.",
+        "Higher temperature increases the kinetic energy of gas molecules, increasing the rate of diffusion.",
+        "Pore size and the moisture of the shell membrane also affect how easily gases pass through."
+      ]
+    },
+    {
+      "id": "2A-Q11a(i)",
+      "no": "Q11(a)(i)",
+      "marks": 1,
+      "topic": "Unit of Structure T",
+      "keywords": [
+        "magnification",
+        "1 x 10^7",
+        "structure T",
+        "2 units",
+        "nm",
+        "cm",
+        "actual size",
+        "membrane diagram"
+      ],
+      "question": "The magnification of the membrane diagram is 1 x 10^7 and structure T is 2 units long on the diagram. Which unit is the actual length of T? Options: A cm, B mm, C m, D nm.",
+      "status": "ready",
+      "answer": "D (nm).",
+      "steps": [
+        "Magnification = image size / actual size, so actual size = image size / magnification.",
+        "Taking the diagram unit as cm: 2 cm / 1 x 10^7 = 2 x 10^-7 cm.",
+        "Since 1 cm = 1 x 10^7 nm, the result 2 x 10^-7 cm equals 2 nm.",
+        "1 cm = 10^7 nm, so 2 x 10^-7 cm = 2 nm, a sensible size for a membrane component, so the unit is nm."
+      ]
+    },
+    {
+      "id": "2A-Q11a(ii)",
+      "no": "Q11(a)(ii)",
+      "marks": 1,
+      "topic": "Phosphate Group Structures",
+      "keywords": [
+        "phosphate group",
+        "phospholipid",
+        "labelled structures",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "membrane diagram"
+      ],
+      "question": "Which structures in the membrane diagram contain a phosphate group? Options: A Q and R, B Q and T, C R and S, D S and T.",
+      "status": "pending",
+      "answer": "Missing: the labelled membrane diagram (structures Q, R, S, T) is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q11a(iii)",
+      "no": "Q11(a)(iii)",
+      "marks": 1,
+      "topic": "Ratio Affecting Fluidity",
+      "keywords": [
+        "fluidity",
+        "ratio",
+        "structures",
+        "membrane diagram",
+        "cholesterol",
+        "fatty acids",
+        "Q",
+        "R",
+        "S",
+        "T"
+      ],
+      "question": "Which ratio of structures in the membrane diagram affects the fluidity of the membrane? Options: A Q:T, B R:Q, C R:T, D S:T.",
+      "status": "pending",
+      "answer": "Missing: the labelled membrane diagram (structures Q, R, S, T) is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q11b",
+      "no": "Q11(b)",
+      "marks": 4,
+      "topic": "Primary Structure of Membrane Protein",
+      "keywords": [
+        "primary structure",
+        "amino acid sequence",
+        "protein",
+        "R groups",
+        "folding",
+        "membrane protein",
+        "properties"
+      ],
+      "question": "Explain the role of the primary structure in determining the properties of the membrane protein labelled in the diagram.",
+      "status": "ready",
+      "answer": "The primary structure is the sequence of amino acids, which fixes the R groups; these determine bonding and folding, and so the protein's shape and whether it is hydrophobic or hydrophilic.",
+      "steps": [
+        "The primary structure is the specific sequence of amino acids joined by peptide bonds.",
+        "The sequence determines the R groups, which can be hydrophobic or hydrophilic.",
+        "Hydrophobic R groups face the lipid core of the membrane, while hydrophilic ones face the water-based surface.",
+        "The sequence also determines the bonds that form the secondary and tertiary structure, so the protein's shape and function depend on it."
+      ]
+    },
+    {
+      "id": "2A-Q11c",
+      "no": "Q11(c)",
+      "marks": 6,
+      "topic": "Mechanisms of Molecule Entry",
+      "keywords": [
+        "molecules",
+        "mechanism",
+        "diffusion",
+        "facilitated diffusion",
+        "active transport",
+        "endocytosis",
+        "table",
+        "membrane diagram"
+      ],
+      "question": "Explain why each of the molecules in a table and diagram of molecules inside and outside a cell enters the cell by a different mechanism.",
+      "status": "pending",
+      "answer": "Missing: the table of molecules and the diagram are not in the text, so each molecule's mechanism cannot be matched.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q12a(i)",
+      "no": "Q12(a)(i)",
+      "marks": 2,
+      "topic": "Drawing a Phospholipid",
+      "keywords": [
+        "phospholipid",
+        "draw",
+        "shapes",
+        "glycerol",
+        "fatty acids",
+        "phosphate",
+        "structure"
+      ],
+      "question": "Using the shapes showing the components of a phospholipid, draw a diagram to show its structure.",
+      "status": "pending",
+      "answer": "Missing: the shapes representing the phospholipid components are shown only as an image, not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q12a(ii)",
+      "no": "Q12(a)(ii)",
+      "marks": 1,
+      "topic": "Bond in Phospholipid",
+      "keywords": [
+        "phospholipid",
+        "ester bond",
+        "glycosidic",
+        "hydrogen bond",
+        "peptide bond",
+        "fatty acid",
+        "glycerol"
+      ],
+      "question": "Which type of bond is found in a phospholipid molecule? Options: A ester, B glycosidic, C hydrogen, D peptide.",
+      "status": "ready",
+      "answer": "A (ester bond).",
+      "steps": [
+        "Fatty acids are joined to the glycerol backbone of a phospholipid by ester bonds, formed in condensation reactions.",
+        "Glycosidic bonds join sugars, and peptide bonds join amino acids, so B and D are wrong.",
+        "Ester bonds link the fatty acids to the glycerol backbone of a phospholipid.",
+        "Hydrogen bonds are weak attractions, not covalent bonds that make up the molecule's structure."
+      ]
+    },
+    {
+      "id": "2A-Q12b(i)",
+      "no": "Q12(b)(i)",
+      "marks": 1,
+      "topic": "Nonpolar Molecule Movement",
+      "keywords": [
+        "nonpolar molecule",
+        "cell membrane",
+        "diffusion",
+        "concentration gradient",
+        "active transport",
+        "osmosis",
+        "exocytosis"
+      ],
+      "question": "How does a non-polar molecule move through a cell membrane, down a concentration gradient, into a cell? Options: A active transport, B diffusion, C exocytosis, D osmosis.",
+      "status": "ready",
+      "answer": "B (diffusion).",
+      "steps": [
+        "Non-polar molecules dissolve in the hydrophobic core of the phospholipid bilayer.",
+        "They move down their concentration gradient without energy, which is simple diffusion.",
+        "It then passes through the bilayer without carrier proteins.",
+        "Active transport needs ATP, exocytosis moves things out, and osmosis is only for water."
+      ]
+    },
+    {
+      "id": "2A-Q12b(ii)",
+      "no": "Q12(b)(ii)",
+      "marks": 1,
+      "topic": "Endocytosis Statements",
+      "keywords": [
+        "endocytosis",
+        "vesicle",
+        "cell surface membrane",
+        "substances",
+        "concentration gradient",
+        "exocytosis",
+        "statements"
+      ],
+      "question": "How many of three statements about endocytosis are correct: (1) it transports substances out of the cell, (2) the cell membrane surrounds the substance, (3) it can only transport substances down a concentration gradient? Options: A none, B one, C two, D three.",
+      "status": "ready",
+      "answer": "B (one: only statement 2 is correct).",
+      "steps": [
+        "Statement 1 describes exocytosis, which moves substances out, so it is wrong for endocytosis.",
+        "Statement 2 is correct: the cell surface membrane folds round the substance to form a vesicle.",
+        "Endocytosis forms a vesicle, which requires energy from ATP.",
+        "Statement 3 is wrong because endocytosis is an active process using ATP and can move substances against a gradient."
+      ]
+    },
+    {
+      "id": "2A-Q13a(i)",
+      "no": "Q13(a)(i)",
+      "marks": 2,
+      "topic": "Drawing Phospholipid from Table",
+      "keywords": [
+        "phospholipid",
+        "draw",
+        "table",
+        "components",
+        "head",
+        "tails",
+        "bilayer"
+      ],
+      "question": "Using the table showing one way the components of phospholipids can be drawn, draw a diagram of a phospholipid.",
+      "status": "pending",
+      "answer": "Missing: the table of phospholipid components is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q13a(ii)",
+      "no": "Q13(a)(ii)",
+      "marks": 1,
+      "topic": "Ester Bond Diagram",
+      "keywords": [
+        "ester bond",
+        "phospholipid",
+        "diagram",
+        "labelled bonds",
+        "choose diagram"
+      ],
+      "question": "Which of the diagrams shows an ester bond, one of the bonds present in phospholipids?",
+      "status": "pending",
+      "answer": "Missing: the diagrams of bonds are not in the text, so the correct diagram cannot be selected.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q13b(i)",
+      "no": "Q13(b)(i)",
+      "marks": 2,
+      "topic": "Temperature and Membrane Fluidity",
+      "keywords": [
+        "temperature",
+        "fluidity",
+        "kinetic energy",
+        "phospholipids",
+        "movement",
+        "bilayer",
+        "membrane"
+      ],
+      "question": "Explain why an increase in temperature increases the fluidity of the membrane.",
+      "status": "ready",
+      "answer": "Higher temperature gives phospholipids more kinetic energy, so they move more freely and the membrane becomes more fluid.",
+      "steps": [
+        "Increasing temperature increases the kinetic energy of the phospholipid molecules.",
+        "The molecules vibrate and move more, so they slide past one another more easily.",
+        "The increased movement weakens the hydrophobic interactions between the fatty acid tails.",
+        "This makes the bilayer more fluid, with more movement of molecules and proteins within it."
+      ]
+    },
+    {
+      "id": "2A-Q13b(ii)",
+      "no": "Q13(b)(ii)",
+      "marks": 1,
+      "topic": "Unsaturated versus Saturated Fatty Acid",
+      "keywords": [
+        "unsaturated fatty acid",
+        "saturated fatty acid",
+        "double bond",
+        "carbon atoms",
+        "table",
+        "comparison"
+      ],
+      "question": "Which row of the table describes an unsaturated fatty acid compared with a saturated fatty acid with the same number of carbon atoms?",
+      "status": "pending",
+      "answer": "Missing: the table with the rows describing fatty acids is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q13b(iii)",
+      "no": "Q13(b)(iii)",
+      "marks": 2,
+      "topic": "Cholesterol and Fluidity",
+      "keywords": [
+        "cholesterol",
+        "fluidity",
+        "phospholipid",
+        "packing",
+        "restricts movement",
+        "decrease",
+        "membrane"
+      ],
+      "question": "Explain why a decrease in cholesterol increases the fluidity of the membrane.",
+      "status": "ready",
+      "answer": "Cholesterol packs between the phospholipid fatty acid tails and restricts their movement, so less cholesterol means the phospholipids can move more freely.",
+      "steps": [
+        "Cholesterol sits between the phospholipid tails in the bilayer.",
+        "Its rigid steroid rings restrict the movement of the fatty acid chains.",
+        "Cholesterol is a rigid molecule that restricts the movement of the fatty acid tails.",
+        "When cholesterol decreases, there is less restriction, so the phospholipids move more and the membrane is more fluid."
+      ]
+    },
+    {
+      "id": "2A-Q13b(iv)",
+      "no": "Q13(b)(iv)",
+      "marks": 1,
+      "topic": "Shorter Side Chains and Fluidity",
+      "keywords": [
+        "shorter fatty acid chains",
+        "fluidity",
+        "van der Waals forces",
+        "packing",
+        "membrane",
+        "intermolecular forces"
+      ],
+      "question": "Suggest why a fatty acid with a shorter side chain increases the fluidity of a membrane.",
+      "status": "ready",
+      "answer": "Shorter chains have fewer carbon atoms, so fewer van der Waals forces hold neighbouring tails together, and they pack less tightly, so the membrane is more fluid.",
+      "steps": [
+        "Each carbon-carbon chain contributes intermolecular (van der Waals) attractions with its neighbours.",
+        "A shorter chain has fewer such attractions, so the tails are held together less strongly.",
+        "Shorter tails therefore pack less tightly, so the bilayer is more fluid.",
+        "The tails therefore pack less tightly and move more easily, increasing fluidity."
+      ]
+    },
+    {
+      "id": "2A-Q13c(i)",
+      "no": "Q13(c)(i)",
+      "marks": 2,
+      "topic": "Fish Membrane Fatty Acid Change",
+      "keywords": [
+        "fish",
+        "lower temperature",
+        "fatty acids",
+        "unsaturated",
+        "membrane fluidity",
+        "homeoviscous",
+        "adaptation"
+      ],
+      "question": "Suggest how the content of fatty acids in the fish membranes may have changed after the fish were moved into water at a lower temperature.",
+      "status": "ready",
+      "answer": "The membranes would contain more unsaturated fatty acids (and shorter chains), which keep the membrane fluid at lower temperature.",
+      "steps": [
+        "At lower temperature the membrane would become less fluid and more rigid, because molecules have less kinetic energy.",
+        "Unsaturated fatty acids have kinks at their double bonds, which prevent tight packing.",
+        "Unsaturated fatty acids have double bonds that put kinks in the chains, preventing tight packing.",
+        "So the fish increase the proportion of unsaturated (and shorter) fatty acids in their membranes."
+      ]
+    },
+    {
+      "id": "2A-Q13c(ii)",
+      "no": "Q13(c)(ii)",
+      "marks": 2,
+      "topic": "Why Fish Need Fluid Membranes",
+      "keywords": [
+        "fish",
+        "survival",
+        "membrane fluidity",
+        "enzymes",
+        "proteins",
+        "transport",
+        "low temperature"
+      ],
+      "question": "Suggest why these changes in fatty acid content are necessary for the survival of the fish.",
+      "status": "ready",
+      "answer": "A fluid membrane keeps membrane proteins such as enzymes and transporters working at low temperature, so the cells can still function.",
+      "steps": [
+        "Membrane proteins, including enzymes and carrier proteins, need a fluid membrane to change shape and work.",
+        "If the membrane became too rigid, transport and metabolic reactions would slow down.",
+        "Without this adjustment the membrane would become rigid at low temperature.",
+        "Keeping the membrane fluid at low temperature maintains these processes and so keeps the fish alive."
+      ]
+    },
+    {
+      "id": "2A-Q14a",
+      "no": "Q14(a)",
+      "marks": 2,
+      "topic": "Cholesterol and Heart Disease Evidence",
+      "keywords": [
+        "blood cholesterol",
+        "heart disease",
+        "evidence",
+        "graph",
+        "correlation",
+        "10 years",
+        "interpretation"
+      ],
+      "question": "Describe the evidence for and against a relationship between blood cholesterol levels and heart disease, from the graph of a 10-year study.",
+      "status": "pending",
+      "answer": "Missing: the graph of blood cholesterol and heart disease over 10 years is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q14b",
+      "no": "Q14(b)",
+      "marks": 3,
+      "topic": "HDL and LDL Graph Evidence",
+      "keywords": [
+        "HDL",
+        "LDL",
+        "CVD incidence",
+        "ratio",
+        "graph",
+        "evidence",
+        "conclusions"
+      ],
+      "question": "Describe the evidence in the graph of HDL and LDL levels and CVD incidence that supports three given conclusions.",
+      "status": "pending",
+      "answer": "Missing: the graph of HDL and LDL levels against incidence of CVD is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q14c(i)",
+      "no": "Q14(c)(i)",
+      "marks": 3,
+      "topic": "LDL Receptor in Endocytosis",
+      "keywords": [
+        "LDL receptor",
+        "LDL-R",
+        "endocytosis",
+        "liver cells",
+        "coated pit",
+        "vesicle",
+        "binding",
+        "receptor-mediated"
+      ],
+      "question": "Explain how the LDL receptor (LDL-R), a surface protein on liver cells, is involved in endocytosis of LDLs.",
+      "status": "ready",
+      "answer": "LDL-R binds LDL on the outer surface, the complex is taken into the cell in a coated vesicle by endocytosis, delivering LDL and cholesterol into the cell.",
+      "steps": [
+        "The LDL-R on the cell surface membrane has a binding site that is complementary to the LDL particle.",
+        "LDL binds to the receptor, and the receptors cluster in a coated pit on the membrane.",
+        "The membrane folds in around the complex, forming an endocytotic vesicle that enters the cell.",
+        "Inside the cell the LDL is released and the cholesterol is used by the cell."
+      ]
+    },
+    {
+      "id": "2A-Q14c(ii)",
+      "no": "Q14(c)(ii)",
+      "marks": 2,
+      "topic": "pH Separation of LDL and Receptor",
+      "keywords": [
+        "pH",
+        "LDL",
+        "receptor",
+        "tertiary structure",
+        "R groups",
+        "bonds",
+        "separation",
+        "enzyme shape"
+      ],
+      "question": "Suggest how a lower pH inside the cell could cause the LDL to separate from its receptor.",
+      "status": "ready",
+      "answer": "A lower pH changes the ionisation of amino acid R groups at the binding site, altering the protein's tertiary structure and breaking the bonds that hold LDL to the receptor.",
+      "steps": [
+        "The binding between LDL and the receptor depends on ionic and hydrogen bonds between R groups.",
+        "Lower pH changes the charge (ionisation) of these R groups.",
+        "A lower pH means more H+ ions, which change the charge of acidic and basic R groups.",
+        "This changes the tertiary structure of the receptor's binding site, so the bonds with LDL break and the LDL is released."
+      ]
+    },
+    {
+      "id": "2A-Q14c(iii)",
+      "no": "Q14(c)(iii)",
+      "marks": 3,
+      "topic": "LDL Receptor Mutation and CVD",
+      "keywords": [
+        "LDL receptor mutation",
+        "CVD",
+        "cholesterol",
+        "blood",
+        "endocytosis",
+        "atherosclerosis",
+        "gene"
+      ],
+      "question": "Explain why mutations in the gene coding for the LDL-R can increase the risk of cardiovascular disease.",
+      "status": "ready",
+      "answer": "A mutated receptor may not bind LDL or be endocytosed, so LDL stays in the blood, raising blood cholesterol and promoting atherosclerosis.",
+      "steps": [
+        "A mutation in the LDL-R gene can change the receptor's amino acid sequence and shape.",
+        "The faulty receptor may not bind LDL properly, or may fail to be taken into the cell by endocytosis.",
+        "LDL then stays in the blood, so blood cholesterol levels rise.",
+        "The LDL can deposit cholesterol in artery walls, forming plaques that lead to atherosclerosis and CVD."
+      ]
+    },
+    {
+      "id": "2A-Q15a(i)",
+      "no": "Q15(a)(i)",
+      "marks": 1,
+      "topic": "Venn Diagram Protein Statement",
+      "keywords": [
+        "Venn diagram",
+        "diffusion",
+        "facilitated diffusion",
+        "active transport",
+        "uses proteins",
+        "parts II III IV VII"
+      ],
+      "question": "In a Venn diagram comparing diffusion, facilitated diffusion and active transport, which part would contain the statement 'uses proteins'? Options: A II, B III, C IV, D VII.",
+      "status": "pending",
+      "answer": "Missing: the numbered Venn diagram is not in the text, so the part numbers cannot be matched to the statement.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q15a(ii)",
+      "no": "Q15(a)(ii)",
+      "marks": 1,
+      "topic": "Venn Diagram ATP Statement",
+      "keywords": [
+        "Venn diagram",
+        "ATP",
+        "active transport",
+        "energy",
+        "parts",
+        "diffusion"
+      ],
+      "question": "In the Venn diagram, which part would contain the statement 'needs energy in the form of ATP'? Options: A II, B V, C VI, D VII.",
+      "status": "pending",
+      "answer": "Missing: the numbered Venn diagram is not in the text, so the part number cannot be confirmed.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q15a(iii)",
+      "no": "Q15(a)(iii)",
+      "marks": 1,
+      "topic": "Venn Diagram Gradient Statement",
+      "keywords": [
+        "Venn diagram",
+        "concentration gradient",
+        "solutes",
+        "diffusion",
+        "facilitated diffusion",
+        "parts"
+      ],
+      "question": "In the Venn diagram, which part would contain the statement 'solutes can only move down a concentration gradient'? Options: A II, B III, C V, D VII.",
+      "status": "pending",
+      "answer": "Missing: the numbered Venn diagram is not in the text, so the part number cannot be confirmed.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q15b",
+      "no": "Q15(b)",
+      "marks": 3,
+      "topic": "Explaining Osmosis Definition",
+      "keywords": [
+        "osmosis",
+        "water potential gradient",
+        "partially permeable membrane",
+        "free water molecules",
+        "definition",
+        "solutes"
+      ],
+      "question": "Explain the definition of osmosis: the movement of free water molecules through a partially permeable membrane, down a water potential gradient.",
+      "status": "ready",
+      "answer": "Osmosis is the net movement of free water molecules from a region of higher water potential to lower water potential across a partially permeable membrane, which lets water but not large solutes pass.",
+      "steps": [
+        "Free water molecules are those not bound to solutes, and they move randomly in both directions.",
+        "A partially permeable membrane lets water through but not dissolved solutes.",
+        "Water potential is higher in dilute solutions and lower in concentrated solutions, so water moves from high to low water potential.",
+        "Movement is down the water potential gradient, so there is a net movement of water until equilibrium is reached."
+      ]
+    },
+    {
+      "id": "2A-Q15c",
+      "no": "Q15(c)",
+      "marks": 6,
+      "topic": "Crab Muscle Water and Amino Acid Changes",
+      "keywords": [
+        "mitten crab",
+        "sea water",
+        "fresh water",
+        "muscle cells",
+        "water content",
+        "amino acids",
+        "osmosis",
+        "osmoregulation"
+      ],
+      "question": "Explain the changes in water content and amino acid content in the muscle cells of mitten crabs moved from fresh water into sea water, using the graph.",
+      "status": "pending",
+      "answer": "Missing: the graph of water content and amino acid content over 15 days is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q16a(i)",
+      "no": "Q16(a)(i)",
+      "marks": 1,
+      "topic": "Magnification of Hydra Drawing",
+      "keywords": [
+        "magnification",
+        "hydra",
+        "drawing",
+        "body length",
+        "1.8 mm",
+        "image size",
+        "standard form"
+      ],
+      "question": "A hydra has a body length of 1.8 mm and diameter of 1 mm. Which is the magnification of the drawing? Options: A 3.75 x 10^-2, B 3.75 x 10^-1, C 2.67 x 10^0, D 2.67 x 10^1.",
+      "status": "pending",
+      "answer": "Missing: the length of the hydra in the drawing is not in the text, so the magnification cannot be calculated.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q16a(ii)",
+      "no": "Q16(a)(ii)",
+      "marks": 1,
+      "topic": "Surface Area of Hydra",
+      "keywords": [
+        "surface area",
+        "cylinder",
+        "hydra",
+        "2 pi r l",
+        "radius",
+        "length",
+        "mm2",
+        "calculation"
+      ],
+      "question": "Using surface area = 2 pi r l, which is the surface area in mm2 of a hydra with body length 1.8 mm and diameter 1 mm? Options: A 0.9 pi, B 1.8 pi, C 3.6 pi, D 5.4 pi.",
+      "status": "ready",
+      "answer": "B (1.8 pi mm2).",
+      "steps": [
+        "The radius is half the diameter: r = 1 / 2 = 0.5 mm.",
+        "Length l = 1.8 mm.",
+        "The formula gives the curved surface area of a cylinder, which models the hydra body.",
+        "Surface area = 2 x pi x 0.5 x 1.8 = 1.8 pi mm2, which is option B."
+      ]
+    },
+    {
+      "id": "2A-Q16a(iii)",
+      "no": "Q16(a)(iii)",
+      "marks": 2,
+      "topic": "Surface Area to Volume Ratio of Hydra",
+      "keywords": [
+        "surface area to volume ratio",
+        "hydra",
+        "volume",
+        "pi r2 l",
+        "mm",
+        "calculation",
+        "2.3 pi"
+      ],
+      "question": "Another hydra has a surface area of 2.3 pi mm2, a body length of 1.8 mm and a diameter of 1.2 mm. Calculate its surface area to volume ratio, using volume = pi r^2 l.",
+      "status": "ready",
+      "answer": "About 3.5 mm-1 (2.3 pi / 0.648 pi = 3.55).",
+      "steps": [
+        "Radius = 1.2 / 2 = 0.6 mm.",
+        "Volume = pi x 0.6^2 x 1.8 = 0.648 pi mm3.",
+        "Ratio = surface area / volume = 2.3 pi / 0.648 pi = 3.55, which is 3.5 mm-1 to two significant figures.",
+        "Using the given surface area is required here, although 2 pi r l with these dimensions gives 2.16 pi."
+      ]
+    },
+    {
+      "id": "2A-Q16b",
+      "no": "Q16(b)",
+      "marks": 3,
+      "topic": "Hydra Gas Exchange Adaptation",
+      "keywords": [
+        "hydra",
+        "gas exchange",
+        "two layers of cells",
+        "diffusion distance",
+        "surface area",
+        "body wall",
+        "adaptation"
+      ],
+      "question": "Explain how a hydra, with a hollow body made of two layers of cells, is adapted for gas exchange.",
+      "status": "ready",
+      "answer": "The body wall is only two cells thick and every cell is close to the water, so oxygen and carbon dioxide diffuse across a short distance with no need for a transport system.",
+      "steps": [
+        "The hydra body wall is only two cells thick, so the diffusion distance is very short.",
+        "Each cell is in direct contact with the surrounding water or the hollow body cavity, so every cell can exchange gases.",
+        "Its cylindrical body gives a relatively large surface area to volume ratio for diffusion.",
+        "Oxygen diffuses in and carbon dioxide diffuses out down concentration gradients, so no specialised gas exchange organ is needed."
+      ]
+    },
+    {
+      "id": "2A-Q17a",
+      "no": "Q17(a)",
+      "marks": 1,
+      "topic": "Fick's Law",
+      "keywords": [
+        "diffusion",
+        "Fick's law",
+        "formula",
+        "surface area",
+        "concentration gradient",
+        "diffusion distance",
+        "rate"
+      ],
+      "question": "Name the law on which the formula for the rate of diffusion (depending on surface area, diffusion distance and concentration gradient) is based.",
+      "status": "ready",
+      "answer": "Fick's law.",
+      "steps": [
+        "Rate of diffusion = surface area x concentration gradient / diffusion distance.",
+        "This relationship is Fick's law.",
+        "It states that rate is proportional to surface area and concentration gradient, and inversely proportional to distance.",
+        "It explains why gas exchange surfaces are thin and large."
+      ]
+    },
+    {
+      "id": "2A-Q17b",
+      "no": "Q17(b)",
+      "marks": 1,
+      "topic": "Combined Changes in Diffusion Rate",
+      "keywords": [
+        "Fick's law",
+        "surface area halved",
+        "concentration gradient halved",
+        "diffusion distance halved",
+        "rate of diffusion",
+        "combined change"
+      ],
+      "question": "What happens to the rate of diffusion if the surface area is halved, the concentration gradient is halved and the diffusion distance is halved at the same time? Options: A stays the same, B a quarter of its value, C halves, D doubles.",
+      "status": "ready",
+      "answer": "C (it halves).",
+      "steps": [
+        "Rate is proportional to surface area x concentration gradient / diffusion distance.",
+        "Halving surface area multiplies the rate by 0.5, and halving the gradient multiplies it by 0.5.",
+        "Each change multiplies the rate separately, so the effects combine multiplicatively.",
+        "Halving the diffusion distance doubles the rate (multiplies by 2): 0.5 x 0.5 x 2 = 0.5, so the rate halves."
+      ]
+    },
+    {
+      "id": "2A-Q17c",
+      "no": "Q17(c)",
+      "marks": 3,
+      "topic": "Lung Adaptations for Gas Exchange",
+      "keywords": [
+        "lungs",
+        "large surface area",
+        "short diffusion distance",
+        "high concentration gradient",
+        "alveoli",
+        "capillaries",
+        "ventilation",
+        "blood flow"
+      ],
+      "question": "Describe how mammalian lungs are adapted to have a large surface area, a short diffusion distance and a high concentration gradient.",
+      "status": "ready",
+      "answer": "Many alveoli give a large surface area; alveolar and capillary walls are one cell thick for a short diffusion distance; ventilation and blood flow maintain a high concentration gradient.",
+      "steps": [
+        "Large surface area: millions of alveoli provide a huge total surface area for exchange.",
+        "Short diffusion distance: alveolar walls and capillary walls are each only one cell thick.",
+        "High concentration gradient: ventilation keeps alveolar oxygen high and carbon dioxide low.",
+        "The blood flow through the capillaries removes oxygen and supplies carbon dioxide, keeping the gradient steep."
+      ]
+    },
+    {
+      "id": "2A-Q17d",
+      "no": "Q17(d)",
+      "marks": 6,
+      "topic": "Hellbender Gas Exchange Adaptations",
+      "keywords": [
+        "hellbender",
+        "salamander",
+        "skin gas exchange",
+        "body rocking",
+        "blood pO2",
+        "water saturation",
+        "fast-flowing water",
+        "adaptation"
+      ],
+      "question": "Discuss how the structure and behaviour of the hellbender salamander are adapted for gas exchange, using the graph of body rocking frequency, blood pO2 and percentage saturation of the water.",
+      "status": "pending",
+      "answer": "Missing: the graph of body rocking frequency against blood pO2 and water oxygen saturation is not in the text, so the data cannot be used to support the discussion.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q18a(i)",
+      "no": "Q18(a)(i)",
+      "marks": 1,
+      "topic": "Identifying Osmoconformers from Graph",
+      "keywords": [
+        "osmoconformers",
+        "osmoregulators",
+        "solute concentration",
+        "marine animals",
+        "P",
+        "Q",
+        "R",
+        "table"
+      ],
+      "question": "From the graph of solute concentration of cells of marine animals P, Q and R, which row of the table identifies them?",
+      "status": "pending",
+      "answer": "Missing: the graph and the table of row options are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q18a(ii)",
+      "no": "Q18(a)(ii)",
+      "marks": 3,
+      "topic": "Advantages of Osmoconformity",
+      "keywords": [
+        "osmoconformers",
+        "solute concentration",
+        "sea water",
+        "no net water movement",
+        "energy",
+        "osmoregulation",
+        "advantage"
+      ],
+      "question": "Explain the advantages for osmoconformers of having cells with solute concentrations similar to that of the sea water they live in.",
+      "status": "ready",
+      "answer": "Cell and sea water concentrations match, so there is no net water movement by osmosis and no energy is needed to regulate water or ion balance.",
+      "steps": [
+        "If cell and sea water solute concentrations are equal, there is no water potential gradient, so no net osmosis occurs.",
+        "The animal does not gain or lose water, so it avoids the risk of swelling or dehydration.",
+        "Osmoconformers therefore keep a stable cell volume without active regulation.",
+        "Because it does not need to pump ions or water to maintain balance, it saves energy that can be used for growth and activity."
+      ]
+    },
+    {
+      "id": "2A-Q18b(i)",
+      "no": "Q18(b)(i)",
+      "marks": 1,
+      "topic": "Chloride Concentration in Jellyfish",
+      "keywords": [
+        "chloride",
+        "jellyfish",
+        "ion concentration",
+        "sea water",
+        "table",
+        "estimate",
+        "a.u."
+      ],
+      "question": "Estimate the chloride ion concentration of the cells of a jellyfish from the table of ion concentrations in sea water and in osmoconformers.",
+      "status": "pending",
+      "answer": "Missing: the table of ion concentrations is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q18b(ii)",
+      "no": "Q18(b)(ii)",
+      "marks": 2,
+      "topic": "Magnesium Percentage Difference",
+      "keywords": [
+        "magnesium ions",
+        "lobster",
+        "sea urchin",
+        "percentage difference",
+        "table",
+        "two decimal places"
+      ],
+      "question": "Calculate the percentage difference in the concentration of magnesium ions in the lobster compared with the sea urchin, to two decimal places.",
+      "status": "pending",
+      "answer": "Missing: the table of magnesium ion concentrations in the lobster and sea urchin is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q18b(iii)",
+      "no": "Q18(b)(iii)",
+      "marks": 2,
+      "topic": "Why Osmoconformers Match Sea Water",
+      "keywords": [
+        "osmoconformers",
+        "total solute",
+        "water potential",
+        "ion concentrations",
+        "no net water movement",
+        "sea water"
+      ],
+      "question": "Explain why these three animals are osmoconformers even though they have different concentrations of each ion in their cells.",
+      "status": "ready",
+      "answer": "The total solute concentration (water potential) of their cells matches the sea water, so there is no net water movement, even though the individual ions differ.",
+      "steps": [
+        "An osmoconformer is defined by its total cell solute concentration matching sea water.",
+        "Different ions can be balanced by other solutes, such as amino acids and organic molecules, so the total is the same as the sea water.",
+        "Total solute concentration is the property that controls osmosis, not each ion separately.",
+        "With equal total solute concentrations there is no water potential gradient, so no net water movement."
+      ]
+    },
+    {
+      "id": "2A-Q18b(iv)",
+      "no": "Q18(b)(iv)",
+      "marks": 1,
+      "topic": "Different Ion Concentrations",
+      "keywords": [
+        "osmoconformers",
+        "ion concentrations",
+        "organic solutes",
+        "amino acids",
+        "total solute",
+        "permeability"
+      ],
+      "question": "Suggest why osmoconformers do not have the same concentration of each ion in their cells.",
+      "status": "ready",
+      "answer": "Only the total solute concentration needs to match the sea water; the balance of individual ions can be different, with other solutes such as amino acids making up the difference.",
+      "steps": [
+        "Osmoconformers only need to match total solute concentration to avoid water movement.",
+        "Individual ions can vary because other solutes, such as amino acids, can replace them to balance the total.",
+        "Ions and amino acids differ in permeability and function, so their levels vary.",
+        "Each ion's permeability and function may also differ, so each is kept at a different level."
+      ]
+    },
+    {
+      "id": "2A-Q18b(v)",
+      "no": "Q18(b)(v)",
+      "marks": 2,
+      "topic": "Energy for Ion Concentration",
+      "keywords": [
+        "active transport",
+        "ATP",
+        "ions",
+        "concentration gradient",
+        "respiration",
+        "energy",
+        "sodium potassium pump"
+      ],
+      "question": "Energy is needed to maintain the concentration of ions inside the osmoconformers. Explain what this energy is used for.",
+      "status": "ready",
+      "answer": "The energy (ATP from respiration) is used for active transport, pumping ions across the cell membrane against their concentration gradients.",
+      "steps": [
+        "Ions are moved across membranes against their concentration gradients.",
+        "This requires energy from ATP, which is produced by respiration.",
+        "Maintaining these gradients is active, because it stops ions leaking down their concentration gradients.",
+        "Carrier proteins, such as the sodium-potassium pump, use the energy to move the ions and keep the concentrations different from the sea water."
+      ]
+    },
+    {
+      "id": "2A-Q19a(i)",
+      "no": "Q19(a)(i)",
+      "marks": 1,
+      "topic": "Phospholipid Description",
+      "keywords": [
+        "phospholipid",
+        "hydrophilic head",
+        "hydrophobic tails",
+        "phosphate",
+        "fatty acid",
+        "Davson-Danielli"
+      ],
+      "question": "Which option describes a phospholipid? Options: A hydrophilic fatty acid head and hydrophobic phosphate tails, B hydrophilic phosphate head and hydrophobic fatty acid tails, C hydrophobic fatty acid head and hydrophilic phosphate tails, D hydrophobic phosphate head and hydrophilic fatty acid tails.",
+      "status": "ready",
+      "answer": "B.",
+      "steps": [
+        "A phospholipid has a phosphate-containing head that is hydrophilic (attracted to water).",
+        "It has two fatty acid tails that are hydrophobic (repel water).",
+        "The hydrophilic heads face the water on both sides of the bilayer.",
+        "So option B is the correct description."
+      ]
+    },
+    {
+      "id": "2A-Q19a(ii)",
+      "no": "Q19(a)(ii)",
+      "marks": 4,
+      "topic": "Davson-Danielli versus Fluid Mosaic",
+      "keywords": [
+        "Davson-Danielli",
+        "fluid mosaic model",
+        "proteins",
+        "phospholipid bilayer",
+        "embedded proteins",
+        "fluidity",
+        "structure comparison"
+      ],
+      "question": "Compare and contrast the structure of the Davson-Danielli model with the fluid mosaic model of membrane structure.",
+      "status": "ready",
+      "answer": "Both have a phospholipid bilayer with proteins; Davson-Danielli has proteins as layers coating the surfaces and a rigid structure, while fluid mosaic has proteins embedded and scattered in a fluid bilayer.",
+      "steps": [
+        "Similarity: both models describe a phospholipid bilayer with proteins associated with it.",
+        "Davson-Danielli: the proteins form continuous layers on the outer and inner surfaces of the bilayer, sandwiching it.",
+        "Fluid mosaic: the proteins are embedded in the bilayer and scattered in a mosaic, some spanning the whole membrane.",
+        "Fluid mosaic: the phospholipids can move laterally, so the membrane is fluid and dynamic, whereas Davson-Danielli describes a rigid, static structure."
+      ]
+    },
+    {
+      "id": "2A-Q19b(i)",
+      "no": "Q19(b)(i)",
+      "marks": 2,
+      "topic": "Membrane Damage and Cell Death",
+      "keywords": [
+        "membrane damage",
+        "cell death",
+        "lysis",
+        "leakage",
+        "ions",
+        "concentration gradients",
+        "control",
+        "selective permeability"
+      ],
+      "question": "Suggest how damage to the cell membrane could result in cell death.",
+      "status": "ready",
+      "answer": "Damage lets substances leak in and out uncontrolled, so concentration gradients and ion balance are lost, and the cell may swell, burst or stop functioning.",
+      "steps": [
+        "The membrane controls which substances enter and leave; damage removes this control.",
+        "Ions and molecules leak across, destroying concentration gradients needed for cell processes.",
+        "Water may enter by osmosis, causing swelling and lysis, or enzymes and organelles may be lost.",
+        "Loss of these functions stops the cell from carrying out its processes, causing death."
+      ]
+    },
+    {
+      "id": "2A-Q19b(ii)",
+      "no": "Q19(b)(ii)",
+      "marks": 2,
+      "topic": "Membrane Fusion in Repair",
+      "keywords": [
+        "membrane repair",
+        "fusion",
+        "phospholipids",
+        "fluid",
+        "hydrophilic heads",
+        "hydrophobic tails",
+        "bilayer"
+      ],
+      "question": "Explain why parts of the membrane around the edge of damage are able to fuse together to repair the damage.",
+      "status": "ready",
+      "answer": "Phospholipids are free to move, so the edges can rearrange and the hydrophobic tails and hydrophilic heads align to rejoin into a continuous bilayer.",
+      "steps": [
+        "The phospholipid bilayer is fluid, so phospholipids at the edges can move.",
+        "The hydrophilic heads face water on both sides, and the hydrophobic tails face each other.",
+        "The membrane must be fluid so that the edges can move together.",
+        "When the edges are brought together, these interactions allow the bilayer to reform and fuse into a continuous membrane."
+      ]
+    },
+    {
+      "id": "2A-Q19b(iii)",
+      "no": "Q19(b)(iii)",
+      "marks": 2,
+      "topic": "Completing Membrane Repair",
+      "keywords": [
+        "membrane repair",
+        "proteins",
+        "glycoproteins",
+        "vesicles",
+        "Golgi",
+        "ribosomes",
+        "cytoskeleton",
+        "complete repair"
+      ],
+      "question": "Once the membrane has fused, suggest what else the cell needs to do to complete the repair of the membrane.",
+      "status": "ready",
+      "answer": "The cell must replace the lost membrane proteins and glycoproteins, which are made on ribosomes and delivered by vesicles from the Golgi, and restore the membrane's composition.",
+      "steps": [
+        "Membrane proteins and glycoproteins may have been lost or damaged in the injury.",
+        "Ribosomes on the rough ER make the replacement proteins, which are modified in the Golgi.",
+        "Vesicles fuse with the membrane to deliver the lipids and proteins needed to complete the repair.",
+        "Golgi vesicles carry the new proteins and lipids to the damaged area and insert them into the membrane."
+      ]
+    },
+    {
+      "id": "2A-Q20a(i)",
+      "no": "Q20(a)(i)",
+      "marks": 1,
+      "topic": "Why Phospholipids Form a Bilayer",
+      "keywords": [
+        "phospholipid bilayer",
+        "hydrophobic tails",
+        "hydrophilic heads",
+        "aqueous environment",
+        "water",
+        "bilayer formation"
+      ],
+      "question": "Why do phospholipids form a bilayer? Options: A hydrophobic heads dissolve in water, B hydrophobic heads move away from water, C hydrophobic tails dissolve in water, D hydrophobic tails move away from water.",
+      "status": "ready",
+      "answer": "D (the hydrophobic tails move away from the aqueous environment).",
+      "steps": [
+        "Phospholipid tails are hydrophobic and cannot dissolve in water.",
+        "In water the tails are shielded by arranging into a bilayer, with the hydrophilic heads facing water.",
+        "Forming a bilayer minimises contact between the tails and water, which is energetically favourable.",
+        "Options A, B and C are wrong because the heads are hydrophilic and the tails are hydrophobic."
+      ]
+    },
+    {
+      "id": "2A-Q20a(ii)",
+      "no": "Q20(a)(ii)",
+      "marks": 1,
+      "topic": "Membrane Glycoprotein Letter",
+      "keywords": [
+        "glycoprotein",
+        "membrane diagram",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "carbohydrate chain"
+      ],
+      "question": "From the diagram of part of a cell membrane, which letter (P, Q, R or S) represents a membrane glycoprotein?",
+      "status": "pending",
+      "answer": "Missing: the labelled membrane diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q20b",
+      "no": "Q20(b)",
+      "marks": 1,
+      "topic": "Definition of Osmosis",
+      "keywords": [
+        "osmosis",
+        "water",
+        "partially permeable membrane",
+        "water potential",
+        "definition",
+        "net movement"
+      ],
+      "question": "State what is meant by the term osmosis.",
+      "status": "ready",
+      "answer": "The net movement of water molecules from a region of higher water potential to a region of lower water potential across a partially permeable membrane.",
+      "steps": [
+        "Osmosis is a type of diffusion involving only water.",
+        "Water moves through a partially permeable membrane, which allows water but not solutes.",
+        "Net movement is down the water potential gradient, from high to low.",
+        "The movement is down a water potential gradient, from high (dilute) to low (concentrated)."
+      ]
+    },
+    {
+      "id": "2A-Q20c",
+      "no": "Q20(c)",
+      "marks": 3,
+      "topic": "Exocytosis and Endocytosis Comparison",
+      "keywords": [
+        "exocytosis",
+        "endocytosis",
+        "vesicles",
+        "cell surface membrane",
+        "ATP",
+        "compare contrast",
+        "secretion"
+      ],
+      "question": "Compare and contrast exocytosis and endocytosis.",
+      "status": "ready",
+      "answer": "Both are active processes using vesicles and ATP; endocytosis brings substances into the cell, while exocytosis moves them out.",
+      "steps": [
+        "Similarity: both involve vesicles that fuse with or form from the cell surface membrane and both need ATP.",
+        "Difference: endocytosis takes substances into the cell by the membrane folding round them to form a vesicle.",
+        "Endocytosis and exocytosis are both forms of bulk transport using vesicles.",
+        "Difference: exocytosis releases substances out of the cell when a vesicle fuses with the cell surface membrane."
+      ]
+    },
+    {
+      "id": "2A-Q20d",
+      "no": "Q20(d)",
+      "marks": 3,
+      "topic": "Oxygen Passing Through Membrane",
+      "keywords": [
+        "oxygen",
+        "diffusion",
+        "non-polar",
+        "lipid-soluble",
+        "hydrophobic core",
+        "small molecule",
+        "concentration gradient"
+      ],
+      "question": "Explain why oxygen molecules can pass directly through the cell membrane.",
+      "status": "ready",
+      "answer": "Oxygen is small and non-polar, so it dissolves in the hydrophobic core of the bilayer and diffuses straight through down its concentration gradient without energy.",
+      "steps": [
+        "Oxygen is a small, non-polar molecule.",
+        "It can dissolve in the hydrophobic core of the phospholipid bilayer.",
+        "Because it needs no ATP or carrier, it is not active transport.",
+        "It diffuses across the membrane down its concentration gradient, so no carrier protein or energy is needed."
+      ]
+    },
+    {
+      "id": "2A-Q21a",
+      "no": "Q21(a)",
+      "marks": 3,
+      "topic": "Human Lung Adaptations for Rapid Gas Exchange",
+      "keywords": [
+        "human lungs",
+        "rapid gas exchange",
+        "alveoli",
+        "surface area",
+        "capillaries",
+        "thin walls",
+        "ventilation"
+      ],
+      "question": "Explain how human lungs are adapted for rapid gas exchange.",
+      "status": "ready",
+      "answer": "Millions of alveoli give a large surface area, thin one-cell walls and a dense capillary network give short diffusion distances, and ventilation keeps a steep concentration gradient.",
+      "steps": [
+        "The many alveoli give a very large surface area for gas exchange.",
+        "The alveolar and capillary walls are one cell thick, giving a short diffusion distance.",
+        "A dense capillary network around each alveolus keeps the blood moving and maintains a steep concentration gradient.",
+        "Ventilation continually replaces alveolar air, keeping oxygen high and carbon dioxide low."
+      ]
+    },
+    {
+      "id": "2A-Q21b(i)",
+      "no": "Q21(b)(i)",
+      "marks": 1,
+      "topic": "Definition of Allele",
+      "keywords": [
+        "allele",
+        "gene",
+        "alternative form",
+        "CFTR",
+        "cystic fibrosis",
+        "definition"
+      ],
+      "question": "State what is meant by the term allele.",
+      "status": "ready",
+      "answer": "An alternative form of a gene, found at the same locus on a chromosome.",
+      "steps": [
+        "A gene is a section of DNA that codes for a polypeptide.",
+        "An allele is one of the different versions of that gene.",
+        "Different alleles of a gene can produce different versions of the same protein.",
+        "Alleles occupy the same position (locus) on homologous chromosomes."
+      ]
+    },
+    {
+      "id": "2A-Q21b(ii)",
+      "no": "Q21(b)(ii)",
+      "marks": 4,
+      "topic": "F508 Mutation and Non-functional CFTR",
+      "keywords": [
+        "F508",
+        "CFTR",
+        "missing amino acid",
+        "deletion",
+        "tertiary structure",
+        "misfolded protein",
+        "cystic fibrosis",
+        "non-functional"
+      ],
+      "question": "The CFTR protein coded for by the F508 mutation has one missing amino acid. Explain how this mutation results in a non-functioning CFTR protein.",
+      "status": "ready",
+      "answer": "Deleting three bases removes one amino acid, which changes the primary structure; the protein then misfolds, so its tertiary shape and channel are lost and it does not function.",
+      "steps": [
+        "The F508 mutation deletes three bases in the DNA, so one codon is lost.",
+        "This means one amino acid is missing from the polypeptide, changing the primary structure.",
+        "The change in primary structure alters the bonds that determine folding, so the CFTR protein misfolds.",
+        "The misfolded protein cannot function as a chloride channel and is often destroyed, so it does not reach the cell surface membrane."
+      ]
+    },
+    {
+      "id": "2A-Q21b(iii)",
+      "no": "Q21(b)(iii)",
+      "marks": 4,
+      "topic": "Cystic Fibrosis Lung Infections",
+      "keywords": [
+        "cystic fibrosis",
+        "lung infections",
+        "chloride ions",
+        "mucus",
+        "cilia",
+        "bacteria",
+        "water movement",
+        "CFTR"
+      ],
+      "question": "Explain why people with cystic fibrosis may develop lung infections.",
+      "status": "ready",
+      "answer": "Without functional CFTR, chloride is not secreted and water does not follow, so the mucus becomes thick and sticky; cilia cannot clear it, so bacteria accumulate and cause infection.",
+      "steps": [
+        "The CFTR channel normally transports chloride ions out of cells into the airway surface.",
+        "Water follows by osmosis, keeping the mucus thin and watery.",
+        "With non-functioning CFTR, less water enters the mucus, so it becomes thick and sticky.",
+        "Thick mucus traps bacteria and cannot be cleared by cilia, so bacteria multiply and cause lung infections."
+      ]
+    },
+    {
+      "id": "2A-Q22a",
+      "no": "Q22(a)",
+      "marks": 1,
+      "topic": "Membrane Property for Shape Change",
+      "keywords": [
+        "amoeba",
+        "shape change",
+        "cell membrane",
+        "fluidity",
+        "flexibility",
+        "pseudopodia",
+        "property"
+      ],
+      "question": "State the property of the cell membrane that enables an amoeba to change shape by pushing cytoplasm against it to form long thin projections.",
+      "status": "ready",
+      "answer": "Fluidity (the membrane is flexible because phospholipids can move past each other).",
+      "steps": [
+        "The cell surface membrane is a fluid phospholipid bilayer rather than a rigid structure.",
+        "Phospholipids and proteins can move, so the membrane stretches and deforms.",
+        "Fluidity is what allows the amoeba to form pseudopodia.",
+        "This flexibility allows the amoeba to form pseudopodia."
+      ]
+    },
+    {
+      "id": "2A-Q22b(i)",
+      "no": "Q22(b)(i)",
+      "marks": 1,
+      "topic": "Surface Area of Spherical Amoeba",
+      "keywords": [
+        "surface area",
+        "sphere",
+        "amoeba",
+        "shape 1",
+        "4 pi r squared",
+        "m2",
+        "m3",
+        "calculation"
+      ],
+      "question": "The amoeba in Shape 1 is roughly spherical. Using surface area of a sphere = 4 pi r^2, which is its surface area? Options: A 90 000 m2, B 90 000 m3, C 360 000 m2, D 360 000 m3.",
+      "status": "pending",
+      "answer": "Missing: the radius of the amoeba in Shape 1 is shown only in the diagram, which is not in the text, so the surface area cannot be calculated to confirm the option.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q22b(ii)",
+      "no": "Q22(b)(ii)",
+      "marks": 1,
+      "topic": "Surface Area and Volume Change to Shape 2",
+      "keywords": [
+        "amoeba",
+        "shape 2",
+        "surface area",
+        "volume",
+        "constant mass",
+        "table",
+        "row"
+      ],
+      "question": "The mass of the amoeba stays the same when it changes from Shape 1 to Shape 2. Which row of the table shows what happens to its surface area and volume?",
+      "status": "pending",
+      "answer": "Missing: the table of surface area and volume changes is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q22b(iii)",
+      "no": "Q22(b)(iii)",
+      "marks": 2,
+      "topic": "Diffusion Supplies Amoeba Oxygen",
+      "keywords": [
+        "amoeba",
+        "diffusion",
+        "surface area to volume ratio",
+        "small size",
+        "short diffusion distance",
+        "oxygen",
+        "single cell"
+      ],
+      "question": "Explain why an amoeba can rely on diffusion to supply the oxygen it needs.",
+      "status": "ready",
+      "answer": "The amoeba is small with a large surface area to volume ratio, so the diffusion distance to every part of the cell is short and diffusion is fast enough.",
+      "steps": [
+        "The amoeba is a single small cell, so the distance from membrane to the centre is short.",
+        "Its surface area to volume ratio is large, so there is enough membrane for the oxygen it needs.",
+        "Its membrane area is large relative to its volume.",
+        "Diffusion over this short distance is fast enough to supply oxygen and remove carbon dioxide."
+      ]
+    },
+    {
+      "id": "2A-Q23a",
+      "no": "Q23(a)",
+      "marks": 1,
+      "topic": "Transport Down Concentration Gradient Only",
+      "keywords": [
+        "diffusion",
+        "facilitated diffusion",
+        "concentration gradient",
+        "solute",
+        "osmosis",
+        "active transport",
+        "pair"
+      ],
+      "question": "Which pair of membrane transport mechanisms only involves a solute moving down a concentration gradient? Options: A active transport and diffusion, B active transport and osmosis, C diffusion and facilitated diffusion, D facilitated diffusion and osmosis.",
+      "status": "ready",
+      "answer": "C (diffusion and facilitated diffusion).",
+      "steps": [
+        "Diffusion and facilitated diffusion both move solutes passively down a concentration gradient.",
+        "Active transport moves solutes against the gradient, so A and B are wrong.",
+        "Facilitated diffusion also moves solutes down a gradient, using channel or carrier proteins without ATP.",
+        "Osmosis moves water, not a solute, so D is wrong."
+      ]
+    },
+    {
+      "id": "2A-Q23b",
+      "no": "Q23(b)",
+      "marks": 1,
+      "topic": "Carrier Protein Mechanisms",
+      "keywords": [
+        "carrier proteins",
+        "active transport",
+        "diffusion",
+        "exocytosis",
+        "membrane transport",
+        "mechanisms"
+      ],
+      "question": "Which transport mechanisms involve carrier proteins in the membrane, among active transport, diffusion and exocytosis? Options: A active transport only, B active transport and exocytosis, C diffusion only, D diffusion and exocytosis.",
+      "status": "ready",
+      "answer": "A (active transport only).",
+      "steps": [
+        "Active transport uses carrier proteins that bind a solute and change shape to move it against its gradient.",
+        "Simple diffusion does not involve any membrane protein, and exocytosis uses vesicles, not carriers.",
+        "Diffusion through the bilayer requires no protein at all.",
+        "So only active transport involves carrier proteins."
+      ]
+    },
+    {
+      "id": "2A-Q23c",
+      "no": "Q23(c)",
+      "marks": 1,
+      "topic": "Mechanism for Large Particles",
+      "keywords": [
+        "large particles",
+        "bacteria",
+        "endocytosis",
+        "vesicle",
+        "phagocytosis",
+        "cell entry"
+      ],
+      "question": "Which cell transport mechanism is used to take large particles or bacteria into a cell? Options: A active transport, B endocytosis, C exocytosis, D facilitated diffusion.",
+      "status": "ready",
+      "answer": "B (endocytosis).",
+      "steps": [
+        "Endocytosis engulfs material by folding the cell surface membrane round it to form a vesicle.",
+        "This allows large particles and bacteria to enter the cell.",
+        "Phagocytosis is a form of endocytosis for solid particles.",
+        "Exocytosis moves material out, and the other options use carriers or pumps for small molecules."
+      ]
+    },
+    {
+      "id": "2A-Q23d",
+      "no": "Q23(d)",
+      "marks": 1,
+      "topic": "Small Lipid-soluble Molecules",
+      "keywords": [
+        "lipid-soluble",
+        "small molecules",
+        "diffusion",
+        "phospholipid bilayer",
+        "membrane transport"
+      ],
+      "question": "Which cell transport mechanism moves small lipid-soluble molecules through the membrane? Options: A active transport, B diffusion, C facilitated diffusion, D osmosis.",
+      "status": "ready",
+      "answer": "B (diffusion).",
+      "steps": [
+        "Small lipid-soluble molecules dissolve in the phospholipid bilayer.",
+        "They pass straight through by simple diffusion, without carrier proteins.",
+        "The hydrophobic core of the bilayer lets these molecules pass without help.",
+        "Facilitated diffusion is for polar or charged molecules, and osmosis is only for water."
+      ]
+    },
+    {
+      "id": "2A-Q23e",
+      "no": "Q23(e)",
+      "marks": 1,
+      "topic": "Charge on Channel Protein R Groups",
+      "keywords": [
+        "channel protein",
+        "R groups",
+        "charge",
+        "facilitated diffusion",
+        "amino acids",
+        "table",
+        "hydrophilic"
+      ],
+      "question": "Which row of the table describes the charge on the R groups on the amino acids of a channel protein used in facilitated diffusion?",
+      "status": "pending",
+      "answer": "Missing: the table of R group charges is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q23f",
+      "no": "Q23(f)",
+      "marks": 4,
+      "topic": "Sweet Potato Dye Investigation",
+      "keywords": [
+        "sweet potato",
+        "mass change",
+        "dye solutions",
+        "osmosis",
+        "water potential",
+        "coloured solutions",
+        "investigation"
+      ],
+      "question": "Explain the results of an investigation in which pieces of sweet potato were placed in four coloured dye solutions and their mass change was measured.",
+      "status": "pending",
+      "answer": "Missing: the method diagram and the graph of mass change for the four solutions are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q24a(i)",
+      "no": "Q24(a)(i)",
+      "marks": 1,
+      "topic": "Vessels to and from Lungs",
+      "keywords": [
+        "heart",
+        "pulmonary artery",
+        "pulmonary vein",
+        "lungs",
+        "blood vessels",
+        "labelled P Q R S",
+        "diagram"
+      ],
+      "question": "From the diagram of a human heart with vessels labelled P, Q, R and S, which pair transports blood to and from the lungs? Options: A P and Q, B Q and S, C R and P, D S and R.",
+      "status": "pending",
+      "answer": "Missing: the labelled heart diagram is not in the text, so the letters cannot be matched to the pulmonary vessels.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q24a(ii)",
+      "no": "Q24(a)(ii)",
+      "marks": 1,
+      "topic": "Heart Vessel Pair Options",
+      "keywords": [
+        "heart",
+        "vessels",
+        "labelled P Q R S",
+        "valves",
+        "diagram",
+        "options"
+      ],
+      "question": "From the labelled heart diagram (P, Q, R, S), which pair of vessels is chosen from options A P, B P and R, C Q, D Q and R?",
+      "status": "pending",
+      "answer": "Missing: the labelled heart diagram is not in the text, so the vessels cannot be identified.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q24a(iii)",
+      "no": "Q24(a)(iii)",
+      "marks": 1,
+      "topic": "Coronary Artery Origin",
+      "keywords": [
+        "coronary artery",
+        "branch",
+        "aorta",
+        "heart",
+        "labelled vessel",
+        "diagram",
+        "P Q R S"
+      ],
+      "question": "From the labelled heart diagram (options AP, BQ, CR, DS), which blood vessel does the coronary artery branch from?",
+      "status": "pending",
+      "answer": "Missing: the labelled heart diagram is not in the text, so the vessel cannot be identified.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q24b(i)",
+      "no": "Q24(b)(i)",
+      "marks": 1,
+      "topic": "Other Factors Affecting Diffusion",
+      "keywords": [
+        "rate of diffusion",
+        "factors",
+        "surface area",
+        "concentration gradient",
+        "temperature",
+        "capillaries",
+        "diffusion distance"
+      ],
+      "question": "Name two other factors, besides diffusion distance, that affect the rate of diffusion between blood and cells.",
+      "status": "ready",
+      "answer": "Surface area and concentration gradient (temperature is also acceptable).",
+      "steps": [
+        "Rate of diffusion increases with a larger surface area for exchange.",
+        "It increases with a steeper concentration gradient between the blood and the cells.",
+        "Both factors increase the rate of diffusion, while diffusion distance is the third factor.",
+        "Temperature also affects the rate, as higher temperature increases molecular kinetic energy."
+      ]
+    },
+    {
+      "id": "2A-Q24b(ii)",
+      "no": "Q24(b)(ii)",
+      "marks": 1,
+      "topic": "Law of Diffusion for Rate",
+      "keywords": [
+        "Fick's law",
+        "rate of diffusion",
+        "calculation",
+        "law",
+        "diffusion"
+      ],
+      "question": "Name the law of diffusion that can be used to calculate the rate of diffusion.",
+      "status": "ready",
+      "answer": "Fick's law.",
+      "steps": [
+        "Fick's law relates the rate of diffusion to surface area, concentration gradient and diffusion distance.",
+        "Fick's law is used to calculate rates, so it is the law the question asks for.",
+        "Rate = surface area x concentration gradient / diffusion distance (with a constant).",
+        "It applies to the diffusion of gases and solutes across membranes."
+      ]
+    },
+    {
+      "id": "2A-Q24c(i)",
+      "no": "Q24(c)(i)",
+      "marks": 2,
+      "topic": "Diffusion Time Table",
+      "keywords": [
+        "diffusion time",
+        "diffusion distance",
+        "table",
+        "missing values",
+        "molecule",
+        "capillaries"
+      ],
+      "question": "Complete the table showing the time taken for a molecule to diffuse over different diffusion distances.",
+      "status": "pending",
+      "answer": "Missing: the table of diffusion distances and times, with the missing values, is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q24c(ii)",
+      "no": "Q24(c)(ii)",
+      "marks": 3,
+      "topic": "Body Cells Close to Capillaries",
+      "keywords": [
+        "capillaries",
+        "body cells",
+        "respiration",
+        "diffusion distance",
+        "oxygen",
+        "time",
+        "short distance",
+        "diffusion"
+      ],
+      "question": "Explain why it is important for body cells to be close to capillaries to meet the demands of respiration, using the information in the question and the table.",
+      "status": "ready",
+      "answer": "A short diffusion distance means oxygen reaches respiring cells quickly and carbon dioxide is removed quickly, since diffusion time increases with distance.",
+      "steps": [
+        "Respiring cells need a continuous supply of oxygen for aerobic respiration to make ATP.",
+        "Oxygen must diffuse from the capillary blood into the cells across the tissue fluid.",
+        "The table shows that diffusion time increases as the diffusion distance increases, so a short distance gives a fast supply.",
+        "Being close to capillaries also keeps a steep concentration gradient, so oxygen supply meets the cells' demand."
+      ]
+    },
+    {
+      "id": "2A-Q25a",
+      "no": "Q25(a)",
+      "marks": 2,
+      "topic": "Solute Crossing the Lipid Membrane",
+      "keywords": [
+        "Overton",
+        "lipid-soluble",
+        "non-polar",
+        "polar",
+        "lipid membrane",
+        "solute",
+        "hydrophobic core"
+      ],
+      "question": "Explain the difference between the two types of solute suggested by Overton, and why only one type can cross the lipid membrane.",
+      "status": "ready",
+      "answer": "Lipid-soluble (non-polar) solutes dissolve in the hydrophobic core of the membrane and cross it, whereas polar or charged solutes cannot cross the hydrophobic core.",
+      "steps": [
+        "Lipid-soluble solutes are non-polar, so they dissolve in the lipid-based core of the membrane.",
+        "Polar and charged solutes are not soluble in the hydrophobic core and cannot pass through it.",
+        "Overton explains why lipid-soluble substances enter cells more readily.",
+        "So only the lipid-soluble solutes can cross the lipid membrane."
+      ]
+    },
+    {
+      "id": "2A-Q25b",
+      "no": "Q25(b)",
+      "marks": 2,
+      "topic": "Why Membranes Are Bilayers",
+      "keywords": [
+        "Langmuir",
+        "single layer",
+        "bilayer",
+        "hydrophobic tails",
+        "water",
+        "both sides",
+        "phospholipid"
+      ],
+      "question": "Explain why the phospholipids in a cell membrane cannot be arranged in a single layer, as Langmuir proposed.",
+      "status": "ready",
+      "answer": "The cell is surrounded by water on both sides, so a single layer would expose hydrophobic tails to water; a bilayer hides the tails and exposes the hydrophilic heads to water on both sides.",
+      "steps": [
+        "The cell has water both inside and outside, so the membrane has aqueous environments on both faces.",
+        "In a single layer, the hydrophobic tails would be exposed to water on one side.",
+        "A bilayer keeps the hydrophobic tails away from water on both sides.",
+        "A bilayer with heads facing outwards and tails inwards hides the tails from water on both sides."
+      ]
+    },
+    {
+      "id": "2A-Q25c",
+      "no": "Q25(c)",
+      "marks": 2,
+      "topic": "Differences Between Phospholipids",
+      "keywords": [
+        "phospholipids",
+        "different types",
+        "fatty acids",
+        "saturated",
+        "unsaturated",
+        "chain length",
+        "head group",
+        "phosphate"
+      ],
+      "question": "Give two ways in which phospholipids can be different from each other, even though they are all arranged in a bilayer.",
+      "status": "ready",
+      "answer": "They can have different fatty acid tails (different chain lengths or saturation), and different head groups attached to the phosphate.",
+      "steps": [
+        "Phospholipids can contain fatty acids of different chain lengths.",
+        "They can also have different degrees of saturation, with saturated or unsaturated fatty acid tails.",
+        "Changes in these fatty acids alter the fluidity of the membrane.",
+        "The polar head group attached to the phosphate can also vary between phospholipids."
+      ]
+    },
+    {
+      "id": "2A-Q25d",
+      "no": "Q25(d)",
+      "marks": 2,
+      "topic": "Transport Proteins Must Span Bilayer",
+      "keywords": [
+        "transport proteins",
+        "surface",
+        "bilayer",
+        "channel",
+        "carrier",
+        "span",
+        "hydrophobic core",
+        "Davson-Danielli"
+      ],
+      "question": "Explain why some membrane proteins would not be able to carry out their transport functions if they were located only on the surface of the phospholipid bilayer.",
+      "status": "ready",
+      "answer": "Transport proteins must span the bilayer to form a channel or carrier linking the inside and outside, which proteins on the surface cannot do.",
+      "steps": [
+        "Transport proteins move solutes from one side of the membrane to the other.",
+        "They must therefore span the bilayer, forming a channel or binding site accessible from both sides.",
+        "A protein on one surface can only reach one side of the bilayer.",
+        "Proteins only on the surface cannot reach across the hydrophobic core, so they could not move solutes through the membrane."
+      ]
+    },
+    {
+      "id": "2A-Q25e",
+      "no": "Q25(e)",
+      "marks": 2,
+      "topic": "Magnification of Membrane Photograph",
+      "keywords": [
+        "magnification",
+        "membrane thickness",
+        "22.8 nm",
+        "image size",
+        "photograph",
+        "X and Y",
+        "two significant figures"
+      ],
+      "question": "The thickness of the cell membranes between X and Y in the photograph is 22.8 nm. Calculate the magnification of the photograph, to two significant figures.",
+      "status": "pending",
+      "answer": "Missing: the measured image distance between X and Y on the photograph is not in the text, so the magnification cannot be calculated.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q25f",
+      "no": "Q25(f)",
+      "marks": 2,
+      "topic": "Naming the Fluid Mosaic Model",
+      "keywords": [
+        "fluid mosaic",
+        "Singer",
+        "Nicolson",
+        "fluid",
+        "mosaic",
+        "proteins",
+        "phospholipids",
+        "lateral movement"
+      ],
+      "question": "Explain why the Singer and Nicolson model is called the fluid mosaic model.",
+      "status": "ready",
+      "answer": "It is fluid because phospholipids and proteins can move sideways within the bilayer, and a mosaic because proteins are scattered through it like tiles in a pattern.",
+      "steps": [
+        "The phospholipid bilayer is fluid because the molecules can move laterally within each layer.",
+        "Proteins embedded in the bilayer can also move, so the membrane is dynamic.",
+        "The name describes both the fluid and the mosaic components of the membrane.",
+        "The proteins are scattered in a random pattern, like the pieces of a mosaic."
+      ]
+    },
+    {
+      "id": "2A-Q26a",
+      "no": "Q26(a)",
+      "marks": 3,
+      "topic": "Changing Gas Exchange in Frog Development",
+      "keywords": [
+        "tadpole",
+        "frog",
+        "lungs",
+        "gills",
+        "skin",
+        "gas exchange",
+        "development",
+        "metamorphosis"
+      ],
+      "question": "The contributions of lungs, gills and skin to gas exchange change as a tadpole develops into an adult frog. Explain the importance of these changes.",
+      "status": "ready",
+      "answer": "Gills are replaced by lungs as the frog grows and moves onto land, because lungs supply enough oxygen for a larger, more active adult, while skin still helps when moist.",
+      "steps": [
+        "Tadpoles live in water and rely on gills, which are efficient in water.",
+        "As the frog develops and moves onto land, it needs lungs to take oxygen from air.",
+        "Lungs provide a large surface area that meets the greater oxygen demand of the larger, more active adult.",
+        "The skin remains a supplementary gas exchange surface, especially when the frog is moist or submerged."
+      ]
+    },
+    {
+      "id": "2A-Q26b",
+      "no": "Q26(b)",
+      "marks": 2,
+      "topic": "Frog Heart Compared with Mammal",
+      "keywords": [
+        "frog heart",
+        "mammalian heart",
+        "similarity",
+        "difference",
+        "chambers",
+        "ventricle",
+        "atria",
+        "separation"
+      ],
+      "question": "Give one similarity and one difference between the structure of a frog heart and a mammalian heart.",
+      "status": "ready",
+      "answer": "Similarity: both have two atria and a ventricle with valves. Difference: the frog has a single ventricle, whereas the mammal has two separate ventricles.",
+      "steps": [
+        "Both hearts have atria that receive blood and ventricles that pump it out.",
+        "Both have valves that keep blood flowing in one direction.",
+        "A frog heart has one ventricle, so oxygenated and deoxygenated blood partly mix.",
+        "A mammalian heart has two separate ventricles, keeping the two circuits completely separate."
+      ]
+    },
+    {
+      "id": "2A-Q26c",
+      "no": "Q26(c)",
+      "marks": 6,
+      "topic": "Frog Circulation and Oxygen Supply",
+      "keywords": [
+        "frog",
+        "circulatory system",
+        "gas exchange",
+        "percentage blood flow",
+        "oxygen",
+        "cells",
+        "lungs",
+        "skin",
+        "double circulation"
+      ],
+      "question": "Explain how the circulatory system and the gas exchange surfaces of an adult frog meet the oxygen needs of its cells, using the percentage blood flow diagram.",
+      "status": "pending",
+      "answer": "Missing: the diagram showing the percentages of blood flow through the frog's circulatory system is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q27a(i)",
+      "no": "Q27(a)(i)",
+      "marks": 1,
+      "topic": "Membrane Structure Blocking Polar Molecules",
+      "keywords": [
+        "large polar molecules",
+        "hydrophobic core",
+        "membrane diagram",
+        "structures",
+        "Q",
+        "R",
+        "T",
+        "V"
+      ],
+      "question": "From the diagram of structures in part of a cell membrane (options AQ, BR, CT, DV), which structure prevents large polar molecules from diffusing through the membrane?",
+      "status": "pending",
+      "answer": "Missing: the labelled membrane diagram is not in the text, so the structure cannot be identified.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q27a(ii)",
+      "no": "Q27(a)(ii)",
+      "marks": 1,
+      "topic": "Structure Allowing Ion Diffusion",
+      "keywords": [
+        "ions",
+        "channel protein",
+        "membrane diagram",
+        "structures",
+        "P",
+        "S",
+        "T",
+        "U"
+      ],
+      "question": "From the membrane diagram (options AP, BS, CT, DU), which structure allows ions to diffuse through the membrane?",
+      "status": "pending",
+      "answer": "Missing: the labelled membrane diagram is not in the text, so the structure cannot be identified.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q27a(iii)",
+      "no": "Q27(a)(iii)",
+      "marks": 1,
+      "topic": "Structure Making Membrane Fluid",
+      "keywords": [
+        "fluid",
+        "cholesterol",
+        "unsaturated fatty acids",
+        "membrane diagram",
+        "structures",
+        "P",
+        "Q",
+        "S",
+        "U"
+      ],
+      "question": "From the membrane diagram (options AP, BQ, CS, DU), which structure allows the membrane to be fluid?",
+      "status": "pending",
+      "answer": "Missing: the labelled membrane diagram is not in the text, so the structure cannot be identified.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q27b",
+      "no": "Q27(b)",
+      "marks": 1,
+      "topic": "Cholesterol Position in Membrane",
+      "keywords": [
+        "cholesterol",
+        "position",
+        "membrane",
+        "diagram",
+        "bilayer",
+        "hydroxyl group"
+      ],
+      "question": "Which diagram shows the correct position of a cholesterol molecule in the membrane?",
+      "status": "pending",
+      "answer": "Missing: the diagrams of cholesterol positions are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q27c",
+      "no": "Q27(c)",
+      "marks": 3,
+      "topic": "Temperature and Cholesterol on Fluidity",
+      "keywords": [
+        "temperature",
+        "cholesterol",
+        "membrane fluidity",
+        "graph",
+        "effect",
+        "describe"
+      ],
+      "question": "Describe the effect of temperature and cholesterol on membrane fluidity, shown in the graph.",
+      "status": "pending",
+      "answer": "Missing: the graph of the effect of temperature and cholesterol on membrane fluidity is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q27d(i)",
+      "no": "Q27(d)(i)",
+      "marks": 1,
+      "topic": "Protein to Lipid Ratio",
+      "keywords": [
+        "protein",
+        "lipid",
+        "ratio",
+        "membrane A",
+        "composition",
+        "table",
+        "2 decimal places"
+      ],
+      "question": "Calculate the ratio of protein to lipid in membrane A from the table of composition of three membranes, giving the answer to 2 decimal places (as x : 1).",
+      "status": "pending",
+      "answer": "Missing: the table of protein, lipid and carbohydrate composition of membranes A, B and C is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2A-Q27d(ii)",
+      "no": "Q27(d)(ii)",
+      "marks": 3,
+      "topic": "Comparing Membrane Compositions",
+      "keywords": [
+        "membrane composition",
+        "protein",
+        "lipid",
+        "carbohydrate",
+        "compare",
+        "contrast",
+        "membranes A B C"
+      ],
+      "question": "Compare and contrast the composition of the three membranes A, B and C in the table of protein, lipid and carbohydrate.",
+      "status": "pending",
+      "answer": "Missing: the table of protein, lipid and carbohydrate composition of membranes A, B and C is not in the text.",
+      "steps": []
+    }
+  ]
+}

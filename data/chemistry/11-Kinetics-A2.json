@@ -1,0 +1,1376 @@
+{
+  "code": "Ch11",
+  "title": "Kinetics",
+  "unit": "A2 Unit 4",
+  "pdf": "papers/chemistry/11-Kinetics-A2.pdf",
+  "questions": [
+    {
+      "id": "Ch11-Q1",
+      "no": "Q1",
+      "marks": 1,
+      "topic": "Monitoring Reaction Progress",
+      "keywords": ["continuous monitoring", "bromine", "methanoic acid", "colorimetry", "conductivity", "gas volume", "titration", "quenching"],
+      "question": "Bromine oxidises methanoic acid to carbon dioxide. Which method would NOT be suitable for measuring the progress of this reaction? A colorimetry, B electrical conductivity, C quenching and titrating with acid, D measuring the volume of gas.",
+      "status": "ready",
+      "answer": "C - quenching and titrating with acid (acid cannot titrate the acid formed; an alkali is needed)",
+      "steps": [
+        "Colorimetry works because bromine is orange and is used up, so absorbance falls as the reaction proceeds.",
+        "Conductivity works because neutral reactants form H+ and Br- ions, so the conductivity changes.",
+        "Measuring gas volume works because CO2 is produced as a gas.",
+        "Quenching and titrating works only if the acid formed is titrated with an alkali; titrating with an acid gives no information about the acid produced.",
+        "So option C is the unsuitable method."
+      ]
+    },
+    {
+      "id": "Ch11-Q2",
+      "no": "Q2",
+      "marks": 1,
+      "topic": "Order From Graphs",
+      "keywords": ["first order", "concentration graph", "rate graph", "order of reaction", "kinetics graph"],
+      "question": "A reactant Q forms two products. Which of four graphs shows the reaction is first order with respect to Q? (Options A-D are graphs 1-4.)",
+      "status": "pending",
+      "answer": "Needs the four graphs from the PDF to be checked; they are not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q3",
+      "no": "Q3",
+      "marks": 1,
+      "topic": "Half-Life From Graph",
+      "keywords": ["half-life", "first order", "cisplatin", "hydrolysis", "concentration time graph"],
+      "question": "Cisplatin is hydrolysed in a first order overall reaction. Using a graph of concentration against time, which half-life is correct? Options: A 430 min, B 460 min, C 590 min, D 600 min.",
+      "status": "pending",
+      "answer": "Needs the concentration-time graph from the PDF to be checked; it is not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q4",
+      "no": "Q4",
+      "marks": 1,
+      "topic": "Orders From Rate Data",
+      "keywords": ["order of reaction", "rate data", "compounds Y and Z", "initial rates", "table"],
+      "question": "The rate of reaction between Y and Z was investigated and the results tabulated. What are the orders with respect to Y and Z?",
+      "status": "pending",
+      "answer": "Needs the results table from the PDF to be checked; the table is missing from the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q5(a)",
+      "no": "Q5(a)",
+      "marks": 1,
+      "topic": "Rate Equation Statements",
+      "keywords": ["rate equation", "nitrogen monoxide", "oxygen", "third order", "units of rate", "pressure", "doubling concentration"],
+      "question": "For rate = k[NO]^2[O2], which statement is NOT correct? A third order overall; B rate units mol dm-3 s-1; C rate increases when pressure increases; D doubling [NO] and quadrupling [O2] increases rate by a factor of 8.",
+      "status": "ready",
+      "answer": "D - the rate increases by a factor of 16, not 8",
+      "steps": [
+        "Overall order = 2 + 1 = 3, so A is correct.",
+        "Rate is always in mol dm-3 s-1, so B is correct.",
+        "Increasing pressure of gases increases concentration, so the rate increases; C is correct.",
+        "Doubling [NO] gives 2^2 = 4; quadrupling [O2] gives 4. Factor = 4 x 4 = 16, not 8.",
+        "So statement D is the incorrect one."
+      ]
+    },
+    {
+      "id": "Ch11-Q5(b)",
+      "no": "Q5(b)",
+      "marks": 1,
+      "topic": "Units Of Rate Constant",
+      "keywords": ["units", "rate constant", "rate equation", "third order", "dm6 mol-2 s-1", "k units"],
+      "question": "For rate = k[NO]^2[O2], what are the units of k? Options: A dm9 mol-3 s-1, B mol3 dm-9 s-1, C mol2 dm-6 s-1, D dm6 mol-2 s-1.",
+      "status": "ready",
+      "answer": "D - dm6 mol-2 s-1",
+      "steps": [
+        "Rearrange: k = rate / ([NO]^2 [O2]).",
+        "Units of rate = mol dm-3 s-1.",
+        "Units of [NO]^2[O2] = (mol dm-3)^3 = mol3 dm-9.",
+        "k units = (mol dm-3 s-1) / (mol3 dm-9) = mol-2 dm6 s-1.",
+        "This matches option D."
+      ]
+    },
+    {
+      "id": "Ch11-Q5(c)",
+      "no": "Q5(c)",
+      "marks": 1,
+      "topic": "Concentration From Rate Data",
+      "keywords": ["initial rate", "rate constant", "nitrogen monoxide concentration", "rate equation", "square root"],
+      "question": "Using rate = k[NO]^2[O2] with [O2] = 1.10 x 10^-2 mol dm-3, initial rate = 3.20 x 10^-3 mol dm-3 s-1 and k = 1.70 x 10^3, find the initial [NO]. Options: A 1.31 x 10^-2, B 1.71 x 10^-4, C 2.02 x 10^-3, D 4.50 x 10^-2.",
+      "status": "ready",
+      "answer": "A - 1.31 x 10^-2 mol dm-3",
+      "steps": [
+        "Rearrange the rate equation: [NO]^2 = rate / (k x [O2]).",
+        "Substitute: [NO]^2 = 3.20 x 10^-3 / (1.70 x 10^3 x 1.10 x 10^-2).",
+        "Denominator = 18.7, so [NO]^2 = 1.71 x 10^-4 mol2 dm-6.",
+        "Take the square root: [NO] = 1.31 x 10^-2 mol dm-3.",
+        "This matches option A."
+      ]
+    },
+    {
+      "id": "Ch11-Q6(a)(i)",
+      "no": "Q6(a)(i)",
+      "marks": 1,
+      "topic": "Arrhenius Data Table",
+      "keywords": ["ln k", "1/T", "cyclopropane", "propene", "rate constant table", "Arrhenius"],
+      "question": "Complete a table of values for ln k and 1/T for the rate constant of the cyclopropane to propene reaction at five temperatures.",
+      "status": "pending",
+      "answer": "Needs the table values from the PDF; the table is missing from the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q6(a)(ii)",
+      "no": "Q6(a)(ii)",
+      "marks": 3,
+      "topic": "Plotting Arrhenius Graph",
+      "keywords": ["ln k against 1/T", "graph plotting", "Arrhenius", "cyclopropane", "best fit line"],
+      "question": "Plot a graph of ln k against 1/T for the five data points from part (a)(i).",
+      "status": "pending",
+      "answer": "Graph plotting needs the data points from the PDF table; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q6(a)(iii)",
+      "no": "Q6(a)(iii)",
+      "marks": 3,
+      "topic": "Activation Energy From Gradient",
+      "keywords": ["activation energy", "gradient", "Arrhenius equation", "ln k", "1/T", "kJ mol-1", "cyclopropane"],
+      "question": "From the graph of ln k against 1/T, determine the activation energy Ea in kJ mol-1, including the value and units of the gradient.",
+      "status": "pending",
+      "answer": "Needs the plotted graph and gradient from the PDF; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q6(b)",
+      "no": "Q6(b)",
+      "marks": 2,
+      "topic": "Comment On Activation Energy",
+      "keywords": ["activation energy", "typical value", "50 kJ mol-1", "comment", "cyclopropane"],
+      "question": "The activation energy for many reactions is around +50 kJ mol-1. Comment on the value of Ea found in (a)(iii).",
+      "status": "pending",
+      "answer": "Depends on the Ea value found in (a)(iii) from the PDF graph; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q6(c)",
+      "no": "Q6(c)",
+      "marks": 3,
+      "topic": "Temperature And Rate Constant",
+      "keywords": ["rate constant", "temperature", "activation energy", "Boltzmann distribution", "collision", "Arrhenius", "k increases"],
+      "question": "Explain why the rate constant k increases as temperature increases.",
+      "status": "ready",
+      "answer": "k increases because more molecules have energy at or above Ea, so a larger fraction of collisions are successful",
+      "steps": [
+        "Raising the temperature increases the average kinetic energy of the molecules.",
+        "The Maxwell-Boltzmann distribution shifts to the right and flattens.",
+        "A larger proportion of molecules now have energy equal to or greater than the activation energy, Ea.",
+        "More collisions are successful, so the rate constant k increases.",
+        "Arrhenius: k = A e^(-Ea/RT), so k increases exponentially as T rises."
+      ]
+    },
+    {
+      "id": "Ch11-Q7",
+      "no": "Q7",
+      "marks": 1,
+      "topic": "SN2 Mechanism Diagram",
+      "keywords": ["mechanism", "1-bromoethane", "potassium hydroxide", "second order", "SN2", "diagram"],
+      "question": "Which of four diagrams shows the mechanism for the second order reaction between 1-bromoethane and aqueous potassium hydroxide?",
+      "status": "pending",
+      "answer": "Needs the four mechanism diagrams from the PDF to be checked; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q8(a)",
+      "no": "Q8(a)",
+      "marks": 1,
+      "topic": "Units Of Rate Constant",
+      "keywords": ["propanone", "iodine", "acid", "rate constant units", "dm3 mol-1 s-1", "rate equation"],
+      "question": "For the formation of iodopropanone (propanone with iodine in acid), which statement is true? Options: A units of k are dm3 mol-1 s-1, B first order overall, C units of rate are dm3 mol-1 s-1, D doubling both concentrations quadruples the rate. The rate equation itself is not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs the rate equation shown in the PDF to be checked; it is missing from the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q8(b)",
+      "no": "Q8(b)",
+      "marks": 1,
+      "topic": "Factors Affecting Rate",
+      "keywords": ["temperature", "rate constant", "sodium hydroxide", "hydrogen ion", "propanone iodination", "catalyst"],
+      "question": "Which statement is NOT true? A rate increases with temperature, B rate constant increases with temperature, C adding sodium hydroxide decreases the rate, D rate is unchanged when [H+] is doubled.",
+      "status": "ready",
+      "answer": "D - the rate is not unchanged; doubling [H+] doubles the rate",
+      "steps": [
+        "Raising temperature increases the rate and the rate constant, so A and B are true.",
+        "Sodium hydroxide removes H+ ions (neutralises acid), lowering the rate, so C is true.",
+        "The reaction is first order with respect to H+ (rate = k[propanone][H+]), so doubling [H+] doubles the rate.",
+        "Therefore statement D is the one that is not true."
+      ]
+    },
+    {
+      "id": "Ch11-Q9",
+      "no": "Q9",
+      "marks": 1,
+      "topic": "SN1 Hydrolysis Substrate",
+      "keywords": ["bromoalkane", "hydrolysis", "first order", "rate = k[RBr]", "tertiary", "SN1", "2-bromo-2-methylpropane"],
+      "question": "The hydrolysis of a bromoalkane has rate = k[RBr]. Which is most likely to be RBr? A bromomethane, B 2-bromopropane, C 1-bromo-2-methylpropane, D 2-bromo-2-methylpropane.",
+      "status": "ready",
+      "answer": "D - 2-bromo-2-methylpropane",
+      "steps": [
+        "Rate = k[RBr] means the rate depends only on the bromoalkane: the reaction is first order (SN1).",
+        "In SN1 the C-Br bond breaks in the slow, rate-determining step to form a carbocation.",
+        "Tertiary carbocations are the most stable, so the tertiary bromoalkane reacts fastest by SN1.",
+        "2-bromo-2-methylpropane is tertiary, so it is the answer."
+      ]
+    },
+    {
+      "id": "Ch11-Q10",
+      "no": "Q10",
+      "marks": 1,
+      "topic": "Arrhenius Gradient And Ea",
+      "keywords": ["Arrhenius equation", "gradient", "activation energy", "ln k against 1/T", "gas constant R"],
+      "question": "A graph of ln k against 1/T is plotted for a reaction. Which expression gives the activation energy Ea? Options A and C contain a minus sign and B and D a plus sign; the minus signs are garbled in the extracted text.",
+      "status": "pending",
+      "answer": "Options are garbled in the extracted text (minus signs unreadable); check against the PDF",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q11(a)(i)",
+      "no": "Q11(a)(i)",
+      "marks": 3,
+      "topic": "Concentration-Time Graph",
+      "keywords": ["benzenediazonium chloride", "first order", "concentration time graph", "decomposition", "333 K"],
+      "question": "Plot a graph of concentration of benzenediazonium chloride against time for the 333 K experiment.",
+      "status": "pending",
+      "answer": "Needs the data table from the PDF; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q11(a)(ii)",
+      "no": "Q11(a)(ii)",
+      "marks": 1,
+      "topic": "Half-Life From Graph",
+      "keywords": ["half-life", "concentration time graph", "benzenediazonium chloride", "first order", "graph working"],
+      "question": "Determine the half-life, t1/2, from the concentration-time graph, showing working on the graph.",
+      "status": "pending",
+      "answer": "Needs the graph from the PDF; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q11(a)(iii)",
+      "no": "Q11(a)(iii)",
+      "marks": 2,
+      "topic": "First Order Rate Constant",
+      "keywords": ["rate constant", "half-life", "ln 2", "first order", "units s-1", "benzenediazonium chloride"],
+      "question": "Calculate the rate constant k at 333 K using ln 2 = k t1/2. Include units.",
+      "status": "pending",
+      "answer": "Needs the half-life from part (a)(ii), which depends on the PDF graph",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q11(b)(i)",
+      "no": "Q11(b)(i)",
+      "marks": 2,
+      "topic": "Arrhenius Data Point",
+      "keywords": ["rate constant", "333 K", "1/T", "ln k", "Arrhenius", "data point"],
+      "question": "Use the rate constant from (a)(iii) to obtain a data point (1/T, ln k) for 333 K.",
+      "status": "pending",
+      "answer": "Depends on the rate constant from (a)(iii), which depends on the PDF graph",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q11(b)(ii)",
+      "no": "Q11(b)(ii)",
+      "marks": 1,
+      "topic": "Plotting Arrhenius Point",
+      "keywords": ["Arrhenius graph", "plot point", "ln k", "1/T"],
+      "question": "Plot the data point from (b)(i) on the Arrhenius graph.",
+      "status": "pending",
+      "answer": "Needs the graph axes and data from the PDF; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q11(b)(iii)",
+      "no": "Q11(b)(iii)",
+      "marks": 3,
+      "topic": "Gradient With Units",
+      "keywords": ["gradient", "best fit line", "Arrhenius graph", "sign", "units K", "ln k against 1/T"],
+      "question": "Determine the gradient of the Arrhenius graph by drawing a best-fit line, including sign and units.",
+      "status": "pending",
+      "answer": "Needs the plotted graph from the PDF; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q11(b)(iv)",
+      "no": "Q11(b)(iv)",
+      "marks": 3,
+      "topic": "Activation Energy From Gradient",
+      "keywords": ["activation energy", "gradient", "Arrhenius", "benzenediazonium chloride", "R = 8.31", "kJ mol-1"],
+      "question": "Use the gradient from (b)(iii) to calculate the activation energy for decomposition of benzenediazonium chloride, with sign and units.",
+      "status": "pending",
+      "answer": "Depends on the gradient from (b)(iii), which needs the PDF graph",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q12",
+      "no": "Q12",
+      "marks": 1,
+      "topic": "SN1 Mechanism Suggestion",
+      "keywords": ["2-bromo-2-methylbutane", "sodium hydroxide", "hydrolysis", "SN1", "mechanism", "tertiary"],
+      "question": "2-bromo-2-methylbutane is hydrolysed with NaOH(aq). Which suggestion about the mechanism is correct? The four options are not in the extracted text.",
+      "status": "pending",
+      "answer": "Options A-D are missing from the extracted text; check against the PDF",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q13",
+      "no": "Q13",
+      "marks": 6,
+      "topic": "Rate Equations And Mechanisms",
+      "keywords": ["halogenoalkane", "hydrolysis", "SN1", "SN2", "rate equation", "primary", "tertiary", "evidence for mechanism"],
+      "question": "Describe how the rate equations for hydrolysis of halogenoalkanes by alkali give evidence for the different mechanisms of primary and tertiary halogenoalkanes. Curly arrow mechanisms are not required.",
+      "status": "ready",
+      "answer": "Primary: rate = k[RX][OH-] shows a bimolecular SN2 step; tertiary: rate = k[RX] shows a unimolecular SN1 step via a carbocation",
+      "steps": [
+        "Primary halogenoalkanes: rate = k[RX][OH-] is second order overall (first order in each reactant).",
+        "Both RX and OH- must be in the rate-determining step, so the attack and loss of halide are one concerted step (SN2).",
+        "Tertiary halogenoalkanes: rate = k[RX] is first order, so only RX is in the rate-determining step.",
+        "The C-X bond breaks first in a slow step to form a carbocation intermediate (SN1); OH- attacks in a fast second step.",
+        "The rate-determining step is unimolecular for tertiary halogenoalkanes and bimolecular for primary ones.",
+        "The different rate equations therefore show different mechanisms."
+      ]
+    },
+    {
+      "id": "Ch11-Q14",
+      "no": "Q14",
+      "marks": 1,
+      "topic": "Acid-Catalysed Iodination Mechanism",
+      "keywords": ["propanone", "iodine", "hydrochloric acid catalyst", "rate = k[CH3COCH3][H+]", "mechanism", "enol"],
+      "question": "The reaction CH3COCH3 + I2 -> CH3COCH2I + HI has rate = k[CH3COCH3][H+]. Which is a possible mechanism? Mechanism options are in diagrams not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs the mechanism options from the PDF to be checked; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q15",
+      "no": "Q15",
+      "marks": 1,
+      "topic": "Rate Constant Calculation",
+      "keywords": ["rate constant", "rate = k[A]^2", "initial rate", "dm3 mol-1 s-1", "order zero in B"],
+      "question": "For rate = k[A]^2[B]^0, initial rate = 9.0 x 10^-5 mol dm-3 s-1 at [A] = 0.30 mol dm-3 and [B] = 0.20 mol dm-3. What is k in dm3 mol-1 s-1? Options: A 8.1 x 10^-6, B 3.0 x 10^-4, C 1.0 x 10^-3, D 5.0 x 10^-3.",
+      "status": "ready",
+      "answer": "C - 1.0 x 10^-3 dm3 mol-1 s-1",
+      "steps": [
+        "[B]^0 = 1, so the rate depends only on [A]: rate = k[A]^2.",
+        "Rearrange: k = rate / [A]^2.",
+        "[A]^2 = 0.30^2 = 0.090 mol2 dm-6.",
+        "k = 9.0 x 10^-5 / 0.090 = 1.0 x 10^-3 dm3 mol-1 s-1.",
+        "This matches option C."
+      ]
+    },
+    {
+      "id": "Ch11-Q16(a)(i)",
+      "no": "Q16(a)(i)",
+      "marks": 3,
+      "topic": "Graph To Show First Order",
+      "keywords": ["bromate(V) ions", "first order", "initial rate", "graph", "bromide ions", "excess acid"],
+      "question": "Using the data for five initial bromate(V) concentrations, plot a suitable graph to show the reaction is first order with respect to bromate(V) ions.",
+      "status": "pending",
+      "answer": "Needs the data table from the PDF; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q16(a)(ii)",
+      "no": "Q16(a)(ii)",
+      "marks": 1,
+      "topic": "Interpreting Order Graph",
+      "keywords": ["first order", "straight line", "through origin", "bromate(V)", "graph interpretation", "proportional"],
+      "question": "State how your graph shows that the reaction is first order with respect to bromate(V) ions.",
+      "status": "ready",
+      "answer": "A straight line through the origin (rate directly proportional to [BrO3-]) shows first order",
+      "steps": [
+        "For a first order reaction, rate is directly proportional to [BrO3-].",
+        "Plotting rate against [BrO3-] gives a straight line that passes through the origin.",
+        "A straight line through the origin therefore shows the reaction is first order with respect to bromate(V) ions."
+      ]
+    },
+    {
+      "id": "Ch11-Q16(b)(i)",
+      "no": "Q16(b)(i)",
+      "marks": 2,
+      "topic": "Orders From Experimental Data",
+      "keywords": ["bromide ions", "hydrogen ions", "order of reaction", "initial rates", "bromate(V)", "table"],
+      "question": "Using the second experiment's initial rate data and the first order result from (a), deduce the orders with respect to Br- and H+.",
+      "status": "pending",
+      "answer": "Needs the table of initial rates from the PDF; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q16(b)(ii)",
+      "no": "Q16(b)(ii)",
+      "marks": 1,
+      "topic": "Rate Equation From Orders",
+      "keywords": ["rate equation", "bromate(V)", "bromide", "hydrogen ions", "overall rate"],
+      "question": "Write the rate equation for the reaction using the orders from (b)(i).",
+      "status": "pending",
+      "answer": "Depends on the orders from (b)(i), which need the PDF table",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q16(b)(iii)",
+      "no": "Q16(b)(iii)",
+      "marks": 3,
+      "topic": "Rate Constant With Units",
+      "keywords": ["rate constant", "rate equation", "Run 1", "units", "bromate(V)", "bromide", "hydrogen ions"],
+      "question": "Use the Run 1 data and your rate equation from (b)(ii) to calculate k, including units.",
+      "status": "pending",
+      "answer": "Needs the Run 1 data and orders from the PDF; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q16(c)",
+      "no": "Q16(c)",
+      "marks": 3,
+      "topic": "Heterogeneous Catalysis",
+      "keywords": ["heterogeneous catalyst", "palladium", "activation energy", "adsorption", "surface", "alternative pathway"],
+      "question": "Describe how a heterogeneous catalyst such as palladium increases the rate of a reaction.",
+      "status": "ready",
+      "answer": "Reactants adsorb onto the surface, bonds weaken, and an alternative pathway with lower activation energy is provided",
+      "steps": [
+        "Reactant molecules are adsorbed onto the active sites on the palladium surface.",
+        "Adsorption brings reactants close together with the correct orientation, raising the local concentration.",
+        "Bonds within the adsorbed reactants weaken, so the activation energy is lowered.",
+        "The reaction goes by an alternative pathway with a lower activation energy.",
+        "More molecules then have energy at or above Ea, so the rate increases; products desorb afterwards."
+      ]
+    },
+    {
+      "id": "Ch11-Q17",
+      "no": "Q17",
+      "marks": 1,
+      "topic": "Rate Determining Step",
+      "keywords": ["nitrogen monoxide", "hydrogen", "mechanism", "rate determining step", "overall order", "2NO + 2H2"],
+      "question": "For 2NO + 2H2 -> N2 + 2H2O, which statement about the mechanism is correct? The steps are shown in a diagram not in the extracted text; options A-D are: step 3 is rate determining with overall order 2 / step 3 with order 4 / step 2 with order 2 / step 2 with order 3.",
+      "status": "pending",
+      "answer": "Needs the mechanism steps from the PDF to be checked; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q18(a)",
+      "no": "Q18(a)",
+      "marks": 1,
+      "topic": "Zero Order Rate Equation",
+      "keywords": ["zero order", "ammonia", "tungsten catalyst", "rate equation", "rate = k"],
+      "question": "The decomposition of ammonia catalysed by tungsten is zero order. What is the rate equation? Options: A rate = k, B rate = k[NH3], C rate = k[NH3]^2, D rate = k[N2][H2]^3.",
+      "status": "ready",
+      "answer": "A - rate = k",
+      "steps": [
+        "Zero order means the rate does not depend on the concentration of any reactant.",
+        "The rate equation therefore has no concentration terms.",
+        "This is rate = k, which is option A."
+      ]
+    },
+    {
+      "id": "Ch11-Q18(b)",
+      "no": "Q18(b)",
+      "marks": 1,
+      "topic": "Units Of Zero Order k",
+      "keywords": ["zero order", "units", "rate constant", "mol dm-3 s-1", "ammonia decomposition"],
+      "question": "What are the units of the rate constant k for this zero order reaction? Options: A no units, B s-1, C mol dm-3 s-1, D dm3 mol-1 s-1.",
+      "status": "ready",
+      "answer": "C - mol dm-3 s-1",
+      "steps": [
+        "For zero order, rate = k, so k has the same units as rate.",
+        "Rate is measured in mol dm-3 s-1.",
+        "So k has units mol dm-3 s-1, which is option C."
+      ]
+    },
+    {
+      "id": "Ch11-Q18(c)",
+      "no": "Q18(c)",
+      "marks": 1,
+      "topic": "Zero Order Graph",
+      "keywords": ["zero order", "graph", "concentration time", "straight line", "ammonia decomposition"],
+      "question": "Which of the graphs represents a zero order reaction? The graph options are not in the extracted text.",
+      "status": "pending",
+      "answer": "Graph options are missing from the extracted text; check against the PDF",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q19",
+      "no": "Q19",
+      "marks": 1,
+      "topic": "Continuous Monitoring Method",
+      "keywords": ["continuous monitoring", "C4H9Cl hydrolysis", "electrical conductivity", "ions produced", "colorimetry", "titration"],
+      "question": "Which continuous monitoring method could be used for C4H9Cl(l) + H2O(l) -> C4H9OH(aq) + H+(aq) + Cl-(aq)? Options: A electrical conductivity, B colorimetry, C mass change, D titration with alkali.",
+      "status": "ready",
+      "answer": "A - electrical conductivity",
+      "steps": [
+        "The reactants are neutral molecules; the products include H+ and Cl- ions.",
+        "The number of ions in solution increases as the reaction proceeds, so conductivity increases.",
+        "Conductivity can be measured continuously, which is required here.",
+        "Colorimetry needs a coloured species, mass change needs a gas, and titration is not continuous; so A is correct."
+      ]
+    },
+    {
+      "id": "Ch11-Q20(a)",
+      "no": "Q20(a)",
+      "marks": 1,
+      "topic": "First Order Rate Equation",
+      "keywords": ["azomethane", "first order", "rate equation", "decomposition", "CH3N2CH3"],
+      "question": "Azomethane, CH3N2CH3, decomposes to N2 and C2H6 in a first order reaction. Write the rate equation.",
+      "status": "ready",
+      "answer": "rate = k[CH3N2CH3]",
+      "steps": [
+        "The reaction is first order with respect to azomethane only.",
+        "Nitrogen and ethane are products, so they do not appear in the rate equation.",
+        "rate = k[CH3N2CH3]."
+      ]
+    },
+    {
+      "id": "Ch11-Q20(b)(i)",
+      "no": "Q20(b)(i)",
+      "marks": 2,
+      "topic": "Half-Life From Graph",
+      "keywords": ["half-life", "azomethane", "first order", "concentration time graph", "573 K", "graph working"],
+      "question": "From the concentration-time graph at 573 K, determine values for t1/2 and state whether the data confirm first order behaviour. Show working on the graph.",
+      "status": "pending",
+      "answer": "Needs the concentration-time graph from the PDF; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q20(b)(ii)",
+      "no": "Q20(b)(ii)",
+      "marks": 2,
+      "topic": "First Order Rate Constant",
+      "keywords": ["rate constant", "half-life", "ln 2", "azomethane", "s-1", "573 K"],
+      "question": "Calculate the rate constant k in s-1 for decomposition of azomethane at 573 K, using the half-life from (b)(i) and k = ln 2 / t1/2.",
+      "status": "pending",
+      "answer": "Depends on the half-life from (b)(i), which needs the PDF graph",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q20(c)(i)",
+      "no": "Q20(c)(i)",
+      "marks": 2,
+      "topic": "Temperature And Rate Constant",
+      "keywords": ["rate constant", "higher temperature", "activation energy", "collision energy", "azomethane", "Boltzmann"],
+      "question": "Explain why the rate constant for azomethane decomposition is higher at 623 K than at 523 K.",
+      "status": "ready",
+      "answer": "At 623 K more molecules have energy at or above Ea, so more collisions are successful",
+      "steps": [
+        "Raising temperature from 523 K to 623 K increases the average kinetic energy of the molecules.",
+        "The proportion of molecules with energy equal to or greater than the activation energy increases.",
+        "More collisions are successful per second, so the rate constant is larger."
+      ]
+    },
+    {
+      "id": "Ch11-Q20(c)(ii)",
+      "no": "Q20(c)(ii)",
+      "marks": 3,
+      "topic": "Activation Energy Two Point",
+      "keywords": ["activation energy", "two temperatures", "ln(k2/k1)", "Arrhenius", "R = 8.31", "azomethane", "kJ mol-1"],
+      "question": "Using k = 1.1 x 10^-6 s-1 at 523 K and k = 3.5 x 10^-3 s-1 at 623 K, calculate Ea (2 s.f., with units). R = 8.31 J mol-1 K-1.",
+      "status": "ready",
+      "answer": "Ea = +2.2 x 10^2 kJ mol-1 (about 220 kJ mol-1)",
+      "steps": [
+        "Use ln(k2/k1) = -(Ea/R) x (1/T2 - 1/T1).",
+        "ln(3.5 x 10^-3 / 1.1 x 10^-6) = ln(3182) = 8.065.",
+        "1/T2 - 1/T1 = 1/623 - 1/523 = -3.069 x 10^-4 K-1.",
+        "Ea/R = -8.065 / (-3.069 x 10^-4) = 2.628 x 10^4 K (the two minus signs cancel, giving a positive Ea).",
+        "Ea = 2.628 x 10^4 x 8.31 = 2.18 x 10^5 J mol-1.",
+        "Ea = +2.2 x 10^2 kJ mol-1 (2 s.f.)."
+      ]
+    },
+    {
+      "id": "Ch11-Q20(d)",
+      "no": "Q20(d)",
+      "marks": 1,
+      "topic": "Bond Fission In Azomethane",
+      "keywords": ["azomethane", "covalent bond fission", "C-N bond", "N=N bond", "activation energy", "bond breaking"],
+      "question": "Identify on the structure of azomethane the covalent bond(s) that break in its decomposition, which has a high activation energy because of covalent bond fission.",
+      "status": "ready",
+      "answer": "The two C-N bonds (CH3-N) break; the N=N bond is retained and becomes the N2 triple bond",
+      "steps": [
+        "Azomethane is CH3-N=N-CH3.",
+        "Products are N2 (N≡N) and C2H6 (C-C), so the CH3-N bonds must break.",
+        "The two C-N single bonds, one on each side, are the bonds that break."
+      ]
+    },
+    {
+      "id": "Ch11-Q21",
+      "no": "Q21",
+      "marks": 1,
+      "topic": "Activation Energy From Gradient",
+      "keywords": ["gradient", "-4670 K", "activation energy", "kJ mol-1", "Arrhenius", "bromate(V)", "bromide"],
+      "question": "A graph of ln k against 1/T has gradient -4670 K. What is the activation energy? Options: A +38.8 kJ mol-1, B +38.8 J mol-1 K-1, C +562 J mol-1, D +562 J mol-1 K-1.",
+      "status": "ready",
+      "answer": "A - +38.8 kJ mol-1",
+      "steps": [
+        "Arrhenius: gradient = -Ea/R, so Ea = -gradient x R.",
+        "Ea = 4670 K x 8.31 J mol-1 K-1 = 38 800 J mol-1 = 38.8 kJ mol-1.",
+        "The value is positive and in kJ mol-1, so option A is correct."
+      ]
+    },
+    {
+      "id": "Ch11-Q22(a)(i)",
+      "no": "Q22(a)(i)",
+      "marks": 2,
+      "topic": "Orders From Experimental Data",
+      "keywords": ["2-bromobutane", "hydroxide ions", "order of reaction", "justify", "table", "298 K"],
+      "question": "From the experimental data for hydrolysis of 2-bromobutane, deduce and justify the order with respect to 2-bromobutane and hydroxide ions.",
+      "status": "pending",
+      "answer": "Needs the data table from the PDF; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q22(a)(ii)",
+      "no": "Q22(a)(ii)",
+      "marks": 1,
+      "topic": "Rate Equation Writing",
+      "keywords": ["rate equation", "2-bromobutane", "hydroxide", "order"],
+      "question": "Write the rate equation using your orders from (a)(i).",
+      "status": "pending",
+      "answer": "Depends on the orders from (a)(i), which need the PDF table",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q22(a)(iii)",
+      "no": "Q22(a)(iii)",
+      "marks": 2,
+      "topic": "Rate Constant With Units",
+      "keywords": ["rate constant", "Experiment 1", "2-bromobutane", "hydroxide", "units"],
+      "question": "Calculate the rate constant for Experiment 1, including units.",
+      "status": "pending",
+      "answer": "Needs the Experiment 1 data from the PDF; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q22(b)",
+      "no": "Q22(b)",
+      "marks": 3,
+      "topic": "SN2 Mechanism Drawing",
+      "keywords": ["mechanism", "curly arrows", "2-bromobutane", "hydroxide", "dipoles", "lone pairs", "SN2"],
+      "question": "Draw the mechanism for hydrolysis of 2-bromobutane that is consistent with your rate equation, including curly arrows, dipoles and lone pairs.",
+      "status": "pending",
+      "answer": "Requires a drawn mechanism, which cannot be checked from the text; check against the PDF's order from (a)(i)",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q23(a)",
+      "no": "Q23(a)",
+      "marks": 1,
+      "topic": "Zero Order Graph Selection",
+      "keywords": ["zero order", "rate against concentration", "graph", "four graphs"],
+      "question": "Which of four graphs shows rate plotted against concentration for a zero order reaction? Graphs 1-4 are in a figure not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs the four graphs from the PDF to be checked; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q23(b)",
+      "no": "Q23(b)",
+      "marks": 1,
+      "topic": "First Order Graph Selection",
+      "keywords": ["first order", "rate against concentration", "straight line through origin", "graph"],
+      "question": "Which of four graphs shows rate plotted against concentration for a first order reaction? Graphs 1-4 are in a figure not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs the four graphs from the PDF to be checked; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q24",
+      "no": "Q24",
+      "marks": 1,
+      "topic": "Equilibrium Yield And Catalysts",
+      "keywords": ["vanadium(V) oxide", "catalyst", "equilibrium yield", "exothermic", "pressure", "sulfur trioxide", "heterogeneous"],
+      "question": "Solid vanadium(V) oxide catalyses 2SO2(g) + O2(g) <=> 2SO3(g), deltaH = -196 kJ mol-1. Which statement is correct? Options: A V2O5 is a homogeneous catalyst; B decreasing pressure increases SO3 yield; C increasing catalyst surface area increases SO3 yield; D decreasing temperature increases SO3 yield.",
+      "status": "ready",
+      "answer": "D - decreasing temperature increases the equilibrium yield of SO3",
+      "steps": [
+        "V2O5 is a solid and the reactants are gases, so it is a heterogeneous catalyst; A is false.",
+        "There are 3 mol gas on the left and 2 mol on the right; decreasing pressure favours the left, so B is false.",
+        "A catalyst changes only the rate, not the position of equilibrium, so C is false.",
+        "The forward reaction is exothermic (deltaH negative); lowering temperature shifts equilibrium to the right, so D is true."
+      ]
+    },
+    {
+      "id": "Ch11-Q25(a)(i)",
+      "no": "Q25(a)(i)",
+      "marks": 4,
+      "topic": "Rate Equation From Data",
+      "keywords": ["bromate(V) ions", "bromide ions", "dilute acid", "first order", "rate equation", "justify", "table"],
+      "question": "Deduce the rate equation for the reaction of bromate(V) ions with bromide ions in dilute acid, justifying the answer from the data, given the reaction is first order in bromate(V).",
+      "status": "pending",
+      "answer": "Needs the initial-rate table from the PDF to be checked; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q25(a)(ii)",
+      "no": "Q25(a)(ii)",
+      "marks": 3,
+      "topic": "Rate Constant With Units",
+      "keywords": ["rate constant", "Experiment 4", "bromate(V)", "units", "rate equation"],
+      "question": "Use the data from Experiment 4 and your rate equation from (a)(i) to calculate the rate constant, with units.",
+      "status": "pending",
+      "answer": "Needs the Experiment 4 data and the rate equation from (a)(i); not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q25(b)",
+      "no": "Q25(b)",
+      "marks": 1,
+      "topic": "Multi-Step Mechanism Reason",
+      "keywords": ["rate equation", "one step", "mechanism", "termolecular", "intermediate", "bromate(V)"],
+      "question": "Give one reason why the rate equation shows that the reaction cannot proceed in one step.",
+      "status": "pending",
+      "answer": "Depends on the rate equation from (a)(i), which needs the PDF table to be checked",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q26(a)",
+      "no": "Q26(a)",
+      "marks": 1,
+      "topic": "Effect Of Concentration On Rate",
+      "keywords": ["nitrogen monoxide", "hydrogen", "rate = k[NO]^2[H2]", "tripled", "factor", "order"],
+      "question": "For rate = k[NO]^2[H2], both reactant concentrations are tripled. By what factor does the rate increase? Options: A 3, B 9, C 18, D 27.",
+      "status": "ready",
+      "answer": "D - 27",
+      "steps": [
+        "Tripling [NO] multiplies the rate by 3^2 = 9.",
+        "Tripling [H2] multiplies the rate by 3^1 = 3.",
+        "Total factor = 9 x 3 = 27, which is option D."
+      ]
+    },
+    {
+      "id": "Ch11-Q26(b)",
+      "no": "Q26(b)",
+      "marks": 1,
+      "topic": "Rate Graph Selection",
+      "keywords": ["second order", "first order", "rate graph", "nitrogen monoxide", "hydrogen", "graph"],
+      "question": "Which graph is correct for this reaction? The graphs are not in the extracted text.",
+      "status": "pending",
+      "answer": "Graph options are missing from the extracted text; check against the PDF",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q26(c)",
+      "no": "Q26(c)",
+      "marks": 1,
+      "topic": "Rate Determining Step",
+      "keywords": ["rate determining step", "mechanism", "N2O2", "nitrogen monoxide", "rate equation", "step 2"],
+      "question": "The mechanism has three steps: Step 1 NO + NO -> N2O2; Step 2 N2O2 + H2 -> N2O + H2O; Step 3 N2O + H2 -> N2 + H2O. Which step is rate-determining? Options: A Step 1, B Step 2, C Step 3, D cannot be deduced.",
+      "status": "ready",
+      "answer": "B - Step 2",
+      "steps": [
+        "The rate equation is rate = k[NO]^2[H2].",
+        "Step 1 is an equilibrium of NO with NO, giving [N2O2] proportional to [NO]^2.",
+        "If Step 2 is rate-determining, rate = k[N2O2][H2] = k[NO]^2[H2], which matches the rate equation.",
+        "So Step 2 is the rate-determining step."
+      ]
+    },
+    {
+      "id": "Ch11-Q27(a)",
+      "no": "Q27(a)",
+      "marks": 1,
+      "topic": "Rate Equation Pair",
+      "keywords": ["nitrogen monoxide", "oxygen", "rate equations", "equation", "order", "pair"],
+      "question": "Two equations for the reaction of nitrogen monoxide and oxygen are shown. Which pair of rate equations could be correct? The equation options are not in the extracted text.",
+      "status": "pending",
+      "answer": "Options are missing from the extracted text; check against the PDF",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q27(b)",
+      "no": "Q27(b)",
+      "marks": 1,
+      "topic": "Continuous Monitoring Methods",
+      "keywords": ["continuous monitoring", "colorimetry", "volume change", "nitrogen monoxide", "oxygen", "NO2"],
+      "question": "Which two methods can be used for continuous monitoring of the reaction between nitrogen monoxide and oxygen? Options: A colorimetry and titration, B colorimetry and volume change, C mass change and volume change, D mass change and titration.",
+      "status": "ready",
+      "answer": "B - colorimetry and volume change",
+      "steps": [
+        "2NO + O2 -> 2NO2: NO2 is brown, so the colour intensity changes and colorimetry works continuously.",
+        "Three gas molecules become two, so the total volume of gas changes and can be followed continuously.",
+        "Mass does not change in a closed system, so mass change is not a method here.",
+        "Titration is not continuous and is not needed for gases, so option B is correct."
+      ]
+    },
+    {
+      "id": "Ch11-Q28",
+      "no": "Q28",
+      "marks": 1,
+      "topic": "Rate Equation From Mechanism",
+      "keywords": ["hydrogen peroxide", "iodide ions", "catalyst", "mechanism", "rate equation", "IO-"],
+      "question": "The decomposition of hydrogen peroxide is catalysed by iodide ions and the mechanism is shown in a diagram. What is the rate equation? Options: A rate = k[H2O2]^2[I-], B rate = k[H2O2][I-], C rate = k[H2O2]^2[I-][IO-], D rate = k[H2O2][IO-].",
+      "status": "pending",
+      "answer": "Needs the mechanism steps from the PDF to be checked; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q29",
+      "no": "Q29",
+      "marks": 1,
+      "topic": "Half-Life Definition",
+      "keywords": ["half-life", "first order", "concentration halves", "definition", "rate constant"],
+      "question": "The half-life of a first order reaction is: A half the time for the reaction to be complete; B the time for the rate constant to halve; C the time for the concentration of a reactant to halve; D the time for the concentration of a product to double.",
+      "status": "ready",
+      "answer": "C - the time for the concentration of a reactant to halve",
+      "steps": [
+        "Half-life, t1/2, is the time taken for the concentration of a reactant to fall to half its initial value.",
+        "For a first order reaction this value is constant and independent of concentration.",
+        "The rate constant does not change during the reaction, so option B is wrong.",
+        "So option C is correct."
+      ]
+    },
+    {
+      "id": "Ch11-Q30(a)(i)",
+      "no": "Q30(a)(i)",
+      "marks": 3,
+      "topic": "Thiosulfate Clock Method",
+      "keywords": ["sodium thiosulfate", "starch", "iodine", "clock reaction", "hydrogen peroxide", "iodide", "rate of reaction"],
+      "question": "Explain how adding a fixed volume of sodium thiosulfate and starch to the reaction mixture gives the rate of reaction.",
+      "status": "ready",
+      "answer": "Thiosulfate reduces iodine as it forms; the blue-black colour appears only when all thiosulfate is used, so rate = fixed amount of iodine / time",
+      "steps": [
+        "Iodine is produced by the reaction as it proceeds.",
+        "Thiosulfate reacts with the iodine as it forms: 2S2O3^2- + I2 -> S4O6^2- + 2I-.",
+        "Iodine cannot be detected while thiosulfate is still present.",
+        "Once all the thiosulfate has reacted, iodine builds up and forms a blue-black starch-iodine complex.",
+        "The fixed amount of thiosulfate corresponds to a fixed amount of iodine produced, so rate = fixed amount / time taken."
+      ]
+    },
+    {
+      "id": "Ch11-Q30(a)(ii)",
+      "no": "Q30(a)(ii)",
+      "marks": 3,
+      "topic": "Rate Equation From Runs",
+      "keywords": ["hydrogen peroxide", "iodide ions", "hydrogen ions", "rate equation", "orders", "results table"],
+      "question": "Using the student's results, deduce the rate equation for the reaction between hydrogen peroxide and iodide ions in acid.",
+      "status": "pending",
+      "answer": "Needs the results table from the PDF; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q30(a)(iii)",
+      "no": "Q30(a)(iii)",
+      "marks": 3,
+      "topic": "Rate Constant At 293 K",
+      "keywords": ["rate constant", "293 K", "Run 1", "hydrogen peroxide", "units", "rate equation"],
+      "question": "Calculate the rate constant at 293 K using the results from Run 1, including units.",
+      "status": "pending",
+      "answer": "Needs the Run 1 data and the rate equation from (a)(ii); not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q30(b)",
+      "no": "Q30(b)",
+      "marks": 4,
+      "topic": "Activation Energy From Two Temperatures",
+      "keywords": ["activation energy", "Arrhenius", "313 K", "293 K", "4.45 times", "kJ mol-1", "two temperatures"],
+      "question": "The rate is 4.45 times faster at 313 K than at 293 K. Calculate Ea for the reaction using the Arrhenius equation, to an appropriate number of significant figures, with units. R = 8.31 J mol-1 K-1.",
+      "status": "ready",
+      "answer": "Ea = +57 kJ mol-1 (2 s.f.; 56.9 kJ mol-1 unrounded)",
+      "steps": [
+        "Since rate is proportional to k, k2/k1 = 4.45 at the two temperatures.",
+        "ln(k2/k1) = ln 4.45 = 1.4929.",
+        "Use ln(k2/k1) = (Ea/R) x (1/T1 - 1/T2), with T1 = 293 K and T2 = 313 K.",
+        "1/T1 - 1/T2 = 1/293 - 1/313 = 2.181 x 10^-4 K-1.",
+        "Ea = R x ln(k2/k1) / (1/T1 - 1/T2) = 8.31 x 1.4929 / (2.181 x 10^-4) = 5.69 x 10^4 J mol-1.",
+        "Ea = +57 kJ mol-1 (2 s.f.)."
+      ]
+    },
+    {
+      "id": "Ch11-Q31",
+      "no": "Q31",
+      "marks": 1,
+      "topic": "Rate Equation From Slow Step",
+      "keywords": ["rate determining step", "intermediate", "E + F", "rate equation", "two step mechanism", "slow step"],
+      "question": "E + 2F -> G + H occurs by E + F -> J (slow) then J + F -> G + H (fast). What is the rate equation? Options: A rate = k[E][F], B rate = k[E][F]^2, C rate = k[F][J], D rate = k[E][F]^2[J].",
+      "status": "ready",
+      "answer": "A - rate = k[E][F]",
+      "steps": [
+        "The rate is set by the slow step, which is E + F -> J.",
+        "The rate equation uses the reactants of the slow step: rate = k[E][F].",
+        "The intermediate J is not in the rate equation and F in the fast step does not appear.",
+        "So option A is correct."
+      ]
+    },
+    {
+      "id": "Ch11-Q32",
+      "no": "Q32",
+      "marks": 1,
+      "topic": "Maxwell-Boltzmann Activation Energy",
+      "keywords": ["Maxwell-Boltzmann", "activation energy", "distribution curve", "proportion of particles", "energy"],
+      "question": "What can be deduced from the position of the activation energy on a Maxwell-Boltzmann distribution curve? Options: A number of particles in the rate determining step, B number of successful collisions per second, C order of reaction, D proportion of particles with sufficient energy to react.",
+      "status": "ready",
+      "answer": "D - the proportion of particles with sufficient energy to react",
+      "steps": [
+        "The Maxwell-Boltzmann curve shows the spread of molecular energies.",
+        "The activation energy marks the minimum energy needed for a successful collision.",
+        "The area under the curve beyond Ea gives the proportion of particles with enough energy to react.",
+        "So option D is correct."
+      ]
+    },
+    {
+      "id": "Ch11-Q33",
+      "no": "Q33",
+      "marks": 1,
+      "topic": "Monitoring Halogenoalkane Hydrolysis",
+      "keywords": ["2-bromobutane", "hydrolysis", "titration", "quenched samples", "monitoring", "sodium hydroxide"],
+      "question": "Which technique can be used to follow the progress of the hydrolysis of 2-bromobutane with aqueous NaOH? Options: A colorimetry, B measurement of gas volume change, C measurement of mass change, D titration of quenched samples.",
+      "status": "ready",
+      "answer": "D - titration of quenched samples",
+      "steps": [
+        "2-bromobutane and its products are colourless, so colorimetry cannot follow the reaction.",
+        "No gas is formed, so volume change is not a method.",
+        "The mass of the reactants does not change in a closed system, so mass change is not a method.",
+        "Samples can be quenched (cooled or diluted), then titrated to find the remaining OH- or the Br- formed, so option D works."
+      ]
+    },
+    {
+      "id": "Ch11-Q34",
+      "no": "Q34",
+      "marks": 1,
+      "topic": "Units Of Rate Constant",
+      "keywords": ["iodine", "propanone", "first order", "zero order", "rate constant units", "hydrogen ions", "s-1"],
+      "question": "Iodine reacts with propanone under acid conditions: first order in propanone, first order in H+, zero order in iodine. What are the units of the rate constant? Options: A dm3 mol-1 s-1, B mol dm-3 s-1, C s-1, D mol-2 dm6 s-1.",
+      "status": "ready",
+      "answer": "A - dm3 mol-1 s-1",
+      "steps": [
+        "Rate = k[propanone][H+]; iodine does not appear (zero order).",
+        "Rate units are mol dm-3 s-1.",
+        "[propanone][H+] has units (mol dm-3)^2 = mol2 dm-6.",
+        "k = (mol dm-3 s-1) / (mol2 dm-6) = dm3 mol-1 s-1, which is option A."
+      ]
+    },
+    {
+      "id": "Ch11-Q35(a)",
+      "no": "Q35(a)",
+      "marks": 1,
+      "topic": "Continuous Monitoring By Colour",
+      "keywords": ["bromate(V)", "bromide", "continuous monitoring", "colorimetry", "bromine", "acid"],
+      "question": "For BrO3- + 5Br- + 6H+ -> 3Br2 + 3H2O, which continuous monitoring method could be used? Options: A colorimetry, B mass change, C titration with sodium thiosulfate, D volume of gas evolved.",
+      "status": "ready",
+      "answer": "A - colorimetry",
+      "steps": [
+        "Bromine (Br2) is formed and is orange-brown.",
+        "Colorimetry measures the absorbance of this colour continuously as the reaction proceeds.",
+        "Titration is not continuous, and no gas is evolved, so B, C and D are not suitable."
+      ]
+    },
+    {
+      "id": "Ch11-Q35(b)",
+      "no": "Q35(b)",
+      "marks": 1,
+      "topic": "Units Of Rate Constant Fourth Order",
+      "keywords": ["rate constant units", "rate = k[BrO3-][Br-][H+]^2", "fourth order", "dm9 mol-3 s-1"],
+      "question": "For rate = k[BrO3-][Br-][H+]^2, what are the units of k? Options: A mol dm-3 s-1, B dm3 mol-1 s-1, C dm6 mol-2 s-1, D dm9 mol-3 s-1.",
+      "status": "ready",
+      "answer": "D - dm9 mol-3 s-1",
+      "steps": [
+        "Overall order = 1 + 1 + 2 = 4.",
+        "Units of [BrO3-][Br-][H+]^2 = (mol dm-3)^4 = mol4 dm-12.",
+        "k = (mol dm-3 s-1) / (mol4 dm-12) = mol-3 dm9 s-1.",
+        "This is option D."
+      ]
+    },
+    {
+      "id": "Ch11-Q35(c)",
+      "no": "Q35(c)",
+      "marks": 1,
+      "topic": "Effect Of Halving Concentrations",
+      "keywords": ["halving concentrations", "fourth order", "rate factor", "rate equation", "bromate(V)"],
+      "question": "For rate = k[BrO3-][Br-][H+]^2, all reactant concentrations are halved. By what factor does the rate change?",
+      "status": "ready",
+      "answer": "The rate decreases by a factor of 16 (rate becomes 1/16 of original)",
+      "steps": [
+        "Overall order = 1 + 1 + 2 = 4.",
+        "Halving each concentration multiplies the rate by (1/2)^1 x (1/2)^1 x (1/2)^2 = (1/2)^4.",
+        "(1/2)^4 = 1/16, so the rate falls to one-sixteenth of its original value."
+      ]
+    },
+    {
+      "id": "Ch11-Q35(d)",
+      "no": "Q35(d)",
+      "marks": 1,
+      "topic": "Rate Determining Step Identification",
+      "keywords": ["rate determining step", "mechanism", "bromate(V)", "steps", "rate equation"],
+      "question": "The first four steps of the mechanism are shown in a diagram not in the extracted text. Which is the rate-determining step? Options: A Step 1, B Step 2, C Step 3, D Step 4.",
+      "status": "pending",
+      "answer": "Mechanism steps are not in the extracted text; check against the PDF",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q36",
+      "no": "Q36",
+      "marks": 1,
+      "topic": "First Order Half-Life Calculation",
+      "keywords": ["first order", "half-life", "N2O5", "concentration after time", "1400 s", "4200 s"],
+      "question": "N2O5 decomposes in a first order reaction with half-life 1400 s at 45 C. Starting from 1.0 mol dm-3, what is the concentration after 4200 s? Options: A 0.875, B 0.500, C 0.250, D 0.125.",
+      "status": "ready",
+      "answer": "D - 0.125 mol dm-3",
+      "steps": [
+        "4200 s / 1400 s = 3 half-lives.",
+        "After each half-life the concentration halves: 1.0 -> 0.5 -> 0.25 -> 0.125 mol dm-3.",
+        "So after 4200 s the concentration is 0.125 mol dm-3, option D."
+      ]
+    },
+    {
+      "id": "Ch11-Q37(a)(i)",
+      "no": "Q37(a)(i)",
+      "marks": 1,
+      "topic": "Starch-Iodine End Point",
+      "keywords": ["starch", "iodine complex", "clock reaction", "final colour", "blue-black", "thiosulfate"],
+      "question": "State the final colour of the mixture containing the starch-iodine complex in the clock reaction.",
+      "status": "ready",
+      "answer": "Blue-black",
+      "steps": [
+        "Starch forms a complex with iodine when iodine is present in excess of thiosulfate.",
+        "This starch-iodine complex is blue-black, which is the end point of the clock reaction.",
+        "The colour appears as soon as all the thiosulfate has been used up and free iodine is present."
+      ]
+    },
+    {
+      "id": "Ch11-Q37(a)(ii)",
+      "no": "Q37(a)(ii)",
+      "marks": 2,
+      "topic": "Clock Reaction Assumptions",
+      "keywords": ["clock reaction", "thiosulfate concentration", "initial rate", "reciprocal of time", "low concentration", "approximation"],
+      "question": "Explain why the concentration of sodium thiosulfate must be low compared with the other initial concentrations, when the reciprocal of time is used as an approximate measure of initial rate.",
+      "status": "ready",
+      "answer": "Thiosulfate must be used up quickly so that the reactant concentrations stay nearly constant over the time measured",
+      "steps": [
+        "The time measured is the time for a fixed amount of thiosulfate to be used up.",
+        "If the thiosulfate concentration is low, only a small amount of iodine needs to form before the colour change.",
+        "So the other reactant concentrations change very little during the measured time.",
+        "The rate therefore stays approximately constant, so 1/time approximates the initial rate."
+      ]
+    },
+    {
+      "id": "Ch11-Q37(b)(i)",
+      "no": "Q37(b)(i)",
+      "marks": 3,
+      "topic": "Orders From Clock Data",
+      "keywords": ["hydrogen peroxide", "hydrogen ions", "iodide ions", "order", "clock reaction", "table", "justify"],
+      "question": "Using the table of results, deduce and justify the order of Reaction 1 with respect to hydrogen peroxide, hydrogen ions and iodide ions.",
+      "status": "pending",
+      "answer": "Needs the results table from the PDF; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q37(b)(ii)",
+      "no": "Q37(b)(ii)",
+      "marks": 1,
+      "topic": "Overall Rate Equation",
+      "keywords": ["overall rate equation", "reaction 1", "hydrogen peroxide", "orders", "rate constant"],
+      "question": "Write the overall rate equation for Reaction 1 using the orders from (b)(i).",
+      "status": "pending",
+      "answer": "Depends on the orders from (b)(i), which need the PDF table",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q37(b)(iii)",
+      "no": "Q37(b)(iii)",
+      "marks": 1,
+      "topic": "Iodine Reacted With Thiosulfate",
+      "keywords": ["thiosulfate", "iodine", "stoichiometry", "2:1", "8.50 x 10^-5 mol", "clock reaction"],
+      "question": "All four mixtures contained 8.50 x 10^-5 mol of sodium thiosulfate. Calculate the amount of iodine that reacted with it when the colour changed.",
+      "status": "ready",
+      "answer": "4.25 x 10^-5 mol of iodine",
+      "steps": [
+        "Equation: 2S2O3^2- + I2 -> S4O6^2- + 2I-.",
+        "Mole ratio thiosulfate : iodine = 2 : 1.",
+        "Moles of iodine = 8.50 x 10^-5 / 2 = 4.25 x 10^-5 mol."
+      ]
+    },
+    {
+      "id": "Ch11-Q37(b)(iv)",
+      "no": "Q37(b)(iv)",
+      "marks": 2,
+      "topic": "Rate Of Reaction With Respect To H2O2",
+      "keywords": ["rate of reaction", "hydrogen peroxide", "stoichiometry", "mixture 1", "0.050 dm3", "mol dm-3 s-1"],
+      "question": "Using the iodine amount from (b)(iii), the stoichiometry of Reaction 1 and data from Mixture 1 (total volume 0.050 dm3), calculate the rate with respect to H2O2 in mol dm-3 s-1.",
+      "status": "pending",
+      "answer": "Needs the time for Mixture 1 from the PDF table; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q37(b)(v)",
+      "no": "Q37(b)(v)",
+      "marks": 2,
+      "topic": "Rate Constant Of Reaction 1",
+      "keywords": ["rate constant", "reaction 1", "mixture 1", "units", "rate equation", "hydrogen peroxide"],
+      "question": "Calculate the rate constant of Reaction 1 using data from Mixture 1 and your answers to (b)(ii) and (b)(iv), with units.",
+      "status": "pending",
+      "answer": "Depends on (b)(ii) and (b)(iv), which need the PDF table",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q37(c)(i)",
+      "no": "Q37(c)(i)",
+      "marks": 5,
+      "topic": "Activation Energy From Graph",
+      "keywords": ["activation energy", "ln rate against 1/T", "misread thermometer", "gradient", "graph plotting", "clock reaction"],
+      "question": "Plot ln rate against 1/T, correcting for the thermometer misreading, and determine Ea in kJ mol-1 for Reaction 1.",
+      "status": "pending",
+      "answer": "Needs the temperature and rate data and the axes from the PDF; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q37(c)(ii)",
+      "no": "Q37(c)(ii)",
+      "marks": 2,
+      "topic": "Correct Thermometer Reading",
+      "keywords": ["thermometer", "misread", "graph", "correct temperature", "1/T"],
+      "question": "Use your graph to deduce the temperature the student who made the error should have read.",
+      "status": "pending",
+      "answer": "Needs the graph from (c)(i), which is not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q38(a)(i)",
+      "no": "Q38(a)(i)",
+      "marks": 3,
+      "topic": "Initial Rate From Graph",
+      "keywords": ["CH3CHO", "decomposition", "initial rate", "tangent", "concentration time graph", "1000 K"],
+      "question": "Calculate the initial rate of reaction for CH3CHO decomposition at 1000 K from its concentration-time graph, showing working on the graph.",
+      "status": "pending",
+      "answer": "Needs the concentration-time graph from the PDF; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q38(a)(ii)",
+      "no": "Q38(a)(ii)",
+      "marks": 2,
+      "topic": "Rate Equation From Half-Lives",
+      "keywords": ["half-life", "rate equation", "order", "CH3CHO", "graph working", "decomposition"],
+      "question": "Deduce the rate equation at 1000 K by determining two half-lives, showing working on the graph.",
+      "status": "pending",
+      "answer": "Needs the concentration-time graph from the PDF; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q38(b)",
+      "no": "Q38(b)",
+      "marks": 4,
+      "topic": "Activation Energy From Graph",
+      "keywords": ["activation energy", "ln k against 1/T", "CH3CHO", "gradient", "three significant figures", "kJ mol-1"],
+      "question": "From the graph of ln k against 1/T for CH3CHO decomposition between 1000 K and 1700 K, determine Ea to three significant figures with units.",
+      "status": "pending",
+      "answer": "Needs the plotted graph from the PDF; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q39",
+      "no": "Q39",
+      "marks": 1,
+      "topic": "SN1 Mechanism Statement",
+      "keywords": ["rate = k[RX]", "hydrolysis", "carbocation", "SN1", "SN2", "1-bromobutane", "nucleophile"],
+      "question": "The hydrolysis of RX in aqueous alkali has rate = k[RX]. Which statement is true? Options: A mechanism involves a carbocation intermediate, B SN2 mechanism, C RX could be 1-bromobutane, D the main nucleophile is H2O.",
+      "status": "ready",
+      "answer": "A - the mechanism involves a carbocation intermediate",
+      "steps": [
+        "Rate = k[RX] is first order in RX only, so the mechanism is SN1.",
+        "SN1 proceeds via a carbocation intermediate, so A is true.",
+        "SN2 would have a rate equation involving [OH-], so B is false.",
+        "1-bromobutane is primary and reacts by SN2, so C is false; OH- is the nucleophile, so D is false."
+      ]
+    },
+    {
+      "id": "Ch11-Q40(a)",
+      "no": "Q40(a)",
+      "marks": 6,
+      "topic": "Mechanisms From Rate Equations",
+      "keywords": ["1-bromobutane", "2-bromo-2-methylpropane", "rate equation", "SN2", "SN1", "hydroxide", "mechanism"],
+      "question": "Explain how the rate equations rate = k[CH3CH2CH2CH2Br][OH-] and rate = k[(CH3)3CBr] show the different mechanisms for reaction of hydroxide ions with these halogenoalkanes.",
+      "status": "ready",
+      "answer": "1-bromobutane: bimolecular SN2 with OH- in the rate-determining step; 2-bromo-2-methylpropane: unimolecular SN1 via a carbocation",
+      "steps": [
+        "1-bromobutane: rate = k[RX][OH-] is first order in each, so second order overall.",
+        "Both RX and OH- are in the rate-determining step, so the nucleophile attacks as the halide leaves (SN2, one concerted step).",
+        "2-bromo-2-methylpropane: rate = k[(CH3)3CBr] depends only on the halogenoalkane.",
+        "The C-Br bond breaks in the slow step to form a tertiary carbocation, which is then attacked by OH- (SN1).",
+        "The 2-bromo-2-methylpropane mechanism is therefore unimolecular in the rate-determining step.",
+        "The rate equations show the rate-determining step involves OH- for the primary case but not for the tertiary case."
+      ]
+    },
+    {
+      "id": "Ch11-Q40(b)(i)",
+      "no": "Q40(b)(i)",
+      "marks": 2,
+      "topic": "Colour Change With Thiosulfate",
+      "keywords": ["iodine", "starch", "colour change", "thiosulfate used up", "blue-black", "hydrogen peroxide iodide reaction"],
+      "question": "Give the colour change observed once all the thiosulfate has been used up in the hydrogen peroxide-iodide reaction.",
+      "status": "ready",
+      "answer": "Colourless changes to blue-black",
+      "steps": [
+        "While thiosulfate is present, iodine formed is reduced back to colourless iodide.",
+        "Once the thiosulfate is used up, iodine builds up.",
+        "Iodine with starch gives a blue-black colour, so the colour changes from colourless to blue-black."
+      ]
+    },
+    {
+      "id": "Ch11-Q40(b)(ii)",
+      "no": "Q40(b)(ii)",
+      "marks": 3,
+      "topic": "Rate Against Volume Graph",
+      "keywords": ["reaction rate", "volume of hydrogen peroxide", "graph", "reciprocal of time", "plot"],
+      "question": "Plot a graph of reaction rate (reciprocal of time) against volume of hydrogen peroxide using the table.",
+      "status": "pending",
+      "answer": "Needs the results table from the PDF; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q40(b)(iii)",
+      "no": "Q40(b)(iii)",
+      "marks": 1,
+      "topic": "Order From Rate Graph",
+      "keywords": ["order of reaction", "straight line", "hydrogen peroxide", "rate against volume", "justify"],
+      "question": "State and justify the order with respect to hydrogen peroxide from your graph of rate against volume.",
+      "status": "pending",
+      "answer": "Depends on the graph from (b)(ii), which needs the PDF table",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q40(c)(i)",
+      "no": "Q40(c)(i)",
+      "marks": 2,
+      "topic": "Initial Rate From Tangent",
+      "keywords": ["tangent", "rate at 15 seconds", "magnesium", "sulfuric acid", "continuous monitoring", "two significant figures"],
+      "question": "Using the tangent shown on the graph of the Mg and sulfuric acid reaction at 80 C, calculate the rate at 15 seconds to two significant figures with units.",
+      "status": "pending",
+      "answer": "Needs the graph and tangent from the PDF; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q40(c)(ii)",
+      "no": "Q40(c)(ii)",
+      "marks": 2,
+      "topic": "Effect Of Temperature On Graph",
+      "keywords": ["temperature change", "magnesium", "sulfuric acid", "gradient", "steeper", "continuous monitoring"],
+      "question": "The temperature is changed to 75 C. Draw on the graph the expected line if this were the only change, and justify similarities and differences.",
+      "status": "pending",
+      "answer": "Requires drawing on the graph from the PDF; cannot be checked from the text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q41",
+      "no": "Q41",
+      "marks": 1,
+      "topic": "Half-Life From Graph",
+      "keywords": ["half-life", "concentration of Q", "graph", "decomposition", "minutes"],
+      "question": "A graph of the concentration of Q during decomposition is shown. What is the half-life? Options: A 93 min, B 132 min, C 146 min, D 291 min.",
+      "status": "pending",
+      "answer": "Needs the concentration-time graph from the PDF to be checked; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q42",
+      "no": "Q42",
+      "marks": 1,
+      "topic": "Unsuitable Monitoring Method",
+      "keywords": ["bromine", "methanoic acid", "unsuitable method", "titration with acid", "mass loss", "colorimetry", "gas volume"],
+      "question": "In an experiment to determine the rate of Br2(aq) + HCOOH(aq) -> 2H+ + 2Br- + CO2, which method would NOT be suitable? Options: A quenching and titrating with an acid, B measuring the loss in mass, C colorimetry, D measuring the volume of gas produced.",
+      "status": "ready",
+      "answer": "A - quenching and titrating with an acid (an alkali is needed to titrate the acid formed)",
+      "steps": [
+        "Colorimetry works because bromine is coloured and is used up.",
+        "Mass loss works because CO2 escapes, so mass decreases as the reaction proceeds.",
+        "Gas volume works because CO2 is produced and can be collected and measured.",
+        "Quenching and titrating works only if the acid H+ produced is titrated with alkali; an acid titrant gives no information about the acid formed.",
+        "So option A is the unsuitable method."
+      ]
+    },
+    {
+      "id": "Ch11-Q43",
+      "no": "Q43",
+      "marks": 1,
+      "topic": "SN1 Chloroalkane Substrate",
+      "keywords": ["chloroalkane", "hydrolysis", "rate = k[RCl]", "tertiary", "SN1", "(CH3)3CCl"],
+      "question": "A chloroalkane RCl undergoes hydrolysis with rate = k[RCl]. Which chloroalkane is most likely? Options: A CH3CH2Cl, B (CH3)3CCl, C CH3CHClCH3, D (CH3)3CCH2Cl.",
+      "status": "ready",
+      "answer": "B - (CH3)3CCl (a tertiary chloroalkane)",
+      "steps": [
+        "Rate = k[RCl] is first order in RCl only, so the mechanism is SN1.",
+        "SN1 is fastest for tertiary halogenoalkanes because they form the most stable carbocation.",
+        "(CH3)3CCl is tertiary, so it is the most likely answer, option B."
+      ]
+    },
+    {
+      "id": "Ch11-Q44",
+      "no": "Q44",
+      "marks": 1,
+      "topic": "Rate Factor From Orders",
+      "keywords": ["second order NO", "first order O2", "rate factor", "doubling", "tripling", "2NO + O2"],
+      "question": "A reaction is second order in NO and first order in O2. If [NO] is doubled and [O2] is tripled, by what factor does the rate increase? Options: A 6, B 12, C 18, D 27.",
+      "status": "ready",
+      "answer": "B - 12",
+      "steps": [
+        "Doubling [NO] (second order) multiplies the rate by 2^2 = 4.",
+        "Tripling [O2] (first order) multiplies the rate by 3.",
+        "Total factor = 4 x 3 = 12, option B."
+      ]
+    },
+    {
+      "id": "Ch11-Q45(a)(i)",
+      "no": "Q45(a)(i)",
+      "marks": 1,
+      "topic": "Quenching Sample Reaction",
+      "keywords": ["quenching", "manganese(IV) oxide", "catalyst", "sample", "stops reaction", "hydrogen peroxide decomposition"],
+      "question": "Suggest why the reaction in a sample stops immediately when it is removed from the reaction mixture.",
+      "status": "ready",
+      "answer": "The sample is separated from the solid MnO2 catalyst and cooled, so decomposition stops",
+      "steps": [
+        "The reaction is catalysed by solid manganese(IV) oxide.",
+        "When a sample is removed, it no longer contains the catalyst (or is cooled).",
+        "Without the catalyst (or at lower temperature) the decomposition effectively stops."
+      ]
+    },
+    {
+      "id": "Ch11-Q45(a)(ii)",
+      "no": "Q45(a)(ii)",
+      "marks": 1,
+      "topic": "Order Without Concentration",
+      "keywords": ["order of reaction", "hydrogen peroxide", "titration", "proportional", "ratio", "concentration not needed"],
+      "question": "State why it is not necessary to calculate the concentration of the hydrogen peroxide solution when deducing the order with respect to hydrogen peroxide.",
+      "status": "ready",
+      "answer": "Only the relative change in concentration matters, so the order can be found from the ratio of changing volumes of titrant",
+      "steps": [
+        "The order is found by comparing how the rate changes as the concentration changes.",
+        "Concentration of the original H2O2 is a constant proportional factor in each sample.",
+        "Only the ratio between values matters, so the absolute value is not needed."
+      ]
+    },
+    {
+      "id": "Ch11-Q45(a)(iii)",
+      "no": "Q45(a)(iii)",
+      "marks": 3,
+      "topic": "Titre Against Time Graph",
+      "keywords": ["graph", "volume of manganate(VII)", "time", "titration", "hydrogen peroxide decomposition"],
+      "question": "Plot a graph of the volume of potassium manganate(VII) solution against time using the table of results.",
+      "status": "pending",
+      "answer": "Needs the results table from the PDF; not in the extracted text",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q45(a)(iv)",
+      "no": "Q45(a)(iv)",
+      "marks": 3,
+      "topic": "First Order Test From Graph",
+      "keywords": ["half-life", "first order", "graph", "hydrogen peroxide", "constant half-life", "working on graph"],
+      "question": "Use your graph to show the reaction is first order with respect to hydrogen peroxide, showing working on the graph.",
+      "status": "pending",
+      "answer": "Needs the graph from (a)(iii), which depends on the PDF table",
+      "steps": []
+    },
+    {
+      "id": "Ch11-Q45(b)",
+      "no": "Q45(b)",
+      "marks": 2,
+      "topic": "Mechanism Consistent With First Order",
+      "keywords": ["mechanism", "rate equation", "first order", "two mechanisms", "rate determining step", "hydrogen peroxide"],
+      "question": "Two possible mechanisms are proposed by students. Explain whether or not they are consistent with the reaction being first order. The mechanism diagrams are not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs the two proposed mechanisms from the PDF to be checked; not in the extracted text",
+      "steps": []
+    }
+  ]
+}

@@ -1,0 +1,1214 @@
+{
+  "code": "1A",
+  "title": "Chemistry for biologists",
+  "unit": "AS Unit 1",
+  "pdf": "papers/biology/01A-Chemistry-for-Biologists.pdf",
+  "questions": [
+    {
+      "id": "1A-Q1a(i)",
+      "no": "Q1(a)(i)",
+      "marks": 1,
+      "topic": "Sugar Sweetness Graph",
+      "keywords": [
+        "monosaccharide",
+        "disaccharide",
+        "sweetness",
+        "relative sweetness",
+        "graph",
+        "number of sugars"
+      ],
+      "question": "Which table row gives the correct number of monosaccharides and disaccharides shown in the sweetness graph?",
+      "status": "pending",
+      "answer": "Pending: the sweetness graph and the answer table rows are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q1a(ii)",
+      "no": "Q1(a)(ii)",
+      "marks": 1,
+      "topic": "Glycosidic Bond",
+      "keywords": [
+        "glycosidic bond",
+        "disaccharide",
+        "monosaccharide",
+        "ester",
+        "hydrogen bond",
+        "phosphodiester"
+      ],
+      "question": "Which bond joins two monosaccharides together to form a disaccharide? A ester, B glycosidic, C hydrogen, D phosphodiester.",
+      "status": "ready",
+      "answer": "B glycosidic bond.",
+      "steps": [
+        "A disaccharide is two monosaccharides joined together.",
+        "The link is a glycosidic bond, a C-O-C linkage formed between two sugar rings.",
+        "Ester bonds link fatty acids to glycerol, and phosphodiester bonds link nucleotides, so A and D are wrong.",
+        "Hydrogen bonds are weak and hold chains together rather than joining monomers, so C is wrong."
+      ]
+    },
+    {
+      "id": "1A-Q1a(iii)",
+      "no": "Q1(a)(iii)",
+      "marks": 2,
+      "topic": "Sweetness Conclusions",
+      "keywords": [
+        "sweetness",
+        "monosaccharide",
+        "disaccharide",
+        "relative sweetness",
+        "graph",
+        "conclusion"
+      ],
+      "question": "State two conclusions about the relative sweetness of monosaccharides and of disaccharides from the graph.",
+      "status": "pending",
+      "answer": "Pending: the values on the sweetness graph are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q1a(iv)",
+      "no": "Q1(a)(iv)",
+      "marks": 3,
+      "topic": "Investigating Sugar Sweetness",
+      "keywords": [
+        "sweetness",
+        "investigation",
+        "taste panel",
+        "sugar",
+        "concentration",
+        "control variables",
+        "receptor"
+      ],
+      "question": "Devise an investigation a student could carry out to confirm the sweetness data shown in the graph.",
+      "status": "ready",
+      "answer": "Make equal-concentration solutions of each sugar and have a blind taste panel rank their sweetness, repeating for reliability.",
+      "steps": [
+        "Prepare solutions of each monosaccharide and disaccharide at the same mass per volume (e.g. g per 100 cm3).",
+        "Keep temperature and volume of each sample the same so only the sugar type varies.",
+        "Use a blind taste panel, so the tasters do not know which sugar they are tasting.",
+        "Ask tasters to rank or score sweetness, because sweet taste comes from sugar binding to receptors on taste buds.",
+        "Repeat with several tasters and trials, then compare the mean scores with the graph."
+      ]
+    },
+    {
+      "id": "1A-Q1b",
+      "no": "Q1(b)",
+      "marks": 3,
+      "topic": "Amylose and Amylopectin",
+      "keywords": [
+        "amylose",
+        "amylopectin",
+        "starch",
+        "alpha glucose",
+        "glycosidic bond",
+        "branching",
+        "helix"
+      ],
+      "question": "Compare and contrast the structures of amylose and amylopectin, the two components of starch.",
+      "status": "ready",
+      "answer": "Both are polymers of alpha glucose; amylose is unbranched with 1-4 bonds and forms a helix, while amylopectin is branched with 1-4 and 1-6 bonds.",
+      "steps": [
+        "Similarity: both are polysaccharides made of alpha glucose monomers joined by glycosidic bonds.",
+        "Similarity: both contain 1-4 glycosidic bonds in the main chain.",
+        "Contrast: amylose is an unbranched chain, so it coils into a compact helix.",
+        "Contrast: amylopectin has 1-6 glycosidic branches, which make it more open and branched."
+      ]
+    },
+    {
+      "id": "1A-Q2a(i)",
+      "no": "Q2(a)(i)",
+      "marks": 1,
+      "topic": "Monosaccharide Formula",
+      "keywords": [
+        "monosaccharide",
+        "formula",
+        "carbohydrate",
+        "CnH2nOn",
+        "hexose",
+        "glucose"
+      ],
+      "question": "Which general formula is correct for a monosaccharide? A CnHnO2n, B CnH2nOn, C C2nHnOn, D C2nH2nOn.",
+      "status": "ready",
+      "answer": "B CnH2nOn.",
+      "steps": [
+        "Monosaccharides have carbon, hydrogen and oxygen in the ratio 1:2:1.",
+        "Glucose is C6H12O6, which fits CnH2nOn with n = 6.",
+        "A has too few hydrogen atoms, and C and D have twice as many carbons as oxygens, so they are wrong.",
+        "Glucose (C6H12O6) fits this formula with n = 6, confirming the general ratio."
+      ]
+    },
+    {
+      "id": "1A-Q2a(ii)",
+      "no": "Q2(a)(ii)",
+      "marks": 1,
+      "topic": "Disaccharide Formation",
+      "keywords": [
+        "disaccharide",
+        "monosaccharide",
+        "condensation",
+        "glycosidic bond",
+        "water removed",
+        "reaction"
+      ],
+      "question": "Name the reaction that joins two monosaccharides together to form a disaccharide.",
+      "status": "ready",
+      "answer": "Condensation reaction (with removal of water).",
+      "steps": [
+        "Two monosaccharides are joined by a glycosidic bond.",
+        "A hydroxyl group from one sugar and a hydrogen from another are lost as water.",
+        "Joining molecules and releasing water is called a condensation reaction.",
+        "Water is released in the reaction, so it is a condensation reaction and not hydrolysis."
+      ]
+    },
+    {
+      "id": "1A-Q2b(i)",
+      "no": "Q2(b)(i)",
+      "marks": 1,
+      "topic": "Carbohydrate Identification",
+      "keywords": [
+        "carbohydrate",
+        "diagram",
+        "monosaccharide",
+        "disaccharide",
+        "polysaccharide",
+        "identify"
+      ],
+      "question": "Identify the carbohydrate described in part (i) of the diagram.",
+      "status": "pending",
+      "answer": "Pending: the diagram describing each carbohydrate is missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q2b(ii)",
+      "no": "Q2(b)(ii)",
+      "marks": 1,
+      "topic": "Carbohydrate Identification",
+      "keywords": [
+        "carbohydrate",
+        "diagram",
+        "monosaccharide",
+        "disaccharide",
+        "polysaccharide",
+        "identify"
+      ],
+      "question": "Identify the carbohydrate described in part (ii) of the diagram.",
+      "status": "pending",
+      "answer": "Pending: the diagram describing each carbohydrate is missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q2b(iii)",
+      "no": "Q2(b)(iii)",
+      "marks": 1,
+      "topic": "Carbohydrate Identification",
+      "keywords": [
+        "carbohydrate",
+        "diagram",
+        "monosaccharide",
+        "disaccharide",
+        "polysaccharide",
+        "identify"
+      ],
+      "question": "Identify the carbohydrate described in part (iii) of the diagram.",
+      "status": "pending",
+      "answer": "Pending: the diagram describing each carbohydrate is missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q2b(iv)",
+      "no": "Q2(b)(iv)",
+      "marks": 1,
+      "topic": "Carbohydrate Identification",
+      "keywords": [
+        "carbohydrate",
+        "diagram",
+        "monosaccharide",
+        "disaccharide",
+        "polysaccharide",
+        "identify"
+      ],
+      "question": "Identify the carbohydrate described in part (iv) of the diagram.",
+      "status": "pending",
+      "answer": "Pending: the diagram describing each carbohydrate is missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q3a",
+      "no": "Q3(a)",
+      "marks": 2,
+      "topic": "Water Dipole",
+      "keywords": [
+        "water",
+        "dipole",
+        "polar molecule",
+        "partial charge",
+        "hydrogen bond",
+        "bent shape"
+      ],
+      "question": "Draw a diagram of a water molecule to show its dipole nature.",
+      "status": "ready",
+      "answer": "A bent H2O: oxygen labelled delta-minus, each hydrogen labelled delta-plus, bond angle about 104.5 degrees.",
+      "steps": [
+        "Draw one oxygen atom with two hydrogen atoms bonded to it at an angle of about 104.5 degrees, so the molecule is bent.",
+        "Label the oxygen with a partial negative charge (delta-minus), because oxygen is more electronegative and pulls the shared electrons toward it.",
+        "Label each hydrogen with a partial positive charge (delta-plus).",
+        "Optionally show the dipole arrow pointing toward the oxygen, showing the charge separation that makes water a polar solvent."
+      ]
+    },
+    {
+      "id": "1A-Q3b(i)",
+      "no": "Q3(b)(i)",
+      "marks": 3,
+      "topic": "Salt Solubility and Temperature",
+      "keywords": [
+        "solubility",
+        "temperature",
+        "salt",
+        "graph",
+        "water",
+        "effect of temperature"
+      ],
+      "question": "Describe the effect of temperature on the solubility of salts F, G and H from the graph.",
+      "status": "pending",
+      "answer": "Pending: the solubility graph for salts F, G and H is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q3b(ii)",
+      "no": "Q3(b)(ii)",
+      "marks": 1,
+      "topic": "Solubility Comparison",
+      "keywords": [
+        "solubility",
+        "salt G",
+        "salt H",
+        "30 C",
+        "graph",
+        "ratio"
+      ],
+      "question": "How many times more soluble is salt G than salt H at 30 C? Options: A 15.00, B 1.67, C 1.50, D 0.60.",
+      "status": "pending",
+      "answer": "Pending: the solubility values read from the graph at 30 C are needed, and the graph is missing.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q4a(i)",
+      "no": "Q4(a)(i)",
+      "marks": 3,
+      "topic": "Solubility and Temperature",
+      "keywords": [
+        "solubility",
+        "sodium chloride",
+        "glucose",
+        "temperature",
+        "graph",
+        "compare contrast"
+      ],
+      "question": "Compare and contrast the effect of temperature on the solubility of sodium chloride and glucose in water, using the graph.",
+      "status": "pending",
+      "answer": "Pending: the solubility-temperature graph for sodium chloride and glucose is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q4a(ii)",
+      "no": "Q4(a)(ii)",
+      "marks": 2,
+      "topic": "Molecular Mass of Glucose",
+      "keywords": [
+        "molecular mass",
+        "glucose",
+        "sodium chloride",
+        "formula mass",
+        "table",
+        "calculation"
+      ],
+      "question": "Using the table, calculate the molecular mass of glucose, given that the formula mass of sodium chloride is 58.44.",
+      "status": "pending",
+      "answer": "Pending: the table giving the glucose data is not in the text (glucose, C6H12O6, is 180).",
+      "steps": []
+    },
+    {
+      "id": "1A-Q4a(iii)",
+      "no": "Q4(a)(iii)",
+      "marks": 1,
+      "topic": "Molecular Mass Ratio",
+      "keywords": [
+        "molecular mass",
+        "glucose",
+        "sodium chloride",
+        "ratio",
+        "times greater",
+        "calculation"
+      ],
+      "question": "Calculate how many times greater the molecular mass of glucose is than the formula mass of sodium chloride.",
+      "status": "pending",
+      "answer": "Pending: depends on the glucose molecular mass read from the missing table in part (ii). If 180 is used, the answer is about 3.08.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q4a(iv)",
+      "no": "Q4(a)(iv)",
+      "marks": 2,
+      "topic": "Solubility Difference",
+      "keywords": [
+        "solubility",
+        "sodium chloride",
+        "glucose",
+        "polar",
+        "hydrogen bond",
+        "ionic",
+        "water"
+      ],
+      "question": "Suggest why sodium chloride and glucose differ in solubility in water.",
+      "status": "pending",
+      "answer": "Pending: the answer depends on which solute is more soluble from the graph, which is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q4b",
+      "no": "Q4(b)",
+      "marks": 2,
+      "topic": "Fatty Acid Solubility",
+      "keywords": [
+        "fatty acid",
+        "solubility",
+        "blood",
+        "non-polar",
+        "hydrophobic",
+        "hydrogen bond",
+        "glucose"
+      ],
+      "question": "Explain why fatty acids are less soluble in blood than glucose and sodium chloride.",
+      "status": "ready",
+      "answer": "Fatty acids have long non-polar hydrocarbon tails that cannot form hydrogen bonds or ion-dipole interactions with water, whereas glucose and NaCl are polar or ionic.",
+      "steps": [
+        "Blood is mainly water, which is a polar solvent.",
+        "Fatty acid tails are long hydrocarbon chains made of C-H bonds, which are non-polar.",
+        "Non-polar tails cannot form hydrogen bonds with water, so they repel water and stay poorly dissolved.",
+        "Glucose has many polar -OH groups that form hydrogen bonds with water, and NaCl is ionic, so both dissolve well."
+      ]
+    },
+    {
+      "id": "1A-Q5",
+      "no": "Q5",
+      "marks": 5,
+      "topic": "Water Properties",
+      "keywords": [
+        "water",
+        "polar",
+        "slightly positive",
+        "solvent",
+        "hydrolysis",
+        "disaccharide",
+        "lactose",
+        "galactose"
+      ],
+      "question": "Complete the description of water: the uneven charge makes it a polar molecule; hydrogen ends are slightly positive; it is an important solvent; reactions breaking disaccharides are hydrolysis; the disaccharide that breaks into glucose and galactose is lactose.",
+      "status": "ready",
+      "answer": "Polar; positive; solvent; hydrolysis; lactose.",
+      "steps": [
+        "Water has an uneven charge distribution (bent shape, O more electronegative), so it is a polar molecule.",
+        "The hydrogen ends have a slight positive charge (delta-plus), and the oxygen end is slightly negative.",
+        "Because it is polar it dissolves many substances, so water is an important solvent for transport.",
+        "Breaking a disaccharide by adding water is hydrolysis, which cleaves the glycosidic bond.",
+        "Lactose (glucose + galactose) is the disaccharide that breaks into glucose and galactose."
+      ]
+    },
+    {
+      "id": "1A-Q6a",
+      "no": "Q6(a)",
+      "marks": 1,
+      "topic": "Starch Structure",
+      "keywords": [
+        "starch",
+        "amylose",
+        "amylopectin",
+        "glycosidic bond",
+        "insoluble",
+        "polysaccharide",
+        "energy storage"
+      ],
+      "question": "How many of three statements about starch in living cells are correct: starch is a mixture of two polysaccharides; starch contains only 1-6 bonds; starch is insoluble in water? Options: A none, B one, C two, D three.",
+      "status": "ready",
+      "answer": "C two.",
+      "steps": [
+        "Statement 1 is correct: starch is a mixture of amylose and amylopectin, two polysaccharides.",
+        "Statement 2 is wrong: starch has 1-4 bonds in its main chains, and only amylopectin also has 1-6 branch bonds.",
+        "Statement 3 is correct: starch granules are insoluble in water, so it can be stored without dissolving.",
+        "Two statements are correct, so the answer is C."
+      ]
+    },
+    {
+      "id": "1A-Q6b(i)",
+      "no": "Q6(b)(i)",
+      "marks": 4,
+      "topic": "Disaccharide Structure",
+      "keywords": [
+        "disaccharide",
+        "glycosidic bond",
+        "sucrose",
+        "lactose",
+        "glucose",
+        "fructose",
+        "galactose"
+      ],
+      "question": "Complete the description of disaccharides: the covalent link is a glycosidic bond; sucrose and lactose both contain glucose; sucrose also contains fructose; lactose also contains galactose.",
+      "status": "ready",
+      "answer": "Glycosidic; glucose; fructose; galactose.",
+      "steps": [
+        "Two monosaccharides are joined by a covalent glycosidic bond.",
+        "Both sucrose and lactose contain one glucose unit.",
+        "Sucrose is glucose plus fructose.",
+        "Lactose is glucose plus galactose."
+      ]
+    },
+    {
+      "id": "1A-Q6b(ii)",
+      "no": "Q6(b)(ii)",
+      "marks": 1,
+      "topic": "Condensation Reaction",
+      "keywords": [
+        "gentiobiose",
+        "condensation",
+        "monosaccharides",
+        "identical",
+        "glycosidic bond",
+        "disaccharide"
+      ],
+      "question": "Gentiobiose is formed from two identical monosaccharides. Name the reaction that joins them.",
+      "status": "ready",
+      "answer": "Condensation reaction.",
+      "steps": [
+        "Two identical monosaccharides (glucose) are joined by a glycosidic bond.",
+        "Each join removes a molecule of water.",
+        "Joining molecules with loss of water is a condensation reaction.",
+        "The product is a disaccharide made of two glucose units, so the bond formed is a glycosidic bond."
+      ]
+    },
+    {
+      "id": "1A-Q6b(iii)",
+      "no": "Q6(b)(iii)",
+      "marks": 1,
+      "topic": "Molecular Mass of Disaccharide",
+      "keywords": [
+        "gentiobiose",
+        "molecular mass",
+        "disaccharide",
+        "condensation",
+        "water",
+        "calculation"
+      ],
+      "question": "Each monosaccharide in gentiobiose has molecular mass 180. Which is the molecular mass of gentiobiose? Options: A 144, B 162, C 342, D 360.",
+      "status": "ready",
+      "answer": "C 342.",
+      "steps": [
+        "Two monosaccharides of mass 180 give a total of 2 x 180 = 360.",
+        "Forming one glycosidic bond by condensation removes one water molecule, mass 18.",
+        "Gentiobiose mass = 360 - 18 = 342, which is option C.",
+        "Gentiobiose is a disaccharide, so its molecular mass is the sum of the monosaccharide masses minus the water lost."
+      ]
+    },
+    {
+      "id": "1A-Q7a(i)",
+      "no": "Q7(a)(i)",
+      "marks": 1,
+      "topic": "Glycosidic Bond Diagram",
+      "keywords": [
+        "glycosidic bond",
+        "sucrose",
+        "glucose",
+        "fructose",
+        "carbon 1",
+        "carbon 2",
+        "diagram"
+      ],
+      "question": "Complete the diagram to show a 1-2 glycosidic bond between glucose carbon 1 and fructose carbon 2.",
+      "status": "pending",
+      "answer": "Pending: the glucose and fructose diagram to complete is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q7a(ii)",
+      "no": "Q7(a)(ii)",
+      "marks": 2,
+      "topic": "Sucrose Formation Equation",
+      "keywords": [
+        "sucrose",
+        "glucose",
+        "fructose",
+        "formula equation",
+        "condensation",
+        "water",
+        "C12H22O11"
+      ],
+      "question": "Complete the formula equation for the reaction that makes sucrose from glucose and fructose.",
+      "status": "ready",
+      "answer": "C6H12O6 + C6H12O6 -> C12H22O11 + H2O",
+      "steps": [
+        "Glucose and fructose are both C6H12O6.",
+        "Sucrose is C12H22O11 (C6H12O6 + C6H12O6 - H2O).",
+        "The glycosidic bond forms by condensation, so one water molecule is released.",
+        "Balancing: 2 C6H12O6 gives C12H22O11 + H2O."
+      ]
+    },
+    {
+      "id": "1A-Q7b(i)",
+      "no": "Q7(b)(i)",
+      "marks": 1,
+      "topic": "Colour Intensity",
+      "keywords": [
+        "sucrose",
+        "colour intensity",
+        "concentration",
+        "directly proportional",
+        "test",
+        "reagent"
+      ],
+      "question": "Give a reason why colour intensity is directly proportional to the concentration of sucrose.",
+      "status": "ready",
+      "answer": "The more sucrose present, the more coloured product is formed, so more light is absorbed and the colour is more intense.",
+      "steps": [
+        "The test reagent reacts with sucrose (or its breakdown products) to form a coloured product.",
+        "Reagent is in excess, so the amount of coloured product depends on the amount of sucrose.",
+        "More coloured product absorbs more light, so intensity increases in proportion to concentration.",
+        "A higher concentration gives more coloured product, so absorbance rises in a straight line over the working range."
+      ]
+    },
+    {
+      "id": "1A-Q7b(ii)",
+      "no": "Q7(b)(ii)",
+      "marks": 1,
+      "topic": "Calibration Line",
+      "keywords": [
+        "calibration",
+        "origin",
+        "colour intensity",
+        "blank",
+        "background colour",
+        "sucrose"
+      ],
+      "question": "Suggest why the calibration line does not start at the origin of the graph.",
+      "status": "ready",
+      "answer": "Some colour or absorbance is present even with no sucrose, from the reagents or water, so the line is offset from zero.",
+      "steps": [
+        "A solution with zero sucrose should give zero colour, but the reagents may already be slightly coloured.",
+        "This background colour gives a reading above zero at zero concentration.",
+        "So the line shifts upward and does not pass through the origin.",
+        "A blank correction is needed to set the zero, because the offset shows background colour."
+      ]
+    },
+    {
+      "id": "1A-Q7b(iii)",
+      "no": "Q7(b)(iii)",
+      "marks": 1,
+      "topic": "Specificity of Sucrose Test",
+      "keywords": [
+        "maltose",
+        "lactose",
+        "sucrose test",
+        "specific",
+        "disaccharide",
+        "reagent"
+      ],
+      "question": "State why the concentration of maltose and lactose cannot be measured using the sucrose test.",
+      "status": "pending",
+      "answer": "Pending: the steps of the sucrose test chart are missing, so the specific reason cannot be confirmed from the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q8a",
+      "no": "Q8(a)",
+      "marks": 3,
+      "topic": "Starch Bond Table",
+      "keywords": [
+        "amylose",
+        "amylopectin",
+        "bonds",
+        "1-4 glycosidic",
+        "1-6 glycosidic",
+        "table",
+        "starch"
+      ],
+      "question": "Put one cross in each row of a table to show whether each bond is present in amylose and amylopectin.",
+      "status": "pending",
+      "answer": "Pending: the bonds table with the tick boxes is missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q8b",
+      "no": "Q8(b)",
+      "marks": 2,
+      "topic": "Amylose Loss Graph",
+      "keywords": [
+        "amylose",
+        "temperature",
+        "source of starch",
+        "loss",
+        "graph",
+        "conclusion"
+      ],
+      "question": "Describe two conclusions about the effect of temperature and source of starch on the loss of amylose, from the graph.",
+      "status": "pending",
+      "answer": "Pending: the amylose loss graph for the four starch sources at three temperatures is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q8c(i)",
+      "no": "Q8(c)(i)",
+      "marks": 3,
+      "topic": "Amylose and Amylopectin Loss",
+      "keywords": [
+        "rice",
+        "amylose",
+        "amylopectin",
+        "temperature",
+        "loss",
+        "cooking",
+        "graph"
+      ],
+      "question": "Compare and contrast the effects of temperature on the loss of amylose and amylopectin from rice, using the graph.",
+      "status": "pending",
+      "answer": "Pending: the rice cooking temperature graph is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q8c(ii)",
+      "no": "Q8(c)(ii)",
+      "marks": 3,
+      "topic": "Replacement Liquids in Rice",
+      "keywords": [
+        "rice",
+        "hardness",
+        "stickiness",
+        "replacement liquid",
+        "table",
+        "cooking"
+      ],
+      "question": "Comment on the effect of the replacement liquids on the hardness and stickiness of cooked rice, using the table.",
+      "status": "pending",
+      "answer": "Pending: the results table for hardness and stickiness of rice is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q8c(iii)",
+      "no": "Q8(c)(iii)",
+      "marks": 2,
+      "topic": "Measured Water Volume",
+      "keywords": [
+        "rice",
+        "measured volume",
+        "water",
+        "lid",
+        "absorbed",
+        "starch",
+        "table"
+      ],
+      "question": "Suggest why rice should be cooked in a measured volume of water, with the lid on, until all the liquid is absorbed, using the table.",
+      "status": "pending",
+      "answer": "Pending: the table of cooking results is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q9a",
+      "no": "Q9(a)",
+      "marks": 2,
+      "topic": "Water Dipole",
+      "keywords": [
+        "water",
+        "dipole",
+        "polar molecule",
+        "partial charge",
+        "hydrogen bond",
+        "bent shape"
+      ],
+      "question": "Draw a diagram of a water molecule to show its dipole nature.",
+      "status": "ready",
+      "answer": "A bent H2O: oxygen labelled delta-minus, each hydrogen labelled delta-plus, bond angle about 104.5 degrees.",
+      "steps": [
+        "Draw one oxygen atom with two hydrogen atoms bonded to it at an angle of about 104.5 degrees, so the molecule is bent.",
+        "Label the oxygen with a partial negative charge (delta-minus), because oxygen pulls the shared electrons toward itself.",
+        "Label each hydrogen with a partial positive charge (delta-plus).",
+        "The uneven charge makes water a polar molecule, which is why it is a good solvent."
+      ]
+    },
+    {
+      "id": "1A-Q9b",
+      "no": "Q9(b)",
+      "marks": 3,
+      "topic": "Carbohydrate Statements",
+      "keywords": [
+        "carbohydrates",
+        "statements",
+        "monosaccharide",
+        "disaccharide",
+        "polysaccharide",
+        "table"
+      ],
+      "question": "Match each statement about carbohydrates to the correct carbohydrate by putting one cross in each row of a table.",
+      "status": "pending",
+      "answer": "Pending: the statements table with the tick boxes is missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q10a(i)",
+      "no": "Q10(a)(i)",
+      "marks": 1,
+      "topic": "Lactose Breakdown",
+      "keywords": [
+        "lactose",
+        "hydrolysis",
+        "monosaccharides",
+        "condensation",
+        "breakdown",
+        "reaction type"
+      ],
+      "question": "What type of chemical reaction breaks a lactose molecule into two monosaccharides? A condensation, B esterification, C hydrogen bonding, D hydrolysis.",
+      "status": "ready",
+      "answer": "D hydrolysis.",
+      "steps": [
+        "Breaking a disaccharide into two monosaccharides cleaves the glycosidic bond.",
+        "The bond is broken by adding a molecule of water.",
+        "Breaking a molecule by adding water is hydrolysis, so the answer is D.",
+        "Hydrolysis is the reverse of condensation and is catalysed by enzymes such as lactase in the gut."
+      ]
+    },
+    {
+      "id": "1A-Q10a(ii)",
+      "no": "Q10(a)(ii)",
+      "marks": 1,
+      "topic": "Energy from Lactose",
+      "keywords": [
+        "lactose",
+        "energy",
+        "milk",
+        "kJ",
+        "calculation",
+        "per gram",
+        "200 g"
+      ],
+      "question": "Milk contains 4.9 g of lactose per 100 g. Each gram of lactose gives 16 kJ. Calculate the energy from the lactose in 200 g of milk.",
+      "status": "ready",
+      "answer": "156.8 kJ.",
+      "steps": [
+        "Lactose in 200 g of milk = 4.9 g x (200 / 100) = 9.8 g.",
+        "Energy = 9.8 g x 16 kJ per g.",
+        "9.8 x 16 = 156.8 kJ.",
+        "Check: 100 g gives 4.9 g, so 200 g gives double, 9.8 g, which is sensible."
+      ]
+    },
+    {
+      "id": "1A-Q10b",
+      "no": "Q10(b)",
+      "marks": 4,
+      "topic": "Glycogen and Starch Structure",
+      "keywords": [
+        "glycogen",
+        "starch",
+        "energy storage",
+        "alpha glucose",
+        "branching",
+        "amylopectin",
+        "compare contrast"
+      ],
+      "question": "Compare and contrast the structures of glycogen and starch, the carbohydrate energy stores.",
+      "status": "ready",
+      "answer": "Both are polymers of alpha glucose with 1-4 bonds and 1-6 branches; glycogen is more highly branched and more compact than starch.",
+      "steps": [
+        "Similarity: both are polymers of alpha glucose joined by 1-4 glycosidic bonds.",
+        "Similarity: both have 1-6 glycosidic branch points.",
+        "Contrast: glycogen has more frequent branches (about every 8-12 glucose units), which allows faster release of glucose.",
+        "Contrast: glycogen is more compact, while starch (amylose and amylopectin) is less branched."
+      ]
+    },
+    {
+      "id": "1A-Q10c(i)",
+      "no": "Q10(c)(i)",
+      "marks": 1,
+      "topic": "Saturated and Unsaturated Lipids",
+      "keywords": [
+        "saturated lipid",
+        "unsaturated lipid",
+        "double bond",
+        "fatty acid",
+        "hydrocarbon chain",
+        "difference"
+      ],
+      "question": "State one difference between the structure of a saturated lipid and an unsaturated lipid.",
+      "status": "ready",
+      "answer": "An unsaturated lipid has at least one C=C double bond in its fatty acid chain; a saturated lipid has only single C-C bonds.",
+      "steps": [
+        "Saturated fatty acids have no C=C double bonds in the hydrocarbon chain.",
+        "Unsaturated fatty acids have one or more C=C double bonds.",
+        "The double bonds cause kinks, which change how the molecules pack together.",
+        "Unsaturated fats are usually liquid at room temperature because kinks prevent tight packing."
+      ]
+    },
+    {
+      "id": "1A-Q10c(ii)",
+      "no": "Q10(c)(ii)",
+      "marks": 3,
+      "topic": "Triglyceride Synthesis",
+      "keywords": [
+        "triglyceride",
+        "glycerol",
+        "fatty acids",
+        "ester bond",
+        "condensation",
+        "water",
+        "synthesis"
+      ],
+      "question": "Describe how a triglyceride is synthesised.",
+      "status": "ready",
+      "answer": "Glycerol combines with three fatty acids by condensation reactions, forming three ester bonds and releasing three water molecules.",
+      "steps": [
+        "A triglyceride is made from one glycerol molecule and three fatty acid molecules.",
+        "Each fatty acid carboxyl (COOH) group reacts with a hydroxyl (OH) group on glycerol.",
+        "Each reaction is a condensation that removes one water molecule and forms an ester bond.",
+        "Three condensation reactions give one triglyceride and three water molecules."
+      ]
+    },
+    {
+      "id": "1A-Q11a",
+      "no": "Q11(a)",
+      "marks": 1,
+      "topic": "Elements in Amino Acids",
+      "keywords": [
+        "amino acid",
+        "elements",
+        "carbon",
+        "oxygen",
+        "nitrogen",
+        "magnesium",
+        "sulfur"
+      ],
+      "question": "Which pair of elements is found in all amino acids? A carbon and oxygen, B carbon and sulfur, C nitrogen and magnesium, D oxygen and magnesium.",
+      "status": "ready",
+      "answer": "A carbon and oxygen.",
+      "steps": [
+        "All amino acids contain carbon, hydrogen, oxygen and nitrogen.",
+        "Sulfur is only in some amino acids (e.g. cysteine), so B is wrong.",
+        "Magnesium is not part of amino acids, so C and D are wrong.",
+        "Carbon and oxygen are present in every amino acid, so A is correct."
+      ]
+    },
+    {
+      "id": "1A-Q11b",
+      "no": "Q11(b)",
+      "marks": 1,
+      "topic": "Peptide Bond Formation",
+      "keywords": [
+        "amino acids",
+        "peptide bond",
+        "enzyme",
+        "condensation",
+        "water",
+        "table"
+      ],
+      "question": "Which row of the table describes how two amino acids are joined together in an enzyme molecule?",
+      "status": "pending",
+      "answer": "Pending: the table with the rows describing the bonding is missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q11c",
+      "no": "Q11(c)",
+      "marks": 3,
+      "topic": "Enzyme Formation",
+      "keywords": [
+        "enzyme",
+        "amino acids",
+        "polypeptide",
+        "tertiary structure",
+        "folding",
+        "active site",
+        "bonds"
+      ],
+      "question": "Describe how a chain of amino acids can form an enzyme molecule.",
+      "status": "ready",
+      "answer": "The polypeptide chain folds into a specific 3D shape (tertiary structure), held by bonds between R groups, which forms the active site.",
+      "steps": [
+        "Amino acids join by peptide bonds (condensation) to form a polypeptide chain.",
+        "The sequence of R groups determines how the chain folds.",
+        "Hydrogen, ionic, disulfide and hydrophobic interactions between R groups hold the chain in a specific 3D shape.",
+        "This shape creates an active site with a complementary shape to the substrate, so the enzyme works as a catalyst."
+      ]
+    },
+    {
+      "id": "1A-Q12a",
+      "no": "Q12(a)",
+      "marks": 5,
+      "topic": "Protein Primary Structure",
+      "keywords": [
+        "primary structure",
+        "peptide bond",
+        "amino group",
+        "carboxyl group",
+        "condensation",
+        "translation",
+        "protein"
+      ],
+      "question": "Complete the account of the primary structure of a protein: amino acids are joined by peptide bonds, formed between the amino group of one and the carboxyl group of the next by a condensation reaction, during translation.",
+      "status": "ready",
+      "answer": "Peptide; amino; carboxyl; condensation; translation.",
+      "steps": [
+        "The primary structure is the sequence of amino acids joined by peptide bonds.",
+        "A peptide bond forms between the amino (NH2) group of one amino acid and the carboxyl (COOH) group of the next.",
+        "The bond forms by a condensation reaction, releasing a molecule of water.",
+        "The chain is built on the ribosome during translation, which is the stage of protein synthesis where the bonds are made."
+      ]
+    },
+    {
+      "id": "1A-Q12b",
+      "no": "Q12(b)",
+      "marks": 2,
+      "topic": "Protein Bond Types",
+      "keywords": [
+        "secondary structure",
+        "tertiary structure",
+        "hydrogen bond",
+        "disulfide bond",
+        "ionic bond",
+        "protein",
+        "table"
+      ],
+      "question": "Using the table, state which type of bonding is true for the secondary and tertiary structures of a protein.",
+      "status": "pending",
+      "answer": "Pending: the table of bond types for secondary and tertiary structure is missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q13a(i)",
+      "no": "Q13(a)(i)",
+      "marks": 2,
+      "topic": "Fibrous Protein Features",
+      "keywords": [
+        "fibrous protein",
+        "keratin",
+        "insoluble",
+        "polypeptide",
+        "repeating sequence",
+        "cross-links",
+        "structure"
+      ],
+      "question": "Describe two structural features of insoluble fibrous proteins such as keratin.",
+      "status": "ready",
+      "answer": "Long polypeptide chains lying parallel to form strands, with a regular repeating sequence of amino acids and cross-links that give strength.",
+      "steps": [
+        "Fibrous proteins consist of long, parallel polypeptide chains that form strands or sheets.",
+        "They have a regular, repeating sequence of a few amino acids, so the chains pack together closely.",
+        "Cross-links such as hydrogen bonds or disulfide bridges hold the chains together, giving strength.",
+        "Their shape is not globular, so the molecules are insoluble in water."
+      ]
+    },
+    {
+      "id": "1A-Q13a(ii)",
+      "no": "Q13(a)(ii)",
+      "marks": 3,
+      "topic": "Cysteine Structure",
+      "keywords": [
+        "cysteine",
+        "R group",
+        "amino acid",
+        "structure",
+        "thiol",
+        "keratin",
+        "disulfide"
+      ],
+      "question": "Draw the complete structure of the amino acid cysteine, given its R group.",
+      "status": "ready",
+      "answer": "A central alpha carbon bonded to H, an amino group (NH2), a carboxyl group (COOH) and the R group -CH2-SH.",
+      "steps": [
+        "Every amino acid has a central alpha carbon bonded to a hydrogen atom.",
+        "The alpha carbon is also bonded to an amino group (-NH2) and a carboxyl group (-COOH).",
+        "The fourth bond is to the R group, which for cysteine is -CH2-SH (a thiol group).",
+        "The thiol -SH groups of two cysteines can form a disulfide bridge (S-S), which cross-links keratin."
+      ]
+    },
+    {
+      "id": "1A-Q13b(i)",
+      "no": "Q13(b)(i)",
+      "marks": 2,
+      "topic": "Secondary Structure",
+      "keywords": [
+        "secondary structure",
+        "alpha helix",
+        "beta pleated sheet",
+        "hydrogen bonds",
+        "polypeptide",
+        "protein"
+      ],
+      "question": "Describe the secondary structure of a polypeptide.",
+      "status": "ready",
+      "answer": "The polypeptide chain folds into a regular shape, either an alpha helix or a beta pleated sheet, held in place by hydrogen bonds between C=O and N-H groups of the backbone.",
+      "steps": [
+        "Secondary structure is the local folding of the polypeptide backbone.",
+        "The two common forms are the alpha helix (a coil) and the beta pleated sheet (folded strands).",
+        "Hydrogen bonds form between the C=O group of one peptide bond and the N-H group of another.",
+        "These hydrogen bonds hold the regular shape in place."
+      ]
+    },
+    {
+      "id": "1A-Q13b(ii)",
+      "no": "Q13(b)(ii)",
+      "marks": 4,
+      "topic": "Temperature and Protein Structure",
+      "keywords": [
+        "secondary structure",
+        "temperature",
+        "polypeptide",
+        "primary structure",
+        "hydrogen bonds",
+        "investigation",
+        "table"
+      ],
+      "question": "Explain the results of the investigation into the effect of two temperatures on the lengths of the primary and secondary structures of a polypeptide, using the table.",
+      "status": "pending",
+      "answer": "Pending: the results table of primary and secondary structure lengths at two temperatures is missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q14a",
+      "no": "Q14(a)",
+      "marks": 1,
+      "topic": "Properties of Water",
+      "keywords": [
+        "water",
+        "hydrogen bonds",
+        "solvent",
+        "polar",
+        "partial charge",
+        "statements"
+      ],
+      "question": "Which statements about water are correct? 1 H2O is joined by hydrogen bonds; 2 water is a solvent; 3 oxygen has a small negative charge and hydrogens small positive charges. Options: A 1 and 2, B 1 and 3, C 2 and 3, D 1, 2 and 3.",
+      "status": "ready",
+      "answer": "C 2 and 3 only.",
+      "steps": [
+        "Statement 1 is wrong: the oxygen and hydrogen atoms in a water molecule are joined by covalent bonds, not hydrogen bonds (hydrogen bonds link molecules).",
+        "Statement 2 is correct: water is a polar solvent.",
+        "Statement 3 is correct: the uneven charge distribution makes oxygen slightly negative and hydrogen slightly positive.",
+        "So statements 2 and 3 are correct, answer C."
+      ]
+    },
+    {
+      "id": "1A-Q14b",
+      "no": "Q14(b)",
+      "marks": 3,
+      "topic": "Amylose and Amylopectin Structure",
+      "keywords": [
+        "amylose",
+        "amylopectin",
+        "structure",
+        "bonds",
+        "branching",
+        "table"
+      ],
+      "question": "Put one cross in each row of a table to show whether each structure is present in amylose and amylopectin.",
+      "status": "pending",
+      "answer": "Pending: the structure table with the tick boxes is missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q14c",
+      "no": "Q14(c)",
+      "marks": 1,
+      "topic": "Peptide Bond Diagram",
+      "keywords": [
+        "peptide bond",
+        "amino acids",
+        "condensation",
+        "water",
+        "C-N bond",
+        "diagram"
+      ],
+      "question": "Complete the diagram to show a peptide bond joining the two amino acids shown.",
+      "status": "ready",
+      "answer": "The carboxyl C of the first amino acid bonds to the amino N of the second, forming -CO-NH- and releasing one water molecule.",
+      "steps": [
+        "Identify the COOH group on the first amino acid and the NH2 group on the second.",
+        "Join the carbon of the COOH to the nitrogen of the NH2 with a single C-N bond.",
+        "Remove the OH from the COOH and one H from the NH2, which form a water molecule.",
+        "The bond formed is a peptide bond (-CO-NH-), made by condensation."
+      ]
+    },
+    {
+      "id": "1A-Q15a",
+      "no": "Q15(a)",
+      "marks": 2,
+      "topic": "Removing Insects from Galls",
+      "keywords": [
+        "galls",
+        "insects",
+        "protein",
+        "amino acids",
+        "investigation",
+        "contamination",
+        "respiration"
+      ],
+      "question": "Suggest why the insects were removed from the galls before the investigation into protein and amino acid concentrations.",
+      "status": "ready",
+      "answer": "The insects contain their own proteins and amino acids and respire, so leaving them in would change the results for the gall tissue.",
+      "steps": [
+        "The investigation measures the protein and amino acids in the plant tissue of the gall.",
+        "Insects are living organisms with their own proteins and amino acids.",
+        "If they stayed in the sample, their own molecules would be measured too.",
+        "Removing them ensures the results show only the plant gall tissue."
+      ]
+    },
+    {
+      "id": "1A-Q15b(i)",
+      "no": "Q15(b)(i)",
+      "marks": 1,
+      "topic": "Amino Acid Solubility",
+      "keywords": [
+        "alanine",
+        "aspartate",
+        "tryptophan",
+        "R group",
+        "non-polar solvent",
+        "solubility",
+        "table"
+      ],
+      "question": "Which row of the table describes the solubility of alanine, aspartate and tryptophan in a non-polar organic solvent, given their R groups in a diagram?",
+      "status": "pending",
+      "answer": "Pending: the R group diagram and the solubility table are missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q15b(ii)",
+      "no": "Q15(b)(ii)",
+      "marks": 2,
+      "topic": "Amino Acid Solubility Ratio",
+      "keywords": [
+        "histidine",
+        "leucine",
+        "solubility",
+        "g dm-3",
+        "calculation",
+        "ratio",
+        "solvent"
+      ],
+      "question": "Calculate how many times more soluble histidine (43.5 g per dm3) is than leucine, given the mass of leucine that dissolves in 250 cm3 of the same solvent.",
+      "status": "pending",
+      "answer": "Pending: the mass of leucine dissolving in 250 cm3 is garbled by a watermark in the text and cannot be read reliably.",
+      "steps": []
+    },
+    {
+      "id": "1A-Q15c",
+      "no": "Q15(c)",
+      "marks": 6,
+      "topic": "Gall Protein and Amino Acids",
+      "keywords": [
+        "galls",
+        "saliva",
+        "enzymes",
+        "protein",
+        "amino acids",
+        "healthy leaf",
+        "abundance",
+        "graphs"
+      ],
+      "question": "Explain the results showing protein and amino acid concentrations in healthy leaf tissue, leaf tissue with galls and galls, using both graphs and the table of five amino acids.",
+      "status": "pending",
+      "answer": "Pending: the two concentration graphs and the table of five amino acid abundances are not in the text.",
+      "steps": []
+    }
+  ]
+}

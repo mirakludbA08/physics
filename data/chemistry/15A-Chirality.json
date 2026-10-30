@@ -1,0 +1,205 @@
+{
+  "code": "Ch15A",
+  "title": "Chirality",
+  "unit": "A2 Unit 4",
+  "pdf": "papers/chemistry/15A-Chirality.pdf",
+  "questions": [
+    {
+      "id": "Ch15A-Q1",
+      "no": "Q1",
+      "marks": 1,
+      "topic": "Optical Activity Test",
+      "keywords": ["optical activity", "plane-polarised light", "chiral centre", "asymmetric carbon", "chirality", "enantiomers", "optically active", "four different groups"],
+      "question": "Which molecule (A to D) can rotate the plane of plane-polarised light? A H2NCH2COOH, B HOCH2CH2COOH, C ClCH2C(CH3)(Cl)COOH, D H2NC(CH3)2COOH.",
+      "status": "ready",
+      "answer": "C - ClCH2C(CH3)(Cl)COOH (it has a chiral carbon)",
+      "steps": [
+        "Only chiral molecules, which are non-superimposable mirror images, rotate plane-polarised light.",
+        "A chiral molecule needs a carbon atom bonded to four different groups.",
+        "A (glycine) has CH2 with two H atoms, so there is no chiral carbon.",
+        "B (HOCH2CH2COOH) has no carbon bonded to four different groups.",
+        "D has a central carbon with two identical CH3 groups, so it is achiral.",
+        "C has a central carbon bonded to CH3, Cl, CH2Cl and COOH, all different, so it is chiral and optically active."
+      ]
+    },
+    {
+      "id": "Ch15A-Q2",
+      "no": "Q2",
+      "marks": 1,
+      "topic": "Identical Structures",
+      "keywords": ["identical structures", "isomers", "structure a", "structure b", "structure c", "structure d", "stereoisomers", "chirality"],
+      "question": "Which of structures A to D is not identical to the other three?",
+      "status": "pending",
+      "answer": "Pending: structures A, B, C and D are diagrams that are missing from the text (only the option letters are present).",
+      "steps": []
+    },
+    {
+      "id": "Ch15A-Q3",
+      "no": "Q3",
+      "marks": 1,
+      "topic": "Citronellol Stereoisomerism",
+      "keywords": ["citronellol", "optical isomerism", "geometric isomerism", "stereoisomerism", "chiral centre", "e-z isomers", "rose oil", "geranium oil"],
+      "question": "Which types of stereoisomerism does citronellol (found in rose and geranium oils) show? A optical and geometric, B optical only, C geometric only, D neither.",
+      "status": "pending",
+      "answer": "Pending: the structure of citronellol (referred to as shown) is a diagram missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "Ch15A-Q4",
+      "no": "Q4",
+      "marks": 1,
+      "topic": "Number of Optical Isomers",
+      "keywords": ["optical isomers", "enantiomers", "chiral centres", "stereoisomers", "number of isomers", "molecule diagram", "2^n rule", "chirality"],
+      "question": "How many optical isomers does the molecule shown have? A 2, B 3, C 6, D 8.",
+      "status": "pending",
+      "answer": "Pending: the diagram of the molecule is missing from the text (only the options are present).",
+      "steps": []
+    },
+    {
+      "id": "Ch15A-Q5",
+      "no": "Q5",
+      "marks": 1,
+      "topic": "SN1 Racemic Product",
+      "keywords": ["sn1", "racemic mixture", "carbocation", "planar intermediate", "tertiary halogenoalkane", "optical isomer", "bromoalkane", "hydroxide ions"],
+      "question": "A single optical isomer of a bromoalkane RBr reacts with OH- by an SN1 mechanism to give a racemic alcohol. Which type of bromoalkane is most likely? A primary only, B secondary only, C tertiary only, D primary, secondary or tertiary.",
+      "status": "ready",
+      "answer": "C - tertiary only",
+      "steps": [
+        "A racemic product forms when OH- attacks a planar intermediate from either face with equal probability.",
+        "SN1 proceeds through a carbocation intermediate, which is planar.",
+        "A primary bromoalkane cannot be chiral at the C-Br carbon, since CH2Br has two H atoms, so it cannot be a single optical isomer.",
+        "A chiral C-Br carbon needs three different alkyl groups plus Br, which fits a tertiary bromoalkane.",
+        "Tertiary carbocations are the most stable, so SN1 is most favoured for tertiary bromoalkanes.",
+        "Therefore RBr is most likely a tertiary bromoalkane only."
+      ]
+    },
+    {
+      "id": "Ch15A-Q6",
+      "no": "Q6",
+      "marks": 1,
+      "topic": "Chiral Centres in Menthol",
+      "keywords": ["menthol", "chiral centres", "chirality", "asymmetric carbon", "peppermint", "stereocentre", "cyclohexanol", "chiral carbon"],
+      "question": "How many chiral centres are there in one molecule of menthol? A 1, B 2, C 3, D 4.",
+      "status": "pending",
+      "answer": "Pending: the structural diagram of menthol is missing from the text (only the options are present).",
+      "steps": []
+    },
+    {
+      "id": "Ch15A-Q7",
+      "no": "Q7",
+      "marks": 1,
+      "topic": "Racemisation in SN1",
+      "keywords": ["2-iodobutane", "sodium hydroxide", "racemisation", "carbocation", "enantiomers", "sn1", "planar intermediate", "nucleophilic substitution"],
+      "question": "A single enantiomer of 2-iodobutane reacts with sodium hydroxide and the product is a mixture of enantiomers. Why? A it is a nucleophilic substitution, B it proceeds via a negatively charged transition state, C it proceeds via a carbocation intermediate, D its rate depends on the concentration of 2-iodobutane.",
+      "status": "ready",
+      "answer": "C - the reaction proceeds via a carbocation intermediate",
+      "steps": [
+        "Forming a mixture of enantiomers from one enantiomer is racemisation.",
+        "Racemisation needs a planar, achiral intermediate that can be attacked from either face.",
+        "A carbocation intermediate has a planar sp2 carbon, as in an SN1 mechanism.",
+        "OH- attacks the planar carbocation from either side with equal probability.",
+        "Equal amounts of two mirror-image products form, giving a racemic mixture.",
+        "A is true of all substitutions but does not explain racemisation; B and D do not explain it either."
+      ]
+    },
+    {
+      "id": "Ch15A-Q8",
+      "no": "Q8",
+      "marks": 1,
+      "topic": "Racemic Mixture Pairs",
+      "keywords": ["racemic mixture", "enantiomers", "racemate", "equimolar", "optical isomers", "chiral pair", "mirror images", "pair of compounds"],
+      "question": "Which pair of compounds can form a racemic mixture when mixed?",
+      "status": "pending",
+      "answer": "Pending: the structures of the compound pairs (options) are diagrams missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "Ch15A-Q9",
+      "no": "Q9",
+      "marks": 1,
+      "topic": "Chiral Centres in Metoprolol",
+      "keywords": ["metoprolol", "chiral centres", "chirality", "beta blocker", "drug molecule", "asymmetric carbon", "stereocentre", "heart drug"],
+      "question": "How many chiral centres are there in a molecule of metoprolol? A 0, B 1, C 2, D 3.",
+      "status": "pending",
+      "answer": "Pending: the structural diagram of metoprolol is missing from the text (only the options are present).",
+      "steps": []
+    },
+    {
+      "id": "Ch15A-Q10",
+      "no": "Q10",
+      "marks": 1,
+      "topic": "Equimolar Pairs and Optical Rotation",
+      "keywords": ["racemic mixture", "equimolar", "plane-polarised light", "optical rotation", "enantiomers", "optically inactive", "racemate", "pair of molecules"],
+      "question": "Which pair of molecules, mixed in equimolar quantities, will not rotate the plane of plane-polarised light?",
+      "status": "pending",
+      "answer": "Pending: the structures of the molecule pairs (options) are diagrams missing from the text.",
+      "steps": []
+    },
+    {
+      "id": "Ch15A-Q11",
+      "no": "Q11",
+      "marks": 1,
+      "topic": "Counting Chiral Centres",
+      "keywords": ["chiral centres", "chirality", "asymmetric carbon", "molecule diagram", "stereocentres", "optical isomers", "four different groups", "counting"],
+      "question": "How many chiral centres are in the molecule shown? A 4, B 5, C 6, D 7.",
+      "status": "pending",
+      "answer": "Pending: the diagram of the molecule is missing from the text (only the options are present).",
+      "steps": []
+    },
+    {
+      "id": "Ch15A-Q12a(i)",
+      "no": "Q12(a)(i)",
+      "marks": 1,
+      "topic": "Stereoisomerism Definition",
+      "keywords": ["stereoisomer", "stereoisomerism", "structural formula", "spatial arrangement", "same molecular formula", "isomers", "definition", "three-dimensional arrangement"],
+      "question": "State what is meant by the term stereoisomer.",
+      "status": "ready",
+      "answer": "Stereoisomers have the same structural formula (atoms bonded in the same order) but a different arrangement of the atoms in space.",
+      "steps": [
+        "Stereoisomers have the same molecular formula.",
+        "They have the same structural formula, so the atoms are bonded in the same order.",
+        "They differ only in the spatial (3D) arrangement of their atoms.",
+        "Examples are optical isomers (enantiomers) and geometric (E/Z) isomers."
+      ]
+    },
+    {
+      "id": "Ch15A-Q12a(ii)",
+      "no": "Q12(a)(ii)",
+      "marks": 3,
+      "topic": "SN2 Rate Data",
+      "keywords": ["sn2", "rate equation", "order of reaction", "2-bromobutane", "hydroxide ions", "initial rates", "rate data table", "bimolecular"],
+      "question": "Show that the initial rate data for the hydrolysis of 2-bromobutane by hydroxide ions are consistent with an SN2 mechanism.",
+      "status": "pending",
+      "answer": "Pending: the table of initial rates for 2-bromobutane is missing from the text, so the data cannot be analysed.",
+      "steps": []
+    },
+    {
+      "id": "Ch15A-Q12a(iii)",
+      "no": "Q12(a)(iii)",
+      "marks": 3,
+      "topic": "Stereochemistry of SN2 Product",
+      "keywords": ["sn2", "stereochemistry", "inversion", "walden inversion", "single enantiomer", "optical activity", "2-bromobutane", "backside attack"],
+      "question": "A single stereoisomer of 2-bromobutane is hydrolysed. Explain the stereochemistry of the product.",
+      "status": "ready",
+      "answer": "The product is a single enantiomer (optically active, not racemic) with inverted configuration compared with the reactant.",
+      "steps": [
+        "Hydrolysis of 2-bromobutane by OH- follows an SN2 mechanism in one concerted step.",
+        "OH- attacks the carbon from the side opposite the C-Br bond (backside attack).",
+        "As the C-Br bond breaks, the other three groups flip like an umbrella, giving inversion of configuration (Walden inversion).",
+        "Only one enantiomer of the reactant is present, so only one enantiomer of the product forms.",
+        "There is no planar intermediate, so no racemisation occurs and the product is optically active."
+      ]
+    },
+    {
+      "id": "Ch15A-Q12b",
+      "no": "Q12(b)",
+      "marks": 3,
+      "topic": "SN1 Reaction Profile",
+      "keywords": ["sn1", "reaction profile", "energy profile", "carbocation", "activation energy", "rate-determining step", "2-bromo-2-methylbutane", "tertiary halogenoalkane"],
+      "question": "Explain how all the features of the reaction profile for the SN1 hydrolysis of 2-bromo-2-methylbutane are consistent with an SN1 mechanism.",
+      "status": "pending",
+      "answer": "Pending: the reaction profile diagram is missing from the text, so its features cannot be checked.",
+      "steps": []
+    }
+  ]
+}

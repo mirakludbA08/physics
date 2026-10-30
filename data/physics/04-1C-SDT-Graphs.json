@@ -1,0 +1,455 @@
+{
+  "code": "1C",
+  "title": "SDT graphs",
+  "unit": "AS Unit 1",
+  "pdf": "papers/physics/04-1C-SDT-Graphs.pdf",
+  "questions": [
+    {
+      "id": "1C-Q1a",
+      "no": "Q1(a)",
+      "marks": 4,
+      "topic": "Displacement To Velocity Graph",
+      "keywords": ["swimmer", "displacement-time graph", "velocity-time graph", "gradient", "100 m race", "constant velocity"],
+      "question": "A simplified displacement-time graph for a swimmer in a 100 m race is given. Draw the corresponding velocity-time graph, showing working.",
+      "status": "pending",
+      "answer": "Needs the simplified displacement-time graph from the PDF to read the gradients; each straight section gives a constant velocity (gradient) on the velocity-time graph.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q1b(i)",
+      "no": "Q1(b)(i)",
+      "marks": 2,
+      "topic": "Gliding Start Sketch",
+      "keywords": ["swimmer", "gliding underwater", "first 15 m", "displacement-time sketch", "actual motion", "acceleration from rest"],
+      "question": "The swimmer glides underwater for the first 15 m before using her arms and legs. Sketch the actual variation of displacement with time for the first 15 m.",
+      "status": "pending",
+      "answer": "Needs the axes and simplified graph from the PDF; the sketch should be a curve that starts with a gradient below the simplified line and increases as she speeds up.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q1b(ii)",
+      "no": "Q1(b)(ii)",
+      "marks": 2,
+      "topic": "Simplified Swimmer Motion",
+      "keywords": ["swimmer", "simplified graph", "constant velocity", "turns", "speed changes", "assumption"],
+      "question": "Explain one other way in which the motion of the swimmer has been simplified when drawing the displacement-time graph.",
+      "status": "ready",
+      "answer": "The graph shows constant velocity along each straight section, ignoring the changes in speed at the start, at turns and as the swimmer tires.",
+      "steps": [
+        "A straight line on a displacement-time graph means constant velocity.",
+        "A real swimmer's speed changes at the start, at the turns and as she gets tired.",
+        "Drawing straight sections ignores these changes, so the graph is a simplification."
+      ]
+    },
+    {
+      "id": "1C-Q2",
+      "no": "Q2",
+      "marks": 3,
+      "topic": "Acceleration From Velocity Graph",
+      "keywords": ["velocity-time graph", "acceleration", "gradient", "calculations", "varies with time", "object"],
+      "question": "A velocity-time graph for an object is shown. Describe how the acceleration varies with time, including calculations.",
+      "status": "pending",
+      "answer": "Needs the velocity-time graph from the PDF to calculate the gradient of each section; acceleration equals the gradient.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q3",
+      "no": "Q3",
+      "marks": 6,
+      "topic": "Skydiver Forces Graph Shape",
+      "keywords": ["skydiver", "parachute", "acceleration-time graph", "terminal velocity", "drag", "weight", "resultant force"],
+      "question": "A skydiver accelerates to terminal velocity, opens a parachute at time t1, and reaches a lower terminal velocity before landing at t2. Explain the shape of the acceleration-time graph in terms of the forces acting.",
+      "status": "pending",
+      "answer": "Needs the acceleration-time graph from the PDF to confirm the shape; expected: acceleration falls from g to zero, drops sharply negative when the parachute opens, then returns to zero.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q4ai",
+      "no": "Q4(a)(i)",
+      "marks": 1,
+      "topic": "Zero Initial Velocity On Graph",
+      "keywords": ["diving", "displacement-time graph", "zero initial velocity", "gradient at t = 0", "platform", "vertical displacement"],
+      "question": "The graph shows the vertical displacement of a man diving from a 12 m platform. State how the graph shows that his initial vertical velocity is zero.",
+      "status": "pending",
+      "answer": "Needs the displacement-time graph from the PDF; the answer is that its gradient (velocity) is zero at t = 0.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q4aii",
+      "no": "Q4(a)(ii)",
+      "marks": 2,
+      "topic": "Entry Velocity From Height",
+      "keywords": ["diver", "platform 12 m", "entry velocity", "water surface", "suvat", "free fall"],
+      "question": "A man dives from a platform 12 m above the water surface, starting from rest. Determine his vertical velocity as he enters the water.",
+      "status": "ready",
+      "answer": "v = sqrt(2 x 9.81 x 12) = 15.3 m s-1 downwards.",
+      "steps": [
+        "He starts with zero vertical velocity and falls 12 m with acceleration g.",
+        "Use v^2 = u^2 + 2as with u = 0, a = 9.81 m s-2 and s = 12 m.",
+        "v = sqrt(2 x 9.81 x 12) = sqrt(235.4) = 15.3 m s-1 downwards."
+      ]
+    },
+    {
+      "id": "1C-Q4b",
+      "no": "Q4(b)",
+      "marks": 2,
+      "topic": "Diver Velocity-Time Sketch",
+      "keywords": ["diver", "velocity-time graph", "constant acceleration", "constant deceleration", "entry into water", "sketch"],
+      "question": "Before entering the water the man has a constant vertical acceleration; after entering he has a constant vertical deceleration. Draw the velocity-time graph for his motion.",
+      "status": "ready",
+      "answer": "Straight line from zero to 15.3 m s-1 (downwards) at water entry, then a straight line with a smaller constant gradient falling back to zero.",
+      "steps": [
+        "Before entry the velocity increases uniformly from 0, so the graph is a straight line with constant gradient g.",
+        "At entry the speed is 15.3 m s-1, found in part (a)(ii).",
+        "After entry the velocity decreases at a constant rate, so the graph is a straight line sloping back towards zero.",
+        "The two straight sections meet at the entry point."
+      ]
+    },
+    {
+      "id": "1C-Q5",
+      "no": "Q5",
+      "marks": 1,
+      "topic": "Car Acceleration Graph",
+      "keywords": ["car", "constant forward force", "acceleration-time graph", "constant speed", "drag", "resultant force"],
+      "question": "A constant forward force acts on a car on a straight road. After a while the speed becomes constant. Which graph shows the variation of acceleration with time? Options are graphs A to D, not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs graphs A to D from the PDF; the correct one shows acceleration falling from a positive value to zero.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q6",
+      "no": "Q6",
+      "marks": 1,
+      "topic": "Rocket Acceleration Graph",
+      "keywords": ["model rocket", "constant thrust", "fuel runs out", "acceleration-time graph", "maximum height", "gravity"],
+      "question": "A model rocket is launched with a constant upward thrust while burning fuel, then the fuel runs out and it reaches maximum height at time T. Which graph could show its acceleration against time, ignoring the mass decrease? Options are not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs the graphs from the PDF; the correct graph shows a constant positive acceleration while thrust acts, then a step down to a constant -g after the fuel runs out.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q7",
+      "no": "Q7",
+      "marks": 1,
+      "topic": "Velocity To Displacement Graph",
+      "keywords": ["ball", "velocity-time graph", "displacement-time graph", "gradient", "area under graph", "options"],
+      "question": "The velocity-time graph for a ball is shown. Which graph of displacement against time could represent its motion? Options A to D are not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs the velocity-time graph and options A to D from the PDF; check that displacement increases where velocity is positive and its gradient matches the velocity.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q8",
+      "no": "Q8",
+      "marks": 1,
+      "topic": "Falling Ball Displacement Graph",
+      "keywords": ["ball falls through air", "displacement-time graph", "air resistance", "terminal velocity", "from rest", "curve"],
+      "question": "A ball falls through air from rest. Which graph shows its displacement against time? Options A to D are graphs not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs the graphs from the PDF; the correct one is a curve whose gradient (velocity) increases and then becomes constant at terminal velocity.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q9",
+      "no": "Q9",
+      "marks": 1,
+      "topic": "Graph Axes And Gradients",
+      "keywords": ["graphs", "y-axis quantity", "gradient", "table", "displacement", "velocity", "acceleration"],
+      "question": "Which row of the table gives a quantity plotted on the y-axis and the quantity represented by the gradient of the graph? The table is not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs the table from the PDF; the correct row pairs y = displacement with gradient = velocity, or y = velocity with gradient = acceleration.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q10",
+      "no": "Q10",
+      "marks": 1,
+      "topic": "Acceleration To Velocity Graph",
+      "keywords": ["car", "acceleration-time graph", "velocity-time graph", "area under graph", "change in velocity", "options"],
+      "question": "A car accelerates along a straight road, and the acceleration-time graph is shown. Which graph shows its velocity against time over the same interval? Graphs and options are not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs the acceleration-time graph and options A to D from the PDF; velocity at each time is the area under the acceleration graph up to that time.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q11",
+      "no": "Q11",
+      "marks": 1,
+      "topic": "Velocity To Displacement Match",
+      "keywords": ["particle", "velocity-time graph", "displacement-time graph", "gradient", "area", "options"],
+      "question": "The velocity-time graph for a particle is shown. Which of A to D is the displacement-time graph for this particle? Graphs are not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs the velocity-time graph and options A to D from the PDF to match the sign and gradient pattern.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q12",
+      "no": "Q12",
+      "marks": 1,
+      "topic": "Displacement From Areas",
+      "keywords": ["velocity-time graph", "constant acceleration", "area under graph", "total displacement", "P Q R", "signed area"],
+      "question": "A velocity-time graph shows a particle with constant acceleration. P, Q and R are the magnitudes of the areas shown. Which expression gives the total displacement? A P+Q; B P+Q-R; C R+Q; D R-Q. The graph is not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs the PDF graph to see which areas lie below the time axis; total displacement is the signed sum of the areas.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q13",
+      "no": "Q13",
+      "marks": 1,
+      "topic": "Student Walk Table",
+      "keywords": ["student walks", "displacement-time graph", "final displacement", "velocity", "6 seconds", "table row"],
+      "question": "A student walks for 6 seconds, shown on a displacement-time graph. Which row of the table gives the final displacement and velocity? The graph and table are not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs the displacement-time graph and table from the PDF; read the displacement at 6 s and the gradient of the graph.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q14",
+      "no": "Q14",
+      "marks": 1,
+      "topic": "Rocket Acceleration Change",
+      "keywords": ["rocket", "constant resultant force", "decreasing mass", "acceleration", "F = ma", "graph"],
+      "question": "A rocket accelerates horizontally due to a constant resultant force while its mass decreases as fuel is used. Which graph shows how its acceleration could change? Options A to D are graphs not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs graphs A to D from the PDF; by a = F/m with constant F and decreasing m, the correct graph shows acceleration increasing with time.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q15",
+      "no": "Q15",
+      "marks": 1,
+      "topic": "Ball Acceleration Graph",
+      "keywords": ["ball thrown up", "displacement-time graph", "acceleration-time graph", "constant acceleration", "gravity", "options"],
+      "question": "A ball is thrown vertically up and caught a few seconds later. Given its displacement-time graph, which graph shows its acceleration against time? Options A to D are not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs the graphs from the PDF; ignoring air resistance the correct graph is a horizontal line at -g for the whole flight.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q16",
+      "no": "Q16",
+      "marks": 1,
+      "topic": "Acceleration To Velocity Match",
+      "keywords": ["acceleration-time graph", "velocity-time graph", "area under graph", "object", "options", "change in velocity"],
+      "question": "The graph shows how the acceleration of an object varies with time. Which graph shows how its velocity varies with time? Graphs are not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs the acceleration-time graph and options A to D from the PDF; velocity changes by the area under the acceleration-time graph.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q17",
+      "no": "Q17",
+      "marks": 1,
+      "topic": "Drag And Decreasing Gradient",
+      "keywords": ["velocity-time graph", "liquid", "falling object", "drag force", "gradient decreases", "upthrust", "resultant force"],
+      "question": "Students are shown a velocity-time graph for an object falling through a liquid, in which the gradient decreases. Which explanation could be a reason? A The drag force increases; B The gravitational force increases; C The temperature of the liquid increases; D The upthrust decreases.",
+      "status": "ready",
+      "answer": "A - the drag force increases.",
+      "steps": [
+        "The gradient of a velocity-time graph is the acceleration.",
+        "Acceleration = (weight - upthrust - drag) / m, so the acceleration falls when the drag increases.",
+        "B would increase the acceleration, and D would increase the acceleration too.",
+        "C is not a direct cause of a smaller gradient at a given moment, so A is the reason."
+      ]
+    },
+    {
+      "id": "1C-Q18",
+      "no": "Q18",
+      "marks": 1,
+      "topic": "Ball Motion Description",
+      "keywords": ["ball", "velocity-time graph", "dropped", "thrown upwards", "rebound", "caught", "options"],
+      "question": "The velocity-time graph for the motion of a ball is shown. Which statement correctly describes it? A dropped and rebounds to original position; B dropped and rebounds to a lower position; C thrown upwards and caught at original position; D thrown upwards and caught at a higher position. The graph is not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs the velocity-time graph from the PDF to see the sign and the area pattern of the velocities.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q19",
+      "no": "Q19",
+      "marks": 1,
+      "topic": "Comparing Displacements From Graphs",
+      "keywords": ["two objects", "velocity-time graphs", "same start position", "displacement at 4 s", "area under graph", "P and Q"],
+      "question": "Objects P and Q start at the same position at t = 0. Their velocity-time graphs are shown. Which statement describes their positions at t = 4 s? The graphs are not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs the two velocity-time graphs from the PDF; compare the areas under each graph from 0 to 4 s.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q20",
+      "no": "Q20",
+      "marks": 1,
+      "topic": "Area Under Velocity Graph",
+      "keywords": ["area under velocity-time graph", "displacement", "acceleration", "speed", "time taken", "quantity"],
+      "question": "Which quantity is given by the area under a velocity-time graph? A acceleration; B displacement; C speed; D time taken.",
+      "status": "ready",
+      "answer": "B - displacement.",
+      "steps": [
+        "Area under a velocity-time graph = velocity x time, which is a displacement.",
+        "The gradient of this graph gives acceleration, not the area.",
+        "Speed and time taken are not represented by the area."
+      ]
+    },
+    {
+      "id": "1C-Q21",
+      "no": "Q21",
+      "marks": 1,
+      "topic": "Distance From Acceleration Graph",
+      "keywords": ["uniform acceleration", "from rest", "acceleration-time graph", "area X", "distance", "expression"],
+      "question": "An object moves from rest with uniform acceleration for time t. X is the area under its acceleration-time graph from 0 to t. Which expression gives the distance moved? The options are not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs the four options from the PDF; the correct expression is distance = 0.5 X t.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q22",
+      "no": "Q22",
+      "marks": 1,
+      "topic": "Describing Velocity Graph",
+      "keywords": ["velocity-time graph", "constant acceleration", "decreasing acceleration", "displacement", "motion description", "options"],
+      "question": "The graph shows how the velocity of an object varies with time. Which option describes its motion? A constant acceleration; B constant displacement; C decreasing acceleration; D decreasing displacement. The graph is not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs the velocity-time graph from the PDF to see whether its gradient is constant, decreasing, or zero.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q23",
+      "no": "Q23",
+      "marks": 1,
+      "topic": "Average Velocity From Graph",
+      "keywords": ["displacement-time graph", "running race", "average velocity", "displacement divided by time", "tangent gradient", "race"],
+      "question": "The displacement-time graph for a person running a race is shown. Which gives the average velocity over the race? A area between curve and x-axis from 0 to 4 h; B tangent gradient at 4 h; C tangent gradient at 2 h; D displacement at 4 h divided by 4 h.",
+      "status": "ready",
+      "answer": "D - displacement at 4 hours divided by a time of 4 hours.",
+      "steps": [
+        "Average velocity = total displacement / total time.",
+        "Displacement at 4 h divided by 4 h gives this directly.",
+        "A (area) does not give velocity on a displacement-time graph.",
+        "B and C are instantaneous velocities from tangents, not averages."
+      ]
+    },
+    {
+      "id": "1C-Q24",
+      "no": "Q24",
+      "marks": 1,
+      "topic": "Area Under Deceleration Graph",
+      "keywords": ["aeroplane", "deceleration-time graph", "shaded area", "change in velocity", "runway", "area under graph"],
+      "question": "An aeroplane lands and decelerates. Its deceleration against time graph has a shaded area. What does the shaded area represent? A displacement at time t; B change in displacement during t; C velocity at time t; D change in velocity during t.",
+      "status": "ready",
+      "answer": "D - the change in velocity of the aeroplane during time t.",
+      "steps": [
+        "Area under an acceleration-time graph = change in velocity.",
+        "Deceleration is the magnitude of negative acceleration, so the area is the drop in speed.",
+        "Velocity at time t and displacement are not given by this area."
+      ]
+    },
+    {
+      "id": "1C-Q25",
+      "no": "Q25",
+      "marks": 1,
+      "topic": "Distance From Train Graph",
+      "keywords": ["train journey", "velocity-time graph", "distance", "time 2t", "area under graph", "expression"],
+      "question": "The velocity-time graph for a train journey is shown. Which expression gives the distance travelled in time 2t? The options and graph are not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs the velocity-time graph and options from the PDF; the answer is the area under the graph from 0 to 2t.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q26a",
+      "no": "Q26(a)",
+      "marks": 2,
+      "topic": "Displacement Less Than Distance",
+      "keywords": ["bicycle", "displacement", "distance travelled", "vector", "path", "change of direction"],
+      "question": "A person rides a bicycle along a path. At the end, the magnitude of the displacement from the start is less than the distance travelled. Describe why.",
+      "status": "ready",
+      "answer": "Displacement is the straight-line distance from start to finish, while distance is the total length of the path, which is longer because the path is not straight.",
+      "steps": [
+        "Displacement is a vector: the straight-line distance and direction from the start to the end.",
+        "Distance is the total length of the route travelled.",
+        "The path changes direction, so the route length is greater than the straight-line displacement."
+      ]
+    },
+    {
+      "id": "1C-Q26b",
+      "no": "Q26(b)",
+      "marks": 3,
+      "topic": "Maximum Acceleration From Graph",
+      "keywords": ["bicycle", "velocity-time graph", "maximum acceleration", "steepest gradient", "tangent", "bicycle ride"],
+      "question": "The velocity-time graph for part of the bicycle ride is shown. Determine the maximum acceleration of the person.",
+      "status": "pending",
+      "answer": "Needs the velocity-time graph from the PDF to read the steepest gradient.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q27",
+      "no": "Q27",
+      "marks": 1,
+      "topic": "Constant Acceleration Displacement Graph",
+      "keywords": ["constant acceleration", "displacement-time graph", "parabola", "curve", "non-zero acceleration", "options"],
+      "question": "An object has a constant non-zero acceleration. Which displacement-time graph could represent its motion? Options A to D are graphs not in the extracted text.",
+      "status": "pending",
+      "answer": "Needs graphs A to D from the PDF; the correct one is a curved (parabolic) displacement-time graph.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q28a",
+      "no": "Q28(a)",
+      "marks": 4,
+      "topic": "Testing Negligible Air Resistance",
+      "keywords": ["skydiver", "11 m in 1.5 s", "mean acceleration", "0.95 g", "air resistance negligible", "suvat"],
+      "question": "A skydiver starts from rest and moves 11 m vertically in the first 1.5 s. Air resistance is negligible if the mean acceleration is greater than 0.95 g. Deduce whether air resistance was negligible during the first 1.5 s.",
+      "status": "ready",
+      "answer": "Yes. Mean acceleration = 9.78 m s-2, which is greater than 0.95g = 9.32 m s-2, so air resistance was negligible.",
+      "steps": [
+        "Starting from rest, s = 0.5at^2 gives a = 2s / t^2.",
+        "a = 2 x 11 / 1.5^2 = 22 / 2.25 = 9.78 m s-2.",
+        "0.95g = 0.95 x 9.81 = 9.32 m s-2.",
+        "9.78 is greater than 9.32, so the air resistance was negligible during the first 1.5 s."
+      ]
+    },
+    {
+      "id": "1C-Q28b",
+      "no": "Q28(b)",
+      "marks": 2,
+      "topic": "Velocity Graph From Displacement",
+      "keywords": ["skydiver", "displacement-time graph", "velocity-time sketch", "parachute", "gradient", "terminal velocity"],
+      "question": "The displacement-time graph for the skydiver before the parachute opens is shown. Sketch the velocity-time graph for the same period.",
+      "status": "pending",
+      "answer": "Needs the displacement-time graph from the PDF; the sketch is the gradient of that curve, rising then levelling off at terminal velocity.",
+      "steps": []
+    },
+    {
+      "id": "1C-Q28c",
+      "no": "Q28(c)",
+      "marks": 4,
+      "topic": "Energy Conservation Skydiver",
+      "keywords": ["skydiver", "energy conservation", "gravitational potential energy", "kinetic energy", "terminal velocity", "thermal energy", "air resistance"],
+      "question": "After jumping, the skydiver accelerates and reaches terminal velocity before opening his parachute. Explain how energy conservation applies before the parachute opens.",
+      "status": "ready",
+      "answer": "Gravitational potential energy lost equals kinetic energy gained plus energy dissipated by air resistance (thermal energy); at terminal velocity the kinetic energy is constant, so all lost potential energy becomes thermal energy.",
+      "steps": [
+        "Total energy is conserved: the skydiver's loss of gravitational potential energy is the source of all other energy.",
+        "While accelerating, part of the lost potential energy becomes kinetic energy, increasing his speed.",
+        "The rest is transferred by work done against air resistance into thermal energy of the air.",
+        "At terminal velocity the kinetic energy is constant, so all the lost potential energy becomes thermal energy in the surroundings."
+      ]
+    },
+    {
+      "id": "1C-Q28d",
+      "no": "Q28(d)",
+      "marks": 5,
+      "topic": "Forces After Parachute Opens",
+      "keywords": ["parachute", "drag increase", "resultant force", "deceleration", "terminal velocity", "acceleration varies", "weight"],
+      "question": "After the parachute opens, the skydiver's speed changes and he reaches a new terminal velocity. Explain how the forces cause his acceleration to vary.",
+      "status": "ready",
+      "answer": "Opening the parachute increases drag above weight, giving a large upward resultant and deceleration; as speed falls, drag falls and the deceleration reduces to zero when drag equals weight at the new terminal velocity.",
+      "steps": [
+        "When the parachute opens, the drag suddenly increases, so drag becomes greater than weight.",
+        "The resultant force is now upwards, so the skydiver decelerates strongly.",
+        "As his speed falls, the drag decreases, so the resultant force and deceleration get smaller.",
+        "The acceleration tends to zero as drag becomes equal to weight.",
+        "At the new terminal velocity the forces balance and the acceleration is zero."
+      ]
+    }
+  ]
+}

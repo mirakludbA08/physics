@@ -1,0 +1,1917 @@
+{
+  "code": "6C",
+  "title": "Decomposition and forensics",
+  "unit": "A2 (inferred, verify unit)",
+  "pdf": "papers/biology/06C-Decomposition-Forensics.pdf",
+  "questions": [
+    {
+      "id": "6C-Q1a(i)",
+      "no": "Q1(a)(i)",
+      "marks": 2,
+      "topic": "Plastic Breakdown Reasons",
+      "keywords": ["plastic", "polymer", "monomer", "microorganisms", "enzymes", "carbon source", "nutrients", "biodegradation"],
+      "question": "Explain why scientists think microorganisms could break down plastics, which are carbon-based polymers of repeating monomers, to obtain nutrients.",
+      "status": "ready",
+      "answer": "Plastics are carbon-based polymers, so they hold carbon and energy that microbes can use if enzymes can break the polymers into monomers.",
+      "steps": [
+        "Plastics are polymers made of repeating monomers joined by chemical bonds.",
+        "Microbes can secrete enzymes (hydrolases) that break these bonds, releasing smaller molecules.",
+        "The monomers contain carbon and chemical energy that the microbe can absorb.",
+        "Using them as a carbon and energy source provides nutrients for growth."
+      ]
+    },
+    {
+      "id": "6C-Q1a(ii)",
+      "no": "Q1(a)(ii)",
+      "marks": 3,
+      "topic": "Evolution of Plastic Degradation",
+      "keywords": ["mutation", "variation", "natural selection", "allele", "evolution", "enzyme", "plastic", "microorganisms"],
+      "question": "Explain how microorganisms could evolve the ability to break down plastics.",
+      "status": "ready",
+      "answer": "Random mutation gives a variant with an enzyme that breaks plastic; selection favours it, and the allele spreads through the population.",
+      "steps": [
+        "Random mutations in microbial DNA create variation between individuals.",
+        "A mutation may produce an enzyme able to hydrolyse plastic polymers.",
+        "Microbes with this enzyme gain nutrients and survive and reproduce better (natural selection).",
+        "The allele is inherited, so its frequency increases over generations until the population can degrade plastic."
+      ]
+    },
+    {
+      "id": "6C-Q1b",
+      "no": "Q1(b)",
+      "marks": 1,
+      "topic": "PET Reaction Table",
+      "keywords": ["PET", "polyethylene terephthalate", "reaction 1", "reaction 2", "bacteria", "table", "diagram", "hydrolysis"],
+      "question": "Which row of the table describes reaction 1 and reaction 2 in the PET breakdown diagram?",
+      "status": "pending",
+      "answer": "Needs the PET breakdown diagram and the table of rows (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q2a(i)",
+      "no": "Q2(a)(i)",
+      "marks": 3,
+      "topic": "Rainforest Area Calculation",
+      "keywords": ["percentage", "standard form", "rainforest", "area", "km2", "calculation", "Malaysia"],
+      "question": "Malaysia lost 14.4% of its rainforest from 2000 to 2012, equal to 47 278 km2. Calculate the rainforest area in 2000, in standard form.",
+      "status": "ready",
+      "answer": "3.28 x 10^5 km2 (about 328 000 km2).",
+      "steps": [
+        "Let the 2000 rainforest area be A km2.",
+        "The loss is 14.4% of A, so 0.144 x A = 47 278 km2.",
+        "A = 47 278 / 0.144 = 328 319 km2.",
+        "Round to 3 significant figures and write in standard form: 3.28 x 10^5 km2."
+      ]
+    },
+    {
+      "id": "6C-Q2a(ii)",
+      "no": "Q2(a)(ii)",
+      "marks": 2,
+      "topic": "Habitat Loss Effects",
+      "keywords": ["biodiversity", "population", "habitat loss", "niche", "food", "shelter", "carrying capacity", "species"],
+      "question": "Explain why a decrease in rainforest area reduces both biodiversity and populations within the rainforest.",
+      "status": "ready",
+      "answer": "Less habitat means fewer niches, food and shelter, so fewer species and smaller populations can be supported.",
+      "steps": [
+        "The rainforest provides food, shelter and breeding sites for organisms.",
+        "Less area means fewer niches, so fewer species can survive (lower biodiversity).",
+        "Less food and space lowers the carrying capacity for each remaining species.",
+        "Smaller populations are more at risk of inbreeding and extinction."
+      ]
+    },
+    {
+      "id": "6C-Q2b(i)",
+      "no": "Q2(b)(i)",
+      "marks": 2,
+      "topic": "Mimicry Adaptation",
+      "keywords": ["adaptation", "mimicry", "Batesian", "behaviour", "predator", "bee", "clearwing", "moth"],
+      "question": "Explain which examples of adaptation are illustrated by the Oriental blue clearwing moth, which resembles a bee and drinks where bees drink.",
+      "status": "ready",
+      "answer": "Mimicry (Batesian: looks like a stinging bee to deter predators) and behaviour (drinking where bees drink).",
+      "steps": [
+        "Blue bands, transparent wings and fur copy the appearance of a bee.",
+        "Predators that avoid stinging bees also avoid the moth, so this is Batesian mimicry.",
+        "Drinking in puddles where bees drink is a behavioural adaptation.",
+        "Both traits increase the moth's chance of survival."
+      ]
+    },
+    {
+      "id": "6C-Q2b(ii)",
+      "no": "Q2(b)(ii)",
+      "marks": 2,
+      "topic": "Advantages of Mimicry",
+      "keywords": ["mimicry", "bee", "predators", "advantages", "protection", "water", "survival", "clearwing"],
+      "question": "Suggest two advantages to the Oriental blue clearwing of resembling bees.",
+      "status": "ready",
+      "answer": "Predators avoid it, so it is eaten less often; it can share bee water sources with less risk of attack.",
+      "steps": [
+        "Predators that avoid bee stings also avoid the moth.",
+        "So it is less likely to be eaten, which raises its survival.",
+        "Sharing puddles with bees may let it drink without being attacked.",
+        "Both advantages increase the moth's chance of reproducing."
+      ]
+    },
+    {
+      "id": "6C-Q2b(iii)",
+      "no": "Q2(b)(iii)",
+      "marks": 3,
+      "topic": "DNA Comparison Method",
+      "keywords": ["DNA", "PCR", "sequencing", "comparison", "museum specimen", "base sequence", "DNA profiling", "relatedness"],
+      "question": "Describe how the DNA of the recently rediscovered moths could be compared with the DNA of the 1887 specimen.",
+      "status": "ready",
+      "answer": "Extract and amplify DNA from both, sequence or profile it, then compare base sequences to count differences.",
+      "steps": [
+        "Extract DNA from the 1887 specimen and from the recently collected moths.",
+        "Amplify the DNA (e.g. by PCR) because old DNA is degraded and in small amounts.",
+        "Sequence the same gene(s) in both samples, or run DNA profiles by gel electrophoresis.",
+        "Compare the base sequences or banding patterns and count the differences.",
+        "Fewer differences mean the moths are more closely related."
+      ]
+    },
+    {
+      "id": "6C-Q3a",
+      "no": "Q3(a)",
+      "marks": 1,
+      "topic": "Measuring Body Temperature",
+      "keywords": ["body temperature", "corpse", "probe", "liver", "measurement", "time since death", "thermometer"],
+      "question": "State how the temperature of a dead body should be measured.",
+      "status": "ready",
+      "answer": "Insert a temperature probe into the liver (body core).",
+      "steps": [
+        "Use a digital temperature probe or thermometer.",
+        "Push it into the liver, which is deep in the body core.",
+        "Core temperature is less affected by air and surface temperature than skin is.",
+        "Record the reading for use with the cooling rate."
+      ]
+    },
+    {
+      "id": "6C-Q3b(i)",
+      "no": "Q3(b)(i)",
+      "marks": 2,
+      "topic": "Cooling Rate Calculation",
+      "keywords": ["body temperature", "cooling rate", "time since death", "calculation", "12 hours", "degrees", "estimate"],
+      "question": "Body temperature falls 0.78 deg C per hour for the first 12 hours, then 0.4 deg C per hour. Estimate the time since death if the temperature fell 11.5 deg C (nearest hour).",
+      "status": "ready",
+      "answer": "17 hours.",
+      "steps": [
+        "First 12 hours: 0.78 x 12 = 9.36 deg C lost.",
+        "Remaining drop: 11.5 - 9.36 = 2.14 deg C.",
+        "Time at 0.4 deg C per hour: 2.14 / 0.4 = 5.35 h.",
+        "Total = 12 + 5.35 = 17.35 h, which is 17 hours to the nearest hour."
+      ]
+    },
+    {
+      "id": "6C-Q3b(ii)",
+      "no": "Q3(b)(ii)",
+      "marks": 2,
+      "topic": "Environment and Cooling",
+      "keywords": ["cold environment", "heat loss", "cooling rate", "temperature gradient", "estimate", "time since death", "overestimate"],
+      "question": "Explain why the time-since-death estimate would be different if the body had been left in a colder place.",
+      "status": "ready",
+      "answer": "A colder place increases heat loss, so the body cools faster and the estimate would be too high (an overestimate).",
+      "steps": [
+        "The estimate assumes a standard cooling rate.",
+        "A colder place increases the temperature gradient between body and surroundings.",
+        "Heat is then lost faster by conduction, convection and radiation.",
+        "The body reaches the measured temperature sooner than the formula assumes, so the time is overestimated."
+      ]
+    },
+    {
+      "id": "6C-Q3c",
+      "no": "Q3(c)",
+      "marks": 3,
+      "topic": "Limits of Stiffness",
+      "keywords": ["rigor mortis", "muscle stiffness", "ATP", "temperature", "muscle contraction", "variation", "time since death", "limitations"],
+      "question": "Explain why body stiffness due to muscle contraction, used alone, is insufficient to estimate time since death accurately.",
+      "status": "ready",
+      "answer": "Stiffness depends on temperature, exertion, muscle mass and age, and it peaks then fades, so one stiffness value can match two different times.",
+      "steps": [
+        "Stiffness (rigor mortis) develops as ATP runs out and actin-myosin cross-bridges stay locked.",
+        "Its onset and extent vary with temperature, since cold slows the process.",
+        "Exertion before death, muscle mass, age and health change the ATP and glycogen reserves, altering stiffness.",
+        "Stiffness rises then falls as muscle proteins break down, so the same stiffness can occur at different times.",
+        "It should therefore be combined with body temperature or other methods."
+      ]
+    },
+    {
+      "id": "6C-Q4a(i)",
+      "no": "Q4(a)(i)",
+      "marks": 1,
+      "topic": "Universal Donor Blood",
+      "keywords": ["blood type", "universal donor", "antigens", "transfusion", "type O", "red blood cells", "agglutination"],
+      "question": "Which blood type can be used for all blood transfusions? Options: A type A, B type B, C type AB, D type O.",
+      "status": "ready",
+      "answer": "D - blood type O, because its red cells have no A or B antigens.",
+      "steps": [
+        "Blood type is set by the antigens on red blood cell membranes.",
+        "Type O cells have no A or B antigens.",
+        "So recipient antibodies have no antigen to bind to, and agglutination does not occur.",
+        "Type O is therefore the universal donor."
+      ]
+    },
+    {
+      "id": "6C-Q4a(ii)",
+      "no": "Q4(a)(ii)",
+      "marks": 4,
+      "topic": "Incompatible Transfusion Effects",
+      "keywords": ["blood transfusion", "type A", "type AB", "antibodies", "antigens", "agglutination", "haemolysis", "incompatible"],
+      "question": "Explain what happens if a person with blood type A is given a transfusion of blood type AB.",
+      "status": "ready",
+      "answer": "Anti-B antibodies in type A plasma bind to B antigens on the AB red cells, causing agglutination and haemolysis.",
+      "steps": [
+        "Type A plasma contains anti-B antibodies.",
+        "AB red cells carry B antigens on their membranes.",
+        "Anti-B antibodies bind to these B antigens, causing the donor cells to clump (agglutination).",
+        "Clumps block capillaries and cells burst (haemolysis), releasing haemoglobin that can damage the kidneys and may be fatal."
+      ]
+    },
+    {
+      "id": "6C-Q4b(i)",
+      "no": "Q4(b)(i)",
+      "marks": 2,
+      "topic": "Gut Bacteria Function",
+      "keywords": ["gut flora", "bacteria", "intestines", "pathogens", "vitamins", "digestion", "competition", "immune"],
+      "question": "Explain why bacteria living in our intestines are important.",
+      "status": "ready",
+      "answer": "They compete with harmful pathogens for space and food, and they make useful products such as vitamins.",
+      "steps": [
+        "Gut bacteria occupy the space on the intestinal lining.",
+        "They compete with pathogens, so harmful bacteria cannot easily colonise the gut.",
+        "They synthesise some vitamins (e.g. vitamin K) that the body can absorb.",
+        "They help break down some food residues that we cannot digest alone."
+      ]
+    },
+    {
+      "id": "6C-Q4b(ii)",
+      "no": "Q4(b)(ii)",
+      "marks": 2,
+      "topic": "Enzyme Secretion Purpose",
+      "keywords": ["enzyme", "sugars", "glycoprotein", "bacteria", "nutrients", "respiration", "glycosidase", "gut"],
+      "question": "Suggest why gut bacteria secrete an enzyme that separates sugars from proteins on the gut membranes.",
+      "status": "ready",
+      "answer": "To release sugars that the bacteria absorb and use as a respiratory substrate and nutrient source.",
+      "steps": [
+        "The enzyme hydrolyses the bonds between sugars and protein, releasing free sugars.",
+        "Free sugars are small enough to be taken up by the bacteria.",
+        "Bacteria respire these sugars to release energy for growth.",
+        "This gives the bacteria a reliable food supply in the gut."
+      ]
+    },
+    {
+      "id": "6C-Q4b(iii)",
+      "no": "Q4(b)(iii)",
+      "marks": 2,
+      "topic": "Enzymes in Transfusion",
+      "keywords": ["enzyme", "antigens", "blood transfusion", "universal donor", "sugars", "agglutination", "type O", "compatibility"],
+      "question": "Explain why this enzyme may be useful in blood transfusions.",
+      "status": "ready",
+      "answer": "It can remove the sugar antigens from red cells, so the blood no longer causes agglutination and can be given to more patients.",
+      "steps": [
+        "A and B antigens are sugars attached to proteins on red cell membranes.",
+        "The enzyme cleaves off these sugars from the proteins.",
+        "Without the A or B sugars, the cells behave like type O cells.",
+        "Such blood can be transfused to many patients without agglutination."
+      ]
+    },
+    {
+      "id": "6C-Q5a(i)",
+      "no": "Q5(a)(i)",
+      "marks": 1,
+      "topic": "Organic Matter Loss",
+      "keywords": ["teabag", "dry mass", "water content", "organic matter", "decomposition", "percentage", "calculation"],
+      "question": "A teabag held 28 g of tea when buried. When dug up it had a wet mass of 42 g and a water content of 50%. Calculate the mass of organic matter lost.",
+      "status": "ready",
+      "answer": "7 g.",
+      "steps": [
+        "Water content is 50% of the wet mass: water = 0.5 x 42 = 21 g.",
+        "Dry mass remaining = 42 - 21 = 21 g.",
+        "Organic matter lost = 28 - 21 = 7 g.",
+        "Water is not tea material, so only the dry mass change counts."
+      ]
+    },
+    {
+      "id": "6C-Q5a(ii)",
+      "no": "Q5(a)(ii)",
+      "marks": 2,
+      "topic": "Relative Mass Decrease Rate",
+      "keywords": ["relative mass", "rate of decrease", "green tea", "15 C", "day 30", "graph", "decomposition"],
+      "question": "Calculate the rate at which the relative mass of green tea decreases in teabags buried at 15 deg C at day 30.",
+      "status": "pending",
+      "answer": "Needs the graph values of relative mass of green tea at 15 deg C (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q5a(iii)",
+      "no": "Q5(a)(iii)",
+      "marks": 4,
+      "topic": "Temperature and Decomposition",
+      "keywords": ["temperature", "decomposition rate", "15 C", "25 C", "green tea", "enzyme activity", "microorganisms", "graph"],
+      "question": "Explain the difference in the decrease in relative mass of green tea teabags buried at 15 deg C and 25 deg C, using the graph.",
+      "status": "pending",
+      "answer": "Needs the graph of relative mass against time for 15 deg C and 25 deg C (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q5a(iv)",
+      "no": "Q5(a)(iv)",
+      "marks": 2,
+      "topic": "Tea Type Differences",
+      "keywords": ["green tea", "rooibos tea", "decomposition rate", "chemical composition", "polyphenols", "lignin", "cellulose", "microorganisms"],
+      "question": "Suggest why the rate of decomposition of green tea was different from that of rooibos tea.",
+      "status": "ready",
+      "answer": "The teas differ in chemical composition (e.g. polyphenol and lignin content), which changes how easily decomposers can break them down.",
+      "steps": [
+        "Green tea and rooibos tea come from different plants.",
+        "They differ in chemical composition, such as polyphenol, cellulose and lignin content.",
+        "Some compounds such as polyphenols can inhibit microbes, slowing decomposition.",
+        "Differences in these compounds change the rate at which decomposers break the tea down."
+      ]
+    },
+    {
+      "id": "6C-Q5b(i)",
+      "no": "Q5(b)(i)",
+      "marks": 1,
+      "topic": "Error Bars Meaning",
+      "keywords": ["error bars", "mean", "variation", "decomposition rate", "stabilisation factor", "uncertainty", "repeats"],
+      "question": "Suggest why each point on the graph has both a horizontal and a vertical error bar.",
+      "status": "ready",
+      "answer": "Both the mean decomposition rate and the mean stabilisation factor S vary between measurements, so each has uncertainty shown on its axis.",
+      "steps": [
+        "Each point is a mean of several teabag measurements from one ecosystem.",
+        "Decomposition rate and stabilisation factor S both vary between these repeats.",
+        "Error bars show the spread of values around the mean.",
+        "So the horizontal bar shows uncertainty in one variable and the vertical bar in the other."
+      ]
+    },
+    {
+      "id": "6C-Q5b(ii)",
+      "no": "Q5(b)(ii)",
+      "marks": 3,
+      "topic": "Ecosystem Conservation Priority",
+      "keywords": ["ecosystems", "carbon storage", "stabilisation factor", "decomposition rate", "climate change", "conservation", "graph"],
+      "question": "Explain which ecosystems should be conserved to have the greatest impact on climate change, using the graph.",
+      "status": "pending",
+      "answer": "Needs the graph of decomposition rate against stabilisation factor S for each ecosystem (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q6a",
+      "no": "Q6(a)",
+      "marks": 4,
+      "topic": "Carbohydrate Production Sites",
+      "keywords": ["carbohydrates", "plants", "animals", "production", "table", "photosynthesis", "glycogen", "starch"],
+      "question": "For each carbohydrate in the table, put one cross to show whether it is produced in plants or animals.",
+      "status": "pending",
+      "answer": "Needs the table of carbohydrates and tick boxes (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q6b(i)",
+      "no": "Q6(b)(i)",
+      "marks": 1,
+      "topic": "Carbon Exchange Oceans",
+      "keywords": ["carbon cycle", "atmosphere", "oceans", "carbon dioxide", "diffusion", "dissolving", "exchange"],
+      "question": "State how carbon is exchanged between the atmosphere and the oceans.",
+      "status": "ready",
+      "answer": "Carbon dioxide diffuses (dissolves) across the sea surface, in both directions.",
+      "steps": [
+        "CO2 dissolves into the surface water by diffusion down a concentration gradient.",
+        "Some dissolved CO2 reacts with water to form hydrogencarbonate ions.",
+        "Dissolved CO2 can also diffuse back out into the atmosphere.",
+        "The net direction of exchange depends on the concentration gradient."
+      ]
+    },
+    {
+      "id": "6C-Q6b(ii)",
+      "no": "Q6(b)(ii)",
+      "marks": 1,
+      "topic": "Carbon Mass in Plants",
+      "keywords": ["carbon", "plants", "increase", "kg", "carbon exchange", "atmosphere", "calculation", "carbon cycle"],
+      "question": "Calculate the increase in mass of carbon in plants from exchange with the atmosphere in one year, in kg.",
+      "status": "pending",
+      "answer": "Needs the carbon-cycle diagram values for plant and atmosphere exchange (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q6b(iii)",
+      "no": "Q6(b)(iii)",
+      "marks": 3,
+      "topic": "Carbon Return From Sugars",
+      "keywords": ["respiration", "sugars", "carbon dioxide", "decomposition", "plants", "atmosphere", "glucose", "microorganisms"],
+      "question": "Describe how the carbon present in sugars in plants is returned to the atmosphere.",
+      "status": "ready",
+      "answer": "Plants and animals oxidise sugars in respiration, and decomposers release CO2 from dead matter; the CO2 diffuses into the air.",
+      "steps": [
+        "Plants respire glucose in their mitochondria.",
+        "The link reaction and Krebs cycle oxidise the carbon atoms, releasing carbon dioxide.",
+        "CO2 diffuses out of the plant through leaves and roots into the atmosphere.",
+        "Animals eating plants, and microorganisms decomposing dead plant matter, also release CO2 by respiration."
+      ]
+    },
+    {
+      "id": "6C-Q6c(i)",
+      "no": "Q6(c)(i)",
+      "marks": 2,
+      "topic": "Anthropogenic Climate Change",
+      "keywords": ["anthropogenic", "climate change", "greenhouse gases", "carbon dioxide", "fossil fuels", "global warming", "human activity"],
+      "question": "State what is meant by anthropogenic climate change.",
+      "status": "ready",
+      "answer": "Long-term change in global climate, especially warming, caused by human activities that add greenhouse gases such as CO2 to the atmosphere.",
+      "steps": [
+        "Anthropogenic means caused by human activity.",
+        "Burning fossil fuels and deforestation release extra carbon dioxide.",
+        "Extra greenhouse gases trap more heat in the atmosphere.",
+        "Average global temperatures rise and climate patterns change over the long term."
+      ]
+    },
+    {
+      "id": "6C-Q6c(ii)",
+      "no": "Q6(c)(ii)",
+      "marks": 2,
+      "topic": "Reducing Climate Change",
+      "keywords": ["climate change", "reduce", "carbon emissions", "renewable energy", "reforestation", "carbon sink", "mitigation"],
+      "question": "Explain one way in which the effects of anthropogenic climate change can be reduced.",
+      "status": "ready",
+      "answer": "Switch to renewable energy so less CO2 is released from burning fossil fuels.",
+      "steps": [
+        "Burning fossil fuels releases CO2 into the atmosphere.",
+        "Renewable energy such as solar or wind produces little or no CO2.",
+        "Less CO2 is added, so the greenhouse effect and warming are reduced.",
+        "Alternatively, planting trees removes CO2 by photosynthesis (a carbon sink)."
+      ]
+    },
+    {
+      "id": "6C-Q7a",
+      "no": "Q7(a)",
+      "marks": 1,
+      "topic": "Forensic Entomology Term",
+      "keywords": ["insect larvae", "forensic entomology", "time of death", "blowfly", "method", "estimate"],
+      "question": "Name the method that uses insect larvae to estimate time of death. Options: A dendrochronology, B epigenetics, C forensic entomology, D species diversity.",
+      "status": "ready",
+      "answer": "C - forensic entomology.",
+      "steps": [
+        "Insects colonise a corpse in a predictable sequence of species.",
+        "Larval length and developmental stage change with time since death.",
+        "Forensic entomology uses these changes to estimate time of death.",
+        "Dendrochronology (tree rings), epigenetics and species diversity are not insect-based methods."
+      ]
+    },
+    {
+      "id": "6C-Q7b(i)",
+      "no": "Q7(b)(i)",
+      "marks": 2,
+      "topic": "Larval Growth Rate",
+      "keywords": ["blowfly larvae", "growth rate", "mean length", "25 to 120 hours", "graph", "units", "10.62 C"],
+      "question": "Calculate the mean growth rate of these larvae from 25 to 120 hours, including units.",
+      "status": "pending",
+      "answer": "Needs the mean larval lengths at 25 h and 120 h from the graph (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q7b(ii)",
+      "no": "Q7(b)(ii)",
+      "marks": 3,
+      "topic": "Suitability of Growth Data",
+      "keywords": ["blowfly", "larvae", "time of death", "growth", "temperature", "suitability", "graph", "limitations"],
+      "question": "Comment on the suitability of using this larval growth data to estimate time of death, using the graph.",
+      "status": "pending",
+      "answer": "Needs the graph of mean larval length against time (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q7b(iii)",
+      "no": "Q7(b)(iii)",
+      "marks": 3,
+      "topic": "Collecting Larval Growth Data",
+      "keywords": ["larvae", "mean length", "incubated", "sampling", "measurement", "constant temperature", "growth data", "blowfly"],
+      "question": "Describe how the data for the mean larval length could have been collected.",
+      "status": "ready",
+      "answer": "Rear larvae at a constant 10.62 deg C, measure random samples at set times, and calculate the mean length for each time.",
+      "steps": [
+        "Collect eggs or larvae from a corpse and rear them in an incubator at 10.62 deg C.",
+        "Keep the temperature constant, because temperature changes growth rate.",
+        "At regular intervals, remove a random sample of larvae.",
+        "Measure each larva's length with a ruler or microscope and calculate the mean for each time."
+      ]
+    },
+    {
+      "id": "6C-Q7c",
+      "no": "Q7(c)",
+      "marks": 4,
+      "topic": "Evaluating Body Temperature",
+      "keywords": ["body temperature", "corpse", "time of death", "cooling", "evaluate", "ambient temperature", "limitations", "reliability"],
+      "question": "Evaluate the use of the body temperature of a corpse to estimate time of death.",
+      "status": "ready",
+      "answer": "Useful because temperature falls in a fairly predictable way, but surroundings, clothing, body size and starting temperature make it only an estimate.",
+      "steps": [
+        "Body temperature falls in a fairly predictable way after death, so it can estimate time.",
+        "The cooling rate depends on ambient temperature, which may change over time.",
+        "Clothing insulates the body, and body size or fat changes the cooling rate.",
+        "The temperature at death may vary, so the estimate is limited and is best combined with other methods."
+      ]
+    },
+    {
+      "id": "6C-Q8a",
+      "no": "Q8(a)",
+      "marks": 4,
+      "topic": "Speciation in Lemurs",
+      "keywords": ["speciation", "allopatric", "sympatric", "geographic isolation", "niche", "diet", "Madagascar", "lemurs"],
+      "question": "Explain the types of speciation that have taken place in the evolution of Sifakas and Indri in the same region of Madagascar, from one common ancestor.",
+      "status": "ready",
+      "answer": "Allopatric speciation when the ancestor was isolated on Madagascar, then sympatric speciation driven by different diets (niche separation).",
+      "steps": [
+        "The ancestor arrived on Madagascar by raft and was geographically isolated from mainland Africa (allopatric speciation).",
+        "On the island, isolated populations diverged through different mutations and selection.",
+        "Once reproductively isolated, lineages could coexist in the same region.",
+        "Sifakas (seeds, fruit) and Indri (leaves) use different food niches, so selection favours divergence in the same area (sympatric speciation)."
+      ]
+    },
+    {
+      "id": "6C-Q8b(i)",
+      "no": "Q8(b)(i)",
+      "marks": 2,
+      "topic": "PCR Role in Profiling",
+      "keywords": ["PCR", "polymerase chain reaction", "DNA profiling", "amplify", "primers", "DNA polymerase", "copies", "sample"],
+      "question": "Explain the role of the polymerase chain reaction (PCR) in DNA profiling.",
+      "status": "ready",
+      "answer": "PCR amplifies (copies) a small DNA sample many times so enough DNA is available for profiling.",
+      "steps": [
+        "PCR uses heat to separate the two DNA strands.",
+        "Primers bind to the target sequence and DNA polymerase copies it.",
+        "Repeated cycles double the DNA each time.",
+        "This produces enough DNA for gel electrophoresis and profiling."
+      ]
+    },
+    {
+      "id": "6C-Q8b(ii)",
+      "no": "Q8(b)(ii)",
+      "marks": 2,
+      "topic": "DNA Profile Comparison",
+      "keywords": ["DNA profiling", "gel electrophoresis", "banding pattern", "lemurs", "relatedness", "origin", "DNA fragments", "comparison"],
+      "question": "Explain how DNA profiling could show that the lemurs on the other island originated from those on Madagascar.",
+      "status": "ready",
+      "answer": "Their DNA profiles (banding patterns) closely match those of Madagascar lemurs, showing shared ancestry.",
+      "steps": [
+        "DNA is cut or amplified, then separated by gel electrophoresis into bands.",
+        "The banding pattern of each lemur is its DNA profile.",
+        "Lemurs from the same origin share many matching bands (alleles).",
+        "A close match between island and Madagascar profiles shows a common origin."
+      ]
+    },
+    {
+      "id": "6C-Q9a",
+      "no": "Q9(a)",
+      "marks": 1,
+      "topic": "Percentage Population Decrease",
+      "keywords": ["Tasmanian devil", "population decline", "percentage decrease", "calculation", "cancer", "150 000", "25 000"],
+      "question": "Calculate the percentage decrease in Tasmanian devils from 150 000 in the mid-1990s to 25 000 in 2020.",
+      "status": "ready",
+      "answer": "83% (83.3%).",
+      "steps": [
+        "Decrease = 150 000 - 25 000 = 125 000.",
+        "Percentage decrease = 125 000 / 150 000 x 100.",
+        "= 83.3%, so about 83%.",
+        "The percentage is always calculated from the starting value."
+      ]
+    },
+    {
+      "id": "6C-Q9b(i)",
+      "no": "Q9(b)(i)",
+      "marks": 6,
+      "topic": "Scavenging Study Results",
+      "keywords": ["Tasmanian devil", "scavenging", "carcass", "feeding time", "cancer", "table", "graph", "scavengers"],
+      "question": "Explain the results of the two scavenging studies, using the table of feeding times and the graph of carcass consumption time.",
+      "status": "pending",
+      "answer": "Needs the table of feeding times and the graph of carcass consumption time for the two regions (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q9b(ii)",
+      "no": "Q9(b)(ii)",
+      "marks": 4,
+      "topic": "Biotic Factors in Scavenging",
+      "keywords": ["biotic factors", "scavengers", "competition", "predators", "decomposers", "carcass", "population density", "Tasmania"],
+      "question": "Explain what other biotic factors could have affected the scavenging results from the two regions of Tasmania.",
+      "status": "ready",
+      "answer": "Differences in other scavengers, competition, decomposers (bacteria, fungi, insects), and predator or prey density between the regions.",
+      "steps": [
+        "Other scavengers, such as birds or quolls, may be more common in one region and compete for carcasses.",
+        "Competition changes how long each animal feeds and how fast a carcass is eaten.",
+        "Bacteria, fungi and flies decompose carcass tissue, speeding up the breakdown.",
+        "Differences in predator or prey density change food supply and scavenging behaviour."
+      ]
+    },
+    {
+      "id": "6C-Q10a",
+      "no": "Q10(a)",
+      "marks": 2,
+      "topic": "Nuclear DNA vs mtDNA",
+      "keywords": ["mtDNA", "nuclear DNA", "structure", "circular", "linear", "histones", "mitochondria", "DNA"],
+      "question": "Give two differences between the structure of nuclear DNA and mtDNA.",
+      "status": "ready",
+      "answer": "mtDNA is circular whereas nuclear DNA is linear; nuclear DNA is associated with histones whereas mtDNA is not.",
+      "steps": [
+        "Nuclear DNA is linear and wound around histone proteins.",
+        "mtDNA is circular and has no histones.",
+        "mtDNA is much smaller and found inside mitochondria, while nuclear DNA is in the nucleus.",
+        "mtDNA has many copies per cell, unlike the two copies of most nuclear genes."
+      ]
+    },
+    {
+      "id": "6C-Q10b(i)",
+      "no": "Q10(b)(i)",
+      "marks": 2,
+      "topic": "PCR Reagents",
+      "keywords": ["PCR", "primers", "DNA polymerase", "nucleotides", "reagents", "Taq polymerase", "mtDNA", "amplification"],
+      "question": "Name three molecules, other than the mtDNA and water, needed in this PCR.",
+      "status": "ready",
+      "answer": "Primers, DNA polymerase (Taq polymerase) and free nucleotides.",
+      "steps": [
+        "Primers are short DNA sequences that mark the start of the region to copy.",
+        "Taq (DNA) polymerase builds new DNA strands.",
+        "Free nucleotides (A, C, G, T) are the building blocks for the new DNA.",
+        "All three are needed; water is only the solvent."
+      ]
+    },
+    {
+      "id": "6C-Q10b(ii)",
+      "no": "Q10(b)(ii)",
+      "marks": 2,
+      "topic": "PCR Total Time",
+      "keywords": ["PCR", "time", "cycles", "hours", "denaturation", "annealing", "extension", "calculation"],
+      "question": "Calculate the total length of time, in hours to 2 decimal places, that this PCR process would take.",
+      "status": "pending",
+      "answer": "Needs the step times and number of cycles shown in the PCR diagram (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q10b(iii)",
+      "no": "Q10(b)(iii)",
+      "marks": 3,
+      "topic": "How PCR Amplifies DNA",
+      "keywords": ["PCR", "denaturation", "annealing", "extension", "primers", "Taq polymerase", "exponential", "cycles"],
+      "question": "Explain how this process amplifies the DNA.",
+      "status": "ready",
+      "answer": "Heat separates the strands, primers anneal, Taq polymerase copies each strand, and repeated cycles double the DNA.",
+      "steps": [
+        "Heating separates the double-stranded DNA into two single strands (denaturation).",
+        "Cooling lets primers anneal to the target sequence on each strand.",
+        "Heat-stable Taq polymerase extends from each primer, copying each strand.",
+        "Each cycle doubles the number of copies, so the DNA amplifies exponentially."
+      ]
+    },
+    {
+      "id": "6C-Q10c",
+      "no": "Q10(c)",
+      "marks": 3,
+      "topic": "mtDNA Phylogenetic Comparison",
+      "keywords": ["mtDNA", "genetic relationships", "base sequence", "mutations", "species", "comparison", "sequencing", "evolution"],
+      "question": "Explain how the amplified mtDNA could be used to determine the genetic relationships between the two crow species.",
+      "status": "ready",
+      "answer": "Sequence and compare the mtDNA base sequences; more differences mean a more distant relationship.",
+      "steps": [
+        "Sequence the amplified mtDNA from both crow species.",
+        "Align the sequences and count the base differences.",
+        "mtDNA accumulates mutations at a fairly steady rate, so more differences mean longer since they diverged.",
+        "Fewer differences show a more recent common ancestor and a closer relationship."
+      ]
+    },
+    {
+      "id": "6C-Q11a(i)",
+      "no": "Q11(a)(i)",
+      "marks": 1,
+      "topic": "Energy Content Units",
+      "keywords": ["energy content", "units", "kJ", "m^-2", "year^-1", "trophic level", "productivity"],
+      "question": "Which are the units for the energy content of these organisms? Options: A kJ m^-1 year^-1, B kJ m^-1 year^-2, C kJ m^-2 year^-1, D kJ m^-2 year^-2.",
+      "status": "ready",
+      "answer": "C - kJ m^-2 year^-1.",
+      "steps": [
+        "Energy content is energy per unit area of habitat, so the area unit is m^-2.",
+        "It is measured over a period of time, so the time unit is year^-1.",
+        "Options A and B use m^-1, which is wrong.",
+        "Option D uses year^-2, which is wrong; so C is correct."
+      ]
+    },
+    {
+      "id": "6C-Q11a(ii)",
+      "no": "Q11(a)(ii)",
+      "marks": 1,
+      "topic": "NPP Equation",
+      "keywords": ["NPP", "GPP", "respiration", "net primary productivity", "gross primary productivity", "energy", "equation"],
+      "question": "What is the relationship between NPP, GPP and respiration (R)? Options: A NPP = GPP + R; B, C and D are printed with the same corrupted text.",
+      "status": "pending",
+      "answer": "Options B, C and D are corrupted in the text so the correct letter cannot be confirmed; the relationship is NPP = GPP - R.",
+      "steps": []
+    },
+    {
+      "id": "6C-Q11a(iii)",
+      "no": "Q11(a)(iii)",
+      "marks": 1,
+      "topic": "Energy Ratio Trophic Levels",
+      "keywords": ["energy content", "ratio", "trophic level", "tree", "energy", "calculation", "food chain"],
+      "question": "Calculate the ratio of the energy contents of trophic levels 1 : 2 : 3 shown in the table.",
+      "status": "pending",
+      "answer": "Needs the energy content values for the three trophic levels from the table (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q11a(iv)",
+      "no": "Q11(a)(iv)",
+      "marks": 2,
+      "topic": "Limits of Food Chains",
+      "keywords": ["trophic levels", "energy loss", "respiration", "heat", "food chain", "energy transfer", "fourth trophic level"],
+      "question": "Explain why there is no fourth trophic level in this food chain.",
+      "status": "ready",
+      "answer": "Energy is lost at each level (mostly as heat from respiration, and in waste), so too little energy is left to support a fourth level.",
+      "steps": [
+        "Organisms lose energy as heat in respiration at every trophic level.",
+        "Energy is also lost in faeces, urine and parts that are not eaten.",
+        "So less energy is passed on to each higher level.",
+        "Eventually there is not enough energy to support another trophic level."
+      ]
+    },
+    {
+      "id": "6C-Q11a(v)",
+      "no": "Q11(a)(v)",
+      "marks": 3,
+      "topic": "Microbial Carbon Recycling",
+      "keywords": ["decomposers", "microorganisms", "carbon recycling", "respiration", "carbon dioxide", "enzymes", "dead material", "decomposition"],
+      "question": "Describe the role of microorganisms in recycling the carbon present in this food chain.",
+      "status": "ready",
+      "answer": "Decomposers secrete enzymes that break down dead matter and waste, then respire the products, releasing CO2 to the atmosphere.",
+      "steps": [
+        "Bacteria and fungi secrete digestive enzymes onto dead organisms and waste (extracellular digestion).",
+        "This breaks down complex carbon compounds into smaller molecules they can absorb.",
+        "The microorganisms respire these molecules, releasing carbon dioxide into the atmosphere.",
+        "Plants then use this CO2 in photosynthesis, completing the carbon cycle."
+      ]
+    },
+    {
+      "id": "6C-Q11b",
+      "no": "Q11(b)",
+      "marks": 6,
+      "topic": "Gerenuk Niche Evolution",
+      "keywords": ["gerenuk", "springbok", "niche", "evolution", "adaptation", "photographs", "table", "common ancestor"],
+      "question": "Deduce how the gerenuk evolved to occupy a different niche from the springbok, using the table and photographs.",
+      "status": "pending",
+      "answer": "Needs the table of gerenuk and springbok data and the photographs (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q12a(i)",
+      "no": "Q12(a)(i)",
+      "marks": 1,
+      "topic": "Learned Bird Song",
+      "keywords": ["bird song", "learning", "cultural transmission", "regent honeyeater", "learned behaviour", "male birds", "species song"],
+      "question": "Suggest why many male regent honeyeaters no longer sing the characteristic songs of their species, and some sing songs of other species.",
+      "status": "ready",
+      "answer": "Young males learn song by copying adult males of their own species; with few left, they learned other species' songs instead.",
+      "steps": [
+        "Songbirds learn their song from adult males, rather than inheriting it entirely.",
+        "Young males copy the songs of adult males in their population.",
+        "With very few regent honeyeaters left, young males had few adult tutors of their own species.",
+        "So they learned songs from other species that were available."
+      ]
+    },
+    {
+      "id": "6C-Q12a(ii)",
+      "no": "Q12(a)(ii)",
+      "marks": 3,
+      "topic": "Song Loss Effects",
+      "keywords": ["song", "mate choice", "breeding", "hybridisation", "population", "extinction", "regent honeyeater", "reproductive isolation"],
+      "question": "Explain the effect this could have on the future of the species.",
+      "status": "ready",
+      "answer": "Females cannot recognise the wrong songs, so fewer pairs form, and hybridisation and falling numbers threaten survival.",
+      "steps": [
+        "Females use song to recognise and choose mates of their own species.",
+        "Males singing the wrong song attract fewer or no females of their species.",
+        "Fewer successful pairings mean fewer offspring and a smaller population.",
+        "Mating with other species may produce hybrids of lower fitness, speeding decline."
+      ]
+    },
+    {
+      "id": "6C-Q12a(iii)",
+      "no": "Q12(a)(iii)",
+      "marks": 2,
+      "topic": "Zoo Song Conservation",
+      "keywords": ["zoos", "captive breeding", "song learning", "release", "tutor birds", "recordings", "regent honeyeater", "reintroduction"],
+      "question": "Suggest how zoos could increase the number of birds in the wild that sing the songs characteristic of this species.",
+      "status": "ready",
+      "answer": "Raise young birds with adult tutors or recordings of the correct song, then release them so they sing correctly in the wild.",
+      "steps": [
+        "Captive-bred young birds learn song from adult males of their own species.",
+        "Playing recordings of the correct song, or housing them with tutor birds, ensures correct learning.",
+        "Birds that have learned the correct song are then released into the wild.",
+        "This increases the number of correct singers and so the chance of successful breeding."
+      ]
+    },
+    {
+      "id": "6C-Q12b",
+      "no": "Q12(b)",
+      "marks": 4,
+      "topic": "Genetic Evidence of Relatedness",
+      "keywords": ["DNA", "genetic studies", "relatedness", "base sequence", "common ancestor", "PCR", "sequencing", "wattlebirds"],
+      "question": "Describe how genetic studies could show that the regent honeyeater is related to wattlebirds.",
+      "status": "ready",
+      "answer": "Compare base sequences of the same gene in both species; more similar sequences indicate closer relationship and a more recent common ancestor.",
+      "steps": [
+        "Extract DNA from regent honeyeaters and from wattlebirds.",
+        "Amplify the same gene(s), e.g. by PCR, and sequence them.",
+        "Align the sequences and count the base differences.",
+        "Fewer differences than between unrelated species show a recent common ancestor."
+      ]
+    },
+    {
+      "id": "6C-Q13a(i)",
+      "no": "Q13(a)(i)",
+      "marks": 1,
+      "topic": "Mean Amino Acid Mass",
+      "keywords": ["albumin", "molecular mass", "amino acid", "calculation", "daltons", "significant figures", "mean mass"],
+      "question": "Calculate the mean molecular mass of an amino acid in albumin, given a molecular mass of 66 300 daltons and 585 amino acids.",
+      "status": "ready",
+      "answer": "113 daltons.",
+      "steps": [
+        "Mean mass = total molecular mass / number of amino acids.",
+        "= 66 300 / 585 = 113.3 daltons.",
+        "66 300 has 3 significant figures, so give 113 daltons.",
+        "The result is an average, because individual amino acids differ in mass."
+      ]
+    },
+    {
+      "id": "6C-Q13a(ii)",
+      "no": "Q13(a)(ii)",
+      "marks": 2,
+      "topic": "Albumin Solubility",
+      "keywords": ["albumin", "solubility", "plasma", "negative charges", "hydrophilic", "globular protein", "water", "hydrogen bonds"],
+      "question": "Explain why albumin is soluble in blood plasma.",
+      "status": "ready",
+      "answer": "It is globular with hydrophilic surface groups, and its many negative charges attract polar water molecules, so it dissolves.",
+      "steps": [
+        "Albumin is a globular protein with hydrophilic R groups on the outside.",
+        "Its surface carries over 200 negative charges.",
+        "These attract the polar water molecules around them (hydration), forming hydrogen bonds.",
+        "The charged, hydrophilic surface keeps albumin dispersed rather than aggregating."
+      ]
+    },
+    {
+      "id": "6C-Q13b(i)",
+      "no": "Q13(b)(i)",
+      "marks": 1,
+      "topic": "Concentration Range Difference",
+      "keywords": ["protein G", "albumin", "concentration", "range", "maximum difference", "g dm-3", "calculation"],
+      "question": "Protein G is 0.700 to 1.700 g dm-3 and albumin is 0.525 to 1.275 g dm-3. Calculate the maximum difference in concentration of these two proteins.",
+      "status": "ready",
+      "answer": "1.175 g dm-3.",
+      "steps": [
+        "The largest possible concentration of protein G is 1.700 g dm-3.",
+        "The smallest possible concentration of albumin is 0.525 g dm-3.",
+        "Maximum difference = 1.700 - 0.525 = 1.175 g dm-3.",
+        "The unit stays as g dm-3."
+      ]
+    },
+    {
+      "id": "6C-Q13b(ii)",
+      "no": "Q13(b)(ii)",
+      "marks": 3,
+      "topic": "Albumin Compared With Plasma Proteins",
+      "keywords": ["albumin", "electrophoresis", "plasma proteins", "concentration", "band", "conclusions", "A1", "A2"],
+      "question": "Describe the conclusions that can be made about albumin compared with the other four plasma proteins, using the electrophoresis diagram.",
+      "status": "pending",
+      "answer": "Needs the electrophoresis banding diagram for albumin, A1, A2, B and G (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q13c",
+      "no": "Q13(c)",
+      "marks": 4,
+      "topic": "Albumin in Fertilisation",
+      "keywords": ["albumin", "proton channel", "Hv1", "sperm", "capacitation", "concentration", "fertilisation", "seminal fluid", "uterus"],
+      "question": "Explain the role of albumin concentration in controlling fertilisation, given seminal fluid albumin of 15 and uterine fluid albumin of 500 (units as stated in the source).",
+      "status": "ready",
+      "answer": "Low albumin in seminal fluid keeps sperm inactive; high albumin in the uterus activates Hv1 channels, so sperm can penetrate the egg.",
+      "steps": [
+        "Albumin binds to and activates the proton channel Hv1 in sperm membranes.",
+        "Low albumin in seminal fluid (15) leaves the channels largely inactive, so sperm cannot yet fertilise.",
+        "The uterus has much higher albumin (500), which activates Hv1 channels.",
+        "Activated channels change the sperm's membrane potential and pH, allowing it to become capacitated and penetrate the egg."
+      ]
+    },
+    {
+      "id": "6C-Q14a(i)",
+      "no": "Q14(a)(i)",
+      "marks": 1,
+      "topic": "Nitrogen Per Whale",
+      "keywords": ["whale", "nitrogen", "kg per year", "calculation", "faeces", "Right whale", "daily release"],
+      "question": "345 Right whales release 15.9 kg of nitrogen per day in total. Calculate the mass of nitrogen released by one whale in a year.",
+      "status": "ready",
+      "answer": "16.8 kg per year.",
+      "steps": [
+        "Nitrogen per whale per day = 15.9 / 345 = 0.0461 kg.",
+        "Per year = 0.0461 x 365 = 16.8 kg (to 3 s.f.).",
+        "This assumes the daily release is the same every day of the year.",
+        "Answer: 16.8 kg per year."
+      ]
+    },
+    {
+      "id": "6C-Q14a(ii)",
+      "no": "Q14(a)(ii)",
+      "marks": 2,
+      "topic": "Importance of Nitrates",
+      "keywords": ["nitrates", "plants", "nitrogen", "amino acids", "proteins", "nucleotides", "chlorophyll", "growth"],
+      "question": "Describe the importance of nitrates to plants.",
+      "status": "ready",
+      "answer": "Nitrate is the nitrogen source for making amino acids, proteins, nucleotides and chlorophyll, which are needed for growth.",
+      "steps": [
+        "Plants absorb nitrate ions from the soil through their roots.",
+        "Nitrogen from nitrate is built into amino acids.",
+        "Amino acids form proteins such as enzymes needed for growth.",
+        "Nitrogen is also needed for nucleotides (DNA, RNA) and chlorophyll for photosynthesis."
+      ]
+    },
+    {
+      "id": "6C-Q14b(i)",
+      "no": "Q14(b)(i)",
+      "marks": 1,
+      "topic": "Percentage Whale Decrease",
+      "keywords": ["whales", "percentage decrease", "5 million", "1.3 million", "commercial whaling", "calculation"],
+      "question": "There were about 5 million whales before commercial whaling and 1.3 million now. Calculate the percentage decrease.",
+      "status": "ready",
+      "answer": "74%.",
+      "steps": [
+        "Decrease = 5 000 000 - 1 300 000 = 3 700 000 whales.",
+        "Percentage decrease = 3 700 000 / 5 000 000 x 100.",
+        "= 74%.",
+        "The original population (5 million) is the base for the percentage."
+      ]
+    },
+    {
+      "id": "6C-Q14b(ii)",
+      "no": "Q14(b)(ii)",
+      "marks": 1,
+      "topic": "Carbon Dioxide Mass Conversion",
+      "keywords": ["carbon dioxide", "US ton", "907 kg", "standard form", "conversion", "calculation", "whales"],
+      "question": "Restoring whale numbers could remove 1.7 x 10^9 US tons of carbon dioxide per year, where 1 US ton = 907 kg. Calculate the mass of CO2 removed in one year, in kg, in standard form.",
+      "status": "ready",
+      "answer": "1.54 x 10^12 kg.",
+      "steps": [
+        "Convert tons to kg using 1 US ton = 907 kg.",
+        "Mass = 1.7 x 10^9 x 907 kg.",
+        "= 1.5419 x 10^12 kg.",
+        "To 3 significant figures: 1.54 x 10^12 kg."
+      ]
+    },
+    {
+      "id": "6C-Q14b(iii)",
+      "no": "Q14(b)(iii)",
+      "marks": 6,
+      "topic": "Whales and Climate Change",
+      "keywords": ["whales", "climate change", "carbon dioxide", "nitrogen", "phytoplankton", "photosynthesis", "diagram", "effects"],
+      "question": "Discuss the possible effects of increasing the number of whales on climate change, using the relationship diagram and the data in the question.",
+      "status": "pending",
+      "answer": "Needs the relationship diagram linking whales, other organisms and carbon or nitrogen (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q15a(i)",
+      "no": "Q15(a)(i)",
+      "marks": 3,
+      "topic": "Calibration Curve Method",
+      "keywords": ["body temperature", "calibration curve", "time of death", "corpse", "cooling", "probe", "estimate"],
+      "question": "Describe how the time of death of a person can be estimated using the body temperature calibration curve.",
+      "status": "ready",
+      "answer": "Measure core temperature, find that temperature on the calibration curve, and read off the corresponding time since death.",
+      "steps": [
+        "Measure the corpse's core (e.g. liver) temperature with a probe.",
+        "Find this temperature on the vertical axis of the calibration curve.",
+        "Follow across to the curve and read the time on the horizontal axis.",
+        "That time is the estimated time since death, based on known cooling data."
+      ]
+    },
+    {
+      "id": "6C-Q15a(ii)",
+      "no": "Q15(a)(ii)",
+      "marks": 2,
+      "topic": "Limits of Temperature Method",
+      "keywords": ["limitations", "body temperature", "clothing", "ambient temperature", "body size", "cooling rate", "calibration curve"],
+      "question": "Explain the limitations of this method.",
+      "status": "ready",
+      "answer": "Ambient temperature, clothing, body size or fat and the temperature at death change the cooling rate, so the curve may not fit.",
+      "steps": [
+        "The calibration curve assumes standard conditions.",
+        "Surrounding temperature changes the rate of heat loss.",
+        "Clothing insulates the body, and body size or fat changes the cooling rate.",
+        "So the estimate may be inaccurate for the individual corpse."
+      ]
+    },
+    {
+      "id": "6C-Q15b(i)",
+      "no": "Q15(b)(i)",
+      "marks": 1,
+      "topic": "Animal Models Reason",
+      "keywords": ["rat", "pig", "corpses", "human", "ethics", "availability", "chemicals", "blood"],
+      "question": "Suggest why this study used rat and pig corpses instead of human corpses.",
+      "status": "ready",
+      "answer": "Ethical restrictions and limited availability of human corpses, while animal corpses can be obtained and controlled more easily.",
+      "steps": [
+        "Human corpses are ethically restricted and hard to obtain for research.",
+        "Animal corpses are easier to obtain in larger numbers.",
+        "Conditions such as temperature and time can be controlled more easily.",
+        "Results from animal studies can then be tested further in humans."
+      ]
+    },
+    {
+      "id": "6C-Q15b(ii)",
+      "no": "Q15(b)(ii)",
+      "marks": 6,
+      "topic": "Blood Chemicals Usefulness",
+      "keywords": ["blood chemicals", "rat", "pig", "time of death", "graphs", "usefulness", "chemical concentration", "post mortem"],
+      "question": "Comment on the usefulness of these blood chemicals for determining the time of death of rats and pigs, using the graphs.",
+      "status": "pending",
+      "answer": "Needs the graphs of blood chemical levels against time for rats and pigs (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q15b(iii)",
+      "no": "Q15(b)(iii)",
+      "marks": 3,
+      "topic": "Chemical Tests in Humans",
+      "keywords": ["human", "chemical tests", "time of death", "blood", "species differences", "variation", "reliability", "usefulness"],
+      "question": "Discuss whether these chemical tests are likely to be useful for determining the time of death of a human.",
+      "status": "ready",
+      "answer": "Possibly useful because similar chemical changes occur, but species and individual differences mean human calibration is needed.",
+      "steps": [
+        "Humans share many metabolic processes with rats and pigs, so the chemical changes may be similar.",
+        "Species differ in body size, diet and metabolism, so the rates may differ.",
+        "Individual variation, illness and drugs before death can change blood chemicals.",
+        "Reliable use would need calibration with human data collected under varied conditions."
+      ]
+    },
+    {
+      "id": "6C-Q16a(i)",
+      "no": "Q16(a)(i)",
+      "marks": 2,
+      "topic": "Bear Mass Difference",
+      "keywords": ["black bear", "mass", "large bear", "small bear", "calculation", "kg", "ratio"],
+      "question": "Hank weighed 227 kg, which is 1.7 times the mass of a typical large black bear and 5 times the mass of a typical small black bear. Calculate the difference in mass between a typical large and a typical small bear.",
+      "status": "ready",
+      "answer": "88.1 kg.",
+      "steps": [
+        "Typical large bear = 227 / 1.7 = 133.5 kg.",
+        "Typical small bear = 227 / 5 = 45.4 kg.",
+        "Difference = 133.5 - 45.4 = 88.1 kg.",
+        "Each typical mass is found by dividing Hank's mass by the given ratio."
+      ]
+    },
+    {
+      "id": "6C-Q16a(ii)",
+      "no": "Q16(a)(ii)",
+      "marks": 2,
+      "topic": "Why Hank Was Large",
+      "keywords": ["size", "genes", "nutrition", "food", "variation", "growth", "male", "black bear"],
+      "question": "Explain why Hank was much larger than typical black bears.",
+      "status": "ready",
+      "answer": "He probably inherited genes for large size and had abundant high-energy human food, allowing extra growth.",
+      "steps": [
+        "Body size is partly inherited, so genetic variation gives some bears larger potential size.",
+        "Hank may have inherited genes for large size from large parents.",
+        "Raiding homes gave him access to abundant, high-energy food.",
+        "The extra food supported faster growth and fat stores, so he grew larger than typical bears."
+      ]
+    },
+    {
+      "id": "6C-Q16b(i)",
+      "no": "Q16(b)(i)",
+      "marks": 1,
+      "topic": "DNA Analysis Procedures",
+      "keywords": ["PCR", "gel electrophoresis", "DNA analysis", "electron microscopy", "entomology", "DNA profiling", "procedure"],
+      "question": "Which two procedures could have been used to analyse the DNA? Options: A electron microscopy then PCR, B entomology then electron microscopy, C gel electrophoresis then entomology, D PCR then gel electrophoresis.",
+      "status": "ready",
+      "answer": "D - PCR followed by gel electrophoresis.",
+      "steps": [
+        "PCR amplifies the DNA samples so there is enough to analyse.",
+        "Gel electrophoresis separates the DNA fragments into bands.",
+        "The banding patterns can then be compared between bears.",
+        "Electron microscopy and entomology do not analyse DNA (options A, B and C are wrong)."
+      ]
+    },
+    {
+      "id": "6C-Q16b(ii)",
+      "no": "Q16(b)(ii)",
+      "marks": 3,
+      "topic": "Sex and Relatedness From DNA",
+      "keywords": ["sex determination", "Y chromosome", "DNA profiling", "relatedness", "female", "bears", "banding pattern", "alleles"],
+      "question": "Describe how analysis of the DNA would show that the two other bears were female, and not related to each other or to Hank.",
+      "status": "ready",
+      "answer": "Look for a Y-chromosome marker (absent in females), and compare profiles: unrelated bears show different bands at many loci.",
+      "steps": [
+        "Females have two X chromosomes and no Y chromosome.",
+        "Hank, a male, carries a Y-specific marker that the two bears lack.",
+        "Compare banding patterns at several loci; unrelated individuals have different alleles and bands.",
+        "Shared bands at many loci would suggest relatedness, so their absence shows the bears are unrelated."
+      ]
+    },
+    {
+      "id": "6C-Q17a(i)",
+      "no": "Q17(a)(i)",
+      "marks": 2,
+      "topic": "Mean Plastic Production Rate",
+      "keywords": ["plastic production", "mean rate", "2000 to 2015", "million tonnes", "graph", "calculation", "sea turtles"],
+      "question": "Calculate the mean rate of global plastic production from 2000 to 2015, to 3 significant figures.",
+      "status": "pending",
+      "answer": "Needs the plastic production values for 2000 and 2015 from the graph (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q17a(ii)",
+      "no": "Q17(a)(ii)",
+      "marks": 1,
+      "topic": "Plastic Production Estimate 2023",
+      "keywords": ["plastic production", "estimate", "2023", "extrapolation", "mean rate", "million tonnes"],
+      "question": "Estimate the global plastic production in 2023, using your value from part (i).",
+      "status": "pending",
+      "answer": "Depends on the 2015 production value and the mean rate from part (i), which are not in text.",
+      "steps": []
+    },
+    {
+      "id": "6C-Q17a(iii)",
+      "no": "Q17(a)(iii)",
+      "marks": 1,
+      "topic": "Underestimate of Plastic Production",
+      "keywords": ["underestimate", "plastic production", "graph", "unrecorded plastic", "data", "estimate", "recycling"],
+      "question": "Suggest why this value may be an underestimate, using the graph.",
+      "status": "pending",
+      "answer": "Needs the graph of plastic production values (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q17b(i)",
+      "no": "Q17(b)(i)",
+      "marks": 2,
+      "topic": "Plastic Ingestion Probability",
+      "keywords": ["sea turtles", "plastic", "probability of death", "pieces of plastic", "gut", "graph", "trend"],
+      "question": "Describe how the probability of death due to plastic increases with the number of pieces of plastic in the gut.",
+      "status": "pending",
+      "answer": "Needs the modelled probability-of-death graph (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q17b(ii)",
+      "no": "Q17(b)(ii)",
+      "marks": 2,
+      "topic": "Limits of Turtle Plastic Model",
+      "keywords": ["limitations", "model", "probability", "sea turtles", "sample size", "plastic ingestion", "data", "causation"],
+      "question": "Describe two limitations of using this graph to determine the probability of death due to the ingestion of plastic.",
+      "status": "ready",
+      "answer": "The model rests on a limited sample of turtles, and it ignores other causes of death and factors such as size, health and plastic type.",
+      "steps": [
+        "The graph is a model fitted to data from a limited number of turtles, so it may be imprecise.",
+        "The model may not apply to all turtle species, ages or sizes.",
+        "It ignores other causes of death and the turtle's health, so the probability is oversimplified.",
+        "A link between plastic and death in a model does not prove plastic caused each death."
+      ]
+    },
+    {
+      "id": "6C-Q17c",
+      "no": "Q17(c)",
+      "marks": 6,
+      "topic": "Banana Stalk Packaging",
+      "keywords": ["banana stalk", "cellulose", "plastic packaging", "decomposition", "mangoes", "biodegradable", "graphs", "table"],
+      "question": "Discuss the advantages of packaging made from modified banana stalks, using the graphs, the table and your own knowledge.",
+      "status": "pending",
+      "answer": "Needs the decomposition graphs and the comparison table for the two packaging materials (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q18a(i)",
+      "no": "Q18(a)(i)",
+      "marks": 1,
+      "topic": "DNA Bond Identification",
+      "keywords": ["DNA", "bonds", "hydrogen bonds", "phosphodiester", "table", "diagram", "bond types"],
+      "question": "Which row of the table identifies the bonds Q and R in the DNA diagram?",
+      "status": "pending",
+      "answer": "Needs the DNA diagram with labels Q and R and the table of bond types (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q18a(ii)",
+      "no": "Q18(a)(ii)",
+      "marks": 1,
+      "topic": "Negative Charge in DNA",
+      "keywords": ["DNA", "negative charge", "phosphate group", "diagram", "labels", "P", "R", "S", "T"],
+      "question": "Which is a negatively charged part of a DNA molecule? Options: A P, B R, C S, D T.",
+      "status": "pending",
+      "answer": "Needs the DNA diagram to see which labelled part (P, R, S or T) is the phosphate group (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q18b(i)",
+      "no": "Q18(b)(i)",
+      "marks": 1,
+      "topic": "Endemic Species Meaning",
+      "keywords": ["endemic", "species", "geographic range", "Indonesia", "native", "only", "endangered"],
+      "question": "State the meaning of the term endemic, as used for the Maleo.",
+      "status": "ready",
+      "answer": "Found naturally only in one particular geographical area (here Indonesia) and nowhere else.",
+      "steps": [
+        "An endemic species lives naturally in one defined region.",
+        "It is not found naturally anywhere else in the world.",
+        "The Maleo is found only in Indonesia.",
+        "Being restricted to one area makes the species vulnerable to local threats."
+      ]
+    },
+    {
+      "id": "6C-Q18b(ii)",
+      "no": "Q18(b)(ii)",
+      "marks": 1,
+      "topic": "Habitat Fragmentation Threat",
+      "keywords": ["habitat fragmentation", "endangered", "population isolation", "inbreeding", "gene flow", "forest", "beach", "Maleo"],
+      "question": "Give one reason why habitat fragmentation could endanger these birds.",
+      "status": "ready",
+      "answer": "Separating the forest from the beaches isolates populations, reducing gene flow and genetic diversity and increasing inbreeding.",
+      "steps": [
+        "Fragmentation cuts the forest off from the beaches where the birds must nest.",
+        "Breeding birds cannot easily reach the nesting sites.",
+        "Isolated populations become smaller and have less gene flow.",
+        "Reduced genetic diversity increases the risk of inbreeding and extinction."
+      ]
+    },
+    {
+      "id": "6C-Q18b(iii)",
+      "no": "Q18(b)(iii)",
+      "marks": 3,
+      "topic": "Maleo Breeding Adaptations",
+      "keywords": ["maleo", "egg", "sand incubation", "predators", "adults leaving", "flight", "survival", "advantages"],
+      "question": "Suggest the advantages of laying the egg in sand, of the adults leaving the site, and of the young birds being able to fly.",
+      "status": "ready",
+      "answer": "Sand gives protection and stable incubation; adults leaving avoids drawing predators to the nest; flight lets young escape quickly.",
+      "steps": [
+        "Burying the egg in sand protects it from predators and gives a stable incubation environment.",
+        "Adults leaving the site means no parents are present to draw predators to the nest.",
+        "Adults do not need to stay and care for the young, so they can return to safe forest.",
+        "Young birds that can fly straight away escape predators and reach the forest for food."
+      ]
+    },
+    {
+      "id": "6C-Q18b(iv)",
+      "no": "Q18(b)(iv)",
+      "marks": 2,
+      "topic": "Two Primers in PCR",
+      "keywords": ["PCR", "primers", "DNA polymerase", "both strands", "amplification", "complementary", "chick DNA", "eggshell"],
+      "question": "Explain why two different primers are needed to amplify one DNA molecule by PCR.",
+      "status": "ready",
+      "answer": "One primer binds each strand at opposite ends, so DNA polymerase copies in both directions and the target region is doubled each cycle.",
+      "steps": [
+        "DNA is double-stranded, with the two strands running in opposite directions.",
+        "Each primer is complementary to one strand at one end of the target region.",
+        "DNA polymerase extends from each primer, copying the region in opposite directions.",
+        "Both strands are copied, so each cycle doubles the amount of the target region."
+      ]
+    },
+    {
+      "id": "6C-Q18b(v)",
+      "no": "Q18(b)(v)",
+      "marks": 3,
+      "topic": "Monogamy Claim Sex Ratio",
+      "keywords": ["monogamy", "sex ratio", "1:1", "male female", "chicks", "genetic study", "sample size", "claim"],
+      "question": "Comment on the claim that Maleos are monogamous, given that 8 of 23 chicks sampled were female and 15 were male.",
+      "status": "ready",
+      "answer": "The skewed sex ratio (15 males to 8 females) does not match the 1:1 ratio that monogamy requires, so the claim is not supported.",
+      "steps": [
+        "Monogamy requires a 1:1 male to female ratio.",
+        "The sample has 15 males to 8 females, so there are more males than females.",
+        "With more males, some males cannot find a mate, so monogamy cannot apply to all birds.",
+        "The sample is small (23 chicks) and may not match the adult ratio, so more data are needed."
+      ]
+    },
+    {
+      "id": "6C-Q19a",
+      "no": "Q19(a)",
+      "marks": 1,
+      "topic": "Tobacco Mosaic Virus Type",
+      "keywords": ["tobacco mosaic virus", "RNA virus", "envelope", "virus structure", "capsid", "virus classification"],
+      "question": "Which describes tobacco mosaic virus (TMV)? Options: A DNA virus with an envelope, B DNA virus without an envelope, C RNA virus with an envelope, D RNA virus without an envelope.",
+      "status": "ready",
+      "answer": "D - RNA virus without an envelope.",
+      "steps": [
+        "TMV carries RNA as its genetic material, not DNA (so A and B are wrong).",
+        "TMV has a protein coat (capsid) but no lipid envelope.",
+        "So it is an RNA virus without an envelope.",
+        "Option C is wrong because it has an envelope."
+      ]
+    },
+    {
+      "id": "6C-Q19b(i)",
+      "no": "Q19(b)(i)",
+      "marks": 2,
+      "topic": "Unrecycled Plastic Mass",
+      "keywords": ["plastic", "recycled", "percentage", "standard form", "calculation", "kg", "waste"],
+      "question": "In 2018, 8.3 x 10^12 kg of plastic was produced and 8.7% was recycled. Calculate the mass not recycled, in standard form to 1 decimal place.",
+      "status": "ready",
+      "answer": "7.6 x 10^12 kg.",
+      "steps": [
+        "Percentage not recycled = 100 - 8.7 = 91.3%.",
+        "Mass not recycled = 8.3 x 10^12 x 0.913 kg.",
+        "= 7.578 x 10^12 kg.",
+        "To 1 decimal place in standard form: 7.6 x 10^12 kg."
+      ]
+    },
+    {
+      "id": "6C-Q19b(ii)",
+      "no": "Q19(b)(ii)",
+      "marks": 2,
+      "topic": "Microbial Plastic Breakdown",
+      "keywords": ["microorganisms", "plastic", "enzymes", "polymers", "breakdown", "hydrolysis", "genes", "bioremediation"],
+      "question": "Explain why some microorganisms can break down plastics.",
+      "status": "ready",
+      "answer": "They produce enzymes that hydrolyse the polymer bonds into smaller molecules that they can absorb and use.",
+      "steps": [
+        "Some microbes have genes that code for enzymes acting on plastic polymer chains.",
+        "The enzymes hydrolyse bonds, splitting the polymer into smaller molecules.",
+        "These small molecules can cross the cell membrane and be used by the microbe.",
+        "Such enzymes arose by mutation, and microbes that have them are favoured by selection."
+      ]
+    },
+    {
+      "id": "6C-Q19b(iii)",
+      "no": "Q19(b)(iii)",
+      "marks": 3,
+      "topic": "Breakdown Products to Biomass",
+      "keywords": ["breakdown products", "respiration", "biomass", "carbon dioxide", "biosynthesis", "Pseudomonas", "carbon source", "anabolism"],
+      "question": "Explain how the breakdown products of plastic become biomass and carbon dioxide, given that Pseudomonas uses half of the broken-down plastic for biomass and releases the rest as CO2.",
+      "status": "ready",
+      "answer": "Some products are oxidised in respiration to release CO2 and energy; others are used as a carbon source to build new biomass.",
+      "steps": [
+        "The bacterium absorbs the breakdown products.",
+        "Some are oxidised in respiration, releasing energy and CO2.",
+        "Others are used as a carbon source to build new molecules such as proteins, lipids and carbohydrates.",
+        "The division between respiration and biosynthesis gives the roughly half-and-half split described."
+      ]
+    },
+    {
+      "id": "6C-Q20a(i)",
+      "no": "Q20(a)(i)",
+      "marks": 2,
+      "topic": "NPP as Percentage of GPP",
+      "keywords": ["NPP", "GPP", "percentage", "energy flow", "trophic levels", "diagram", "calculation"],
+      "question": "Calculate the net primary productivity (NPP) as a percentage of the gross primary productivity (GPP) in this food chain.",
+      "status": "pending",
+      "answer": "Needs the GPP and NPP values from the energy-flow diagram (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q20a(ii)",
+      "no": "Q20(a)(ii)",
+      "marks": 3,
+      "topic": "Completing Energy Flow Diagram",
+      "keywords": ["energy flow", "arrows", "trophic levels", "respiration", "diagram", "box information", "food chain"],
+      "question": "Complete the right-hand side of the energy-flow diagram by adding arrows and the missing information in the box.",
+      "status": "pending",
+      "answer": "Needs the energy-flow diagram to complete the arrows and box (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q20a(iii)",
+      "no": "Q20(a)(iii)",
+      "marks": 3,
+      "topic": "Microbial Decomposition Enzymes",
+      "keywords": ["enzymes", "microorganisms", "decomposition", "extracellular digestion", "cellulose", "nutrients", "recycling", "decomposers"],
+      "question": "Explain the importance of enzymes produced by microorganisms in decomposition.",
+      "status": "ready",
+      "answer": "Decomposer enzymes digest complex molecules outside the cell into soluble products that can be absorbed, releasing nutrients for recycling.",
+      "steps": [
+        "Microorganisms secrete enzymes into their surroundings (extracellular digestion).",
+        "The enzymes hydrolyse complex molecules such as cellulose, proteins and lipids into smaller units.",
+        "These smaller molecules are soluble and can be absorbed by the microorganisms.",
+        "Mineral nutrients are released back into the soil, making them available to plants again."
+      ]
+    },
+    {
+      "id": "6C-Q20b",
+      "no": "Q20(b)",
+      "marks": 3,
+      "topic": "Trophic Level Number Trend",
+      "keywords": ["trophic level number", "diet", "China", "India", "meat", "plants", "population", "graph"],
+      "question": "Explain what the graph of trophic level number for China and India from 1960 to 2010 indicates about the diet of this population.",
+      "status": "pending",
+      "answer": "Needs the graph of trophic level number against year for China and India (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q21a",
+      "no": "Q21(a)",
+      "marks": 2,
+      "topic": "Totipotent Stem Cells",
+      "keywords": ["totipotent", "stem cells", "differentiation", "embryo", "cell type", "whole organism", "three-parent"],
+      "question": "State what is meant by totipotent stem cells.",
+      "status": "ready",
+      "answer": "Cells that can develop into any type of cell in the body and into a whole organism.",
+      "steps": [
+        "Stem cells are undifferentiated cells that can divide.",
+        "Totipotent cells can differentiate into all cell types of the body.",
+        "They can also form the extra-embryonic tissues needed for a whole embryo.",
+        "Only very early embryonic cells are totipotent; their potential is the greatest of all stem cells."
+      ]
+    },
+    {
+      "id": "6C-Q21b(i)",
+      "no": "Q21(b)(i)",
+      "marks": 1,
+      "topic": "DNA Movement in Gel",
+      "keywords": ["gel electrophoresis", "DNA", "negative charge", "positive electrode", "fragments", "movement", "charge"],
+      "question": "Which is the reason for the movement of the DNA fragments? Options: A negatively charged fragments move towards the negative end, B negatively charged fragments move towards the positive end, C positively charged fragments move towards the negative end, D positively charged fragments move towards the positive end.",
+      "status": "ready",
+      "answer": "B - negatively charged fragments move towards the positive end.",
+      "steps": [
+        "The phosphate backbone of DNA gives every fragment a negative charge.",
+        "Opposite charges attract, so DNA moves towards the positive electrode.",
+        "So negatively charged fragments move towards the positive end (B).",
+        "Smaller fragments move faster through the gel, spreading the bands by size."
+      ]
+    },
+    {
+      "id": "6C-Q21b(ii)",
+      "no": "Q21(b)(ii)",
+      "marks": 1,
+      "topic": "Heaviest DNA Band",
+      "keywords": ["heaviest DNA fragment", "gel electrophoresis", "band", "DNA size", "migration distance", "diagram", "band numbers"],
+      "question": "Which band on the gel contains the heaviest DNA fragments? Options: A 1, B 3, C 6, D 9.",
+      "status": "pending",
+      "answer": "Needs the Diagram 2 gel showing where bands 1, 3, 6 and 9 sit (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q21b(iii)",
+      "no": "Q21(b)(iii)",
+      "marks": 6,
+      "topic": "Three-Parent Banding Pattern",
+      "keywords": ["three-parent embryo", "mitochondrial DNA", "gel electrophoresis", "banding pattern", "maternal inheritance", "bands", "diagram"],
+      "question": "Explain the banding pattern of the three-parent embryo, using Diagram 1 and Diagram 2.",
+      "status": "pending",
+      "answer": "Needs Diagram 1 (how the embryo is made) and Diagram 2 (gel bands 1 to 12) (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q22a",
+      "no": "Q22(a)",
+      "marks": 4,
+      "topic": "Bacteria and High Temperature",
+      "keywords": ["bacteria", "temperature", "denaturation", "enzymes", "thermophiles", "60 C", "growth", "heat tolerance"],
+      "question": "Explain why most bacteria are killed above 60 deg C, but bacteria can grow slowly in the range 50 to 60 deg C.",
+      "status": "ready",
+      "answer": "Above 60 deg C enzymes and proteins denature in most bacteria, but heat-tolerant bacteria have stable enzymes that still work from 50 to 60 deg C.",
+      "steps": [
+        "Enzymes have an optimum temperature; above it their tertiary structure denatures.",
+        "At high temperature, membranes and proteins are damaged, so most bacteria die.",
+        "Between 50 and 60 deg C, the enzymes of heat-tolerant (thermophilic) bacteria are stable enough to catalyse reactions.",
+        "Their enzyme activity is limited, so these bacteria grow only slowly."
+      ]
+    },
+    {
+      "id": "6C-Q22b(i)",
+      "no": "Q22(b)(i)",
+      "marks": 3,
+      "topic": "Growth Rate Constant",
+      "keywords": ["growth rate constant", "exponential growth", "bacteria", "cells per cm3", "calculation", "natural log", "k"],
+      "question": "Bacteria increase from 5 x 10^3 to 1.3 x 10^5 cells per cm3 in 4 hours. Calculate the growth rate constant k.",
+      "status": "ready",
+      "answer": "k = 0.81 per hour (h^-1).",
+      "steps": [
+        "Exponential growth follows N = N0 e^(kt), so k = ln(N/N0) / t.",
+        "N/N0 = (1.3 x 10^5) / (5 x 10^3) = 26.",
+        "k = ln 26 / 4 = 3.258 / 4 = 0.81 per hour.",
+        "The units are per hour (h^-1)."
+      ]
+    },
+    {
+      "id": "6C-Q22b(ii)",
+      "no": "Q22(b)(ii)",
+      "marks": 1,
+      "topic": "Phase of Bacterial Growth",
+      "keywords": ["bacterial growth", "exponential phase", "lag phase", "stationary phase", "death phase", "growth rate constant", "formula"],
+      "question": "To which phase of bacterial growth can the growth rate constant formula be applied? Options: A death, B exponential, C lag, D stationary.",
+      "status": "ready",
+      "answer": "B - exponential.",
+      "steps": [
+        "In the lag phase, bacteria adjust to conditions and divide little.",
+        "In the exponential phase, cells divide at a constant rate, so growth is exponential.",
+        "The growth rate constant formula only applies where growth is exponential.",
+        "Stationary and death phases do not show constant exponential growth."
+      ]
+    },
+    {
+      "id": "6C-Q22c(i)",
+      "no": "Q22(c)(i)",
+      "marks": 3,
+      "topic": "Refrigerator Temperature",
+      "keywords": ["refrigerator", "bacteria", "enzymes", "low temperature", "growth rate", "food storage", "0 to 5 C"],
+      "question": "Explain why some foods are kept in refrigerators at a temperature between 0 and 5 deg C.",
+      "status": "ready",
+      "answer": "Low temperature slows bacterial enzyme activity and reproduction, slowing spoilage without killing most bacteria.",
+      "steps": [
+        "Bacterial growth depends on enzyme-controlled metabolism and cell division.",
+        "At 0 to 5 deg C enzymes work much more slowly, as molecules have less kinetic energy.",
+        "Bacterial reproduction and metabolism therefore slow down.",
+        "Bacteria are not killed, so food spoils more slowly but does not keep indefinitely."
+      ]
+    },
+    {
+      "id": "6C-Q22c(ii)",
+      "no": "Q22(c)(ii)",
+      "marks": 2,
+      "topic": "Freezer Stops Growth",
+      "keywords": ["freezer", "-18 C", "ice", "bacteria", "enzymes", "water availability", "growth", "freezing"],
+      "question": "Explain why there is no growth of bacteria in a freezer at -18 deg C.",
+      "status": "ready",
+      "answer": "At -18 deg C water is frozen and enzymes have too little kinetic energy to work, so metabolism and reproduction stop.",
+      "steps": [
+        "Water in the food is frozen into ice, so it is unavailable for metabolic reactions.",
+        "At very low temperature, molecules have too little energy for enzyme-controlled reactions.",
+        "Bacterial metabolism and cell division therefore stop.",
+        "The bacteria are dormant rather than killed, so they can resume growth when thawed."
+      ]
+    },
+    {
+      "id": "6C-Q23a(i)",
+      "no": "Q23(a)(i)",
+      "marks": 2,
+      "topic": "PCR for Plant DNA",
+      "keywords": ["PCR", "DNA", "amplify", "small sample", "resistance gene", "DNA profiling", "broccoli", "copies"],
+      "question": "Explain why PCR was used on the DNA samples extracted from the plants.",
+      "status": "ready",
+      "answer": "PCR makes many copies of the DNA, so there is enough to analyse by DNA profiling.",
+      "steps": [
+        "The DNA extracted from each plant sample is only a small amount.",
+        "PCR copies the target sequence many times (exponential amplification).",
+        "There is then enough DNA to run on gel electrophoresis for profiling.",
+        "This allows reliable detection of the inserted resistance gene."
+      ]
+    },
+    {
+      "id": "6C-Q23a(ii)",
+      "no": "Q23(a)(ii)",
+      "marks": 2,
+      "topic": "Role of Taq Polymerase",
+      "keywords": ["Taq polymerase", "DNA polymerase", "PCR", "heat-stable", "nucleotides", "synthesis", "primers", "template"],
+      "question": "Describe the role of Taq (DNA) polymerase in PCR.",
+      "status": "ready",
+      "answer": "A heat-stable DNA polymerase that builds new DNA strands from primers by adding nucleotides complementary to the template.",
+      "steps": [
+        "Taq polymerase is heat-stable, so it survives the high-temperature step of each cycle.",
+        "It attaches to primers already annealed to the DNA template.",
+        "It adds complementary nucleotides to build a new strand.",
+        "Each cycle copies the DNA, so the process repeats to multiply the target."
+      ]
+    },
+    {
+      "id": "6C-Q23b(i)",
+      "no": "Q23(b)(i)",
+      "marks": 1,
+      "topic": "Restriction Enzymes",
+      "keywords": ["restriction enzyme", "DNA fragments", "integrase", "reverse transcriptase", "RUBISCO", "enzyme type", "cutting DNA"],
+      "question": "Which type of enzyme is used to produce DNA fragments? Options: A integrase, B restriction enzyme, C reverse transcriptase, D RUBISCO.",
+      "status": "ready",
+      "answer": "B - restriction enzyme.",
+      "steps": [
+        "Restriction enzymes cut DNA at specific base sequences.",
+        "This produces DNA fragments of defined lengths.",
+        "Integrase inserts DNA, reverse transcriptase makes DNA from RNA, and RUBISCO fixes carbon dioxide.",
+        "So the restriction enzyme is the correct answer."
+      ]
+    },
+    {
+      "id": "6C-Q23b(ii)",
+      "no": "Q23(b)(ii)",
+      "marks": 3,
+      "topic": "Plant Sources of DNA",
+      "keywords": ["DNA profiling", "gel electrophoresis", "broccoli", "linseed", "resistance gene", "genetically engineered", "controls"],
+      "question": "Deduce the types of plants that supplied the DNA samples for this analysis, giving reasons.",
+      "status": "ready",
+      "answer": "Genetically engineered broccoli (to test for the gene), unmodified broccoli as a control, and linseed as the source of the resistance gene.",
+      "steps": [
+        "The aim is to identify broccoli plants that have taken up the resistance gene.",
+        "So the samples came from broccoli plants, both engineered and unmodified (as a control).",
+        "Linseed carries the resistance gene and can act as a positive reference sample.",
+        "Bands matching the linseed gene pattern in broccoli show successful genetic engineering."
+      ]
+    },
+    {
+      "id": "6C-Q24a(i)",
+      "no": "Q24(a)(i)",
+      "marks": 1,
+      "topic": "Cellulose Structure Row",
+      "keywords": ["cellulose", "structure", "table", "beta glucose", "glycosidic bonds", "unbranched", "lignin"],
+      "question": "Which row of the table describes the structure of cellulose?",
+      "status": "pending",
+      "answer": "Needs the table of structures (rows) to identify the cellulose row (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q24a(ii)",
+      "no": "Q24(a)(ii)",
+      "marks": 1,
+      "topic": "Enzymes in Bacteria and Fungi",
+      "keywords": ["bacteria", "fungi", "enzymes", "ribosomes", "nucleus", "endocytosis", "exocytosis", "prokaryote", "eukaryote"],
+      "question": "Which statements are correct for both bacteria and fungi? 1 enzymes are synthesised on ribosomes; 2 genes coding for the enzymes are in the nucleus; 3 enzymes are released by endocytosis. Options: A 1 only, B 1 and 2 only, C 2 only, D 2 and 3 only.",
+      "status": "ready",
+      "answer": "A - 1 only.",
+      "steps": [
+        "Both bacteria and fungi synthesise proteins on ribosomes, so statement 1 is correct.",
+        "Bacteria have no nucleus (their DNA is in the nucleoid), so statement 2 is wrong.",
+        "Enzymes are released by exocytosis, not endocytosis, so statement 3 is wrong.",
+        "Only statement 1 is correct, giving option A."
+      ]
+    },
+    {
+      "id": "6C-Q24b(i)",
+      "no": "Q24(b)(i)",
+      "marks": 1,
+      "topic": "Dry Mass Measurement",
+      "keywords": ["dry mass", "wet mass", "water content", "decomposition", "leaves", "organic matter", "measurement"],
+      "question": "Suggest why dry mass was measured, rather than wet mass, to show decomposition of leaves.",
+      "status": "ready",
+      "answer": "Wet mass varies with water content, which is not organic matter; dry mass shows the true loss of organic material.",
+      "steps": [
+        "Leaves hold variable amounts of water.",
+        "Wet mass would change with water content rather than with decomposition.",
+        "Drying removes the water, so the dry mass reflects only the remaining organic matter.",
+        "Dry mass therefore gives an accurate measure of decomposition."
+      ]
+    },
+    {
+      "id": "6C-Q24b(ii)",
+      "no": "Q24(b)(ii)",
+      "marks": 2,
+      "topic": "Rate of Dry Mass Loss",
+      "keywords": ["sugar maple", "dry mass", "rate of decrease", "30 days", "120 days", "percentage", "graph", "significant figures"],
+      "question": "Calculate the rate of decrease in percentage dry mass between 30 and 120 days for the sugar maple leaves, to 2 significant figures.",
+      "status": "pending",
+      "answer": "Needs the sugar maple percentage dry mass values at 30 and 120 days from the graph (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q24b(iii)",
+      "no": "Q24(b)(iii)",
+      "marks": 2,
+      "topic": "Comparing Leaf Decomposition",
+      "keywords": ["sugar maple", "white oak", "decomposition", "conclusions", "graph", "dry mass", "comparison"],
+      "question": "Describe two conclusions about the decomposition of sugar maple leaves compared with white oak leaves.",
+      "status": "pending",
+      "answer": "Needs the graph of percentage dry mass for sugar maple and white oak (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q24c(i)",
+      "no": "Q24(c)(i)",
+      "marks": 1,
+      "topic": "Bacterial Biomass Increase",
+      "keywords": ["bacteria", "biomass", "sugar maple", "30 days", "0 days", "times greater", "graph", "calculation"],
+      "question": "Calculate how many times greater the biomass of bacteria on sugar maple leaves is after 30 days compared with 0 days.",
+      "status": "pending",
+      "answer": "Needs the bacterial biomass values at 0 and 30 days from the graph (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q24c(ii)",
+      "no": "Q24(c)(ii)",
+      "marks": 2,
+      "topic": "Maple Leaf Bacterial Growth",
+      "keywords": ["sugar maple", "bacteria", "biomass", "nutrients", "lignin", "cellulose", "white oak", "substrate"],
+      "question": "Suggest why the increase in bacterial biomass after 30 days is greater on sugar maple leaves than on white oak leaves. Give a reason.",
+      "status": "ready",
+      "answer": "Sugar maple leaves are more easily broken down, with less tough lignin and more usable nutrients, so bacteria grow faster.",
+      "steps": [
+        "Tough, lignin-rich material is hard for bacteria to break down.",
+        "Sugar maple leaves are more easily decomposed, so they provide more usable food.",
+        "More usable food lets bacteria respire and divide faster.",
+        "So bacterial biomass increases more rapidly on sugar maple leaves."
+      ]
+    },
+    {
+      "id": "6C-Q24c(iii)",
+      "no": "Q24(c)(iii)",
+      "marks": 2,
+      "topic": "Bacterial Biomass Decline",
+      "keywords": ["white oak", "bacteria", "biomass decrease", "nutrients used up", "predation", "90 days", "competition", "decline"],
+      "question": "Suggest why the biomass of bacteria on white oak leaves decreased after 90 days. Give a reason.",
+      "status": "ready",
+      "answer": "The easily used nutrients run out, so bacteria starve and die, and grazers may eat them.",
+      "steps": [
+        "Bacteria use up the easily available nutrients on the leaves first.",
+        "As these are used up, food for the bacteria declines.",
+        "Bacteria may also be eaten by protists or small invertebrates (grazing).",
+        "Less food and more predation reduce bacterial growth and biomass."
+      ]
+    },
+    {
+      "id": "6C-Q25a(i)",
+      "no": "Q25(a)(i)",
+      "marks": 1,
+      "topic": "Forensic Entomology Term",
+      "keywords": ["forensic entomology", "insects", "time of death", "place of death", "mammal", "term", "chromatography"],
+      "question": "Which term describes the use of insects in determining the time and place of death of a mammal? Options: A chromatography, B dendrochronology, C forensic entomology, D heterozygosity.",
+      "status": "ready",
+      "answer": "C - forensic entomology.",
+      "steps": [
+        "Forensic entomology studies insects found on dead bodies.",
+        "It uses insect species and life stages to estimate the time and place of death.",
+        "Chromatography separates chemicals and dendrochronology dates tree rings (options A and B are wrong).",
+        "Heterozygosity is a genetics term unrelated to insects (option D is wrong)."
+      ]
+    },
+    {
+      "id": "6C-Q25a(ii)",
+      "no": "Q25(a)(ii)",
+      "marks": 1,
+      "topic": "Insect Evidence Factors",
+      "keywords": ["insects", "larvae", "species", "development stage", "size", "time of death", "forensic"],
+      "question": "Which factors provide information about the time of death? 1 species of insect, 2 size of larvae, 3 stages in development of insects. Options: A 1 only, B 1 and 3 only, C 2 and 3 only, D 1, 2 and 3.",
+      "status": "ready",
+      "answer": "D - 1, 2 and 3.",
+      "steps": [
+        "The insect species present indicates the stage of colonisation.",
+        "The size of larvae indicates how long they have been developing.",
+        "The developmental stage of insects follows a known time sequence.",
+        "All three factors give time information, so option D is correct."
+      ]
+    },
+    {
+      "id": "6C-Q25b(i)",
+      "no": "Q25(b)(i)",
+      "marks": 1,
+      "topic": "Accurate Corpse Temperature",
+      "keywords": ["body temperature", "liver", "probe", "core temperature", "corpse", "accuracy", "time of death"],
+      "question": "Which is the most accurate method of measuring the body temperature of a human corpse to determine time of death? Options: A temperature-sensitive strip on the forehead, B temperature probe into the liver, C thermometer under the tongue, D probe under the armpit.",
+      "status": "ready",
+      "answer": "B - pushing a temperature probe into the liver.",
+      "steps": [
+        "Deep organs such as the liver keep a core temperature that changes more slowly.",
+        "The liver is inside the body, so it best reflects the core temperature.",
+        "Surface sites (forehead, under the tongue, armpit) are strongly affected by air and skin temperature.",
+        "A probe in the liver gives the most accurate reading (so A, C and D are wrong)."
+      ]
+    },
+    {
+      "id": "6C-Q25b(ii)",
+      "no": "Q25(b)(ii)",
+      "marks": 1,
+      "topic": "Clothing and Ambient Temperature Effects",
+      "keywords": ["clothing", "ambient temperature", "body temperature", "time of death", "table", "estimate", "row"],
+      "question": "Which row of the table shows how more clothing and a higher ambient temperature would affect the estimated time of death?",
+      "status": "pending",
+      "answer": "Needs the table of rows showing the effects of clothing and ambient temperature (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q25c(i)",
+      "no": "Q25(c)(i)",
+      "marks": 3,
+      "topic": "Rigor Mortis Chemical Changes",
+      "keywords": ["ATP", "lactic acid", "pH", "rigor mortis", "muscle", "after death", "anaerobic respiration"],
+      "question": "Explain the changes in ATP, lactic acid and pH after the death of a mammal, using your own knowledge.",
+      "status": "ready",
+      "answer": "ATP falls as it is used up with no aerobic respiration; lactic acid rises from anaerobic respiration; pH falls as lactic acid accumulates.",
+      "steps": [
+        "After death there is no oxygen, so aerobic respiration stops and ATP is no longer made.",
+        "ATP is used up, so its level falls.",
+        "Muscle switches to anaerobic respiration, producing lactic acid that builds up.",
+        "Accumulating lactic acid lowers the pH (more acidic), affecting muscle proteins."
+      ]
+    },
+    {
+      "id": "6C-Q25c(ii)",
+      "no": "Q25(c)(ii)",
+      "marks": 3,
+      "topic": "Limits of Muscle Contraction",
+      "keywords": ["muscle contraction", "rigor mortis", "time of death", "graph", "stiffness", "incorrect estimate", "ATP"],
+      "question": "Explain why using the extent of muscle contraction by itself may give an incorrect time of death, using the graph.",
+      "status": "pending",
+      "answer": "Needs the graph of extent of muscle contraction against time after death (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q26a",
+      "no": "Q26(a)",
+      "marks": 1,
+      "topic": "Insect Method Name",
+      "keywords": ["forensic entomology", "insects", "numbers", "species", "time dead", "method", "chromatography"],
+      "question": "Which method uses the numbers and species of insects to estimate how long a mammal has been dead? Options: A chromatography, B dendrochronology, C evolution, D forensic entomology.",
+      "status": "ready",
+      "answer": "D - forensic entomology.",
+      "steps": [
+        "Forensic entomology uses the species and numbers of insects on a body.",
+        "Insect succession gives an estimate of how long the body has been dead.",
+        "Chromatography, dendrochronology and evolution do not estimate time of death from insects.",
+        "So option D is correct."
+      ]
+    },
+    {
+      "id": "6C-Q26b",
+      "no": "Q26(b)",
+      "marks": 4,
+      "topic": "Body Temperature and Stiffness Basis",
+      "keywords": ["body temperature", "muscle contraction", "rigor mortis", "cooling", "ATP", "time since death", "predictable", "corpse"],
+      "question": "Explain why body temperature and the degree of muscle contraction can be used to determine the time of death of a mammal.",
+      "status": "ready",
+      "answer": "Body temperature falls at a predictable rate, and rigor mortis develops in a predictable sequence as ATP runs out, so both give time-related measurements.",
+      "steps": [
+        "After death, heat is lost to the surroundings at a fairly predictable rate, so temperature falls with time.",
+        "The muscle stops respiring, so ATP runs out and actin-myosin cross-bridges lock, causing rigor mortis.",
+        "Rigor mortis then passes through a predictable sequence of onset, full stiffness and resolution.",
+        "Both changes can be calibrated against known times to estimate the time of death."
+      ]
+    },
+    {
+      "id": "6C-Q27a",
+      "no": "Q27(a)",
+      "marks": 3,
+      "topic": "Pollen Abundance Changes",
+      "keywords": ["pollen", "peat bog", "vegetation", "cereal crops", "beans", "pollen abundance", "New Mexico", "past plants"],
+      "question": "Explain why the abundance of the pollen types changes over time, as shown in the diagram of pollen in the New Mexico site.",
+      "status": "pending",
+      "answer": "Needs the pollen diagram showing the abundance of each pollen type over time (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q27b(i)",
+      "no": "Q27(b)(i)",
+      "marks": 1,
+      "topic": "May Temperature Range",
+      "keywords": ["temperature", "maximum", "minimum", "May", "Denmark", "graph", "range"],
+      "question": "Which is the difference between the maximum and minimum temperatures in May? Options: A 5 deg C, B 8 deg C, C 10 deg C, D 16 deg C.",
+      "status": "pending",
+      "answer": "Needs the graph of maximum and minimum mean temperatures for May (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q27b(ii)",
+      "no": "Q27(b)(ii)",
+      "marks": 5,
+      "topic": "Peat Bog Preservation",
+      "keywords": ["peat bog", "preservation", "low pH", "waterlogged", "anaerobic", "cold", "decomposers", "acidic", "tannins"],
+      "question": "Explain how the conditions in the peat bog preserved the body of the man who died over 2000 years ago.",
+      "status": "ready",
+      "answer": "Acidic, waterlogged, anaerobic and cold conditions stop decomposers, so the body was not broken down.",
+      "steps": [
+        "Waterlogged peat excludes oxygen, so aerobic decomposers cannot respire.",
+        "Low pH (acidic) inhibits many bacteria and fungi, slowing enzyme-driven decay.",
+        "Cold conditions reduce decomposer and enzyme activity.",
+        "Peat contains tannins and humic substances that act as preservatives.",
+        "Decay stops, so the skin and soft tissues are preserved."
+      ]
+    },
+    {
+      "id": "6C-Q28a",
+      "no": "Q28(a)",
+      "marks": 1,
+      "topic": "Other Time of Death Methods",
+      "keywords": ["time of death", "muscle contraction", "decomposition", "dendrochronology", "PCR", "methods", "mammal"],
+      "question": "Which of the following can also be used to determine the time of death of a mammal? Options: A dendrochronology and degree of muscle contraction, B degree of muscle contraction and extent of decomposition, C extent of decomposition and PCR, D PCR and dendrochronology.",
+      "status": "ready",
+      "answer": "B - degree of muscle contraction and extent of decomposition.",
+      "steps": [
+        "Muscle contraction (rigor mortis) changes with time since death.",
+        "The extent of decomposition also changes predictably with time after death.",
+        "Dendrochronology dates tree rings and PCR amplifies DNA, so neither estimates time of death from a corpse.",
+        "So option B is the correct pair."
+      ]
+    },
+    {
+      "id": "6C-Q28b(i)",
+      "no": "Q28(b)(i)",
+      "marks": 2,
+      "topic": "Cooling Curve Temperature",
+      "keywords": ["cooling curve", "body temperature", "time since death", "15 hours", "formula", "graph", "mammal"],
+      "question": "Using the cooling curve and the formula given, calculate the body temperature of a mammal that had been dead for 15 hours, to 1 decimal place.",
+      "status": "pending",
+      "answer": "Needs the cooling curve graph and the temperature formula shown with it (not in text).",
+      "steps": []
+    },
+    {
+      "id": "6C-Q28b(ii)",
+      "no": "Q28(b)(ii)",
+      "marks": 3,
+      "topic": "Body Fat and Cooling Curve",
+      "keywords": ["body fat", "insulation", "cooling curve", "heat loss", "slower", "temperature", "time since death"],
+      "question": "Explain how the cooling curve would change if the mammal had more body fat.",
+      "status": "ready",
+      "answer": "Fat insulates, so heat is lost more slowly; the curve becomes shallower and a standard curve would underestimate the time since death.",
+      "steps": [
+        "Body fat is an insulator, reducing heat transfer from the core to the surroundings.",
+        "Thicker fat slows heat loss, so the body cools more slowly.",
+        "The cooling curve becomes less steep (shallower).",
+        "At a given temperature more time has passed, so a standard curve would underestimate the time since death."
+      ]
+    },
+    {
+      "id": "6C-Q28b(iii)",
+      "no": "Q28(b)(iii)",
+      "marks": 3,
+      "topic": "Cooling Curve Equation",
+      "keywords": ["cooling curve", "equation", "y = mx + c", "gradient", "intercept", "time since death", "graph"],
+      "question": "Write the equation for the cooling curve shown in the graph, in the format y = mx + c.",
+      "status": "pending",
+      "answer": "Needs the cooling curve graph values to find the gradient m and intercept c (not in text).",
+      "steps": []
+    }
+  ]
+}

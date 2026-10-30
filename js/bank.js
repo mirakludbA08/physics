@@ -1,11 +1,26 @@
 /* IALqBank — question bank behaviour.
-   Renders the papers in window.BANK[subject], filters by topic, searches by
-   topic or keyword, hides answers until revealed, and opens the notes drawer. */
+   Reads the subject from ?s= (physics, chemistry, biology or maths), loads that
+   subject's data file, then renders papers, topic filters, keyword search,
+   hidden answers and the notes drawer. */
 (function () {
   'use strict';
 
-  const subject = document.body.dataset.subject || 'physics';
-  const data = (window.BANK && window.BANK[subject]) || { papers: [], notes: [] };
+  const SUBJECTS = {
+    physics: { title: 'Physics question bank', blurb: 'Past paper questions for Pearson Edexcel International AS and A Level Physics, grouped by paper. Answers stay hidden until you choose to reveal them, and each one opens into step-by-step working.' },
+    chemistry: { title: 'Chemistry question bank', blurb: 'Past paper questions for Pearson Edexcel International AS and A Level Chemistry, grouped by paper. Answers stay hidden until you choose to reveal them, and each one opens into step-by-step working.' },
+    biology: { title: 'Biology question bank', blurb: 'Past paper questions for Pearson Edexcel International AS and A Level Biology, grouped by paper. Answers stay hidden until you choose to reveal them, and each one opens into step-by-step working.' },
+    maths: { title: 'Maths question bank', blurb: 'Past paper topical questions for Pearson Edexcel International AS and A Level Mathematics, grouped by paper. Answers stay hidden until you choose to reveal them, and each one opens into step-by-step working.' }
+  };
+
+  const params = new URLSearchParams(location.search);
+  const subject = SUBJECTS[params.get('s')] ? params.get('s') : 'physics';
+  document.body.dataset.subject = subject;
+  document.title = SUBJECTS[subject].title + ' · IALqBank';
+  document.getElementById('subject-title').textContent = SUBJECTS[subject].title;
+  document.getElementById('subject-blurb').textContent = SUBJECTS[subject].blurb;
+  document.querySelectorAll('.subject-tab').forEach((a) => {
+    a.classList.toggle('active', a.dataset.subject === subject);
+  });
 
   const list = document.getElementById('question-list');
   const search = document.getElementById('q-search');
@@ -16,11 +31,29 @@
   const notesBody = document.getElementById('notes-body');
   const notesToggle = document.querySelector('.notes-toggle');
 
-  // Flatten every question and attach its paper so search and render stay simple.
-  const all = [];
-  data.papers.forEach((paper) => {
-    paper.questions.forEach((q) => all.push(Object.assign({ paper }, q)));
-  });
+  let all = [];
+  let data = { papers: [], notes: [] };
+  let activeBroad = '';   // broad topic picked in the filter panel, '' for all
+  let activeSub = '';     // subtopic picked under that broad topic, '' for all
+  const expanded = new Set(); // broad topics whose subtopic list is open
+  let TAXONOMY_FOR_SUBJECT = []; // broad topics and subtopics for this subject
+
+  /* Put each question into a broad topic and subtopic. The question's own topic
+     and keywords are tried first; the paper title is only a fallback. */
+  function classify(text) {
+    for (const b of TAXONOMY_FOR_SUBJECT) {
+      for (const s of b.subs) {
+        if (s.rx.test(text)) return { broad: b.broad, sub: s.name };
+      }
+    }
+    return null;
+  }
+  function assignTopic(q) {
+    const hit = classify([q.topic, (q.keywords || []).join(' ')].join(' | ')) ||
+      classify(q.paper.title) || { broad: 'Other', sub: 'General' };
+    q.broad = hit.broad;
+    q.sub = hit.sub;
+  }
 
   function el(tag, cls, text) {
     const n = document.createElement(tag);
@@ -31,8 +64,9 @@
 
   /* ---------- Search ---------- */
   // Split the query into words so "ball table" matches a question containing both.
-  function matches(q, terms, topic) {
-    if (topic && q.topic !== topic) return false;
+  function matches(q, terms) {
+    if (activeBroad && q.broad !== activeBroad) return false;
+    if (activeSub && q.sub !== activeSub) return false;
     if (!terms.length) return true;
     const haystack = [q.topic, q.paper.code, q.paper.title, q.no, q.question, q.answer, q.keywords.join(' ')]
       .join(' ')
@@ -40,22 +74,86 @@
     return terms.every((t) => haystack.includes(t));
   }
 
-  let activeTopic = '';
-
+  /* ---------- Topic panel: broad topics, each with an arrow to its subtopics ---------- */
   function renderFilters() {
-    const topics = Array.from(new Set(all.map((q) => q.topic))).sort();
+    // Count questions per broad topic and per subtopic, keeping taxonomy order.
+    const broadCounts = {};
+    const subCounts = {};
+    all.forEach((q) => {
+      broadCounts[q.broad] = (broadCounts[q.broad] || 0) + 1;
+      const key = q.broad + '\u0000' + q.sub;
+      subCounts[key] = (subCounts[key] || 0) + 1;
+    });
+    const order = (TAXONOMY_FOR_SUBJECT || []).map((b) => b.broad).concat(['Other']);
+    const broads = order.filter((b) => broadCounts[b]);
+
     filters.innerHTML = '';
-    ['All topics'].concat(topics).forEach((label) => {
-      const value = label === 'All topics' ? '' : label;
-      const b = el('button', 'filter-chip' + (value === activeTopic ? ' active' : ''), label);
-      b.type = 'button';
-      b.setAttribute('aria-pressed', String(value === activeTopic));
-      b.addEventListener('click', () => {
-        activeTopic = value;
+
+    const all_ = el('button', 'filter-chip' + (!activeBroad ? ' active' : ''), 'All topics (' + all.length + ')');
+    all_.type = 'button';
+    all_.setAttribute('aria-pressed', String(!activeBroad));
+    all_.addEventListener('click', () => {
+      activeBroad = '';
+      activeSub = '';
+      renderFilters();
+      render();
+    });
+    filters.appendChild(all_);
+
+    broads.forEach((broad) => {
+      const group = el('div', 'topic-group' + (expanded.has(broad) ? ' open' : ''));
+      const row = el('div', 'topic-row');
+
+      const pick = el('button', 'topic-pick' + (activeBroad === broad && !activeSub ? ' active' : ''));
+      pick.type = 'button';
+      pick.appendChild(el('span', 'topic-name', broad));
+      pick.appendChild(el('span', 'topic-count', String(broadCounts[broad])));
+      pick.setAttribute('aria-pressed', String(activeBroad === broad && !activeSub));
+      pick.addEventListener('click', () => {
+        activeBroad = broad;
+        activeSub = '';
         renderFilters();
         render();
       });
-      filters.appendChild(b);
+      row.appendChild(pick);
+
+      const subs = (TAXONOMY_FOR_SUBJECT || []).find((b) => b.broad === broad);
+      const names = subs ? subs.subs.map((s) => s.name) : [];
+      if (broad === 'Other') names.push('General');
+      const visible = names.filter((n) => subCounts[broad + '\u0000' + n]);
+      if (visible.length) {
+        const arrow = el('button', 'topic-arrow', '›');
+        arrow.type = 'button';
+        arrow.setAttribute('aria-label', 'Show ' + broad + ' subtopics');
+        arrow.setAttribute('aria-expanded', String(expanded.has(broad)));
+        arrow.addEventListener('click', () => {
+          if (expanded.has(broad)) expanded.delete(broad);
+          else expanded.add(broad);
+          renderFilters();
+        });
+        row.appendChild(arrow);
+      }
+      group.appendChild(row);
+
+      if (visible.length && expanded.has(broad)) {
+        const list = el('div', 'sub-list');
+        visible.forEach((name) => {
+          const s = el('button', 'sub-chip' + (activeBroad === broad && activeSub === name ? ' active' : ''));
+          s.type = 'button';
+          s.appendChild(el('span', 'topic-name', name));
+          s.appendChild(el('span', 'topic-count', String(subCounts[broad + '\u0000' + name])));
+          s.setAttribute('aria-pressed', String(activeBroad === broad && activeSub === name));
+          s.addEventListener('click', () => {
+            activeBroad = broad;
+            activeSub = name;
+            renderFilters();
+            render();
+          });
+          list.appendChild(s);
+        });
+        group.appendChild(list);
+      }
+      filters.appendChild(group);
     });
   }
 
@@ -109,7 +207,7 @@
 
   function render() {
     const terms = search.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
-    const shown = all.filter((q) => matches(q, terms, activeTopic));
+    const shown = all.filter((q) => matches(q, terms));
     list.innerHTML = '';
 
     if (!shown.length) {
@@ -120,13 +218,14 @@
       shown.forEach((q) => {
         if (q.paper !== currentPaper) {
           currentPaper = q.paper;
-          const h = el('h2', 'paper-head', 'Paper ' + q.paper.code + ' · ' + q.paper.title);
-          list.appendChild(h);
-          const pdf = el('a', 'paper-pdf', 'Open the original paper (PDF)');
-          pdf.href = q.paper.pdf;
-          pdf.target = '_blank';
-          pdf.rel = 'noopener';
-          list.appendChild(pdf);
+          list.appendChild(el('h2', 'paper-head', 'Paper ' + q.paper.code + ' · ' + q.paper.title));
+          if (q.paper.pdf) {
+            const pdf = el('a', 'paper-pdf', 'Open the original paper (PDF)');
+            pdf.href = q.paper.pdf;
+            pdf.target = '_blank';
+            pdf.rel = 'noopener';
+            list.appendChild(pdf);
+          }
         }
         list.appendChild(card(q));
       });
@@ -139,6 +238,10 @@
   /* ---------- Notes drawer ---------- */
   function renderNotes() {
     notesBody.innerHTML = '';
+    if (!data.notes.length) {
+      notesBody.appendChild(el('p', 'drawer-unit', 'Notes for this subject are coming soon.'));
+      return;
+    }
     let unit = null;
     data.notes.forEach((n) => {
       if (n.unit !== unit) {
@@ -164,10 +267,36 @@
   drawer.querySelector('.drawer-close').addEventListener('click', () => setDrawer(false));
   scrim.addEventListener('click', () => setDrawer(false));
   document.addEventListener('keydown', (e) => { if (e.key === 'Escape') setDrawer(false); });
-
   search.addEventListener('input', render);
 
-  renderFilters();
-  renderNotes();
-  render();
+  /* ---------- Load the subject's data file, then render ---------- */
+  function loadData(name) {
+    return new Promise((resolve, reject) => {
+      const s = document.createElement('script');
+      s.src = 'js/data/' + name + '.js';
+      s.onload = () => resolve(window.BANK && window.BANK[name]);
+      s.onerror = () => reject(new Error('Could not load ' + s.src));
+      document.head.appendChild(s);
+    });
+  }
+
+  loadData(subject)
+    .then((subjectData) => {
+      data = subjectData || { papers: [], notes: [] };
+      TAXONOMY_FOR_SUBJECT = (window.TAXONOMY && window.TAXONOMY[subject]) || [];
+      all = [];
+      data.papers.forEach((paper) => {
+        paper.questions.forEach((q) => {
+          const item = Object.assign({ paper }, q);
+          assignTopic(item);
+          all.push(item);
+        });
+      });
+      renderFilters();
+      renderNotes();
+      render();
+    })
+    .catch(() => {
+      list.appendChild(el('p', 'empty', 'Questions for this subject are coming soon.'));
+    });
 })();

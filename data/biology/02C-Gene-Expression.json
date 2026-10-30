@@ -1,0 +1,1915 @@
+{
+  "code": "2C",
+  "title": "Gene expression",
+  "unit": "A2 (inferred from content; unit number not stated in source)",
+  "pdf": "papers/biology/02C-Gene-Expression.pdf",
+  "questions": [
+    {
+      "id": "2C-Q1a",
+      "no": "Q1(a)",
+      "marks": 1,
+      "topic": "Reading Codons",
+      "keywords": ["dna sequence", "amino acids", "genetic code", "codon table", "translation", "base sequence"],
+      "question": "State the sequence of the first four amino acids coded for by the length of DNA shown in the diagram, using the codon table.",
+      "status": "pending",
+      "answer": "Pending: the DNA base diagram and the codon table are not in the text, so the amino acid sequence cannot be read.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q1b(i)",
+      "no": "Q1(b)(i)",
+      "marks": 2,
+      "topic": "Types Of Mutation",
+      "keywords": ["mutation", "substitution", "insertion", "deletion", "gene mutation", "base sequence", "frameshift"],
+      "question": "Name the type of each mutation: base 3 becomes C; base 6 becomes number 5 in the sequence; base 9 becomes number 10 in the sequence.",
+      "status": "ready",
+      "answer": "Base 3: substitution. Base 6: deletion. Base 9: insertion.",
+      "steps": [
+        "Base 3 is swapped for C, so one base is replaced by another: a substitution.",
+        "Base 6 now has number 5, so a base before it has been lost: a deletion.",
+        "Base 9 now has number 10, so an extra base has been added before it: an insertion.",
+        "Deletions and insertions shift the reading frame, so every later codon is changed."
+      ]
+    },
+    {
+      "id": "2C-Q1b(ii)",
+      "no": "Q1(b)(ii)",
+      "marks": 6,
+      "topic": "Mutation Effects",
+      "keywords": ["mutation effects", "amino acid sequence", "substitution", "insertion", "deletion", "frameshift", "codon table", "genetic code"],
+      "question": "Explain the possible effects of the substitution, deletion and insertion on the amino acid sequence, using the codon table.",
+      "status": "pending",
+      "answer": "Pending: the base sequence in the diagram is needed to show which codons change.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q2a",
+      "no": "Q2(a)",
+      "marks": 1,
+      "topic": "Gene Definition",
+      "keywords": ["gene", "definition", "dna", "polypeptide", "base sequence", "genetic information"],
+      "question": "Give the meaning of the term gene.",
+      "status": "ready",
+      "answer": "A sequence of DNA bases that codes for a polypeptide (or a functional RNA molecule).",
+      "steps": [
+        "A gene is a section of DNA, not a single base.",
+        "The order of its bases is read in triplets called codons.",
+        "The sequence codes for one polypeptide chain, which folds into a protein."
+      ]
+    },
+    {
+      "id": "2C-Q2b",
+      "no": "Q2(b)",
+      "marks": 3,
+      "topic": "Mutation And Cystic Fibrosis",
+      "keywords": ["cystic fibrosis", "cftr gene", "mutation", "amino acid sequence", "protein folding", "chloride channel", "mucus"],
+      "question": "Explain how mutations in the cystic fibrosis gene result in the disease.",
+      "status": "ready",
+      "answer": "A mutation changes the CFTR base sequence, so the protein has a different amino acid sequence; it folds wrongly and cannot move chloride ions, so mucus becomes thick.",
+      "steps": [
+        "A mutation changes the base sequence of the CFTR gene.",
+        "This changes a codon, so a different or missing amino acid is coded for.",
+        "The altered amino acid sequence changes how the CFTR protein folds (tertiary structure).",
+        "The faulty channel cannot move chloride ions out of cells, so water does not follow by osmosis and the mucus becomes thick and sticky."
+      ]
+    },
+    {
+      "id": "2C-Q2c",
+      "no": "Q2(c)",
+      "marks": 3,
+      "topic": "Carrier Screening",
+      "keywords": ["population carrier screening", "cystic fibrosis", "carrier", "recessive allele", "genetic screening", "prenatal testing", "births"],
+      "question": "Suggest why the number of babies born with cystic fibrosis fell after population carrier screening was introduced.",
+      "status": "ready",
+      "answer": "Carriers were identified, so couples who are both carriers could choose prenatal testing or PGD, or choose not to have children, so fewer babies inherit two recessive alleles.",
+      "steps": [
+        "Carrier screening identifies people with one recessive CF allele who show no symptoms.",
+        "Two carriers have a 1 in 4 chance of an affected child in each pregnancy.",
+        "Knowing this, at-risk couples can choose prenatal testing, PGD or not to have children.",
+        "Fewer children inherit two copies of the recessive allele, so fewer babies are born with CF."
+      ]
+    },
+    {
+      "id": "2C-Q3a",
+      "no": "Q3(a)",
+      "marks": 2,
+      "topic": "Miscarriage And Age",
+      "keywords": ["correlation", "miscarriage rate", "maternal age", "aneuploidy", "embryo screening", "data table"],
+      "question": "Explain, using the table, how the data show a correlation between the age of the mother and the miscarriage rate.",
+      "status": "pending",
+      "answer": "Pending: the miscarriage rate table with the ages is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q3b(i)",
+      "no": "Q3(b)(i)",
+      "marks": 2,
+      "topic": "Causes Of Miscarriage",
+      "keywords": ["miscarriage", "aneuploidy", "conclusion", "screening", "miscarriage rate", "data table"],
+      "question": "Explain the conclusions that can be drawn from the data about the causes of miscarriage.",
+      "status": "pending",
+      "answer": "Pending: the miscarriage rate table for screened and unscreened embryos is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q3b(ii)",
+      "no": "Q3(b)(ii)",
+      "marks": 3,
+      "topic": "Validity Of Conclusions",
+      "keywords": ["correlation", "causation", "validity", "confounding variable", "sample size", "controlled study", "miscarriage"],
+      "question": "Explain why conclusions made from these miscarriage data may not be valid.",
+      "status": "ready",
+      "answer": "A correlation does not prove causation; other factors were not controlled and the sample may be too small or unrepresentative.",
+      "steps": [
+        "A correlation shows two variables change together, not that one causes the other.",
+        "Other factors such as maternal health or lifestyle may also affect miscarriage (confounding variables).",
+        "If the sample is small or not representative, the results may not apply to all women.",
+        "Without controlled conditions, these other factors cannot be ruled out."
+      ]
+    },
+    {
+      "id": "2C-Q3c",
+      "no": "Q3(c)",
+      "marks": 3,
+      "topic": "Embryo Screening Implications",
+      "keywords": ["embryo screening", "aneuploidy", "implantation", "miscarriage", "ethics", "ivf", "false results"],
+      "question": "Discuss the implications of screening embryos for aneuploidy before implantation.",
+      "status": "ready",
+      "answer": "Fewer miscarriages and better implantation success, but high cost, possible false results and ethical concerns such as discarding embryos.",
+      "steps": [
+        "Only embryos with the correct chromosome number are implanted, so fewer miscarriages are expected.",
+        "This can improve success rates and reduce the emotional and physical stress of miscarriage.",
+        "Screening needs IVF, which is costly, and tests can give false results.",
+        "Ethical concerns include discarding embryos and choosing embryos on criteria other than health."
+      ]
+    },
+    {
+      "id": "2C-Q4a",
+      "no": "Q4(a)",
+      "marks": 6,
+      "topic": "Nature Of The Genetic Code",
+      "keywords": ["genetic code", "triplet code", "degenerate", "stop codon", "non-overlapping", "universal", "codon table"],
+      "question": "Explain the nature of the genetic code, using the codon table.",
+      "status": "pending",
+      "answer": "Pending: the codon table is not in the text, so the points about degeneracy and codons cannot be checked against it.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q4b(i)",
+      "no": "Q4(b)(i)",
+      "marks": 1,
+      "topic": "Reading A DNA Template",
+      "keywords": ["antisense strand", "template strand", "amino acid sequence", "codon", "genetic code", "base sequence"],
+      "question": "Give the sequence of amino acids coded for by the bases in the antisense strand shown in the diagram.",
+      "status": "pending",
+      "answer": "Pending: the base sequence of the antisense strand is in the diagram, which is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q4b(ii)",
+      "no": "Q4(b)(ii)",
+      "marks": 5,
+      "topic": "Substitution Effects",
+      "keywords": ["substitution mutation", "9th base", "amino acid", "protein", "genetic code", "codon table", "antisense strand"],
+      "question": "Explain the possible effects on a protein of a substitution mutation at the 9th base of the antisense strand, using the codon table.",
+      "status": "pending",
+      "answer": "Pending: the base sequence in the diagram and the codon table are needed to work out the effect.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q5a",
+      "no": "Q5(a)",
+      "marks": 1,
+      "topic": "Gene Definition",
+      "keywords": ["gene", "definition", "x chromosome", "dna", "polypeptide", "colour blindness"],
+      "question": "State what is meant by the term gene.",
+      "status": "ready",
+      "answer": "A sequence of DNA bases that codes for a polypeptide (or a functional RNA molecule).",
+      "steps": [
+        "A gene is a section of DNA.",
+        "Its base sequence is read as codons.",
+        "The codons code for one polypeptide chain."
+      ]
+    },
+    {
+      "id": "2C-Q5b",
+      "no": "Q5(b)",
+      "marks": 2,
+      "topic": "DNA Double Helix",
+      "keywords": ["double helix", "hydrogen bonds", "complementary base pairing", "adenine", "thymine", "cytosine", "guanine"],
+      "question": "Describe how the two strands of DNA in the double helix of a gene are held together.",
+      "status": "ready",
+      "answer": "By hydrogen bonds between complementary bases: A pairs with T (two bonds) and C pairs with G (three bonds).",
+      "steps": [
+        "Each strand has bases attached to a sugar-phosphate backbone.",
+        "Bases on opposite strands pair by complementary base pairing: A with T, C with G.",
+        "Hydrogen bonds form between each pair, and many of them together hold the strands together."
+      ]
+    },
+    {
+      "id": "2C-Q5c",
+      "no": "Q5(c)",
+      "marks": 3,
+      "topic": "Codon Length",
+      "keywords": ["codon", "triplet code", "genetic code", "amino acids", "four bases", "combinations"],
+      "question": "Explain why each codon in the DNA genetic code must contain at least three bases.",
+      "status": "ready",
+      "answer": "Four bases taken two at a time give only 16 codes, which is too few for 20 amino acids; triplets give 64 codes.",
+      "steps": [
+        "DNA has four different bases: A, C, G and T.",
+        "Doublets (two bases) give 4 x 4 = 16 different codes.",
+        "16 is fewer than the 20 amino acids that need coding.",
+        "Triplets give 4 x 4 x 4 = 64 codes, enough for all amino acids and stop codons."
+      ]
+    },
+    {
+      "id": "2C-Q5d",
+      "no": "Q5(d)",
+      "marks": 3,
+      "topic": "X-linked Inheritance",
+      "keywords": ["colour blindness", "x-linked", "probability", "genetic diagram", "heterozygous", "punnett square", "carrier"],
+      "question": "A colour-blind father and an unaffected heterozygous mother have a child. Determine the probability that the child is colour blind, using a genetic diagram.",
+      "status": "ready",
+      "answer": "1/2 (0.5)",
+      "steps": [
+        "Colour blindness is X-linked recessive: the father is X^bY and the mother is X^BX^b.",
+        "The father gives X^b (to daughters) or Y (to sons); the mother gives X^B or X^b, each with probability 1/2.",
+        "The four equally likely children are X^BX^b, X^bX^b, X^BY and X^bY, each with probability 1/4.",
+        "Colour-blind children are X^bX^b and X^bY, so 2 out of 4 = 1/2."
+      ]
+    },
+    {
+      "id": "2C-Q6a",
+      "no": "Q6(a)",
+      "marks": 6,
+      "topic": "Blood Clotting Components",
+      "keywords": ["blood clotting", "haemophilia", "clotting factors", "solubility", "thrombin", "fibrinogen", "table"],
+      "question": "Complete the table of blood clotting components by filling in the names, roles or solubility of each component.",
+      "status": "pending",
+      "answer": "Pending: the table of blood clotting components is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q6b",
+      "no": "Q6(b)",
+      "marks": 3,
+      "topic": "X-linked Haemophilia",
+      "keywords": ["haemophilia a", "x-linked", "males", "females", "recessive allele", "x chromosome", "colour blindness"],
+      "question": "Explain why more males than females are affected by haemophilia A, which is inherited like red-green colour blindness.",
+      "status": "ready",
+      "answer": "Males have one X chromosome, so one recessive allele causes the disorder; females need two recessive alleles.",
+      "steps": [
+        "The haemophilia A gene is on the X chromosome.",
+        "Males (XY) have only one X, so one recessive allele has no second allele to mask it.",
+        "Females (XX) need two recessive alleles to show the disorder.",
+        "Two recessive alleles in females are much less likely, so fewer females are affected."
+      ]
+    },
+    {
+      "id": "2C-Q7a",
+      "no": "Q7(a)",
+      "marks": 3,
+      "topic": "Monohybrid Genetic Diagram",
+      "keywords": ["genetic diagram", "rabbit fur", "brown", "white", "heterozygous", "punnett square", "phenotype", "genotype"],
+      "question": "Draw a genetic diagram showing the genotypes and phenotypes of offspring from two heterozygous brown rabbits (brown dominant, white recessive).",
+      "status": "ready",
+      "answer": "Parents Bb x Bb give 1 BB brown : 2 Bb brown : 1 bb white (3 brown : 1 white).",
+      "steps": [
+        "Brown is dominant (B) and white is recessive (b), so heterozygous rabbits are Bb.",
+        "Each parent gives B or b with probability 1/2 (meiosis separates the alleles).",
+        "The Punnett square gives BB, Bb, Bb and bb.",
+        "Offspring: 1 BB and 2 Bb are brown, 1 bb is white."
+      ]
+    },
+    {
+      "id": "2C-Q7b",
+      "no": "Q7(b)",
+      "marks": 3,
+      "topic": "Expected Numbers",
+      "keywords": ["expected ratio", "monohybrid cross", "homozygous", "heterozygous", "rabbits", "probability", "284"],
+      "question": "From 284 baby rabbits of heterozygous pairs, calculate the expected numbers of homozygous brown, heterozygous brown and white rabbits.",
+      "status": "ready",
+      "answer": "Homozygous brown 71; heterozygous brown 142; white 71.",
+      "steps": [
+        "The expected ratio from Bb x Bb is 1 BB : 2 Bb : 1 bb, so the probabilities are 1/4, 1/2 and 1/4.",
+        "Homozygous brown (BB): 1/4 x 284 = 71.",
+        "Heterozygous brown (Bb): 1/2 x 284 = 142.",
+        "White (bb): 1/4 x 284 = 71; check: 71 + 142 + 71 = 284."
+      ]
+    },
+    {
+      "id": "2C-Q8a",
+      "no": "Q8(a)",
+      "marks": 1,
+      "topic": "Genotype Definition",
+      "keywords": ["genotype", "phenotype", "alleles", "genetic makeup", "bengal tiger", "coat colour"],
+      "question": "State what is meant by the term genotype.",
+      "status": "ready",
+      "answer": "The alleles an organism carries for a particular gene (its genetic makeup).",
+      "steps": [
+        "Genotype describes which alleles an individual has for a gene.",
+        "Phenotype is the observable characteristic that results from the genotype."
+      ]
+    },
+    {
+      "id": "2C-Q8b",
+      "no": "Q8(b)",
+      "marks": 1,
+      "topic": "Sex Determination Probability",
+      "keywords": ["probability", "sex chromosomes", "female", "xx", "xy", "offspring", "tigers"],
+      "question": "State the probability that the next tiger born to these two parents will be female.",
+      "status": "ready",
+      "answer": "1/2 (0.5)",
+      "steps": [
+        "Females are XX and males are XY.",
+        "The father always gives an X or a Y; the mother always gives an X.",
+        "So each birth has a 1 in 2 chance of being female."
+      ]
+    },
+    {
+      "id": "2C-Q8c",
+      "no": "Q8(c)",
+      "marks": 3,
+      "topic": "Phenotypic Ratio",
+      "keywords": ["phenotypic ratio", "genetic diagram", "pedigree", "recessive allele", "white tigers", "orange tigers"],
+      "question": "Determine the expected phenotypic ratio of orange to white tigers born to the parents in the pedigree, using a genetic diagram.",
+      "status": "pending",
+      "answer": "Pending: the pedigree diagram showing the parents' phenotypes is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q8d",
+      "no": "Q8(d)",
+      "marks": 1,
+      "topic": "Incidence Calculation",
+      "keywords": ["incidence", "white tigers", "captivity", "calculation", "proportion", "1 in 30"],
+      "question": "Calculate the incidence of white tigers in captivity, given 200 white tigers out of approximately 6000 Bengal tigers.",
+      "status": "ready",
+      "answer": "200 / 6000 = 0.033 (about 1 in 30).",
+      "steps": [
+        "Incidence = number of white tigers divided by total tigers.",
+        "200 / 6000 = 0.0333.",
+        "This is about 1 in 30 tigers in captivity."
+      ]
+    },
+    {
+      "id": "2C-Q9a(i)",
+      "no": "Q9(a)(i)",
+      "marks": 2,
+      "topic": "Percentage Decrease",
+      "keywords": ["percentage decrease", "trachea", "lumen diameter", "cystic fibrosis", "cross section", "calculation"],
+      "question": "Calculate the percentage decrease in the diameter of the trachea lumen in a person with cystic fibrosis, measured between X and Y on each diagram.",
+      "status": "pending",
+      "answer": "Pending: the lumen measurements from the trachea diagrams are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q9a(ii)",
+      "no": "Q9(a)(ii)",
+      "marks": 6,
+      "topic": "CF Airway Changes",
+      "keywords": ["cystic fibrosis", "trachea", "mucus", "lumen", "chloride ions", "cftr protein", "airway"],
+      "question": "Explain why cystic fibrosis causes the differences shown in the trachea diagrams.",
+      "status": "pending",
+      "answer": "Pending: the differences shown in the trachea diagrams are not described in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q9b(i)",
+      "no": "Q9(b)(i)",
+      "marks": 3,
+      "topic": "Carrier Screening Trend",
+      "keywords": ["carrier identification", "genetic screening", "cystic fibrosis", "downward trend", "recessive allele", "prenatal testing"],
+      "question": "Explain how identifying carriers by genetic screening could have contributed to the downward trend in babies with cystic fibrosis.",
+      "status": "ready",
+      "answer": "Carriers are identified and can make informed reproductive choices, so fewer children inherit two CF alleles.",
+      "steps": [
+        "Screening identifies carriers (heterozygotes) who have one CF allele and no symptoms.",
+        "Couples who are both carriers know they have a 1 in 4 risk in each pregnancy.",
+        "They can use prenatal testing, PGD or choose not to have a child, which avoids affected births.",
+        "Fewer affected children are born, so the number of babies with CF falls."
+      ]
+    },
+    {
+      "id": "2C-Q9b(ii)",
+      "no": "Q9(b)(ii)",
+      "marks": 3,
+      "topic": "Ethics Of Genetic Screening",
+      "keywords": ["ethics", "genetic screening", "privacy", "discrimination", "informed consent", "abortion", "psychological"],
+      "question": "Describe the ethical issues relating to genetic screening.",
+      "status": "ready",
+      "answer": "Privacy of genetic data, discrimination, psychological stress, moral views on abortion, informed consent and false results.",
+      "steps": [
+        "Genetic information is personal, so privacy and confidentiality must be protected.",
+        "Results may lead to discrimination by employers or insurers.",
+        "Carriers or parents may face stress, and there may be pressure to terminate pregnancies.",
+        "Screening must be voluntary with informed consent, and false results can cause harm."
+      ]
+    },
+    {
+      "id": "2C-Q10a",
+      "no": "Q10(a)",
+      "marks": 3,
+      "topic": "CFTR Protein And Mucus",
+      "keywords": ["cftr protein", "chloride ions", "osmosis", "mucus", "cystic fibrosis", "mutation", "water"],
+      "question": "Explain why a mutation in the CFTR gene results in very thick, sticky mucus.",
+      "status": "ready",
+      "answer": "The mutated CFTR protein cannot move chloride ions out of cells, so water does not follow by osmosis and the mucus becomes thick.",
+      "steps": [
+        "A mutation changes the CFTR gene, so the protein has an altered shape or is absent.",
+        "CFTR is a chloride ion channel, so chloride ions cannot leave the cell.",
+        "Water does not follow the chloride ions by osmosis, so the mucus is less watery.",
+        "The mucus becomes very thick and sticky."
+      ]
+    },
+    {
+      "id": "2C-Q10b",
+      "no": "Q10(b)",
+      "marks": 5,
+      "topic": "Health Problems From Mucus",
+      "keywords": ["thick mucus", "cystic fibrosis", "health problems", "female", "digestion", "infection", "reproductive"],
+      "question": "Explain why very thick, sticky mucus results in the health problems shown in the diagram for a female with cystic fibrosis.",
+      "status": "pending",
+      "answer": "Pending: the diagram showing the health problems is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q10c(i)",
+      "no": "Q10(c)(i)",
+      "marks": 1,
+      "topic": "Chloride Concentration Graph",
+      "keywords": ["chloride ions", "sweat", "cftr function", "graph", "concentration", "cystic fibrosis"],
+      "question": "Which is the change in chloride ion concentration in sweat when CFTR function falls from 100% to 18%? Options: A 15, B 35, C 40, D 80 mmol dm^-3.",
+      "status": "pending",
+      "answer": "Pending: the values must be read from the graph, which is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q10c(ii)",
+      "no": "Q10(c)(ii)",
+      "marks": 2,
+      "topic": "Different CFTR Mutations",
+      "keywords": ["cftr gene", "different mutations", "graph", "level of function", "cystic fibrosis", "evidence"],
+      "question": "Explain how the graph of chloride concentration against CFTR function provides evidence that cystic fibrosis results from different mutations in the CFTR gene.",
+      "status": "pending",
+      "answer": "Pending: the graph data are needed to show the range of CFTR function values.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q11a",
+      "no": "Q11(a)",
+      "marks": 1,
+      "topic": "Definition Of Mutation",
+      "keywords": ["mutation", "definition", "base sequence", "dna", "genetic change", "cancer"],
+      "question": "State the meaning of the term mutation.",
+      "status": "ready",
+      "answer": "A change in the base sequence of DNA (genetic material).",
+      "steps": [
+        "A mutation is a random change in the genetic material.",
+        "It alters the base sequence of DNA, which may change a protein."
+      ]
+    },
+    {
+      "id": "2C-Q11b(i)",
+      "no": "Q11(b)(i)",
+      "marks": 1,
+      "topic": "Meaning Of Correlation",
+      "keywords": ["correlation", "definition", "variables", "uv exposure", "skin cancer", "statistics"],
+      "question": "State the meaning of the term correlation.",
+      "status": "ready",
+      "answer": "A relationship between two variables in which a change in one is associated with a change in the other.",
+      "steps": [
+        "A correlation is a statistical link between two variables.",
+        "It can be positive (both rise) or negative (one rises as the other falls).",
+        "It does not by itself show that one variable causes the other."
+      ]
+    },
+    {
+      "id": "2C-Q11b(ii)",
+      "no": "Q11(b)(ii)",
+      "marks": 3,
+      "topic": "Describing Correlations",
+      "keywords": ["correlation", "skin cancer", "uv exposure", "incidence", "males", "females", "graph"],
+      "question": "Describe the correlations shown by the graphs of skin cancer incidence in males and females from 2000 to 2005.",
+      "status": "pending",
+      "answer": "Pending: the graphs of skin cancer incidence are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q11b(iii)",
+      "no": "Q11(b)(iii)",
+      "marks": 3,
+      "topic": "Reasons For Correlations",
+      "keywords": ["uv light", "skin cancer", "mutation", "reason", "correlation", "males", "females"],
+      "question": "Suggest a reason for each of the correlations shown by the skin cancer graphs.",
+      "status": "pending",
+      "answer": "Pending: the trends in the graphs are needed to give specific reasons for each correlation.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q11c",
+      "no": "Q11(c)",
+      "marks": 6,
+      "topic": "Study Design Criticism",
+      "keywords": ["emphysema", "smokers", "study design", "sample size", "control group", "bias", "criticise"],
+      "question": "Criticise the design of the study of the incidence of emphysema in smokers and non-smokers, using the table.",
+      "status": "pending",
+      "answer": "Pending: the table of the emphysema study is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q12a",
+      "no": "Q12(a)",
+      "marks": 1,
+      "topic": "Liver Polysaccharide",
+      "keywords": ["glycogen", "polysaccharide", "liver", "glucose storage", "blood glucose", "diabetes"],
+      "question": "Which polysaccharide does the liver store when blood glucose is too high? A amylopectin, B cellulose, C glycogen, D starch.",
+      "status": "ready",
+      "answer": "C glycogen.",
+      "steps": [
+        "The liver stores excess glucose as glycogen, a branched polymer of glucose.",
+        "Amylopectin and starch are plant stores, and cellulose is a structural polysaccharide."
+      ]
+    },
+    {
+      "id": "2C-Q12b",
+      "no": "Q12(b)",
+      "marks": 1,
+      "topic": "Digestion Of Sugars",
+      "keywords": ["digestion", "disaccharide", "sucrose", "lactose", "glucose", "carbohydrate"],
+      "question": "Which pair of carbohydrates can be digested to release glucose? A fructose and sucrose, B fructose and galactose, C galactose and lactose, D lactose and sucrose.",
+      "status": "ready",
+      "answer": "D lactose and sucrose.",
+      "steps": [
+        "Sucrose is glucose plus fructose, so it releases glucose on digestion.",
+        "Lactose is glucose plus galactose, so it also releases glucose.",
+        "Fructose and galactose do not contain glucose."
+      ]
+    },
+    {
+      "id": "2C-Q12c(i)",
+      "no": "Q12(c)(i)",
+      "marks": 1,
+      "topic": "Undiagnosed Diabetes Calculation",
+      "keywords": ["undiagnosed diabetes", "percentage", "calculation", "415 million", "46%", "type ii diabetes"],
+      "question": "There are 415 million people with diabetes and 46% are undiagnosed. Calculate the number of people with undiagnosed diabetes.",
+      "status": "ready",
+      "answer": "190.9 million (about 191 million).",
+      "steps": [
+        "46% as a decimal is 0.46.",
+        "415 million x 0.46 = 190.9 million people."
+      ]
+    },
+    {
+      "id": "2C-Q12c(ii)",
+      "no": "Q12(c)(ii)",
+      "marks": 3,
+      "topic": "Screening For Diabetes",
+      "keywords": ["diabetes", "genetic screening", "prenatal testing", "type i", "type ii", "multifactorial", "diagnosis"],
+      "question": "Explain why doctors are more likely to screen individuals once they develop diabetes than use methods such as prenatal testing.",
+      "status": "ready",
+      "answer": "Diabetes is multifactorial (genes plus lifestyle), so a prenatal test cannot predict it reliably; screening after symptoms confirms the type needed for treatment.",
+      "steps": [
+        "Diabetes, especially Type II, is influenced by many genes and by environment and lifestyle, not by one gene.",
+        "A prenatal test can show only a genetic risk, not whether diabetes will develop.",
+        "Once symptoms appear, a test can confirm the diagnosis and type.",
+        "Type I and Type II need different treatments, so a correct diagnosis is essential."
+      ]
+    },
+    {
+      "id": "2C-Q13a",
+      "no": "Q13(a)",
+      "marks": 1,
+      "topic": "Pedigree Diagram Completion",
+      "keywords": ["pedigree", "taster", "non-taster", "phenylthiocarbamide", "ptc", "symbols", "individuals"],
+      "question": "Complete the pedigree diagram: individual 7 as a male taster, individual 8 as a male non-taster, individual 9 as a female taster.",
+      "status": "pending",
+      "answer": "Pending: the pedigree diagram is not in the text, so the symbols cannot be placed.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q13b(i)",
+      "no": "Q13(b)(i)",
+      "marks": 2,
+      "topic": "Gene And Allele",
+      "keywords": ["gene", "allele", "ptc", "bitter taste receptor", "taster", "non-taster", "dna"],
+      "question": "Describe the difference between a gene and an allele, using the PTC tasting example.",
+      "status": "ready",
+      "answer": "A gene is a section of DNA coding for the bitter-taste receptor; an allele is one of the different versions of that gene (e.g. taster or non-taster).",
+      "steps": [
+        "A gene is a section of DNA that codes for one characteristic, here the bitter-taste receptor.",
+        "Alleles are the different forms of the same gene.",
+        "The taster and non-taster versions are two alleles of the PTC gene."
+      ]
+    },
+    {
+      "id": "2C-Q13b(ii)",
+      "no": "Q13(b)(ii)",
+      "marks": 2,
+      "topic": "Genotype And Phenotype",
+      "keywords": ["genotype", "phenotype", "taster", "non-taster", "alleles", "observable characteristic"],
+      "question": "Describe the difference between a genotype and a phenotype, using the PTC tasting example.",
+      "status": "ready",
+      "answer": "Genotype is the alleles an individual has (e.g. TT, Tt or tt); phenotype is the observable trait (taster or non-taster).",
+      "steps": [
+        "Genotype is the combination of alleles an individual carries.",
+        "Phenotype is the observable characteristic produced by the genotype.",
+        "For example, a Tt individual has the genotype Tt and is a taster."
+      ]
+    },
+    {
+      "id": "2C-Q13c",
+      "no": "Q13(c)",
+      "marks": 2,
+      "topic": "Dominant Allele",
+      "keywords": ["dominant allele", "pedigree", "taster", "non-taster", "inheritance", "ptc"],
+      "question": "Explain which allele is dominant, using the information in the pedigree diagram.",
+      "status": "pending",
+      "answer": "Pending: the pedigree diagram is needed to see which phenotype appears in offspring of non-taster parents.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q13d",
+      "no": "Q13(d)",
+      "marks": 2,
+      "topic": "Autosomal Inheritance",
+      "keywords": ["x chromosome", "autosomal", "pedigree", "male to male", "inheritance", "ptc", "gene location"],
+      "question": "Explain why this gene is unlikely to be located on the X chromosome, using the pedigree diagram.",
+      "status": "pending",
+      "answer": "Pending: the pedigree diagram is needed to show male-to-male transmission or the pattern in the family.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q14a(i)",
+      "no": "Q14(a)(i)",
+      "marks": 3,
+      "topic": "Gene And Allele In Chickens",
+      "keywords": ["gene", "allele", "feather colour", "codominance", "black", "white", "chicken"],
+      "question": "Describe the difference between a gene and an allele, using feather colour in chickens to illustrate.",
+      "status": "ready",
+      "answer": "A gene controls feather colour; alleles are the different forms of that gene, such as black (B) and white (W).",
+      "steps": [
+        "The feather colour gene is a section of DNA that codes for the colour pigment.",
+        "Alleles are different forms of the same gene, such as the black allele B and the white allele W.",
+        "Each chicken carries two alleles for the gene."
+      ]
+    },
+    {
+      "id": "2C-Q14a(ii)",
+      "no": "Q14(a)(ii)",
+      "marks": 3,
+      "topic": "Genotype And Phenotype In Chickens",
+      "keywords": ["genotype", "phenotype", "codominance", "speckled", "feather colour", "chicken", "alleles"],
+      "question": "Describe the difference between a genotype and a phenotype, using feather colour to illustrate.",
+      "status": "ready",
+      "answer": "Genotype is the alleles (e.g. BW for speckled); phenotype is the feather colour seen (speckled).",
+      "steps": [
+        "Genotype is the pair of alleles the chicken carries, such as BW.",
+        "Phenotype is the feather colour produced by the genotype, such as speckled.",
+        "Because the alleles are codominant, both black and white show in BW chickens."
+      ]
+    },
+    {
+      "id": "2C-Q14b",
+      "no": "Q14(b)",
+      "marks": 3,
+      "topic": "Codominance Genetic Diagram",
+      "keywords": ["codominance", "genetic diagram", "speckled", "black", "expected number", "chicks", "bw"],
+      "question": "A black chicken was mated with a speckled chicken and they had 25 chicks. Determine the expected number of speckled chicks, using a genetic diagram.",
+      "status": "ready",
+      "answer": "12.5 (about 12 or 13 speckled chicks).",
+      "steps": [
+        "Black chickens are BB; speckled chickens are BW because the alleles are codominant.",
+        "The cross BB x BW gives gametes B from the black parent and B or W from the speckled parent.",
+        "Offspring: 1/2 BB (black) and 1/2 BW (speckled).",
+        "Expected speckled chicks = 1/2 x 25 = 12.5."
+      ]
+    },
+    {
+      "id": "2C-Q14c(i)",
+      "no": "Q14(c)(i)",
+      "marks": 1,
+      "topic": "Statistical Test",
+      "keywords": ["chi-squared test", "statistics", "null hypothesis", "expected", "observed", "chicks"],
+      "question": "Name the statistical test used to analyse the expected and actual numbers of chicks.",
+      "status": "ready",
+      "answer": "Chi-squared test.",
+      "steps": [
+        "Observed and expected counts in categories are compared with a chi-squared test.",
+        "It tests whether the difference is due to chance (null hypothesis)."
+      ]
+    },
+    {
+      "id": "2C-Q14c(ii)",
+      "no": "Q14(c)(ii)",
+      "marks": 2,
+      "topic": "Completing A Table",
+      "keywords": ["expected numbers", "chi-squared", "table", "speckled", "white", "black", "chicks"],
+      "question": "Complete the table of expected numbers of speckled, white and black chicks from 480 chicks.",
+      "status": "pending",
+      "answer": "Pending: the table of expected and actual chick numbers is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q14c(iii)",
+      "no": "Q14(c)(iii)",
+      "marks": 1,
+      "topic": "Chi-squared Calculation",
+      "keywords": ["chi-squared", "calculation", "observed", "expected", "chicks", "statistics"],
+      "question": "Calculate the chi-squared value for the chick data.",
+      "status": "pending",
+      "answer": "Pending: the observed and expected counts from the table are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q14c(iv)",
+      "no": "Q14(c)(iv)",
+      "marks": 2,
+      "topic": "Critical Value Table",
+      "keywords": ["critical value", "chi-squared", "null hypothesis", "degrees of freedom", "significance", "reject", "accept"],
+      "question": "Explain how a critical value table could be used to accept or reject the null hypothesis for this experiment.",
+      "status": "ready",
+      "answer": "Compare the calculated chi-squared value with the critical value at the correct degrees of freedom and significance level; reject the null hypothesis if the calculated value is larger.",
+      "steps": [
+        "Find the degrees of freedom (number of categories minus 1).",
+        "Read the critical value at the 0.05 significance level for that degrees of freedom.",
+        "If the calculated chi-squared value is larger, reject the null hypothesis (a significant difference).",
+        "If it is smaller, accept the null hypothesis (the difference is due to chance)."
+      ]
+    },
+    {
+      "id": "2C-Q15a(i)",
+      "no": "Q15(a)(i)",
+      "marks": 1,
+      "topic": "Glycogen Formation",
+      "keywords": ["glycogen", "condensation reaction", "glucose", "hydrolysis", "water removed", "polymer"],
+      "question": "Which statement about the formation of glycogen is correct? A glucose molecules join by a condensation reaction; B by hydrolysis; C by a condensation reaction; D by hydrolysis.",
+      "status": "ready",
+      "answer": "C (condensation: water is removed). Option A has the same wording, and B and D say hydrolysis, which is wrong.",
+      "steps": [
+        "Glycogen is built by joining glucose units together.",
+        "Joining monomers removes water, which is a condensation reaction.",
+        "Hydrolysis adds water and breaks polymers, so B and D are wrong."
+      ]
+    },
+    {
+      "id": "2C-Q15a(ii)",
+      "no": "Q15(a)(ii)",
+      "marks": 1,
+      "topic": "Glycosidic Bond",
+      "keywords": ["glycosidic bond", "glucose", "glycogen", "bond", "condensation"],
+      "question": "Name the bond that joins two glucose molecules together.",
+      "status": "ready",
+      "answer": "Glycosidic bond.",
+      "steps": [
+        "Two glucose molecules are joined by a 1,4-glycosidic bond.",
+        "The bond forms by condensation, with water removed."
+      ]
+    },
+    {
+      "id": "2C-Q15a(iii)",
+      "no": "Q15(a)(iii)",
+      "marks": 3,
+      "topic": "Glycogen Structure",
+      "keywords": ["glycogen", "energy storage", "branched", "insoluble", "glucose release", "structure", "function"],
+      "question": "Explain how the structure of glycogen relates to its role as an energy storage molecule.",
+      "status": "ready",
+      "answer": "Glycogen is a compact, insoluble, branched polymer, so it stores much glucose without affecting osmosis, and its many ends allow quick glucose release.",
+      "steps": [
+        "Glycogen is a polymer of many glucose units, which stores a large amount of energy in a small space.",
+        "It is compact and insoluble, so it does not change the water potential of cells.",
+        "The branches give many free ends where enzymes can act at once.",
+        "Glucose can therefore be released quickly when energy is needed."
+      ]
+    },
+    {
+      "id": "2C-Q15b(i)",
+      "no": "Q15(b)(i)",
+      "marks": 2,
+      "topic": "Estimating Disease Incidence",
+      "keywords": ["estimate", "von gierke disease", "glycogen storage disease", "incidence", "births", "percentage", "calculation"],
+      "question": "Between one in 20 000 and one in 25 000 babies are born with glycogen storage disease (GSD), and about 25% of GSD patients have Von Gierke disease. Estimate the number of babies born each year with Von Gierke disease in a country with 3.8 million births.",
+      "status": "ready",
+      "answer": "About 38 to 48 babies a year (midpoint about 43).",
+      "steps": [
+        "GSD births: 3 800 000 / 25 000 = 152 and 3 800 000 / 20 000 = 190.",
+        "Von Gierke is 25% of these: 0.25 x 152 = 38 and 0.25 x 190 = 47.5.",
+        "So the estimate is about 38 to 48 babies, roughly 43."
+      ]
+    },
+    {
+      "id": "2C-Q15b(ii)",
+      "no": "Q15(b)(ii)",
+      "marks": 2,
+      "topic": "Recessive Inheritance",
+      "keywords": ["recessive", "carriers", "unaffected parents", "inherited disease", "heterozygous", "von gierke"],
+      "question": "Suggest why the majority of babies with Von Gierke disease are born to parents who are not affected.",
+      "status": "ready",
+      "answer": "The disease is recessive, so unaffected parents are usually carriers, and carriers are far more common than affected people.",
+      "steps": [
+        "Von Gierke disease is inherited as a recessive allele.",
+        "Unaffected parents can be heterozygous carriers, each with one recessive allele.",
+        "Carriers are much more common in the population than people with the disease.",
+        "So most affected children come from two unaffected carrier parents."
+      ]
+    },
+    {
+      "id": "2C-Q16a(i)",
+      "no": "Q16(a)(i)",
+      "marks": 1,
+      "topic": "Products Of Lactose Digestion",
+      "keywords": ["lactose", "lactase", "digestion", "galactose", "glucose", "hydrolysis", "products"],
+      "question": "Which are the products of lactose digestion? A fructose and galactose, B fructose and glucose, C galactose and glucose, D glucose and glucose.",
+      "status": "ready",
+      "answer": "C galactose and glucose.",
+      "steps": [
+        "Lactose is a disaccharide made of glucose and galactose.",
+        "Lactase hydrolyses the glycosidic bond, releasing one glucose and one galactose."
+      ]
+    },
+    {
+      "id": "2C-Q16a(ii)",
+      "no": "Q16(a)(ii)",
+      "marks": 3,
+      "topic": "Enzyme Tertiary Structure",
+      "keywords": ["lactase", "active site", "tertiary structure", "lactose", "enzyme specificity", "complementary shape", "substrate"],
+      "question": "Explain how the three-dimensional structure of lactase affects its mechanism of action.",
+      "status": "ready",
+      "answer": "Its active site has a shape complementary to lactose, so only lactose binds; a change in shape means the substrate no longer fits.",
+      "steps": [
+        "The tertiary structure of lactase forms an active site with a specific shape.",
+        "Lactose binds to the active site because its shape is complementary (lock and key or induced fit).",
+        "The enzyme-substrate complex lowers the activation energy so lactose is hydrolysed.",
+        "If the 3D shape changes (e.g. denaturation), the active site changes and lactose cannot bind."
+      ]
+    },
+    {
+      "id": "2C-Q16b(i)",
+      "no": "Q16(b)(i)",
+      "marks": 1,
+      "topic": "Immobilised Enzyme Advantage",
+      "keywords": ["immobilised lactase", "advantage", "reuse", "enzyme", "lactose-free milk", "contamination"],
+      "question": "Suggest one advantage of using immobilised lactase rather than free lactase.",
+      "status": "ready",
+      "answer": "The enzyme can be reused and is easily removed, so the milk is not contaminated with enzyme.",
+      "steps": [
+        "Immobilised enzymes stay in the beads, so they do not mix with the milk.",
+        "Because the enzyme is not used up, it can be reused, which lowers cost."
+      ]
+    },
+    {
+      "id": "2C-Q16b(ii)",
+      "no": "Q16(b)(ii)",
+      "marks": 4,
+      "topic": "Effect Of pH On Lactase",
+      "keywords": ["ph", "lactase", "immobilised lactase", "free lactase", "enzyme activity", "active site", "denaturation"],
+      "question": "Explain the effects of pH on the activity of free lactase and immobilised lactase, using the table.",
+      "status": "pending",
+      "answer": "Pending: the table of pH and enzyme activity is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q16b(iii)",
+      "no": "Q16(b)(iii)",
+      "marks": 2,
+      "topic": "Measuring Enzyme Rate",
+      "keywords": ["lactase", "rate", "measure", "glucose produced", "units", "enzyme activity", "mmol min-1"],
+      "question": "Suggest how the rate of activity of lactase could be measured, including appropriate units.",
+      "status": "ready",
+      "answer": "Measure the amount of glucose (or galactose) produced per unit time, e.g. in mmol per minute (mmol min^-1).",
+      "steps": [
+        "Lactase hydrolyses lactose, so the product glucose builds up over time.",
+        "Measure glucose concentration at set times, e.g. with glucose test strips or a biosensor.",
+        "Rate = amount of product formed / time, giving units such as mmol min^-1."
+      ]
+    },
+    {
+      "id": "2C-Q16c",
+      "no": "Q16(c)",
+      "marks": 2,
+      "topic": "Geographic Distribution Of CLI",
+      "keywords": ["congenital lactose intolerance", "founder effect", "inbreeding", "recessive allele", "population", "genetic disorder"],
+      "question": "Suggest why most people with congenital lactose intolerance are found in one country.",
+      "status": "ready",
+      "answer": "The recessive allele is common in that population, through the founder effect or inbreeding.",
+      "steps": [
+        "CLI is a rare recessive genetic disorder.",
+        "A founder population or inbreeding can concentrate a recessive allele in that group.",
+        "Individuals who inherit two copies are then more common in that country."
+      ]
+    },
+    {
+      "id": "2C-Q17a",
+      "no": "Q17(a)",
+      "marks": 1,
+      "topic": "Definition Of Mutation",
+      "keywords": ["mutation", "definition", "dna", "base sequence", "amino acid sequence", "cancer"],
+      "question": "Which best describes a mutation? A change in the amino acid sequence in DNA, B change in the amino acid sequence in a protein, C change in the base sequence in DNA, D change in the base sequence in a protein.",
+      "status": "ready",
+      "answer": "C a change in the base sequence in DNA.",
+      "steps": [
+        "A mutation is a change to the base sequence of DNA.",
+        "Amino acid changes in proteins are a result of mutations, not the definition."
+      ]
+    },
+    {
+      "id": "2C-Q17b",
+      "no": "Q17(b)",
+      "marks": 1,
+      "topic": "Types Of Gene Mutation",
+      "keywords": ["gene mutation", "substitution", "insertion", "deletion", "frameshift", "types of mutation"],
+      "question": "Name two types of mutation.",
+      "status": "ready",
+      "answer": "Any two of: substitution, insertion, deletion.",
+      "steps": [
+        "A substitution replaces one base with another.",
+        "An insertion adds a base and a deletion removes a base (both cause frameshifts)."
+      ]
+    },
+    {
+      "id": "2C-Q17c",
+      "no": "Q17(c)",
+      "marks": 3,
+      "topic": "Cancer Cases By Age And Sex",
+      "keywords": ["cancer", "age", "sex", "cases", "graph", "incidence", "trend"],
+      "question": "Describe the effect of age and sex on the number of cases of one type of cancer, using the graph.",
+      "status": "pending",
+      "answer": "Pending: the graph of cancer cases by age and sex is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q18a(i)",
+      "no": "Q18(a)(i)",
+      "marks": 1,
+      "topic": "Sickle Cell Codon",
+      "keywords": ["sickle cell", "beta globin", "triplet code", "codon", "glu", "val", "mutation"],
+      "question": "Give the seventh triplet code in the beta-globin gene of a person with sickle cell disease, using the table of bases and amino acids.",
+      "status": "pending",
+      "answer": "Pending: the table of bases and amino acids is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q18a(ii)",
+      "no": "Q18(a)(ii)",
+      "marks": 1,
+      "topic": "Substitution Mutation",
+      "keywords": ["sickle cell", "substitution", "point mutation", "gene mutation", "single base", "beta globin"],
+      "question": "Name the type of mutation that causes sickle cell disease.",
+      "status": "ready",
+      "answer": "Substitution (a point mutation changing one base).",
+      "steps": [
+        "Sickle cell disease is caused by one base changed in the beta-globin gene.",
+        "A single base being replaced is a substitution mutation."
+      ]
+    },
+    {
+      "id": "2C-Q18a(iii)",
+      "no": "Q18(a)(iii)",
+      "marks": 3,
+      "topic": "Haemoglobin Sticking Together",
+      "keywords": ["haemoglobin", "hydrophobic", "valine", "glutamic acid", "sickle cell", "polar", "tertiary structure"],
+      "question": "Explain why replacing hydrophilic Glu with hydrophobic Val causes haemoglobin molecules to stick together.",
+      "status": "ready",
+      "answer": "Val is hydrophobic and sits on the surface, so it binds to hydrophobic patches on other haemoglobin molecules, and they stick together.",
+      "steps": [
+        "Glu is polar and hydrophilic, so it stays dissolved and interacts with water on the surface.",
+        "Val is hydrophobic (non-polar), so it is pushed out of the water and onto the surface.",
+        "The hydrophobic Val groups on one haemoglobin molecule bind to hydrophobic patches on others.",
+        "The haemoglobin molecules therefore clump together into fibres."
+      ]
+    },
+    {
+      "id": "2C-Q18b",
+      "no": "Q18(b)",
+      "marks": 2,
+      "topic": "Ratio Of Disease Births",
+      "keywords": ["sickle cell", "ratio", "estimate", "births", "140 million", "305 800", "incidence"],
+      "question": "In 2020 about 140 million babies were born and about 305 800 had sickle cell disease. Estimate the ratio of babies with the disease to those without it.",
+      "status": "ready",
+      "answer": "About 1 : 457.",
+      "steps": [
+        "Babies without the disease = 140 000 000 - 305 800 = 139 694 200.",
+        "Ratio = 139 694 200 / 305 800 = 456.8, so about 1 : 457."
+      ]
+    },
+    {
+      "id": "2C-Q18c(i)",
+      "no": "Q18(c)(i)",
+      "marks": 2,
+      "topic": "P50 Difference",
+      "keywords": ["p50", "oxygen dissociation curve", "sickle cell", "partial pressure", "kpa", "haemoglobin", "difference"],
+      "question": "Calculate the largest difference in p50 values between people with and without sickle cell disease, using the oxygen dissociation curves.",
+      "status": "pending",
+      "answer": "Pending: the p50 values must be read from the oxygen dissociation graph, which is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q18c(ii)",
+      "no": "Q18(c)(ii)",
+      "marks": 2,
+      "topic": "Oxygen Dissociation Conclusions",
+      "keywords": ["oxygen dissociation curve", "sickle cell", "conclusions", "graph", "saturation", "haemoglobin"],
+      "question": "Identify two conclusions, other than the p50 difference, that can be made from the oxygen dissociation graph.",
+      "status": "pending",
+      "answer": "Pending: the oxygen dissociation graph is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q18c(iii)",
+      "no": "Q18(c)(iii)",
+      "marks": 1,
+      "topic": "Red Blood Cell Lifespan",
+      "keywords": ["red blood cell", "lifespan", "percentage", "calculation", "sickle cell", "11 days"],
+      "question": "A red blood cell lifespan of 11 days in sickle cell disease is 9.17% of a healthy cell's lifespan. Calculate the healthy lifespan to the nearest day.",
+      "status": "ready",
+      "answer": "120 days.",
+      "steps": [
+        "9.17% = 0.0917.",
+        "Healthy lifespan = 11 / 0.0917 = 119.96.",
+        "To the nearest day this is 120 days."
+      ]
+    },
+    {
+      "id": "2C-Q18c(iv)",
+      "no": "Q18(c)(iv)",
+      "marks": 3,
+      "topic": "Sickle Cell Death",
+      "keywords": ["sickle cell", "haemoglobin", "sickle shaped", "capillaries", "oxygen", "death", "blockage"],
+      "question": "Explain why the changes in haemoglobin structure and red blood cell shape could result in death in sickle cell disease.",
+      "status": "ready",
+      "answer": "Sickled cells block capillaries and carry less oxygen, so tissues and organs are starved of oxygen and fail.",
+      "steps": [
+        "Abnormal haemoglobin molecules stick together and form fibres inside the cell.",
+        "The cells become sickle-shaped and less elastic, so they get stuck in capillaries.",
+        "Blocked capillaries and fewer working cells mean less oxygen reaches the tissues.",
+        "Tissues, especially vital organs, are damaged and may fail, causing death."
+      ]
+    },
+    {
+      "id": "2C-Q19a",
+      "no": "Q19(a)",
+      "marks": 2,
+      "topic": "Cancer Death Ratio",
+      "keywords": ["ratio", "cancer deaths", "two decimal places", "calculation", "541 589", "166 800"],
+      "question": "In 2018 in the UK there were 541 589 deaths, 166 800 caused by cancer. Calculate the ratio of cancer deaths to non-cancer deaths, to two decimal places.",
+      "status": "ready",
+      "answer": "0.45 : 1 (166 800 : 374 789).",
+      "steps": [
+        "Non-cancer deaths = 541 589 - 166 800 = 374 789.",
+        "Ratio = 166 800 / 374 789 = 0.445.",
+        "To two decimal places the ratio is 0.45 : 1."
+      ]
+    },
+    {
+      "id": "2C-Q19b(i)",
+      "no": "Q19(b)(i)",
+      "marks": 1,
+      "topic": "Other Mutation Types",
+      "keywords": ["mutation types", "cancer", "chart", "substitution", "insertion", "deletion", "proportion"],
+      "question": "Name two other types of mutation shown in the chart of cancers caused by different mutations.",
+      "status": "pending",
+      "answer": "Pending: the chart labels are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q19b(ii)",
+      "no": "Q19(b)(ii)",
+      "marks": 1,
+      "topic": "Reading A Chart",
+      "keywords": ["chart", "substitution mutation", "percentage of cancers", "type 3", "estimate"],
+      "question": "Estimate the percentage of cancers caused by type 3 substitution mutations, from the chart.",
+      "status": "pending",
+      "answer": "Pending: the bar values in the chart are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q19b(iii)",
+      "no": "Q19(b)(iii)",
+      "marks": 4,
+      "topic": "Silent Substitution",
+      "keywords": ["substitution", "dna", "mrna", "protein", "degenerate code", "silent mutation", "codon"],
+      "question": "Explain how a substitution mutation can change the DNA and mRNA but not the protein made from the gene.",
+      "status": "ready",
+      "answer": "The base change alters one codon, but the new codon still codes for the same amino acid because the genetic code is degenerate.",
+      "steps": [
+        "The substitution changes one base, so the DNA base sequence changes.",
+        "The mRNA is transcribed from it, so the mRNA codon is also changed.",
+        "Because the genetic code is degenerate, more than one codon can code for the same amino acid.",
+        "The new codon still codes for the same amino acid, so the protein is unchanged (a silent mutation)."
+      ]
+    },
+    {
+      "id": "2C-Q19c(i)",
+      "no": "Q19(c)(i)",
+      "marks": 1,
+      "topic": "Probability In PKU Pedigree",
+      "keywords": ["pku", "probability", "pedigree", "autosomal recessive", "male", "affected", "genetic diagram"],
+      "question": "What is the probability that couple 1 and 2 have a fourth child who is a male affected by PKU? Options: A 0.000, B 0.125, C 0.250, D 0.500.",
+      "status": "pending",
+      "answer": "Pending: the pedigree needs to be checked to confirm both parents are heterozygous carriers (option B would then be correct).",
+      "steps": []
+    },
+    {
+      "id": "2C-Q19c(ii)",
+      "no": "Q19(c)(ii)",
+      "marks": 6,
+      "topic": "Pedigree Genotypes",
+      "keywords": ["pedigree", "genotypes", "pku", "autosomal recessive", "phenotype", "evidence", "family"],
+      "question": "Discuss the extent to which the PKU pedigree diagram can be used to identify the genotypes of all members of the family.",
+      "status": "pending",
+      "answer": "Pending: the pedigree diagram is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q20a",
+      "no": "Q20(a)",
+      "marks": 2,
+      "topic": "Colour Blindness Statistics",
+      "keywords": ["colour blindness", "statistics", "table", "india", "malaysia", "percentage", "population"],
+      "question": "Complete the table giving the number of people with red-green colour blindness in India and the percentage in Malaysia.",
+      "status": "pending",
+      "answer": "Pending: the statistics table is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q20b(i)",
+      "no": "Q20(b)(i)",
+      "marks": 1,
+      "topic": "Sex Ratio Of Colour Blindness",
+      "keywords": ["ratio", "colour blind males", "females", "malaysia", "6.7%", "0.4%", "calculation"],
+      "question": "The percentage of males in Malaysia who are colour blind is 6.7% and of females 0.4%. Calculate the ratio of colour blind males to females.",
+      "status": "ready",
+      "answer": "16.75 : 1 (about 17 : 1).",
+      "steps": [
+        "Ratio = 6.7 / 0.4.",
+        "6.7 / 0.4 = 16.75, so the ratio is 16.75 : 1."
+      ]
+    },
+    {
+      "id": "2C-Q20b(ii)",
+      "no": "Q20(b)(ii)",
+      "marks": 4,
+      "topic": "X-linked Sex Difference",
+      "keywords": ["colour blindness", "x-linked", "males", "females", "heterozygous", "recessive", "x chromosome", "y chromosome"],
+      "question": "Explain why the percentage of colour blind males is greater than the percentage of colour blind females.",
+      "status": "ready",
+      "answer": "Males have one X chromosome, so one recessive allele causes colour blindness; females need two recessive alleles, which is much rarer.",
+      "steps": [
+        "The gene is on the X chromosome; males are XY and have only one X.",
+        "A single recessive allele on that X is expressed in males because the Y has no gene for colour vision.",
+        "Females (XX) need two recessive alleles, so they must be homozygous to be colour blind.",
+        "The chance of two recessive alleles is much lower than one, so fewer females are affected."
+      ]
+    },
+    {
+      "id": "2C-Q21a",
+      "no": "Q21(a)",
+      "marks": 2,
+      "topic": "Codominance Explanation",
+      "keywords": ["codominance", "blood type", "heterozygous", "both alleles expressed", "antigen", "pedigree"],
+      "question": "Explain why the inheritance of blood type shown in the pedigree is an example of codominance.",
+      "status": "ready",
+      "answer": "In a heterozygote both alleles are fully expressed, so both antigens appear and neither allele is masked.",
+      "steps": [
+        "Codominant alleles are both expressed in a heterozygous individual.",
+        "Individuals 1 and 2 are homozygous for different blood types.",
+        "Their heterozygous child shows both antigens, so neither allele is dominant or recessive."
+      ]
+    },
+    {
+      "id": "2C-Q21b",
+      "no": "Q21(b)",
+      "marks": 4,
+      "topic": "Blood Type Ratio",
+      "keywords": ["blood type", "genetic diagram", "ratio", "codominance", "individuals 3 and 4", "phenotype ratio"],
+      "question": "Determine the ratio of possible blood type phenotypes of the children of individuals 3 and 4, drawing a genetic diagram.",
+      "status": "pending",
+      "answer": "Pending: the genotypes of individuals 3 and 4 are shown in the pedigree, which is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q21c(i)",
+      "no": "Q21(c)(i)",
+      "marks": 3,
+      "topic": "Codominant Membrane Proteins",
+      "keywords": ["codominance", "blood type", "membrane proteins", "alleles", "glycoprotein", "red blood cells", "individual 3"],
+      "question": "Explain how the alleles present in individual 3 result in the proteins found on the surfaces of his red blood cells, using the diagram of red blood cells.",
+      "status": "pending",
+      "answer": "Pending: the red blood cell diagram and individual 3's genotype are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q21c(ii)",
+      "no": "Q21(c)(ii)",
+      "marks": 6,
+      "topic": "Effects Of Blood Group Mutation",
+      "keywords": ["mutation", "blood type", "phenotype", "membrane protein", "antigen", "substitution", "frameshift"],
+      "question": "Discuss the possible effects that a mutation in one of the genes coding for this blood type could have on the phenotype of individual 3.",
+      "status": "ready",
+      "answer": "The effect depends on the mutation: it may be silent, change the antigen shape, or stop the protein being made, so the blood group phenotype may change.",
+      "steps": [
+        "A substitution may code for the same amino acid (silent), so the phenotype is unchanged.",
+        "A substitution that changes an amino acid can alter the antigen shape, so the blood group may change.",
+        "A deletion or insertion shifts the reading frame, so a non-functional protein or none is made.",
+        "Loss of the antigen from one allele may be hidden or only partly changed if the other allele is still expressed in a heterozygote."
+      ]
+    },
+    {
+      "id": "2C-Q22a",
+      "no": "Q22(a)",
+      "marks": 3,
+      "topic": "Choice Of FEV1",
+      "keywords": ["fev1", "cystic fibrosis", "lung function", "mean change", "treatment", "drug combination", "measurement"],
+      "question": "Explain why the change in mean FEV1 was used in this investigation of a three-drug combination for cystic fibrosis.",
+      "status": "ready",
+      "answer": "FEV1 is a measure of lung function, and the change in mean FEV1 shows the effect of the treatment on each group.",
+      "steps": [
+        "FEV1 is the volume of air forcibly exhaled in one second, a measure of lung function.",
+        "A change in mean FEV1 shows whether the treatment improved lung function.",
+        "Using the change compares the starting and finishing values for each group fairly."
+      ]
+    },
+    {
+      "id": "2C-Q22b",
+      "no": "Q22(b)",
+      "marks": 2,
+      "topic": "Limits Of The Study",
+      "keywords": ["three-drug combination", "single drugs", "control group", "comparison", "effectiveness", "cystic fibrosis"],
+      "question": "Explain why the results of this investigation do not show that the three-drug treatment is more effective than using each drug on its own.",
+      "status": "ready",
+      "answer": "Each drug alone was not tested in the study, so there is no comparison to show the combination is better.",
+      "steps": [
+        "The study compared the combination with a different group, not with each drug given alone.",
+        "Without a group taking each drug separately, the extra benefit of the combination cannot be shown."
+      ]
+    },
+    {
+      "id": "2C-Q22c",
+      "no": "Q22(c)",
+      "marks": 2,
+      "topic": "Drug Combination Benefit",
+      "keywords": ["drug combination", "cystic fibrosis", "effectiveness", "different mechanisms", "cftr", "synergy"],
+      "question": "Suggest why a combination of drugs could be more effective in treating cystic fibrosis than each drug used alone.",
+      "status": "ready",
+      "answer": "Different drugs can target different faults in the CFTR protein, so their effects add together or work together.",
+      "steps": [
+        "Different mutations in CFTR cause different faults in the protein.",
+        "Each drug may correct a different fault (e.g. folding or channel opening).",
+        "Together they can work at more than one point, giving a larger total effect."
+      ]
+    },
+    {
+      "id": "2C-Q23a",
+      "no": "Q23(a)",
+      "marks": 4,
+      "topic": "Prenatal Test For PKU",
+      "keywords": ["pku", "prenatal testing", "healthy couple", "carriers", "genetic diagram", "1 in 4", "recessive"],
+      "question": "Explain why a healthy couple might choose a prenatal test for PKU, drawing a genetic diagram.",
+      "status": "ready",
+      "answer": "Both parents are carriers (Pp), so each child has a 1 in 4 chance of PKU (pp); prenatal testing shows whether the embryo is affected.",
+      "steps": [
+        "PKU is autosomal recessive; a healthy couple may both be carriers (Pp).",
+        "Cross Pp x Pp gives PP, Pp, Pp and pp in a ratio of 1 : 2 : 1.",
+        "Each pregnancy has a 1/4 chance of an affected child (pp).",
+        "Prenatal testing can show whether the embryo has PKU, so the couple can make an informed choice."
+      ]
+    },
+    {
+      "id": "2C-Q23b",
+      "no": "Q23(b)",
+      "marks": 6,
+      "topic": "Responses To Screening",
+      "keywords": ["screening", "amniocentesis", "blood test", "termination", "graph", "genetic disorders", "ethics"],
+      "question": "Discuss the responses of women to three questions about screening for four genetic disorders, using the graph and table.",
+      "status": "pending",
+      "answer": "Pending: the graph and table of genetic disorders are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q24a",
+      "no": "Q24(a)",
+      "marks": 3,
+      "topic": "Lung Adaptations",
+      "keywords": ["lungs", "gas exchange", "alveoli", "surface area", "capillaries", "thin walls", "adaptation"],
+      "question": "Explain how human lungs are adapted for rapid gas exchange.",
+      "status": "ready",
+      "answer": "Many thin-walled alveoli give a large surface area, and a rich capillary network keeps a steep concentration gradient.",
+      "steps": [
+        "The alveoli give a large surface area for diffusion.",
+        "Alveolar walls are one cell thick, so the diffusion distance is short.",
+        "A dense capillary network maintains a steep concentration gradient for oxygen and carbon dioxide.",
+        "Ventilation keeps the air in the alveoli fresh with high oxygen concentration."
+      ]
+    },
+    {
+      "id": "2C-Q24b(i)",
+      "no": "Q24(b)(i)",
+      "marks": 1,
+      "topic": "Definition Of Allele",
+      "keywords": ["allele", "definition", "gene", "cftr", "f508", "alternative form"],
+      "question": "State what is meant by the term allele.",
+      "status": "ready",
+      "answer": "An alternative form of a gene, found at the same locus on homologous chromosomes.",
+      "steps": [
+        "A gene can exist in different versions.",
+        "These versions are alleles and occupy the same position (locus) on homologous chromosomes."
+      ]
+    },
+    {
+      "id": "2C-Q24b(ii)",
+      "no": "Q24(b)(ii)",
+      "marks": 4,
+      "topic": "F508 Non-functional Protein",
+      "keywords": ["f508", "cftr", "deletion", "amino acid", "protein folding", "non-functional", "cystic fibrosis"],
+      "question": "The F508 mutation gives a CFTR protein with one missing amino acid. Explain how this results in a non-functioning protein.",
+      "status": "ready",
+      "answer": "Losing one amino acid changes the primary structure, so the protein folds incorrectly and cannot work as a chloride channel.",
+      "steps": [
+        "Three bases (one codon) are deleted, so one amino acid is missing from the polypeptide.",
+        "The primary structure changes, which alters the hydrogen and ionic bonds in the chain.",
+        "The protein folds into the wrong tertiary shape.",
+        "The misfolded CFTR cannot act as a chloride channel, so it does not function."
+      ]
+    },
+    {
+      "id": "2C-Q24b(iii)",
+      "no": "Q24(b)(iii)",
+      "marks": 4,
+      "topic": "Lung Infections In CF",
+      "keywords": ["lung infection", "cystic fibrosis", "mucus", "cilia", "bacteria", "airways", "clearance"],
+      "question": "Explain why people with cystic fibrosis may develop lung infections.",
+      "status": "ready",
+      "answer": "Thick mucus cannot be cleared by cilia, so bacteria are trapped and multiply in the airways.",
+      "steps": [
+        "Faulty CFTR means chloride and water do not pass out, so mucus is thick and sticky.",
+        "Cilia cannot move this mucus, so it is not cleared from the airways.",
+        "Trapped bacteria grow in the warm, moist mucus and cause infection.",
+        "The inflammatory response then damages the lungs further."
+      ]
+    },
+    {
+      "id": "2C-Q25a(i)",
+      "no": "Q25(a)(i)",
+      "marks": 1,
+      "topic": "CMT Genotype Table",
+      "keywords": ["charcot-marie-tooth", "pedigree", "genotype", "phenotype", "recessive", "individual 1", "table"],
+      "question": "Which row of the table shows the genotype and phenotype of individual 1 in the pedigree?",
+      "status": "pending",
+      "answer": "Pending: the table rows and pedigree are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q25a(ii)",
+      "no": "Q25(a)(ii)",
+      "marks": 1,
+      "topic": "Possible Genotypes Of Individual 3",
+      "keywords": ["pedigree", "charcot-marie-tooth", "allele combinations", "recessive", "individual 3", "cc", "cc or cc"],
+      "question": "Which allele combinations could individual 3 have? A CC only, B cc only, C CC or cc, D CC or Cc.",
+      "status": "pending",
+      "answer": "Pending: individual 3's phenotype is shown in the pedigree, which is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q25a(iii)",
+      "no": "Q25(a)(iii)",
+      "marks": 1,
+      "topic": "Probability Of Female With CMT",
+      "keywords": ["probability", "charcot-marie-tooth", "recessive", "female", "fourth child", "pedigree", "genetic diagram"],
+      "question": "What is the probability that a fourth child would be a female with CMT? Options: A 1 in 2, B 1 in 4, C 1 in 8, D 1 in 16.",
+      "status": "pending",
+      "answer": "Pending: the parents' genotypes come from the pedigree, which is not in the text (1 in 8, option C, if both parents are carriers).",
+      "steps": []
+    },
+    {
+      "id": "2C-Q25b(i)",
+      "no": "Q25(b)(i)",
+      "marks": 1,
+      "topic": "Dominant CMT Calculation",
+      "keywords": ["charcot-marie-tooth", "dominant", "percentage", "126 000", "calculation", "5%"],
+      "question": "In the USA, 5% of the 126 000 people with CMT have a dominant form. Calculate the number with a dominant form.",
+      "status": "ready",
+      "answer": "6300 people.",
+      "steps": [
+        "5% = 0.05.",
+        "0.05 x 126 000 = 6300."
+      ]
+    },
+    {
+      "id": "2C-Q25b(ii)",
+      "no": "Q25(b)(ii)",
+      "marks": 3,
+      "topic": "Dominant Inheritance Diagram",
+      "keywords": ["dominant inheritance", "genetic diagram", "tt", "tt or tt", "charcot-marie-tooth", "children", "probability"],
+      "question": "Draw a genetic diagram for children of a parent without CMT (tt) and a parent with genotype Tt, and indicate whether each child has CMT.",
+      "status": "ready",
+      "answer": "Tt x tt gives 1 Tt (affected with CMT) : 1 tt (unaffected), a 1 : 1 ratio.",
+      "steps": [
+        "The parent without CMT must be tt (recessive, unaffected).",
+        "The parent with Tt gives T or t, each with probability 1/2.",
+        "The tt parent gives only t, so the children are Tt (1/2) and tt (1/2).",
+        "Tt children have the dominant CMT phenotype; tt children are unaffected."
+      ]
+    },
+    {
+      "id": "2C-Q25c",
+      "no": "Q25(c)",
+      "marks": 2,
+      "topic": "X-linked Father To Sons",
+      "keywords": ["x-linked", "sex chromosomes", "father", "sons", "y chromosome", "charcot-marie-tooth", "inheritance"],
+      "question": "Explain why a male with CMT, where the disease is sex-linked on the X chromosome, cannot pass the disease on to his sons.",
+      "status": "ready",
+      "answer": "Sons receive the Y chromosome from their father, not his X, so the X-linked allele cannot be passed to sons.",
+      "steps": [
+        "Males are XY and pass either X or Y to offspring.",
+        "A son receives his Y chromosome from his father, not an X chromosome.",
+        "So the CMT allele on the father's X can only be passed to daughters."
+      ]
+    },
+    {
+      "id": "2C-Q26a",
+      "no": "Q26(a)",
+      "marks": 3,
+      "topic": "CF And Gas Exchange",
+      "keywords": ["cystic fibrosis", "gas exchange", "cftr", "mucus", "airways", "lungs", "diffusion"],
+      "question": "Explain how the CFTR mutation results in reduced gas exchange in the lungs.",
+      "status": "ready",
+      "answer": "The mutation makes mucus thick, which blocks airways and reduces the surface area and ventilation for gas exchange.",
+      "steps": [
+        "The mutated CFTR cannot transport chloride ions, so mucus becomes thick.",
+        "Thick mucus blocks the airways and the alveoli.",
+        "Less air reaches the alveoli, so the surface area available for diffusion falls.",
+        "Less oxygen enters and less carbon dioxide leaves the blood, reducing gas exchange."
+      ]
+    },
+    {
+      "id": "2C-Q26b(i)",
+      "no": "Q26(b)(i)",
+      "marks": 1,
+      "topic": "Percentage Decrease In Cases",
+      "keywords": ["percentage decrease", "cystic fibrosis", "new cases", "964", "839", "calculation"],
+      "question": "Calculate the predicted percentage decrease in new cases of cystic fibrosis in the USA, from 964 in 2015 to 839 in 2025.",
+      "status": "ready",
+      "answer": "12.97% (about 13.0%).",
+      "steps": [
+        "Decrease = 964 - 839 = 125.",
+        "Percentage decrease = 125 / 964 x 100 = 12.97%."
+      ]
+    },
+    {
+      "id": "2C-Q26b(ii)",
+      "no": "Q26(b)(ii)",
+      "marks": 3,
+      "topic": "Reasons For Falling Cases",
+      "keywords": ["cystic fibrosis", "new cases", "fall", "genetic screening", "prenatal testing", "carrier", "reproduction"],
+      "question": "Explain why the number of new cases of cystic fibrosis could fall.",
+      "status": "ready",
+      "answer": "Carrier screening and prenatal testing let at-risk couples avoid affected births, and better awareness reduces the number of new cases.",
+      "steps": [
+        "Carrier screening identifies couples at risk of having a child with CF.",
+        "Prenatal testing or PGD can identify affected embryos or foetuses.",
+        "Couples can then choose not to continue an affected pregnancy or to avoid conceiving.",
+        "Fewer children are born with two recessive alleles, so new cases fall."
+      ]
+    },
+    {
+      "id": "2C-Q26c",
+      "no": "Q26(c)",
+      "marks": 6,
+      "topic": "Investigating Drug A Pre-treatment",
+      "keywords": ["investigation", "drug a", "salt solution", "inhalation", "mucus clearance", "control group", "double blind"],
+      "question": "Devise an investigation to determine whether pre-treatment with drug A is more effective than inhaling a salt solution alone for people with cystic fibrosis, and give reasons for the method.",
+      "status": "ready",
+      "answer": "Use randomised groups given drug A then salt solution, or salt solution alone, in a double-blind controlled trial, measuring mucus clearance and lung function over time.",
+      "steps": [
+        "Recruit people with CF and randomly assign them to two groups to avoid bias.",
+        "Group 1: pre-treatment with drug A then salt inhalation; Group 2: salt inhalation only (control).",
+        "Use double-blind conditions so neither participants nor researchers know the group.",
+        "Measure mucus clearance and FEV1 at regular intervals to see how long the benefit lasts.",
+        "Compare the two groups statistically (e.g. chi-squared or t-test) to judge effectiveness."
+      ]
+    },
+    {
+      "id": "2C-Q27a(i)",
+      "no": "Q27(a)(i)",
+      "marks": 1,
+      "topic": "Complementary Base Pairing",
+      "keywords": ["dna", "base pairing", "thymine", "adenine", "complementary", "diagram"],
+      "question": "The base labelled Q is thymine. Which is the base labelled P? A adenine, B cytosine, C guanine, D uracil.",
+      "status": "pending",
+      "answer": "Pending: the DNA diagram labelling P and Q is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q27a(ii)",
+      "no": "Q27(a)(ii)",
+      "marks": 1,
+      "topic": "Bond Types In DNA",
+      "keywords": ["dna", "phosphodiester bond", "hydrogen bond", "table", "bonds", "r s t"],
+      "question": "Which row of the table identifies the bonds labelled R, S and T in the DNA diagram?",
+      "status": "pending",
+      "answer": "Pending: the table and the DNA diagram are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q27b",
+      "no": "Q27(b)",
+      "marks": 1,
+      "topic": "Types Of Gene Mutation",
+      "keywords": ["gene mutation", "substitution", "insertion", "deletion", "types of mutation"],
+      "question": "Name two types of gene mutation.",
+      "status": "ready",
+      "answer": "Any two of: substitution, insertion, deletion.",
+      "steps": [
+        "A substitution changes one base for another.",
+        "An insertion or deletion adds or removes bases and shifts the reading frame."
+      ]
+    },
+    {
+      "id": "2C-Q27c",
+      "no": "Q27(c)",
+      "marks": 2,
+      "topic": "Mutation Rate Conclusions",
+      "keywords": ["mutation rate", "primates", "graph", "conclusion", "comparison"],
+      "question": "Describe two conclusions that can be made about the mutation rate in the four groups of primates shown in the graph.",
+      "status": "pending",
+      "answer": "Pending: the graph of mutation rates in the four primate groups is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q28a",
+      "no": "Q28(a)",
+      "marks": 4,
+      "topic": "Why Haemophilia Affects Males",
+      "keywords": ["haemophilia", "x-linked", "males", "recessive", "x chromosome", "carriers", "inheritance"],
+      "question": "Explain why most people who have haemophilia are male, given it is inherited like red-green colour blindness.",
+      "status": "ready",
+      "answer": "Haemophilia is X-linked recessive; males have one X, so one recessive allele causes the disorder, while females need two.",
+      "steps": [
+        "The haemophilia gene is on the X chromosome.",
+        "Males (XY) have one X and no second allele to mask a recessive allele.",
+        "Females (XX) need two recessive alleles, which is much less likely.",
+        "Female carriers can pass the allele on but are usually unaffected, so males are more often affected."
+      ]
+    },
+    {
+      "id": "2C-Q28b(i)",
+      "no": "Q28(b)(i)",
+      "marks": 2,
+      "topic": "Haemophilia A To B Ratio",
+      "keywords": ["haemophilia a", "haemophilia b", "ratio", "significant figures", "calculation", "185 218", "37 998"],
+      "question": "There were 185 218 people with haemophilia A and 37 998 with haemophilia B. Calculate the ratio of haemophilia A to B to two significant figures.",
+      "status": "ready",
+      "answer": "4.9 : 1.",
+      "steps": [
+        "Ratio = 185 218 / 37 998 = 4.874.",
+        "To two significant figures this is 4.9 : 1."
+      ]
+    },
+    {
+      "id": "2C-Q28b(ii)",
+      "no": "Q28(b)(ii)",
+      "marks": 1,
+      "topic": "Percentage Of World Population",
+      "keywords": ["percentage", "standard form", "haemophilia a", "world population", "7.87 x 10^9", "calculation"],
+      "question": "Which is the percentage of the world population with haemophilia A in 2021? A 2.35 x 10^5, B 2.35 x 10^3, C 2.35 x 10^-3, D 2.35 x 10^-5.",
+      "status": "ready",
+      "answer": "C 2.35 x 10^-3 (%).",
+      "steps": [
+        "Fraction = 185 218 / (7.87 x 10^9) = 2.35 x 10^-5.",
+        "As a percentage, multiply by 100: 2.35 x 10^-3 %."
+      ]
+    },
+    {
+      "id": "2C-Q28b(iii)",
+      "no": "Q28(b)(iii)",
+      "marks": 1,
+      "topic": "Limits Of Estimates",
+      "keywords": ["estimate", "haemophilia", "undiagnosed", "reporting", "population data", "uncertainty"],
+      "question": "Give one reason why the number of people with haemophilia is only an estimate.",
+      "status": "ready",
+      "answer": "Many people with haemophilia are undiagnosed or not reported, so the count is incomplete.",
+      "steps": [
+        "Mild cases may never be diagnosed.",
+        "Counts depend on records from clinics and diagnosis, which may be incomplete."
+      ]
+    },
+    {
+      "id": "2C-Q28c",
+      "no": "Q28(c)",
+      "marks": 3,
+      "topic": "Thrombin And Clotting",
+      "keywords": ["thrombin", "fibrinogen", "fibrin", "clotting", "haemophilia", "blood clot", "platelets"],
+      "question": "Explain how reduced thrombin production in haemophilia affects blood clotting.",
+      "status": "ready",
+      "answer": "Less thrombin means less fibrinogen is converted to fibrin, so fewer fibrin threads form and the clot is weak or slow to form.",
+      "steps": [
+        "Thrombin converts soluble fibrinogen into insoluble fibrin.",
+        "With less thrombin, less fibrin is made.",
+        "Fewer fibrin threads trap fewer platelets and red blood cells, so the clot is weak.",
+        "Blood takes longer to clot, so bleeding continues for longer."
+      ]
+    },
+    {
+      "id": "2C-Q29a",
+      "no": "Q29(a)",
+      "marks": 2,
+      "topic": "Unsaturated Fatty Acid Diagram",
+      "keywords": ["unsaturated lipid", "fatty acid", "double bond", "side chain", "tropical sprue", "diagram"],
+      "question": "Complete the diagram to show one possible structure of a fatty acid side chain of an unsaturated lipid.",
+      "status": "pending",
+      "answer": "Pending: the partial diagram is not in the text, so the drawing cannot be checked (it should show a C=C double bond).",
+      "steps": []
+    },
+    {
+      "id": "2C-Q29b(i)",
+      "no": "Q29(b)(i)",
+      "marks": 1,
+      "topic": "Lesion Growth Rate",
+      "keywords": ["lesions", "atherosclerosis", "rate of increase", "graph", "saturated lipids", "60 months"],
+      "question": "Calculate the mean rate of increase in the surface of arteries covered in lesions from 16 to 60 months in primates fed saturated lipids (graph 1).",
+      "status": "pending",
+      "answer": "Pending: the values must be read from graph 1, which is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q29b(ii)",
+      "no": "Q29(b)(ii)",
+      "marks": 1,
+      "topic": "Ratio Of Atherosclerosis",
+      "keywords": ["atherosclerosis", "ratio", "saturated", "unsaturated", "32 months", "graph"],
+      "question": "Calculate the ratio of primates with atherosclerosis given saturated lipids to those given unsaturated lipids, at 32 months (graph 2).",
+      "status": "pending",
+      "answer": "Pending: the values must be read from graph 2, which is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q29b(iii)",
+      "no": "Q29(b)(iii)",
+      "marks": 2,
+      "topic": "Atheroma Area Difference",
+      "keywords": ["atheroma", "area", "males", "females", "saturated fats", "graph", "difference"],
+      "question": "Calculate the difference in the area of atheromas in males compared with females given saturated fats (graph 3), in m^2.",
+      "status": "pending",
+      "answer": "Pending: the areas must be read from graph 3, which is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q29b(iv)",
+      "no": "Q29(b)(iv)",
+      "marks": 6,
+      "topic": "Diet And Lesion Development",
+      "keywords": ["saturated fat", "unsaturated fat", "lesions", "atherosclerosis", "atheroma", "coronary arteries", "cholesterol"],
+      "question": "Deduce the effects of the two diets (cholesterol with saturated lipids, or with unsaturated lipids) on lesions, atherosclerosis and atheromas in the coronary arteries, using the graphs.",
+      "status": "pending",
+      "answer": "Pending: the three graphs are needed to compare the two diets.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q29b(v)",
+      "no": "Q29(b)(v)",
+      "marks": 3,
+      "topic": "Ethics Of Animal Studies",
+      "keywords": ["ethics", "primates", "animal welfare", "animal experiments", "suffering", "justification", "3rs"],
+      "question": "Discuss the ethical issues relating to the use of primates and other animals in investigations such as this one.",
+      "status": "ready",
+      "answer": "Animal suffering and welfare must be weighed against the scientific benefit, and the 3Rs (replace, reduce, refine) should be followed.",
+      "steps": [
+        "Primates can suffer, so welfare and pain must be minimised.",
+        "The benefit of the knowledge must justify causing harm to the animals.",
+        "Researchers should use the 3Rs: replace animals, reduce numbers, and refine methods.",
+        "Primates are closely related to humans, so their use raises particular concern."
+      ]
+    },
+    {
+      "id": "2C-Q30a(i)",
+      "no": "Q30(a)(i)",
+      "marks": 2,
+      "topic": "Effects Of Mutation Types",
+      "keywords": ["substitution", "insertion", "deletion", "dna base sequence", "frameshift", "mutation"],
+      "question": "Describe how substitution and insertion or deletion mutations affect the DNA base sequence of a gene.",
+      "status": "ready",
+      "answer": "A substitution replaces one base with another; an insertion or deletion adds or removes bases, shifting the reading frame.",
+      "steps": [
+        "A substitution changes one base, so only one codon may change.",
+        "An insertion adds a base and a deletion removes one.",
+        "Both shift the reading frame, so all later codons are changed."
+      ]
+    },
+    {
+      "id": "2C-Q30a(ii)",
+      "no": "Q30(a)(ii)",
+      "marks": 4,
+      "topic": "Survival With Substitutions",
+      "keywords": ["substitution", "insertion", "deletion", "degenerate code", "frameshift", "survival", "protein"],
+      "question": "Explain why these animals can survive with more substitution mutations than insertion and deletion mutations.",
+      "status": "ready",
+      "answer": "Substitutions often change only one codon and may code for the same amino acid, but insertions and deletions shift the reading frame and disrupt every later codon.",
+      "steps": [
+        "Because the genetic code is degenerate, a substitution may not change the amino acid at all.",
+        "Even when it does, only one amino acid is changed, so the protein may still work.",
+        "An insertion or deletion shifts the reading frame and changes all later codons.",
+        "This usually produces a non-functional protein, which is more harmful."
+      ]
+    },
+    {
+      "id": "2C-Q30a(iii)",
+      "no": "Q30(a)(iii)",
+      "marks": 1,
+      "topic": "Validity Of Data Sets",
+      "keywords": ["validity", "data sets", "mutations", "sample", "reason", "table"],
+      "question": "Suggest which set of data is the most valid and give a reason for your answer.",
+      "status": "pending",
+      "answer": "Pending: the table of mutation data is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q30b(i)",
+      "no": "Q30(b)(i)",
+      "marks": 2,
+      "topic": "Mouse Mutation Rate",
+      "keywords": ["mutation rate", "mouse", "line of best fit", "mutations per cell per year", "graph", "calculation"],
+      "question": "Calculate the mean mutation rate for the mouse from the graph, drawing a line of best fit.",
+      "status": "pending",
+      "answer": "Pending: the mouse data on the graph are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q30b(ii)",
+      "no": "Q30(b)(ii)",
+      "marks": 3,
+      "topic": "Conclusions From Mutation Graphs",
+      "keywords": ["mutations per cell", "lifespan", "graph", "conclusions", "animal species", "mutation rate"],
+      "question": "Describe three conclusions that can be made from the graphs of mutations per cell during the lifespans of four animals.",
+      "status": "pending",
+      "answer": "Pending: the graphs of mutations per cell are not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q30b(iii)",
+      "no": "Q30(b)(iii)",
+      "marks": 2,
+      "topic": "Reasons For Mutation Differences",
+      "keywords": ["mutations per cell", "species", "lifespan", "cell division", "metabolic rate", "body size", "dna replication"],
+      "question": "Suggest two reasons for the differences in the number of mutations per cell between the species.",
+      "status": "ready",
+      "answer": "Longer-lived or larger animals undergo more cell divisions, and higher metabolic rates produce more DNA-damaging molecules, so more mutations arise.",
+      "steps": [
+        "Mutations arise mainly from errors in DNA replication during cell division.",
+        "Animals with longer lifespans or more cell divisions have more chances for errors.",
+        "A higher metabolic rate produces more reactive oxygen species that damage DNA."
+      ]
+    },
+    {
+      "id": "2C-Q31a",
+      "no": "Q31(a)",
+      "marks": 2,
+      "topic": "Narrow Therapeutic Range",
+      "keywords": ["warfarin", "dose", "anticoagulant", "safe dose", "effective", "bleeding", "clotting"],
+      "question": "Explain why a safe but effective dose of warfarin needs to be given to a patient.",
+      "status": "ready",
+      "answer": "Too little warfarin fails to prevent clotting, while too much causes dangerous bleeding, so the dose must be in a narrow safe range.",
+      "steps": [
+        "Warfarin is an anticoagulant that reduces blood clotting.",
+        "Too low a dose may not prevent harmful clots (e.g. thrombosis).",
+        "Too high a dose may cause serious bleeding."
+      ]
+    },
+    {
+      "id": "2C-Q31b(i)",
+      "no": "Q31(b)(i)",
+      "marks": 2,
+      "topic": "Role Of mRNA",
+      "keywords": ["mrna", "transcription", "translation", "enzyme synthesis", "ribosome", "gene expression", "codons"],
+      "question": "Describe the role of mRNA in the production of enzymes.",
+      "status": "ready",
+      "answer": "mRNA is a copy of the gene's base sequence that carries the code from the nucleus to ribosomes, where the polypeptide enzyme is made.",
+      "steps": [
+        "The gene is transcribed into mRNA in the nucleus.",
+        "mRNA carries the codons out of the nucleus to a ribosome.",
+        "At the ribosome, each codon is matched to a tRNA carrying an amino acid, forming the enzyme."
+      ]
+    },
+    {
+      "id": "2C-Q31b(ii)",
+      "no": "Q31(b)(ii)",
+      "marks": 6,
+      "topic": "Pharmacogenomics For Warfarin",
+      "keywords": ["pharmacogenomics", "warfarin", "genetic profile", "dose", "gene m", "gene v", "genetic screening"],
+      "question": "Discuss the possible use of pharmacogenomics in selecting appropriate warfarin doses for individual patients, using the information on genes M and V.",
+      "status": "ready",
+      "answer": "Testing the alleles of gene M (slow breakdown) and gene V (less mRNA) lets doctors adjust doses for each patient, improving safety, though testing has cost and ethical issues.",
+      "steps": [
+        "Pharmacogenomics uses a patient's genetic profile to predict drug response.",
+        "Patients with slow-breakdown alleles of gene M break warfarin down slowly, so they need lower doses.",
+        "Gene V variants reduce mRNA and enzyme V, which changes how strongly warfarin acts.",
+        "Using genetic screening can reduce bleeding and clotting events, but costs and privacy must be considered."
+      ]
+    },
+    {
+      "id": "2C-Q32a",
+      "no": "Q32(a)",
+      "marks": 2,
+      "topic": "Definition Of Cancer",
+      "keywords": ["cancer", "definition", "uncontrolled cell division", "tumour", "mitosis", "invasion"],
+      "question": "State what is meant by the term cancer.",
+      "status": "ready",
+      "answer": "A disease in which cells divide uncontrollably by mitosis, forming a tumour that can invade other tissues.",
+      "steps": [
+        "Cancer cells divide uncontrollably because the control of the cell cycle is lost.",
+        "The mass of cells forms a tumour.",
+        "Cancer cells can invade and spread to other parts of the body."
+      ]
+    },
+    {
+      "id": "2C-Q32b(i)",
+      "no": "Q32(b)(i)",
+      "marks": 3,
+      "topic": "Comparing Cancer Deaths",
+      "keywords": ["cancer deaths", "ethnic groups", "comparison", "graph", "five cancers", "percentage"],
+      "question": "Compare and contrast the number of deaths caused by the five cancers in ethnic groups 1 and 2, using the graph.",
+      "status": "pending",
+      "answer": "Pending: the graph of cancer deaths by ethnic group is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q32b(ii)",
+      "no": "Q32(b)(ii)",
+      "marks": 1,
+      "topic": "Percentage Difference",
+      "keywords": ["percentage difference", "lung cancer", "bronchus", "ethnic group", "formula", "calculation"],
+      "question": "Which is the percentage difference between lung and bronchus cancer deaths in ethnic group 1 and ethnic group 3? A 0.45%, B 0.89%, C 44.62%, D 89.23%.",
+      "status": "pending",
+      "answer": "Pending: the death values from the graph are needed to apply the formula.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q32b(iii)",
+      "no": "Q32(b)(iii)",
+      "marks": 1,
+      "topic": "Prostate Cancer Difference",
+      "keywords": ["prostate cancer", "males", "ethnic group", "difference", "calculation", "graph"],
+      "question": "Calculate how many more males died of prostate cancer in ethnic group 2 than in ethnic group 1.",
+      "status": "pending",
+      "answer": "Pending: the numbers of deaths are read from the graph, which is not in the text.",
+      "steps": []
+    },
+    {
+      "id": "2C-Q32b(iv)",
+      "no": "Q32(b)(iv)",
+      "marks": 2,
+      "topic": "Usefulness Of All Ethnic Groups Data",
+      "keywords": ["all ethnic groups", "usefulness", "comparison", "data", "population size", "cancer deaths", "limitations"],
+      "question": "Comment on how useful it is to determine the number of deaths from these causes in the 'all ethnic groups' part of the graph.",
+      "status": "ready",
+      "answer": "It is of limited use: it combines the groups, hiding differences between them, and does not show the rates for each population.",
+      "steps": [
+        "The all-ethnic-groups total merges the three groups together.",
+        "Differences in risk between ethnic groups are therefore hidden.",
+        "Groups of different sizes need comparing as rates, not raw totals."
+      ]
+    },
+    {
+      "id": "2C-Q33a",
+      "no": "Q33(a)",
+      "marks": 4,
+      "topic": "Substitution And Collagen Strength",
+      "keywords": ["collagen", "substitution", "amino acid", "triple helix", "osteogenesis imperfecta", "protein structure", "strength"],
+      "question": "Explain how a substitution mutation could result in collagen that lacks strength.",
+      "status": "ready",
+      "answer": "One base change alters a codon, changing an amino acid in collagen; this disrupts the triple helix structure and the cross-links, so the collagen is weaker.",
+      "steps": [
+        "A substitution changes one base, so one codon is changed.",
+        "The codon now codes for a different amino acid in the collagen chain.",
+        "This changes the primary structure and so the way collagen chains fold into a triple helix.",
+        "A poorly formed triple helix or cross-links make the collagen lack strength."
+      ]
+    },
+    {
+      "id": "2C-Q33b",
+      "no": "Q33(b)",
+      "marks": 4,
+      "topic": "Probability Of Inheriting OI",
+      "keywords": ["osteogenesis imperfecta", "dominant", "heterozygous", "genetic diagram", "probability", "phenotype", "genotype"],
+      "question": "Determine the probability that a child inherits OI if one parent has OI and is heterozygous and the other is homozygous recessive, using a genetic diagram.",
+      "status": "ready",
+      "answer": "1/2 (0.5): offspring are Dd (affected with OI) or dd (unaffected), in equal numbers.",
+      "steps": [
+        "OI is dominant: the parent with OI is Dd, and the other parent is dd.",
+        "The Dd parent gives D or d (each 1/2); the dd parent gives only d.",
+        "Offspring: Dd (affected with OI) and dd (unaffected), each with probability 1/2.",
+        "So the probability that a child inherits OI is 1/2 (0.5)."
+      ]
+    },
+    {
+      "id": "2C-Q33c",
+      "no": "Q33(c)",
+      "marks": 6,
+      "topic": "PGD And Prenatal Testing",
+      "keywords": ["pre-implantation genetic diagnosis", "prenatal testing", "osteogenesis imperfecta", "advantages", "disadvantages", "ethics", "screening"],
+      "question": "Discuss the advantages and disadvantages of PGD and prenatal testing for couples at risk of having a child with OI, using the diagram of testing types.",
+      "status": "pending",
+      "answer": "Pending: the diagram giving information on the prenatal testing types is not in the text.",
+      "steps": []
+    }
+  ]
+}
