@@ -1734,6 +1734,9 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-27.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-28.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q43.jpg"
       ]
     },
     {
@@ -2182,6 +2185,9 @@
         "papers/chemistry/img/01-Ch1-Formula-Equations-33.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-34.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-35.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q58.jpg"
       ]
     },
     {
@@ -3095,11 +3101,10 @@
         "r.t.p.",
         "Na2SO3"
       ],
-      "question": "What volume of SO2 reacts completely with 50 cm3 of sodium hydroxide solution of concentration 0.12 mol dm-3 (the 2 is partly obscured in the extraction)? SO2 + 2NaOH -> Na2SO3 + H2O; molar volume 24 dm3. Options A 0.072 dm3, B 0.144 dm3, C 0.288 dm3, D 72 dm3.",
+      "question": "What volume of SO2 reacts completely with 50 cm3 of sodium hydroxide solution of concentration 0.12 mol dm-3? SO2 + 2NaOH -> Na2SO3 + H2O; molar volume 24 dm3 at room temperature and pressure. Options A 0.072 dm3, B 0.144 dm3, C 0.288 dm3, D 72 dm3.",
       "status": "ready",
       "answer": "A (0.072 dm3)",
       "steps": [
-        "The concentration in the extracted text is partly obscured; 0.12 mol dm-3 is the only value that matches the options.",
         "Moles NaOH = 0.12 x 0.050 = 0.0060 mol.",
         "Mole ratio SO2 : NaOH = 1 : 2, so moles SO2 = 0.0030 mol.",
         "Volume = 0.0030 x 24 = 0.072 dm3."

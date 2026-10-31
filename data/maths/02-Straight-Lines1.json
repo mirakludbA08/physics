@@ -88,6 +88,9 @@
       "images": [
         "papers/maths/img/P1-02-Straight-Lines1-1.jpg",
         "papers/maths/img/P1-02-Straight-Lines1-2.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/02-Straight-Lines1-Q2.jpg"
       ]
     },
     {
@@ -117,6 +120,9 @@
       "images": [
         "papers/maths/img/P1-02-Straight-Lines1-1.jpg",
         "papers/maths/img/P1-02-Straight-Lines1-2.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/02-Straight-Lines1-Q2.jpg"
       ]
     },
     {
@@ -173,6 +179,9 @@
       "images": [
         "papers/maths/img/P1-02-Straight-Lines1-2.jpg",
         "papers/maths/img/P1-02-Straight-Lines1-3.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/02-Straight-Lines1-Q3.jpg"
       ]
     },
     {
@@ -202,6 +211,9 @@
       "images": [
         "papers/maths/img/P1-02-Straight-Lines1-2.jpg",
         "papers/maths/img/P1-02-Straight-Lines1-3.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/02-Straight-Lines1-Q3.jpg"
       ]
     },
     {
@@ -231,6 +243,9 @@
       "images": [
         "papers/maths/img/P1-02-Straight-Lines1-2.jpg",
         "papers/maths/img/P1-02-Straight-Lines1-3.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/02-Straight-Lines1-Q3.jpg"
       ]
     },
     {
@@ -459,6 +474,9 @@
       ],
       "images": [
         "papers/maths/img/P1-02-Straight-Lines1-5.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/02-Straight-Lines1-Q8.jpg"
       ]
     },
     {
@@ -516,6 +534,9 @@
       ],
       "images": [
         "papers/maths/img/P1-02-Straight-Lines1-5.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/02-Straight-Lines1-Q8.jpg"
       ]
     }
   ]

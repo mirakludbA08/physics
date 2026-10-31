@@ -424,7 +424,7 @@
         "height",
         "ial biology"
       ],
-      "question": "Calculate the predicted adult height of a daughter whose mother is 1.59 m and father is 1.76 m.",
+      "question": "Height is another example of polygenic inheritance. Adult height can be predicted in three steps: (1) add the mother's height (cm) to the father's height (cm); (2) add 13 cm if the child is a boy, or subtract 13 cm if the child is a girl; (3) divide by two. A woman who is 1.59 m tall has a daughter, and the father is 1.76 m tall. Calculate the predicted adult height of their daughter, in metres.",
       "status": "ready",
       "answer": "1.61 m",
       "steps": [
@@ -1024,7 +1024,7 @@
         "strategy",
         "ial biology"
       ],
-      "question": "Explain how the reproductive behaviour of these nematodes increases their chance of survival.",
+      "question": "Animals of this nematode species are either male (one sex chromosome) or hermaphrodite (two sex chromosomes). A hermaphrodite makes both sperm and egg cells: about 300 sperm are produced first and stored, then egg cells are produced. Its sperm can fertilise its own egg cells (self-fertilisation). When a hermaphrodite mates with a male, the male's sperm fertilise the egg cells, which results in 700 more fertilised egg cells than self-fertilisation; half of these fertilised egg cells give male offspring. Explain how the reproductive behaviour of these nematodes increases their chance of survival.",
       "status": "ready",
       "answer": "Hermaphrodites can self-fertilise, ensuring reproduction without a mate, and mating with males gives many more offspring and genetic variation.",
       "steps": [
@@ -1290,7 +1290,7 @@
         "description",
         "ial biology"
       ],
-      "question": "Which description of the pluripotent stem cells in a blastocyst is correct (A-D)?",
+      "question": "The blastocyst contains some pluripotent stem cells. Which of the following describes these pluripotent stem cells? A adult stem cells that can give rise to most types of cell in the body, including totipotent cells; B adult stem cells that can give rise to most types of cell in the body, excluding totipotent cells; C embryonic stem cells that can give rise to most types of cell in the body, including totipotent cells; D embryonic stem cells that can give rise to most types of cell in the body, excluding totipotent cells.",
       "status": "ready",
       "answer": "D - embryonic stem cells that can give rise to most cell types, excluding totipotent cells",
       "steps": [
@@ -1621,7 +1621,7 @@
         "height",
         "ial biology"
       ],
-      "question": "Calculate how many times bigger the male African elephant is than the female, using the height ranges.",
+      "question": "Male African elephants range in height from 3.2 m to 4.0 m; female African elephants range in height from 2.2 m to 2.6 m. Calculate how many times bigger the male African elephant is than the female African elephant.",
       "status": "ready",
       "answer": "1.5 times (using mid-range heights)",
       "steps": [
@@ -2390,6 +2390,9 @@
         "papers/biology/img/03C-Development-Organisms-45.jpg",
         "papers/biology/img/03C-Development-Organisms-46.jpg",
         "papers/biology/img/03C-Development-Organisms-47.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q17b.jpg"
       ]
     },
     {
@@ -2755,6 +2758,9 @@
         "papers/biology/img/03C-Development-Organisms-53.jpg",
         "papers/biology/img/03C-Development-Organisms-54.jpg",
         "papers/biology/img/03C-Development-Organisms-55.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03C-Development-Organisms-Q20a.jpg"
       ]
     },
     {
@@ -3007,7 +3013,7 @@
         "statements",
         "ial biology"
       ],
-      "question": "Which combination of statements about the morula and blastocyst is correct (A 1 and 2, B 1 and 3, C 2 and 3, D 1, 2 and 3)?",
+      "question": "A fertilised egg cell develops into a morula and then a blastocyst. Which of the following are correct statements? 1 A blastocyst contains pluripotent stem cells; 2 A blastocyst is a hollow ball of cells whereas a morula is not; 3 Both of these structures contain cells which divide by meiosis. Options: A 1 and 2 only; B 1 and 3 only; C 2 and 3 only; D 1, 2 and 3.",
       "status": "ready",
       "answer": "A - 1 and 2 only",
       "steps": [

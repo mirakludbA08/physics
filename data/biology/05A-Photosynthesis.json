@@ -233,7 +233,7 @@
         "light-independent reactions",
         "calvin cycle"
       ],
-      "question": "Where in the chloroplast are the bonds of glucose formed? A (missing from text), B matrix, C stroma, D thylakoid membrane.",
+      "question": "Where in the chloroplast are the bonds of glucose formed? A matrix (printed as a second B on the paper), B matrix, C stroma, D thylakoid membrane.",
       "status": "ready",
       "answer": "C stroma.",
       "steps": [
@@ -391,6 +391,9 @@
         "papers/biology/img/05A-Photosynthesis-06.jpg",
         "papers/biology/img/05A-Photosynthesis-07.jpg",
         "papers/biology/img/05A-Photosynthesis-08.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q3-4.jpg"
       ]
     },
     {
@@ -1287,6 +1290,9 @@
         "papers/biology/img/05A-Photosynthesis-21.jpg",
         "papers/biology/img/05A-Photosynthesis-22.jpg",
         "papers/biology/img/05A-Photosynthesis-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q9-2.jpg"
       ]
     },
     {
@@ -1592,6 +1598,9 @@
         "papers/biology/img/05A-Photosynthesis-25.jpg",
         "papers/biology/img/05A-Photosynthesis-26.jpg",
         "papers/biology/img/05A-Photosynthesis-27.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q11-3.jpg"
       ]
     },
     {
@@ -1746,7 +1755,7 @@
         "significant figures",
         "metres"
       ],
-      "question": "A cell is 0.0085 cm long. Using the ratio of cell length to chloroplast length (garbled in the text), calculate the chloroplast length in metres to 2 significant figures.",
+      "question": "The length of a cell was measured and found to be 0.0085 cm. The ratio of the length of this cell to the length of a chloroplast was 11.7 : 1. Calculate the length of this chloroplast. Give your answer in micrometres (um) to 2 significant figures.",
       "status": "ready",
       "answer": "7.3 um (7.3 x 10^-6 m)",
       "steps": [
@@ -2392,6 +2401,9 @@
         "papers/biology/img/05A-Photosynthesis-40.jpg",
         "papers/biology/img/05A-Photosynthesis-41.jpg",
         "papers/biology/img/05A-Photosynthesis-42.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05A-Photosynthesis-Q16-3.jpg"
       ]
     },
     {

@@ -655,6 +655,9 @@
         "papers/biology/img/01A-Chemistry-for-Biologists-09.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-10.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q6.jpg"
       ]
     },
     {
@@ -711,6 +714,9 @@
         "papers/biology/img/01A-Chemistry-for-Biologists-09.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-10.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q6-2.jpg"
       ]
     },
     {
@@ -772,6 +778,9 @@
         "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-12.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q7-3.jpg"
       ]
     },
     {
@@ -1338,6 +1347,9 @@
       ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-20.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q12-2.jpg"
       ]
     },
     {
@@ -1601,6 +1613,9 @@
         "papers/biology/img/01A-Chemistry-for-Biologists-25.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-26.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-27.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q15-5.jpg"
       ]
     },
     {

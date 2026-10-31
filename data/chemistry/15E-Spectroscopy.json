@@ -1992,10 +1992,10 @@
       "answer": "A is a hydroxy-ketone with a tertiary -OH and a chiral centre, e.g. 3-hydroxy-3-methylpentan-2-one, CH3COC(OH)(CH3)CH2CH3",
       "steps": [
         "Test 1: misty fumes with PCl5 means A contains an -OH group (alcohol or carboxylic acid)",
-        "Test 2: orange precipitate with 2,4-DNPH means a C=O group (aldehyde or ketone); with the formula C6H12O2 (one C=C/C=O unit) it is not also an acid, so A has an OH and a C=O",
+        "Test 2: orange precipitate with 2,4-DNPH means a C=O group (aldehyde or ketone); C6H12O2 has only one degree of unsaturation, which this C=O uses, so A is not also an acid or ester",
         "Test 3: no reaction with Benedict's/Fehling's, so the C=O is a ketone, not an aldehyde",
         "Test 4: acidified dichromate stays orange, so the OH is not on a primary or secondary carbon: it is a tertiary alcohol",
-        "Test 5: it rotates plane-polarised light, so A has a chiral centre (a carbon with four different groups): here the C bearing OH, CH3, C2H5 and COCH3",
+        "Test 5: A rotates plane-polarised light, so it has a chiral centre (a carbon with four different groups): here the C bearing OH, CH3, C2H5 and COCH3",
         "Structure fitting everything with six carbons: CH3-CO-C(OH)(CH3)-CH2CH3"
       ],
       "images": [
@@ -2944,12 +2944,20 @@
         "primary secondary"
       ],
       "question": "Complete the table for the three straight-chain structural isomers of C5H11Br. (The table itself is not in the text.)",
-      "status": "pending",
-      "answer": "Needs the table layout from the PDF; the isomers are 1-bromopentane, 2-bromopentane and 3-bromopentane",
-      "steps": [],
+      "status": "ready",
+      "answer": "1-bromopentane (zigzag of 5 C with Br on the end carbon): 5 peaks; 2-bromopentane (Br on carbon 2): 5 peaks; 3-bromopentane (Br on the middle carbon): 3 peaks",
+      "steps": [
+        "The three straight-chain isomers of C5H11Br have Br on carbon 1, 2 or 3 of a five-carbon chain (Br on C4 or C5 repeats C2 or C1)",
+        "1-bromopentane, CH2BrCH2CH2CH2CH3: all five carbons are in different environments, so 5 peaks",
+        "2-bromopentane, CH3CHBrCH2CH2CH3: no symmetry, so 5 peaks",
+        "3-bromopentane, CH3CH2CHBrCH2CH3: symmetrical, so the two CH3 carbons are equivalent and the two CH2 carbons are equivalent, giving 3 peaks"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-45.jpg",
         "papers/chemistry/img/15E-Spectroscopy-46.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q27.jpg"
       ]
     },
     {
@@ -2966,12 +2974,21 @@
         "isomer identification"
       ],
       "question": "The high-resolution 1H NMR spectrum of one of the C5H11Br isomers is shown. Deduce which isomer is present, explaining the splitting patterns and chemical shifts, and give the relative peak areas.",
-      "status": "pending",
-      "answer": "Needs the 1H NMR spectrum from the PDF to deduce the isomer",
-      "steps": [],
+      "status": "ready",
+      "answer": "3-bromopentane, (CH3CH2)2CHBr: peaks at about 4.0 ppm (1H, quintet), 1.9 ppm (4H, quintet) and 1.0 ppm (6H, triplet), relative areas 1 : 4 : 6",
+      "steps": [
+        "The spectrum has three groups of peaks, so three hydrogen environments; this matches 3-bromopentane (1-bromopentane and 2-bromopentane would each give five)",
+        "About 4.0 ppm: the single CHBr hydrogen, the highest shift because it is bonded to the carbon carrying Br (data booklet range about 3.1-4.2 ppm); it has 4 neighbouring H on the two CH2 groups, so n + 1 = 5, a quintet; area 1",
+        "About 1.9 ppm: the two equivalent CH2 groups (4H); each is next to the CHBr (1 H) and a CH3 (3 H), 4 neighbours, so a quintet; area 4",
+        "About 1.0 ppm: the two equivalent CH3 groups (6H), next to a CH2 (2 H), so a triplet (1 : 2 : 1); area 6; this is the lowest shift of all (alkyl CH3, range about 0.7-1.2 ppm)",
+        "Relative areas: 1 : 4 : 6, which add to 11 H as in C5H11Br"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-45.jpg",
         "papers/chemistry/img/15E-Spectroscopy-46.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q27-2.jpg"
       ]
     },
     {
@@ -3084,6 +3101,9 @@
         "papers/chemistry/img/15E-Spectroscopy-48.jpg",
         "papers/chemistry/img/15E-Spectroscopy-49.jpg",
         "papers/chemistry/img/15E-Spectroscopy-50.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q29.jpg"
       ]
     },
     {
@@ -3099,15 +3119,22 @@
         "absence of peak"
       ],
       "question": "Show that the IR spectrum of 3-methylbutyl ethanoate confirms there is no alcohol remaining in the sample.",
-      "status": "pending",
-      "answer": "Needs the IR spectrum from the PDF to confirm the absence of a broad O-H absorption at 3200-3550 cm-1",
-      "steps": [],
+      "status": "ready",
+      "answer": "There is no broad absorption between 3200 and 3550 cm-1 (the O-H stretch of an alcohol); the transmittance stays near 90-95% in that region",
+      "steps": [
+        "An alcohol would show a broad, strong O-H stretching absorption at about 3200-3550 cm-1 (3230-3550 for alcohols in the data booklet)",
+        "In the spectrum the trace is almost flat in this region, with no broad trough, so no alcohol O-H is present",
+        "The only strong peaks are the C-H stretch near 2900-3000 cm-1, the ester C=O near 1740 cm-1 and C-O near 1240 cm-1, all consistent with the pure ester"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-46.jpg",
         "papers/chemistry/img/15E-Spectroscopy-47.jpg",
         "papers/chemistry/img/15E-Spectroscopy-48.jpg",
         "papers/chemistry/img/15E-Spectroscopy-49.jpg",
         "papers/chemistry/img/15E-Spectroscopy-50.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q29.jpg"
       ]
     },
     {
@@ -3124,15 +3151,24 @@
         "structure confirmation"
       ],
       "question": "Show that the structure of ethyl ethanoate, CH3COOCH2CH3, is consistent with its high-resolution 1H NMR spectrum, using all the data in the spectrum (peak areas and splitting patterns).",
-      "status": "pending",
-      "answer": "Needs the NMR spectrum with the peak areas and splitting from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Three peaks with areas 650 : 975 : 975 (2 : 3 : 3), at about 4.1 ppm (quartet), 2.0 ppm (singlet) and 1.2 ppm (triplet): consistent with OCH2, CH3CO and CH2CH3 in CH3COOCH2CH3",
+      "steps": [
+        "Number of peaks: three, so three hydrogen environments, as in CH3COOCH2CH3 (CH3-C=O, OCH2, and CH3 of ethyl)",
+        "Relative areas 650 : 975 : 975 simplify to 2 : 3 : 3, giving the number of H in each environment: 2H (OCH2) and 3H, 3H (the two CH3 groups), total 8 H as in C4H8O2",
+        "Peak at about 4.1 ppm (area 2): OCH2, deshielded by the oxygen; it is a quartet because there are 3 H on the neighbouring CH3 (n + 1 = 4)",
+        "Peak at about 1.2 ppm (area 3): CH3 of the ethyl group, a triplet because 2 H on the neighbouring CH2 (n + 1 = 3)",
+        "Peak at about 2.0 ppm (area 3): CH3 attached to the C=O, a singlet because the carbonyl carbon has no H, so there is no splitting"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-46.jpg",
         "papers/chemistry/img/15E-Spectroscopy-47.jpg",
         "papers/chemistry/img/15E-Spectroscopy-48.jpg",
         "papers/chemistry/img/15E-Spectroscopy-49.jpg",
         "papers/chemistry/img/15E-Spectroscopy-50.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q29-2.jpg"
       ]
     },
     {
@@ -3216,6 +3252,9 @@
       ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-50.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q30.jpg"
       ]
     },
     {
@@ -3242,6 +3281,9 @@
       ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-50.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q30.jpg"
       ]
     },
     {
@@ -3266,6 +3308,9 @@
       ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-50.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q30.jpg"
       ]
     },
     {
@@ -3282,12 +3327,19 @@
         "naming alcohol"
       ],
       "question": "Deduce the name of the alcohol used to make ester X (C8H16O2) by reaction with ethanoyl chloride.",
-      "status": "pending",
-      "answer": "Needs the structure of ester X from the PDF to name the alcohol part",
-      "steps": [],
+      "status": "ready",
+      "answer": "3-methylpentan-3-ol, (CH3CH2)2C(OH)CH3",
+      "steps": [
+        "X is an ester CH3C(=O)-O-R; the acyl part (from ethanoyl chloride) is CH3CO-, so the alcohol part is R-OH",
+        "R is the carbon bonded to the ester O, which carries one CH3 and two CH2CH3 groups",
+        "The alcohol is (CH3CH2)2C(OH)CH3, a tertiary alcohol: a pentane chain with OH and CH3 both on carbon 3, so 3-methylpentan-3-ol (R-OH + CH3COCl -> ester + HCl)"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-51.jpg",
         "papers/chemistry/img/15E-Spectroscopy-52.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q31.jpg"
       ]
     },
     {
@@ -3303,12 +3355,20 @@
         "equivalent protons"
       ],
       "question": "Complete the labelling of the structure of X to show each of the other proton environments, clearly linking any that are the same.",
-      "status": "pending",
-      "answer": "Needs the structure of X with label a from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Three more labels: b on the CH3 of the CH3C(=O) group; c on both CH2 groups (linked as the same environment); d on both CH3 of the ethyl groups (linked as the same environment)",
+      "steps": [
+        "a (given) is the CH3 on the central carbon",
+        "b: the CH3 attached to the ester C=O, a separate environment",
+        "c: the two CH2 groups are equivalent (both bonded to the same quaternary carbon and to a CH3), so they share one label, linked by a line",
+        "d: the two CH3 groups of the ethyl chains are equivalent, so they share one label; this gives four hydrogen environments in total (a, b, c, d)"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-51.jpg",
         "papers/chemistry/img/15E-Spectroscopy-52.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q31-2.jpg"
       ]
     },
     {
@@ -3335,6 +3395,9 @@
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-51.jpg",
         "papers/chemistry/img/15E-Spectroscopy-52.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q31-2.jpg"
       ]
     },
     {
@@ -3376,12 +3439,19 @@
         "nucleophilic acyl substitution"
       ],
       "question": "Add a single curly arrow to Step 1 and a single curly arrow to Step 2 in the aspirin mechanism.",
-      "status": "pending",
-      "answer": "Needs the mechanism diagram from the PDF to place the curly arrows",
-      "steps": [],
+      "status": "ready",
+      "answer": "Step 1: a curly arrow from a lone pair on the carbonyl oxygen of the anhydride to the H+; Step 2: a curly arrow from a lone pair on the phenol oxygen of 2-hydroxybenzoic acid to the delta+ carbon of the protonated C=OH+ group",
+      "steps": [
+        "Step 1 is protonation: the lone pair on the C=O oxygen attacks H+ (arrow starts on the lone pair on the O and ends at H+), giving the C=OH+ group",
+        "Step 2 is nucleophilic attack: the lone pair on the phenol O-H oxygen attacks the electron-poor carbon, which is more positive after protonation",
+        "The arrow starts on the lone pair of the phenol oxygen and points to the carbonyl carbon (the arrow on the C=OH+ group moving electrons onto oxygen is already drawn)"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-51.jpg",
         "papers/chemistry/img/15E-Spectroscopy-52.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q31-3.jpg"
       ]
     },
     {
@@ -3424,12 +3494,20 @@
         "identify ester"
       ],
       "question": "The high-resolution 1H NMR spectrum of an ester is shown. Which is its skeletal formula? (Options not in text.)",
-      "status": "pending",
-      "answer": "Needs the NMR spectrum and answer options from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: ethyl 2,2-dimethylpropanoate, (CH3)3C-C(=O)-O-CH2CH3",
+      "steps": [
+        "Three peaks with areas 9H, 3H and 2H: three hydrogen environments, 14 H in total",
+        "The 9H singlet at about 1.2 ppm is a (CH3)3C group (nine equivalent H with no neighbouring H)",
+        "The 2H quartet at about 4.1 ppm is OCH2 (next to a CH3) and the 3H triplet at about 1.2 ppm is the CH3 of the ethyl group",
+        "Only option D has C(CH3)3 and OCH2CH3 (option C would have the CH2 next to C=O at about 2.2 ppm, and a tert-butyl group on the oxygen)"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-52.jpg",
         "papers/chemistry/img/15E-Spectroscopy-53.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q32.jpg"
       ]
     },
     {
@@ -3594,6 +3672,9 @@
         "papers/chemistry/img/15E-Spectroscopy-53.jpg",
         "papers/chemistry/img/15E-Spectroscopy-54.jpg",
         "papers/chemistry/img/15E-Spectroscopy-55.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q33-2.jpg"
       ]
     },
     {
@@ -3610,13 +3691,22 @@
         "methyl 2-hydroxypropanoate"
       ],
       "question": "Complete the table giving the expected number of hydrogen atoms and splitting pattern for peaks J and K of methyl 2-hydroxypropanoate. (The table layout is not in the text.)",
-      "status": "pending",
-      "answer": "Needs the table and spectrum from the PDF to confirm which of J and K is the CH (1H, quartet) and which is the CH3 (3H, doublet)",
-      "steps": [],
+      "status": "ready",
+      "answer": "J: 3 hydrogen atoms, doublet; K: 1 hydrogen atom, quartet",
+      "steps": [
+        "In methyl 2-hydroxypropanoate, CH3CH(OH)COOCH3, the CH3 attached to the CH is the 1.3 ppm peak J: 3 H",
+        "J is split by the one H on the neighbouring CH, so n + 1 = 2: a doublet",
+        "The CH (4.1 ppm, bonded to O and next to C=O) is the single-hydrogen environment K: 1 H, split by the 3 H of the CH3 into a quartet",
+        "L (1H, OH) and M (3H, OCH3) are singlets because they have no H on adjacent carbons"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-53.jpg",
         "papers/chemistry/img/15E-Spectroscopy-54.jpg",
         "papers/chemistry/img/15E-Spectroscopy-55.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q33.jpg",
+        "papers/chemistry/fig/15E-Spectroscopy-Q33-2.jpg"
       ]
     },
     {
@@ -3631,12 +3721,20 @@
         "carbon environments"
       ],
       "question": "Which isomer has the most peaks in its 13C NMR spectrum? (Options are in an image not in the text.)",
-      "status": "pending",
-      "answer": "Needs the answer options from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 2-methylpentane, with 5 peaks in its 13C NMR spectrum",
+      "steps": [
+        "Count the different carbon environments in each isomer (all are C6H14)",
+        "A (2,3-dimethylbutane) has 2 peaks, B (2,2-dimethylbutane) has 4 peaks, D (hexane) has 3 peaks",
+        "C (2-methylpentane, CH3CH2CH2CH(CH3)2) has 5 peaks: the two CH3 groups on the CH are equivalent, and the other four carbons are all different",
+        "So C has the most peaks"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-55.jpg",
         "papers/chemistry/img/15E-Spectroscopy-56.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q34.jpg"
       ]
     },
     {
@@ -3680,12 +3778,19 @@
         "optical isomerism"
       ],
       "question": "How many chiral centres are present in nandrolone? Options: A six, B seven, C eight, D nine.",
-      "status": "pending",
-      "answer": "Needs the structure of nandrolone and the answer options from the PDF to count chiral centres",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: six",
+      "steps": [
+        "A chiral centre is a carbon atom bonded to four different groups",
+        "In nandrolone these are the ring-fusion carbons carrying an H (C8, C9, C10 and C14), the quaternary carbon bearing the methyl group (C13) and the carbon bearing OH (C17)",
+        "The C=C carbon (C5) and the C=O carbon (C3) are not chiral, so there are 6 chiral centres: option A"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-56.jpg",
         "papers/chemistry/img/15E-Spectroscopy-57.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q36.jpg"
       ]
     },
     {
@@ -3701,12 +3806,19 @@
         "reaction types"
       ],
       "question": "Nandrolone is broken down in the body into a compound shown in the question. What reactions have taken place to form the new bonds at positions 1 and 2?",
-      "status": "pending",
-      "answer": "Needs the structures of nandrolone and the metabolite from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: reduction at position 1 and addition at position 2",
+      "steps": [
+        "At position 1 the C=O of the ketone in nandrolone has become a C-OH alcohol: reduction (gain of hydrogen)",
+        "At position 2 the C=C double bond has become a C-C single bond with an extra H on each carbon: addition (hydrogenation)",
+        "So the answer is reduction and addition: option B"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-56.jpg",
         "papers/chemistry/img/15E-Spectroscopy-57.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q36-2.jpg"
       ]
     },
     {
@@ -3723,12 +3835,20 @@
         "g cm-3"
       ],
       "question": "A sample with 2 x 10^-9 g cm-3 of nandrolone gives a chromatogram. Which chromatogram would be produced by a second sample at 4 x 10^-9 g cm-3 under the same conditions? (Chromatograms are not in the text.)",
-      "status": "pending",
-      "answer": "Needs the chromatogram options from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: the peak at the same retention time (about 2.2 min) but about twice as tall",
+      "steps": [
+        "In GC the retention time is a property of the compound under the same conditions, so the peak stays at about 2.2 min: only C and D qualify (A and B are at about 5 min)",
+        "The peak area (and height, for peaks of equal width) is proportional to the concentration, so doubling from 2 x 10^-9 to 4 x 10^-9 g cm-3 doubles the peak height",
+        "D shows the peak about twice the height of the original, while C is about the same as the original sample"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-56.jpg",
         "papers/chemistry/img/15E-Spectroscopy-57.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q36-3.jpg",
+        "papers/chemistry/fig/15E-Spectroscopy-Q36-4.jpg"
       ]
     },
     {
@@ -3744,9 +3864,13 @@
         "mass percentage"
       ],
       "question": "Calculate the atom economy, by mass, for the formation of oxalic acid from the hydrolysis of 2-oxobutanedioic acid.",
-      "status": "pending",
-      "answer": "Needs the reaction equation from the PDF to confirm the by-product of the hydrolysis before calculating atom economy",
-      "steps": [],
+      "status": "ready",
+      "answer": "60% (90/150 x 100)",
+      "steps": [
+        "The equation is 2-oxobutanedioic acid + H2O -> ethanedioic acid (oxalic acid) + ethanoic acid",
+        "Mr of the products: oxalic acid 90 and ethanoic acid CH3COOH 60, total 150 (equal to the reactants: 132 + 18)",
+        "Atom economy = Mr of desired product / total Mr of products x 100 = 90 / 150 x 100 = 60%"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-58.jpg",
         "papers/chemistry/img/15E-Spectroscopy-59.jpg",
@@ -3754,6 +3878,9 @@
         "papers/chemistry/img/15E-Spectroscopy-61.jpg",
         "papers/chemistry/img/15E-Spectroscopy-62.jpg",
         "papers/chemistry/img/15E-Spectroscopy-63.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q37.jpg"
       ]
     },
     {
@@ -3859,9 +3986,13 @@
         "equivalence point"
       ],
       "question": "Select one indicator for each equivalence point from the titration graph of NaOH against oxalic acid, and give the colour at the end-point for each. Use the Data Booklet.",
-      "status": "pending",
-      "answer": "Needs the titration graph from the PDF to match each equivalence point with an indicator",
-      "steps": [],
+      "status": "ready",
+      "answer": "First equivalence point (25 cm3, pH rise about 2.7 to 4.6): methyl orange, orange at the end-point; second equivalence point (50 cm3, pH rise about 6.2 to 12.5): phenolphthalein, pale pink at the end-point",
+      "steps": [
+        "The titration curve has two vertical sections: at 25 cm3 NaOH (first H+ neutralised) and at 50 cm3 (second H+ neutralised)",
+        "First: the steep part runs from about pH 2.7 to 4.6, so choose an indicator whose range lies in it, e.g. methyl orange (pH range about 3.1-4.4); end-point colour orange (red to yellow change)",
+        "Second: the steep part runs from about pH 6.2 to 12.5; phenolphthalein (range about 8.3-10.0) fits; end-point colour pale pink (colourless to pink)"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-58.jpg",
         "papers/chemistry/img/15E-Spectroscopy-59.jpg",
@@ -3869,6 +4000,9 @@
         "papers/chemistry/img/15E-Spectroscopy-61.jpg",
         "papers/chemistry/img/15E-Spectroscopy-62.jpg",
         "papers/chemistry/img/15E-Spectroscopy-63.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q37-2.jpg"
       ]
     },
     {
@@ -3915,9 +4049,14 @@
         "diprotic acid"
       ],
       "question": "Using the titration graph of NaOH with oxalic acid, determine the two Ka values for oxalic acid, showing working on the graph.",
-      "status": "pending",
-      "answer": "Needs the titration graph from the PDF to read the half-equivalence pH values for Ka1 and Ka2",
-      "steps": [],
+      "status": "ready",
+      "answer": "Ka1 = 10^-1.3 = 5 x 10^-2 mol dm-3 (pH 1.3 at 12.5 cm3); Ka2 = 10^-5.5 = 3 x 10^-6 mol dm-3 (pH 5.5 at 37.5 cm3)",
+      "steps": [
+        "Oxalic acid is diprotic and the equivalence points are at 25 cm3 and 50 cm3, so each stage of neutralisation uses 25 cm3",
+        "At half the first equivalence (12.5 cm3) [HA-] = [H2A], so Ka1 = [H+] and pH = pKa1: the graph reads pH about 1.3 at 12.5 cm3, so Ka1 = 10^-1.3 = 5 x 10^-2 mol dm-3",
+        "At half the second equivalence (37.5 cm3) [A2-] = [HA-], so pH = pKa2: the graph reads pH about 5.5 at 37.5 cm3",
+        "Ka2 = 10^-5.5 = 3.2 x 10^-6 mol dm-3; show the working by drawing vertical lines up from 12.5 and 37.5 cm3 to the curve and horizontal lines across to the pH axis"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-58.jpg",
         "papers/chemistry/img/15E-Spectroscopy-59.jpg",
@@ -3925,6 +4064,9 @@
         "papers/chemistry/img/15E-Spectroscopy-61.jpg",
         "papers/chemistry/img/15E-Spectroscopy-62.jpg",
         "papers/chemistry/img/15E-Spectroscopy-63.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q37-2.jpg"
       ]
     },
     {
@@ -4098,6 +4240,9 @@
         "papers/chemistry/img/15E-Spectroscopy-64.jpg",
         "papers/chemistry/img/15E-Spectroscopy-65.jpg",
         "papers/chemistry/img/15E-Spectroscopy-66.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q40.jpg"
       ]
     },
     {
@@ -4113,13 +4258,20 @@
         "distinguish isomers"
       ],
       "question": "Esters W and X (C5H10O2) each have one peak with relative area 3 in their low-resolution 1H NMR spectra. Explain how these peaks can be used to distinguish the two esters.",
-      "status": "pending",
-      "answer": "Needs the displayed formulae of W and X from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Compare the chemical shifts of the 3H peaks: in W the 3H peak (OCH3) is at about 3.6-3.7 ppm, in X the 3H peak (CH3 on C=O) is at about 2.0-2.1 ppm",
+      "steps": [
+        "W is methyl 2-methylpropanoate, (CH3)2CHCOOCH3: its 3H peak is the OCH3, a CH3 bonded to an oxygen, at about 3.6-3.7 ppm (range about 2.9-4.2 ppm)",
+        "X is propan-2-yl ethanoate, CH3COOCH(CH3)2: its 3H peak is the CH3 bonded to the C=O, at about 2.0-2.1 ppm (range about 2.1-2.7 ppm)",
+        "The two 3H peaks therefore appear at different chemical shifts, so the esters can be told apart"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-64.jpg",
         "papers/chemistry/img/15E-Spectroscopy-65.jpg",
         "papers/chemistry/img/15E-Spectroscopy-66.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q40-2.jpg"
       ]
     },
     {
@@ -4136,13 +4288,21 @@
         "C5H10O2"
       ],
       "question": "Label the displayed formulae of two different C5H10O2 esters with their proton environments, clearly indicating equivalent environments, and describe the splitting patterns of their high-resolution 1H NMR spectra.",
-      "status": "pending",
-      "answer": "Needs the displayed formulae of the two esters from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Y (butan-2-yl methanoate, HCOOCH(CH3)CH2CH3): HCO singlet (1H); OCH sextet (1H); CH2 quintet (2H); CH3 on the CH doublet (3H); CH3 of the ethyl group triplet (3H). Z (2-methylpropyl methanoate, HCOOCH2CH(CH3)2): HCO singlet (1H); OCH2 doublet (2H); CH multiplet of 9 peaks (1H); two equivalent CH3 doublet (6H)",
+      "steps": [
+        "Label each different hydrogen environment on the displayed formulae with a letter, giving the same letter to equivalent H (e.g. the two CH3 groups of the CH(CH3)2 in Z)",
+        "Y has five environments: H-C(=O)O singlet (no neighbours); O-CH next to CH3 (3H) and CH2 (2H), so 5 neighbours, a sextet (6 peaks); CH2 next to CH (1) and CH3 (3), 4 neighbours, a quintet; CH3 on the CH, 1 neighbour, a doublet; CH3 of the ethyl group, 2 neighbours, a triplet",
+        "Z has four environments: H-C(=O)O singlet; OCH2 next to a single CH, a doublet; CH next to CH2 (2H) and two CH3 (6H), so 8 neighbours, a multiplet of 9 peaks; the two equivalent CH3 groups (6H) next to the CH, a doublet",
+        "Relative areas for Y are 1 : 1 : 2 : 3 : 3 and for Z are 1 : 2 : 1 : 6"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-64.jpg",
         "papers/chemistry/img/15E-Spectroscopy-65.jpg",
         "papers/chemistry/img/15E-Spectroscopy-66.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q40-3.jpg"
       ]
     },
     {
@@ -4185,12 +4345,19 @@
         "options 0.27 0.69 0.73 1.37"
       ],
       "question": "A thin-layer chromatogram of a substance is shown. What is its Rf value? Options: A 0.27, B 0.69, C 0.73, D 1.37.",
-      "status": "pending",
-      "answer": "Needs the TLC diagram from the PDF to measure the distances",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 0.73",
+      "steps": [
+        "Rf = distance moved by the sample / distance moved by the solvent front, both measured from the starting line",
+        "Measured on the diagram: the sample is about 153 units above the start line and the solvent front is about 209 units above it",
+        "Rf = 153 / 209 = 0.73, so option C (Rf is always less than 1, so D is impossible)"
+      ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-66.jpg",
         "papers/chemistry/img/15E-Spectroscopy-67.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q41.jpg"
       ]
     }
   ]

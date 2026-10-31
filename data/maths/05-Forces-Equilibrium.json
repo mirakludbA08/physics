@@ -33,6 +33,9 @@
       "images": [
         "papers/maths/img/M1-05-Forces-Equilibrium-1.jpg",
         "papers/maths/img/M1-05-Forces-Equilibrium-2.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/05-Forces-Equilibrium-Q1.jpg"
       ]
     },
     {
@@ -233,6 +236,9 @@
       "images": [
         "papers/maths/img/M1-05-Forces-Equilibrium-2.jpg",
         "papers/maths/img/M1-05-Forces-Equilibrium-3.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/05-Forces-Equilibrium-Q4.jpg"
       ]
     },
     {
@@ -261,6 +267,9 @@
       "images": [
         "papers/maths/img/M1-05-Forces-Equilibrium-2.jpg",
         "papers/maths/img/M1-05-Forces-Equilibrium-3.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/05-Forces-Equilibrium-Q4.jpg"
       ]
     },
     {
@@ -291,6 +300,9 @@
       "images": [
         "papers/maths/img/M1-05-Forces-Equilibrium-3.jpg",
         "papers/maths/img/M1-05-Forces-Equilibrium-4.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/05-Forces-Equilibrium-Q5.jpg"
       ]
     },
     {
@@ -320,6 +332,9 @@
       "images": [
         "papers/maths/img/M1-05-Forces-Equilibrium-3.jpg",
         "papers/maths/img/M1-05-Forces-Equilibrium-4.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/05-Forces-Equilibrium-Q5.jpg"
       ]
     },
     {
@@ -348,6 +363,9 @@
       "images": [
         "papers/maths/img/M1-05-Forces-Equilibrium-3.jpg",
         "papers/maths/img/M1-05-Forces-Equilibrium-4.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/05-Forces-Equilibrium-Q5.jpg"
       ]
     }
   ]

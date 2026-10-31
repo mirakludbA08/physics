@@ -668,7 +668,9 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-10.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q6.jpg"
+     ]
     },
     {
      "id": "1A-Q6b(ii)",
@@ -726,7 +728,9 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-10.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q6-2.jpg"
+     ]
     },
     {
      "id": "1A-Q7a(i)",
@@ -788,7 +792,9 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-12.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q7-3.jpg"
+     ]
     },
     {
      "id": "1A-Q7b(i)",
@@ -1363,7 +1369,9 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q12-2.jpg"
+     ]
     },
     {
      "id": "1A-Q12b",
@@ -1630,7 +1638,9 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-26.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q15-5.jpg"
+     ]
     },
     {
      "id": "1A-Q15b(i)",
@@ -2035,7 +2045,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-06.jpg",
       "papers/biology/img/01B-Mammalian-Transport-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q2-3.jpg"
+     ]
     },
     {
      "id": "1B-Q2b(iii)",
@@ -3754,7 +3766,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-33.jpg",
       "papers/biology/img/01B-Mammalian-Transport-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q15.jpg"
+     ]
     },
     {
      "id": "1B-Q15a(ii)",
@@ -3784,7 +3798,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-33.jpg",
       "papers/biology/img/01B-Mammalian-Transport-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q15.jpg"
+     ]
     },
     {
      "id": "1B-Q15a(iii)",
@@ -3811,7 +3827,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-33.jpg",
       "papers/biology/img/01B-Mammalian-Transport-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q15.jpg"
+     ]
     },
     {
      "id": "1B-Q15a(iv)",
@@ -3841,7 +3859,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-33.jpg",
       "papers/biology/img/01B-Mammalian-Transport-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q15.jpg"
+     ]
     },
     {
      "id": "1B-Q15b(i)",
@@ -3871,7 +3891,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-33.jpg",
       "papers/biology/img/01B-Mammalian-Transport-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q15-2.jpg"
+     ]
     },
     {
      "id": "1B-Q15b(ii)",
@@ -3900,7 +3922,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-33.jpg",
       "papers/biology/img/01B-Mammalian-Transport-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q15-2.jpg"
+     ]
     },
     {
      "id": "1B-Q15b(iii)",
@@ -3932,7 +3956,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-33.jpg",
       "papers/biology/img/01B-Mammalian-Transport-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q15-2.jpg"
+     ]
     },
     {
      "id": "1B-Q16a(i)",
@@ -4021,7 +4047,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-35.jpg",
       "papers/biology/img/01B-Mammalian-Transport-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q16.jpg"
+     ]
     },
     {
      "id": "1B-Q16c",
@@ -4051,7 +4079,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-35.jpg",
       "papers/biology/img/01B-Mammalian-Transport-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q16-2.jpg"
+     ]
     },
     {
      "id": "1B-Q16d(i)",
@@ -4079,7 +4109,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-35.jpg",
       "papers/biology/img/01B-Mammalian-Transport-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q16-3.jpg"
+     ]
     },
     {
      "id": "1B-Q16d(ii)",
@@ -4107,7 +4139,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-35.jpg",
       "papers/biology/img/01B-Mammalian-Transport-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q16-3.jpg"
+     ]
     },
     {
      "id": "1B-Q17a(i)",
@@ -4136,7 +4170,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-38.jpg",
       "papers/biology/img/01B-Mammalian-Transport-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q17.jpg"
+     ]
     },
     {
      "id": "1B-Q17a(ii)",
@@ -4167,7 +4203,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-38.jpg",
       "papers/biology/img/01B-Mammalian-Transport-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q17.jpg"
+     ]
     },
     {
      "id": "1B-Q17b",
@@ -4196,7 +4234,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-38.jpg",
       "papers/biology/img/01B-Mammalian-Transport-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q17-2.jpg"
+     ]
     },
     {
      "id": "1B-Q17c",
@@ -4227,7 +4267,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-38.jpg",
       "papers/biology/img/01B-Mammalian-Transport-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q17-3.jpg"
+     ]
     },
     {
      "id": "1B-Q18",
@@ -4258,7 +4300,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-40.jpg",
       "papers/biology/img/01B-Mammalian-Transport-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q18.jpg"
+     ]
     },
     {
      "id": "1B-Q19a",
@@ -4288,7 +4332,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-40.jpg",
       "papers/biology/img/01B-Mammalian-Transport-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q19.jpg"
+     ]
     },
     {
      "id": "1B-Q19b(i)",
@@ -4316,7 +4362,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-40.jpg",
       "papers/biology/img/01B-Mammalian-Transport-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q19-2.jpg"
+     ]
     },
     {
      "id": "1B-Q19b(ii)",
@@ -4345,7 +4393,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-40.jpg",
       "papers/biology/img/01B-Mammalian-Transport-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q19-2.jpg"
+     ]
     },
     {
      "id": "1B-Q20a(i)",
@@ -4524,7 +4574,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-43.jpg",
       "papers/biology/img/01B-Mammalian-Transport-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q21.jpg"
+     ]
     },
     {
      "id": "1B-Q21b",
@@ -4608,7 +4660,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-43.jpg",
       "papers/biology/img/01B-Mammalian-Transport-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q22.jpg"
+     ]
     },
     {
      "id": "1B-Q22a(ii)",
@@ -4638,7 +4692,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-43.jpg",
       "papers/biology/img/01B-Mammalian-Transport-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q22.jpg"
+     ]
     },
     {
      "id": "1B-Q22b",
@@ -6718,7 +6774,7 @@ window.BANK.biology = {
       "CVD risk",
       "drug pair"
      ],
-     "question": "Which pair of drugs may reduce the 10-year risk of CVD for this woman? Options: A anticoagulants and statins, B anticoagulants and antihypertensives, C antihypertensives and platelet inhibitors, D antihypertensives and statins.",
+     "question": "Which pair of drugs may reduce the 10-year risk of CVD for the woman in part (b)(i) (35 years old, smoker, total cholesterol 242 mg dm-3, systolic blood pressure 132 mm Hg)? Options: A anticoagulants and statins, B anticoagulants and antihypertensives, C antihypertensives and platelet inhibitors, D antihypertensives and statins.",
      "status": "ready",
      "answer": "D antihypertensives and statins.",
      "steps": [
@@ -6766,7 +6822,10 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q13-2.jpg",
+      "papers/biology/fig/01C-Cardiovascular-Health-Q13-3.jpg"
+     ]
     },
     {
      "id": "1C-Q14a(i)",
@@ -6825,7 +6884,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q14.jpg"
+     ]
     },
     {
      "id": "1C-Q14b(i)",
@@ -7070,7 +7131,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-36.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q15.jpg"
+     ]
     },
     {
      "id": "1C-Q15c(ii)",
@@ -7099,7 +7162,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-36.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q15.jpg"
+     ]
     },
     {
      "id": "1C-Q15c(iii)",
@@ -7560,7 +7625,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q19-3.jpg"
+     ]
     },
     {
      "id": "1C-Q19a(iii)",
@@ -8064,7 +8131,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-52.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-53.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q22.jpg"
+     ]
     },
     {
      "id": "1C-Q22b",
@@ -8398,7 +8467,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-59.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-60.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q24-4.jpg"
+     ]
     },
     {
      "id": "1C-Q24b(ii)",
@@ -9495,7 +9566,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-18.jpg",
       "papers/biology/img/02A-Membranes-Transport-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q7-3.jpg"
+     ]
     },
     {
      "id": "2A-Q7a(ii)",
@@ -9527,7 +9600,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-18.jpg",
       "papers/biology/img/02A-Membranes-Transport-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q7-3.jpg"
+     ]
     },
     {
      "id": "2A-Q7b",
@@ -10919,7 +10994,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-43.jpg",
       "papers/biology/img/02A-Membranes-Transport-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q17-3.jpg"
+     ]
     },
     {
      "id": "2A-Q17b",
@@ -10948,7 +11025,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-43.jpg",
       "papers/biology/img/02A-Membranes-Transport-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q17-3.jpg"
+     ]
     },
     {
      "id": "2A-Q17c",
@@ -11265,7 +11344,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-48.jpg",
       "papers/biology/img/02A-Membranes-Transport-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q19.jpg"
+     ]
     },
     {
      "id": "2A-Q19a(ii)",
@@ -11295,7 +11376,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-48.jpg",
       "papers/biology/img/02A-Membranes-Transport-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q19.jpg"
+     ]
     },
     {
      "id": "2A-Q19b(i)",
@@ -12196,7 +12279,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-60.jpg",
       "papers/biology/img/02A-Membranes-Transport-61.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q25-2.jpg"
+     ]
     },
     {
      "id": "2A-Q25b",
@@ -12227,7 +12312,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-60.jpg",
       "papers/biology/img/02A-Membranes-Transport-61.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q25-2.jpg"
+     ]
     },
     {
      "id": "2A-Q25c",
@@ -12259,7 +12346,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-60.jpg",
       "papers/biology/img/02A-Membranes-Transport-61.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q25-2.jpg"
+     ]
     },
     {
      "id": "2A-Q25d",
@@ -12291,7 +12380,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-60.jpg",
       "papers/biology/img/02A-Membranes-Transport-61.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q25-2.jpg"
+     ]
     },
     {
      "id": "2A-Q25e",
@@ -12356,7 +12447,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-60.jpg",
       "papers/biology/img/02A-Membranes-Transport-61.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q25-2.jpg"
+     ]
     },
     {
      "id": "2A-Q26a",
@@ -13519,7 +13612,7 @@ window.BANK.biology = {
       "drugs",
       "ial biology"
      ],
-     "question": "Which type of treatment is warfarin?",
+     "question": "Which type of treatment is warfarin? Options: A anticoagulant, B antihypertensive, C platelet inhibitor, D statin.",
      "status": "ready",
      "answer": "A - anticoagulant",
      "steps": [
@@ -13804,7 +13897,7 @@ window.BANK.biology = {
       "fructose",
       "ial biology"
      ],
-     "question": "Which monosaccharides are present in lactose?",
+     "question": "Which monosaccharides are present in lactose? Options: A fructose and sucrose, B galactose and glucose, C glucose and fructose, D sucrose and galactose.",
      "status": "ready",
      "answer": "B - galactose and glucose",
      "steps": [
@@ -14142,7 +14235,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-25.jpg",
       "papers/biology/img/02B-Proteins-DNA-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q10.jpg"
+     ]
     },
     {
      "id": "2B-Q11a(i)",
@@ -14173,7 +14268,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-26.jpg",
       "papers/biology/img/02B-Proteins-DNA-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q11-2.jpg"
+     ]
     },
     {
      "id": "2B-Q11a(ii)",
@@ -14190,7 +14287,7 @@ window.BANK.biology = {
       "drug",
       "ial biology"
      ],
-     "question": "Which type of drug is warfarin?",
+     "question": "Which type of drug is warfarin? Options: A an anticoagulant, B an antihypertensive, C a platelet inhibitor, D a statin.",
      "status": "ready",
      "answer": "A - an anticoagulant",
      "steps": [
@@ -14631,7 +14728,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-33.jpg",
       "papers/biology/img/02B-Proteins-DNA-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q14.jpg"
+     ]
     },
     {
      "id": "2B-Q14b(iii)",
@@ -14682,7 +14781,7 @@ window.BANK.biology = {
       "digestion",
       "ial biology"
      ],
-     "question": "Which are the products of lactose digestion?",
+     "question": "Which are the products of lactose digestion? Options: A fructose and galactose, B fructose and glucose, C galactose and glucose, D glucose and glucose.",
      "status": "ready",
      "answer": "C - galactose and glucose",
      "steps": [
@@ -14968,7 +15067,10 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-38.jpg",
       "papers/biology/img/02B-Proteins-DNA-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q16.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q16-2.jpg"
+     ]
     },
     {
      "id": "2B-Q16c(ii)",
@@ -15240,7 +15342,7 @@ window.BANK.biology = {
       "type",
       "ial biology"
      ],
-     "question": "What type of molecule is pectinase?",
+     "question": "What type of molecule is pectinase? Options: A disaccharide, B polysaccharide, C protein, D triglyceride.",
      "status": "ready",
      "answer": "C - protein",
      "steps": [
@@ -16060,7 +16162,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-55.jpg",
       "papers/biology/img/02B-Proteins-DNA-56.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q23-2.jpg"
+     ]
     },
     {
      "id": "2B-Q23b",
@@ -16337,7 +16441,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-59.jpg",
       "papers/biology/img/02B-Proteins-DNA-60.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q25.jpg"
+     ]
     },
     {
      "id": "2B-Q25a(iii)",
@@ -16367,7 +16473,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-59.jpg",
       "papers/biology/img/02B-Proteins-DNA-60.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q25.jpg"
+     ]
     },
     {
      "id": "2B-Q25b",
@@ -25503,7 +25611,9 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-32.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q14.jpg"
+     ]
     },
     {
      "id": "3B-Q14c",
@@ -25522,7 +25632,7 @@ window.BANK.biology = {
       "advantages",
       "disadvantages"
      ],
-     "question": "Discuss the advantages and disadvantages of the strategies used by date palms, orchids, fireweed and dandelions to promote or ensure seed production.",
+     "question": "Plants can produce seeds by cross-fertilisation or self-fertilisation. Some plants prevent self-fertilisation: date palms have only male or only female flowers, and some orchids release chemicals that stop pollen from the same plant germinating. Others still produce seeds if cross-fertilisation has not occurred: fireweed self-fertilises, and unfertilised egg cells of a dandelion develop into a seed. Discuss the advantages and disadvantages of the strategies used by date palms, orchids, fireweed and dandelions to promote or ensure seed production.",
      "status": "ready",
      "answer": "Outcrossing strategies give variation but depend on pollinators; self-fertilisation and asexual seed production ensure seeds but reduce variation and adaptability.",
      "steps": [
@@ -25539,7 +25649,9 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-32.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03B-Mitosis-Meiosis-Q14-2.jpg"
+     ]
     },
     {
      "id": "3B-Q15a",
@@ -27164,7 +27276,7 @@ window.BANK.biology = {
       "height",
       "ial biology"
      ],
-     "question": "Calculate the predicted adult height of a daughter whose mother is 1.59 m and father is 1.76 m.",
+     "question": "Height is another example of polygenic inheritance. Adult height can be predicted in three steps: (1) add the mother's height (cm) to the father's height (cm); (2) add 13 cm if the child is a boy, or subtract 13 cm if the child is a girl; (3) divide by two. A woman who is 1.59 m tall has a daughter, and the father is 1.76 m tall. Calculate the predicted adult height of their daughter, in metres.",
      "status": "ready",
      "answer": "1.61 m",
      "steps": [
@@ -27772,7 +27884,7 @@ window.BANK.biology = {
       "strategy",
       "ial biology"
      ],
-     "question": "Explain how the reproductive behaviour of these nematodes increases their chance of survival.",
+     "question": "Animals of this nematode species are either male (one sex chromosome) or hermaphrodite (two sex chromosomes). A hermaphrodite makes both sperm and egg cells: about 300 sperm are produced first and stored, then egg cells are produced. Its sperm can fertilise its own egg cells (self-fertilisation). When a hermaphrodite mates with a male, the male's sperm fertilise the egg cells, which results in 700 more fertilised egg cells than self-fertilisation; half of these fertilised egg cells give male offspring. Explain how the reproductive behaviour of these nematodes increases their chance of survival.",
      "status": "ready",
      "answer": "Hermaphrodites can self-fertilise, ensuring reproduction without a mate, and mating with males gives many more offspring and genetic variation.",
      "steps": [
@@ -28042,7 +28154,7 @@ window.BANK.biology = {
       "description",
       "ial biology"
      ],
-     "question": "Which description of the pluripotent stem cells in a blastocyst is correct (A-D)?",
+     "question": "The blastocyst contains some pluripotent stem cells. Which of the following describes these pluripotent stem cells? A adult stem cells that can give rise to most types of cell in the body, including totipotent cells; B adult stem cells that can give rise to most types of cell in the body, excluding totipotent cells; C embryonic stem cells that can give rise to most types of cell in the body, including totipotent cells; D embryonic stem cells that can give rise to most types of cell in the body, excluding totipotent cells.",
      "status": "ready",
      "answer": "D - embryonic stem cells that can give rise to most cell types, excluding totipotent cells",
      "steps": [
@@ -28379,7 +28491,7 @@ window.BANK.biology = {
       "height",
       "ial biology"
      ],
-     "question": "Calculate how many times bigger the male African elephant is than the female, using the height ranges.",
+     "question": "Male African elephants range in height from 3.2 m to 4.0 m; female African elephants range in height from 2.2 m to 2.6 m. Calculate how many times bigger the male African elephant is than the female African elephant.",
      "status": "ready",
      "answer": "1.5 times (using mid-range heights)",
      "steps": [
@@ -29161,7 +29273,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-46.jpg",
       "papers/biology/img/03C-Development-Organisms-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q17b.jpg"
+     ]
     },
     {
      "id": "3C-Q17b(iii)",
@@ -29531,7 +29645,9 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-54.jpg",
       "papers/biology/img/03C-Development-Organisms-55.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03C-Development-Organisms-Q20a.jpg"
+     ]
     },
     {
      "id": "3C-Q20a(ii)",
@@ -29788,7 +29904,7 @@ window.BANK.biology = {
       "statements",
       "ial biology"
      ],
-     "question": "Which combination of statements about the morula and blastocyst is correct (A 1 and 2, B 1 and 3, C 2 and 3, D 1, 2 and 3)?",
+     "question": "A fertilised egg cell develops into a morula and then a blastocyst. Which of the following are correct statements? 1 A blastocyst contains pluripotent stem cells; 2 A blastocyst is a hollow ball of cells whereas a morula is not; 3 Both of these structures contain cells which divide by meiosis. Options: A 1 and 2 only; B 1 and 3 only; C 2 and 3 only; D 1, 2 and 3.",
      "status": "ready",
      "answer": "A - 1 and 2 only",
      "steps": [
@@ -34476,7 +34592,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-081.jpg",
       "papers/biology/img/04A-Plant-Structure-082.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q34a.jpg"
+     ]
     },
     {
      "id": "4A-Q34c",
@@ -34505,7 +34623,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-081.jpg",
       "papers/biology/img/04A-Plant-Structure-082.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q34a.jpg"
+     ]
     },
     {
      "id": "4A-Q34d",
@@ -34534,7 +34654,9 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-081.jpg",
       "papers/biology/img/04A-Plant-Structure-082.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04A-Plant-Structure-Q34a.jpg"
+     ]
     },
     {
      "id": "4A-Q35a",
@@ -37345,7 +37467,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-022.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-023.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q9.jpg"
+     ]
     },
     {
      "id": "4BC-Q9a(ii)",
@@ -37405,7 +37529,10 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-022.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-023.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q9.jpg",
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q9-2.jpg"
+     ]
     },
     {
      "id": "4BC-Q9c",
@@ -37435,7 +37562,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-022.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-023.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q9-3.jpg"
+     ]
     },
     {
      "id": "4BC-Q9d",
@@ -39172,7 +39301,7 @@ window.BANK.biology = {
       "drawing",
       "chromatids"
      ],
-     "question": "Draw one body cell of a female Indian muntjac showing the arrangement of chromosomes in anaphase of mitosis.",
+     "question": "The body cells of a female Indian muntjac have three pairs of chromosomes. Dividing cells can be taken from the body of a female Indian muntjac. Draw one of these body cells showing the arrangement of chromosomes in the anaphase stage of mitosis.",
      "status": "ready",
      "answer": "Draw a cell with a spindle and 6 V-shaped chromosomes at each pole (12 in all), with the centromeres nearest the poles and the arms trailing towards the equator.",
      "steps": [
@@ -39232,7 +39361,7 @@ window.BANK.biology = {
       "definition",
       "muntjac"
      ],
-     "question": "State what is meant by the term locus.",
+     "question": "The diagram shows one of the chromosomes in an Indian muntjac cell. State what is meant by the term locus.",
      "status": "ready",
      "answer": "The position of a gene on a chromosome.",
      "steps": [
@@ -39247,7 +39376,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-059.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-060.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q23b.jpg"
+     ]
     },
     {
      "id": "4BC-Q23b(ii)",
@@ -39292,7 +39423,7 @@ window.BANK.biology = {
       "homologous pairs",
       "muntjac"
      ],
-     "question": "Suggest why offspring of Indian and Chinese muntjacs would be infertile.",
+     "question": "Chinese muntjac cells contain 23 pairs of chromosomes. The Chinese muntjac looks similar to the Indian muntjac (which has three pairs), but if they breed together they produce offspring that are infertile. Suggest why the offspring would be infertile.",
      "status": "ready",
      "answer": "Their chromosome numbers differ, so homologous chromosomes cannot pair in meiosis and functional gametes cannot form.",
      "steps": [
@@ -43464,7 +43595,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-138.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-139.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q51.jpg"
+     ]
     },
     {
      "id": "4BC-Q51a(ii)",
@@ -44995,7 +45128,7 @@ window.BANK.biology = {
       "light-independent reactions",
       "calvin cycle"
      ],
-     "question": "Where in the chloroplast are the bonds of glucose formed? A (missing from text), B matrix, C stroma, D thylakoid membrane.",
+     "question": "Where in the chloroplast are the bonds of glucose formed? A matrix (printed as a second B on the paper), B matrix, C stroma, D thylakoid membrane.",
      "status": "ready",
      "answer": "C stroma.",
      "steps": [
@@ -45156,7 +45289,9 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-07.jpg",
       "papers/biology/img/05A-Photosynthesis-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q3-4.jpg"
+     ]
     },
     {
      "id": "5A-Q3d",
@@ -46065,7 +46200,9 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-22.jpg",
       "papers/biology/img/05A-Photosynthesis-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q9-2.jpg"
+     ]
     },
     {
      "id": "5A-Q9b(ii)",
@@ -46372,7 +46509,9 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-26.jpg",
       "papers/biology/img/05A-Photosynthesis-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q11-3.jpg"
+     ]
     },
     {
      "id": "5A-Q12a",
@@ -46527,7 +46666,7 @@ window.BANK.biology = {
       "significant figures",
       "metres"
      ],
-     "question": "A cell is 0.0085 cm long. Using the ratio of cell length to chloroplast length (garbled in the text), calculate the chloroplast length in metres to 2 significant figures.",
+     "question": "The length of a cell was measured and found to be 0.0085 cm. The ratio of the length of this cell to the length of a chloroplast was 11.7 : 1. Calculate the length of this chloroplast. Give your answer in micrometres (um) to 2 significant figures.",
      "status": "ready",
      "answer": "7.3 um (7.3 x 10^-6 m)",
      "steps": [
@@ -47185,7 +47324,9 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-41.jpg",
       "papers/biology/img/05A-Photosynthesis-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05A-Photosynthesis-Q16-3.jpg"
+     ]
     },
     {
      "id": "5A-Q17a(i)",
@@ -48209,7 +48350,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-017.jpg",
       "papers/biology/img/05BC-Ecology-Climate-018.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q7.jpg"
+     ]
     },
     {
      "id": "5BC-Q7b(ii)",
@@ -49709,7 +49852,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-047.jpg",
       "papers/biology/img/05BC-Ecology-Climate-048.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q16.jpg"
+     ]
     },
     {
      "id": "5BC-Q16b(ii)",
@@ -49933,7 +50078,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-050.jpg",
       "papers/biology/img/05BC-Ecology-Climate-051.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q17-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q18a",
@@ -50219,7 +50366,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-056.jpg",
       "papers/biology/img/05BC-Ecology-Climate-057.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q19-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q19b(ii)",
@@ -50591,7 +50740,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-061.jpg",
       "papers/biology/img/05BC-Ecology-Climate-062.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q21.jpg"
+     ]
     },
     {
      "id": "5BC-Q22a(i)",
@@ -50839,7 +50990,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-067.jpg",
       "papers/biology/img/05BC-Ecology-Climate-068.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q24-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q24c",
@@ -51118,7 +51271,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-072.jpg",
       "papers/biology/img/05BC-Ecology-Climate-073.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q26-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q27a",
@@ -52256,7 +52411,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-090.jpg",
       "papers/biology/img/05BC-Ecology-Climate-091.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q34.jpg"
+     ]
     },
     {
      "id": "5BC-Q35a",
@@ -52738,7 +52895,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-098.jpg",
       "papers/biology/img/05BC-Ecology-Climate-099.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q38.jpg"
+     ]
     },
     {
      "id": "5BC-Q38d",
@@ -53193,7 +53352,7 @@ window.BANK.biology = {
       "options",
       "world tigers"
      ],
-     "question": "Which is the ratio of Bengal tigers to other types of tigers in the world in 2023? A 0.556 : 1, B 0.798 : 1, C 1.253 : 1, D 1 : 1.798.",
+     "question": "In 2023 there were an estimated 5 574 tigers in the world, of which approximately 3 100 were Bengal tigers. Which is the ratio of Bengal tigers to other types of tigers in the world in 2023? A 0.556 : 1, B 0.798 : 1, C 1.253 : 1, D 1 : 1.798.",
      "status": "ready",
      "answer": "C: 1.253 : 1.",
      "steps": [
@@ -53239,7 +53398,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-108.jpg",
       "papers/biology/img/05BC-Ecology-Climate-109.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q42-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q42bii",
@@ -53270,7 +53431,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-108.jpg",
       "papers/biology/img/05BC-Ecology-Climate-109.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q42.jpg"
+     ]
     }
    ]
   },
@@ -53572,7 +53735,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q3-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q3a(iii)",
@@ -53605,7 +53770,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q3-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q3b",
@@ -53639,7 +53806,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q3-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q3c(i)",
@@ -53875,7 +54044,10 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-010.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-011.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q4.jpg",
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q4-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q4c(ii)",
@@ -53971,7 +54143,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-011.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-012.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q5.jpg"
+     ]
     },
     {
      "id": "6AB-Q5b(i)",
@@ -54452,7 +54626,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-019.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-020.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q9.jpg"
+     ]
     },
     {
      "id": "6AB-Q9b(i)",
@@ -54630,13 +54806,13 @@ window.BANK.biology = {
       "giant panda",
       "cellulase"
      ],
-     "question": "Which type of glycosidic bond is broken in the digestion of cellulose? (options A to D)",
+     "question": "Which type of glycosidic bond is broken in the digestion of cellulose? A alpha 1-4, B alpha 1-6, C beta 1-4, D beta 1-6.",
      "status": "ready",
-     "answer": "A: beta 1-4 glycosidic bonds.",
+     "answer": "C: beta 1-4 glycosidic bonds.",
      "steps": [
       "Cellulose is a polymer of glucose linked by beta 1-4 glycosidic bonds.",
       "Cellulase enzymes break these beta 1-4 bonds to release glucose.",
-      "Option A is the only option with beta 1-4; the symbol in the text is garbled, but 1-4 matches cellulose.",
+      "Option C is the only option with beta 1-4 (options A and B are alpha bonds, D is beta 1-6).",
       "Digestion by hydrolysis adds water to break these bonds and release glucose."
      ],
      "images": [
@@ -54644,7 +54820,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-021.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-022.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q10-3.jpg"
+     ]
     },
     {
      "id": "6AB-Q10b",
@@ -54928,7 +55106,10 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q12.jpg",
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q12-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q12a(ii)",
@@ -54959,7 +55140,10 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q12.jpg",
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q12-3.jpg"
+     ]
     },
     {
      "id": "6AB-Q12a(iii)",
@@ -54990,7 +55174,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q12-4.jpg"
+     ]
     },
     {
      "id": "6AB-Q12a(iv)",
@@ -55117,7 +55303,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q13-3.jpg"
+     ]
     },
     {
      "id": "6AB-Q13b(i)",
@@ -55182,7 +55370,10 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q13.jpg",
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q13-4.jpg"
+     ]
     },
     {
      "id": "6AB-Q13b(iii)",
@@ -55215,7 +55406,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q13.jpg"
+     ]
     },
     {
      "id": "6AB-Q13c(i)",
@@ -55802,7 +55995,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q15-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q16a",
@@ -56459,7 +56654,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-043.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-044.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q20-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q20a(ii)",
@@ -56551,7 +56748,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-043.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-044.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q20-3.jpg"
+     ]
     },
     {
      "id": "6AB-Q21a",
@@ -56613,7 +56812,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-045.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-046.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q21.jpg"
+     ]
     },
     {
      "id": "6AB-Q21b(ii)",
@@ -56644,7 +56845,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-045.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-046.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q21-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q21c(i)",
@@ -57071,7 +57274,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-051.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-052.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q23.jpg"
+     ]
     },
     {
      "id": "6AB-Q23d(ii)",
@@ -57450,7 +57655,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-057.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-058.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q26.jpg"
+     ]
     },
     {
      "id": "6AB-Q26c(i)",
@@ -57515,7 +57722,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-057.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-058.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q26.jpg"
+     ]
     },
     {
      "id": "6AB-Q27a(i)",
@@ -57579,7 +57788,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-059.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-060.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q27.jpg"
+     ]
     },
     {
      "id": "6AB-Q27b",
@@ -57871,7 +58082,10 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q29-2.jpg",
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q29-3.jpg"
+     ]
     },
     {
      "id": "6AB-Q29a(ii)",
@@ -57902,7 +58116,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q29-4.jpg"
+     ]
     },
     {
      "id": "6AB-Q29a(iii)",
@@ -57933,7 +58149,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q29-5.jpg"
+     ]
     },
     {
      "id": "6AB-Q29b(i)",
@@ -81964,16 +82182,25 @@ window.BANK.biology = {
       "conclusions"
      ],
      "question": "Describe the conclusions from the gene therapy investigation, using the graphs of retinal levels and path-following ability.",
-     "status": "pending",
-     "answer": "Pending: the two graphs of trans- and cis-retinal and path-following ability for each dose are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Gene therapy restores cis-retinal production and improves path-following, most clearly at the highest dose (1000 a.u.), without changing trans-retinal.",
+     "steps": [
+      "Trans-retinal stays about 45-55 pmol per eye at every dose and the error bars overlap, so dose does not change the amount of substrate.",
+      "Cis-retinal is about 0 with no treatment and rises with treatment: about 95 (8 a.u.), 10 (40), 40 (200) and 310 pmol per eye (1000), so the working RPE65 gene is converting trans- to cis-retinal.",
+      "The increase is not steady: 8 a.u. gives more cis-retinal than 40 or 200 a.u., and only 1000 a.u. clearly differs from the others (its error bar does not overlap).",
+      "Path-following is about 40% untreated and 38% at 8 a.u. (no improvement), then rises to about 55% (40), 64% (200) and 84% (1000), so vision improves with dose from 40 a.u. upwards.",
+      "Best dose is 1000 a.u. with the most cis-retinal and best path-following, but vision is not fully restored (84%, not 100%) and the large error bars mean more repeats are needed."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-02.jpg",
       "papers/biology/img/08C-Gene-Technology-03.jpg",
       "papers/biology/img/08C-Gene-Technology-04.jpg",
       "papers/biology/img/08C-Gene-Technology-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q2.jpg",
+      "papers/biology/fig/08C-Gene-Technology-Q2-2.jpg"
+     ]
     },
     {
      "id": "8C-Q2c",
@@ -82110,15 +82337,22 @@ window.BANK.biology = {
       "Alzheimer disease"
      ],
      "question": "Complete the table showing which parts of the brain are responsible for memory and cognitive function, using the article.",
-     "status": "pending",
-     "answer": "Pending: the table and the article paragraphs 2 and 13 are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "cerebellum: coordination of movement/balance; (visual cortex / occipital lobe): interpretation of information from the retina; medulla oblongata: control of heart rate and breathing rate; hypothalamus (ADH released by the posterior pituitary): secretion of ADH.",
+     "steps": [
+      "Cerebellum: coordinates muscle movement, balance and posture.",
+      "Blank part of brain (retina row): the visual cortex in the occipital lobe of the cerebral cortex interprets information from the retina.",
+      "Medulla oblongata: controls involuntary activities such as heart rate, breathing rate and ventilation.",
+      "Blank part of brain (ADH row): the hypothalamus makes ADH, which is stored and released by the posterior pituitary gland."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-07.jpg",
       "papers/biology/img/08C-Gene-Technology-08.jpg",
       "papers/biology/img/08C-Gene-Technology-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q4.jpg"
+     ]
     },
     {
      "id": "8C-Q4b",
@@ -82164,9 +82398,15 @@ window.BANK.biology = {
       "article paragraphs 7 and 22"
      ],
      "question": "Suggest how the amyloid protein may prevent bacterial infection in the brain, using paragraphs 7 and 22 of the article.",
-     "status": "pending",
-     "answer": "Pending: the answer depends on the article paragraphs 7 and 22, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Amyloid protein acts as part of the innate immune defence: it is sticky, clumps around bacteria, traps them and damages them, so they cannot spread or infect neurones.",
+     "steps": [
+      "Amyloid protein can act as an antimicrobial peptide, so more is made when bacteria or other microbes are detected in the brain.",
+      "Its molecules are chemically sticky and clump together around bacteria, forming plaques that trap (agglutinate) them.",
+      "Trapped bacteria cannot move, reproduce or reach and enter neurones, so the infection cannot spread through the brain.",
+      "Amyloid may also bind to the bacterial cell wall/membrane and damage it, killing the bacteria.",
+      "The article paragraph is not reproduced on the paper pages, so these points come from standard knowledge of the topic."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-07.jpg",
       "papers/biology/img/08C-Gene-Technology-08.jpg",
@@ -82188,9 +82428,15 @@ window.BANK.biology = {
       "article paragraphs 10, 20 and 21"
      ],
      "question": "Explain how the bacterium P. gingivalis may invade the brain and cause inflammation, using paragraphs 10, 20 and 21 of the article.",
-     "status": "pending",
-     "answer": "Pending: the answer depends on the article paragraphs 10, 20 and 21, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "P. gingivalis enters the blood through damaged inflamed gums, crosses the blood-brain barrier into brain regions such as the hippocampus, and its toxins (gingipains) trigger an immune response that causes inflammation.",
+     "steps": [
+      "In gum disease the gum tissue is damaged and bleeds, so bacteria can enter the blood capillaries (e.g. when chewing or brushing).",
+      "The bacteria are carried in the blood to the brain and cross the blood-brain barrier (or enter inside infected immune cells), reaching regions such as the hippocampus and cerebral cortex.",
+      "In the brain the bacteria release toxic enzymes (gingipains) and other molecules that damage neurones.",
+      "Microglia and other immune cells detect the bacteria, release cytokines and recruit more immune cells, causing chronic inflammation that further damages neurones.",
+      "The article paragraph is not reproduced on the paper pages, so these points come from standard knowledge of the topic."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-07.jpg",
       "papers/biology/img/08C-Gene-Technology-08.jpg",
@@ -82212,9 +82458,14 @@ window.BANK.biology = {
       "article paragraph 12"
      ],
      "question": "Suggest how gingipains may have a degrading effect on memory in Alzheimer disease, using paragraph 12 of the article.",
-     "status": "pending",
-     "answer": "Pending: the answer depends on article paragraph 12, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Gingipains are protease enzymes that break down proteins such as tau in neurones, so the cytoskeleton and synapses are damaged and neurones die, impairing memory.",
+     "steps": [
+      "Gingipains are protease enzymes that hydrolyse peptide bonds in proteins.",
+      "They break down proteins that neurones need, such as tau (which stabilises microtubules) and synaptic proteins, so neurones lose their structure and transport.",
+      "Damaged neurones and synapses in the hippocampus die or stop communicating, so memories cannot be formed or stored.",
+      "The article paragraph is not reproduced on the paper pages, so these points come from standard knowledge of the topic."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-07.jpg",
       "papers/biology/img/08C-Gene-Technology-08.jpg",
@@ -82265,9 +82516,15 @@ window.BANK.biology = {
       "article paragraph 3"
      ],
      "question": "Explain how toxicants in food could cause Parkinson disease, using paragraph 3 of the article.",
-     "status": "pending",
-     "answer": "Pending: the answer depends on article paragraph 3, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Toxicants in food (e.g. pesticides) enter neurones and damage mitochondria, so dopaminergic neurones in the substantia nigra die and dopamine production falls.",
+     "steps": [
+      "Toxicants taken in with food (e.g. pesticide residues, heavy metals) are absorbed and reach neurones in the brain.",
+      "They inhibit mitochondrial enzymes of the electron transport chain (e.g. complex I), so less ATP is made and reactive oxygen species build up and damage DNA and proteins.",
+      "Dopamine-producing neurones in the substantia nigra are especially sensitive, so they die (or proteins such as alpha-synuclein clump together).",
+      "Less dopamine is released, so movement control is lost, giving the symptoms of Parkinson disease.",
+      "The article paragraph is not reproduced on the paper pages, so these points come from standard knowledge of the topic."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-10.jpg",
       "papers/biology/img/08C-Gene-Technology-11.jpg",
@@ -82763,16 +83020,26 @@ window.BANK.biology = {
       "agriculture"
      ],
      "question": "Discuss the risks and benefits of genetic modification in valuable agricultural plants, using the table and the graph.",
-     "status": "pending",
-     "answer": "Pending: the table of GM examples and the graph of GM crop use in the United States are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Benefits: higher yield and lower costs, shown by rapid uptake (soybean about 8% to 94%, corn about 2% to 89% of area, 1996-2017). Risks: herbicide- or insect-resistant pests, gene transfer to wild plants, harm to non-target species and loss of biodiversity.",
+     "steps": [
+      "Benefit - herbicide-tolerant soybean (glyphosate): weeds are killed without harming the crop, so less competition, higher yield and less ploughing.",
+      "Benefit - insect-resistant corn (Bt gene from B. thuringiensis): the corn borer is killed, so less crop loss and less insecticide spraying, which saves money.",
+      "Graph: farmers adopt GM crops quickly - soybean rose from about 8% (1996) to above 50% by 1999 and about 94% by 2017; corn rose more slowly (about 2% to 52% by 2007) to about 89% by 2017. Both level off, showing they are widely used.",
+      "Risk - weeds or insects evolve resistance to the herbicide/toxin, which is more likely with such widespread use, so new chemicals are needed.",
+      "Risk - the herbicide-tolerance gene may spread by pollen to wild relatives (superweeds); the Bt toxin may harm non-target insects, reducing biodiversity; possible effects on human health and high seed cost for farmers.",
+      "Overall the graph shows high uptake but not proof of higher yield, so benefits and risks must be weighed using long-term evidence."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-15.jpg",
       "papers/biology/img/08C-Gene-Technology-16.jpg",
       "papers/biology/img/08C-Gene-Technology-17.jpg",
       "papers/biology/img/08C-Gene-Technology-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q7.jpg",
+      "papers/biology/fig/08C-Gene-Technology-Q7-2.jpg"
+     ]
     },
     {
      "id": "8C-Q8a",
@@ -82819,15 +83086,22 @@ window.BANK.biology = {
       "tyrosine"
      ],
      "question": "Explain the effects of the control gene, MYB12 and CYP76 in the tomato investigation, using the table of L-dopa concentrations.",
-     "status": "pending",
-     "answer": "Pending: the table of L-dopa concentrations in the tomato fruit is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Control gene: no effect (1.2, same as none). MYB12: small increase (1.5). CYP76: large increase (10.2, about 8.5 times). CYP76 with MYB12: greatest (14.6), more than the sum of the two separate effects.",
+     "steps": [
+      "Control gene: L-dopa stays at 1.2 mg per 100 g, the same as unmodified tomatoes, so inserting a gene alone does not change L-dopa; it shows the process is not responsible for any rise.",
+      "MYB12 (transcription factor): small rise to 1.5 mg per 100 g (+0.3), probably by switching on genes that increase the supply of tyrosine.",
+      "CYP76 (beetroot enzyme gene): the enzyme converts tyrosine to L-dopa, so concentration rises to 10.2 mg per 100 g, about 8.5 times the unmodified level (10.2/1.2).",
+      "CYP76 and MYB12 together give 14.6 mg per 100 g (about 12 times), more than the 10.5 expected from adding the two separate rises, so the extra tyrosine from MYB12 gives the CYP76 enzyme more substrate (the effect is synergistic)."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-18.jpg",
       "papers/biology/img/08C-Gene-Technology-19.jpg",
       "papers/biology/img/08C-Gene-Technology-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q8.jpg"
+     ]
     },
     {
      "id": "8C-Q8b(ii)",
@@ -82913,7 +83187,9 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-21.jpg",
       "papers/biology/img/08C-Gene-Technology-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q9.jpg"
+     ]
     },
     {
      "id": "8C-Q9b(ii)",
@@ -82928,15 +83204,21 @@ window.BANK.biology = {
       "R-R interval"
      ],
      "question": "Calculate the mean heart rate shown in the ECG trace of the patient.",
-     "status": "pending",
-     "answer": "Pending: the ECG trace with the time scale and R-R intervals is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "100 beats per minute (R-R interval about 0.6 s)",
+     "steps": [
+      "1.0 s spans 5 large squares, so 1 large square = 0.2 s.",
+      "Successive R peaks are about 3 large squares apart: 3 x 0.2 = 0.6 s per beat.",
+      "Heart rate = 60 / 0.6 = 100 beats per minute (five beats in about 2.4 s gives the same value)."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-20.jpg",
       "papers/biology/img/08C-Gene-Technology-21.jpg",
       "papers/biology/img/08C-Gene-Technology-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q9-2.jpg"
+     ]
     },
     {
      "id": "8C-Q9b(iii)",
@@ -82952,15 +83234,23 @@ window.BANK.biology = {
       "heart rhythm"
      ],
      "question": "Compare and contrast the ECG trace of this patient with the normal ECG trace.",
-     "status": "pending",
-     "answer": "Pending: the patient ECG trace is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Same: P wave, QRS complex and T wave in every cycle, with a regular rhythm and similar heights. Different: the patient's beats are closer together (about 100 bpm, 0.6 s apart) than the normal ECG (about 60 bpm, 1.0 s apart).",
+     "steps": [
+      "Similarity - both traces show a P wave, QRS complex and T wave in every cycle, in the same order and with similar shapes and heights, and each beat is evenly spaced, so the conduction pathway is working.",
+      "Difference - the interval between R peaks is shorter in the patient (about 0.6 s) than in the normal ECG (about 1.0 s).",
+      "So the patient's heart rate is faster (about 100 bpm compared with about 60 bpm: tachycardia).",
+      "Because the cycle is shorter, the patient has little or no flat gap between the T wave and the next P wave, whereas the normal ECG has a long flat gap."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-20.jpg",
       "papers/biology/img/08C-Gene-Technology-21.jpg",
       "papers/biology/img/08C-Gene-Technology-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q9.jpg",
+      "papers/biology/fig/08C-Gene-Technology-Q9-2.jpg"
+     ]
     },
     {
      "id": "8C-Q9c",
@@ -83287,7 +83577,9 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-27.jpg",
       "papers/biology/img/08C-Gene-Technology-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q11-2.jpg"
+     ]
     },
     {
      "id": "8C-Q11c",
@@ -83303,15 +83595,23 @@ window.BANK.biology = {
       "liquid culture"
      ],
      "question": "Discuss the changes in tryptophan and serotonin concentration shown in the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph of tryptophan and serotonin concentrations over time is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Tryptophan falls from about 180 to 57 a.u. while serotonin rises from 0 to about 155 a.u. over 50 hours, because the engineered E. coli convert tryptophan to serotonin via 5HTP; both then level off.",
+     "steps": [
+      "Tryptophan (substrate) falls steeply at first (about 180 to 100 a.u. in 16 h) while serotonin (product) rises from 0 to about 60 a.u., because enzymes A and B in the GM bacteria convert tryptophan to 5HTP and then to serotonin.",
+      "Serotonin rises fastest between 16 and 20 h (about 60 to 100 a.u.), when most enzyme is being made and tryptophan is still plentiful.",
+      "After about 24 h the rates slow: tryptophan levels off at about 57-60 a.u. and serotonin at about 150-155 a.u. (error bars overlap from 36-50 h, so no real change), so the substrate may be limiting or the culture may stop growing or become inhibited.",
+      "The fall in tryptophan (about 123 a.u.) is smaller than the rise in serotonin (about 155 a.u.), so some tryptophan may also be made by the bacteria or the units differ; some tryptophan remains unconverted.",
+      "Overall the graph shows the GM E. coli make serotonin from tryptophan, but conversion is incomplete."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-26.jpg",
       "papers/biology/img/08C-Gene-Technology-27.jpg",
       "papers/biology/img/08C-Gene-Technology-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q11.jpg"
+     ]
     },
     {
      "id": "8C-Q12a(i)",
@@ -83337,7 +83637,9 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-29.jpg",
       "papers/biology/img/08C-Gene-Technology-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q12.jpg"
+     ]
     },
     {
      "id": "8C-Q12a(ii)",
@@ -83492,9 +83794,15 @@ window.BANK.biology = {
       "article paragraph 7"
      ],
      "question": "Explain how microorganisms promote the accumulation of mature T-killer cells that enhance anti-tumour effects of drugs, using paragraph 7.",
-     "status": "pending",
-     "answer": "Pending: the answer depends on article paragraph 7, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Microbial antigens activate T cells through antigen-presenting cells; helper T cells release cytokines that make T cells mature into T-killer cells, which divide by mitosis and accumulate.",
+     "steps": [
+      "Microorganisms (or their antigens) are taken up by antigen-presenting cells such as dendritic cells, which display the antigens on their surface.",
+      "T-helper cells with a complementary receptor bind these antigen-presenting cells and are activated; they release cytokines.",
+      "Cytokines stimulate T cells to differentiate into mature T-killer cells and to divide by mitosis (clonal expansion), so many T-killer cells accumulate.",
+      "These T-killer cells go to the tumour and kill tumour cells (e.g. using perforin), enhancing the effect of the drug.",
+      "The article paragraph is not reproduced on the paper pages, so these points come from standard knowledge of the topic."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-30.jpg",
       "papers/biology/img/08C-Gene-Technology-31.jpg",
@@ -83696,16 +84004,26 @@ window.BANK.biology = {
       "graphs"
      ],
      "question": "Comment on the amino acid composition of these neurotoxins, using the table and graphs.",
-     "status": "pending",
-     "answer": "Pending: the table of mean amino acid composition and the graphs for bacteria, cnidarians and molluscs are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Neurotoxins contain about 7 times more cysteine (13.69 vs 1.95) and about half as much glutamine and leucine as non-toxins, but the pattern differs between groups: cnidarian and mollusc toxins are cysteine-rich while bacterial toxins are not.",
+     "steps": [
+      "Table: cysteine is much higher in neurotoxins (13.69) than in non-toxins (1.95), about 7 times; glutamine (2.35 vs 4.16) and leucine (5.53 vs 10.17) are lower, by about 44% and 46%.",
+      "Graphs: cysteine is high in cnidarians (about 12) and molluscs (about 17) but very low in bacteria (about 0.7, below the non-toxin mean), so the high mean cysteine comes from cnidarian and mollusc toxins.",
+      "Glutamine and leucine are highest in bacteria (about 17 and 8) and lowest in cnidarians (about 5 and 3); bacterial glutamine (about 17) is far above both the neurotoxin mean (2.35) and the non-toxin mean (4.16), so the overall means hide big differences between groups.",
+      "Cysteine forms disulfide bridges, giving a stable, compact tertiary structure that can resist digestion and bind ion channels or receptors; this may explain why the toxins of cnidarians and molluscs are cysteine-rich.",
+      "Bacterial toxins appear to work with a different composition (probably larger proteins/enzymes), so there is no single amino-acid pattern for all neurotoxins.",
+      "Limitation: only three amino acids and mean values are given (no spread), so a firm link between composition and toxicity cannot be shown."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-33.jpg",
       "papers/biology/img/08C-Gene-Technology-34.jpg",
       "papers/biology/img/08C-Gene-Technology-35.jpg",
       "papers/biology/img/08C-Gene-Technology-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q14.jpg",
+      "papers/biology/fig/08C-Gene-Technology-Q14-2.jpg"
+     ]
     },
     {
      "id": "8C-Q14c(ii)",
@@ -83832,9 +84150,14 @@ window.BANK.biology = {
       "article paragraph 4"
      ],
      "question": "Suggest why there was lower fat accumulation and shorter body length in nematodes grown in microgravity, using paragraph 4.",
-     "status": "pending",
-     "answer": "Pending: the answer depends on the findings in article paragraph 4, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "In microgravity, genes for fat metabolism and for growth/cytoskeleton proteins are down-regulated, so less fat is stored and the worms grow less in length.",
+     "steps": [
+      "Fewer metabolic enzymes are made (genes down-regulated), so less fat is synthesised and stored (lower fat accumulation).",
+      "Genes for cytoskeletal, muscle and cuticle proteins are down-regulated, so growth in length is reduced (shorter body length).",
+      "With little gravitational load on muscles, less energy is needed, so energy metabolism and growth are slower; reduced feeding or slower development may also contribute.",
+      "The article paragraph is not reproduced on the paper pages, so these points come from standard knowledge of the topic."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-37.jpg",
       "papers/biology/img/08C-Gene-Technology-38.jpg",
@@ -83855,9 +84178,15 @@ window.BANK.biology = {
       "article paragraph 6"
      ],
      "question": "Explain why there were reduced levels of a number of metabolic proteins in nematodes grown in microgravity, using paragraph 6.",
-     "status": "pending",
-     "answer": "Pending: the answer depends on article paragraph 6, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Genes for metabolic proteins are down-regulated in microgravity, so less mRNA is transcribed and translated and proteins may also be broken down faster, giving lower protein levels.",
+     "steps": [
+      "Microgravity changes the activity of transcription factors and chromatin (e.g. histone changes), so transcription of metabolic genes falls.",
+      "Less mRNA is produced for these genes (shown by microarrays), so less translation occurs at ribosomes and fewer metabolic proteins are made.",
+      "Existing proteins may be degraded faster, or mRNA degraded sooner, so the protein concentration falls.",
+      "Lower demand for energy in microgravity (less muscle work) means the cell does not need as many metabolic enzymes, matching the lower fat accumulation.",
+      "The article paragraph is not reproduced on the paper pages, so these points come from standard knowledge of the topic."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-37.jpg",
       "papers/biology/img/08C-Gene-Technology-38.jpg",
@@ -83937,7 +84266,7 @@ window.BANK.biology = {
      ],
      "question": "Comment on the reliability of the data presented in Table 1 (paragraph 9).",
      "status": "pending",
-     "answer": "Pending: Table 1 and the article paragraph 9 are not in the text.",
+     "answer": "Table 1 and paragraph 9 are in the separate article insert, not on the paper pages, so the data cannot be assessed for reliability.",
      "steps": [],
      "images": [
       "papers/biology/img/08C-Gene-Technology-37.jpg",
@@ -84052,7 +84381,9 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-41.jpg",
       "papers/biology/img/08C-Gene-Technology-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q16.jpg"
+     ]
     },
     {
      "id": "8C-Q16c(ii)",
@@ -84417,9 +84748,14 @@ window.BANK.biology = {
       "conclusions"
      ],
      "question": "Describe three conclusions from the graph comparing antigen binding activity of BVZ from GM rice strains, animal cell culture and control.",
-     "status": "pending",
-     "answer": "Pending: the graph of antigen binding activity for the control, animal cell culture and GM rice strains A to D is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Non-transformed rice has almost no antigen binding (about 0.04 a.u.); all four GM strains show binding (about 0.15-0.37 a.u.), so GM rice can make functional BVZ; none matches animal culture (about 0.44 a.u.), and strain B (about 0.37) is best.",
+     "steps": [
+      "The control (non-transformed rice) has very low antigen binding (about 0.04 a.u.), so the activity in the GM strains is due to the inserted BVZ gene.",
+      "All four GM strains produce antibody that binds the antigen (about 0.25, 0.37, 0.175 and 0.15 a.u. for A, B, C and D), so GM rice can make functional BVZ.",
+      "The strains differ: B is highest (about 84% of animal culture) and D lowest (about 34%), so the amount or quality of antibody depends on the strain.",
+      "No GM strain reaches the animal culture value (about 0.44 a.u.); error bars are small and do not overlap for B and animal culture, so rice-made BVZ is less active than culture-made BVZ."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-45.jpg",
       "papers/biology/img/08C-Gene-Technology-46.jpg",
@@ -84427,7 +84763,9 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-48.jpg",
       "papers/biology/img/08C-Gene-Technology-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q18.jpg"
+     ]
     },
     {
      "id": "8C-Q18b(ii)",
@@ -84476,9 +84814,16 @@ window.BANK.biology = {
       "benefits"
      ],
      "question": "Assess the risks and benefits of genetically modifying the maize fungus for future food production in a warming world, using the tables and knowledge.",
-     "status": "pending",
-     "answer": "Pending: the tables of maize growth measurements, toxin concentrations and computer-model predictions are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Benefits: GM fungus makes about half the toxin (270 vs 530 a.u.) with slightly taller plants and more grains, which helps as infection is predicted to rise from 38% to 95% with warming. Risks: spread or evolution of the GM fungus, harm to other organisms, and uncertain long-term effects.",
+     "steps": [
+      "Benefit - toxin concentration falls by about 49% (530 +/- 100 to 270 +/- 35 a.u.) and the ranges do not overlap, so the maize is safer for animals and people.",
+      "Benefit - plants are taller (320 vs 285 cm, +12%) and have slightly more grains per cob (117 vs 113, +3.5%), but the height ranges overlap (SD 33 and 60), so only the toxin and grain differences look reliable, and the yield gain is small.",
+      "The model predicts that infected maize rises from 38% to 73% (+2 degrees C) and 95% (+5 degrees C), so a less harmful fungus would help protect food production as the climate warms.",
+      "Risk - the GM fungus could spread to other crops or wild fungi, pass on genes, or evolve to become more damaging; it may harm soil organisms or other species and reduce biodiversity.",
+      "Risk - the results come from one investigation with limited measurements; the toxin is not removed, the model is only a prediction, and long-term, field-scale and health effects are unknown, so more testing and regulation are needed.",
+      "Conclusion - benefits look worthwhile given the predicted rise in infection, provided containment and further trials are used."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-45.jpg",
       "papers/biology/img/08C-Gene-Technology-46.jpg",
@@ -84486,7 +84831,10 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-48.jpg",
       "papers/biology/img/08C-Gene-Technology-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q18-2.jpg",
+      "papers/biology/fig/08C-Gene-Technology-Q18-3.jpg"
+     ]
     },
     {
      "id": "8C-Q19a(i)",
@@ -84502,16 +84850,22 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Which is the ratio of action potentials produced at 48 degrees C by nociceptors compared with thermoreceptors (options: 0.40:1, 2.0:1, 2.07:1, 2.1:1)?",
-     "status": "pending",
-     "answer": "Pending: the graph of action potentials against temperature is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 2.1 : 1",
+     "steps": [
+      "At 48 degrees C the nociceptor produces 27 action potentials per second and the thermoreceptor 13.",
+      "Ratio = 27 / 13 = 2.077, so nociceptor : thermoreceptor = 2.1 : 1 (rounded correctly to 2 significant figures).",
+      "2.07 : 1 (C) cuts the decimal off instead of rounding it (2.077 rounds to 2.08), 2.0 : 1 (B) is too low, and 0.40 : 1 (A) is the wrong way round."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-49.jpg",
       "papers/biology/img/08C-Gene-Technology-50.jpg",
       "papers/biology/img/08C-Gene-Technology-51.jpg",
       "papers/biology/img/08C-Gene-Technology-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q19.jpg"
+     ]
     },
     {
      "id": "8C-Q19a(ii)",
@@ -84527,16 +84881,24 @@ window.BANK.biology = {
       "investigation"
      ],
      "question": "Comment on the extent to which the results of the investigation support the statement that nociceptors are better than thermoreceptors at preventing tissue damage at high temperatures.",
-     "status": "pending",
-     "answer": "Pending: the graph of action potentials for nociceptors and thermoreceptors across temperatures is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Partly supported: above about 46 degrees C nociceptors fire far more action potentials than thermoreceptors, which plateau, but the data show only action potential frequency, not actual tissue damage or protection.",
+     "steps": [
+      "Support - nociceptors fire only above 42 degrees C and their rate keeps rising with temperature (5 at 44, 15 at 46, 27 at 48 and 37 per second at 50 degrees C), so they give a graded signal that harmful heat is increasing.",
+      "Support - thermoreceptors level off at about 13 action potentials per second from 44 degrees C, so they cannot signal further rises; at 48 and 50 degrees C nociceptors give about 2 and 3 times as many.",
+      "More action potentials means a stronger pain response and a faster withdrawal reflex, which could prevent serious damage.",
+      "Against - below 46 degrees C thermoreceptors respond more (e.g. 12 vs 0 at 42 degrees C) and at 46 degrees C both give similar rates (about 15 and 13).",
+      "Limitation - only the number of action potentials was measured, not the response or the tissue damage, over a limited temperature range with no error bars or sample size, so \"better\" cannot be proved."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-49.jpg",
       "papers/biology/img/08C-Gene-Technology-50.jpg",
       "papers/biology/img/08C-Gene-Technology-51.jpg",
       "papers/biology/img/08C-Gene-Technology-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q19.jpg"
+     ]
     },
     {
      "id": "8C-Q19b",
@@ -84552,16 +84914,23 @@ window.BANK.biology = {
       "nerve impulse transmission"
      ],
      "question": "Explain the results of the nicotine investigation in mice A, B and C, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph of the results for groups A, B and C is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Nicotine binds to acetylcholine receptors on the postsynaptic membrane of group A and depolarises it, so many more action potentials are produced; B (no nicotine) and C (no receptor) stay low.",
+     "steps": [
+      "Group A: after nicotine is given the number of action potentials rises sharply, because nicotine is similar in shape to acetylcholine and binds to the acetylcholine receptors, opening sodium channels so the postsynaptic membrane depolarises to threshold.",
+      "Nicotine is not broken down by acetylcholinesterase, so stimulation continues and the high rate of action potentials is maintained.",
+      "Group B (no nicotine) is the control: action potentials stay low, so the rise in A is due to nicotine and not to time or handling.",
+      "Group C (nicotine but no acetylcholine receptors) shows no rise, so nicotine acts through the acetylcholine receptor on the postsynaptic membrane; without receptors it cannot bind and no depolarisation occurs."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-49.jpg",
       "papers/biology/img/08C-Gene-Technology-50.jpg",
       "papers/biology/img/08C-Gene-Technology-51.jpg",
       "papers/biology/img/08C-Gene-Technology-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q19-2.jpg"
+     ]
     },
     {
      "id": "8C-Q20a",
@@ -84785,9 +85154,13 @@ window.BANK.biology = {
       "compare contrast"
      ],
      "question": "Compare and contrast the changes in insulin concentration in the blood of trained and untrained individuals, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph of insulin concentration over time for the two individuals is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both individuals show a fall in insulin during exercise that slows after 50 minutes, but the fall is larger in the untrained person (about -54% at 100 min) than in the trained person (about -33%).",
+     "steps": [
+      "Similarity - both start at 0% change and both show a decrease in insulin concentration, falling faster in the first 50 minutes and more slowly from 50 to 100 minutes.",
+      "Difference - the fall is greater in the untrained individual at every time: about -44% vs -30% at 50 minutes and about -54% vs -33% at 100 minutes.",
+      "Difference - from 50 to 100 minutes the trained individual changes by only about 3% whereas the untrained individual falls by a further 10%, so insulin stays higher in the trained person."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-55.jpg",
       "papers/biology/img/08C-Gene-Technology-56.jpg",
@@ -84795,7 +85168,9 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-58.jpg",
       "papers/biology/img/08C-Gene-Technology-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q21.jpg"
+     ]
     },
     {
      "id": "8C-Q21c(i)",
@@ -84873,9 +85248,12 @@ window.BANK.biology = {
       "cell number increase"
      ],
      "question": "Give one reason why there is no bar on the graph for an insulin concentration of 0 pmol dm-3.",
-     "status": "pending",
-     "answer": "Pending: the graph showing the axis scale and bars is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Without insulin (the control) there was no increase in cell number, so the increase was 0% and the bar has no height.",
+     "steps": [
+      "At 0 pmol dm-3 no insulin is present, so the cells do not divide extra and the mean increase in cell number is 0%.",
+      "A bar of zero height cannot be seen on the graph; this value acts as the control for comparison."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-55.jpg",
       "papers/biology/img/08C-Gene-Technology-56.jpg",
@@ -84883,7 +85261,9 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-58.jpg",
       "papers/biology/img/08C-Gene-Technology-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q21-2.jpg"
+     ]
     },
     {
      "id": "8C-Q21d(ii)",
@@ -84914,7 +85294,9 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-58.jpg",
       "papers/biology/img/08C-Gene-Technology-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q21-2.jpg"
+     ]
     },
     {
      "id": "8C-Q21d(iii)",
@@ -84942,7 +85324,9 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-58.jpg",
       "papers/biology/img/08C-Gene-Technology-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08C-Gene-Technology-Q21-2.jpg"
+     ]
     },
     {
      "id": "8C-Q22a(i)",
@@ -84985,7 +85369,7 @@ window.BANK.biology = {
      ],
      "question": "Calculate the ratio of the length of the X chromosome to the Y chromosome in the image (1 d.p.).",
      "status": "pending",
-     "answer": "Pending: the chromosome image with its lengths is not in the text.",
+     "answer": "The X and Y chromosome image (before paragraph 1) is in the separate article insert, not on the paper pages, so the lengths cannot be measured.",
      "steps": [],
      "images": [
       "papers/biology/img/08C-Gene-Technology-59.jpg",
@@ -85009,9 +85393,14 @@ window.BANK.biology = {
       "inflammation"
      ],
      "question": "Suggest why the loss of the Y chromosome may lead to higher rates of heart disease in men than women, using paragraphs 4 and 5.",
-     "status": "pending",
-     "answer": "Pending: the answer depends on article paragraphs 4 and 5, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Many older men lose the Y chromosome from white blood cells; these immune cells promote inflammation and scar tissue in the heart, so heart function falls; women have no Y chromosome, so they are not affected.",
+     "steps": [
+      "With age, men lose the Y chromosome from some body cells such as white blood cells, which changes the genes these cells express.",
+      "These altered immune cells cause inflammation and fibrosis (scarring) in heart tissue, so the heart pumps less effectively and heart disease/failure is more likely.",
+      "Women do not have a Y chromosome, so they cannot lose it, which gives them a lower risk.",
+      "The article paragraph is not reproduced on the paper pages, so these points come from standard knowledge of the topic."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-59.jpg",
       "papers/biology/img/08C-Gene-Technology-60.jpg",
@@ -85151,7 +85540,7 @@ window.BANK.biology = {
      ],
      "question": "Calculate the percentage of genes that have been lost from the original Y chromosome, using paragraph 15.",
      "status": "pending",
-     "answer": "Pending: the numbers of genes in the original and current Y chromosome are in article paragraph 15, which is not in the text.",
+     "answer": "The numbers of genes on the original and current Y chromosome are given in article paragraph 15, which is in the separate article insert, so the percentage cannot be calculated.",
      "steps": [],
      "images": [
       "papers/biology/img/08C-Gene-Technology-59.jpg",
@@ -85204,9 +85593,14 @@ window.BANK.biology = {
       "article paragraphs 2, 3 and 20"
      ],
      "question": "Explain why elderly men who have lost their Y chromosome have a higher risk of cancer, using paragraphs 2, 3 and 20.",
-     "status": "pending",
-     "answer": "Pending: the answer depends on article paragraphs 2, 3 and 20, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The Y chromosome carries genes that help control cell division and immune surveillance; cells that lose it lose these genes, so tumour cells escape the immune system and divide uncontrollably.",
+     "steps": [
+      "The Y chromosome carries genes that act as tumour suppressors and control cell division, so cells without it are more likely to divide out of control and form tumours.",
+      "Immune cells that have lost the Y chromosome work less well, so T cells and other immune cells are less able to detect and destroy abnormal cells.",
+      "Loss of the Y chromosome increases with age, so elderly men have more affected cells and a greater risk of cancer.",
+      "The article paragraph is not reproduced on the paper pages, so these points come from standard knowledge of the topic."
+     ],
      "images": [
       "papers/biology/img/08C-Gene-Technology-59.jpg",
       "papers/biology/img/08C-Gene-Technology-60.jpg",

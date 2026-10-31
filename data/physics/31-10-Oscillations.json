@@ -47,13 +47,21 @@
         "frequency"
       ],
       "question": "Using the graph of energy absorbed by a water molecule against microwave frequency, comment on the website claim that water molecules absorb energy because they resonate.",
-      "status": "pending",
-      "answer": "Needs the energy-absorption against frequency graph from the PDF (not in the text) to check whether the peak is at 2.45 GHz.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The suggestion is not supported: the absorption peak is broad and lies at about 10 GHz, not at the oven frequency of 2.45 GHz, so the molecules are not being driven at a sharp resonance.",
+      "steps": [
+        "Resonance would give a maximum energy absorption when the driving frequency equals the natural frequency, so the peak should be at the oven frequency of 2.45 GHz.",
+        "On the graph the peak is at about 10 GHz, roughly four times higher than 2.45 GHz, so the oven frequency does not coincide with the maximum.",
+        "At 2.45 GHz the absorption is well below the maximum value, and the peak is very broad (heavily damped) rather than the sharp peak expected for resonance.",
+        "So the molecules do absorb microwave energy at 2.45 GHz, but the graph does not show that this is because of resonance."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-01.jpg",
         "papers/physics/img/31-10-Oscillations-02.jpg",
         "papers/physics/img/31-10-Oscillations-03.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q2.jpg"
       ]
     },
     {
@@ -192,14 +200,22 @@
         "time period"
       ],
       "question": "A simple pendulum takes 1.00 s to swing from one extreme position to the other. Which expression gives its length? (The option list is not in the text.)",
-      "status": "pending",
-      "answer": "Option list not in the text. Expected: L = g T^2 / (4 pi^2) with T = 2.00 s, giving L = 0.99 m.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: (2.00)^2 x 9.81 / (4 pi^2) = 0.99 m",
+      "steps": [
+        "Swinging from one extreme position to the other is half an oscillation, so the period is T = 2 x 1.00 s = 2.00 s.",
+        "For a simple pendulum T = 2 pi sqrt(L / g), so L = g T^2 / (4 pi^2).",
+        "Substituting T = 2.00 s gives L = (2.00)^2 x 9.81 / (4 pi^2) = 0.99 m, which is option B.",
+        "A uses T = 1.00 s (only half the period), and C and D have the expression upside down."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-03.jpg",
         "papers/physics/img/31-10-Oscillations-04.jpg",
         "papers/physics/img/31-10-Oscillations-05.jpg",
         "papers/physics/img/31-10-Oscillations-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q3.jpg"
       ]
     },
     {
@@ -278,14 +294,22 @@
         "graph"
       ],
       "question": "Add to the displacement-time graph of the oscillating mass a line showing how its kinetic energy varies over the same two cycles.",
-      "status": "pending",
-      "answer": "Needs the displacement-time graph and its axes from the PDF to add the line; expected KE curve is always positive with twice the frequency of the displacement.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Draw a curve that is always positive, with a peak each time the displacement is zero and zero each time the displacement is at its maximum or minimum, so it repeats at twice the frequency of the displacement.",
+      "steps": [
+        "Kinetic energy is zero at the extremes of the motion, where the mass is momentarily at rest. Mark KE = 0 at T/4, 3T/4, 5T/4 and 7T/4, where the displacement is at a maximum or minimum.",
+        "Kinetic energy is a maximum when the mass passes through equilibrium, where the displacement is zero: at t = 0, T/2, T, 3T/2 and 2T.",
+        "KE = KE_max cos^2(omega t), so the curve is a squared-cosine shape that never goes below the time axis and all its peaks are the same height.",
+        "Over the two displacement cycles the KE goes through four complete cycles (two per displacement cycle, 3 full humps plus a half hump at each end), so the KE frequency is double the displacement frequency."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-03.jpg",
         "papers/physics/img/31-10-Oscillations-04.jpg",
         "papers/physics/img/31-10-Oscillations-05.jpg",
         "papers/physics/img/31-10-Oscillations-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q4.jpg"
       ]
     },
     {
@@ -317,6 +341,9 @@
         "papers/physics/img/31-10-Oscillations-04.jpg",
         "papers/physics/img/31-10-Oscillations-05.jpg",
         "papers/physics/img/31-10-Oscillations-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q4-2.jpg"
       ]
     },
     {
@@ -648,12 +675,20 @@
         "phase"
       ],
       "question": "The graph shows acceleration against time for an object in SHM. Which of graphs A to D shows displacement against time on the same x-axis scale?",
-      "status": "pending",
-      "answer": "Needs the acceleration-time graph and the four option graphs A to D from the PDF (they are images, not in the text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A",
+      "steps": [
+        "In SHM a = -omega^2 x, so the displacement graph is the acceleration graph turned upside down (same period, opposite sign).",
+        "The acceleration graph starts at zero and goes negative first, so the displacement starts at zero and goes positive first.",
+        "Only graph A starts at 0 and rises first. B starts below zero, C starts at a positive maximum, and D repeats the acceleration graph (going negative first)."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-09.jpg",
         "papers/physics/img/31-10-Oscillations-10.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q9.jpg",
+        "papers/physics/fig/31-10-Oscillations-Q9-2.jpg"
       ]
     },
     {
@@ -670,12 +705,21 @@
         "phase"
       ],
       "question": "The graph shows acceleration against time for an object in SHM. Which of graphs A to D shows velocity against time?",
-      "status": "pending",
-      "answer": "Needs the acceleration-time graph and the four option graphs A to D from the PDF (they are images, not in the text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C",
+      "steps": [
+        "Acceleration is the gradient of the velocity-time graph, so a = 0 at t = 0 means v is at a maximum or minimum there.",
+        "Just after t = 0 the acceleration is negative, so v is falling: the velocity starts at its positive maximum and decreases (v = v_max cos omega t).",
+        "The acceleration is most negative a quarter of a period later, when the velocity graph crosses zero going down, which also fits.",
+        "Only graph C starts at a maximum and falls. A and D start at zero and B starts at a negative value."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-10.jpg",
         "papers/physics/img/31-10-Oscillations-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q10.jpg",
+        "papers/physics/fig/31-10-Oscillations-Q10-2.jpg"
       ]
     },
     {
@@ -694,12 +738,19 @@
         "0.25 m"
       ],
       "question": "An object oscillates with simple harmonic motion, period 0.55 s and amplitude 0.25 m. Which option shows a correct calculation of its maximum velocity? (Option letters are not in the text.)",
-      "status": "pending",
-      "answer": "Option list not in the text. Expected: v_max = 2 pi A / T = 2 pi x 0.25 / 0.55 = 2.9 m s-1.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: (2 pi / 0.55) x 0.25 = 2.9 m s^-1",
+      "steps": [
+        "The maximum velocity in SHM is v_max = omega A, with omega = 2 pi / T.",
+        "So v_max = (2 pi / 0.55) x 0.25 = 11.4 x 0.25 = 2.9 m s^-1, which is option B.",
+        "A multiplies by T instead of dividing, and C and D square the quantity, which would give an acceleration-type expression (omega^2 A), not a velocity."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-10.jpg",
         "papers/physics/img/31-10-Oscillations-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q11.jpg"
       ]
     },
     {
@@ -717,12 +768,19 @@
         "graph"
       ],
       "question": "The velocity-time graph of a pendulum bob is given. Add a line showing how its displacement varies with time over the same interval.",
-      "status": "pending",
-      "answer": "Needs the velocity-time graph and its axes from the PDF; the displacement curve lags the velocity curve by a quarter of a cycle.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Draw a sine curve of displacement with the same period of 2.0 s: zero at t = 0, a maximum at 0.5 s, zero at 1.0 s, a minimum at 1.5 s, zero at 2.0 s, and so on up to 4.0 s.",
+      "steps": [
+        "Velocity is the gradient of the displacement-time graph. The velocity is a maximum at t = 0, so the displacement curve is steepest there and passes through zero going upwards.",
+        "The velocity is zero at 0.5 s, 1.5 s, 2.5 s and 3.5 s, so the displacement is at a maximum or minimum at those times: maxima at 0.5 s and 2.5 s, minima at 1.5 s and 3.5 s.",
+        "The displacement is a sine curve with the same period (2.0 s) as the velocity; it lags the velocity by a quarter of a cycle (0.5 s). The graph has no displacement scale, so any sensible amplitude is accepted."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-11.jpg",
         "papers/physics/img/31-10-Oscillations-12.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q12.jpg"
       ]
     },
     {
@@ -740,12 +798,19 @@
         "determine"
       ],
       "question": "Using the velocity-time graph of the pendulum bob, determine the length of the simple pendulum.",
-      "status": "pending",
-      "answer": "Needs the velocity-time graph from the PDF to read the period; then L = g T^2 / (4 pi^2).",
-      "steps": [],
+      "status": "ready",
+      "answer": "L = 0.99 m (about 1.0 m)",
+      "steps": [
+        "The velocity is a maximum at t = 0 and again at t = 2.0 s, so the period is T = 2.0 s (the velocity is also zero at 0.5 s, 1.5 s and 2.5 s, which agrees).",
+        "For a simple pendulum T = 2 pi sqrt(L / g), so L = g T^2 / (4 pi^2).",
+        "L = 9.81 x (2.0)^2 / (4 pi^2) = 0.994 m, so L = 0.99 m."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-11.jpg",
         "papers/physics/img/31-10-Oscillations-12.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q12.jpg"
       ]
     },
     {
@@ -882,13 +947,22 @@
         "oscillation"
       ],
       "question": "Using the graph of frequency against mass for the spring, determine a value for the stiffness k and deduce whether it is consistent with the value in part (i).",
-      "status": "pending",
-      "answer": "Needs the frequency-against-mass graph from the PDF; at any point on the graph k = 4 pi^2 m f^2, to compare with 26 N m-1.",
-      "steps": [],
+      "status": "ready",
+      "answer": "k = 27 N m^-1, which is consistent with 26 N m^-1 (a difference of only about 3 to 4%)",
+      "steps": [
+        "f = (1 / 2 pi) sqrt(k / m), so f^2 = (k / 4 pi^2) x (1 / m). The gradient of the f^2 against 1/m graph is therefore k / 4 pi^2.",
+        "Take a large triangle on the best-fit line: it passes through (0.22, 0.0) and (5.0, 3.27), so the gradient = 3.27 / (5.0 - 0.22) = 0.68 Hz^2 kg.",
+        "k = 4 pi^2 x gradient = 4 pi^2 x 0.68 = 27 N m^-1.",
+        "From part (i), k = m g / e = 0.200 x 9.81 / 0.0750 = 26 N m^-1.",
+        "The two values differ by only about 3%, which is smaller than the uncertainty from drawing a line through the scattered points, so the graph gives a value of k consistent with part (i)."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-12.jpg",
         "papers/physics/img/31-10-Oscillations-13.jpg",
         "papers/physics/img/31-10-Oscillations-14.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q14.jpg"
       ]
     },
     {
@@ -906,12 +980,20 @@
         "options"
       ],
       "question": "The graph shows acceleration against displacement for a mass in SHM. Which expression gives its period? (Graph and options A to D are not in the text.)",
-      "status": "pending",
-      "answer": "Needs the acceleration-displacement graph and the option list from the PDF; period is 2 pi divided by the square root of the gradient magnitude.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 2 pi x sqrt(0.20 / 3.2) = 1.6 s",
+      "steps": [
+        "In SHM a = -omega^2 x, so the gradient of the a-x graph has magnitude omega^2 = 3.2 / 0.20 = 16 s^-2, giving omega = 4.0 rad s^-1.",
+        "T = 2 pi / omega = 2 pi / sqrt(3.2 / 0.20) = 2 pi x sqrt(0.20 / 3.2) = 1.6 s, which is option D.",
+        "C has the ratio the wrong way up (it would give 2 pi omega), and A and B are missing the square root."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-14.jpg",
         "papers/physics/img/31-10-Oscillations-15.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q15.jpg",
+        "papers/physics/fig/31-10-Oscillations-Q15-2.jpg"
       ]
     },
     {
@@ -930,12 +1012,19 @@
         "expression"
       ],
       "question": "A mass oscillates with SHM at frequency 0.5 Hz and amplitude 0.3 m. Which expression gives its maximum velocity in m s-1? (Option list is not in the text.)",
-      "status": "pending",
-      "answer": "Option list not in the text. Expected: v_max = 2 pi f A = 2 pi x 0.5 x 0.3 = 0.94 m s-1.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 2 pi x 0.5 x 0.3 = 0.94 m s^-1",
+      "steps": [
+        "The maximum velocity is v_max = omega A, and omega = 2 pi f, so v_max = 2 pi f A.",
+        "v_max = 2 pi x 0.5 x 0.3 = 0.94 m s^-1, which is option C.",
+        "A and B use 2 pi / f, which is not the angular frequency, and B and D use 0.15 m, which is not the amplitude."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-15.jpg",
         "papers/physics/img/31-10-Oscillations-16.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q16.jpg"
       ]
     },
     {
@@ -953,13 +1042,20 @@
         "time period"
       ],
       "question": "The gravitational field strength on the Moon is one sixth of that on Earth. A pendulum has period T on Earth. What is its period on the Moon?",
-      "status": "pending",
-      "answer": "Option list not in the text. Expected: T_Moon = sqrt(6) T = 2.45 T.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: T sqrt(6) = 2.4 T",
+      "steps": [
+        "For a simple pendulum T = 2 pi sqrt(L / g), so T is proportional to 1 / sqrt(g).",
+        "On the Moon g is one sixth as large, so the period is multiplied by sqrt(6) = 2.4: T_Moon = T sqrt(6), which is option D.",
+        "A weaker gravitational field gives a smaller restoring force, so the pendulum swings more slowly and the period gets longer."
+      ],
       "images": [
         "papers/physics/img/31-10-Oscillations-16.jpg",
         "papers/physics/img/31-10-Oscillations-17.jpg",
         "papers/physics/img/31-10-Oscillations-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/31-10-Oscillations-Q17.jpg"
       ]
     },
     {

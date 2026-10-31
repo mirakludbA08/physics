@@ -2013,7 +2013,7 @@
         "CVD risk",
         "drug pair"
       ],
-      "question": "Which pair of drugs may reduce the 10-year risk of CVD for this woman? Options: A anticoagulants and statins, B anticoagulants and antihypertensives, C antihypertensives and platelet inhibitors, D antihypertensives and statins.",
+      "question": "Which pair of drugs may reduce the 10-year risk of CVD for the woman in part (b)(i) (35 years old, smoker, total cholesterol 242 mg dm-3, systolic blood pressure 132 mm Hg)? Options: A anticoagulants and statins, B anticoagulants and antihypertensives, C antihypertensives and platelet inhibitors, D antihypertensives and statins.",
       "status": "ready",
       "answer": "D antihypertensives and statins.",
       "steps": [
@@ -2059,6 +2059,10 @@
         "papers/biology/img/01C-Cardiovascular-Health-31.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01C-Cardiovascular-Health-Q13-2.jpg",
+        "papers/biology/fig/01C-Cardiovascular-Health-Q13-3.jpg"
       ]
     },
     {
@@ -2117,6 +2121,9 @@
         "papers/biology/img/01C-Cardiovascular-Health-33.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01C-Cardiovascular-Health-Q14.jpg"
       ]
     },
     {
@@ -2360,6 +2367,9 @@
         "papers/biology/img/01C-Cardiovascular-Health-35.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-36.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-37.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01C-Cardiovascular-Health-Q15.jpg"
       ]
     },
     {
@@ -2388,6 +2398,9 @@
         "papers/biology/img/01C-Cardiovascular-Health-35.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-36.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-37.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01C-Cardiovascular-Health-Q15.jpg"
       ]
     },
     {
@@ -2836,6 +2849,9 @@
         "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01C-Cardiovascular-Health-Q19-3.jpg"
       ]
     },
     {
@@ -3327,6 +3343,9 @@
       "images": [
         "papers/biology/img/01C-Cardiovascular-Health-52.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-53.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01C-Cardiovascular-Health-Q22.jpg"
       ]
     },
     {
@@ -3652,6 +3671,9 @@
         "papers/biology/img/01C-Cardiovascular-Health-58.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-59.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-60.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01C-Cardiovascular-Health-Q24-4.jpg"
       ]
     },
     {

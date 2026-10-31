@@ -815,7 +815,7 @@
         "drugs",
         "ial biology"
       ],
-      "question": "Which type of treatment is warfarin?",
+      "question": "Which type of treatment is warfarin? Options: A anticoagulant, B antihypertensive, C platelet inhibitor, D statin.",
       "status": "ready",
       "answer": "A - anticoagulant",
       "steps": [
@@ -1098,7 +1098,7 @@
         "fructose",
         "ial biology"
       ],
-      "question": "Which monosaccharides are present in lactose?",
+      "question": "Which monosaccharides are present in lactose? Options: A fructose and sucrose, B galactose and glucose, C glucose and fructose, D sucrose and galactose.",
       "status": "ready",
       "answer": "B - galactose and glucose",
       "steps": [
@@ -1434,6 +1434,9 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-25.jpg",
         "papers/biology/img/02B-Proteins-DNA-26.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q10.jpg"
       ]
     },
     {
@@ -1464,6 +1467,9 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-26.jpg",
         "papers/biology/img/02B-Proteins-DNA-27.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q11-2.jpg"
       ]
     },
     {
@@ -1481,7 +1487,7 @@
         "drug",
         "ial biology"
       ],
-      "question": "Which type of drug is warfarin?",
+      "question": "Which type of drug is warfarin? Options: A an anticoagulant, B an antihypertensive, C a platelet inhibitor, D a statin.",
       "status": "ready",
       "answer": "A - an anticoagulant",
       "steps": [
@@ -1915,6 +1921,9 @@
         "papers/biology/img/02B-Proteins-DNA-32.jpg",
         "papers/biology/img/02B-Proteins-DNA-33.jpg",
         "papers/biology/img/02B-Proteins-DNA-34.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q14.jpg"
       ]
     },
     {
@@ -1965,7 +1974,7 @@
         "digestion",
         "ial biology"
       ],
-      "question": "Which are the products of lactose digestion?",
+      "question": "Which are the products of lactose digestion? Options: A fructose and galactose, B fructose and glucose, C galactose and glucose, D glucose and glucose.",
       "status": "ready",
       "answer": "C - galactose and glucose",
       "steps": [
@@ -2244,6 +2253,10 @@
         "papers/biology/img/02B-Proteins-DNA-37.jpg",
         "papers/biology/img/02B-Proteins-DNA-38.jpg",
         "papers/biology/img/02B-Proteins-DNA-39.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q16.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q16-2.jpg"
       ]
     },
     {
@@ -2513,7 +2526,7 @@
         "type",
         "ial biology"
       ],
-      "question": "What type of molecule is pectinase?",
+      "question": "What type of molecule is pectinase? Options: A disaccharide, B polysaccharide, C protein, D triglyceride.",
       "status": "ready",
       "answer": "C - protein",
       "steps": [
@@ -3321,6 +3334,9 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-55.jpg",
         "papers/biology/img/02B-Proteins-DNA-56.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q23-2.jpg"
       ]
     },
     {
@@ -3597,6 +3613,9 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-59.jpg",
         "papers/biology/img/02B-Proteins-DNA-60.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q25.jpg"
       ]
     },
     {
@@ -3626,6 +3645,9 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-59.jpg",
         "papers/biology/img/02B-Proteins-DNA-60.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q25.jpg"
       ]
     },
     {

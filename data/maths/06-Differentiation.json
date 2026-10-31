@@ -31,6 +31,9 @@
       "images": [
         "papers/maths/img/P4-06-Differentiation-01.jpg",
         "papers/maths/img/P4-06-Differentiation-02.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/06-Differentiation-Q1.jpg"
       ]
     },
     {
@@ -61,6 +64,9 @@
       "images": [
         "papers/maths/img/P4-06-Differentiation-01.jpg",
         "papers/maths/img/P4-06-Differentiation-02.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/06-Differentiation-Q1.jpg"
       ]
     },
     {
@@ -89,6 +95,9 @@
       "images": [
         "papers/maths/img/P4-06-Differentiation-02.jpg",
         "papers/maths/img/P4-06-Differentiation-03.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/06-Differentiation-Q2.jpg"
       ]
     },
     {
@@ -118,6 +127,9 @@
       "images": [
         "papers/maths/img/P4-06-Differentiation-02.jpg",
         "papers/maths/img/P4-06-Differentiation-03.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/06-Differentiation-Q2.jpg"
       ]
     },
     {
@@ -147,6 +159,9 @@
       "images": [
         "papers/maths/img/P4-06-Differentiation-03.jpg",
         "papers/maths/img/P4-06-Differentiation-04.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/06-Differentiation-Q3.jpg"
       ]
     },
     {
@@ -176,6 +191,9 @@
       "images": [
         "papers/maths/img/P4-06-Differentiation-03.jpg",
         "papers/maths/img/P4-06-Differentiation-04.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/06-Differentiation-Q3.jpg"
       ]
     },
     {
@@ -205,6 +223,9 @@
       "images": [
         "papers/maths/img/P4-06-Differentiation-03.jpg",
         "papers/maths/img/P4-06-Differentiation-04.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/06-Differentiation-Q4.jpg"
       ]
     },
     {
@@ -234,6 +255,9 @@
       "images": [
         "papers/maths/img/P4-06-Differentiation-03.jpg",
         "papers/maths/img/P4-06-Differentiation-04.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/06-Differentiation-Q4.jpg"
       ]
     },
     {
@@ -262,6 +286,9 @@
       "images": [
         "papers/maths/img/P4-06-Differentiation-04.jpg",
         "papers/maths/img/P4-06-Differentiation-05.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/06-Differentiation-Q5.jpg"
       ]
     },
     {
@@ -291,6 +318,9 @@
       "images": [
         "papers/maths/img/P4-06-Differentiation-04.jpg",
         "papers/maths/img/P4-06-Differentiation-05.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/06-Differentiation-Q5.jpg"
       ]
     },
     {
@@ -521,6 +551,9 @@
       "images": [
         "papers/maths/img/P4-06-Differentiation-07.jpg",
         "papers/maths/img/P4-06-Differentiation-08.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/06-Differentiation-Q10.jpg"
       ]
     },
     {
@@ -549,6 +582,9 @@
       "images": [
         "papers/maths/img/P4-06-Differentiation-07.jpg",
         "papers/maths/img/P4-06-Differentiation-08.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/06-Differentiation-Q10.jpg"
       ]
     },
     {
@@ -676,16 +712,16 @@
         "x coordinate 2",
         "y coordinate",
         "y >= 0",
-        "2x - 4xy + y^2 = 13",
+        "2^x - 4xy + y^2 = 13",
         "missing instruction",
         "scan",
         "pending"
       ],
-      "question": "Figure 1 shows part of the curve C with equation 2x - 4xy + y^2 = 13, y >= 0. The point P lies on C and has x coordinate 2. (The instruction for part (a) is not visible on the scan.)",
+      "question": "Figure 1 shows part of the curve C with equation 2^x - 4xy + y^2 = 13, y >= 0. The point P lies on C and has x coordinate 2. (The instruction for part (a) is not visible on the scan; the task is to find the y coordinate of P. The scan prints the first term as 2x, but the exponent was lost: the curve is 2^x, as part (c) needs ln 2.)",
       "status": "ready",
       "answer": "y coordinate of P is 9, so P = (2, 9) (the instruction line is missing on the page; the task is to find y at x = 2)",
       "steps": [
-        "Substitute x = 2 into the equation of C: 2(2) - 4(2)y + y^2 = 13.",
+        "Substitute x = 2 into the equation of C: 2^2 - 4(2)y + y^2 = 13.",
         "Rearrange: y^2 - 8y - 9 = 0, so (y - 9)(y + 1) = 0.",
         "y >= 0 rejects y = -1, so y = 9 and P = (2, 9)."
       ],
@@ -710,16 +746,17 @@
         "in terms of x and y",
         "curve",
         "chain rule",
-        "product rule"
+        "product rule",
+        "2^x",
+        "ln 2"
       ],
-      "question": "The curve C has equation 2x - 4xy + y^2 = 13, y >= 0. Find dy/dx in terms of x and y.",
+      "question": "The curve C has equation 2^x - 4xy + y^2 = 13, y >= 0. Find dy/dx in terms of x and y. (The scan prints the first term as 2x with the exponent lost; the ln 2 in part (c) shows it is 2^x.)",
       "status": "ready",
-      "answer": "dy/dx = (2y - 1)/(y - 2x)",
+      "answer": "dy/dx = (4y - 2^x ln 2)/(2y - 4x)",
       "steps": [
-        "Differentiate: 2 - 4y - 4x dy/dx + 2y dy/dx = 0 (product rule on 4xy).",
-        "Collect terms: dy/dx (2y - 4x) = 4y - 2.",
-        "Divide by 2 top and bottom: dy/dx = (2y - 1)/(y - 2x).",
-        "Note: if the curve is really 2^x - 4xy + y^2 = 13 (the page prints \"2x\", the superscript may have been lost), the same method gives dy/dx = (4y - 2^x ln 2)/(2y - 4x)."
+        "Differentiate term by term: d/dx(2^x) = 2^x ln 2, and the product rule on 4xy gives 4y + 4x dy/dx, so 2^x ln 2 - 4y - 4x dy/dx + 2y dy/dx = 0.",
+        "Collect terms in dy/dx: dy/dx (2y - 4x) = 4y - 2^x ln 2.",
+        "Divide: dy/dx = (4y - 2^x ln 2)/(2y - 4x)."
       ],
       "images": [
         "papers/maths/img/P4-06-Differentiation-10.jpg",
@@ -746,14 +783,12 @@
       ],
       "question": "The tangent to C at P crosses the x-axis at the point Q. Find the x coordinate of Q, giving your answer in the form (a ln 2 + b)/(c ln 2 + d), where a, b, c and d are integers.",
       "status": "ready",
-      "answer": "x = (4 ln 2 + 9)/(2 ln 2 - 18) = -0.709 (a = 4, b = 9, c = 2, d = -18); this uses the intended curve 2^x - 4xy + y^2 = 13",
+      "answer": "x = (4 ln 2 + 9)/(2 ln 2 - 18) = -0.709 (a = 4, b = 9, c = 2, d = -18)",
       "steps": [
-        "The required ln 2 form only arises if the curve is 2^x - 4xy + y^2 = 13 (the page prints \"2x\", the superscript x seems lost). At x = 2 both forms give y = 9, so P = (2, 9).",
-        "Differentiate: 2^x ln 2 - 4y - 4x dy/dx + 2y dy/dx = 0, so dy/dx = (4y - 2^x ln 2)/(2y - 4x).",
-        "At P(2, 9): dy/dx = (36 - 4 ln 2)/10 = (18 - 2 ln 2)/5.",
+        "The curve is 2^x - 4xy + y^2 = 13 (the scan shows 2x with the exponent lost, but the ln 2 form of the answer needs 2^x). At x = 2 both readings give y = 9, so P = (2, 9).",
+        "Use dy/dx = (4y - 2^x ln 2)/(2y - 4x) from part (b). At P(2, 9): dy/dx = (36 - 4 ln 2)/10 = (18 - 2 ln 2)/5.",
         "Tangent: y - 9 = m(x - 2). Put y = 0: x = 2 - 9/m = 2 - 45/(18 - 2 ln 2).",
-        "x = (2(18 - 2 ln 2) - 45)/(18 - 2 ln 2) = (-4 ln 2 - 9)/(18 - 2 ln 2) = (4 ln 2 + 9)/(2 ln 2 - 18).",
-        "Check: if the curve were really 2x - 4xy + y^2 = 13, the same method would give Q at x = -11/17, which has no ln 2 form."
+        "x = (2(18 - 2 ln 2) - 45)/(18 - 2 ln 2) = (-4 ln 2 - 9)/(18 - 2 ln 2) = (4 ln 2 + 9)/(2 ln 2 - 18)."
       ],
       "images": [
         "papers/maths/img/P4-06-Differentiation-10.jpg",
@@ -789,6 +824,9 @@
       ],
       "images": [
         "papers/maths/img/P4-06-Differentiation-11.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/06-Differentiation-Q14.jpg"
       ]
     },
     {
@@ -816,6 +854,9 @@
       ],
       "images": [
         "papers/maths/img/P4-06-Differentiation-11.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/06-Differentiation-Q14.jpg"
       ]
     },
     {
@@ -844,6 +885,9 @@
       ],
       "images": [
         "papers/maths/img/P4-06-Differentiation-11.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/06-Differentiation-Q14.jpg"
       ]
     }
   ]

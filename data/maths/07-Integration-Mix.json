@@ -120,6 +120,9 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-01.jpg",
         "papers/maths/img/P4-07-Integration-Mix-02.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/07-Integration-Mix-Q2.jpg"
       ]
     },
     {
@@ -299,6 +302,9 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-04.jpg",
         "papers/maths/img/P4-07-Integration-Mix-05.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/07-Integration-Mix-Q6.jpg"
       ]
     },
     {
@@ -415,6 +421,9 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-06.jpg",
         "papers/maths/img/P4-07-Integration-Mix-07.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/07-Integration-Mix-Q8.jpg"
       ]
     },
     {
@@ -532,6 +541,9 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-08.jpg",
         "papers/maths/img/P4-07-Integration-Mix-09.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/07-Integration-Mix-Q11.jpg"
       ]
     },
     {
@@ -590,6 +602,9 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-08.jpg",
         "papers/maths/img/P4-07-Integration-Mix-09.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/07-Integration-Mix-Q11.jpg"
       ]
     },
     {
@@ -852,6 +867,9 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-11.jpg",
         "papers/maths/img/P4-07-Integration-Mix-12.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/07-Integration-Mix-Q15.jpg"
       ]
     },
     {
@@ -882,6 +900,9 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-11.jpg",
         "papers/maths/img/P4-07-Integration-Mix-12.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/07-Integration-Mix-Q15.jpg"
       ]
     },
     {
@@ -1056,6 +1077,9 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-13.jpg",
         "papers/maths/img/P4-07-Integration-Mix-14.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/07-Integration-Mix-Q18.jpg"
       ]
     },
     {
@@ -1086,6 +1110,9 @@
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-13.jpg",
         "papers/maths/img/P4-07-Integration-Mix-14.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/07-Integration-Mix-Q18.jpg"
       ]
     }
   ]

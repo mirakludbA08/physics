@@ -152,6 +152,9 @@
         "papers/maths/img/M1-02-SUVAT-Graphs-1.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-2.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/02-SUVAT-Graphs-Q2.jpg"
       ]
     },
     {
@@ -182,6 +185,9 @@
         "papers/maths/img/M1-02-SUVAT-Graphs-1.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-2.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/02-SUVAT-Graphs-Q2.jpg"
       ]
     },
     {
@@ -445,6 +451,9 @@
       "images": [
         "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-6.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/02-SUVAT-Graphs-Q5.jpg"
       ]
     },
     {
@@ -504,6 +513,9 @@
       "images": [
         "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-6.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/02-SUVAT-Graphs-Q5.jpg"
       ]
     },
     {
@@ -531,6 +543,9 @@
       "images": [
         "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-6.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/02-SUVAT-Graphs-Q5.jpg"
       ]
     },
     {
@@ -733,6 +748,9 @@
       "images": [
         "papers/maths/img/M1-02-SUVAT-Graphs-7.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-8.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/02-SUVAT-Graphs-Q8.jpg"
       ]
     },
     {
@@ -761,6 +779,9 @@
       "images": [
         "papers/maths/img/M1-02-SUVAT-Graphs-7.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-8.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/02-SUVAT-Graphs-Q8.jpg"
       ]
     },
     {
@@ -790,6 +811,9 @@
       "images": [
         "papers/maths/img/M1-02-SUVAT-Graphs-7.jpg",
         "papers/maths/img/M1-02-SUVAT-Graphs-8.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/02-SUVAT-Graphs-Q8.jpg"
       ]
     }
   ]

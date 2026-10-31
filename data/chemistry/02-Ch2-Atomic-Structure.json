@@ -186,6 +186,9 @@
       ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q7.jpg"
       ]
     },
     {
@@ -237,12 +240,15 @@
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-04.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-05.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q9.jpg"
       ]
     },
     {
       "id": "Ch2-Q10",
       "no": "Q10",
-      "marks": 2,
+      "marks": 1,
       "topic": "Subatomic Particles In Ion",
       "keywords": [
         "hydroxide ion",
@@ -264,6 +270,9 @@
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-05.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q10.jpg"
       ]
     },
     {
@@ -859,6 +868,9 @@
         "papers/chemistry/img/02-Ch2-Atomic-Structure-15.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-16.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q25-2.jpg"
       ]
     },
     {
@@ -1301,6 +1313,9 @@
       ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q36.jpg"
       ]
     },
     {
@@ -1607,6 +1622,9 @@
         "papers/chemistry/img/02-Ch2-Atomic-Structure-27.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-28.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-29.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q40.jpg"
       ]
     },
     {
@@ -1634,6 +1652,9 @@
         "papers/chemistry/img/02-Ch2-Atomic-Structure-27.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-28.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-29.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q40.jpg"
       ]
     },
     {
@@ -1766,6 +1787,9 @@
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-29.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-30.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q41.jpg"
       ]
     },
     {
@@ -1926,6 +1950,9 @@
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-32.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-33.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q44.jpg"
       ]
     },
     {
@@ -1953,6 +1980,9 @@
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-32.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-33.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q44.jpg"
       ]
     },
     {
@@ -1979,6 +2009,9 @@
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-32.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-33.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q44-2.jpg"
       ]
     },
     {
@@ -2091,6 +2124,9 @@
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-34.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-35.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q46.jpg"
       ]
     },
     {
@@ -2194,6 +2230,9 @@
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-36.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-37.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q49.jpg"
       ]
     },
     {
@@ -2220,6 +2259,9 @@
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-37.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-38.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q50.jpg"
       ]
     },
     {
@@ -2429,6 +2471,9 @@
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-40.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-41.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q56.jpg"
       ]
     },
     {
@@ -2670,6 +2715,9 @@
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-44.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-45.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q61.jpg"
       ]
     },
     {
@@ -2750,6 +2798,9 @@
         "papers/chemistry/img/02-Ch2-Atomic-Structure-45.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-46.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-47.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q63.jpg"
       ]
     },
     {
@@ -2779,6 +2830,9 @@
         "papers/chemistry/img/02-Ch2-Atomic-Structure-45.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-46.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-47.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q63-2.jpg"
       ]
     },
     {
@@ -2859,6 +2913,9 @@
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-47.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-48.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q64.jpg"
       ]
     },
     {
@@ -2883,6 +2940,9 @@
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-47.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-48.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q65.jpg"
       ]
     },
     {
@@ -2935,6 +2995,9 @@
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-47.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-48.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q66.jpg"
       ]
     },
     {
@@ -2963,6 +3026,9 @@
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-47.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-48.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q66.jpg"
       ]
     },
     {
@@ -2989,6 +3055,9 @@
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-49.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-50.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q67.jpg"
       ]
     },
     {
@@ -3279,6 +3348,9 @@
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-52.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-53.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q74.jpg"
       ]
     },
     {
@@ -3404,7 +3476,7 @@
         "2963",
         "6200"
       ],
-      "question": "The first four ionisation energies of gallium (Ga), indium (In), germanium (Ge) and tin (Sn) are shown (table not included in the extracted text). Which values are the first four ionisation energies of gallium? Options A 557 1821 2705 5200; B 579 1979 2963 6200; C 709 1412 2943 3930; D 762 1537 3302 4411.",
+      "question": "Which values are the first four ionisation energies, in kJ mol-1, of gallium (Ga)? (Indium, germanium and tin are the other elements whose values appear among the options.) Options A 557 1821 2705 5200; B 579 1979 2963 6200; C 709 1412 2943 3930; D 762 1537 3302 4411.",
       "status": "ready",
       "answer": "B (579, 1979, 2963, 6200 kJ mol-1)",
       "steps": [
@@ -3470,6 +3542,9 @@
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-55.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-56.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q78.jpg"
       ]
     },
     {
@@ -3554,6 +3629,9 @@
         "papers/chemistry/img/02-Ch2-Atomic-Structure-56.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-57.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-58.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q80.jpg"
       ]
     },
     {
@@ -3581,6 +3659,9 @@
         "papers/chemistry/img/02-Ch2-Atomic-Structure-56.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-57.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-58.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q80.jpg"
       ]
     },
     {
@@ -3606,6 +3687,9 @@
         "papers/chemistry/img/02-Ch2-Atomic-Structure-56.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-57.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-58.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q80.jpg"
       ]
     },
     {

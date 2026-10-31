@@ -28,6 +28,9 @@
         "papers/chemistry/img/03B-Covalent-Bonding-02.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-03.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q1.jpg"
       ]
     },
     {
@@ -55,6 +58,9 @@
         "papers/chemistry/img/03B-Covalent-Bonding-02.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-03.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q1.jpg"
       ]
     },
     {
@@ -112,6 +118,9 @@
         "papers/chemistry/img/03B-Covalent-Bonding-02.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-03.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q1.jpg"
       ]
     },
     {
@@ -385,6 +394,9 @@
         "papers/chemistry/img/03B-Covalent-Bonding-04.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-05.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q2.jpg"
       ]
     },
     {
@@ -490,6 +502,9 @@
       ],
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q5.jpg"
       ]
     },
     {
@@ -515,6 +530,10 @@
       ],
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q6.jpg",
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q6-2.jpg"
       ]
     },
     {
@@ -540,6 +559,9 @@
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-08.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q7.jpg"
       ]
     },
     {
@@ -592,6 +614,9 @@
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-09.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q9.jpg"
       ]
     },
     {
@@ -672,6 +697,9 @@
         "papers/chemistry/img/03B-Covalent-Bonding-10.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-11.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q12.jpg"
       ]
     },
     {
@@ -699,6 +727,9 @@
         "papers/chemistry/img/03B-Covalent-Bonding-10.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-11.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q12.jpg"
       ]
     },
     {
@@ -724,6 +755,9 @@
         "papers/chemistry/img/03B-Covalent-Bonding-10.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-11.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q12-2.jpg"
       ]
     },
     {
@@ -751,6 +785,9 @@
         "papers/chemistry/img/03B-Covalent-Bonding-10.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-11.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q12-3.jpg"
       ]
     },
     {
@@ -952,7 +989,7 @@
       ],
       "question": "At 180 C, aluminium chloride exists as Al2Cl6. What is the structure of Al2Cl6? (The options are not included in the extracted text.)",
       "status": "ready",
-      "answer": "Two AlCl3 units joined by dative covalent bonds, forming a dimer with two bridging Cl atoms, so each Al is surrounded tetrahedrally by four Cl atoms.",
+      "answer": "Two AlCl3 units joined by dative covalent bonds, forming a dimer with two bridging Cl atoms, so each Al is surrounded tetrahedrally by four Cl atoms (option C: the dative-bond arrows point from the bridging Cl atoms towards the Al atoms).",
       "steps": [
         "Al in AlCl3 has only 6 electrons in its outer shell and is electron deficient.",
         "A Cl atom on one AlCl3 donates a lone pair to the Al of another, forming dative covalent bonds.",
@@ -961,6 +998,9 @@
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-14.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q16.jpg"
       ]
     },
     {
@@ -1014,6 +1054,9 @@
         "papers/chemistry/img/03B-Covalent-Bonding-15.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-16.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q17.jpg"
       ]
     },
     {
@@ -1095,6 +1138,9 @@
         "papers/chemistry/img/03B-Covalent-Bonding-15.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-16.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q17-2.jpg"
       ]
     },
     {
@@ -1122,6 +1168,9 @@
         "papers/chemistry/img/03B-Covalent-Bonding-15.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-16.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q17-3.jpg"
       ]
     },
     {
@@ -1149,6 +1198,9 @@
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-17.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q18.jpg"
       ]
     },
     {
@@ -1174,6 +1226,9 @@
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-18.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-19.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q19.jpg"
       ]
     },
     {
@@ -1302,6 +1357,9 @@
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-21.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q24.jpg"
       ]
     },
     {
@@ -1353,6 +1411,9 @@
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-21.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q26.jpg"
       ]
     },
     {
@@ -1464,6 +1525,9 @@
         "papers/chemistry/img/03B-Covalent-Bonding-22.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-23.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-24.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q27.jpg"
       ]
     },
     {
@@ -1518,6 +1582,9 @@
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-24.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-25.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q28.jpg"
       ]
     },
     {
@@ -1596,6 +1663,9 @@
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-25.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q29.jpg"
       ]
     },
     {
@@ -1698,6 +1768,9 @@
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-27.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-28.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q31.jpg"
       ]
     },
     {
@@ -1724,6 +1797,9 @@
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-27.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-28.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q31-2.jpg"
       ]
     },
     {
@@ -1799,6 +1875,9 @@
       ],
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-29.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03B-Covalent-Bonding-Q32.jpg"
       ]
     }
   ]

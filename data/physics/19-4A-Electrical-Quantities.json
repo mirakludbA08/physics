@@ -482,6 +482,9 @@
         "papers/physics/img/19-4A-Electrical-Quantities-08.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-09.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-10.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q12.jpg"
       ]
     },
     {
@@ -497,19 +500,22 @@
         "number of photons",
         "frequency"
       ],
-      "question": "With 0 V applied, the ammeter reads 2.4 A. The UV intensity is increased at constant frequency. Explain what happens to the ammeter reading.",
+      "question": "With 0 V applied, the ammeter reads 2.4 µA. The UV intensity is increased at constant frequency. Explain what happens to the ammeter reading.",
       "status": "ready",
       "answer": "The ammeter reading increases: more photons per second each eject an electron, so more electrons pass per second.",
       "steps": [
         "Intensity is the power per unit area, so higher intensity means more photons arrive per second.",
         "Frequency is unchanged, so each photon has the same energy and can eject one electron if it exceeds the work function.",
         "More photons per second means more photoelectrons are emitted per second.",
-        "Current is charge per second, so the ammeter reading rises above 2.4 A; the maximum kinetic energy of electrons does not change."
+        "Current is charge per second, so the ammeter reading rises above 2.4 µA; the maximum kinetic energy of electrons does not change."
       ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-08.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-09.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-10.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q12.jpg"
       ]
     },
     {
@@ -539,6 +545,9 @@
         "papers/physics/img/19-4A-Electrical-Quantities-08.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-09.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-10.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q12.jpg"
       ]
     },
     {
@@ -1719,6 +1728,10 @@
         "papers/physics/img/19-4A-Electrical-Quantities-30.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-31.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-32.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q43.jpg",
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q43-2.jpg"
       ]
     },
     {
@@ -1801,6 +1814,9 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-32.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-33.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q45.jpg"
       ]
     },
     {
@@ -1831,6 +1847,9 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-32.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-33.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q45.jpg"
       ]
     },
     {
@@ -2169,6 +2188,9 @@
         "papers/physics/img/19-4A-Electrical-Quantities-38.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-39.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-40.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q54.jpg"
       ]
     },
     {
@@ -2198,6 +2220,9 @@
         "papers/physics/img/19-4A-Electrical-Quantities-38.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-39.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-40.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q54.jpg"
       ]
     },
     {
@@ -2226,6 +2251,9 @@
         "papers/physics/img/19-4A-Electrical-Quantities-38.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-39.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-40.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q54-2.jpg"
       ]
     },
     {
@@ -2305,6 +2333,9 @@
       ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-41.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/19-4A-Electrical-Quantities-Q57.jpg"
       ]
     },
     {

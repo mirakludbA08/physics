@@ -19,13 +19,21 @@
         "standard conditions"
       ],
       "question": "Identify the salt bridge solution and the electrode and solution needed in the right-hand half-cell to measure the standard electrode potential of Fe3+/Fe2+ under standard conditions.",
-      "status": "pending",
-      "answer": "Needs the apparatus diagram to be checked against the PDF (the labels A, B and C are blank in the text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: potassium nitrate solution (KNO3(aq)); B: platinum (Pt); C: a solution containing both Fe3+(aq) and Fe2+(aq), each at 1.0 mol dm-3",
+      "steps": [
+        "A salt bridge needs a solution of unreactive ions, such as KNO3(aq), so it completes the circuit without reacting with either half-cell.",
+        "B is an inert electrode, platinum, because Fe3+/Fe2+ has no solid metal to act as the electrode and Pt carries electrons to the solution.",
+        "C must contain both members of the redox couple, Fe3+(aq) and Fe2+(aq).",
+        "Standard conditions: each ion at 1.0 mol dm-3, 298 K (and 100 kPa for the hydrogen half-cell)."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-01.jpg",
         "papers/chemistry/img/17-Transition-Metals-02.jpg",
         "papers/chemistry/img/17-Transition-Metals-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q1.jpg"
       ]
     },
     {
@@ -42,13 +50,22 @@
         "electrode"
       ],
       "question": "Given a cell diagram, write the two half-equations and the overall ionic equation (no state symbols).",
-      "status": "pending",
-      "answer": "Needs the cell diagram, which is not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Left (oxidation): Mn2+ + 4H2O -> MnO4- + 8H+ + 5e-; right (reduction): BiO3- + 6H+ + 2e- -> Bi3+ + 3H2O; overall: 2Mn2+ + 5BiO3- + 14H+ -> 2MnO4- + 5Bi3+ + 7H2O",
+      "steps": [
+        "In a cell diagram the left-hand electrode is where oxidation occurs: Mn2+ + 4H2O -> MnO4- + 8H+ + 5e-.",
+        "The right-hand electrode is where reduction occurs: BiO3- + 6H+ + 2e- -> Bi3+ + 3H2O.",
+        "Balance the electrons: multiply the Mn half-equation by 2 and the Bi half-equation by 5, so 10e- cancel.",
+        "Add: 2Mn2+ + 8H2O + 5BiO3- + 30H+ -> 2MnO4- + 16H+ + 5Bi3+ + 15H2O.",
+        "Cancel H2O and H+ to give 2Mn2+ + 5BiO3- + 14H+ -> 2MnO4- + 5Bi3+ + 7H2O (charge 13+ on each side)."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-01.jpg",
         "papers/chemistry/img/17-Transition-Metals-02.jpg",
         "papers/chemistry/img/17-Transition-Metals-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q1-2.jpg"
       ]
     },
     {
@@ -290,15 +307,23 @@
         "structure"
       ],
       "question": "Which pair of monomers can form the polymer shown?",
-      "status": "pending",
-      "answer": "Needs the polymer structure and the option list, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: HOOCC6H4COOH and HOCH2CH2OH",
+      "steps": [
+        "The repeat unit contains ester links (-C(=O)-O-), so the polymer is a polyester made by condensation polymerisation.",
+        "The acyl part is -OC-C6H4-CO-, which comes from benzene-1,4-dicarboxylic acid, HOOCC6H4COOH.",
+        "The alkoxy part is -O-CH2CH2-O-, which comes from ethane-1,2-diol, HOCH2CH2OH.",
+        "So the monomer pair is a dicarboxylic acid plus a diol, option D."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-07.jpg",
         "papers/chemistry/img/17-Transition-Metals-08.jpg",
         "papers/chemistry/img/17-Transition-Metals-09.jpg",
         "papers/chemistry/img/17-Transition-Metals-10.jpg",
         "papers/chemistry/img/17-Transition-Metals-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q8.jpg"
       ]
     },
     {
@@ -438,15 +463,24 @@
         "sodium carbonate"
       ],
       "question": "Using the calibration graph, decide whether the iron content of 20 g sodium carbonate (transmittance 39.8%, 500 cm3 solution) meets a limit of less than 20 ppm.",
-      "status": "pending",
-      "answer": "Needs the calibration graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Iron = about 11 ppm by mass (0.45 mg dm-3 from the graph), which is less than 20 ppm, so the sample meets the specification.",
+      "steps": [
+        "log(% transmittance) = log 39.8 = 1.60.",
+        "Reading across the calibration graph from 1.60 to the line gives a concentration of about 0.45 mg dm-3 of iron.",
+        "Mass of iron in 500 cm3 = 0.45 mg dm-3 x 0.500 dm3 = 0.225 mg = 2.25 x 10^-4 g.",
+        "ppm by mass = (2.25 x 10^-4 g / 20 g) x 10^6 = 11 ppm.",
+        "11 ppm < 20 ppm, so the sodium carbonate meets the stated specification."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-07.jpg",
         "papers/chemistry/img/17-Transition-Metals-08.jpg",
         "papers/chemistry/img/17-Transition-Metals-09.jpg",
         "papers/chemistry/img/17-Transition-Metals-10.jpg",
         "papers/chemistry/img/17-Transition-Metals-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q9.jpg"
       ]
     },
     {
@@ -609,11 +643,18 @@
         "oxidation"
       ],
       "question": "Aqueous NaOH is added to aqueous iron(II) sulfate and the mixture allowed to stand. What would be observed? (Options not in text.)",
-      "status": "pending",
-      "answer": "Needs the answer options, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: green precipitate immediately, which turns brown on standing",
+      "steps": [
+        "Fe2+(aq) + 2OH-(aq) -> Fe(OH)2(s), which is a green precipitate.",
+        "On standing in air the Fe(OH)2 is oxidised by oxygen to Fe(OH)3, which is brown.",
+        "So the observations are green precipitate then turns brown, option D."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q10.jpg"
       ]
     },
     {
@@ -760,6 +801,9 @@
         "papers/chemistry/img/17-Transition-Metals-14.jpg",
         "papers/chemistry/img/17-Transition-Metals-15.jpg",
         "papers/chemistry/img/17-Transition-Metals-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q12.jpg"
       ]
     },
     {
@@ -776,15 +820,24 @@
         "diagram"
       ],
       "question": "Complex Z is a stereoisomer of complex Y. Complete the diagram showing the arrangement of the ligands in Z.",
-      "status": "pending",
-      "answer": "Needs the diagram of complex Y and Z, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Z is the facial (fac) isomer: draw Cl at the top and at the end of the right-hand dotted bond, and THF at the end of the right-hand wedge, so the 3 Cl are mutually cis and the 3 THF are mutually cis.",
+      "steps": [
+        "Complex Y is octahedral TiCl3(THF)3 in which two THF are trans (top and bottom) and two Cl are trans (right-hand dotted bond and left-hand wedge), so Y is the meridional (mer) isomer.",
+        "The stereoisomer Z must have the same ligands but a different arrangement, which is the facial (fac) isomer with all three like ligands on one triangular face.",
+        "The given ligands in Z are THF at the bottom, THF on the left wedge and Cl on the left dotted bond.",
+        "Complete Z with THF on the right wedge (cis to both THF already shown), and Cl on the top vertical bond and the right dotted bond, so no two like ligands are trans to each other."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-12.jpg",
         "papers/chemistry/img/17-Transition-Metals-13.jpg",
         "papers/chemistry/img/17-Transition-Metals-14.jpg",
         "papers/chemistry/img/17-Transition-Metals-15.jpg",
         "papers/chemistry/img/17-Transition-Metals-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q12.jpg",
+        "papers/chemistry/fig/17-Transition-Metals-Q12-2.jpg"
       ]
     },
     {
@@ -862,15 +915,23 @@
         "overall equation"
       ],
       "question": "Write the overall ionic equation for the titration using the answer to (c)(ii) and the half-equations from the list below.",
-      "status": "pending",
-      "answer": "Needs the list of half-equations, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "3Ti3+ + NO3- + H2O -> 3TiO2+ + NO + 2H+",
+      "steps": [
+        "From (c)(ii) nitrogen is reduced from +5 to +2, so the relevant half-equation is NO3- + 4H+ + 3e- -> NO + 2H2O.",
+        "Ti3+ is oxidised: Ti3+ + H2O -> TiO2+ + 2H+ + e-, so multiply by 3 to match the 3 electrons.",
+        "Add: 3Ti3+ + 3H2O + NO3- + 4H+ -> 3TiO2+ + 6H+ + NO + 2H2O.",
+        "Cancel H2O and H+ to give 3Ti3+ + NO3- + H2O -> 3TiO2+ + NO + 2H+ (charge 8+ on both sides)."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-12.jpg",
         "papers/chemistry/img/17-Transition-Metals-13.jpg",
         "papers/chemistry/img/17-Transition-Metals-14.jpg",
         "papers/chemistry/img/17-Transition-Metals-15.jpg",
         "papers/chemistry/img/17-Transition-Metals-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q12-3.jpg"
       ]
     },
     {
@@ -887,15 +948,21 @@
         "nitrate"
       ],
       "question": "Use the electrode potential data provided to calculate E-zero for the overall titration reaction.",
-      "status": "pending",
-      "answer": "Needs the electrode potential data table, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "E-zero(cell) = +0.86 V",
+      "steps": [
+        "The NO3-/NO half-equation (+0.96 V) is reduction and the TiO2+/Ti3+ half-equation (+0.10 V) is reversed to oxidation.",
+        "E-zero(cell) = E-zero(reduction) - E-zero(oxidation) = (+0.96) - (+0.10) = +0.86 V."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-12.jpg",
         "papers/chemistry/img/17-Transition-Metals-13.jpg",
         "papers/chemistry/img/17-Transition-Metals-14.jpg",
         "papers/chemistry/img/17-Transition-Metals-15.jpg",
         "papers/chemistry/img/17-Transition-Metals-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q12-3.jpg"
       ]
     },
     {
@@ -974,12 +1041,18 @@
         "Cu(en)3"
       ],
       "question": "What type of ligand is 1,2-diaminoethane and what is the coordination number of copper(II) in Cu(en)3 2+? (Options not in text.)",
-      "status": "pending",
-      "answer": "Needs the answer options, which are missing from the text (expected: bidentate, coordination number 6).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: bidentate, coordination number 6",
+      "steps": [
+        "1,2-diaminoethane, H2NCH2CH2NH2, has two N atoms, each donating a lone pair, so it is bidentate.",
+        "Cu(en)3 2+ has three bidentate ligands, so the coordination number is 3 x 2 = 6."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-16.jpg",
         "papers/chemistry/img/17-Transition-Metals-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q13.jpg"
       ]
     },
     {
@@ -996,12 +1069,19 @@
         "reaction types"
       ],
       "question": "Aqueous ammonia added to zinc sulfate forms a white precipitate that dissolves in excess. What types of reaction occur? (Options not in text.)",
-      "status": "pending",
-      "answer": "Needs the answer options, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: deprotonation then ligand exchange",
+      "steps": [
+        "NH3 first acts as a base and removes H+ from [Zn(H2O)6]2+, giving neutral Zn(OH)2(H2O)4, the white precipitate (deprotonation).",
+        "In excess ammonia, NH3 replaces water ligands to give colourless [Zn(NH3)4]2+, so this step is ligand exchange.",
+        "So the pair is deprotonation, ligand exchange, option A."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-16.jpg",
         "papers/chemistry/img/17-Transition-Metals-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q14.jpg"
       ]
     },
     {
@@ -1047,12 +1127,19 @@
         "manganese(II)"
       ],
       "question": "The reaction of ethanedioate ions with manganate(VII) ions in acid involves autocatalysis. What is the catalyst? (Options not in text.)",
-      "status": "pending",
-      "answer": "Needs the answer options, which are missing from the text (expected: Mn2+).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Mn2+",
+      "steps": [
+        "The reaction is autocatalytic, so the catalyst is one of the products.",
+        "Mn2+ is formed in the reaction and then catalyses it (via Mn3+), so the rate increases once some has formed.",
+        "The other products, H2O and CO2, are not catalysts; MnO4- and H+ are reactants, so the answer is Mn2+."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-17.jpg",
         "papers/chemistry/img/17-Transition-Metals-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q16.jpg"
       ]
     },
     {
@@ -1232,12 +1319,19 @@
         "complex"
       ],
       "question": "What are the shapes of the Pt(NH3)2Cl2 complex and the chromium complex? (Chromium complex formula missing from the text.)",
-      "status": "pending",
-      "answer": "Needs the chromium complex formula, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: Pt(NH3)2Cl2 is square planar and CrCl4- is tetrahedral",
+      "steps": [
+        "Pt(II) forms four-coordinate complexes that are square planar, as in cisplatin.",
+        "CrCl4- has four large Cl- ligands around Cr, so it is tetrahedral (large ligands favour tetrahedral four-coordination).",
+        "This is option D."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-20.jpg",
         "papers/chemistry/img/17-Transition-Metals-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q23.jpg"
       ]
     },
     {
@@ -1254,12 +1348,18 @@
         "Pt(NH3)2Cl2"
       ],
       "question": "What is the bonding between the ligands and the central atom in these complexes? (Chromium complex formula missing.)",
-      "status": "pending",
-      "answer": "Needs the chromium complex formula, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: the bonding in both complexes is dative covalent",
+      "steps": [
+        "In a complex each ligand (NH3, Cl-) donates a lone pair to the central metal ion.",
+        "So the bond between ligand and central atom is a dative (coordinate) covalent bond in both Pt(NH3)2Cl2 and CrCl4-."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-20.jpg",
         "papers/chemistry/img/17-Transition-Metals-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q23.jpg"
       ]
     },
     {
@@ -1276,13 +1376,23 @@
         "reactions diagram"
       ],
       "question": "Identify, by name or formula, the copper-containing species P, Q, R, S, T, V and W in the reaction sequence diagram.",
-      "status": "pending",
-      "answer": "Needs the reaction diagram, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "P = copper (Cu, copper metal); Q = copper(II) sulfate solution (Cu2+(aq)); R = copper(II) hydroxide (Cu(OH)2); S = copper(II) oxide (CuO); T = tetraamminediaquacopper(II) ion, [Cu(NH3)4(H2O)2]2+; V = diamminecopper(I) ion, [Cu(NH3)2]+; W = copper(II) nitrate solution (Cu2+(aq), [Cu(H2O)6]2+)",
+      "steps": [
+        "Copper(I) iodide disproportionates in H2SO4: 2Cu+ -> Cu + Cu2+, so P (pink solid) is Cu metal and Q (blue solution) is Cu2+ as CuSO4(aq).",
+        "A little NH3(aq) added to Cu2+(aq) gives the pale blue precipitate R = Cu(OH)2 (copper(II) hydroxide).",
+        "Heating Cu(OH)2 gives black S = CuO (copper(II) oxide).",
+        "Excess NH3 dissolves R by ligand exchange to give the dark blue complex T = [Cu(NH3)4(H2O)2]2+.",
+        "CuI + NH3 gives the colourless complex V = [Cu(NH3)2]+ (copper(I) complex).",
+        "CuO + HNO3 gives blue W = Cu(NO3)2(aq), i.e. [Cu(H2O)6]2+ (copper(II) nitrate)."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-21.jpg",
         "papers/chemistry/img/17-Transition-Metals-22.jpg",
         "papers/chemistry/img/17-Transition-Metals-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q24.jpg"
       ]
     },
     {
@@ -1299,13 +1409,19 @@
         "colourless"
       ],
       "question": "Name the type of chemical species that T and V are. (Diagram needed.)",
-      "status": "pending",
-      "answer": "Needs the reaction diagram to identify T and V, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Complex ions (T is a copper(II) ammine complex and V is a copper(I) ammine complex)",
+      "steps": [
+        "T is [Cu(NH3)4(H2O)2]2+ and V is [Cu(NH3)2]+.",
+        "Both are complex ions: a central metal ion surrounded by ligands bonded by dative covalent bonds."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-21.jpg",
         "papers/chemistry/img/17-Transition-Metals-22.jpg",
         "papers/chemistry/img/17-Transition-Metals-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q24.jpg"
       ]
     },
     {
@@ -1322,13 +1438,21 @@
         "d orbitals"
       ],
       "question": "Explain why T is coloured while V is colourless. (Diagram needed to identify T and V.)",
-      "status": "pending",
-      "answer": "Needs the reaction diagram to identify T and V, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "T contains Cu2+ (3d9), which has a partially filled d subshell, so d-d transitions can absorb visible light; V contains Cu+ (3d10) with a full d subshell, so no d-d transitions and it is colourless.",
+      "steps": [
+        "Colour in transition metal complexes arises from d-d transitions: an electron is promoted between split d orbitals by absorbing visible light.",
+        "In T the copper is Cu2+ with the configuration [Ar] 3d9, so there is a vacancy in the d orbitals and an electron can be promoted.",
+        "In V the copper is Cu+ with the configuration [Ar] 3d10, so the d subshell is full and there is no empty d orbital to be promoted into.",
+        "With no d-d transition no visible light is absorbed, so V is colourless."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-21.jpg",
         "papers/chemistry/img/17-Transition-Metals-22.jpg",
         "papers/chemistry/img/17-Transition-Metals-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q24.jpg"
       ]
     },
     {
@@ -1345,13 +1469,20 @@
         "V to T"
       ],
       "question": "Suggest an explanation for the change of V into T on shaking. (Diagram needed.)",
-      "status": "pending",
-      "answer": "Needs the reaction diagram to identify T and V, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Vigorous shaking mixes in oxygen from the air, which oxidises copper(I) in V to copper(II), forming the dark blue complex T.",
+      "steps": [
+        "V contains [Cu(NH3)2]+, in which copper is in the +1 oxidation state.",
+        "Shaking dissolves oxygen from the air, and O2 oxidises Cu+ to Cu2+.",
+        "The Cu2+ then forms the dark blue complex [Cu(NH3)4(H2O)2]2+ with the excess ammonia, which is T."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-21.jpg",
         "papers/chemistry/img/17-Transition-Metals-22.jpg",
         "papers/chemistry/img/17-Transition-Metals-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q24.jpg"
       ]
     },
     {
@@ -1394,9 +1525,14 @@
         "disproportionation"
       ],
       "question": "Show that the disproportionation in (c)(i) is thermodynamically feasible using standard electrode potentials from the Data Booklet.",
-      "status": "pending",
-      "answer": "Needs the standard electrode potential values from the Data Booklet, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "E-zero(cell) = +0.37 V, which is positive, so the disproportionation is feasible.",
+      "steps": [
+        "From the Data Booklet: Cu+ + e- <=> Cu has E-zero = +0.52 V, and Cu2+ + e- <=> Cu+ has E-zero = +0.15 V.",
+        "In 2Cu+ -> Cu2+ + Cu one Cu+ is reduced (+0.52 V) and another is oxidised (the Cu2+/Cu+ half-cell, +0.15 V).",
+        "E-zero(cell) = E-zero(reduction) - E-zero(oxidation) = (+0.52) - (+0.15) = +0.37 V.",
+        "A positive E-zero(cell) means the reaction is thermodynamically feasible."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-21.jpg",
         "papers/chemistry/img/17-Transition-Metals-22.jpg",
@@ -1417,13 +1553,23 @@
         "formula"
       ],
       "question": "Calculate n, the moles of water of crystallisation in mitscherlichite, from a 4.26 g sample titrated by iodometry (mean titre 26.65 cm3 of 0.0500 mol dm-3 thiosulfate).",
-      "status": "pending",
-      "answer": "Needs the mitscherlichite formula and the reaction equations, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "n = 2 (mitscherlichite is K2CuCl4.2H2O, Mr about 320)",
+      "steps": [
+        "Moles of thiosulfate = 0.0500 x 0.02665 = 1.3325 x 10^-3 mol.",
+        "From the equations, 2 S2O3 2- reacts with 1 I2, and 2 Cu2+ forms 1 I2, so mol Cu2+ = mol S2O3 2- = 1.3325 x 10^-3 mol in the 25.0 cm3 portion.",
+        "In the whole 250.0 cm3: 1.3325 x 10^-2 mol Cu2+, which is the moles of mitscherlichite.",
+        "Mr = 4.26 / 1.3325 x 10^-2 = 319.7.",
+        "Mr of K2CuCl4 = 2(39.1) + 63.5 + 4(35.5) = 283.7, so the water = 319.7 - 283.7 = 36.0.",
+        "n = 36.0 / 18.0 = 2."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-21.jpg",
         "papers/chemistry/img/17-Transition-Metals-22.jpg",
         "papers/chemistry/img/17-Transition-Metals-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q24-2.jpg"
       ]
     },
     {
@@ -1466,12 +1612,18 @@
         "exception"
       ],
       "question": "What is the electronic configuration of a chromium atom? (Options not in text.)",
-      "status": "pending",
-      "answer": "Needs the answer options, which are missing from the text (expected [Ar] 3d5 4s1).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: [Ar] 3d5 4s1",
+      "steps": [
+        "Chromium is an exception: one 4s electron moves into the 3d subshell to give a half-filled 3d subshell.",
+        "Configuration [Ar] 3d5 4s1 has five unpaired electrons in 3d and one in 4s, option A."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-23.jpg",
         "papers/chemistry/img/17-Transition-Metals-24.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q26.jpg"
       ]
     },
     {
@@ -1595,12 +1747,20 @@
         "Cu+"
       ],
       "question": "Which ion is most likely to catalyse the reaction between peroxodisulfate and I-? Options: A Cl-, B Fe2+, C Cu2+, D Cu+. (E-zero table in diagram.)",
-      "status": "pending",
-      "answer": "Needs the standard electrode potential table, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Fe2+",
+      "steps": [
+        "A catalyst for S2O8 2- + 2I- needs a redox couple with E-zero between +0.54 V (I2/I-) and +2.01 V (S2O8 2-/SO4 2-).",
+        "Fe3+/Fe2+ (+0.77 V) lies between them: Fe2+ is oxidised by S2O8 2- and the Fe3+ formed oxidises I- back to Fe2+.",
+        "Cl-/Cl2 (+1.36 V) lies between them but it is oxidised by S2O8 2-, so it is not regenerated; Cu2+/Cu+ (+0.15 V) is below +0.54 V, so Cu2+ cannot oxidise I-.",
+        "So the best catalyst is Fe2+ (option B)."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-25.jpg",
         "papers/chemistry/img/17-Transition-Metals-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q31.jpg"
       ]
     },
     {
@@ -1665,11 +1825,18 @@
         "options"
       ],
       "question": "What is the electronic configuration of the Fe2+ ion? (Options not in text.)",
-      "status": "pending",
-      "answer": "Needs the answer options, which are missing from the text (expected [Ar] 3d6).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: [Ar] 3d6 (3d: one pair of electrons and four unpaired, 4s empty)",
+      "steps": [
+        "Fe is [Ar] 3d6 4s2; transition metals lose the 4s electrons first to form ions.",
+        "Fe2+ is therefore [Ar] 3d6 4s0, with 4s empty.",
+        "Six 3d electrons fill the orbitals by Hund's rule: one orbital holds a pair and the other four hold single electrons, which is option B."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q32.jpg"
       ]
     },
     {
@@ -1687,18 +1854,23 @@
         "sulfite"
       ],
       "question": "2.72 g of brass dissolved in nitric acid; Cu2+ reduced to Cu+ and precipitated as 4.69 g CuSCN. Calculate the percentage of copper and determine whether this is a gilding metal.",
-      "status": "pending",
-      "answer": "About 90.0% Cu (4.69 g CuSCN); whether it is a gilding metal needs the gilding-metal composition, which is not in the text.",
+      "status": "ready",
+      "answer": "Copper = 90.0% by mass. This is within the 89% to 95% range (5% to 11% zinc), so it is a gilding metal.",
       "steps": [
-        "Moles CuSCN = 4.69 / 121.6 = 0.0386 mol, which equals moles Cu.",
-        "Mass Cu = 0.0386 x 63.5 = 2.45 g.",
-        "Percentage Cu = 2.45 / 2.72 x 100 = 90.0%."
+        "Mr of CuSCN = 63.5 + 32.1 + 12.0 + 14.0 = 121.6.",
+        "Moles CuSCN = 4.69 / 121.6 = 0.0386 mol; each CuSCN comes from one Cu2+ (via Cu+), so moles Cu = 0.0386 mol.",
+        "Mass of copper = 0.0386 x 63.5 = 2.45 g.",
+        "Percentage Cu = 2.45 / 2.72 x 100 = 90.0%, so zinc is about 10.0%.",
+        "Gilding metal contains 5% to 11% zinc, so 10.0% zinc is in range and the brass is a gilding metal."
       ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-27.jpg",
         "papers/chemistry/img/17-Transition-Metals-28.jpg",
         "papers/chemistry/img/17-Transition-Metals-29.jpg",
         "papers/chemistry/img/17-Transition-Metals-30.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q33.jpg"
       ]
     },
     {
@@ -1716,14 +1888,22 @@
         "data table"
       ],
       "question": "Explain, using thermodynamic and kinetic factors, why sulfite reduces Cu2+ to Cu+ but does not reduce Cu+ to Cu.",
-      "status": "pending",
-      "answer": "Needs the data table referred to in the question, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Thermodynamics: Cu2+ to Cu+ has E-zero(cell) of about -0.02 V (close to zero, so feasible under real conditions), while Cu+ to Cu has +0.35 V (feasible), so thermodynamics alone allows both. Kinetics: the reduction of Cu+ to Cu must have a high activation energy, so it is too slow to occur.",
+      "steps": [
+        "HSO3- is the reductant, so the HSO4-/HSO3- half-cell (+0.17 V) is reversed to oxidation.",
+        "Cu2+ to Cu+: E-zero(cell) = 0.15 - 0.17 = -0.02 V, which is almost zero, so the reaction is only marginally unfavourable and goes with non-standard concentrations (excess reductant).",
+        "Cu+ to Cu: E-zero(cell) = 0.52 - 0.17 = +0.35 V, which is positive, so this reduction is thermodynamically feasible.",
+        "It does not happen, so it is kinetically hindered: the reaction has a high activation energy and is too slow at the conditions used."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-27.jpg",
         "papers/chemistry/img/17-Transition-Metals-28.jpg",
         "papers/chemistry/img/17-Transition-Metals-29.jpg",
         "papers/chemistry/img/17-Transition-Metals-30.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q33-2.jpg"
       ]
     },
     {
@@ -1799,9 +1979,14 @@
         "labelled"
       ],
       "question": "Draw a labelled diagram of the apparatus to measure the emf of a Cu/Zn cell under standard conditions.",
-      "status": "pending",
-      "answer": "Needs the apparatus diagram, which cannot be checked from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Two half-cells joined by a salt bridge and a high-resistance voltmeter: a copper electrode in 1.00 mol dm-3 Cu2+(aq) and a zinc electrode in 1.00 mol dm-3 Zn2+(aq), at 298 K.",
+      "steps": [
+        "Left beaker: zinc metal strip dipping into 1.00 mol dm-3 ZnSO4(aq), labelled with the solution and electrode.",
+        "Right beaker: copper metal strip dipping into 1.00 mol dm-3 CuSO4(aq).",
+        "Salt bridge (filter paper or tube soaked in saturated KNO3(aq)) dipping into both solutions.",
+        "High-resistance voltmeter connected by wires between the two metal electrodes; temperature 298 K."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-27.jpg",
         "papers/chemistry/img/17-Transition-Metals-28.jpg",
@@ -1824,14 +2009,22 @@
         "Data Booklet"
       ],
       "question": "A cell has Cu2+ at 1.00 mol dm-3 and Zn2+ at unknown concentration, emf +1.09 V. Calculate the zinc ion concentration (use the Data Booklet page 10).",
-      "status": "pending",
-      "answer": "Needs the Data Booklet standard electrode potentials, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "[Zn2+] = 2.2 mol dm-3",
+      "steps": [
+        "Data Booklet: Cu2+/Cu E-zero = +0.34 V and Zn2+/Zn E-zero = -0.76 V, so E-zero(cell) = 0.34 - (-0.76) = +1.10 V.",
+        "Cu2+ is at 1.00 mol dm-3, so the copper half-cell stays at +0.34 V; Nernst for zinc: E(Zn) = -0.76 + (0.0260/2) ln[Zn2+].",
+        "E(cell) = 0.34 - E(Zn) = 1.10 - 0.0130 ln[Zn2+] = 1.09, so ln[Zn2+] = 0.010 / 0.0130 = 0.769.",
+        "[Zn2+] = e^0.769 = 2.2 mol dm-3."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-27.jpg",
         "papers/chemistry/img/17-Transition-Metals-28.jpg",
         "papers/chemistry/img/17-Transition-Metals-29.jpg",
         "papers/chemistry/img/17-Transition-Metals-30.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q33-3.jpg"
       ]
     },
     {
@@ -1847,12 +2040,21 @@
         "count"
       ],
       "question": "How many of the four ions shown contain a metal with oxidation number +3? (Formulae shown as a diagram.)",
-      "status": "pending",
-      "answer": "Needs the four ion formulae, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: two",
+      "steps": [
+        "CrO4 2-: Cr = +6 (4 x -2 = -8, so Cr = +6).",
+        "AlO2-: Al = +3 (2 x -2 = -4, so Al = +3).",
+        "[Fe(CN)6]4-: Fe = +2 (6 x -1 = -6, so Fe = +2).",
+        "[CrCl2(H2O)4]+: Cr = +3 (2 x -1 = -2, water is neutral, so Cr = +1 + 2 = +3).",
+        "Two ions (AlO2- and [CrCl2(H2O)4]+) contain a +3 metal, option B."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-30.jpg",
         "papers/chemistry/img/17-Transition-Metals-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q34.jpg"
       ]
     },
     {
@@ -1894,12 +2096,20 @@
         "chromium oxide"
       ],
       "question": "Viridian (a blue-green pigment, formula not in text) loses 19.15% of its mass on heating to drive off water. Identify element M.",
-      "status": "pending",
-      "answer": "Needs the formula of viridian, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "M = Cr (chromium); viridian is Cr2O3.2H2O",
+      "steps": [
+        "Mass lost on heating is the water of crystallisation: 2H2O = 2 x 18.0 = 36.0 per formula unit.",
+        "This is 19.15% of the total Mr, so Mr(M2O3.2H2O) = 36.0 / 0.1915 = 188.0.",
+        "Mr(M2O3) = 188.0 - 36.0 = 152.0, so 2 x Ar(M) = 152.0 - 3 x 16.0 = 104.0.",
+        "Ar(M) = 52.0, which is chromium (Cr)."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-32.jpg",
         "papers/chemistry/img/17-Transition-Metals-33.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q36.jpg"
       ]
     },
     {
@@ -2106,14 +2316,22 @@
         "vanadium"
       ],
       "question": "Justify using sodium thiosulfate to convert VO2+ into V3+ by writing equations and calculating E-zero values from the given table and Data Booklet.",
-      "status": "pending",
-      "answer": "Needs the standard electrode potential table, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "2VO2+ + 4H+ + 2S2O3 2- -> 2V3+ + 2H2O + S4O6 2- has E-zero(cell) = +0.25 V (feasible); the further reduction 2V3+ + 2S2O3 2- -> 2V2+ + S4O6 2- has E-zero(cell) = -0.35 V (not feasible), so V3+ is the final product.",
+      "steps": [
+        "Data Booklet: S4O6 2- + 2e- <=> 2S2O3 2- has E-zero = +0.09 V; thiosulfate is the reductant (oxidised to S4O6 2-).",
+        "VO2+ to V3+: 2VO2+ + 4H+ + 2S2O3 2- -> 2V3+ + 2H2O + S4O6 2-; E-zero(cell) = +0.34 - (+0.09) = +0.25 V, positive so feasible.",
+        "V3+ to V2+: 2V3+ + 2S2O3 2- -> 2V2+ + S4O6 2-; E-zero(cell) = -0.26 - (+0.09) = -0.35 V, negative so not feasible.",
+        "So thiosulfate reduces VO2+ to V3+ but not further, with no other vanadium species formed."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-34.jpg",
         "papers/chemistry/img/17-Transition-Metals-35.jpg",
         "papers/chemistry/img/17-Transition-Metals-36.jpg",
         "papers/chemistry/img/17-Transition-Metals-37.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q40.jpg"
       ]
     },
     {
@@ -2131,14 +2349,22 @@
         "vanadium"
       ],
       "question": "Explain why nickel is not a suitable reagent to convert VO2+ into V3+ with no other vanadium species formed.",
-      "status": "pending",
-      "answer": "Needs the standard electrode potential table, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Ni (E-zero = -0.25 V) is a strong enough reductant to reduce VO2+ to V3+, but for V3+ to V2+ the E-zero(cell) is -0.26 - (-0.25) = -0.01 V, which is almost zero, so reduction can go on to V2+ and a mixture of vanadium species forms.",
+      "steps": [
+        "Data Booklet: Ni2+ + 2e- <=> Ni has E-zero = -0.25 V.",
+        "VO2+ to V3+: E-zero(cell) = +0.34 - (-0.25) = +0.59 V, so Ni reduces VO2+ readily.",
+        "V3+ to V2+: E-zero(cell) = -0.26 - (-0.25) = -0.01 V, which is so close to zero that this step is not clearly infeasible, so some V2+ can form.",
+        "Therefore Ni cannot give V3+ only, unlike thiosulfate (which has E-zero(cell) of -0.35 V for the second step)."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-34.jpg",
         "papers/chemistry/img/17-Transition-Metals-35.jpg",
         "papers/chemistry/img/17-Transition-Metals-36.jpg",
         "papers/chemistry/img/17-Transition-Metals-37.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q40.jpg"
       ]
     },
     {
@@ -2182,14 +2408,22 @@
         "electrode potential"
       ],
       "question": "Suggest why the VO2+ ions formed do not affect the manganate(VII) titration.",
-      "status": "pending",
-      "answer": "Needs the standard electrode potential data to confirm VO2+ is not oxidised by MnO4-, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Fe2+ (E-zero +0.77 V) is a stronger reducing agent than VO2+ (VO3-/VO2+ system, +1.00 V), so MnO4- oxidises Fe2+ first and the end-point is reached before VO2+ reacts.",
+      "steps": [
+        "From the table, VO3- + 4H+ + e- <=> VO2+ + 2H2O has E-zero = +1.00 V, which is more positive than Fe3+/Fe2+ at +0.77 V.",
+        "A more positive E-zero means a weaker reducing agent, so VO2+ is a weaker reductant than Fe2+.",
+        "MnO4- therefore oxidises all the Fe2+ first, and the first permanent pink colour marks the Fe2+ end-point.",
+        "VO2+ is only oxidised after the Fe2+ is used up, so it does not change the volume of MnO4- measured."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-34.jpg",
         "papers/chemistry/img/17-Transition-Metals-35.jpg",
         "papers/chemistry/img/17-Transition-Metals-36.jpg",
         "papers/chemistry/img/17-Transition-Metals-37.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q40.jpg"
       ]
     },
     {
@@ -2265,12 +2499,19 @@
         "cis isomer"
       ],
       "question": "The Pt(NH3)2Cl2 complex used in cancer treatment corresponds to which of three structures X, Y, Z? (Structures are diagrams.)",
-      "status": "pending",
-      "answer": "Needs the structure diagrams X, Y and Z, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: structure X only",
+      "steps": [
+        "Cisplatin is the cis isomer of square planar Pt(NH3)2Cl2, with the two Cl on the same side (adjacent, 90 degrees apart).",
+        "X is square planar with Cl next to Cl (cis); Y is square planar with Cl diagonally opposite Cl (trans), which is not the drug.",
+        "Z is tetrahedral and has no cis or trans forms, so the drug is X only."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-37.jpg",
         "papers/chemistry/img/17-Transition-Metals-38.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q41.jpg"
       ]
     },
     {
@@ -2286,11 +2527,18 @@
         "anticancer drug"
       ],
       "question": "Which transition metal complex is commonly used as a cancer treatment? (Options not in text.)",
-      "status": "pending",
-      "answer": "Needs the answer options, which are missing from the text (expected: a platinum complex, cisplatin).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: the square planar cis-Pt(NH3)2Cl2 (cisplatin)",
+      "steps": [
+        "Cisplatin is cis-diamminedichloroplatinum(II): a square planar Pt(II) complex with Cl next to Cl.",
+        "C shows the two Cl on the same side (cis); D shows Cl diagonally opposite (trans-platin), which is not used in treatment.",
+        "The copper complexes A and B are tetrahedral and are not cancer drugs."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-38.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q42.jpg"
       ]
     },
     {
@@ -2475,14 +2723,22 @@
         "diagram"
       ],
       "question": "Describe how DPC acts as a bidentate ligand, using its structure to show the atoms involved.",
-      "status": "pending",
-      "answer": "Needs the DPC structure diagram, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "DPC is bidentate because it has two donor atoms with lone pairs (the C=O oxygen and an adjacent N-H nitrogen), each forming a dative covalent bond to Cr(VI); three DPC give six bonds, so the complex is octahedral.",
+      "steps": [
+        "A bidentate ligand donates two lone pairs from two different atoms to the same metal ion.",
+        "In DPC the oxygen of the C=O group has lone pairs, and the nitrogen atoms of the N-H groups also have lone pairs.",
+        "One O (or N) and an N atom, positioned so a chelate ring can form, each donate a lone pair to Cr6+ by dative covalent bonds.",
+        "Three DPC ligands give 3 x 2 = 6 dative bonds, which is why Cr(DPC)3 6+ is octahedral."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-39.jpg",
         "papers/chemistry/img/17-Transition-Metals-40.jpg",
         "papers/chemistry/img/17-Transition-Metals-41.jpg",
         "papers/chemistry/img/17-Transition-Metals-42.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q45.jpg"
       ]
     },
     {
@@ -2829,14 +3085,24 @@
         "vanadium systems table"
       ],
       "question": "Compare and contrast the use of iron and tin to reduce vanadium(V) step by step in acid, with equations and E-zero values from the tables only.",
-      "status": "pending",
-      "answer": "Needs the vanadium systems table of E-zero values, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Both iron and tin reduce VO2+ to VO2+ and then to V3+ (all E-zero(cell) values positive). Iron goes one step further, reducing V3+ to V2+ (E-zero(cell) = +0.18 V), but tin cannot (E-zero(cell) = -0.12 V), so tin stops at V3+.",
+      "steps": [
+        "Iron (Fe2+/Fe = -0.44 V) step 1: 2VO2+ + Fe + 4H+ -> 2VO2+ + Fe2+ + 2H2O, E-zero(cell) = +1.00 - (-0.44) = +1.44 V.",
+        "Iron step 2: 2VO2+ + Fe + 4H+ -> 2V3+ + Fe2+ + 2H2O, E-zero(cell) = +0.34 - (-0.44) = +0.78 V.",
+        "Iron step 3: 2V3+ + Fe -> 2V2+ + Fe2+, E-zero(cell) = -0.26 - (-0.44) = +0.18 V, feasible, so iron reduces vanadium all the way to V2+.",
+        "Tin (Sn2+/Sn = -0.14 V) step 1: 2VO2+ + Sn + 4H+ -> 2VO2+ + Sn2+ + 2H2O, E-zero(cell) = +1.00 - (-0.14) = +1.14 V; step 2: 2VO2+ + Sn + 4H+ -> 2V3+ + Sn2+ + 2H2O, E-zero(cell) = +0.34 - (-0.14) = +0.48 V.",
+        "Tin step 3: 2V3+ + Sn -> 2V2+ + Sn2+, E-zero(cell) = -0.26 - (-0.14) = -0.12 V, not feasible, so tin stops at V3+.",
+        "Similarity: both give VO2+ then V3+ with positive E-zero(cell); difference: iron gives V2+ as the final product, tin gives V3+."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-43.jpg",
         "papers/chemistry/img/17-Transition-Metals-44.jpg",
         "papers/chemistry/img/17-Transition-Metals-45.jpg",
         "papers/chemistry/img/17-Transition-Metals-46.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q49.jpg"
       ]
     },
     {
@@ -3025,9 +3291,14 @@
         "balancing"
       ],
       "question": "Write the equation for one mole of Hg(NO3)2 reacting with ethanol to form mercury(II) fulminate, Hg(CNO)2, with ethanal and water as other products.",
-      "status": "pending",
-      "answer": "Equation not verified from the text; needs balancing against the redox changes (could not be checked with confidence).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Hg(NO3)2 + 3C2H5OH -> Hg(CNO)2 + 2CH3CHO + 5H2O",
+      "steps": [
+        "Write the products as Hg(CNO)2, CH3CHO and H2O, with one Hg(NO3)2 as stated.",
+        "Balance C: Hg(CNO)2 has 2 C and each CH3CHO has 2 C, so 3 ethanol (6 C) gives 2 C + 2 x 2 C.",
+        "Balance H: 3C2H5OH has 18 H; 2CH3CHO has 8 H, so 10 H goes into 5H2O.",
+        "Check O: left 6 (nitrate) + 3 (ethanol) = 9; right 2 (CNO) + 2 (ethanal) + 5 (water) = 9. N and Hg also balance."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-47.jpg",
         "papers/chemistry/img/17-Transition-Metals-48.jpg",
@@ -3094,6 +3365,9 @@
         "papers/chemistry/img/17-Transition-Metals-49.jpg",
         "papers/chemistry/img/17-Transition-Metals-50.jpg",
         "papers/chemistry/img/17-Transition-Metals-51.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q52.jpg"
       ]
     },
     {
@@ -3110,15 +3384,23 @@
         "E-zero value"
       ],
       "question": "A calomel electrode gives a voltmeter reading of +0.37 V against the Sn2+(aq)|Sn(s) half-cell. Deduce the E-zero value of Sn2+|Sn.",
-      "status": "pending",
-      "answer": "Needs the stated E-zero of the calomel electrode, which is blank in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "E-zero(Sn2+|Sn) = -0.13 V",
+      "steps": [
+        "The voltmeter shows the cell emf: the calomel electrode is the positive terminal and Sn is the negative terminal.",
+        "E-zero(cell) = E-zero(positive) - E-zero(negative) = (+0.24) - E-zero(Sn2+|Sn) = +0.37 V.",
+        "E-zero(Sn2+|Sn) = +0.24 - 0.37 = -0.13 V."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-47.jpg",
         "papers/chemistry/img/17-Transition-Metals-48.jpg",
         "papers/chemistry/img/17-Transition-Metals-49.jpg",
         "papers/chemistry/img/17-Transition-Metals-50.jpg",
         "papers/chemistry/img/17-Transition-Metals-51.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q52.jpg",
+        "papers/chemistry/fig/17-Transition-Metals-Q52-2.jpg"
       ]
     },
     {
@@ -3134,15 +3416,23 @@
         "overall equation"
       ],
       "question": "Write the overall equation for the cell reaction of the calomel and Sn2+/Sn cell.",
-      "status": "pending",
-      "answer": "Needs the calomel half-equation and E-zero values, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Hg2Cl2 + Sn -> 2Hg + 2Cl- + Sn2+ (with states: Hg2Cl2(s) + Sn(s) -> 2Hg(l) + 2Cl-(aq) + Sn2+(aq))",
+      "steps": [
+        "The calomel electrode is the positive electrode, so reduction occurs: Hg2Cl2 + 2e- -> 2Hg + 2Cl-.",
+        "Sn is the negative electrode, so oxidation occurs: Sn -> Sn2+ + 2e-.",
+        "Add the two half-equations; the 2 electrons cancel to give Hg2Cl2 + Sn -> 2Hg + 2Cl- + Sn2+."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-47.jpg",
         "papers/chemistry/img/17-Transition-Metals-48.jpg",
         "papers/chemistry/img/17-Transition-Metals-49.jpg",
         "papers/chemistry/img/17-Transition-Metals-50.jpg",
         "papers/chemistry/img/17-Transition-Metals-51.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q52.jpg",
+        "papers/chemistry/fig/17-Transition-Metals-Q52-2.jpg"
       ]
     },
     {
@@ -3160,15 +3450,23 @@
         "diagram"
       ],
       "question": "Add labels to complete the diagram of a standard hydrogen electrode, including details of essential conditions.",
-      "status": "pending",
-      "answer": "Needs the diagram to check labels, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Top box (gas inlet): hydrogen gas at 100 kPa (1 atm); middle box (the electrode): platinum electrode (coated with platinum black); bottom box (the solution): 1.00 mol dm-3 H+(aq) (e.g. HCl), all at 298 K.",
+      "steps": [
+        "The gas entering at the top is hydrogen, H2(g), at a pressure of 100 kPa (1 atm).",
+        "The electrode is platinum (platinum-coated, inert), which lets H2 and H+ exchange electrons and acts as the catalyst surface.",
+        "The solution is aqueous acid with an H+ concentration of 1.00 mol dm-3 (e.g. hydrochloric acid).",
+        "The temperature must be 298 K; these are the standard conditions for the SHE, which is defined as 0.00 V."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-47.jpg",
         "papers/chemistry/img/17-Transition-Metals-48.jpg",
         "papers/chemistry/img/17-Transition-Metals-49.jpg",
         "papers/chemistry/img/17-Transition-Metals-50.jpg",
         "papers/chemistry/img/17-Transition-Metals-51.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q52-3.jpg"
       ]
     },
     {
@@ -3240,11 +3538,18 @@
         "ammonium"
       ],
       "question": "Which is the equation for the reaction when a small amount of aqueous ammonia is added to zinc ions? (Options not in text.)",
-      "status": "pending",
-      "answer": "Needs the answer options, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: [Zn(H2O)6]2+ + 2NH3 -> Zn(OH)2(H2O)4 + 2NH4+",
+      "steps": [
+        "With a small amount of NH3, ammonia acts as a base and removes two H+ from coordinated water (deprotonation).",
+        "This gives the neutral, insoluble white precipitate Zn(OH)2(H2O)4 and NH4+, option B.",
+        "Options C and D show ligand exchange to the ammine complex, which only happens in excess ammonia (A is a charged soluble ion, not a precipitate)."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-52.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q54.jpg"
       ]
     },
     {
@@ -3259,11 +3564,17 @@
         "orbitals"
       ],
       "question": "Which electronic configuration is correct? (Options not in text.)",
-      "status": "pending",
-      "answer": "Needs the answer options, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: Cu is [Ar] 3d10 4s1",
+      "steps": [
+        "Copper is an exception: a full 3d subshell (3d10) is more stable, so one 4s electron moves to 3d, giving [Ar] 3d10 4s1.",
+        "A is wrong because Ti2+ is [Ar] 3d2 (4s electrons are lost first); B is wrong because Cr is [Ar] 3d5 4s1; C is wrong because Fe3+ is [Ar] 3d5."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-52.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q55.jpg"
       ]
     },
     {
@@ -3280,12 +3591,19 @@
         "chromium"
       ],
       "question": "What is the coordination number of chromium in Cr2(CH3CO2)4(H2O)2? Options: A two, B four, C six, D twelve. (Structure is a diagram.)",
-      "status": "pending",
-      "answer": "Needs the structure diagram, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: six",
+      "steps": [
+        "Each chromium is bonded to four oxygen atoms from four different bridging ethanoate ligands.",
+        "It also bonds to one water molecule and to the other chromium atom (Cr-Cr bond).",
+        "So each Cr has 4 + 1 + 1 = 6 bonds, giving a coordination number of six."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-53.jpg",
         "papers/chemistry/img/17-Transition-Metals-54.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q56.jpg"
       ]
     },
     {
@@ -3696,12 +4014,21 @@
         "complex stability"
       ],
       "question": "Which diagram shows the change in relative colour intensity when EDTA4- is added to chromium(III) ions?",
-      "status": "pending",
-      "answer": "Needs the graph options, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: peak at 0.001 mol of ligand, higher than the cyanide peak (about 7.7), then falling gradually",
+      "steps": [
+        "The CN- graph peaks at 0.006 mol ligand for 0.001 mol Cr3+, i.e. a 6:1 ratio, giving [Cr(CN)6]3-.",
+        "EDTA4- is hexadentate, so one ion wraps round Cr3+ and the complex forms in a 1:1 ratio: the maximum colour intensity is at 0.001 mol EDTA4-.",
+        "The EDTA complex has a greater colour intensity than the CN- one, so the peak must be higher than 6 (about 7.7).",
+        "Only graph C has its peak at 0.001 mol and a maximum above 6; after the peak the intensity falls as the solution is diluted by added reagent."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-58.jpg",
         "papers/chemistry/img/17-Transition-Metals-59.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q62.jpg",
+        "papers/chemistry/fig/17-Transition-Metals-Q62-2.jpg"
       ]
     },
     {
@@ -3717,12 +4044,19 @@
         "options"
       ],
       "question": "Acidified manganate(VII) ions react with ethanedioate ions. Which statement is correct? (Question text and options missing.)",
-      "status": "pending",
-      "answer": "Needs the question stem and options, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Mn2+ acts as a catalyst (rate increases); concentration of reactants decreases (rate decreases)",
+      "steps": [
+        "Mn2+ is a product that catalyses the reaction (autocatalysis), so the rate increases as Mn2+ builds up.",
+        "Later the rate falls because the reactants MnO4- and C2O4 2- are used up, so their concentrations decrease.",
+        "MnO4- is a reactant, not a catalyst, and the kinetic energy of particles does not fall because the temperature stays the same."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-59.jpg",
         "papers/chemistry/img/17-Transition-Metals-60.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q63.jpg"
       ]
     },
     {
@@ -3738,12 +4072,19 @@
         "ligands"
       ],
       "question": "What is the coordination number of chromium in the complex ion shown? Options: A 2, B 3, C 4, D 6. (Structure is a diagram.)",
-      "status": "pending",
-      "answer": "Needs the complex ion diagram, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 6",
+      "steps": [
+        "The complex is [CrCl2(en)2]+: each ethane-1,2-diamine (en) ligand is bidentate and donates two lone pairs from its two N atoms.",
+        "Four N bonds from two en ligands plus two Cl- bonds give 4 + 2 = 6 dative bonds to Cr.",
+        "So the coordination number is 6 (octahedral)."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-60.jpg",
         "papers/chemistry/img/17-Transition-Metals-61.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q64.jpg"
       ]
     },
     {
@@ -3786,12 +4127,19 @@
         "complex formation"
       ],
       "question": "Aqueous ammonia is added in excess to aqueous Cu2+. What is the overall equation? (Options not in text.)",
-      "status": "pending",
-      "answer": "Needs the answer options, which are missing from the text (expected: [Cu(H2O)6]2+ + 4NH3 -> [Cu(NH3)4(H2O)2]2+ + 4H2O).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: [Cu(H2O)6]2+ + 4NH3 -> [Cu(NH3)4(H2O)2]2+ + 4H2O",
+      "steps": [
+        "In excess ammonia, NH3 replaces four of the six water ligands (ligand exchange), forming the deep blue [Cu(NH3)4(H2O)2]2+.",
+        "Four NH3 enter and four H2O leave, giving 4H2O as a product; the charge stays 2+, so this is option C.",
+        "A is the first step (small amount of ammonia, precipitate), and B and D do not match the 4:4 exchange of the observed ion."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-61.jpg",
         "papers/chemistry/img/17-Transition-Metals-62.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q66.jpg"
       ]
     },
     {
@@ -3808,12 +4156,18 @@
         "vanadium"
       ],
       "question": "Which equation shows a redox reaction in which the solution turns yellow? (Equation options not in text.)",
-      "status": "pending",
-      "answer": "Needs the equation options, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 2Cr(OH)3 + 3H2O2 + 4KOH -> 2K2CrO4 + 8H2O",
+      "steps": [
+        "In D Cr changes from +3 in Cr(OH)3 to +6 in K2CrO4, so it is oxidised, and O in H2O2 (-1) is reduced to -2; this is redox and the yellow chromate(VI) forms.",
+        "A is redox but gives a pale green solution of FeCl2; B (VO3- to VO2+ in acid) and C (Cr2O7 2- to CrO4 2-) have no change in oxidation number, so they are not redox."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-61.jpg",
         "papers/chemistry/img/17-Transition-Metals-62.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q67.jpg"
       ]
     },
     {
@@ -3855,14 +4209,21 @@
         "options"
       ],
       "question": "Which equation shows the formation of a precipitate? (Options not in text.)",
-      "status": "pending",
-      "answer": "Needs the equation options, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: [Zn(OH)4]2- + 2H3O+ -> [Zn(H2O)4(OH)2]",
+      "steps": [
+        "A precipitate is an uncharged (neutral) hydroxide complex, which is insoluble in water.",
+        "In A the soluble zincate ion [Zn(OH)4]2- is protonated to the neutral [Zn(H2O)4(OH)2] = Zn(OH)2, which precipitates.",
+        "In B, C and D an insoluble neutral hydroxide or a metal ion converts into a soluble charged ion, so these are dissolving, not precipitating."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-62.jpg",
         "papers/chemistry/img/17-Transition-Metals-63.jpg",
         "papers/chemistry/img/17-Transition-Metals-64.jpg",
         "papers/chemistry/img/17-Transition-Metals-65.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q69.jpg"
       ]
     },
     {
@@ -4236,12 +4597,19 @@
         "diagram"
       ],
       "question": "Which label on the enthalpy profile diagram indicates the intermediate species? (Diagram labels A to D.)",
-      "status": "pending",
-      "answer": "Needs the enthalpy profile diagram, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C",
+      "steps": [
+        "An intermediate is a species formed in one step and used in the next, so it sits in a trough (a local minimum) on the enthalpy profile.",
+        "On the catalysed pathway the trough between the two peaks is label C.",
+        "A is the reactants, and B and D are the peaks (transition states), so the answer is C."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-67.jpg",
         "papers/chemistry/img/17-Transition-Metals-68.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q74.jpg"
       ]
     },
     {
@@ -4283,12 +4651,20 @@
         "graph"
       ],
       "question": "Which sketch shows the change in concentration of manganate(VII) ions with time in the reaction? (Graph options not in text.)",
-      "status": "pending",
-      "answer": "Needs the graph options, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: the curve decreases slowly at first, then more steeply, then levels off",
+      "steps": [
+        "The reaction is autocatalysed: the product Mn2+ catalyses it.",
+        "At the start there is little Mn2+, so the rate is slow and [MnO4-] falls slowly.",
+        "As Mn2+ builds up the rate rises so [MnO4-] falls faster; later the reactants run out, so the curve flattens at zero.",
+        "This S-shaped fall is graph C; B is a constant rate, and D is the usual exponential-type fall with no catalytic rise."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-68.jpg",
         "papers/chemistry/img/17-Transition-Metals-69.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q75.jpg"
       ]
     },
     {
@@ -4361,12 +4737,19 @@
         "catalyst"
       ],
       "question": "Which reaction involves the vanadium oxide catalyst in the contact process, and how does vanadium's oxidation number change? (Options not in text.)",
-      "status": "pending",
-      "answer": "Needs the answer options, which are missing from the text (expected: SO2 + V2O5 -> SO3 + V2O4, V from +5 to +4).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: SO2 -> SO3 with vanadium changing +5 -> +4 -> +5",
+      "steps": [
+        "V2O5 catalyses the oxidation SO2 + 1/2 O2 -> SO3 in the contact process.",
+        "V2O5 (V is +5) oxidises SO2 to SO3 and is itself reduced to V2O4 (V is +4); then O2 oxidises V2O4 back to V2O5 (+5).",
+        "So vanadium goes +5 -> +4 -> +5 for the reaction SO2 -> SO3, option C."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-70.jpg",
         "papers/chemistry/img/17-Transition-Metals-71.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q78.jpg"
       ]
     },
     {
@@ -4383,12 +4766,18 @@
         "CO NO"
       ],
       "question": "Which interactions could not occur between CO, NO and the catalytic converter? (Options C and D are blank in the text.)",
-      "status": "pending",
-      "answer": "Needs the full option list, which is incomplete in the text (C and D are blank).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: hydrogen bonds",
+      "steps": [
+        "CO, NO, CO2 and N2 contain no H atoms bonded to N, O or F, so they cannot form hydrogen bonds with the converter surface.",
+        "The other interactions can occur: covalent bonds in chemisorption to the metal surface, London forces for all molecules, and permanent dipole-induced dipole forces because CO and NO are polar."
+      ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-70.jpg",
         "papers/chemistry/img/17-Transition-Metals-71.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q79.jpg"
       ]
     },
     {

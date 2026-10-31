@@ -498,6 +498,9 @@
         "papers/chemistry/img/04B-Alkanes-02.jpg",
         "papers/chemistry/img/04B-Alkanes-03.jpg",
         "papers/chemistry/img/04B-Alkanes-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q3fii.jpg"
       ]
     },
     {
@@ -1134,16 +1137,19 @@
       ],
       "question": "Which process occurs in the initiation step of the reaction of methane with excess chlorine in UV light?",
       "status": "ready",
-      "answer": "Homolytic fission of the Cl-Cl bond, forming two chlorine radicals (Cl2 -> 2Cl).",
+      "answer": "C: homolytic fission of the Cl-Cl bond, with a curly half-arrow from the bond to each Cl atom, giving two chlorine radicals (Cl2 -> 2Cl).",
       "steps": [
         "Initiation starts the chain by making radicals.",
         "UV light supplies the energy to break the Cl-Cl bond.",
-        "The bond breaks homolytically, each Cl atom taking one electron.",
+        "The bond breaks homolytically, each Cl atom taking one electron; this is shown by two half-arrows starting at the Cl-Cl bond, one to each Cl (option C).",
         "Result: two Cl radicals."
       ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-09.jpg",
         "papers/chemistry/img/04B-Alkanes-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q9a.jpg"
       ]
     },
     {
@@ -1356,6 +1362,9 @@
         "papers/chemistry/img/04B-Alkanes-10.jpg",
         "papers/chemistry/img/04B-Alkanes-11.jpg",
         "papers/chemistry/img/04B-Alkanes-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q10di.jpg"
       ]
     },
     {
@@ -2099,6 +2108,9 @@
         "papers/chemistry/img/04B-Alkanes-20.jpg",
         "papers/chemistry/img/04B-Alkanes-21.jpg",
         "papers/chemistry/img/04B-Alkanes-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q27bi.jpg"
       ]
     },
     {
@@ -3552,6 +3564,9 @@
         "papers/chemistry/img/04B-Alkanes-34.jpg",
         "papers/chemistry/img/04B-Alkanes-35.jpg",
         "papers/chemistry/img/04B-Alkanes-36.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q42d.jpg"
       ]
     },
     {

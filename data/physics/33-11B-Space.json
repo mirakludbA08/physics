@@ -75,12 +75,20 @@
         "position"
       ],
       "question": "State where the stars Alnilam and Mintaka would be located on a Hertzsprung-Russell diagram.",
-      "status": "pending",
-      "answer": "Pending: the table of star data (temperature, luminosity, radius) is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Top left of the HR diagram: very hot (blue) and very luminous stars, at the top end of or above the main sequence.",
+      "steps": [
+        "On an HR diagram luminosity is on the vertical axis and surface temperature on the horizontal axis, with temperature increasing to the left.",
+        "Both stars are very hot (2.75 x 10^4 K and 3.00 x 10^4 K), so they lie at the hot (left) side.",
+        "Both are extremely luminous (5.37 x 10^5 and 9.00 x 10^4 times the Sun), so they lie near the top of the diagram.",
+        "So both are in the top-left corner (blue giants/supergiants), with Alnilam slightly higher than Mintaka."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-01.jpg",
         "papers/physics/img/33-11B-Space-02.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q2.jpg"
       ]
     },
     {
@@ -97,12 +105,19 @@
         "wavelength"
       ],
       "question": "Calculate the wavelength at which peak radiation power occurs for Mintaka.",
-      "status": "pending",
-      "answer": "Pending: Mintaka's surface temperature is in the table, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "lambda_max = 9.66 x 10^-8 m (ultraviolet)",
+      "steps": [
+        "Wien's law: lambda_max T = 2.898 x 10^-3 m K.",
+        "Mintaka: T = 3.00 x 10^4 K from the table.",
+        "lambda_max = 2.898 x 10^-3 / 3.00 x 10^4 = 9.66 x 10^-8 m."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-01.jpg",
         "papers/physics/img/33-11B-Space-02.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q2.jpg"
       ]
     },
     {
@@ -119,12 +134,20 @@
         "star"
       ],
       "question": "Calculate the radius of Alnilam.",
-      "status": "pending",
-      "answer": "Pending: Alnilam's temperature and luminosity are in the table, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Radius of Alnilam = 2.25 x 10^10 m",
+      "steps": [
+        "Luminosity in watts: L = 5.37 x 10^5 x 3.85 x 10^26 W = 2.07 x 10^32 W.",
+        "Stefan-Boltzmann law: L = 4 pi R^2 sigma T^4, so R = sqrt(L / (4 pi sigma T^4)).",
+        "4 pi sigma T^4 = 4 pi x 5.67 x 10^-8 x (2.75 x 10^4)^4 = 4.08 x 10^11 W m^-2.",
+        "R = sqrt(2.07 x 10^32 / 4.08 x 10^11) = 2.25 x 10^10 m."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-01.jpg",
         "papers/physics/img/33-11B-Space-02.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q2.jpg"
       ]
     },
     {
@@ -142,12 +165,20 @@
         "radiation at earth"
       ],
       "question": "Deduce which of these stars gives the lower intensity of radiation at the Earth.",
-      "status": "pending",
-      "answer": "Pending: needs the luminosities and distances from the table, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Mintaka gives the lower intensity at the Earth (3.64 x 10^-8 W m^-2 compared with 4.56 x 10^-8 W m^-2 for Alnilam).",
+      "steps": [
+        "Intensity at Earth I = L / (4 pi d^2) (inverse square law).",
+        "Alnilam: L = 5.37 x 10^5 x 3.85 x 10^26 = 2.07 x 10^32 W, d = 1.90 x 10^19 m, so I = 2.07 x 10^32 / (4 pi x (1.90 x 10^19)^2) = 4.56 x 10^-8 W m^-2.",
+        "Mintaka: L = 9.00 x 10^4 x 3.85 x 10^26 = 3.47 x 10^31 W, d = 8.70 x 10^18 m, so I = 3.47 x 10^31 / (4 pi x (8.70 x 10^18)^2) = 3.64 x 10^-8 W m^-2.",
+        "Mintaka's intensity is lower (about 80% of Alnilam's)."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-01.jpg",
         "papers/physics/img/33-11B-Space-02.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q2.jpg"
       ]
     },
     {
@@ -219,14 +250,21 @@
         "surface temperature"
       ],
       "question": "Mark on the diagram the position of a star similar to the Sun.",
-      "status": "pending",
-      "answer": "Pending: the HR diagram for the young star cluster is not in the text, so the position cannot be marked.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A cross on the band of dots (the main sequence) level with the \"1\" mark on the luminosity axis, where L = 1 L_sun.",
+      "steps": [
+        "The Sun is a main sequence star, so its cross must lie on the diagonal band of dots, not on a stray point.",
+        "The Sun's luminosity is 1 L_sun, so the cross is at the height of the \"1\" on the vertical axis.",
+        "Where the band crosses that level (about 60% of the way along from the hot, upper-left end) is the position of a Sun-like star."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-03.jpg",
         "papers/physics/img/33-11B-Space-04.jpg",
         "papers/physics/img/33-11B-Space-05.jpg",
         "papers/physics/img/33-11B-Space-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q4.jpg"
       ]
     },
     {
@@ -259,6 +297,9 @@
         "papers/physics/img/33-11B-Space-04.jpg",
         "papers/physics/img/33-11B-Space-05.jpg",
         "papers/physics/img/33-11B-Space-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q4.jpg"
       ]
     },
     {
@@ -276,14 +317,22 @@
         "spectrum"
       ],
       "question": "Using the two calcium absorption minima on the graph (laboratory wavelengths 393.4 nm and 396.9 nm), determine the velocity of Andromeda relative to the Earth.",
-      "status": "pending",
-      "answer": "Pending: the observed wavelengths of the two minima are read from the spectrum graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "v = 3.0 x 10^5 m s^-1 towards the Earth (blueshift)",
+      "steps": [
+        "Read the minima on the graph (grid lines every 0.5 nm): 393.0 nm and 396.5 nm.",
+        "Both are shorter than the laboratory values 393.4 nm and 396.9 nm by 0.4 nm: a blueshift, so Andromeda is moving towards the Earth.",
+        "Doppler shift: v = c x (change in wavelength) / lambda = 3.00 x 10^8 x 0.4 / 393.4 = 3.05 x 10^5 m s^-1 (second line: 3.02 x 10^5 m s^-1).",
+        "Velocity of Andromeda relative to the Earth is about 3.0 x 10^5 m s^-1 (300 km s^-1) towards us."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-03.jpg",
         "papers/physics/img/33-11B-Space-04.jpg",
         "papers/physics/img/33-11B-Space-05.jpg",
         "papers/physics/img/33-11B-Space-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q4-2.jpg"
       ]
     },
     {
@@ -584,13 +633,20 @@
         "astrophysics"
       ],
       "question": "Determine the surface temperature of the star from its graph of relative intensity against wavelength.",
-      "status": "pending",
-      "answer": "Pending: the intensity-wavelength graph for the star is not in the text, so the peak wavelength cannot be read.",
-      "steps": [],
+      "status": "ready",
+      "answer": "T = 7.5 x 10^3 K",
+      "steps": [
+        "Read the peak of the curve: lambda_max = 0.385 um = 3.85 x 10^-7 m (between 0.38 and 0.39 um).",
+        "Wien's law: lambda_max T = 2.898 x 10^-3 m K.",
+        "T = 2.898 x 10^-3 / 3.85 x 10^-7 = 7.5 x 10^3 K."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-09.jpg",
         "papers/physics/img/33-11B-Space-10.jpg",
         "papers/physics/img/33-11B-Space-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q9.jpg"
       ]
     },
     {
@@ -608,13 +664,22 @@
         "calculation"
       ],
       "question": "Explain what can be concluded about the star from the shifts of its spectral lines compared with laboratory values, including a calculation.",
-      "status": "pending",
-      "answer": "Pending: the observed and laboratory wavelengths of the spectral lines are in a diagram that is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The star is moving away from the Earth (redshift) at about 1.6 x 10^7 m s^-1 (about 0.05c).",
+      "steps": [
+        "Read the lines (ticks every 20 nm): star lines at about 480 nm and 656 nm; laboratory lines at about 454 nm and 624 nm.",
+        "The star's lines are at longer wavelengths than the laboratory lines (redshift), so the star is receding from the Earth.",
+        "Fractional shifts: 26/454 = 0.057 and 32/624 = 0.051, mean about 0.054.",
+        "v = c x (change in wavelength) / lambda = 3.00 x 10^8 x 0.054 = 1.6 x 10^7 m s^-1, about 5% of the speed of light.",
+        "A speed this large means the star is very far away, in a distant galaxy that is moving away as the universe expands."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-09.jpg",
         "papers/physics/img/33-11B-Space-10.jpg",
         "papers/physics/img/33-11B-Space-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q9-2.jpg"
       ]
     },
     {
@@ -767,12 +832,19 @@
         "astrophysics"
       ],
       "question": "Which of the paths WY, XY, YW or YZ is part of a possible evolutionary path of a star on the HR diagram shown (stars W, X, Y, Z)?",
-      "status": "pending",
-      "answer": "Pending: the HR diagram showing positions W, X, Y and Z is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: Y -> Z",
+      "steps": [
+        "Y is a main sequence star; when its core hydrogen is used up it expands and cools into a red giant, moving up and to the right to the giant branch where Z is.",
+        "A (W -> Y) and C (Y -> W) are wrong: a star stays at one place on the main sequence while it fuses hydrogen, and does not move along it.",
+        "B (X -> Y) is wrong: X is a white dwarf, an end stage, which cannot become a main sequence star."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-13.jpg",
         "papers/physics/img/33-11B-Space-14.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q11.jpg"
       ]
     },
     {
@@ -790,12 +862,20 @@
         "stars"
       ],
       "question": "Which statement about stars in positions W, X, Y and Z on the HR diagram is correct?",
-      "status": "pending",
-      "answer": "Pending: the HR diagram with stars W, X, Y and Z is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: Y has a lower surface temperature than X.",
+      "steps": [
+        "The temperature axis is reversed (arrow points left): temperature increases to the left.",
+        "X is to the left of Y, so X is hotter than Y, which makes D correct.",
+        "A and C are wrong: W is much more luminous than Y on the main sequence, so W is more massive than Y.",
+        "B is wrong: W is to the left of Z, so W is hotter than Z."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-13.jpg",
         "papers/physics/img/33-11B-Space-14.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q12.jpg"
       ]
     },
     {
@@ -920,12 +1000,19 @@
         "stars x and y"
       ],
       "question": "Two stars X and Y behave as black bodies; graphs show intensity against wavelength for each. Which statement can be deduced about brightness and surface temperature?",
-      "status": "pending",
-      "answer": "Pending: the two intensity-wavelength graphs are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: Star X is brighter and has a higher surface temperature than star Y.",
+      "steps": [
+        "X peaks at a shorter wavelength than Y; by Wien's law lambda_max T = constant, so X has the higher surface temperature.",
+        "The curve for X is higher at every wavelength, so X emits more power per unit area.",
+        "Both are viewed from the same distance, so X is the brighter star."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-15.jpg",
         "papers/physics/img/33-11B-Space-16.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q17.jpg"
       ]
     },
     {
@@ -942,13 +1029,22 @@
         "points a b c"
       ],
       "question": "Complete the table with letters A, B and C to indicate the point on the rotating Sun corresponding to each measured wavelength of the alpha line.",
-      "status": "pending",
-      "answer": "Pending: the table and the rotating Sun diagram are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "656.2837 -> B; 656.2797 -> C; 656.2757 -> A",
+      "steps": [
+        "The rotation arrow shows the near face moving from left to right, so the left edge A moves towards the Earth and the right edge B moves away.",
+        "A is approaching: blueshift, shortest wavelength 656.2757 nm.",
+        "B is receding: redshift, longest wavelength 656.2837 nm.",
+        "C is at the centre of the disc, moving across the line of sight, so its wavelength is unshifted: 656.2797 nm."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-16.jpg",
         "papers/physics/img/33-11B-Space-17.jpg",
         "papers/physics/img/33-11B-Space-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q18.jpg",
+        "papers/physics/fig/33-11B-Space-Q18-2.jpg"
       ]
     },
     {
@@ -977,6 +1073,9 @@
         "papers/physics/img/33-11B-Space-16.jpg",
         "papers/physics/img/33-11B-Space-17.jpg",
         "papers/physics/img/33-11B-Space-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q18.jpg"
       ]
     },
     {
@@ -994,13 +1093,21 @@
         "wavelength"
       ],
       "question": "Assess whether the wavelengths measured from the Sun are consistent with a rotation period of about 28 days (lab alpha line 656.2797 nm, Sun radius 7.0 x 10^8 m).",
-      "status": "pending",
-      "answer": "Pending: the observed alpha-line wavelengths at the points A, B and C are in the missing table or diagram (expected maximum shift is about 4 x 10^-3 nm).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Consistent: the shifts give a rotation period of about 2.4 x 10^6 s = 28 days.",
+      "steps": [
+        "Shift at each edge: 656.2837 - 656.2797 = 0.0040 nm (and 656.2797 - 656.2757 = 0.0040 nm).",
+        "Edge speed v = c x (change in wavelength) / lambda = 3.00 x 10^8 x 0.0040 / 656.2797 = 1.83 x 10^3 m s^-1.",
+        "v = 2 pi R / T, so T = 2 pi x 7.0 x 10^8 / 1.83 x 10^3 = 2.4 x 10^6 s.",
+        "T = 2.4 x 10^6 / 86 400 = 27.8 days, which matches about 28 days."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-16.jpg",
         "papers/physics/img/33-11B-Space-17.jpg",
         "papers/physics/img/33-11B-Space-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q18-2.jpg"
       ]
     },
     {
@@ -1127,12 +1234,19 @@
         "graph"
       ],
       "question": "The gradient of a graph of red shift against distance (metres) is 5.4 x 10^-27. Which expression gives the Hubble constant in s^-1?",
-      "status": "pending",
-      "answer": "Pending: the answer options (expressions) are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 3 x 10^8 x 5.4 x 10^-27 (= 1.6 x 10^-18 s^-1)",
+      "steps": [
+        "For nearby galaxies the redshift is z = v / c, and Hubble's law gives v = H0 d, so z = (H0 / c) d.",
+        "The gradient of z against d (in metres) is therefore H0 / c.",
+        "H0 = c x gradient = 3 x 10^8 x 5.4 x 10^-27 = 1.6 x 10^-18 s^-1, which is option D."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-19.jpg",
         "papers/physics/img/33-11B-Space-20.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q23.jpg"
       ]
     },
     {
@@ -1289,13 +1403,21 @@
         "axis"
       ],
       "question": "Label the x-axis of the HR diagram, including approximate values.",
-      "status": "pending",
-      "answer": "Pending: the HR diagram and its axes are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "x-axis labelled \"Temperature / K\" (or surface temperature), decreasing from left to right, e.g. about 40 000 K at the far left, about 6000 K near Z3 (the Sun) and about 3000 K at the far right.",
+      "steps": [
+        "Label the horizontal axis with the quantity and unit: surface temperature / K.",
+        "The scale must run backwards: hottest on the left, coolest on the right.",
+        "Give approximate values: roughly 30 000 - 40 000 K at the left end and 2500 - 3000 K at the right end.",
+        "A mid value of about 6000 K should be near Z3, which is the Sun-like star; the scale is logarithmic, e.g. 40 000, 20 000, 10 000, 5000, 2500."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-21.jpg",
         "papers/physics/img/33-11B-Space-22.jpg",
         "papers/physics/img/33-11B-Space-23.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q25.jpg"
       ]
     },
     {
@@ -1313,13 +1435,22 @@
         "zones"
       ],
       "question": "Complete the table, matching one of the zones Z1 to Z5 with each description.",
-      "status": "pending",
-      "answer": "Pending: the HR diagram showing zones Z1 to Z5 is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "High mass hot stars: Z1. Low mass cool stars: Z5. Low mass hot stars: Z2.",
+      "steps": [
+        "Z1 is at top left: very hot and very luminous, so high mass hot (blue) main sequence stars.",
+        "Z5 is at bottom right: cool and dim, so low mass cool stars (red dwarfs).",
+        "Z2 is at bottom left: hot but dim (small radius), so white dwarfs, which are low mass hot stars.",
+        "Z3 (Sun-like main sequence stars) and Z4 (red giants) are not used in the table."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-21.jpg",
         "papers/physics/img/33-11B-Space-22.jpg",
         "papers/physics/img/33-11B-Space-23.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q25.jpg",
+        "papers/physics/fig/33-11B-Space-Q25-2.jpg"
       ]
     },
     {
@@ -1336,13 +1467,23 @@
         "sun"
       ],
       "question": "Explain how a star like the Sun evolves as it progresses from zone Z3 to its final position on the HR diagram.",
-      "status": "pending",
-      "answer": "Pending: the positions of zone Z3 and the final position are shown on the HR diagram, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Z3 (main sequence) -> red giant (Z4 region) -> white dwarf (Z2 region, bottom left).",
+      "steps": [
+        "In Z3 the Sun is a main sequence star: hydrogen fuses to helium in the core and gravity is balanced by gas and radiation pressure (stable for about 10^10 years).",
+        "When core hydrogen runs out, the core contracts and heats up; hydrogen fuses in a shell round the core and the outer layers expand and cool.",
+        "The star moves up and to the right to the red giant region (Z4): luminosity much greater, surface temperature lower, radius much larger.",
+        "The core becomes hot enough for helium to fuse to carbon and oxygen.",
+        "When fusion stops, the outer layers are ejected as a planetary nebula and the core is left as a white dwarf.",
+        "The white dwarf is small, hot and dim, so it lies at the bottom left (Z2); it then cools and fades with no further fusion."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-21.jpg",
         "papers/physics/img/33-11B-Space-22.jpg",
         "papers/physics/img/33-11B-Space-23.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q25.jpg"
       ]
     },
     {
@@ -1415,9 +1556,13 @@
         "position"
       ],
       "question": "Chi Lupi has surface temperature twice the Sun's and radius three times the Sun's. State where it would be located on the HR diagram.",
-      "status": "pending",
-      "answer": "Pending: the HR diagram is not in the text, so the position cannot be marked.",
-      "steps": [],
+      "status": "ready",
+      "answer": "On the main sequence, up and to the left of the Sun: surface temperature about 1.2 x 10^4 K and luminosity about 144 L_sun.",
+      "steps": [
+        "L is proportional to R^2 T^4, so L / L_sun = 3^2 x 2^4 = 144.",
+        "T = 2 x 6000 K = 12 000 K, so Chi Lupi is hotter than the Sun and lies to the left of it on the HR diagram.",
+        "With a luminosity of about 100 times the Sun, it lies well above the Sun, in the upper left part of the main sequence (a hot blue-white star)."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-23.jpg",
         "papers/physics/img/33-11B-Space-24.jpg"
@@ -1437,13 +1582,22 @@
         "expression"
       ],
       "question": "Explain how the expression for velocity v of a star at distance r from the galactic centre gives the variation of v with r shown in the graph.",
-      "status": "pending",
-      "answer": "Pending: the velocity expression and the graph of v against r are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Inside the dense central region M increases with r, so v rises; beyond it M is almost constant, so v is proportional to 1/sqrt(r) and falls.",
+      "steps": [
+        "In v = sqrt(GM / r), M is the mass inside radius r.",
+        "Near the centre the stars are densely packed, so M grows quickly as r increases (for constant density M is proportional to r^3, so v is proportional to r): v rises steeply from zero to a maximum.",
+        "Outside the central region there are very few stars, so M barely increases and is approximately constant.",
+        "Then v is proportional to 1/sqrt(r), so v decreases as r increases, giving the curved fall towards zero."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-24.jpg",
         "papers/physics/img/33-11B-Space-25.jpg",
         "papers/physics/img/33-11B-Space-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q27.jpg",
+        "papers/physics/fig/33-11B-Space-Q27-2.jpg"
       ]
     },
     {
@@ -1461,13 +1615,20 @@
         "galaxy"
       ],
       "question": "Suggest why the observed velocity varies as shown in the second graph.",
-      "status": "pending",
-      "answer": "Pending: the observed velocity-radius graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "There is unseen (dark) matter spread through and beyond the galaxy, so the mass inside radius r keeps increasing and v stays high.",
+      "steps": [
+        "The observed v stays roughly constant at large r instead of falling like 1/sqrt(r).",
+        "In v = sqrt(GM / r) this needs M to keep increasing roughly in proportion to r, which is far more mass than the visible stars supply.",
+        "So the galaxy must contain extra mass that emits no light: dark matter, spread in a halo around the galaxy."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-24.jpg",
         "papers/physics/img/33-11B-Space-25.jpg",
         "papers/physics/img/33-11B-Space-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q27-3.jpg"
       ]
     },
     {
@@ -1568,12 +1729,19 @@
         "red dwarf"
       ],
       "question": "Show that the surface temperature of Wolf 359 is about 2700 K from its intensity-wavelength graph.",
-      "status": "pending",
-      "answer": "Pending: the peak wavelength must be read from the intensity-wavelength graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "T = 2.7 x 10^3 K",
+      "steps": [
+        "Read the peak of the curve: lambda_max = 1.07 um = 1.07 x 10^-6 m (the peak lies just above 1.0 um).",
+        "Wien's law: lambda_max T = 2.898 x 10^-3 m K.",
+        "T = 2.898 x 10^-3 / 1.07 x 10^-6 = 2.7 x 10^3 K, about 2700 K."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-26.jpg",
         "papers/physics/img/33-11B-Space-27.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q28.jpg"
       ]
     },
     {
@@ -1619,11 +1787,20 @@
         "sun diameter"
       ],
       "question": "Procyon has luminosity 2.65 x 10^27 W. A website states it has twice the diameter of the Sun (Sun diameter 6.96 x 10^8 m). Assess the accuracy of this statement.",
-      "status": "pending",
-      "answer": "Pending: Procyon's surface temperature must be read from the intensity-wavelength graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Not accurate: Procyon's diameter is about 3.1 x 10^9 m, roughly 4.4 times the Sun's diameter, not 2 times.",
+      "steps": [
+        "Read the peak of the graph: lambda_max = 460 nm = 4.6 x 10^-7 m.",
+        "Wien's law: T = 2.898 x 10^-3 / 4.6 x 10^-7 = 6.3 x 10^3 K.",
+        "L = 4 pi R^2 sigma T^4, so R = sqrt(L / (4 pi sigma T^4)) = sqrt(2.65 x 10^27 / (4 pi x 5.67 x 10^-8 x (6.3 x 10^3)^4)) = 1.5 x 10^9 m.",
+        "Diameter = 2R = 3.1 x 10^9 m, and 3.1 x 10^9 / 6.96 x 10^8 = 4.4.",
+        "The website's figure of twice the Sun's diameter is too small by more than a factor of 2."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-28.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q29.jpg"
       ]
     },
     {
@@ -1668,12 +1845,20 @@
         "main sequence star"
       ],
       "question": "Show that the surface temperature of Gliese-876 is about 3000 K from its graph of intensity against frequency.",
-      "status": "pending",
-      "answer": "Pending: the intensity-frequency graph for Gliese-876 is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "T = 3.1 x 10^3 K, about 3000 K",
+      "steps": [
+        "Read the peak of the graph: f_max = 3.2 x 10^14 Hz.",
+        "Convert to wavelength: lambda_max = c / f = 3.00 x 10^8 / 3.2 x 10^14 = 9.4 x 10^-7 m.",
+        "Wien's law: T = 2.898 x 10^-3 / 9.4 x 10^-7 = 3.1 x 10^3 K.",
+        "This is about 3000 K."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-29.jpg",
         "papers/physics/img/33-11B-Space-30.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q31.jpg"
       ]
     },
     {
@@ -1750,12 +1935,20 @@
         "hr diagram"
       ],
       "question": "Which row of the table gives possible values for X and Y on the HR diagram temperature scale?",
-      "status": "pending",
-      "answer": "Pending: the HR diagram and the answer table are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: X = 12 000 K and Y = 3000 K",
+      "steps": [
+        "On an HR diagram temperature decreases to the right, so X (left) is hotter than Y (right); this rules out A and B.",
+        "The temperature scale is logarithmic, so equal spacing means equal ratios: X / 6000 = 6000 / Y.",
+        "D fits: 12 000 / 6000 = 2 and 6000 / 3000 = 2. C (9000 and 3000) would only fit a linear scale."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-31.jpg",
         "papers/physics/img/33-11B-Space-32.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q33.jpg",
+        "papers/physics/fig/33-11B-Space-Q33-2.jpg"
       ]
     },
     {
@@ -1825,12 +2018,18 @@
         "ratio"
       ],
       "question": "Sirius has about 16 times the luminosity of the other star and is twice as far from Earth. Which of the options gives the value of the intensity ratio?",
-      "status": "pending",
-      "answer": "Pending: the expression being asked for and the answer options are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 4",
+      "steps": [
+        "Intensity I = L / (4 pi d^2), so I is proportional to L / d^2.",
+        "I_S / I_alpha = (L_S / L_alpha) x (d_alpha / d_S)^2 = 16 x (1/2)^2 = 4."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-33.jpg",
         "papers/physics/img/33-11B-Space-34.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q36.jpg"
       ]
     },
     {
@@ -1903,13 +2102,19 @@
         "inverse square law"
       ],
       "question": "Radiation from Sirius has 3 times the intensity of radiation from Canopus and Canopus is 36 times as far from Earth as Sirius. Which option equals the luminosity ratio L_C / L_S?",
-      "status": "pending",
-      "answer": "Pending: the ratio expression and answer options are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: (1/3) x (36)^2",
+      "steps": [
+        "I = L / (4 pi d^2), so L = 4 pi d^2 I.",
+        "L_C / L_S = (d_C / d_S)^2 x (I_C / I_S) = 36^2 x (1/3), since I_C = I_S / 3."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-34.jpg",
         "papers/physics/img/33-11B-Space-35.jpg",
         "papers/physics/img/33-11B-Space-36.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q39.jpg"
       ]
     },
     {
@@ -1953,13 +2158,20 @@
         "speed of light"
       ],
       "question": "Using the graph of z against the distance light has travelled, determine the distance light from GN-z11 has travelled to reach Earth, in metres (1 year = 3.15 x 10^7 s).",
-      "status": "pending",
-      "answer": "Pending: the redshift-distance graph is not in the text, so the distance for z = 10.96 cannot be read.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Distance = 1.3 x 10^26 m (about 13.5 x 10^9 ly)",
+      "steps": [
+        "Find z = 10.96 on the vertical (logarithmic) axis, just above the 10 line, and read across to the curve and down to the axis: about 13.5 x 10^9 ly.",
+        "One light year = 3.00 x 10^8 m s^-1 x 3.15 x 10^7 s = 9.45 x 10^15 m.",
+        "Distance = 13.5 x 10^9 x 9.45 x 10^15 = 1.3 x 10^26 m."
+      ],
       "images": [
         "papers/physics/img/33-11B-Space-34.jpg",
         "papers/physics/img/33-11B-Space-35.jpg",
         "papers/physics/img/33-11B-Space-36.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/33-11B-Space-Q40.jpg"
       ]
     },
     {

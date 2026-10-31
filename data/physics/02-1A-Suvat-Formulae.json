@@ -31,6 +31,9 @@
       "images": [
         "papers/physics/img/02-1A-Suvat-Formulae-01.jpg",
         "papers/physics/img/02-1A-Suvat-Formulae-02.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/02-1A-Suvat-Formulae-Q1.jpg"
       ]
     },
     {
@@ -61,6 +64,9 @@
       "images": [
         "papers/physics/img/02-1A-Suvat-Formulae-01.jpg",
         "papers/physics/img/02-1A-Suvat-Formulae-02.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/02-1A-Suvat-Formulae-Q2.jpg"
       ]
     },
     {
@@ -93,6 +99,9 @@
       "images": [
         "papers/physics/img/02-1A-Suvat-Formulae-02.jpg",
         "papers/physics/img/02-1A-Suvat-Formulae-03.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/02-1A-Suvat-Formulae-Q3.jpg"
       ]
     },
     {
@@ -124,6 +133,9 @@
         "papers/physics/img/02-1A-Suvat-Formulae-03.jpg",
         "papers/physics/img/02-1A-Suvat-Formulae-04.jpg",
         "papers/physics/img/02-1A-Suvat-Formulae-05.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/02-1A-Suvat-Formulae-Q4a.jpg"
       ]
     },
     {
@@ -273,6 +285,9 @@
       "images": [
         "papers/physics/img/02-1A-Suvat-Formulae-06.jpg",
         "papers/physics/img/02-1A-Suvat-Formulae-07.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/02-1A-Suvat-Formulae-Q7.jpg"
       ]
     },
     {
@@ -303,6 +318,9 @@
       "images": [
         "papers/physics/img/02-1A-Suvat-Formulae-06.jpg",
         "papers/physics/img/02-1A-Suvat-Formulae-07.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/02-1A-Suvat-Formulae-Q7.jpg"
       ]
     },
     {
@@ -331,6 +349,9 @@
       ],
       "images": [
         "papers/physics/img/02-1A-Suvat-Formulae-07.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/02-1A-Suvat-Formulae-Q8.jpg"
       ]
     },
     {
@@ -448,6 +469,9 @@
       "images": [
         "papers/physics/img/02-1A-Suvat-Formulae-09.jpg",
         "papers/physics/img/02-1A-Suvat-Formulae-10.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/02-1A-Suvat-Formulae-Q12.jpg"
       ]
     },
     {
@@ -564,6 +588,9 @@
       "images": [
         "papers/physics/img/02-1A-Suvat-Formulae-11.jpg",
         "papers/physics/img/02-1A-Suvat-Formulae-12.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/02-1A-Suvat-Formulae-Q16.jpg"
       ]
     },
     {
@@ -593,6 +620,9 @@
       "images": [
         "papers/physics/img/02-1A-Suvat-Formulae-11.jpg",
         "papers/physics/img/02-1A-Suvat-Formulae-12.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/02-1A-Suvat-Formulae-Q16.jpg"
       ]
     },
     {
@@ -623,6 +653,9 @@
       "images": [
         "papers/physics/img/02-1A-Suvat-Formulae-11.jpg",
         "papers/physics/img/02-1A-Suvat-Formulae-12.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/02-1A-Suvat-Formulae-Q16.jpg"
       ]
     },
     {
@@ -714,6 +747,9 @@
         "papers/physics/img/02-1A-Suvat-Formulae-12.jpg",
         "papers/physics/img/02-1A-Suvat-Formulae-13.jpg",
         "papers/physics/img/02-1A-Suvat-Formulae-14.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/02-1A-Suvat-Formulae-Q17b.jpg"
       ]
     },
     {
@@ -744,6 +780,9 @@
       "images": [
         "papers/physics/img/02-1A-Suvat-Formulae-14.jpg",
         "papers/physics/img/02-1A-Suvat-Formulae-15.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/02-1A-Suvat-Formulae-Q18.jpg"
       ]
     },
     {
@@ -803,6 +842,9 @@
       "images": [
         "papers/physics/img/02-1A-Suvat-Formulae-16.jpg",
         "papers/physics/img/02-1A-Suvat-Formulae-17.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/02-1A-Suvat-Formulae-Q20.jpg"
       ]
     },
     {
@@ -833,6 +875,9 @@
       "images": [
         "papers/physics/img/02-1A-Suvat-Formulae-16.jpg",
         "papers/physics/img/02-1A-Suvat-Formulae-17.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/02-1A-Suvat-Formulae-Q20.jpg"
       ]
     }
   ]

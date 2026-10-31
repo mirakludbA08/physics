@@ -118,6 +118,9 @@
       "images": [
         "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-2.jpg",
         "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-3.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/03-F-ma-Horizontal-Vertical-Q2.jpg"
       ]
     },
     {
@@ -147,6 +150,9 @@
       "images": [
         "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-2.jpg",
         "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-3.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/03-F-ma-Horizontal-Vertical-Q3.jpg"
       ]
     },
     {
@@ -175,6 +181,9 @@
       "images": [
         "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-2.jpg",
         "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-3.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/03-F-ma-Horizontal-Vertical-Q3.jpg"
       ]
     },
     {
@@ -203,6 +212,9 @@
       "images": [
         "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-3.jpg",
         "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-4.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/03-F-ma-Horizontal-Vertical-Q4.jpg"
       ]
     },
     {
@@ -232,6 +244,9 @@
       "images": [
         "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-3.jpg",
         "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-4.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/03-F-ma-Horizontal-Vertical-Q4.jpg"
       ]
     },
     {
@@ -316,6 +331,9 @@
       "images": [
         "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-5.jpg",
         "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-6.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/03-F-ma-Horizontal-Vertical-Q6.jpg"
       ]
     },
     {
@@ -345,6 +363,9 @@
       "images": [
         "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-5.jpg",
         "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-6.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/03-F-ma-Horizontal-Vertical-Q6.jpg"
       ]
     },
     {
@@ -374,6 +395,9 @@
       "images": [
         "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-6.jpg",
         "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-7.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/03-F-ma-Horizontal-Vertical-Q7.jpg"
       ]
     },
     {
@@ -402,6 +426,9 @@
       "images": [
         "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-6.jpg",
         "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-7.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/03-F-ma-Horizontal-Vertical-Q7.jpg"
       ]
     }
   ]

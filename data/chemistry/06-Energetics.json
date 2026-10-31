@@ -52,7 +52,7 @@
       "status": "ready",
       "answer": "B: -122 kJ mol-1",
       "steps": [
-        "The bond data table is missing from the text, so use Data Book mean bond enthalpies: C-H 413, Cl-Cl 243, C-Cl 346, H-Cl 432 kJ mol-1.",
+        "Use the bond enthalpy table given: C-H 413, Cl-Cl 243, C-Cl 346, H-Cl 432 kJ mol-1.",
         "Only one C-H and one Cl-Cl bond are broken; the rest of the ethane molecule is unchanged.",
         "Energy in (bonds broken) = 413 + 243 = 656 kJ mol-1.",
         "Energy out (bonds made: one C-Cl and one H-Cl) = 346 + 432 = 778 kJ mol-1.",
@@ -61,6 +61,9 @@
       "images": [
         "papers/chemistry/img/06-Energetics-01.jpg",
         "papers/chemistry/img/06-Energetics-02.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q2.jpg"
       ]
     },
     {
@@ -80,15 +83,17 @@
       "status": "ready",
       "answer": "B: -75 kJ mol-1",
       "steps": [
-        "The data table is missing, so use Data Book enthalpies of combustion: C -393.5, H2 -285.8, CH4 -890.3 kJ mol-1.",
-        "Formation: C(s) + 2H2(g) -> CH4(g); use a Hess cycle through combustion products CO2 and H2O.",
-        "Delta fH = sum Delta cH(reactants) - Delta cH(product).",
-        "= -393.5 + 2(-285.8) - (-890.3) = -74.8 kJ mol-1.",
-        "This rounds to -75 kJ mol-1, option B (the accepted value for methane)."
+        "Use the two enthalpy changes given: CH4 + 2F2 -> CF4 + 2H2 (-858 kJ mol-1) and C + 2F2 -> CF4 (-933 kJ mol-1).",
+        "Formation of methane is C(s) + 2H2(g) -> CH4(g). Link it to the data with a Hess cycle through CF4.",
+        "Route: C + 2F2 -> CF4 (-933), then CF4 + 2H2 -> CH4 + 2F2, which is the reverse of the first equation (+858).",
+        "Delta fH(CH4) = -933 + 858 = -75 kJ mol-1, so option B."
       ],
       "images": [
         "papers/chemistry/img/06-Energetics-02.jpg",
         "papers/chemistry/img/06-Energetics-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q3.jpg"
       ]
     },
     {
@@ -642,14 +647,16 @@
       "status": "ready",
       "answer": "D: butane",
       "steps": [
-        "The energy-per-gram table is missing, so use Data Book values of Delta cH.",
-        "Delta cH: methane -890, ethane -1560, propane -2219, butane -2877 kJ mol-1.",
-        "Check: butane releases about 49.5 kJ g-1; 49.5 x 58.0 g mol-1 = 2870 kJ mol-1.",
+        "Use the table of energy released per gram: methane 55.6, ethane 52.0, propane 50.4, butane 49.6 kJ g-1.",
+        "Multiply by the molar mass to get kJ per mole: methane 16.0 x 55.6 = 890, ethane 30.0 x 52.0 = 1560, propane 44.0 x 50.4 = 2218, butane 58.0 x 49.6 = 2877.",
         "So -2877 kJ mol-1 is butane, option D."
       ],
       "images": [
         "papers/chemistry/img/06-Energetics-10.jpg",
         "papers/chemistry/img/06-Energetics-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q12.jpg"
       ]
     },
     {
@@ -700,7 +707,7 @@
       "status": "ready",
       "answer": "B: 463.5 kJ mol-1",
       "steps": [
-        "The bond data are missing, so use Data Book values: H-H 436, O=O 498 kJ mol-1.",
+        "Use the bond enthalpy table given: H-H 436, O=O 498 kJ mol-1.",
         "Bonds broken = 436 + 1/2(498) = 685 kJ mol-1.",
         "Bonds made = 2 x (O-H), as water has two O-H bonds.",
         "-242 = 685 - 2(O-H), so 2(O-H) = 927.",
@@ -708,6 +715,9 @@
       ],
       "images": [
         "papers/chemistry/img/06-Energetics-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q14.jpg"
       ]
     },
     {
@@ -792,6 +802,9 @@
       "images": [
         "papers/chemistry/img/06-Energetics-13.jpg",
         "papers/chemistry/img/06-Energetics-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q16bi.jpg"
       ]
     },
     {
@@ -819,6 +832,9 @@
       "images": [
         "papers/chemistry/img/06-Energetics-13.jpg",
         "papers/chemistry/img/06-Energetics-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q16bi.jpg"
       ]
     },
     {
@@ -989,6 +1005,9 @@
         "papers/chemistry/img/06-Energetics-16.jpg",
         "papers/chemistry/img/06-Energetics-17.jpg",
         "papers/chemistry/img/06-Energetics-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q20b.jpg"
       ]
     },
     {
@@ -1273,6 +1292,9 @@
       ],
       "images": [
         "papers/chemistry/img/06-Energetics-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q26.jpg"
       ]
     },
     {
@@ -1440,7 +1462,7 @@
       "status": "ready",
       "answer": "A: -554 - 394 + 1216",
       "steps": [
-        "The formation data table is missing; the values match Data Book Delta fH: BaO -554, CO2 -394, BaCO3 -1216 kJ mol-1.",
+        "Use the standard enthalpy changes of formation given: BaO -554, CO2 -394, BaCO3 -1216 kJ mol-1.",
         "Delta rH = sum Delta fH(products) - sum Delta fH(reactants).",
         "= (-554) + (-394) - (-1216).",
         "= -554 - 394 + 1216 = +268 kJ mol-1 (endothermic decomposition).",
@@ -1449,6 +1471,9 @@
       "images": [
         "papers/chemistry/img/06-Energetics-23.jpg",
         "papers/chemistry/img/06-Energetics-24.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q30.jpg"
       ]
     },
     {
@@ -1468,15 +1493,17 @@
       "status": "ready",
       "answer": "D: C9H20",
       "steps": [
-        "The alkane table is missing, so use Data Book values.",
-        "Each extra CH2 makes Delta cH about 650 kJ mol-1 more negative.",
-        "Hexane -4163, heptane -4817, octane -5470 kJ mol-1.",
-        "-5470 - 655 = -6125 kJ mol-1, which is nonane.",
-        "Answer D: C9H20."
+        "Use the table of Delta cH for the alkanes: C2H6 -1560, C3H8 -2219, C4H10 -2877, C5H12 -3509 kJ mol-1.",
+        "Each extra CH2 adds roughly -650 kJ mol-1 (differences 659, 658, 632).",
+        "From pentane: -6125 - (-3509) = -2616 kJ mol-1, which is about 4 x 654, so four more carbon atoms are needed.",
+        "C5 + 4 = C9, so the alkane is C9H20, option D."
       ],
       "images": [
         "papers/chemistry/img/06-Energetics-24.jpg",
         "papers/chemistry/img/06-Energetics-25.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q31.jpg"
       ]
     },
     {
@@ -1709,6 +1736,9 @@
         "papers/chemistry/img/06-Energetics-26.jpg",
         "papers/chemistry/img/06-Energetics-27.jpg",
         "papers/chemistry/img/06-Energetics-28.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q34b.jpg"
       ]
     },
     {
@@ -1934,7 +1964,7 @@
       "status": "ready",
       "answer": "B: 801 kJ mol-1",
       "steps": [
-        "The bond data table is missing, so use Data Book values: C-H 413, O=O 498, O-H 464 kJ mol-1.",
+        "Use the bond enthalpy table given: C-H 413, O=O 498, O-H 464 kJ mol-1.",
         "Bonds broken = 4(413) + 2(498) = 1652 + 996 = 2648 kJ mol-1.",
         "Bonds made = 2(C=O) + 4(464) = 2(C=O) + 1856.",
         "-810 = 2648 - 1856 - 2(C=O), so 2(C=O) = 1602.",
@@ -1942,6 +1972,9 @@
       ],
       "images": [
         "papers/chemistry/img/06-Energetics-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q39a.jpg"
       ]
     },
     {

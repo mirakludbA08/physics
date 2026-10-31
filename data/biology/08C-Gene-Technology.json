@@ -159,14 +159,24 @@
         "conclusions"
       ],
       "question": "Describe the conclusions from the gene therapy investigation, using the graphs of retinal levels and path-following ability.",
-      "status": "pending",
-      "answer": "Pending: the two graphs of trans- and cis-retinal and path-following ability for each dose are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Gene therapy restores cis-retinal production and improves path-following, most clearly at the highest dose (1000 a.u.), without changing trans-retinal.",
+      "steps": [
+        "Trans-retinal stays about 45-55 pmol per eye at every dose and the error bars overlap, so dose does not change the amount of substrate.",
+        "Cis-retinal is about 0 with no treatment and rises with treatment: about 95 (8 a.u.), 10 (40), 40 (200) and 310 pmol per eye (1000), so the working RPE65 gene is converting trans- to cis-retinal.",
+        "The increase is not steady: 8 a.u. gives more cis-retinal than 40 or 200 a.u., and only 1000 a.u. clearly differs from the others (its error bar does not overlap).",
+        "Path-following is about 40% untreated and 38% at 8 a.u. (no improvement), then rises to about 55% (40), 64% (200) and 84% (1000), so vision improves with dose from 40 a.u. upwards.",
+        "Best dose is 1000 a.u. with the most cis-retinal and best path-following, but vision is not fully restored (84%, not 100%) and the large error bars mean more repeats are needed."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-02.jpg",
         "papers/biology/img/08C-Gene-Technology-03.jpg",
         "papers/biology/img/08C-Gene-Technology-04.jpg",
         "papers/biology/img/08C-Gene-Technology-05.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q2.jpg",
+        "papers/biology/fig/08C-Gene-Technology-Q2-2.jpg"
       ]
     },
     {
@@ -300,13 +310,21 @@
         "Alzheimer disease"
       ],
       "question": "Complete the table showing which parts of the brain are responsible for memory and cognitive function, using the article.",
-      "status": "pending",
-      "answer": "Pending: the table and the article paragraphs 2 and 13 are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "cerebellum: coordination of movement/balance; (visual cortex / occipital lobe): interpretation of information from the retina; medulla oblongata: control of heart rate and breathing rate; hypothalamus (ADH released by the posterior pituitary): secretion of ADH.",
+      "steps": [
+        "Cerebellum: coordinates muscle movement, balance and posture.",
+        "Blank part of brain (retina row): the visual cortex in the occipital lobe of the cerebral cortex interprets information from the retina.",
+        "Medulla oblongata: controls involuntary activities such as heart rate, breathing rate and ventilation.",
+        "Blank part of brain (ADH row): the hypothalamus makes ADH, which is stored and released by the posterior pituitary gland."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-07.jpg",
         "papers/biology/img/08C-Gene-Technology-08.jpg",
         "papers/biology/img/08C-Gene-Technology-09.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q4.jpg"
       ]
     },
     {
@@ -352,9 +370,15 @@
         "article paragraphs 7 and 22"
       ],
       "question": "Suggest how the amyloid protein may prevent bacterial infection in the brain, using paragraphs 7 and 22 of the article.",
-      "status": "pending",
-      "answer": "Pending: the answer depends on the article paragraphs 7 and 22, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Amyloid protein acts as part of the innate immune defence: it is sticky, clumps around bacteria, traps them and damages them, so they cannot spread or infect neurones.",
+      "steps": [
+        "Amyloid protein can act as an antimicrobial peptide, so more is made when bacteria or other microbes are detected in the brain.",
+        "Its molecules are chemically sticky and clump together around bacteria, forming plaques that trap (agglutinate) them.",
+        "Trapped bacteria cannot move, reproduce or reach and enter neurones, so the infection cannot spread through the brain.",
+        "Amyloid may also bind to the bacterial cell wall/membrane and damage it, killing the bacteria.",
+        "The article paragraph is not reproduced on the paper pages, so these points come from standard knowledge of the topic."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-07.jpg",
         "papers/biology/img/08C-Gene-Technology-08.jpg",
@@ -375,9 +399,15 @@
         "article paragraphs 10, 20 and 21"
       ],
       "question": "Explain how the bacterium P. gingivalis may invade the brain and cause inflammation, using paragraphs 10, 20 and 21 of the article.",
-      "status": "pending",
-      "answer": "Pending: the answer depends on the article paragraphs 10, 20 and 21, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "P. gingivalis enters the blood through damaged inflamed gums, crosses the blood-brain barrier into brain regions such as the hippocampus, and its toxins (gingipains) trigger an immune response that causes inflammation.",
+      "steps": [
+        "In gum disease the gum tissue is damaged and bleeds, so bacteria can enter the blood capillaries (e.g. when chewing or brushing).",
+        "The bacteria are carried in the blood to the brain and cross the blood-brain barrier (or enter inside infected immune cells), reaching regions such as the hippocampus and cerebral cortex.",
+        "In the brain the bacteria release toxic enzymes (gingipains) and other molecules that damage neurones.",
+        "Microglia and other immune cells detect the bacteria, release cytokines and recruit more immune cells, causing chronic inflammation that further damages neurones.",
+        "The article paragraph is not reproduced on the paper pages, so these points come from standard knowledge of the topic."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-07.jpg",
         "papers/biology/img/08C-Gene-Technology-08.jpg",
@@ -398,9 +428,14 @@
         "article paragraph 12"
       ],
       "question": "Suggest how gingipains may have a degrading effect on memory in Alzheimer disease, using paragraph 12 of the article.",
-      "status": "pending",
-      "answer": "Pending: the answer depends on article paragraph 12, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Gingipains are protease enzymes that break down proteins such as tau in neurones, so the cytoskeleton and synapses are damaged and neurones die, impairing memory.",
+      "steps": [
+        "Gingipains are protease enzymes that hydrolyse peptide bonds in proteins.",
+        "They break down proteins that neurones need, such as tau (which stabilises microtubules) and synaptic proteins, so neurones lose their structure and transport.",
+        "Damaged neurones and synapses in the hippocampus die or stop communicating, so memories cannot be formed or stored.",
+        "The article paragraph is not reproduced on the paper pages, so these points come from standard knowledge of the topic."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-07.jpg",
         "papers/biology/img/08C-Gene-Technology-08.jpg",
@@ -449,9 +484,15 @@
         "article paragraph 3"
       ],
       "question": "Explain how toxicants in food could cause Parkinson disease, using paragraph 3 of the article.",
-      "status": "pending",
-      "answer": "Pending: the answer depends on article paragraph 3, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Toxicants in food (e.g. pesticides) enter neurones and damage mitochondria, so dopaminergic neurones in the substantia nigra die and dopamine production falls.",
+      "steps": [
+        "Toxicants taken in with food (e.g. pesticide residues, heavy metals) are absorbed and reach neurones in the brain.",
+        "They inhibit mitochondrial enzymes of the electron transport chain (e.g. complex I), so less ATP is made and reactive oxygen species build up and damage DNA and proteins.",
+        "Dopamine-producing neurones in the substantia nigra are especially sensitive, so they die (or proteins such as alpha-synuclein clump together).",
+        "Less dopamine is released, so movement control is lost, giving the symptoms of Parkinson disease.",
+        "The article paragraph is not reproduced on the paper pages, so these points come from standard knowledge of the topic."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-10.jpg",
         "papers/biology/img/08C-Gene-Technology-11.jpg",
@@ -930,14 +971,25 @@
         "agriculture"
       ],
       "question": "Discuss the risks and benefits of genetic modification in valuable agricultural plants, using the table and the graph.",
-      "status": "pending",
-      "answer": "Pending: the table of GM examples and the graph of GM crop use in the United States are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Benefits: higher yield and lower costs, shown by rapid uptake (soybean about 8% to 94%, corn about 2% to 89% of area, 1996-2017). Risks: herbicide- or insect-resistant pests, gene transfer to wild plants, harm to non-target species and loss of biodiversity.",
+      "steps": [
+        "Benefit - herbicide-tolerant soybean (glyphosate): weeds are killed without harming the crop, so less competition, higher yield and less ploughing.",
+        "Benefit - insect-resistant corn (Bt gene from B. thuringiensis): the corn borer is killed, so less crop loss and less insecticide spraying, which saves money.",
+        "Graph: farmers adopt GM crops quickly - soybean rose from about 8% (1996) to above 50% by 1999 and about 94% by 2017; corn rose more slowly (about 2% to 52% by 2007) to about 89% by 2017. Both level off, showing they are widely used.",
+        "Risk - weeds or insects evolve resistance to the herbicide/toxin, which is more likely with such widespread use, so new chemicals are needed.",
+        "Risk - the herbicide-tolerance gene may spread by pollen to wild relatives (superweeds); the Bt toxin may harm non-target insects, reducing biodiversity; possible effects on human health and high seed cost for farmers.",
+        "Overall the graph shows high uptake but not proof of higher yield, so benefits and risks must be weighed using long-term evidence."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-15.jpg",
         "papers/biology/img/08C-Gene-Technology-16.jpg",
         "papers/biology/img/08C-Gene-Technology-17.jpg",
         "papers/biology/img/08C-Gene-Technology-18.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q7.jpg",
+        "papers/biology/fig/08C-Gene-Technology-Q7-2.jpg"
       ]
     },
     {
@@ -984,13 +1036,21 @@
         "tyrosine"
       ],
       "question": "Explain the effects of the control gene, MYB12 and CYP76 in the tomato investigation, using the table of L-dopa concentrations.",
-      "status": "pending",
-      "answer": "Pending: the table of L-dopa concentrations in the tomato fruit is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Control gene: no effect (1.2, same as none). MYB12: small increase (1.5). CYP76: large increase (10.2, about 8.5 times). CYP76 with MYB12: greatest (14.6), more than the sum of the two separate effects.",
+      "steps": [
+        "Control gene: L-dopa stays at 1.2 mg per 100 g, the same as unmodified tomatoes, so inserting a gene alone does not change L-dopa; it shows the process is not responsible for any rise.",
+        "MYB12 (transcription factor): small rise to 1.5 mg per 100 g (+0.3), probably by switching on genes that increase the supply of tyrosine.",
+        "CYP76 (beetroot enzyme gene): the enzyme converts tyrosine to L-dopa, so concentration rises to 10.2 mg per 100 g, about 8.5 times the unmodified level (10.2/1.2).",
+        "CYP76 and MYB12 together give 14.6 mg per 100 g (about 12 times), more than the 10.5 expected from adding the two separate rises, so the extra tyrosine from MYB12 gives the CYP76 enzyme more substrate (the effect is synergistic)."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-18.jpg",
         "papers/biology/img/08C-Gene-Technology-19.jpg",
         "papers/biology/img/08C-Gene-Technology-20.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q8.jpg"
       ]
     },
     {
@@ -1074,6 +1134,9 @@
         "papers/biology/img/08C-Gene-Technology-20.jpg",
         "papers/biology/img/08C-Gene-Technology-21.jpg",
         "papers/biology/img/08C-Gene-Technology-22.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q9.jpg"
       ]
     },
     {
@@ -1089,13 +1152,20 @@
         "R-R interval"
       ],
       "question": "Calculate the mean heart rate shown in the ECG trace of the patient.",
-      "status": "pending",
-      "answer": "Pending: the ECG trace with the time scale and R-R intervals is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "100 beats per minute (R-R interval about 0.6 s)",
+      "steps": [
+        "1.0 s spans 5 large squares, so 1 large square = 0.2 s.",
+        "Successive R peaks are about 3 large squares apart: 3 x 0.2 = 0.6 s per beat.",
+        "Heart rate = 60 / 0.6 = 100 beats per minute (five beats in about 2.4 s gives the same value)."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-20.jpg",
         "papers/biology/img/08C-Gene-Technology-21.jpg",
         "papers/biology/img/08C-Gene-Technology-22.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q9-2.jpg"
       ]
     },
     {
@@ -1112,13 +1182,22 @@
         "heart rhythm"
       ],
       "question": "Compare and contrast the ECG trace of this patient with the normal ECG trace.",
-      "status": "pending",
-      "answer": "Pending: the patient ECG trace is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Same: P wave, QRS complex and T wave in every cycle, with a regular rhythm and similar heights. Different: the patient's beats are closer together (about 100 bpm, 0.6 s apart) than the normal ECG (about 60 bpm, 1.0 s apart).",
+      "steps": [
+        "Similarity - both traces show a P wave, QRS complex and T wave in every cycle, in the same order and with similar shapes and heights, and each beat is evenly spaced, so the conduction pathway is working.",
+        "Difference - the interval between R peaks is shorter in the patient (about 0.6 s) than in the normal ECG (about 1.0 s).",
+        "So the patient's heart rate is faster (about 100 bpm compared with about 60 bpm: tachycardia).",
+        "Because the cycle is shorter, the patient has little or no flat gap between the T wave and the next P wave, whereas the normal ECG has a long flat gap."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-20.jpg",
         "papers/biology/img/08C-Gene-Technology-21.jpg",
         "papers/biology/img/08C-Gene-Technology-22.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q9.jpg",
+        "papers/biology/fig/08C-Gene-Technology-Q9-2.jpg"
       ]
     },
     {
@@ -1435,6 +1514,9 @@
         "papers/biology/img/08C-Gene-Technology-26.jpg",
         "papers/biology/img/08C-Gene-Technology-27.jpg",
         "papers/biology/img/08C-Gene-Technology-28.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q11-2.jpg"
       ]
     },
     {
@@ -1451,13 +1533,22 @@
         "liquid culture"
       ],
       "question": "Discuss the changes in tryptophan and serotonin concentration shown in the graph.",
-      "status": "pending",
-      "answer": "Pending: the graph of tryptophan and serotonin concentrations over time is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Tryptophan falls from about 180 to 57 a.u. while serotonin rises from 0 to about 155 a.u. over 50 hours, because the engineered E. coli convert tryptophan to serotonin via 5HTP; both then level off.",
+      "steps": [
+        "Tryptophan (substrate) falls steeply at first (about 180 to 100 a.u. in 16 h) while serotonin (product) rises from 0 to about 60 a.u., because enzymes A and B in the GM bacteria convert tryptophan to 5HTP and then to serotonin.",
+        "Serotonin rises fastest between 16 and 20 h (about 60 to 100 a.u.), when most enzyme is being made and tryptophan is still plentiful.",
+        "After about 24 h the rates slow: tryptophan levels off at about 57-60 a.u. and serotonin at about 150-155 a.u. (error bars overlap from 36-50 h, so no real change), so the substrate may be limiting or the culture may stop growing or become inhibited.",
+        "The fall in tryptophan (about 123 a.u.) is smaller than the rise in serotonin (about 155 a.u.), so some tryptophan may also be made by the bacteria or the units differ; some tryptophan remains unconverted.",
+        "Overall the graph shows the GM E. coli make serotonin from tryptophan, but conversion is incomplete."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-26.jpg",
         "papers/biology/img/08C-Gene-Technology-27.jpg",
         "papers/biology/img/08C-Gene-Technology-28.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q11.jpg"
       ]
     },
     {
@@ -1483,6 +1574,9 @@
         "papers/biology/img/08C-Gene-Technology-28.jpg",
         "papers/biology/img/08C-Gene-Technology-29.jpg",
         "papers/biology/img/08C-Gene-Technology-30.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q12.jpg"
       ]
     },
     {
@@ -1633,9 +1727,15 @@
         "article paragraph 7"
       ],
       "question": "Explain how microorganisms promote the accumulation of mature T-killer cells that enhance anti-tumour effects of drugs, using paragraph 7.",
-      "status": "pending",
-      "answer": "Pending: the answer depends on article paragraph 7, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Microbial antigens activate T cells through antigen-presenting cells; helper T cells release cytokines that make T cells mature into T-killer cells, which divide by mitosis and accumulate.",
+      "steps": [
+        "Microorganisms (or their antigens) are taken up by antigen-presenting cells such as dendritic cells, which display the antigens on their surface.",
+        "T-helper cells with a complementary receptor bind these antigen-presenting cells and are activated; they release cytokines.",
+        "Cytokines stimulate T cells to differentiate into mature T-killer cells and to divide by mitosis (clonal expansion), so many T-killer cells accumulate.",
+        "These T-killer cells go to the tumour and kill tumour cells (e.g. using perforin), enhancing the effect of the drug.",
+        "The article paragraph is not reproduced on the paper pages, so these points come from standard knowledge of the topic."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-30.jpg",
         "papers/biology/img/08C-Gene-Technology-31.jpg",
@@ -1830,14 +1930,25 @@
         "graphs"
       ],
       "question": "Comment on the amino acid composition of these neurotoxins, using the table and graphs.",
-      "status": "pending",
-      "answer": "Pending: the table of mean amino acid composition and the graphs for bacteria, cnidarians and molluscs are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Neurotoxins contain about 7 times more cysteine (13.69 vs 1.95) and about half as much glutamine and leucine as non-toxins, but the pattern differs between groups: cnidarian and mollusc toxins are cysteine-rich while bacterial toxins are not.",
+      "steps": [
+        "Table: cysteine is much higher in neurotoxins (13.69) than in non-toxins (1.95), about 7 times; glutamine (2.35 vs 4.16) and leucine (5.53 vs 10.17) are lower, by about 44% and 46%.",
+        "Graphs: cysteine is high in cnidarians (about 12) and molluscs (about 17) but very low in bacteria (about 0.7, below the non-toxin mean), so the high mean cysteine comes from cnidarian and mollusc toxins.",
+        "Glutamine and leucine are highest in bacteria (about 17 and 8) and lowest in cnidarians (about 5 and 3); bacterial glutamine (about 17) is far above both the neurotoxin mean (2.35) and the non-toxin mean (4.16), so the overall means hide big differences between groups.",
+        "Cysteine forms disulfide bridges, giving a stable, compact tertiary structure that can resist digestion and bind ion channels or receptors; this may explain why the toxins of cnidarians and molluscs are cysteine-rich.",
+        "Bacterial toxins appear to work with a different composition (probably larger proteins/enzymes), so there is no single amino-acid pattern for all neurotoxins.",
+        "Limitation: only three amino acids and mean values are given (no spread), so a firm link between composition and toxicity cannot be shown."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-33.jpg",
         "papers/biology/img/08C-Gene-Technology-34.jpg",
         "papers/biology/img/08C-Gene-Technology-35.jpg",
         "papers/biology/img/08C-Gene-Technology-36.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q14.jpg",
+        "papers/biology/fig/08C-Gene-Technology-Q14-2.jpg"
       ]
     },
     {
@@ -1961,9 +2072,14 @@
         "article paragraph 4"
       ],
       "question": "Suggest why there was lower fat accumulation and shorter body length in nematodes grown in microgravity, using paragraph 4.",
-      "status": "pending",
-      "answer": "Pending: the answer depends on the findings in article paragraph 4, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "In microgravity, genes for fat metabolism and for growth/cytoskeleton proteins are down-regulated, so less fat is stored and the worms grow less in length.",
+      "steps": [
+        "Fewer metabolic enzymes are made (genes down-regulated), so less fat is synthesised and stored (lower fat accumulation).",
+        "Genes for cytoskeletal, muscle and cuticle proteins are down-regulated, so growth in length is reduced (shorter body length).",
+        "With little gravitational load on muscles, less energy is needed, so energy metabolism and growth are slower; reduced feeding or slower development may also contribute.",
+        "The article paragraph is not reproduced on the paper pages, so these points come from standard knowledge of the topic."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-37.jpg",
         "papers/biology/img/08C-Gene-Technology-38.jpg",
@@ -1983,9 +2099,15 @@
         "article paragraph 6"
       ],
       "question": "Explain why there were reduced levels of a number of metabolic proteins in nematodes grown in microgravity, using paragraph 6.",
-      "status": "pending",
-      "answer": "Pending: the answer depends on article paragraph 6, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Genes for metabolic proteins are down-regulated in microgravity, so less mRNA is transcribed and translated and proteins may also be broken down faster, giving lower protein levels.",
+      "steps": [
+        "Microgravity changes the activity of transcription factors and chromatin (e.g. histone changes), so transcription of metabolic genes falls.",
+        "Less mRNA is produced for these genes (shown by microarrays), so less translation occurs at ribosomes and fewer metabolic proteins are made.",
+        "Existing proteins may be degraded faster, or mRNA degraded sooner, so the protein concentration falls.",
+        "Lower demand for energy in microgravity (less muscle work) means the cell does not need as many metabolic enzymes, matching the lower fat accumulation.",
+        "The article paragraph is not reproduced on the paper pages, so these points come from standard knowledge of the topic."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-37.jpg",
         "papers/biology/img/08C-Gene-Technology-38.jpg",
@@ -2062,7 +2184,7 @@
       ],
       "question": "Comment on the reliability of the data presented in Table 1 (paragraph 9).",
       "status": "pending",
-      "answer": "Pending: Table 1 and the article paragraph 9 are not in the text.",
+      "answer": "Table 1 and paragraph 9 are in the separate article insert, not on the paper pages, so the data cannot be assessed for reliability.",
       "steps": [],
       "images": [
         "papers/biology/img/08C-Gene-Technology-37.jpg",
@@ -2172,6 +2294,9 @@
         "papers/biology/img/08C-Gene-Technology-40.jpg",
         "papers/biology/img/08C-Gene-Technology-41.jpg",
         "papers/biology/img/08C-Gene-Technology-42.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q16.jpg"
       ]
     },
     {
@@ -2525,15 +2650,23 @@
         "conclusions"
       ],
       "question": "Describe three conclusions from the graph comparing antigen binding activity of BVZ from GM rice strains, animal cell culture and control.",
-      "status": "pending",
-      "answer": "Pending: the graph of antigen binding activity for the control, animal cell culture and GM rice strains A to D is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Non-transformed rice has almost no antigen binding (about 0.04 a.u.); all four GM strains show binding (about 0.15-0.37 a.u.), so GM rice can make functional BVZ; none matches animal culture (about 0.44 a.u.), and strain B (about 0.37) is best.",
+      "steps": [
+        "The control (non-transformed rice) has very low antigen binding (about 0.04 a.u.), so the activity in the GM strains is due to the inserted BVZ gene.",
+        "All four GM strains produce antibody that binds the antigen (about 0.25, 0.37, 0.175 and 0.15 a.u. for A, B, C and D), so GM rice can make functional BVZ.",
+        "The strains differ: B is highest (about 84% of animal culture) and D lowest (about 34%), so the amount or quality of antibody depends on the strain.",
+        "No GM strain reaches the animal culture value (about 0.44 a.u.); error bars are small and do not overlap for B and animal culture, so rice-made BVZ is less active than culture-made BVZ."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-45.jpg",
         "papers/biology/img/08C-Gene-Technology-46.jpg",
         "papers/biology/img/08C-Gene-Technology-47.jpg",
         "papers/biology/img/08C-Gene-Technology-48.jpg",
         "papers/biology/img/08C-Gene-Technology-49.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q18.jpg"
       ]
     },
     {
@@ -2582,15 +2715,26 @@
         "benefits"
       ],
       "question": "Assess the risks and benefits of genetically modifying the maize fungus for future food production in a warming world, using the tables and knowledge.",
-      "status": "pending",
-      "answer": "Pending: the tables of maize growth measurements, toxin concentrations and computer-model predictions are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Benefits: GM fungus makes about half the toxin (270 vs 530 a.u.) with slightly taller plants and more grains, which helps as infection is predicted to rise from 38% to 95% with warming. Risks: spread or evolution of the GM fungus, harm to other organisms, and uncertain long-term effects.",
+      "steps": [
+        "Benefit - toxin concentration falls by about 49% (530 +/- 100 to 270 +/- 35 a.u.) and the ranges do not overlap, so the maize is safer for animals and people.",
+        "Benefit - plants are taller (320 vs 285 cm, +12%) and have slightly more grains per cob (117 vs 113, +3.5%), but the height ranges overlap (SD 33 and 60), so only the toxin and grain differences look reliable, and the yield gain is small.",
+        "The model predicts that infected maize rises from 38% to 73% (+2 degrees C) and 95% (+5 degrees C), so a less harmful fungus would help protect food production as the climate warms.",
+        "Risk - the GM fungus could spread to other crops or wild fungi, pass on genes, or evolve to become more damaging; it may harm soil organisms or other species and reduce biodiversity.",
+        "Risk - the results come from one investigation with limited measurements; the toxin is not removed, the model is only a prediction, and long-term, field-scale and health effects are unknown, so more testing and regulation are needed.",
+        "Conclusion - benefits look worthwhile given the predicted rise in infection, provided containment and further trials are used."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-45.jpg",
         "papers/biology/img/08C-Gene-Technology-46.jpg",
         "papers/biology/img/08C-Gene-Technology-47.jpg",
         "papers/biology/img/08C-Gene-Technology-48.jpg",
         "papers/biology/img/08C-Gene-Technology-49.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q18-2.jpg",
+        "papers/biology/fig/08C-Gene-Technology-Q18-3.jpg"
       ]
     },
     {
@@ -2607,14 +2751,21 @@
         "graph"
       ],
       "question": "Which is the ratio of action potentials produced at 48 degrees C by nociceptors compared with thermoreceptors (options: 0.40:1, 2.0:1, 2.07:1, 2.1:1)?",
-      "status": "pending",
-      "answer": "Pending: the graph of action potentials against temperature is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 2.1 : 1",
+      "steps": [
+        "At 48 degrees C the nociceptor produces 27 action potentials per second and the thermoreceptor 13.",
+        "Ratio = 27 / 13 = 2.077, so nociceptor : thermoreceptor = 2.1 : 1 (rounded correctly to 2 significant figures).",
+        "2.07 : 1 (C) cuts the decimal off instead of rounding it (2.077 rounds to 2.08), 2.0 : 1 (B) is too low, and 0.40 : 1 (A) is the wrong way round."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-49.jpg",
         "papers/biology/img/08C-Gene-Technology-50.jpg",
         "papers/biology/img/08C-Gene-Technology-51.jpg",
         "papers/biology/img/08C-Gene-Technology-52.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q19.jpg"
       ]
     },
     {
@@ -2631,14 +2782,23 @@
         "investigation"
       ],
       "question": "Comment on the extent to which the results of the investigation support the statement that nociceptors are better than thermoreceptors at preventing tissue damage at high temperatures.",
-      "status": "pending",
-      "answer": "Pending: the graph of action potentials for nociceptors and thermoreceptors across temperatures is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Partly supported: above about 46 degrees C nociceptors fire far more action potentials than thermoreceptors, which plateau, but the data show only action potential frequency, not actual tissue damage or protection.",
+      "steps": [
+        "Support - nociceptors fire only above 42 degrees C and their rate keeps rising with temperature (5 at 44, 15 at 46, 27 at 48 and 37 per second at 50 degrees C), so they give a graded signal that harmful heat is increasing.",
+        "Support - thermoreceptors level off at about 13 action potentials per second from 44 degrees C, so they cannot signal further rises; at 48 and 50 degrees C nociceptors give about 2 and 3 times as many.",
+        "More action potentials means a stronger pain response and a faster withdrawal reflex, which could prevent serious damage.",
+        "Against - below 46 degrees C thermoreceptors respond more (e.g. 12 vs 0 at 42 degrees C) and at 46 degrees C both give similar rates (about 15 and 13).",
+        "Limitation - only the number of action potentials was measured, not the response or the tissue damage, over a limited temperature range with no error bars or sample size, so \"better\" cannot be proved."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-49.jpg",
         "papers/biology/img/08C-Gene-Technology-50.jpg",
         "papers/biology/img/08C-Gene-Technology-51.jpg",
         "papers/biology/img/08C-Gene-Technology-52.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q19.jpg"
       ]
     },
     {
@@ -2655,14 +2815,22 @@
         "nerve impulse transmission"
       ],
       "question": "Explain the results of the nicotine investigation in mice A, B and C, using the graph.",
-      "status": "pending",
-      "answer": "Pending: the graph of the results for groups A, B and C is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Nicotine binds to acetylcholine receptors on the postsynaptic membrane of group A and depolarises it, so many more action potentials are produced; B (no nicotine) and C (no receptor) stay low.",
+      "steps": [
+        "Group A: after nicotine is given the number of action potentials rises sharply, because nicotine is similar in shape to acetylcholine and binds to the acetylcholine receptors, opening sodium channels so the postsynaptic membrane depolarises to threshold.",
+        "Nicotine is not broken down by acetylcholinesterase, so stimulation continues and the high rate of action potentials is maintained.",
+        "Group B (no nicotine) is the control: action potentials stay low, so the rise in A is due to nicotine and not to time or handling.",
+        "Group C (nicotine but no acetylcholine receptors) shows no rise, so nicotine acts through the acetylcholine receptor on the postsynaptic membrane; without receptors it cannot bind and no depolarisation occurs."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-49.jpg",
         "papers/biology/img/08C-Gene-Technology-50.jpg",
         "papers/biology/img/08C-Gene-Technology-51.jpg",
         "papers/biology/img/08C-Gene-Technology-52.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q19-2.jpg"
       ]
     },
     {
@@ -2880,15 +3048,22 @@
         "compare contrast"
       ],
       "question": "Compare and contrast the changes in insulin concentration in the blood of trained and untrained individuals, using the graph.",
-      "status": "pending",
-      "answer": "Pending: the graph of insulin concentration over time for the two individuals is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Both individuals show a fall in insulin during exercise that slows after 50 minutes, but the fall is larger in the untrained person (about -54% at 100 min) than in the trained person (about -33%).",
+      "steps": [
+        "Similarity - both start at 0% change and both show a decrease in insulin concentration, falling faster in the first 50 minutes and more slowly from 50 to 100 minutes.",
+        "Difference - the fall is greater in the untrained individual at every time: about -44% vs -30% at 50 minutes and about -54% vs -33% at 100 minutes.",
+        "Difference - from 50 to 100 minutes the trained individual changes by only about 3% whereas the untrained individual falls by a further 10%, so insulin stays higher in the trained person."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-55.jpg",
         "papers/biology/img/08C-Gene-Technology-56.jpg",
         "papers/biology/img/08C-Gene-Technology-57.jpg",
         "papers/biology/img/08C-Gene-Technology-58.jpg",
         "papers/biology/img/08C-Gene-Technology-59.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q21.jpg"
       ]
     },
     {
@@ -2965,15 +3140,21 @@
         "cell number increase"
       ],
       "question": "Give one reason why there is no bar on the graph for an insulin concentration of 0 pmol dm-3.",
-      "status": "pending",
-      "answer": "Pending: the graph showing the axis scale and bars is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Without insulin (the control) there was no increase in cell number, so the increase was 0% and the bar has no height.",
+      "steps": [
+        "At 0 pmol dm-3 no insulin is present, so the cells do not divide extra and the mean increase in cell number is 0%.",
+        "A bar of zero height cannot be seen on the graph; this value acts as the control for comparison."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-55.jpg",
         "papers/biology/img/08C-Gene-Technology-56.jpg",
         "papers/biology/img/08C-Gene-Technology-57.jpg",
         "papers/biology/img/08C-Gene-Technology-58.jpg",
         "papers/biology/img/08C-Gene-Technology-59.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q21-2.jpg"
       ]
     },
     {
@@ -3004,6 +3185,9 @@
         "papers/biology/img/08C-Gene-Technology-57.jpg",
         "papers/biology/img/08C-Gene-Technology-58.jpg",
         "papers/biology/img/08C-Gene-Technology-59.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q21-2.jpg"
       ]
     },
     {
@@ -3031,6 +3215,9 @@
         "papers/biology/img/08C-Gene-Technology-57.jpg",
         "papers/biology/img/08C-Gene-Technology-58.jpg",
         "papers/biology/img/08C-Gene-Technology-59.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08C-Gene-Technology-Q21-2.jpg"
       ]
     },
     {
@@ -3073,7 +3260,7 @@
       ],
       "question": "Calculate the ratio of the length of the X chromosome to the Y chromosome in the image (1 d.p.).",
       "status": "pending",
-      "answer": "Pending: the chromosome image with its lengths is not in the text.",
+      "answer": "The X and Y chromosome image (before paragraph 1) is in the separate article insert, not on the paper pages, so the lengths cannot be measured.",
       "steps": [],
       "images": [
         "papers/biology/img/08C-Gene-Technology-59.jpg",
@@ -3096,9 +3283,14 @@
         "inflammation"
       ],
       "question": "Suggest why the loss of the Y chromosome may lead to higher rates of heart disease in men than women, using paragraphs 4 and 5.",
-      "status": "pending",
-      "answer": "Pending: the answer depends on article paragraphs 4 and 5, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Many older men lose the Y chromosome from white blood cells; these immune cells promote inflammation and scar tissue in the heart, so heart function falls; women have no Y chromosome, so they are not affected.",
+      "steps": [
+        "With age, men lose the Y chromosome from some body cells such as white blood cells, which changes the genes these cells express.",
+        "These altered immune cells cause inflammation and fibrosis (scarring) in heart tissue, so the heart pumps less effectively and heart disease/failure is more likely.",
+        "Women do not have a Y chromosome, so they cannot lose it, which gives them a lower risk.",
+        "The article paragraph is not reproduced on the paper pages, so these points come from standard knowledge of the topic."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-59.jpg",
         "papers/biology/img/08C-Gene-Technology-60.jpg",
@@ -3233,7 +3425,7 @@
       ],
       "question": "Calculate the percentage of genes that have been lost from the original Y chromosome, using paragraph 15.",
       "status": "pending",
-      "answer": "Pending: the numbers of genes in the original and current Y chromosome are in article paragraph 15, which is not in the text.",
+      "answer": "The numbers of genes on the original and current Y chromosome are given in article paragraph 15, which is in the separate article insert, so the percentage cannot be calculated.",
       "steps": [],
       "images": [
         "papers/biology/img/08C-Gene-Technology-59.jpg",
@@ -3284,9 +3476,14 @@
         "article paragraphs 2, 3 and 20"
       ],
       "question": "Explain why elderly men who have lost their Y chromosome have a higher risk of cancer, using paragraphs 2, 3 and 20.",
-      "status": "pending",
-      "answer": "Pending: the answer depends on article paragraphs 2, 3 and 20, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The Y chromosome carries genes that help control cell division and immune surveillance; cells that lose it lose these genes, so tumour cells escape the immune system and divide uncontrollably.",
+      "steps": [
+        "The Y chromosome carries genes that act as tumour suppressors and control cell division, so cells without it are more likely to divide out of control and form tumours.",
+        "Immune cells that have lost the Y chromosome work less well, so T cells and other immune cells are less able to detect and destroy abnormal cells.",
+        "Loss of the Y chromosome increases with age, so elderly men have more affected cells and a greater risk of cancer.",
+        "The article paragraph is not reproduced on the paper pages, so these points come from standard knowledge of the topic."
+      ],
       "images": [
         "papers/biology/img/08C-Gene-Technology-59.jpg",
         "papers/biology/img/08C-Gene-Technology-60.jpg",

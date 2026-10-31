@@ -1736,6 +1736,9 @@
         "papers/biology/img/03B-Mitosis-Meiosis-31.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-32.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-33.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q14.jpg"
       ]
     },
     {
@@ -1755,7 +1758,7 @@
         "advantages",
         "disadvantages"
       ],
-      "question": "Discuss the advantages and disadvantages of the strategies used by date palms, orchids, fireweed and dandelions to promote or ensure seed production.",
+      "question": "Plants can produce seeds by cross-fertilisation or self-fertilisation. Some plants prevent self-fertilisation: date palms have only male or only female flowers, and some orchids release chemicals that stop pollen from the same plant germinating. Others still produce seeds if cross-fertilisation has not occurred: fireweed self-fertilises, and unfertilised egg cells of a dandelion develop into a seed. Discuss the advantages and disadvantages of the strategies used by date palms, orchids, fireweed and dandelions to promote or ensure seed production.",
       "status": "ready",
       "answer": "Outcrossing strategies give variation but depend on pollinators; self-fertilisation and asexual seed production ensure seeds but reduce variation and adaptability.",
       "steps": [
@@ -1771,6 +1774,9 @@
         "papers/biology/img/03B-Mitosis-Meiosis-31.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-32.jpg",
         "papers/biology/img/03B-Mitosis-Meiosis-33.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03B-Mitosis-Meiosis-Q14-2.jpg"
       ]
     },
     {

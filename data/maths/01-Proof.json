@@ -183,6 +183,9 @@
       "images": [
         "papers/maths/img/P4-01-Proof-2.jpg",
         "papers/maths/img/P4-01-Proof-3.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/01-Proof-Q5.jpg"
       ]
     },
     {
@@ -276,6 +279,9 @@
       "images": [
         "papers/maths/img/P4-01-Proof-3.jpg",
         "papers/maths/img/P4-01-Proof-4.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/01-Proof-Q7.jpg"
       ]
     },
     {
@@ -307,6 +313,9 @@
       "images": [
         "papers/maths/img/P4-01-Proof-4.jpg",
         "papers/maths/img/P4-01-Proof-5.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/01-Proof-Q8.jpg"
       ]
     },
     {

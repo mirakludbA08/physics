@@ -859,6 +859,9 @@
         "papers/biology/img/05BC-Ecology-Climate-016.jpg",
         "papers/biology/img/05BC-Ecology-Climate-017.jpg",
         "papers/biology/img/05BC-Ecology-Climate-018.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q7.jpg"
       ]
     },
     {
@@ -2346,6 +2349,9 @@
         "papers/biology/img/05BC-Ecology-Climate-046.jpg",
         "papers/biology/img/05BC-Ecology-Climate-047.jpg",
         "papers/biology/img/05BC-Ecology-Climate-048.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q16.jpg"
       ]
     },
     {
@@ -2567,6 +2573,9 @@
         "papers/biology/img/05BC-Ecology-Climate-049.jpg",
         "papers/biology/img/05BC-Ecology-Climate-050.jpg",
         "papers/biology/img/05BC-Ecology-Climate-051.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q17-2.jpg"
       ]
     },
     {
@@ -2850,6 +2859,9 @@
         "papers/biology/img/05BC-Ecology-Climate-055.jpg",
         "papers/biology/img/05BC-Ecology-Climate-056.jpg",
         "papers/biology/img/05BC-Ecology-Climate-057.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q19-2.jpg"
       ]
     },
     {
@@ -3216,6 +3228,9 @@
         "papers/biology/img/05BC-Ecology-Climate-060.jpg",
         "papers/biology/img/05BC-Ecology-Climate-061.jpg",
         "papers/biology/img/05BC-Ecology-Climate-062.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q21.jpg"
       ]
     },
     {
@@ -3461,6 +3476,9 @@
         "papers/biology/img/05BC-Ecology-Climate-066.jpg",
         "papers/biology/img/05BC-Ecology-Climate-067.jpg",
         "papers/biology/img/05BC-Ecology-Climate-068.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q24-2.jpg"
       ]
     },
     {
@@ -3735,6 +3753,9 @@
         "papers/biology/img/05BC-Ecology-Climate-071.jpg",
         "papers/biology/img/05BC-Ecology-Climate-072.jpg",
         "papers/biology/img/05BC-Ecology-Climate-073.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q26-2.jpg"
       ]
     },
     {
@@ -4855,6 +4876,9 @@
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-090.jpg",
         "papers/biology/img/05BC-Ecology-Climate-091.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q34.jpg"
       ]
     },
     {
@@ -5325,6 +5349,9 @@
         "papers/biology/img/05BC-Ecology-Climate-097.jpg",
         "papers/biology/img/05BC-Ecology-Climate-098.jpg",
         "papers/biology/img/05BC-Ecology-Climate-099.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q38.jpg"
       ]
     },
     {
@@ -5774,7 +5801,7 @@
         "options",
         "world tigers"
       ],
-      "question": "Which is the ratio of Bengal tigers to other types of tigers in the world in 2023? A 0.556 : 1, B 0.798 : 1, C 1.253 : 1, D 1 : 1.798.",
+      "question": "In 2023 there were an estimated 5 574 tigers in the world, of which approximately 3 100 were Bengal tigers. Which is the ratio of Bengal tigers to other types of tigers in the world in 2023? A 0.556 : 1, B 0.798 : 1, C 1.253 : 1, D 1 : 1.798.",
       "status": "ready",
       "answer": "C: 1.253 : 1.",
       "steps": [
@@ -5818,6 +5845,9 @@
         "papers/biology/img/05BC-Ecology-Climate-107.jpg",
         "papers/biology/img/05BC-Ecology-Climate-108.jpg",
         "papers/biology/img/05BC-Ecology-Climate-109.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q42-2.jpg"
       ]
     },
     {
@@ -5848,6 +5878,9 @@
         "papers/biology/img/05BC-Ecology-Climate-107.jpg",
         "papers/biology/img/05BC-Ecology-Climate-108.jpg",
         "papers/biology/img/05BC-Ecology-Climate-109.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q42.jpg"
       ]
     }
   ]

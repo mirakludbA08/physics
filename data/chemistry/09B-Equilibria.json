@@ -150,6 +150,9 @@
         "papers/chemistry/img/09B-Equilibria-05.jpg",
         "papers/chemistry/img/09B-Equilibria-06.jpg",
         "papers/chemistry/img/09B-Equilibria-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q4-2.jpg"
       ]
     },
     {
@@ -182,6 +185,10 @@
         "papers/chemistry/img/09B-Equilibria-05.jpg",
         "papers/chemistry/img/09B-Equilibria-06.jpg",
         "papers/chemistry/img/09B-Equilibria-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q4-2.jpg",
+        "papers/chemistry/fig/09B-Equilibria-Q4-3.jpg"
       ]
     },
     {
@@ -245,6 +252,9 @@
         "papers/chemistry/img/09B-Equilibria-05.jpg",
         "papers/chemistry/img/09B-Equilibria-06.jpg",
         "papers/chemistry/img/09B-Equilibria-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q4-2.jpg"
       ]
     },
     {
@@ -367,6 +377,9 @@
         "papers/chemistry/img/09B-Equilibria-08.jpg",
         "papers/chemistry/img/09B-Equilibria-09.jpg",
         "papers/chemistry/img/09B-Equilibria-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q5.jpg"
       ]
     },
     {
@@ -397,6 +410,9 @@
         "papers/chemistry/img/09B-Equilibria-08.jpg",
         "papers/chemistry/img/09B-Equilibria-09.jpg",
         "papers/chemistry/img/09B-Equilibria-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q5.jpg"
       ]
     },
     {
@@ -427,6 +443,9 @@
         "papers/chemistry/img/09B-Equilibria-08.jpg",
         "papers/chemistry/img/09B-Equilibria-09.jpg",
         "papers/chemistry/img/09B-Equilibria-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q5.jpg"
       ]
     },
     {
@@ -457,6 +476,9 @@
         "papers/chemistry/img/09B-Equilibria-08.jpg",
         "papers/chemistry/img/09B-Equilibria-09.jpg",
         "papers/chemistry/img/09B-Equilibria-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q5-2.jpg"
       ]
     },
     {
@@ -514,6 +536,9 @@
         "papers/chemistry/img/09B-Equilibria-08.jpg",
         "papers/chemistry/img/09B-Equilibria-09.jpg",
         "papers/chemistry/img/09B-Equilibria-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q5-2.jpg"
       ]
     },
     {
@@ -817,7 +842,7 @@
         "molecules",
         "dynamic"
       ],
-      "question": "For NO2(g) <=> N2O4(g) at equilibrium in a sealed container, which statement is not true? A the concentrations are constant, B the total number of molecules is constant, C the forward and reverse reactions have both stopped, D the forward and reverse rates are equal.",
+      "question": "For 2NO2(g) <=> N2O4(g) at equilibrium in a sealed container, which statement is not true? A the concentrations of NO2(g) and N2O4(g) both remain constant, B the total number of molecules is constant, C the forward and reverse reactions have both stopped, D the rate of the forward reaction is equal to the rate of the reverse reaction.",
       "status": "ready",
       "answer": "C (the forward and reverse reactions have both stopped)",
       "steps": [
@@ -883,6 +908,9 @@
       "images": [
         "papers/chemistry/img/09B-Equilibria-14.jpg",
         "papers/chemistry/img/09B-Equilibria-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q12.jpg"
       ]
     },
     {
@@ -909,6 +937,9 @@
       "images": [
         "papers/chemistry/img/09B-Equilibria-14.jpg",
         "papers/chemistry/img/09B-Equilibria-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q12.jpg"
       ]
     },
     {
@@ -934,6 +965,9 @@
       "images": [
         "papers/chemistry/img/09B-Equilibria-14.jpg",
         "papers/chemistry/img/09B-Equilibria-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q12.jpg"
       ]
     },
     {
@@ -1018,6 +1052,9 @@
         "papers/chemistry/img/09B-Equilibria-15.jpg",
         "papers/chemistry/img/09B-Equilibria-16.jpg",
         "papers/chemistry/img/09B-Equilibria-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q13.jpg"
       ]
     },
     {
@@ -1047,6 +1084,9 @@
         "papers/chemistry/img/09B-Equilibria-15.jpg",
         "papers/chemistry/img/09B-Equilibria-16.jpg",
         "papers/chemistry/img/09B-Equilibria-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q13.jpg"
       ]
     },
     {
@@ -1076,6 +1116,9 @@
         "papers/chemistry/img/09B-Equilibria-15.jpg",
         "papers/chemistry/img/09B-Equilibria-16.jpg",
         "papers/chemistry/img/09B-Equilibria-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q13.jpg"
       ]
     },
     {
@@ -1106,6 +1149,9 @@
         "papers/chemistry/img/09B-Equilibria-15.jpg",
         "papers/chemistry/img/09B-Equilibria-16.jpg",
         "papers/chemistry/img/09B-Equilibria-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q13.jpg"
       ]
     },
     {
@@ -1133,6 +1179,9 @@
         "papers/chemistry/img/09B-Equilibria-15.jpg",
         "papers/chemistry/img/09B-Equilibria-16.jpg",
         "papers/chemistry/img/09B-Equilibria-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q13.jpg"
       ]
     },
     {
@@ -1161,6 +1210,9 @@
         "papers/chemistry/img/09B-Equilibria-15.jpg",
         "papers/chemistry/img/09B-Equilibria-16.jpg",
         "papers/chemistry/img/09B-Equilibria-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q13.jpg"
       ]
     },
     {
@@ -1191,6 +1243,9 @@
         "papers/chemistry/img/09B-Equilibria-15.jpg",
         "papers/chemistry/img/09B-Equilibria-16.jpg",
         "papers/chemistry/img/09B-Equilibria-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q13.jpg"
       ]
     },
     {
@@ -1219,6 +1274,9 @@
       "images": [
         "papers/chemistry/img/09B-Equilibria-17.jpg",
         "papers/chemistry/img/09B-Equilibria-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q14.jpg"
       ]
     },
     {
@@ -1247,6 +1305,9 @@
       "images": [
         "papers/chemistry/img/09B-Equilibria-17.jpg",
         "papers/chemistry/img/09B-Equilibria-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q14.jpg"
       ]
     },
     {
@@ -1274,6 +1335,7 @@
         "papers/chemistry/img/09B-Equilibria-18.jpg"
       ],
       "figures": [
+        "papers/chemistry/fig/09B-Equilibria-Q14.jpg",
         "papers/chemistry/fig/09B-Equilibria-Q14c.jpg"
       ]
     },

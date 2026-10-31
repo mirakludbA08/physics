@@ -1786,7 +1786,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/01-Ch1-Formula-Equations-27.jpg",
       "papers/chemistry/img/01-Ch1-Formula-Equations-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/01-Ch1-Formula-Equations-Q43.jpg"
+     ]
     },
     {
      "id": "Ch1-Q43b",
@@ -2250,7 +2252,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/01-Ch1-Formula-Equations-34.jpg",
       "papers/chemistry/img/01-Ch1-Formula-Equations-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/01-Ch1-Formula-Equations-Q58.jpg"
+     ]
     },
     {
      "id": "Ch1-Q58a(iii)",
@@ -3196,11 +3200,10 @@ window.BANK.chemistry = {
       "r.t.p.",
       "Na2SO3"
      ],
-     "question": "What volume of SO2 reacts completely with 50 cm3 of sodium hydroxide solution of concentration 0.12 mol dm-3 (the 2 is partly obscured in the extraction)? SO2 + 2NaOH -> Na2SO3 + H2O; molar volume 24 dm3. Options A 0.072 dm3, B 0.144 dm3, C 0.288 dm3, D 72 dm3.",
+     "question": "What volume of SO2 reacts completely with 50 cm3 of sodium hydroxide solution of concentration 0.12 mol dm-3? SO2 + 2NaOH -> Na2SO3 + H2O; molar volume 24 dm3 at room temperature and pressure. Options A 0.072 dm3, B 0.144 dm3, C 0.288 dm3, D 72 dm3.",
      "status": "ready",
      "answer": "A (0.072 dm3)",
      "steps": [
-      "The concentration in the extracted text is partly obscured; 0.12 mol dm-3 is the only value that matches the options.",
       "Moles NaOH = 0.12 x 0.050 = 0.0060 mol.",
       "Mole ratio SO2 : NaOH = 1 : 2, so moles SO2 = 0.0030 mol.",
       "Volume = 0.0030 x 24 = 0.072 dm3."
@@ -3516,7 +3519,9 @@ window.BANK.chemistry = {
      "images": [
       "papers/chemistry/img/02-Ch2-Atomic-Structure-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q7.jpg"
+     ]
     },
     {
      "id": "Ch2-Q8",
@@ -3569,12 +3574,14 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-04.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q9.jpg"
+     ]
     },
     {
      "id": "Ch2-Q10",
      "no": "Q10",
-     "marks": 2,
+     "marks": 1,
      "topic": "Subatomic Particles In Ion",
      "keywords": [
       "hydroxide ion",
@@ -3597,7 +3604,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-05.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q10.jpg"
+     ]
     },
     {
      "id": "Ch2-Q11",
@@ -4202,7 +4211,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-16.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q25-2.jpg"
+     ]
     },
     {
      "id": "Ch2-Q25b",
@@ -4653,7 +4664,9 @@ window.BANK.chemistry = {
      "images": [
       "papers/chemistry/img/02-Ch2-Atomic-Structure-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q36.jpg"
+     ]
     },
     {
      "id": "Ch2-Q37a",
@@ -4965,7 +4978,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-28.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q40.jpg"
+     ]
     },
     {
      "id": "Ch2-Q40b(ii)",
@@ -4993,7 +5008,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-28.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q40.jpg"
+     ]
     },
     {
      "id": "Ch2-Q40b(iii)",
@@ -5130,7 +5147,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-29.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q41.jpg"
+     ]
     },
     {
      "id": "Ch2-Q42",
@@ -5293,7 +5312,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-32.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q44.jpg"
+     ]
     },
     {
      "id": "Ch2-Q44aiii",
@@ -5321,7 +5342,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-32.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q44.jpg"
+     ]
     },
     {
      "id": "Ch2-Q44b",
@@ -5348,7 +5371,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-32.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q44-2.jpg"
+     ]
     },
     {
      "id": "Ch2-Q45a",
@@ -5462,7 +5487,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-34.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q46.jpg"
+     ]
     },
     {
      "id": "Ch2-Q47a",
@@ -5568,7 +5595,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-36.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q49.jpg"
+     ]
     },
     {
      "id": "Ch2-Q50",
@@ -5595,7 +5624,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-37.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q50.jpg"
+     ]
     },
     {
      "id": "Ch2-Q51",
@@ -5809,7 +5840,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-40.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q56.jpg"
+     ]
     },
     {
      "id": "Ch2-Q56bi",
@@ -6055,7 +6088,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-44.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-45.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q61.jpg"
+     ]
     },
     {
      "id": "Ch2-Q62",
@@ -6138,7 +6173,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-46.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q63.jpg"
+     ]
     },
     {
      "id": "Ch2-Q63bii",
@@ -6168,7 +6205,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-46.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q63-2.jpg"
+     ]
     },
     {
      "id": "Ch2-Q63biii",
@@ -6251,7 +6290,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-47.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-48.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q64.jpg"
+     ]
     },
     {
      "id": "Ch2-Q65",
@@ -6276,7 +6317,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-47.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-48.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q65.jpg"
+     ]
     },
     {
      "id": "Ch2-Q66a",
@@ -6330,7 +6373,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-47.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-48.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q66.jpg"
+     ]
     },
     {
      "id": "Ch2-Q66c",
@@ -6359,7 +6404,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-47.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-48.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q66.jpg"
+     ]
     },
     {
      "id": "Ch2-Q67",
@@ -6386,7 +6433,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-49.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-50.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q67.jpg"
+     ]
     },
     {
      "id": "Ch2-Q68",
@@ -6684,7 +6733,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-52.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-53.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q74.jpg"
+     ]
     },
     {
      "id": "Ch2-Q74bi",
@@ -6812,7 +6863,7 @@ window.BANK.chemistry = {
       "2963",
       "6200"
      ],
-     "question": "The first four ionisation energies of gallium (Ga), indium (In), germanium (Ge) and tin (Sn) are shown (table not included in the extracted text). Which values are the first four ionisation energies of gallium? Options A 557 1821 2705 5200; B 579 1979 2963 6200; C 709 1412 2943 3930; D 762 1537 3302 4411.",
+     "question": "Which values are the first four ionisation energies, in kJ mol-1, of gallium (Ga)? (Indium, germanium and tin are the other elements whose values appear among the options.) Options A 557 1821 2705 5200; B 579 1979 2963 6200; C 709 1412 2943 3930; D 762 1537 3302 4411.",
      "status": "ready",
      "answer": "B (579, 1979, 2963, 6200 kJ mol-1)",
      "steps": [
@@ -6880,7 +6931,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-55.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-56.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q78.jpg"
+     ]
     },
     {
      "id": "Ch2-Q78b",
@@ -6967,7 +7020,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-57.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-58.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q80.jpg"
+     ]
     },
     {
      "id": "Ch2-Q80b",
@@ -6995,7 +7050,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-57.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-58.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q80.jpg"
+     ]
     },
     {
      "id": "Ch2-Q80c",
@@ -7021,7 +7078,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/02-Ch2-Atomic-Structure-57.jpg",
       "papers/chemistry/img/02-Ch2-Atomic-Structure-58.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q80.jpg"
+     ]
     },
     {
      "id": "Ch2-Q81a",
@@ -7312,7 +7371,9 @@ window.BANK.chemistry = {
      "images": [
       "papers/chemistry/img/03A-Ionic-Bonding-01.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03A-Ionic-Bonding-Q2.jpg"
+     ]
     },
     {
      "id": "03A-Q3",
@@ -7337,7 +7398,9 @@ window.BANK.chemistry = {
      "images": [
       "papers/chemistry/img/03A-Ionic-Bonding-01.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03A-Ionic-Bonding-Q3.jpg"
+     ]
     },
     {
      "id": "03A-Q4",
@@ -7391,7 +7454,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03A-Ionic-Bonding-02.jpg",
       "papers/chemistry/img/03A-Ionic-Bonding-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03A-Ionic-Bonding-Q5.jpg"
+     ]
     },
     {
      "id": "03A-Q6",
@@ -7791,7 +7856,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03A-Ionic-Bonding-08.jpg",
       "papers/chemistry/img/03A-Ionic-Bonding-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03A-Ionic-Bonding-Q19.jpg"
+     ]
     },
     {
      "id": "03A-Q19b(i)",
@@ -7950,7 +8017,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03A-Ionic-Bonding-10.jpg",
       "papers/chemistry/img/03A-Ionic-Bonding-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03A-Ionic-Bonding-Q21.jpg"
+     ]
     },
     {
      "id": "03A-Q22",
@@ -8112,7 +8181,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03A-Ionic-Bonding-12.jpg",
       "papers/chemistry/img/03A-Ionic-Bonding-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03A-Ionic-Bonding-Q26.jpg",
+      "papers/chemistry/fig/03A-Ionic-Bonding-Q26-2.jpg"
+     ]
     },
     {
      "id": "03A-Q27",
@@ -8225,7 +8297,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03A-Ionic-Bonding-16.jpg",
       "papers/chemistry/img/03A-Ionic-Bonding-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03A-Ionic-Bonding-Q30.jpg"
+     ]
     },
     {
      "id": "03A-Q31a(i)",
@@ -8255,7 +8329,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03A-Ionic-Bonding-16.jpg",
       "papers/chemistry/img/03A-Ionic-Bonding-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03A-Ionic-Bonding-Q31.jpg"
+     ]
     },
     {
      "id": "03A-Q31a(ii)",
@@ -8284,7 +8360,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03A-Ionic-Bonding-16.jpg",
       "papers/chemistry/img/03A-Ionic-Bonding-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03A-Ionic-Bonding-Q31.jpg"
+     ]
     },
     {
      "id": "03A-Q31a(iii)",
@@ -8424,7 +8502,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
       "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03A-Ionic-Bonding-Q32.jpg"
+     ]
     },
     {
      "id": "03A-Q32b",
@@ -8448,7 +8528,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
       "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03A-Ionic-Bonding-Q32.jpg"
+     ]
     },
     {
      "id": "03A-Q32c",
@@ -8472,7 +8554,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
       "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03A-Ionic-Bonding-Q32.jpg"
+     ]
     },
     {
      "id": "03A-Q33a",
@@ -8497,7 +8581,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
       "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03A-Ionic-Bonding-Q33.jpg"
+     ]
     },
     {
      "id": "03A-Q33b",
@@ -8522,7 +8608,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
       "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03A-Ionic-Bonding-Q33.jpg"
+     ]
     },
     {
      "id": "03A-Q33c",
@@ -8546,7 +8634,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
       "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03A-Ionic-Bonding-Q33.jpg"
+     ]
     },
     {
      "id": "03A-Q33d",
@@ -8571,7 +8661,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
       "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03A-Ionic-Bonding-Q33.jpg"
+     ]
     },
     {
      "id": "03A-Q34",
@@ -8762,7 +8854,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-03.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q1.jpg"
+     ]
     },
     {
      "id": "03B-Q1a(ii)",
@@ -8790,7 +8884,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-03.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q1.jpg"
+     ]
     },
     {
      "id": "03B-Q1a(iii)",
@@ -8849,7 +8945,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-03.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q1.jpg"
+     ]
     },
     {
      "id": "03B-Q1a(v)",
@@ -9132,7 +9230,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-05.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q2.jpg"
+     ]
     },
     {
      "id": "03B-Q2b(iv)",
@@ -9241,7 +9341,9 @@ window.BANK.chemistry = {
      "images": [
       "papers/chemistry/img/03B-Covalent-Bonding-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q5.jpg"
+     ]
     },
     {
      "id": "03B-Q6",
@@ -9267,7 +9369,10 @@ window.BANK.chemistry = {
      "images": [
       "papers/chemistry/img/03B-Covalent-Bonding-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q6.jpg",
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q6-2.jpg"
+     ]
     },
     {
      "id": "03B-Q7",
@@ -9293,7 +9398,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-08.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q7.jpg"
+     ]
     },
     {
      "id": "03B-Q8",
@@ -9347,7 +9454,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-09.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q9.jpg"
+     ]
     },
     {
      "id": "03B-Q10",
@@ -9430,7 +9539,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-11.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q12.jpg"
+     ]
     },
     {
      "id": "03B-Q12a(ii)",
@@ -9458,7 +9569,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-11.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q12.jpg"
+     ]
     },
     {
      "id": "03B-Q12a(iii)",
@@ -9484,7 +9597,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-11.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q12-2.jpg"
+     ]
     },
     {
      "id": "03B-Q12b",
@@ -9512,7 +9627,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-11.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q12-3.jpg"
+     ]
     },
     {
      "id": "03B-Q12c",
@@ -9720,7 +9837,7 @@ window.BANK.chemistry = {
      ],
      "question": "At 180 C, aluminium chloride exists as Al2Cl6. What is the structure of Al2Cl6? (The options are not included in the extracted text.)",
      "status": "ready",
-     "answer": "Two AlCl3 units joined by dative covalent bonds, forming a dimer with two bridging Cl atoms, so each Al is surrounded tetrahedrally by four Cl atoms.",
+     "answer": "Two AlCl3 units joined by dative covalent bonds, forming a dimer with two bridging Cl atoms, so each Al is surrounded tetrahedrally by four Cl atoms (option C: the dative-bond arrows point from the bridging Cl atoms towards the Al atoms).",
      "steps": [
       "Al in AlCl3 has only 6 electrons in its outer shell and is electron deficient.",
       "A Cl atom on one AlCl3 donates a lone pair to the Al of another, forming dative covalent bonds.",
@@ -9730,7 +9847,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-14.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q16.jpg"
+     ]
     },
     {
      "id": "03B-Q17a",
@@ -9785,7 +9904,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-16.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q17.jpg"
+     ]
     },
     {
      "id": "03B-Q17ci",
@@ -9869,7 +9990,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-16.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q17-2.jpg"
+     ]
     },
     {
      "id": "03B-Q17d",
@@ -9897,7 +10020,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-16.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q17-3.jpg"
+     ]
     },
     {
      "id": "03B-Q18",
@@ -9925,7 +10050,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-17.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q18.jpg"
+     ]
     },
     {
      "id": "03B-Q19",
@@ -9951,7 +10078,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-18.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q19.jpg"
+     ]
     },
     {
      "id": "03B-Q20",
@@ -10084,7 +10213,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-21.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q24.jpg"
+     ]
     },
     {
      "id": "03B-Q25",
@@ -10137,7 +10268,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-21.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q26.jpg"
+     ]
     },
     {
      "id": "03B-Q27a(i)",
@@ -10252,7 +10385,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-23.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q27.jpg"
+     ]
     },
     {
      "id": "03B-Q27b",
@@ -10308,7 +10443,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-24.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q28.jpg"
+     ]
     },
     {
      "id": "03B-Q28b",
@@ -10389,7 +10526,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-25.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q29.jpg"
+     ]
     },
     {
      "id": "03B-Q30",
@@ -10495,7 +10634,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-27.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q31.jpg"
+     ]
     },
     {
      "id": "03B-Q31ci",
@@ -10522,7 +10663,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03B-Covalent-Bonding-27.jpg",
       "papers/chemistry/img/03B-Covalent-Bonding-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q31-2.jpg"
+     ]
     },
     {
      "id": "03B-Q31cii",
@@ -10600,7 +10743,9 @@ window.BANK.chemistry = {
      "images": [
       "papers/chemistry/img/03B-Covalent-Bonding-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03B-Covalent-Bonding-Q32.jpg"
+     ]
     }
    ]
   },
@@ -10848,7 +10993,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03C-Shapes-of-Molecules-05.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03C-Shapes-of-Molecules-Q3-2.jpg"
+     ]
     },
     {
      "id": "Ch3C-Q3a(ii)",
@@ -11405,7 +11552,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03C-Shapes-of-Molecules-09.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03C-Shapes-of-Molecules-Q8.jpg"
+     ]
     },
     {
      "id": "Ch3C-Q8e",
@@ -11615,7 +11764,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03C-Shapes-of-Molecules-Q9-2.jpg"
+     ]
     },
     {
      "id": "Ch3C-Q9d(iii)",
@@ -13017,7 +13168,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03D-Metallic-Bonding-03.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03D-Metallic-Bonding-Q1.jpg"
+     ]
     },
     {
      "id": "Ch3D-Q1c(ii)",
@@ -13142,7 +13295,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03D-Metallic-Bonding-03.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03D-Metallic-Bonding-Q1-2.jpg"
+     ]
     },
     {
      "id": "Ch3D-Q1e(ii)",
@@ -13588,7 +13743,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03D-Metallic-Bonding-09.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03D-Metallic-Bonding-Q7.jpg"
+     ]
     },
     {
      "id": "Ch3D-Q7b(i)",
@@ -13646,7 +13803,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03D-Metallic-Bonding-09.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03D-Metallic-Bonding-Q7.jpg"
+     ]
     },
     {
      "id": "Ch3D-Q7c(i)",
@@ -13675,7 +13834,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03D-Metallic-Bonding-09.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03D-Metallic-Bonding-Q7-2.jpg"
+     ]
     },
     {
      "id": "Ch3D-Q7c(ii)",
@@ -16345,7 +16506,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/04B-Alkanes-03.jpg",
       "papers/chemistry/img/04B-Alkanes-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/04B-Alkanes-Q3fii.jpg"
+     ]
     },
     {
      "id": "Ch4B-Q3f(iii)",
@@ -16995,18 +17158,20 @@ window.BANK.chemistry = {
      ],
      "question": "Which process occurs in the initiation step of the reaction of methane with excess chlorine in UV light?",
      "status": "ready",
-     "answer": "Homolytic fission of the Cl-Cl bond, forming two chlorine radicals (Cl2 -> 2Cl).",
+     "answer": "C: homolytic fission of the Cl-Cl bond, with a curly half-arrow from the bond to each Cl atom, giving two chlorine radicals (Cl2 -> 2Cl).",
      "steps": [
       "Initiation starts the chain by making radicals.",
       "UV light supplies the energy to break the Cl-Cl bond.",
-      "The bond breaks homolytically, each Cl atom taking one electron.",
+      "The bond breaks homolytically, each Cl atom taking one electron; this is shown by two half-arrows starting at the Cl-Cl bond, one to each Cl (option C).",
       "Result: two Cl radicals."
      ],
      "images": [
       "papers/chemistry/img/04B-Alkanes-09.jpg",
       "papers/chemistry/img/04B-Alkanes-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/04B-Alkanes-Q9a.jpg"
+     ]
     },
     {
      "id": "Ch4B-Q9b",
@@ -17222,7 +17387,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/04B-Alkanes-11.jpg",
       "papers/chemistry/img/04B-Alkanes-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/04B-Alkanes-Q10di.jpg"
+     ]
     },
     {
      "id": "Ch4B-Q10d(ii)",
@@ -17985,7 +18152,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/04B-Alkanes-21.jpg",
       "papers/chemistry/img/04B-Alkanes-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/04B-Alkanes-Q27bi.jpg"
+     ]
     },
     {
      "id": "Ch4B-Q27b(ii)",
@@ -19481,7 +19650,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/04B-Alkanes-35.jpg",
       "papers/chemistry/img/04B-Alkanes-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/04B-Alkanes-Q42d.jpg"
+     ]
     },
     {
      "id": "Ch4B-Q43",
@@ -26773,7 +26944,7 @@ window.BANK.chemistry = {
      "status": "ready",
      "answer": "B: -122 kJ mol-1",
      "steps": [
-      "The bond data table is missing from the text, so use Data Book mean bond enthalpies: C-H 413, Cl-Cl 243, C-Cl 346, H-Cl 432 kJ mol-1.",
+      "Use the bond enthalpy table given: C-H 413, Cl-Cl 243, C-Cl 346, H-Cl 432 kJ mol-1.",
       "Only one C-H and one Cl-Cl bond are broken; the rest of the ethane molecule is unchanged.",
       "Energy in (bonds broken) = 413 + 243 = 656 kJ mol-1.",
       "Energy out (bonds made: one C-Cl and one H-Cl) = 346 + 432 = 778 kJ mol-1.",
@@ -26783,7 +26954,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/06-Energetics-01.jpg",
       "papers/chemistry/img/06-Energetics-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q2.jpg"
+     ]
     },
     {
      "id": "Ch6-Q3",
@@ -26802,17 +26975,18 @@ window.BANK.chemistry = {
      "status": "ready",
      "answer": "B: -75 kJ mol-1",
      "steps": [
-      "The data table is missing, so use Data Book enthalpies of combustion: C -393.5, H2 -285.8, CH4 -890.3 kJ mol-1.",
-      "Formation: C(s) + 2H2(g) -> CH4(g); use a Hess cycle through combustion products CO2 and H2O.",
-      "Delta fH = sum Delta cH(reactants) - Delta cH(product).",
-      "= -393.5 + 2(-285.8) - (-890.3) = -74.8 kJ mol-1.",
-      "This rounds to -75 kJ mol-1, option B (the accepted value for methane)."
+      "Use the two enthalpy changes given: CH4 + 2F2 -> CF4 + 2H2 (-858 kJ mol-1) and C + 2F2 -> CF4 (-933 kJ mol-1).",
+      "Formation of methane is C(s) + 2H2(g) -> CH4(g). Link it to the data with a Hess cycle through CF4.",
+      "Route: C + 2F2 -> CF4 (-933), then CF4 + 2H2 -> CH4 + 2F2, which is the reverse of the first equation (+858).",
+      "Delta fH(CH4) = -933 + 858 = -75 kJ mol-1, so option B."
      ],
      "images": [
       "papers/chemistry/img/06-Energetics-02.jpg",
       "papers/chemistry/img/06-Energetics-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q3.jpg"
+     ]
     },
     {
      "id": "Ch6-Q4",
@@ -27375,16 +27549,17 @@ window.BANK.chemistry = {
      "status": "ready",
      "answer": "D: butane",
      "steps": [
-      "The energy-per-gram table is missing, so use Data Book values of Delta cH.",
-      "Delta cH: methane -890, ethane -1560, propane -2219, butane -2877 kJ mol-1.",
-      "Check: butane releases about 49.5 kJ g-1; 49.5 x 58.0 g mol-1 = 2870 kJ mol-1.",
+      "Use the table of energy released per gram: methane 55.6, ethane 52.0, propane 50.4, butane 49.6 kJ g-1.",
+      "Multiply by the molar mass to get kJ per mole: methane 16.0 x 55.6 = 890, ethane 30.0 x 52.0 = 1560, propane 44.0 x 50.4 = 2218, butane 58.0 x 49.6 = 2877.",
       "So -2877 kJ mol-1 is butane, option D."
      ],
      "images": [
       "papers/chemistry/img/06-Energetics-10.jpg",
       "papers/chemistry/img/06-Energetics-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q12.jpg"
+     ]
     },
     {
      "id": "Ch6-Q13",
@@ -27434,7 +27609,7 @@ window.BANK.chemistry = {
      "status": "ready",
      "answer": "B: 463.5 kJ mol-1",
      "steps": [
-      "The bond data are missing, so use Data Book values: H-H 436, O=O 498 kJ mol-1.",
+      "Use the bond enthalpy table given: H-H 436, O=O 498 kJ mol-1.",
       "Bonds broken = 436 + 1/2(498) = 685 kJ mol-1.",
       "Bonds made = 2 x (O-H), as water has two O-H bonds.",
       "-242 = 685 - 2(O-H), so 2(O-H) = 927.",
@@ -27443,7 +27618,9 @@ window.BANK.chemistry = {
      "images": [
       "papers/chemistry/img/06-Energetics-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q14.jpg"
+     ]
     },
     {
      "id": "Ch6-Q15",
@@ -27530,7 +27707,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/06-Energetics-13.jpg",
       "papers/chemistry/img/06-Energetics-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q16bi.jpg"
+     ]
     },
     {
      "id": "Ch6-Q16b(ii)",
@@ -27558,7 +27737,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/06-Energetics-13.jpg",
       "papers/chemistry/img/06-Energetics-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q16bi.jpg"
+     ]
     },
     {
      "id": "Ch6-Q17",
@@ -27731,7 +27912,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/06-Energetics-17.jpg",
       "papers/chemistry/img/06-Energetics-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q20b.jpg"
+     ]
     },
     {
      "id": "Ch6-Q20b(ii)",
@@ -28021,7 +28204,9 @@ window.BANK.chemistry = {
      "images": [
       "papers/chemistry/img/06-Energetics-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q26.jpg"
+     ]
     },
     {
      "id": "Ch6-Q27",
@@ -28188,7 +28373,7 @@ window.BANK.chemistry = {
      "status": "ready",
      "answer": "A: -554 - 394 + 1216",
      "steps": [
-      "The formation data table is missing; the values match Data Book Delta fH: BaO -554, CO2 -394, BaCO3 -1216 kJ mol-1.",
+      "Use the standard enthalpy changes of formation given: BaO -554, CO2 -394, BaCO3 -1216 kJ mol-1.",
       "Delta rH = sum Delta fH(products) - sum Delta fH(reactants).",
       "= (-554) + (-394) - (-1216).",
       "= -554 - 394 + 1216 = +268 kJ mol-1 (endothermic decomposition).",
@@ -28198,7 +28383,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/06-Energetics-23.jpg",
       "papers/chemistry/img/06-Energetics-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q30.jpg"
+     ]
     },
     {
      "id": "Ch6-Q31",
@@ -28217,17 +28404,18 @@ window.BANK.chemistry = {
      "status": "ready",
      "answer": "D: C9H20",
      "steps": [
-      "The alkane table is missing, so use Data Book values.",
-      "Each extra CH2 makes Delta cH about 650 kJ mol-1 more negative.",
-      "Hexane -4163, heptane -4817, octane -5470 kJ mol-1.",
-      "-5470 - 655 = -6125 kJ mol-1, which is nonane.",
-      "Answer D: C9H20."
+      "Use the table of Delta cH for the alkanes: C2H6 -1560, C3H8 -2219, C4H10 -2877, C5H12 -3509 kJ mol-1.",
+      "Each extra CH2 adds roughly -650 kJ mol-1 (differences 659, 658, 632).",
+      "From pentane: -6125 - (-3509) = -2616 kJ mol-1, which is about 4 x 654, so four more carbon atoms are needed.",
+      "C5 + 4 = C9, so the alkane is C9H20, option D."
      ],
      "images": [
       "papers/chemistry/img/06-Energetics-24.jpg",
       "papers/chemistry/img/06-Energetics-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q31.jpg"
+     ]
     },
     {
      "id": "Ch6-Q32",
@@ -28463,7 +28651,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/06-Energetics-27.jpg",
       "papers/chemistry/img/06-Energetics-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q34b.jpg"
+     ]
     },
     {
      "id": "Ch6-Q34c",
@@ -28690,7 +28880,7 @@ window.BANK.chemistry = {
      "status": "ready",
      "answer": "B: 801 kJ mol-1",
      "steps": [
-      "The bond data table is missing, so use Data Book values: C-H 413, O=O 498, O-H 464 kJ mol-1.",
+      "Use the bond enthalpy table given: C-H 413, O=O 498, O-H 464 kJ mol-1.",
       "Bonds broken = 4(413) + 2(498) = 1652 + 996 = 2648 kJ mol-1.",
       "Bonds made = 2(C=O) + 4(464) = 2(C=O) + 1856.",
       "-810 = 2648 - 1856 - 2(C=O), so 2(C=O) = 1602.",
@@ -28699,7 +28889,9 @@ window.BANK.chemistry = {
      "images": [
       "papers/chemistry/img/06-Energetics-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q39a.jpg"
+     ]
     },
     {
      "id": "Ch6-Q39b",
@@ -30600,7 +30792,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08A-Redox-03.jpg",
       "papers/chemistry/img/08A-Redox-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q6.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q7",
@@ -30995,7 +31189,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08A-Redox-09.jpg",
       "papers/chemistry/img/08A-Redox-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q19.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q20",
@@ -31107,7 +31303,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08A-Redox-10.jpg",
       "papers/chemistry/img/08A-Redox-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q23.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q24",
@@ -31219,7 +31417,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08A-Redox-12.jpg",
       "papers/chemistry/img/08A-Redox-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q27.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q27b",
@@ -31247,7 +31447,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08A-Redox-12.jpg",
       "papers/chemistry/img/08A-Redox-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q27.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q27c(i)",
@@ -31452,7 +31654,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08A-Redox-15.jpg",
       "papers/chemistry/img/08A-Redox-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q30.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q30bi",
@@ -31538,7 +31742,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08A-Redox-15.jpg",
       "papers/chemistry/img/08A-Redox-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q30b.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q30biv",
@@ -31567,7 +31773,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08A-Redox-15.jpg",
       "papers/chemistry/img/08A-Redox-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q30b.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q30bv",
@@ -31596,7 +31804,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08A-Redox-15.jpg",
       "papers/chemistry/img/08A-Redox-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q30b.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q31",
@@ -31712,7 +31922,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08A-Redox-17.jpg",
       "papers/chemistry/img/08A-Redox-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q34.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q35",
@@ -33614,7 +33826,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08B-Groups-1-and-2-22.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q24.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q24a(ii)",
@@ -33643,7 +33857,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08B-Groups-1-and-2-22.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q24.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q24b",
@@ -34617,7 +34833,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08B-Groups-1-and-2-35.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q48c.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q48c(ii)",
@@ -34648,7 +34866,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08B-Groups-1-and-2-35.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q48c.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q48c(iii)",
@@ -34678,7 +34898,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08B-Groups-1-and-2-35.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q48c.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q48d(i)",
@@ -35232,7 +35454,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08B-Groups-1-and-2-41.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q53b.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q53b(iii)",
@@ -35289,7 +35513,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08B-Groups-1-and-2-41.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q53c.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q53c(ii)",
@@ -35319,7 +35545,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08B-Groups-1-and-2-41.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q53c.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q53d",
@@ -36080,7 +36308,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08C-Group-7-03.jpg",
       "papers/chemistry/img/08C-Group-7-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08C-Group-7-Q7-2.jpg"
+     ]
     },
     {
      "id": "Ch8C-Q7b(i)",
@@ -37551,7 +37781,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08C-Group-7-22.jpg",
       "papers/chemistry/img/08C-Group-7-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08C-Group-7-Q38.jpg"
+     ]
     },
     {
      "id": "Ch8C-Q38c(ii)",
@@ -37580,7 +37812,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08C-Group-7-22.jpg",
       "papers/chemistry/img/08C-Group-7-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08C-Group-7-Q38.jpg"
+     ]
     },
     {
      "id": "Ch8C-Q38c(iii)",
@@ -37608,7 +37842,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08C-Group-7-22.jpg",
       "papers/chemistry/img/08C-Group-7-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08C-Group-7-Q38.jpg"
+     ]
     },
     {
      "id": "Ch8C-Q39",
@@ -37861,7 +38097,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09A-Kinetics-04.jpg",
       "papers/chemistry/img/09A-Kinetics-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q4-2.jpg"
+     ]
     },
     {
      "id": "Q4b",
@@ -37893,7 +38131,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09A-Kinetics-04.jpg",
       "papers/chemistry/img/09A-Kinetics-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q4-3.jpg"
+     ]
     },
     {
      "id": "Q4c",
@@ -38751,7 +38991,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09A-Kinetics-19.jpg",
       "papers/chemistry/img/09A-Kinetics-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q16.jpg"
+     ]
     },
     {
      "id": "Q16b",
@@ -38779,7 +39021,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09A-Kinetics-19.jpg",
       "papers/chemistry/img/09A-Kinetics-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q16.jpg",
+      "papers/chemistry/fig/09A-Kinetics-Q16-2.jpg"
+     ]
     },
     {
      "id": "Q17",
@@ -38957,7 +39202,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09A-Kinetics-23.jpg",
       "papers/chemistry/img/09A-Kinetics-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q21.jpg"
+     ]
     },
     {
      "id": "Q21b",
@@ -38985,7 +39232,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09A-Kinetics-23.jpg",
       "papers/chemistry/img/09A-Kinetics-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q21.jpg",
+      "papers/chemistry/fig/09A-Kinetics-Q21-2.jpg"
+     ]
     },
     {
      "id": "Q22a",
@@ -39011,7 +39261,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09A-Kinetics-24.jpg",
       "papers/chemistry/img/09A-Kinetics-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q22.jpg",
+      "papers/chemistry/fig/09A-Kinetics-Q22-2.jpg"
+     ]
     },
     {
      "id": "Q22b",
@@ -39039,7 +39292,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09A-Kinetics-24.jpg",
       "papers/chemistry/img/09A-Kinetics-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q22.jpg",
+      "papers/chemistry/fig/09A-Kinetics-Q22-3.jpg"
+     ]
     },
     {
      "id": "Q23",
@@ -39095,7 +39351,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09A-Kinetics-26.jpg",
       "papers/chemistry/img/09A-Kinetics-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q24.jpg"
+     ]
     },
     {
      "id": "Q24b",
@@ -39123,7 +39381,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09A-Kinetics-26.jpg",
       "papers/chemistry/img/09A-Kinetics-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q24.jpg"
+     ]
     },
     {
      "id": "Q24c",
@@ -39150,7 +39410,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09A-Kinetics-26.jpg",
       "papers/chemistry/img/09A-Kinetics-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q24.jpg"
+     ]
     },
     {
      "id": "Q25a",
@@ -39177,7 +39439,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09A-Kinetics-27.jpg",
       "papers/chemistry/img/09A-Kinetics-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q25.jpg"
+     ]
     },
     {
      "id": "Q25b",
@@ -39204,7 +39468,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09A-Kinetics-27.jpg",
       "papers/chemistry/img/09A-Kinetics-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q25.jpg"
+     ]
     },
     {
      "id": "Q26",
@@ -39782,7 +40048,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-06.jpg",
       "papers/chemistry/img/09B-Equilibria-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q4-2.jpg"
+     ]
     },
     {
      "id": "Q4a(ii)",
@@ -39815,7 +40083,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-06.jpg",
       "papers/chemistry/img/09B-Equilibria-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q4-2.jpg",
+      "papers/chemistry/fig/09B-Equilibria-Q4-3.jpg"
+     ]
     },
     {
      "id": "Q4a(iii)",
@@ -39879,7 +40150,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-06.jpg",
       "papers/chemistry/img/09B-Equilibria-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q4-2.jpg"
+     ]
     },
     {
      "id": "Q4b",
@@ -40005,7 +40278,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-09.jpg",
       "papers/chemistry/img/09B-Equilibria-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q5.jpg"
+     ]
     },
     {
      "id": "Q5a(iii)",
@@ -40036,7 +40311,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-09.jpg",
       "papers/chemistry/img/09B-Equilibria-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q5.jpg"
+     ]
     },
     {
      "id": "Q5a(iv)",
@@ -40067,7 +40344,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-09.jpg",
       "papers/chemistry/img/09B-Equilibria-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q5.jpg"
+     ]
     },
     {
      "id": "Q5b(i)",
@@ -40098,7 +40377,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-09.jpg",
       "papers/chemistry/img/09B-Equilibria-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q5-2.jpg"
+     ]
     },
     {
      "id": "Q5b(ii)",
@@ -40157,7 +40438,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-09.jpg",
       "papers/chemistry/img/09B-Equilibria-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q5-2.jpg"
+     ]
     },
     {
      "id": "Q5c",
@@ -40468,7 +40751,7 @@ window.BANK.chemistry = {
       "molecules",
       "dynamic"
      ],
-     "question": "For NO2(g) <=> N2O4(g) at equilibrium in a sealed container, which statement is not true? A the concentrations are constant, B the total number of molecules is constant, C the forward and reverse reactions have both stopped, D the forward and reverse rates are equal.",
+     "question": "For 2NO2(g) <=> N2O4(g) at equilibrium in a sealed container, which statement is not true? A the concentrations of NO2(g) and N2O4(g) both remain constant, B the total number of molecules is constant, C the forward and reverse reactions have both stopped, D the rate of the forward reaction is equal to the rate of the reverse reaction.",
      "status": "ready",
      "answer": "C (the forward and reverse reactions have both stopped)",
      "steps": [
@@ -40537,7 +40820,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-14.jpg",
       "papers/chemistry/img/09B-Equilibria-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q12.jpg"
+     ]
     },
     {
      "id": "Q12a(ii)",
@@ -40564,7 +40849,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-14.jpg",
       "papers/chemistry/img/09B-Equilibria-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q12.jpg"
+     ]
     },
     {
      "id": "Q12a(iii)",
@@ -40590,7 +40877,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-14.jpg",
       "papers/chemistry/img/09B-Equilibria-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q12.jpg"
+     ]
     },
     {
      "id": "Q12b(i)",
@@ -40677,7 +40966,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-16.jpg",
       "papers/chemistry/img/09B-Equilibria-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q13.jpg"
+     ]
     },
     {
      "id": "Q13b",
@@ -40707,7 +40998,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-16.jpg",
       "papers/chemistry/img/09B-Equilibria-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q13.jpg"
+     ]
     },
     {
      "id": "Q13c(i)",
@@ -40737,7 +41030,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-16.jpg",
       "papers/chemistry/img/09B-Equilibria-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q13.jpg"
+     ]
     },
     {
      "id": "Q13c(ii)",
@@ -40768,7 +41063,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-16.jpg",
       "papers/chemistry/img/09B-Equilibria-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q13.jpg"
+     ]
     },
     {
      "id": "Q13c(iii)",
@@ -40796,7 +41093,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-16.jpg",
       "papers/chemistry/img/09B-Equilibria-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q13.jpg"
+     ]
     },
     {
      "id": "Q13c(iv)",
@@ -40825,7 +41124,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-16.jpg",
       "papers/chemistry/img/09B-Equilibria-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q13.jpg"
+     ]
     },
     {
      "id": "Q13c(v)",
@@ -40856,7 +41157,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-16.jpg",
       "papers/chemistry/img/09B-Equilibria-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q13.jpg"
+     ]
     },
     {
      "id": "Q14a",
@@ -40885,7 +41188,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-17.jpg",
       "papers/chemistry/img/09B-Equilibria-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q14.jpg"
+     ]
     },
     {
      "id": "Q14b",
@@ -40914,7 +41219,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-17.jpg",
       "papers/chemistry/img/09B-Equilibria-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q14.jpg"
+     ]
     },
     {
      "id": "Q14c",
@@ -40941,6 +41248,7 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09B-Equilibria-18.jpg"
      ],
      "figures": [
+      "papers/chemistry/fig/09B-Equilibria-Q14.jpg",
       "papers/chemistry/fig/09B-Equilibria-Q14c.jpg"
      ]
     },
@@ -41343,7 +41651,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-05.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q2.jpg"
+     ]
     },
     {
      "id": "Q2b",
@@ -41374,7 +41684,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-05.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q2.jpg"
+     ]
     },
     {
      "id": "Q3a",
@@ -41878,7 +42190,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-12.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q10.jpg"
+     ]
     },
     {
      "id": "Q11",
@@ -42402,7 +42716,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-19.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q19-2.jpg"
+     ]
     },
     {
      "id": "Q19c(iii)",
@@ -42547,7 +42863,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-22.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q21-2.jpg"
+     ]
     },
     {
      "id": "Q21c(ii)",
@@ -42578,7 +42896,8 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-23.jpg"
      ],
      "figures": [
-      "papers/chemistry/fig/10AB-Halogenoalkanes-Q21.jpg"
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q21.jpg",
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q21-3.jpg"
      ]
     },
     {
@@ -42944,7 +43263,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q24.jpg"
+     ]
     },
     {
      "id": "Q24b",
@@ -42974,7 +43295,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q24-2.jpg"
+     ]
     },
     {
      "id": "Q24c(i)",
@@ -43068,7 +43391,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q24.jpg",
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q24-3.jpg"
+     ]
     },
     {
      "id": "Q24d(ii)",
@@ -43098,7 +43424,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q24-3.jpg"
+     ]
     },
     {
      "id": "Q24d(iii)",
@@ -43193,7 +43521,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q24-4.jpg"
+     ]
     },
     {
      "id": "Q24f",
@@ -43434,7 +43764,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-33.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q28-3.jpg"
+     ]
     },
     {
      "id": "Q28b(ii)",
@@ -43465,7 +43797,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-33.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q28-3.jpg"
+     ]
     },
     {
      "id": "Q28b(iii)",
@@ -43890,7 +44224,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-37.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q31.jpg"
+     ]
     },
     {
      "id": "Q31b(iii)",
@@ -44156,7 +44492,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-42.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q34.jpg"
+     ]
     },
     {
      "id": "Q34b(i)",
@@ -44187,7 +44525,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-42.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q34-2.jpg"
+     ]
     },
     {
      "id": "Q34b(ii)",
@@ -44281,7 +44621,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10AB-Halogenoalkanes-42.jpg",
       "papers/chemistry/img/10AB-Halogenoalkanes-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10AB-Halogenoalkanes-Q34-3.jpg"
+     ]
     },
     {
      "id": "Q34c(iii)",
@@ -44981,7 +45323,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-07.jpg",
       "papers/chemistry/img/10C-Alcohols-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q4.jpg"
+     ]
     },
     {
      "id": "Q4d(iii)",
@@ -45218,7 +45562,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-10.jpg",
       "papers/chemistry/img/10C-Alcohols-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q6.jpg"
+     ]
     },
     {
      "id": "Q6b(ii)",
@@ -45305,7 +45651,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-10.jpg",
       "papers/chemistry/img/10C-Alcohols-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q6-2.jpg"
+     ]
     },
     {
      "id": "Q7a(i)",
@@ -45542,7 +45890,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-13.jpg",
       "papers/chemistry/img/10C-Alcohols-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q9.jpg"
+     ]
     },
     {
      "id": "Q9b",
@@ -45811,7 +46161,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-16.jpg",
       "papers/chemistry/img/10C-Alcohols-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q10.jpg"
+     ]
     },
     {
      "id": "Q10e(ii)",
@@ -45843,7 +46195,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-16.jpg",
       "papers/chemistry/img/10C-Alcohols-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q10-2.jpg"
+     ]
     },
     {
      "id": "Q10f(i)",
@@ -45872,7 +46226,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-16.jpg",
       "papers/chemistry/img/10C-Alcohols-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q10-3.jpg"
+     ]
     },
     {
      "id": "Q10f(ii)",
@@ -46593,7 +46949,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-29.jpg",
       "papers/chemistry/img/10C-Alcohols-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q20-4.jpg"
+     ]
     },
     {
      "id": "Q20a(ii)",
@@ -46626,7 +46984,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-29.jpg",
       "papers/chemistry/img/10C-Alcohols-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q20-4.jpg"
+     ]
     },
     {
      "id": "Q20a(iii)",
@@ -46657,7 +47017,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-29.jpg",
       "papers/chemistry/img/10C-Alcohols-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q20-4.jpg"
+     ]
     },
     {
      "id": "Q20b(i)",
@@ -46688,7 +47050,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-29.jpg",
       "papers/chemistry/img/10C-Alcohols-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q20-5.jpg"
+     ]
     },
     {
      "id": "Q20b(ii)",
@@ -46719,7 +47083,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-29.jpg",
       "papers/chemistry/img/10C-Alcohols-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q20-5.jpg"
+     ]
     },
     {
      "id": "Q20b(iii)",
@@ -46749,7 +47115,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-29.jpg",
       "papers/chemistry/img/10C-Alcohols-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q20-5.jpg"
+     ]
     },
     {
      "id": "Q20c",
@@ -46782,7 +47150,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-29.jpg",
       "papers/chemistry/img/10C-Alcohols-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q20-6.jpg"
+     ]
     },
     {
      "id": "Q20d(i)",
@@ -46816,6 +47186,7 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-30.jpg"
      ],
      "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q20-6.jpg",
       "papers/chemistry/fig/10C-Alcohols-Q20.jpg"
      ]
     },
@@ -46879,7 +47250,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-29.jpg",
       "papers/chemistry/img/10C-Alcohols-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q20-7.jpg"
+     ]
     },
     {
      "id": "Q20e(ii)",
@@ -46910,7 +47283,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-29.jpg",
       "papers/chemistry/img/10C-Alcohols-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q20-7.jpg"
+     ]
     },
     {
      "id": "Q20f",
@@ -46943,7 +47318,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-29.jpg",
       "papers/chemistry/img/10C-Alcohols-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q20-8.jpg"
+     ]
     },
     {
      "id": "Q20g(i)",
@@ -48046,7 +48423,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-43.jpg",
       "papers/chemistry/img/10C-Alcohols-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q34-3.jpg"
+     ]
     },
     {
      "id": "Q34e(ii)",
@@ -48076,7 +48455,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-43.jpg",
       "papers/chemistry/img/10C-Alcohols-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q34-3.jpg"
+     ]
     },
     {
      "id": "Q34e(iii)",
@@ -48109,7 +48490,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/10C-Alcohols-43.jpg",
       "papers/chemistry/img/10C-Alcohols-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/10C-Alcohols-Q34-4.jpg"
+     ]
     }
    ]
   },
@@ -48148,7 +48531,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/11-Kinetics-A2-01.jpg",
       "papers/chemistry/img/11-Kinetics-A2-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q1.jpg"
+     ]
     },
     {
      "id": "Ch11-Q2",
@@ -48617,7 +49002,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/11-Kinetics-A2-13.jpg",
       "papers/chemistry/img/11-Kinetics-A2-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q10.jpg"
+     ]
     },
     {
      "id": "Ch11-Q11(a)(i)",
@@ -49416,7 +49803,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/11-Kinetics-A2-23.jpg",
       "papers/chemistry/img/11-Kinetics-A2-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q20-2.jpg"
+     ]
     },
     {
      "id": "Ch11-Q20(d)",
@@ -49444,7 +49833,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/11-Kinetics-A2-23.jpg",
       "papers/chemistry/img/11-Kinetics-A2-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q20-3.jpg"
+     ]
     },
     {
      "id": "Ch11-Q21",
@@ -49472,7 +49863,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/11-Kinetics-A2-24.jpg",
       "papers/chemistry/img/11-Kinetics-A2-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/11-Kinetics-A2-Q21.jpg"
+     ]
     },
     {
      "id": "Ch11-Q22(a)(i)",
@@ -68984,10 +69377,10 @@ window.BANK.chemistry = {
      "answer": "A is a hydroxy-ketone with a tertiary -OH and a chiral centre, e.g. 3-hydroxy-3-methylpentan-2-one, CH3COC(OH)(CH3)CH2CH3",
      "steps": [
       "Test 1: misty fumes with PCl5 means A contains an -OH group (alcohol or carboxylic acid)",
-      "Test 2: orange precipitate with 2,4-DNPH means a C=O group (aldehyde or ketone); with the formula C6H12O2 (one C=C/C=O unit) it is not also an acid, so A has an OH and a C=O",
+      "Test 2: orange precipitate with 2,4-DNPH means a C=O group (aldehyde or ketone); C6H12O2 has only one degree of unsaturation, which this C=O uses, so A is not also an acid or ester",
       "Test 3: no reaction with Benedict's/Fehling's, so the C=O is a ketone, not an aldehyde",
       "Test 4: acidified dichromate stays orange, so the OH is not on a primary or secondary carbon: it is a tertiary alcohol",
-      "Test 5: it rotates plane-polarised light, so A has a chiral centre (a carbon with four different groups): here the C bearing OH, CH3, C2H5 and COCH3",
+      "Test 5: A rotates plane-polarised light, so it has a chiral centre (a carbon with four different groups): here the C bearing OH, CH3, C2H5 and COCH3",
       "Structure fitting everything with six carbons: CH3-CO-C(OH)(CH3)-CH2CH3"
      ],
      "images": [
@@ -69960,14 +70353,21 @@ window.BANK.chemistry = {
       "primary secondary"
      ],
      "question": "Complete the table for the three straight-chain structural isomers of C5H11Br. (The table itself is not in the text.)",
-     "status": "pending",
-     "answer": "Needs the table layout from the PDF; the isomers are 1-bromopentane, 2-bromopentane and 3-bromopentane",
-     "steps": [],
+     "status": "ready",
+     "answer": "1-bromopentane (zigzag of 5 C with Br on the end carbon): 5 peaks; 2-bromopentane (Br on carbon 2): 5 peaks; 3-bromopentane (Br on the middle carbon): 3 peaks",
+     "steps": [
+      "The three straight-chain isomers of C5H11Br have Br on carbon 1, 2 or 3 of a five-carbon chain (Br on C4 or C5 repeats C2 or C1)",
+      "1-bromopentane, CH2BrCH2CH2CH2CH3: all five carbons are in different environments, so 5 peaks",
+      "2-bromopentane, CH3CHBrCH2CH2CH3: no symmetry, so 5 peaks",
+      "3-bromopentane, CH3CH2CHBrCH2CH3: symmetrical, so the two CH3 carbons are equivalent and the two CH2 carbons are equivalent, giving 3 peaks"
+     ],
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-45.jpg",
       "papers/chemistry/img/15E-Spectroscopy-46.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q27.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q27aii",
@@ -69983,14 +70383,22 @@ window.BANK.chemistry = {
       "isomer identification"
      ],
      "question": "The high-resolution 1H NMR spectrum of one of the C5H11Br isomers is shown. Deduce which isomer is present, explaining the splitting patterns and chemical shifts, and give the relative peak areas.",
-     "status": "pending",
-     "answer": "Needs the 1H NMR spectrum from the PDF to deduce the isomer",
-     "steps": [],
+     "status": "ready",
+     "answer": "3-bromopentane, (CH3CH2)2CHBr: peaks at about 4.0 ppm (1H, quintet), 1.9 ppm (4H, quintet) and 1.0 ppm (6H, triplet), relative areas 1 : 4 : 6",
+     "steps": [
+      "The spectrum has three groups of peaks, so three hydrogen environments; this matches 3-bromopentane (1-bromopentane and 2-bromopentane would each give five)",
+      "About 4.0 ppm: the single CHBr hydrogen, the highest shift because it is bonded to the carbon carrying Br (data booklet range about 3.1-4.2 ppm); it has 4 neighbouring H on the two CH2 groups, so n + 1 = 5, a quintet; area 1",
+      "About 1.9 ppm: the two equivalent CH2 groups (4H); each is next to the CHBr (1 H) and a CH3 (3 H), 4 neighbours, so a quintet; area 4",
+      "About 1.0 ppm: the two equivalent CH3 groups (6H), next to a CH2 (2 H), so a triplet (1 : 2 : 1); area 6; this is the lowest shift of all (alkyl CH3, range about 0.7-1.2 ppm)",
+      "Relative areas: 1 : 4 : 6, which add to 11 H as in C5H11Br"
+     ],
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-45.jpg",
       "papers/chemistry/img/15E-Spectroscopy-46.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q27-2.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q27b",
@@ -70106,7 +70514,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15E-Spectroscopy-49.jpg",
       "papers/chemistry/img/15E-Spectroscopy-50.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q29.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q29b(ii)",
@@ -70121,9 +70531,13 @@ window.BANK.chemistry = {
       "absence of peak"
      ],
      "question": "Show that the IR spectrum of 3-methylbutyl ethanoate confirms there is no alcohol remaining in the sample.",
-     "status": "pending",
-     "answer": "Needs the IR spectrum from the PDF to confirm the absence of a broad O-H absorption at 3200-3550 cm-1",
-     "steps": [],
+     "status": "ready",
+     "answer": "There is no broad absorption between 3200 and 3550 cm-1 (the O-H stretch of an alcohol); the transmittance stays near 90-95% in that region",
+     "steps": [
+      "An alcohol would show a broad, strong O-H stretching absorption at about 3200-3550 cm-1 (3230-3550 for alcohols in the data booklet)",
+      "In the spectrum the trace is almost flat in this region, with no broad trough, so no alcohol O-H is present",
+      "The only strong peaks are the C-H stretch near 2900-3000 cm-1, the ester C=O near 1740 cm-1 and C-O near 1240 cm-1, all consistent with the pure ester"
+     ],
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-46.jpg",
       "papers/chemistry/img/15E-Spectroscopy-47.jpg",
@@ -70131,7 +70545,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15E-Spectroscopy-49.jpg",
       "papers/chemistry/img/15E-Spectroscopy-50.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q29.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q29c",
@@ -70147,9 +70563,15 @@ window.BANK.chemistry = {
       "structure confirmation"
      ],
      "question": "Show that the structure of ethyl ethanoate, CH3COOCH2CH3, is consistent with its high-resolution 1H NMR spectrum, using all the data in the spectrum (peak areas and splitting patterns).",
-     "status": "pending",
-     "answer": "Needs the NMR spectrum with the peak areas and splitting from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Three peaks with areas 650 : 975 : 975 (2 : 3 : 3), at about 4.1 ppm (quartet), 2.0 ppm (singlet) and 1.2 ppm (triplet): consistent with OCH2, CH3CO and CH2CH3 in CH3COOCH2CH3",
+     "steps": [
+      "Number of peaks: three, so three hydrogen environments, as in CH3COOCH2CH3 (CH3-C=O, OCH2, and CH3 of ethyl)",
+      "Relative areas 650 : 975 : 975 simplify to 2 : 3 : 3, giving the number of H in each environment: 2H (OCH2) and 3H, 3H (the two CH3 groups), total 8 H as in C4H8O2",
+      "Peak at about 4.1 ppm (area 2): OCH2, deshielded by the oxygen; it is a quartet because there are 3 H on the neighbouring CH3 (n + 1 = 4)",
+      "Peak at about 1.2 ppm (area 3): CH3 of the ethyl group, a triplet because 2 H on the neighbouring CH2 (n + 1 = 3)",
+      "Peak at about 2.0 ppm (area 3): CH3 attached to the C=O, a singlet because the carbonyl carbon has no H, so there is no splitting"
+     ],
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-46.jpg",
       "papers/chemistry/img/15E-Spectroscopy-47.jpg",
@@ -70157,7 +70579,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15E-Spectroscopy-49.jpg",
       "papers/chemistry/img/15E-Spectroscopy-50.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q29-2.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q29di",
@@ -70243,7 +70667,9 @@ window.BANK.chemistry = {
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-50.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q30.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q30b",
@@ -70270,7 +70696,9 @@ window.BANK.chemistry = {
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-50.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q30.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q30c",
@@ -70295,7 +70723,9 @@ window.BANK.chemistry = {
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-50.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q30.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q31a",
@@ -70311,14 +70741,20 @@ window.BANK.chemistry = {
       "naming alcohol"
      ],
      "question": "Deduce the name of the alcohol used to make ester X (C8H16O2) by reaction with ethanoyl chloride.",
-     "status": "pending",
-     "answer": "Needs the structure of ester X from the PDF to name the alcohol part",
-     "steps": [],
+     "status": "ready",
+     "answer": "3-methylpentan-3-ol, (CH3CH2)2C(OH)CH3",
+     "steps": [
+      "X is an ester CH3C(=O)-O-R; the acyl part (from ethanoyl chloride) is CH3CO-, so the alcohol part is R-OH",
+      "R is the carbon bonded to the ester O, which carries one CH3 and two CH2CH3 groups",
+      "The alcohol is (CH3CH2)2C(OH)CH3, a tertiary alcohol: a pentane chain with OH and CH3 both on carbon 3, so 3-methylpentan-3-ol (R-OH + CH3COCl -> ester + HCl)"
+     ],
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-51.jpg",
       "papers/chemistry/img/15E-Spectroscopy-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q31.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q31bi",
@@ -70333,14 +70769,21 @@ window.BANK.chemistry = {
       "equivalent protons"
      ],
      "question": "Complete the labelling of the structure of X to show each of the other proton environments, clearly linking any that are the same.",
-     "status": "pending",
-     "answer": "Needs the structure of X with label a from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Three more labels: b on the CH3 of the CH3C(=O) group; c on both CH2 groups (linked as the same environment); d on both CH3 of the ethyl groups (linked as the same environment)",
+     "steps": [
+      "a (given) is the CH3 on the central carbon",
+      "b: the CH3 attached to the ester C=O, a separate environment",
+      "c: the two CH2 groups are equivalent (both bonded to the same quaternary carbon and to a CH3), so they share one label, linked by a line",
+      "d: the two CH3 groups of the ethyl chains are equivalent, so they share one label; this gives four hydrogen environments in total (a, b, c, d)"
+     ],
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-51.jpg",
       "papers/chemistry/img/15E-Spectroscopy-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q31-2.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q31bii",
@@ -70367,7 +70810,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15E-Spectroscopy-51.jpg",
       "papers/chemistry/img/15E-Spectroscopy-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q31-2.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q31c",
@@ -70409,14 +70854,20 @@ window.BANK.chemistry = {
       "nucleophilic acyl substitution"
      ],
      "question": "Add a single curly arrow to Step 1 and a single curly arrow to Step 2 in the aspirin mechanism.",
-     "status": "pending",
-     "answer": "Needs the mechanism diagram from the PDF to place the curly arrows",
-     "steps": [],
+     "status": "ready",
+     "answer": "Step 1: a curly arrow from a lone pair on the carbonyl oxygen of the anhydride to the H+; Step 2: a curly arrow from a lone pair on the phenol oxygen of 2-hydroxybenzoic acid to the delta+ carbon of the protonated C=OH+ group",
+     "steps": [
+      "Step 1 is protonation: the lone pair on the C=O oxygen attacks H+ (arrow starts on the lone pair on the O and ends at H+), giving the C=OH+ group",
+      "Step 2 is nucleophilic attack: the lone pair on the phenol O-H oxygen attacks the electron-poor carbon, which is more positive after protonation",
+      "The arrow starts on the lone pair of the phenol oxygen and points to the carbonyl carbon (the arrow on the C=OH+ group moving electrons onto oxygen is already drawn)"
+     ],
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-51.jpg",
       "papers/chemistry/img/15E-Spectroscopy-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q31-3.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q31dii",
@@ -70459,14 +70910,21 @@ window.BANK.chemistry = {
       "identify ester"
      ],
      "question": "The high-resolution 1H NMR spectrum of an ester is shown. Which is its skeletal formula? (Options not in text.)",
-     "status": "pending",
-     "answer": "Needs the NMR spectrum and answer options from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: ethyl 2,2-dimethylpropanoate, (CH3)3C-C(=O)-O-CH2CH3",
+     "steps": [
+      "Three peaks with areas 9H, 3H and 2H: three hydrogen environments, 14 H in total",
+      "The 9H singlet at about 1.2 ppm is a (CH3)3C group (nine equivalent H with no neighbouring H)",
+      "The 2H quartet at about 4.1 ppm is OCH2 (next to a CH3) and the 3H triplet at about 1.2 ppm is the CH3 of the ethyl group",
+      "Only option D has C(CH3)3 and OCH2CH3 (option C would have the CH2 next to C=O at about 2.2 ppm, and a tert-butyl group on the oxygen)"
+     ],
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-52.jpg",
       "papers/chemistry/img/15E-Spectroscopy-53.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q32.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q33a",
@@ -70636,7 +71094,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15E-Spectroscopy-54.jpg",
       "papers/chemistry/img/15E-Spectroscopy-55.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q33-2.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q33dii",
@@ -70652,15 +71112,23 @@ window.BANK.chemistry = {
       "methyl 2-hydroxypropanoate"
      ],
      "question": "Complete the table giving the expected number of hydrogen atoms and splitting pattern for peaks J and K of methyl 2-hydroxypropanoate. (The table layout is not in the text.)",
-     "status": "pending",
-     "answer": "Needs the table and spectrum from the PDF to confirm which of J and K is the CH (1H, quartet) and which is the CH3 (3H, doublet)",
-     "steps": [],
+     "status": "ready",
+     "answer": "J: 3 hydrogen atoms, doublet; K: 1 hydrogen atom, quartet",
+     "steps": [
+      "In methyl 2-hydroxypropanoate, CH3CH(OH)COOCH3, the CH3 attached to the CH is the 1.3 ppm peak J: 3 H",
+      "J is split by the one H on the neighbouring CH, so n + 1 = 2: a doublet",
+      "The CH (4.1 ppm, bonded to O and next to C=O) is the single-hydrogen environment K: 1 H, split by the 3 H of the CH3 into a quartet",
+      "L (1H, OH) and M (3H, OCH3) are singlets because they have no H on adjacent carbons"
+     ],
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-53.jpg",
       "papers/chemistry/img/15E-Spectroscopy-54.jpg",
       "papers/chemistry/img/15E-Spectroscopy-55.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q33.jpg",
+      "papers/chemistry/fig/15E-Spectroscopy-Q33-2.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q34",
@@ -70674,14 +71142,21 @@ window.BANK.chemistry = {
       "carbon environments"
      ],
      "question": "Which isomer has the most peaks in its 13C NMR spectrum? (Options are in an image not in the text.)",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 2-methylpentane, with 5 peaks in its 13C NMR spectrum",
+     "steps": [
+      "Count the different carbon environments in each isomer (all are C6H14)",
+      "A (2,3-dimethylbutane) has 2 peaks, B (2,2-dimethylbutane) has 4 peaks, D (hexane) has 3 peaks",
+      "C (2-methylpentane, CH3CH2CH2CH(CH3)2) has 5 peaks: the two CH3 groups on the CH are equivalent, and the other four carbons are all different",
+      "So C has the most peaks"
+     ],
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-55.jpg",
       "papers/chemistry/img/15E-Spectroscopy-56.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q34.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q35",
@@ -70725,14 +71200,20 @@ window.BANK.chemistry = {
       "optical isomerism"
      ],
      "question": "How many chiral centres are present in nandrolone? Options: A six, B seven, C eight, D nine.",
-     "status": "pending",
-     "answer": "Needs the structure of nandrolone and the answer options from the PDF to count chiral centres",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: six",
+     "steps": [
+      "A chiral centre is a carbon atom bonded to four different groups",
+      "In nandrolone these are the ring-fusion carbons carrying an H (C8, C9, C10 and C14), the quaternary carbon bearing the methyl group (C13) and the carbon bearing OH (C17)",
+      "The C=C carbon (C5) and the C=O carbon (C3) are not chiral, so there are 6 chiral centres: option A"
+     ],
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-56.jpg",
       "papers/chemistry/img/15E-Spectroscopy-57.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q36.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q36b",
@@ -70747,14 +71228,20 @@ window.BANK.chemistry = {
       "reaction types"
      ],
      "question": "Nandrolone is broken down in the body into a compound shown in the question. What reactions have taken place to form the new bonds at positions 1 and 2?",
-     "status": "pending",
-     "answer": "Needs the structures of nandrolone and the metabolite from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: reduction at position 1 and addition at position 2",
+     "steps": [
+      "At position 1 the C=O of the ketone in nandrolone has become a C-OH alcohol: reduction (gain of hydrogen)",
+      "At position 2 the C=C double bond has become a C-C single bond with an extra H on each carbon: addition (hydrogenation)",
+      "So the answer is reduction and addition: option B"
+     ],
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-56.jpg",
       "papers/chemistry/img/15E-Spectroscopy-57.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q36-2.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q36c",
@@ -70770,14 +71257,21 @@ window.BANK.chemistry = {
       "g cm-3"
      ],
      "question": "A sample with 2 x 10^-9 g cm-3 of nandrolone gives a chromatogram. Which chromatogram would be produced by a second sample at 4 x 10^-9 g cm-3 under the same conditions? (Chromatograms are not in the text.)",
-     "status": "pending",
-     "answer": "Needs the chromatogram options from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: the peak at the same retention time (about 2.2 min) but about twice as tall",
+     "steps": [
+      "In GC the retention time is a property of the compound under the same conditions, so the peak stays at about 2.2 min: only C and D qualify (A and B are at about 5 min)",
+      "The peak area (and height, for peaks of equal width) is proportional to the concentration, so doubling from 2 x 10^-9 to 4 x 10^-9 g cm-3 doubles the peak height",
+      "D shows the peak about twice the height of the original, while C is about the same as the original sample"
+     ],
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-56.jpg",
       "papers/chemistry/img/15E-Spectroscopy-57.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q36-3.jpg",
+      "papers/chemistry/fig/15E-Spectroscopy-Q36-4.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q37a",
@@ -70792,9 +71286,13 @@ window.BANK.chemistry = {
       "mass percentage"
      ],
      "question": "Calculate the atom economy, by mass, for the formation of oxalic acid from the hydrolysis of 2-oxobutanedioic acid.",
-     "status": "pending",
-     "answer": "Needs the reaction equation from the PDF to confirm the by-product of the hydrolysis before calculating atom economy",
-     "steps": [],
+     "status": "ready",
+     "answer": "60% (90/150 x 100)",
+     "steps": [
+      "The equation is 2-oxobutanedioic acid + H2O -> ethanedioic acid (oxalic acid) + ethanoic acid",
+      "Mr of the products: oxalic acid 90 and ethanoic acid CH3COOH 60, total 150 (equal to the reactants: 132 + 18)",
+      "Atom economy = Mr of desired product / total Mr of products x 100 = 90 / 150 x 100 = 60%"
+     ],
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-58.jpg",
       "papers/chemistry/img/15E-Spectroscopy-59.jpg",
@@ -70803,7 +71301,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15E-Spectroscopy-62.jpg",
       "papers/chemistry/img/15E-Spectroscopy-63.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q37.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q37b",
@@ -70911,9 +71411,13 @@ window.BANK.chemistry = {
       "equivalence point"
      ],
      "question": "Select one indicator for each equivalence point from the titration graph of NaOH against oxalic acid, and give the colour at the end-point for each. Use the Data Booklet.",
-     "status": "pending",
-     "answer": "Needs the titration graph from the PDF to match each equivalence point with an indicator",
-     "steps": [],
+     "status": "ready",
+     "answer": "First equivalence point (25 cm3, pH rise about 2.7 to 4.6): methyl orange, orange at the end-point; second equivalence point (50 cm3, pH rise about 6.2 to 12.5): phenolphthalein, pale pink at the end-point",
+     "steps": [
+      "The titration curve has two vertical sections: at 25 cm3 NaOH (first H+ neutralised) and at 50 cm3 (second H+ neutralised)",
+      "First: the steep part runs from about pH 2.7 to 4.6, so choose an indicator whose range lies in it, e.g. methyl orange (pH range about 3.1-4.4); end-point colour orange (red to yellow change)",
+      "Second: the steep part runs from about pH 6.2 to 12.5; phenolphthalein (range about 8.3-10.0) fits; end-point colour pale pink (colourless to pink)"
+     ],
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-58.jpg",
       "papers/chemistry/img/15E-Spectroscopy-59.jpg",
@@ -70922,7 +71426,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15E-Spectroscopy-62.jpg",
       "papers/chemistry/img/15E-Spectroscopy-63.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q37-2.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q37dii",
@@ -70969,9 +71475,14 @@ window.BANK.chemistry = {
       "diprotic acid"
      ],
      "question": "Using the titration graph of NaOH with oxalic acid, determine the two Ka values for oxalic acid, showing working on the graph.",
-     "status": "pending",
-     "answer": "Needs the titration graph from the PDF to read the half-equivalence pH values for Ka1 and Ka2",
-     "steps": [],
+     "status": "ready",
+     "answer": "Ka1 = 10^-1.3 = 5 x 10^-2 mol dm-3 (pH 1.3 at 12.5 cm3); Ka2 = 10^-5.5 = 3 x 10^-6 mol dm-3 (pH 5.5 at 37.5 cm3)",
+     "steps": [
+      "Oxalic acid is diprotic and the equivalence points are at 25 cm3 and 50 cm3, so each stage of neutralisation uses 25 cm3",
+      "At half the first equivalence (12.5 cm3) [HA-] = [H2A], so Ka1 = [H+] and pH = pKa1: the graph reads pH about 1.3 at 12.5 cm3, so Ka1 = 10^-1.3 = 5 x 10^-2 mol dm-3",
+      "At half the second equivalence (37.5 cm3) [A2-] = [HA-], so pH = pKa2: the graph reads pH about 5.5 at 37.5 cm3",
+      "Ka2 = 10^-5.5 = 3.2 x 10^-6 mol dm-3; show the working by drawing vertical lines up from 12.5 and 37.5 cm3 to the curve and horizontal lines across to the pH axis"
+     ],
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-58.jpg",
       "papers/chemistry/img/15E-Spectroscopy-59.jpg",
@@ -70980,7 +71491,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15E-Spectroscopy-62.jpg",
       "papers/chemistry/img/15E-Spectroscopy-63.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q37-2.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q37ei",
@@ -71159,7 +71672,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15E-Spectroscopy-65.jpg",
       "papers/chemistry/img/15E-Spectroscopy-66.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q40.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q40bi",
@@ -71174,15 +71689,21 @@ window.BANK.chemistry = {
       "distinguish isomers"
      ],
      "question": "Esters W and X (C5H10O2) each have one peak with relative area 3 in their low-resolution 1H NMR spectra. Explain how these peaks can be used to distinguish the two esters.",
-     "status": "pending",
-     "answer": "Needs the displayed formulae of W and X from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Compare the chemical shifts of the 3H peaks: in W the 3H peak (OCH3) is at about 3.6-3.7 ppm, in X the 3H peak (CH3 on C=O) is at about 2.0-2.1 ppm",
+     "steps": [
+      "W is methyl 2-methylpropanoate, (CH3)2CHCOOCH3: its 3H peak is the OCH3, a CH3 bonded to an oxygen, at about 3.6-3.7 ppm (range about 2.9-4.2 ppm)",
+      "X is propan-2-yl ethanoate, CH3COOCH(CH3)2: its 3H peak is the CH3 bonded to the C=O, at about 2.0-2.1 ppm (range about 2.1-2.7 ppm)",
+      "The two 3H peaks therefore appear at different chemical shifts, so the esters can be told apart"
+     ],
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-64.jpg",
       "papers/chemistry/img/15E-Spectroscopy-65.jpg",
       "papers/chemistry/img/15E-Spectroscopy-66.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q40-2.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q40bii",
@@ -71198,15 +71719,22 @@ window.BANK.chemistry = {
       "C5H10O2"
      ],
      "question": "Label the displayed formulae of two different C5H10O2 esters with their proton environments, clearly indicating equivalent environments, and describe the splitting patterns of their high-resolution 1H NMR spectra.",
-     "status": "pending",
-     "answer": "Needs the displayed formulae of the two esters from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Y (butan-2-yl methanoate, HCOOCH(CH3)CH2CH3): HCO singlet (1H); OCH sextet (1H); CH2 quintet (2H); CH3 on the CH doublet (3H); CH3 of the ethyl group triplet (3H). Z (2-methylpropyl methanoate, HCOOCH2CH(CH3)2): HCO singlet (1H); OCH2 doublet (2H); CH multiplet of 9 peaks (1H); two equivalent CH3 doublet (6H)",
+     "steps": [
+      "Label each different hydrogen environment on the displayed formulae with a letter, giving the same letter to equivalent H (e.g. the two CH3 groups of the CH(CH3)2 in Z)",
+      "Y has five environments: H-C(=O)O singlet (no neighbours); O-CH next to CH3 (3H) and CH2 (2H), so 5 neighbours, a sextet (6 peaks); CH2 next to CH (1) and CH3 (3), 4 neighbours, a quintet; CH3 on the CH, 1 neighbour, a doublet; CH3 of the ethyl group, 2 neighbours, a triplet",
+      "Z has four environments: H-C(=O)O singlet; OCH2 next to a single CH, a doublet; CH next to CH2 (2H) and two CH3 (6H), so 8 neighbours, a multiplet of 9 peaks; the two equivalent CH3 groups (6H) next to the CH, a doublet",
+      "Relative areas for Y are 1 : 1 : 2 : 3 : 3 and for Z are 1 : 2 : 1 : 6"
+     ],
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-64.jpg",
       "papers/chemistry/img/15E-Spectroscopy-65.jpg",
       "papers/chemistry/img/15E-Spectroscopy-66.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q40-3.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q40biii",
@@ -71249,14 +71777,20 @@ window.BANK.chemistry = {
       "options 0.27 0.69 0.73 1.37"
      ],
      "question": "A thin-layer chromatogram of a substance is shown. What is its Rf value? Options: A 0.27, B 0.69, C 0.73, D 1.37.",
-     "status": "pending",
-     "answer": "Needs the TLC diagram from the PDF to measure the distances",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 0.73",
+     "steps": [
+      "Rf = distance moved by the sample / distance moved by the solvent front, both measured from the starting line",
+      "Measured on the diagram: the sample is about 153 units above the start line and the solvent front is about 209 units above it",
+      "Rf = 153 / 209 = 0.73, so option C (Rf is always less than 1, so D is impossible)"
+     ],
      "images": [
       "papers/chemistry/img/15E-Spectroscopy-66.jpg",
       "papers/chemistry/img/15E-Spectroscopy-67.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q41.jpg"
+     ]
     }
    ]
   },
@@ -71313,7 +71847,7 @@ window.BANK.chemistry = {
      ],
      "question": "The question wording and answer options for this item are missing from the extraction; only the instruction text and a blank working space remain.",
      "status": "pending",
-     "answer": "Needs the question text and options from the PDF; they are not in the extraction",
+     "answer": "The stem above the table (which orbital overlap or bond the question asks about) is missing from the page, so the correct row cannot be determined.",
      "steps": [],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-01.jpg",
@@ -71336,14 +71870,21 @@ window.BANK.chemistry = {
       "product"
      ],
      "question": "Chlorine reacts with methylbenzene in the presence of ultraviolet light. Which of the given products is formed?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF; the options are missing from the extraction",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: C6H5CH2Cl (chlorine substitutes on the CH3 side chain)",
+     "steps": [
+      "Chlorine with UV light undergoes free-radical substitution: Cl2 -> 2Cl. radicals, which attack the C-H bonds of the CH3 group.",
+      "This gives C6H5CH2Cl (option A): C6H5CH3 + Cl2 -> C6H5CH2Cl + HCl.",
+      "Substitution on the ring (options B, C) needs AlCl3 or FeCl3 and no UV light, because it is electrophilic substitution.",
+      "Option D has several ring chlorines as well as a side-chain chlorine, which is not the simple product of this reaction."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-02.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q3.jpg"
+     ]
     },
     {
      "id": "Ch16-Q4",
@@ -71361,14 +71902,21 @@ window.BANK.chemistry = {
       "reagent"
      ],
      "question": "Which reagent and catalyst convert benzene into phenylethanone?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF; the options are missing from the extraction",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: ethanoyl chloride with aluminium chloride",
+     "steps": [
+      "Benzene is converted to phenylethanone (C6H5COCH3) by Friedel-Crafts acylation.",
+      "The reagent is ethanoyl chloride, CH3COCl, which supplies the CH3CO group: C6H6 + CH3COCl -> C6H5COCH3 + HCl.",
+      "AlCl3 acts as a halogen carrier catalyst: it forms the electrophile CH3CO+ by accepting Cl- from CH3COCl.",
+      "Ethanal does not acylate benzene, and platinum is a hydrogenation catalyst, so options A, B and D are wrong."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-02.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q4.jpg"
+     ]
     },
     {
      "id": "Ch16-Q5",
@@ -71386,14 +71934,21 @@ window.BANK.chemistry = {
       "data booklet"
      ],
      "question": "Which disproportionation reaction (options A-D involving Bk, Cu, Au and Ag ions) is thermodynamically feasible under standard conditions?",
-     "status": "pending",
-     "answer": "Needs the standard electrode potential table shown in the PDF; it is not in the extraction",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 2Ag2+ -> Ag+ + Ag3+ (E(cell) = +0.18 V)",
+     "steps": [
+      "For 2X -> X(lower) + X(higher), E(cell) = E(X reduced to the lower state) - E(higher state reduced to X). A feasible reaction needs E(cell) > 0.",
+      "A: -2.80 - (+1.67) = -4.47 V. B: +0.15 - (+2.40) = -2.25 V. C: +1.69 - (+1.80) = -0.11 V. All negative, so not feasible.",
+      "D: E(Ag2+/Ag+) - E(Ag3+/Ag2+) = +1.98 - (+1.80) = +0.18 V, which is positive, so D is feasible."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-03.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q5.jpg",
+      "papers/chemistry/fig/16-Redox-Equilibria-Q5-2.jpg"
+     ]
     },
     {
      "id": "Ch16-Q6a",
@@ -71410,14 +71965,21 @@ window.BANK.chemistry = {
       "reduction"
      ],
      "question": "The apparatus shown measures the standard electrode potential for the reduction of ions in acid solution. Which material should be used for each electrode?",
-     "status": "pending",
-     "answer": "Needs the apparatus diagram from the PDF to identify the electrode materials",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Pt for electrode 1 and Pt for electrode 2",
+     "steps": [
+      "Electrode 1 is the standard hydrogen electrode: platinum (coated in platinum black) with H2 gas at 100 kPa bubbled over it.",
+      "Electrode 2 is in a solution of Cr2O7 2- and Cr3+ ions only, with no solid chromium in the half-equation, so an inert conductor is needed.",
+      "Platinum is inert and conducts, so both electrodes are platinum (option D)."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-04.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q6.jpg",
+      "papers/chemistry/fig/16-Redox-Equilibria-Q6-2.jpg"
+     ]
     },
     {
      "id": "Ch16-Q6b",
@@ -71434,14 +71996,22 @@ window.BANK.chemistry = {
       "hydrogen ion concentration"
      ],
      "question": "Solution 1 in the apparatus is one of: A 0.33 mol dm-3 H3PO4(aq), B 0.50 mol dm-3 H2SO4(aq), C 1.00 mol dm-3 HCl(aq), D 1.00 mol dm-3 CH3COOH(aq).",
-     "status": "pending",
-     "answer": "Needs the apparatus diagram from the PDF to identify which solution is solution 1",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 1.00 mol dm-3 HCl(aq)",
+     "steps": [
+      "Solution 1 is the hydrogen half-cell, which needs [H+(aq)] = 1.00 mol dm-3 exactly.",
+      "HCl is a strong monobasic acid, fully dissociated, so 1.00 mol dm-3 HCl gives 1.00 mol dm-3 H+.",
+      "H3PO4 and CH3COOH are weak acids, so their [H+] is far below the stated concentration.",
+      "0.50 mol dm-3 H2SO4 does not give 1.00 mol dm-3 H+, because the second dissociation (HSO4-) is incomplete."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-04.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q6.jpg",
+      "papers/chemistry/fig/16-Redox-Equilibria-Q6-3.jpg"
+     ]
     },
     {
      "id": "Ch16-Q6c",
@@ -71459,14 +72029,21 @@ window.BANK.chemistry = {
       "concentration"
      ],
      "question": "Solution 2 contains 14.71 g of K2Cr2O7 (Mr 294.2). What mass of Cr2(SO4)3.18H2O (Mr 716.3) should also be used? A 8.95 g, B 17.91 g, C 19.62 g, D 35.82 g.",
-     "status": "pending",
-     "answer": "Needs the stated condition for solution 2 from the PDF (equal concentrations of Cr2O7 2- and Cr3+ are assumed); likely B 17.91 g if confirmed",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 17.91 g",
+     "steps": [
+      "Standard conditions for the Cr2O7 2-/Cr3+ electrode need equal concentrations of Cr2O7 2- and Cr3+ in solution 2.",
+      "n(K2Cr2O7) = 14.71 / 294.2 = 0.0500 mol, so n(Cr3+) must also be 0.0500 mol.",
+      "Each formula unit of Cr2(SO4)3.18H2O contains 2 Cr3+, so n(Cr2(SO4)3.18H2O) = 0.0500 / 2 = 0.0250 mol.",
+      "Mass = 0.0250 x 716.3 = 17.91 g."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-04.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q6.jpg"
+     ]
     },
     {
      "id": "Ch16-Q6d",
@@ -71497,7 +72074,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/16-Redox-Equilibria-04.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q6.jpg"
+     ]
     },
     {
      "id": "Ch16-Q7",
@@ -71515,14 +72094,20 @@ window.BANK.chemistry = {
       "purple"
      ],
      "question": "An alkene is added to purple potassium manganate(VII) and the solution turns colourless. In terms of electron transfer and oxidation number, how does manganese change? Answer options are not in the extraction.",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF; the options are missing from the extraction",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: gains electrons, oxidation number decreases",
+     "steps": [
+      "Purple MnO4- (Mn +7) is the oxidising agent: it oxidises the alkene.",
+      "Loss of the purple colour means MnO4- is reduced, to colourless Mn2+ (+2) in acid (or brown MnO2, +4, in neutral/alkaline conditions).",
+      "Reduction is gain of electrons, and the manganese oxidation number falls, so option B."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-05.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q7.jpg"
+     ]
     },
     {
      "id": "Ch16-Q8a",
@@ -71551,7 +72136,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/16-Redox-Equilibria-06.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q8.jpg"
+     ]
     },
     {
      "id": "Ch16-Q8b",
@@ -71569,14 +72156,21 @@ window.BANK.chemistry = {
       "reaction"
      ],
      "question": "What metals should be used for the electrodes in the cell for this reaction? The reaction equation is not in the extraction.",
-     "status": "pending",
-     "answer": "Needs the reaction equation and cell diagram from the PDF to choose the electrode metals",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: platinum for the Fe3+/Fe2+ system and titanium for the Ti2+/Ti system",
+     "steps": [
+      "Fe3+/Fe2+ has only ions in solution, so an inert platinum electrode is needed to carry the electrons.",
+      "Ti2+/Ti includes solid titanium, which is itself the electrode.",
+      "Option C: platinum, titanium."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-06.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q8.jpg",
+      "papers/chemistry/fig/16-Redox-Equilibria-Q8-2.jpg"
+     ]
     },
     {
      "id": "Ch16-Q8c",
@@ -71605,7 +72199,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/16-Redox-Equilibria-06.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q8-3.jpg"
+     ]
     },
     {
      "id": "Ch16-Q9ai",
@@ -71622,15 +72218,21 @@ window.BANK.chemistry = {
       "manganate(VII)"
      ],
      "question": "Write the ionic equation for the disproportionation of manganate(VI) ions in acidic conditions, using the relevant half-equations from the table (state symbols not required).",
-     "status": "pending",
-     "answer": "Needs the half-equation table from the PDF; it is not in the extraction",
-     "steps": [],
+     "status": "ready",
+     "answer": "3MnO4 2- + 4H+ -> 2MnO4- + MnO2 + 2H2O",
+     "steps": [
+      "Reduction (half-equation 7): MnO4 2- + 4H+ + 2e- -> MnO2 + 2H2O.",
+      "Oxidation (half-equation 1 reversed): MnO4 2- -> MnO4- + e-. Multiply by 2 so the electrons balance.",
+      "Add and cancel the 2e-: 3MnO4 2- + 4H+ -> 2MnO4- + MnO2 + 2H2O (charge -2 on each side)."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-07.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-08.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q9.jpg"
+     ]
     },
     {
      "id": "Ch16-Q9aii",
@@ -71647,15 +72249,21 @@ window.BANK.chemistry = {
       "thermodynamic"
      ],
      "question": "Calculate the standard cell potential for the disproportionation of manganate(VI) ions in acidic conditions and state whether the reaction is thermodynamically feasible.",
-     "status": "pending",
-     "answer": "Needs the standard electrode potential values from the PDF table; they are not in the extraction",
-     "steps": [],
+     "status": "ready",
+     "answer": "E(cell) = +1.70 V; the reaction is thermodynamically feasible",
+     "steps": [
+      "E(cell) = E(reduction) - E(oxidation) = +2.26 - (+0.56).",
+      "E(cell) = +1.70 V.",
+      "This is positive, so the disproportionation of MnO4 2- in acid is thermodynamically feasible under standard conditions."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-07.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-08.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q9.jpg"
+     ]
     },
     {
      "id": "Ch16-Q9aiii",
@@ -71672,15 +72280,23 @@ window.BANK.chemistry = {
       "preparation"
      ],
      "question": "Using the table of standard electrode potentials, assess the thermodynamic feasibility of preparing manganate(VI) by reacting manganate(VII) with manganese(IV) oxide in alkaline conditions.",
-     "status": "pending",
-     "answer": "Needs the standard electrode potential table from the PDF; it is not in the extraction",
-     "steps": [],
+     "status": "ready",
+     "answer": "E(cell) = -0.03 V, so not feasible under standard conditions, but only just, so it could occur with a high [OH-]",
+     "steps": [
+      "Reaction: 2MnO4- + MnO2 + 4OH- -> 3MnO4 2- + 2H2O. MnO4- is reduced (half-equation 1) and MnO2 is oxidised (half-equation 2 reversed).",
+      "E(cell) = E(MnO4-/MnO4 2-) - E(MnO4 2-/MnO2) = +0.56 - (+0.59) = -0.03 V.",
+      "E(cell) is negative, so the reaction is not feasible under standard conditions.",
+      "The value is very close to zero, so a change from standard conditions can reverse the sign.",
+      "A concentrated alkali (high [OH-]) shifts MnO4 2- + 2H2O + 2e- <=> MnO2 + 4OH- to the left, making that E less positive, so E(cell) becomes positive and the preparation can work."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-07.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-08.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q9.jpg"
+     ]
     },
     {
      "id": "Ch16-Q9bi",
@@ -71743,7 +72359,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/16-Redox-Equilibria-08.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q9.jpg"
+     ]
     },
     {
      "id": "Ch16-Q9biii",
@@ -71794,15 +72412,22 @@ window.BANK.chemistry = {
       "titration"
      ],
      "question": "Complete the table of apparatus uncertainties used in the experiment in part (b).",
-     "status": "pending",
-     "answer": "Needs the uncertainty table from the PDF; the table is not in the extraction",
-     "steps": [],
+     "status": "ready",
+     "answer": "Burette 0.37 %, pipette 0.24 %, volumetric flask 0.12 % (total with the balance = 1.38 %)",
+     "steps": [
+      "The balance value (0.65 %) is 2 x 0.005 / 1.53 x 100, so a titre or weighing counts two readings.",
+      "Burette: 2 x 0.05 / 27.35 x 100 = 0.37 %.",
+      "Pipette: 0.06 / 25.0 x 100 = 0.24 %.",
+      "Volumetric flask: 0.3 / 250.0 x 100 = 0.12 %."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-07.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-08.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q9-2.jpg"
+     ]
     },
     {
      "id": "Ch16-Q9cii",
@@ -71819,15 +72444,22 @@ window.BANK.chemistry = {
       "justify"
      ],
      "question": "A third student gives 95.863 % for the proportion of iron. State whether this is an appropriate number of significant figures, justified by the total percentage uncertainty.",
-     "status": "pending",
-     "answer": "Needs the completed uncertainty table from part (c)(i) to compare with the total percentage uncertainty",
-     "steps": [],
+     "status": "ready",
+     "answer": "No: 95.863 % has too many significant figures; the total uncertainty is about 1.4 %, so 2 or 3 s.f. (e.g. 96 % or 95.9 %) is appropriate",
+     "steps": [
+      "Total percentage uncertainty = 0.65 + 0.37 + 0.24 + 0.12 = 1.38 %, which is about 1.4 %.",
+      "1.38 % of 95.9 is about 1.3 percentage points, so the result is only known to within roughly +/-1.3 %.",
+      "The digits after the units place are therefore meaningless: 95.863 (5 s.f.) claims a precision far better than the experiment allows.",
+      "The answer should be quoted to 2 s.f. (96 %) or at most 3 s.f. (95.9 %)."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-07.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-08.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q9-2.jpg"
+     ]
     },
     {
      "id": "Ch16-Q10a",
@@ -71993,14 +72625,21 @@ window.BANK.chemistry = {
       "same element"
      ],
      "question": "In which pair of compounds does the metal have different oxidation numbers? The answer options (pairs of compounds) are not in the extraction.",
-     "status": "pending",
-     "answer": "Needs the answer options (pairs of compounds) from the PDF; they are missing from the extraction",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: VO2+ and VO2+ (V is +5 in VO2^+ and +4 in VO^2+)",
+     "steps": [
+      "A: Cr is +6 in CrO4 2- and +6 in Cr2O7 2-, so the same.",
+      "B: Cr is +6 in CrO4 2-. In CrO3Cl-, Cr + 3(-2) + (-1) = -1, so Cr = +6, the same.",
+      "C: V is +5 in V2O5 and +5 in VO4 3- (V + 4(-2) = -3), so the same.",
+      "D: V is +5 in VO2^+ (V - 4 = +1) but +4 in VO^2+ (V - 2 = +2), so the oxidation numbers differ."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-11.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q14.jpg"
+     ]
     },
     {
      "id": "Ch16-Q15",
@@ -72017,13 +72656,19 @@ window.BANK.chemistry = {
       "electrodes"
      ],
      "question": "Which is the correct cell diagram to measure the cell potential for a redox reaction whose equation is in the PDF? The equation and options are not in the extraction.",
-     "status": "pending",
-     "answer": "Needs the redox equation and answer options from the PDF; they are missing from the extraction",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Pt | Fe2+, Fe3+ || [MnO4- + 8H+], [Mn2+ + 4H2O] | Pt",
+     "steps": [
+      "Both half-cells contain only ions in solution, so each needs an inert platinum electrode (not Fe or Mn).",
+      "Oxidation (Fe2+ -> Fe3+) is on the left and reduction (MnO4- -> Mn2+) on the right.",
+      "Species in the same phase are separated by commas, with the reduced form written next to the left electrode and the oxidised form first on the right, so the right half is [MnO4- + 8H+], [Mn2+ + 4H2O]."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q15.jpg"
+     ]
     },
     {
      "id": "Ch16-Q16",
@@ -72040,13 +72685,19 @@ window.BANK.chemistry = {
       "nitrogen"
      ],
      "question": "Copper is added to concentrated nitric acid giving a brown gas and a blue solution. How does nitrogen change in terms of oxidation number and electron transfer? The answer options are not in the extraction.",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF; the options are missing from the extraction (expected: N falls from +5 to +4 and gains one electron)",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: oxidation number decreases and nitrogen gains electrons",
+     "steps": [
+      "Cu + 4HNO3 -> Cu(NO3)2 + 2NO2 + 2H2O, where the brown gas is NO2.",
+      "Nitrogen goes from +5 in NO3- to +4 in NO2, so its oxidation number decreases.",
+      "A decrease in oxidation number is reduction, which is gain of electrons."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q16.jpg"
+     ]
     },
     {
      "id": "Ch16-Q17a",
@@ -72064,14 +72715,21 @@ window.BANK.chemistry = {
       "diagram"
      ],
      "question": "An electrochemical cell is set up using the electrode systems shown. What materials will be used for the electrodes in this cell?",
-     "status": "pending",
-     "answer": "Needs the electrode systems shown in the PDF diagram",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: platinum for both electrode systems",
+     "steps": [
+      "In both half-equations every species is an ion or water in solution.",
+      "Neither Cr nor Ti metal appears in the equations, so the electrodes must be inert.",
+      "Platinum is used for both (Cr2O7 2-/Cr3+ and TiO2+/Ti3+)."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-13.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q17.jpg",
+      "papers/chemistry/fig/16-Redox-Equilibria-Q17-2.jpg"
+     ]
     },
     {
      "id": "Ch16-Q17b",
@@ -72089,14 +72747,21 @@ window.BANK.chemistry = {
       "E value"
      ],
      "question": "What is the standard electrode potential for the TiO2+, Ti3+ electrode system? A -2.47 V, B -0.19 V, C +0.19 V, D +2.47 V.",
-     "status": "pending",
-     "answer": "Needs the Data Booklet value for TiO2+/Ti3+ to select an option; the options do not confirm it from the text alone",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: +0.19 V",
+     "steps": [
+      "In the reaction between Cr2O7 2- and Ti3+, dichromate is reduced, so the Cr2O7 2-/Cr3+ system is the more positive electrode.",
+      "E(cell) = E(Cr2O7 2-/Cr3+) - E(TiO2+/Ti3+), so +1.14 = +1.33 - E(TiO2+/Ti3+).",
+      "E(TiO2+/Ti3+) = 1.33 - 1.14 = +0.19 V."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-13.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q17.jpg",
+      "papers/chemistry/fig/16-Redox-Equilibria-Q17-3.jpg"
+     ]
     },
     {
      "id": "Ch16-Q18a",
@@ -72173,15 +72838,22 @@ window.BANK.chemistry = {
       "silver ions"
      ],
      "question": "Which silver compound could be used as the electrolyte in the left-hand half-cell? A silver nitrate, B silver hydroxide, C silver chloride, D silver carbonate.",
-     "status": "pending",
-     "answer": "Needs the half-equations and apparatus diagram from the PDF to confirm the left-hand half-cell",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: silver nitrate",
+     "steps": [
+      "The left half-cell is Ag+(aq)|Ag, so the electrolyte must provide 1 mol dm-3 Ag+(aq).",
+      "Silver nitrate is soluble and supplies Ag+ at that concentration.",
+      "Silver hydroxide, chloride and carbonate are insoluble or sparingly soluble, so they could not give 1 mol dm-3 Ag+."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-14.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-15.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q19.jpg",
+      "papers/chemistry/fig/16-Redox-Equilibria-Q19-2.jpg"
+     ]
     },
     {
      "id": "Ch16-Q19b",
@@ -72198,15 +72870,21 @@ window.BANK.chemistry = {
       "solution"
      ],
      "question": "The electrolyte in the right-hand half-cell is prepared using equal volumes of two solutions (the options are not in the extraction).",
-     "status": "pending",
-     "answer": "Needs the statement and answer options from the PDF; they are missing from the extraction",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 2 mol dm-3 acidified VO2^+(aq) and 2 mol dm-3 acidified VO^2+(aq)",
+     "steps": [
+      "The VO2^+/VO^2+ half-cell needs both ions at 1 mol dm-3 and 1 mol dm-3 H+ to be standard.",
+      "Mixing equal volumes halves each concentration, so each solution must start at 2 mol dm-3 (and acidified).",
+      "Option A would give only 0.5 mol dm-3 of each ion, and C and D each lack one of the two vanadium ions."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-14.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-15.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q19-3.jpg"
+     ]
     },
     {
      "id": "Ch16-Q19c",
@@ -72223,15 +72901,22 @@ window.BANK.chemistry = {
       "electrodes"
      ],
      "question": "Which is the equation for the overall cell reaction under standard conditions? The options are not in the extraction.",
-     "status": "pending",
-     "answer": "Needs the electrode half-equations and answer options from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: VO2^+(aq) + Ag(s) + 2H+(aq) -> VO^2+(aq) + Ag+(aq) + H2O(l)",
+     "steps": [
+      "The VO2^+/VO^2+ system (+1.00 V) is more positive than Ag+/Ag (+0.80 V), so it is the positive electrode, where reduction happens.",
+      "Reduction: VO2^+ + 2H+ + e- -> VO^2+ + H2O. Oxidation: Ag -> Ag+ + e-.",
+      "Adding gives option B (1 electron each, so no factor of 3 is needed)."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-14.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-15.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q19.jpg",
+      "papers/chemistry/fig/16-Redox-Equilibria-Q19-4.jpg"
+     ]
     },
     {
      "id": "Ch16-Q19d",
@@ -72248,15 +72933,20 @@ window.BANK.chemistry = {
       "emf"
      ],
      "question": "Which is the value of the standard cell potential in volts? A -1.80, B -0.20, C +0.20, D +1.80.",
-     "status": "pending",
-     "answer": "Needs the standard electrode potentials of the two half-cells from the PDF to check the value",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: +0.20 V",
+     "steps": [
+      "E(cell) = E(positive electrode) - E(negative electrode).",
+      "E(cell) = +1.00 - (+0.80) = +0.20 V."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-14.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-15.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q19.jpg"
+     ]
     },
     {
      "id": "Ch16-Q19e",
@@ -72273,15 +72963,23 @@ window.BANK.chemistry = {
       "salt bridge"
      ],
      "question": "Which is the cell diagram for this cell, using the conventional representation of half-cells? The options are not in the extraction.",
-     "status": "pending",
-     "answer": "Needs the electrode systems and answer options from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Ag(s) | Ag+(aq) || [VO2^+(aq) + 2H+(aq)], [VO^2+(aq) + H2O(l)] | Pt(s)",
+     "steps": [
+      "The negative electrode (oxidation, Ag -> Ag+) is on the left, and the salt bridge is shown as ||.",
+      "The right half-cell has a Pt electrode, with the oxidised side (VO2^+ + 2H+) written before the reduced side (VO^2+ + H2O).",
+      "Species in the same solution are separated by a comma, not a phase line, which rules out options A and C.",
+      "Option D has the right half-cell written the wrong way round, with the reduced side first."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-14.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-15.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q19.jpg",
+      "papers/chemistry/fig/16-Redox-Equilibria-Q19-5.jpg"
+     ]
     },
     {
      "id": "Ch16-Q20a",
@@ -72509,14 +73207,20 @@ window.BANK.chemistry = {
       "hydrogen-oxygen"
      ],
      "question": "Which statement is correct for an alkaline hydrogen-oxygen fuel cell compared with an acidic one? The statements are not in the extraction.",
-     "status": "pending",
-     "answer": "Needs the statements and answer options from the PDF; they are missing from the extraction",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: the catalyst is more efficient",
+     "steps": [
+      "E(cell) is +1.23 V in both acid and alkali: alkaline +0.40 - (-0.83) = +1.23 V, acidic +1.23 - 0 = +1.23 V.",
+      "The overall reaction 2H2 + O2 -> 2H2O is the same, so delta S(total) and Kc are also the same, which rules out A, B and D.",
+      "Only the kinetics differ, since in alkaline conditions oxygen reduction is easier and cheaper, more efficient catalysts can be used, so C."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-18.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q22.jpg"
+     ]
     },
     {
      "id": "Ch16-Q23",
@@ -72533,14 +73237,20 @@ window.BANK.chemistry = {
       "thermodynamics"
      ],
      "question": "In a chemical reaction, a thermodynamic quantity (symbol missing in the extraction) is directly proportional to a second quantity. The options are not in the extraction.",
-     "status": "pending",
-     "answer": "Needs the symbol and answer options from the PDF; they are missing from the extraction",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: delta S(total)",
+     "steps": [
+      "delta S(total) = nFE(cell)/T, and n, F and T are constants for a given cell.",
+      "So E(cell) is directly proportional to delta S(total).",
+      "E(cell) is proportional to ln K, not K, and is not directly proportional to delta rH or delta S(system)."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-19.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q23.jpg"
+     ]
     },
     {
      "id": "Ch16-Q24",
@@ -72861,14 +73571,21 @@ window.BANK.chemistry = {
       "notation"
      ],
      "question": "The cell diagram for an electrochemical cell is shown in the PDF. What are the half-equations for the reactions in the half-cells? The diagram and options are not in the extraction.",
-     "status": "pending",
-     "answer": "Needs the cell diagram and answer options from the PDF; they are missing from the extraction",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: left Fe2+ -> Fe3+ + e-; right Br2 + 2e- -> 2Br-",
+     "steps": [
+      "In a cell diagram the left-hand half-cell is the oxidation (negative electrode): Fe2+ -> Fe3+ + e-.",
+      "The right-hand half-cell is the reduction (positive electrode): Br2 + 2e- -> 2Br-.",
+      "This matches E(cell) = +1.09 - 0.77 = +0.32 V (option B)."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-24.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q31.jpg",
+      "papers/chemistry/fig/16-Redox-Equilibria-Q31-2.jpg"
+     ]
     },
     {
      "id": "Ch16-Q32",
@@ -72886,14 +73603,21 @@ window.BANK.chemistry = {
       "reaction rate"
      ],
      "question": "Persulfate ions react slowly with iodide ions unless Fe2+ or Fe3+ is added. Which is the most likely reason the uncatalysed reaction is slow? The options are not in the extraction.",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF; they are missing from the extraction (expected: high activation energy, with repulsion between the two negative ions)",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: activation energy is high",
+     "steps": [
+      "E(cell) is positive (about +1.47 V), so the reaction is thermodynamically feasible, and delta S(total) is positive.",
+      "A feasible reaction that is slow must have a high activation energy.",
+      "Both S2O8 2- and I- are negative ions, so they repel each other and few collisions have enough energy.",
+      "Fe2+ or Fe3+ gives an alternative route with a lower activation energy."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-25.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q32.jpg"
+     ]
     },
     {
      "id": "Ch16-Q33",
@@ -72940,14 +73664,20 @@ window.BANK.chemistry = {
       "signs"
      ],
      "question": "The emf of a cell is +0.57 V. The magnitudes of the two standard electrode potentials are 0.17 V and 0.40 V. What are the signs of the potentials of the right-hand and left-hand half-cells? The answer options are not in the extraction.",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF; they are missing from the extraction (expected: right-hand +0.40 V, left-hand -0.17 V)",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: left-hand half-cell negative, right-hand half-cell positive",
+     "steps": [
+      "E(cell) = E(right) - E(left) = +0.57 V.",
+      "With magnitudes 0.40 V and 0.17 V, the only way to reach 0.57 V is 0.40 - (-0.17).",
+      "So the right-hand half-cell is +0.40 V (positive) and the left-hand half-cell is -0.17 V (negative)."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-26.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q34.jpg"
+     ]
     },
     {
      "id": "Ch16-Q35",
@@ -72964,14 +73694,20 @@ window.BANK.chemistry = {
       "list"
      ],
      "question": "Standard electrode potentials can also be called the electrochemical series. Which statement is correct? The options are not in the extraction.",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF; they are missing from the extraction",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: standard reduction potential; most negative to most positive",
+     "steps": [
+      "Standard electrode potentials are defined for reduction half-equations, so they are also called standard reduction potentials.",
+      "A standard cell potential refers to a whole cell, not an electrode, which rules out C and D.",
+      "The electrochemical series lists them from the most negative to the most positive (the Data Booklet order), so A."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-26.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q35.jpg"
+     ]
     },
     {
      "id": "Ch16-Q36",
@@ -73017,14 +73753,20 @@ window.BANK.chemistry = {
       "manganese"
      ],
      "question": "In which pair of compounds does the transition metal have the same oxidation number? The answer options are not in the extraction.",
-     "status": "pending",
-     "answer": "Needs the answer options (pairs of compounds) from the PDF; they are missing from the extraction",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: VO3- and VO2+ (V is +5 in both)",
+     "steps": [
+      "A: CrO2Cl2 has Cr +6, but [Cr(NH3)4Cl2]+ has Cr +3. B: [Cu(NH3)2]+ has Cu +1, but [CuCl4]2- has Cu +2.",
+      "C: Mn2O3 has Mn +3 and MnO2 has Mn +4.",
+      "D: in VO3-, V - 6 = -1 so V = +5; in VO2^+, V - 4 = +1 so V = +5, so the oxidation numbers are the same."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-27.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q37.jpg"
+     ]
     },
     {
      "id": "Ch16-Q38",
@@ -73055,7 +73797,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/16-Redox-Equilibria-28.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q38.jpg"
+     ]
     },
     {
      "id": "Ch16-Q39",
@@ -73216,14 +73960,21 @@ window.BANK.chemistry = {
       "accuracy"
      ],
      "question": "Which piece of equipment has the lowest measurement uncertainty in this titration? A measuring cylinder (100 cm3 sulfuric acid), B volumetric flask (iron tablet solution), C pipette (iron(II) solution), D burette (25.00 cm3 titre).",
-     "status": "pending",
-     "answer": "Needs the apparatus uncertainty values from the PDF (or Data Booklet table) to compare relative uncertainties",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: the volumetric flask",
+     "steps": [
+      "Compare the percentage uncertainty of each measurement, not the raw uncertainty.",
+      "Measuring cylinder: 1/100 = 1.0 %. Pipette: 0.06/25.0 = 0.24 %.",
+      "Burette titre: 2 x 0.05/25.00 = 0.40 % (two readings). Volumetric flask: 0.15/250.0 = 0.06 %.",
+      "The volumetric flask has the lowest, so B."
+     ],
      "images": [
       "papers/chemistry/img/16-Redox-Equilibria-30.jpg",
       "papers/chemistry/img/16-Redox-Equilibria-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/16-Redox-Equilibria-Q43.jpg"
+     ]
     },
     {
      "id": "Ch16-Q43c",
@@ -74608,15 +75359,22 @@ window.BANK.chemistry = {
       "standard conditions"
      ],
      "question": "Identify the salt bridge solution and the electrode and solution needed in the right-hand half-cell to measure the standard electrode potential of Fe3+/Fe2+ under standard conditions.",
-     "status": "pending",
-     "answer": "Needs the apparatus diagram to be checked against the PDF (the labels A, B and C are blank in the text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: potassium nitrate solution (KNO3(aq)); B: platinum (Pt); C: a solution containing both Fe3+(aq) and Fe2+(aq), each at 1.0 mol dm-3",
+     "steps": [
+      "A salt bridge needs a solution of unreactive ions, such as KNO3(aq), so it completes the circuit without reacting with either half-cell.",
+      "B is an inert electrode, platinum, because Fe3+/Fe2+ has no solid metal to act as the electrode and Pt carries electrons to the solution.",
+      "C must contain both members of the redox couple, Fe3+(aq) and Fe2+(aq).",
+      "Standard conditions: each ion at 1.0 mol dm-3, 298 K (and 100 kPa for the hydrogen half-cell)."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-01.jpg",
       "papers/chemistry/img/17-Transition-Metals-02.jpg",
       "papers/chemistry/img/17-Transition-Metals-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q1.jpg"
+     ]
     },
     {
      "id": "Ch17-Q1b",
@@ -74632,15 +75390,23 @@ window.BANK.chemistry = {
       "electrode"
      ],
      "question": "Given a cell diagram, write the two half-equations and the overall ionic equation (no state symbols).",
-     "status": "pending",
-     "answer": "Needs the cell diagram, which is not present in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Left (oxidation): Mn2+ + 4H2O -> MnO4- + 8H+ + 5e-; right (reduction): BiO3- + 6H+ + 2e- -> Bi3+ + 3H2O; overall: 2Mn2+ + 5BiO3- + 14H+ -> 2MnO4- + 5Bi3+ + 7H2O",
+     "steps": [
+      "In a cell diagram the left-hand electrode is where oxidation occurs: Mn2+ + 4H2O -> MnO4- + 8H+ + 5e-.",
+      "The right-hand electrode is where reduction occurs: BiO3- + 6H+ + 2e- -> Bi3+ + 3H2O.",
+      "Balance the electrons: multiply the Mn half-equation by 2 and the Bi half-equation by 5, so 10e- cancel.",
+      "Add: 2Mn2+ + 8H2O + 5BiO3- + 30H+ -> 2MnO4- + 16H+ + 5Bi3+ + 15H2O.",
+      "Cancel H2O and H+ to give 2Mn2+ + 5BiO3- + 14H+ -> 2MnO4- + 5Bi3+ + 7H2O (charge 13+ on each side)."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-01.jpg",
       "papers/chemistry/img/17-Transition-Metals-02.jpg",
       "papers/chemistry/img/17-Transition-Metals-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q1-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q1c",
@@ -74889,9 +75655,14 @@ window.BANK.chemistry = {
       "structure"
      ],
      "question": "Which pair of monomers can form the polymer shown?",
-     "status": "pending",
-     "answer": "Needs the polymer structure and the option list, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: HOOCC6H4COOH and HOCH2CH2OH",
+     "steps": [
+      "The repeat unit contains ester links (-C(=O)-O-), so the polymer is a polyester made by condensation polymerisation.",
+      "The acyl part is -OC-C6H4-CO-, which comes from benzene-1,4-dicarboxylic acid, HOOCC6H4COOH.",
+      "The alkoxy part is -O-CH2CH2-O-, which comes from ethane-1,2-diol, HOCH2CH2OH.",
+      "So the monomer pair is a dicarboxylic acid plus a diol, option D."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-07.jpg",
       "papers/chemistry/img/17-Transition-Metals-08.jpg",
@@ -74899,7 +75670,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-10.jpg",
       "papers/chemistry/img/17-Transition-Metals-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q8.jpg"
+     ]
     },
     {
      "id": "Ch17-Q9a",
@@ -75042,9 +75815,15 @@ window.BANK.chemistry = {
       "sodium carbonate"
      ],
      "question": "Using the calibration graph, decide whether the iron content of 20 g sodium carbonate (transmittance 39.8%, 500 cm3 solution) meets a limit of less than 20 ppm.",
-     "status": "pending",
-     "answer": "Needs the calibration graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Iron = about 11 ppm by mass (0.45 mg dm-3 from the graph), which is less than 20 ppm, so the sample meets the specification.",
+     "steps": [
+      "log(% transmittance) = log 39.8 = 1.60.",
+      "Reading across the calibration graph from 1.60 to the line gives a concentration of about 0.45 mg dm-3 of iron.",
+      "Mass of iron in 500 cm3 = 0.45 mg dm-3 x 0.500 dm3 = 0.225 mg = 2.25 x 10^-4 g.",
+      "ppm by mass = (2.25 x 10^-4 g / 20 g) x 10^6 = 11 ppm.",
+      "11 ppm < 20 ppm, so the sodium carbonate meets the stated specification."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-07.jpg",
       "papers/chemistry/img/17-Transition-Metals-08.jpg",
@@ -75052,7 +75831,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-10.jpg",
       "papers/chemistry/img/17-Transition-Metals-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q9.jpg"
+     ]
     },
     {
      "id": "Ch17-Q9d2",
@@ -75219,13 +76000,19 @@ window.BANK.chemistry = {
       "oxidation"
      ],
      "question": "Aqueous NaOH is added to aqueous iron(II) sulfate and the mixture allowed to stand. What would be observed? (Options not in text.)",
-     "status": "pending",
-     "answer": "Needs the answer options, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: green precipitate immediately, which turns brown on standing",
+     "steps": [
+      "Fe2+(aq) + 2OH-(aq) -> Fe(OH)2(s), which is a green precipitate.",
+      "On standing in air the Fe(OH)2 is oxidised by oxygen to Fe(OH)3, which is brown.",
+      "So the observations are green precipitate then turns brown, option D."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q10.jpg"
+     ]
     },
     {
      "id": "Ch17-Q11a",
@@ -75376,7 +76163,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-15.jpg",
       "papers/chemistry/img/17-Transition-Metals-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q12.jpg"
+     ]
     },
     {
      "id": "Ch17-Q12b2",
@@ -75392,9 +76181,14 @@ window.BANK.chemistry = {
       "diagram"
      ],
      "question": "Complex Z is a stereoisomer of complex Y. Complete the diagram showing the arrangement of the ligands in Z.",
-     "status": "pending",
-     "answer": "Needs the diagram of complex Y and Z, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Z is the facial (fac) isomer: draw Cl at the top and at the end of the right-hand dotted bond, and THF at the end of the right-hand wedge, so the 3 Cl are mutually cis and the 3 THF are mutually cis.",
+     "steps": [
+      "Complex Y is octahedral TiCl3(THF)3 in which two THF are trans (top and bottom) and two Cl are trans (right-hand dotted bond and left-hand wedge), so Y is the meridional (mer) isomer.",
+      "The stereoisomer Z must have the same ligands but a different arrangement, which is the facial (fac) isomer with all three like ligands on one triangular face.",
+      "The given ligands in Z are THF at the bottom, THF on the left wedge and Cl on the left dotted bond.",
+      "Complete Z with THF on the right wedge (cis to both THF already shown), and Cl on the top vertical bond and the right dotted bond, so no two like ligands are trans to each other."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-12.jpg",
       "papers/chemistry/img/17-Transition-Metals-13.jpg",
@@ -75402,7 +76196,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-15.jpg",
       "papers/chemistry/img/17-Transition-Metals-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q12.jpg",
+      "papers/chemistry/fig/17-Transition-Metals-Q12-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q12c1",
@@ -75481,9 +76278,14 @@ window.BANK.chemistry = {
       "overall equation"
      ],
      "question": "Write the overall ionic equation for the titration using the answer to (c)(ii) and the half-equations from the list below.",
-     "status": "pending",
-     "answer": "Needs the list of half-equations, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "3Ti3+ + NO3- + H2O -> 3TiO2+ + NO + 2H+",
+     "steps": [
+      "From (c)(ii) nitrogen is reduced from +5 to +2, so the relevant half-equation is NO3- + 4H+ + 3e- -> NO + 2H2O.",
+      "Ti3+ is oxidised: Ti3+ + H2O -> TiO2+ + 2H+ + e-, so multiply by 3 to match the 3 electrons.",
+      "Add: 3Ti3+ + 3H2O + NO3- + 4H+ -> 3TiO2+ + 6H+ + NO + 2H2O.",
+      "Cancel H2O and H+ to give 3Ti3+ + NO3- + H2O -> 3TiO2+ + NO + 2H+ (charge 8+ on both sides)."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-12.jpg",
       "papers/chemistry/img/17-Transition-Metals-13.jpg",
@@ -75491,7 +76293,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-15.jpg",
       "papers/chemistry/img/17-Transition-Metals-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q12-3.jpg"
+     ]
     },
     {
      "id": "Ch17-Q12c4",
@@ -75507,9 +76311,12 @@ window.BANK.chemistry = {
       "nitrate"
      ],
      "question": "Use the electrode potential data provided to calculate E-zero for the overall titration reaction.",
-     "status": "pending",
-     "answer": "Needs the electrode potential data table, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "E-zero(cell) = +0.86 V",
+     "steps": [
+      "The NO3-/NO half-equation (+0.96 V) is reduction and the TiO2+/Ti3+ half-equation (+0.10 V) is reversed to oxidation.",
+      "E-zero(cell) = E-zero(reduction) - E-zero(oxidation) = (+0.96) - (+0.10) = +0.86 V."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-12.jpg",
       "papers/chemistry/img/17-Transition-Metals-13.jpg",
@@ -75517,7 +76324,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-15.jpg",
       "papers/chemistry/img/17-Transition-Metals-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q12-3.jpg"
+     ]
     },
     {
      "id": "Ch17-Q12c5",
@@ -75597,14 +76406,19 @@ window.BANK.chemistry = {
       "Cu(en)3"
      ],
      "question": "What type of ligand is 1,2-diaminoethane and what is the coordination number of copper(II) in Cu(en)3 2+? (Options not in text.)",
-     "status": "pending",
-     "answer": "Needs the answer options, which are missing from the text (expected: bidentate, coordination number 6).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: bidentate, coordination number 6",
+     "steps": [
+      "1,2-diaminoethane, H2NCH2CH2NH2, has two N atoms, each donating a lone pair, so it is bidentate.",
+      "Cu(en)3 2+ has three bidentate ligands, so the coordination number is 3 x 2 = 6."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-16.jpg",
       "papers/chemistry/img/17-Transition-Metals-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q13.jpg"
+     ]
     },
     {
      "id": "Ch17-Q14",
@@ -75620,14 +76434,20 @@ window.BANK.chemistry = {
       "reaction types"
      ],
      "question": "Aqueous ammonia added to zinc sulfate forms a white precipitate that dissolves in excess. What types of reaction occur? (Options not in text.)",
-     "status": "pending",
-     "answer": "Needs the answer options, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: deprotonation then ligand exchange",
+     "steps": [
+      "NH3 first acts as a base and removes H+ from [Zn(H2O)6]2+, giving neutral Zn(OH)2(H2O)4, the white precipitate (deprotonation).",
+      "In excess ammonia, NH3 replaces water ligands to give colourless [Zn(NH3)4]2+, so this step is ligand exchange.",
+      "So the pair is deprotonation, ligand exchange, option A."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-16.jpg",
       "papers/chemistry/img/17-Transition-Metals-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q14.jpg"
+     ]
     },
     {
      "id": "Ch17-Q15",
@@ -75673,14 +76493,20 @@ window.BANK.chemistry = {
       "manganese(II)"
      ],
      "question": "The reaction of ethanedioate ions with manganate(VII) ions in acid involves autocatalysis. What is the catalyst? (Options not in text.)",
-     "status": "pending",
-     "answer": "Needs the answer options, which are missing from the text (expected: Mn2+).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Mn2+",
+     "steps": [
+      "The reaction is autocatalytic, so the catalyst is one of the products.",
+      "Mn2+ is formed in the reaction and then catalyses it (via Mn3+), so the rate increases once some has formed.",
+      "The other products, H2O and CO2, are not catalysts; MnO4- and H+ are reactants, so the answer is Mn2+."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-17.jpg",
       "papers/chemistry/img/17-Transition-Metals-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q16.jpg"
+     ]
     },
     {
      "id": "Ch17-Q17",
@@ -75865,14 +76691,20 @@ window.BANK.chemistry = {
       "complex"
      ],
      "question": "What are the shapes of the Pt(NH3)2Cl2 complex and the chromium complex? (Chromium complex formula missing from the text.)",
-     "status": "pending",
-     "answer": "Needs the chromium complex formula, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Pt(NH3)2Cl2 is square planar and CrCl4- is tetrahedral",
+     "steps": [
+      "Pt(II) forms four-coordinate complexes that are square planar, as in cisplatin.",
+      "CrCl4- has four large Cl- ligands around Cr, so it is tetrahedral (large ligands favour tetrahedral four-coordination).",
+      "This is option D."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-20.jpg",
       "papers/chemistry/img/17-Transition-Metals-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q23.jpg"
+     ]
     },
     {
      "id": "Ch17-Q23b",
@@ -75888,14 +76720,19 @@ window.BANK.chemistry = {
       "Pt(NH3)2Cl2"
      ],
      "question": "What is the bonding between the ligands and the central atom in these complexes? (Chromium complex formula missing.)",
-     "status": "pending",
-     "answer": "Needs the chromium complex formula, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: the bonding in both complexes is dative covalent",
+     "steps": [
+      "In a complex each ligand (NH3, Cl-) donates a lone pair to the central metal ion.",
+      "So the bond between ligand and central atom is a dative (coordinate) covalent bond in both Pt(NH3)2Cl2 and CrCl4-."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-20.jpg",
       "papers/chemistry/img/17-Transition-Metals-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q23.jpg"
+     ]
     },
     {
      "id": "Ch17-Q24a",
@@ -75911,15 +76748,24 @@ window.BANK.chemistry = {
       "reactions diagram"
      ],
      "question": "Identify, by name or formula, the copper-containing species P, Q, R, S, T, V and W in the reaction sequence diagram.",
-     "status": "pending",
-     "answer": "Needs the reaction diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "P = copper (Cu, copper metal); Q = copper(II) sulfate solution (Cu2+(aq)); R = copper(II) hydroxide (Cu(OH)2); S = copper(II) oxide (CuO); T = tetraamminediaquacopper(II) ion, [Cu(NH3)4(H2O)2]2+; V = diamminecopper(I) ion, [Cu(NH3)2]+; W = copper(II) nitrate solution (Cu2+(aq), [Cu(H2O)6]2+)",
+     "steps": [
+      "Copper(I) iodide disproportionates in H2SO4: 2Cu+ -> Cu + Cu2+, so P (pink solid) is Cu metal and Q (blue solution) is Cu2+ as CuSO4(aq).",
+      "A little NH3(aq) added to Cu2+(aq) gives the pale blue precipitate R = Cu(OH)2 (copper(II) hydroxide).",
+      "Heating Cu(OH)2 gives black S = CuO (copper(II) oxide).",
+      "Excess NH3 dissolves R by ligand exchange to give the dark blue complex T = [Cu(NH3)4(H2O)2]2+.",
+      "CuI + NH3 gives the colourless complex V = [Cu(NH3)2]+ (copper(I) complex).",
+      "CuO + HNO3 gives blue W = Cu(NO3)2(aq), i.e. [Cu(H2O)6]2+ (copper(II) nitrate)."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-21.jpg",
       "papers/chemistry/img/17-Transition-Metals-22.jpg",
       "papers/chemistry/img/17-Transition-Metals-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q24.jpg"
+     ]
     },
     {
      "id": "Ch17-Q24b1",
@@ -75935,15 +76781,20 @@ window.BANK.chemistry = {
       "colourless"
      ],
      "question": "Name the type of chemical species that T and V are. (Diagram needed.)",
-     "status": "pending",
-     "answer": "Needs the reaction diagram to identify T and V, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Complex ions (T is a copper(II) ammine complex and V is a copper(I) ammine complex)",
+     "steps": [
+      "T is [Cu(NH3)4(H2O)2]2+ and V is [Cu(NH3)2]+.",
+      "Both are complex ions: a central metal ion surrounded by ligands bonded by dative covalent bonds."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-21.jpg",
       "papers/chemistry/img/17-Transition-Metals-22.jpg",
       "papers/chemistry/img/17-Transition-Metals-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q24.jpg"
+     ]
     },
     {
      "id": "Ch17-Q24b2",
@@ -75959,15 +76810,22 @@ window.BANK.chemistry = {
       "d orbitals"
      ],
      "question": "Explain why T is coloured while V is colourless. (Diagram needed to identify T and V.)",
-     "status": "pending",
-     "answer": "Needs the reaction diagram to identify T and V, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "T contains Cu2+ (3d9), which has a partially filled d subshell, so d-d transitions can absorb visible light; V contains Cu+ (3d10) with a full d subshell, so no d-d transitions and it is colourless.",
+     "steps": [
+      "Colour in transition metal complexes arises from d-d transitions: an electron is promoted between split d orbitals by absorbing visible light.",
+      "In T the copper is Cu2+ with the configuration [Ar] 3d9, so there is a vacancy in the d orbitals and an electron can be promoted.",
+      "In V the copper is Cu+ with the configuration [Ar] 3d10, so the d subshell is full and there is no empty d orbital to be promoted into.",
+      "With no d-d transition no visible light is absorbed, so V is colourless."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-21.jpg",
       "papers/chemistry/img/17-Transition-Metals-22.jpg",
       "papers/chemistry/img/17-Transition-Metals-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q24.jpg"
+     ]
     },
     {
      "id": "Ch17-Q24b3",
@@ -75983,15 +76841,21 @@ window.BANK.chemistry = {
       "V to T"
      ],
      "question": "Suggest an explanation for the change of V into T on shaking. (Diagram needed.)",
-     "status": "pending",
-     "answer": "Needs the reaction diagram to identify T and V, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Vigorous shaking mixes in oxygen from the air, which oxidises copper(I) in V to copper(II), forming the dark blue complex T.",
+     "steps": [
+      "V contains [Cu(NH3)2]+, in which copper is in the +1 oxidation state.",
+      "Shaking dissolves oxygen from the air, and O2 oxidises Cu+ to Cu2+.",
+      "The Cu2+ then forms the dark blue complex [Cu(NH3)4(H2O)2]2+ with the excess ammonia, which is T."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-21.jpg",
       "papers/chemistry/img/17-Transition-Metals-22.jpg",
       "papers/chemistry/img/17-Transition-Metals-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q24.jpg"
+     ]
     },
     {
      "id": "Ch17-Q24c1",
@@ -76034,9 +76898,14 @@ window.BANK.chemistry = {
       "disproportionation"
      ],
      "question": "Show that the disproportionation in (c)(i) is thermodynamically feasible using standard electrode potentials from the Data Booklet.",
-     "status": "pending",
-     "answer": "Needs the standard electrode potential values from the Data Booklet, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "E-zero(cell) = +0.37 V, which is positive, so the disproportionation is feasible.",
+     "steps": [
+      "From the Data Booklet: Cu+ + e- <=> Cu has E-zero = +0.52 V, and Cu2+ + e- <=> Cu+ has E-zero = +0.15 V.",
+      "In 2Cu+ -> Cu2+ + Cu one Cu+ is reduced (+0.52 V) and another is oxidised (the Cu2+/Cu+ half-cell, +0.15 V).",
+      "E-zero(cell) = E-zero(reduction) - E-zero(oxidation) = (+0.52) - (+0.15) = +0.37 V.",
+      "A positive E-zero(cell) means the reaction is thermodynamically feasible."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-21.jpg",
       "papers/chemistry/img/17-Transition-Metals-22.jpg",
@@ -76058,15 +76927,24 @@ window.BANK.chemistry = {
       "formula"
      ],
      "question": "Calculate n, the moles of water of crystallisation in mitscherlichite, from a 4.26 g sample titrated by iodometry (mean titre 26.65 cm3 of 0.0500 mol dm-3 thiosulfate).",
-     "status": "pending",
-     "answer": "Needs the mitscherlichite formula and the reaction equations, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "n = 2 (mitscherlichite is K2CuCl4.2H2O, Mr about 320)",
+     "steps": [
+      "Moles of thiosulfate = 0.0500 x 0.02665 = 1.3325 x 10^-3 mol.",
+      "From the equations, 2 S2O3 2- reacts with 1 I2, and 2 Cu2+ forms 1 I2, so mol Cu2+ = mol S2O3 2- = 1.3325 x 10^-3 mol in the 25.0 cm3 portion.",
+      "In the whole 250.0 cm3: 1.3325 x 10^-2 mol Cu2+, which is the moles of mitscherlichite.",
+      "Mr = 4.26 / 1.3325 x 10^-2 = 319.7.",
+      "Mr of K2CuCl4 = 2(39.1) + 63.5 + 4(35.5) = 283.7, so the water = 319.7 - 283.7 = 36.0.",
+      "n = 36.0 / 18.0 = 2."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-21.jpg",
       "papers/chemistry/img/17-Transition-Metals-22.jpg",
       "papers/chemistry/img/17-Transition-Metals-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q24-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q25",
@@ -76109,14 +76987,19 @@ window.BANK.chemistry = {
       "exception"
      ],
      "question": "What is the electronic configuration of a chromium atom? (Options not in text.)",
-     "status": "pending",
-     "answer": "Needs the answer options, which are missing from the text (expected [Ar] 3d5 4s1).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: [Ar] 3d5 4s1",
+     "steps": [
+      "Chromium is an exception: one 4s electron moves into the 3d subshell to give a half-filled 3d subshell.",
+      "Configuration [Ar] 3d5 4s1 has five unpaired electrons in 3d and one in 4s, option A."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-23.jpg",
       "papers/chemistry/img/17-Transition-Metals-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q26.jpg"
+     ]
     },
     {
      "id": "Ch17-Q27",
@@ -76243,14 +77126,21 @@ window.BANK.chemistry = {
       "Cu+"
      ],
      "question": "Which ion is most likely to catalyse the reaction between peroxodisulfate and I-? Options: A Cl-, B Fe2+, C Cu2+, D Cu+. (E-zero table in diagram.)",
-     "status": "pending",
-     "answer": "Needs the standard electrode potential table, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Fe2+",
+     "steps": [
+      "A catalyst for S2O8 2- + 2I- needs a redox couple with E-zero between +0.54 V (I2/I-) and +2.01 V (S2O8 2-/SO4 2-).",
+      "Fe3+/Fe2+ (+0.77 V) lies between them: Fe2+ is oxidised by S2O8 2- and the Fe3+ formed oxidises I- back to Fe2+.",
+      "Cl-/Cl2 (+1.36 V) lies between them but it is oxidised by S2O8 2-, so it is not regenerated; Cu2+/Cu+ (+0.15 V) is below +0.54 V, so Cu2+ cannot oxidise I-.",
+      "So the best catalyst is Fe2+ (option B)."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-25.jpg",
       "papers/chemistry/img/17-Transition-Metals-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q31.jpg"
+     ]
     },
     {
      "id": "Ch17-Q31b",
@@ -76316,13 +77206,19 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "What is the electronic configuration of the Fe2+ ion? (Options not in text.)",
-     "status": "pending",
-     "answer": "Needs the answer options, which are missing from the text (expected [Ar] 3d6).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: [Ar] 3d6 (3d: one pair of electrons and four unpaired, 4s empty)",
+     "steps": [
+      "Fe is [Ar] 3d6 4s2; transition metals lose the 4s electrons first to form ions.",
+      "Fe2+ is therefore [Ar] 3d6 4s0, with 4s empty.",
+      "Six 3d electrons fill the orbitals by Hund's rule: one orbital holds a pair and the other four hold single electrons, which is option B."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q32.jpg"
+     ]
     },
     {
      "id": "Ch17-Q33a1",
@@ -76339,12 +77235,14 @@ window.BANK.chemistry = {
       "sulfite"
      ],
      "question": "2.72 g of brass dissolved in nitric acid; Cu2+ reduced to Cu+ and precipitated as 4.69 g CuSCN. Calculate the percentage of copper and determine whether this is a gilding metal.",
-     "status": "pending",
-     "answer": "About 90.0% Cu (4.69 g CuSCN); whether it is a gilding metal needs the gilding-metal composition, which is not in the text.",
+     "status": "ready",
+     "answer": "Copper = 90.0% by mass. This is within the 89% to 95% range (5% to 11% zinc), so it is a gilding metal.",
      "steps": [
-      "Moles CuSCN = 4.69 / 121.6 = 0.0386 mol, which equals moles Cu.",
-      "Mass Cu = 0.0386 x 63.5 = 2.45 g.",
-      "Percentage Cu = 2.45 / 2.72 x 100 = 90.0%."
+      "Mr of CuSCN = 63.5 + 32.1 + 12.0 + 14.0 = 121.6.",
+      "Moles CuSCN = 4.69 / 121.6 = 0.0386 mol; each CuSCN comes from one Cu2+ (via Cu+), so moles Cu = 0.0386 mol.",
+      "Mass of copper = 0.0386 x 63.5 = 2.45 g.",
+      "Percentage Cu = 2.45 / 2.72 x 100 = 90.0%, so zinc is about 10.0%.",
+      "Gilding metal contains 5% to 11% zinc, so 10.0% zinc is in range and the brass is a gilding metal."
      ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-27.jpg",
@@ -76352,7 +77250,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-29.jpg",
       "papers/chemistry/img/17-Transition-Metals-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q33.jpg"
+     ]
     },
     {
      "id": "Ch17-Q33a2",
@@ -76369,16 +77269,23 @@ window.BANK.chemistry = {
       "data table"
      ],
      "question": "Explain, using thermodynamic and kinetic factors, why sulfite reduces Cu2+ to Cu+ but does not reduce Cu+ to Cu.",
-     "status": "pending",
-     "answer": "Needs the data table referred to in the question, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Thermodynamics: Cu2+ to Cu+ has E-zero(cell) of about -0.02 V (close to zero, so feasible under real conditions), while Cu+ to Cu has +0.35 V (feasible), so thermodynamics alone allows both. Kinetics: the reduction of Cu+ to Cu must have a high activation energy, so it is too slow to occur.",
+     "steps": [
+      "HSO3- is the reductant, so the HSO4-/HSO3- half-cell (+0.17 V) is reversed to oxidation.",
+      "Cu2+ to Cu+: E-zero(cell) = 0.15 - 0.17 = -0.02 V, which is almost zero, so the reaction is only marginally unfavourable and goes with non-standard concentrations (excess reductant).",
+      "Cu+ to Cu: E-zero(cell) = 0.52 - 0.17 = +0.35 V, which is positive, so this reduction is thermodynamically feasible.",
+      "It does not happen, so it is kinetically hindered: the reaction has a high activation energy and is too slow at the conditions used."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-27.jpg",
       "papers/chemistry/img/17-Transition-Metals-28.jpg",
       "papers/chemistry/img/17-Transition-Metals-29.jpg",
       "papers/chemistry/img/17-Transition-Metals-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q33-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q33b",
@@ -76455,9 +77362,14 @@ window.BANK.chemistry = {
       "labelled"
      ],
      "question": "Draw a labelled diagram of the apparatus to measure the emf of a Cu/Zn cell under standard conditions.",
-     "status": "pending",
-     "answer": "Needs the apparatus diagram, which cannot be checked from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Two half-cells joined by a salt bridge and a high-resistance voltmeter: a copper electrode in 1.00 mol dm-3 Cu2+(aq) and a zinc electrode in 1.00 mol dm-3 Zn2+(aq), at 298 K.",
+     "steps": [
+      "Left beaker: zinc metal strip dipping into 1.00 mol dm-3 ZnSO4(aq), labelled with the solution and electrode.",
+      "Right beaker: copper metal strip dipping into 1.00 mol dm-3 CuSO4(aq).",
+      "Salt bridge (filter paper or tube soaked in saturated KNO3(aq)) dipping into both solutions.",
+      "High-resistance voltmeter connected by wires between the two metal electrodes; temperature 298 K."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-27.jpg",
       "papers/chemistry/img/17-Transition-Metals-28.jpg",
@@ -76481,16 +77393,23 @@ window.BANK.chemistry = {
       "Data Booklet"
      ],
      "question": "A cell has Cu2+ at 1.00 mol dm-3 and Zn2+ at unknown concentration, emf +1.09 V. Calculate the zinc ion concentration (use the Data Booklet page 10).",
-     "status": "pending",
-     "answer": "Needs the Data Booklet standard electrode potentials, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "[Zn2+] = 2.2 mol dm-3",
+     "steps": [
+      "Data Booklet: Cu2+/Cu E-zero = +0.34 V and Zn2+/Zn E-zero = -0.76 V, so E-zero(cell) = 0.34 - (-0.76) = +1.10 V.",
+      "Cu2+ is at 1.00 mol dm-3, so the copper half-cell stays at +0.34 V; Nernst for zinc: E(Zn) = -0.76 + (0.0260/2) ln[Zn2+].",
+      "E(cell) = 0.34 - E(Zn) = 1.10 - 0.0130 ln[Zn2+] = 1.09, so ln[Zn2+] = 0.010 / 0.0130 = 0.769.",
+      "[Zn2+] = e^0.769 = 2.2 mol dm-3."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-27.jpg",
       "papers/chemistry/img/17-Transition-Metals-28.jpg",
       "papers/chemistry/img/17-Transition-Metals-29.jpg",
       "papers/chemistry/img/17-Transition-Metals-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q33-3.jpg"
+     ]
     },
     {
      "id": "Ch17-Q34",
@@ -76505,14 +77424,22 @@ window.BANK.chemistry = {
       "count"
      ],
      "question": "How many of the four ions shown contain a metal with oxidation number +3? (Formulae shown as a diagram.)",
-     "status": "pending",
-     "answer": "Needs the four ion formulae, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: two",
+     "steps": [
+      "CrO4 2-: Cr = +6 (4 x -2 = -8, so Cr = +6).",
+      "AlO2-: Al = +3 (2 x -2 = -4, so Al = +3).",
+      "[Fe(CN)6]4-: Fe = +2 (6 x -1 = -6, so Fe = +2).",
+      "[CrCl2(H2O)4]+: Cr = +3 (2 x -1 = -2, water is neutral, so Cr = +1 + 2 = +3).",
+      "Two ions (AlO2- and [CrCl2(H2O)4]+) contain a +3 metal, option B."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-30.jpg",
       "papers/chemistry/img/17-Transition-Metals-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q34.jpg"
+     ]
     },
     {
      "id": "Ch17-Q35",
@@ -76554,14 +77481,21 @@ window.BANK.chemistry = {
       "chromium oxide"
      ],
      "question": "Viridian (a blue-green pigment, formula not in text) loses 19.15% of its mass on heating to drive off water. Identify element M.",
-     "status": "pending",
-     "answer": "Needs the formula of viridian, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "M = Cr (chromium); viridian is Cr2O3.2H2O",
+     "steps": [
+      "Mass lost on heating is the water of crystallisation: 2H2O = 2 x 18.0 = 36.0 per formula unit.",
+      "This is 19.15% of the total Mr, so Mr(M2O3.2H2O) = 36.0 / 0.1915 = 188.0.",
+      "Mr(M2O3) = 188.0 - 36.0 = 152.0, so 2 x Ar(M) = 152.0 - 3 x 16.0 = 104.0.",
+      "Ar(M) = 52.0, which is chromium (Cr)."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-32.jpg",
       "papers/chemistry/img/17-Transition-Metals-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q36.jpg"
+     ]
     },
     {
      "id": "Ch17-Q36b1",
@@ -76774,16 +77708,23 @@ window.BANK.chemistry = {
       "vanadium"
      ],
      "question": "Justify using sodium thiosulfate to convert VO2+ into V3+ by writing equations and calculating E-zero values from the given table and Data Booklet.",
-     "status": "pending",
-     "answer": "Needs the standard electrode potential table, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "2VO2+ + 4H+ + 2S2O3 2- -> 2V3+ + 2H2O + S4O6 2- has E-zero(cell) = +0.25 V (feasible); the further reduction 2V3+ + 2S2O3 2- -> 2V2+ + S4O6 2- has E-zero(cell) = -0.35 V (not feasible), so V3+ is the final product.",
+     "steps": [
+      "Data Booklet: S4O6 2- + 2e- <=> 2S2O3 2- has E-zero = +0.09 V; thiosulfate is the reductant (oxidised to S4O6 2-).",
+      "VO2+ to V3+: 2VO2+ + 4H+ + 2S2O3 2- -> 2V3+ + 2H2O + S4O6 2-; E-zero(cell) = +0.34 - (+0.09) = +0.25 V, positive so feasible.",
+      "V3+ to V2+: 2V3+ + 2S2O3 2- -> 2V2+ + S4O6 2-; E-zero(cell) = -0.26 - (+0.09) = -0.35 V, negative so not feasible.",
+      "So thiosulfate reduces VO2+ to V3+ but not further, with no other vanadium species formed."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-34.jpg",
       "papers/chemistry/img/17-Transition-Metals-35.jpg",
       "papers/chemistry/img/17-Transition-Metals-36.jpg",
       "papers/chemistry/img/17-Transition-Metals-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q40.jpg"
+     ]
     },
     {
      "id": "Ch17-Q40b2",
@@ -76800,16 +77741,23 @@ window.BANK.chemistry = {
       "vanadium"
      ],
      "question": "Explain why nickel is not a suitable reagent to convert VO2+ into V3+ with no other vanadium species formed.",
-     "status": "pending",
-     "answer": "Needs the standard electrode potential table, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Ni (E-zero = -0.25 V) is a strong enough reductant to reduce VO2+ to V3+, but for V3+ to V2+ the E-zero(cell) is -0.26 - (-0.25) = -0.01 V, which is almost zero, so reduction can go on to V2+ and a mixture of vanadium species forms.",
+     "steps": [
+      "Data Booklet: Ni2+ + 2e- <=> Ni has E-zero = -0.25 V.",
+      "VO2+ to V3+: E-zero(cell) = +0.34 - (-0.25) = +0.59 V, so Ni reduces VO2+ readily.",
+      "V3+ to V2+: E-zero(cell) = -0.26 - (-0.25) = -0.01 V, which is so close to zero that this step is not clearly infeasible, so some V2+ can form.",
+      "Therefore Ni cannot give V3+ only, unlike thiosulfate (which has E-zero(cell) of -0.35 V for the second step)."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-34.jpg",
       "papers/chemistry/img/17-Transition-Metals-35.jpg",
       "papers/chemistry/img/17-Transition-Metals-36.jpg",
       "papers/chemistry/img/17-Transition-Metals-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q40.jpg"
+     ]
     },
     {
      "id": "Ch17-Q40c1",
@@ -76853,16 +77801,23 @@ window.BANK.chemistry = {
       "electrode potential"
      ],
      "question": "Suggest why the VO2+ ions formed do not affect the manganate(VII) titration.",
-     "status": "pending",
-     "answer": "Needs the standard electrode potential data to confirm VO2+ is not oxidised by MnO4-, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Fe2+ (E-zero +0.77 V) is a stronger reducing agent than VO2+ (VO3-/VO2+ system, +1.00 V), so MnO4- oxidises Fe2+ first and the end-point is reached before VO2+ reacts.",
+     "steps": [
+      "From the table, VO3- + 4H+ + e- <=> VO2+ + 2H2O has E-zero = +1.00 V, which is more positive than Fe3+/Fe2+ at +0.77 V.",
+      "A more positive E-zero means a weaker reducing agent, so VO2+ is a weaker reductant than Fe2+.",
+      "MnO4- therefore oxidises all the Fe2+ first, and the first permanent pink colour marks the Fe2+ end-point.",
+      "VO2+ is only oxidised after the Fe2+ is used up, so it does not change the volume of MnO4- measured."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-34.jpg",
       "papers/chemistry/img/17-Transition-Metals-35.jpg",
       "papers/chemistry/img/17-Transition-Metals-36.jpg",
       "papers/chemistry/img/17-Transition-Metals-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q40.jpg"
+     ]
     },
     {
      "id": "Ch17-Q40c3",
@@ -76939,14 +77894,20 @@ window.BANK.chemistry = {
       "cis isomer"
      ],
      "question": "The Pt(NH3)2Cl2 complex used in cancer treatment corresponds to which of three structures X, Y, Z? (Structures are diagrams.)",
-     "status": "pending",
-     "answer": "Needs the structure diagrams X, Y and Z, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: structure X only",
+     "steps": [
+      "Cisplatin is the cis isomer of square planar Pt(NH3)2Cl2, with the two Cl on the same side (adjacent, 90 degrees apart).",
+      "X is square planar with Cl next to Cl (cis); Y is square planar with Cl diagonally opposite Cl (trans), which is not the drug.",
+      "Z is tetrahedral and has no cis or trans forms, so the drug is X only."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-37.jpg",
       "papers/chemistry/img/17-Transition-Metals-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q41.jpg"
+     ]
     },
     {
      "id": "Ch17-Q42",
@@ -76961,13 +77922,19 @@ window.BANK.chemistry = {
       "anticancer drug"
      ],
      "question": "Which transition metal complex is commonly used as a cancer treatment? (Options not in text.)",
-     "status": "pending",
-     "answer": "Needs the answer options, which are missing from the text (expected: a platinum complex, cisplatin).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: the square planar cis-Pt(NH3)2Cl2 (cisplatin)",
+     "steps": [
+      "Cisplatin is cis-diamminedichloroplatinum(II): a square planar Pt(II) complex with Cl next to Cl.",
+      "C shows the two Cl on the same side (cis); D shows Cl diagonally opposite (trans-platin), which is not used in treatment.",
+      "The copper complexes A and B are tetrahedral and are not cancer drugs."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q42.jpg"
+     ]
     },
     {
      "id": "Ch17-Q43",
@@ -77157,16 +78124,23 @@ window.BANK.chemistry = {
       "diagram"
      ],
      "question": "Describe how DPC acts as a bidentate ligand, using its structure to show the atoms involved.",
-     "status": "pending",
-     "answer": "Needs the DPC structure diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "DPC is bidentate because it has two donor atoms with lone pairs (the C=O oxygen and an adjacent N-H nitrogen), each forming a dative covalent bond to Cr(VI); three DPC give six bonds, so the complex is octahedral.",
+     "steps": [
+      "A bidentate ligand donates two lone pairs from two different atoms to the same metal ion.",
+      "In DPC the oxygen of the C=O group has lone pairs, and the nitrogen atoms of the N-H groups also have lone pairs.",
+      "One O (or N) and an N atom, positioned so a chelate ring can form, each donate a lone pair to Cr6+ by dative covalent bonds.",
+      "Three DPC ligands give 3 x 2 = 6 dative bonds, which is why Cr(DPC)3 6+ is octahedral."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-39.jpg",
       "papers/chemistry/img/17-Transition-Metals-40.jpg",
       "papers/chemistry/img/17-Transition-Metals-41.jpg",
       "papers/chemistry/img/17-Transition-Metals-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q45.jpg"
+     ]
     },
     {
      "id": "Ch17-Q45c2",
@@ -77524,16 +78498,25 @@ window.BANK.chemistry = {
       "vanadium systems table"
      ],
      "question": "Compare and contrast the use of iron and tin to reduce vanadium(V) step by step in acid, with equations and E-zero values from the tables only.",
-     "status": "pending",
-     "answer": "Needs the vanadium systems table of E-zero values, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both iron and tin reduce VO2+ to VO2+ and then to V3+ (all E-zero(cell) values positive). Iron goes one step further, reducing V3+ to V2+ (E-zero(cell) = +0.18 V), but tin cannot (E-zero(cell) = -0.12 V), so tin stops at V3+.",
+     "steps": [
+      "Iron (Fe2+/Fe = -0.44 V) step 1: 2VO2+ + Fe + 4H+ -> 2VO2+ + Fe2+ + 2H2O, E-zero(cell) = +1.00 - (-0.44) = +1.44 V.",
+      "Iron step 2: 2VO2+ + Fe + 4H+ -> 2V3+ + Fe2+ + 2H2O, E-zero(cell) = +0.34 - (-0.44) = +0.78 V.",
+      "Iron step 3: 2V3+ + Fe -> 2V2+ + Fe2+, E-zero(cell) = -0.26 - (-0.44) = +0.18 V, feasible, so iron reduces vanadium all the way to V2+.",
+      "Tin (Sn2+/Sn = -0.14 V) step 1: 2VO2+ + Sn + 4H+ -> 2VO2+ + Sn2+ + 2H2O, E-zero(cell) = +1.00 - (-0.14) = +1.14 V; step 2: 2VO2+ + Sn + 4H+ -> 2V3+ + Sn2+ + 2H2O, E-zero(cell) = +0.34 - (-0.14) = +0.48 V.",
+      "Tin step 3: 2V3+ + Sn -> 2V2+ + Sn2+, E-zero(cell) = -0.26 - (-0.14) = -0.12 V, not feasible, so tin stops at V3+.",
+      "Similarity: both give VO2+ then V3+ with positive E-zero(cell); difference: iron gives V2+ as the final product, tin gives V3+."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-43.jpg",
       "papers/chemistry/img/17-Transition-Metals-44.jpg",
       "papers/chemistry/img/17-Transition-Metals-45.jpg",
       "papers/chemistry/img/17-Transition-Metals-46.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q49.jpg"
+     ]
     },
     {
      "id": "Ch17-Q50",
@@ -77727,9 +78710,14 @@ window.BANK.chemistry = {
       "balancing"
      ],
      "question": "Write the equation for one mole of Hg(NO3)2 reacting with ethanol to form mercury(II) fulminate, Hg(CNO)2, with ethanal and water as other products.",
-     "status": "pending",
-     "answer": "Equation not verified from the text; needs balancing against the redox changes (could not be checked with confidence).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Hg(NO3)2 + 3C2H5OH -> Hg(CNO)2 + 2CH3CHO + 5H2O",
+     "steps": [
+      "Write the products as Hg(CNO)2, CH3CHO and H2O, with one Hg(NO3)2 as stated.",
+      "Balance C: Hg(CNO)2 has 2 C and each CH3CHO has 2 C, so 3 ethanol (6 C) gives 2 C + 2 x 2 C.",
+      "Balance H: 3C2H5OH has 18 H; 2CH3CHO has 8 H, so 10 H goes into 5H2O.",
+      "Check O: left 6 (nitrate) + 3 (ethanol) = 9; right 2 (CNO) + 2 (ethanal) + 5 (water) = 9. N and Hg also balance."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-47.jpg",
       "papers/chemistry/img/17-Transition-Metals-48.jpg",
@@ -77799,7 +78787,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-50.jpg",
       "papers/chemistry/img/17-Transition-Metals-51.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q52.jpg"
+     ]
     },
     {
      "id": "Ch17-Q52d2",
@@ -77815,9 +78805,13 @@ window.BANK.chemistry = {
       "E-zero value"
      ],
      "question": "A calomel electrode gives a voltmeter reading of +0.37 V against the Sn2+(aq)|Sn(s) half-cell. Deduce the E-zero value of Sn2+|Sn.",
-     "status": "pending",
-     "answer": "Needs the stated E-zero of the calomel electrode, which is blank in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "E-zero(Sn2+|Sn) = -0.13 V",
+     "steps": [
+      "The voltmeter shows the cell emf: the calomel electrode is the positive terminal and Sn is the negative terminal.",
+      "E-zero(cell) = E-zero(positive) - E-zero(negative) = (+0.24) - E-zero(Sn2+|Sn) = +0.37 V.",
+      "E-zero(Sn2+|Sn) = +0.24 - 0.37 = -0.13 V."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-47.jpg",
       "papers/chemistry/img/17-Transition-Metals-48.jpg",
@@ -77825,7 +78819,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-50.jpg",
       "papers/chemistry/img/17-Transition-Metals-51.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q52.jpg",
+      "papers/chemistry/fig/17-Transition-Metals-Q52-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q52d3",
@@ -77840,9 +78837,13 @@ window.BANK.chemistry = {
       "overall equation"
      ],
      "question": "Write the overall equation for the cell reaction of the calomel and Sn2+/Sn cell.",
-     "status": "pending",
-     "answer": "Needs the calomel half-equation and E-zero values, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Hg2Cl2 + Sn -> 2Hg + 2Cl- + Sn2+ (with states: Hg2Cl2(s) + Sn(s) -> 2Hg(l) + 2Cl-(aq) + Sn2+(aq))",
+     "steps": [
+      "The calomel electrode is the positive electrode, so reduction occurs: Hg2Cl2 + 2e- -> 2Hg + 2Cl-.",
+      "Sn is the negative electrode, so oxidation occurs: Sn -> Sn2+ + 2e-.",
+      "Add the two half-equations; the 2 electrons cancel to give Hg2Cl2 + Sn -> 2Hg + 2Cl- + Sn2+."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-47.jpg",
       "papers/chemistry/img/17-Transition-Metals-48.jpg",
@@ -77850,7 +78851,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-50.jpg",
       "papers/chemistry/img/17-Transition-Metals-51.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q52.jpg",
+      "papers/chemistry/fig/17-Transition-Metals-Q52-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q52d4",
@@ -77867,9 +78871,14 @@ window.BANK.chemistry = {
       "diagram"
      ],
      "question": "Add labels to complete the diagram of a standard hydrogen electrode, including details of essential conditions.",
-     "status": "pending",
-     "answer": "Needs the diagram to check labels, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Top box (gas inlet): hydrogen gas at 100 kPa (1 atm); middle box (the electrode): platinum electrode (coated with platinum black); bottom box (the solution): 1.00 mol dm-3 H+(aq) (e.g. HCl), all at 298 K.",
+     "steps": [
+      "The gas entering at the top is hydrogen, H2(g), at a pressure of 100 kPa (1 atm).",
+      "The electrode is platinum (platinum-coated, inert), which lets H2 and H+ exchange electrons and acts as the catalyst surface.",
+      "The solution is aqueous acid with an H+ concentration of 1.00 mol dm-3 (e.g. hydrochloric acid).",
+      "The temperature must be 298 K; these are the standard conditions for the SHE, which is defined as 0.00 V."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-47.jpg",
       "papers/chemistry/img/17-Transition-Metals-48.jpg",
@@ -77877,7 +78886,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-50.jpg",
       "papers/chemistry/img/17-Transition-Metals-51.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q52-3.jpg"
+     ]
     },
     {
      "id": "Ch17-Q52d5",
@@ -77950,13 +78961,19 @@ window.BANK.chemistry = {
       "ammonium"
      ],
      "question": "Which is the equation for the reaction when a small amount of aqueous ammonia is added to zinc ions? (Options not in text.)",
-     "status": "pending",
-     "answer": "Needs the answer options, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: [Zn(H2O)6]2+ + 2NH3 -> Zn(OH)2(H2O)4 + 2NH4+",
+     "steps": [
+      "With a small amount of NH3, ammonia acts as a base and removes two H+ from coordinated water (deprotonation).",
+      "This gives the neutral, insoluble white precipitate Zn(OH)2(H2O)4 and NH4+, option B.",
+      "Options C and D show ligand exchange to the ammine complex, which only happens in excess ammonia (A is a charged soluble ion, not a precipitate)."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q54.jpg"
+     ]
     },
     {
      "id": "Ch17-Q55",
@@ -77970,13 +78987,18 @@ window.BANK.chemistry = {
       "orbitals"
      ],
      "question": "Which electronic configuration is correct? (Options not in text.)",
-     "status": "pending",
-     "answer": "Needs the answer options, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Cu is [Ar] 3d10 4s1",
+     "steps": [
+      "Copper is an exception: a full 3d subshell (3d10) is more stable, so one 4s electron moves to 3d, giving [Ar] 3d10 4s1.",
+      "A is wrong because Ti2+ is [Ar] 3d2 (4s electrons are lost first); B is wrong because Cr is [Ar] 3d5 4s1; C is wrong because Fe3+ is [Ar] 3d5."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q55.jpg"
+     ]
     },
     {
      "id": "Ch17-Q56",
@@ -77992,14 +79014,20 @@ window.BANK.chemistry = {
       "chromium"
      ],
      "question": "What is the coordination number of chromium in Cr2(CH3CO2)4(H2O)2? Options: A two, B four, C six, D twelve. (Structure is a diagram.)",
-     "status": "pending",
-     "answer": "Needs the structure diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: six",
+     "steps": [
+      "Each chromium is bonded to four oxygen atoms from four different bridging ethanoate ligands.",
+      "It also bonds to one water molecule and to the other chromium atom (Cr-Cr bond).",
+      "So each Cr has 4 + 1 + 1 = 6 bonds, giving a coordination number of six."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-53.jpg",
       "papers/chemistry/img/17-Transition-Metals-54.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q56.jpg"
+     ]
     },
     {
      "id": "Ch17-Q57",
@@ -78424,14 +79452,22 @@ window.BANK.chemistry = {
       "complex stability"
      ],
      "question": "Which diagram shows the change in relative colour intensity when EDTA4- is added to chromium(III) ions?",
-     "status": "pending",
-     "answer": "Needs the graph options, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: peak at 0.001 mol of ligand, higher than the cyanide peak (about 7.7), then falling gradually",
+     "steps": [
+      "The CN- graph peaks at 0.006 mol ligand for 0.001 mol Cr3+, i.e. a 6:1 ratio, giving [Cr(CN)6]3-.",
+      "EDTA4- is hexadentate, so one ion wraps round Cr3+ and the complex forms in a 1:1 ratio: the maximum colour intensity is at 0.001 mol EDTA4-.",
+      "The EDTA complex has a greater colour intensity than the CN- one, so the peak must be higher than 6 (about 7.7).",
+      "Only graph C has its peak at 0.001 mol and a maximum above 6; after the peak the intensity falls as the solution is diluted by added reagent."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-58.jpg",
       "papers/chemistry/img/17-Transition-Metals-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q62.jpg",
+      "papers/chemistry/fig/17-Transition-Metals-Q62-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q63",
@@ -78446,14 +79482,20 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "Acidified manganate(VII) ions react with ethanedioate ions. Which statement is correct? (Question text and options missing.)",
-     "status": "pending",
-     "answer": "Needs the question stem and options, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Mn2+ acts as a catalyst (rate increases); concentration of reactants decreases (rate decreases)",
+     "steps": [
+      "Mn2+ is a product that catalyses the reaction (autocatalysis), so the rate increases as Mn2+ builds up.",
+      "Later the rate falls because the reactants MnO4- and C2O4 2- are used up, so their concentrations decrease.",
+      "MnO4- is a reactant, not a catalyst, and the kinetic energy of particles does not fall because the temperature stays the same."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-59.jpg",
       "papers/chemistry/img/17-Transition-Metals-60.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q63.jpg"
+     ]
     },
     {
      "id": "Ch17-Q64",
@@ -78468,14 +79510,20 @@ window.BANK.chemistry = {
       "ligands"
      ],
      "question": "What is the coordination number of chromium in the complex ion shown? Options: A 2, B 3, C 4, D 6. (Structure is a diagram.)",
-     "status": "pending",
-     "answer": "Needs the complex ion diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 6",
+     "steps": [
+      "The complex is [CrCl2(en)2]+: each ethane-1,2-diamine (en) ligand is bidentate and donates two lone pairs from its two N atoms.",
+      "Four N bonds from two en ligands plus two Cl- bonds give 4 + 2 = 6 dative bonds to Cr.",
+      "So the coordination number is 6 (octahedral)."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-60.jpg",
       "papers/chemistry/img/17-Transition-Metals-61.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q64.jpg"
+     ]
     },
     {
      "id": "Ch17-Q65",
@@ -78518,14 +79566,20 @@ window.BANK.chemistry = {
       "complex formation"
      ],
      "question": "Aqueous ammonia is added in excess to aqueous Cu2+. What is the overall equation? (Options not in text.)",
-     "status": "pending",
-     "answer": "Needs the answer options, which are missing from the text (expected: [Cu(H2O)6]2+ + 4NH3 -> [Cu(NH3)4(H2O)2]2+ + 4H2O).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: [Cu(H2O)6]2+ + 4NH3 -> [Cu(NH3)4(H2O)2]2+ + 4H2O",
+     "steps": [
+      "In excess ammonia, NH3 replaces four of the six water ligands (ligand exchange), forming the deep blue [Cu(NH3)4(H2O)2]2+.",
+      "Four NH3 enter and four H2O leave, giving 4H2O as a product; the charge stays 2+, so this is option C.",
+      "A is the first step (small amount of ammonia, precipitate), and B and D do not match the 4:4 exchange of the observed ion."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-61.jpg",
       "papers/chemistry/img/17-Transition-Metals-62.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q66.jpg"
+     ]
     },
     {
      "id": "Ch17-Q67",
@@ -78541,14 +79595,19 @@ window.BANK.chemistry = {
       "vanadium"
      ],
      "question": "Which equation shows a redox reaction in which the solution turns yellow? (Equation options not in text.)",
-     "status": "pending",
-     "answer": "Needs the equation options, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 2Cr(OH)3 + 3H2O2 + 4KOH -> 2K2CrO4 + 8H2O",
+     "steps": [
+      "In D Cr changes from +3 in Cr(OH)3 to +6 in K2CrO4, so it is oxidised, and O in H2O2 (-1) is reduced to -2; this is redox and the yellow chromate(VI) forms.",
+      "A is redox but gives a pale green solution of FeCl2; B (VO3- to VO2+ in acid) and C (Cr2O7 2- to CrO4 2-) have no change in oxidation number, so they are not redox."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-61.jpg",
       "papers/chemistry/img/17-Transition-Metals-62.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q67.jpg"
+     ]
     },
     {
      "id": "Ch17-Q68",
@@ -78590,16 +79649,22 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "Which equation shows the formation of a precipitate? (Options not in text.)",
-     "status": "pending",
-     "answer": "Needs the equation options, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: [Zn(OH)4]2- + 2H3O+ -> [Zn(H2O)4(OH)2]",
+     "steps": [
+      "A precipitate is an uncharged (neutral) hydroxide complex, which is insoluble in water.",
+      "In A the soluble zincate ion [Zn(OH)4]2- is protonated to the neutral [Zn(H2O)4(OH)2] = Zn(OH)2, which precipitates.",
+      "In B, C and D an insoluble neutral hydroxide or a metal ion converts into a soluble charged ion, so these are dissolving, not precipitating."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-62.jpg",
       "papers/chemistry/img/17-Transition-Metals-63.jpg",
       "papers/chemistry/img/17-Transition-Metals-64.jpg",
       "papers/chemistry/img/17-Transition-Metals-65.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q69.jpg"
+     ]
     },
     {
      "id": "Ch17-Q70a",
@@ -78985,14 +80050,20 @@ window.BANK.chemistry = {
       "diagram"
      ],
      "question": "Which label on the enthalpy profile diagram indicates the intermediate species? (Diagram labels A to D.)",
-     "status": "pending",
-     "answer": "Needs the enthalpy profile diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C",
+     "steps": [
+      "An intermediate is a species formed in one step and used in the next, so it sits in a trough (a local minimum) on the enthalpy profile.",
+      "On the catalysed pathway the trough between the two peaks is label C.",
+      "A is the reactants, and B and D are the peaks (transition states), so the answer is C."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-67.jpg",
       "papers/chemistry/img/17-Transition-Metals-68.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q74.jpg"
+     ]
     },
     {
      "id": "Ch17-Q74b",
@@ -79034,14 +80105,21 @@ window.BANK.chemistry = {
       "graph"
      ],
      "question": "Which sketch shows the change in concentration of manganate(VII) ions with time in the reaction? (Graph options not in text.)",
-     "status": "pending",
-     "answer": "Needs the graph options, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: the curve decreases slowly at first, then more steeply, then levels off",
+     "steps": [
+      "The reaction is autocatalysed: the product Mn2+ catalyses it.",
+      "At the start there is little Mn2+, so the rate is slow and [MnO4-] falls slowly.",
+      "As Mn2+ builds up the rate rises so [MnO4-] falls faster; later the reactants run out, so the curve flattens at zero.",
+      "This S-shaped fall is graph C; B is a constant rate, and D is the usual exponential-type fall with no catalytic rise."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-68.jpg",
       "papers/chemistry/img/17-Transition-Metals-69.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q75.jpg"
+     ]
     },
     {
      "id": "Ch17-Q76",
@@ -79115,14 +80193,20 @@ window.BANK.chemistry = {
       "catalyst"
      ],
      "question": "Which reaction involves the vanadium oxide catalyst in the contact process, and how does vanadium's oxidation number change? (Options not in text.)",
-     "status": "pending",
-     "answer": "Needs the answer options, which are missing from the text (expected: SO2 + V2O5 -> SO3 + V2O4, V from +5 to +4).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: SO2 -> SO3 with vanadium changing +5 -> +4 -> +5",
+     "steps": [
+      "V2O5 catalyses the oxidation SO2 + 1/2 O2 -> SO3 in the contact process.",
+      "V2O5 (V is +5) oxidises SO2 to SO3 and is itself reduced to V2O4 (V is +4); then O2 oxidises V2O4 back to V2O5 (+5).",
+      "So vanadium goes +5 -> +4 -> +5 for the reaction SO2 -> SO3, option C."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-70.jpg",
       "papers/chemistry/img/17-Transition-Metals-71.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q78.jpg"
+     ]
     },
     {
      "id": "Ch17-Q79",
@@ -79138,14 +80222,19 @@ window.BANK.chemistry = {
       "CO NO"
      ],
      "question": "Which interactions could not occur between CO, NO and the catalytic converter? (Options C and D are blank in the text.)",
-     "status": "pending",
-     "answer": "Needs the full option list, which is incomplete in the text (C and D are blank).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: hydrogen bonds",
+     "steps": [
+      "CO, NO, CO2 and N2 contain no H atoms bonded to N, O or F, so they cannot form hydrogen bonds with the converter surface.",
+      "The other interactions can occur: covalent bonds in chemisorption to the metal surface, London forces for all molecules, and permanent dipole-induced dipole forces because CO and NO are polar."
+     ],
      "images": [
       "papers/chemistry/img/17-Transition-Metals-70.jpg",
       "papers/chemistry/img/17-Transition-Metals-71.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q79.jpg"
+     ]
     },
     {
      "id": "Ch17-Q80a1",

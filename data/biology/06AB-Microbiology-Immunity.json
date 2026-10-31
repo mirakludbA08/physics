@@ -289,6 +289,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q3-2.jpg"
       ]
     },
     {
@@ -321,6 +324,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q3-2.jpg"
       ]
     },
     {
@@ -354,6 +360,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q3-2.jpg"
       ]
     },
     {
@@ -587,6 +596,10 @@
         "papers/biology/img/06AB-Microbiology-Immunity-009.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-010.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-011.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q4.jpg",
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q4-2.jpg"
       ]
     },
     {
@@ -682,6 +695,9 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-011.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-012.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q5.jpg"
       ]
     },
     {
@@ -1154,6 +1170,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-018.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-019.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-020.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q9.jpg"
       ]
     },
     {
@@ -1327,19 +1346,22 @@
         "giant panda",
         "cellulase"
       ],
-      "question": "Which type of glycosidic bond is broken in the digestion of cellulose? (options A to D)",
+      "question": "Which type of glycosidic bond is broken in the digestion of cellulose? A alpha 1-4, B alpha 1-6, C beta 1-4, D beta 1-6.",
       "status": "ready",
-      "answer": "A: beta 1-4 glycosidic bonds.",
+      "answer": "C: beta 1-4 glycosidic bonds.",
       "steps": [
         "Cellulose is a polymer of glucose linked by beta 1-4 glycosidic bonds.",
         "Cellulase enzymes break these beta 1-4 bonds to release glucose.",
-        "Option A is the only option with beta 1-4; the symbol in the text is garbled, but 1-4 matches cellulose.",
+        "Option C is the only option with beta 1-4 (options A and B are alpha bonds, D is beta 1-6).",
         "Digestion by hydrolysis adds water to break these bonds and release glucose."
       ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-020.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-021.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-022.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q10-3.jpg"
       ]
     },
     {
@@ -1617,6 +1639,10 @@
         "papers/biology/img/06AB-Microbiology-Immunity-024.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q12.jpg",
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q12-2.jpg"
       ]
     },
     {
@@ -1647,6 +1673,10 @@
         "papers/biology/img/06AB-Microbiology-Immunity-024.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q12.jpg",
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q12-3.jpg"
       ]
     },
     {
@@ -1677,6 +1707,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-024.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q12-4.jpg"
       ]
     },
     {
@@ -1800,6 +1833,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q13-3.jpg"
       ]
     },
     {
@@ -1864,6 +1900,10 @@
         "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q13.jpg",
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q13-4.jpg"
       ]
     },
     {
@@ -1896,6 +1936,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q13.jpg"
       ]
     },
     {
@@ -2478,6 +2521,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q15-2.jpg"
       ]
     },
     {
@@ -3127,6 +3173,9 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-043.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-044.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q20-2.jpg"
       ]
     },
     {
@@ -3217,6 +3266,9 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-043.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-044.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q20-3.jpg"
       ]
     },
     {
@@ -3277,6 +3329,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-044.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-045.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-046.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q21.jpg"
       ]
     },
     {
@@ -3307,6 +3362,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-044.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-045.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-046.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q21-2.jpg"
       ]
     },
     {
@@ -3725,6 +3783,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-050.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-051.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-052.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q23.jpg"
       ]
     },
     {
@@ -4096,6 +4157,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-056.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-057.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-058.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q26.jpg"
       ]
     },
     {
@@ -4159,6 +4223,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-056.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-057.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-058.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q26.jpg"
       ]
     },
     {
@@ -4221,6 +4288,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-058.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-059.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-060.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q27.jpg"
       ]
     },
     {
@@ -4506,6 +4576,10 @@
         "papers/biology/img/06AB-Microbiology-Immunity-063.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q29-2.jpg",
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q29-3.jpg"
       ]
     },
     {
@@ -4536,6 +4610,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-063.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q29-4.jpg"
       ]
     },
     {
@@ -4566,6 +4643,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-063.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q29-5.jpg"
       ]
     },
     {

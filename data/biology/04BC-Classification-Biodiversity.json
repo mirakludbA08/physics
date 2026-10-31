@@ -967,6 +967,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-021.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-022.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-023.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q9.jpg"
       ]
     },
     {
@@ -1025,6 +1028,10 @@
         "papers/biology/img/04BC-Classification-Biodiversity-021.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-022.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-023.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q9.jpg",
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q9-2.jpg"
       ]
     },
     {
@@ -1054,6 +1061,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-021.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-022.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-023.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q9-3.jpg"
       ]
     },
     {
@@ -2757,7 +2767,7 @@
         "drawing",
         "chromatids"
       ],
-      "question": "Draw one body cell of a female Indian muntjac showing the arrangement of chromosomes in anaphase of mitosis.",
+      "question": "The body cells of a female Indian muntjac have three pairs of chromosomes. Dividing cells can be taken from the body of a female Indian muntjac. Draw one of these body cells showing the arrangement of chromosomes in the anaphase stage of mitosis.",
       "status": "ready",
       "answer": "Draw a cell with a spindle and 6 V-shaped chromosomes at each pole (12 in all), with the centromeres nearest the poles and the arms trailing towards the equator.",
       "steps": [
@@ -2816,7 +2826,7 @@
         "definition",
         "muntjac"
       ],
-      "question": "State what is meant by the term locus.",
+      "question": "The diagram shows one of the chromosomes in an Indian muntjac cell. State what is meant by the term locus.",
       "status": "ready",
       "answer": "The position of a gene on a chromosome.",
       "steps": [
@@ -2830,6 +2840,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-058.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-059.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-060.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q23b.jpg"
       ]
     },
     {
@@ -2874,7 +2887,7 @@
         "homologous pairs",
         "muntjac"
       ],
-      "question": "Suggest why offspring of Indian and Chinese muntjacs would be infertile.",
+      "question": "Chinese muntjac cells contain 23 pairs of chromosomes. The Chinese muntjac looks similar to the Indian muntjac (which has three pairs), but if they breed together they produce offspring that are infertile. Suggest why the offspring would be infertile.",
       "status": "ready",
       "answer": "Their chromosome numbers differ, so homologous chromosomes cannot pair in meiosis and functional gametes cannot form.",
       "steps": [
@@ -6984,6 +6997,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-137.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-138.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-139.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q51.jpg"
       ]
     },
     {
