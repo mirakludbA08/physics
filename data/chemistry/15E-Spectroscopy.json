@@ -571,7 +571,7 @@
         "stationary phase",
         "intermolecular attraction"
       ],
-      "question": "A component in a TLC mixture has Rf = 0.92. What can be deduced about its attractions to the stationary and mobile phases? (Answer options are not in the text.)",
+      "question": "A component in a TLC mixture has Rf = 0.92. What can be deduced about its attractions to the stationary and mobile phases? (Answer options are shown in the figure below.)",
       "status": "ready",
       "answer": "D: weak attraction to the stationary phase and strong attraction to the mobile phase",
       "steps": [
@@ -1134,7 +1134,7 @@
         "accurate relative atomic masses",
         "compound X"
       ],
-      "question": "The high-resolution mass spectrum of compound X has a molecular ion peak at m/z = 44.0632. Which compound with Mr 44 gives this peak? (The options are in a diagram not present in the text.)",
+      "question": "The high-resolution mass spectrum of compound X has a molecular ion peak at m/z = 44.0632. Which compound with Mr 44 gives this peak? (The options are in a diagram shown in the figure below.)",
       "status": "ready",
       "answer": "C: propane, C3H8",
       "steps": [
@@ -1821,7 +1821,7 @@
         "stationary phase",
         "high performance liquid chromatography"
       ],
-      "question": "In HPLC, the mobile and stationary phases are... (Options A-D are not in the text.)",
+      "question": "In HPLC, the mobile and stationary phases are... (Options A-D are shown in the figure below.)",
       "status": "ready",
       "answer": "D: mobile phase liquid, stationary phase solid",
       "steps": [
@@ -2437,6 +2437,9 @@
         "papers/chemistry/img/15E-Spectroscopy-36.jpg",
         "papers/chemistry/img/15E-Spectroscopy-37.jpg",
         "papers/chemistry/img/15E-Spectroscopy-38.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15E-Spectroscopy-Q22-3.jpg"
       ]
     },
     {
@@ -2967,7 +2970,7 @@
         "3-bromopentane",
         "primary secondary"
       ],
-      "question": "Complete the table for the three straight-chain structural isomers of C5H11Br. (The table itself is not in the text.)",
+      "question": "Complete the table for the three straight-chain structural isomers of C5H11Br. (The table itself is shown in the figure below.)",
       "status": "ready",
       "answer": "1-bromopentane (zigzag of 5 C with Br on the end carbon): 5 peaks; 2-bromopentane (Br on carbon 2): 5 peaks; 3-bromopentane (Br on the middle carbon): 3 peaks",
       "steps": [
@@ -3732,7 +3735,7 @@
         "CH3 doublet",
         "methyl 2-hydroxypropanoate"
       ],
-      "question": "Complete the table giving the expected number of hydrogen atoms and splitting pattern for peaks J and K of methyl 2-hydroxypropanoate. (The table layout is not in the text.)",
+      "question": "Complete the table giving the expected number of hydrogen atoms and splitting pattern for peaks J and K of methyl 2-hydroxypropanoate. (The table layout is shown in the figure below.)",
       "status": "ready",
       "answer": "J: 3 hydrogen atoms, doublet; K: 1 hydrogen atom, quartet",
       "steps": [
@@ -3762,7 +3765,7 @@
         "isomers",
         "carbon environments"
       ],
-      "question": "Which isomer has the most peaks in its 13C NMR spectrum? (Options are in an image not in the text.)",
+      "question": "Which isomer has the most peaks in its 13C NMR spectrum? (Options are in an image shown in the figure below.)",
       "status": "ready",
       "answer": "C: 2-methylpentane, with 5 peaks in its 13C NMR spectrum",
       "steps": [
@@ -3876,7 +3879,7 @@
         "nandrolone",
         "g cm-3"
       ],
-      "question": "A sample with 2 x 10^-9 g cm-3 of nandrolone gives a chromatogram. Which chromatogram would be produced by a second sample at 4 x 10^-9 g cm-3 under the same conditions? (Chromatograms are not in the text.)",
+      "question": "A sample with 2 x 10^-9 g cm-3 of nandrolone gives a chromatogram. Which chromatogram would be produced by a second sample at 4 x 10^-9 g cm-3 under the same conditions? (Chromatograms are shown in the figure below.)",
       "status": "ready",
       "answer": "D: the peak at the same retention time (about 2.2 min) but about twice as tall",
       "steps": [
@@ -4015,9 +4018,6 @@
         "papers/chemistry/img/15E-Spectroscopy-61.jpg",
         "papers/chemistry/img/15E-Spectroscopy-62.jpg",
         "papers/chemistry/img/15E-Spectroscopy-63.jpg"
-      ],
-      "figures": [
-        "papers/chemistry/fig/15E-Spectroscopy-Q37-3.jpg"
       ]
     },
     {

@@ -467,7 +467,7 @@
         "expression",
         "acceleration"
       ],
-      "question": "An object on the Moon falls 0.32 m from rest in a time of 0.63 s. Which expression gives the acceleration due to gravity on the Moon? Options A to D are not in the extracted text.",
+      "question": "An object on the Moon falls 0.32 m from rest in a time of 0.63 s. Which expression gives the acceleration due to gravity on the Moon? Options A to D are shown in the figure below.",
       "status": "ready",
       "answer": "C: 2 x 0.32 / 0.63^2 (about 1.6 m s^-2)",
       "steps": [

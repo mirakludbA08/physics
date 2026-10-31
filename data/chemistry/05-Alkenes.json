@@ -105,7 +105,7 @@
         "IUPAC",
         "compound X"
       ],
-      "question": "Give the systematic name of compound X, a chlorobutene drawn in a structure not present in the text.",
+      "question": "Give the systematic name of compound X, a chlorobutene drawn in a structure shown in the figure below.",
       "status": "ready",
       "answer": "A: E-2-chlorobut-2-ene",
       "steps": [
@@ -3811,6 +3811,9 @@
         "papers/chemistry/img/05-Alkenes-52.jpg",
         "papers/chemistry/img/05-Alkenes-53.jpg",
         "papers/chemistry/img/05-Alkenes-54.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q11a.jpg"
       ]
     },
     {
@@ -6547,23 +6550,23 @@
       "id": "Ch5-B-Q25a(iii)",
       "no": "Q25(a)(iii)",
       "marks": 1,
-      "topic": "Termination Step Type",
+      "topic": "Propagation Step Type",
       "keywords": [
-        "termination",
+        "propagation",
         "radicals",
-        "combine",
         "step 3",
         "free radical",
-        "mechanism"
+        "mechanism",
+        "chain reaction"
       ],
-      "question": "Name the type of step illustrated by Step 3.",
+      "question": "Name the type of step illustrated by Step 3 (C4H9 radical + Cl2 -> C4H9Cl + Cl radical).",
       "status": "ready",
-      "answer": "Termination.",
+      "answer": "Propagation.",
       "steps": [
-        "Step 3 combines two radicals.",
-        "This removes radicals from the chain.",
-        "Combining radicals ends the chain reaction.",
-        "So termination."
+        "Step 3 has a radical (CH3CH2CH2CH2.) reacting with a molecule (Cl2).",
+        "It forms a product molecule (1-chlorobutane) and a new radical (Cl.).",
+        "One radical is used up and one is made, so the chain carries on.",
+        "So Step 3 is a propagation step."
       ],
       "images": [
         "papers/chemistry/img/05-Alkenes-86.jpg",
@@ -6577,23 +6580,23 @@
       "id": "Ch5-B-Q25a(iv)",
       "no": "Q25(a)(iv)",
       "marks": 4,
-      "topic": "Propagation Steps Description",
+      "topic": "Termination Steps Description",
       "keywords": [
-        "propagation",
+        "termination",
         "free radical",
         "chlorination",
         "butane",
-        "chlorine radical",
+        "radicals combine",
         "examples"
       ],
-      "question": "Describe the propagation step (the other step type not shown), including two possible examples in this reaction.",
+      "question": "A different type of step, other than the ones shown, also occurs in the reaction. Describe this type of step, including two possible examples which might occur in this reaction.",
       "status": "ready",
-      "answer": "Propagation: a radical reacts with a molecule to form a new radical and product, e.g. Cl. + C4H10 -> HCl + C4H9. and C4H9. + Cl2 -> C4H9Cl + Cl.",
+      "answer": "Termination: two radicals combine to form a molecule, so no radicals are left and the chain stops. Examples: Cl. + Cl. -> Cl2; C4H9. + Cl. -> C4H9Cl; 2C4H9. -> C8H18.",
       "steps": [
-        "Propagation steps regenerate a radical, so the chain continues.",
-        "Example 1: Cl. + C4H10 -> HCl + C4H9. (H atom abstraction).",
-        "Example 2: C4H9. + Cl2 -> C4H9Cl + Cl. (Cl transferred).",
-        "Each propagation step uses one radical and produces one radical."
+        "Step 1 is initiation, and Steps 2 and 3 are propagation, so the type not shown is termination.",
+        "In termination two radicals meet and join, giving a molecule with all electrons paired.",
+        "Radicals are used up and none are made, so the chain reaction ends.",
+        "Examples in this reaction: Cl. + Cl. -> Cl2; C4H9. + Cl. -> C4H9Cl; C4H9. + C4H9. -> C8H18."
       ],
       "images": [
         "papers/chemistry/img/05-Alkenes-86.jpg",

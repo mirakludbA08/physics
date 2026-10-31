@@ -301,7 +301,7 @@
         "manganese",
         "purple"
       ],
-      "question": "An alkene is added to purple potassium manganate(VII) and the solution turns colourless. In terms of electron transfer and oxidation number, how does manganese change? Answer options are not in the extraction.",
+      "question": "An alkene is added to purple potassium manganate(VII) and the solution turns colourless. In terms of electron transfer and oxidation number, how does manganese change? Answer options are shown in the figure below.",
       "status": "ready",
       "answer": "B: gains electrons, oxidation number decreases",
       "steps": [
@@ -363,7 +363,7 @@
         "titanium",
         "reaction"
       ],
-      "question": "What metals should be used for the electrodes in the cell for this reaction? The reaction equation is not in the extraction.",
+      "question": "What metals should be used for the electrodes in the cell for this reaction? The reaction equation is shown in the figure below.",
       "status": "ready",
       "answer": "C: platinum for the Fe3+/Fe2+ system and titanium for the Ti2+/Ti system",
       "steps": [
@@ -825,7 +825,7 @@
         "redox",
         "same element"
       ],
-      "question": "In which pair of compounds does the metal have different oxidation numbers? The answer options (pairs of compounds) are not in the extraction.",
+      "question": "In which pair of compounds does the metal have different oxidation numbers? The answer options (pairs of compounds) are shown in the figure below.",
       "status": "ready",
       "answer": "D: VO2+ and VO2+ (V is +5 in VO2^+ and +4 in VO^2+)",
       "steps": [
@@ -856,7 +856,7 @@
         "notation",
         "electrodes"
       ],
-      "question": "Which is the correct cell diagram to measure the cell potential for a redox reaction whose equation is in the PDF? The equation and options are not in the extraction.",
+      "question": "Which is the correct cell diagram to measure the cell potential for a redox reaction whose equation is in the PDF? The equation and options are shown in the figure below.",
       "status": "ready",
       "answer": "C: Pt | Fe2+, Fe3+ || [MnO4- + 8H+], [Mn2+ + 4H2O] | Pt",
       "steps": [
@@ -885,7 +885,7 @@
         "electron transfer",
         "nitrogen"
       ],
-      "question": "Copper is added to concentrated nitric acid giving a brown gas and a blue solution. How does nitrogen change in terms of oxidation number and electron transfer? The answer options are not in the extraction.",
+      "question": "Copper is added to concentrated nitric acid giving a brown gas and a blue solution. How does nitrogen change in terms of oxidation number and electron transfer? The answer options are shown in the figure below.",
       "status": "ready",
       "answer": "A: oxidation number decreases and nitrogen gains electrons",
       "steps": [
@@ -1068,7 +1068,7 @@
         "electrode potential",
         "solution"
       ],
-      "question": "The electrolyte in the right-hand half-cell is prepared using equal volumes of two solutions (the options are not in the extraction).",
+      "question": "The electrolyte in the right-hand half-cell is prepared using equal volumes of two solutions (the options are shown in the figure below).",
       "status": "ready",
       "answer": "B: 2 mol dm-3 acidified VO2^+(aq) and 2 mol dm-3 acidified VO^2+(aq)",
       "steps": [
@@ -1099,7 +1099,7 @@
         "cell equation",
         "electrodes"
       ],
-      "question": "Which is the equation for the overall cell reaction under standard conditions? The options are not in the extraction.",
+      "question": "Which is the equation for the overall cell reaction under standard conditions? The options are shown in the figure below.",
       "status": "ready",
       "answer": "B: VO2^+(aq) + Ag(s) + 2H+(aq) -> VO^2+(aq) + Ag+(aq) + H2O(l)",
       "steps": [
@@ -1161,7 +1161,7 @@
         "electrochemical cell",
         "salt bridge"
       ],
-      "question": "Which is the cell diagram for this cell, using the conventional representation of half-cells? The options are not in the extraction.",
+      "question": "Which is the cell diagram for this cell, using the conventional representation of half-cells? The options are shown in the figure below.",
       "status": "ready",
       "answer": "B: Ag(s) | Ag+(aq) || [VO2^+(aq) + 2H+(aq)], [VO^2+(aq) + H2O(l)] | Pt(s)",
       "steps": [
@@ -1404,7 +1404,7 @@
         "hydroxide",
         "hydrogen-oxygen"
       ],
-      "question": "Which statement is correct for an alkaline hydrogen-oxygen fuel cell compared with an acidic one? The statements are not in the extraction.",
+      "question": "Which statement is correct for an alkaline hydrogen-oxygen fuel cell compared with an acidic one? The statements are shown in the figure below.",
       "status": "ready",
       "answer": "C: the catalyst is more efficient",
       "steps": [
@@ -1434,7 +1434,7 @@
         "reaction",
         "thermodynamics"
       ],
-      "question": "In a chemical reaction, a thermodynamic quantity (symbol missing in the extraction) is directly proportional to a second quantity. The options are not in the extraction.",
+      "question": "In a chemical reaction, a thermodynamic quantity (symbol shown in the figure below) is directly proportional to a second quantity. The options are shown in the figure below.",
       "status": "ready",
       "answer": "D: delta S(total)",
       "steps": [
@@ -1770,7 +1770,7 @@
         "reduction",
         "notation"
       ],
-      "question": "The cell diagram for an electrochemical cell is shown in the PDF. What are the half-equations for the reactions in the half-cells? The diagram and options are not in the extraction.",
+      "question": "The cell diagram for an electrochemical cell is shown in the PDF. What are the half-equations for the reactions in the half-cells? The diagram and options are shown in the figure below.",
       "status": "ready",
       "answer": "B: left Fe2+ -> Fe3+ + e-; right Br2 + 2e- -> 2Br-",
       "steps": [
@@ -1802,7 +1802,7 @@
         "repulsion",
         "reaction rate"
       ],
-      "question": "Persulfate ions react slowly with iodide ions unless Fe2+ or Fe3+ is added. Which is the most likely reason the uncatalysed reaction is slow? The options are not in the extraction.",
+      "question": "Persulfate ions react slowly with iodide ions unless Fe2+ or Fe3+ is added. Which is the most likely reason the uncatalysed reaction is slow? The options are shown in the figure below.",
       "status": "ready",
       "answer": "D: activation energy is high",
       "steps": [
@@ -1862,7 +1862,7 @@
         "cell potential",
         "signs"
       ],
-      "question": "The emf of a cell is +0.57 V. The magnitudes of the two standard electrode potentials are 0.17 V and 0.40 V. What are the signs of the potentials of the right-hand and left-hand half-cells? The answer options are not in the extraction.",
+      "question": "The emf of a cell is +0.57 V. The magnitudes of the two standard electrode potentials are 0.17 V and 0.40 V. What are the signs of the potentials of the right-hand and left-hand half-cells? The answer options are shown in the figure below.",
       "status": "ready",
       "answer": "B: left-hand half-cell negative, right-hand half-cell positive",
       "steps": [
@@ -1892,7 +1892,7 @@
         "definition",
         "list"
       ],
-      "question": "Standard electrode potentials can also be called the electrochemical series. Which statement is correct? The options are not in the extraction.",
+      "question": "Standard electrode potentials can also be called the electrochemical series. Which statement is correct? The options are shown in the figure below.",
       "status": "ready",
       "answer": "A: standard reduction potential; most negative to most positive",
       "steps": [
@@ -1950,7 +1950,7 @@
         "chromium",
         "manganese"
       ],
-      "question": "In which pair of compounds does the transition metal have the same oxidation number? The answer options are not in the extraction.",
+      "question": "In which pair of compounds does the transition metal have the same oxidation number? The answer options are shown in the figure below.",
       "status": "ready",
       "answer": "D: VO3- and VO2+ (V is +5 in both)",
       "steps": [
@@ -2398,7 +2398,7 @@
         "kinetics",
         "effect"
       ],
-      "question": "Using concentrated HCl instead of standard conditions causes significantly more chlorine to form from dichromate(VI). What is the effect on Ecell and on Ea? The answer options are not in the extraction.",
+      "question": "Using concentrated HCl instead of standard conditions causes significantly more chlorine to form from dichromate(VI). What is the effect on Ecell and on Ea? The answer options are shown in the figure below.",
       "status": "ready",
       "answer": "D: E(cell) more positive, Ea unchanged",
       "steps": [
@@ -2431,7 +2431,7 @@
         "conventional notation",
         "half-cells"
       ],
-      "question": "Which is the diagram for the cell made from nickel and zinc half-cells that gives a positive cell potential? The options are not in the extraction (use the Data Booklet).",
+      "question": "Which is the diagram for the cell made from nickel and zinc half-cells that gives a positive cell potential? The options are shown in the figure below (use the Data Booklet).",
       "status": "ready",
       "answer": "A: Zn(s) | Zn2+(aq) || Ni2+(aq) | Ni(s)",
       "steps": [
@@ -2731,7 +2731,7 @@
         "electrode potential",
         "order"
       ],
-      "question": "Which sequence shows ions in order of increasing strength as a reducing agent? The sequences (options) are not in the extraction.",
+      "question": "Which sequence shows ions in order of increasing strength as a reducing agent? The sequences (options) are shown in the figure below.",
       "status": "ready",
       "answer": "D: Fe2+ < V2+ < Cr2+",
       "steps": [
@@ -2762,7 +2762,7 @@
         "electron transfer",
         "titration"
       ],
-      "question": "For 2KMnO4 + 10FeSO4 + 8H2SO4 -> K2SO4 + 2MnSO4 + 5Fe2(SO4)3 + 8H2O, which option shows the changes in oxidation states of iron and manganese? The options are not in the extraction.",
+      "question": "For 2KMnO4 + 10FeSO4 + 8H2SO4 -> K2SO4 + 2MnSO4 + 5Fe2(SO4)3 + 8H2O, which option shows the changes in oxidation states of iron and manganese? The options are shown in the figure below.",
       "status": "ready",
       "answer": "A: iron II -> III and manganese VII -> II",
       "steps": [
@@ -3092,7 +3092,7 @@
         "inert electrode",
         "standard cell potential"
       ],
-      "question": "The apparatus is used to measure E(cell) for 2Cr3+(aq) + Zn(s) -> 2Cr2+(aq) + Zn2+(aq). Which electrodes are used for this cell? The options are not in the extraction.",
+      "question": "The apparatus is used to measure E(cell) for 2Cr3+(aq) + Zn(s) -> 2Cr2+(aq) + Zn2+(aq). Which electrodes are used for this cell? The options are shown in the figure below.",
       "status": "ready",
       "answer": "D: zinc for electrode 1 and platinum for electrode 2",
       "steps": [
@@ -3123,7 +3123,7 @@
         "mass required",
         "Cr3+ ions"
       ],
-      "question": "What mass of Cr2(SO4)3.18H2O must be dissolved in 1.00 dm3 of water to give the Cr3+ concentration needed for the measurement? The required concentration is not in the extraction.",
+      "question": "What mass of Cr2(SO4)3.18H2O must be dissolved in 1.00 dm3 of water to give the Cr3+ concentration needed for the measurement? The required concentration is shown in the figure below.",
       "status": "ready",
       "answer": "C: 358 g",
       "steps": [
@@ -3187,7 +3187,7 @@
         "relationship",
         "axes"
       ],
-      "question": "Which graph shows the relationship between a quantity on the x-axis and delta Stotal on the y-axis for any electrochemical system? The graphs are not in the extraction.",
+      "question": "Which graph shows the relationship between a quantity on the x-axis and delta Stotal on the y-axis for any electrochemical system? The graphs are shown in the figure below.",
       "status": "ready",
       "answer": "A: a straight line through the origin with positive gradient",
       "steps": [
@@ -3219,7 +3219,7 @@
         "concentrations",
         "E cell 1.53 V"
       ],
-      "question": "Identify the substances needed in the salt bridge, the electrode and the solution of the right-hand half-cell for the standard cell, including concentrations. The cell diagram is not in the extraction.",
+      "question": "Identify the substances needed in the salt bridge, the electrode and the solution of the right-hand half-cell for the standard cell, including concentrations. The cell diagram is shown in the figure below.",
       "status": "ready",
       "answer": "A: potassium nitrate solution; B: platinum; C: solution containing Fe2+ and Fe3+ ions, each at 1.00 mol dm-3",
       "steps": [
@@ -3344,7 +3344,7 @@
         "reduction",
         "half-cell"
       ],
-      "question": "Which statement is correct about standard electrode potentials? The statements are not in the extraction.",
+      "question": "Which statement is correct about standard electrode potentials? The statements are shown in the figure below.",
       "status": "ready",
       "answer": "B: E(cell) is proportional to ln K and delta S(total)",
       "steps": [
@@ -3468,7 +3468,7 @@
         "titanium",
         "standard"
       ],
-      "question": "The electrode system Ti3+(aq) + e- -> Ti2+(aq) is shown. Calculate the value using the Data Booklet (the quantity to calculate is missing from the extraction).",
+      "question": "The electrode system Ti3+(aq) + e- -> Ti2+(aq) is shown. Calculate the value using the Data Booklet (the quantity to calculate is shown in the figure below).",
       "status": "ready",
       "answer": "E(cell) = +1.17 V",
       "steps": [
@@ -3622,7 +3622,7 @@
         "electron transfer",
         "row"
       ],
-      "question": "Which row of the table shows the correct changes in oxidation states in the reaction MnO4- + 8H+ + 5Fe2+ -> 5Fe3+ + Mn2+ + 4H2O? The table is not in the extraction.",
+      "question": "Which row of the table shows the correct changes in oxidation states in the reaction MnO4- + 8H+ + 5Fe2+ -> 5Fe3+ + Mn2+ + 4H2O? The table is shown in the figure below.",
       "status": "ready",
       "answer": "D: manganese VII -> II, iron II -> III",
       "steps": [

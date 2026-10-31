@@ -79,7 +79,7 @@
         "suvat",
         "options"
       ],
-      "question": "An object accelerates from rest down a frictionless slope at 23 degrees to the horizontal, moving a distance of 20 m. Which expression gives its final speed? The options A to D are not in the extracted text.",
+      "question": "An object accelerates from rest down a frictionless slope at 23 degrees to the horizontal, moving a distance of 20 m. Which expression gives its final speed? The options A to D are shown in the figure below.",
       "status": "ready",
       "answer": "C: sqrt(2 x 9.81 x 20 x sin 23)  (about 12 m s^-1)",
       "steps": [

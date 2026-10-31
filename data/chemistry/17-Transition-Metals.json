@@ -96,6 +96,9 @@
         "papers/chemistry/img/17-Transition-Metals-01.jpg",
         "papers/chemistry/img/17-Transition-Metals-02.jpg",
         "papers/chemistry/img/17-Transition-Metals-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q1-3.jpg"
       ]
     },
     {
@@ -179,6 +182,9 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-03.jpg",
         "papers/chemistry/img/17-Transition-Metals-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q4.jpg"
       ]
     },
     {
@@ -264,6 +270,9 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-05.jpg",
         "papers/chemistry/img/17-Transition-Metals-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q6.jpg"
       ]
     },
     {
@@ -354,6 +363,9 @@
         "papers/chemistry/img/17-Transition-Metals-09.jpg",
         "papers/chemistry/img/17-Transition-Metals-10.jpg",
         "papers/chemistry/img/17-Transition-Metals-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q9-2.jpg"
       ]
     },
     {
@@ -446,6 +458,9 @@
         "papers/chemistry/img/17-Transition-Metals-09.jpg",
         "papers/chemistry/img/17-Transition-Metals-10.jpg",
         "papers/chemistry/img/17-Transition-Metals-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q9-2.jpg"
       ]
     },
     {
@@ -511,6 +526,9 @@
         "papers/chemistry/img/17-Transition-Metals-09.jpg",
         "papers/chemistry/img/17-Transition-Metals-10.jpg",
         "papers/chemistry/img/17-Transition-Metals-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q9-2.jpg"
       ]
     },
     {
@@ -539,6 +557,9 @@
         "papers/chemistry/img/17-Transition-Metals-09.jpg",
         "papers/chemistry/img/17-Transition-Metals-10.jpg",
         "papers/chemistry/img/17-Transition-Metals-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q9-2.jpg"
       ]
     },
     {
@@ -627,6 +648,9 @@
         "papers/chemistry/img/17-Transition-Metals-09.jpg",
         "papers/chemistry/img/17-Transition-Metals-10.jpg",
         "papers/chemistry/img/17-Transition-Metals-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q9-2.jpg"
       ]
     },
     {
@@ -685,6 +709,9 @@
         "papers/chemistry/img/17-Transition-Metals-14.jpg",
         "papers/chemistry/img/17-Transition-Metals-15.jpg",
         "papers/chemistry/img/17-Transition-Metals-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q11.jpg"
       ]
     },
     {
@@ -716,6 +743,9 @@
         "papers/chemistry/img/17-Transition-Metals-14.jpg",
         "papers/chemistry/img/17-Transition-Metals-15.jpg",
         "papers/chemistry/img/17-Transition-Metals-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q11.jpg"
       ]
     },
     {
@@ -745,6 +775,9 @@
         "papers/chemistry/img/17-Transition-Metals-14.jpg",
         "papers/chemistry/img/17-Transition-Metals-15.jpg",
         "papers/chemistry/img/17-Transition-Metals-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q11.jpg"
       ]
     },
     {
@@ -867,6 +900,9 @@
         "papers/chemistry/img/17-Transition-Metals-14.jpg",
         "papers/chemistry/img/17-Transition-Metals-15.jpg",
         "papers/chemistry/img/17-Transition-Metals-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q12-4.jpg"
       ]
     },
     {
@@ -899,6 +935,9 @@
         "papers/chemistry/img/17-Transition-Metals-14.jpg",
         "papers/chemistry/img/17-Transition-Metals-15.jpg",
         "papers/chemistry/img/17-Transition-Metals-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q12-4.jpg"
       ]
     },
     {
@@ -991,6 +1030,9 @@
         "papers/chemistry/img/17-Transition-Metals-14.jpg",
         "papers/chemistry/img/17-Transition-Metals-15.jpg",
         "papers/chemistry/img/17-Transition-Metals-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q12-4.jpg"
       ]
     },
     {
@@ -1024,6 +1066,9 @@
         "papers/chemistry/img/17-Transition-Metals-14.jpg",
         "papers/chemistry/img/17-Transition-Metals-15.jpg",
         "papers/chemistry/img/17-Transition-Metals-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q12-4.jpg"
       ]
     },
     {
@@ -1182,7 +1227,7 @@
         "oxidised to Fe3+",
         "redox cycle"
       ],
-      "question": "Iodide ions are oxidised by peroxodisulfate. Fe2+ catalyses it because: A Fe2+ reacts with I- and S2O8 2- ... (options as given), D Fe2+ is oxidised to Fe3+ which is reduced back to Fe2+.",
+      "question": "Iodide ions are oxidised by peroxodisulfate ions in aqueous solution (2I- + S2O8 2- -> I2 + 2SO4 2-). The reaction is catalysed by adding Fe2+ ions. This catalysis is effective because: A Fe2+ reacts with iodide ions and with peroxodisulfate ions, B Fe2+ has many electrons in its outermost subshells, C Fe2+ has many active sites on which the reaction can occur, D Fe2+ is readily oxidised to Fe3+ which is then reduced to Fe2+.",
       "status": "ready",
       "answer": "D - Fe2+ is oxidised to Fe3+, which is then reduced back to Fe2+",
       "steps": [
@@ -1318,7 +1363,7 @@
         "chromium complex",
         "complex"
       ],
-      "question": "What are the shapes of the Pt(NH3)2Cl2 complex and the chromium complex? (Chromium complex formula missing from the text.)",
+      "question": "What are the shapes of the Pt(NH3)2Cl2 complex and the chromium complex? (Chromium complex formula shown in the figure below.)",
       "status": "ready",
       "answer": "D: Pt(NH3)2Cl2 is square planar and CrCl4- is tetrahedral",
       "steps": [
@@ -1718,7 +1763,7 @@
         "yellow-brown solution",
         "sequence of observations"
       ],
-      "question": "Aqueous ammonia is added drop by drop to CoCl2(aq) until in excess. What is the sequence of observations? A blue, pink ppt, dark blue, B pink, blue ppt, C blue, pink ppt, D pink solution, blue precipitate, yellow-brown solution.",
+      "question": "Aqueous ammonia is added drop by drop to a solution of cobalt(II) chloride, CoCl2(aq), until in excess. What would be the sequence of observations? A blue solution -> pink precipitate -> dark blue solution, B pink solution -> blue precipitate, C blue solution -> pink precipitate, D pink solution -> blue precipitate -> yellow-brown solution.",
       "status": "ready",
       "answer": "D - pink solution, blue precipitate, yellow-brown solution",
       "steps": [
@@ -1776,7 +1821,7 @@
         "autocatalyst",
         "heterogeneous"
       ],
-      "question": "Which term best describes the type of catalyst in part (a)? A autocatalyst, B biocatalyst, C heterogeneous, D homogeneous.",
+      "question": "(Part (a) concerns the catalysed reaction S2O8 2- + 2I- -> 2SO4 2- + I2.) Which term best describes the type of catalyst for the reaction in part (a)? A autocatalyst, B biocatalyst, C heterogeneous, D homogeneous.",
       "status": "ready",
       "answer": "D - homogeneous",
       "steps": [
@@ -1962,6 +2007,9 @@
         "papers/chemistry/img/17-Transition-Metals-28.jpg",
         "papers/chemistry/img/17-Transition-Metals-29.jpg",
         "papers/chemistry/img/17-Transition-Metals-30.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q33.jpg"
       ]
     },
     {
@@ -2392,6 +2440,9 @@
         "papers/chemistry/img/17-Transition-Metals-35.jpg",
         "papers/chemistry/img/17-Transition-Metals-36.jpg",
         "papers/chemistry/img/17-Transition-Metals-37.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q40-2.jpg"
       ]
     },
     {
@@ -2423,7 +2474,8 @@
         "papers/chemistry/img/17-Transition-Metals-37.jpg"
       ],
       "figures": [
-        "papers/chemistry/fig/17-Transition-Metals-Q40.jpg"
+        "papers/chemistry/fig/17-Transition-Metals-Q40.jpg",
+        "papers/chemistry/fig/17-Transition-Metals-Q40-2.jpg"
       ]
     },
     {
@@ -2456,6 +2508,9 @@
         "papers/chemistry/img/17-Transition-Metals-35.jpg",
         "papers/chemistry/img/17-Transition-Metals-36.jpg",
         "papers/chemistry/img/17-Transition-Metals-37.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q40-2.jpg"
       ]
     },
     {
@@ -2623,6 +2678,9 @@
         "papers/chemistry/img/17-Transition-Metals-40.jpg",
         "papers/chemistry/img/17-Transition-Metals-41.jpg",
         "papers/chemistry/img/17-Transition-Metals-42.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q45-3.jpg"
       ]
     },
     {
@@ -2649,6 +2707,9 @@
         "papers/chemistry/img/17-Transition-Metals-40.jpg",
         "papers/chemistry/img/17-Transition-Metals-41.jpg",
         "papers/chemistry/img/17-Transition-Metals-42.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q45-3.jpg"
       ]
     },
     {
@@ -2679,6 +2740,9 @@
         "papers/chemistry/img/17-Transition-Metals-40.jpg",
         "papers/chemistry/img/17-Transition-Metals-41.jpg",
         "papers/chemistry/img/17-Transition-Metals-42.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q45-3.jpg"
       ]
     },
     {
@@ -2707,6 +2771,9 @@
         "papers/chemistry/img/17-Transition-Metals-40.jpg",
         "papers/chemistry/img/17-Transition-Metals-41.jpg",
         "papers/chemistry/img/17-Transition-Metals-42.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q45-2.jpg"
       ]
     },
     {
@@ -2795,6 +2862,9 @@
         "papers/chemistry/img/17-Transition-Metals-40.jpg",
         "papers/chemistry/img/17-Transition-Metals-41.jpg",
         "papers/chemistry/img/17-Transition-Metals-42.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q45-4.jpg"
       ]
     },
     {
@@ -3496,6 +3566,9 @@
         "papers/chemistry/img/17-Transition-Metals-49.jpg",
         "papers/chemistry/img/17-Transition-Metals-50.jpg",
         "papers/chemistry/img/17-Transition-Metals-51.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q52.jpg"
       ]
     },
     {
@@ -3789,6 +3862,9 @@
         "papers/chemistry/img/17-Transition-Metals-54.jpg",
         "papers/chemistry/img/17-Transition-Metals-55.jpg",
         "papers/chemistry/img/17-Transition-Metals-56.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q58.jpg"
       ]
     },
     {
@@ -3816,6 +3892,9 @@
         "papers/chemistry/img/17-Transition-Metals-54.jpg",
         "papers/chemistry/img/17-Transition-Metals-55.jpg",
         "papers/chemistry/img/17-Transition-Metals-56.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q58-2.jpg"
       ]
     },
     {
@@ -3846,6 +3925,9 @@
         "papers/chemistry/img/17-Transition-Metals-54.jpg",
         "papers/chemistry/img/17-Transition-Metals-55.jpg",
         "papers/chemistry/img/17-Transition-Metals-56.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q58-3.jpg"
       ]
     },
     {
@@ -4251,6 +4333,9 @@
         "papers/chemistry/img/17-Transition-Metals-63.jpg",
         "papers/chemistry/img/17-Transition-Metals-64.jpg",
         "papers/chemistry/img/17-Transition-Metals-65.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q70.jpg"
       ]
     },
     {
@@ -4279,6 +4364,9 @@
         "papers/chemistry/img/17-Transition-Metals-63.jpg",
         "papers/chemistry/img/17-Transition-Metals-64.jpg",
         "papers/chemistry/img/17-Transition-Metals-65.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q70.jpg"
       ]
     },
     {
@@ -4310,6 +4398,9 @@
         "papers/chemistry/img/17-Transition-Metals-63.jpg",
         "papers/chemistry/img/17-Transition-Metals-64.jpg",
         "papers/chemistry/img/17-Transition-Metals-65.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q70-2.jpg"
       ]
     },
     {
@@ -4397,6 +4488,9 @@
         "papers/chemistry/img/17-Transition-Metals-63.jpg",
         "papers/chemistry/img/17-Transition-Metals-64.jpg",
         "papers/chemistry/img/17-Transition-Metals-65.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q70.jpg"
       ]
     },
     {
@@ -4504,6 +4598,9 @@
         "papers/chemistry/img/17-Transition-Metals-65.jpg",
         "papers/chemistry/img/17-Transition-Metals-66.jpg",
         "papers/chemistry/img/17-Transition-Metals-67.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q72.jpg"
       ]
     },
     {
@@ -4529,6 +4626,9 @@
         "papers/chemistry/img/17-Transition-Metals-65.jpg",
         "papers/chemistry/img/17-Transition-Metals-66.jpg",
         "papers/chemistry/img/17-Transition-Metals-67.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q72.jpg"
       ]
     },
     {
@@ -4556,6 +4656,9 @@
         "papers/chemistry/img/17-Transition-Metals-65.jpg",
         "papers/chemistry/img/17-Transition-Metals-66.jpg",
         "papers/chemistry/img/17-Transition-Metals-67.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q72-2.jpg"
       ]
     },
     {
@@ -4582,6 +4685,9 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-67.jpg",
         "papers/chemistry/img/17-Transition-Metals-68.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q73.jpg"
       ]
     },
     {
@@ -5267,6 +5373,9 @@
         "papers/chemistry/img/17-Transition-Metals-76.jpg",
         "papers/chemistry/img/17-Transition-Metals-77.jpg",
         "papers/chemistry/img/17-Transition-Metals-78.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q82-2.jpg"
       ]
     },
     {
@@ -5296,6 +5405,9 @@
         "papers/chemistry/img/17-Transition-Metals-76.jpg",
         "papers/chemistry/img/17-Transition-Metals-77.jpg",
         "papers/chemistry/img/17-Transition-Metals-78.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q82-3.jpg"
       ]
     },
     {
@@ -5616,6 +5728,9 @@
         "papers/chemistry/img/17-Transition-Metals-85.jpg",
         "papers/chemistry/img/17-Transition-Metals-86.jpg",
         "papers/chemistry/img/17-Transition-Metals-87.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q91-2.jpg"
       ]
     },
     {
@@ -5647,6 +5762,9 @@
         "papers/chemistry/img/17-Transition-Metals-85.jpg",
         "papers/chemistry/img/17-Transition-Metals-86.jpg",
         "papers/chemistry/img/17-Transition-Metals-87.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q91-2.jpg"
       ]
     },
     {
@@ -5676,6 +5794,10 @@
         "papers/chemistry/img/17-Transition-Metals-85.jpg",
         "papers/chemistry/img/17-Transition-Metals-86.jpg",
         "papers/chemistry/img/17-Transition-Metals-87.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q91-3.jpg",
+        "papers/chemistry/fig/17-Transition-Metals-Q91-4.jpg"
       ]
     },
     {
@@ -5704,6 +5826,9 @@
         "papers/chemistry/img/17-Transition-Metals-85.jpg",
         "papers/chemistry/img/17-Transition-Metals-86.jpg",
         "papers/chemistry/img/17-Transition-Metals-87.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q91-4.jpg"
       ]
     },
     {
@@ -5733,6 +5858,10 @@
         "papers/chemistry/img/17-Transition-Metals-85.jpg",
         "papers/chemistry/img/17-Transition-Metals-86.jpg",
         "papers/chemistry/img/17-Transition-Metals-87.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q91-3.jpg",
+        "papers/chemistry/fig/17-Transition-Metals-Q91-4.jpg"
       ]
     },
     {
@@ -5878,6 +6007,9 @@
         "papers/chemistry/img/17-Transition-Metals-87.jpg",
         "papers/chemistry/img/17-Transition-Metals-88.jpg",
         "papers/chemistry/img/17-Transition-Metals-89.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q92-2.jpg"
       ]
     },
     {
@@ -6076,6 +6208,9 @@
         "papers/chemistry/img/17-Transition-Metals-90.jpg",
         "papers/chemistry/img/17-Transition-Metals-91.jpg",
         "papers/chemistry/img/17-Transition-Metals-92.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q96.jpg"
       ]
     },
     {
@@ -6134,6 +6269,9 @@
         "papers/chemistry/img/17-Transition-Metals-90.jpg",
         "papers/chemistry/img/17-Transition-Metals-91.jpg",
         "papers/chemistry/img/17-Transition-Metals-92.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q96-2.jpg"
       ]
     },
     {
@@ -6486,6 +6624,9 @@
         "papers/chemistry/img/17-Transition-Metals-94.jpg",
         "papers/chemistry/img/17-Transition-Metals-95.jpg",
         "papers/chemistry/img/17-Transition-Metals-96.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q100-2.jpg"
       ]
     },
     {
@@ -6641,6 +6782,9 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-97.jpg",
         "papers/chemistry/img/17-Transition-Metals-98.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/17-Transition-Metals-Q103.jpg"
       ]
     },
     {
@@ -6732,7 +6876,7 @@
         "colour change",
         "copper hydroxide"
       ],
-      "question": "Explain the changes when dilute aqueous ammonia is added gradually to [CuCl4]2-, referring to formulae, shapes and colours at each stage. (The sequence of observations is missing from the text.)",
+      "question": "Explain the changes when dilute aqueous ammonia is added gradually to [CuCl4]2-, referring to formulae, shapes and colours at each stage. (The sequence of observations is shown in the figure below.)",
       "status": "ready",
       "answer": "Yellow tetrahedral [CuCl4]2- first forms pale blue octahedral [Cu(H2O)6]2+ (water replaces chloride); then ammonia acts as a base to give pale blue Cu(OH)2(H2O)4 precipitate; in excess ammonia ligand exchange gives deep blue [Cu(NH3)4(H2O)2]2+.",
       "steps": [

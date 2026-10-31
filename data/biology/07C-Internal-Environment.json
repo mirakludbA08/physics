@@ -1316,7 +1316,7 @@
         "South African Black",
         "Zimbabwean Blue"
       ],
-      "question": "Calculate the percentage difference in the mean mass of muscle G between the South African Black and Zimbabwean Blue ostriches (2 d.p.).",
+      "question": "Calculate the percentage difference in the mean mass of muscle G between the South African Black and Zimbabwean Blue ostriches (2 d.p.). Use percentage difference between a and b = (a - b) / ((a + b) / 2) x 100.",
       "status": "ready",
       "answer": "22.56 % (muscle G is larger in the Zimbabwean Blue ostriches)",
       "steps": [
@@ -1330,7 +1330,8 @@
         "papers/biology/img/07C-Internal-Environment-22.jpg"
       ],
       "figures": [
-        "papers/biology/fig/07C-Internal-Environment-Q9-2.jpg"
+        "papers/biology/fig/07C-Internal-Environment-Q9-2.jpg",
+        "papers/biology/fig/07C-Internal-Environment-Q9-3.jpg"
       ]
     },
     {
@@ -1705,6 +1706,9 @@
         "papers/biology/img/07C-Internal-Environment-25.jpg",
         "papers/biology/img/07C-Internal-Environment-26.jpg",
         "papers/biology/img/07C-Internal-Environment-27.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q11.jpg"
       ]
     },
     {
@@ -1954,7 +1958,7 @@
         "calculation",
         "standard form"
       ],
-      "question": "Calculate the volume of the spherical Bowman capsule with diameter 70 nm (2 s.f., nm3).",
+      "question": "Calculate the volume of the spherical Bowman capsule with diameter 70 nm, using V = 4/3 x pi x r^3 (2 s.f., nm3).",
       "status": "ready",
       "answer": "1.8 x 10^5 nm3",
       "steps": [
@@ -1966,6 +1970,9 @@
         "papers/biology/img/07C-Internal-Environment-30.jpg",
         "papers/biology/img/07C-Internal-Environment-31.jpg",
         "papers/biology/img/07C-Internal-Environment-32.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q13.jpg"
       ]
     },
     {
@@ -2583,6 +2590,9 @@
       "images": [
         "papers/biology/img/07C-Internal-Environment-41.jpg",
         "papers/biology/img/07C-Internal-Environment-42.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q17.jpg"
       ]
     },
     {

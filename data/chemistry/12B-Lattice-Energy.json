@@ -17,7 +17,7 @@
         "electrons",
         "enthalpy cycle"
       ],
-      "question": "Complete the Born-Haber cycle for CaCl2 by writing the formulae, with state symbols and relevant electrons, on the horizontal lines. The cycle diagram is not in the extracted text.",
+      "question": "Complete the Born-Haber cycle for CaCl2 by writing the formulae, with state symbols and relevant electrons, on the horizontal lines. The cycle diagram is shown in the figure below.",
       "status": "ready",
       "answer": "Levels from the bottom up: Ca(s) + Cl2(g); Ca(g) + Cl2(g); Ca(g) + 2Cl(g); Ca+(g) + e- + 2Cl(g); Ca2+(g) + 2e- + 2Cl(g); then (right side) Ca2+(g) + 2Cl-(g)",
       "steps": [
@@ -49,7 +49,7 @@
         "sign and units",
         "CaCl2"
       ],
-      "question": "Using the cycle and the table of values, calculate the second ionisation energy of calcium, including sign and units. The table values are not in the extracted text.",
+      "question": "Using the cycle and the table of values, calculate the second ionisation energy of calcium, including sign and units. The table values are shown in the figure below.",
       "status": "ready",
       "answer": "second ionisation energy of calcium = +1148 kJ mol-1",
       "steps": [
@@ -139,7 +139,7 @@
         "Hess cycle",
         "experimental lattice energy"
       ],
-      "question": "Calculate the enthalpy change of solution of CaCl2 using the experimental lattice energy of -2258 kJ mol-1. The hydration enthalpies needed are not in the extracted text.",
+      "question": "Calculate the enthalpy change of solution of CaCl2 using the experimental lattice energy of -2258 kJ mol-1. The hydration enthalpies needed are shown in the figure below.",
       "status": "ready",
       "answer": "enthalpy change of solution of CaCl2 = -120 kJ mol-1",
       "steps": [
@@ -169,7 +169,7 @@
         "lattice energy",
         "solution"
       ],
-      "question": "In a Born-Haber cycle for LiCl, what does the labelled energy change X represent? Options: A sum of hydration enthalpies of gaseous ions, B enthalpy change of formation of LiCl, C enthalpy change of solution of LiCl, D lattice energy of LiCl. The diagram is not in the extracted text.",
+      "question": "In a Born-Haber cycle for LiCl, what does the labelled energy change X represent? Options: A sum of hydration enthalpies of gaseous ions, B enthalpy change of formation of LiCl, C enthalpy change of solution of LiCl, D lattice energy of LiCl. The diagram is shown in the figure below.",
       "status": "ready",
       "answer": "A: the sum of the enthalpy changes of hydration of the gaseous ions",
       "steps": [
@@ -196,7 +196,7 @@
         "magnesium chloride",
         "cycle letters w x y"
       ],
-      "question": "For the Born-Haber cycle for MgCl2 (energy changes labelled w, x, y, etc.), which expression gives the electron affinity of chlorine? Options: A y, B y/2, C (w + y), D (w + y)/2. The diagram is not in the extracted text.",
+      "question": "For the Born-Haber cycle for MgCl2 (energy changes labelled w, x, y, etc.), which expression gives the electron affinity of chlorine? Options: A y, B y/2, C (w + y), D (w + y)/2. The diagram is shown in the figure below.",
       "status": "ready",
       "answer": "B: y/2",
       "steps": [
@@ -250,7 +250,7 @@
         "Born-Haber",
         "energy change x"
       ],
-      "question": "Which energy change in the MgCl2 cycle does x represent? Options: A first ionisation energy of Mg, B second ionisation energy of Mg, C sum of first and second ionisation energies of Mg, D sum of the enthalpy change of atomisation and the first and second ionisation energies of Mg. The diagram is not in the extracted text.",
+      "question": "Which energy change in the MgCl2 cycle does x represent? Options: A first ionisation energy of Mg, B second ionisation energy of Mg, C sum of first and second ionisation energies of Mg, D sum of the enthalpy change of atomisation and the first and second ionisation energies of Mg. The diagram is shown in the figure below.",
       "status": "ready",
       "answer": "C: the sum of the first and second ionisation energies of magnesium",
       "steps": [
@@ -277,7 +277,7 @@
         "Br2",
         "gaseous atoms"
       ],
-      "question": "Which equation represents the standard enthalpy change of atomisation of bromine? The four options are not in the extracted text.",
+      "question": "Which equation represents the standard enthalpy change of atomisation of bromine? The four options are shown in the figure below.",
       "status": "ready",
       "answer": "A: 1/2 Br2(l) -> Br(g)",
       "steps": [
@@ -417,7 +417,7 @@
         "bonding type",
         "polarisation"
       ],
-      "question": "Using the theoretical and experimental (Born-Haber) lattice energies of NaCl and MgI2 in the table, compare and contrast the type and strength of bonding in the two compounds, giving reasons. The table is not in the extracted text.",
+      "question": "Using the theoretical and experimental (Born-Haber) lattice energies of NaCl and MgI2 in the table, compare and contrast the type and strength of bonding in the two compounds, giving reasons. The table is shown in the figure below.",
       "status": "ready",
       "answer": "NaCl is almost purely ionic (theoretical and experimental values agree); MgI2 has a lot of covalent character (experimental much more exothermic), although both are ionic lattices",
       "steps": [
@@ -476,7 +476,7 @@
         "-298",
         "-242"
       ],
-      "question": "Using the simplified Born-Haber cycle for LiI, calculate the electron affinity of iodine. Options: A -298, B -242, C +242, D +298 kJ mol-1. The cycle values are not in the extracted text.",
+      "question": "Using the simplified Born-Haber cycle for LiI, calculate the electron affinity of iodine. Options: A -298, B -242, C +242, D +298 kJ mol-1. The cycle values are shown in the figure below.",
       "status": "ready",
       "answer": "A: -298 kJ mol-1",
       "steps": [
@@ -506,7 +506,7 @@
         "-1410",
         "-3106"
       ],
-      "question": "Using a table of energy changes, calculate the enthalpy change of hydration of Ca2+(g). Options: A -1410, B -1650, C -2014, D -3106 kJ mol-1. The table is not in the extracted text.",
+      "question": "Using a table of energy changes, calculate the enthalpy change of hydration of Ca2+(g). Options: A -1410, B -1650, C -2014, D -3106 kJ mol-1. The table is shown in the figure below.",
       "status": "ready",
       "answer": "B: -1650 kJ mol-1",
       "steps": [
@@ -562,7 +562,7 @@
         "theoretical lattice energy",
         "P Q R S"
       ],
-      "question": "Which compound would show the largest percentage difference between experimental and theoretical lattice energies? The ionic radii and charges are in a table not in the extracted text. Options: A PR, B PS, C QR, D QS.",
+      "question": "Which compound would show the largest percentage difference between experimental and theoretical lattice energies? The ionic radii and charges are in a table shown in the figure below. Options: A PR, B PS, C QR, D QS.",
       "status": "ready",
       "answer": "B: PS",
       "steps": [
@@ -745,7 +745,7 @@
         "letters",
         "boxes"
       ],
-      "question": "Complete the Born-Haber cycle for iron(II) oxide by putting letters in the boxes to label the energy changes. The diagram is not in the extracted text.",
+      "question": "Complete the Born-Haber cycle for iron(II) oxide by putting letters in the boxes to label the energy changes. The diagram is shown in the figure below.",
       "status": "ready",
       "answer": "Bottom-left box: D; then going up the left side: A (atomisation of Fe), B (first IE of Fe), C (given), H (atomisation of oxygen); right side: E (first EA of O), F (second EA of O), G (lattice energy, long arrow down to FeO(s))",
       "steps": [
@@ -777,7 +777,7 @@
         "FeO",
         "value C"
       ],
-      "question": "Calculate the value for the second ionisation energy of iron, C, from the Born-Haber cycle for FeO. The data are in a table not in the extracted text.",
+      "question": "Calculate the value for the second ionisation energy of iron, C, from the Born-Haber cycle for FeO. The data are in a table shown in the figure below.",
       "status": "ready",
       "answer": "second ionisation energy of iron, C = +1567 kJ mol-1",
       "steps": [
@@ -840,7 +840,7 @@
         "atomisation",
         "not true statement"
       ],
-      "question": "For the Born-Haber cycle of SrI2 (values in kJ mol-1, not to scale), which statement is not true? Options: A lattice energy is exothermic, B first electron affinity of iodine is -295, C second ionisation energy of strontium is +1614, D standard enthalpy change of atomisation of strontium is +164. The cycle diagram is not in the extracted text.",
+      "question": "For the Born-Haber cycle of SrI2 (values in kJ mol-1, not to scale), which statement is not true? Options: A lattice energy is exothermic, B first electron affinity of iodine is -295, C second ionisation energy of strontium is +1614, D standard enthalpy change of atomisation of strontium is +164. The cycle diagram is shown in the figure below.",
       "status": "ready",
       "answer": "C: the second ionisation energy of strontium is +1614 kJ mol-1 (this is not true)",
       "steps": [
@@ -923,7 +923,7 @@
         "CaCl2",
         "value"
       ],
-      "question": "State the value of the standard enthalpy change of atomisation of calcium from the Born-Haber cycle for calcium chloride. The cycle is not in the extracted text.",
+      "question": "State the value of the standard enthalpy change of atomisation of calcium from the Born-Haber cycle for calcium chloride. The cycle is shown in the figure below.",
       "status": "ready",
       "answer": "+178 kJ mol-1",
       "steps": [
@@ -951,7 +951,7 @@
         "Hess cycle",
         "CaCl2"
       ],
-      "question": "Calculate the enthalpy change of formation of calcium chloride from the Born-Haber cycle. The values are in the diagram, not in the extracted text.",
+      "question": "Calculate the enthalpy change of formation of calcium chloride from the Born-Haber cycle. The values are in the diagram, shown in the figure below.",
       "status": "ready",
       "answer": "deltaH(f, CaCl2) = -799 kJ mol-1",
       "steps": [
@@ -1014,7 +1014,7 @@
         "solution",
         "hydration"
       ],
-      "question": "Complete the energy cycle for dissolving calcium chloride in water, including the labelled arrows. The cycle diagram is not in the extracted text.",
+      "question": "Complete the energy cycle for dissolving calcium chloride in water, including the labelled arrows. The cycle diagram is shown in the figure below.",
       "status": "ready",
       "answer": "Empty box: Ca2+(g) + 2Cl-(g), joined by an arrow labelled lattice energy to CaCl2(s) and an arrow labelled sum of hydration enthalpies to Ca2+(aq) + 2Cl-(aq)",
       "steps": [
@@ -1076,7 +1076,7 @@
         "electrostatic theory",
         "cause of covalency"
       ],
-      "question": "An ionic compound has some covalent bonding. What causes the covalency, and how does the lattice energy from a Born-Haber cycle differ from the theoretical electrostatic value? The option list is not in the extracted text.",
+      "question": "An ionic compound has some covalent bonding. What causes the covalency, and how does the lattice energy from a Born-Haber cycle differ from the theoretical electrostatic value? The option list is shown in the figure below.",
       "status": "ready",
       "answer": "D: anion polarised by cation; Born-Haber lattice energy more exothermic than the theoretical value",
       "steps": [
@@ -1104,7 +1104,7 @@
         "energy change y",
         "atomisation"
       ],
-      "question": "Which energy change in the Born-Haber cycle for sodium oxide does y represent? Options: A first electron affinity of oxygen, B second electron affinity of oxygen, C sum of the first and second electron affinities of oxygen, D sum of the enthalpy change of atomisation of oxygen and the first and second electron affinities of oxygen. The diagram is not in the extracted text.",
+      "question": "Which energy change in the Born-Haber cycle for sodium oxide does y represent? Options: A first electron affinity of oxygen, B second electron affinity of oxygen, C sum of the first and second electron affinities of oxygen, D sum of the enthalpy change of atomisation of oxygen and the first and second electron affinities of oxygen. The diagram is shown in the figure below.",
       "status": "ready",
       "answer": "C: the sum of the first and second electron affinities of oxygen",
       "steps": [
@@ -1159,7 +1159,7 @@
         "W",
         "labels"
       ],
-      "question": "Identify the missing details represented by the letters R and W in the Born-Haber cycle for barium oxide. The cycle diagram is not in the extracted text.",
+      "question": "Identify the missing details represented by the letters R and W in the Born-Haber cycle for barium oxide. The cycle diagram is shown in the figure below.",
       "status": "ready",
       "answer": "R = O2-(g); W = first electron affinity of oxygen (O(g) + e- -> O-(g))",
       "steps": [
@@ -1189,7 +1189,7 @@
         "lattice energy",
         "enthalpy change"
       ],
-      "question": "Use the data given to calculate a value for quantity Z in the Born-Haber cycle for barium oxide, including sign and units. The data are not in the extracted text.",
+      "question": "Use the data given to calculate a value for quantity Z in the Born-Haber cycle for barium oxide, including sign and units. The data are shown in the figure below.",
       "status": "ready",
       "answer": "deltaZ = deltaH(f, BaO) = -499.9 kJ mol-1",
       "steps": [
@@ -1254,7 +1254,7 @@
         "-460",
         "lattice energy"
       ],
-      "question": "Using a fully labelled Hess cycle and the hydration enthalpy of OH- (-460 kJ mol-1), calculate the enthalpy change of solution of Ba(OH)2. The table data are not in the extracted text.",
+      "question": "Using a fully labelled Hess cycle and the hydration enthalpy of OH- (-460 kJ mol-1), calculate the enthalpy change of solution of Ba(OH)2. The table data are shown in the figure below.",
       "status": "ready",
       "answer": "deltaH(sol, Ba(OH)2) = -50 kJ mol-1",
       "steps": [
@@ -1318,7 +1318,7 @@
         "solution",
         "entropy of surroundings"
       ],
-      "question": "For the enthalpy cycle of lead(II) nitrate, which statement is true? Options: A enthalpy change of formation is -2151 kJ mol-1, B enthalpy change of solution is exothermic, C hydration of Pb2+ is more exothermic than that of NO3-, D entropy change of surroundings for dissolving is positive. The cycle values are not in the extracted text.",
+      "question": "For the enthalpy cycle of lead(II) nitrate, which statement is true? Options: A enthalpy change of formation is -2151 kJ mol-1, B enthalpy change of solution is exothermic, C hydration of Pb2+ is more exothermic than that of NO3-, D entropy change of surroundings for dissolving is positive. The cycle values are shown in the figure below.",
       "status": "ready",
       "answer": "C: the enthalpy change of hydration of a lead(II) ion is more exothermic than that of a nitrate ion",
       "steps": [
@@ -1375,7 +1375,7 @@
         "CO2",
         "standard entropy data"
       ],
-      "question": "Calculate the standard entropy change of the system for BaCO3(s) -> BaO(s) + CO2(g). The standard entropy data are not in the extracted text.",
+      "question": "Calculate the standard entropy change of the system for BaCO3(s) -> BaO(s) + CO2(g). The standard entropy data are shown in the figure below.",
       "status": "ready",
       "answer": "deltaS(system) = +171.9 J K-1 mol-1",
       "steps": [
@@ -1467,7 +1467,7 @@
         "enthalpy change of solution",
         "formulae"
       ],
-      "question": "Complete the Hess cycle for the enthalpy change of solution of anhydrous MgCl2 by adding formulae with state symbols to the empty boxes. The cycle diagram is not in the extracted text.",
+      "question": "Complete the Hess cycle for the enthalpy change of solution of anhydrous MgCl2 by adding formulae with state symbols to the empty boxes. The cycle diagram is shown in the figure below.",
       "status": "ready",
       "answer": "Left box: Mg2+(g) + 2Cl-(g); right box: MgCl2(s)",
       "steps": [
@@ -1645,7 +1645,7 @@
         "energy changes",
         "empty boxes"
       ],
-      "question": "Complete the Born-Haber cycle for MgCl2 by adding labels for the four energy changes and writing formulae in the two empty boxes. The table and cycle are not in the extracted text.",
+      "question": "Complete the Born-Haber cycle for MgCl2 by adding labels for the four energy changes and writing formulae in the two empty boxes. The table and cycle are shown in the figure below.",
       "status": "ready",
       "answer": "Labels: B (first IE of Mg), C (second IE of Mg), D (atomisation of chlorine), E (lattice energy); empty boxes: Mg(g) + Cl2(g) (lower) and Mg+(g) + Cl2(g) + e- (upper)",
       "steps": [
@@ -1768,7 +1768,7 @@
         "three crystal lattices",
         "six values"
       ],
-      "question": "Discuss the reasons for the differences between the experimental and theoretical lattice energies of three crystal lattices, in terms of their structure and bonding. The six values are in a table not in the extracted text.",
+      "question": "Discuss the reasons for the differences between the experimental and theoretical lattice energies of three crystal lattices, in terms of their structure and bonding. The six values are in a table shown in the figure below.",
       "status": "ready",
       "answer": "The theoretical value assumes 100% ionic bonding (perfect spherical ions); the experimental value includes real covalent character, which increases as the cation polarises the anion more. NaF is nearly ideal, MgF2 slightly less so, and MgCl2 differs most",
       "steps": [
@@ -1801,7 +1801,7 @@
         "Rb2S",
         "Li2O"
       ],
-      "question": "Which compound has the greatest degree of covalency within its ionic bonds? Options: A NaI, B AgBr, C Rb2S, D Li2O. The lattice energy data table is not in the extracted text.",
+      "question": "Which compound has the greatest degree of covalency within its ionic bonds? Options: A NaI, B AgBr, C Rb2S, D Li2O. The lattice energy data table is shown in the figure below.",
       "status": "ready",
       "answer": "B: AgBr",
       "steps": [
@@ -1828,7 +1828,7 @@
         "equation",
         "gaseous atoms"
       ],
-      "question": "Which equation represents the standard enthalpy change of atomisation of iodine? The options are not in the extracted text.",
+      "question": "Which equation represents the standard enthalpy change of atomisation of iodine? The options are shown in the figure below.",
       "status": "ready",
       "answer": "A: 1/2 I2(s) -> I(g)",
       "steps": [
@@ -1855,7 +1855,7 @@
         "O-",
         "O2-"
       ],
-      "question": "Which equation represents the second electron affinity of oxygen? The options are not in the extracted text.",
+      "question": "Which equation represents the second electron affinity of oxygen? The options are shown in the figure below.",
       "status": "ready",
       "answer": "A: O-(g) + e- -> O2-(g)",
       "steps": [
@@ -1942,7 +1942,7 @@
         "deltaS surroundings",
         "effervescent"
       ],
-      "question": "For the reaction at 25 C, the standard entropy change of the surroundings is given in a value not shown in the extracted text. Calculate the enthalpy change of the reaction, including sign and units.",
+      "question": "For the reaction at 25 C, the standard entropy change of the surroundings is given in a value shown in the figure below. Calculate the enthalpy change of the reaction, including sign and units.",
       "status": "ready",
       "answer": "deltaH = +70.0 kJ mol-1",
       "steps": [
@@ -2169,7 +2169,7 @@
         "lattice energy",
         "hydration"
       ],
-      "question": "Complete the Hess cycle for the enthalpy change of solution of CuCl2 by filling in the empty boxes. The cycle diagram is not in the extracted text.",
+      "question": "Complete the Hess cycle for the enthalpy change of solution of CuCl2 by filling in the empty boxes. The cycle diagram is shown in the figure below.",
       "status": "ready",
       "answer": "Top box: Cu2+(g) + 2Cl-(g); left box: CuCl2(s)",
       "steps": [

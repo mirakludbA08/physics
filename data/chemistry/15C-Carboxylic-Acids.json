@@ -235,7 +235,7 @@
         "carbon dioxide",
         "buffer solution"
       ],
-      "question": "Using the two buffer equilibria (not reproduced in the text), explain how the blood buffer keeps pH nearly constant when a small increase in H+ occurs.",
+      "question": "Using the two buffer equilibria (shown in the figure below), explain how the blood buffer keeps pH nearly constant when a small increase in H+ occurs.",
       "status": "ready",
       "answer": "Extra H3O+ is removed by HCO3- (Equilibrium 1 shifts right), and the H2CO3 formed breaks down to CO2 and H2O (Equilibrium 2 shifts right), so [H3O+] and pH stay nearly constant.",
       "steps": [
@@ -491,7 +491,7 @@
         "molar mass 90.0",
         "concentration"
       ],
-      "question": "Calculate the mass of lactic acid, HA (Mr 90.0, pKa 3.86), needed to make 1.00 dm3 of aqueous solution with pH 3.00. The list of assumptions is missing from the text.",
+      "question": "Calculate the mass of lactic acid, HA (Mr 90.0, pKa 3.86), needed to make 1.00 dm3 of aqueous solution with pH 3.00. The list of assumptions is shown in the figure below.",
       "status": "ready",
       "answer": "0.652 g",
       "steps": [

@@ -1008,7 +1008,7 @@
         "O-H",
         "C=O"
       ],
-      "question": "Compound Y does not react with acidified dichromate. Using the infrared spectrum of Y (not in the text), which compound is most likely Y? Options: A 2-methylpropan-2-ol, B pentane, C propanal, D propanone.",
+      "question": "Compound Y does not react with acidified dichromate. Using the infrared spectrum of Y (shown in the figure below), which compound is most likely Y? Options: A 2-methylpropan-2-ol, B pentane, C propanal, D propanone.",
       "status": "ready",
       "answer": "D: propanone",
       "steps": [

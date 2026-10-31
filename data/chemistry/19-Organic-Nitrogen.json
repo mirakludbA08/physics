@@ -681,6 +681,9 @@
         "papers/chemistry/img/19-Organic-Nitrogen-13.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-14.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/19-Organic-Nitrogen-Q15.jpg"
       ]
     },
     {
@@ -739,6 +742,9 @@
         "papers/chemistry/img/19-Organic-Nitrogen-13.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-14.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/19-Organic-Nitrogen-Q16-3.jpg"
       ]
     },
     {
@@ -1027,7 +1033,7 @@
       ],
       "question": "Amines can be prepared by reducing nitriles. Identify the nitrile and the reducing agent used to prepare butylamine.",
       "status": "ready",
-      "answer": "Butanenitrile, CH3CH2CH2CN, reduced by LiAlH4 in dry ether (or H2 with a nickel catalyst).",
+      "answer": "C: butanenitrile, CH3CH2CH2CN, reduced by lithium tetrahydridoaluminate(III), LiAlH4, in dry ether (H2 with a nickel catalyst would also work, but it is not offered).",
       "steps": [
         "Reduction of a nitrile RCN gives a primary amine RCH2NH2, with the C of CN becoming CH2.",
         "Butylamine is CH3CH2CH2CH2NH2, so the nitrile has R = CH3CH2CH2.",
@@ -1038,6 +1044,9 @@
       "images": [
         "papers/chemistry/img/19-Organic-Nitrogen-21.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/19-Organic-Nitrogen-Q22.jpg"
       ]
     },
     {

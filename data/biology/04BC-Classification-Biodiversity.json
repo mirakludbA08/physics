@@ -6530,7 +6530,7 @@
         "options",
         "formula"
       ],
-      "question": "Which equation can be used to calculate the heterozygosity index? Options are not included in the text.",
+      "question": "Which equation can be used to calculate the heterozygosity index? Options are shown in the figure below.",
       "status": "ready",
       "answer": "A: heterozygosity index = number of heterozygotes / number of individuals in the population",
       "steps": [

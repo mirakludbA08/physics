@@ -477,7 +477,7 @@ window.BANK.physics = {
       "expression",
       "acceleration"
      ],
-     "question": "An object on the Moon falls 0.32 m from rest in a time of 0.63 s. Which expression gives the acceleration due to gravity on the Moon? Options A to D are not in the extracted text.",
+     "question": "An object on the Moon falls 0.32 m from rest in a time of 0.63 s. Which expression gives the acceleration due to gravity on the Moon? Options A to D are shown in the figure below.",
      "status": "ready",
      "answer": "C: 2 x 0.32 / 0.63^2 (about 1.6 m s^-2)",
      "steps": [
@@ -1505,7 +1505,7 @@ window.BANK.physics = {
       "suvat",
       "options"
      ],
-     "question": "An object accelerates from rest down a frictionless slope at 23 degrees to the horizontal, moving a distance of 20 m. Which expression gives its final speed? The options A to D are not in the extracted text.",
+     "question": "An object accelerates from rest down a frictionless slope at 23 degrees to the horizontal, moving a distance of 20 m. Which expression gives its final speed? The options A to D are shown in the figure below.",
      "status": "ready",
      "answer": "C: sqrt(2 x 9.81 x 20 x sin 23)  (about 12 m s^-1)",
      "steps": [
@@ -2905,7 +2905,7 @@ window.BANK.physics = {
       "drag",
       "resultant force"
      ],
-     "question": "A constant forward force acts on a car on a straight road. After a while the speed becomes constant. Which graph shows the variation of acceleration with time? Options are graphs A to D, not in the extracted text.",
+     "question": "A constant forward force acts on a car on a straight road. After a while the speed becomes constant. Which graph shows the variation of acceleration with time? Options are graphs A to D, shown in the figure below.",
      "status": "ready",
      "answer": "C",
      "steps": [
@@ -2935,7 +2935,7 @@ window.BANK.physics = {
       "maximum height",
       "gravity"
      ],
-     "question": "A model rocket is launched with a constant upward thrust while burning fuel, then the fuel runs out and it reaches maximum height at time T. Which graph could show its acceleration against time, ignoring the mass decrease? Options are not in the extracted text.",
+     "question": "A model rocket is launched with a constant upward thrust while burning fuel, then the fuel runs out and it reaches maximum height at time T. Which graph could show its acceleration against time, ignoring the mass decrease? Options are shown in the figure below.",
      "status": "ready",
      "answer": "C",
      "steps": [
@@ -2965,7 +2965,7 @@ window.BANK.physics = {
       "area under graph",
       "options"
      ],
-     "question": "The velocity-time graph for a ball is shown. Which graph of displacement against time could represent its motion? Options A to D are not in the extracted text.",
+     "question": "The velocity-time graph for a ball is shown. Which graph of displacement against time could represent its motion? Options A to D are shown in the figure below.",
      "status": "ready",
      "answer": "C",
      "steps": [
@@ -2996,7 +2996,7 @@ window.BANK.physics = {
       "from rest",
       "curve"
      ],
-     "question": "A ball falls through air from rest. Which graph shows its displacement against time? Options A to D are graphs not in the extracted text.",
+     "question": "A ball falls through air from rest. Which graph shows its displacement against time? Options A to D are graphs shown in the figure below.",
      "status": "ready",
      "answer": "C",
      "steps": [
@@ -3025,7 +3025,7 @@ window.BANK.physics = {
       "velocity",
       "acceleration"
      ],
-     "question": "Which row of the table gives a quantity plotted on the y-axis and the quantity represented by the gradient of the graph? The table is not in the extracted text.",
+     "question": "Which row of the table gives a quantity plotted on the y-axis and the quantity represented by the gradient of the graph? The table is shown in the figure below.",
      "status": "ready",
      "answer": "B: y-axis velocity, gradient acceleration",
      "steps": [
@@ -3053,7 +3053,7 @@ window.BANK.physics = {
       "change in velocity",
       "options"
      ],
-     "question": "A car accelerates along a straight road, and the acceleration-time graph is shown. Which graph shows its velocity against time over the same interval? Graphs and options are not in the extracted text.",
+     "question": "A car accelerates along a straight road, and the acceleration-time graph is shown. Which graph shows its velocity against time over the same interval? Graphs and options are shown in the figure below.",
      "status": "ready",
      "answer": "A",
      "steps": [
@@ -3083,7 +3083,7 @@ window.BANK.physics = {
       "area",
       "options"
      ],
-     "question": "The velocity-time graph for a particle is shown. Which of A to D is the displacement-time graph for this particle? Graphs are not in the extracted text.",
+     "question": "The velocity-time graph for a particle is shown. Which of A to D is the displacement-time graph for this particle? Graphs are shown in the figure below.",
      "status": "ready",
      "answer": "A",
      "steps": [
@@ -3113,7 +3113,7 @@ window.BANK.physics = {
       "P Q R",
       "signed area"
      ],
-     "question": "A velocity-time graph shows a particle with constant acceleration. P, Q and R are the magnitudes of the areas shown. Which expression gives the total displacement? A P+Q; B P+Q-R; C R+Q; D R-Q. The graph is not in the extracted text.",
+     "question": "A velocity-time graph shows a particle with constant acceleration. P, Q and R are the magnitudes of the areas shown. Which expression gives the total displacement? A P+Q; B P+Q-R; C R+Q; D R-Q. The graph is shown in the figure below.",
      "status": "ready",
      "answer": "D: R - Q",
      "steps": [
@@ -3142,7 +3142,7 @@ window.BANK.physics = {
       "6 seconds",
       "table row"
      ],
-     "question": "A student walks for 6 seconds, shown on a displacement-time graph. Which row of the table gives the final displacement and velocity? The graph and table are not in the extracted text.",
+     "question": "A student walks for 6 seconds, shown on a displacement-time graph. Which row of the table gives the final displacement and velocity? The graph and table are shown in the figure below.",
      "status": "ready",
      "answer": "A: displacement 2.0 m, velocity 0.5 m s^-1",
      "steps": [
@@ -3171,7 +3171,7 @@ window.BANK.physics = {
       "F = ma",
       "graph"
      ],
-     "question": "A rocket accelerates horizontally due to a constant resultant force while its mass decreases as fuel is used. Which graph shows how its acceleration could change? Options A to D are graphs not in the extracted text.",
+     "question": "A rocket accelerates horizontally due to a constant resultant force while its mass decreases as fuel is used. Which graph shows how its acceleration could change? Options A to D are graphs shown in the figure below.",
      "status": "ready",
      "answer": "B",
      "steps": [
@@ -3199,7 +3199,7 @@ window.BANK.physics = {
       "gravity",
       "options"
      ],
-     "question": "A ball is thrown vertically up and caught a few seconds later. Given its displacement-time graph, which graph shows its acceleration against time? Options A to D are not in the extracted text.",
+     "question": "A ball is thrown vertically up and caught a few seconds later. Given its displacement-time graph, which graph shows its acceleration against time? Options A to D are shown in the figure below.",
      "status": "ready",
      "answer": "B",
      "steps": [
@@ -3229,7 +3229,7 @@ window.BANK.physics = {
       "options",
       "change in velocity"
      ],
-     "question": "The graph shows how the acceleration of an object varies with time. Which graph shows how its velocity varies with time? Graphs are not in the extracted text.",
+     "question": "The graph shows how the acceleration of an object varies with time. Which graph shows how its velocity varies with time? Graphs are shown in the figure below.",
      "status": "ready",
      "answer": "D",
      "steps": [
@@ -3290,7 +3290,7 @@ window.BANK.physics = {
       "caught",
       "options"
      ],
-     "question": "The velocity-time graph for the motion of a ball is shown. Which statement correctly describes it? A dropped and rebounds to original position; B dropped and rebounds to a lower position; C thrown upwards and caught at original position; D thrown upwards and caught at a higher position. The graph is not in the extracted text.",
+     "question": "The velocity-time graph for the motion of a ball is shown. Which statement correctly describes it? A dropped and rebounds to original position; B dropped and rebounds to a lower position; C thrown upwards and caught at original position; D thrown upwards and caught at a higher position. The graph is shown in the figure below.",
      "status": "ready",
      "answer": "B: the ball is dropped and rebounds to a lower position",
      "steps": [
@@ -3320,7 +3320,7 @@ window.BANK.physics = {
       "area under graph",
       "P and Q"
      ],
-     "question": "Objects P and Q start at the same position at t = 0. Their velocity-time graphs are shown. Which statement describes their positions at t = 4 s? The graphs are not in the extracted text.",
+     "question": "Objects P and Q start at the same position at t = 0. Their velocity-time graphs are shown. Which statement describes their positions at t = 4 s? The graphs are shown in the figure below.",
      "status": "ready",
      "answer": "D: Q is further from the initial position than P",
      "steps": [
@@ -3377,7 +3377,7 @@ window.BANK.physics = {
       "distance",
       "expression"
      ],
-     "question": "An object moves from rest with uniform acceleration for time t. X is the area under its acceleration-time graph from 0 to t. Which expression gives the distance moved? The options are not in the extracted text.",
+     "question": "An object moves from rest with uniform acceleration for time t. X is the area under its acceleration-time graph from 0 to t. Which expression gives the distance moved? The options are shown in the figure below.",
      "status": "ready",
      "answer": "D: Xt/2",
      "steps": [
@@ -3405,7 +3405,7 @@ window.BANK.physics = {
       "motion description",
       "options"
      ],
-     "question": "The graph shows how the velocity of an object varies with time. Which option describes its motion? A constant acceleration; B constant displacement; C decreasing acceleration; D decreasing displacement. The graph is not in the extracted text.",
+     "question": "The graph shows how the velocity of an object varies with time. Which option describes its motion? A constant acceleration; B constant displacement; C decreasing acceleration; D decreasing displacement. The graph is shown in the figure below.",
      "status": "ready",
      "answer": "C: decreasing acceleration",
      "steps": [
@@ -3491,7 +3491,7 @@ window.BANK.physics = {
       "area under graph",
       "expression"
      ],
-     "question": "The velocity-time graph for a train journey is shown. Which expression gives the distance travelled in time 2t? The options and graph are not in the extracted text.",
+     "question": "The velocity-time graph for a train journey is shown. Which expression gives the distance travelled in time 2t? The options and graph are shown in the figure below.",
      "status": "ready",
      "answer": "D: 5vt/2",
      "steps": [
@@ -3578,7 +3578,7 @@ window.BANK.physics = {
       "non-zero acceleration",
       "options"
      ],
-     "question": "An object has a constant non-zero acceleration. Which displacement-time graph could represent its motion? Options A to D are graphs not in the extracted text.",
+     "question": "An object has a constant non-zero acceleration. Which displacement-time graph could represent its motion? Options A to D are graphs shown in the figure below.",
      "status": "ready",
      "answer": "B",
      "steps": [
@@ -12337,7 +12337,7 @@ window.BANK.physics = {
       "radius",
       "terminal velocity"
      ],
-     "question": "Which quantity is represented by the first symbol in the equation for viscosity? The symbol is not legible in the extracted text.",
+     "question": "Which quantity is represented by the first symbol in the equation for viscosity? The symbol is shown in the figure below.",
      "status": "ready",
      "answer": "The weight of the sphere",
      "steps": [
@@ -12367,7 +12367,7 @@ window.BANK.physics = {
       "equation",
       "quantity"
      ],
-     "question": "Which quantity is represented by the second symbol in the viscosity equation? The symbol is not legible in the extracted text.",
+     "question": "Which quantity is represented by the second symbol in the viscosity equation? The symbol is shown in the figure below.",
      "status": "ready",
      "answer": "The upthrust on the sphere (the weight of oil it displaces)",
      "steps": [
@@ -12397,7 +12397,7 @@ window.BANK.physics = {
       "quantity",
       "terminal velocity"
      ],
-     "question": "Which quantity is represented by the expression 6 pi r v in the viscosity equation? The symbol is not legible in the extracted text.",
+     "question": "Which quantity is represented by the expression 6 pi r v in the viscosity equation? The symbol is shown in the figure below.",
      "status": "ready",
      "answer": "The viscous drag force on the sphere (Stokes drag)",
      "steps": [
@@ -12457,7 +12457,7 @@ window.BANK.physics = {
       "points V W X Y Z",
       "constant velocity section"
      ],
-     "question": "A student releases a ball bearing at point V and times its fall through a measured distance in oil. Which two points should he use? A V and Y; B W and Y; C X and Y; D W and Z. The diagram with the points is not in the extracted text.",
+     "question": "A student releases a ball bearing at point V and times its fall through a measured distance in oil. Which two points should he use? A V and Y; B W and Y; C X and Y; D W and Z. The diagram with the points is shown in the figure below.",
      "status": "ready",
      "answer": "C: X and Y",
      "steps": [
@@ -12577,7 +12577,7 @@ window.BANK.physics = {
       "graph",
       "terminal velocity"
      ],
-     "question": "Deduce from the graph of v against d^2 whether the flow of liquid around the spheres was laminar. The graph is not in the extracted text.",
+     "question": "Deduce from the graph of v against d^2 whether the flow of liquid around the spheres was laminar. The graph is shown in the figure below.",
      "status": "ready",
      "answer": "Yes: the graph is a straight line through the origin, so v is proportional to d^2 as Stokes' law (laminar flow) predicts.",
      "steps": [
@@ -12609,7 +12609,7 @@ window.BANK.physics = {
       "Stokes law",
       "k value"
      ],
-     "question": "Using the student's graph of v against d^2 and v = k d^2, determine the value of k. The graph is not in the extracted text.",
+     "question": "Using the student's graph of v against d^2 and v = k d^2, determine the value of k. The graph is shown in the figure below.",
      "status": "ready",
      "answer": "k = 6.0 m^-1 s^-1 (gradient of the line)",
      "steps": [
@@ -12727,7 +12727,7 @@ window.BANK.physics = {
       "table",
       "forces"
      ],
-     "question": "A sphere falls through a viscous liquid. Which row of the table describes the upthrust and the viscous drag as it accelerates downwards? The table is not in the extracted text.",
+     "question": "A sphere falls through a viscous liquid. Which row of the table describes the upthrust and the viscous drag as it accelerates downwards? The table is shown in the figure below.",
      "status": "ready",
      "answer": "B: upthrust constant, viscous drag increasing",
      "steps": [
@@ -12787,7 +12787,7 @@ window.BANK.physics = {
       "terminal velocity",
       "viscous drag"
      ],
-     "question": "Explain the shape of the graph obtained by the student for the ball-bearing falling through a liquid. The graph is not in the extracted text.",
+     "question": "Explain the shape of the graph obtained by the student for the ball-bearing falling through a liquid. The graph is shown in the figure below.",
      "status": "ready",
      "answer": "Gradient (velocity) starts at zero and increases, then becomes constant: the ball accelerates at first, and as the viscous drag rises the acceleration falls to zero, so it falls at constant terminal velocity (a straight line).",
      "steps": [
@@ -14841,7 +14841,9 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-12.jpg",
       "papers/physics/img/11-2A-Stokes-Law-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q12a.jpg"
+     ]
     },
     {
      "id": "2A-Q12a(ii)",
@@ -15848,7 +15850,9 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-25.jpg",
       "papers/physics/img/11-2A-Stokes-Law-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q21b.jpg"
+     ]
     },
     {
      "id": "2A-Q21b(ii)",
@@ -16316,7 +16320,7 @@ window.BANK.physics = {
       "gravitational field strength",
       "calculation"
      ],
-     "question": "A cylinder of aluminium has weight 35.0 N and volume 1.32 x 10^-3 m^3. Which calculation gives its density in kg m^-3? The options A to D are not in the extracted text.",
+     "question": "A cylinder of aluminium has weight 35.0 N and volume 1.32 x 10^-3 m^3. Which calculation gives its density in kg m^-3? The options A to D are shown in the figure below.",
      "status": "ready",
      "answer": "C: 35.0 / (9.81 x 1.32 x 10^-3)",
      "steps": [
@@ -17550,7 +17554,7 @@ window.BANK.physics = {
       "cube root",
       "rho g"
      ],
-     "question": "A solid cube of weight W is made from material of density rho. Which expression gives the length of each side of the cube? The options A to D are not in the extracted text.",
+     "question": "A solid cube of weight W is made from material of density rho. Which expression gives the length of each side of the cube? The options A to D are shown in the figure below.",
      "status": "ready",
      "answer": "D: cube root of (W / (rho g))",
      "steps": [
@@ -18023,7 +18027,7 @@ window.BANK.physics = {
       "N cm-1",
       "hookes law"
      ],
-     "question": "A spring compressed by 50 N has length 12.0 cm, and by 70 N has length 7.1 cm. Which expression gives its stiffness in N cm^-1? The four options A to D are not in the extracted text.",
+     "question": "A spring compressed by 50 N has length 12.0 cm, and by 70 N has length 7.1 cm. Which expression gives its stiffness in N cm^-1? The four options A to D are shown in the figure below.",
      "status": "ready",
      "answer": "B: (70 - 50) / (12.0 - 7.1)",
      "steps": [
@@ -18052,7 +18056,7 @@ window.BANK.physics = {
       "identical springs",
       "N mm-1"
      ],
-     "question": "Two identical springs are in series with a 45.0 N force applied, and they extend a total of 15 mm. Which expression gives the stiffness of each spring in N mm^-1? The four options A to D are not in the extracted text.",
+     "question": "Two identical springs are in series with a 45.0 N force applied, and they extend a total of 15 mm. Which expression gives the stiffness of each spring in N mm^-1? The four options A to D are shown in the figure below.",
      "status": "ready",
      "answer": "D: 2 x 45 / 15 (6.0 N mm^-1)",
      "steps": [
@@ -18447,7 +18451,7 @@ window.BANK.physics = {
       "graph",
       "hookes law"
      ],
-     "question": "A spring of original length p is stretched to length q by an increasing force up to R. Using the graph, which expression gives its stiffness? The graph and options are not in the extracted text.",
+     "question": "A spring of original length p is stretched to length q by an increasing force up to R. Using the graph, which expression gives its stiffness? The graph and options are shown in the figure below.",
      "status": "ready",
      "answer": "D: R / (q - p)",
      "steps": [
@@ -18478,7 +18482,7 @@ window.BANK.physics = {
       "hookes law",
       "scaling"
      ],
-     "question": "A force F stretches a spring of stiffness k by x. A force 2F is applied to a second spring of stiffness 3k. Which expression gives the extension of the second spring? The options are not in the extracted text.",
+     "question": "A force F stretches a spring of stiffness k by x. A force 2F is applied to a second spring of stiffness 3k. Which expression gives the extension of the second spring? The options are shown in the figure below.",
      "status": "ready",
      "answer": "A: (2/3) delta x",
      "steps": [
@@ -18515,7 +18519,7 @@ window.BANK.physics = {
       "compression",
       "stress strain"
      ],
-     "question": "A compressive force F acts on an object of Young modulus E, original length x and cross-sectional area A. Which expression gives the length after the force is applied? The options A to D are not in the extracted text.",
+     "question": "A compressive force F acts on an object of Young modulus E, original length x and cross-sectional area A. Which expression gives the length after the force is applied? The options A to D are shown in the figure below.",
      "status": "ready",
      "answer": "D: x - Fx / (AE)",
      "steps": [
@@ -18626,7 +18630,7 @@ window.BANK.physics = {
       "table",
       "tensile force"
      ],
-     "question": "A force is applied to a copper wire. Which row of the length and diameter table would give the greatest extension? The table is not in the extracted text.",
+     "question": "A force is applied to a copper wire. Which row of the length and diameter table would give the greatest extension? The table is shown in the figure below.",
      "status": "ready",
      "answer": "C: length 2x, diameter D",
      "steps": [
@@ -18655,7 +18659,7 @@ window.BANK.physics = {
       "table",
       "definition"
      ],
-     "question": "Which row of the table shows the correct application of the terms stiffness constant and Young modulus? The table is not in the extracted text.",
+     "question": "Which row of the table shows the correct application of the terms stiffness constant and Young modulus? The table is shown in the figure below.",
      "status": "ready",
      "answer": "D: stiffness constant applies to objects, Young modulus applies to materials",
      "steps": [
@@ -18685,7 +18689,7 @@ window.BANK.physics = {
       "load",
       "dimensionless"
      ],
-     "question": "A 50 cm wire extends by 2 mm under a load. Which option gives the strain? The options A to D are not in the extracted text.",
+     "question": "A 50 cm wire extends by 2 mm under a load. Which option gives the strain? The options A to D are shown in the figure below.",
      "status": "ready",
      "answer": "A: 0.004",
      "steps": [
@@ -18713,7 +18717,7 @@ window.BANK.physics = {
       "cross-sectional area",
       "tensile force"
      ],
-     "question": "A wire breaks under tensile force T. A second wire of the same material has twice the diameter. What force breaks the second wire? The options A to D are not in the extracted text.",
+     "question": "A wire breaks under tensile force T. A second wire of the same material has twice the diameter. What force breaks the second wire? The options A to D are shown in the figure below.",
      "status": "ready",
      "answer": "A: 4T",
      "steps": [
@@ -18777,7 +18781,7 @@ window.BANK.physics = {
       "same material",
       "table"
      ],
-     "question": "A wire of length x and diameter d extends by x under a tensile force. A second wire of the same material extends by 2x under the same force. Which row of the table could give its length and diameter? The table is not in the extracted text.",
+     "question": "A wire of length x and diameter d extends by x under a tensile force. A second wire of the same material extends by 2x under the same force. Which row of the table could give its length and diameter? The table is shown in the figure below.",
      "status": "ready",
      "answer": "A: length 0.5x, diameter 0.5d",
      "steps": [
@@ -18869,7 +18873,7 @@ window.BANK.physics = {
       "ACSR cable",
       "2 x 10^11 Pa"
      ],
-     "question": "Using the stress-strain graph for steel in the ACSR cable, show that the Young modulus of steel is about 2 x 10^11 Pa. The graph is not in the extracted text.",
+     "question": "Using the stress-strain graph for steel in the ACSR cable, show that the Young modulus of steel is about 2 x 10^11 Pa. The graph is shown in the figure below.",
      "status": "ready",
      "answer": "Young modulus of steel = gradient of the straight part = about 1.8 x 10^11 Pa, which is about 2 x 10^11 Pa",
      "steps": [
@@ -19229,7 +19233,7 @@ window.BANK.physics = {
       "gradient",
       "2 x 10^11 Pa"
      ],
-     "question": "Using the compressive stress-strain graph for the metal, show that its Young modulus is about 2 x 10^11 Pa. The graph is not in the extracted text.",
+     "question": "Using the compressive stress-strain graph for the metal, show that its Young modulus is about 2 x 10^11 Pa. The graph is shown in the figure below.",
      "status": "ready",
      "answer": "Young modulus = gradient of the line = 2.1 x 10^11 Pa, which is about 2 x 10^11 Pa",
      "steps": [
@@ -19895,7 +19899,7 @@ window.BANK.physics = {
       "elastic energy",
       "formula"
      ],
-     "question": "A stress is applied across the ends of a wire of cross-sectional area A. Work W is done to extend the wire by x. Which expression could be used to determine W? The options are not in the extracted text.",
+     "question": "A stress is applied across the ends of a wire of cross-sectional area A. Work W is done to extend the wire by x. Which expression could be used to determine W? The options are shown in the figure below.",
      "status": "ready",
      "answer": "C: W = (1/2) x sigma x A x delta x",
      "steps": [
@@ -19924,7 +19928,7 @@ window.BANK.physics = {
       "breaking point",
       "yield"
      ],
-     "question": "A stress-strain graph up to breaking point is drawn for four wire samples A to D. Which sample has both a low elastic limit and a large region of plastic deformation? The graph and options are not in the extracted text.",
+     "question": "A stress-strain graph up to breaking point is drawn for four wire samples A to D. Which sample has both a low elastic limit and a large region of plastic deformation? The graph and options are shown in the figure below.",
      "status": "ready",
      "answer": "C",
      "steps": [
@@ -19954,7 +19958,7 @@ window.BANK.physics = {
       "vertical speed",
       "energy equation"
      ],
-     "question": "An object of mass m rests on a compressed spring, which returns to its original length, and the object has speed v at that point. Which equation describes the energy transfer? The options are not in the extracted text.",
+     "question": "An object of mass m rests on a compressed spring, which returns to its original length, and the object has speed v at that point. Which equation describes the energy transfer? The options are shown in the figure below.",
      "status": "ready",
      "answer": "B: (1/2) F delta x = (1/2) m v^2 + m g delta x",
      "steps": [
@@ -19984,7 +19988,7 @@ window.BANK.physics = {
       "ratio",
       "work done"
      ],
-     "question": "Two springs S1 and S2 hang with masses attached. S1 extends by x and stores elastic strain energy E. Which expression gives the strain energy in S2? The extension of S2 and the options are not in the extracted text.",
+     "question": "Two springs S1 and S2 hang with masses attached. S1 extends by x and stores elastic strain energy E. Which expression gives the strain energy in S2? The extension of S2 and the options are shown in the figure below.",
      "status": "ready",
      "answer": "C: 2E / 3",
      "steps": [
@@ -20046,7 +20050,7 @@ window.BANK.physics = {
       "energy stored",
       "three springs"
      ],
-     "question": "A spring stretched by force F stores energy E. Three identical springs in parallel are stretched by a force 2F. Which expression gives the total elastic energy? The options are not in the extracted text.",
+     "question": "A spring stretched by force F stores energy E. Three identical springs in parallel are stretched by a force 2F. Which expression gives the total elastic energy? The options are shown in the figure below.",
      "status": "ready",
      "answer": "C: 4E / 3",
      "steps": [
@@ -20076,7 +20080,7 @@ window.BANK.physics = {
       "elastic",
       "maximum extension"
      ],
-     "question": "A rubber band is stretched and returned to its original length. Using the force-extension graph with areas P, Q and R, which expression gives the work done in stretching it to maximum extension? The graph is not in the extracted text.",
+     "question": "A rubber band is stretched and returned to its original length. Using the force-extension graph with areas P, Q and R, which expression gives the work done in stretching it to maximum extension? The graph is shown in the figure below.",
      "status": "ready",
      "answer": "B: Q + R",
      "steps": [
@@ -20106,7 +20110,7 @@ window.BANK.physics = {
       "0.30 m",
       "joules"
      ],
-     "question": "Using a force-extension graph for a spring, which expression gives the work done in joules to extend the spring by 0.30 m from its original length? The graph and options are not in the extracted text.",
+     "question": "Using a force-extension graph for a spring, which expression gives the work done in joules to extend the spring by 0.30 m from its original length? The graph and options are shown in the figure below.",
      "status": "ready",
      "answer": "B: 0.5 x 0.30 x 2.5",
      "steps": [
@@ -20137,7 +20141,7 @@ window.BANK.physics = {
       "parallel",
       "table"
      ],
-     "question": "Arrangements P and Q of identical springs are subject to the same tensile force F, and one spring alone stores energy E. Which row of the table gives the total strain energy in each arrangement? The diagram and table are not in the extracted text.",
+     "question": "Arrangements P and Q of identical springs are subject to the same tensile force F, and one spring alone stores energy E. Which row of the table gives the total strain energy in each arrangement? The diagram and table are shown in the figure below.",
      "status": "ready",
      "answer": "D: P = 2E, Q = (1/2)E",
      "steps": [
@@ -20167,7 +20171,7 @@ window.BANK.physics = {
       "fracture",
       "table"
      ],
-     "question": "A steel wire fixed at one end has an increasing force applied to the other end. Which row of the table identifies points P, Q and R on the force-extension graph? The graph and table are not in the extracted text.",
+     "question": "A steel wire fixed at one end has an increasing force applied to the other end. Which row of the table identifies points P, Q and R on the force-extension graph? The graph and table are shown in the figure below.",
      "status": "ready",
      "answer": "C: P is the yield point, Q the elastic limit and R the limit of proportionality",
      "steps": [
@@ -20288,7 +20292,7 @@ window.BANK.physics = {
       "hookes law",
       "same distance"
      ],
-     "question": "A force F compresses a spring by x. A second spring with double the stiffness is compressed by the same distance x. Which expression gives the force on the second spring? The options are not in the extracted text.",
+     "question": "A force F compresses a spring by x. A second spring with double the stiffness is compressed by the same distance x. Which expression gives the force on the second spring? The options are shown in the figure below.",
      "status": "ready",
      "answer": "B: 2F",
      "steps": [
@@ -20316,7 +20320,7 @@ window.BANK.physics = {
       "force displacement",
       "exception"
      ],
-     "question": "Several graphs are drawn and the area under each represents a physical quantity. For which graph is the area not equal to work done? The graphs are not in the extracted text.",
+     "question": "Several graphs are drawn and the area under each represents a physical quantity. For which graph is the area not equal to work done? The graphs are shown in the figure below.",
      "status": "ready",
      "answer": "D: stress against strain",
      "steps": [
@@ -20615,7 +20619,7 @@ window.BANK.physics = {
       "limit of proportionality",
       "yield point"
      ],
-     "question": "A copper rod is put under tensile stress and the stress is plotted against strain. What does point X represent? Options: A fracture point, B limit of proportionality, C maximum stress, D yield point. The graph is not in the extracted text.",
+     "question": "A copper rod is put under tensile stress and the stress is plotted against strain. What does point X represent? Options: A fracture point, B limit of proportionality, C maximum stress, D yield point. The graph is shown in the figure below.",
      "status": "ready",
      "answer": "D: the yield point of copper",
      "steps": [
@@ -20730,7 +20734,7 @@ window.BANK.physics = {
       "yield stress",
       "young modulus"
      ],
-     "question": "Two wires P and Q of different metals are stretched to breaking, and their stress-strain graphs are shown. Which statement is correct: A P has greater breaking stress, B P has greater breaking strain, C P has greater yield stress, D P has lower Young modulus? The graph is not in the extracted text.",
+     "question": "Two wires P and Q of different metals are stretched to breaking, and their stress-strain graphs are shown. Which statement is correct: A P has greater breaking stress, B P has greater breaking strain, C P has greater yield stress, D P has lower Young modulus? The graph is shown in the figure below.",
      "status": "ready",
      "answer": "C: P has a greater yield stress than Q",
      "steps": [
@@ -20841,7 +20845,7 @@ window.BANK.physics = {
       "energy equation",
       "joules"
      ],
-     "question": "A spring is stretched by a force of 3.0 N and stores 0.04 J of elastic strain energy. Which expression gives the extension in m? The options are not in the extracted text.",
+     "question": "A spring is stretched by a force of 3.0 N and stores 0.04 J of elastic strain energy. Which expression gives the extension in m? The options are shown in the figure below.",
      "status": "ready",
      "answer": "A: 2 x 0.04 / 3.0 (0.027 m)",
      "steps": [
@@ -20870,7 +20874,7 @@ window.BANK.physics = {
       "force extension",
       "elastic energy"
      ],
-     "question": "Which expression gives the work done in stretching a spring from its original length p to length q? The options are not in the extracted text.",
+     "question": "Which expression gives the work done in stretching a spring from its original length p to length q? The options are shown in the figure below.",
      "status": "ready",
      "answer": "B: (q - p) x R / 2 (taking R as the final stretching force, which is not defined on this page)",
      "steps": [
@@ -20986,7 +20990,7 @@ window.BANK.physics = {
       "young modulus",
       "stress"
      ],
-     "question": "Samples of steel and spider silk of identical shape, length and cross-sectional area are each stretched to their limit of proportionality. Explain which sample has the greater elastic strain energy. The table of properties is not in the extracted text.",
+     "question": "Samples of steel and spider silk of identical shape, length and cross-sectional area are each stretched to their limit of proportionality. Explain which sample has the greater elastic strain energy. The table of properties is shown in the figure below.",
      "status": "ready",
      "answer": "The spider silk stores the greater elastic strain energy (about 17 times more per unit volume)",
      "steps": [
@@ -21647,7 +21651,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-07.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q7.jpg"
+     ]
     },
     {
      "id": "3B-Q7c",
@@ -21678,7 +21684,10 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-07.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q7.jpg",
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q7c.jpg"
+     ]
     },
     {
      "id": "3B-Q8",
@@ -21811,14 +21820,14 @@ window.BANK.physics = {
       "coherent",
       "8.0 cm"
      ],
-     "question": "Two waves leave a source in phase with wavelength 8.0 cm. Which gives constructive interference? A path difference 16.0 cm; B path difference (symbol missing); C phase difference 180 deg; D phase difference 3 rad.",
+     "question": "Two waves leave a source in phase with wavelength 8.0 cm. Which gives constructive interference? A path difference 16.0 cm; B path difference 3 lambda / 2; C phase difference 180 deg; D phase difference 3 pi radians.",
      "status": "ready",
      "answer": "A - a path difference of 16.0 cm, which is two wavelengths.",
      "steps": [
       "Constructive interference needs a path difference that is a whole number of wavelengths.",
       "16.0 cm / 8.0 cm = 2.0 wavelengths, a whole number, so the waves reinforce (A).",
       "A phase difference of 180 deg gives destructive interference (C is wrong).",
-      "3 rad is about 172 deg, which is not 0 or 360 deg, so it is not constructive (D is wrong)."
+      "B is 3 lambda / 2 = 12.0 cm, an odd number of half-wavelengths, so it is destructive (B is wrong). A phase difference of 3 pi radians is an odd multiple of 180 deg, so it is also destructive (D is wrong)."
      ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-10.jpg",
@@ -22103,7 +22112,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-17.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q20-2.jpg"
+     ]
     },
     {
      "id": "3B-Q20c",
@@ -22134,7 +22145,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-17.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q20-2.jpg"
+     ]
     },
     {
      "id": "3B-Q21a",
@@ -22164,7 +22177,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-18.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q21-2.jpg"
+     ]
     },
     {
      "id": "3B-Q21b(i)",
@@ -22292,7 +22307,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-20.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q22.jpg"
+     ]
     },
     {
      "id": "3B-Q22c",
@@ -22417,7 +22434,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-21.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q23b.jpg"
+     ]
     },
     {
      "id": "3B-Q24",
@@ -22565,7 +22584,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-25.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q28a.jpg"
+     ]
     },
     {
      "id": "3B-Q28b",
@@ -22594,7 +22615,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-25.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q28b.jpg"
+     ]
     },
     {
      "id": "3B-Q29",
@@ -22679,7 +22702,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-27.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q31.jpg"
+     ]
     },
     {
      "id": "3B-Q32",
@@ -22824,7 +22849,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-29.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q36.jpg"
+     ]
     },
     {
      "id": "3B-Q37a",
@@ -23006,7 +23033,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-32.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q38.jpg"
+     ]
     },
     {
      "id": "3B-Q39a",
@@ -23171,7 +23200,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-37.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q40.jpg"
+     ]
     },
     {
      "id": "3B-Q40b",
@@ -23202,7 +23233,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-37.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q40.jpg"
+     ]
     },
     {
      "id": "3B-Q40c(i)",
@@ -23233,7 +23266,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-37.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q40c.jpg"
+     ]
     },
     {
      "id": "3B-Q40c(ii)",
@@ -23263,7 +23298,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-37.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q40c.jpg"
+     ]
     },
     {
      "id": "3B-Q41a",
@@ -23352,7 +23389,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-39.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q42.jpg"
+     ]
     },
     {
      "id": "3B-Q42b",
@@ -23385,7 +23424,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-40.jpg"
      ],
      "figures": [
-      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q42.jpg"
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q42.jpg",
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q42-2.jpg"
      ]
     },
     {
@@ -23538,7 +23578,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-43.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q45.jpg"
+     ]
     },
     {
      "id": "3B-Q45b",
@@ -23568,7 +23610,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-43.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q45.jpg"
+     ]
     },
     {
      "id": "3B-Q46a",
@@ -23600,7 +23644,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-44.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-45.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q46.jpg"
+     ]
     },
     {
      "id": "3B-Q46b(i)",
@@ -23629,7 +23675,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-44.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-45.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q46.jpg"
+     ]
     },
     {
      "id": "3B-Q46b(ii)",
@@ -23718,7 +23766,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-45.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-46.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q47.jpg"
+     ]
     },
     {
      "id": "3B-Q47b(ii)",
@@ -23748,7 +23798,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-45.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-46.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q47.jpg"
+     ]
     },
     {
      "id": "3B-Q48",
@@ -23807,7 +23859,9 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-47.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-48.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/16-3B-Behaviour-of-Waves-Q49.jpg"
+     ]
     },
     {
      "id": "3B-Q50",
@@ -24092,7 +24146,9 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-02.jpg",
       "papers/physics/img/17-3C-Light-Waves-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q2.jpg"
+     ]
     },
     {
      "id": "3C-Q2c(i)",
@@ -24123,7 +24179,9 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-02.jpg",
       "papers/physics/img/17-3C-Light-Waves-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q2c.jpg"
+     ]
     },
     {
      "id": "3C-Q2c(ii)",
@@ -24184,7 +24242,9 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-02.jpg",
       "papers/physics/img/17-3C-Light-Waves-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q2c-2.jpg"
+     ]
     },
     {
      "id": "3C-Q3",
@@ -24272,7 +24332,9 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-05.jpg",
       "papers/physics/img/17-3C-Light-Waves-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q5-2.jpg"
+     ]
     },
     {
      "id": "3C-Q5b",
@@ -24302,7 +24364,9 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-05.jpg",
       "papers/physics/img/17-3C-Light-Waves-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q5-2.jpg"
+     ]
     },
     {
      "id": "3C-Q5c",
@@ -24520,7 +24584,9 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-08.jpg",
       "papers/physics/img/17-3C-Light-Waves-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q9.jpg"
+     ]
     },
     {
      "id": "3C-Q9b",
@@ -24676,7 +24742,10 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-12.jpg",
       "papers/physics/img/17-3C-Light-Waves-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q11b.jpg",
+      "papers/physics/fig/17-3C-Light-Waves-Q11b-2.jpg"
+     ]
     },
     {
      "id": "3C-Q11c",
@@ -24707,7 +24776,9 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-12.jpg",
       "papers/physics/img/17-3C-Light-Waves-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q11c.jpg"
+     ]
     },
     {
      "id": "3C-Q12a",
@@ -25078,7 +25149,9 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-19.jpg",
       "papers/physics/img/17-3C-Light-Waves-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q16-2.jpg"
+     ]
     },
     {
      "id": "3C-Q17",
@@ -25318,7 +25391,9 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-24.jpg",
       "papers/physics/img/17-3C-Light-Waves-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q22.jpg"
+     ]
     },
     {
      "id": "3C-Q23",
@@ -25410,7 +25485,9 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-27.jpg",
       "papers/physics/img/17-3C-Light-Waves-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q24b.jpg"
+     ]
     },
     {
      "id": "3C-Q24b(ii)",
@@ -25440,7 +25517,9 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-27.jpg",
       "papers/physics/img/17-3C-Light-Waves-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q24b.jpg"
+     ]
     },
     {
      "id": "3C-Q25a",
@@ -25658,7 +25737,9 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-31.jpg",
       "papers/physics/img/17-3C-Light-Waves-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q27.jpg"
+     ]
     },
     {
      "id": "3C-Q28",
@@ -25718,7 +25799,9 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-33.jpg",
       "papers/physics/img/17-3C-Light-Waves-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q29a.jpg"
+     ]
     },
     {
      "id": "3C-Q29b(i)",
@@ -25992,7 +26075,9 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-37.jpg",
       "papers/physics/img/17-3C-Light-Waves-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/17-3C-Light-Waves-Q33.jpg"
+     ]
     },
     {
      "id": "3C-Q34",
@@ -26271,7 +26356,9 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-05.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q7.jpg"
+     ]
     },
     {
      "id": "3D-Q7b",
@@ -26300,7 +26387,9 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-05.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q7.jpg"
+     ]
     },
     {
      "id": "3D-Q7c",
@@ -26331,7 +26420,9 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-05.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q7.jpg"
+     ]
     },
     {
      "id": "3D-Q8",
@@ -26592,7 +26683,9 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-10.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/18-3D-Quantum-Physics-Q12-2.jpg"
+     ]
     },
     {
      "id": "3D-Q12b",
@@ -35685,7 +35778,7 @@ window.BANK.physics = {
       "derive",
       "ohm's law"
      ],
-     "question": "Show that, for the circuit with variable resistor R and cell of e.m.f. E and internal resistance r, the required linear relation holds (the equation is not in the text).",
+     "question": "Show that, for the circuit with variable resistor R and cell of e.m.f. E and internal resistance r, the required linear relation holds (the equation is shown in the figure below).",
      "status": "ready",
      "answer": "R = E / I - r",
      "steps": [
@@ -39939,7 +40032,7 @@ window.BANK.physics = {
       "diameter",
       "tan theta"
      ],
-     "question": "On the banked semicircular end, the go-kart needs no frictional force perpendicular to its motion at speed v. Show that tan(theta) = 2v^2 / (g d), where d is the diameter AB of the curved track. (The formula is not fully reproduced in the text extraction.)",
+     "question": "On the banked semicircular end, the go-kart needs no frictional force perpendicular to its motion at speed v. Show that tan(theta) = 2v^2 / (g d), where d is the diameter AB of the curved track. (The formula is shown in the figure below.)",
      "status": "ready",
      "answer": "tan(theta) = v^2 / (r g) = 2 v^2 / (g d), where d is the diameter AB.",
      "steps": [
@@ -41624,7 +41717,7 @@ window.BANK.physics = {
       "centripetal force",
       "derive"
      ],
-     "question": "Show that the angle theta of the thread to the vertical for the toy aeroplane in a horizontal circle of radius r at speed v is given by tan(theta) = v^2 / (r g). (The target expression is not reproduced in the text extraction.)",
+     "question": "Show that the angle theta of the thread to the vertical for the toy aeroplane in a horizontal circle of radius r at speed v is given by tan(theta) = v^2 / (r g). (The target expression is shown in the figure below.)",
      "status": "ready",
      "answer": "tan(theta) = v^2 / (r g), equivalently tan(theta) = omega^2 r / g.",
      "steps": [
@@ -48672,7 +48765,9 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-02.jpg",
       "papers/physics/img/26-7A-Probing-Matter-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q3.jpg"
+     ]
     },
     {
      "id": "7A-Q4",
@@ -48942,7 +49037,9 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-06.jpg",
       "papers/physics/img/26-7A-Probing-Matter-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q10.jpg"
+     ]
     },
     {
      "id": "7A-Q11",
@@ -48969,7 +49066,9 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-06.jpg",
       "papers/physics/img/26-7A-Probing-Matter-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q11.jpg"
+     ]
     },
     {
      "id": "7A-Q12",
@@ -49027,7 +49126,9 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-07.jpg",
       "papers/physics/img/26-7A-Probing-Matter-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q13.jpg"
+     ]
     },
     {
      "id": "7A-Q14a",
@@ -49181,7 +49282,9 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-10.jpg",
       "papers/physics/img/26-7A-Probing-Matter-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q15.jpg"
+     ]
     },
     {
      "id": "7A-Q16",
@@ -49208,7 +49311,9 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-10.jpg",
       "papers/physics/img/26-7A-Probing-Matter-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q16.jpg"
+     ]
     },
     {
      "id": "7A-Q17",
@@ -49269,7 +49374,9 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-11.jpg",
       "papers/physics/img/26-7A-Probing-Matter-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q18.jpg"
+     ]
     },
     {
      "id": "7A-Q19",
@@ -49328,7 +49435,9 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-12.jpg",
       "papers/physics/img/26-7A-Probing-Matter-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q20.jpg"
+     ]
     },
     {
      "id": "7A-Q21",
@@ -49388,7 +49497,9 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-12.jpg",
       "papers/physics/img/26-7A-Probing-Matter-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q22.jpg"
+     ]
     },
     {
      "id": "7A-Q23",
@@ -49416,7 +49527,9 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-13.jpg",
       "papers/physics/img/26-7A-Probing-Matter-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q23.jpg"
+     ]
     },
     {
      "id": "7A-Q24",
@@ -49445,7 +49558,9 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-13.jpg",
       "papers/physics/img/26-7A-Probing-Matter-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q24.jpg"
+     ]
     },
     {
      "id": "7A-Q25",
@@ -49473,7 +49588,9 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-13.jpg",
       "papers/physics/img/26-7A-Probing-Matter-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q25.jpg"
+     ]
     },
     {
      "id": "7A-Q26",
@@ -49536,7 +49653,9 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-15.jpg",
       "papers/physics/img/26-7A-Probing-Matter-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q27.jpg"
+     ]
     },
     {
      "id": "7A-Q28",
@@ -49627,7 +49746,9 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-16.jpg",
       "papers/physics/img/26-7A-Probing-Matter-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q30.jpg"
+     ]
     },
     {
      "id": "7A-Q31a",
@@ -49716,7 +49837,9 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-17.jpg",
       "papers/physics/img/26-7A-Probing-Matter-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/26-7A-Probing-Matter-Q32.jpg"
+     ]
     },
     {
      "id": "7A-Q33",
@@ -50548,7 +50671,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-12.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q10-3.jpg"
+     ]
     },
     {
      "id": "7B-Q10c",
@@ -51316,7 +51441,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-26.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q23-2.jpg"
+     ]
     },
     {
      "id": "7B-Q24",
@@ -51393,7 +51520,7 @@ window.BANK.physics = {
       "mass",
       "circular path"
      ],
-     "question": "An alpha particle moving in a straight line with the same speed v enters the same magnetic field as the proton of Q25 and follows a circular path. Which is its initial radius? (Options A-D are not in the text.)",
+     "question": "An alpha particle moving in a straight line with the same speed v enters the same magnetic field as the proton of Q25 and follows a circular path. Which is its initial radius? (Options A-D are shown in the figure below.)",
      "status": "ready",
      "answer": "B: 2r",
      "steps": [
@@ -51406,7 +51533,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-29.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q26.jpg"
+     ]
     },
     {
      "id": "7B-Q27",
@@ -51501,7 +51630,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-29.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q28.jpg"
+     ]
     },
     {
      "id": "7B-Q28c",
@@ -51534,7 +51665,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-29.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q28.jpg"
+     ]
     },
     {
      "id": "7B-Q29",
@@ -51846,7 +51979,9 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q3.jpg"
+     ]
     },
     {
      "id": "7C-Q4",
@@ -51863,7 +51998,7 @@ window.BANK.physics = {
       "options",
       "mass kg"
      ],
-     "question": "A gamma photon of energy 18 MeV produces a particle and its antiparticle. Which gives the maximum possible mass of the particle in kg? (Options are not in the text.)",
+     "question": "A gamma photon of energy 18 MeV produces a particle and its antiparticle. Which gives the maximum possible mass of the particle in kg? (Options are shown in the figure below.)",
      "status": "ready",
      "answer": "D: (9 x 10^6 x 1.6 x 10^-19) / (3 x 10^8)^2",
      "steps": [
@@ -51895,7 +52030,7 @@ window.BANK.physics = {
       "charge",
       "lepton number"
      ],
-     "question": "Which equation correctly shows neutron decay? A: n -> p + e^+ + (missing); B: n -> p + e^+ + nu_e; C: n -> p + e^- + (missing); D: n -> p + e^- + nu_e. (Bars on antiparticle symbols are lost in the text.)",
+     "question": "Which equation correctly shows neutron decay? A: n -> p + e^+ + (missing); B: n -> p + e^+ + nu_e; C: n -> p + e^- + (missing); D: n -> p + e^- + nu_e. (Bars on antiparticle symbols are shown in the figure below.)",
      "status": "ready",
      "answer": "D: n -> p + e^- + antineutrino (the correct beta-minus decay)",
      "steps": [
@@ -51908,7 +52043,9 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-03.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q5.jpg"
+     ]
     },
     {
      "id": "7C-Q6a",
@@ -51983,7 +52120,7 @@ window.BANK.physics = {
       "classification",
       "description"
      ],
-     "question": "Describe how the underlined particles in a passage about the history of particle physics fit into the standard model. (The passage is not in the text.)",
+     "question": "Describe how the underlined particles in a passage about the history of particle physics fit into the standard model. (The passage is shown in the figure below.)",
      "status": "ready",
      "answer": "Electron and muon are fundamental leptons; proton and neutron are baryons made of three quarks; a meson is a quark-antiquark pair.",
      "steps": [
@@ -52047,7 +52184,7 @@ window.BANK.physics = {
       "charge",
       "lepton number"
      ],
-     "question": "Neutrinos can interact with protons to create neutrons. Which equation shows this process? (Options are not in the text.)",
+     "question": "Neutrinos can interact with protons to create neutrons. Which equation shows this process? (Options are shown in the figure below.)",
      "status": "ready",
      "answer": "C: anti-electron-neutrino + p -> e+ + n",
      "steps": [
@@ -52155,7 +52292,9 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-07.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q10.jpg"
+     ]
     },
     {
      "id": "7C-Q10c2",
@@ -52185,7 +52324,9 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-07.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q10.jpg"
+     ]
     },
     {
      "id": "7C-Q10d",
@@ -52262,7 +52403,7 @@ window.BANK.physics = {
       "positron",
       "antineutrino"
      ],
-     "question": "Explain how the anti-neutron decay equation shows that the decay obeys three conservation laws. (The equation is not in the text.)",
+     "question": "Explain how the anti-neutron decay equation shows that the decay obeys three conservation laws. (The equation is shown in the figure below.)",
      "status": "ready",
      "answer": "The equation n-bar -> p-bar + e+ + neutrino obeys conservation of charge, baryon number and lepton number.",
      "steps": [
@@ -52368,7 +52509,9 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-10.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q13.jpg"
+     ]
     },
     {
      "id": "7C-Q13b",
@@ -52445,7 +52588,7 @@ window.BANK.physics = {
       "2015",
       "row"
      ],
-     "question": "A pentaquark is made of five quarks and can form a baryon-meson combination. Which row of the table shows a possible arrangement? (The table is not in the text.)",
+     "question": "A pentaquark is made of five quarks and can form a baryon-meson combination. Which row of the table shows a possible arrangement? (The table is shown in the figure below.)",
      "status": "ready",
      "answer": "A: baryon d u u, meson c c-bar",
      "steps": [
@@ -52679,7 +52822,9 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-15.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q17.jpg"
+     ]
     },
     {
      "id": "7C-Q17b1",
@@ -52788,7 +52933,7 @@ window.BANK.physics = {
       "options",
       "calculate"
      ],
-     "question": "A particle has a mass of 3.17 x 10^-27 kg. Which gives the mass in GeV/c^2? (Options are not in the text.)",
+     "question": "A particle has a mass of 3.17 x 10^-27 kg. Which gives the mass in GeV/c^2? (Options are shown in the figure below.)",
      "status": "ready",
      "answer": "D: (3.17 x 10^-27 x (3.00 x 10^8)^2) / (10^9 x 1.6 x 10^-19) = 1.78 GeV/c^2",
      "steps": [
@@ -53007,7 +53152,9 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-19.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q22.jpg"
+     ]
     },
     {
      "id": "7C-Q22b1",
@@ -53141,7 +53288,7 @@ window.BANK.physics = {
       "out of page",
       "state"
      ],
-     "question": "A magnetic field acts in the detector. State its direction. (Direction is shown on the track diagram, which is not in the text.)",
+     "question": "A magnetic field acts in the detector. State its direction. (Direction is shown on the track diagram, which is shown in the figure below.)",
      "status": "ready",
      "answer": "Into the page.",
      "steps": [
@@ -53262,7 +53409,7 @@ window.BANK.physics = {
       "names",
       "production"
      ],
-     "question": "A muon can be produced by a decay shown in a nuclear equation. State the names of the two other particles involved. (The equation is not in the text.)",
+     "question": "A muon can be produced by a decay shown in a nuclear equation. State the names of the two other particles involved. (The equation is shown in the figure below.)",
      "status": "ready",
      "answer": "The negative pion (pi-minus) is the decaying particle, and the other product is a muon anti-neutrino.",
      "steps": [
@@ -53415,7 +53562,7 @@ window.BANK.physics = {
       "track",
       "kaon decay"
      ],
-     "question": "Determine the momentum of the negative pion produced in the detector, with magnetic flux density 7.0 T. (The track diagram drawn to scale is not in the text.)",
+     "question": "Determine the momentum of the negative pion produced in the detector, with magnetic flux density 7.0 T. (The track diagram drawn to scale is shown in the figure below.)",
      "status": "ready",
      "answer": "p = about 2.1 x 10^-19 N s (radius read from the scale diagram about 19 cm)",
      "steps": [
@@ -53554,7 +53701,9 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-25.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q26.jpg"
+     ]
     },
     {
      "id": "7C-Q26b",
@@ -53601,7 +53750,7 @@ window.BANK.physics = {
       "row",
       "compare"
      ],
-     "question": "Which row of the table describes the lifetime and mass of a high speed muon compared with a stationary muon? (The table is not in the text.)",
+     "question": "Which row of the table describes the lifetime and mass of a high speed muon compared with a stationary muon? (The table is shown in the figure below.)",
      "status": "ready",
      "answer": "D: longer lifetime, larger mass",
      "steps": [
@@ -53671,7 +53820,9 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q29.jpg"
+     ]
     },
     {
      "id": "7C-Q30",
@@ -53688,7 +53839,7 @@ window.BANK.physics = {
       "antiparticle",
       "identify"
      ],
-     "question": "Which row of the table describes the mass and charge of an antiproton? (The table is not in the text.)",
+     "question": "Which row of the table describes the mass and charge of an antiproton? (The table is shown in the figure below.)",
      "status": "ready",
      "answer": "B: mass 1.67 x 10^-27 kg, charge -1.6 x 10^-19 C",
      "steps": [
@@ -53719,7 +53870,7 @@ window.BANK.physics = {
       "relative charges",
       "uuu"
      ],
-     "question": "The table shows relative charges on up and down quarks. Which could be the quark composition for a baryon with charge +2e? (The table of options is not in the text.)",
+     "question": "The table shows relative charges on up and down quarks. Which could be the quark composition for a baryon with charge +2e? (The table of options is shown in the figure below.)",
      "status": "ready",
      "answer": "D: u u u",
      "steps": [
@@ -53925,7 +54076,7 @@ window.BANK.physics = {
       "antiparticle",
       "proton"
      ],
-     "question": "Which row in the table gives the charge and mass of an antiproton? (The table is not in the text.)",
+     "question": "Which row in the table gives the charge and mass of an antiproton? (The table is shown in the figure below.)",
      "status": "ready",
      "answer": "D: charge -1.6 x 10^-19 C, mass 1.67 x 10^-27 kg",
      "steps": [
@@ -54027,7 +54178,9 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-33.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q36.jpg"
+     ]
     },
     {
      "id": "7C-Q36aii",
@@ -54255,7 +54408,7 @@ window.BANK.physics = {
       "CERN 2022",
       "five quarks"
      ],
-     "question": "A pentaquark of five quarks is made of a meson and a baryon with equal and opposite charges. Determine the quark combination and charge of a meson and of a baryon that could make up the pentaquark. (The quark table and the five quarks are not in the text.)",
+     "question": "A pentaquark of five quarks is made of a meson and a baryon with equal and opposite charges. Determine the quark combination and charge of a meson and of a baryon that could make up the pentaquark. (The quark table and the five quarks are shown in the figure below.)",
      "status": "ready",
      "answer": "For example: meson c-bar d (charge -1) and baryon u c s (charge +1). (Meson c-bar s with baryon u c d also works.)",
      "steps": [
@@ -54317,7 +54470,7 @@ window.BANK.physics = {
       "possible",
       "decay"
      ],
-     "question": "Explain whether a given muon decay would be possible, considering conservation of charge and lepton number. (The decay equation is not in the text.)",
+     "question": "Explain whether a given muon decay would be possible, considering conservation of charge and lepton number. (The decay equation is shown in the figure below.)",
      "status": "ready",
      "answer": "Possible: mu^- -> e^- + nu(e) + anti-nu(mu) conserves charge and lepton number.",
      "steps": [
@@ -54363,7 +54516,9 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q40.jpg"
+     ]
     },
     {
      "id": "7C-Q40b1",
@@ -54393,7 +54548,9 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q40.jpg"
+     ]
     },
     {
      "id": "7C-Q40b2",
@@ -54423,7 +54580,9 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q40.jpg"
+     ]
     },
     {
      "id": "7C-Q40b3",
@@ -54454,7 +54613,9 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q40.jpg"
+     ]
     },
     {
      "id": "7C-Q41",
@@ -54499,7 +54660,7 @@ window.BANK.physics = {
       "options",
       "mass"
      ],
-     "question": "A particle has mass 6.5 MeV/c^2. Which gives its mass in kg? (Options are not in the text.)",
+     "question": "A particle has mass 6.5 MeV/c^2. Which gives its mass in kg? (Options are shown in the figure below.)",
      "status": "ready",
      "answer": "B: (6.5 x 1.6 x 10^-13) / (3 x 10^8)^2 kg",
      "steps": [
@@ -54530,7 +54691,7 @@ window.BANK.physics = {
       "shows",
       "options"
      ],
-     "question": "Which of the following shows the beta-minus decay of a nucleon? (Options are not in the text.)",
+     "question": "Which of the following shows the beta-minus decay of a nucleon? (Options are shown in the figure below.)",
      "status": "ready",
      "answer": "B: n -> p + beta^- + anti-electron-neutrino",
      "steps": [
@@ -54561,7 +54722,7 @@ window.BANK.physics = {
       "table",
       "uud udd"
      ],
-     "question": "The table shows the charges on up and down quarks. Which row shows the quark structure of protons and neutrons? (The table is not in the text.)",
+     "question": "The table shows the charges on up and down quarks. Which row shows the quark structure of protons and neutrons? (The table is shown in the figure below.)",
      "status": "ready",
      "answer": "C: proton d u u, neutron d d u",
      "steps": [
@@ -54726,7 +54887,9 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-43.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q46-4.jpg"
+     ]
     },
     {
      "id": "7C-Q46bi",
@@ -54772,7 +54935,7 @@ window.BANK.physics = {
       "deduce",
       "conservation laws"
      ],
-     "question": "Deduce whether conservation of charge and conservation of lepton number apply to the decay of the positive particle shown. (The decay equation symbols are lost in the text.)",
+     "question": "Deduce whether conservation of charge and conservation of lepton number apply to the decay of the positive particle shown. (The decay equation symbols are shown in the figure below.)",
      "status": "ready",
      "answer": "Both apply: charge +1 -> +1 + 0 is conserved and lepton number 0 -> 0 + 0 is conserved.",
      "steps": [
@@ -54805,7 +54968,7 @@ window.BANK.physics = {
       "bubble chamber",
       "1.07 x 10^-19"
      ],
-     "question": "The positive particle (momentum 3.67 x 10^-19 kg m s^-1) decays and one product has momentum 1.07 x 10^-19 kg m s^-1. Determine the magnitude and direction of the neutron momentum. (The direction diagram is not in the text.)",
+     "question": "The positive particle (momentum 3.67 x 10^-19 kg m s^-1) decays and one product has momentum 1.07 x 10^-19 kg m s^-1. Determine the magnitude and direction of the neutron momentum. (The direction diagram is shown in the figure below.)",
      "status": "ready",
      "answer": "Magnitude 3.4 x 10^-19 kg m s^-1 (3.36 x 10^-19), at about 17 degrees to the direction of the sigma on the opposite side to the pion.",
      "steps": [
@@ -54917,7 +55080,9 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-46.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q48.jpg"
+     ]
     },
     {
      "id": "7C-Q48aii",
@@ -54980,7 +55145,9 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-46.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q48-2.jpg"
+     ]
     },
     {
      "id": "7C-Q48bii",
@@ -55028,7 +55195,7 @@ window.BANK.physics = {
       "quarks",
       "identify"
      ],
-     "question": "Which row of the table shows a fundamental particle and a non-fundamental particle? (The table is not in the text.)",
+     "question": "Which row of the table shows a fundamental particle and a non-fundamental particle? (The table is shown in the figure below.)",
      "status": "ready",
      "answer": "B: lepton (fundamental), meson (non-fundamental)",
      "steps": [
@@ -55057,7 +55224,7 @@ window.BANK.physics = {
       "options",
       "conservation"
      ],
-     "question": "A pion can decay into two leptons. Which of the following decays is possible? (Options are not in the text.)",
+     "question": "A pion can decay into two leptons. Which of the following decays is possible? (Options are shown in the figure below.)",
      "status": "ready",
      "answer": "D: pi+ -> e+ + electron neutrino",
      "steps": [
@@ -55131,7 +55298,9 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-48.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q51.jpg"
+     ]
     },
     {
      "id": "7C-Q51c",
@@ -55189,7 +55358,9 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-49.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-50.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q52-2.jpg"
+     ]
     },
     {
      "id": "7C-Q52bi",
@@ -55206,7 +55377,7 @@ window.BANK.physics = {
       "decay",
       "working"
      ],
-     "question": "A leptoquark has charge +5e/3 and decays to a quark and a lepton. Determine its baryon number and lepton number, including the suggested quark and lepton in your working. (The suggested quark and lepton are not in the text.)",
+     "question": "A leptoquark has charge +5e/3 and decays to a quark and a lepton. Determine its baryon number and lepton number, including the suggested quark and lepton in your working. (The suggested quark and lepton are shown in the figure below.)",
      "status": "ready",
      "answer": "Baryon number +1/3 and lepton number -1 (e.g. an up quark and a positron: +2/3 + 1 = +5/3).",
      "steps": [
@@ -55306,7 +55477,9 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-50.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-51.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q53.jpg"
+     ]
     },
     {
      "id": "7C-Q53b",
@@ -55352,7 +55525,7 @@ window.BANK.physics = {
       "kg",
       "options"
      ],
-     "question": "A proton and an antiproton, each of energy 450 GeV, annihilate to create a particle-antiparticle pair. Which expression gives the maximum mass of each particle in kg? (Options are not in the text.)",
+     "question": "A proton and an antiproton, each of energy 450 GeV, annihilate to create a particle-antiparticle pair. Which expression gives the maximum mass of each particle in kg? (Options are shown in the figure below.)",
      "status": "ready",
      "answer": "C: (450 x 10^9 x 1.6 x 10^-19) / (3.00 x 10^8)^2",
      "steps": [
@@ -55384,7 +55557,7 @@ window.BANK.physics = {
       "show",
       "time"
      ],
-     "question": "A muon travels at 98.0% of the speed of light and has a lifetime of 2.20 microseconds (the mu is lost in the text). Show that it travels about 650 m in this time.",
+     "question": "A muon travels at 98.0% of the speed of light and has a lifetime of 2.20 µs. Show that it travels about 650 m in this time.",
      "status": "ready",
      "answer": "d = v t = 0.98 x 3.00 x 10^8 x 2.20 x 10^-6 = 650 m.",
      "steps": [
@@ -55440,7 +55613,7 @@ window.BANK.physics = {
       "charge",
       "row"
      ],
-     "question": "The positron is the antiparticle of the electron. Which row of the table gives a similarity and a difference between a positron and an electron? (The table is not in the text.)",
+     "question": "The positron is the antiparticle of the electron. Which row of the table gives a similarity and a difference between a positron and an electron? (The table is shown in the figure below.)",
      "status": "ready",
      "answer": "D: same mass, different lepton number",
      "steps": [
@@ -55587,7 +55760,7 @@ window.BANK.physics = {
       "reason",
       "options"
      ],
-     "question": "Muons produced in the upper atmosphere have an average lifetime greater than stationary muons, because they move at speed v. Which gives the reason for this increase in lifetime? (Options A-D are garbled in the text.)",
+     "question": "Muons produced in the upper atmosphere have an average lifetime greater than stationary muons, because they move at speed v. Which gives the reason for this increase in lifetime? (Options A-D are shown in the figure below.)",
      "status": "ready",
      "answer": "C: v is approximately equal to c",
      "steps": [
@@ -55707,7 +55880,7 @@ window.BANK.physics = {
       "momentum conservation",
       "bubble chamber"
      ],
-     "question": "The photograph shows the tracks of K^+ and Omega^- produced when a K^- collided with a stationary proton. Explain how evidence from the photograph shows a K^0 was also formed. (The photograph is not in the text.)",
+     "question": "The photograph shows the tracks of K^+ and Omega^- produced when a K^- collided with a stationary proton. Explain how evidence from the photograph shows a K^0 was also formed. (The photograph is shown in the figure below.)",
      "status": "ready",
      "answer": "Only the K+ and Omega- tracks leave the collision point and charge is already balanced (0 before, 0 after), so the third product is neutral: it leaves no track, and the visible tracks do not balance momentum sideways, so an unseen neutral K0 must have carried it away.",
      "steps": [
@@ -56191,7 +56364,7 @@ window.BANK.physics = {
       "percentage",
       "gas mixture"
      ],
-     "question": "In a sample of natural gas, the r.m.s. velocity of CO2 molecules is 60.5% of the r.m.s. velocity of CH4 molecules. The prompt for this part is missing from the extracted text.",
+     "question": "In a sample of natural gas, the r.m.s. velocity of CO2 molecules is 60.5% of the r.m.s. velocity of CH4 molecules. The prompt for this part is shown in the figure below.",
      "status": "ready",
      "answer": "mass of CO2 molecule / mass of CH4 molecule = 2.73 (about 2.7)",
      "steps": [
@@ -56951,7 +57124,8 @@ window.BANK.physics = {
       "papers/physics/img/29-8-Thermodynamics-23.jpg"
      ],
      "figures": [
-      "papers/physics/fig/29-8-Thermodynamics-Q28.jpg"
+      "papers/physics/fig/29-8-Thermodynamics-Q28.jpg",
+      "papers/physics/fig/29-8-Thermodynamics-Q28-2.jpg"
      ]
     },
     {
@@ -57589,7 +57763,7 @@ window.BANK.physics = {
       "molecules",
       "options"
      ],
-     "question": "A container holds a mixture of gases X and Y at constant temperature, with each molecule of X having twice the mass of each molecule of Y. The question and options are missing from the extracted text.",
+     "question": "A container holds a mixture of gases X and Y at constant temperature, with each molecule of X having twice the mass of each molecule of Y. The question and options are shown in the figure below.",
      "status": "ready",
      "answer": "A: 1/sqrt(2)",
      "steps": [
@@ -57952,7 +58126,7 @@ window.BANK.physics = {
       "source",
       "absorption"
      ],
-     "question": "A detector measures the count rate from a source through different absorbers. Choose which radiation the source emits from options A to D (the table of results is missing from the text).",
+     "question": "A detector measures the count rate from a source through different absorbers. Choose which radiation the source emits from options A to D (the table of results is shown in the figure below).",
      "status": "ready",
      "answer": "D: beta radiation and gamma radiation.",
      "steps": [
@@ -58486,7 +58660,7 @@ window.BANK.physics = {
       "decay constant",
       "sample"
      ],
-     "question": "Polonium-218 has half-life 185 s and a sample contains 2.75e15 unstable nuclei. Choose the expression that gives the activity in Bq (options not present in the extracted text).",
+     "question": "Polonium-218 has half-life 185 s and a sample contains 2.75e15 unstable nuclei. Choose the expression that gives the activity in Bq (options shown in the figure below).",
      "status": "ready",
      "answer": "C: (ln 2 / 185) x 2.75 x 10^15 (about 1.0 x 10^13 Bq).",
      "steps": [
@@ -58674,7 +58848,7 @@ window.BANK.physics = {
       "nuclear mass",
       "energy"
      ],
-     "question": "Calculate the binding energy per nucleon, in MeV, for a nucleus whose symbol is missing from the extracted text.",
+     "question": "Calculate the binding energy per nucleon, in MeV, for a nucleus whose symbol is shown in the figure below.",
      "status": "ready",
      "answer": "7.38 MeV per nucleon (about 7.4 MeV).",
      "steps": [
@@ -59740,7 +59914,7 @@ window.BANK.physics = {
       "stable isotope",
       "decay curve"
      ],
-     "question": "Bismuth decays to form a stable isotope of thallium. Which graph shows how the number N of thallium atoms in a sample varies with time t? (Graphs A to D are missing from the text.)",
+     "question": "Bismuth decays to form a stable isotope of thallium. Which graph shows how the number N of thallium atoms in a sample varies with time t? (Graphs A to D are shown in the figure below.)",
      "status": "ready",
      "answer": "D.",
      "steps": [
@@ -60629,7 +60803,7 @@ window.BANK.physics = {
       "expression",
       "E = mc^2"
      ],
-     "question": "When a nucleus of americium emits an alpha particle, 5.64 MeV is released. Which expression gives the decrease in mass in kg? (Options are missing from the extracted text.)",
+     "question": "When a nucleus of americium emits an alpha particle, 5.64 MeV is released. Which expression gives the decrease in mass in kg? (Options are shown in the figure below.)",
      "status": "ready",
      "answer": "A: (5.64 x 1.60 x 10^-13) / (3.0 x 10^8)^2.",
      "steps": [
@@ -61663,7 +61837,7 @@ window.BANK.physics = {
       "22 counts",
       "54 counts"
      ],
-     "question": "Background is 22 counts per minute. A detector at 25 cm from a gamma source records 54 counts per minute, then is moved to 50 cm. Which is the expected number of counts per minute? (Options are missing from the extracted text.)",
+     "question": "Background is 22 counts per minute. A detector at 25 cm from a gamma source records 54 counts per minute, then is moved to 50 cm. Which is the expected number of counts per minute? (Options are shown in the figure below.)",
      "status": "ready",
      "answer": "B: (54 - 22) / 4 + 22 = 30 counts per minute.",
      "steps": [
@@ -61918,7 +62092,7 @@ window.BANK.physics = {
       "multiple choice",
       "time period"
      ],
-     "question": "A simple pendulum takes 1.00 s to swing from one extreme position to the other. Which expression gives its length? (The option list is not in the text.)",
+     "question": "A simple pendulum takes 1.00 s to swing from one extreme position to the other. Which expression gives its length? (The option list is shown in the figure below.)",
      "status": "ready",
      "answer": "B: (2.00)^2 x 9.81 / (4 pi^2) = 0.99 m",
      "steps": [
@@ -62473,7 +62647,7 @@ window.BANK.physics = {
       "0.55 s",
       "0.25 m"
      ],
-     "question": "An object oscillates with simple harmonic motion, period 0.55 s and amplitude 0.25 m. Which option shows a correct calculation of its maximum velocity? (Option letters are not in the text.)",
+     "question": "An object oscillates with simple harmonic motion, period 0.55 s and amplitude 0.25 m. Which option shows a correct calculation of its maximum velocity? (Option letters are shown in the figure below.)",
      "status": "ready",
      "answer": "B: (2 pi / 0.55) x 0.25 = 2.9 m s^-1",
      "steps": [
@@ -62723,7 +62897,7 @@ window.BANK.physics = {
       "multiple choice",
       "options"
      ],
-     "question": "The graph shows acceleration against displacement for a mass in SHM. Which expression gives its period? (Graph and options A to D are not in the text.)",
+     "question": "The graph shows acceleration against displacement for a mass in SHM. Which expression gives its period? (Graph and options A to D are shown in the figure below.)",
      "status": "ready",
      "answer": "D: 2 pi x sqrt(0.20 / 3.2) = 1.6 s",
      "steps": [
@@ -62755,7 +62929,7 @@ window.BANK.physics = {
       "simple harmonic",
       "expression"
      ],
-     "question": "A mass oscillates with SHM at frequency 0.5 Hz and amplitude 0.3 m. Which expression gives its maximum velocity in m s-1? (Option list is not in the text.)",
+     "question": "A mass oscillates with SHM at frequency 0.5 Hz and amplitude 0.3 m. Which expression gives its maximum velocity in m s-1? (Option list is shown in the figure below.)",
      "status": "ready",
      "answer": "C: 2 pi x 0.5 x 0.3 = 0.94 m s^-1",
      "steps": [
@@ -63220,7 +63394,7 @@ window.BANK.physics = {
       "extreme position",
       "calculate"
      ],
-     "question": "In the Pantheon in Paris a pendulum takes 8.25 s to swing from one extreme position to the other. Which expression gives its length? (Option list is not in the text.)",
+     "question": "In the Pantheon in Paris a pendulum takes 8.25 s to swing from one extreme position to the other. Which expression gives its length? (Option list is shown in the figure below.)",
      "status": "ready",
      "answer": "D: (16.5)^2 x 9.81 / (4 pi^2) = 67.7 m",
      "steps": [
@@ -63473,7 +63647,7 @@ window.BANK.physics = {
       "pi squared",
       "expression"
      ],
-     "question": "A seconds pendulum has a period of 2 s. Which expression gives its length in metres? (Option list is not in the text.)",
+     "question": "A seconds pendulum has a period of 2 s. Which expression gives its length in metres? (Option list is shown in the figure below.)",
      "status": "ready",
      "answer": "C: 9.81 / pi^2 = 0.99 m",
      "steps": [
@@ -63940,7 +64114,7 @@ window.BANK.physics = {
       "square root",
       "multiple choice"
      ],
-     "question": "A simple pendulum's frequency is determined, then its length is doubled. By what factor is the frequency multiplied? (Option list is not in the text.)",
+     "question": "A simple pendulum's frequency is determined, then its length is doubled. By what factor is the frequency multiplied? (Option list is shown in the figure below.)",
      "status": "ready",
      "answer": "A: 1 / sqrt(2) = 0.71",
      "steps": [
@@ -64026,7 +64200,7 @@ window.BANK.physics = {
       "0.65 s",
       "0.12 m"
      ],
-     "question": "An object oscillates with SHM, period 0.65 s and amplitude 0.12 m. Which expression gives its maximum velocity? (Option list is not in the text.)",
+     "question": "An object oscillates with SHM, period 0.65 s and amplitude 0.12 m. Which expression gives its maximum velocity? (Option list is shown in the figure below.)",
      "status": "ready",
      "answer": "B: (2 pi / 0.65) x 0.12 = 1.2 m s^-1",
      "steps": [
@@ -64205,7 +64379,7 @@ window.BANK.physics = {
       "multiple choice",
       "new frequency"
      ],
-     "question": "A mass hung on a spring oscillates with frequency f. The mass is doubled. What is the new frequency? (Option list is not in the text.)",
+     "question": "A mass hung on a spring oscillates with frequency f. The mass is doubled. What is the new frequency? (Option list is shown in the figure below.)",
      "status": "ready",
      "answer": "B: f / sqrt(2) = 0.71 f",
      "steps": [
@@ -64263,7 +64437,7 @@ window.BANK.physics = {
       "10 cm s-1",
       "cm"
      ],
-     "question": "A mass in SHM has angular velocity 2 rad s-1 and maximum velocity 10 cm s-1. Which expression gives the amplitude in cm? (Option list is not in the text.)",
+     "question": "A mass in SHM has angular velocity 2 rad s-1 and maximum velocity 10 cm s-1. Which expression gives the amplitude in cm? (Option list is shown in the figure below.)",
      "status": "ready",
      "answer": "B: A = 10 / 2 = 5 cm",
      "steps": [
@@ -65358,7 +65532,7 @@ window.BANK.physics = {
       "surface",
       "one third"
      ],
-     "question": "The gravitational field strength on the surface of Mercury is gM. Callisto has the same radius as Mercury but only one third of its density. What is the gravitational field strength on the surface of Callisto? (Option list is not in the text.)",
+     "question": "The gravitational field strength on the surface of Mercury is gM. Callisto has the same radius as Mercury but only one third of its density. What is the gravitational field strength on the surface of Callisto? (Option list is shown in the figure below.)",
      "status": "ready",
      "answer": "B: gM / 3",
      "steps": [
@@ -65939,7 +66113,7 @@ window.BANK.physics = {
       "earth mass",
       "multiple choice"
      ],
-     "question": "A space shuttle of mass m falls to Earth (mass M) from a height R above the Earth, where R is the Earth's radius. Which expression gives its change in gravitational potential energy? (Option list is not in the text.)",
+     "question": "A space shuttle of mass m falls to Earth (mass M) from a height R above the Earth, where R is the Earth's radius. Which expression gives its change in gravitational potential energy? (Option list is shown in the figure below.)",
      "status": "ready",
      "answer": "A: change = GMm (1/(2R) - 1/R) = -GMm / (2R), a decrease",
      "steps": [
@@ -66059,7 +66233,7 @@ window.BANK.physics = {
       "surface",
       "multiple choice"
      ],
-     "question": "The gravitational field strength at the Earth's surface is g. Another planet has the same density as the Earth but twice the Earth's radius. What is its surface gravitational field strength? (Option list is not in the text.)",
+     "question": "The gravitational field strength at the Earth's surface is g. Another planet has the same density as the Earth but twice the Earth's radius. What is its surface gravitational field strength? (Option list is shown in the figure below.)",
      "status": "ready",
      "answer": "B: 2g",
      "steps": [
@@ -66441,7 +66615,7 @@ window.BANK.physics = {
       "table",
       "change"
      ],
-     "question": "The Moon is gradually moving away from the Earth. Which row of the table shows how the gravitational potential at the Earth due to the Moon and the gravitational force between them change? (Table is not in the text.)",
+     "question": "The Moon is gradually moving away from the Earth. Which row of the table shows how the gravitational potential at the Earth due to the Moon and the gravitational force between them change? (Table is shown in the figure below.)",
      "status": "ready",
      "answer": "B: gravitational potential increases and gravitational force decreases",
      "steps": [
@@ -66500,7 +66674,7 @@ window.BANK.physics = {
       "mass M",
       "radius R"
      ],
-     "question": "A satellite of mass m on the Earth's surface is moved into a circular orbit of height h above the Earth (Earth mass M, radius R). Which expression gives its change in gravitational potential energy? (Option list is not in the text.)",
+     "question": "A satellite of mass m on the Earth's surface is moved into a circular orbit of height h above the Earth (Earth mass M, radius R). Which expression gives its change in gravitational potential energy? (Option list is shown in the figure below.)",
      "status": "ready",
      "answer": "B: GMm/R - GMm/(R + h)",
      "steps": [
@@ -66587,7 +66761,7 @@ window.BANK.physics = {
       "approaches sun",
       "table"
      ],
-     "question": "Mercury orbits the Sun in an elliptical orbit. Which row of the table shows how its speed and gravitational potential energy change as it approaches the Sun? (Table is not in the text.)",
+     "question": "Mercury orbits the Sun in an elliptical orbit. Which row of the table shows how its speed and gravitational potential energy change as it approaches the Sun? (Table is shown in the figure below.)",
      "status": "ready",
      "answer": "B: potential energy decreases and speed increases",
      "steps": [
@@ -66646,7 +66820,7 @@ window.BANK.physics = {
       "table",
       "sun"
      ],
-     "question": "Pluto orbits the Sun in an elliptical orbit and moves away from the Sun. Which row of the table shows how the Sun's gravitational force on Pluto and Pluto's velocity change? (Table is not in the text.)",
+     "question": "Pluto orbits the Sun in an elliptical orbit and moves away from the Sun. Which row of the table shows how the Sun's gravitational force on Pluto and Pluto's velocity change? (Table is shown in the figure below.)",
      "status": "ready",
      "answer": "A: gravitational force decreases and velocity (speed) decreases",
      "steps": [
@@ -67036,7 +67210,7 @@ window.BANK.physics = {
       "table",
       "earth"
      ],
-     "question": "Due to tidal action the Moon is slowly moving away from the Earth. Which row of the table correctly shows how the gravitational force between the Earth and the Moon, and the Moon's gravitational potential energy, change? (Table is not in the text.)",
+     "question": "Due to tidal action the Moon is slowly moving away from the Earth. Which row of the table correctly shows how the gravitational force between the Earth and the Moon, and the Moon's gravitational potential energy, change? (Table is shown in the figure below.)",
      "status": "ready",
      "answer": "B: force decreases and potential energy increases",
      "steps": [
@@ -67725,7 +67899,9 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-06.jpg",
       "papers/physics/img/33-11B-Space-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q5.jpg"
+     ]
     },
     {
      "id": "Q6a",
@@ -71404,7 +71580,9 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-65.jpg",
       "papers/physics/img/33-11B-Space-66.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q76.jpg"
+     ]
     },
     {
      "id": "Q76b",
@@ -71433,7 +71611,9 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-65.jpg",
       "papers/physics/img/33-11B-Space-66.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q76-2.jpg"
+     ]
     },
     {
      "id": "Q77a",
@@ -71463,7 +71643,9 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-67.jpg",
       "papers/physics/img/33-11B-Space-68.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q77.jpg"
+     ]
     },
     {
      "id": "Q77b",
@@ -71927,7 +72109,9 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-74.jpg",
       "papers/physics/img/33-11B-Space-75.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/33-11B-Space-Q84.jpg"
+     ]
     },
     {
      "id": "Q84bi",

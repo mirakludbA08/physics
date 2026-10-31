@@ -42,7 +42,7 @@
         "diagram",
         "polar bond"
       ],
-      "question": "Which diagram best represents the electron density map of a hydrogen chloride molecule? (The diagram options are not included in the extracted text.)",
+      "question": "Which diagram best represents the electron density map of a hydrogen chloride molecule? (The diagram options are shown in the figure below.)",
       "status": "ready",
       "answer": "C: contours around both nuclei, closer together and more numerous round the larger Cl nucleus",
       "steps": [
@@ -69,7 +69,7 @@
         "ionic bonding",
         "MgCl2"
       ],
-      "question": "Which is the dot-and-cross diagram for magnesium chloride, showing only outer shell electrons? (The diagram options are not included in the extracted text.)",
+      "question": "Which is the dot-and-cross diagram for magnesium chloride, showing only outer shell electrons? (The diagram options are shown in the figure below.)",
       "status": "ready",
       "answer": "D: Mg2+ with 8 outer electrons in square brackets, flanked by two [Cl]- ions each with 8 electrons",
       "steps": [
@@ -123,7 +123,7 @@
         "lattice",
         "small ions"
       ],
-      "question": "Some ionic radii are shown (not included in the extracted text). Which compound has the strongest ionic bonding? A sodium fluoride; B sodium chloride; C potassium fluoride; D potassium chloride.",
+      "question": "Some ionic radii are shown (shown in the figure below). Which compound has the strongest ionic bonding? A sodium fluoride; B sodium chloride; C potassium fluoride; D potassium chloride.",
       "status": "ready",
       "answer": "A (sodium fluoride)",
       "steps": [
@@ -667,7 +667,7 @@
         "intermolecular forces",
         "table"
       ],
-      "question": "Which row in the table shows the correct forces in a crystal of lithium iodide? (The table is not included in the extracted text.)",
+      "question": "Which row in the table shows the correct forces in a crystal of lithium iodide? (The table is shown in the figure below.)",
       "status": "ready",
       "answer": "D: attractive forces, repulsive forces and some covalent character all present",
       "steps": [
@@ -826,7 +826,7 @@
         "positive electrode",
         "migration"
       ],
-      "question": "A direct current is passed through a green solution of copper(II) chromate(VI). Which colours would be seen at each electrode after several minutes? (The options are not included in the extracted text.)",
+      "question": "A direct current is passed through a green solution of copper(II) chromate(VI). Which colours would be seen at each electrode after several minutes? (The options are shown in the figure below.)",
       "status": "ready",
       "answer": "Blue at the negative electrode (Cu2+ ions); yellow at the positive electrode (chromate ions)",
       "steps": [
@@ -937,7 +937,7 @@
         "migration",
         "electrophoresis"
       ],
-      "question": "A piece of filter paper soaked in water has green copper(II) chromate(VI) crystals placed in the centre and is connected to a 20 V DC supply. What colours are observed on the paper after a few minutes? (The options are not included in the extracted text.)",
+      "question": "A piece of filter paper soaked in water has green copper(II) chromate(VI) crystals placed in the centre and is connected to a 20 V DC supply. What colours are observed on the paper after a few minutes? (The options are shown in the figure below.)",
       "status": "ready",
       "answer": "Blue towards the negative electrode and yellow towards the positive electrode",
       "steps": [
@@ -968,7 +968,7 @@
         "nitride to aluminium",
         "data table"
       ],
-      "question": "Plot a graph of the ionic radii data for the ions of successive elements (the data table is not included in the extracted text).",
+      "question": "Plot a graph of the ionic radii data for the ions of successive elements (the data table is shown in the figure below).",
       "status": "ready",
       "answer": "Graph of ionic radius / pm (y-axis) against ion (x-axis, N3- to Al3+ with a gap for Ne) with a straight line of best fit falling from 171 pm at N3- to 54 pm at Al3+",
       "steps": [
@@ -1141,7 +1141,7 @@
         "letters",
         "elements R T U V W X Y Z"
       ],
-      "question": "An outline of part of the Periodic Table is shown with letters that are not element symbols. Which elements are in the s-block? A R and U; B T and Y; C V and W; D X and Z. (The table outline is not included in the extracted text.)",
+      "question": "An outline of part of the Periodic Table is shown with letters that are not element symbols. Which elements are in the s-block? A R and U; B T and Y; C V and W; D X and Z. (The table outline is shown in the figure below.)",
       "status": "ready",
       "answer": "A: R and U",
       "steps": [
@@ -1167,7 +1167,7 @@
         "periodic table outline",
         "letters V X Y Z"
       ],
-      "question": "Which element has four occupied quantum shells, with six electrons in the outermost shell? A V; B X; C Y; D Z. (The table outline is not included in the extracted text.)",
+      "question": "Which element has four occupied quantum shells, with six electrons in the outermost shell? A V; B X; C Y; D Z. (The table outline is shown in the figure below.)",
       "status": "ready",
       "answer": "C: element Y",
       "steps": [
@@ -1193,7 +1193,7 @@
         "R+ T2- U2+ W- Y2-",
         "periodic table outline"
       ],
-      "question": "In which pair do the ions have the same electronic configuration? A R+ and T2-; B T2- and Y2-; C U2+ and T2-; D U2+ and W-. (The table outline is not included in the extracted text.)",
+      "question": "In which pair do the ions have the same electronic configuration? A R+ and T2-; B T2- and Y2-; C U2+ and T2-; D U2+ and W-. (The table outline is shown in the figure below.)",
       "status": "ready",
       "answer": "C: U2+ and T2-",
       "steps": [
@@ -1220,7 +1220,7 @@
         "elements P Q R S",
         "graph"
       ],
-      "question": "The first ionisation energies of four successive elements P, Q, R and S are shown (data not included in the extracted text). Which element has atoms with a full outer shell of electrons? A P; B Q; C R; D S.",
+      "question": "The first ionisation energies of four successive elements P, Q, R and S are shown (data shown in the figure below). Which element has atoms with a full outer shell of electrons? A P; B Q; C R; D S.",
       "status": "ready",
       "answer": "B: element Q",
       "steps": [
@@ -1247,7 +1247,7 @@
         "element P Q R S",
         "non-metal"
       ],
-      "question": "Which element could be X in a gaseous covalent compound with the formula HX? A P; B Q; C R; D S. (The first ionisation energy data are not included in the extracted text.)",
+      "question": "Which element could be X in a gaseous covalent compound with the formula HX? A P; B Q; C R; D S. (The first ionisation energy data are shown in the figure below.)",
       "status": "ready",
       "answer": "A: element P",
       "steps": [
@@ -1273,7 +1273,7 @@
         "element P Q R S",
         "group 2"
       ],
-      "question": "Which element could be Y in an ionic compound with the formula YF2? A P; B Q; C R; D S. (The first ionisation energy data are not included in the extracted text.)",
+      "question": "Which element could be Y in an ionic compound with the formula YF2? A P; B Q; C R; D S. (The first ionisation energy data are shown in the figure below.)",
       "status": "ready",
       "answer": "D: element S",
       "steps": [
@@ -1299,7 +1299,7 @@
         "first ionisation energies",
         "elements P Q R S"
       ],
-      "question": "Which element has atoms with the largest atomic radius? A P; B Q; C R; D S. (The first ionisation energy data are not included in the extracted text.)",
+      "question": "Which element has atoms with the largest atomic radius? A P; B Q; C R; D S. (The first ionisation energy data are shown in the figure below.)",
       "status": "ready",
       "answer": "C: element R",
       "steps": [

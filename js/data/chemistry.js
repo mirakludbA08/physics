@@ -3171,7 +3171,7 @@ window.BANK.chemistry = {
       "water of crystallisation",
       "MgSO4.xH2O"
      ],
-     "question": "A sample of hydrated magnesium sulfate contains 43% water by mass. What is its formula? The answer options are not included in the extracted text.",
+     "question": "A sample of hydrated magnesium sulfate contains 43% water by mass. What is its formula? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "B: MgSO4.5H2O",
      "steps": [
@@ -3253,7 +3253,7 @@ window.BANK.chemistry = {
       "preparation reaction",
       "Mr 187.5"
      ],
-     "question": "Which reaction to produce copper(II) nitrate (Mr = 187.5) has an atom economy of 46.5% by mass? The answer options are not included in the extracted text.",
+     "question": "Which reaction to produce copper(II) nitrate (Mr = 187.5) has an atom economy of 46.5% by mass? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "C: Cu + 2AgNO3 -> Cu(NO3)2 + 2Ag",
      "steps": [
@@ -3280,7 +3280,7 @@ window.BANK.chemistry = {
       "methods",
       "by mass"
      ],
-     "question": "Which method for the preparation of hydrogen has the highest atom economy by mass? The answer options are not included in the extracted text.",
+     "question": "Which method for the preparation of hydrogen has the highest atom economy by mass? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "B: CH4 + H2O -> 3H2 + CO (17.6%)",
      "steps": [
@@ -3508,7 +3508,7 @@ window.BANK.chemistry = {
       "1s2 2s2 2p2",
       "electrons"
      ],
-     "question": "Which is the electronic configuration of a carbon atom in its ground state? (Options are not included in the extracted text.)",
+     "question": "Which is the electronic configuration of a carbon atom in its ground state? (Options are shown in the figure below.)",
      "status": "ready",
      "answer": "1s2 2s2 2p2",
      "steps": [
@@ -3621,7 +3621,7 @@ window.BANK.chemistry = {
       "abundance",
       "28.2"
      ],
-     "question": "A sample of silicon contains the isotopes shown (not included in the extracted text). What is the relative atomic mass to one decimal place? Options A 28.0, B 28.2, C 29.0, D 29.8.",
+     "question": "A sample of silicon contains the isotopes shown (shown in the figure below). What is the relative atomic mass to one decimal place? Options A 28.0, B 28.2, C 29.0, D 29.8.",
      "status": "ready",
      "answer": "B: 28.2",
      "steps": [
@@ -3732,7 +3732,7 @@ window.BANK.chemistry = {
       "table",
       "kJ mol-1"
      ],
-     "question": "The first three ionisation energies of carbon are shown (table not included in the extracted text). Which is the approximate fourth ionisation energy? Options A 3500, B 6200, C 11 000, D 38 000.",
+     "question": "The first three ionisation energies of carbon are shown (table shown in the figure below). Which is the approximate fourth ionisation energy? Options A 3500, B 6200, C 11 000, D 38 000.",
      "status": "ready",
      "answer": "B: 6200",
      "steps": [
@@ -3761,7 +3761,7 @@ window.BANK.chemistry = {
       "isotopes 79 81",
       "peak pattern"
      ],
-     "question": "The two stable isotopes of bromine have relative masses 79 and 81. Which is the correct pattern of peaks in the mass spectrum of molecular bromine? (The peak diagrams are not included in the extracted text.)",
+     "question": "The two stable isotopes of bromine have relative masses 79 and 81. Which is the correct pattern of peaks in the mass spectrum of molecular bromine? (The peak diagrams are shown in the figure below.)",
      "status": "ready",
      "answer": "D (small peaks at 79 and 81, and three molecular-ion peaks at 158, 160 and 162 in the ratio 1:2:1)",
      "steps": [
@@ -3819,7 +3819,7 @@ window.BANK.chemistry = {
       "periods",
       "trend"
      ],
-     "question": "The bar chart shows the melting temperatures of the first twenty elements. Which statement is shown? A giant covalent structures highest in Period 2 and Period 3; B metals always higher than non-metals; C increase going down each group; D increase across Period 2 and Period 3. (The chart is not included in the extracted text.)",
+     "question": "The bar chart shows the melting temperatures of the first twenty elements. Which statement is shown? A giant covalent structures highest in Period 2 and Period 3; B metals always higher than non-metals; C increase going down each group; D increase across Period 2 and Period 3. (The chart is shown in the figure below.)",
      "status": "ready",
      "answer": "A: giant covalent structures have the highest melting temperatures in Period 2 and Period 3",
      "steps": [
@@ -3848,7 +3848,7 @@ window.BANK.chemistry = {
       "trend",
       "graph"
      ],
-     "question": "Which sketch graph shows the trend in first ionisation energy going down Group 1? (The sketch options are not included in the extracted text.)",
+     "question": "Which sketch graph shows the trend in first ionisation energy going down Group 1? (The sketch options are shown in the figure below.)",
      "status": "ready",
      "answer": "A: a steady fall in first ionisation energy, levelling off",
      "steps": [
@@ -3877,7 +3877,7 @@ window.BANK.chemistry = {
       "ion",
       "argon configuration"
      ],
-     "question": "Which ion does not have the electronic configuration shown? Options A K+, B Ca2+, C Ti2+, D Sc3+. (The configuration shown in the question is not included in the extracted text.)",
+     "question": "Which ion does not have the electronic configuration shown? Options A K+, B Ca2+, C Ti2+, D Sc3+. (The configuration shown in the question is shown in the figure below.)",
      "status": "ready",
      "answer": "C: Ti2+",
      "steps": [
@@ -4227,7 +4227,7 @@ window.BANK.chemistry = {
       "three significant figures",
       "abundance"
      ],
-     "question": "A sample of iron contains the following isotopes (data not included in the extracted text). Calculate the relative atomic mass to three significant figures.",
+     "question": "A sample of iron contains the following isotopes (data shown in the figure below). Calculate the relative atomic mass to three significant figures.",
      "status": "ready",
      "answer": "55.9",
      "steps": [
@@ -4401,7 +4401,7 @@ window.BANK.chemistry = {
       "same protons",
       "isotopic"
      ],
-     "question": "The numbers of subatomic particles in four species W, X, Y and Z are given in a table (not included in the extracted text). Which species are isotopic? Options A W and X, B W and Y, C X and Z, D Y and Z.",
+     "question": "The numbers of subatomic particles in four species W, X, Y and Z are given in a table (shown in the figure below). Which species are isotopic? Options A W and X, B W and Y, C X and Z, D Y and Z.",
      "status": "ready",
      "answer": "D: Y and Z",
      "steps": [
@@ -4429,7 +4429,7 @@ window.BANK.chemistry = {
       "outer shell electrons",
       "graph"
      ],
-     "question": "The graph shows log(ionisation energy) against ionisation number for the successive ionisations of an element. How many quantum shells contain electrons, and how many electrons are in the outer shell? (The graph is not included in the extracted text.)",
+     "question": "The graph shows log(ionisation energy) against ionisation number for the successive ionisations of an element. How many quantum shells contain electrons, and how many electrons are in the outer shell? (The graph is shown in the figure below.)",
      "status": "ready",
      "answer": "B: 3 quantum shells contain electrons and there are 5 electrons in the outer shell",
      "steps": [
@@ -4487,7 +4487,7 @@ window.BANK.chemistry = {
       "positive ions",
       "diagram"
      ],
-     "question": "Which process occurs in region R of the mass spectrometer? Options A sample vaporised by heater, B electrons removed to form positive ions, C electrons added to form negative ions, D ions accelerated by an electric field. (The diagram is not included in the extracted text.)",
+     "question": "Which process occurs in region R of the mass spectrometer? Options A sample vaporised by heater, B electrons removed to form positive ions, C electrons added to form negative ions, D ions accelerated by an electric field. (The diagram is shown in the figure below.)",
      "status": "ready",
      "answer": "B: electrons are removed from molecules or atoms and positive ions are formed",
      "steps": [
@@ -4571,7 +4571,7 @@ window.BANK.chemistry = {
       "abundance",
       "approximate"
      ],
-     "question": "The mass spectrum of a sample of an element has only two peaks. What is the approximate relative atomic mass? Options A 191.5, B 192.0, C 192.5, D 193.0. (The spectrum is not included in the extracted text.)",
+     "question": "The mass spectrum of a sample of an element has only two peaks. What is the approximate relative atomic mass? Options A 191.5, B 192.0, C 192.5, D 193.0. (The spectrum is shown in the figure below.)",
      "status": "ready",
      "answer": "C: 192.5",
      "steps": [
@@ -4599,7 +4599,7 @@ window.BANK.chemistry = {
       "mass number",
       "isotopes"
      ],
-     "question": "Which of these atoms has the most neutrons? (The options are not included in the extracted text.)",
+     "question": "Which of these atoms has the most neutrons? (The options are shown in the figure below.)",
      "status": "ready",
      "answer": "B: 124Sn",
      "steps": [
@@ -4653,7 +4653,7 @@ window.BANK.chemistry = {
       "equation",
       "gas phase"
      ],
-     "question": "Which equation represents the second ionisation energy of chlorine? (The options are not included in the extracted text.)",
+     "question": "Which equation represents the second ionisation energy of chlorine? (The options are shown in the figure below.)",
      "status": "ready",
      "answer": "Cl+(g) -> Cl2+(g) + e-",
      "steps": [
@@ -4793,7 +4793,7 @@ window.BANK.chemistry = {
       "two decimal places",
       "abundance"
      ],
-     "question": "A sample of sulfur contains four isotopes (abundance data not included in the extracted text). Calculate the relative atomic mass to two decimal places.",
+     "question": "A sample of sulfur contains four isotopes (abundance data shown in the figure below). Calculate the relative atomic mass to two decimal places.",
      "status": "ready",
      "answer": "32.09",
      "steps": [
@@ -4823,7 +4823,7 @@ window.BANK.chemistry = {
       "number of atoms",
       "32S"
      ],
-     "question": "Calculate the number of sulfur atoms in the molecular ion shown in the mass spectrum of 32S (the spectrum is not included in the extracted text).",
+     "question": "Calculate the number of sulfur atoms in the molecular ion shown in the mass spectrum of 32S (the spectrum is shown in the figure below).",
      "status": "ready",
      "answer": "8 sulfur atoms (the molecular ion is S8+ at m/z 256)",
      "steps": [
@@ -4852,7 +4852,7 @@ window.BANK.chemistry = {
       "fragment",
       "S+"
      ],
-     "question": "Suggest the formula of the most stable ion shown by the sulfur mass spectrum (the spectrum is not included in the extracted text).",
+     "question": "Suggest the formula of the most stable ion shown by the sulfur mass spectrum (the spectrum is shown in the figure below).",
      "status": "ready",
      "answer": "S2+ (the tallest peak, at m/z 64)",
      "steps": [
@@ -4880,7 +4880,7 @@ window.BANK.chemistry = {
       "elements",
       "giant structures"
      ],
-     "question": "In which series are the elements in order of increasing melting temperature? (The options are not included in the extracted text.)",
+     "question": "In which series are the elements in order of increasing melting temperature? (The options are shown in the figure below.)",
      "status": "ready",
      "answer": "B: Li < Be < B < C",
      "steps": [
@@ -4965,7 +4965,7 @@ window.BANK.chemistry = {
       "electrons",
       "table"
      ],
-     "question": "Complete the table of subatomic particles in the atoms of the copper isotopes 63Cu and 65Cu (table not included in the extracted text).",
+     "question": "Complete the table of subatomic particles in the atoms of the copper isotopes 63Cu and 65Cu (table shown in the figure below).",
      "status": "ready",
      "answer": "63Cu: 29 protons, 34 neutrons, 29 electrons; 65Cu: 29 protons, 36 neutrons, 29 electrons",
      "steps": [
@@ -5136,7 +5136,7 @@ window.BANK.chemistry = {
       "1s2 2s2 2p3",
       "7 electrons"
      ],
-     "question": "What is the electronic configuration of a nitrogen atom? (Options are not included in the extracted text.)",
+     "question": "What is the electronic configuration of a nitrogen atom? (Options are shown in the figure below.)",
      "status": "ready",
      "answer": "1s2 2s2 2p3",
      "steps": [
@@ -5191,7 +5191,7 @@ window.BANK.chemistry = {
       "graph",
       "element U V W X"
      ],
-     "question": "Which element has only one p orbital containing a pair of electrons? Options A U, B V, C W, D X. (The graph of first ionisation energies is not included in the extracted text.)",
+     "question": "Which element has only one p orbital containing a pair of electrons? Options A U, B V, C W, D X. (The graph of first ionisation energies is shown in the figure below.)",
      "status": "ready",
      "answer": "B: element V",
      "steps": [
@@ -5219,7 +5219,7 @@ window.BANK.chemistry = {
       "graph",
       "element S X Y Z"
      ],
-     "question": "Which element is the least reactive? Options A S, B X, C Y, D Z. (The graph is not included in the extracted text.)",
+     "question": "Which element is the least reactive? Options A S, B X, C Y, D Z. (The graph is shown in the figure below.)",
      "status": "ready",
      "answer": "B: element X",
      "steps": [
@@ -5246,7 +5246,7 @@ window.BANK.chemistry = {
       "graph",
       "S T X Y"
      ],
-     "question": "Which element has the greatest second ionisation energy? Options A S, B T, C X, D Y. (The graph is not included in the extracted text.)",
+     "question": "Which element has the greatest second ionisation energy? Options A S, B T, C X, D Y. (The graph is shown in the figure below.)",
      "status": "ready",
      "answer": "D: element Y",
      "steps": [
@@ -5359,7 +5359,7 @@ window.BANK.chemistry = {
       "shells",
       "jump"
      ],
-     "question": "All the successive ionisation energies of nitrogen are shown in a table (not included in the extracted text). Explain the trend in the successive ionisation energies of nitrogen.",
+     "question": "All the successive ionisation energies of nitrogen are shown in a table (shown in the figure below). Explain the trend in the successive ionisation energies of nitrogen.",
      "status": "ready",
      "answer": "Each successive IE is higher because electrons are removed from an increasingly positive ion, so the remaining electrons are held more strongly; there is a large jump when an electron is removed from a new, inner shell.",
      "steps": [
@@ -5388,7 +5388,7 @@ window.BANK.chemistry = {
       "ions",
       "diagram"
      ],
-     "question": "In which region of this mass spectrometer are the ions accelerated? Options A region P, B region Q, C region R, D region S. (The diagram is not included in the extracted text.)",
+     "question": "In which region of this mass spectrometer are the ions accelerated? Options A region P, B region Q, C region R, D region S. (The diagram is shown in the figure below.)",
      "status": "ready",
      "answer": "B: region Q",
      "steps": [
@@ -5418,7 +5418,7 @@ window.BANK.chemistry = {
       "m/z",
       "deflection"
      ],
-     "question": "Four iron ions (54Fe+, 54Fe2+, 56Fe+, 56Fe2+) follow paths shown in a diagram. Which ion follows path 1? (The path diagram is not included in the extracted text.)",
+     "question": "Four iron ions (54Fe+, 54Fe2+, 56Fe+, 56Fe2+) follow paths shown in a diagram. Which ion follows path 1? (The path diagram is shown in the figure below.)",
      "status": "ready",
      "answer": "B: 54Fe2+",
      "steps": [
@@ -5475,7 +5475,7 @@ window.BANK.chemistry = {
       "d electrons",
       "electron configuration"
      ],
-     "question": "The element manganese has atomic number Z = 25. What are the numbers of s, p and d electrons in an atom of manganese? (Options are not included in the extracted text.)",
+     "question": "The element manganese has atomic number Z = 25. What are the numbers of s, p and d electrons in an atom of manganese? (Options are shown in the figure below.)",
      "status": "ready",
      "answer": "8 s electrons, 12 p electrons, 5 d electrons",
      "steps": [
@@ -5557,7 +5557,7 @@ window.BANK.chemistry = {
       "atom",
       "symbol missing"
      ],
-     "question": "An atom of (symbol missing from the extracted text) forms a nitride ion, N3-. What are the numbers of protons, neutrons and electrons in this ion?",
+     "question": "An atom of (symbol shown in the figure below) forms a nitride ion, N3-. What are the numbers of protons, neutrons and electrons in this ion?",
      "status": "ready",
      "answer": "C: 7 protons, 8 neutrons and 10 electrons",
      "steps": [
@@ -5584,7 +5584,7 @@ window.BANK.chemistry = {
       "1s2 2s2 2p4",
       "8 electrons"
      ],
-     "question": "What is the electronic configuration of an oxygen atom in its ground state? (Options are not included in the extracted text.)",
+     "question": "What is the electronic configuration of an oxygen atom in its ground state? (Options are shown in the figure below.)",
      "status": "ready",
      "answer": "1s2 2s2 2p4",
      "steps": [
@@ -5612,7 +5612,7 @@ window.BANK.chemistry = {
       "Ar",
       "ground state"
      ],
-     "question": "Which is the electronic configuration of chromium? (Options are not included in the extracted text.)",
+     "question": "Which is the electronic configuration of chromium? (Options are shown in the figure below.)",
      "status": "ready",
      "answer": "[Ar] 3d5 4s1",
      "steps": [
@@ -5693,7 +5693,7 @@ window.BANK.chemistry = {
       "charge",
       "symbol missing"
      ],
-     "question": "How many neutrons and electrons are there in the ion shown? (The symbol and options are missing from the extracted text.)",
+     "question": "How many neutrons and electrons are there in the ion shown? (The symbol and options are shown in the figure below.)",
      "status": "ready",
      "answer": "A: 111 neutrons and 77 electrons",
      "steps": [
@@ -5771,7 +5771,7 @@ window.BANK.chemistry = {
       "zaratite",
       "formula missing"
      ],
-     "question": "Calculate the relative formula mass of basic nickel(II) carbonate. (The formula is missing from the extracted text.)",
+     "question": "Calculate the relative formula mass of basic nickel(II) carbonate. (The formula is shown in the figure below.)",
      "status": "ready",
      "answer": "376.1",
      "steps": [
@@ -5800,7 +5800,7 @@ window.BANK.chemistry = {
       "by mass",
       "equation missing"
      ],
-     "question": "Calculate the atom economy by mass for the formation of basic nickel(II) carbonate by the reaction shown. (The equation is missing from the extracted text.)",
+     "question": "Calculate the atom economy by mass for the formation of basic nickel(II) carbonate by the reaction shown. (The equation is shown in the figure below.)",
      "status": "ready",
      "answer": "46.9%",
      "steps": [
@@ -5882,7 +5882,7 @@ window.BANK.chemistry = {
       "spectator ions",
       "formation"
      ],
-     "question": "Write the ionic equation for the formation of basic nickel(II) carbonate from nickel(II) sulfate. State symbols are not required. (The full equation is missing from the extracted text.)",
+     "question": "Write the ionic equation for the formation of basic nickel(II) carbonate from nickel(II) sulfate. State symbols are not required. (The full equation is shown in the figure below.)",
      "status": "ready",
      "answer": "3Ni2+ + CO3 2- + 4OH- + 4H2O -> Ni3CO3(OH)4.4H2O",
      "steps": [
@@ -5967,7 +5967,7 @@ window.BANK.chemistry = {
       "electrons",
       "atom symbol missing"
      ],
-     "question": "An atom of (symbol and mass number missing from the extracted text) forms the ion Al3+. What are the numbers of protons, electrons and neutrons in this ion?",
+     "question": "An atom of (symbol and mass number shown in the figure below) forms the ion Al3+. What are the numbers of protons, electrons and neutrons in this ion?",
      "status": "ready",
      "answer": "D: 13 protons, 10 electrons, 14 neutrons",
      "steps": [
@@ -5996,7 +5996,7 @@ window.BANK.chemistry = {
       "92.8",
       "91.2"
      ],
-     "question": "The mass spectrum of an element is shown. What is the relative atomic mass of this element? Options A 90.0, B 90.9, C 91.2, D 92.8. (The spectrum is not included in the extracted text.)",
+     "question": "The mass spectrum of an element is shown. What is the relative atomic mass of this element? Options A 90.0, B 90.9, C 91.2, D 92.8. (The spectrum is shown in the figure below.)",
      "status": "ready",
      "answer": "C: 91.2",
      "steps": [
@@ -6024,7 +6024,7 @@ window.BANK.chemistry = {
       "P Q R S",
       "diagram"
      ],
-     "question": "In which region of a mass spectrometer are particles ionised? Options A region P, B region Q, C region R, D region S. (The diagram is not included in the extracted text.)",
+     "question": "In which region of a mass spectrometer are particles ionised? Options A region P, B region Q, C region R, D region S. (The diagram is shown in the figure below.)",
      "status": "ready",
      "answer": "B: region Q",
      "steps": [
@@ -6279,7 +6279,7 @@ window.BANK.chemistry = {
       "7 electrons",
       "ground state"
      ],
-     "question": "Which is the electronic configuration of nitrogen? (Options are not included in the extracted text.)",
+     "question": "Which is the electronic configuration of nitrogen? (Options are shown in the figure below.)",
      "status": "ready",
      "answer": "1s2 2s2 2p3",
      "steps": [
@@ -6360,7 +6360,7 @@ window.BANK.chemistry = {
       "paired electrons",
       "trend"
      ],
-     "question": "Explain the changes in first ionisation energy for the elements with atomic numbers 3 to 10. (The graph is not included in the extracted text.)",
+     "question": "Explain the changes in first ionisation energy for the elements with atomic numbers 3 to 10. (The graph is shown in the figure below.)",
      "status": "ready",
      "answer": "IE rises from Li to Be (nuclear charge increases in the same shell), falls at B (2p electron is higher in energy and more shielded than 2s), rises to N (increasing nuclear charge), falls at O (repulsion between paired 2p electrons), then rises to Ne.",
      "steps": [
@@ -6478,7 +6478,7 @@ window.BANK.chemistry = {
       "abundance",
       "20.18"
      ],
-     "question": "A sample of neon contains the isotopes shown (not included in the extracted text). What is the relative atomic mass of neon to two decimal places? Options A 20.00, B 20.09, C 20.18, D 21.00.",
+     "question": "A sample of neon contains the isotopes shown (shown in the figure below). What is the relative atomic mass of neon to two decimal places? Options A 20.00, B 20.09, C 20.18, D 21.00.",
      "status": "ready",
      "answer": "C: 20.18",
      "steps": [
@@ -6506,7 +6506,7 @@ window.BANK.chemistry = {
       "table of particle masses",
       "proton electron mass"
      ],
-     "question": "An atom of hydrogen is 1H. What is its mass in grams? Options A 1.6725 x 10^-24, B 1.6734 x 10^-24, C 3.3473 x 10^-24, D 3.3482 x 10^-24. (The table of particle masses is not included in the extracted text.)",
+     "question": "An atom of hydrogen is 1H. What is its mass in grams? Options A 1.6725 x 10^-24, B 1.6734 x 10^-24, C 3.3473 x 10^-24, D 3.3482 x 10^-24. (The table of particle masses is shown in the figure below.)",
      "status": "ready",
      "answer": "B: 1.6734 x 10^-24 g",
      "steps": [
@@ -6692,7 +6692,7 @@ window.BANK.chemistry = {
       "three significant figures",
       "28Si 29Si 30Si"
      ],
-     "question": "Calculate the relative atomic mass of a sample of silicon using the isotopic abundance data (the data are not included in the extracted text), to 3 significant figures.",
+     "question": "Calculate the relative atomic mass of a sample of silicon using the isotopic abundance data (the data are shown in the figure below), to 3 significant figures.",
      "status": "ready",
      "answer": "28.2",
      "steps": [
@@ -6807,7 +6807,7 @@ window.BANK.chemistry = {
       "2p3",
       "options"
      ],
-     "question": "Which diagram represents the electronic structure of a nitrogen atom? (The diagram options are not included in the extracted text.)",
+     "question": "Which diagram represents the electronic structure of a nitrogen atom? (The diagram options are shown in the figure below.)",
      "status": "ready",
      "answer": "C: 1s2 2s2 2p3 with one electron in each 2p orbital",
      "steps": [
@@ -6890,7 +6890,7 @@ window.BANK.chemistry = {
       "abundance",
       "germanium-76"
      ],
-     "question": "Germanium has five isotopes; the fifth is germanium-76 (radioactive). Calculate the mass number of the fifth isotope, given Ar = 72.6 and the data for the other four (table not included in the extracted text).",
+     "question": "Germanium has five isotopes; the fifth is germanium-76 (radioactive). Calculate the mass number of the fifth isotope, given Ar = 72.6 and the data for the other four (table shown in the figure below).",
      "status": "ready",
      "answer": "72 (71.6 before rounding), so the fifth isotope is 72Ge",
      "steps": [
@@ -7123,7 +7123,7 @@ window.BANK.chemistry = {
       "outer electrons",
       "data"
      ],
-     "question": "The first seven ionisation energies for an element in Period 3 are shown (data not included in the extracted text). Deduce the identity of the element, with a reason.",
+     "question": "The first seven ionisation energies for an element in Period 3 are shown (data shown in the figure below). Deduce the identity of the element, with a reason.",
      "status": "ready",
      "answer": "Sulfur: there is a large jump between the 6th and 7th ionisation energies, so six outer electrons, giving Group 6 in Period 3",
      "steps": [
@@ -7180,7 +7180,7 @@ window.BANK.chemistry = {
       "grid",
       "elements Li to Ne"
      ],
-     "question": "Plot the first ionisation energies of the Period 2 elements on the grid provided (data not included in the extracted text).",
+     "question": "Plot the first ionisation energies of the Period 2 elements on the grid provided (data shown in the figure below).",
      "status": "ready",
      "answer": "Graph of first ionisation energy (y-axis) against element (x-axis) for Li to Ne: general rise with dips at B (801) and O (1314)",
      "steps": [
@@ -7268,7 +7268,7 @@ window.BANK.chemistry = {
       "table",
       "row"
      ],
-     "question": "Which row shows the numbers of neutrons and electrons in a bromide ion, 79Br-? (The table of rows is not included in the extracted text.)",
+     "question": "Which row shows the numbers of neutrons and electrons in a bromide ion, 79Br-? (The table of rows is shown in the figure below.)",
      "status": "ready",
      "answer": "B: 44 neutrons and 36 electrons",
      "steps": [
@@ -7297,7 +7297,7 @@ window.BANK.chemistry = {
       "detection",
       "vaporisation"
      ],
-     "question": "Which is the correct order for the processes in a mass spectrometer? (The options are not included in the extracted text.)",
+     "question": "Which is the correct order for the processes in a mass spectrometer? (The options are shown in the figure below.)",
      "status": "ready",
      "answer": "B: vaporisation, ionisation, deflection, detection",
      "steps": [
@@ -7360,7 +7360,7 @@ window.BANK.chemistry = {
       "diagram",
       "polar bond"
      ],
-     "question": "Which diagram best represents the electron density map of a hydrogen chloride molecule? (The diagram options are not included in the extracted text.)",
+     "question": "Which diagram best represents the electron density map of a hydrogen chloride molecule? (The diagram options are shown in the figure below.)",
      "status": "ready",
      "answer": "C: contours around both nuclei, closer together and more numerous round the larger Cl nucleus",
      "steps": [
@@ -7387,7 +7387,7 @@ window.BANK.chemistry = {
       "ionic bonding",
       "MgCl2"
      ],
-     "question": "Which is the dot-and-cross diagram for magnesium chloride, showing only outer shell electrons? (The diagram options are not included in the extracted text.)",
+     "question": "Which is the dot-and-cross diagram for magnesium chloride, showing only outer shell electrons? (The diagram options are shown in the figure below.)",
      "status": "ready",
      "answer": "D: Mg2+ with 8 outer electrons in square brackets, flanked by two [Cl]- ions each with 8 electrons",
      "steps": [
@@ -7442,7 +7442,7 @@ window.BANK.chemistry = {
       "lattice",
       "small ions"
      ],
-     "question": "Some ionic radii are shown (not included in the extracted text). Which compound has the strongest ionic bonding? A sodium fluoride; B sodium chloride; C potassium fluoride; D potassium chloride.",
+     "question": "Some ionic radii are shown (shown in the figure below). Which compound has the strongest ionic bonding? A sodium fluoride; B sodium chloride; C potassium fluoride; D potassium chloride.",
      "status": "ready",
      "answer": "A (sodium fluoride)",
      "steps": [
@@ -8005,7 +8005,7 @@ window.BANK.chemistry = {
       "intermolecular forces",
       "table"
      ],
-     "question": "Which row in the table shows the correct forces in a crystal of lithium iodide? (The table is not included in the extracted text.)",
+     "question": "Which row in the table shows the correct forces in a crystal of lithium iodide? (The table is shown in the figure below.)",
      "status": "ready",
      "answer": "D: attractive forces, repulsive forces and some covalent character all present",
      "steps": [
@@ -8169,7 +8169,7 @@ window.BANK.chemistry = {
       "positive electrode",
       "migration"
      ],
-     "question": "A direct current is passed through a green solution of copper(II) chromate(VI). Which colours would be seen at each electrode after several minutes? (The options are not included in the extracted text.)",
+     "question": "A direct current is passed through a green solution of copper(II) chromate(VI). Which colours would be seen at each electrode after several minutes? (The options are shown in the figure below.)",
      "status": "ready",
      "answer": "Blue at the negative electrode (Cu2+ ions); yellow at the positive electrode (chromate ions)",
      "steps": [
@@ -8283,7 +8283,7 @@ window.BANK.chemistry = {
       "migration",
       "electrophoresis"
      ],
-     "question": "A piece of filter paper soaked in water has green copper(II) chromate(VI) crystals placed in the centre and is connected to a 20 V DC supply. What colours are observed on the paper after a few minutes? (The options are not included in the extracted text.)",
+     "question": "A piece of filter paper soaked in water has green copper(II) chromate(VI) crystals placed in the centre and is connected to a 20 V DC supply. What colours are observed on the paper after a few minutes? (The options are shown in the figure below.)",
      "status": "ready",
      "answer": "Blue towards the negative electrode and yellow towards the positive electrode",
      "steps": [
@@ -8314,7 +8314,7 @@ window.BANK.chemistry = {
       "nitride to aluminium",
       "data table"
      ],
-     "question": "Plot a graph of the ionic radii data for the ions of successive elements (the data table is not included in the extracted text).",
+     "question": "Plot a graph of the ionic radii data for the ions of successive elements (the data table is shown in the figure below).",
      "status": "ready",
      "answer": "Graph of ionic radius / pm (y-axis) against ion (x-axis, N3- to Al3+ with a gap for Ne) with a straight line of best fit falling from 171 pm at N3- to 54 pm at Al3+",
      "steps": [
@@ -8491,7 +8491,7 @@ window.BANK.chemistry = {
       "letters",
       "elements R T U V W X Y Z"
      ],
-     "question": "An outline of part of the Periodic Table is shown with letters that are not element symbols. Which elements are in the s-block? A R and U; B T and Y; C V and W; D X and Z. (The table outline is not included in the extracted text.)",
+     "question": "An outline of part of the Periodic Table is shown with letters that are not element symbols. Which elements are in the s-block? A R and U; B T and Y; C V and W; D X and Z. (The table outline is shown in the figure below.)",
      "status": "ready",
      "answer": "A: R and U",
      "steps": [
@@ -8517,7 +8517,7 @@ window.BANK.chemistry = {
       "periodic table outline",
       "letters V X Y Z"
      ],
-     "question": "Which element has four occupied quantum shells, with six electrons in the outermost shell? A V; B X; C Y; D Z. (The table outline is not included in the extracted text.)",
+     "question": "Which element has four occupied quantum shells, with six electrons in the outermost shell? A V; B X; C Y; D Z. (The table outline is shown in the figure below.)",
      "status": "ready",
      "answer": "C: element Y",
      "steps": [
@@ -8543,7 +8543,7 @@ window.BANK.chemistry = {
       "R+ T2- U2+ W- Y2-",
       "periodic table outline"
      ],
-     "question": "In which pair do the ions have the same electronic configuration? A R+ and T2-; B T2- and Y2-; C U2+ and T2-; D U2+ and W-. (The table outline is not included in the extracted text.)",
+     "question": "In which pair do the ions have the same electronic configuration? A R+ and T2-; B T2- and Y2-; C U2+ and T2-; D U2+ and W-. (The table outline is shown in the figure below.)",
      "status": "ready",
      "answer": "C: U2+ and T2-",
      "steps": [
@@ -8570,7 +8570,7 @@ window.BANK.chemistry = {
       "elements P Q R S",
       "graph"
      ],
-     "question": "The first ionisation energies of four successive elements P, Q, R and S are shown (data not included in the extracted text). Which element has atoms with a full outer shell of electrons? A P; B Q; C R; D S.",
+     "question": "The first ionisation energies of four successive elements P, Q, R and S are shown (data shown in the figure below). Which element has atoms with a full outer shell of electrons? A P; B Q; C R; D S.",
      "status": "ready",
      "answer": "B: element Q",
      "steps": [
@@ -8597,7 +8597,7 @@ window.BANK.chemistry = {
       "element P Q R S",
       "non-metal"
      ],
-     "question": "Which element could be X in a gaseous covalent compound with the formula HX? A P; B Q; C R; D S. (The first ionisation energy data are not included in the extracted text.)",
+     "question": "Which element could be X in a gaseous covalent compound with the formula HX? A P; B Q; C R; D S. (The first ionisation energy data are shown in the figure below.)",
      "status": "ready",
      "answer": "A: element P",
      "steps": [
@@ -8623,7 +8623,7 @@ window.BANK.chemistry = {
       "element P Q R S",
       "group 2"
      ],
-     "question": "Which element could be Y in an ionic compound with the formula YF2? A P; B Q; C R; D S. (The first ionisation energy data are not included in the extracted text.)",
+     "question": "Which element could be Y in an ionic compound with the formula YF2? A P; B Q; C R; D S. (The first ionisation energy data are shown in the figure below.)",
      "status": "ready",
      "answer": "D: element S",
      "steps": [
@@ -8649,7 +8649,7 @@ window.BANK.chemistry = {
       "first ionisation energies",
       "elements P Q R S"
      ],
-     "question": "Which element has atoms with the largest atomic radius? A P; B Q; C R; D S. (The first ionisation energy data are not included in the extracted text.)",
+     "question": "Which element has atoms with the largest atomic radius? A P; B Q; C R; D S. (The first ionisation energy data are shown in the figure below.)",
      "status": "ready",
      "answer": "C: element R",
      "steps": [
@@ -8841,7 +8841,7 @@ window.BANK.chemistry = {
       "ionisation number",
       "log values"
      ],
-     "question": "Complete the table of successive ionisation energies of nitrogen (the table values are not included in the extracted text).",
+     "question": "Complete the table of successive ionisation energies of nitrogen (the table values are shown in the figure below).",
      "status": "ready",
      "answer": "log (ionisation energy): 6th = 4.73 and 7th = 4.81",
      "steps": [
@@ -8870,7 +8870,7 @@ window.BANK.chemistry = {
       "graph",
       "plot"
      ],
-     "question": "Plot a graph of log(ionisation energy) against ionisation number for nitrogen (the data are not included in the extracted text).",
+     "question": "Plot a graph of log(ionisation energy) against ionisation number for nitrogen (the data are shown in the figure below).",
      "status": "ready",
      "answer": "Graph of log (ionisation energy) against ionisation number: seven points from 3.15 at 1 to 4.81 at 7, with a large jump between the 5th and 6th points",
      "steps": [
@@ -8931,7 +8931,7 @@ window.BANK.chemistry = {
       "shells",
       "log ionisation energy"
      ],
-     "question": "Explain what can be deduced from the graph about the electronic structure of nitrogen. (The graph is not included in the extracted text.)",
+     "question": "Explain what can be deduced from the graph about the electronic structure of nitrogen. (The graph is shown in the figure below.)",
      "status": "ready",
      "answer": "Nitrogen has 5 electrons in its outer shell (the second shell) and 2 in the inner shell, so its electronic structure is 2,5",
      "steps": [
@@ -9217,7 +9217,7 @@ window.BANK.chemistry = {
       "isotope ratio",
       "fluorine 19"
      ],
-     "question": "Complete the mass spectrum to show the peaks expected for the molecular ion ClF3+. Fluorine has one isotope, 19F. (The spectrum grid is not included in the extracted text.)",
+     "question": "Complete the mass spectrum to show the peaks expected for the molecular ion ClF3+. Fluorine has one isotope, 19F. (The spectrum grid is shown in the figure below.)",
      "status": "ready",
      "answer": "Two peaks: m/z 92 (35Cl19F3+) and m/z 94 (37Cl19F3+), in an approximate ratio of 3 : 1.",
      "steps": [
@@ -9358,7 +9358,7 @@ window.BANK.chemistry = {
       "non-polar molecule",
       "symmetry"
      ],
-     "question": "Which is correct for tetrafluoromethane (CF4)? (The options are not included in the extracted text.)",
+     "question": "Which is correct for tetrafluoromethane (CF4)? (The options are shown in the figure below.)",
      "status": "ready",
      "answer": "C-F bonds are polar, but the tetrahedral CF4 molecule is non-polar because its bond dipoles cancel.",
      "steps": [
@@ -9386,7 +9386,7 @@ window.BANK.chemistry = {
       "polar bond",
       "HCl"
      ],
-     "question": "Which diagram best represents the electron density in a molecule of hydrogen chloride? (The diagram options are not included in the extracted text.)",
+     "question": "Which diagram best represents the electron density in a molecule of hydrogen chloride? (The diagram options are shown in the figure below.)",
      "status": "ready",
      "answer": "D: overlapping clouds with the larger Cl cloud overlapping the smaller H cloud",
      "steps": [
@@ -9443,7 +9443,7 @@ window.BANK.chemistry = {
       "non-polar",
       "table"
      ],
-     "question": "Which row gives the correct polarities of the S-F bond and the SF6 molecule? (The table of rows is not included in the extracted text.)",
+     "question": "Which row gives the correct polarities of the S-F bond and the SF6 molecule? (The table of rows is shown in the figure below.)",
      "status": "ready",
      "answer": "B: S-F bond polar, SF6 molecule non-polar",
      "steps": [
@@ -9526,7 +9526,7 @@ window.BANK.chemistry = {
       "two decimal places",
       "isotope abundances"
      ],
-     "question": "Calculate the relative atomic mass of silicon to two decimal places using the mass spectrum data (the data are shown in a figure not included in the extracted text).",
+     "question": "Calculate the relative atomic mass of silicon to two decimal places using the mass spectrum data (the data are shown in a figure shown in the figure below).",
      "status": "ready",
      "answer": "28.11",
      "steps": [
@@ -9585,7 +9585,7 @@ window.BANK.chemistry = {
       "table",
       "mass numbers"
      ],
-     "question": "Complete the table to show the number of protons and neutrons in each isotope of silicon (the table and isotope mass numbers are not included in the extracted text).",
+     "question": "Complete the table to show the number of protons and neutrons in each isotope of silicon (the table and isotope mass numbers are shown in the figure below).",
      "status": "ready",
      "answer": "28Si: 14 protons, 14 neutrons; 29Si: 14 protons, 15 neutrons; 30Si: 14 protons, 16 neutrons",
      "steps": [
@@ -9835,7 +9835,7 @@ window.BANK.chemistry = {
       "bridging chlorine",
       "structure"
      ],
-     "question": "At 180 C, aluminium chloride exists as Al2Cl6. What is the structure of Al2Cl6? (The options are not included in the extracted text.)",
+     "question": "At 180 C, aluminium chloride exists as Al2Cl6. What is the structure of Al2Cl6? (The options are shown in the figure below.)",
      "status": "ready",
      "answer": "Two AlCl3 units joined by dative covalent bonds, forming a dimer with two bridging Cl atoms, so each Al is surrounded tetrahedrally by four Cl atoms (option C: the dative-bond arrows point from the bridging Cl atoms towards the Al atoms).",
      "steps": [
@@ -9891,7 +9891,7 @@ window.BANK.chemistry = {
       "electrons",
       "table"
      ],
-     "question": "Complete the table of subatomic particles in the two isotopes of bromine, 79Br and 81Br (table not included in the extracted text).",
+     "question": "Complete the table of subatomic particles in the two isotopes of bromine, 79Br and 81Br (table shown in the figure below).",
      "status": "ready",
      "answer": "79Br: 35 protons, 44 neutrons, 35 electrons; 81Br: 35 protons, 46 neutrons, 35 electrons (for neutral atoms)",
      "steps": [
@@ -9977,7 +9977,7 @@ window.BANK.chemistry = {
       "peak heights",
       "1 2 1"
      ],
-     "question": "On the mass spectrum grid, draw the peaks for the bromine molecular ions, showing relative peak heights. The bromine isotopes in this sample have the same relative abundance. (The grid is not included in the extracted text.)",
+     "question": "On the mass spectrum grid, draw the peaks for the bromine molecular ions, showing relative peak heights. The bromine isotopes in this sample have the same relative abundance. (The grid is shown in the figure below.)",
      "status": "ready",
      "answer": "Three peaks at m/z 158 (79Br2+), 160 (79Br81Br+) and 162 (81Br2+), with relative heights 1 : 2 : 1.",
      "steps": [
@@ -10007,7 +10007,7 @@ window.BANK.chemistry = {
       "isotopes",
       "Br2"
      ],
-     "question": "Calculate the relative molecular mass of a different bromine sample, given the percentage abundances of its isotopes (the abundance data are not included in the extracted text), to two decimal places.",
+     "question": "Calculate the relative molecular mass of a different bromine sample, given the percentage abundances of its isotopes (the abundance data are shown in the figure below), to two decimal places.",
      "status": "ready",
      "answer": "159.74",
      "steps": [
@@ -10066,7 +10066,7 @@ window.BANK.chemistry = {
       "diagram",
       "NaCl"
      ],
-     "question": "Which diagram best represents the electron density map of sodium chloride? (The diagram options are not included in the extracted text.)",
+     "question": "Which diagram best represents the electron density map of sodium chloride? (The diagram options are shown in the figure below.)",
      "status": "ready",
      "answer": "A: two separate sets of contours with no shared contour, the Cl- cloud larger than the Na+ cloud",
      "steps": [
@@ -10201,7 +10201,7 @@ window.BANK.chemistry = {
       "dative covalent",
       "bonding types"
      ],
-     "question": "What types of bonding are present in the compound ammonium chloride, NH4Cl? (The options are not included in the extracted text.)",
+     "question": "What types of bonding are present in the compound ammonium chloride, NH4Cl? (The options are shown in the figure below.)",
      "status": "ready",
      "answer": "Ionic bonding between NH4+ and Cl-, plus covalent and dative covalent bonds within the NH4+ ion.",
      "steps": [
@@ -10256,7 +10256,7 @@ window.BANK.chemistry = {
       "non-polar molecule",
       "bond polarity"
      ],
-     "question": "Which describes the polarity of the C-Cl bond and the polarity of the CCl4 molecule? (The options are not included in the extracted text.)",
+     "question": "Which describes the polarity of the C-Cl bond and the polarity of the CCl4 molecule? (The options are shown in the figure below.)",
      "status": "ready",
      "answer": "The C-Cl bond is polar, but the tetrahedral CCl4 molecule is non-polar because the bond dipoles cancel.",
      "steps": [
@@ -10372,7 +10372,7 @@ window.BANK.chemistry = {
       "covalent",
       "polarisation"
      ],
-     "question": "Explain the difference in bonding between barium chloride and beryllium chloride, using the electronegativity values shown. (The electronegativity values are not included in the extracted text.)",
+     "question": "Explain the difference in bonding between barium chloride and beryllium chloride, using the electronegativity values shown. (The electronegativity values are shown in the figure below.)",
      "status": "ready",
      "answer": "BaCl2 is ionic (electronegativity difference 2.1), whereas BeCl2 has a smaller difference (1.5) and so has polar covalent character",
      "steps": [
@@ -10431,7 +10431,7 @@ window.BANK.chemistry = {
       "covalent bonds",
       "carbon"
      ],
-     "question": "Complete the dot-and-cross diagram by adding all the electrons in the outer shells of the five carbon atoms in a diamond tetrahedral unit (the diagram is not included in the extracted text).",
+     "question": "Complete the dot-and-cross diagram by adding all the electrons in the outer shells of the five carbon atoms in a diamond tetrahedral unit (the diagram is shown in the figure below).",
      "status": "ready",
      "answer": "The central C shares one electron pair with each of four outer C atoms; each outer C has 4 outer electrons, one shared with the central C and three shared with other C atoms, giving 8 electrons around every C.",
      "steps": [
@@ -10515,7 +10515,7 @@ window.BANK.chemistry = {
       "burette",
       "direction"
      ],
-     "question": "To compare polar and non-polar liquids, a stream of liquid from a burette and a positively charged plastic rod can be used. Which row of the table shows the correct direction of deflection? (The table is not included in the extracted text.)",
+     "question": "To compare polar and non-polar liquids, a stream of liquid from a burette and a positively charged plastic rod can be used. Which row of the table shows the correct direction of deflection? (The table is shown in the figure below.)",
      "status": "ready",
      "answer": "C: polar liquids are deflected towards the rod, non-polar liquids show no deflection",
      "steps": [
@@ -10623,7 +10623,7 @@ window.BANK.chemistry = {
       "identify element",
       "data table"
      ],
-     "question": "Identify the Period 3 element that has the successive ionisation energies shown (data not included in the extracted text).",
+     "question": "Identify the Period 3 element that has the successive ionisation energies shown (data shown in the figure below).",
      "status": "ready",
      "answer": "Sulfur",
      "steps": [
@@ -10652,7 +10652,7 @@ window.BANK.chemistry = {
       "diagram",
       "lithium to nitrogen"
      ],
-     "question": "Complete the diagram by putting crosses to show the approximate melting temperatures of boron and nitrogen in the Period 2 melting temperature chart (the chart is not included in the extracted text).",
+     "question": "Complete the diagram by putting crosses to show the approximate melting temperatures of boron and nitrogen in the Period 2 melting temperature chart (the chart is shown in the figure below).",
      "status": "ready",
      "answer": "Boron: cross at about 2350 K (above Be, below C); nitrogen: cross very low, about 60 K (near the x-axis)",
      "steps": [
@@ -10732,7 +10732,7 @@ window.BANK.chemistry = {
       "strongest",
       "table"
      ],
-     "question": "The melting temperatures of Al, Si, P and S are shown in a table (not included in the extracted text). Which element has the strongest intermolecular forces? A Al; B Si; C P; D S.",
+     "question": "The melting temperatures of Al, Si, P and S are shown in a table (shown in the figure below). Which element has the strongest intermolecular forces? A Al; B Si; C P; D S.",
      "status": "ready",
      "answer": "D: S",
      "steps": [
@@ -10860,7 +10860,7 @@ window.BANK.chemistry = {
       "VSEPR",
       "nitrogen trichloride"
      ],
-     "question": "Complete the table to predict the shape and Cl-N-Cl bond angle of nitrogen trichloride. The table is not in the extracted text.",
+     "question": "Complete the table to predict the shape and Cl-N-Cl bond angle of nitrogen trichloride. The table is shown in the figure below.",
      "status": "ready",
      "answer": "3 bonding pairs; 1 lone pair; trigonal pyramidal; Cl-N-Cl about 107 degrees",
      "steps": [
@@ -10950,7 +10950,7 @@ window.BANK.chemistry = {
       "VSEPR",
       "shapes of ions"
      ],
-     "question": "Which species is not tetrahedral? The answer options are missing from the extracted text.",
+     "question": "Which species is not tetrahedral? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "C: ICl4^-",
      "steps": [
@@ -11071,7 +11071,7 @@ window.BANK.chemistry = {
       "trigonal bipyramidal",
       "table"
      ],
-     "question": "Complete the table for a PCl5 molecule. The table is not in the extracted text.",
+     "question": "Complete the table for a PCl5 molecule. The table is shown in the figure below.",
      "status": "ready",
      "answer": "5 bonding pairs; 0 lone pairs; trigonal bipyramidal; Cl-P-Cl angles 90 degrees and 120 degrees",
      "steps": [
@@ -11278,7 +11278,7 @@ window.BANK.chemistry = {
       "trigonal pyramidal",
       "shape table"
      ],
-     "question": "Complete the table for a molecule of NCl3 (molecular structure, shape and bond angle). The table is not in the extracted text.",
+     "question": "Complete the table for a molecule of NCl3 (molecular structure, shape and bond angle). The table is shown in the figure below.",
      "status": "ready",
      "answer": "3 bond pairs; 1 lone pair; Cl-N-Cl about 107 degrees; trigonal pyramidal",
      "steps": [
@@ -11659,7 +11659,7 @@ window.BANK.chemistry = {
       "weighted mean",
       "Ar"
      ],
-     "question": "Calculate the relative atomic mass of germanium from the mass spectrum shown. The spectrum is not in the extracted text.",
+     "question": "Calculate the relative atomic mass of germanium from the mass spectrum shown. The spectrum is shown in the figure below.",
      "status": "ready",
      "answer": "72.7",
      "steps": [
@@ -12093,7 +12093,7 @@ window.BANK.chemistry = {
       "ion formulae",
       "table"
      ],
-     "question": "Three peaks lie between m/z 101 and 105 in the mass spectrum of PCl3. Complete the table giving the ions responsible. The table is not in the extracted text.",
+     "question": "Three peaks lie between m/z 101 and 105 in the mass spectrum of PCl3. Complete the table giving the ions responsible. The table is shown in the figure below.",
      "status": "ready",
      "answer": "m/z 101: 31P 35Cl 35Cl (+); m/z 103: 31P 35Cl 37Cl (+); m/z 105: 31P 37Cl 37Cl (+)",
      "steps": [
@@ -12125,7 +12125,7 @@ window.BANK.chemistry = {
       "PCl3 mass spectrum",
       "relative peak heights"
      ],
-     "question": "Show that the relative peak heights in the table are consistent with a 35Cl : 37Cl ratio of 3 : 1. The table values are not in the extracted text.",
+     "question": "Show that the relative peak heights in the table are consistent with a 35Cl : 37Cl ratio of 3 : 1. The table values are shown in the figure below.",
      "status": "ready",
      "answer": "Probabilities 9/16 : 6/16 : 1/16 = 9 : 6 : 1, matching the peak heights",
      "steps": [
@@ -12279,7 +12279,7 @@ window.BANK.chemistry = {
       "electron repulsion",
       "paired electrons"
      ],
-     "question": "Predict a value for the first ionisation energy of oxygen and justify it. The graph of first ionisation energies is not in the extracted text.",
+     "question": "Predict a value for the first ionisation energy of oxygen and justify it. The graph of first ionisation energies is shown in the figure below.",
      "status": "ready",
      "answer": "About 1300 kJ mol^-1 (any value between 1086 and 1402), lower than nitrogen",
      "steps": [
@@ -12480,7 +12480,7 @@ window.BANK.chemistry = {
       "molecular shapes",
       "options"
      ],
-     "question": "What are the shapes of the AlCl3 and PH3 molecules? The answer options are missing from the extracted text.",
+     "question": "What are the shapes of the AlCl3 and PH3 molecules? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "D: AlCl3 trigonal planar, PH3 pyramidal",
      "steps": [
@@ -12986,7 +12986,7 @@ window.BANK.chemistry = {
       "table",
       "bond angles"
      ],
-     "question": "Complete the table showing the shapes of S2F10 and SF4 and their F-S-F bond angles. The table is not in the extracted text.",
+     "question": "Complete the table showing the shapes of S2F10 and SF4 and their F-S-F bond angles. The table is shown in the figure below.",
      "status": "ready",
      "answer": "S2F10: octahedral around each S, F-S-F 90 degrees; SF4: see-saw, F-S-F about 90 degrees and about 120 degrees (both slightly less) with axial F-S-F slightly less than 180 degrees",
      "steps": [
@@ -15755,7 +15755,7 @@ window.BANK.chemistry = {
       "structure",
       "stereo drawing"
      ],
-     "question": "Which skeletal structure matches 3,4-dichloro-2,2-dimethylpentane? The options are skeletal structures (images) not in the text.",
+     "question": "Which skeletal structure matches 3,4-dichloro-2,2-dimethylpentane? The options are skeletal structures (images) shown in the figure below.",
      "status": "ready",
      "answer": "A",
      "steps": [
@@ -15817,7 +15817,7 @@ window.BANK.chemistry = {
       "container labels",
       "GHS"
      ],
-     "question": "Prop-2-en-1-ol is flammable, toxic and an environmental hazard. Which hazard symbols should be on its container? The options are symbol images not in the text.",
+     "question": "Prop-2-en-1-ol is flammable, toxic and an environmental hazard. Which hazard symbols should be on its container? The options are symbol images shown in the figure below.",
      "status": "ready",
      "answer": "A: flame, skull and crossbones, environmental hazard",
      "steps": [
@@ -15913,7 +15913,7 @@ window.BANK.chemistry = {
       "bottle label",
       "alkane"
      ],
-     "question": "Which hazard warning symbol would be found on a bottle of hexane? The symbol options are images not in the text.",
+     "question": "Which hazard warning symbol would be found on a bottle of hexane? The symbol options are images shown in the figure below.",
      "status": "ready",
      "answer": "A: the flammable (flame) symbol",
      "steps": [
@@ -15943,7 +15943,7 @@ window.BANK.chemistry = {
       "hairdressers",
       "pictograms"
      ],
-     "question": "Hydrogen peroxide solution causes serious eye damage, is harmful if swallowed and is an oxidising agent. Which hazard symbols should be on its containers? The symbols are images not in the text.",
+     "question": "Hydrogen peroxide solution causes serious eye damage, is harmful if swallowed and is an oxidising agent. Which hazard symbols should be on its containers? The symbols are images shown in the figure below.",
      "status": "ready",
      "answer": "A: corrosive, exclamation mark (harmful) and oxidising",
      "steps": [
@@ -20001,7 +20001,7 @@ window.BANK.chemistry = {
       "IUPAC",
       "compound X"
      ],
-     "question": "Give the systematic name of compound X, a chlorobutene drawn in a structure not present in the text.",
+     "question": "Give the systematic name of compound X, a chlorobutene drawn in a structure shown in the figure below.",
      "status": "ready",
      "answer": "A: E-2-chlorobut-2-ene",
      "steps": [
@@ -20149,14 +20149,14 @@ window.BANK.chemistry = {
       "prefix",
       "naming"
      ],
-     "question": "State the prefixes that could be used to name the geometric isomers of but-2-ene.",
+     "question": "But-2-ene shows geometric isomerism. Which prefixes could be used in naming the isomer drawn, with both CH3 groups on the same side of the C=C? Options: A cis and E, B cis and Z, C trans and E, D trans and Z.",
      "status": "ready",
-     "answer": "cis and trans (equivalently E and Z)",
+     "answer": "B: cis and Z",
      "steps": [
-      "But-2-ene has a C=C with two different groups on each carbon (H and CH3).",
-      "The two isomers have the CH3 groups on the same side (cis/Z) or opposite sides (trans/E).",
-      "Both naming systems describe the same pair of isomers.",
-      "So the prefixes are cis and trans (or E and Z)."
+      "The drawn isomer has both CH3 groups on the same side of the C=C (both at the bottom).",
+      "Same side means cis in the cis/trans system.",
+      "On each carbon the CH3 group has higher priority than H, so the two higher-priority groups are on the same side: Z.",
+      "So the prefixes are cis and Z, option B."
      ],
      "images": [
       "papers/chemistry/img/05-Alkenes-05.jpg",
@@ -20293,14 +20293,15 @@ window.BANK.chemistry = {
       "CIP priority",
       "chlorine"
      ],
-     "question": "Draw the skeletal formula of E-2-chlorobut-2-ene.",
+     "question": "Which skeletal formula is E-2-chlorobut-2-ene? Choose from the four structures A to D shown.",
      "status": "ready",
-     "answer": "CH3-C(Cl)=CH-CH3 with Cl and the C4 CH3 on opposite sides of the C=C",
+     "answer": "A: CH3-C(Cl)=CH-CH3 with Cl and the C4 methyl on opposite sides of the C=C",
      "steps": [
       "Structure: C1H3-C2(Cl)=C3H-C4H3.",
       "On C2, Cl has higher priority than CH3.",
       "On C3, CH3 (C4) has higher priority than H.",
-      "E means the Cl and the C4 methyl are on opposite sides (trans) of the C=C."
+      "E means the Cl and the C4 methyl are on opposite sides (trans) of the C=C.",
+      "Of the structures shown, A has Cl and the C4 methyl on opposite sides, so A is E. C has them on the same side (Z); B and D are 1-chlorobut-2-enes."
      ],
      "images": [
       "papers/chemistry/img/05-Alkenes-07.jpg",
@@ -23777,7 +23778,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-53.jpg",
       "papers/chemistry/img/05-Alkenes-54.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q11a.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q11a(ii)",
@@ -26559,23 +26562,23 @@ window.BANK.chemistry = {
      "id": "Ch5-B-Q25a(iii)",
      "no": "Q25(a)(iii)",
      "marks": 1,
-     "topic": "Termination Step Type",
+     "topic": "Propagation Step Type",
      "keywords": [
-      "termination",
+      "propagation",
       "radicals",
-      "combine",
       "step 3",
       "free radical",
-      "mechanism"
+      "mechanism",
+      "chain reaction"
      ],
-     "question": "Name the type of step illustrated by Step 3.",
+     "question": "Name the type of step illustrated by Step 3 (C4H9 radical + Cl2 -> C4H9Cl + Cl radical).",
      "status": "ready",
-     "answer": "Termination.",
+     "answer": "Propagation.",
      "steps": [
-      "Step 3 combines two radicals.",
-      "This removes radicals from the chain.",
-      "Combining radicals ends the chain reaction.",
-      "So termination."
+      "Step 3 has a radical (CH3CH2CH2CH2.) reacting with a molecule (Cl2).",
+      "It forms a product molecule (1-chlorobutane) and a new radical (Cl.).",
+      "One radical is used up and one is made, so the chain carries on.",
+      "So Step 3 is a propagation step."
      ],
      "images": [
       "papers/chemistry/img/05-Alkenes-86.jpg",
@@ -26589,23 +26592,23 @@ window.BANK.chemistry = {
      "id": "Ch5-B-Q25a(iv)",
      "no": "Q25(a)(iv)",
      "marks": 4,
-     "topic": "Propagation Steps Description",
+     "topic": "Termination Steps Description",
      "keywords": [
-      "propagation",
+      "termination",
       "free radical",
       "chlorination",
       "butane",
-      "chlorine radical",
+      "radicals combine",
       "examples"
      ],
-     "question": "Describe the propagation step (the other step type not shown), including two possible examples in this reaction.",
+     "question": "A different type of step, other than the ones shown, also occurs in the reaction. Describe this type of step, including two possible examples which might occur in this reaction.",
      "status": "ready",
-     "answer": "Propagation: a radical reacts with a molecule to form a new radical and product, e.g. Cl. + C4H10 -> HCl + C4H9. and C4H9. + Cl2 -> C4H9Cl + Cl.",
+     "answer": "Termination: two radicals combine to form a molecule, so no radicals are left and the chain stops. Examples: Cl. + Cl. -> Cl2; C4H9. + Cl. -> C4H9Cl; 2C4H9. -> C8H18.",
      "steps": [
-      "Propagation steps regenerate a radical, so the chain continues.",
-      "Example 1: Cl. + C4H10 -> HCl + C4H9. (H atom abstraction).",
-      "Example 2: C4H9. + Cl2 -> C4H9Cl + Cl. (Cl transferred).",
-      "Each propagation step uses one radical and produces one radical."
+      "Step 1 is initiation, and Steps 2 and 3 are propagation, so the type not shown is termination.",
+      "In termination two radicals meet and join, giving a molecule with all electrons paired.",
+      "Radicals are used up and none are made, so the chain reaction ends.",
+      "Examples in this reaction: Cl. + Cl. -> Cl2; C4H9. + Cl. -> C4H9Cl; C4H9. + C4H9. -> C8H18."
      ],
      "images": [
       "papers/chemistry/img/05-Alkenes-86.jpg",
@@ -29035,7 +29038,7 @@ window.BANK.chemistry = {
       "london forces",
       "structures"
      ],
-     "question": "Which of these isomers has the highest boiling temperature? (The isomer structures are in a diagram not present in the text.)",
+     "question": "Which of these isomers has the highest boiling temperature? (The isomer structures are in a diagram shown in the figure below.)",
      "status": "ready",
      "answer": "A: the unbranched (straight-chain) chloroalkane",
      "steps": [
@@ -29095,7 +29098,7 @@ window.BANK.chemistry = {
       "lone pair",
       "hydrogen bonding"
      ],
-     "question": "Which diagram best represents a hydrogen bond between two water molecules? (The diagrams A-D are not in the text.)",
+     "question": "Which diagram best represents a hydrogen bond between two water molecules? (The diagrams A-D are shown in the figure below.)",
      "status": "ready",
      "answer": "A: dotted line from the H of one water molecule to the O of the other, in a straight line (180 deg) with the O-H bond",
      "steps": [
@@ -29438,7 +29441,7 @@ window.BANK.chemistry = {
       "structures",
       "intermolecular forces"
      ],
-     "question": "Which of these isomers has the highest boiling temperature? (The isomer structures are in a diagram not present in the text.)",
+     "question": "Which of these isomers has the highest boiling temperature? (The isomer structures are in a diagram shown in the figure below.)",
      "status": "ready",
      "answer": "A: the unbranched (straight-chain) isomer",
      "steps": [
@@ -29468,7 +29471,7 @@ window.BANK.chemistry = {
       "increasing order",
       "table"
      ],
-     "question": "Which row shows the hydrogen halides in order of increasing boiling temperature? (The rows are in a table missing from the text.)",
+     "question": "Which row shows the hydrogen halides in order of increasing boiling temperature? (The rows are in a table shown in the figure below.)",
      "status": "ready",
      "answer": "C: HCl, HBr, HI, HF",
      "steps": [
@@ -29526,7 +29529,7 @@ window.BANK.chemistry = {
       "hydrogen bonding",
       "structures"
      ],
-     "question": "Which compound has the highest boiling temperature? (The options are in a diagram not present in the text.)",
+     "question": "Which compound has the highest boiling temperature? (The options are in a diagram shown in the figure below.)",
      "status": "ready",
      "answer": "B: propan-1-ol (CH3CH2CH2OH)",
      "steps": [
@@ -29612,7 +29615,7 @@ window.BANK.chemistry = {
       "london forces",
       "molecule structure"
      ],
-     "question": "Which intermolecular forces exist between the molecules of the compound shown? (The compound structure is in a diagram missing from the text.)",
+     "question": "Which intermolecular forces exist between the molecules of the compound shown? (The compound structure is in a diagram shown in the figure below.)",
      "status": "ready",
      "answer": "D: hydrogen bonding, permanent dipole-permanent dipole forces and London forces",
      "steps": [
@@ -29790,7 +29793,7 @@ window.BANK.chemistry = {
       "hydrogen bonds",
       "dipole-dipole"
      ],
-     "question": "Which row in the table shows the forces between the molecules in the liquid state? (The table is missing from the text.)",
+     "question": "Which row in the table shows the forces between the molecules in the liquid state? (The table is shown in the figure below.)",
      "status": "ready",
      "answer": "D: H2S (London forces and permanent dipole-permanent dipole interactions, no hydrogen bonding)",
      "steps": [
@@ -29822,7 +29825,7 @@ window.BANK.chemistry = {
       "petrol",
       "calculation"
      ],
-     "question": "Use mean bond enthalpies to calculate the enthalpy change of combustion of octane, C8H18. (The balanced equation and the bond enthalpy values are not in the text.)",
+     "question": "Use mean bond enthalpies to calculate the enthalpy change of combustion of octane, C8H18. (The balanced equation and the bond enthalpy values are shown in the figure below.)",
      "status": "ready",
      "answer": "-5144 kJ mol^-1",
      "steps": [
@@ -30002,7 +30005,7 @@ window.BANK.chemistry = {
       "structure",
       "diagram"
      ],
-     "question": "Which structure best represents a hydrogen bond between methanol and water? (The structures are in a diagram missing from the text.)",
+     "question": "Which structure best represents a hydrogen bond between methanol and water? (The structures are in a diagram shown in the figure below.)",
      "status": "ready",
      "answer": "A: dotted line from the O lone pair of methanol to the H of the water O-H, in a straight line O...H-O",
      "steps": [
@@ -30123,7 +30126,7 @@ window.BANK.chemistry = {
       "hydrogen fluoride",
       "sequence"
      ],
-     "question": "Which sequence shows the hydrogen halides in order of decreasing boiling temperature? (The sequences are missing from the text.)",
+     "question": "Which sequence shows the hydrogen halides in order of decreasing boiling temperature? (The sequences are shown in the figure below.)",
      "status": "ready",
      "answer": "B: HF > HI > HBr > HCl",
      "steps": [
@@ -30185,7 +30188,7 @@ window.BANK.chemistry = {
       "intermolecular forces",
       "structures"
      ],
-     "question": "Which is the order of increasing boiling temperature for compounds W, X, Y and Z? (A: YZXW; B: YXZW; C: WXZY; D: XWYZ.) The compounds are shown in a diagram missing from the text.",
+     "question": "Which is the order of increasing boiling temperature for compounds W, X, Y and Z? (A: YZXW; B: YXZW; C: WXZY; D: XWYZ.) The compounds are shown in a diagram shown in the figure below.",
      "status": "ready",
      "answer": "B: Y X Z W",
      "steps": [
@@ -30273,7 +30276,7 @@ window.BANK.chemistry = {
       "structures",
       "intermolecular forces"
      ],
-     "question": "Which isomer has the highest boiling temperature? (The isomer options are in a diagram missing from the text.)",
+     "question": "Which isomer has the highest boiling temperature? (The isomer options are in a diagram shown in the figure below.)",
      "status": "ready",
      "answer": "A: the unbranched (straight-chain) isomer",
      "steps": [
@@ -31213,7 +31216,7 @@ window.BANK.chemistry = {
       "options",
       "species"
      ],
-     "question": "State the oxidation number of bromine in the species shown (formula missing from the text), options +1, +3, +5, +7.",
+     "question": "State the oxidation number of bromine in the species shown (formula shown in the figure below), options +1, +3, +5, +7.",
      "status": "ready",
      "answer": "C: +5 (in BrO3-)",
      "steps": [
@@ -48993,7 +48996,7 @@ window.BANK.chemistry = {
       "dm3 mol-1 s-1",
       "rate equation"
      ],
-     "question": "For the formation of iodopropanone (propanone with iodine in acid), which statement is true? Options: A units of k are dm3 mol-1 s-1, B first order overall, C units of rate are dm3 mol-1 s-1, D doubling both concentrations quadruples the rate. The rate equation itself is not in the extracted text.",
+     "question": "For the formation of iodopropanone (propanone with iodine in acid), which statement is true? Options: A units of k are dm3 mol-1 s-1, B first order overall, C units of rate are dm3 mol-1 s-1, D doubling both concentrations quadruples the rate. The rate equation itself is shown in the figure below.",
      "status": "ready",
      "answer": "A: the units of k are dm3 mol-1 s-1",
      "steps": [
@@ -49080,7 +49083,7 @@ window.BANK.chemistry = {
       "ln k against 1/T",
       "gas constant R"
      ],
-     "question": "A graph of ln k against 1/T is plotted for a reaction. Which expression gives the activation energy Ea? Options A and C contain a minus sign and B and D a plus sign; the minus signs are garbled in the extracted text.",
+     "question": "A graph of ln k against 1/T is plotted for a reaction. Which expression gives the activation energy Ea? Options A and C contain a minus sign and B and D a plus sign; the minus signs are shown in the figure below.",
      "status": "ready",
      "answer": "C: - gradient x R",
      "steps": [
@@ -49333,7 +49336,7 @@ window.BANK.chemistry = {
       "mechanism",
       "tertiary"
      ],
-     "question": "2-bromo-2-methylbutane is hydrolysed with NaOH(aq). Which suggestion about the mechanism is correct? The four options are not in the extracted text.",
+     "question": "2-bromo-2-methylbutane is hydrolysed with NaOH(aq). Which suggestion about the mechanism is correct? The four options are shown in the figure below.",
      "status": "ready",
      "answer": "D: SN1, two steps",
      "steps": [
@@ -49394,7 +49397,7 @@ window.BANK.chemistry = {
       "mechanism",
       "enol"
      ],
-     "question": "The reaction CH3COCH3 + I2 -> CH3COCH2I + HI has rate = k[CH3COCH3][H+]. Which is a possible mechanism? Mechanism options are in diagrams not in the extracted text.",
+     "question": "The reaction CH3COCH3 + I2 -> CH3COCH2I + HI has rate = k[CH3COCH3][H+]. Which is a possible mechanism? Mechanism options are in diagrams shown in the figure below.",
      "status": "ready",
      "answer": "A",
      "steps": [
@@ -49630,7 +49633,7 @@ window.BANK.chemistry = {
       "overall order",
       "2NO + 2H2"
      ],
-     "question": "For 2NO + 2H2 -> N2 + 2H2O, which statement about the mechanism is correct? The steps are shown in a diagram not in the extracted text; options A-D are: step 3 is rate determining with overall order 2 / step 3 with order 4 / step 2 with order 2 / step 2 with order 3.",
+     "question": "For 2NO + 2H2 -> N2 + 2H2O, which statement about the mechanism is correct? The steps are shown in a diagram shown in the figure below; options A-D are: step 3 is rate determining with overall order 2 / step 3 with order 4 / step 2 with order 2 / step 2 with order 3.",
      "status": "ready",
      "answer": "D: step 2 is the rate-determining step and the overall order is 3",
      "steps": [
@@ -49710,7 +49713,7 @@ window.BANK.chemistry = {
       "straight line",
       "ammonia decomposition"
      ],
-     "question": "Which of the graphs represents a zero order reaction? The graph options are not in the extracted text.",
+     "question": "Which of the graphs represents a zero order reaction? The graph options are shown in the figure below.",
      "status": "ready",
      "answer": "A: rate against [NH3], a horizontal line",
      "steps": [
@@ -50080,7 +50083,7 @@ window.BANK.chemistry = {
       "graph",
       "four graphs"
      ],
-     "question": "Which of four graphs shows rate plotted against concentration for a zero order reaction? Graphs 1-4 are in a figure not in the extracted text.",
+     "question": "Which of four graphs shows rate plotted against concentration for a zero order reaction? Graphs 1-4 are in a figure shown in the figure below.",
      "status": "ready",
      "answer": "C: Graph 3",
      "steps": [
@@ -50106,7 +50109,7 @@ window.BANK.chemistry = {
       "straight line through origin",
       "graph"
      ],
-     "question": "Which of four graphs shows rate plotted against concentration for a first order reaction? Graphs 1-4 are in a figure not in the extracted text.",
+     "question": "Which of four graphs shows rate plotted against concentration for a first order reaction? Graphs 1-4 are in a figure shown in the figure below.",
      "status": "ready",
      "answer": "D: Graph 4",
      "steps": [
@@ -50277,7 +50280,7 @@ window.BANK.chemistry = {
       "hydrogen",
       "graph"
      ],
-     "question": "Which graph is correct for this reaction? The graphs are not in the extracted text.",
+     "question": "Which graph is correct for this reaction? The graphs are shown in the figure below.",
      "status": "ready",
      "answer": "D: rate against [NO]^2, a straight line through the origin",
      "steps": [
@@ -50333,7 +50336,7 @@ window.BANK.chemistry = {
       "order",
       "pair"
      ],
-     "question": "Two equations for the reaction of nitrogen monoxide and oxygen are shown. Which pair of rate equations could be correct? The equation options are not in the extracted text.",
+     "question": "Two equations for the reaction of nitrogen monoxide and oxygen are shown. Which pair of rate equations could be correct? The equation options are shown in the figure below.",
      "status": "ready",
      "answer": "A",
      "steps": [
@@ -50761,7 +50764,7 @@ window.BANK.chemistry = {
       "steps",
       "rate equation"
      ],
-     "question": "The first four steps of the mechanism are shown in a diagram not in the extracted text. Which is the rate-determining step? Options: A Step 1, B Step 2, C Step 3, D Step 4.",
+     "question": "The first four steps of the mechanism are shown in a diagram shown in the figure below. Which is the rate-determining step? Options: A Step 1, B Step 2, C Step 3, D Step 4.",
      "status": "ready",
      "answer": "C: Step 3",
      "steps": [
@@ -51612,7 +51615,7 @@ window.BANK.chemistry = {
       "rate determining step",
       "hydrogen peroxide"
      ],
-     "question": "Two possible mechanisms are proposed by students. Explain whether or not they are consistent with the reaction being first order. The mechanism diagrams are not in the extracted text.",
+     "question": "Two possible mechanisms are proposed by students. Explain whether or not they are consistent with the reaction being first order. The mechanism diagrams are shown in the figure below.",
      "status": "ready",
      "answer": "Mechanism 2 is consistent with first order; Mechanism 1 is not",
      "steps": [
@@ -51678,7 +51681,7 @@ window.BANK.chemistry = {
       "statements",
       "true statement"
      ],
-     "question": "The equation for an exothermic reaction is shown, and the question asks which of the options is true. The equation and options are not in the extracted text.",
+     "question": "The equation for an exothermic reaction is shown, and the question asks which of the options is true. The equation and options are shown in the figure below.",
      "status": "ready",
      "answer": "B: delta S surroundings is positive",
      "steps": [
@@ -51893,7 +51896,7 @@ window.BANK.chemistry = {
       "surroundings",
       "cement"
      ],
-     "question": "For CaCO3(s) -> CaO(s) + CO2(g), deltaH = +178 kJ mol-1, what are the signs of deltaS system and deltaS surroundings? The option list is not in the extracted text.",
+     "question": "For CaCO3(s) -> CaO(s) + CO2(g), deltaH = +178 kJ mol-1, what are the signs of deltaS system and deltaS surroundings? The option list is shown in the figure below.",
      "status": "ready",
      "answer": "B: delta S system positive and delta S surroundings negative",
      "steps": [
@@ -52092,7 +52095,7 @@ window.BANK.chemistry = {
       "solids",
       "standard molar entropy"
      ],
-     "question": "Which sequence shows the elements in order of increasing standard entropy? The four options are not in the extracted text.",
+     "question": "Which sequence shows the elements in order of increasing standard entropy? The four options are shown in the figure below.",
      "status": "ready",
      "answer": "C: Os(s) < Hg(l) < He(g) < O2(g)",
      "steps": [
@@ -52148,7 +52151,7 @@ window.BANK.chemistry = {
       "expansion",
       "tap opened"
      ],
-     "question": "Flask P contains argon and flask Q is a vacuum; the tap is opened and the argon fills both flasks. How do the entropy and energy of the system change? The option list is not in the extracted text.",
+     "question": "Flask P contains argon and flask Q is a vacuum; the tap is opened and the argon fills both flasks. How do the entropy and energy of the system change? The option list is shown in the figure below.",
      "status": "ready",
      "answer": "C: entropy increases and energy is unchanged",
      "steps": [
@@ -52176,7 +52179,7 @@ window.BANK.chemistry = {
       "graph selection",
       "entropy of substance"
      ],
-     "question": "Which graph shows the entropy of a substance as it changes state from solid to liquid to gas? The four graphs are not in the extracted text.",
+     "question": "Which graph shows the entropy of a substance as it changes state from solid to liquid to gas? The four graphs are shown in the figure below.",
      "status": "ready",
      "answer": "D: Graph 4",
      "steps": [
@@ -52205,7 +52208,7 @@ window.BANK.chemistry = {
       "sign and units",
       "2N2O"
      ],
-     "question": "Nitrous oxide, N2O, decomposes to nitrogen and oxygen. Using the standard molecular entropy data (table not in the extracted text), calculate the standard entropy change of the system, with sign and units.",
+     "question": "Nitrous oxide, N2O, decomposes to nitrogen and oxygen. Using the standard molecular entropy data (table shown in the figure below), calculate the standard entropy change of the system, with sign and units.",
      "status": "ready",
      "answer": "+74.5 J K-1 mol-1",
      "steps": [
@@ -52505,7 +52508,7 @@ window.BANK.chemistry = {
       "rate of change",
       "allotropes"
      ],
-     "question": "Rhombic and monoclinic sulfur are interchangeable solid forms. The value of deltaStotal is given for the forward reaction. What can be concluded? The direction of the forward reaction is shown in a diagram not in the extracted text.",
+     "question": "Rhombic and monoclinic sulfur are interchangeable solid forms. The value of deltaStotal is given for the forward reaction. What can be concluded? The direction of the forward reaction is shown in a diagram shown in the figure below.",
      "status": "ready",
      "answer": "D: monoclinic sulfur could change into rhombic sulfur but nothing can be deduced about the rate",
      "steps": [
@@ -52811,7 +52814,7 @@ window.BANK.chemistry = {
       "J K L",
       "system"
      ],
-     "question": "The equations for three reactions involving hydrogen (J, K, L) are shown in a diagram not in the extracted text. What is the order of increasing standard entropy change of the system? Options: A J, K, L; B K, L, J; C K, J, L; D L, K, J.",
+     "question": "The equations for three reactions involving hydrogen (J, K, L) are shown in a diagram shown in the figure below. What is the order of increasing standard entropy change of the system? Options: A J, K, L; B K, L, J; C K, J, L; D L, K, J.",
      "status": "ready",
      "answer": "C: K, J, L",
      "steps": [
@@ -52841,7 +52844,7 @@ window.BANK.chemistry = {
       "entropy of surroundings",
       "signs"
      ],
-     "question": "What are the signs of the entropy changes at 373 K when water vapour condenses? The option list is not in the extracted text.",
+     "question": "What are the signs of the entropy changes at 373 K when water vapour condenses? The option list is shown in the figure below.",
      "status": "ready",
      "answer": "C: delta S system negative, delta S surroundings positive",
      "steps": [
@@ -52870,7 +52873,7 @@ window.BANK.chemistry = {
       "reaction entropy",
       "J K-1 mol-1"
      ],
-     "question": "Methane reacts with steam to form carbon dioxide and hydrogen. Using the standard molar entropies in the table (not in the extracted text), find the entropy change for the reaction. Options: A -174, B -30, C +30, D +174.",
+     "question": "Methane reacts with steam to form carbon dioxide and hydrogen. Using the standard molar entropies in the table (shown in the figure below), find the entropy change for the reaction. Options: A -174, B -30, C +30, D +174.",
      "status": "ready",
      "answer": "D: +174 J K-1 mol-1",
      "steps": [
@@ -52929,7 +52932,7 @@ window.BANK.chemistry = {
       "deltaG",
       "pair of values"
      ],
-     "question": "Which pair of values will always give a thermodynamically feasible reaction? The option list is not in the extracted text.",
+     "question": "Which pair of values will always give a thermodynamically feasible reaction? The option list is shown in the figure below.",
      "status": "ready",
      "answer": "C: entropy change of the system positive and enthalpy change negative",
      "steps": [
@@ -53021,7 +53024,7 @@ window.BANK.chemistry = {
       "electrons",
       "enthalpy cycle"
      ],
-     "question": "Complete the Born-Haber cycle for CaCl2 by writing the formulae, with state symbols and relevant electrons, on the horizontal lines. The cycle diagram is not in the extracted text.",
+     "question": "Complete the Born-Haber cycle for CaCl2 by writing the formulae, with state symbols and relevant electrons, on the horizontal lines. The cycle diagram is shown in the figure below.",
      "status": "ready",
      "answer": "Levels from the bottom up: Ca(s) + Cl2(g); Ca(g) + Cl2(g); Ca(g) + 2Cl(g); Ca+(g) + e- + 2Cl(g); Ca2+(g) + 2e- + 2Cl(g); then (right side) Ca2+(g) + 2Cl-(g)",
      "steps": [
@@ -53053,7 +53056,7 @@ window.BANK.chemistry = {
       "sign and units",
       "CaCl2"
      ],
-     "question": "Using the cycle and the table of values, calculate the second ionisation energy of calcium, including sign and units. The table values are not in the extracted text.",
+     "question": "Using the cycle and the table of values, calculate the second ionisation energy of calcium, including sign and units. The table values are shown in the figure below.",
      "status": "ready",
      "answer": "second ionisation energy of calcium = +1148 kJ mol-1",
      "steps": [
@@ -53144,7 +53147,7 @@ window.BANK.chemistry = {
       "Hess cycle",
       "experimental lattice energy"
      ],
-     "question": "Calculate the enthalpy change of solution of CaCl2 using the experimental lattice energy of -2258 kJ mol-1. The hydration enthalpies needed are not in the extracted text.",
+     "question": "Calculate the enthalpy change of solution of CaCl2 using the experimental lattice energy of -2258 kJ mol-1. The hydration enthalpies needed are shown in the figure below.",
      "status": "ready",
      "answer": "enthalpy change of solution of CaCl2 = -120 kJ mol-1",
      "steps": [
@@ -53174,7 +53177,7 @@ window.BANK.chemistry = {
       "lattice energy",
       "solution"
      ],
-     "question": "In a Born-Haber cycle for LiCl, what does the labelled energy change X represent? Options: A sum of hydration enthalpies of gaseous ions, B enthalpy change of formation of LiCl, C enthalpy change of solution of LiCl, D lattice energy of LiCl. The diagram is not in the extracted text.",
+     "question": "In a Born-Haber cycle for LiCl, what does the labelled energy change X represent? Options: A sum of hydration enthalpies of gaseous ions, B enthalpy change of formation of LiCl, C enthalpy change of solution of LiCl, D lattice energy of LiCl. The diagram is shown in the figure below.",
      "status": "ready",
      "answer": "A: the sum of the enthalpy changes of hydration of the gaseous ions",
      "steps": [
@@ -53201,7 +53204,7 @@ window.BANK.chemistry = {
       "magnesium chloride",
       "cycle letters w x y"
      ],
-     "question": "For the Born-Haber cycle for MgCl2 (energy changes labelled w, x, y, etc.), which expression gives the electron affinity of chlorine? Options: A y, B y/2, C (w + y), D (w + y)/2. The diagram is not in the extracted text.",
+     "question": "For the Born-Haber cycle for MgCl2 (energy changes labelled w, x, y, etc.), which expression gives the electron affinity of chlorine? Options: A y, B y/2, C (w + y), D (w + y)/2. The diagram is shown in the figure below.",
      "status": "ready",
      "answer": "B: y/2",
      "steps": [
@@ -53255,7 +53258,7 @@ window.BANK.chemistry = {
       "Born-Haber",
       "energy change x"
      ],
-     "question": "Which energy change in the MgCl2 cycle does x represent? Options: A first ionisation energy of Mg, B second ionisation energy of Mg, C sum of first and second ionisation energies of Mg, D sum of the enthalpy change of atomisation and the first and second ionisation energies of Mg. The diagram is not in the extracted text.",
+     "question": "Which energy change in the MgCl2 cycle does x represent? Options: A first ionisation energy of Mg, B second ionisation energy of Mg, C sum of first and second ionisation energies of Mg, D sum of the enthalpy change of atomisation and the first and second ionisation energies of Mg. The diagram is shown in the figure below.",
      "status": "ready",
      "answer": "C: the sum of the first and second ionisation energies of magnesium",
      "steps": [
@@ -53282,7 +53285,7 @@ window.BANK.chemistry = {
       "Br2",
       "gaseous atoms"
      ],
-     "question": "Which equation represents the standard enthalpy change of atomisation of bromine? The four options are not in the extracted text.",
+     "question": "Which equation represents the standard enthalpy change of atomisation of bromine? The four options are shown in the figure below.",
      "status": "ready",
      "answer": "A: 1/2 Br2(l) -> Br(g)",
      "steps": [
@@ -53426,7 +53429,7 @@ window.BANK.chemistry = {
       "bonding type",
       "polarisation"
      ],
-     "question": "Using the theoretical and experimental (Born-Haber) lattice energies of NaCl and MgI2 in the table, compare and contrast the type and strength of bonding in the two compounds, giving reasons. The table is not in the extracted text.",
+     "question": "Using the theoretical and experimental (Born-Haber) lattice energies of NaCl and MgI2 in the table, compare and contrast the type and strength of bonding in the two compounds, giving reasons. The table is shown in the figure below.",
      "status": "ready",
      "answer": "NaCl is almost purely ionic (theoretical and experimental values agree); MgI2 has a lot of covalent character (experimental much more exothermic), although both are ionic lattices",
      "steps": [
@@ -53486,7 +53489,7 @@ window.BANK.chemistry = {
       "-298",
       "-242"
      ],
-     "question": "Using the simplified Born-Haber cycle for LiI, calculate the electron affinity of iodine. Options: A -298, B -242, C +242, D +298 kJ mol-1. The cycle values are not in the extracted text.",
+     "question": "Using the simplified Born-Haber cycle for LiI, calculate the electron affinity of iodine. Options: A -298, B -242, C +242, D +298 kJ mol-1. The cycle values are shown in the figure below.",
      "status": "ready",
      "answer": "A: -298 kJ mol-1",
      "steps": [
@@ -53516,7 +53519,7 @@ window.BANK.chemistry = {
       "-1410",
       "-3106"
      ],
-     "question": "Using a table of energy changes, calculate the enthalpy change of hydration of Ca2+(g). Options: A -1410, B -1650, C -2014, D -3106 kJ mol-1. The table is not in the extracted text.",
+     "question": "Using a table of energy changes, calculate the enthalpy change of hydration of Ca2+(g). Options: A -1410, B -1650, C -2014, D -3106 kJ mol-1. The table is shown in the figure below.",
      "status": "ready",
      "answer": "B: -1650 kJ mol-1",
      "steps": [
@@ -53573,7 +53576,7 @@ window.BANK.chemistry = {
       "theoretical lattice energy",
       "P Q R S"
      ],
-     "question": "Which compound would show the largest percentage difference between experimental and theoretical lattice energies? The ionic radii and charges are in a table not in the extracted text. Options: A PR, B PS, C QR, D QS.",
+     "question": "Which compound would show the largest percentage difference between experimental and theoretical lattice energies? The ionic radii and charges are in a table shown in the figure below. Options: A PR, B PS, C QR, D QS.",
      "status": "ready",
      "answer": "B: PS",
      "steps": [
@@ -53759,7 +53762,7 @@ window.BANK.chemistry = {
       "letters",
       "boxes"
      ],
-     "question": "Complete the Born-Haber cycle for iron(II) oxide by putting letters in the boxes to label the energy changes. The diagram is not in the extracted text.",
+     "question": "Complete the Born-Haber cycle for iron(II) oxide by putting letters in the boxes to label the energy changes. The diagram is shown in the figure below.",
      "status": "ready",
      "answer": "Bottom-left box: D; then going up the left side: A (atomisation of Fe), B (first IE of Fe), C (given), H (atomisation of oxygen); right side: E (first EA of O), F (second EA of O), G (lattice energy, long arrow down to FeO(s))",
      "steps": [
@@ -53791,7 +53794,7 @@ window.BANK.chemistry = {
       "FeO",
       "value C"
      ],
-     "question": "Calculate the value for the second ionisation energy of iron, C, from the Born-Haber cycle for FeO. The data are in a table not in the extracted text.",
+     "question": "Calculate the value for the second ionisation energy of iron, C, from the Born-Haber cycle for FeO. The data are in a table shown in the figure below.",
      "status": "ready",
      "answer": "second ionisation energy of iron, C = +1567 kJ mol-1",
      "steps": [
@@ -53855,7 +53858,7 @@ window.BANK.chemistry = {
       "atomisation",
       "not true statement"
      ],
-     "question": "For the Born-Haber cycle of SrI2 (values in kJ mol-1, not to scale), which statement is not true? Options: A lattice energy is exothermic, B first electron affinity of iodine is -295, C second ionisation energy of strontium is +1614, D standard enthalpy change of atomisation of strontium is +164. The cycle diagram is not in the extracted text.",
+     "question": "For the Born-Haber cycle of SrI2 (values in kJ mol-1, not to scale), which statement is not true? Options: A lattice energy is exothermic, B first electron affinity of iodine is -295, C second ionisation energy of strontium is +1614, D standard enthalpy change of atomisation of strontium is +164. The cycle diagram is shown in the figure below.",
      "status": "ready",
      "answer": "C: the second ionisation energy of strontium is +1614 kJ mol-1 (this is not true)",
      "steps": [
@@ -53938,7 +53941,7 @@ window.BANK.chemistry = {
       "CaCl2",
       "value"
      ],
-     "question": "State the value of the standard enthalpy change of atomisation of calcium from the Born-Haber cycle for calcium chloride. The cycle is not in the extracted text.",
+     "question": "State the value of the standard enthalpy change of atomisation of calcium from the Born-Haber cycle for calcium chloride. The cycle is shown in the figure below.",
      "status": "ready",
      "answer": "+178 kJ mol-1",
      "steps": [
@@ -53966,7 +53969,7 @@ window.BANK.chemistry = {
       "Hess cycle",
       "CaCl2"
      ],
-     "question": "Calculate the enthalpy change of formation of calcium chloride from the Born-Haber cycle. The values are in the diagram, not in the extracted text.",
+     "question": "Calculate the enthalpy change of formation of calcium chloride from the Born-Haber cycle. The values are in the diagram, shown in the figure below.",
      "status": "ready",
      "answer": "deltaH(f, CaCl2) = -799 kJ mol-1",
      "steps": [
@@ -54029,7 +54032,7 @@ window.BANK.chemistry = {
       "solution",
       "hydration"
      ],
-     "question": "Complete the energy cycle for dissolving calcium chloride in water, including the labelled arrows. The cycle diagram is not in the extracted text.",
+     "question": "Complete the energy cycle for dissolving calcium chloride in water, including the labelled arrows. The cycle diagram is shown in the figure below.",
      "status": "ready",
      "answer": "Empty box: Ca2+(g) + 2Cl-(g), joined by an arrow labelled lattice energy to CaCl2(s) and an arrow labelled sum of hydration enthalpies to Ca2+(aq) + 2Cl-(aq)",
      "steps": [
@@ -54091,7 +54094,7 @@ window.BANK.chemistry = {
       "electrostatic theory",
       "cause of covalency"
      ],
-     "question": "An ionic compound has some covalent bonding. What causes the covalency, and how does the lattice energy from a Born-Haber cycle differ from the theoretical electrostatic value? The option list is not in the extracted text.",
+     "question": "An ionic compound has some covalent bonding. What causes the covalency, and how does the lattice energy from a Born-Haber cycle differ from the theoretical electrostatic value? The option list is shown in the figure below.",
      "status": "ready",
      "answer": "D: anion polarised by cation; Born-Haber lattice energy more exothermic than the theoretical value",
      "steps": [
@@ -54119,7 +54122,7 @@ window.BANK.chemistry = {
       "energy change y",
       "atomisation"
      ],
-     "question": "Which energy change in the Born-Haber cycle for sodium oxide does y represent? Options: A first electron affinity of oxygen, B second electron affinity of oxygen, C sum of the first and second electron affinities of oxygen, D sum of the enthalpy change of atomisation of oxygen and the first and second electron affinities of oxygen. The diagram is not in the extracted text.",
+     "question": "Which energy change in the Born-Haber cycle for sodium oxide does y represent? Options: A first electron affinity of oxygen, B second electron affinity of oxygen, C sum of the first and second electron affinities of oxygen, D sum of the enthalpy change of atomisation of oxygen and the first and second electron affinities of oxygen. The diagram is shown in the figure below.",
      "status": "ready",
      "answer": "C: the sum of the first and second electron affinities of oxygen",
      "steps": [
@@ -54174,7 +54177,7 @@ window.BANK.chemistry = {
       "W",
       "labels"
      ],
-     "question": "Identify the missing details represented by the letters R and W in the Born-Haber cycle for barium oxide. The cycle diagram is not in the extracted text.",
+     "question": "Identify the missing details represented by the letters R and W in the Born-Haber cycle for barium oxide. The cycle diagram is shown in the figure below.",
      "status": "ready",
      "answer": "R = O2-(g); W = first electron affinity of oxygen (O(g) + e- -> O-(g))",
      "steps": [
@@ -54204,7 +54207,7 @@ window.BANK.chemistry = {
       "lattice energy",
       "enthalpy change"
      ],
-     "question": "Use the data given to calculate a value for quantity Z in the Born-Haber cycle for barium oxide, including sign and units. The data are not in the extracted text.",
+     "question": "Use the data given to calculate a value for quantity Z in the Born-Haber cycle for barium oxide, including sign and units. The data are shown in the figure below.",
      "status": "ready",
      "answer": "deltaZ = deltaH(f, BaO) = -499.9 kJ mol-1",
      "steps": [
@@ -54269,7 +54272,7 @@ window.BANK.chemistry = {
       "-460",
       "lattice energy"
      ],
-     "question": "Using a fully labelled Hess cycle and the hydration enthalpy of OH- (-460 kJ mol-1), calculate the enthalpy change of solution of Ba(OH)2. The table data are not in the extracted text.",
+     "question": "Using a fully labelled Hess cycle and the hydration enthalpy of OH- (-460 kJ mol-1), calculate the enthalpy change of solution of Ba(OH)2. The table data are shown in the figure below.",
      "status": "ready",
      "answer": "deltaH(sol, Ba(OH)2) = -50 kJ mol-1",
      "steps": [
@@ -54333,7 +54336,7 @@ window.BANK.chemistry = {
       "solution",
       "entropy of surroundings"
      ],
-     "question": "For the enthalpy cycle of lead(II) nitrate, which statement is true? Options: A enthalpy change of formation is -2151 kJ mol-1, B enthalpy change of solution is exothermic, C hydration of Pb2+ is more exothermic than that of NO3-, D entropy change of surroundings for dissolving is positive. The cycle values are not in the extracted text.",
+     "question": "For the enthalpy cycle of lead(II) nitrate, which statement is true? Options: A enthalpy change of formation is -2151 kJ mol-1, B enthalpy change of solution is exothermic, C hydration of Pb2+ is more exothermic than that of NO3-, D entropy change of surroundings for dissolving is positive. The cycle values are shown in the figure below.",
      "status": "ready",
      "answer": "C: the enthalpy change of hydration of a lead(II) ion is more exothermic than that of a nitrate ion",
      "steps": [
@@ -54390,7 +54393,7 @@ window.BANK.chemistry = {
       "CO2",
       "standard entropy data"
      ],
-     "question": "Calculate the standard entropy change of the system for BaCO3(s) -> BaO(s) + CO2(g). The standard entropy data are not in the extracted text.",
+     "question": "Calculate the standard entropy change of the system for BaCO3(s) -> BaO(s) + CO2(g). The standard entropy data are shown in the figure below.",
      "status": "ready",
      "answer": "deltaS(system) = +171.9 J K-1 mol-1",
      "steps": [
@@ -54483,7 +54486,7 @@ window.BANK.chemistry = {
       "enthalpy change of solution",
       "formulae"
      ],
-     "question": "Complete the Hess cycle for the enthalpy change of solution of anhydrous MgCl2 by adding formulae with state symbols to the empty boxes. The cycle diagram is not in the extracted text.",
+     "question": "Complete the Hess cycle for the enthalpy change of solution of anhydrous MgCl2 by adding formulae with state symbols to the empty boxes. The cycle diagram is shown in the figure below.",
      "status": "ready",
      "answer": "Left box: Mg2+(g) + 2Cl-(g); right box: MgCl2(s)",
      "steps": [
@@ -54665,7 +54668,7 @@ window.BANK.chemistry = {
       "energy changes",
       "empty boxes"
      ],
-     "question": "Complete the Born-Haber cycle for MgCl2 by adding labels for the four energy changes and writing formulae in the two empty boxes. The table and cycle are not in the extracted text.",
+     "question": "Complete the Born-Haber cycle for MgCl2 by adding labels for the four energy changes and writing formulae in the two empty boxes. The table and cycle are shown in the figure below.",
      "status": "ready",
      "answer": "Labels: B (first IE of Mg), C (second IE of Mg), D (atomisation of chlorine), E (lattice energy); empty boxes: Mg(g) + Cl2(g) (lower) and Mg+(g) + Cl2(g) + e- (upper)",
      "steps": [
@@ -54789,7 +54792,7 @@ window.BANK.chemistry = {
       "three crystal lattices",
       "six values"
      ],
-     "question": "Discuss the reasons for the differences between the experimental and theoretical lattice energies of three crystal lattices, in terms of their structure and bonding. The six values are in a table not in the extracted text.",
+     "question": "Discuss the reasons for the differences between the experimental and theoretical lattice energies of three crystal lattices, in terms of their structure and bonding. The six values are in a table shown in the figure below.",
      "status": "ready",
      "answer": "The theoretical value assumes 100% ionic bonding (perfect spherical ions); the experimental value includes real covalent character, which increases as the cation polarises the anion more. NaF is nearly ideal, MgF2 slightly less so, and MgCl2 differs most",
      "steps": [
@@ -54822,7 +54825,7 @@ window.BANK.chemistry = {
       "Rb2S",
       "Li2O"
      ],
-     "question": "Which compound has the greatest degree of covalency within its ionic bonds? Options: A NaI, B AgBr, C Rb2S, D Li2O. The lattice energy data table is not in the extracted text.",
+     "question": "Which compound has the greatest degree of covalency within its ionic bonds? Options: A NaI, B AgBr, C Rb2S, D Li2O. The lattice energy data table is shown in the figure below.",
      "status": "ready",
      "answer": "B: AgBr",
      "steps": [
@@ -54849,7 +54852,7 @@ window.BANK.chemistry = {
       "equation",
       "gaseous atoms"
      ],
-     "question": "Which equation represents the standard enthalpy change of atomisation of iodine? The options are not in the extracted text.",
+     "question": "Which equation represents the standard enthalpy change of atomisation of iodine? The options are shown in the figure below.",
      "status": "ready",
      "answer": "A: 1/2 I2(s) -> I(g)",
      "steps": [
@@ -54876,7 +54879,7 @@ window.BANK.chemistry = {
       "O-",
       "O2-"
      ],
-     "question": "Which equation represents the second electron affinity of oxygen? The options are not in the extracted text.",
+     "question": "Which equation represents the second electron affinity of oxygen? The options are shown in the figure below.",
      "status": "ready",
      "answer": "A: O-(g) + e- -> O2-(g)",
      "steps": [
@@ -54963,7 +54966,7 @@ window.BANK.chemistry = {
       "deltaS surroundings",
       "effervescent"
      ],
-     "question": "For the reaction at 25 C, the standard entropy change of the surroundings is given in a value not shown in the extracted text. Calculate the enthalpy change of the reaction, including sign and units.",
+     "question": "For the reaction at 25 C, the standard entropy change of the surroundings is given in a value shown in the figure below. Calculate the enthalpy change of the reaction, including sign and units.",
      "status": "ready",
      "answer": "deltaH = +70.0 kJ mol-1",
      "steps": [
@@ -55194,7 +55197,7 @@ window.BANK.chemistry = {
       "lattice energy",
       "hydration"
      ],
-     "question": "Complete the Hess cycle for the enthalpy change of solution of CuCl2 by filling in the empty boxes. The cycle diagram is not in the extracted text.",
+     "question": "Complete the Hess cycle for the enthalpy change of solution of CuCl2 by filling in the empty boxes. The cycle diagram is shown in the figure below.",
      "status": "ready",
      "answer": "Top box: Cu2+(g) + 2Cl-(g); left box: CuCl2(s)",
      "steps": [
@@ -55588,7 +55591,7 @@ window.BANK.chemistry = {
       "hydrochloric acid",
       "titration"
      ],
-     "question": "In which flask(s) was the equilibrium approached from the right-hand side of the ester equation? The flask contents are in a table not in the extracted text. Options: A flask 1 only, B flask 4 only, C flasks 1 and 4 only, D flasks 2 and 3 only.",
+     "question": "In which flask(s) was the equilibrium approached from the right-hand side of the ester equation? The flask contents are in a table shown in the figure below. Options: A flask 1 only, B flask 4 only, C flasks 1 and 4 only, D flasks 2 and 3 only.",
      "status": "ready",
      "answer": "C: flasks 1 and 4 only",
      "steps": [
@@ -55647,7 +55650,7 @@ window.BANK.chemistry = {
       "K squared",
       "K inverse"
      ],
-     "question": "The equilibrium decomposition of hydrogen iodide can be written in two ways. What is the expression linking the two equilibrium constants? The options are not in the extracted text.",
+     "question": "The equilibrium decomposition of hydrogen iodide can be written in two ways. What is the expression linking the two equilibrium constants? The options are shown in the figure below.",
      "status": "ready",
      "answer": "A: Kc = (Kc')^2",
      "steps": [
@@ -55673,7 +55676,7 @@ window.BANK.chemistry = {
       "equation",
       "concentrations"
      ],
-     "question": "A homogeneous equilibrium is shown. What is the Kc expression? The equilibrium equation and options are not in the extracted text.",
+     "question": "A homogeneous equilibrium is shown. What is the Kc expression? The equilibrium equation and options are shown in the figure below.",
      "status": "ready",
      "answer": "B: Kc = [Y]^2[Z] / ([W][X])",
      "steps": [
@@ -55705,7 +55708,7 @@ window.BANK.chemistry = {
       "total entropy change",
       "298 K"
      ],
-     "question": "Silicon tetrachloride is made from silicon carbide and hydrogen chloride with a nickel(II) chloride catalyst. Using the standard molar entropies in the table (not in the extracted text), calculate Stotal at 298 K with sign and units.",
+     "question": "Silicon tetrachloride is made from silicon carbide and hydrogen chloride with a nickel(II) chloride catalyst. Using the standard molar entropies in the table (shown in the figure below), calculate Stotal at 298 K with sign and units.",
      "status": "ready",
      "answer": "deltaS(total) = +1.78 x 10^3 J K-1 mol-1",
      "steps": [
@@ -55800,7 +55803,7 @@ window.BANK.chemistry = {
       "species",
       "energy changes"
      ],
-     "question": "Complete the Born-Haber cycle for calcium iodide by adding letters for the energy changes, the species on the blank lines and arrowheads for each energy change. The diagram is not in the extracted text.",
+     "question": "Complete the Born-Haber cycle for calcium iodide by adding letters for the energy changes, the species on the blank lines and arrowheads for each energy change. The diagram is shown in the figure below.",
      "status": "ready",
      "answer": "Left side from the bottom: A and D (x2) given, then B (first IE) in the box on the next arrow up; the long left arrow (up) is C (second IE); top right arrow (down) is E (x2, electron affinity of iodine); the long right arrow (down) is F (lattice energy). Blank lines: Ca+(g) + e- + 2I(g), top: Ca2+(g) + 2e- + 2I(g), right: Ca2+(g) + 2I-(g)",
      "steps": [
@@ -56029,7 +56032,7 @@ window.BANK.chemistry = {
       "total pressure 1.50 atm",
       "table"
      ],
-     "question": "0.850 mol HCl and 0.600 mol O2 are allowed to reach equilibrium in a closed flask; at equilibrium the total pressure is 1.50 atm and there is 0.250 mol Cl2. Complete the table of equilibrium amounts and partial pressures. The table layout is not in the extracted text.",
+     "question": "0.850 mol HCl and 0.600 mol O2 are allowed to reach equilibrium in a closed flask; at equilibrium the total pressure is 1.50 atm and there is 0.250 mol Cl2. Complete the table of equilibrium amounts and partial pressures. The table layout is shown in the figure below.",
      "status": "ready",
      "answer": "Equilibrium moles: HCl 0.350, O2 0.475, H2O 0.250, Cl2 0.250 (total 1.325 mol); partial pressures: HCl 0.396, O2 0.538, H2O 0.283, Cl2 0.283 atm",
      "steps": [
@@ -56586,7 +56589,7 @@ window.BANK.chemistry = {
       "table",
       "H2 I2 HI"
      ],
-     "question": "Complete the table of Kc data at five temperatures for H2 + I2 <=> 2HI, by adding the values of 1/T and ln Kc. The table is not in the extracted text.",
+     "question": "Complete the table of Kc data at five temperatures for H2 + I2 <=> 2HI, by adding the values of 1/T and ln Kc. The table is shown in the figure below.",
      "status": "ready",
      "answer": "1/T at 523 K = 0.00191 K-1; ln Kc at 577 K = 4.60",
      "steps": [
@@ -56788,7 +56791,7 @@ window.BANK.chemistry = {
       "equilibrium",
       "partial pressures"
      ],
-     "question": "What are the units of Kp for the equilibrium shown? Options: A atm-1, B atm, C atm-2, D atm2. The equilibrium equation is not in the extracted text.",
+     "question": "What are the units of Kp for the equilibrium shown? Options: A atm-1, B atm, C atm-2, D atm2. The equilibrium equation is shown in the figure below.",
      "status": "ready",
      "answer": "C: atm-2",
      "steps": [
@@ -56816,7 +56819,7 @@ window.BANK.chemistry = {
       "1 atm",
       "equilibrium type"
      ],
-     "question": "The reaction shown occurs at 360 C and 1 atm. What is the type of equilibrium and how is Kc affected by an increase in temperature? The equation and options are not in the extracted text.",
+     "question": "The reaction shown occurs at 360 C and 1 atm. What is the type of equilibrium and how is Kc affected by an increase in temperature? The equation and options are shown in the figure below.",
      "status": "ready",
      "answer": "B: homogeneous; Kc decreases",
      "steps": [
@@ -56844,7 +56847,7 @@ window.BANK.chemistry = {
       "graph",
       "experiments 1 to 5"
      ],
-     "question": "Draw a best-fit line on the graph of the data for experiments 1-5 for the reaction between nitrogen monoxide and oxygen. The graph is not in the extracted text.",
+     "question": "Draw a best-fit line on the graph of the data for experiments 1-5 for the reaction between nitrogen monoxide and oxygen. The graph is shown in the figure below.",
      "status": "ready",
      "answer": "A smooth curve, concave upwards (getting steeper), passing through the origin and the five points; not a straight line",
      "steps": [
@@ -56899,7 +56902,7 @@ window.BANK.chemistry = {
       "initial rate data",
       "experiments 1 to 6"
      ],
-     "question": "Deduce the orders of reaction with respect to NO and O2 using experiments 1-6. The data table is not in the extracted text.",
+     "question": "Deduce the orders of reaction with respect to NO and O2 using experiments 1-6. The data table is shown in the figure below.",
      "status": "ready",
      "answer": "Order with respect to NO = 2; order with respect to O2 = 1",
      "steps": [
@@ -57011,7 +57014,7 @@ window.BANK.chemistry = {
       "hydrogen",
       "solid iron oxide"
      ],
-     "question": "What is the equilibrium constant expression for the reaction between iron and steam? The equation is not in the extracted text.",
+     "question": "What is the equilibrium constant expression for the reaction between iron and steam? The equation is shown in the figure below.",
      "status": "ready",
      "answer": "D: Kc = [H2]^4 / [H2O]^4",
      "steps": [
@@ -57039,7 +57042,7 @@ window.BANK.chemistry = {
       "temperature increase",
       "iron steam"
      ],
-     "question": "What is the effect on the equilibrium constant if small pieces of iron are replaced by iron powder and if the temperature is increased? The equation is not in the extracted text.",
+     "question": "What is the effect on the equilibrium constant if small pieces of iron are replaced by iron powder and if the temperature is increased? The equation is shown in the figure below.",
      "status": "ready",
      "answer": "D: Kc unchanged with iron powder; Kc decreases when the temperature is increased",
      "steps": [
@@ -57068,7 +57071,7 @@ window.BANK.chemistry = {
       "C2H4",
       "thermodynamic data table"
      ],
-     "question": "Calculate the entropy change of the system for the cracking of butane, C4H10(g) -> C2H6(g) + C2H4(g), with sign and units. The data table is not in the extracted text.",
+     "question": "Calculate the entropy change of the system for the cracking of butane, C4H10(g) -> C2H6(g) + C2H4(g), with sign and units. The data table is shown in the figure below.",
      "status": "ready",
      "answer": "deltaS(system) = +138.9 J K-1 mol-1",
      "steps": [
@@ -57099,7 +57102,7 @@ window.BANK.chemistry = {
       "C2H6",
       "C2H4"
      ],
-     "question": "Calculate the enthalpy change of reaction for the cracking of butane, with sign and units. The data table is not in the extracted text.",
+     "question": "Calculate the enthalpy change of reaction for the cracking of butane, with sign and units. The data table is shown in the figure below.",
      "status": "ready",
      "answer": "deltaH = +94.0 kJ mol-1",
      "steps": [
@@ -57273,7 +57276,7 @@ window.BANK.chemistry = {
       "sign and units",
       "thermodynamics"
      ],
-     "question": "Calculate the entropy change for the reaction N2O4(g) <=> 2NO2(g), using the table of data, with sign and units. The table is not in the extracted text.",
+     "question": "Calculate the entropy change for the reaction N2O4(g) <=> 2NO2(g), using the table of data, with sign and units. The table is shown in the figure below.",
      "status": "ready",
      "answer": "deltaS = +175.8 J K-1 mol-1",
      "steps": [
@@ -57303,7 +57306,7 @@ window.BANK.chemistry = {
       "data table",
       "298 K"
      ],
-     "question": "Calculate the enthalpy change of formation of N2O4(g) at 298 K, using the table and the enthalpy change of the reaction. The table is not in the extracted text.",
+     "question": "Calculate the enthalpy change of formation of N2O4(g) at 298 K, using the table and the enthalpy change of the reaction. The table is shown in the figure below.",
      "status": "ready",
      "answer": "deltaHf(N2O4) = +9.2 kJ mol-1",
      "steps": [
@@ -57525,7 +57528,7 @@ window.BANK.chemistry = {
       "I2 aq",
       "I2 CHCl3"
      ],
-     "question": "Iodine is shared between water and trichloromethane. What is the expression for the equilibrium constant Kc? The equation for the equilibrium is not in the extracted text.",
+     "question": "Iodine is shared between water and trichloromethane. What is the expression for the equilibrium constant Kc? The equation for the equilibrium is shown in the figure below.",
      "status": "ready",
      "answer": "D: Kc = [I2(aq)] / [I2(trichloromethane)]",
      "steps": [
@@ -57605,7 +57608,7 @@ window.BANK.chemistry = {
       "Kc expression",
       "solids excluded"
      ],
-     "question": "Which is the correct expression for the equilibrium constant Kc for the decomposition of calcium carbonate to calcium oxide and carbon dioxide? The options are not in the extracted text.",
+     "question": "Which is the correct expression for the equilibrium constant Kc for the decomposition of calcium carbonate to calcium oxide and carbon dioxide? The options are shown in the figure below.",
      "status": "ready",
      "answer": "A: Kc = [CO2]",
      "steps": [
@@ -57744,7 +57747,7 @@ window.BANK.chemistry = {
       "atm",
       "partial pressures"
      ],
-     "question": "What are the units of Kp for the reaction shown? Options: A atm, B atm-1, C atm4, D atm-4. The equation is not in the extracted text.",
+     "question": "What are the units of Kp for the reaction shown? Options: A atm, B atm-1, C atm4, D atm-4. The equation is shown in the figure below.",
      "status": "ready",
      "answer": "A: atm",
      "steps": [
@@ -57797,7 +57800,7 @@ window.BANK.chemistry = {
       "gases",
       "solids excluded"
      ],
-     "question": "What is the expression for the equilibrium constant Kp for the thermal decomposition of magnesium nitrate? The equation and options are not in the extracted text.",
+     "question": "What is the expression for the equilibrium constant Kp for the thermal decomposition of magnesium nitrate? The equation and options are shown in the figure below.",
      "status": "ready",
      "answer": "A: Kp = p(NO2)^2 x p(O2)^1/2",
      "steps": [
@@ -57880,7 +57883,7 @@ window.BANK.chemistry = {
       "partial pressures",
       "equilibrium constant"
      ],
-     "question": "Which is the expression for the equilibrium constant Kp for 2SO2(g) + O2(g) <=> 2SO3(g), deltaH = -196 kJ mol-1? The option list is not in the extracted text.",
+     "question": "Which is the expression for the equilibrium constant Kp for 2SO2(g) + O2(g) <=> 2SO3(g), deltaH = -196 kJ mol-1? The option list is shown in the figure below.",
      "status": "ready",
      "answer": "C: Kp = p(SO3)^2 / (p(SO2)^2 x p(O2))",
      "steps": [
@@ -57960,7 +57963,7 @@ window.BANK.chemistry = {
       "Equation 2",
       "4.0 x 10^24"
      ],
-     "question": "The value of Kp at 25 C using Equation 1 is 4.0 x 10^24 atm-1. What is the numerical value of Kp at 25 C using Equation 2? The two equations are shown in a diagram not in the extracted text. Options: A 2.0 x 10^12, B 2.0 x 10^22, C 2.0 x 10^24, D 4.0 x 10^24.",
+     "question": "The value of Kp at 25 C using Equation 1 is 4.0 x 10^24 atm-1. What is the numerical value of Kp at 25 C using Equation 2? The two equations are shown in a diagram shown in the figure below. Options: A 2.0 x 10^12, B 2.0 x 10^22, C 2.0 x 10^24, D 4.0 x 10^24.",
      "status": "ready",
      "answer": "A: 2.0 x 10^12 atm-1/2",
      "steps": [
@@ -58754,7 +58757,7 @@ window.BANK.chemistry = {
       "proton donor",
       "acid pairs"
      ],
-     "question": "When ethanoic acid and chloroethanoic acid are mixed, an equilibrium is set up. Which species are the Bronsted-Lowry acids? The answer options are missing from the text.",
+     "question": "When ethanoic acid and chloroethanoic acid are mixed, an equilibrium is set up. Which species are the Bronsted-Lowry acids? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "C: CH2ClCOOH and CH3COOH2+",
      "steps": [
@@ -59430,7 +59433,7 @@ window.BANK.chemistry = {
       "reaction",
       "options missing"
      ],
-     "question": "Which is the acid-conjugate base pair in the reaction between ethanoic acid and chloroethanoic acid? The answer options are missing from the text.",
+     "question": "Which is the acid-conjugate base pair in the reaction between ethanoic acid and chloroethanoic acid? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "C: acid CH2ClCOOH and conjugate base CH2ClCOO-",
      "steps": [
@@ -59990,7 +59993,7 @@ window.BANK.chemistry = {
       "end-point",
       "options missing"
      ],
-     "question": "Which indicator is most suitable for the titration of ammonia solution with hydrochloric acid? The answer options are missing from the text.",
+     "question": "Which indicator is most suitable for the titration of ammonia solution with hydrochloric acid? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "B: bromocresol green (pKin = 4.7)",
      "steps": [
@@ -60076,7 +60079,7 @@ window.BANK.chemistry = {
       "dissociation of water",
       "options missing"
      ],
-     "question": "Pure water has pH 7.00 at 25 C and pH 6.14 at 100 C. What can be deduced? The answer options are missing from the text.",
+     "question": "Pure water has pH 7.00 at 25 C and pH 6.14 at 100 C. What can be deduced? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "A: endothermic; hydrogen ion concentration higher at 100 C than at 25 C",
      "steps": [
@@ -60158,7 +60161,7 @@ window.BANK.chemistry = {
       "amphoteric",
       "options missing"
      ],
-     "question": "In which equation is H2O acting only as a Bronsted-Lowry acid? The answer options are missing from the text.",
+     "question": "In which equation is H2O acting only as a Bronsted-Lowry acid? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "C: NH3 + H2O -> NH4+ + OH-",
      "steps": [
@@ -60567,7 +60570,7 @@ window.BANK.chemistry = {
       "bronsted-lowry",
       "options missing"
      ],
-     "question": "Which is not a conjugate acid-base pair? The answer options are missing from the text.",
+     "question": "Which is not a conjugate acid-base pair? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "C: H2CO3, CO3^2-",
      "steps": [
@@ -60813,7 +60816,7 @@ window.BANK.chemistry = {
       "weak acid",
       "distilled water"
      ],
-     "question": "A 1 mol dm-3 ethanoic acid solution is diluted with water. What happens to its degree of dissociation and its pH? The answer options are missing from the text.",
+     "question": "A 1 mol dm-3 ethanoic acid solution is diluted with water. What happens to its degree of dissociation and its pH? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "A: degree of dissociation increases and pH increases",
      "steps": [
@@ -60841,7 +60844,7 @@ window.BANK.chemistry = {
       "mixture",
       "acid-base pairs"
      ],
-     "question": "Equal amounts of ethanoic acid (pKa 4.8) and methanoic acid (pKa 3.8) are mixed. What are the conjugate acid-base pairs? The answer options are missing from the text.",
+     "question": "Equal amounts of ethanoic acid (pKa 4.8) and methanoic acid (pKa 3.8) are mixed. What are the conjugate acid-base pairs? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "A: acid 1 HCOOH, base 1 HCOO-, acid 2 CH3COOH2+, base 2 CH3COOH",
      "steps": [
@@ -61096,7 +61099,7 @@ window.BANK.chemistry = {
       "acid base reaction",
       "options missing"
      ],
-     "question": "Ethanoic acid reacts with the hydrogensulfite ion HSO3-. Which is a correct acid conjugate-base pair? The answer options are missing from the text.",
+     "question": "Ethanoic acid reacts with the hydrogensulfite ion HSO3-. Which is a correct acid conjugate-base pair? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "C: CH3COOH (acid) and CH3COO- (conjugate base)",
      "steps": [
@@ -61262,7 +61265,7 @@ window.BANK.chemistry = {
       "ka",
       "weak acid approximation"
      ],
-     "question": "Discuss differences between measured and calculated pH for 0.050 mol dm-3 CH2ClCOOH (Ka 1.4 x 10^-3) and CHCl2COOH (Ka 4.5 x 10^-2), using the assumptions [H+] = [A-] and [HA] equilibrium = [HA] initial. The measured pH values are missing from the text.",
+     "question": "Discuss differences between measured and calculated pH for 0.050 mol dm-3 CH2ClCOOH (Ka 1.4 x 10^-3) and CHCl2COOH (Ka 4.5 x 10^-2), using the assumptions [H+] = [A-] and [HA] equilibrium = [HA] initial. The measured pH values are shown in the figure below.",
      "status": "ready",
      "answer": "Calculated pH uses [H+] = sqrt(Ka x [HA]); the measured pH is higher because [HA] at equilibrium is less than 0.050 (the approximation fails, particularly for CHCl2COOH which is about 60% dissociated)",
      "steps": [
@@ -61524,7 +61527,7 @@ window.BANK.chemistry = {
       "acid-base equation",
       "options missing"
      ],
-     "question": "What is the conjugate acid of a species shown in the acid-base equations? The equations and answer options are missing from the text.",
+     "question": "What is the conjugate acid of a species shown in the acid-base equations? The equations and answer options are shown in the figure below.",
      "status": "ready",
      "answer": "C: H2PO4-",
      "steps": [
@@ -61579,7 +61582,7 @@ window.BANK.chemistry = {
       "hydrogencarbonate",
       "options missing"
      ],
-     "question": "Which reaction is most important in buffering the decrease in pH caused by carbon dioxide accumulation during exercise? The options are missing from the text.",
+     "question": "Which reaction is most important in buffering the decrease in pH caused by carbon dioxide accumulation during exercise? The options are shown in the figure below.",
      "status": "ready",
      "answer": "B: HCO3- + H+ -> H2CO3",
      "steps": [
@@ -61852,7 +61855,7 @@ window.BANK.chemistry = {
       "equilibrium",
       "options missing"
      ],
-     "question": "Which species act as a Bronsted-Lowry acid in the equilibrium when ammonia dissolves in water? The answer options are missing from the text.",
+     "question": "Which species act as a Bronsted-Lowry acid in the equilibrium when ammonia dissolves in water? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "D: NH4+ and H2O",
      "steps": [
@@ -63724,7 +63727,7 @@ window.BANK.chemistry = {
       "O-H",
       "C=O"
      ],
-     "question": "Compound Y does not react with acidified dichromate. Using the infrared spectrum of Y (not in the text), which compound is most likely Y? Options: A 2-methylpropan-2-ol, B pentane, C propanal, D propanone.",
+     "question": "Compound Y does not react with acidified dichromate. Using the infrared spectrum of Y (shown in the figure below), which compound is most likely Y? Options: A 2-methylpropan-2-ol, B pentane, C propanal, D propanone.",
      "status": "ready",
      "answer": "D: propanone",
      "steps": [
@@ -64460,7 +64463,7 @@ window.BANK.chemistry = {
       "carbon dioxide",
       "buffer solution"
      ],
-     "question": "Using the two buffer equilibria (not reproduced in the text), explain how the blood buffer keeps pH nearly constant when a small increase in H+ occurs.",
+     "question": "Using the two buffer equilibria (shown in the figure below), explain how the blood buffer keeps pH nearly constant when a small increase in H+ occurs.",
      "status": "ready",
      "answer": "Extra H3O+ is removed by HCO3- (Equilibrium 1 shifts right), and the H2CO3 formed breaks down to CO2 and H2O (Equilibrium 2 shifts right), so [H3O+] and pH stay nearly constant.",
      "steps": [
@@ -64720,7 +64723,7 @@ window.BANK.chemistry = {
       "molar mass 90.0",
       "concentration"
      ],
-     "question": "Calculate the mass of lactic acid, HA (Mr 90.0, pKa 3.86), needed to make 1.00 dm3 of aqueous solution with pH 3.00. The list of assumptions is missing from the text.",
+     "question": "Calculate the mass of lactic acid, HA (Mr 90.0, pKa 3.86), needed to make 1.00 dm3 of aqueous solution with pH 3.00. The list of assumptions is shown in the figure below.",
      "status": "ready",
      "answer": "0.652 g",
      "steps": [
@@ -68110,7 +68113,7 @@ window.BANK.chemistry = {
       "stationary phase",
       "intermolecular attraction"
      ],
-     "question": "A component in a TLC mixture has Rf = 0.92. What can be deduced about its attractions to the stationary and mobile phases? (Answer options are not in the text.)",
+     "question": "A component in a TLC mixture has Rf = 0.92. What can be deduced about its attractions to the stationary and mobile phases? (Answer options are shown in the figure below.)",
      "status": "ready",
      "answer": "D: weak attraction to the stationary phase and strong attraction to the mobile phase",
      "steps": [
@@ -68681,7 +68684,7 @@ window.BANK.chemistry = {
       "accurate relative atomic masses",
       "compound X"
      ],
-     "question": "The high-resolution mass spectrum of compound X has a molecular ion peak at m/z = 44.0632. Which compound with Mr 44 gives this peak? (The options are in a diagram not present in the text.)",
+     "question": "The high-resolution mass spectrum of compound X has a molecular ion peak at m/z = 44.0632. Which compound with Mr 44 gives this peak? (The options are in a diagram shown in the figure below.)",
      "status": "ready",
      "answer": "C: propane, C3H8",
      "steps": [
@@ -69378,7 +69381,7 @@ window.BANK.chemistry = {
       "stationary phase",
       "high performance liquid chromatography"
      ],
-     "question": "In HPLC, the mobile and stationary phases are... (Options A-D are not in the text.)",
+     "question": "In HPLC, the mobile and stationary phases are... (Options A-D are shown in the figure below.)",
      "status": "ready",
      "answer": "D: mobile phase liquid, stationary phase solid",
      "steps": [
@@ -70011,7 +70014,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15E-Spectroscopy-37.jpg",
       "papers/chemistry/img/15E-Spectroscopy-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15E-Spectroscopy-Q22-3.jpg"
+     ]
     },
     {
      "id": "Ch15E-Q22b(iii)",
@@ -70548,7 +70553,7 @@ window.BANK.chemistry = {
       "3-bromopentane",
       "primary secondary"
      ],
-     "question": "Complete the table for the three straight-chain structural isomers of C5H11Br. (The table itself is not in the text.)",
+     "question": "Complete the table for the three straight-chain structural isomers of C5H11Br. (The table itself is shown in the figure below.)",
      "status": "ready",
      "answer": "1-bromopentane (zigzag of 5 C with Br on the end carbon): 5 peaks; 2-bromopentane (Br on carbon 2): 5 peaks; 3-bromopentane (Br on the middle carbon): 3 peaks",
      "steps": [
@@ -71319,7 +71324,7 @@ window.BANK.chemistry = {
       "CH3 doublet",
       "methyl 2-hydroxypropanoate"
      ],
-     "question": "Complete the table giving the expected number of hydrogen atoms and splitting pattern for peaks J and K of methyl 2-hydroxypropanoate. (The table layout is not in the text.)",
+     "question": "Complete the table giving the expected number of hydrogen atoms and splitting pattern for peaks J and K of methyl 2-hydroxypropanoate. (The table layout is shown in the figure below.)",
      "status": "ready",
      "answer": "J: 3 hydrogen atoms, doublet; K: 1 hydrogen atom, quartet",
      "steps": [
@@ -71349,7 +71354,7 @@ window.BANK.chemistry = {
       "isomers",
       "carbon environments"
      ],
-     "question": "Which isomer has the most peaks in its 13C NMR spectrum? (Options are in an image not in the text.)",
+     "question": "Which isomer has the most peaks in its 13C NMR spectrum? (Options are in an image shown in the figure below.)",
      "status": "ready",
      "answer": "C: 2-methylpentane, with 5 peaks in its 13C NMR spectrum",
      "steps": [
@@ -71464,7 +71469,7 @@ window.BANK.chemistry = {
       "nandrolone",
       "g cm-3"
      ],
-     "question": "A sample with 2 x 10^-9 g cm-3 of nandrolone gives a chromatogram. Which chromatogram would be produced by a second sample at 4 x 10^-9 g cm-3 under the same conditions? (Chromatograms are not in the text.)",
+     "question": "A sample with 2 x 10^-9 g cm-3 of nandrolone gives a chromatogram. Which chromatogram would be produced by a second sample at 4 x 10^-9 g cm-3 under the same conditions? (Chromatograms are shown in the figure below.)",
      "status": "ready",
      "answer": "D: the peak at the same retention time (about 2.2 min) but about twice as tall",
      "steps": [
@@ -71605,9 +71610,7 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15E-Spectroscopy-62.jpg",
       "papers/chemistry/img/15E-Spectroscopy-63.jpg"
      ],
-     "figures": [
-      "papers/chemistry/fig/15E-Spectroscopy-Q37-3.jpg"
-     ]
+     "figures": []
     },
     {
      "id": "Ch15E-Q37di",
@@ -72311,7 +72314,7 @@ window.BANK.chemistry = {
       "manganese",
       "purple"
      ],
-     "question": "An alkene is added to purple potassium manganate(VII) and the solution turns colourless. In terms of electron transfer and oxidation number, how does manganese change? Answer options are not in the extraction.",
+     "question": "An alkene is added to purple potassium manganate(VII) and the solution turns colourless. In terms of electron transfer and oxidation number, how does manganese change? Answer options are shown in the figure below.",
      "status": "ready",
      "answer": "B: gains electrons, oxidation number decreases",
      "steps": [
@@ -72373,7 +72376,7 @@ window.BANK.chemistry = {
       "titanium",
       "reaction"
      ],
-     "question": "What metals should be used for the electrodes in the cell for this reaction? The reaction equation is not in the extraction.",
+     "question": "What metals should be used for the electrodes in the cell for this reaction? The reaction equation is shown in the figure below.",
      "status": "ready",
      "answer": "C: platinum for the Fe3+/Fe2+ system and titanium for the Ti2+/Ti system",
      "steps": [
@@ -72842,7 +72845,7 @@ window.BANK.chemistry = {
       "redox",
       "same element"
      ],
-     "question": "In which pair of compounds does the metal have different oxidation numbers? The answer options (pairs of compounds) are not in the extraction.",
+     "question": "In which pair of compounds does the metal have different oxidation numbers? The answer options (pairs of compounds) are shown in the figure below.",
      "status": "ready",
      "answer": "D: VO2+ and VO2+ (V is +5 in VO2^+ and +4 in VO^2+)",
      "steps": [
@@ -72873,7 +72876,7 @@ window.BANK.chemistry = {
       "notation",
       "electrodes"
      ],
-     "question": "Which is the correct cell diagram to measure the cell potential for a redox reaction whose equation is in the PDF? The equation and options are not in the extraction.",
+     "question": "Which is the correct cell diagram to measure the cell potential for a redox reaction whose equation is in the PDF? The equation and options are shown in the figure below.",
      "status": "ready",
      "answer": "C: Pt | Fe2+, Fe3+ || [MnO4- + 8H+], [Mn2+ + 4H2O] | Pt",
      "steps": [
@@ -72902,7 +72905,7 @@ window.BANK.chemistry = {
       "electron transfer",
       "nitrogen"
      ],
-     "question": "Copper is added to concentrated nitric acid giving a brown gas and a blue solution. How does nitrogen change in terms of oxidation number and electron transfer? The answer options are not in the extraction.",
+     "question": "Copper is added to concentrated nitric acid giving a brown gas and a blue solution. How does nitrogen change in terms of oxidation number and electron transfer? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "A: oxidation number decreases and nitrogen gains electrons",
      "steps": [
@@ -73087,7 +73090,7 @@ window.BANK.chemistry = {
       "electrode potential",
       "solution"
      ],
-     "question": "The electrolyte in the right-hand half-cell is prepared using equal volumes of two solutions (the options are not in the extraction).",
+     "question": "The electrolyte in the right-hand half-cell is prepared using equal volumes of two solutions (the options are shown in the figure below).",
      "status": "ready",
      "answer": "B: 2 mol dm-3 acidified VO2^+(aq) and 2 mol dm-3 acidified VO^2+(aq)",
      "steps": [
@@ -73118,7 +73121,7 @@ window.BANK.chemistry = {
       "cell equation",
       "electrodes"
      ],
-     "question": "Which is the equation for the overall cell reaction under standard conditions? The options are not in the extraction.",
+     "question": "Which is the equation for the overall cell reaction under standard conditions? The options are shown in the figure below.",
      "status": "ready",
      "answer": "B: VO2^+(aq) + Ag(s) + 2H+(aq) -> VO^2+(aq) + Ag+(aq) + H2O(l)",
      "steps": [
@@ -73180,7 +73183,7 @@ window.BANK.chemistry = {
       "electrochemical cell",
       "salt bridge"
      ],
-     "question": "Which is the cell diagram for this cell, using the conventional representation of half-cells? The options are not in the extraction.",
+     "question": "Which is the cell diagram for this cell, using the conventional representation of half-cells? The options are shown in the figure below.",
      "status": "ready",
      "answer": "B: Ag(s) | Ag+(aq) || [VO2^+(aq) + 2H+(aq)], [VO^2+(aq) + H2O(l)] | Pt(s)",
      "steps": [
@@ -73428,7 +73431,7 @@ window.BANK.chemistry = {
       "hydroxide",
       "hydrogen-oxygen"
      ],
-     "question": "Which statement is correct for an alkaline hydrogen-oxygen fuel cell compared with an acidic one? The statements are not in the extraction.",
+     "question": "Which statement is correct for an alkaline hydrogen-oxygen fuel cell compared with an acidic one? The statements are shown in the figure below.",
      "status": "ready",
      "answer": "C: the catalyst is more efficient",
      "steps": [
@@ -73458,7 +73461,7 @@ window.BANK.chemistry = {
       "reaction",
       "thermodynamics"
      ],
-     "question": "In a chemical reaction, a thermodynamic quantity (symbol missing in the extraction) is directly proportional to a second quantity. The options are not in the extraction.",
+     "question": "In a chemical reaction, a thermodynamic quantity (symbol shown in the figure below) is directly proportional to a second quantity. The options are shown in the figure below.",
      "status": "ready",
      "answer": "D: delta S(total)",
      "steps": [
@@ -73800,7 +73803,7 @@ window.BANK.chemistry = {
       "reduction",
       "notation"
      ],
-     "question": "The cell diagram for an electrochemical cell is shown in the PDF. What are the half-equations for the reactions in the half-cells? The diagram and options are not in the extraction.",
+     "question": "The cell diagram for an electrochemical cell is shown in the PDF. What are the half-equations for the reactions in the half-cells? The diagram and options are shown in the figure below.",
      "status": "ready",
      "answer": "B: left Fe2+ -> Fe3+ + e-; right Br2 + 2e- -> 2Br-",
      "steps": [
@@ -73832,7 +73835,7 @@ window.BANK.chemistry = {
       "repulsion",
       "reaction rate"
      ],
-     "question": "Persulfate ions react slowly with iodide ions unless Fe2+ or Fe3+ is added. Which is the most likely reason the uncatalysed reaction is slow? The options are not in the extraction.",
+     "question": "Persulfate ions react slowly with iodide ions unless Fe2+ or Fe3+ is added. Which is the most likely reason the uncatalysed reaction is slow? The options are shown in the figure below.",
      "status": "ready",
      "answer": "D: activation energy is high",
      "steps": [
@@ -73893,7 +73896,7 @@ window.BANK.chemistry = {
       "cell potential",
       "signs"
      ],
-     "question": "The emf of a cell is +0.57 V. The magnitudes of the two standard electrode potentials are 0.17 V and 0.40 V. What are the signs of the potentials of the right-hand and left-hand half-cells? The answer options are not in the extraction.",
+     "question": "The emf of a cell is +0.57 V. The magnitudes of the two standard electrode potentials are 0.17 V and 0.40 V. What are the signs of the potentials of the right-hand and left-hand half-cells? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "B: left-hand half-cell negative, right-hand half-cell positive",
      "steps": [
@@ -73923,7 +73926,7 @@ window.BANK.chemistry = {
       "definition",
       "list"
      ],
-     "question": "Standard electrode potentials can also be called the electrochemical series. Which statement is correct? The options are not in the extraction.",
+     "question": "Standard electrode potentials can also be called the electrochemical series. Which statement is correct? The options are shown in the figure below.",
      "status": "ready",
      "answer": "A: standard reduction potential; most negative to most positive",
      "steps": [
@@ -73982,7 +73985,7 @@ window.BANK.chemistry = {
       "chromium",
       "manganese"
      ],
-     "question": "In which pair of compounds does the transition metal have the same oxidation number? The answer options are not in the extraction.",
+     "question": "In which pair of compounds does the transition metal have the same oxidation number? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "D: VO3- and VO2+ (V is +5 in both)",
      "steps": [
@@ -74438,7 +74441,7 @@ window.BANK.chemistry = {
       "kinetics",
       "effect"
      ],
-     "question": "Using concentrated HCl instead of standard conditions causes significantly more chlorine to form from dichromate(VI). What is the effect on Ecell and on Ea? The answer options are not in the extraction.",
+     "question": "Using concentrated HCl instead of standard conditions causes significantly more chlorine to form from dichromate(VI). What is the effect on Ecell and on Ea? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "D: E(cell) more positive, Ea unchanged",
      "steps": [
@@ -74471,7 +74474,7 @@ window.BANK.chemistry = {
       "conventional notation",
       "half-cells"
      ],
-     "question": "Which is the diagram for the cell made from nickel and zinc half-cells that gives a positive cell potential? The options are not in the extraction (use the Data Booklet).",
+     "question": "Which is the diagram for the cell made from nickel and zinc half-cells that gives a positive cell potential? The options are shown in the figure below (use the Data Booklet).",
      "status": "ready",
      "answer": "A: Zn(s) | Zn2+(aq) || Ni2+(aq) | Ni(s)",
      "steps": [
@@ -74775,7 +74778,7 @@ window.BANK.chemistry = {
       "electrode potential",
       "order"
      ],
-     "question": "Which sequence shows ions in order of increasing strength as a reducing agent? The sequences (options) are not in the extraction.",
+     "question": "Which sequence shows ions in order of increasing strength as a reducing agent? The sequences (options) are shown in the figure below.",
      "status": "ready",
      "answer": "D: Fe2+ < V2+ < Cr2+",
      "steps": [
@@ -74806,7 +74809,7 @@ window.BANK.chemistry = {
       "electron transfer",
       "titration"
      ],
-     "question": "For 2KMnO4 + 10FeSO4 + 8H2SO4 -> K2SO4 + 2MnSO4 + 5Fe2(SO4)3 + 8H2O, which option shows the changes in oxidation states of iron and manganese? The options are not in the extraction.",
+     "question": "For 2KMnO4 + 10FeSO4 + 8H2SO4 -> K2SO4 + 2MnSO4 + 5Fe2(SO4)3 + 8H2O, which option shows the changes in oxidation states of iron and manganese? The options are shown in the figure below.",
      "status": "ready",
      "answer": "A: iron II -> III and manganese VII -> II",
      "steps": [
@@ -75142,7 +75145,7 @@ window.BANK.chemistry = {
       "inert electrode",
       "standard cell potential"
      ],
-     "question": "The apparatus is used to measure E(cell) for 2Cr3+(aq) + Zn(s) -> 2Cr2+(aq) + Zn2+(aq). Which electrodes are used for this cell? The options are not in the extraction.",
+     "question": "The apparatus is used to measure E(cell) for 2Cr3+(aq) + Zn(s) -> 2Cr2+(aq) + Zn2+(aq). Which electrodes are used for this cell? The options are shown in the figure below.",
      "status": "ready",
      "answer": "D: zinc for electrode 1 and platinum for electrode 2",
      "steps": [
@@ -75173,7 +75176,7 @@ window.BANK.chemistry = {
       "mass required",
       "Cr3+ ions"
      ],
-     "question": "What mass of Cr2(SO4)3.18H2O must be dissolved in 1.00 dm3 of water to give the Cr3+ concentration needed for the measurement? The required concentration is not in the extraction.",
+     "question": "What mass of Cr2(SO4)3.18H2O must be dissolved in 1.00 dm3 of water to give the Cr3+ concentration needed for the measurement? The required concentration is shown in the figure below.",
      "status": "ready",
      "answer": "C: 358 g",
      "steps": [
@@ -75237,7 +75240,7 @@ window.BANK.chemistry = {
       "relationship",
       "axes"
      ],
-     "question": "Which graph shows the relationship between a quantity on the x-axis and delta Stotal on the y-axis for any electrochemical system? The graphs are not in the extraction.",
+     "question": "Which graph shows the relationship between a quantity on the x-axis and delta Stotal on the y-axis for any electrochemical system? The graphs are shown in the figure below.",
      "status": "ready",
      "answer": "A: a straight line through the origin with positive gradient",
      "steps": [
@@ -75269,7 +75272,7 @@ window.BANK.chemistry = {
       "concentrations",
       "E cell 1.53 V"
      ],
-     "question": "Identify the substances needed in the salt bridge, the electrode and the solution of the right-hand half-cell for the standard cell, including concentrations. The cell diagram is not in the extraction.",
+     "question": "Identify the substances needed in the salt bridge, the electrode and the solution of the right-hand half-cell for the standard cell, including concentrations. The cell diagram is shown in the figure below.",
      "status": "ready",
      "answer": "A: potassium nitrate solution; B: platinum; C: solution containing Fe2+ and Fe3+ ions, each at 1.00 mol dm-3",
      "steps": [
@@ -75394,7 +75397,7 @@ window.BANK.chemistry = {
       "reduction",
       "half-cell"
      ],
-     "question": "Which statement is correct about standard electrode potentials? The statements are not in the extraction.",
+     "question": "Which statement is correct about standard electrode potentials? The statements are shown in the figure below.",
      "status": "ready",
      "answer": "B: E(cell) is proportional to ln K and delta S(total)",
      "steps": [
@@ -75519,7 +75522,7 @@ window.BANK.chemistry = {
       "titanium",
       "standard"
      ],
-     "question": "The electrode system Ti3+(aq) + e- -> Ti2+(aq) is shown. Calculate the value using the Data Booklet (the quantity to calculate is missing from the extraction).",
+     "question": "The electrode system Ti3+(aq) + e- -> Ti2+(aq) is shown. Calculate the value using the Data Booklet (the quantity to calculate is shown in the figure below).",
      "status": "ready",
      "answer": "E(cell) = +1.17 V",
      "steps": [
@@ -75675,7 +75678,7 @@ window.BANK.chemistry = {
       "electron transfer",
       "row"
      ],
-     "question": "Which row of the table shows the correct changes in oxidation states in the reaction MnO4- + 8H+ + 5Fe2+ -> 5Fe3+ + Mn2+ + 4H2O? The table is not in the extraction.",
+     "question": "Which row of the table shows the correct changes in oxidation states in the reaction MnO4- + 8H+ + 5Fe2+ -> 5Fe3+ + Mn2+ + 4H2O? The table is shown in the figure below.",
      "status": "ready",
      "answer": "D: manganese VII -> II, iron II -> III",
      "steps": [
@@ -75820,7 +75823,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-02.jpg",
       "papers/chemistry/img/17-Transition-Metals-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q1-3.jpg"
+     ]
     },
     {
      "id": "Ch17-Q2",
@@ -75906,7 +75911,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-03.jpg",
       "papers/chemistry/img/17-Transition-Metals-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q4.jpg"
+     ]
     },
     {
      "id": "Ch17-Q5",
@@ -75994,7 +76001,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-05.jpg",
       "papers/chemistry/img/17-Transition-Metals-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q6.jpg"
+     ]
     },
     {
      "id": "Ch17-Q7",
@@ -76086,7 +76095,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-10.jpg",
       "papers/chemistry/img/17-Transition-Metals-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q9-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q9b1",
@@ -76181,7 +76192,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-10.jpg",
       "papers/chemistry/img/17-Transition-Metals-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q9-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q9d1",
@@ -76247,7 +76260,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-10.jpg",
       "papers/chemistry/img/17-Transition-Metals-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q9-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q9e1",
@@ -76276,7 +76291,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-10.jpg",
       "papers/chemistry/img/17-Transition-Metals-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q9-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q9e2",
@@ -76367,7 +76384,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-10.jpg",
       "papers/chemistry/img/17-Transition-Metals-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q9-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q10",
@@ -76426,7 +76445,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-15.jpg",
       "papers/chemistry/img/17-Transition-Metals-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q11.jpg"
+     ]
     },
     {
      "id": "Ch17-Q11b",
@@ -76458,7 +76479,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-15.jpg",
       "papers/chemistry/img/17-Transition-Metals-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q11.jpg"
+     ]
     },
     {
      "id": "Ch17-Q11c",
@@ -76488,7 +76511,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-15.jpg",
       "papers/chemistry/img/17-Transition-Metals-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q11.jpg"
+     ]
     },
     {
      "id": "Ch17-Q12a",
@@ -76612,7 +76637,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-15.jpg",
       "papers/chemistry/img/17-Transition-Metals-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q12-4.jpg"
+     ]
     },
     {
      "id": "Ch17-Q12c2",
@@ -76645,7 +76672,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-15.jpg",
       "papers/chemistry/img/17-Transition-Metals-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q12-4.jpg"
+     ]
     },
     {
      "id": "Ch17-Q12c3",
@@ -76738,7 +76767,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-15.jpg",
       "papers/chemistry/img/17-Transition-Metals-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q12-4.jpg"
+     ]
     },
     {
      "id": "Ch17-Q12c6",
@@ -76772,7 +76803,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-15.jpg",
       "papers/chemistry/img/17-Transition-Metals-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q12-4.jpg"
+     ]
     },
     {
      "id": "Ch17-Q13",
@@ -76932,7 +76965,7 @@ window.BANK.chemistry = {
       "oxidised to Fe3+",
       "redox cycle"
      ],
-     "question": "Iodide ions are oxidised by peroxodisulfate. Fe2+ catalyses it because: A Fe2+ reacts with I- and S2O8 2- ... (options as given), D Fe2+ is oxidised to Fe3+ which is reduced back to Fe2+.",
+     "question": "Iodide ions are oxidised by peroxodisulfate ions in aqueous solution (2I- + S2O8 2- -> I2 + 2SO4 2-). The reaction is catalysed by adding Fe2+ ions. This catalysis is effective because: A Fe2+ reacts with iodide ions and with peroxodisulfate ions, B Fe2+ has many electrons in its outermost subshells, C Fe2+ has many active sites on which the reaction can occur, D Fe2+ is readily oxidised to Fe3+ which is then reduced to Fe2+.",
      "status": "ready",
      "answer": "D - Fe2+ is oxidised to Fe3+, which is then reduced back to Fe2+",
      "steps": [
@@ -77073,7 +77106,7 @@ window.BANK.chemistry = {
       "chromium complex",
       "complex"
      ],
-     "question": "What are the shapes of the Pt(NH3)2Cl2 complex and the chromium complex? (Chromium complex formula missing from the text.)",
+     "question": "What are the shapes of the Pt(NH3)2Cl2 complex and the chromium complex? (Chromium complex formula shown in the figure below.)",
      "status": "ready",
      "answer": "D: Pt(NH3)2Cl2 is square planar and CrCl4- is tetrahedral",
      "steps": [
@@ -77479,7 +77512,7 @@ window.BANK.chemistry = {
       "yellow-brown solution",
       "sequence of observations"
      ],
-     "question": "Aqueous ammonia is added drop by drop to CoCl2(aq) until in excess. What is the sequence of observations? A blue, pink ppt, dark blue, B pink, blue ppt, C blue, pink ppt, D pink solution, blue precipitate, yellow-brown solution.",
+     "question": "Aqueous ammonia is added drop by drop to a solution of cobalt(II) chloride, CoCl2(aq), until in excess. What would be the sequence of observations? A blue solution -> pink precipitate -> dark blue solution, B pink solution -> blue precipitate, C blue solution -> pink precipitate, D pink solution -> blue precipitate -> yellow-brown solution.",
      "status": "ready",
      "answer": "D - pink solution, blue precipitate, yellow-brown solution",
      "steps": [
@@ -77538,7 +77571,7 @@ window.BANK.chemistry = {
       "autocatalyst",
       "heterogeneous"
      ],
-     "question": "Which term best describes the type of catalyst in part (a)? A autocatalyst, B biocatalyst, C heterogeneous, D homogeneous.",
+     "question": "(Part (a) concerns the catalysed reaction S2O8 2- + 2I- -> 2SO4 2- + I2.) Which term best describes the type of catalyst for the reaction in part (a)? A autocatalyst, B biocatalyst, C heterogeneous, D homogeneous.",
      "status": "ready",
      "answer": "D - homogeneous",
      "steps": [
@@ -77728,7 +77761,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-29.jpg",
       "papers/chemistry/img/17-Transition-Metals-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q33.jpg"
+     ]
     },
     {
      "id": "Ch17-Q33d1",
@@ -78168,7 +78203,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-36.jpg",
       "papers/chemistry/img/17-Transition-Metals-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q40-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q40c2",
@@ -78199,7 +78236,8 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-37.jpg"
      ],
      "figures": [
-      "papers/chemistry/fig/17-Transition-Metals-Q40.jpg"
+      "papers/chemistry/fig/17-Transition-Metals-Q40.jpg",
+      "papers/chemistry/fig/17-Transition-Metals-Q40-2.jpg"
      ]
     },
     {
@@ -78233,7 +78271,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-36.jpg",
       "papers/chemistry/img/17-Transition-Metals-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q40-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q40d",
@@ -78404,7 +78444,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-41.jpg",
       "papers/chemistry/img/17-Transition-Metals-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q45-3.jpg"
+     ]
     },
     {
      "id": "Ch17-Q45a2",
@@ -78431,7 +78473,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-41.jpg",
       "papers/chemistry/img/17-Transition-Metals-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q45-3.jpg"
+     ]
     },
     {
      "id": "Ch17-Q45a3",
@@ -78462,7 +78506,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-41.jpg",
       "papers/chemistry/img/17-Transition-Metals-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q45-3.jpg"
+     ]
     },
     {
      "id": "Ch17-Q45b",
@@ -78491,7 +78537,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-41.jpg",
       "papers/chemistry/img/17-Transition-Metals-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q45-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q45c1",
@@ -78581,7 +78629,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-41.jpg",
       "papers/chemistry/img/17-Transition-Metals-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q45-4.jpg"
+     ]
     },
     {
      "id": "Ch17-Q46a",
@@ -79301,7 +79351,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-50.jpg",
       "papers/chemistry/img/17-Transition-Metals-51.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q52.jpg"
+     ]
     },
     {
      "id": "Ch17-Q53",
@@ -79602,7 +79654,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-55.jpg",
       "papers/chemistry/img/17-Transition-Metals-56.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q58.jpg"
+     ]
     },
     {
      "id": "Ch17-Q58e",
@@ -79630,7 +79684,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-55.jpg",
       "papers/chemistry/img/17-Transition-Metals-56.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q58-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q58f",
@@ -79661,7 +79717,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-55.jpg",
       "papers/chemistry/img/17-Transition-Metals-56.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q58-3.jpg"
+     ]
     },
     {
      "id": "Ch17-Q59a",
@@ -80075,7 +80133,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-64.jpg",
       "papers/chemistry/img/17-Transition-Metals-65.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q70.jpg"
+     ]
     },
     {
      "id": "Ch17-Q70b",
@@ -80104,7 +80164,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-64.jpg",
       "papers/chemistry/img/17-Transition-Metals-65.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q70.jpg"
+     ]
     },
     {
      "id": "Ch17-Q70c",
@@ -80136,7 +80198,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-64.jpg",
       "papers/chemistry/img/17-Transition-Metals-65.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q70-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q70d",
@@ -80226,7 +80290,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-64.jpg",
       "papers/chemistry/img/17-Transition-Metals-65.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q70.jpg"
+     ]
     },
     {
      "id": "Ch17-Q71",
@@ -80337,7 +80403,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-66.jpg",
       "papers/chemistry/img/17-Transition-Metals-67.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q72.jpg"
+     ]
     },
     {
      "id": "Ch17-Q72b2",
@@ -80363,7 +80431,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-66.jpg",
       "papers/chemistry/img/17-Transition-Metals-67.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q72.jpg"
+     ]
     },
     {
      "id": "Ch17-Q72c",
@@ -80391,7 +80461,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-66.jpg",
       "papers/chemistry/img/17-Transition-Metals-67.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q72-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q73",
@@ -80418,7 +80490,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-67.jpg",
       "papers/chemistry/img/17-Transition-Metals-68.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q73.jpg"
+     ]
     },
     {
      "id": "Ch17-Q74a",
@@ -81114,7 +81188,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-77.jpg",
       "papers/chemistry/img/17-Transition-Metals-78.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q82-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q82d1",
@@ -81144,7 +81220,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-77.jpg",
       "papers/chemistry/img/17-Transition-Metals-78.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q82-3.jpg"
+     ]
     },
     {
      "id": "Ch17-Q82d2",
@@ -81473,7 +81551,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-86.jpg",
       "papers/chemistry/img/17-Transition-Metals-87.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q91-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q91a2",
@@ -81505,7 +81585,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-86.jpg",
       "papers/chemistry/img/17-Transition-Metals-87.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q91-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q91b1",
@@ -81535,7 +81617,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-86.jpg",
       "papers/chemistry/img/17-Transition-Metals-87.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q91-3.jpg",
+      "papers/chemistry/fig/17-Transition-Metals-Q91-4.jpg"
+     ]
     },
     {
      "id": "Ch17-Q91b2",
@@ -81564,7 +81649,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-86.jpg",
       "papers/chemistry/img/17-Transition-Metals-87.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q91-4.jpg"
+     ]
     },
     {
      "id": "Ch17-Q91b3",
@@ -81594,7 +81681,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-86.jpg",
       "papers/chemistry/img/17-Transition-Metals-87.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q91-3.jpg",
+      "papers/chemistry/fig/17-Transition-Metals-Q91-4.jpg"
+     ]
     },
     {
      "id": "Ch17-Q91c1",
@@ -81743,7 +81833,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-88.jpg",
       "papers/chemistry/img/17-Transition-Metals-89.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q92-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q92b1",
@@ -81945,7 +82037,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-91.jpg",
       "papers/chemistry/img/17-Transition-Metals-92.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q96.jpg"
+     ]
     },
     {
      "id": "Ch17-Q96a2",
@@ -82005,7 +82099,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-91.jpg",
       "papers/chemistry/img/17-Transition-Metals-92.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q96-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q96c",
@@ -82363,7 +82459,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-95.jpg",
       "papers/chemistry/img/17-Transition-Metals-96.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q100-2.jpg"
+     ]
     },
     {
      "id": "Ch17-Q101",
@@ -82524,7 +82622,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/17-Transition-Metals-97.jpg",
       "papers/chemistry/img/17-Transition-Metals-98.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/17-Transition-Metals-Q103.jpg"
+     ]
     },
     {
      "id": "Ch17-Q103d2",
@@ -82618,7 +82718,7 @@ window.BANK.chemistry = {
       "colour change",
       "copper hydroxide"
      ],
-     "question": "Explain the changes when dilute aqueous ammonia is added gradually to [CuCl4]2-, referring to formulae, shapes and colours at each stage. (The sequence of observations is missing from the text.)",
+     "question": "Explain the changes when dilute aqueous ammonia is added gradually to [CuCl4]2-, referring to formulae, shapes and colours at each stage. (The sequence of observations is shown in the figure below.)",
      "status": "ready",
      "answer": "Yellow tetrahedral [CuCl4]2- first forms pale blue octahedral [Cu(H2O)6]2+ (water replaces chloride); then ammonia acts as a base to give pale blue Cu(OH)2(H2O)4 precipitate; in excess ammonia ligand exchange gives deep blue [Cu(NH3)4(H2O)2]2+.",
      "steps": [
@@ -82904,7 +83004,7 @@ window.BANK.chemistry = {
       "product",
       "sulfonic acid"
      ],
-     "question": "What is the product when benzene reacts with fuming sulfuric acid? The answer options are not in the extraction.",
+     "question": "What is the product when benzene reacts with fuming sulfuric acid? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "D: benzenesulfonic acid, C6H5SO3H",
      "steps": [
@@ -82935,7 +83035,7 @@ window.BANK.chemistry = {
       "chlorinated",
       "could not be formed"
      ],
-     "question": "Which of the given compounds could NOT be formed when excess benzene is heated with trichloromethane (CHCl3) in the presence of aluminium chloride? The options (structures) are not in the extraction.",
+     "question": "Which of the given compounds could NOT be formed when excess benzene is heated with trichloromethane (CHCl3) in the presence of aluminium chloride? The options (structures) are shown in the figure below.",
      "status": "ready",
      "answer": "D: tetraphenylmethane, C(C6H5)4",
      "steps": [
@@ -82966,7 +83066,7 @@ window.BANK.chemistry = {
       "sideways overlap",
       "orbital"
      ],
-     "question": "The delocalised electrons in benzene result from the overlap of which orbitals? Options A and B (s orbitals) and C and D (p orbitals) are given, differing in the bond symbol (Greek letter) lost in the extraction.",
+     "question": "The delocalised electrons in benzene result from the overlap of which orbitals? Options A and B (s orbitals) and C and D (p orbitals) are given, differing in the bond symbol (Greek letter) shown in the figure below.",
      "status": "ready",
      "answer": "D: p orbitals overlapping sideways to form pi bonds",
      "steps": [
@@ -83058,7 +83158,7 @@ window.BANK.chemistry = {
       "molecule",
       "covalent"
      ],
-     "question": "How many sigma and how many pi bonds are there in a molecule of benzene? The answer options are not in the extraction.",
+     "question": "How many sigma and how many pi bonds are there in a molecule of benzene? The answer options are shown in the figure below.",
      "status": "ready",
      "answer": "C: 12 sigma bonds and 3 pi bonds",
      "steps": [
@@ -83150,7 +83250,7 @@ window.BANK.chemistry = {
       "rate",
       "statement"
      ],
-     "question": "Which is correct for the reaction of bromine with phenol when compared with benzene? The options are not in the extraction.",
+     "question": "Which is correct for the reaction of bromine with phenol when compared with benzene? The options are shown in the figure below.",
      "status": "ready",
      "answer": "A: phenol is more reactive, with a higher electron density in the ring",
      "steps": [
@@ -83312,7 +83412,7 @@ window.BANK.chemistry = {
       "electrophilic substitution",
       "aluminium chloride"
      ],
-     "question": "Complete the mechanism, including curly arrows, for the Friedel-Crafts acylation of benzene to phenylethanone (describe the steps in words, as the diagram is not in the extraction).",
+     "question": "Complete the mechanism, including curly arrows, for the Friedel-Crafts acylation of benzene to phenylethanone (describe the steps in words, as the diagram is shown in the figure below).",
      "status": "ready",
      "answer": "The CH3CO+ electrophile is attacked by the benzene pi electrons, forming an arrowed C-C bond and a delocalised arenium cation; a base (AlCl4-) removes H+, restoring the ring and giving phenylethanone",
      "steps": [
@@ -83779,7 +83879,7 @@ window.BANK.chemistry = {
       "equation",
       "benzene"
      ],
-     "question": "The formation of nitrobenzene requires benzene and concentrated nitric and sulfuric acids. Which is an equation for the reaction that forms the electrophile? The options are not in the extraction.",
+     "question": "The formation of nitrobenzene requires benzene and concentrated nitric and sulfuric acids. Which is an equation for the reaction that forms the electrophile? The options are shown in the figure below.",
      "status": "ready",
      "answer": "B: HNO3 + 2H2SO4 -> NO2+ + 2HSO4- + H3O+",
      "steps": [
@@ -83873,7 +83973,7 @@ window.BANK.chemistry = {
       "hydrogen",
       "kekule"
      ],
-     "question": "Complete the incomplete Hess cycle for benzene by adding balancing numbers (the cycle diagram is not in the extraction).",
+     "question": "Complete the incomplete Hess cycle for benzene by adding balancing numbers (the cycle diagram is shown in the figure below).",
      "status": "ready",
      "answer": "6C(g) + 6H(g) (top left); 6C(s) + 3H2(g) (bottom left)",
      "steps": [
@@ -83904,7 +84004,7 @@ window.BANK.chemistry = {
       "bond enthalpy",
       "calculation"
      ],
-     "question": "Calculate the mean carbon-carbon bond enthalpy in benzene using the completed Hess cycle and the data shown in the PDF (the enthalpy data table is not in the extraction).",
+     "question": "Calculate the mean carbon-carbon bond enthalpy in benzene using the completed Hess cycle and the data shown in the PDF (the enthalpy data table is shown in the figure below).",
      "status": "ready",
      "answer": "+507 kJ mol^-1",
      "steps": [
@@ -83952,9 +84052,7 @@ window.BANK.chemistry = {
       "papers/chemistry/img/18-Arenes-20.jpg",
       "papers/chemistry/img/18-Arenes-21.jpg"
      ],
-     "figures": [
-      "papers/chemistry/fig/18-Arenes-Q25-3.jpg"
-     ]
+     "figures": []
     },
     {
      "id": "Ch18-Q25b",
@@ -84015,9 +84113,7 @@ window.BANK.chemistry = {
       "papers/chemistry/img/18-Arenes-20.jpg",
       "papers/chemistry/img/18-Arenes-21.jpg"
      ],
-     "figures": [
-      "papers/chemistry/fig/18-Arenes-Q25-3.jpg"
-     ]
+     "figures": []
     },
     {
      "id": "Ch18-Q26",
@@ -84742,7 +84838,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/19-Organic-Nitrogen-14.jpg",
       "papers/chemistry/img/19-Organic-Nitrogen-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/19-Organic-Nitrogen-Q15.jpg"
+     ]
     },
     {
      "id": "Ch19-Q16a",
@@ -84801,7 +84899,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/19-Organic-Nitrogen-14.jpg",
       "papers/chemistry/img/19-Organic-Nitrogen-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/19-Organic-Nitrogen-Q16-3.jpg"
+     ]
     },
     {
      "id": "Ch19-Q16c",
@@ -85091,7 +85191,7 @@ window.BANK.chemistry = {
      ],
      "question": "Amines can be prepared by reducing nitriles. Identify the nitrile and the reducing agent used to prepare butylamine.",
      "status": "ready",
-     "answer": "Butanenitrile, CH3CH2CH2CN, reduced by LiAlH4 in dry ether (or H2 with a nickel catalyst).",
+     "answer": "C: butanenitrile, CH3CH2CH2CN, reduced by lithium tetrahydridoaluminate(III), LiAlH4, in dry ether (H2 with a nickel catalyst would also work, but it is not offered).",
      "steps": [
       "Reduction of a nitrile RCN gives a primary amine RCH2NH2, with the C of CN becoming CH2.",
       "Butylamine is CH3CH2CH2CH2NH2, so the nitrile has R = CH3CH2CH2.",
@@ -85103,7 +85203,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/19-Organic-Nitrogen-21.jpg",
       "papers/chemistry/img/19-Organic-Nitrogen-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/19-Organic-Nitrogen-Q22.jpg"
+     ]
     },
     {
      "id": "Ch19-Q23",
@@ -88279,15 +88381,22 @@ window.BANK.chemistry = {
       "benzene"
      ],
      "question": "A student drew a mechanism for nitrobenzene formation. Describe the three changes needed to correct it. The student's diagram is only in the PDF.",
-     "status": "pending",
-     "answer": "Needs the student's mechanism diagram from the PDF to identify the three errors.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Change 1: the first curly arrow must start from the delocalised ring (pi electrons) and end on the N atom of NO2+, not the other way round. Change 2: the intermediate must be a horseshoe covering five carbons with a + inside, not a full circle, because the carbon bonded to H and NO2 is sp3. Change 3: the last curly arrow must start from the C-H bond (not from the H atom) and go into the ring to restore the delocalised ring and release H+.",
+     "steps": [
+      "Curly arrows show electron pairs moving from the electron-rich ring (nucleophile) to the electron-deficient NO2+ (electrophile), so the student's first arrow is drawn in the wrong direction.",
+      "Correct first step: arrow from inside the benzene ring to the N of NO2+, forming a C-N bond.",
+      "The intermediate has one sp3 carbon (bearing H and NO2) that breaks the delocalisation: draw a partial ring (horseshoe) over the other five carbons with a + inside, with H and NO2 both on the sp3 carbon.",
+      "Final step: curly arrow from the C-H bond into the ring, so the electrons restore the delocalised ring and H+ leaves; the arrow must start at the bond, not at the H atom."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-001.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-002.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-003.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q1.jpg"
+     ]
     },
     {
      "id": "Ch20-Q1a(ii)",
@@ -88315,7 +88424,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-002.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-003.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q1-4.jpg"
+     ]
     },
     {
      "id": "Ch20-Q1b(i)",
@@ -88400,7 +88511,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-002.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-003.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q1-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q1c(ii)",
@@ -88416,15 +88529,21 @@ window.BANK.chemistry = {
       "organic compound"
      ],
      "question": "Deduce the structure of the organic compound that reacts with the diazonium ion in Step 2 to form azo violet.",
-     "status": "pending",
-     "answer": "Needs the azo violet structure from the PDF to identify the coupling partner.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Benzene-1,3-diol (resorcinol), C6H4(OH)2 with the two OH groups meta to each other.",
+     "steps": [
+      "Step 2 is a coupling reaction: the diazonium ion attacks an activated benzene ring and replaces one ring H, so the coupling partner is azo violet with the N=N-C6H4NO2 group replaced by H.",
+      "In azo violet the ring carries two OH groups meta to each other (positions 1 and 3), and the azo group is on C4, ortho to one OH and para to the other.",
+      "Removing the azo group leaves C6H4(OH)2, benzene-1,3-diol (coupling is carried out in alkaline solution)."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-001.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-002.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-003.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q1-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q1c(iii)",
@@ -88452,7 +88571,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-002.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-003.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q1-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q1d",
@@ -88468,15 +88589,21 @@ window.BANK.chemistry = {
       "complete diagram"
      ],
      "question": "Complete the diagram to show the other optical isomer of phenylalanine.",
-     "status": "pending",
-     "answer": "Needs the partial diagram from the PDF to draw the mirror-image enantiomer.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw the mirror image: H on the vertical plain bond at the top, CH2C6H5 on the dashed bond going up to the left, COOH on the wedge bond going down to the left, and H2N on the plain bond going down to the right.",
+     "steps": [
+      "Optical isomers (enantiomers) are non-superimposable mirror images, so every group is reflected across the mirror line.",
+      "Reflection swaps left and right but keeps the bond types: the dashed CH2C6H5 bond goes to the left, the wedge COOH bond goes to the left, and the plain NH2 bond goes to the right.",
+      "The H stays at the top on the vertical bond because it lies on the mirror line."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-001.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-002.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-003.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q1-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q2",
@@ -88493,7 +88620,7 @@ window.BANK.chemistry = {
      ],
      "question": "A solution contains 19.6 g dm-3 of Cr2(SO4)3 (Mr 392). Options A 0.05, B 0.10, C 0.15, D 0.25 are given. The question wording is missing from the text.",
      "status": "pending",
-     "answer": "Question stem missing from the text. Concentration of Cr2(SO4)3 is 0.05 mol dm-3; check which species the PDF asks for.",
+     "answer": "The question stem is cut off on the paper page too: it gives 19.6 g dm-3 of Cr2(SO4)3 (Mr 392), which is 0.050 mol dm-3, but it never says which concentration is asked for (Cr3+ would be 0.10, SO4 2- would be 0.15), so the option cannot be chosen.",
      "steps": [],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-004.jpg",
@@ -88567,7 +88694,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-008.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-009.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q4.jpg"
+     ]
     },
     {
      "id": "Ch20-Q4b(i)",
@@ -88629,7 +88758,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-008.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-009.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q4.jpg"
+     ]
     },
     {
      "id": "Ch20-Q4c(i)",
@@ -88692,7 +88823,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-008.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-009.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q4.jpg"
+     ]
     },
     {
      "id": "Ch20-Q4d",
@@ -88709,7 +88842,7 @@ window.BANK.chemistry = {
      ],
      "question": "Explain why solutions containing [La(H2O)9]3+ ... (the question is cut off in the text).",
      "status": "pending",
-     "answer": "Question wording is cut off in the text; needs the full question from the PDF.",
+     "answer": "The question stops after \"Explain why solutions containing [La(H2O)9]3+\" on the paper page itself, so the property to be explained is not stated and it cannot be answered.",
      "steps": [],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-004.jpg",
@@ -88719,7 +88852,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-008.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-009.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q4.jpg"
+     ]
     },
     {
      "id": "Ch20-Q4e(i)",
@@ -88783,7 +88918,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-008.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-009.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q4.jpg"
+     ]
     },
     {
      "id": "Ch20-Q4f",
@@ -88817,7 +88954,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-008.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-009.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q4-2.jpg",
+      "papers/chemistry/fig/20-Organic-Synthesis-Q4-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q5",
@@ -88832,10 +88972,14 @@ window.BANK.chemistry = {
       "options",
       "dative bond"
      ],
-     "question": "Which of the following species will not act as a ligand in the formation of a complex ion? The options are in the PDF and are not present in the text.",
-     "status": "pending",
-     "answer": "Needs the list of species from the PDF options.",
-     "steps": [],
+     "question": "Which of the following species will not act as a ligand in the formation of a complex ion? The options are in the PDF and are shown in the figure below.",
+     "status": "ready",
+     "answer": "D: NH4+",
+     "steps": [
+      "A ligand must donate a lone pair to the metal ion to form a dative (coordinate) bond.",
+      "CH3NH2, CN- and NH3 each have a lone pair on N (or C in CN-).",
+      "NH4+ has no lone pair (all four N-H bonds use the N electrons), so it cannot act as a ligand."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-009.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-010.jpg",
@@ -88843,7 +88987,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-012.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-013.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q5.jpg"
+     ]
     },
     {
      "id": "Ch20-Q6a",
@@ -88874,7 +89020,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-012.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-013.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q6-4.jpg"
+     ]
     },
     {
      "id": "Ch20-Q6b",
@@ -88905,7 +89053,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-012.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-013.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q6-4.jpg"
+     ]
     },
     {
      "id": "Ch20-Q6c",
@@ -88967,7 +89117,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-012.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-013.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q6-4.jpg"
+     ]
     },
     {
      "id": "Ch20-Q6d(ii)",
@@ -88997,7 +89149,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-012.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-013.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q6-4.jpg"
+     ]
     },
     {
      "id": "Ch20-Q6e",
@@ -89013,9 +89167,14 @@ window.BANK.chemistry = {
       "enthalpy change"
      ],
      "question": "Use benzene thermochemistry to explain both enthalpy changes of hydrogenation in the table, relative to hex-3-ene (-118 kJ mol-1). The table values are in the PDF.",
-     "status": "pending",
-     "answer": "Needs the table of two alkene hydrogenation enthalpy values from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "E-hexa-1,4-diene (-236 kJ mol-1): its two C=C bonds are isolated, so each hydrogenates like hex-3-ene and the enthalpy is 2 x (-118) = -236. E-hexa-1,3-diene (-214 kJ mol-1): its C=C bonds are conjugated, so the pi electrons are partly delocalised, giving extra stability and a less exothermic hydrogenation (22 kJ mol-1 less than -236).",
+     "steps": [
+      "Hex-3-ene has one C=C and releases -118 kJ mol-1 on hydrogenation, so a molecule with two independent C=C bonds should give 2 x (-118) = -236 kJ mol-1.",
+      "1,4-diene: the C=C bonds are separated by a CH2 group, so they do not interact and the measured -236 matches the prediction.",
+      "1,3-diene: the C=C bonds are conjugated (C=C-C=C), so the pi electrons are delocalised over four carbons, as in benzene, which lowers the energy of the molecule.",
+      "A more stable reactant releases less energy when hydrogenated: -214 is 22 kJ mol-1 less exothermic than -236, which is the stabilisation from delocalisation (smaller than the benzene value because delocalisation is only partial)."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-009.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-010.jpg",
@@ -89023,7 +89182,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-012.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-013.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q6.jpg"
+     ]
     },
     {
      "id": "Ch20-Q6f(i)",
@@ -89070,9 +89231,14 @@ window.BANK.chemistry = {
       "justify"
      ],
      "question": "Identify compound X from its 13C NMR spectrum, using the number of peaks to justify.",
-     "status": "pending",
-     "answer": "Needs the 13C NMR spectrum from the PDF to count the peaks.",
-     "steps": [],
+     "status": "ready",
+     "answer": "X is 1-(4-methylphenyl)ethanone (4-methylacetophenone), the para isomer, because it has 7 carbon environments and the spectrum shows 7 peaks.",
+     "steps": [
+      "Count the peaks: 197, 143, 134, two very close peaks at about 129, 26 and 21 ppm, a total of 7 peaks.",
+      "The para isomer has a plane of symmetry: C=O, COCH3, ring CH3, ring C-COCH3, ring C-CH3, the two equivalent C2/C6 and the two equivalent C3/C5 give 7 environments.",
+      "The ortho and meta isomers have no symmetry, so each would show 9 peaks.",
+      "Peak assignment: 197 C=O, 143 and 134 substituted ring carbons, about 129 two ring CH carbons, 26 COCH3, 21 ArCH3."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-009.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-010.jpg",
@@ -89080,7 +89246,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-012.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-013.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q6-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q6f(iii)",
@@ -89112,7 +89280,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-012.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-013.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q6-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q7a(i)",
@@ -89140,7 +89310,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-015.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-016.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q7.jpg"
+     ]
     },
     {
      "id": "Ch20-Q7a(ii)",
@@ -89168,7 +89340,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-015.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-016.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q7.jpg"
+     ]
     },
     {
      "id": "Ch20-Q7b",
@@ -89243,9 +89417,14 @@ window.BANK.chemistry = {
       "structure effect"
      ],
      "question": "Explain what the alternative diagram of caffeine indicates about its bonding and the effect on its structure.",
-     "status": "pending",
-     "answer": "Needs the alternative caffeine diagram from the PDF to identify the bonding shown.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The circle in the five-membered ring shows delocalised pi electrons, so the ring is aromatic: all the ring bonds are the same intermediate length (no separate single and double bonds) and the ring is planar, which stabilises the molecule.",
+     "steps": [
+      "In the passage the ring has fixed C=C and C=N double bonds; the alternative diagram replaces them with a circle in the imidazole ring.",
+      "A circle means the pi electrons are delocalised over the whole five-membered ring, with the N lone pair taking part.",
+      "Effect on structure: the ring is planar and the C-N and C-C bonds in the ring are equal in length, between single and double bond lengths.",
+      "Delocalisation makes the ring more stable (and the N atoms less basic)."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-016.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-017.jpg",
@@ -89254,7 +89433,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-020.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-021.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q8.jpg",
+      "papers/chemistry/fig/20-Organic-Synthesis-Q8-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q8a(ii)",
@@ -89286,7 +89468,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-020.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-021.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q8-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q8b(i)",
@@ -89318,7 +89502,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-020.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-021.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q8-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q8b(ii)",
@@ -89365,9 +89551,15 @@ window.BANK.chemistry = {
       "curly arrows"
      ],
      "question": "Draw the mechanism of the proposed electrophilic substitution of 1,2-dihydroxybenzene to give caffeic acid, including formation of the electrophile.",
-     "status": "pending",
-     "answer": "Needs the caffeic acid and electrophile structures from the PDF to draw the mechanism.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Electrophile (Friedel-Crafts type, e.g.): ClCH=CHCOOH + AlCl3 -> +CH=CHCOOH + AlCl4-. Pi electrons of 1,2-dihydroxybenzene (attacking C4, para to one OH) go to the electrophile carbon; the arenium ion is a horseshoe over five carbons with + inside and H and CH=CHCOOH on the sp3 carbon; AlCl4- removes H+ (arrow from C-H bond into the ring) to give caffeic acid, with AlCl4- + H+ -> AlCl3 + HCl.",
+     "steps": [
+      "Formation of the electrophile: ClCH=CHCOOH + AlCl3 -> +CH=CHCOOH + AlCl4- (the aluminium chloride accepts Cl- from the halogenated acid).",
+      "Curly arrow from the delocalised ring of 1,2-dihydroxybenzene to the positive carbon of the electrophile; substitution occurs para to one OH group (an activating, 2,4-directing group), giving the 3,4-dihydroxyphenyl pattern of caffeic acid.",
+      "Intermediate: horseshoe over five ring carbons with + inside, and H and CH=CHCOOH on the same sp3 carbon.",
+      "Curly arrow from the C-H bond back into the ring, with H+ taken by AlCl4-; the ring is restored.",
+      "Catalyst regeneration: AlCl4- + H+ -> AlCl3 + HCl. The question does not name the electrophile, so any sensible carbocation that carries the CH=CHCOOH group is acceptable."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-016.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-017.jpg",
@@ -89376,7 +89568,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-020.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-021.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q8-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q8c(ii)",
@@ -89392,9 +89586,13 @@ window.BANK.chemistry = {
       "combination"
      ],
      "question": "Deduce the structure of quinic acid that combines with caffeic acid to form chlorogenic acid.",
-     "status": "pending",
-     "answer": "Needs the quinic acid structure from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Quinic acid is 1,3,4,5-tetrahydroxycyclohexane-1-carboxylic acid: a cyclohexane ring with C1 bearing both COOH and OH, OH groups on C3, C4 and C5, and CH2 groups at C2 and C6 (SMILES OC(=O)C1(O)CC(O)C(O)C(O)C1).",
+     "steps": [
+      "Chlorogenic acid is an ester, so hydrolysing the ester link gives caffeic acid plus the alcohol part.",
+      "The alcohol part is the cyclohexane ring: the carbon that carries the ester oxygen becomes C-OH.",
+      "So quinic acid has the same ring as in chlorogenic acid with that O-C(=O)R replaced by OH: C1(OH)(COOH), C3(OH), C4(OH), C5(OH), with C2 and C6 as CH2."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-016.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-017.jpg",
@@ -89403,7 +89601,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-020.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-021.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q8-3.jpg",
+      "papers/chemistry/fig/20-Organic-Synthesis-Q8-4.jpg"
+     ]
     },
     {
      "id": "Ch20-Q8d(i)",
@@ -89419,9 +89620,13 @@ window.BANK.chemistry = {
       "B C"
      ],
      "question": "Identify and label the other proton environments on the acetoin structure, labelling them B, C etc.",
-     "status": "pending",
-     "answer": "Needs the acetoin structure from the PDF to label the other environments.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A = CH3 next to C=O (already labelled). B = the CH hydrogen on the carbon bearing OH. C = the OH hydrogen. D = the CH3 group attached to the CH(OH) carbon.",
+     "steps": [
+      "Acetoin is CH3-CO-CH(OH)-CH3, which has four proton environments.",
+      "Environment A is the CH3 on the C=O side; the other three are the CH (B), the OH (C) and the CH3 on the CH(OH) carbon (D).",
+      "Any consistent labelling of the three remaining environments is accepted."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-016.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-017.jpg",
@@ -89430,7 +89635,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-020.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-021.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q8-5.jpg"
+     ]
     },
     {
      "id": "Ch20-Q8d(ii)",
@@ -89446,9 +89653,14 @@ window.BANK.chemistry = {
       "doublet"
      ],
      "question": "Complete the table to show the splitting pattern in the high resolution proton NMR spectrum of acetoin.",
-     "status": "pending",
-     "answer": "Needs the table layout from the PDF to fill in splitting patterns.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A (CH3 next to C=O): singlet. B (CH-OH hydrogen): quartet. C (OH): singlet. D (CH3 on the CH(OH) carbon): doublet.",
+     "steps": [
+      "Splitting follows the n+1 rule using hydrogens on adjacent carbons.",
+      "A: the neighbouring carbon is the C=O with no H, so a singlet. D: next to one CH hydrogen, so a doublet.",
+      "B: next to the CH3 (3 H), so a quartet (the OH proton is not coupled because of exchange).",
+      "C: the OH proton gives a singlet (broad), so only four of the rows in the table are needed."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-016.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-017.jpg",
@@ -89457,7 +89669,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-020.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-021.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q8-5.jpg",
+      "papers/chemistry/fig/20-Organic-Synthesis-Q8-6.jpg"
+     ]
     },
     {
      "id": "Ch20-Q9",
@@ -89608,14 +89823,20 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "How many peaks will the 13C NMR spectrum of the hydrocarbon shown have? Options: four, five, seven, eight.",
-     "status": "pending",
-     "answer": "Needs the hydrocarbon structure from the PDF to count carbon environments.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: five",
+     "steps": [
+      "The compound is 1,1-dimethylcyclohexane: the two CH3 groups are on the same carbon.",
+      "The two CH3 carbons are equivalent (1 peak); C1 (quaternary) is 1 peak.",
+      "C2 and C6 are equivalent (1 peak), C3 and C5 are equivalent (1 peak) and C4 is unique (1 peak): 5 environments in all."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-023.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-024.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q13.jpg"
+     ]
     },
     {
      "id": "Ch20-Q14",
@@ -89630,14 +89851,21 @@ window.BANK.chemistry = {
       "aliphatic compound"
      ],
      "question": "What are the bond stretches responsible for peaks P and Q in the IR spectrum of an aliphatic compound?",
-     "status": "pending",
-     "answer": "Needs the IR spectrum and option list from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: P is C-H of an aldehyde and Q is C=O of an aldehyde",
+     "steps": [
+      "Q is the strong sharp peak at about 1730 cm-1: a C=O stretch (aldehyde 1720-1740; acids are lower and broader).",
+      "P lies at 2700-3000 cm-1 and shows sharp peaks, including the pair near 2720 and 2820 cm-1 that are characteristic of the aldehyde C-H.",
+      "A carboxylic acid O-H would appear as a very broad trough from 2500 to 3300 cm-1, which is not present, so options A to C are rejected."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-024.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-025.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q14.jpg",
+      "papers/chemistry/fig/20-Organic-Synthesis-Q14-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q15",
@@ -89844,15 +90072,21 @@ window.BANK.chemistry = {
       "complex ions"
      ],
      "question": "Complete the table to identify the type of each reaction in the iron scheme.",
-     "status": "pending",
-     "answer": "Needs the table layout from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Reaction 2: tick under Ligand exchange only. Reaction 3: tick under Redox only. No ticks under Neutralisation.",
+     "steps": [
+      "Reaction 2: [Fe(H2O)6]2+ -> [Fe(CN)6]4-: water ligands are replaced by cyanide with no change in oxidation state (Fe stays +2), so it is ligand exchange.",
+      "Reaction 3: [Fe(CN)6]4- + Cl2 -> [Fe(CN)6]3-: Fe goes from +2 to +3 and Cl2 is reduced, so it is redox.",
+      "Neither reaction involves an acid reacting with a base, so neutralisation is not ticked."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-026.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-027.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-028.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q17.jpg"
+     ]
     },
     {
      "id": "Ch20-Q18a",
@@ -89867,9 +90101,13 @@ window.BANK.chemistry = {
       "antioxidant"
      ],
      "question": "Complete the left-hand side of the equation for the reaction of a free radical with curcumin by adding curly half-arrows.",
-     "status": "pending",
-     "answer": "Needs the equation diagram from the PDF to add the half-arrows.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Add a single-headed (fish-hook) curly arrow from the dot on T to the H atom of the O-H group, and a second single-headed arrow from the middle of the O-H bond to the O atom.",
+     "steps": [
+      "The radical T. pairs its unpaired electron with one electron from the O-H bond, forming T-H.",
+      "Arrow 1: half-headed arrow starting at the dot on T and ending at the H atom (or the O-H bond).",
+      "Arrow 2: half-headed arrow starting at the O-H bond and ending at the O atom, where the other bonding electron remains, giving the O radical."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
@@ -89879,7 +90117,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q18.jpg"
+     ]
     },
     {
      "id": "Ch20-Q18b",
@@ -89895,9 +90135,14 @@ window.BANK.chemistry = {
       "protein"
      ],
      "question": "Complete the mechanism for one step of the nucleophilic addition of selenide anions to curcumin, adding curly arrows.",
-     "status": "pending",
-     "answer": "Needs the simplified structures from the PDF to add the curly arrows.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Arrow 1: from the lone pair on Se- to the carbon of the C=C that is bonded to Y. Arrow 2: from the C=C bond to the C-C bond next to the carbonyl, forming a new C=C. Arrow 3: from the C=O pi bond onto O to give O-.",
+     "steps": [
+      "Se- is the nucleophile and the C=C carbon bonded to Y is electron-deficient because the C=O group withdraws electrons through the conjugated system.",
+      "Arrow 1 starts on the lone pair of Se- and ends on that carbon, forming the C-Se bond.",
+      "Arrow 2 starts in the middle of the original C=C bond and ends between the next two carbons, which become C=C.",
+      "Arrow 3 starts in the middle of the C=O bond and ends on O, giving the O- shown in the product."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
@@ -89907,7 +90152,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q18-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q18c",
@@ -89923,9 +90170,14 @@ window.BANK.chemistry = {
       "M-curc"
      ],
      "question": "Complete the table relating to two M-curc complexes, in which curcumin anions act as ligands.",
-     "status": "pending",
-     "answer": "Needs the table from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "[Au(curc)2]+: shape square planar and charge on Au +3. [Al(curc)(C2H5OH)2(NO3)2]: coordination number 6 and O-M-O bond angle 90 degrees.",
+     "steps": [
+      "Au: coordination number 4 with 90 degree O-Au-O angles means a square planar complex.",
+      "Charge on Au: two curc- ligands give -2 and the complex is +1, so Au is +3.",
+      "Al complex: curc is bidentate (2), plus 2 ethanol and 2 nitrate ligands (1 each) gives coordination number 6.",
+      "An octahedral complex has 90 degree O-Al-O angles between adjacent donor atoms."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
@@ -89935,7 +90187,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q18-3.jpg",
+      "papers/chemistry/fig/20-Organic-Synthesis-Q18-4.jpg"
+     ]
     },
     {
      "id": "Ch20-Q18d(i)",
@@ -89951,9 +90206,13 @@ window.BANK.chemistry = {
       "synthesis"
      ],
      "question": "State the reagents and conditions needed in Step X of the methyl red synthesis.",
-     "status": "pending",
-     "answer": "Needs the synthesis scheme from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Acidified potassium dichromate(VI) (K2Cr2O7 with dilute H2SO4), heated under reflux (an oxidation of the aldehyde to the carboxylic acid).",
+     "steps": [
+      "Step X converts the CHO group of 2-nitrobenzaldehyde to COOH, an oxidation.",
+      "Reagent: acidified potassium dichromate(VI) (acidified potassium manganate(VII) is also acceptable).",
+      "Condition: heat under reflux so that oxidation goes to completion."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
@@ -89963,7 +90222,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q18-5.jpg"
+     ]
     },
     {
      "id": "Ch20-Q18d(ii)",
@@ -89978,9 +90239,12 @@ window.BANK.chemistry = {
       "intermediate"
      ],
      "question": "Draw the structure of compound A in the methyl red synthesis.",
-     "status": "pending",
-     "answer": "Needs the scheme from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Compound A is 2-aminobenzoic acid: a benzene ring with COOH and NH2 on adjacent (ortho) carbons.",
+     "steps": [
+      "Sn with concentrated HCl reduces the NO2 group to NH2.",
+      "The COOH group is unchanged, so A is 2-aminobenzoic acid (formed as its ammonium salt in the acid and freed with NaOH)."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
@@ -89990,7 +90254,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q18-5.jpg"
+     ]
     },
     {
      "id": "Ch20-Q18d(iii)",
@@ -90005,9 +90271,12 @@ window.BANK.chemistry = {
       "sodium nitrite"
      ],
      "question": "State the reagents needed in Step Y of the methyl red synthesis.",
-     "status": "pending",
-     "answer": "Needs the scheme from the PDF (expected NaNO2 with dilute HCl for diazotisation).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Sodium nitrite (NaNO2) and dilute hydrochloric acid, kept below 5 C.",
+     "steps": [
+      "Step Y turns the primary aromatic amine (compound A) into a diazonium chloride (diazotisation).",
+      "NaNO2 + HCl generates nitrous acid (HNO2) in situ; the mixture is kept at 0-5 C so the diazonium ion does not decompose."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
@@ -90017,7 +90286,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q18-5.jpg"
+     ]
     },
     {
      "id": "Ch20-Q18d(iv)",
@@ -90032,9 +90303,13 @@ window.BANK.chemistry = {
       "intermediate"
      ],
      "question": "Draw the structure of compound B in the methyl red synthesis.",
-     "status": "pending",
-     "answer": "Needs the scheme from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Compound B is N,N-dimethylphenylamine, C6H5N(CH3)2: a benzene ring bonded to N with two CH3 groups.",
+     "steps": [
+      "Phenylamine reacts with excess CH3I: both N-H hydrogens are replaced by CH3, forming the tertiary amine (plus HI).",
+      "Methyl red contains the N(CH3)2 group on the ring, which confirms B.",
+      "B then couples with the diazonium ion at the position para to N(CH3)2 in Step Z."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
@@ -90044,7 +90319,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q18-5.jpg"
+     ]
     },
     {
      "id": "Ch20-Q18d(v)",
@@ -90077,7 +90354,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q18-5.jpg"
+     ]
     },
     {
      "id": "Ch20-Q18e(i)",
@@ -90094,12 +90373,13 @@ window.BANK.chemistry = {
      ],
      "question": "Complete the equation for the synthesis of indigotin from 2-nitrobenzaldehyde and propanone in aqueous sodium hydroxide.",
      "status": "ready",
-     "answer": "2C7H5NO3 + C3H6O to C16H10N2O2 + CO2 + 3H2O (indigotin, with carbon dioxide and water as by-products).",
+     "answer": "2 C7H5NO3 + 2 CH3COCH3 + 2 NaOH to C16H10N2O2 + 2 CH3COONa + 4 H2O. The blanks on the paper are 2 propanone, 2 NaOH, 2 sodium ethanoate and 4 H2O.",
      "steps": [
-      "Indigotin is C16H10N2O2; two 2-nitrobenzaldehyde molecules provide 14 C.",
-      "Propanone supplies the remaining C3, so one carbon leaves as CO2.",
-      "Balancing H and O gives 3 H2O as the other by-product.",
-      "Check: C 17 = 16 + 1; H 16 = 10 + 6; O 7 = 2 + 2 + 3; N 2 = 2."
+      "The equation on the paper shows 2-nitrobenzaldehyde (coefficient 2), propanone and NaOH on the left, and indigotin, sodium ethanoate and water on the right.",
+      "Each indigotin (C16H10N2O2) uses two aldehyde molecules (14 C) plus 2 C from propanone, so two propanone molecules are used and the other 4 C leave as two CH3COONa.",
+      "Sodium balance: 2 CH3COONa needs 2 NaOH.",
+      "Balance H and O to get 4 H2O.",
+      "Check: C 14 + 6 = 20 = 16 + 4; H 10 + 12 + 2 = 24 = 10 + 6 + 8; N 2 = 2; O 6 + 2 + 2 = 10 = 2 + 4 + 4; Na 2 = 2."
      ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
@@ -90110,7 +90390,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q18-7.jpg"
+     ]
     },
     {
      "id": "Ch20-Q18e(ii)",
@@ -90143,7 +90425,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q18-7.jpg"
+     ]
     },
     {
      "id": "Ch20-Q18f(i)",
@@ -90158,9 +90442,13 @@ window.BANK.chemistry = {
       "structure"
      ],
      "question": "Give the structure of the organic product of hydrolysis of coumarin 440 with excess aqueous NaOH.",
-     "status": "pending",
-     "answer": "Needs the coumarin 440 structure from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Ring-opened disodium salt: the benzene ring (NH2 para to the side chain) carries O- Na+ and the side chain C(CH3)=CH-COO- Na+ on adjacent carbons, i.e. Na+ -O-C6H3(NH2)-C(CH3)=CH-COO- Na+.",
+     "steps": [
+      "Coumarin 440 contains a cyclic ester (lactone), so hot aqueous NaOH hydrolyses the ester bond.",
+      "The ring opens to give a carboxylate (COO- Na+) and a phenoxide (O- Na+) on the benzene ring.",
+      "Excess NaOH is used so both acidic groups end up as sodium salts; the C=C and NH2 are unchanged."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
@@ -90170,7 +90458,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q18-6.jpg"
+     ]
     },
     {
      "id": "Ch20-Q18f(ii)",
@@ -90185,9 +90475,12 @@ window.BANK.chemistry = {
       "structure"
      ],
      "question": "Give the structure of the organic product of condensation of coumarin 440 with ethanoyl chloride.",
-     "status": "pending",
-     "answer": "Needs the coumarin 440 structure from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The amide: coumarin 440 with NH2 replaced by NHCOCH3 (the 7-ethanoylamino compound, N-substituted ethanamide), plus HCl.",
+     "steps": [
+      "The NH2 group of coumarin 440 acts as a nucleophile towards the C=O carbon of ethanoyl chloride.",
+      "Cl- is lost as HCl and an N-C(=O)CH3 amide link forms; the rest of the molecule (lactone, C=C) is unchanged."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-028.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-029.jpg",
@@ -90197,7 +90490,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-033.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q18-6.jpg"
+     ]
     },
     {
      "id": "Ch20-Q19",
@@ -90314,7 +90609,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-036.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-037.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q21.jpg"
+     ]
     },
     {
      "id": "Ch20-Q22a",
@@ -90358,14 +90655,23 @@ window.BANK.chemistry = {
       "benzene ring"
      ],
      "question": "Deduce the structure of Q from its high resolution proton NMR spectrum, using peak areas, chemical shifts and splitting.",
-     "status": "pending",
-     "answer": "Needs the NMR spectrum from the PDF to read peak areas and splitting.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Q is 1-phenylbutan-2-one, C6H5CH2C(=O)CH2CH3 (C10H12O).",
+     "steps": [
+      "Peak areas 5 : 2 : 2 : 3 add up to the 12 H in C10H12O.",
+      "7.3 ppm, area 5, singlet: C6H5 (monosubstituted benzene, aromatic H 6.0-9.0 ppm).",
+      "3.6 ppm, area 2, singlet: CH2 between the benzene ring and C=O, with no H on neighbouring carbons; it is higher than the usual 2.0-2.9 ppm because it is deshielded by both the ring and the C=O group.",
+      "2.4 ppm, area 2, quartet: CH2 next to C=O (2.1-2.6 ppm) with three neighbouring H on CH3 (n+1 = 4).",
+      "1.0 ppm, area 3, triplet: CH3 (0.7-1.2 ppm) next to a CH2 (n+1 = 3).",
+      "Joining the pieces C6H5-CH2-C(=O)-CH2-CH3 gives C10H12O, so Q is 1-phenylbutan-2-one."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-036.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-037.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q22.jpg"
+     ]
     },
     {
      "id": "Ch20-Q23a(i)",
@@ -90380,15 +90686,20 @@ window.BANK.chemistry = {
       "Step 1"
      ],
      "question": "A student proposed a mechanism for Step 1. Identify two errors by circling them.",
-     "status": "pending",
-     "answer": "Needs the student's mechanism diagram from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Circle (1) the first curly arrow, drawn from +CH3 to the ring (wrong direction), and (2) the intermediate drawn with a full circle inside the ring (it should be a horseshoe/partial ring covering five carbons with a +).",
+     "steps": [
+      "Error 1: curly arrows go from the nucleophile (the electron-rich ring) to the electrophile (+CH3), but the student drew it from +CH3 into the ring.",
+      "Error 2: in the intermediate the carbon bonded to CH3 and H is sp3, so the delocalisation cannot go round the whole ring; a full circle is wrong."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-038.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-039.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-040.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q23-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q23a(ii)",
@@ -90403,15 +90714,21 @@ window.BANK.chemistry = {
       "structures"
      ],
      "question": "State how the errors identified in (a)(i) should be corrected, justifying in terms of the structures.",
-     "status": "pending",
-     "answer": "Depends on the errors identified in the PDF diagram (a)(i).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Error 1: start the arrow inside the ring (the pi electrons) and end it on the carbon of +CH3, because the ring donates an electron pair to the electrophile. Error 2: draw a horseshoe over five carbons with + inside, because the carbon bonded to CH3 and H has four single bonds (sp3) and breaks the delocalised pi system.",
+     "steps": [
+      "The ring has delocalised pi electrons that can be donated, and +CH3 is electron-deficient, so the electron pair must move from the ring to the CH3 carbon.",
+      "After the new C-C bond forms, one ring carbon is sp3, so only the other five carbons share four pi electrons.",
+      "This partial delocalisation is shown as a horseshoe (open towards the sp3 carbon) carrying the + charge."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-038.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-039.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-040.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q23-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q23b",
@@ -90426,15 +90743,20 @@ window.BANK.chemistry = {
       "decomposition"
      ],
      "question": "Give a reason why it is important to keep the temperature below 30 C in Step 2.",
-     "status": "pending",
-     "answer": "Needs the Step 2 reaction from the PDF scheme.",
-     "steps": [],
+     "status": "ready",
+     "answer": "To prevent further nitration, which would give dinitro (and trinitro) products instead of the mono-nitro compound.",
+     "steps": [
+      "Methylbenzene is more reactive than benzene, so more than one NO2 group can easily be substituted.",
+      "Keeping the temperature below 30 C favours mono-substitution and a better yield of the required product."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-038.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-039.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-040.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q23.jpg"
+     ]
     },
     {
      "id": "Ch20-Q23c",
@@ -90448,15 +90770,20 @@ window.BANK.chemistry = {
       "scheme"
      ],
      "question": "State the type of reaction in Step 3.",
-     "status": "pending",
-     "answer": "Needs the Step 3 reaction from the PDF scheme.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Oxidation (the CH3 group is oxidised to CO2H by alkaline KMnO4).",
+     "steps": [
+      "The side-chain CH3 on the ring becomes CO2H, an increase in oxygen content.",
+      "Alkaline KMnO4 is an oxidising agent, so Step 3 is oxidation."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-038.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-039.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-040.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q23.jpg"
+     ]
     },
     {
      "id": "Ch20-Q23d",
@@ -90471,15 +90798,20 @@ window.BANK.chemistry = {
       "scheme"
      ],
      "question": "Identify, by name or formula, the reagents needed for Step 4.",
-     "status": "pending",
-     "answer": "Needs the Step 4 reaction from the PDF scheme.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Tin (Sn) and concentrated hydrochloric acid (heated under reflux), followed by NaOH(aq) to release the free amine.",
+     "steps": [
+      "Step 4 converts the NO2 group to NH2, a reduction.",
+      "The standard reagent is Sn with concentrated HCl, heated under reflux (Fe/HCl or H2/Ni are alternatives); NaOH is added after reaction to free the amine."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-038.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-039.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-040.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q23.jpg"
+     ]
     },
     {
      "id": "Ch20-Q23e",
@@ -90508,7 +90840,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-039.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-040.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q23.jpg"
+     ]
     },
     {
      "id": "Ch20-Q23f",
@@ -90537,7 +90871,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-039.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-040.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q23.jpg"
+     ]
     },
     {
      "id": "Ch20-Q24a",
@@ -90615,7 +90951,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-040.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-041.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q24.jpg"
+     ]
     },
     {
      "id": "Ch20-Q24d",
@@ -90642,7 +90980,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-040.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-041.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q24-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q25",
@@ -90657,14 +90997,21 @@ window.BANK.chemistry = {
       "absorption"
      ],
      "question": "The infrared spectrum of compound X is shown. Which could be compound X? Options are in the PDF.",
-     "status": "pending",
-     "answer": "Needs the IR spectrum and options from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: benzoic acid",
+     "steps": [
+      "The spectrum has a very broad absorption from about 3300 to 2500 cm-1: the O-H of a carboxylic acid.",
+      "There is also a strong C=O peak at about 1690 cm-1.",
+      "Benzyl alcohol (B) has no C=O, benzaldehyde (C) and acetophenone (D) have C=O but no broad O-H, so only benzoic acid fits."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-041.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-042.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q25.jpg",
+      "papers/chemistry/fig/20-Organic-Synthesis-Q25-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q26",
@@ -90679,14 +91026,20 @@ window.BANK.chemistry = {
       "Ar values"
      ],
      "question": "The high resolution mass spectrum of a compound is shown. What is the m/z of its molecular ion? Options A 92.0261, B 92.0312, C 93.0339, D 93.0390. The compound structure is in the PDF.",
-     "status": "pending",
-     "answer": "Needs the compound structure from the PDF to calculate the exact mass.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 92.0261",
+     "steps": [
+      "The compound is 2-ethynylfuran, C6H4O (3 ring H and 1 ethynyl H).",
+      "m/z = 6 x 12.0000 + 4 x 1.0078 + 15.9949 = 72.0000 + 4.0312 + 15.9949 = 92.0261.",
+      "The molecular ion (M+) has the same mass as the molecule, so option A."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-042.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-043.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q26.jpg"
+     ]
     },
     {
      "id": "Ch20-Q27",
@@ -90701,9 +91054,13 @@ window.BANK.chemistry = {
       "carbon environments"
      ],
      "question": "How many peaks will the 13C NMR spectrum of the hydrocarbon shown have? Options: four, five, six, seven.",
-     "status": "pending",
-     "answer": "Needs the hydrocarbon structure from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: four",
+     "steps": [
+      "The compound is 1,2-dimethylcyclopentane with both methyl groups on wedge bonds (the cis isomer), which has a plane of symmetry.",
+      "The two CH3 carbons are equivalent (1 peak) and the two carbons bearing CH3 are equivalent (1 peak).",
+      "The two ring CH2 carbons next to them are equivalent (1 peak) and the remaining CH2 is unique (1 peak): 4 peaks."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-043.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-044.jpg",
@@ -90711,7 +91068,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-046.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-047.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q27.jpg"
+     ]
     },
     {
      "id": "Ch20-Q28a",
@@ -90726,9 +91085,13 @@ window.BANK.chemistry = {
       "molar mass"
      ],
      "question": "Calculate the percentage composition by mass of the elements in salicin.",
-     "status": "pending",
-     "answer": "Needs the salicin structure or molecular formula from the PDF (expected C13H18O7, not printed in the text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C 54.5%, H 6.3%, O 39.2% (salicin is C13H18O7, Mr = 286).",
+     "steps": [
+      "Molecular formula from the structure: C13H18O7 (glucose unit C6, ring C6, CH2OH C1; 7 O in total).",
+      "Mr = 13 x 12.0 + 18 x 1.0 + 7 x 16.0 = 156 + 18 + 112 = 286.",
+      "%C = 156/286 x 100 = 54.5%; %H = 18/286 x 100 = 6.3%; %O = 112/286 x 100 = 39.2% (total 100%)."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-043.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-044.jpg",
@@ -90736,7 +91099,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-046.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-047.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q28.jpg"
+     ]
     },
     {
      "id": "Ch20-Q28b(i)",
@@ -90765,7 +91130,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-046.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-047.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q28-4.jpg"
+     ]
     },
     {
      "id": "Ch20-Q28b(ii)",
@@ -90795,7 +91162,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-046.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-047.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q28-4.jpg"
+     ]
     },
     {
      "id": "Ch20-Q28c(i)",
@@ -90871,9 +91240,14 @@ window.BANK.chemistry = {
       "Williamson"
      ],
      "question": "Devise a synthesis of intermediate F from salicylaldehyde and bromoethane as the only organic starting materials, with reagents, intermediates and conditions.",
-     "status": "pending",
-     "answer": "Needs the structure of F from the PDF scheme to devise the route.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Step 1: CH3CH2Br + Mg in dry ether -> CH3CH2MgBr. Step 2: add salicylaldehyde in dry ether, then dilute acid, to give the secondary alcohol 1-(2-hydroxyphenyl)propan-1-ol. Step 3: dehydrate with concentrated H2SO4 (or concentrated H3PO4) and heat to give F, 2-(prop-1-enyl)phenol.",
+     "steps": [
+      "F has one more carbon-carbon bond than salicylaldehyde plus a C2 unit, so the ethyl group from bromoethane must be added to the CHO carbon with a Grignard reagent.",
+      "Step 1: bromoethane with magnesium in dry (anhydrous) ether, reflux, gives ethylmagnesium bromide.",
+      "Step 2: the Grignard reagent adds to the C=O of salicylaldehyde; then dilute acid (H+/H2O) gives HOC6H4-CH(OH)CH2CH3 (excess Grignard is needed because the phenol OH also reacts).",
+      "Step 3: heating the alcohol with concentrated H2SO4 or H3PO4 (or Al2O3) removes H2O to give the conjugated alkene HOC6H4-CH=CH-CH3 (F)."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-043.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-044.jpg",
@@ -90881,7 +91255,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-046.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-047.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q28-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q28e(i)",
@@ -90912,7 +91288,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-046.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-047.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q28-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q28e(ii)",
@@ -90942,7 +91320,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-046.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-047.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q28-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q29a",
@@ -90968,7 +91348,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-047.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-048.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q29.jpg"
+     ]
     },
     {
      "id": "Ch20-Q29b",
@@ -90994,7 +91376,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-047.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-048.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q29-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q29c",
@@ -91010,14 +91394,20 @@ window.BANK.chemistry = {
       "single monomer"
      ],
      "question": "The repeat unit of another polymer is shown. The polymer is formed from: A single monomer by addition, B single monomer by condensation, C two monomers by addition, D two monomers by condensation.",
-     "status": "pending",
-     "answer": "Needs the repeat unit diagram from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: a single type of monomer by an addition reaction",
+     "steps": [
+      "The polymer chain has a backbone made only of carbon atoms, -CH2-C(CH3)(COOCH2CH2OH)-.",
+      "This comes from the C=C of one monomer, CH2=C(CH3)COOCH2CH2OH, so the monomer is one type of molecule and the reaction is addition polymerisation.",
+      "The ester group is a side chain on the monomer and is not formed during polymerisation."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-047.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-048.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q29-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q30a",
@@ -91043,7 +91433,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-048.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-049.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q30.jpg"
+     ]
     },
     {
      "id": "Ch20-Q30b",
@@ -91068,7 +91460,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-048.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-049.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q30.jpg"
+     ]
     },
     {
      "id": "Ch20-Q30c",
@@ -91094,7 +91488,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-048.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-049.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q30.jpg"
+     ]
     },
     {
      "id": "Ch20-Q31a",
@@ -91158,7 +91554,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-052.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-053.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q31.jpg"
+     ]
     },
     {
      "id": "Ch20-Q31b(ii)",
@@ -91186,7 +91584,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-052.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-053.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q31-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q31b(iii)",
@@ -91215,7 +91615,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-052.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-053.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q31-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q31b(iv)",
@@ -91245,7 +91647,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-052.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-053.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q31-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q31c",
@@ -91293,14 +91697,21 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "How would the solubility of cocaine in water and the pH of its aqueous solution compare with benzoylecgonine? Options are in the PDF.",
-     "status": "pending",
-     "answer": "Needs the option list from the PDF and the two structures.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: cocaine is less soluble in water and its solution has a higher pH",
+     "steps": [
+      "Benzoylecgonine has a COOH group (cocaine has an ester COOCH3 instead).",
+      "The COOH group can hydrogen bond with water and exists as a zwitterion with the amine, so benzoylecgonine is more soluble and its solution is more acidic (lower pH).",
+      "Cocaine has only the basic tertiary amine, so its solution is more basic (higher pH) and it is less soluble."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-053.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-054.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q32.jpg",
+      "papers/chemistry/fig/20-Organic-Synthesis-Q32-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q33",
@@ -91315,13 +91726,18 @@ window.BANK.chemistry = {
       "purification"
      ],
      "question": "How should the solubility of a compound depend on temperature for recrystallisation? Options are in the PDF.",
-     "status": "pending",
-     "answer": "Needs the option list from the PDF (expected answer: solubility increases with temperature).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: soluble at high temperature and insoluble at low temperature",
+     "steps": [
+      "The compound is dissolved in the minimum volume of hot solvent, so it must be soluble when hot.",
+      "On cooling it must crystallise out, so it must be insoluble (poorly soluble) when cold; soluble impurities remain in the solution."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-054.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q33.jpg"
+     ]
     },
     {
      "id": "Ch20-Q34a(i)",
@@ -91378,7 +91794,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-056.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-057.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q34-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q34b(i)",
@@ -91393,15 +91811,23 @@ window.BANK.chemistry = {
       "proton environments"
      ],
      "question": "Explain why only one of the two possible structures of R can give the low-resolution NMR data in the table.",
-     "status": "pending",
-     "answer": "Needs the NMR data table from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The data show three proton environments with area ratio 3 : 2 : 2, which fits CH3CH2CH2- (propyl) only; (CH3)2CH- would give two environments with area ratio 6 : 1.",
+     "steps": [
+      "R is C3H7, which can be CH3CH2CH2- or (CH3)2CH-.",
+      "The table gives three peaks with areas 3, 2 and 2 (7 H in total), so there are three different proton environments.",
+      "Propyl has three environments: CH3 (3 H), middle CH2 (2 H) and CH2 next to the ring (2 H).",
+      "Isopropyl has only two environments: two equivalent CH3 groups (6 H) and one CH (1 H), which would give two peaks in the ratio 6 : 1.",
+      "The shift of 0.90 ppm (area 3) is typical of R-CH3 and the 1.33 and 1.37 ppm peaks of R-CH2-R, which supports propyl."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-055.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-056.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-057.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q34.jpg"
+     ]
     },
     {
      "id": "Ch20-Q34b(ii)",
@@ -91416,15 +91842,21 @@ window.BANK.chemistry = {
       "alkyl group"
      ],
      "question": "In the high resolution NMR data for R, proton environment 2 is a sextet. Deduce the splitting patterns for environments 1 and 3.",
-     "status": "pending",
-     "answer": "Needs the NMR data table from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Environment 1 (CH3): triplet. Environment 3 (CH2 next to the ring): quartet.",
+     "steps": [
+      "R is CH3(1)-CH2(2)-CH2(3)- attached to ring C2, so environment 2 is the middle CH2 with 3 + 2 = 5 neighbouring H, which gives the sextet.",
+      "Environment 1 is the CH3, next to the CH2 (environment 2) with 2 H, so n + 1 = 3: a triplet.",
+      "Environment 3 is next to the CH2 (environment 2, 2 H) and the ring CH (1 H), so 3 neighbouring H and n + 1 = 4: a quartet."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-055.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-056.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-057.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q34.jpg"
+     ]
     },
     {
      "id": "Ch20-Q34c",
@@ -91453,7 +91885,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-056.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-057.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q34-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q35a(i)",
@@ -91484,7 +91918,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-058.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-059.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q35-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q35a(ii)",
@@ -91544,7 +91980,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-058.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-059.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q35-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q35c(i)",
@@ -91559,15 +91997,21 @@ window.BANK.chemistry = {
       "amide link"
      ],
      "question": "Draw the repeat unit of the polyamide formed from the monomers shown.",
-     "status": "pending",
-     "answer": "Needs the monomer structures from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "-[NH-(CH2)6-NH-CO-C6H4-CO]- (repeat unit, with the CO groups para on the benzene ring; HCl is lost on forming each amide link).",
+     "steps": [
+      "The monomers are a diamine and a diacyl chloride, so condensation polymerisation forms amide (peptide) links and HCl.",
+      "Each unit joins N-H of the diamine to the C=O carbon of the acid chloride, losing H and Cl as HCl.",
+      "The repeat unit is -NH-(CH2)6-NH-CO-C6H4-CO-, drawn with open bonds at each end."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-057.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-058.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-059.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q35.jpg"
+     ]
     },
     {
      "id": "Ch20-Q35c(ii)",
@@ -91610,14 +92054,20 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "Which carbonyl compound and Grignard reagent would not react to form compound Y? Options are in the PDF.",
-     "status": "pending",
-     "answer": "Needs the options and the structure of Y from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A",
+     "steps": [
+      "Y is a tertiary alcohol: the carbon bearing OH carries cyclopropyl, CH3 and CH2CH=C(CH3)2.",
+      "A tertiary alcohol forms from a ketone plus a Grignard reagent; B, C and D are all ketone plus Grignard pairs that give Y.",
+      "Option A uses an aldehyde, which would give a secondary alcohol (the carbinol carbon keeps an H, and the Grignard here also has an extra CH3 branch), so A cannot give Y."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-060.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-061.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q36.jpg"
+     ]
     },
     {
      "id": "Ch20-Q37",
@@ -91633,14 +92083,20 @@ window.BANK.chemistry = {
       "x and y"
      ],
      "question": "When 10 cm3 of but-1-ene is burned in excess oxygen, the volume decreases by x cm3; NaOH then removes CO2 causing a further decrease of y cm3. What are x and y? Options are in the PDF.",
-     "status": "pending",
-     "answer": "Needs the option list from the PDF. Calculated: x = 30 cm3 (70 - 40), y = 40 cm3 (CO2 removed).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: x = 30, y = 40",
+     "steps": [
+      "C4H8(g) + 6O2(g) -> 4CO2(g) + 4H2O(l): 7 volumes of gas become 4 volumes (water is liquid), a decrease of 3 volumes per 1 volume of C4H8.",
+      "x = 3 x 10 = 30 cm3.",
+      "CO2 formed = 4 x 10 = 40 cm3, and NaOH absorbs all of it, so y = 40 cm3."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-060.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-061.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q37.jpg"
+     ]
     },
     {
      "id": "Ch20-Q38a",
@@ -91691,7 +92147,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-061.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-062.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q38.jpg"
+     ]
     },
     {
      "id": "Ch20-Q39a",
@@ -91719,7 +92177,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-062.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-063.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q39.jpg"
+     ]
     },
     {
      "id": "Ch20-Q39b",
@@ -91735,14 +92195,21 @@ window.BANK.chemistry = {
       "multiplicity"
      ],
      "question": "What are the expected splitting patterns in the high resolution proton NMR spectrum of valine for the protons shown in bold?",
-     "status": "pending",
-     "answer": "Needs the bold protons shown in the PDF structure.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: the CH3 protons are a doublet and the (CH3)2CH proton is an octet",
+     "steps": [
+      "Each CH3 couples with the one H on the (CH3)2CH carbon, so n + 1 = 2: a doublet.",
+      "The (CH3)2CH proton has 6 H on the two CH3 groups and 1 H on the adjacent CH(NH2) carbon, so 7 neighbours and n + 1 = 8: an octet.",
+      "The NH2 and COOH protons exchange rapidly and do not split the other signals."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-062.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-063.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q39.jpg",
+      "papers/chemistry/fig/20-Organic-Synthesis-Q39-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q40",
@@ -91758,16 +92225,22 @@ window.BANK.chemistry = {
       "structure"
      ],
      "question": "Compound J reacts with NaOH to form an ionic compound, with H2/Ni, and with ethanol/H2SO4. Which could be its structure? Options are in the PDF.",
-     "status": "pending",
-     "answer": "Needs the options from the PDF. Expected: an unsaturated carboxylic acid (C=C and COOH).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: CH2=CHCOOH",
+     "steps": [
+      "Reacts with NaOH to form an ionic compound: it is acidic (carboxylic acid or phenol).",
+      "Reacts with H2 and Ni: it has a C=C double bond.",
+      "Reacts with ethanol and H2SO4: it is a carboxylic acid (esterification). Only prop-2-enoic acid has C=C and COOH; phenol, prop-2-en-1-ol and ethanoic acid each lack one of the features."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-063.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-064.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-065.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-066.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q40.jpg"
+     ]
     },
     {
      "id": "Ch20-Q41a",
@@ -91901,14 +92374,20 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "What is formed when 4-aminophenol reacts with hydrochloric acid? Options are in the PDF.",
-     "status": "pending",
-     "answer": "Needs the option structures from the PDF (expected: the protonated amine, 4-hydroxyphenylammonium chloride).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: HO-C6H4-NH3+ (the amine group is protonated)",
+     "steps": [
+      "HCl is an acid, so it donates H+ to the basic site.",
+      "The NH2 lone pair accepts H+ to form -NH3+ (hydrochloride salt).",
+      "The phenol OH is far less basic, so it is not protonated, and nothing is deprotonated by an acid."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-066.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-067.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q42.jpg"
+     ]
     },
     {
      "id": "Ch20-Q43a(i)",
@@ -91937,7 +92416,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-070.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-071.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q43-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q43a(ii)",
@@ -91968,7 +92449,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-070.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-071.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q43.jpg"
+     ]
     },
     {
      "id": "Ch20-Q43a(iii)",
@@ -91998,7 +92481,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-070.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-071.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q43-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q43b(i)",
@@ -92028,7 +92513,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-070.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-071.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q43-4.jpg"
+     ]
     },
     {
      "id": "Ch20-Q43b(ii)",
@@ -92057,7 +92544,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-070.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-071.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q43-4.jpg"
+     ]
     },
     {
      "id": "Ch20-Q43b(iii)",
@@ -92087,7 +92576,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-070.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-071.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q43-4.jpg"
+     ]
     },
     {
      "id": "Ch20-Q43c(i)",
@@ -92146,7 +92637,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-070.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-071.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q43-5.jpg"
+     ]
     },
     {
      "id": "Ch20-Q43c(iii)",
@@ -92174,7 +92667,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-070.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-071.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q43-6.jpg"
+     ]
     },
     {
      "id": "Ch20-Q44a",
@@ -92201,7 +92696,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-074.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-075.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q44-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q44b(i)",
@@ -92230,7 +92727,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-074.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-075.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q44-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q44b(ii)",
@@ -92259,7 +92758,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-074.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-075.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q44-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q44b(iii)",
@@ -92317,7 +92818,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-074.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-075.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q44-4.jpg"
+     ]
     },
     {
      "id": "Ch20-Q44c(ii)",
@@ -92376,7 +92879,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-074.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-075.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q44-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q44e",
@@ -92392,9 +92897,15 @@ window.BANK.chemistry = {
       "table"
      ],
      "question": "Complete the table giving the chemical shift ranges expected for the side-chain protons (OH and CH3) of acetylsalicylic acid and methyl salicylate.",
-     "status": "pending",
-     "answer": "Needs the table layout from the PDF (values expected from the Data Booklet).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Acetylsalicylic acid: OH (carboxylic acid) 10.0-12.0 ppm; CH3 (CH3COO-) about 2.0-2.6 ppm. Methyl salicylate: OH (phenol) about 4.0-12.0 ppm (broad, often high due to hydrogen bonding); CH3 (COOCH3) about 3.7-4.1 ppm.",
+     "steps": [
+      "Use the proton NMR chemical shift table in the Data Booklet.",
+      "The OH in a carboxylic acid (RCOOH) is far downfield, 10.0-12.0 ppm; the OH on a benzene ring (phenol) has a wide range of values.",
+      "The CH3 of the ethanoate group (CH3-C(=O)-O) is next to C=O: about 2.0-2.6 ppm.",
+      "The CH3 of the methyl ester (-COO-CH3) is next to O: about 3.7-4.1 ppm.",
+      "Exact ranges depend on the Data Booklet edition, so check the booklet values."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-071.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-072.jpg",
@@ -92402,7 +92913,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-074.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-075.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q44.jpg"
+     ]
     },
     {
      "id": "Ch20-Q44f",
@@ -92419,9 +92932,16 @@ window.BANK.chemistry = {
       "table"
      ],
      "question": "0.760 g of aspirin tablets is hydrolysed with 25.0 cm3 of 1.00 mol dm-3 NaOH; 25.0 cm3 of 250.0 cm3 solution is back-titrated with 0.100 mol dm-3 HCl (mean titre 16.95 cm3). Determine which brand was analysed from the table.",
-     "status": "pending",
-     "answer": "Calculated 95.3% acetylsalicylic acid; needs the table of four brands from the PDF to identify the brand.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Brand B (95.4%): the tablets are 95.3% acetylsalicylic acid.",
+     "steps": [
+      "Moles NaOH added = 1.00 x 25.0/1000 = 0.0250 mol.",
+      "Moles HCl in titre = 0.100 x 16.95/1000 = 1.695 x 10^-3 mol, so unreacted NaOH in the 25.0 cm3 aliquot = 1.695 x 10^-3 mol, which is 1.695 x 10^-2 mol in all 250 cm3.",
+      "NaOH used up in hydrolysis = 0.0250 - 0.01695 = 8.05 x 10^-3 mol.",
+      "The equation uses 2 NaOH per aspirin, so moles aspirin = 4.025 x 10^-3 mol.",
+      "Mass aspirin = 4.025 x 10^-3 x 180 = 0.7245 g; percentage = 0.7245/0.760 x 100 = 95.3%.",
+      "95.3% is closest to the 95.4% of brand B."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-071.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-072.jpg",
@@ -92429,7 +92949,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-074.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-075.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q44-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q45",
@@ -92483,7 +93005,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-077.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-078.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q46.jpg"
+     ]
     },
     {
      "id": "Ch20-Q47a",
@@ -92541,7 +93065,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-077.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-078.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q47.jpg"
+     ]
     },
     {
      "id": "Ch20-Q47b(ii)",
@@ -92568,7 +93094,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-077.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-078.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q47.jpg"
+     ]
     },
     {
      "id": "Ch20-Q48",
@@ -92744,15 +93272,23 @@ window.BANK.chemistry = {
       "N-substituted"
      ],
      "question": "Deduce the structure of Y using the simplified high resolution proton NMR spectrum (peak areas shown in PDF) and the other information.",
-     "status": "pending",
-     "answer": "Needs the NMR spectrum and peak areas from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Y is N-(1,1-dimethylethyl)ethanamide (N-tert-butylacetamide), CH3C(=O)NHC(CH3)3, C6H13NO.",
+     "steps": [
+      "From (b), Y is an amide (C=O and N-H) with empirical formula C6H13NO (Mr 115); the peak areas 9 : 3 : 1 total 13 H, so this is also the molecular formula.",
+      "The peak at about 1.5 ppm (area 9) is a singlet: three equivalent CH3 groups on a carbon with no H, i.e. C(CH3)3.",
+      "The peak at about 2.0 ppm (area 3) is a singlet: CH3 next to C=O (2.0-2.6 ppm) with no neighbouring H.",
+      "The peak at about 7 ppm (area 1) is a singlet: the amide N-H.",
+      "Combining the pieces: CH3-C(=O)-NH-C(CH3)3."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-078.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-079.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-080.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q49.jpg"
+     ]
     },
     {
      "id": "Ch20-Q49d",
@@ -92768,15 +93304,21 @@ window.BANK.chemistry = {
       "Y"
      ],
      "question": "Draw the structure of compound X.",
-     "status": "pending",
-     "answer": "Depends on the structure of Y from part (c); needs the NMR result from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "X is 2-methylpropan-2-amine, (CH3)3C-NH2 (tert-butylamine), Mr 73.",
+     "steps": [
+      "Y forms from X and ethanoyl chloride: CH3COCl + (CH3)3CNH2 -> CH3CONHC(CH3)3 + HCl.",
+      "So X is the amine part of Y, (CH3)3C-NH2, which has Mr 73, matching part (a)(ii).",
+      "Displayed formula: a central C bonded to three CH3 groups and one NH2 group."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-078.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-079.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-080.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q49.jpg"
+     ]
     },
     {
      "id": "Ch20-Q50a",
@@ -92791,14 +93333,20 @@ window.BANK.chemistry = {
       "esters"
      ],
      "question": "Which of the four isomeric esters P, Q, R and S have five peaks in their 13C NMR spectrum? Structures are in the PDF.",
-     "status": "pending",
-     "answer": "Needs the four ester structures from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: R and S only",
+     "steps": [
+      "P (ethyl butanoate) has six different carbons, Q (methyl 2-methylbutanoate) has six different carbons.",
+      "R (methyl 3-methylbutanoate): the two CH3 on the CH are equivalent, so C=O, OCH3, CH2, CH and (CH3)2 give 5 peaks.",
+      "S (propan-2-yl propanoate): the two CH3 on the OCH are equivalent, so CH3, CH2, C=O, OCH and (CH3)2 give 5 peaks."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-080.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-081.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q50.jpg"
+     ]
     },
     {
      "id": "Ch20-Q50b",
@@ -92812,14 +93360,20 @@ window.BANK.chemistry = {
       "P Q R S"
      ],
      "question": "Which of the esters will not have a doublet in its high resolution proton NMR spectrum? Structures are in the PDF.",
-     "status": "pending",
-     "answer": "Needs the four ester structures from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: P",
+     "steps": [
+      "A doublet comes from a group whose protons have just one neighbouring H.",
+      "Q has CH3 on the CH (doublet), R has (CH3)2CH (doublet) and S has (CH3)2CH on the ester O (doublet).",
+      "P is CH3CH2CH2COOCH2CH3, with only triplets, a sextet and a quartet, so it has no doublet."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-080.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-081.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q50.jpg"
+     ]
     },
     {
      "id": "Ch20-Q50c",
@@ -92833,14 +93387,20 @@ window.BANK.chemistry = {
       "P Q R S"
      ],
      "question": "Which of the esters could rotate the plane of plane-polarised monochromatic light? Structures are in the PDF.",
-     "status": "pending",
-     "answer": "Needs the four ester structures from the PDF to find the chiral ones.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: Q only",
+     "steps": [
+      "Only a chiral molecule rotates the plane of plane-polarised light.",
+      "Q has a carbon bonded to four different groups: H, CH3, CH2CH3 and COOCH3.",
+      "P, R and S have no carbon with four different groups, so they are achiral."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-080.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-081.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q50.jpg"
+     ]
     },
     {
      "id": "Ch20-Q51a(i)",
@@ -92866,7 +93426,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-082.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-083.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q51.jpg"
+     ]
     },
     {
      "id": "Ch20-Q51a(ii)",
@@ -92893,7 +93455,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-082.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-083.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q51.jpg"
+     ]
     },
     {
      "id": "Ch20-Q51a(iii)",
@@ -92938,17 +93502,20 @@ window.BANK.chemistry = {
      ],
      "question": "Other than the phenol group, name the functional group present in compound C, which loses CO2 on decarboxylation.",
      "status": "ready",
-     "answer": "Carboxylic acid (-COOH).",
+     "answer": "Ester (the ethyl ester group, -COOCH2CH3).",
      "steps": [
-      "Decarboxylation removes CO2 from a carboxyl group.",
-      "So C contains -COOH, which is lost as CO2."
+      "On the paper, compound C is ethyl 4-hydroxybenzoate: a benzene ring with an OH group and a -COOCH2CH3 group.",
+      "Hydrolysis of the ester gives the carboxylic acid, which then loses CO2 on decarboxylation to give 2,6-dichlorophenol.",
+      "So the functional group other than phenol is an ester."
      ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-081.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-082.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-083.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q51-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q51c",
@@ -93003,7 +93570,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-082.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-083.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q51-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q51d(ii)",
@@ -93030,7 +93599,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-082.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-083.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q51-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q52",
@@ -93061,7 +93632,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-084.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-085.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q52.jpg"
+     ]
     },
     {
      "id": "Ch20-Q53a",
@@ -93125,16 +93698,21 @@ window.BANK.chemistry = {
       "precautions"
      ],
      "question": "Identify the hazard symbol(s) that should be displayed on a box of liquitabs, using ticks. The symbols are shown in the PDF.",
-     "status": "pending",
-     "answer": "Needs the hazard symbol options from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Tick the exclamation mark symbol (second symbol, irritant/harmful) only.",
+     "steps": [
+      "The passage says the concentrated detergent can irritate the eyes and skin and cause breathing difficulties if swallowed.",
+      "That is the exclamation mark (irritant/harmful) symbol; nothing in the passage suggests the oxidising, explosive or flammable symbols."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-085.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-086.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-087.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-088.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q54.jpg"
+     ]
     },
     {
      "id": "Ch20-Q54b(i)",
@@ -93243,7 +93821,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-087.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-088.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q54-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q54c(ii)",
@@ -93301,7 +93881,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-087.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-088.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q54-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q54d",
@@ -93317,16 +93899,24 @@ window.BANK.chemistry = {
       "ester C=O"
      ],
      "question": "Monomer X (intermediate for poly(ethenol)) gives 95.6 dm3 CO2 (r.t.p.) and 54.1 g H2O per mole burned. Use the IR spectrum (in PDF) to deduce the displayed structure of X.",
-     "status": "pending",
-     "answer": "Needs the IR spectrum from the PDF. Combustion data suggest C4H6O2; expected answer vinyl ethanoate, CH2=CHOCOCH3.",
-     "steps": [],
+     "status": "ready",
+     "answer": "X is ethenyl ethanoate (vinyl ethanoate), C4H6O2: H2C=CH-O-C(=O)-CH3.",
+     "steps": [
+      "Moles CO2 = 95.6/24.0 = 3.98, about 4 mol, so X has 4 C. Moles H2O = 54.1/18.0 = 3.0 mol, which is 6 H per molecule.",
+      "IR peak P at about 1740 cm-1 is C=O in an ester (Data Booklet 1700-1750 cm-1); peak Q at about 1650 cm-1 is C=C (1620-1680 cm-1).",
+      "There is no broad O-H absorption at 2500-3550 cm-1, so X is not an acid or alcohol; the strong C-O peak near 1200 cm-1 supports an ester.",
+      "The ester O atoms give C4H6O2 (two double bonds), with an ethanoate group on an alkene: CH2=CH-O-CO-CH3.",
+      "It polymerises to poly(ethenyl ethanoate), which is hydrolysed to poly(ethenol)."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-085.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-086.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-087.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-088.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q54-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q54e",
@@ -93383,7 +93973,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-090.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-091.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q55.jpg"
+     ]
     },
     {
      "id": "Ch20-Q55a(ii)",
@@ -93413,7 +94005,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-090.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-091.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q55.jpg"
+     ]
     },
     {
      "id": "Ch20-Q55b(i)",
@@ -93440,7 +94034,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-090.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-091.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q55.jpg"
+     ]
     },
     {
      "id": "Ch20-Q55b(ii)",
@@ -93466,7 +94062,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-090.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-091.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q55.jpg"
+     ]
     },
     {
      "id": "Ch20-Q55c",
@@ -93497,7 +94095,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-090.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-091.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q55-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q55d",
@@ -93526,7 +94126,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-090.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-091.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q55.jpg"
+     ]
     },
     {
      "id": "Ch20-Q55e",
@@ -93554,7 +94156,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-090.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-091.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q55-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q56a",
@@ -93569,7 +94173,7 @@ window.BANK.chemistry = {
       "mechanism",
       "arenium ion"
      ],
-     "question": "Draw the mechanism for the formation of methylbenzene from benzene and chloromethane, with equations for electrophile formation and catalyst regeneration.",
+     "question": "Draw the mechanism for the formation of methylbenzene from benzene and chloromethane. The equations for the formation of the electrophile and for the regeneration of the catalyst are given in the figure.",
      "status": "ready",
      "answer": "CH3Cl + AlCl3 to CH3+ + AlCl4-; the ring attacks CH3+ to form an arenium ion; AlCl4- removes H+ to give methylbenzene, regenerating AlCl3 (AlCl4- + H+ to AlCl3 + HCl).",
      "steps": [
@@ -93583,7 +94187,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-092.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-093.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q56-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q56b",
@@ -93599,15 +94205,21 @@ window.BANK.chemistry = {
       "single isomer"
      ],
      "question": "Explain, with reference to the mechanism, why this step will not produce a single isomer. The step is shown in the PDF.",
-     "status": "pending",
-     "answer": "Needs the step shown in the PDF; expected answer: the CH3 group directs substitution to ortho and para positions.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The product is a mixture of two enantiomers (a racemic mixture), because CN- can attack the planar C=N carbon from either side with equal probability.",
+     "steps": [
+      "The step is nucleophilic addition of CN- to the C=N bond of the imine.",
+      "The C=N carbon and its attached groups are planar, so the CN- nucleophile can attack from above or below the plane with equal probability.",
+      "The product carbon has four different groups (H, CN, NH2, C6H5), so it is chiral, and the two attacks give opposite enantiomers in equal amounts: a racemic mixture."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-091.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-092.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-093.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q56.jpg"
+     ]
     },
     {
      "id": "Ch20-Q56c",
@@ -93622,15 +94234,21 @@ window.BANK.chemistry = {
       "phenylglycine synthesis"
      ],
      "question": "State the type of reaction, and the reagents and conditions, for the final step of the phenylglycine synthesis. The step is shown in the PDF.",
-     "status": "pending",
-     "answer": "Needs the final step scheme from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Type: hydrolysis (of the nitrile). Reagent: dilute hydrochloric acid (or dilute sulfuric acid). Conditions: heat under reflux.",
+     "steps": [
+      "The C-N triple bond of the nitrile becomes a COOH group, so the nitrile is hydrolysed.",
+      "Reagent: dilute strong acid such as dilute HCl, which converts C-N to COOH and the nitrogen to NH4+.",
+      "Condition: heat under reflux."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-091.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-092.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-093.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q56-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q57a",
@@ -93644,14 +94262,20 @@ window.BANK.chemistry = {
       "structure"
      ],
      "question": "What is the structure of the amide formed from propanoyl chloride and N-methylpropylamine? Structures are in the PDF.",
-     "status": "pending",
-     "answer": "Needs the reactant structures from the PDF; expected N-methyl-N-propylpropanamide, C7H15NO.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: N-methyl-N-propylpropanamide, CH3CH2C(=O)N(CH3)CH2CH2CH3",
+     "steps": [
+      "The secondary amine CH3NHCH2CH2CH3 loses its N-H hydrogen and the acyl group CH3CH2CO- replaces it, with HCl formed.",
+      "The amide therefore has N bonded to CH3, CH2CH2CH3 and the propanoyl group C(=O)CH2CH3, and no N-H.",
+      "Options A and B still have N-H, and C has the wrong acyl and amine groups; D is correct."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-093.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-094.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q57.jpg"
+     ]
     },
     {
      "id": "Ch20-Q57b",
@@ -93690,9 +94314,12 @@ window.BANK.chemistry = {
       "structure"
      ],
      "question": "Give the empirical formula of raspberry ketone.",
-     "status": "pending",
-     "answer": "Needs the raspberry ketone structure from the PDF (expected C10H12O2, empirical C5H6O).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C5H6O",
+     "steps": [
+      "Raspberry ketone is HOC6H4CH2CH2C(=O)CH3, with molecular formula C10H12O2.",
+      "Divide by 2: empirical formula C5H6O."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-094.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-095.jpg",
@@ -93700,7 +94327,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-097.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-098.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q58.jpg"
+     ]
     },
     {
      "id": "Ch20-Q58b(i)",
@@ -93716,9 +94345,15 @@ window.BANK.chemistry = {
       "regeneration"
      ],
      "question": "Draw the mechanism of the Friedel-Crafts reaction of phenol to make raspberry ketone, including electrophile formation and catalyst regeneration.",
-     "status": "pending",
-     "answer": "Needs the overall reaction from the PDF to identify the electrophile and product.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Electrophile: ClCH2CH2C(=O)CH3 + AlCl3 -> +CH2CH2C(=O)CH3 + AlCl4-. Curly arrow from the ring (para to OH) to the C+; intermediate horseshoe over five carbons with + inside and H and the side chain on the sp3 carbon; curly arrow from the C-H bond into the ring with H+ taken by AlCl4-; regeneration: AlCl4- + H+ -> AlCl3 + HCl.",
+     "steps": [
+      "Electrophile formation: AlCl3 accepts Cl- from the chloroalkane to give the carbocation +CH2CH2COCH3 and AlCl4-.",
+      "Curly arrow from the pi electrons of phenol (attack para to the activating OH group) to the positive carbon.",
+      "Intermediate: horseshoe over five carbons with +, and H and CH2CH2COCH3 on the same sp3 carbon (para to OH).",
+      "Curly arrow from the C-H bond back into the ring restores the ring and releases H+; H+ combines with AlCl4-.",
+      "Catalyst regeneration: AlCl4- + H+ -> AlCl3 + HCl; the product is raspberry ketone."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-094.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-095.jpg",
@@ -93726,7 +94361,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-097.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-098.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q58-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q58b(ii)",
@@ -93756,7 +94393,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-097.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-098.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q58-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q58c",
@@ -93772,9 +94411,16 @@ window.BANK.chemistry = {
       "conditions"
      ],
      "question": "Devise a multi-step Grignard synthesis of raspberry ketone, giving reagents, conditions and intermediates, including formation of the Grignard reagent.",
-     "status": "pending",
-     "answer": "Needs the overall reaction shown in the PDF to design the route.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Step 1: oxidise the primary alcohol to the aldehyde with acidified K2Cr2O7, heating and distilling out the product, giving HOC6H4CH2CH2CHO. Step 2: make CH3MgBr from CH3Br and Mg in dry ether. Step 3: add the aldehyde to CH3MgBr in dry ether, then dilute acid, giving the secondary alcohol HOC6H4CH2CH2CH(OH)CH3. Step 4: oxidise it with acidified K2Cr2O7 (heat under reflux) to raspberry ketone, HOC6H4CH2CH2C(=O)CH3.",
+     "steps": [
+      "The target ketone has one more carbon than the aldehyde, so a Grignard reagent (CH3MgX) must add a CH3 to an aldehyde, and the secondary alcohol formed is then oxidised.",
+      "Step 1: acidified potassium dichromate(VI), heat gently and distil off the aldehyde as it forms (to avoid over-oxidation to the acid).",
+      "Grignard formation: bromomethane (or iodomethane) with magnesium turnings in dry ether (no water).",
+      "Step 2: add the aldehyde to CH3MgBr in dry ether, then dilute acid (or water) to give the secondary alcohol intermediate.",
+      "Step 3: acidified potassium dichromate(VI), heated under reflux, oxidises the secondary alcohol to the ketone.",
+      "The phenol OH is acidic and also consumes some Grignard reagent, so a slight excess is used."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-094.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-095.jpg",
@@ -93782,7 +94428,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-097.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-098.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q58-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q58d",
@@ -93797,9 +94445,13 @@ window.BANK.chemistry = {
       "functional group"
      ],
      "question": "Suggest why the choice of reducing agent is particularly important in the reduction step of the industrial preparation of raspberry ketone.",
-     "status": "pending",
-     "answer": "Needs the reduction scheme from the PDF (expected: the reagent must reduce only the target group, leaving others unchanged).",
-     "steps": [],
+     "status": "ready",
+     "answer": "The reducing agent must reduce only the C=C double bond and leave the C=O group (and the benzene ring) untouched; a stronger or less selective reducing agent such as LiAlH4 or NaBH4 would also reduce the ketone.",
+     "steps": [
+      "The molecule has C=C, C=O and a benzene ring that could all be reduced.",
+      "H2 with a suitable catalyst reduces C=C selectively under the mild conditions used.",
+      "LiAlH4 or NaBH4 would also reduce the ketone C=O to an alcohol, giving the wrong product."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-094.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-095.jpg",
@@ -93807,7 +94459,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-097.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-098.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q58-4.jpg"
+     ]
     },
     {
      "id": "Ch20-Q58e(i)",
@@ -93823,9 +94477,13 @@ window.BANK.chemistry = {
       "structures"
      ],
      "question": "Compare and contrast the stereoisomerism of alpha-ionone and beta-ionone, circling features that give stereoisomerism.",
-     "status": "pending",
-     "answer": "Needs the ionone structures from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both molecules show E/Z (geometric) isomerism because the side-chain C=C has two different groups on each carbon (circle the C=C). Only alpha-ionone also shows optical isomerism, because its ring carbon bonded to the side chain is a chiral centre with four different groups (circle that carbon); beta-ionone has no chiral centre.",
+     "steps": [
+      "Similarity: the CH=CH in the side chain of each molecule has two different groups on each carbon, so both can exist as E and Z isomers.",
+      "Difference: in alpha-ionone the ring carbon bonded to the side chain has four different groups (H, the side chain, CMe2 and the ring C(CH3)=CH carbon), so it is chiral and gives a pair of enantiomers.",
+      "In beta-ionone that carbon is sp2 (part of the ring C=C), so there is no chiral carbon, and the ring C=C cannot show E/Z isomerism because it is in the ring."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-094.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-095.jpg",
@@ -93833,7 +94491,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-097.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-098.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q58-5.jpg"
+     ]
     },
     {
      "id": "Ch20-Q58e(ii)",
@@ -93848,9 +94508,13 @@ window.BANK.chemistry = {
       "asterisk"
      ],
      "question": "Identify with an asterisk the carbon environment in alpha-ionone expected to give a quartet in the high resolution proton NMR.",
-     "status": "pending",
-     "answer": "Needs the alpha-ionone structure from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Put the asterisk on the ring CH2 carbon bonded to the =CH carbon (the CH2 at the bottom left of the ring, next to the CH=C(CH3) carbon).",
+     "steps": [
+      "A quartet needs exactly 3 neighbouring hydrogens (n + 1 = 4).",
+      "The ring CH2 next to the ring =CH has 1 H on the =CH carbon and 2 H on the other CH2, so 3 neighbours and a quartet.",
+      "The other CH2 is next to a carbon with no H, so it would be a triplet; the CH3 groups are all singlets."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-094.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-095.jpg",
@@ -93858,7 +94522,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-097.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-098.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q58-6.jpg"
+     ]
     },
     {
      "id": "Ch20-Q58e(iii)",
@@ -93873,9 +94539,13 @@ window.BANK.chemistry = {
       "justify"
      ],
      "question": "Predict the number of peaks in the 13C NMR spectrum of the ionone (C13H20O) and justify.",
-     "status": "pending",
-     "answer": "Needs the ionone structure from the PDF to count carbon environments.",
-     "steps": [],
+     "status": "ready",
+     "answer": "12 peaks",
+     "steps": [
+      "Beta-ionone has 13 carbons, so there are at most 13 peaks.",
+      "The two CH3 groups on the ring carbon C(CH3)2 are in identical environments (they are mirror images across a plane of symmetry through the ring), unlike in alpha-ionone where the chiral centre makes them different.",
+      "Every other carbon is different from the rest, so there are 12 different environments and 12 peaks."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-094.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-095.jpg",
@@ -93883,7 +94553,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-097.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-098.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q58-7.jpg"
+     ]
     },
     {
      "id": "Ch20-Q59",
@@ -93935,7 +94607,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-098.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-099.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q60-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q60b",
@@ -93961,7 +94635,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-098.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-099.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q60.jpg"
+     ]
     },
     {
      "id": "Ch20-Q61a(i)",
@@ -93975,16 +94651,22 @@ window.BANK.chemistry = {
       "C17H26O4"
      ],
      "question": "Give the molecular formula of gingerol from its skeletal formula.",
-     "status": "pending",
-     "answer": "Needs the skeletal formula from the PDF (expected C17H26O4 for 6-gingerol; check against drawing).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C17H26O4",
+     "steps": [
+      "Count carbons: benzene ring 6, OCH3 1, chain CH2CH2C(=O)CH2CH(OH)CH2CH2CH2CH2CH3 10 carbons gives 17 C.",
+      "Hydrogens: ring 3, phenol OH 1, OCH3 3, CH2CH2 4, CH2 2, CH 1, OH 1, (CH2)4CH3 11 gives 26 H.",
+      "Oxygens: phenol OH, OCH3, C=O and alcohol OH gives 4 O, so C17H26O4."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-099.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-100.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-101.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-102.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q61.jpg"
+     ]
     },
     {
      "id": "Ch20-Q61a(ii)",
@@ -94014,7 +94696,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-101.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-102.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q61.jpg"
+     ]
     },
     {
      "id": "Ch20-Q61b",
@@ -94030,16 +94714,25 @@ window.BANK.chemistry = {
       "reagents"
      ],
      "question": "Complete the four-step synthesis of zingerone from coniferyl alcohol, with completed intermediate structures and reagents/conditions (Step 2 uses a Grignard reagent; Steps 1, 3 and 4 are redox).",
-     "status": "pending",
-     "answer": "Needs the partially drawn intermediates and scheme from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Step 1: acidified K2Cr2O7, heat and distil, gives intermediate 1 Ar-CH=CH-CHO. Step 2: CH3MgBr in dry ether, then dilute acid, gives intermediate 2 Ar-CH=CH-CH(OH)CH3. Step 3: acidified K2Cr2O7, heat under reflux, gives intermediate 3 Ar-CH=CH-C(=O)CH3. Step 4: H2 with Ni (or Rh/Pd) catalyst gives zingerone, Ar-CH2CH2C(=O)CH3 (Ar = 4-hydroxy-3-methoxyphenyl).",
+     "steps": [
+      "Step 1 is oxidation: the primary alcohol CH2OH of coniferyl alcohol becomes the aldehyde CHO (acidified potassium dichromate, heat, distil out the aldehyde); the C=C is kept.",
+      "Step 2 is the Grignard step: CH3MgBr (from CH3Br + Mg in dry ether) adds CH3 to the aldehyde, then dilute acid gives the secondary alcohol, Ar-CH=CH-CH(OH)CH3.",
+      "Step 3 is oxidation again: acidified potassium dichromate(VI), heat under reflux, turns the secondary alcohol into the ketone Ar-CH=CH-C(=O)CH3.",
+      "Step 4 is reduction of the C=C only, using H2 with a metal catalyst (Ni, Pd or Rh), to give zingerone Ar-CH2CH2C(=O)CH3.",
+      "The intermediates all keep the 4-hydroxy-3-methoxyphenyl ring shown on the page."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-099.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-100.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-101.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-102.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q61-2.jpg",
+      "papers/chemistry/fig/20-Organic-Synthesis-Q61-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q62a",
@@ -94054,15 +94747,22 @@ window.BANK.chemistry = {
       "structure"
      ],
      "question": "What is the structure of asparagine in aqueous solution at pH 2? Options are in the PDF.",
-     "status": "pending",
-     "answer": "Needs the option structures from the PDF (expected H3N+ with COOH, side chain CONH2 unchanged).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: H3N+ group, COOH group and CONH2 unchanged",
+     "steps": [
+      "At pH 2 (strongly acidic) the amine group is protonated: -NH3+.",
+      "The carboxylic acid is not ionised at low pH, so it stays as -COOH (the zwitterion with COO- exists near neutral pH).",
+      "The amide group is not protonated significantly, so the answer is D."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-102.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-103.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-104.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q62-2.jpg",
+      "papers/chemistry/fig/20-Organic-Synthesis-Q62.jpg"
+     ]
     },
     {
      "id": "Ch20-Q62b",
@@ -94078,15 +94778,20 @@ window.BANK.chemistry = {
       "triplet"
      ],
      "question": "In the high resolution proton NMR of asparagine, what is the splitting pattern for the protons indicated by the arrow? A singlet, B doublet, C triplet, D quartet.",
-     "status": "pending",
-     "answer": "Needs the arrowed proton shown in the PDF structure.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: doublet",
+     "steps": [
+      "The CH2 protons are on a carbon next to the CH carbon, which has 1 H, so n + 1 = 2.",
+      "The other neighbour is the C=O carbon (no H), and the NH2 and COOH protons exchange and do not cause splitting."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-102.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-103.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-104.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q62-3.jpg"
+     ]
     },
     {
      "id": "Ch20-Q63",
@@ -94130,14 +94835,22 @@ window.BANK.chemistry = {
       "reagents"
      ],
      "question": "Complete the table for the outline synthesis of propanoic acid from ethanoic acid, which uses Grignard reagents to lengthen the chain.",
-     "status": "pending",
-     "answer": "Needs the table and outline scheme from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Step 1: LiAlH4 in dry ether (then add water/dilute acid). Step 2: HBr (e.g. NaBr + concentrated H2SO4, heat) or PBr3. Compound X: bromoethane, CH3CH2Br. Step 3: Mg in dry ether (heat under reflux). Grignard reagent: CH3CH2MgBr. Step 4: CO2 (solid), then dilute acid.",
+     "steps": [
+      "Step 1 reduces ethanoic acid to ethanol: lithium tetrahydridoaluminate(III) in dry ether, followed by dilute acid or water.",
+      "Step 2 converts the alcohol to a halogenoalkane, X = bromoethane (HBr from NaBr and concentrated H2SO4, heat; PBr3 is also acceptable).",
+      "Step 3 makes the Grignard reagent: bromoethane with magnesium in dry (anhydrous) ether, giving CH3CH2MgBr.",
+      "Step 4: CH3CH2MgBr adds to CO2 (solid carbon dioxide, dry ice), then dilute acid gives propanoic acid, CH3CH2COOH, with one carbon added."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-104.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-105.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q64.jpg",
+      "papers/chemistry/fig/20-Organic-Synthesis-Q64-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q65",
@@ -94180,15 +94893,21 @@ window.BANK.chemistry = {
       "5.8 g"
      ],
      "question": "What are the volumes of oxygen required and carbon dioxide produced at r.t.p. on complete combustion of 5.8 g of butane (Mr 58.0)? Options are in the PDF.",
-     "status": "pending",
-     "answer": "Needs the option list from the PDF. Calculated: 0.1 mol butane needs 0.65 mol O2 (15.6 dm3) and gives 0.4 mol CO2 (9.6 dm3).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 15.6 dm3 of oxygen and 9.6 dm3 of carbon dioxide",
+     "steps": [
+      "Moles C4H10 = 5.8/58.0 = 0.100 mol.",
+      "C4H10 + 6.5O2 -> 4CO2 + 5H2O, so O2 = 0.100 x 6.5 = 0.650 mol = 0.650 x 24.0 = 15.6 dm3.",
+      "CO2 = 0.100 x 4 = 0.400 mol = 0.400 x 24.0 = 9.6 dm3."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-106.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-107.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-108.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q66.jpg"
+     ]
     },
     {
      "id": "Ch20-Q67a",
@@ -94216,7 +94935,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/20-Organic-Synthesis-107.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-108.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q67.jpg"
+     ]
     },
     {
      "id": "Ch20-Q67b",
@@ -94231,15 +94952,20 @@ window.BANK.chemistry = {
       "sulfonate"
      ],
      "question": "Draw the structure of the diazonium ion formed from compound A.",
-     "status": "pending",
-     "answer": "Needs compound A's structure from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The 4-sulfonatobenzenediazonium ion: a benzene ring with N+ triple bond N at one carbon and SO3- Na+ at the carbon opposite (para), with Cl- as the counter-ion.",
+     "steps": [
+      "Diazotisation converts the NH2 group of compound A into N+ triple bond N.",
+      "The SO3- Na+ group on the opposite side of the ring is unchanged."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-106.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-107.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-108.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q67.jpg"
+     ]
     },
     {
      "id": "Ch20-Q67c",
@@ -94255,15 +94981,20 @@ window.BANK.chemistry = {
       "sunset yellow"
      ],
      "question": "Circle the functional group, other than the diazonium group, that is essential for the coupling reaction to occur in sunset yellow.",
-     "status": "pending",
-     "answer": "Needs the sunset yellow structure from the PDF (expected: the OH group of the phenol/naphthol coupling partner).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Circle the OH (hydroxyl, phenol) group on the naphthalene ring, next to the carbon that carries the azo link.",
+     "steps": [
+      "The diazonium ion is a weak electrophile, so it only couples with a ring that is activated.",
+      "The OH group donates a lone pair into the ring, activating the ortho position, and the azo group is on the carbon next to the OH."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-106.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-107.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-108.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q67-2.jpg"
+     ]
     },
     {
      "id": "Ch20-Q67d(i)",
@@ -94303,15 +95034,22 @@ window.BANK.chemistry = {
       "mass"
      ],
      "question": "The yield of sunset yellow is 67.9%. Calculate the mass produced from 5.00 g of compound A (Mr of sunset yellow 452.2).",
-     "status": "pending",
-     "answer": "Needs the Mr of compound A from the PDF structure (expected sulfanilic acid, Mr about 173, giving about 8.9 g).",
-     "steps": [],
+     "status": "ready",
+     "answer": "7.87 g",
+     "steps": [
+      "Mr of compound A, C6H6NNaO3S = 6 x 12.0 + 6 x 1.0 + 14.0 + 23.0 + 3 x 16.0 + 32.1 = 195.1.",
+      "Moles A = 5.00/195.1 = 0.02563 mol, and one mole of A gives one mole of sunset yellow.",
+      "Theoretical mass = 0.02563 x 452.2 = 11.59 g.",
+      "Actual mass at 67.9% yield = 11.59 x 0.679 = 7.87 g."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-106.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-107.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-108.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q67.jpg"
+     ]
     },
     {
      "id": "Ch20-Q68a",
@@ -94351,14 +95089,21 @@ window.BANK.chemistry = {
       "peaks"
      ],
      "question": "Four students sketched the high-resolution proton NMR spectrum of 2,3-dimethylbutane. Which sketch is most likely correct? The sketches are in the PDF.",
-     "status": "pending",
-     "answer": "Needs the four sketches from the PDF (expected: two peak environments, a doublet and a multiplet, with 12:2 area ratio).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "2,3-Dimethylbutane, (CH3)2CH-CH(CH3)2, has two proton environments: 12 H in four equivalent CH3 groups (doublet) and 2 H in the two equivalent CH groups.",
+      "Each CH3 is next to one CH hydrogen, so a doublet near 0.9 ppm; each CH has 6 neighbouring H, giving a septet near 1.4 ppm.",
+      "The areas are 12 : 2 (6 : 1), so the doublet is much larger than the multiplet: sketch B.",
+      "A is a single peak, C shows a triplet (wrong splitting) and D is too complex."
+     ],
      "images": [
       "papers/chemistry/img/20-Organic-Synthesis-108.jpg",
       "papers/chemistry/img/20-Organic-Synthesis-109.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/20-Organic-Synthesis-Q68.jpg"
+     ]
     },
     {
      "id": "Ch20-Q69",

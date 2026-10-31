@@ -145,6 +145,9 @@
       ],
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-02.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/28-7C-Particle-Zoo-Q3.jpg"
       ]
     },
     {
@@ -162,7 +165,7 @@
         "options",
         "mass kg"
       ],
-      "question": "A gamma photon of energy 18 MeV produces a particle and its antiparticle. Which gives the maximum possible mass of the particle in kg? (Options are not in the text.)",
+      "question": "A gamma photon of energy 18 MeV produces a particle and its antiparticle. Which gives the maximum possible mass of the particle in kg? (Options are shown in the figure below.)",
       "status": "ready",
       "answer": "D: (9 x 10^6 x 1.6 x 10^-19) / (3 x 10^8)^2",
       "steps": [
@@ -194,7 +197,7 @@
         "charge",
         "lepton number"
       ],
-      "question": "Which equation correctly shows neutron decay? A: n -> p + e^+ + (missing); B: n -> p + e^+ + nu_e; C: n -> p + e^- + (missing); D: n -> p + e^- + nu_e. (Bars on antiparticle symbols are lost in the text.)",
+      "question": "Which equation correctly shows neutron decay? A: n -> p + e^+ + (missing); B: n -> p + e^+ + nu_e; C: n -> p + e^- + (missing); D: n -> p + e^- + nu_e. (Bars on antiparticle symbols are shown in the figure below.)",
       "status": "ready",
       "answer": "D: n -> p + e^- + antineutrino (the correct beta-minus decay)",
       "steps": [
@@ -206,6 +209,9 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-03.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/28-7C-Particle-Zoo-Q5.jpg"
       ]
     },
     {
@@ -279,7 +285,7 @@
         "classification",
         "description"
       ],
-      "question": "Describe how the underlined particles in a passage about the history of particle physics fit into the standard model. (The passage is not in the text.)",
+      "question": "Describe how the underlined particles in a passage about the history of particle physics fit into the standard model. (The passage is shown in the figure below.)",
       "status": "ready",
       "answer": "Electron and muon are fundamental leptons; proton and neutron are baryons made of three quarks; a meson is a quark-antiquark pair.",
       "steps": [
@@ -342,7 +348,7 @@
         "charge",
         "lepton number"
       ],
-      "question": "Neutrinos can interact with protons to create neutrons. Which equation shows this process? (Options are not in the text.)",
+      "question": "Neutrinos can interact with protons to create neutrons. Which equation shows this process? (Options are shown in the figure below.)",
       "status": "ready",
       "answer": "C: anti-electron-neutrino + p -> e+ + n",
       "steps": [
@@ -448,6 +454,9 @@
         "papers/physics/img/28-7C-Particle-Zoo-06.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-07.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/28-7C-Particle-Zoo-Q10.jpg"
       ]
     },
     {
@@ -477,6 +486,9 @@
         "papers/physics/img/28-7C-Particle-Zoo-06.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-07.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/28-7C-Particle-Zoo-Q10.jpg"
       ]
     },
     {
@@ -552,7 +564,7 @@
         "positron",
         "antineutrino"
       ],
-      "question": "Explain how the anti-neutron decay equation shows that the decay obeys three conservation laws. (The equation is not in the text.)",
+      "question": "Explain how the anti-neutron decay equation shows that the decay obeys three conservation laws. (The equation is shown in the figure below.)",
       "status": "ready",
       "answer": "The equation n-bar -> p-bar + e+ + neutrino obeys conservation of charge, baryon number and lepton number.",
       "steps": [
@@ -655,6 +667,9 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-10.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/28-7C-Particle-Zoo-Q13.jpg"
       ]
     },
     {
@@ -731,7 +746,7 @@
         "2015",
         "row"
       ],
-      "question": "A pentaquark is made of five quarks and can form a baryon-meson combination. Which row of the table shows a possible arrangement? (The table is not in the text.)",
+      "question": "A pentaquark is made of five quarks and can form a baryon-meson combination. Which row of the table shows a possible arrangement? (The table is shown in the figure below.)",
       "status": "ready",
       "answer": "A: baryon d u u, meson c c-bar",
       "steps": [
@@ -962,6 +977,9 @@
         "papers/physics/img/28-7C-Particle-Zoo-14.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-15.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-16.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/28-7C-Particle-Zoo-Q17.jpg"
       ]
     },
     {
@@ -1068,7 +1086,7 @@
         "options",
         "calculate"
       ],
-      "question": "A particle has a mass of 3.17 x 10^-27 kg. Which gives the mass in GeV/c^2? (Options are not in the text.)",
+      "question": "A particle has a mass of 3.17 x 10^-27 kg. Which gives the mass in GeV/c^2? (Options are shown in the figure below.)",
       "status": "ready",
       "answer": "D: (3.17 x 10^-27 x (3.00 x 10^8)^2) / (10^9 x 1.6 x 10^-19) = 1.78 GeV/c^2",
       "steps": [
@@ -1281,6 +1299,9 @@
         "papers/physics/img/28-7C-Particle-Zoo-18.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-19.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-20.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/28-7C-Particle-Zoo-Q22.jpg"
       ]
     },
     {
@@ -1411,7 +1432,7 @@
         "out of page",
         "state"
       ],
-      "question": "A magnetic field acts in the detector. State its direction. (Direction is shown on the track diagram, which is not in the text.)",
+      "question": "A magnetic field acts in the detector. State its direction. (Direction is shown on the track diagram, which is shown in the figure below.)",
       "status": "ready",
       "answer": "Into the page.",
       "steps": [
@@ -1529,7 +1550,7 @@
         "names",
         "production"
       ],
-      "question": "A muon can be produced by a decay shown in a nuclear equation. State the names of the two other particles involved. (The equation is not in the text.)",
+      "question": "A muon can be produced by a decay shown in a nuclear equation. State the names of the two other particles involved. (The equation is shown in the figure below.)",
       "status": "ready",
       "answer": "The negative pion (pi-minus) is the decaying particle, and the other product is a muon anti-neutrino.",
       "steps": [
@@ -1678,7 +1699,7 @@
         "track",
         "kaon decay"
       ],
-      "question": "Determine the momentum of the negative pion produced in the detector, with magnetic flux density 7.0 T. (The track diagram drawn to scale is not in the text.)",
+      "question": "Determine the momentum of the negative pion produced in the detector, with magnetic flux density 7.0 T. (The track diagram drawn to scale is shown in the figure below.)",
       "status": "ready",
       "answer": "p = about 2.1 x 10^-19 N s (radius read from the scale diagram about 19 cm)",
       "steps": [
@@ -1815,6 +1836,9 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-25.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/28-7C-Particle-Zoo-Q26.jpg"
       ]
     },
     {
@@ -1861,7 +1885,7 @@
         "row",
         "compare"
       ],
-      "question": "Which row of the table describes the lifetime and mass of a high speed muon compared with a stationary muon? (The table is not in the text.)",
+      "question": "Which row of the table describes the lifetime and mass of a high speed muon compared with a stationary muon? (The table is shown in the figure below.)",
       "status": "ready",
       "answer": "D: longer lifetime, larger mass",
       "steps": [
@@ -1929,6 +1953,9 @@
       ],
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-27.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/28-7C-Particle-Zoo-Q29.jpg"
       ]
     },
     {
@@ -1946,7 +1973,7 @@
         "antiparticle",
         "identify"
       ],
-      "question": "Which row of the table describes the mass and charge of an antiproton? (The table is not in the text.)",
+      "question": "Which row of the table describes the mass and charge of an antiproton? (The table is shown in the figure below.)",
       "status": "ready",
       "answer": "B: mass 1.67 x 10^-27 kg, charge -1.6 x 10^-19 C",
       "steps": [
@@ -1977,7 +2004,7 @@
         "relative charges",
         "uuu"
       ],
-      "question": "The table shows relative charges on up and down quarks. Which could be the quark composition for a baryon with charge +2e? (The table of options is not in the text.)",
+      "question": "The table shows relative charges on up and down quarks. Which could be the quark composition for a baryon with charge +2e? (The table of options is shown in the figure below.)",
       "status": "ready",
       "answer": "D: u u u",
       "steps": [
@@ -2178,7 +2205,7 @@
         "antiparticle",
         "proton"
       ],
-      "question": "Which row in the table gives the charge and mass of an antiproton? (The table is not in the text.)",
+      "question": "Which row in the table gives the charge and mass of an antiproton? (The table is shown in the figure below.)",
       "status": "ready",
       "answer": "D: charge -1.6 x 10^-19 C, mass 1.67 x 10^-27 kg",
       "steps": [
@@ -2277,6 +2304,9 @@
         "papers/physics/img/28-7C-Particle-Zoo-32.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-33.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-34.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/28-7C-Particle-Zoo-Q36.jpg"
       ]
     },
     {
@@ -2498,7 +2528,7 @@
         "CERN 2022",
         "five quarks"
       ],
-      "question": "A pentaquark of five quarks is made of a meson and a baryon with equal and opposite charges. Determine the quark combination and charge of a meson and of a baryon that could make up the pentaquark. (The quark table and the five quarks are not in the text.)",
+      "question": "A pentaquark of five quarks is made of a meson and a baryon with equal and opposite charges. Determine the quark combination and charge of a meson and of a baryon that could make up the pentaquark. (The quark table and the five quarks are shown in the figure below.)",
       "status": "ready",
       "answer": "For example: meson c-bar d (charge -1) and baryon u c s (charge +1). (Meson c-bar s with baryon u c d also works.)",
       "steps": [
@@ -2559,7 +2589,7 @@
         "possible",
         "decay"
       ],
-      "question": "Explain whether a given muon decay would be possible, considering conservation of charge and lepton number. (The decay equation is not in the text.)",
+      "question": "Explain whether a given muon decay would be possible, considering conservation of charge and lepton number. (The decay equation is shown in the figure below.)",
       "status": "ready",
       "answer": "Possible: mu^- -> e^- + nu(e) + anti-nu(mu) conserves charge and lepton number.",
       "steps": [
@@ -2604,6 +2634,9 @@
         "papers/physics/img/28-7C-Particle-Zoo-36.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/28-7C-Particle-Zoo-Q40.jpg"
       ]
     },
     {
@@ -2633,6 +2666,9 @@
         "papers/physics/img/28-7C-Particle-Zoo-36.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/28-7C-Particle-Zoo-Q40.jpg"
       ]
     },
     {
@@ -2662,6 +2698,9 @@
         "papers/physics/img/28-7C-Particle-Zoo-36.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/28-7C-Particle-Zoo-Q40.jpg"
       ]
     },
     {
@@ -2692,6 +2731,9 @@
         "papers/physics/img/28-7C-Particle-Zoo-36.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/28-7C-Particle-Zoo-Q40.jpg"
       ]
     },
     {
@@ -2736,7 +2778,7 @@
         "options",
         "mass"
       ],
-      "question": "A particle has mass 6.5 MeV/c^2. Which gives its mass in kg? (Options are not in the text.)",
+      "question": "A particle has mass 6.5 MeV/c^2. Which gives its mass in kg? (Options are shown in the figure below.)",
       "status": "ready",
       "answer": "B: (6.5 x 1.6 x 10^-13) / (3 x 10^8)^2 kg",
       "steps": [
@@ -2767,7 +2809,7 @@
         "shows",
         "options"
       ],
-      "question": "Which of the following shows the beta-minus decay of a nucleon? (Options are not in the text.)",
+      "question": "Which of the following shows the beta-minus decay of a nucleon? (Options are shown in the figure below.)",
       "status": "ready",
       "answer": "B: n -> p + beta^- + anti-electron-neutrino",
       "steps": [
@@ -2798,7 +2840,7 @@
         "table",
         "uud udd"
       ],
-      "question": "The table shows the charges on up and down quarks. Which row shows the quark structure of protons and neutrons? (The table is not in the text.)",
+      "question": "The table shows the charges on up and down quarks. Which row shows the quark structure of protons and neutrons? (The table is shown in the figure below.)",
       "status": "ready",
       "answer": "C: proton d u u, neutron d d u",
       "steps": [
@@ -2958,6 +3000,9 @@
         "papers/physics/img/28-7C-Particle-Zoo-42.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-43.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-44.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/28-7C-Particle-Zoo-Q46-4.jpg"
       ]
     },
     {
@@ -3003,7 +3048,7 @@
         "deduce",
         "conservation laws"
       ],
-      "question": "Deduce whether conservation of charge and conservation of lepton number apply to the decay of the positive particle shown. (The decay equation symbols are lost in the text.)",
+      "question": "Deduce whether conservation of charge and conservation of lepton number apply to the decay of the positive particle shown. (The decay equation symbols are shown in the figure below.)",
       "status": "ready",
       "answer": "Both apply: charge +1 -> +1 + 0 is conserved and lepton number 0 -> 0 + 0 is conserved.",
       "steps": [
@@ -3036,7 +3081,7 @@
         "bubble chamber",
         "1.07 x 10^-19"
       ],
-      "question": "The positive particle (momentum 3.67 x 10^-19 kg m s^-1) decays and one product has momentum 1.07 x 10^-19 kg m s^-1. Determine the magnitude and direction of the neutron momentum. (The direction diagram is not in the text.)",
+      "question": "The positive particle (momentum 3.67 x 10^-19 kg m s^-1) decays and one product has momentum 1.07 x 10^-19 kg m s^-1. Determine the magnitude and direction of the neutron momentum. (The direction diagram is shown in the figure below.)",
       "status": "ready",
       "answer": "Magnitude 3.4 x 10^-19 kg m s^-1 (3.36 x 10^-19), at about 17 degrees to the direction of the sigma on the opposite side to the pion.",
       "steps": [
@@ -3146,6 +3191,9 @@
         "papers/physics/img/28-7C-Particle-Zoo-45.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-46.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/28-7C-Particle-Zoo-Q48.jpg"
       ]
     },
     {
@@ -3207,6 +3255,9 @@
         "papers/physics/img/28-7C-Particle-Zoo-45.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-46.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/28-7C-Particle-Zoo-Q48-2.jpg"
       ]
     },
     {
@@ -3254,7 +3305,7 @@
         "quarks",
         "identify"
       ],
-      "question": "Which row of the table shows a fundamental particle and a non-fundamental particle? (The table is not in the text.)",
+      "question": "Which row of the table shows a fundamental particle and a non-fundamental particle? (The table is shown in the figure below.)",
       "status": "ready",
       "answer": "B: lepton (fundamental), meson (non-fundamental)",
       "steps": [
@@ -3283,7 +3334,7 @@
         "options",
         "conservation"
       ],
-      "question": "A pion can decay into two leptons. Which of the following decays is possible? (Options are not in the text.)",
+      "question": "A pion can decay into two leptons. Which of the following decays is possible? (Options are shown in the figure below.)",
       "status": "ready",
       "answer": "D: pi+ -> e+ + electron neutrino",
       "steps": [
@@ -3355,6 +3406,9 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-48.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-49.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/28-7C-Particle-Zoo-Q51.jpg"
       ]
     },
     {
@@ -3411,6 +3465,9 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-49.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-50.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/28-7C-Particle-Zoo-Q52-2.jpg"
       ]
     },
     {
@@ -3428,7 +3485,7 @@
         "decay",
         "working"
       ],
-      "question": "A leptoquark has charge +5e/3 and decays to a quark and a lepton. Determine its baryon number and lepton number, including the suggested quark and lepton in your working. (The suggested quark and lepton are not in the text.)",
+      "question": "A leptoquark has charge +5e/3 and decays to a quark and a lepton. Determine its baryon number and lepton number, including the suggested quark and lepton in your working. (The suggested quark and lepton are shown in the figure below.)",
       "status": "ready",
       "answer": "Baryon number +1/3 and lepton number -1 (e.g. an up quark and a positron: +2/3 + 1 = +5/3).",
       "steps": [
@@ -3525,6 +3582,9 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-50.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-51.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/28-7C-Particle-Zoo-Q53.jpg"
       ]
     },
     {
@@ -3570,7 +3630,7 @@
         "kg",
         "options"
       ],
-      "question": "A proton and an antiproton, each of energy 450 GeV, annihilate to create a particle-antiparticle pair. Which expression gives the maximum mass of each particle in kg? (Options are not in the text.)",
+      "question": "A proton and an antiproton, each of energy 450 GeV, annihilate to create a particle-antiparticle pair. Which expression gives the maximum mass of each particle in kg? (Options are shown in the figure below.)",
       "status": "ready",
       "answer": "C: (450 x 10^9 x 1.6 x 10^-19) / (3.00 x 10^8)^2",
       "steps": [
@@ -3602,7 +3662,7 @@
         "show",
         "time"
       ],
-      "question": "A muon travels at 98.0% of the speed of light and has a lifetime of 2.20 microseconds (the mu is lost in the text). Show that it travels about 650 m in this time.",
+      "question": "A muon travels at 98.0% of the speed of light and has a lifetime of 2.20 µs. Show that it travels about 650 m in this time.",
       "status": "ready",
       "answer": "d = v t = 0.98 x 3.00 x 10^8 x 2.20 x 10^-6 = 650 m.",
       "steps": [
@@ -3656,7 +3716,7 @@
         "charge",
         "row"
       ],
-      "question": "The positron is the antiparticle of the electron. Which row of the table gives a similarity and a difference between a positron and an electron? (The table is not in the text.)",
+      "question": "The positron is the antiparticle of the electron. Which row of the table gives a similarity and a difference between a positron and an electron? (The table is shown in the figure below.)",
       "status": "ready",
       "answer": "D: same mass, different lepton number",
       "steps": [
@@ -3799,7 +3859,7 @@
         "reason",
         "options"
       ],
-      "question": "Muons produced in the upper atmosphere have an average lifetime greater than stationary muons, because they move at speed v. Which gives the reason for this increase in lifetime? (Options A-D are garbled in the text.)",
+      "question": "Muons produced in the upper atmosphere have an average lifetime greater than stationary muons, because they move at speed v. Which gives the reason for this increase in lifetime? (Options A-D are shown in the figure below.)",
       "status": "ready",
       "answer": "C: v is approximately equal to c",
       "steps": [
@@ -3916,7 +3976,7 @@
         "momentum conservation",
         "bubble chamber"
       ],
-      "question": "The photograph shows the tracks of K^+ and Omega^- produced when a K^- collided with a stationary proton. Explain how evidence from the photograph shows a K^0 was also formed. (The photograph is not in the text.)",
+      "question": "The photograph shows the tracks of K^+ and Omega^- produced when a K^- collided with a stationary proton. Explain how evidence from the photograph shows a K^0 was also formed. (The photograph is shown in the figure below.)",
       "status": "ready",
       "answer": "Only the K+ and Omega- tracks leave the collision point and charge is already balanced (0 before, 0 after), so the third product is neutral: it leaves no track, and the visible tracks do not balance momentum sideways, so an unseen neutral K0 must have carried it away.",
       "steps": [

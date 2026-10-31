@@ -18,7 +18,7 @@
         "compression",
         "stress strain"
       ],
-      "question": "A compressive force F acts on an object of Young modulus E, original length x and cross-sectional area A. Which expression gives the length after the force is applied? The options A to D are not in the extracted text.",
+      "question": "A compressive force F acts on an object of Young modulus E, original length x and cross-sectional area A. Which expression gives the length after the force is applied? The options A to D are shown in the figure below.",
       "status": "ready",
       "answer": "D: x - Fx / (AE)",
       "steps": [
@@ -126,7 +126,7 @@
         "table",
         "tensile force"
       ],
-      "question": "A force is applied to a copper wire. Which row of the length and diameter table would give the greatest extension? The table is not in the extracted text.",
+      "question": "A force is applied to a copper wire. Which row of the length and diameter table would give the greatest extension? The table is shown in the figure below.",
       "status": "ready",
       "answer": "C: length 2x, diameter D",
       "steps": [
@@ -155,7 +155,7 @@
         "table",
         "definition"
       ],
-      "question": "Which row of the table shows the correct application of the terms stiffness constant and Young modulus? The table is not in the extracted text.",
+      "question": "Which row of the table shows the correct application of the terms stiffness constant and Young modulus? The table is shown in the figure below.",
       "status": "ready",
       "answer": "D: stiffness constant applies to objects, Young modulus applies to materials",
       "steps": [
@@ -185,7 +185,7 @@
         "load",
         "dimensionless"
       ],
-      "question": "A 50 cm wire extends by 2 mm under a load. Which option gives the strain? The options A to D are not in the extracted text.",
+      "question": "A 50 cm wire extends by 2 mm under a load. Which option gives the strain? The options A to D are shown in the figure below.",
       "status": "ready",
       "answer": "A: 0.004",
       "steps": [
@@ -213,7 +213,7 @@
         "cross-sectional area",
         "tensile force"
       ],
-      "question": "A wire breaks under tensile force T. A second wire of the same material has twice the diameter. What force breaks the second wire? The options A to D are not in the extracted text.",
+      "question": "A wire breaks under tensile force T. A second wire of the same material has twice the diameter. What force breaks the second wire? The options A to D are shown in the figure below.",
       "status": "ready",
       "answer": "A: 4T",
       "steps": [
@@ -277,7 +277,7 @@
         "same material",
         "table"
       ],
-      "question": "A wire of length x and diameter d extends by x under a tensile force. A second wire of the same material extends by 2x under the same force. Which row of the table could give its length and diameter? The table is not in the extracted text.",
+      "question": "A wire of length x and diameter d extends by x under a tensile force. A second wire of the same material extends by 2x under the same force. Which row of the table could give its length and diameter? The table is shown in the figure below.",
       "status": "ready",
       "answer": "A: length 0.5x, diameter 0.5d",
       "steps": [
@@ -368,7 +368,7 @@
         "ACSR cable",
         "2 x 10^11 Pa"
       ],
-      "question": "Using the stress-strain graph for steel in the ACSR cable, show that the Young modulus of steel is about 2 x 10^11 Pa. The graph is not in the extracted text.",
+      "question": "Using the stress-strain graph for steel in the ACSR cable, show that the Young modulus of steel is about 2 x 10^11 Pa. The graph is shown in the figure below.",
       "status": "ready",
       "answer": "Young modulus of steel = gradient of the straight part = about 1.8 x 10^11 Pa, which is about 2 x 10^11 Pa",
       "steps": [
@@ -722,7 +722,7 @@
         "gradient",
         "2 x 10^11 Pa"
       ],
-      "question": "Using the compressive stress-strain graph for the metal, show that its Young modulus is about 2 x 10^11 Pa. The graph is not in the extracted text.",
+      "question": "Using the compressive stress-strain graph for the metal, show that its Young modulus is about 2 x 10^11 Pa. The graph is shown in the figure below.",
       "status": "ready",
       "answer": "Young modulus = gradient of the line = 2.1 x 10^11 Pa, which is about 2 x 10^11 Pa",
       "steps": [
@@ -1378,7 +1378,7 @@
         "elastic energy",
         "formula"
       ],
-      "question": "A stress is applied across the ends of a wire of cross-sectional area A. Work W is done to extend the wire by x. Which expression could be used to determine W? The options are not in the extracted text.",
+      "question": "A stress is applied across the ends of a wire of cross-sectional area A. Work W is done to extend the wire by x. Which expression could be used to determine W? The options are shown in the figure below.",
       "status": "ready",
       "answer": "C: W = (1/2) x sigma x A x delta x",
       "steps": [
@@ -1407,7 +1407,7 @@
         "breaking point",
         "yield"
       ],
-      "question": "A stress-strain graph up to breaking point is drawn for four wire samples A to D. Which sample has both a low elastic limit and a large region of plastic deformation? The graph and options are not in the extracted text.",
+      "question": "A stress-strain graph up to breaking point is drawn for four wire samples A to D. Which sample has both a low elastic limit and a large region of plastic deformation? The graph and options are shown in the figure below.",
       "status": "ready",
       "answer": "C",
       "steps": [
@@ -1437,7 +1437,7 @@
         "vertical speed",
         "energy equation"
       ],
-      "question": "An object of mass m rests on a compressed spring, which returns to its original length, and the object has speed v at that point. Which equation describes the energy transfer? The options are not in the extracted text.",
+      "question": "An object of mass m rests on a compressed spring, which returns to its original length, and the object has speed v at that point. Which equation describes the energy transfer? The options are shown in the figure below.",
       "status": "ready",
       "answer": "B: (1/2) F delta x = (1/2) m v^2 + m g delta x",
       "steps": [
@@ -1467,7 +1467,7 @@
         "ratio",
         "work done"
       ],
-      "question": "Two springs S1 and S2 hang with masses attached. S1 extends by x and stores elastic strain energy E. Which expression gives the strain energy in S2? The extension of S2 and the options are not in the extracted text.",
+      "question": "Two springs S1 and S2 hang with masses attached. S1 extends by x and stores elastic strain energy E. Which expression gives the strain energy in S2? The extension of S2 and the options are shown in the figure below.",
       "status": "ready",
       "answer": "C: 2E / 3",
       "steps": [
@@ -1529,7 +1529,7 @@
         "energy stored",
         "three springs"
       ],
-      "question": "A spring stretched by force F stores energy E. Three identical springs in parallel are stretched by a force 2F. Which expression gives the total elastic energy? The options are not in the extracted text.",
+      "question": "A spring stretched by force F stores energy E. Three identical springs in parallel are stretched by a force 2F. Which expression gives the total elastic energy? The options are shown in the figure below.",
       "status": "ready",
       "answer": "C: 4E / 3",
       "steps": [
@@ -1559,7 +1559,7 @@
         "elastic",
         "maximum extension"
       ],
-      "question": "A rubber band is stretched and returned to its original length. Using the force-extension graph with areas P, Q and R, which expression gives the work done in stretching it to maximum extension? The graph is not in the extracted text.",
+      "question": "A rubber band is stretched and returned to its original length. Using the force-extension graph with areas P, Q and R, which expression gives the work done in stretching it to maximum extension? The graph is shown in the figure below.",
       "status": "ready",
       "answer": "B: Q + R",
       "steps": [
@@ -1589,7 +1589,7 @@
         "0.30 m",
         "joules"
       ],
-      "question": "Using a force-extension graph for a spring, which expression gives the work done in joules to extend the spring by 0.30 m from its original length? The graph and options are not in the extracted text.",
+      "question": "Using a force-extension graph for a spring, which expression gives the work done in joules to extend the spring by 0.30 m from its original length? The graph and options are shown in the figure below.",
       "status": "ready",
       "answer": "B: 0.5 x 0.30 x 2.5",
       "steps": [
@@ -1620,7 +1620,7 @@
         "parallel",
         "table"
       ],
-      "question": "Arrangements P and Q of identical springs are subject to the same tensile force F, and one spring alone stores energy E. Which row of the table gives the total strain energy in each arrangement? The diagram and table are not in the extracted text.",
+      "question": "Arrangements P and Q of identical springs are subject to the same tensile force F, and one spring alone stores energy E. Which row of the table gives the total strain energy in each arrangement? The diagram and table are shown in the figure below.",
       "status": "ready",
       "answer": "D: P = 2E, Q = (1/2)E",
       "steps": [
@@ -1650,7 +1650,7 @@
         "fracture",
         "table"
       ],
-      "question": "A steel wire fixed at one end has an increasing force applied to the other end. Which row of the table identifies points P, Q and R on the force-extension graph? The graph and table are not in the extracted text.",
+      "question": "A steel wire fixed at one end has an increasing force applied to the other end. Which row of the table identifies points P, Q and R on the force-extension graph? The graph and table are shown in the figure below.",
       "status": "ready",
       "answer": "C: P is the yield point, Q the elastic limit and R the limit of proportionality",
       "steps": [
@@ -1771,7 +1771,7 @@
         "hookes law",
         "same distance"
       ],
-      "question": "A force F compresses a spring by x. A second spring with double the stiffness is compressed by the same distance x. Which expression gives the force on the second spring? The options are not in the extracted text.",
+      "question": "A force F compresses a spring by x. A second spring with double the stiffness is compressed by the same distance x. Which expression gives the force on the second spring? The options are shown in the figure below.",
       "status": "ready",
       "answer": "B: 2F",
       "steps": [
@@ -1799,7 +1799,7 @@
         "force displacement",
         "exception"
       ],
-      "question": "Several graphs are drawn and the area under each represents a physical quantity. For which graph is the area not equal to work done? The graphs are not in the extracted text.",
+      "question": "Several graphs are drawn and the area under each represents a physical quantity. For which graph is the area not equal to work done? The graphs are shown in the figure below.",
       "status": "ready",
       "answer": "D: stress against strain",
       "steps": [
@@ -2095,7 +2095,7 @@
         "limit of proportionality",
         "yield point"
       ],
-      "question": "A copper rod is put under tensile stress and the stress is plotted against strain. What does point X represent? Options: A fracture point, B limit of proportionality, C maximum stress, D yield point. The graph is not in the extracted text.",
+      "question": "A copper rod is put under tensile stress and the stress is plotted against strain. What does point X represent? Options: A fracture point, B limit of proportionality, C maximum stress, D yield point. The graph is shown in the figure below.",
       "status": "ready",
       "answer": "D: the yield point of copper",
       "steps": [
@@ -2209,7 +2209,7 @@
         "yield stress",
         "young modulus"
       ],
-      "question": "Two wires P and Q of different metals are stretched to breaking, and their stress-strain graphs are shown. Which statement is correct: A P has greater breaking stress, B P has greater breaking strain, C P has greater yield stress, D P has lower Young modulus? The graph is not in the extracted text.",
+      "question": "Two wires P and Q of different metals are stretched to breaking, and their stress-strain graphs are shown. Which statement is correct: A P has greater breaking stress, B P has greater breaking strain, C P has greater yield stress, D P has lower Young modulus? The graph is shown in the figure below.",
       "status": "ready",
       "answer": "C: P has a greater yield stress than Q",
       "steps": [
@@ -2317,7 +2317,7 @@
         "energy equation",
         "joules"
       ],
-      "question": "A spring is stretched by a force of 3.0 N and stores 0.04 J of elastic strain energy. Which expression gives the extension in m? The options are not in the extracted text.",
+      "question": "A spring is stretched by a force of 3.0 N and stores 0.04 J of elastic strain energy. Which expression gives the extension in m? The options are shown in the figure below.",
       "status": "ready",
       "answer": "A: 2 x 0.04 / 3.0 (0.027 m)",
       "steps": [
@@ -2346,7 +2346,7 @@
         "force extension",
         "elastic energy"
       ],
-      "question": "Which expression gives the work done in stretching a spring from its original length p to length q? The options are not in the extracted text.",
+      "question": "Which expression gives the work done in stretching a spring from its original length p to length q? The options are shown in the figure below.",
       "status": "ready",
       "answer": "B: (q - p) x R / 2 (taking R as the final stretching force, which is not defined on this page)",
       "steps": [
@@ -2460,7 +2460,7 @@
         "young modulus",
         "stress"
       ],
-      "question": "Samples of steel and spider silk of identical shape, length and cross-sectional area are each stretched to their limit of proportionality. Explain which sample has the greater elastic strain energy. The table of properties is not in the extracted text.",
+      "question": "Samples of steel and spider silk of identical shape, length and cross-sectional area are each stretched to their limit of proportionality. Explain which sample has the greater elastic strain energy. The table of properties is shown in the figure below.",
       "status": "ready",
       "answer": "The spider silk stores the greater elastic strain energy (about 17 times more per unit volume)",
       "steps": [

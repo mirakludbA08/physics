@@ -278,7 +278,7 @@
         "hydrochloric acid",
         "titration"
       ],
-      "question": "In which flask(s) was the equilibrium approached from the right-hand side of the ester equation? The flask contents are in a table not in the extracted text. Options: A flask 1 only, B flask 4 only, C flasks 1 and 4 only, D flasks 2 and 3 only.",
+      "question": "In which flask(s) was the equilibrium approached from the right-hand side of the ester equation? The flask contents are in a table shown in the figure below. Options: A flask 1 only, B flask 4 only, C flasks 1 and 4 only, D flasks 2 and 3 only.",
       "status": "ready",
       "answer": "C: flasks 1 and 4 only",
       "steps": [
@@ -337,7 +337,7 @@
         "K squared",
         "K inverse"
       ],
-      "question": "The equilibrium decomposition of hydrogen iodide can be written in two ways. What is the expression linking the two equilibrium constants? The options are not in the extracted text.",
+      "question": "The equilibrium decomposition of hydrogen iodide can be written in two ways. What is the expression linking the two equilibrium constants? The options are shown in the figure below.",
       "status": "ready",
       "answer": "A: Kc = (Kc')^2",
       "steps": [
@@ -363,7 +363,7 @@
         "equation",
         "concentrations"
       ],
-      "question": "A homogeneous equilibrium is shown. What is the Kc expression? The equilibrium equation and options are not in the extracted text.",
+      "question": "A homogeneous equilibrium is shown. What is the Kc expression? The equilibrium equation and options are shown in the figure below.",
       "status": "ready",
       "answer": "B: Kc = [Y]^2[Z] / ([W][X])",
       "steps": [
@@ -395,7 +395,7 @@
         "total entropy change",
         "298 K"
       ],
-      "question": "Silicon tetrachloride is made from silicon carbide and hydrogen chloride with a nickel(II) chloride catalyst. Using the standard molar entropies in the table (not in the extracted text), calculate Stotal at 298 K with sign and units.",
+      "question": "Silicon tetrachloride is made from silicon carbide and hydrogen chloride with a nickel(II) chloride catalyst. Using the standard molar entropies in the table (shown in the figure below), calculate Stotal at 298 K with sign and units.",
       "status": "ready",
       "answer": "deltaS(total) = +1.78 x 10^3 J K-1 mol-1",
       "steps": [
@@ -490,7 +490,7 @@
         "species",
         "energy changes"
       ],
-      "question": "Complete the Born-Haber cycle for calcium iodide by adding letters for the energy changes, the species on the blank lines and arrowheads for each energy change. The diagram is not in the extracted text.",
+      "question": "Complete the Born-Haber cycle for calcium iodide by adding letters for the energy changes, the species on the blank lines and arrowheads for each energy change. The diagram is shown in the figure below.",
       "status": "ready",
       "answer": "Left side from the bottom: A and D (x2) given, then B (first IE) in the box on the next arrow up; the long left arrow (up) is C (second IE); top right arrow (down) is E (x2, electron affinity of iodine); the long right arrow (down) is F (lattice energy). Blank lines: Ca+(g) + e- + 2I(g), top: Ca2+(g) + 2e- + 2I(g), right: Ca2+(g) + 2I-(g)",
       "steps": [
@@ -717,7 +717,7 @@
         "total pressure 1.50 atm",
         "table"
       ],
-      "question": "0.850 mol HCl and 0.600 mol O2 are allowed to reach equilibrium in a closed flask; at equilibrium the total pressure is 1.50 atm and there is 0.250 mol Cl2. Complete the table of equilibrium amounts and partial pressures. The table layout is not in the extracted text.",
+      "question": "0.850 mol HCl and 0.600 mol O2 are allowed to reach equilibrium in a closed flask; at equilibrium the total pressure is 1.50 atm and there is 0.250 mol Cl2. Complete the table of equilibrium amounts and partial pressures. The table layout is shown in the figure below.",
       "status": "ready",
       "answer": "Equilibrium moles: HCl 0.350, O2 0.475, H2O 0.250, Cl2 0.250 (total 1.325 mol); partial pressures: HCl 0.396, O2 0.538, H2O 0.283, Cl2 0.283 atm",
       "steps": [
@@ -1262,7 +1262,7 @@
         "table",
         "H2 I2 HI"
       ],
-      "question": "Complete the table of Kc data at five temperatures for H2 + I2 <=> 2HI, by adding the values of 1/T and ln Kc. The table is not in the extracted text.",
+      "question": "Complete the table of Kc data at five temperatures for H2 + I2 <=> 2HI, by adding the values of 1/T and ln Kc. The table is shown in the figure below.",
       "status": "ready",
       "answer": "1/T at 523 K = 0.00191 K-1; ln Kc at 577 K = 4.60",
       "steps": [
@@ -1460,7 +1460,7 @@
         "equilibrium",
         "partial pressures"
       ],
-      "question": "What are the units of Kp for the equilibrium shown? Options: A atm-1, B atm, C atm-2, D atm2. The equilibrium equation is not in the extracted text.",
+      "question": "What are the units of Kp for the equilibrium shown? Options: A atm-1, B atm, C atm-2, D atm2. The equilibrium equation is shown in the figure below.",
       "status": "ready",
       "answer": "C: atm-2",
       "steps": [
@@ -1488,7 +1488,7 @@
         "1 atm",
         "equilibrium type"
       ],
-      "question": "The reaction shown occurs at 360 C and 1 atm. What is the type of equilibrium and how is Kc affected by an increase in temperature? The equation and options are not in the extracted text.",
+      "question": "The reaction shown occurs at 360 C and 1 atm. What is the type of equilibrium and how is Kc affected by an increase in temperature? The equation and options are shown in the figure below.",
       "status": "ready",
       "answer": "B: homogeneous; Kc decreases",
       "steps": [
@@ -1516,7 +1516,7 @@
         "graph",
         "experiments 1 to 5"
       ],
-      "question": "Draw a best-fit line on the graph of the data for experiments 1-5 for the reaction between nitrogen monoxide and oxygen. The graph is not in the extracted text.",
+      "question": "Draw a best-fit line on the graph of the data for experiments 1-5 for the reaction between nitrogen monoxide and oxygen. The graph is shown in the figure below.",
       "status": "ready",
       "answer": "A smooth curve, concave upwards (getting steeper), passing through the origin and the five points; not a straight line",
       "steps": [
@@ -1571,7 +1571,7 @@
         "initial rate data",
         "experiments 1 to 6"
       ],
-      "question": "Deduce the orders of reaction with respect to NO and O2 using experiments 1-6. The data table is not in the extracted text.",
+      "question": "Deduce the orders of reaction with respect to NO and O2 using experiments 1-6. The data table is shown in the figure below.",
       "status": "ready",
       "answer": "Order with respect to NO = 2; order with respect to O2 = 1",
       "steps": [
@@ -1682,7 +1682,7 @@
         "hydrogen",
         "solid iron oxide"
       ],
-      "question": "What is the equilibrium constant expression for the reaction between iron and steam? The equation is not in the extracted text.",
+      "question": "What is the equilibrium constant expression for the reaction between iron and steam? The equation is shown in the figure below.",
       "status": "ready",
       "answer": "D: Kc = [H2]^4 / [H2O]^4",
       "steps": [
@@ -1710,7 +1710,7 @@
         "temperature increase",
         "iron steam"
       ],
-      "question": "What is the effect on the equilibrium constant if small pieces of iron are replaced by iron powder and if the temperature is increased? The equation is not in the extracted text.",
+      "question": "What is the effect on the equilibrium constant if small pieces of iron are replaced by iron powder and if the temperature is increased? The equation is shown in the figure below.",
       "status": "ready",
       "answer": "D: Kc unchanged with iron powder; Kc decreases when the temperature is increased",
       "steps": [
@@ -1739,7 +1739,7 @@
         "C2H4",
         "thermodynamic data table"
       ],
-      "question": "Calculate the entropy change of the system for the cracking of butane, C4H10(g) -> C2H6(g) + C2H4(g), with sign and units. The data table is not in the extracted text.",
+      "question": "Calculate the entropy change of the system for the cracking of butane, C4H10(g) -> C2H6(g) + C2H4(g), with sign and units. The data table is shown in the figure below.",
       "status": "ready",
       "answer": "deltaS(system) = +138.9 J K-1 mol-1",
       "steps": [
@@ -1770,7 +1770,7 @@
         "C2H6",
         "C2H4"
       ],
-      "question": "Calculate the enthalpy change of reaction for the cracking of butane, with sign and units. The data table is not in the extracted text.",
+      "question": "Calculate the enthalpy change of reaction for the cracking of butane, with sign and units. The data table is shown in the figure below.",
       "status": "ready",
       "answer": "deltaH = +94.0 kJ mol-1",
       "steps": [
@@ -1939,7 +1939,7 @@
         "sign and units",
         "thermodynamics"
       ],
-      "question": "Calculate the entropy change for the reaction N2O4(g) <=> 2NO2(g), using the table of data, with sign and units. The table is not in the extracted text.",
+      "question": "Calculate the entropy change for the reaction N2O4(g) <=> 2NO2(g), using the table of data, with sign and units. The table is shown in the figure below.",
       "status": "ready",
       "answer": "deltaS = +175.8 J K-1 mol-1",
       "steps": [
@@ -1969,7 +1969,7 @@
         "data table",
         "298 K"
       ],
-      "question": "Calculate the enthalpy change of formation of N2O4(g) at 298 K, using the table and the enthalpy change of the reaction. The table is not in the extracted text.",
+      "question": "Calculate the enthalpy change of formation of N2O4(g) at 298 K, using the table and the enthalpy change of the reaction. The table is shown in the figure below.",
       "status": "ready",
       "answer": "deltaHf(N2O4) = +9.2 kJ mol-1",
       "steps": [
@@ -2184,7 +2184,7 @@
         "I2 aq",
         "I2 CHCl3"
       ],
-      "question": "Iodine is shared between water and trichloromethane. What is the expression for the equilibrium constant Kc? The equation for the equilibrium is not in the extracted text.",
+      "question": "Iodine is shared between water and trichloromethane. What is the expression for the equilibrium constant Kc? The equation for the equilibrium is shown in the figure below.",
       "status": "ready",
       "answer": "D: Kc = [I2(aq)] / [I2(trichloromethane)]",
       "steps": [
@@ -2262,7 +2262,7 @@
         "Kc expression",
         "solids excluded"
       ],
-      "question": "Which is the correct expression for the equilibrium constant Kc for the decomposition of calcium carbonate to calcium oxide and carbon dioxide? The options are not in the extracted text.",
+      "question": "Which is the correct expression for the equilibrium constant Kc for the decomposition of calcium carbonate to calcium oxide and carbon dioxide? The options are shown in the figure below.",
       "status": "ready",
       "answer": "A: Kc = [CO2]",
       "steps": [
@@ -2400,7 +2400,7 @@
         "atm",
         "partial pressures"
       ],
-      "question": "What are the units of Kp for the reaction shown? Options: A atm, B atm-1, C atm4, D atm-4. The equation is not in the extracted text.",
+      "question": "What are the units of Kp for the reaction shown? Options: A atm, B atm-1, C atm4, D atm-4. The equation is shown in the figure below.",
       "status": "ready",
       "answer": "A: atm",
       "steps": [
@@ -2452,7 +2452,7 @@
         "gases",
         "solids excluded"
       ],
-      "question": "What is the expression for the equilibrium constant Kp for the thermal decomposition of magnesium nitrate? The equation and options are not in the extracted text.",
+      "question": "What is the expression for the equilibrium constant Kp for the thermal decomposition of magnesium nitrate? The equation and options are shown in the figure below.",
       "status": "ready",
       "answer": "A: Kp = p(NO2)^2 x p(O2)^1/2",
       "steps": [
@@ -2533,7 +2533,7 @@
         "partial pressures",
         "equilibrium constant"
       ],
-      "question": "Which is the expression for the equilibrium constant Kp for 2SO2(g) + O2(g) <=> 2SO3(g), deltaH = -196 kJ mol-1? The option list is not in the extracted text.",
+      "question": "Which is the expression for the equilibrium constant Kp for 2SO2(g) + O2(g) <=> 2SO3(g), deltaH = -196 kJ mol-1? The option list is shown in the figure below.",
       "status": "ready",
       "answer": "C: Kp = p(SO3)^2 / (p(SO2)^2 x p(O2))",
       "steps": [
@@ -2611,7 +2611,7 @@
         "Equation 2",
         "4.0 x 10^24"
       ],
-      "question": "The value of Kp at 25 C using Equation 1 is 4.0 x 10^24 atm-1. What is the numerical value of Kp at 25 C using Equation 2? The two equations are shown in a diagram not in the extracted text. Options: A 2.0 x 10^12, B 2.0 x 10^22, C 2.0 x 10^24, D 4.0 x 10^24.",
+      "question": "The value of Kp at 25 C using Equation 1 is 4.0 x 10^24 atm-1. What is the numerical value of Kp at 25 C using Equation 2? The two equations are shown in a diagram shown in the figure below. Options: A 2.0 x 10^12, B 2.0 x 10^22, C 2.0 x 10^24, D 4.0 x 10^24.",
       "status": "ready",
       "answer": "A: 2.0 x 10^12 atm-1/2",
       "steps": [

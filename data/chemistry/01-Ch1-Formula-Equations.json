@@ -3072,7 +3072,7 @@
         "water of crystallisation",
         "MgSO4.xH2O"
       ],
-      "question": "A sample of hydrated magnesium sulfate contains 43% water by mass. What is its formula? The answer options are not included in the extracted text.",
+      "question": "A sample of hydrated magnesium sulfate contains 43% water by mass. What is its formula? The answer options are shown in the figure below.",
       "status": "ready",
       "answer": "B: MgSO4.5H2O",
       "steps": [
@@ -3152,7 +3152,7 @@
         "preparation reaction",
         "Mr 187.5"
       ],
-      "question": "Which reaction to produce copper(II) nitrate (Mr = 187.5) has an atom economy of 46.5% by mass? The answer options are not included in the extracted text.",
+      "question": "Which reaction to produce copper(II) nitrate (Mr = 187.5) has an atom economy of 46.5% by mass? The answer options are shown in the figure below.",
       "status": "ready",
       "answer": "C: Cu + 2AgNO3 -> Cu(NO3)2 + 2Ag",
       "steps": [
@@ -3179,7 +3179,7 @@
         "methods",
         "by mass"
       ],
-      "question": "Which method for the preparation of hydrogen has the highest atom economy by mass? The answer options are not included in the extracted text.",
+      "question": "Which method for the preparation of hydrogen has the highest atom economy by mass? The answer options are shown in the figure below.",
       "status": "ready",
       "answer": "B: CH4 + H2O -> 3H2 + CO (17.6%)",
       "steps": [

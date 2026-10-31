@@ -17,7 +17,7 @@
         "london forces",
         "structures"
       ],
-      "question": "Which of these isomers has the highest boiling temperature? (The isomer structures are in a diagram not present in the text.)",
+      "question": "Which of these isomers has the highest boiling temperature? (The isomer structures are in a diagram shown in the figure below.)",
       "status": "ready",
       "answer": "A: the unbranched (straight-chain) chloroalkane",
       "steps": [
@@ -76,7 +76,7 @@
         "lone pair",
         "hydrogen bonding"
       ],
-      "question": "Which diagram best represents a hydrogen bond between two water molecules? (The diagrams A-D are not in the text.)",
+      "question": "Which diagram best represents a hydrogen bond between two water molecules? (The diagrams A-D are shown in the figure below.)",
       "status": "ready",
       "answer": "A: dotted line from the H of one water molecule to the O of the other, in a straight line (180 deg) with the O-H bond",
       "steps": [
@@ -416,7 +416,7 @@
         "structures",
         "intermolecular forces"
       ],
-      "question": "Which of these isomers has the highest boiling temperature? (The isomer structures are in a diagram not present in the text.)",
+      "question": "Which of these isomers has the highest boiling temperature? (The isomer structures are in a diagram shown in the figure below.)",
       "status": "ready",
       "answer": "A: the unbranched (straight-chain) isomer",
       "steps": [
@@ -446,7 +446,7 @@
         "increasing order",
         "table"
       ],
-      "question": "Which row shows the hydrogen halides in order of increasing boiling temperature? (The rows are in a table missing from the text.)",
+      "question": "Which row shows the hydrogen halides in order of increasing boiling temperature? (The rows are in a table shown in the figure below.)",
       "status": "ready",
       "answer": "C: HCl, HBr, HI, HF",
       "steps": [
@@ -503,7 +503,7 @@
         "hydrogen bonding",
         "structures"
       ],
-      "question": "Which compound has the highest boiling temperature? (The options are in a diagram not present in the text.)",
+      "question": "Which compound has the highest boiling temperature? (The options are in a diagram shown in the figure below.)",
       "status": "ready",
       "answer": "B: propan-1-ol (CH3CH2CH2OH)",
       "steps": [
@@ -587,7 +587,7 @@
         "london forces",
         "molecule structure"
       ],
-      "question": "Which intermolecular forces exist between the molecules of the compound shown? (The compound structure is in a diagram missing from the text.)",
+      "question": "Which intermolecular forces exist between the molecules of the compound shown? (The compound structure is in a diagram shown in the figure below.)",
       "status": "ready",
       "answer": "D: hydrogen bonding, permanent dipole-permanent dipole forces and London forces",
       "steps": [
@@ -761,7 +761,7 @@
         "hydrogen bonds",
         "dipole-dipole"
       ],
-      "question": "Which row in the table shows the forces between the molecules in the liquid state? (The table is missing from the text.)",
+      "question": "Which row in the table shows the forces between the molecules in the liquid state? (The table is shown in the figure below.)",
       "status": "ready",
       "answer": "D: H2S (London forces and permanent dipole-permanent dipole interactions, no hydrogen bonding)",
       "steps": [
@@ -793,7 +793,7 @@
         "petrol",
         "calculation"
       ],
-      "question": "Use mean bond enthalpies to calculate the enthalpy change of combustion of octane, C8H18. (The balanced equation and the bond enthalpy values are not in the text.)",
+      "question": "Use mean bond enthalpies to calculate the enthalpy change of combustion of octane, C8H18. (The balanced equation and the bond enthalpy values are shown in the figure below.)",
       "status": "ready",
       "answer": "-5144 kJ mol^-1",
       "steps": [
@@ -968,7 +968,7 @@
         "structure",
         "diagram"
       ],
-      "question": "Which structure best represents a hydrogen bond between methanol and water? (The structures are in a diagram missing from the text.)",
+      "question": "Which structure best represents a hydrogen bond between methanol and water? (The structures are in a diagram shown in the figure below.)",
       "status": "ready",
       "answer": "A: dotted line from the O lone pair of methanol to the H of the water O-H, in a straight line O...H-O",
       "steps": [
@@ -1086,7 +1086,7 @@
         "hydrogen fluoride",
         "sequence"
       ],
-      "question": "Which sequence shows the hydrogen halides in order of decreasing boiling temperature? (The sequences are missing from the text.)",
+      "question": "Which sequence shows the hydrogen halides in order of decreasing boiling temperature? (The sequences are shown in the figure below.)",
       "status": "ready",
       "answer": "B: HF > HI > HBr > HCl",
       "steps": [
@@ -1148,7 +1148,7 @@
         "intermolecular forces",
         "structures"
       ],
-      "question": "Which is the order of increasing boiling temperature for compounds W, X, Y and Z? (A: YZXW; B: YXZW; C: WXZY; D: XWYZ.) The compounds are shown in a diagram missing from the text.",
+      "question": "Which is the order of increasing boiling temperature for compounds W, X, Y and Z? (A: YZXW; B: YXZW; C: WXZY; D: XWYZ.) The compounds are shown in a diagram shown in the figure below.",
       "status": "ready",
       "answer": "B: Y X Z W",
       "steps": [
@@ -1234,7 +1234,7 @@
         "structures",
         "intermolecular forces"
       ],
-      "question": "Which isomer has the highest boiling temperature? (The isomer options are in a diagram missing from the text.)",
+      "question": "Which isomer has the highest boiling temperature? (The isomer options are in a diagram shown in the figure below.)",
       "status": "ready",
       "answer": "A: the unbranched (straight-chain) isomer",
       "steps": [

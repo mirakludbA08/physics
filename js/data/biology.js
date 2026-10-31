@@ -7642,7 +7642,7 @@ window.BANK.biology = {
       "weight category",
       "classification"
      ],
-     "question": "Which describes the body mass of a person who is obese? The four options (A to D) use inequality symbols that are garbled in the text.",
+     "question": "Which describes the body mass of a person who is obese? The four options (A to D) use inequality symbols that are shown in the figure below.",
      "status": "ready",
      "answer": "B: BMI >= 30",
      "steps": [
@@ -43142,7 +43142,7 @@ window.BANK.biology = {
       "options",
       "formula"
      ],
-     "question": "Which equation can be used to calculate the heterozygosity index? Options are not included in the text.",
+     "question": "Which equation can be used to calculate the heterozygosity index? Options are shown in the figure below.",
      "status": "ready",
      "answer": "A: heterozygosity index = number of heterozygotes / number of individuals in the population",
      "steps": [
@@ -68239,7 +68239,7 @@ window.BANK.biology = {
       "complete oxidation",
       "glucose"
      ],
-     "question": "Which is the correct order of the stages of respiration required for the complete oxidation of glucose? The options are not in the text.",
+     "question": "Which is the correct order of the stages of respiration required for the complete oxidation of glucose? The options are shown in the figure below.",
      "status": "ready",
      "answer": "B: glycolysis, link reaction, Krebs cycle.",
      "steps": [
@@ -69399,7 +69399,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-18.jpg"
      ],
      "figures": [
-      "papers/biology/fig/07B-Muscles-Heart-Q7-2.jpg"
+      "papers/biology/fig/07B-Muscles-Heart-Q7-2.jpg",
+      "papers/biology/fig/07B-Muscles-Heart-Q7-3.jpg"
      ]
     },
     {
@@ -69580,7 +69581,9 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-20.jpg",
       "papers/biology/img/07B-Muscles-Heart-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q8-2.jpg"
+     ]
     },
     {
      "id": "7B-Q8b(ii)",
@@ -69875,7 +69878,9 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-25.jpg",
       "papers/biology/img/07B-Muscles-Heart-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q10.jpg"
+     ]
     },
     {
      "id": "7B-Q10b(ii)",
@@ -70839,7 +70844,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-43.jpg"
      ],
      "figures": [
-      "papers/biology/fig/07B-Muscles-Heart-Q17.jpg"
+      "papers/biology/fig/07B-Muscles-Heart-Q17.jpg",
+      "papers/biology/fig/07B-Muscles-Heart-Q17-3.jpg"
      ]
     },
     {
@@ -73040,7 +73046,7 @@ window.BANK.biology = {
       "South African Black",
       "Zimbabwean Blue"
      ],
-     "question": "Calculate the percentage difference in the mean mass of muscle G between the South African Black and Zimbabwean Blue ostriches (2 d.p.).",
+     "question": "Calculate the percentage difference in the mean mass of muscle G between the South African Black and Zimbabwean Blue ostriches (2 d.p.). Use percentage difference between a and b = (a - b) / ((a + b) / 2) x 100.",
      "status": "ready",
      "answer": "22.56 % (muscle G is larger in the Zimbabwean Blue ostriches)",
      "steps": [
@@ -73054,7 +73060,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-22.jpg"
      ],
      "figures": [
-      "papers/biology/fig/07C-Internal-Environment-Q9-2.jpg"
+      "papers/biology/fig/07C-Internal-Environment-Q9-2.jpg",
+      "papers/biology/fig/07C-Internal-Environment-Q9-3.jpg"
      ]
     },
     {
@@ -73439,7 +73446,9 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-26.jpg",
       "papers/biology/img/07C-Internal-Environment-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q11.jpg"
+     ]
     },
     {
      "id": "7C-Q12a(i)",
@@ -73692,7 +73701,7 @@ window.BANK.biology = {
       "calculation",
       "standard form"
      ],
-     "question": "Calculate the volume of the spherical Bowman capsule with diameter 70 nm (2 s.f., nm3).",
+     "question": "Calculate the volume of the spherical Bowman capsule with diameter 70 nm, using V = 4/3 x pi x r^3 (2 s.f., nm3).",
      "status": "ready",
      "answer": "1.8 x 10^5 nm3",
      "steps": [
@@ -73705,7 +73714,9 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-31.jpg",
       "papers/biology/img/07C-Internal-Environment-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q13.jpg"
+     ]
     },
     {
      "id": "7C-Q13b(i)",
@@ -74333,7 +74344,9 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-41.jpg",
       "papers/biology/img/07C-Internal-Environment-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q17.jpg"
+     ]
     },
     {
      "id": "7C-Q17b",
@@ -74923,7 +74936,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-009.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-010.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q4-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q4b(ii)",
@@ -74987,7 +75002,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-011.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-012.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q5-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q5a(ii)",
@@ -75174,7 +75191,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-013.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-014.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q6.jpg"
+     ]
     },
     {
      "id": "8AB-Q7a",
@@ -76874,7 +76893,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-039.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-040.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q18.jpg"
+     ]
     },
     {
      "id": "8AB-Q18c",
@@ -77159,7 +77180,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-046.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-047.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q20-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q21a(i)",
@@ -77339,7 +77362,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-048.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-049.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q21.jpg"
+     ]
     },
     {
      "id": "8AB-Q22a",
@@ -77497,7 +77522,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-051.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-052.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q22-3.jpg"
+     ]
     },
     {
      "id": "8AB-Q23a(i)",
@@ -77526,7 +77553,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-052.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-053.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q23.jpg"
+     ]
     },
     {
      "id": "8AB-Q23a(ii)",
@@ -77778,7 +77807,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-058.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-059.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q25.jpg"
+     ]
     },
     {
      "id": "8AB-Q25b(i)",
@@ -78529,7 +78560,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-067.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-068.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q30.jpg"
+     ]
     },
     {
      "id": "8AB-Q31a(i)",
@@ -78758,7 +78791,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-074.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-075.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q32-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q32b(iii)",
@@ -79735,7 +79770,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-090.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-091.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q39.jpg"
+     ]
     },
     {
      "id": "8AB-Q39b",
@@ -80197,7 +80234,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-100.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-101.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q43-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q43a(ii)",
@@ -80227,7 +80266,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-100.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-101.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q43-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q43a(iii)",
@@ -81238,7 +81279,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q50.jpg"
+     ]
     },
     {
      "id": "8AB-Q50a(ii)",
@@ -81934,7 +81977,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-130.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-131.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q54-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q55a",
@@ -82058,7 +82103,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-133.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-134.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q55.jpg"
+     ]
     },
     {
      "id": "8AB-Q55d(ii)",

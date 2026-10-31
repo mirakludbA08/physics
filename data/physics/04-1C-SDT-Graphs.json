@@ -261,7 +261,7 @@
         "drag",
         "resultant force"
       ],
-      "question": "A constant forward force acts on a car on a straight road. After a while the speed becomes constant. Which graph shows the variation of acceleration with time? Options are graphs A to D, not in the extracted text.",
+      "question": "A constant forward force acts on a car on a straight road. After a while the speed becomes constant. Which graph shows the variation of acceleration with time? Options are graphs A to D, shown in the figure below.",
       "status": "ready",
       "answer": "C",
       "steps": [
@@ -291,7 +291,7 @@
         "maximum height",
         "gravity"
       ],
-      "question": "A model rocket is launched with a constant upward thrust while burning fuel, then the fuel runs out and it reaches maximum height at time T. Which graph could show its acceleration against time, ignoring the mass decrease? Options are not in the extracted text.",
+      "question": "A model rocket is launched with a constant upward thrust while burning fuel, then the fuel runs out and it reaches maximum height at time T. Which graph could show its acceleration against time, ignoring the mass decrease? Options are shown in the figure below.",
       "status": "ready",
       "answer": "C",
       "steps": [
@@ -321,7 +321,7 @@
         "area under graph",
         "options"
       ],
-      "question": "The velocity-time graph for a ball is shown. Which graph of displacement against time could represent its motion? Options A to D are not in the extracted text.",
+      "question": "The velocity-time graph for a ball is shown. Which graph of displacement against time could represent its motion? Options A to D are shown in the figure below.",
       "status": "ready",
       "answer": "C",
       "steps": [
@@ -352,7 +352,7 @@
         "from rest",
         "curve"
       ],
-      "question": "A ball falls through air from rest. Which graph shows its displacement against time? Options A to D are graphs not in the extracted text.",
+      "question": "A ball falls through air from rest. Which graph shows its displacement against time? Options A to D are graphs shown in the figure below.",
       "status": "ready",
       "answer": "C",
       "steps": [
@@ -381,7 +381,7 @@
         "velocity",
         "acceleration"
       ],
-      "question": "Which row of the table gives a quantity plotted on the y-axis and the quantity represented by the gradient of the graph? The table is not in the extracted text.",
+      "question": "Which row of the table gives a quantity plotted on the y-axis and the quantity represented by the gradient of the graph? The table is shown in the figure below.",
       "status": "ready",
       "answer": "B: y-axis velocity, gradient acceleration",
       "steps": [
@@ -409,7 +409,7 @@
         "change in velocity",
         "options"
       ],
-      "question": "A car accelerates along a straight road, and the acceleration-time graph is shown. Which graph shows its velocity against time over the same interval? Graphs and options are not in the extracted text.",
+      "question": "A car accelerates along a straight road, and the acceleration-time graph is shown. Which graph shows its velocity against time over the same interval? Graphs and options are shown in the figure below.",
       "status": "ready",
       "answer": "A",
       "steps": [
@@ -439,7 +439,7 @@
         "area",
         "options"
       ],
-      "question": "The velocity-time graph for a particle is shown. Which of A to D is the displacement-time graph for this particle? Graphs are not in the extracted text.",
+      "question": "The velocity-time graph for a particle is shown. Which of A to D is the displacement-time graph for this particle? Graphs are shown in the figure below.",
       "status": "ready",
       "answer": "A",
       "steps": [
@@ -469,7 +469,7 @@
         "P Q R",
         "signed area"
       ],
-      "question": "A velocity-time graph shows a particle with constant acceleration. P, Q and R are the magnitudes of the areas shown. Which expression gives the total displacement? A P+Q; B P+Q-R; C R+Q; D R-Q. The graph is not in the extracted text.",
+      "question": "A velocity-time graph shows a particle with constant acceleration. P, Q and R are the magnitudes of the areas shown. Which expression gives the total displacement? A P+Q; B P+Q-R; C R+Q; D R-Q. The graph is shown in the figure below.",
       "status": "ready",
       "answer": "D: R - Q",
       "steps": [
@@ -498,7 +498,7 @@
         "6 seconds",
         "table row"
       ],
-      "question": "A student walks for 6 seconds, shown on a displacement-time graph. Which row of the table gives the final displacement and velocity? The graph and table are not in the extracted text.",
+      "question": "A student walks for 6 seconds, shown on a displacement-time graph. Which row of the table gives the final displacement and velocity? The graph and table are shown in the figure below.",
       "status": "ready",
       "answer": "A: displacement 2.0 m, velocity 0.5 m s^-1",
       "steps": [
@@ -527,7 +527,7 @@
         "F = ma",
         "graph"
       ],
-      "question": "A rocket accelerates horizontally due to a constant resultant force while its mass decreases as fuel is used. Which graph shows how its acceleration could change? Options A to D are graphs not in the extracted text.",
+      "question": "A rocket accelerates horizontally due to a constant resultant force while its mass decreases as fuel is used. Which graph shows how its acceleration could change? Options A to D are graphs shown in the figure below.",
       "status": "ready",
       "answer": "B",
       "steps": [
@@ -555,7 +555,7 @@
         "gravity",
         "options"
       ],
-      "question": "A ball is thrown vertically up and caught a few seconds later. Given its displacement-time graph, which graph shows its acceleration against time? Options A to D are not in the extracted text.",
+      "question": "A ball is thrown vertically up and caught a few seconds later. Given its displacement-time graph, which graph shows its acceleration against time? Options A to D are shown in the figure below.",
       "status": "ready",
       "answer": "B",
       "steps": [
@@ -585,7 +585,7 @@
         "options",
         "change in velocity"
       ],
-      "question": "The graph shows how the acceleration of an object varies with time. Which graph shows how its velocity varies with time? Graphs are not in the extracted text.",
+      "question": "The graph shows how the acceleration of an object varies with time. Which graph shows how its velocity varies with time? Graphs are shown in the figure below.",
       "status": "ready",
       "answer": "D",
       "steps": [
@@ -646,7 +646,7 @@
         "caught",
         "options"
       ],
-      "question": "The velocity-time graph for the motion of a ball is shown. Which statement correctly describes it? A dropped and rebounds to original position; B dropped and rebounds to a lower position; C thrown upwards and caught at original position; D thrown upwards and caught at a higher position. The graph is not in the extracted text.",
+      "question": "The velocity-time graph for the motion of a ball is shown. Which statement correctly describes it? A dropped and rebounds to original position; B dropped and rebounds to a lower position; C thrown upwards and caught at original position; D thrown upwards and caught at a higher position. The graph is shown in the figure below.",
       "status": "ready",
       "answer": "B: the ball is dropped and rebounds to a lower position",
       "steps": [
@@ -676,7 +676,7 @@
         "area under graph",
         "P and Q"
       ],
-      "question": "Objects P and Q start at the same position at t = 0. Their velocity-time graphs are shown. Which statement describes their positions at t = 4 s? The graphs are not in the extracted text.",
+      "question": "Objects P and Q start at the same position at t = 0. Their velocity-time graphs are shown. Which statement describes their positions at t = 4 s? The graphs are shown in the figure below.",
       "status": "ready",
       "answer": "D: Q is further from the initial position than P",
       "steps": [
@@ -732,7 +732,7 @@
         "distance",
         "expression"
       ],
-      "question": "An object moves from rest with uniform acceleration for time t. X is the area under its acceleration-time graph from 0 to t. Which expression gives the distance moved? The options are not in the extracted text.",
+      "question": "An object moves from rest with uniform acceleration for time t. X is the area under its acceleration-time graph from 0 to t. Which expression gives the distance moved? The options are shown in the figure below.",
       "status": "ready",
       "answer": "D: Xt/2",
       "steps": [
@@ -760,7 +760,7 @@
         "motion description",
         "options"
       ],
-      "question": "The graph shows how the velocity of an object varies with time. Which option describes its motion? A constant acceleration; B constant displacement; C decreasing acceleration; D decreasing displacement. The graph is not in the extracted text.",
+      "question": "The graph shows how the velocity of an object varies with time. Which option describes its motion? A constant acceleration; B constant displacement; C decreasing acceleration; D decreasing displacement. The graph is shown in the figure below.",
       "status": "ready",
       "answer": "C: decreasing acceleration",
       "steps": [
@@ -846,7 +846,7 @@
         "area under graph",
         "expression"
       ],
-      "question": "The velocity-time graph for a train journey is shown. Which expression gives the distance travelled in time 2t? The options and graph are not in the extracted text.",
+      "question": "The velocity-time graph for a train journey is shown. Which expression gives the distance travelled in time 2t? The options and graph are shown in the figure below.",
       "status": "ready",
       "answer": "D: 5vt/2",
       "steps": [
@@ -933,7 +933,7 @@
         "non-zero acceleration",
         "options"
       ],
-      "question": "An object has a constant non-zero acceleration. Which displacement-time graph could represent its motion? Options A to D are graphs not in the extracted text.",
+      "question": "An object has a constant non-zero acceleration. Which displacement-time graph could represent its motion? Options A to D are graphs shown in the figure below.",
       "status": "ready",
       "answer": "B",
       "steps": [

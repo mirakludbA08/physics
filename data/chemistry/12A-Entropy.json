@@ -45,7 +45,7 @@
         "statements",
         "true statement"
       ],
-      "question": "The equation for an exothermic reaction is shown, and the question asks which of the options is true. The equation and options are not in the extracted text.",
+      "question": "The equation for an exothermic reaction is shown, and the question asks which of the options is true. The equation and options are shown in the figure below.",
       "status": "ready",
       "answer": "B: delta S surroundings is positive",
       "steps": [
@@ -260,7 +260,7 @@
         "surroundings",
         "cement"
       ],
-      "question": "For CaCO3(s) -> CaO(s) + CO2(g), deltaH = +178 kJ mol-1, what are the signs of deltaS system and deltaS surroundings? The option list is not in the extracted text.",
+      "question": "For CaCO3(s) -> CaO(s) + CO2(g), deltaH = +178 kJ mol-1, what are the signs of deltaS system and deltaS surroundings? The option list is shown in the figure below.",
       "status": "ready",
       "answer": "B: delta S system positive and delta S surroundings negative",
       "steps": [
@@ -455,7 +455,7 @@
         "solids",
         "standard molar entropy"
       ],
-      "question": "Which sequence shows the elements in order of increasing standard entropy? The four options are not in the extracted text.",
+      "question": "Which sequence shows the elements in order of increasing standard entropy? The four options are shown in the figure below.",
       "status": "ready",
       "answer": "C: Os(s) < Hg(l) < He(g) < O2(g)",
       "steps": [
@@ -510,7 +510,7 @@
         "expansion",
         "tap opened"
       ],
-      "question": "Flask P contains argon and flask Q is a vacuum; the tap is opened and the argon fills both flasks. How do the entropy and energy of the system change? The option list is not in the extracted text.",
+      "question": "Flask P contains argon and flask Q is a vacuum; the tap is opened and the argon fills both flasks. How do the entropy and energy of the system change? The option list is shown in the figure below.",
       "status": "ready",
       "answer": "C: entropy increases and energy is unchanged",
       "steps": [
@@ -538,7 +538,7 @@
         "graph selection",
         "entropy of substance"
       ],
-      "question": "Which graph shows the entropy of a substance as it changes state from solid to liquid to gas? The four graphs are not in the extracted text.",
+      "question": "Which graph shows the entropy of a substance as it changes state from solid to liquid to gas? The four graphs are shown in the figure below.",
       "status": "ready",
       "answer": "D: Graph 4",
       "steps": [
@@ -567,7 +567,7 @@
         "sign and units",
         "2N2O"
       ],
-      "question": "Nitrous oxide, N2O, decomposes to nitrogen and oxygen. Using the standard molecular entropy data (table not in the extracted text), calculate the standard entropy change of the system, with sign and units.",
+      "question": "Nitrous oxide, N2O, decomposes to nitrogen and oxygen. Using the standard molecular entropy data (table shown in the figure below), calculate the standard entropy change of the system, with sign and units.",
       "status": "ready",
       "answer": "+74.5 J K-1 mol-1",
       "steps": [
@@ -865,7 +865,7 @@
         "rate of change",
         "allotropes"
       ],
-      "question": "Rhombic and monoclinic sulfur are interchangeable solid forms. The value of deltaStotal is given for the forward reaction. What can be concluded? The direction of the forward reaction is shown in a diagram not in the extracted text.",
+      "question": "Rhombic and monoclinic sulfur are interchangeable solid forms. The value of deltaStotal is given for the forward reaction. What can be concluded? The direction of the forward reaction is shown in a diagram shown in the figure below.",
       "status": "ready",
       "answer": "D: monoclinic sulfur could change into rhombic sulfur but nothing can be deduced about the rate",
       "steps": [
@@ -1170,7 +1170,7 @@
         "J K L",
         "system"
       ],
-      "question": "The equations for three reactions involving hydrogen (J, K, L) are shown in a diagram not in the extracted text. What is the order of increasing standard entropy change of the system? Options: A J, K, L; B K, L, J; C K, J, L; D L, K, J.",
+      "question": "The equations for three reactions involving hydrogen (J, K, L) are shown in a diagram shown in the figure below. What is the order of increasing standard entropy change of the system? Options: A J, K, L; B K, L, J; C K, J, L; D L, K, J.",
       "status": "ready",
       "answer": "C: K, J, L",
       "steps": [
@@ -1200,7 +1200,7 @@
         "entropy of surroundings",
         "signs"
       ],
-      "question": "What are the signs of the entropy changes at 373 K when water vapour condenses? The option list is not in the extracted text.",
+      "question": "What are the signs of the entropy changes at 373 K when water vapour condenses? The option list is shown in the figure below.",
       "status": "ready",
       "answer": "C: delta S system negative, delta S surroundings positive",
       "steps": [
@@ -1229,7 +1229,7 @@
         "reaction entropy",
         "J K-1 mol-1"
       ],
-      "question": "Methane reacts with steam to form carbon dioxide and hydrogen. Using the standard molar entropies in the table (not in the extracted text), find the entropy change for the reaction. Options: A -174, B -30, C +30, D +174.",
+      "question": "Methane reacts with steam to form carbon dioxide and hydrogen. Using the standard molar entropies in the table (shown in the figure below), find the entropy change for the reaction. Options: A -174, B -30, C +30, D +174.",
       "status": "ready",
       "answer": "D: +174 J K-1 mol-1",
       "steps": [
@@ -1288,7 +1288,7 @@
         "deltaG",
         "pair of values"
       ],
-      "question": "Which pair of values will always give a thermodynamically feasible reaction? The option list is not in the extracted text.",
+      "question": "Which pair of values will always give a thermodynamically feasible reaction? The option list is shown in the figure below.",
       "status": "ready",
       "answer": "C: entropy change of the system positive and enthalpy change negative",
       "steps": [

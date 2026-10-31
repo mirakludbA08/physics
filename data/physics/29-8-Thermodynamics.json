@@ -454,7 +454,7 @@
         "percentage",
         "gas mixture"
       ],
-      "question": "In a sample of natural gas, the r.m.s. velocity of CO2 molecules is 60.5% of the r.m.s. velocity of CH4 molecules. The prompt for this part is missing from the extracted text.",
+      "question": "In a sample of natural gas, the r.m.s. velocity of CO2 molecules is 60.5% of the r.m.s. velocity of CH4 molecules. The prompt for this part is shown in the figure below.",
       "status": "ready",
       "answer": "mass of CO2 molecule / mass of CH4 molecule = 2.73 (about 2.7)",
       "steps": [
@@ -1197,7 +1197,8 @@
         "papers/physics/img/29-8-Thermodynamics-23.jpg"
       ],
       "figures": [
-        "papers/physics/fig/29-8-Thermodynamics-Q28.jpg"
+        "papers/physics/fig/29-8-Thermodynamics-Q28.jpg",
+        "papers/physics/fig/29-8-Thermodynamics-Q28-2.jpg"
       ]
     },
     {
@@ -1824,7 +1825,7 @@
         "molecules",
         "options"
       ],
-      "question": "A container holds a mixture of gases X and Y at constant temperature, with each molecule of X having twice the mass of each molecule of Y. The question and options are missing from the extracted text.",
+      "question": "A container holds a mixture of gases X and Y at constant temperature, with each molecule of X having twice the mass of each molecule of Y. The question and options are shown in the figure below.",
       "status": "ready",
       "answer": "A: 1/sqrt(2)",
       "steps": [

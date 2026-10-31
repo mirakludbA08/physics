@@ -751,6 +751,9 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-11.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-12.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-13.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q10-3.jpg"
       ]
     },
     {
@@ -1510,6 +1513,9 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-25.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-26.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q23-2.jpg"
       ]
     },
     {
@@ -1585,7 +1591,7 @@
         "mass",
         "circular path"
       ],
-      "question": "An alpha particle moving in a straight line with the same speed v enters the same magnetic field as the proton of Q25 and follows a circular path. Which is its initial radius? (Options A-D are not in the text.)",
+      "question": "An alpha particle moving in a straight line with the same speed v enters the same magnetic field as the proton of Q25 and follows a circular path. Which is its initial radius? (Options A-D are shown in the figure below.)",
       "status": "ready",
       "answer": "B: 2r",
       "steps": [
@@ -1597,6 +1603,9 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-28.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-29.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-30.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q26.jpg"
       ]
     },
     {
@@ -1690,6 +1699,9 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-28.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-29.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-30.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q28.jpg"
       ]
     },
     {
@@ -1722,6 +1734,9 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-28.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-29.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-30.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q28.jpg"
       ]
     },
     {

@@ -528,7 +528,7 @@
         "structure",
         "stereo drawing"
       ],
-      "question": "Which skeletal structure matches 3,4-dichloro-2,2-dimethylpentane? The options are skeletal structures (images) not in the text.",
+      "question": "Which skeletal structure matches 3,4-dichloro-2,2-dimethylpentane? The options are skeletal structures (images) shown in the figure below.",
       "status": "ready",
       "answer": "A",
       "steps": [
@@ -590,7 +590,7 @@
         "container labels",
         "GHS"
       ],
-      "question": "Prop-2-en-1-ol is flammable, toxic and an environmental hazard. Which hazard symbols should be on its container? The options are symbol images not in the text.",
+      "question": "Prop-2-en-1-ol is flammable, toxic and an environmental hazard. Which hazard symbols should be on its container? The options are symbol images shown in the figure below.",
       "status": "ready",
       "answer": "A: flame, skull and crossbones, environmental hazard",
       "steps": [
@@ -686,7 +686,7 @@
         "bottle label",
         "alkane"
       ],
-      "question": "Which hazard warning symbol would be found on a bottle of hexane? The symbol options are images not in the text.",
+      "question": "Which hazard warning symbol would be found on a bottle of hexane? The symbol options are images shown in the figure below.",
       "status": "ready",
       "answer": "A: the flammable (flame) symbol",
       "steps": [
@@ -716,7 +716,7 @@
         "hairdressers",
         "pictograms"
       ],
-      "question": "Hydrogen peroxide solution causes serious eye damage, is harmful if swallowed and is an oxidising agent. Which hazard symbols should be on its containers? The symbols are images not in the text.",
+      "question": "Hydrogen peroxide solution causes serious eye damage, is harmful if swallowed and is an oxidising agent. Which hazard symbols should be on its containers? The symbols are images shown in the figure below.",
       "status": "ready",
       "answer": "A: corrosive, exclamation mark (harmful) and oxidising",
       "steps": [

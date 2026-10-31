@@ -19,7 +19,7 @@
         "gravitational field strength",
         "calculation"
       ],
-      "question": "A cylinder of aluminium has weight 35.0 N and volume 1.32 x 10^-3 m^3. Which calculation gives its density in kg m^-3? The options A to D are not in the extracted text.",
+      "question": "A cylinder of aluminium has weight 35.0 N and volume 1.32 x 10^-3 m^3. Which calculation gives its density in kg m^-3? The options A to D are shown in the figure below.",
       "status": "ready",
       "answer": "C: 35.0 / (9.81 x 1.32 x 10^-3)",
       "steps": [
@@ -1240,7 +1240,7 @@
         "cube root",
         "rho g"
       ],
-      "question": "A solid cube of weight W is made from material of density rho. Which expression gives the length of each side of the cube? The options A to D are not in the extracted text.",
+      "question": "A solid cube of weight W is made from material of density rho. Which expression gives the length of each side of the cube? The options A to D are shown in the figure below.",
       "status": "ready",
       "answer": "D: cube root of (W / (rho g))",
       "steps": [

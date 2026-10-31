@@ -176,7 +176,7 @@
         "1s2 2s2 2p2",
         "electrons"
       ],
-      "question": "Which is the electronic configuration of a carbon atom in its ground state? (Options are not included in the extracted text.)",
+      "question": "Which is the electronic configuration of a carbon atom in its ground state? (Options are shown in the figure below.)",
       "status": "ready",
       "answer": "1s2 2s2 2p2",
       "steps": [
@@ -288,7 +288,7 @@
         "abundance",
         "28.2"
       ],
-      "question": "A sample of silicon contains the isotopes shown (not included in the extracted text). What is the relative atomic mass to one decimal place? Options A 28.0, B 28.2, C 29.0, D 29.8.",
+      "question": "A sample of silicon contains the isotopes shown (shown in the figure below). What is the relative atomic mass to one decimal place? Options A 28.0, B 28.2, C 29.0, D 29.8.",
       "status": "ready",
       "answer": "B: 28.2",
       "steps": [
@@ -397,7 +397,7 @@
         "table",
         "kJ mol-1"
       ],
-      "question": "The first three ionisation energies of carbon are shown (table not included in the extracted text). Which is the approximate fourth ionisation energy? Options A 3500, B 6200, C 11 000, D 38 000.",
+      "question": "The first three ionisation energies of carbon are shown (table shown in the figure below). Which is the approximate fourth ionisation energy? Options A 3500, B 6200, C 11 000, D 38 000.",
       "status": "ready",
       "answer": "B: 6200",
       "steps": [
@@ -426,7 +426,7 @@
         "isotopes 79 81",
         "peak pattern"
       ],
-      "question": "The two stable isotopes of bromine have relative masses 79 and 81. Which is the correct pattern of peaks in the mass spectrum of molecular bromine? (The peak diagrams are not included in the extracted text.)",
+      "question": "The two stable isotopes of bromine have relative masses 79 and 81. Which is the correct pattern of peaks in the mass spectrum of molecular bromine? (The peak diagrams are shown in the figure below.)",
       "status": "ready",
       "answer": "D (small peaks at 79 and 81, and three molecular-ion peaks at 158, 160 and 162 in the ratio 1:2:1)",
       "steps": [
@@ -483,7 +483,7 @@
         "periods",
         "trend"
       ],
-      "question": "The bar chart shows the melting temperatures of the first twenty elements. Which statement is shown? A giant covalent structures highest in Period 2 and Period 3; B metals always higher than non-metals; C increase going down each group; D increase across Period 2 and Period 3. (The chart is not included in the extracted text.)",
+      "question": "The bar chart shows the melting temperatures of the first twenty elements. Which statement is shown? A giant covalent structures highest in Period 2 and Period 3; B metals always higher than non-metals; C increase going down each group; D increase across Period 2 and Period 3. (The chart is shown in the figure below.)",
       "status": "ready",
       "answer": "A: giant covalent structures have the highest melting temperatures in Period 2 and Period 3",
       "steps": [
@@ -512,7 +512,7 @@
         "trend",
         "graph"
       ],
-      "question": "Which sketch graph shows the trend in first ionisation energy going down Group 1? (The sketch options are not included in the extracted text.)",
+      "question": "Which sketch graph shows the trend in first ionisation energy going down Group 1? (The sketch options are shown in the figure below.)",
       "status": "ready",
       "answer": "A: a steady fall in first ionisation energy, levelling off",
       "steps": [
@@ -541,7 +541,7 @@
         "ion",
         "argon configuration"
       ],
-      "question": "Which ion does not have the electronic configuration shown? Options A K+, B Ca2+, C Ti2+, D Sc3+. (The configuration shown in the question is not included in the extracted text.)",
+      "question": "Which ion does not have the electronic configuration shown? Options A K+, B Ca2+, C Ti2+, D Sc3+. (The configuration shown in the question is shown in the figure below.)",
       "status": "ready",
       "answer": "C: Ti2+",
       "steps": [
@@ -885,7 +885,7 @@
         "three significant figures",
         "abundance"
       ],
-      "question": "A sample of iron contains the following isotopes (data not included in the extracted text). Calculate the relative atomic mass to three significant figures.",
+      "question": "A sample of iron contains the following isotopes (data shown in the figure below). Calculate the relative atomic mass to three significant figures.",
       "status": "ready",
       "answer": "55.9",
       "steps": [
@@ -1054,7 +1054,7 @@
         "same protons",
         "isotopic"
       ],
-      "question": "The numbers of subatomic particles in four species W, X, Y and Z are given in a table (not included in the extracted text). Which species are isotopic? Options A W and X, B W and Y, C X and Z, D Y and Z.",
+      "question": "The numbers of subatomic particles in four species W, X, Y and Z are given in a table (shown in the figure below). Which species are isotopic? Options A W and X, B W and Y, C X and Z, D Y and Z.",
       "status": "ready",
       "answer": "D: Y and Z",
       "steps": [
@@ -1082,7 +1082,7 @@
         "outer shell electrons",
         "graph"
       ],
-      "question": "The graph shows log(ionisation energy) against ionisation number for the successive ionisations of an element. How many quantum shells contain electrons, and how many electrons are in the outer shell? (The graph is not included in the extracted text.)",
+      "question": "The graph shows log(ionisation energy) against ionisation number for the successive ionisations of an element. How many quantum shells contain electrons, and how many electrons are in the outer shell? (The graph is shown in the figure below.)",
       "status": "ready",
       "answer": "B: 3 quantum shells contain electrons and there are 5 electrons in the outer shell",
       "steps": [
@@ -1139,7 +1139,7 @@
         "positive ions",
         "diagram"
       ],
-      "question": "Which process occurs in region R of the mass spectrometer? Options A sample vaporised by heater, B electrons removed to form positive ions, C electrons added to form negative ions, D ions accelerated by an electric field. (The diagram is not included in the extracted text.)",
+      "question": "Which process occurs in region R of the mass spectrometer? Options A sample vaporised by heater, B electrons removed to form positive ions, C electrons added to form negative ions, D ions accelerated by an electric field. (The diagram is shown in the figure below.)",
       "status": "ready",
       "answer": "B: electrons are removed from molecules or atoms and positive ions are formed",
       "steps": [
@@ -1222,7 +1222,7 @@
         "abundance",
         "approximate"
       ],
-      "question": "The mass spectrum of a sample of an element has only two peaks. What is the approximate relative atomic mass? Options A 191.5, B 192.0, C 192.5, D 193.0. (The spectrum is not included in the extracted text.)",
+      "question": "The mass spectrum of a sample of an element has only two peaks. What is the approximate relative atomic mass? Options A 191.5, B 192.0, C 192.5, D 193.0. (The spectrum is shown in the figure below.)",
       "status": "ready",
       "answer": "C: 192.5",
       "steps": [
@@ -1250,7 +1250,7 @@
         "mass number",
         "isotopes"
       ],
-      "question": "Which of these atoms has the most neutrons? (The options are not included in the extracted text.)",
+      "question": "Which of these atoms has the most neutrons? (The options are shown in the figure below.)",
       "status": "ready",
       "answer": "B: 124Sn",
       "steps": [
@@ -1303,7 +1303,7 @@
         "equation",
         "gas phase"
       ],
-      "question": "Which equation represents the second ionisation energy of chlorine? (The options are not included in the extracted text.)",
+      "question": "Which equation represents the second ionisation energy of chlorine? (The options are shown in the figure below.)",
       "status": "ready",
       "answer": "Cl+(g) -> Cl2+(g) + e-",
       "steps": [
@@ -1440,7 +1440,7 @@
         "two decimal places",
         "abundance"
       ],
-      "question": "A sample of sulfur contains four isotopes (abundance data not included in the extracted text). Calculate the relative atomic mass to two decimal places.",
+      "question": "A sample of sulfur contains four isotopes (abundance data shown in the figure below). Calculate the relative atomic mass to two decimal places.",
       "status": "ready",
       "answer": "32.09",
       "steps": [
@@ -1470,7 +1470,7 @@
         "number of atoms",
         "32S"
       ],
-      "question": "Calculate the number of sulfur atoms in the molecular ion shown in the mass spectrum of 32S (the spectrum is not included in the extracted text).",
+      "question": "Calculate the number of sulfur atoms in the molecular ion shown in the mass spectrum of 32S (the spectrum is shown in the figure below).",
       "status": "ready",
       "answer": "8 sulfur atoms (the molecular ion is S8+ at m/z 256)",
       "steps": [
@@ -1499,7 +1499,7 @@
         "fragment",
         "S+"
       ],
-      "question": "Suggest the formula of the most stable ion shown by the sulfur mass spectrum (the spectrum is not included in the extracted text).",
+      "question": "Suggest the formula of the most stable ion shown by the sulfur mass spectrum (the spectrum is shown in the figure below).",
       "status": "ready",
       "answer": "S2+ (the tallest peak, at m/z 64)",
       "steps": [
@@ -1527,7 +1527,7 @@
         "elements",
         "giant structures"
       ],
-      "question": "In which series are the elements in order of increasing melting temperature? (The options are not included in the extracted text.)",
+      "question": "In which series are the elements in order of increasing melting temperature? (The options are shown in the figure below.)",
       "status": "ready",
       "answer": "B: Li < Be < B < C",
       "steps": [
@@ -1610,7 +1610,7 @@
         "electrons",
         "table"
       ],
-      "question": "Complete the table of subatomic particles in the atoms of the copper isotopes 63Cu and 65Cu (table not included in the extracted text).",
+      "question": "Complete the table of subatomic particles in the atoms of the copper isotopes 63Cu and 65Cu (table shown in the figure below).",
       "status": "ready",
       "answer": "63Cu: 29 protons, 34 neutrons, 29 electrons; 65Cu: 29 protons, 36 neutrons, 29 electrons",
       "steps": [
@@ -1777,7 +1777,7 @@
         "1s2 2s2 2p3",
         "7 electrons"
       ],
-      "question": "What is the electronic configuration of a nitrogen atom? (Options are not included in the extracted text.)",
+      "question": "What is the electronic configuration of a nitrogen atom? (Options are shown in the figure below.)",
       "status": "ready",
       "answer": "1s2 2s2 2p3",
       "steps": [
@@ -1831,7 +1831,7 @@
         "graph",
         "element U V W X"
       ],
-      "question": "Which element has only one p orbital containing a pair of electrons? Options A U, B V, C W, D X. (The graph of first ionisation energies is not included in the extracted text.)",
+      "question": "Which element has only one p orbital containing a pair of electrons? Options A U, B V, C W, D X. (The graph of first ionisation energies is shown in the figure below.)",
       "status": "ready",
       "answer": "B: element V",
       "steps": [
@@ -1859,7 +1859,7 @@
         "graph",
         "element S X Y Z"
       ],
-      "question": "Which element is the least reactive? Options A S, B X, C Y, D Z. (The graph is not included in the extracted text.)",
+      "question": "Which element is the least reactive? Options A S, B X, C Y, D Z. (The graph is shown in the figure below.)",
       "status": "ready",
       "answer": "B: element X",
       "steps": [
@@ -1886,7 +1886,7 @@
         "graph",
         "S T X Y"
       ],
-      "question": "Which element has the greatest second ionisation energy? Options A S, B T, C X, D Y. (The graph is not included in the extracted text.)",
+      "question": "Which element has the greatest second ionisation energy? Options A S, B T, C X, D Y. (The graph is shown in the figure below.)",
       "status": "ready",
       "answer": "D: element Y",
       "steps": [
@@ -1998,7 +1998,7 @@
         "shells",
         "jump"
       ],
-      "question": "All the successive ionisation energies of nitrogen are shown in a table (not included in the extracted text). Explain the trend in the successive ionisation energies of nitrogen.",
+      "question": "All the successive ionisation energies of nitrogen are shown in a table (shown in the figure below). Explain the trend in the successive ionisation energies of nitrogen.",
       "status": "ready",
       "answer": "Each successive IE is higher because electrons are removed from an increasingly positive ion, so the remaining electrons are held more strongly; there is a large jump when an electron is removed from a new, inner shell.",
       "steps": [
@@ -2027,7 +2027,7 @@
         "ions",
         "diagram"
       ],
-      "question": "In which region of this mass spectrometer are the ions accelerated? Options A region P, B region Q, C region R, D region S. (The diagram is not included in the extracted text.)",
+      "question": "In which region of this mass spectrometer are the ions accelerated? Options A region P, B region Q, C region R, D region S. (The diagram is shown in the figure below.)",
       "status": "ready",
       "answer": "B: region Q",
       "steps": [
@@ -2057,7 +2057,7 @@
         "m/z",
         "deflection"
       ],
-      "question": "Four iron ions (54Fe+, 54Fe2+, 56Fe+, 56Fe2+) follow paths shown in a diagram. Which ion follows path 1? (The path diagram is not included in the extracted text.)",
+      "question": "Four iron ions (54Fe+, 54Fe2+, 56Fe+, 56Fe2+) follow paths shown in a diagram. Which ion follows path 1? (The path diagram is shown in the figure below.)",
       "status": "ready",
       "answer": "B: 54Fe2+",
       "steps": [
@@ -2113,7 +2113,7 @@
         "d electrons",
         "electron configuration"
       ],
-      "question": "The element manganese has atomic number Z = 25. What are the numbers of s, p and d electrons in an atom of manganese? (Options are not included in the extracted text.)",
+      "question": "The element manganese has atomic number Z = 25. What are the numbers of s, p and d electrons in an atom of manganese? (Options are shown in the figure below.)",
       "status": "ready",
       "answer": "8 s electrons, 12 p electrons, 5 d electrons",
       "steps": [
@@ -2193,7 +2193,7 @@
         "atom",
         "symbol missing"
       ],
-      "question": "An atom of (symbol missing from the extracted text) forms a nitride ion, N3-. What are the numbers of protons, neutrons and electrons in this ion?",
+      "question": "An atom of (symbol shown in the figure below) forms a nitride ion, N3-. What are the numbers of protons, neutrons and electrons in this ion?",
       "status": "ready",
       "answer": "C: 7 protons, 8 neutrons and 10 electrons",
       "steps": [
@@ -2220,7 +2220,7 @@
         "1s2 2s2 2p4",
         "8 electrons"
       ],
-      "question": "What is the electronic configuration of an oxygen atom in its ground state? (Options are not included in the extracted text.)",
+      "question": "What is the electronic configuration of an oxygen atom in its ground state? (Options are shown in the figure below.)",
       "status": "ready",
       "answer": "1s2 2s2 2p4",
       "steps": [
@@ -2248,7 +2248,7 @@
         "Ar",
         "ground state"
       ],
-      "question": "Which is the electronic configuration of chromium? (Options are not included in the extracted text.)",
+      "question": "Which is the electronic configuration of chromium? (Options are shown in the figure below.)",
       "status": "ready",
       "answer": "[Ar] 3d5 4s1",
       "steps": [
@@ -2327,7 +2327,7 @@
         "charge",
         "symbol missing"
       ],
-      "question": "How many neutrons and electrons are there in the ion shown? (The symbol and options are missing from the extracted text.)",
+      "question": "How many neutrons and electrons are there in the ion shown? (The symbol and options are shown in the figure below.)",
       "status": "ready",
       "answer": "A: 111 neutrons and 77 electrons",
       "steps": [
@@ -2403,7 +2403,7 @@
         "zaratite",
         "formula missing"
       ],
-      "question": "Calculate the relative formula mass of basic nickel(II) carbonate. (The formula is missing from the extracted text.)",
+      "question": "Calculate the relative formula mass of basic nickel(II) carbonate. (The formula is shown in the figure below.)",
       "status": "ready",
       "answer": "376.1",
       "steps": [
@@ -2432,7 +2432,7 @@
         "by mass",
         "equation missing"
       ],
-      "question": "Calculate the atom economy by mass for the formation of basic nickel(II) carbonate by the reaction shown. (The equation is missing from the extracted text.)",
+      "question": "Calculate the atom economy by mass for the formation of basic nickel(II) carbonate by the reaction shown. (The equation is shown in the figure below.)",
       "status": "ready",
       "answer": "46.9%",
       "steps": [
@@ -2513,7 +2513,7 @@
         "spectator ions",
         "formation"
       ],
-      "question": "Write the ionic equation for the formation of basic nickel(II) carbonate from nickel(II) sulfate. State symbols are not required. (The full equation is missing from the extracted text.)",
+      "question": "Write the ionic equation for the formation of basic nickel(II) carbonate from nickel(II) sulfate. State symbols are not required. (The full equation is shown in the figure below.)",
       "status": "ready",
       "answer": "3Ni2+ + CO3 2- + 4OH- + 4H2O -> Ni3CO3(OH)4.4H2O",
       "steps": [
@@ -2596,7 +2596,7 @@
         "electrons",
         "atom symbol missing"
       ],
-      "question": "An atom of (symbol and mass number missing from the extracted text) forms the ion Al3+. What are the numbers of protons, electrons and neutrons in this ion?",
+      "question": "An atom of (symbol and mass number shown in the figure below) forms the ion Al3+. What are the numbers of protons, electrons and neutrons in this ion?",
       "status": "ready",
       "answer": "D: 13 protons, 10 electrons, 14 neutrons",
       "steps": [
@@ -2625,7 +2625,7 @@
         "92.8",
         "91.2"
       ],
-      "question": "The mass spectrum of an element is shown. What is the relative atomic mass of this element? Options A 90.0, B 90.9, C 91.2, D 92.8. (The spectrum is not included in the extracted text.)",
+      "question": "The mass spectrum of an element is shown. What is the relative atomic mass of this element? Options A 90.0, B 90.9, C 91.2, D 92.8. (The spectrum is shown in the figure below.)",
       "status": "ready",
       "answer": "C: 91.2",
       "steps": [
@@ -2653,7 +2653,7 @@
         "P Q R S",
         "diagram"
       ],
-      "question": "In which region of a mass spectrometer are particles ionised? Options A region P, B region Q, C region R, D region S. (The diagram is not included in the extracted text.)",
+      "question": "In which region of a mass spectrometer are particles ionised? Options A region P, B region Q, C region R, D region S. (The diagram is shown in the figure below.)",
       "status": "ready",
       "answer": "B: region Q",
       "steps": [
@@ -2903,7 +2903,7 @@
         "7 electrons",
         "ground state"
       ],
-      "question": "Which is the electronic configuration of nitrogen? (Options are not included in the extracted text.)",
+      "question": "Which is the electronic configuration of nitrogen? (Options are shown in the figure below.)",
       "status": "ready",
       "answer": "1s2 2s2 2p3",
       "steps": [
@@ -2983,7 +2983,7 @@
         "paired electrons",
         "trend"
       ],
-      "question": "Explain the changes in first ionisation energy for the elements with atomic numbers 3 to 10. (The graph is not included in the extracted text.)",
+      "question": "Explain the changes in first ionisation energy for the elements with atomic numbers 3 to 10. (The graph is shown in the figure below.)",
       "status": "ready",
       "answer": "IE rises from Li to Be (nuclear charge increases in the same shell), falls at B (2p electron is higher in energy and more shielded than 2s), rises to N (increasing nuclear charge), falls at O (repulsion between paired 2p electrons), then rises to Ne.",
       "steps": [
@@ -3100,7 +3100,7 @@
         "abundance",
         "20.18"
       ],
-      "question": "A sample of neon contains the isotopes shown (not included in the extracted text). What is the relative atomic mass of neon to two decimal places? Options A 20.00, B 20.09, C 20.18, D 21.00.",
+      "question": "A sample of neon contains the isotopes shown (shown in the figure below). What is the relative atomic mass of neon to two decimal places? Options A 20.00, B 20.09, C 20.18, D 21.00.",
       "status": "ready",
       "answer": "C: 20.18",
       "steps": [
@@ -3128,7 +3128,7 @@
         "table of particle masses",
         "proton electron mass"
       ],
-      "question": "An atom of hydrogen is 1H. What is its mass in grams? Options A 1.6725 x 10^-24, B 1.6734 x 10^-24, C 3.3473 x 10^-24, D 3.3482 x 10^-24. (The table of particle masses is not included in the extracted text.)",
+      "question": "An atom of hydrogen is 1H. What is its mass in grams? Options A 1.6725 x 10^-24, B 1.6734 x 10^-24, C 3.3473 x 10^-24, D 3.3482 x 10^-24. (The table of particle masses is shown in the figure below.)",
       "status": "ready",
       "answer": "B: 1.6734 x 10^-24 g",
       "steps": [
@@ -3308,7 +3308,7 @@
         "three significant figures",
         "28Si 29Si 30Si"
       ],
-      "question": "Calculate the relative atomic mass of a sample of silicon using the isotopic abundance data (the data are not included in the extracted text), to 3 significant figures.",
+      "question": "Calculate the relative atomic mass of a sample of silicon using the isotopic abundance data (the data are shown in the figure below), to 3 significant figures.",
       "status": "ready",
       "answer": "28.2",
       "steps": [
@@ -3421,7 +3421,7 @@
         "2p3",
         "options"
       ],
-      "question": "Which diagram represents the electronic structure of a nitrogen atom? (The diagram options are not included in the extracted text.)",
+      "question": "Which diagram represents the electronic structure of a nitrogen atom? (The diagram options are shown in the figure below.)",
       "status": "ready",
       "answer": "C: 1s2 2s2 2p3 with one electron in each 2p orbital",
       "steps": [
@@ -3502,7 +3502,7 @@
         "abundance",
         "germanium-76"
       ],
-      "question": "Germanium has five isotopes; the fifth is germanium-76 (radioactive). Calculate the mass number of the fifth isotope, given Ar = 72.6 and the data for the other four (table not included in the extracted text).",
+      "question": "Germanium has five isotopes; the fifth is germanium-76 (radioactive). Calculate the mass number of the fifth isotope, given Ar = 72.6 and the data for the other four (table shown in the figure below).",
       "status": "ready",
       "answer": "72 (71.6 before rounding), so the fifth isotope is 72Ge",
       "steps": [
@@ -3732,7 +3732,7 @@
         "outer electrons",
         "data"
       ],
-      "question": "The first seven ionisation energies for an element in Period 3 are shown (data not included in the extracted text). Deduce the identity of the element, with a reason.",
+      "question": "The first seven ionisation energies for an element in Period 3 are shown (data shown in the figure below). Deduce the identity of the element, with a reason.",
       "status": "ready",
       "answer": "Sulfur: there is a large jump between the 6th and 7th ionisation energies, so six outer electrons, giving Group 6 in Period 3",
       "steps": [
@@ -3788,7 +3788,7 @@
         "grid",
         "elements Li to Ne"
       ],
-      "question": "Plot the first ionisation energies of the Period 2 elements on the grid provided (data not included in the extracted text).",
+      "question": "Plot the first ionisation energies of the Period 2 elements on the grid provided (data shown in the figure below).",
       "status": "ready",
       "answer": "Graph of first ionisation energy (y-axis) against element (x-axis) for Li to Ne: general rise with dips at B (801) and O (1314)",
       "steps": [
@@ -3874,7 +3874,7 @@
         "table",
         "row"
       ],
-      "question": "Which row shows the numbers of neutrons and electrons in a bromide ion, 79Br-? (The table of rows is not included in the extracted text.)",
+      "question": "Which row shows the numbers of neutrons and electrons in a bromide ion, 79Br-? (The table of rows is shown in the figure below.)",
       "status": "ready",
       "answer": "B: 44 neutrons and 36 electrons",
       "steps": [
@@ -3903,7 +3903,7 @@
         "detection",
         "vaporisation"
       ],
-      "question": "Which is the correct order for the processes in a mass spectrometer? (The options are not included in the extracted text.)",
+      "question": "Which is the correct order for the processes in a mass spectrometer? (The options are shown in the figure below.)",
       "status": "ready",
       "answer": "B: vaporisation, ionisation, deflection, detection",
       "steps": [

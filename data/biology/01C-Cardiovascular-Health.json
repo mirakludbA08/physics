@@ -2867,7 +2867,7 @@
         "weight category",
         "classification"
       ],
-      "question": "Which describes the body mass of a person who is obese? The four options (A to D) use inequality symbols that are garbled in the text.",
+      "question": "Which describes the body mass of a person who is obese? The four options (A to D) use inequality symbols that are shown in the figure below.",
       "status": "ready",
       "answer": "B: BMI >= 30",
       "steps": [

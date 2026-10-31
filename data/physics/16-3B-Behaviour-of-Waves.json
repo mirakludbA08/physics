@@ -372,6 +372,9 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-06.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-07.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q7.jpg"
       ]
     },
     {
@@ -402,6 +405,10 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-06.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-07.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q7.jpg",
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q7c.jpg"
       ]
     },
     {
@@ -532,14 +539,14 @@
         "coherent",
         "8.0 cm"
       ],
-      "question": "Two waves leave a source in phase with wavelength 8.0 cm. Which gives constructive interference? A path difference 16.0 cm; B path difference (symbol missing); C phase difference 180 deg; D phase difference 3 rad.",
+      "question": "Two waves leave a source in phase with wavelength 8.0 cm. Which gives constructive interference? A path difference 16.0 cm; B path difference 3 lambda / 2; C phase difference 180 deg; D phase difference 3 pi radians.",
       "status": "ready",
       "answer": "A - a path difference of 16.0 cm, which is two wavelengths.",
       "steps": [
         "Constructive interference needs a path difference that is a whole number of wavelengths.",
         "16.0 cm / 8.0 cm = 2.0 wavelengths, a whole number, so the waves reinforce (A).",
         "A phase difference of 180 deg gives destructive interference (C is wrong).",
-        "3 rad is about 172 deg, which is not 0 or 360 deg, so it is not constructive (D is wrong)."
+        "B is 3 lambda / 2 = 12.0 cm, an odd number of half-wavelengths, so it is destructive (B is wrong). A phase difference of 3 pi radians is an odd multiple of 180 deg, so it is also destructive (D is wrong)."
       ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-10.jpg",
@@ -821,6 +828,9 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-16.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-17.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q20-2.jpg"
       ]
     },
     {
@@ -851,6 +861,9 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-16.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-17.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q20-2.jpg"
       ]
     },
     {
@@ -880,6 +893,9 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-18.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-19.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q21-2.jpg"
       ]
     },
     {
@@ -1007,6 +1023,9 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-19.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-20.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-21.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q22.jpg"
       ]
     },
     {
@@ -1128,6 +1147,9 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-21.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-22.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q23b.jpg"
       ]
     },
     {
@@ -1273,6 +1295,9 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-25.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q28a.jpg"
       ]
     },
     {
@@ -1301,6 +1326,9 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-25.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q28b.jpg"
       ]
     },
     {
@@ -1383,6 +1411,9 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-27.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-28.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q31.jpg"
       ]
     },
     {
@@ -1523,6 +1554,9 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-29.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-30.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q36.jpg"
       ]
     },
     {
@@ -1700,6 +1734,9 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-32.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-33.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q38.jpg"
       ]
     },
     {
@@ -1864,6 +1901,9 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-36.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-37.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-38.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q40.jpg"
       ]
     },
     {
@@ -1894,6 +1934,9 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-36.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-37.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-38.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q40.jpg"
       ]
     },
     {
@@ -1924,6 +1967,9 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-36.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-37.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-38.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q40c.jpg"
       ]
     },
     {
@@ -1953,6 +1999,9 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-36.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-37.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-38.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q40c.jpg"
       ]
     },
     {
@@ -2041,6 +2090,9 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-39.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-40.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q42.jpg"
       ]
     },
     {
@@ -2074,7 +2126,8 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-40.jpg"
       ],
       "figures": [
-        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q42.jpg"
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q42.jpg",
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q42-2.jpg"
       ]
     },
     {
@@ -2224,6 +2277,9 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-43.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-44.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q45.jpg"
       ]
     },
     {
@@ -2253,6 +2309,9 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-43.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-44.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q45.jpg"
       ]
     },
     {
@@ -2284,6 +2343,9 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-44.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-45.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q46.jpg"
       ]
     },
     {
@@ -2312,6 +2374,9 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-44.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-45.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q46.jpg"
       ]
     },
     {
@@ -2398,6 +2463,9 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-45.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-46.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q47.jpg"
       ]
     },
     {
@@ -2427,6 +2495,9 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-45.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-46.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q47.jpg"
       ]
     },
     {
@@ -2485,6 +2556,9 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-47.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-48.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/16-3B-Behaviour-of-Waves-Q49.jpg"
       ]
     },
     {

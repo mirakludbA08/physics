@@ -274,7 +274,7 @@
         "surface",
         "one third"
       ],
-      "question": "The gravitational field strength on the surface of Mercury is gM. Callisto has the same radius as Mercury but only one third of its density. What is the gravitational field strength on the surface of Callisto? (Option list is not in the text.)",
+      "question": "The gravitational field strength on the surface of Mercury is gM. Callisto has the same radius as Mercury but only one third of its density. What is the gravitational field strength on the surface of Callisto? (Option list is shown in the figure below.)",
       "status": "ready",
       "answer": "B: gM / 3",
       "steps": [
@@ -845,7 +845,7 @@
         "earth mass",
         "multiple choice"
       ],
-      "question": "A space shuttle of mass m falls to Earth (mass M) from a height R above the Earth, where R is the Earth's radius. Which expression gives its change in gravitational potential energy? (Option list is not in the text.)",
+      "question": "A space shuttle of mass m falls to Earth (mass M) from a height R above the Earth, where R is the Earth's radius. Which expression gives its change in gravitational potential energy? (Option list is shown in the figure below.)",
       "status": "ready",
       "answer": "A: change = GMm (1/(2R) - 1/R) = -GMm / (2R), a decrease",
       "steps": [
@@ -962,7 +962,7 @@
         "surface",
         "multiple choice"
       ],
-      "question": "The gravitational field strength at the Earth's surface is g. Another planet has the same density as the Earth but twice the Earth's radius. What is its surface gravitational field strength? (Option list is not in the text.)",
+      "question": "The gravitational field strength at the Earth's surface is g. Another planet has the same density as the Earth but twice the Earth's radius. What is its surface gravitational field strength? (Option list is shown in the figure below.)",
       "status": "ready",
       "answer": "B: 2g",
       "steps": [
@@ -1332,7 +1332,7 @@
         "table",
         "change"
       ],
-      "question": "The Moon is gradually moving away from the Earth. Which row of the table shows how the gravitational potential at the Earth due to the Moon and the gravitational force between them change? (Table is not in the text.)",
+      "question": "The Moon is gradually moving away from the Earth. Which row of the table shows how the gravitational potential at the Earth due to the Moon and the gravitational force between them change? (Table is shown in the figure below.)",
       "status": "ready",
       "answer": "B: gravitational potential increases and gravitational force decreases",
       "steps": [
@@ -1390,7 +1390,7 @@
         "mass M",
         "radius R"
       ],
-      "question": "A satellite of mass m on the Earth's surface is moved into a circular orbit of height h above the Earth (Earth mass M, radius R). Which expression gives its change in gravitational potential energy? (Option list is not in the text.)",
+      "question": "A satellite of mass m on the Earth's surface is moved into a circular orbit of height h above the Earth (Earth mass M, radius R). Which expression gives its change in gravitational potential energy? (Option list is shown in the figure below.)",
       "status": "ready",
       "answer": "B: GMm/R - GMm/(R + h)",
       "steps": [
@@ -1475,7 +1475,7 @@
         "approaches sun",
         "table"
       ],
-      "question": "Mercury orbits the Sun in an elliptical orbit. Which row of the table shows how its speed and gravitational potential energy change as it approaches the Sun? (Table is not in the text.)",
+      "question": "Mercury orbits the Sun in an elliptical orbit. Which row of the table shows how its speed and gravitational potential energy change as it approaches the Sun? (Table is shown in the figure below.)",
       "status": "ready",
       "answer": "B: potential energy decreases and speed increases",
       "steps": [
@@ -1533,7 +1533,7 @@
         "table",
         "sun"
       ],
-      "question": "Pluto orbits the Sun in an elliptical orbit and moves away from the Sun. Which row of the table shows how the Sun's gravitational force on Pluto and Pluto's velocity change? (Table is not in the text.)",
+      "question": "Pluto orbits the Sun in an elliptical orbit and moves away from the Sun. Which row of the table shows how the Sun's gravitational force on Pluto and Pluto's velocity change? (Table is shown in the figure below.)",
       "status": "ready",
       "answer": "A: gravitational force decreases and velocity (speed) decreases",
       "steps": [
@@ -1916,7 +1916,7 @@
         "table",
         "earth"
       ],
-      "question": "Due to tidal action the Moon is slowly moving away from the Earth. Which row of the table correctly shows how the gravitational force between the Earth and the Moon, and the Moon's gravitational potential energy, change? (Table is not in the text.)",
+      "question": "Due to tidal action the Moon is slowly moving away from the Earth. Which row of the table correctly shows how the gravitational force between the Earth and the Moon, and the Moon's gravitational potential energy, change? (Table is shown in the figure below.)",
       "status": "ready",
       "answer": "B: force decreases and potential energy increases",
       "steps": [

@@ -214,7 +214,7 @@
         "diameter",
         "tan theta"
       ],
-      "question": "On the banked semicircular end, the go-kart needs no frictional force perpendicular to its motion at speed v. Show that tan(theta) = 2v^2 / (g d), where d is the diameter AB of the curved track. (The formula is not fully reproduced in the text extraction.)",
+      "question": "On the banked semicircular end, the go-kart needs no frictional force perpendicular to its motion at speed v. Show that tan(theta) = 2v^2 / (g d), where d is the diameter AB of the curved track. (The formula is shown in the figure below.)",
       "status": "ready",
       "answer": "tan(theta) = v^2 / (r g) = 2 v^2 / (g d), where d is the diameter AB.",
       "steps": [
@@ -1886,7 +1886,7 @@
         "centripetal force",
         "derive"
       ],
-      "question": "Show that the angle theta of the thread to the vertical for the toy aeroplane in a horizontal circle of radius r at speed v is given by tan(theta) = v^2 / (r g). (The target expression is not reproduced in the text extraction.)",
+      "question": "Show that the angle theta of the thread to the vertical for the toy aeroplane in a horizontal circle of radius r at speed v is given by tan(theta) = v^2 / (r g). (The target expression is shown in the figure below.)",
       "status": "ready",
       "answer": "tan(theta) = v^2 / (r g), equivalently tan(theta) = omega^2 r / g.",
       "steps": [

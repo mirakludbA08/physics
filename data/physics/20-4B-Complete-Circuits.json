@@ -2964,7 +2964,7 @@
         "derive",
         "ohm's law"
       ],
-      "question": "Show that, for the circuit with variable resistor R and cell of e.m.f. E and internal resistance r, the required linear relation holds (the equation is not in the text).",
+      "question": "Show that, for the circuit with variable resistor R and cell of e.m.f. E and internal resistance r, the required linear relation holds (the equation is shown in the figure below).",
       "status": "ready",
       "answer": "R = E / I - r",
       "steps": [

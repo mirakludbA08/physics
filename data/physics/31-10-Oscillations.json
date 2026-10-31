@@ -199,7 +199,7 @@
         "multiple choice",
         "time period"
       ],
-      "question": "A simple pendulum takes 1.00 s to swing from one extreme position to the other. Which expression gives its length? (The option list is not in the text.)",
+      "question": "A simple pendulum takes 1.00 s to swing from one extreme position to the other. Which expression gives its length? (The option list is shown in the figure below.)",
       "status": "ready",
       "answer": "B: (2.00)^2 x 9.81 / (4 pi^2) = 0.99 m",
       "steps": [
@@ -743,7 +743,7 @@
         "0.55 s",
         "0.25 m"
       ],
-      "question": "An object oscillates with simple harmonic motion, period 0.55 s and amplitude 0.25 m. Which option shows a correct calculation of its maximum velocity? (Option letters are not in the text.)",
+      "question": "An object oscillates with simple harmonic motion, period 0.55 s and amplitude 0.25 m. Which option shows a correct calculation of its maximum velocity? (Option letters are shown in the figure below.)",
       "status": "ready",
       "answer": "B: (2 pi / 0.55) x 0.25 = 2.9 m s^-1",
       "steps": [
@@ -991,7 +991,7 @@
         "multiple choice",
         "options"
       ],
-      "question": "The graph shows acceleration against displacement for a mass in SHM. Which expression gives its period? (Graph and options A to D are not in the text.)",
+      "question": "The graph shows acceleration against displacement for a mass in SHM. Which expression gives its period? (Graph and options A to D are shown in the figure below.)",
       "status": "ready",
       "answer": "D: 2 pi x sqrt(0.20 / 3.2) = 1.6 s",
       "steps": [
@@ -1023,7 +1023,7 @@
         "simple harmonic",
         "expression"
       ],
-      "question": "A mass oscillates with SHM at frequency 0.5 Hz and amplitude 0.3 m. Which expression gives its maximum velocity in m s-1? (Option list is not in the text.)",
+      "question": "A mass oscillates with SHM at frequency 0.5 Hz and amplitude 0.3 m. Which expression gives its maximum velocity in m s-1? (Option list is shown in the figure below.)",
       "status": "ready",
       "answer": "C: 2 pi x 0.5 x 0.3 = 0.94 m s^-1",
       "steps": [
@@ -1482,7 +1482,7 @@
         "extreme position",
         "calculate"
       ],
-      "question": "In the Pantheon in Paris a pendulum takes 8.25 s to swing from one extreme position to the other. Which expression gives its length? (Option list is not in the text.)",
+      "question": "In the Pantheon in Paris a pendulum takes 8.25 s to swing from one extreme position to the other. Which expression gives its length? (Option list is shown in the figure below.)",
       "status": "ready",
       "answer": "D: (16.5)^2 x 9.81 / (4 pi^2) = 67.7 m",
       "steps": [
@@ -1734,7 +1734,7 @@
         "pi squared",
         "expression"
       ],
-      "question": "A seconds pendulum has a period of 2 s. Which expression gives its length in metres? (Option list is not in the text.)",
+      "question": "A seconds pendulum has a period of 2 s. Which expression gives its length in metres? (Option list is shown in the figure below.)",
       "status": "ready",
       "answer": "C: 9.81 / pi^2 = 0.99 m",
       "steps": [
@@ -2197,7 +2197,7 @@
         "square root",
         "multiple choice"
       ],
-      "question": "A simple pendulum's frequency is determined, then its length is doubled. By what factor is the frequency multiplied? (Option list is not in the text.)",
+      "question": "A simple pendulum's frequency is determined, then its length is doubled. By what factor is the frequency multiplied? (Option list is shown in the figure below.)",
       "status": "ready",
       "answer": "A: 1 / sqrt(2) = 0.71",
       "steps": [
@@ -2281,7 +2281,7 @@
         "0.65 s",
         "0.12 m"
       ],
-      "question": "An object oscillates with SHM, period 0.65 s and amplitude 0.12 m. Which expression gives its maximum velocity? (Option list is not in the text.)",
+      "question": "An object oscillates with SHM, period 0.65 s and amplitude 0.12 m. Which expression gives its maximum velocity? (Option list is shown in the figure below.)",
       "status": "ready",
       "answer": "B: (2 pi / 0.65) x 0.12 = 1.2 m s^-1",
       "steps": [
@@ -2457,7 +2457,7 @@
         "multiple choice",
         "new frequency"
       ],
-      "question": "A mass hung on a spring oscillates with frequency f. The mass is doubled. What is the new frequency? (Option list is not in the text.)",
+      "question": "A mass hung on a spring oscillates with frequency f. The mass is doubled. What is the new frequency? (Option list is shown in the figure below.)",
       "status": "ready",
       "answer": "B: f / sqrt(2) = 0.71 f",
       "steps": [
@@ -2514,7 +2514,7 @@
         "10 cm s-1",
         "cm"
       ],
-      "question": "A mass in SHM has angular velocity 2 rad s-1 and maximum velocity 10 cm s-1. Which expression gives the amplitude in cm? (Option list is not in the text.)",
+      "question": "A mass in SHM has angular velocity 2 rad s-1 and maximum velocity 10 cm s-1. Which expression gives the amplitude in cm? (Option list is shown in the figure below.)",
       "status": "ready",
       "answer": "B: A = 10 / 2 = 5 cm",
       "steps": [

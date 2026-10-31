@@ -106,7 +106,7 @@
         "VSEPR",
         "nitrogen trichloride"
       ],
-      "question": "Complete the table to predict the shape and Cl-N-Cl bond angle of nitrogen trichloride. The table is not in the extracted text.",
+      "question": "Complete the table to predict the shape and Cl-N-Cl bond angle of nitrogen trichloride. The table is shown in the figure below.",
       "status": "ready",
       "answer": "3 bonding pairs; 1 lone pair; trigonal pyramidal; Cl-N-Cl about 107 degrees",
       "steps": [
@@ -194,7 +194,7 @@
         "VSEPR",
         "shapes of ions"
       ],
-      "question": "Which species is not tetrahedral? The answer options are missing from the extracted text.",
+      "question": "Which species is not tetrahedral? The answer options are shown in the figure below.",
       "status": "ready",
       "answer": "C: ICl4^-",
       "steps": [
@@ -313,7 +313,7 @@
         "trigonal bipyramidal",
         "table"
       ],
-      "question": "Complete the table for a PCl5 molecule. The table is not in the extracted text.",
+      "question": "Complete the table for a PCl5 molecule. The table is shown in the figure below.",
       "status": "ready",
       "answer": "5 bonding pairs; 0 lone pairs; trigonal bipyramidal; Cl-P-Cl angles 90 degrees and 120 degrees",
       "steps": [
@@ -514,7 +514,7 @@
         "trigonal pyramidal",
         "shape table"
       ],
-      "question": "Complete the table for a molecule of NCl3 (molecular structure, shape and bond angle). The table is not in the extracted text.",
+      "question": "Complete the table for a molecule of NCl3 (molecular structure, shape and bond angle). The table is shown in the figure below.",
       "status": "ready",
       "answer": "3 bond pairs; 1 lone pair; Cl-N-Cl about 107 degrees; trigonal pyramidal",
       "steps": [
@@ -886,7 +886,7 @@
         "weighted mean",
         "Ar"
       ],
-      "question": "Calculate the relative atomic mass of germanium from the mass spectrum shown. The spectrum is not in the extracted text.",
+      "question": "Calculate the relative atomic mass of germanium from the mass spectrum shown. The spectrum is shown in the figure below.",
       "status": "ready",
       "answer": "72.7",
       "steps": [
@@ -1307,7 +1307,7 @@
         "ion formulae",
         "table"
       ],
-      "question": "Three peaks lie between m/z 101 and 105 in the mass spectrum of PCl3. Complete the table giving the ions responsible. The table is not in the extracted text.",
+      "question": "Three peaks lie between m/z 101 and 105 in the mass spectrum of PCl3. Complete the table giving the ions responsible. The table is shown in the figure below.",
       "status": "ready",
       "answer": "m/z 101: 31P 35Cl 35Cl (+); m/z 103: 31P 35Cl 37Cl (+); m/z 105: 31P 37Cl 37Cl (+)",
       "steps": [
@@ -1339,7 +1339,7 @@
         "PCl3 mass spectrum",
         "relative peak heights"
       ],
-      "question": "Show that the relative peak heights in the table are consistent with a 35Cl : 37Cl ratio of 3 : 1. The table values are not in the extracted text.",
+      "question": "Show that the relative peak heights in the table are consistent with a 35Cl : 37Cl ratio of 3 : 1. The table values are shown in the figure below.",
       "status": "ready",
       "answer": "Probabilities 9/16 : 6/16 : 1/16 = 9 : 6 : 1, matching the peak heights",
       "steps": [
@@ -1490,7 +1490,7 @@
         "electron repulsion",
         "paired electrons"
       ],
-      "question": "Predict a value for the first ionisation energy of oxygen and justify it. The graph of first ionisation energies is not in the extracted text.",
+      "question": "Predict a value for the first ionisation energy of oxygen and justify it. The graph of first ionisation energies is shown in the figure below.",
       "status": "ready",
       "answer": "About 1300 kJ mol^-1 (any value between 1086 and 1402), lower than nitrogen",
       "steps": [
@@ -1685,7 +1685,7 @@
         "molecular shapes",
         "options"
       ],
-      "question": "What are the shapes of the AlCl3 and PH3 molecules? The answer options are missing from the extracted text.",
+      "question": "What are the shapes of the AlCl3 and PH3 molecules? The answer options are shown in the figure below.",
       "status": "ready",
       "answer": "D: AlCl3 trigonal planar, PH3 pyramidal",
       "steps": [
@@ -2176,7 +2176,7 @@
         "table",
         "bond angles"
       ],
-      "question": "Complete the table showing the shapes of S2F10 and SF4 and their F-S-F bond angles. The table is not in the extracted text.",
+      "question": "Complete the table showing the shapes of S2F10 and SF4 and their F-S-F bond angles. The table is shown in the figure below.",
       "status": "ready",
       "answer": "S2F10: octahedral around each S, F-S-F 90 degrees; SF4: see-saw, F-S-F about 90 degrees and about 120 degrees (both slightly less) with axial F-S-F slightly less than 180 degrees",
       "steps": [

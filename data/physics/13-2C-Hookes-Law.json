@@ -197,7 +197,7 @@
         "N cm-1",
         "hookes law"
       ],
-      "question": "A spring compressed by 50 N has length 12.0 cm, and by 70 N has length 7.1 cm. Which expression gives its stiffness in N cm^-1? The four options A to D are not in the extracted text.",
+      "question": "A spring compressed by 50 N has length 12.0 cm, and by 70 N has length 7.1 cm. Which expression gives its stiffness in N cm^-1? The four options A to D are shown in the figure below.",
       "status": "ready",
       "answer": "B: (70 - 50) / (12.0 - 7.1)",
       "steps": [
@@ -226,7 +226,7 @@
         "identical springs",
         "N mm-1"
       ],
-      "question": "Two identical springs are in series with a 45.0 N force applied, and they extend a total of 15 mm. Which expression gives the stiffness of each spring in N mm^-1? The four options A to D are not in the extracted text.",
+      "question": "Two identical springs are in series with a 45.0 N force applied, and they extend a total of 15 mm. Which expression gives the stiffness of each spring in N mm^-1? The four options A to D are shown in the figure below.",
       "status": "ready",
       "answer": "D: 2 x 45 / 15 (6.0 N mm^-1)",
       "steps": [
@@ -616,7 +616,7 @@
         "graph",
         "hookes law"
       ],
-      "question": "A spring of original length p is stretched to length q by an increasing force up to R. Using the graph, which expression gives its stiffness? The graph and options are not in the extracted text.",
+      "question": "A spring of original length p is stretched to length q by an increasing force up to R. Using the graph, which expression gives its stiffness? The graph and options are shown in the figure below.",
       "status": "ready",
       "answer": "D: R / (q - p)",
       "steps": [
@@ -647,7 +647,7 @@
         "hookes law",
         "scaling"
       ],
-      "question": "A force F stretches a spring of stiffness k by x. A force 2F is applied to a second spring of stiffness 3k. Which expression gives the extension of the second spring? The options are not in the extracted text.",
+      "question": "A force F stretches a spring of stiffness k by x. A force 2F is applied to a second spring of stiffness 3k. Which expression gives the extension of the second spring? The options are shown in the figure below.",
       "status": "ready",
       "answer": "A: (2/3) delta x",
       "steps": [

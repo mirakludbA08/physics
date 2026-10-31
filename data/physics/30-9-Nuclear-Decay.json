@@ -19,7 +19,7 @@
         "source",
         "absorption"
       ],
-      "question": "A detector measures the count rate from a source through different absorbers. Choose which radiation the source emits from options A to D (the table of results is missing from the text).",
+      "question": "A detector measures the count rate from a source through different absorbers. Choose which radiation the source emits from options A to D (the table of results is shown in the figure below).",
       "status": "ready",
       "answer": "D: beta radiation and gamma radiation.",
       "steps": [
@@ -543,7 +543,7 @@
         "decay constant",
         "sample"
       ],
-      "question": "Polonium-218 has half-life 185 s and a sample contains 2.75e15 unstable nuclei. Choose the expression that gives the activity in Bq (options not present in the extracted text).",
+      "question": "Polonium-218 has half-life 185 s and a sample contains 2.75e15 unstable nuclei. Choose the expression that gives the activity in Bq (options shown in the figure below).",
       "status": "ready",
       "answer": "C: (ln 2 / 185) x 2.75 x 10^15 (about 1.0 x 10^13 Bq).",
       "steps": [
@@ -729,7 +729,7 @@
         "nuclear mass",
         "energy"
       ],
-      "question": "Calculate the binding energy per nucleon, in MeV, for a nucleus whose symbol is missing from the extracted text.",
+      "question": "Calculate the binding energy per nucleon, in MeV, for a nucleus whose symbol is shown in the figure below.",
       "status": "ready",
       "answer": "7.38 MeV per nucleon (about 7.4 MeV).",
       "steps": [
@@ -1776,7 +1776,7 @@
         "stable isotope",
         "decay curve"
       ],
-      "question": "Bismuth decays to form a stable isotope of thallium. Which graph shows how the number N of thallium atoms in a sample varies with time t? (Graphs A to D are missing from the text.)",
+      "question": "Bismuth decays to form a stable isotope of thallium. Which graph shows how the number N of thallium atoms in a sample varies with time t? (Graphs A to D are shown in the figure below.)",
       "status": "ready",
       "answer": "D.",
       "steps": [
@@ -2649,7 +2649,7 @@
         "expression",
         "E = mc^2"
       ],
-      "question": "When a nucleus of americium emits an alpha particle, 5.64 MeV is released. Which expression gives the decrease in mass in kg? (Options are missing from the extracted text.)",
+      "question": "When a nucleus of americium emits an alpha particle, 5.64 MeV is released. Which expression gives the decrease in mass in kg? (Options are shown in the figure below.)",
       "status": "ready",
       "answer": "A: (5.64 x 1.60 x 10^-13) / (3.0 x 10^8)^2.",
       "steps": [
@@ -3664,7 +3664,7 @@
         "22 counts",
         "54 counts"
       ],
-      "question": "Background is 22 counts per minute. A detector at 25 cm from a gamma source records 54 counts per minute, then is moved to 50 cm. Which is the expected number of counts per minute? (Options are missing from the extracted text.)",
+      "question": "Background is 22 counts per minute. A detector at 25 cm from a gamma source records 54 counts per minute, then is moved to 50 cm. Which is the expected number of counts per minute? (Options are shown in the figure below.)",
       "status": "ready",
       "answer": "B: (54 - 22) / 4 + 22 = 30 counts per minute.",
       "steps": [

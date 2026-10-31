@@ -507,7 +507,7 @@
         "proton donor",
         "acid pairs"
       ],
-      "question": "When ethanoic acid and chloroethanoic acid are mixed, an equilibrium is set up. Which species are the Bronsted-Lowry acids? The answer options are missing from the text.",
+      "question": "When ethanoic acid and chloroethanoic acid are mixed, an equilibrium is set up. Which species are the Bronsted-Lowry acids? The answer options are shown in the figure below.",
       "status": "ready",
       "answer": "C: CH2ClCOOH and CH3COOH2+",
       "steps": [
@@ -1162,7 +1162,7 @@
         "reaction",
         "options missing"
       ],
-      "question": "Which is the acid-conjugate base pair in the reaction between ethanoic acid and chloroethanoic acid? The answer options are missing from the text.",
+      "question": "Which is the acid-conjugate base pair in the reaction between ethanoic acid and chloroethanoic acid? The answer options are shown in the figure below.",
       "status": "ready",
       "answer": "C: acid CH2ClCOOH and conjugate base CH2ClCOO-",
       "steps": [
@@ -1712,7 +1712,7 @@
         "end-point",
         "options missing"
       ],
-      "question": "Which indicator is most suitable for the titration of ammonia solution with hydrochloric acid? The answer options are missing from the text.",
+      "question": "Which indicator is most suitable for the titration of ammonia solution with hydrochloric acid? The answer options are shown in the figure below.",
       "status": "ready",
       "answer": "B: bromocresol green (pKin = 4.7)",
       "steps": [
@@ -1796,7 +1796,7 @@
         "dissociation of water",
         "options missing"
       ],
-      "question": "Pure water has pH 7.00 at 25 C and pH 6.14 at 100 C. What can be deduced? The answer options are missing from the text.",
+      "question": "Pure water has pH 7.00 at 25 C and pH 6.14 at 100 C. What can be deduced? The answer options are shown in the figure below.",
       "status": "ready",
       "answer": "A: endothermic; hydrogen ion concentration higher at 100 C than at 25 C",
       "steps": [
@@ -1876,7 +1876,7 @@
         "amphoteric",
         "options missing"
       ],
-      "question": "In which equation is H2O acting only as a Bronsted-Lowry acid? The answer options are missing from the text.",
+      "question": "In which equation is H2O acting only as a Bronsted-Lowry acid? The answer options are shown in the figure below.",
       "status": "ready",
       "answer": "C: NH3 + H2O -> NH4+ + OH-",
       "steps": [
@@ -2276,7 +2276,7 @@
         "bronsted-lowry",
         "options missing"
       ],
-      "question": "Which is not a conjugate acid-base pair? The answer options are missing from the text.",
+      "question": "Which is not a conjugate acid-base pair? The answer options are shown in the figure below.",
       "status": "ready",
       "answer": "C: H2CO3, CO3^2-",
       "steps": [
@@ -2517,7 +2517,7 @@
         "weak acid",
         "distilled water"
       ],
-      "question": "A 1 mol dm-3 ethanoic acid solution is diluted with water. What happens to its degree of dissociation and its pH? The answer options are missing from the text.",
+      "question": "A 1 mol dm-3 ethanoic acid solution is diluted with water. What happens to its degree of dissociation and its pH? The answer options are shown in the figure below.",
       "status": "ready",
       "answer": "A: degree of dissociation increases and pH increases",
       "steps": [
@@ -2545,7 +2545,7 @@
         "mixture",
         "acid-base pairs"
       ],
-      "question": "Equal amounts of ethanoic acid (pKa 4.8) and methanoic acid (pKa 3.8) are mixed. What are the conjugate acid-base pairs? The answer options are missing from the text.",
+      "question": "Equal amounts of ethanoic acid (pKa 4.8) and methanoic acid (pKa 3.8) are mixed. What are the conjugate acid-base pairs? The answer options are shown in the figure below.",
       "status": "ready",
       "answer": "A: acid 1 HCOOH, base 1 HCOO-, acid 2 CH3COOH2+, base 2 CH3COOH",
       "steps": [
@@ -2794,7 +2794,7 @@
         "acid base reaction",
         "options missing"
       ],
-      "question": "Ethanoic acid reacts with the hydrogensulfite ion HSO3-. Which is a correct acid conjugate-base pair? The answer options are missing from the text.",
+      "question": "Ethanoic acid reacts with the hydrogensulfite ion HSO3-. Which is a correct acid conjugate-base pair? The answer options are shown in the figure below.",
       "status": "ready",
       "answer": "C: CH3COOH (acid) and CH3COO- (conjugate base)",
       "steps": [
@@ -2958,7 +2958,7 @@
         "ka",
         "weak acid approximation"
       ],
-      "question": "Discuss differences between measured and calculated pH for 0.050 mol dm-3 CH2ClCOOH (Ka 1.4 x 10^-3) and CHCl2COOH (Ka 4.5 x 10^-2), using the assumptions [H+] = [A-] and [HA] equilibrium = [HA] initial. The measured pH values are missing from the text.",
+      "question": "Discuss differences between measured and calculated pH for 0.050 mol dm-3 CH2ClCOOH (Ka 1.4 x 10^-3) and CHCl2COOH (Ka 4.5 x 10^-2), using the assumptions [H+] = [A-] and [HA] equilibrium = [HA] initial. The measured pH values are shown in the figure below.",
       "status": "ready",
       "answer": "Calculated pH uses [H+] = sqrt(Ka x [HA]); the measured pH is higher because [HA] at equilibrium is less than 0.050 (the approximation fails, particularly for CHCl2COOH which is about 60% dissociated)",
       "steps": [
@@ -3213,7 +3213,7 @@
         "acid-base equation",
         "options missing"
       ],
-      "question": "What is the conjugate acid of a species shown in the acid-base equations? The equations and answer options are missing from the text.",
+      "question": "What is the conjugate acid of a species shown in the acid-base equations? The equations and answer options are shown in the figure below.",
       "status": "ready",
       "answer": "C: H2PO4-",
       "steps": [
@@ -3267,7 +3267,7 @@
         "hydrogencarbonate",
         "options missing"
       ],
-      "question": "Which reaction is most important in buffering the decrease in pH caused by carbon dioxide accumulation during exercise? The options are missing from the text.",
+      "question": "Which reaction is most important in buffering the decrease in pH caused by carbon dioxide accumulation during exercise? The options are shown in the figure below.",
       "status": "ready",
       "answer": "B: HCO3- + H+ -> H2CO3",
       "steps": [
@@ -3531,7 +3531,7 @@
         "equilibrium",
         "options missing"
       ],
-      "question": "Which species act as a Bronsted-Lowry acid in the equilibrium when ammonia dissolves in water? The answer options are missing from the text.",
+      "question": "Which species act as a Bronsted-Lowry acid in the equilibrium when ammonia dissolves in water? The answer options are shown in the figure below.",
       "status": "ready",
       "answer": "D: NH4+ and H2O",
       "steps": [

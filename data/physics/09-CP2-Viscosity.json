@@ -196,7 +196,7 @@
         "radius",
         "terminal velocity"
       ],
-      "question": "Which quantity is represented by the first symbol in the equation for viscosity? The symbol is not legible in the extracted text.",
+      "question": "Which quantity is represented by the first symbol in the equation for viscosity? The symbol is shown in the figure below.",
       "status": "ready",
       "answer": "The weight of the sphere",
       "steps": [
@@ -226,7 +226,7 @@
         "equation",
         "quantity"
       ],
-      "question": "Which quantity is represented by the second symbol in the viscosity equation? The symbol is not legible in the extracted text.",
+      "question": "Which quantity is represented by the second symbol in the viscosity equation? The symbol is shown in the figure below.",
       "status": "ready",
       "answer": "The upthrust on the sphere (the weight of oil it displaces)",
       "steps": [
@@ -256,7 +256,7 @@
         "quantity",
         "terminal velocity"
       ],
-      "question": "Which quantity is represented by the expression 6 pi r v in the viscosity equation? The symbol is not legible in the extracted text.",
+      "question": "Which quantity is represented by the expression 6 pi r v in the viscosity equation? The symbol is shown in the figure below.",
       "status": "ready",
       "answer": "The viscous drag force on the sphere (Stokes drag)",
       "steps": [
@@ -316,7 +316,7 @@
         "points V W X Y Z",
         "constant velocity section"
       ],
-      "question": "A student releases a ball bearing at point V and times its fall through a measured distance in oil. Which two points should he use? A V and Y; B W and Y; C X and Y; D W and Z. The diagram with the points is not in the extracted text.",
+      "question": "A student releases a ball bearing at point V and times its fall through a measured distance in oil. Which two points should he use? A V and Y; B W and Y; C X and Y; D W and Z. The diagram with the points is shown in the figure below.",
       "status": "ready",
       "answer": "C: X and Y",
       "steps": [
@@ -433,7 +433,7 @@
         "graph",
         "terminal velocity"
       ],
-      "question": "Deduce from the graph of v against d^2 whether the flow of liquid around the spheres was laminar. The graph is not in the extracted text.",
+      "question": "Deduce from the graph of v against d^2 whether the flow of liquid around the spheres was laminar. The graph is shown in the figure below.",
       "status": "ready",
       "answer": "Yes: the graph is a straight line through the origin, so v is proportional to d^2 as Stokes' law (laminar flow) predicts.",
       "steps": [
@@ -465,7 +465,7 @@
         "Stokes law",
         "k value"
       ],
-      "question": "Using the student's graph of v against d^2 and v = k d^2, determine the value of k. The graph is not in the extracted text.",
+      "question": "Using the student's graph of v against d^2 and v = k d^2, determine the value of k. The graph is shown in the figure below.",
       "status": "ready",
       "answer": "k = 6.0 m^-1 s^-1 (gradient of the line)",
       "steps": [
@@ -581,7 +581,7 @@
         "table",
         "forces"
       ],
-      "question": "A sphere falls through a viscous liquid. Which row of the table describes the upthrust and the viscous drag as it accelerates downwards? The table is not in the extracted text.",
+      "question": "A sphere falls through a viscous liquid. Which row of the table describes the upthrust and the viscous drag as it accelerates downwards? The table is shown in the figure below.",
       "status": "ready",
       "answer": "B: upthrust constant, viscous drag increasing",
       "steps": [
@@ -640,7 +640,7 @@
         "terminal velocity",
         "viscous drag"
       ],
-      "question": "Explain the shape of the graph obtained by the student for the ball-bearing falling through a liquid. The graph is not in the extracted text.",
+      "question": "Explain the shape of the graph obtained by the student for the ball-bearing falling through a liquid. The graph is shown in the figure below.",
       "status": "ready",
       "answer": "Gradient (velocity) starts at zero and increases, then becomes constant: the ball accelerates at first, and as the viscous drag rises the acceleration falls to zero, so it falls at constant terminal velocity (a straight line).",
       "steps": [

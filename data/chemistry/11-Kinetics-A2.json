@@ -398,7 +398,7 @@
         "dm3 mol-1 s-1",
         "rate equation"
       ],
-      "question": "For the formation of iodopropanone (propanone with iodine in acid), which statement is true? Options: A units of k are dm3 mol-1 s-1, B first order overall, C units of rate are dm3 mol-1 s-1, D doubling both concentrations quadruples the rate. The rate equation itself is not in the extracted text.",
+      "question": "For the formation of iodopropanone (propanone with iodine in acid), which statement is true? Options: A units of k are dm3 mol-1 s-1, B first order overall, C units of rate are dm3 mol-1 s-1, D doubling both concentrations quadruples the rate. The rate equation itself is shown in the figure below.",
       "status": "ready",
       "answer": "A: the units of k are dm3 mol-1 s-1",
       "steps": [
@@ -484,7 +484,7 @@
         "ln k against 1/T",
         "gas constant R"
       ],
-      "question": "A graph of ln k against 1/T is plotted for a reaction. Which expression gives the activation energy Ea? Options A and C contain a minus sign and B and D a plus sign; the minus signs are garbled in the extracted text.",
+      "question": "A graph of ln k against 1/T is plotted for a reaction. Which expression gives the activation energy Ea? Options A and C contain a minus sign and B and D a plus sign; the minus signs are shown in the figure below.",
       "status": "ready",
       "answer": "C: - gradient x R",
       "steps": [
@@ -737,7 +737,7 @@
         "mechanism",
         "tertiary"
       ],
-      "question": "2-bromo-2-methylbutane is hydrolysed with NaOH(aq). Which suggestion about the mechanism is correct? The four options are not in the extracted text.",
+      "question": "2-bromo-2-methylbutane is hydrolysed with NaOH(aq). Which suggestion about the mechanism is correct? The four options are shown in the figure below.",
       "status": "ready",
       "answer": "D: SN1, two steps",
       "steps": [
@@ -797,7 +797,7 @@
         "mechanism",
         "enol"
       ],
-      "question": "The reaction CH3COCH3 + I2 -> CH3COCH2I + HI has rate = k[CH3COCH3][H+]. Which is a possible mechanism? Mechanism options are in diagrams not in the extracted text.",
+      "question": "The reaction CH3COCH3 + I2 -> CH3COCH2I + HI has rate = k[CH3COCH3][H+]. Which is a possible mechanism? Mechanism options are in diagrams shown in the figure below.",
       "status": "ready",
       "answer": "A",
       "steps": [
@@ -1031,7 +1031,7 @@
         "overall order",
         "2NO + 2H2"
       ],
-      "question": "For 2NO + 2H2 -> N2 + 2H2O, which statement about the mechanism is correct? The steps are shown in a diagram not in the extracted text; options A-D are: step 3 is rate determining with overall order 2 / step 3 with order 4 / step 2 with order 2 / step 2 with order 3.",
+      "question": "For 2NO + 2H2 -> N2 + 2H2O, which statement about the mechanism is correct? The steps are shown in a diagram shown in the figure below; options A-D are: step 3 is rate determining with overall order 2 / step 3 with order 4 / step 2 with order 2 / step 2 with order 3.",
       "status": "ready",
       "answer": "D: step 2 is the rate-determining step and the overall order is 3",
       "steps": [
@@ -1109,7 +1109,7 @@
         "straight line",
         "ammonia decomposition"
       ],
-      "question": "Which of the graphs represents a zero order reaction? The graph options are not in the extracted text.",
+      "question": "Which of the graphs represents a zero order reaction? The graph options are shown in the figure below.",
       "status": "ready",
       "answer": "A: rate against [NH3], a horizontal line",
       "steps": [
@@ -1474,7 +1474,7 @@
         "graph",
         "four graphs"
       ],
-      "question": "Which of four graphs shows rate plotted against concentration for a zero order reaction? Graphs 1-4 are in a figure not in the extracted text.",
+      "question": "Which of four graphs shows rate plotted against concentration for a zero order reaction? Graphs 1-4 are in a figure shown in the figure below.",
       "status": "ready",
       "answer": "C: Graph 3",
       "steps": [
@@ -1500,7 +1500,7 @@
         "straight line through origin",
         "graph"
       ],
-      "question": "Which of four graphs shows rate plotted against concentration for a first order reaction? Graphs 1-4 are in a figure not in the extracted text.",
+      "question": "Which of four graphs shows rate plotted against concentration for a first order reaction? Graphs 1-4 are in a figure shown in the figure below.",
       "status": "ready",
       "answer": "D: Graph 4",
       "steps": [
@@ -1669,7 +1669,7 @@
         "hydrogen",
         "graph"
       ],
-      "question": "Which graph is correct for this reaction? The graphs are not in the extracted text.",
+      "question": "Which graph is correct for this reaction? The graphs are shown in the figure below.",
       "status": "ready",
       "answer": "D: rate against [NO]^2, a straight line through the origin",
       "steps": [
@@ -1724,7 +1724,7 @@
         "order",
         "pair"
       ],
-      "question": "Two equations for the reaction of nitrogen monoxide and oxygen are shown. Which pair of rate equations could be correct? The equation options are not in the extracted text.",
+      "question": "Two equations for the reaction of nitrogen monoxide and oxygen are shown. Which pair of rate equations could be correct? The equation options are shown in the figure below.",
       "status": "ready",
       "answer": "A",
       "steps": [
@@ -2141,7 +2141,7 @@
         "steps",
         "rate equation"
       ],
-      "question": "The first four steps of the mechanism are shown in a diagram not in the extracted text. Which is the rate-determining step? Options: A Step 1, B Step 2, C Step 3, D Step 4.",
+      "question": "The first four steps of the mechanism are shown in a diagram shown in the figure below. Which is the rate-determining step? Options: A Step 1, B Step 2, C Step 3, D Step 4.",
       "status": "ready",
       "answer": "C: Step 3",
       "steps": [
@@ -2980,7 +2980,7 @@
         "rate determining step",
         "hydrogen peroxide"
       ],
-      "question": "Two possible mechanisms are proposed by students. Explain whether or not they are consistent with the reaction being first order. The mechanism diagrams are not in the extracted text.",
+      "question": "Two possible mechanisms are proposed by students. Explain whether or not they are consistent with the reaction being first order. The mechanism diagrams are shown in the figure below.",
       "status": "ready",
       "answer": "Mechanism 2 is consistent with first order; Mechanism 1 is not",
       "steps": [

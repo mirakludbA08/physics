@@ -16,7 +16,7 @@
         "ionisation number",
         "log values"
       ],
-      "question": "Complete the table of successive ionisation energies of nitrogen (the table values are not included in the extracted text).",
+      "question": "Complete the table of successive ionisation energies of nitrogen (the table values are shown in the figure below).",
       "status": "ready",
       "answer": "log (ionisation energy): 6th = 4.73 and 7th = 4.81",
       "steps": [
@@ -45,7 +45,7 @@
         "graph",
         "plot"
       ],
-      "question": "Plot a graph of log(ionisation energy) against ionisation number for nitrogen (the data are not included in the extracted text).",
+      "question": "Plot a graph of log(ionisation energy) against ionisation number for nitrogen (the data are shown in the figure below).",
       "status": "ready",
       "answer": "Graph of log (ionisation energy) against ionisation number: seven points from 3.15 at 1 to 4.81 at 7, with a large jump between the 5th and 6th points",
       "steps": [
@@ -105,7 +105,7 @@
         "shells",
         "log ionisation energy"
       ],
-      "question": "Explain what can be deduced from the graph about the electronic structure of nitrogen. (The graph is not included in the extracted text.)",
+      "question": "Explain what can be deduced from the graph about the electronic structure of nitrogen. (The graph is shown in the figure below.)",
       "status": "ready",
       "answer": "Nitrogen has 5 electrons in its outer shell (the second shell) and 2 in the inner shell, so its electronic structure is 2,5",
       "steps": [
@@ -382,7 +382,7 @@
         "isotope ratio",
         "fluorine 19"
       ],
-      "question": "Complete the mass spectrum to show the peaks expected for the molecular ion ClF3+. Fluorine has one isotope, 19F. (The spectrum grid is not included in the extracted text.)",
+      "question": "Complete the mass spectrum to show the peaks expected for the molecular ion ClF3+. Fluorine has one isotope, 19F. (The spectrum grid is shown in the figure below.)",
       "status": "ready",
       "answer": "Two peaks: m/z 92 (35Cl19F3+) and m/z 94 (37Cl19F3+), in an approximate ratio of 3 : 1.",
       "steps": [
@@ -520,7 +520,7 @@
         "non-polar molecule",
         "symmetry"
       ],
-      "question": "Which is correct for tetrafluoromethane (CF4)? (The options are not included in the extracted text.)",
+      "question": "Which is correct for tetrafluoromethane (CF4)? (The options are shown in the figure below.)",
       "status": "ready",
       "answer": "C-F bonds are polar, but the tetrahedral CF4 molecule is non-polar because its bond dipoles cancel.",
       "steps": [
@@ -548,7 +548,7 @@
         "polar bond",
         "HCl"
       ],
-      "question": "Which diagram best represents the electron density in a molecule of hydrogen chloride? (The diagram options are not included in the extracted text.)",
+      "question": "Which diagram best represents the electron density in a molecule of hydrogen chloride? (The diagram options are shown in the figure below.)",
       "status": "ready",
       "answer": "D: overlapping clouds with the larger Cl cloud overlapping the smaller H cloud",
       "steps": [
@@ -604,7 +604,7 @@
         "non-polar",
         "table"
       ],
-      "question": "Which row gives the correct polarities of the S-F bond and the SF6 molecule? (The table of rows is not included in the extracted text.)",
+      "question": "Which row gives the correct polarities of the S-F bond and the SF6 molecule? (The table of rows is shown in the figure below.)",
       "status": "ready",
       "answer": "B: S-F bond polar, SF6 molecule non-polar",
       "steps": [
@@ -685,7 +685,7 @@
         "two decimal places",
         "isotope abundances"
       ],
-      "question": "Calculate the relative atomic mass of silicon to two decimal places using the mass spectrum data (the data are shown in a figure not included in the extracted text).",
+      "question": "Calculate the relative atomic mass of silicon to two decimal places using the mass spectrum data (the data are shown in a figure shown in the figure below).",
       "status": "ready",
       "answer": "28.11",
       "steps": [
@@ -744,7 +744,7 @@
         "table",
         "mass numbers"
       ],
-      "question": "Complete the table to show the number of protons and neutrons in each isotope of silicon (the table and isotope mass numbers are not included in the extracted text).",
+      "question": "Complete the table to show the number of protons and neutrons in each isotope of silicon (the table and isotope mass numbers are shown in the figure below).",
       "status": "ready",
       "answer": "28Si: 14 protons, 14 neutrons; 29Si: 14 protons, 15 neutrons; 30Si: 14 protons, 16 neutrons",
       "steps": [
@@ -987,7 +987,7 @@
         "bridging chlorine",
         "structure"
       ],
-      "question": "At 180 C, aluminium chloride exists as Al2Cl6. What is the structure of Al2Cl6? (The options are not included in the extracted text.)",
+      "question": "At 180 C, aluminium chloride exists as Al2Cl6. What is the structure of Al2Cl6? (The options are shown in the figure below.)",
       "status": "ready",
       "answer": "Two AlCl3 units joined by dative covalent bonds, forming a dimer with two bridging Cl atoms, so each Al is surrounded tetrahedrally by four Cl atoms (option C: the dative-bond arrows point from the bridging Cl atoms towards the Al atoms).",
       "steps": [
@@ -1042,7 +1042,7 @@
         "electrons",
         "table"
       ],
-      "question": "Complete the table of subatomic particles in the two isotopes of bromine, 79Br and 81Br (table not included in the extracted text).",
+      "question": "Complete the table of subatomic particles in the two isotopes of bromine, 79Br and 81Br (table shown in the figure below).",
       "status": "ready",
       "answer": "79Br: 35 protons, 44 neutrons, 35 electrons; 81Br: 35 protons, 46 neutrons, 35 electrons (for neutral atoms)",
       "steps": [
@@ -1126,7 +1126,7 @@
         "peak heights",
         "1 2 1"
       ],
-      "question": "On the mass spectrum grid, draw the peaks for the bromine molecular ions, showing relative peak heights. The bromine isotopes in this sample have the same relative abundance. (The grid is not included in the extracted text.)",
+      "question": "On the mass spectrum grid, draw the peaks for the bromine molecular ions, showing relative peak heights. The bromine isotopes in this sample have the same relative abundance. (The grid is shown in the figure below.)",
       "status": "ready",
       "answer": "Three peaks at m/z 158 (79Br2+), 160 (79Br81Br+) and 162 (81Br2+), with relative heights 1 : 2 : 1.",
       "steps": [
@@ -1156,7 +1156,7 @@
         "isotopes",
         "Br2"
       ],
-      "question": "Calculate the relative molecular mass of a different bromine sample, given the percentage abundances of its isotopes (the abundance data are not included in the extracted text), to two decimal places.",
+      "question": "Calculate the relative molecular mass of a different bromine sample, given the percentage abundances of its isotopes (the abundance data are shown in the figure below), to two decimal places.",
       "status": "ready",
       "answer": "159.74",
       "steps": [
@@ -1215,7 +1215,7 @@
         "diagram",
         "NaCl"
       ],
-      "question": "Which diagram best represents the electron density map of sodium chloride? (The diagram options are not included in the extracted text.)",
+      "question": "Which diagram best represents the electron density map of sodium chloride? (The diagram options are shown in the figure below.)",
       "status": "ready",
       "answer": "A: two separate sets of contours with no shared contour, the Cl- cloud larger than the Na+ cloud",
       "steps": [
@@ -1346,7 +1346,7 @@
         "dative covalent",
         "bonding types"
       ],
-      "question": "What types of bonding are present in the compound ammonium chloride, NH4Cl? (The options are not included in the extracted text.)",
+      "question": "What types of bonding are present in the compound ammonium chloride, NH4Cl? (The options are shown in the figure below.)",
       "status": "ready",
       "answer": "Ionic bonding between NH4+ and Cl-, plus covalent and dative covalent bonds within the NH4+ ion.",
       "steps": [
@@ -1400,7 +1400,7 @@
         "non-polar molecule",
         "bond polarity"
       ],
-      "question": "Which describes the polarity of the C-Cl bond and the polarity of the CCl4 molecule? (The options are not included in the extracted text.)",
+      "question": "Which describes the polarity of the C-Cl bond and the polarity of the CCl4 molecule? (The options are shown in the figure below.)",
       "status": "ready",
       "answer": "The C-Cl bond is polar, but the tetrahedral CCl4 molecule is non-polar because the bond dipoles cancel.",
       "steps": [
@@ -1513,7 +1513,7 @@
         "covalent",
         "polarisation"
       ],
-      "question": "Explain the difference in bonding between barium chloride and beryllium chloride, using the electronegativity values shown. (The electronegativity values are not included in the extracted text.)",
+      "question": "Explain the difference in bonding between barium chloride and beryllium chloride, using the electronegativity values shown. (The electronegativity values are shown in the figure below.)",
       "status": "ready",
       "answer": "BaCl2 is ionic (electronegativity difference 2.1), whereas BeCl2 has a smaller difference (1.5) and so has polar covalent character",
       "steps": [
@@ -1571,7 +1571,7 @@
         "covalent bonds",
         "carbon"
       ],
-      "question": "Complete the dot-and-cross diagram by adding all the electrons in the outer shells of the five carbon atoms in a diamond tetrahedral unit (the diagram is not included in the extracted text).",
+      "question": "Complete the dot-and-cross diagram by adding all the electrons in the outer shells of the five carbon atoms in a diamond tetrahedral unit (the diagram is shown in the figure below).",
       "status": "ready",
       "answer": "The central C shares one electron pair with each of four outer C atoms; each outer C has 4 outer electrons, one shared with the central C and three shared with other C atoms, giving 8 electrons around every C.",
       "steps": [
@@ -1653,7 +1653,7 @@
         "burette",
         "direction"
       ],
-      "question": "To compare polar and non-polar liquids, a stream of liquid from a burette and a positively charged plastic rod can be used. Which row of the table shows the correct direction of deflection? (The table is not included in the extracted text.)",
+      "question": "To compare polar and non-polar liquids, a stream of liquid from a burette and a positively charged plastic rod can be used. Which row of the table shows the correct direction of deflection? (The table is shown in the figure below.)",
       "status": "ready",
       "answer": "C: polar liquids are deflected towards the rod, non-polar liquids show no deflection",
       "steps": [
@@ -1758,7 +1758,7 @@
         "identify element",
         "data table"
       ],
-      "question": "Identify the Period 3 element that has the successive ionisation energies shown (data not included in the extracted text).",
+      "question": "Identify the Period 3 element that has the successive ionisation energies shown (data shown in the figure below).",
       "status": "ready",
       "answer": "Sulfur",
       "steps": [
@@ -1787,7 +1787,7 @@
         "diagram",
         "lithium to nitrogen"
       ],
-      "question": "Complete the diagram by putting crosses to show the approximate melting temperatures of boron and nitrogen in the Period 2 melting temperature chart (the chart is not included in the extracted text).",
+      "question": "Complete the diagram by putting crosses to show the approximate melting temperatures of boron and nitrogen in the Period 2 melting temperature chart (the chart is shown in the figure below).",
       "status": "ready",
       "answer": "Boron: cross at about 2350 K (above Be, below C); nitrogen: cross very low, about 60 K (near the x-axis)",
       "steps": [
@@ -1865,7 +1865,7 @@
         "strongest",
         "table"
       ],
-      "question": "The melting temperatures of Al, Si, P and S are shown in a table (not included in the extracted text). Which element has the strongest intermolecular forces? A Al; B Si; C P; D S.",
+      "question": "The melting temperatures of Al, Si, P and S are shown in a table (shown in the figure below). Which element has the strongest intermolecular forces? A Al; B Si; C P; D S.",
       "status": "ready",
       "answer": "D: S",
       "steps": [
