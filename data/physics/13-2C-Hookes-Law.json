@@ -192,11 +192,18 @@
         "hookes law"
       ],
       "question": "A spring compressed by 50 N has length 12.0 cm, and by 70 N has length 7.1 cm. Which expression gives its stiffness in N cm^-1? The four options A to D are not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the answer options A to D are missing from the extracted text (they appear only as images in the PDF).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: (70 - 50) / (12.0 - 7.1)",
+      "steps": [
+        "Stiffness k = change in force / change in length (compression).",
+        "The force changes by 70 - 50 = 20 N and the length changes by 12.0 - 7.1 = 4.9 cm.",
+        "So k = (70 - 50) / (12.0 - 7.1) = 4.1 N cm^-1, which is option B. Option D wrongly uses 4.9 as a length and subtracts it again."
+      ],
       "images": [
         "papers/physics/img/13-2C-Hookes-Law-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/13-2C-Hookes-Law-Q4.jpg"
       ]
     },
     {
@@ -214,11 +221,19 @@
         "N mm-1"
       ],
       "question": "Two identical springs are in series with a 45.0 N force applied, and they extend a total of 15 mm. Which expression gives the stiffness of each spring in N mm^-1? The four options A to D are not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the answer options A to D are missing from the extracted text (they appear only as images in the PDF).",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 2 x 45 / 15 (6.0 N mm^-1)",
+      "steps": [
+        "The two identical springs are in series, so each carries the full force of 45.0 N and the total extension is shared equally.",
+        "Each spring extends 15 / 2 = 7.5 mm.",
+        "Stiffness of each spring k = F / x = 45 / (15 / 2) = 2 x 45 / 15 = 6.0 N mm^-1, which is option D."
+      ],
       "images": [
         "papers/physics/img/13-2C-Hookes-Law-05.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/13-2C-Hookes-Law-Q5.jpg",
+        "papers/physics/fig/13-2C-Hookes-Law-Q5-2.jpg"
       ]
     },
     {
@@ -435,13 +450,21 @@
         "force length graph"
       ],
       "question": "A force stretches a spring, and a graph shows the spring length against applied force. Which option gives the stiffness of the spring?",
-      "status": "pending",
-      "answer": "Pending: the force-length graph and the answer options are not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: the gradient of the graph",
+      "steps": [
+        "Hooke's law: F = k x, where x is the extension, which is the length of the spring minus its original length.",
+        "On a graph of force (y-axis) against length (x-axis), the gradient is change in force / change in length = k.",
+        "So the stiffness is the gradient of the graph (the straight part), option C. 1 / gradient would be the extension per unit force."
+      ],
       "images": [
         "papers/physics/img/13-2C-Hookes-Law-11.jpg",
         "papers/physics/img/13-2C-Hookes-Law-12.jpg",
         "papers/physics/img/13-2C-Hookes-Law-13.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/13-2C-Hookes-Law-Q11.jpg",
+        "papers/physics/fig/13-2C-Hookes-Law-Q11-2.jpg"
       ]
     },
     {
@@ -541,13 +564,21 @@
         "energy"
       ],
       "question": "The spring returns to its original length L. Sketch a graph of the ball's velocity against the length of the spring.",
-      "status": "pending",
-      "answer": "Pending: the answer is a sketched graph on axes printed in the PDF, which cannot be given as text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A curve starting at zero velocity at a length below L (the compressed length), rising with decreasing gradient to a maximum velocity at L, where the gradient is zero",
+      "steps": [
+        "The spring starts compressed (length less than L, to the left of L on the axis) with the ball at rest, so the curve starts on the length axis at v = 0.",
+        "As the spring extends, the ball speeds up, but the spring force falls, so the acceleration decreases and the curve becomes less steep.",
+        "At the original length L the spring force is zero (no acceleration), so the velocity is at its maximum and the curve is horizontal there.",
+        "The shape is a quarter of an ellipse from (compressed length, 0) to (L, v_max), because (1/2) m v^2 = (1/2) k (x0^2 - x^2)."
+      ],
       "images": [
         "papers/physics/img/13-2C-Hookes-Law-11.jpg",
         "papers/physics/img/13-2C-Hookes-Law-12.jpg",
         "papers/physics/img/13-2C-Hookes-Law-13.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/13-2C-Hookes-Law-Q12.jpg"
       ]
     },
     {
@@ -565,12 +596,20 @@
         "hookes law"
       ],
       "question": "A spring of original length p is stretched to length q by an increasing force up to R. Using the graph, which expression gives its stiffness? The graph and options are not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the graph and the answer options are missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: R / (q - p)",
+      "steps": [
+        "The extension is q - p when the force is R, so Hooke's law gives k = F / x = R / (q - p).",
+        "The graph plots length against force, so its gradient (q - p) / R is 1 / k, not k.",
+        "So the stiffness is R / (q - p), which is option D."
+      ],
       "images": [
         "papers/physics/img/13-2C-Hookes-Law-13.jpg",
         "papers/physics/img/13-2C-Hookes-Law-14.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/13-2C-Hookes-Law-Q13.jpg",
+        "papers/physics/fig/13-2C-Hookes-Law-Q13-2.jpg"
       ]
     },
     {
@@ -588,11 +627,18 @@
         "scaling"
       ],
       "question": "A force F stretches a spring of stiffness k by x. A force 2F is applied to a second spring of stiffness 3k. Which expression gives the extension of the second spring? The options are not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the extracted text (they appear only as images in the PDF).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: (2/3) delta x",
+      "steps": [
+        "First spring: delta x = F / k.",
+        "Second spring: extension = 2F / (3k) = (2/3)(F / k) = (2/3) delta x.",
+        "So the answer is option A."
+      ],
       "images": [
         "papers/physics/img/13-2C-Hookes-Law-14.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/13-2C-Hookes-Law-Q14.jpg"
       ]
     }
   ]

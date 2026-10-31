@@ -23,13 +23,21 @@
         "ial biology"
       ],
       "question": "Complete the diagram to show the amino acid sequence coded by a given DNA base sequence.",
-      "status": "pending",
-      "answer": "Missing: the DNA base sequence diagram and the amino acid genetic code table are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Trp - Ser - Ser - Lys - Trp (one amino acid in each box, left to right)",
+      "steps": [
+        "Split the 15 bases into triplets: TGG | AGT | AGC | AAG | TGG.",
+        "TGG = tryptophan (Trp); AGT and AGC are both serine (Ser).",
+        "AAG = lysine (Lys); the last TGG = tryptophan (Trp).",
+        "So the boxes read Trp, Ser, Ser, Lys, Trp."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-01.jpg",
         "papers/biology/img/02B-Proteins-DNA-02.jpg",
         "papers/biology/img/02B-Proteins-DNA-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q1.jpg"
       ]
     },
     {
@@ -50,13 +58,21 @@
         "ial biology"
       ],
       "question": "Explain why only five amino acids are coded by the DNA sequence shown.",
-      "status": "pending",
-      "answer": "Missing: the DNA base sequence diagram is needed to see which codons repeat.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The code is a triplet code: 3 bases code for 1 amino acid, so 15 bases give 15 / 3 = 5 amino acids.",
+      "steps": [
+        "Each amino acid is coded by a triplet of three bases (a codon).",
+        "The sequence has 15 bases, which is 15 / 3 = 5 triplets.",
+        "So only five amino acids are coded, and the code is non-overlapping so no base is used twice.",
+        "Only three different amino acids appear (Trp, Ser, Lys) because TGG is repeated and the code is degenerate (AGT and AGC both code serine)."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-01.jpg",
         "papers/biology/img/02B-Proteins-DNA-02.jpg",
         "papers/biology/img/02B-Proteins-DNA-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q1.jpg"
       ]
     },
     {
@@ -89,6 +105,9 @@
         "papers/biology/img/02B-Proteins-DNA-01.jpg",
         "papers/biology/img/02B-Proteins-DNA-02.jpg",
         "papers/biology/img/02B-Proteins-DNA-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q1.jpg"
       ]
     },
     {
@@ -168,13 +187,22 @@
         "ial biology"
       ],
       "question": "Choose the row of the table showing the mRNA codon and tRNA anticodon for tryptophan.",
-      "status": "pending",
-      "answer": "Missing: the table rows (options) are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: mRNA codon ACC, tRNA anticodon UGG",
+      "steps": [
+        "The table gives TGG as the DNA triplet for tryptophan, read here as the template triplet.",
+        "The mRNA codon is complementary to it: T-A, G-C, G-C gives ACC.",
+        "The tRNA anticodon is complementary to the codon: A-U, C-G, C-G gives UGG.",
+        "A and D are wrong because tRNA contains uracil, not thymine; C does not pair with its codon."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-01.jpg",
         "papers/biology/img/02B-Proteins-DNA-02.jpg",
         "papers/biology/img/02B-Proteins-DNA-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q1.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q1-2.jpg"
       ]
     },
     {
@@ -196,14 +224,23 @@
         "ial biology"
       ],
       "question": "Choose the diagram that shows the R group only of the amino acid AzPhe.",
-      "status": "pending",
-      "answer": "Missing: the four diagram options are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B",
+      "steps": [
+        "The R group is the side chain on the central carbon, not the amino or carboxyl groups.",
+        "In AzPhe this is CH2 joined to the benzene ring carrying the N3 group.",
+        "A also includes the central carbon (part of the amino acid backbone), so it is wrong.",
+        "C has no CH2 link and D is only part of the backbone, so B is correct."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-03.jpg",
         "papers/biology/img/02B-Proteins-DNA-04.jpg",
         "papers/biology/img/02B-Proteins-DNA-05.jpg",
         "papers/biology/img/02B-Proteins-DNA-06.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q2.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q2-2.jpg"
       ]
     },
     {
@@ -254,14 +291,22 @@
         "ial biology"
       ],
       "question": "Draw two circles on the AzPhe diagram to show the parts lost in a condensation reaction.",
-      "status": "pending",
-      "answer": "Missing: the AzPhe structure diagram is needed to circle the groups.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Circle the OH of the carboxyl group (-COOH) and one H of the amino group (-NH2).",
+      "steps": [
+        "A condensation reaction releases a molecule of water as the peptide bond forms.",
+        "The OH comes from the carboxyl group at the right-hand end of AzPhe.",
+        "The H comes from the amino group (NH2) at the left-hand end.",
+        "Draw one circle round the -OH of COOH and one round a single H on the NH2 (together they make H2O)."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-03.jpg",
         "papers/biology/img/02B-Proteins-DNA-04.jpg",
         "papers/biology/img/02B-Proteins-DNA-05.jpg",
         "papers/biology/img/02B-Proteins-DNA-06.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q2.jpg"
       ]
     },
     {
@@ -470,13 +515,21 @@
         "ial biology"
       ],
       "question": "Complete the table showing the percentage of DNA molecules with heavy only, light only or both nitrogen at each stage.",
-      "status": "pending",
-      "answer": "Missing: the flow chart and the table are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "End of stage 1: 100% heavy only, 0 light only, 0 both. End of stage 2: 0, 0, 100% both. End of stage 3: 0, 50% light only, 50% both.",
+      "steps": [
+        "Stage 1: many generations in 15N, so all DNA is heavy only (100%).",
+        "Stage 2: one generation in 14N. Replication is semi-conservative, so each molecule has one old heavy strand and one new light strand: 100% both.",
+        "Stage 3: another generation in 14N. Each hybrid molecule makes one hybrid and one light-only molecule: 50% both, 50% light only.",
+        "Heavy only is 0% from the end of stage 2 onwards."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-06.jpg",
         "papers/biology/img/02B-Proteins-DNA-07.jpg",
         "papers/biology/img/02B-Proteins-DNA-08.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q3.jpg"
       ]
     },
     {
@@ -495,13 +548,21 @@
         "ial biology"
       ],
       "question": "Draw a diagram of two mononucleotides joined in a single DNA strand, using the symbols shown.",
-      "status": "pending",
-      "answer": "Missing: the symbol key the question refers to is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Pentose (pentagon) with a base (rectangle) and a phosphate (circle) attached, then the pentose of nucleotide 1 joined to the phosphate of nucleotide 2.",
+      "steps": [
+        "Mononucleotide: draw a pentagon joined by a short line to a rectangle (base) and by another line to a circle (phosphate).",
+        "Draw a second mononucleotide in the same way below the first.",
+        "Join them with a line from the pentose of the first nucleotide to the phosphate of the second (a phosphodiester bond).",
+        "The sugar-phosphate backbone reads circle - pentagon - circle - pentagon, with a base hanging off each pentagon and no line between the two bases."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-08.jpg",
         "papers/biology/img/02B-Proteins-DNA-09.jpg",
         "papers/biology/img/02B-Proteins-DNA-10.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q4.jpg"
       ]
     },
     {
@@ -521,13 +582,21 @@
         "ial biology"
       ],
       "question": "Calculate the distance between one base and the next on one strand, given 10 base pairs per pitch.",
-      "status": "pending",
-      "answer": "Missing: the pitch length (nm) is shown on the diagram, not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "0.34 nm",
+      "steps": [
+        "One pitch is 3.4 nm and contains 10 base pairs, so 10 bases on each strand.",
+        "Distance between neighbouring bases = 3.4 / 10.",
+        "= 0.34 nm.",
+        "Give 2 significant figures to match the 3.4 nm in the data."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-08.jpg",
         "papers/biology/img/02B-Proteins-DNA-09.jpg",
         "papers/biology/img/02B-Proteins-DNA-10.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q4-2.jpg"
       ]
     },
     {
@@ -546,13 +615,21 @@
         "ial biology"
       ],
       "question": "Explain which of bases P, Q, R or S is adenine.",
-      "status": "pending",
-      "answer": "Missing: the diagram showing which of Q or R is thymine is needed.",
-      "steps": [],
+      "status": "ready",
+      "answer": "R is adenine.",
+      "steps": [
+        "Adenine pairs with thymine by two hydrogen bonds, so adenine is Q or R (P and S form three bonds, so they are cytosine and guanine).",
+        "A purine always pairs with a pyrimidine. Thymine is a single-ring pyrimidine, so adenine must have a double ring.",
+        "Q has a single ring (a pyrimidine, similar to thymine), so it cannot pair with thymine.",
+        "R has a double ring and an NH2 group, so R is adenine."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-08.jpg",
         "papers/biology/img/02B-Proteins-DNA-09.jpg",
         "papers/biology/img/02B-Proteins-DNA-10.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q4-3.jpg"
       ]
     },
     {
@@ -605,13 +682,22 @@
         "ial biology"
       ],
       "question": "State the sequence of the first four amino acids coded by the DNA shown.",
-      "status": "pending",
-      "answer": "Missing: the DNA base diagram and the genetic code table are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Methionine - leucine - isoleucine - tyrosine",
+      "steps": [
+        "Read the DNA in triplets: ATG | CTC | ATT | TAC | CAT | CGA.",
+        "ATG = methionine; CTC = leucine.",
+        "ATT = isoleucine; TAC = tyrosine.",
+        "The first four amino acids are Met, Leu, Ile, Tyr."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-10.jpg",
         "papers/biology/img/02B-Proteins-DNA-11.jpg",
         "papers/biology/img/02B-Proteins-DNA-12.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q5.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q5-2.jpg"
       ]
     },
     {
@@ -631,13 +717,20 @@
         "ial biology"
       ],
       "question": "Name the type of each mutation described for the DNA base sequence.",
-      "status": "pending",
-      "answer": "Missing: the DNA base sequence diagram is needed to classify the second and third mutations.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Base 3 becomes C: substitution. Base 6 becomes base 5: deletion. Base 9 becomes base 10: insertion.",
+      "steps": [
+        "Base 3 is replaced by a different base (G to C): a substitution (point mutation).",
+        "Base 6 moves into position 5, so the base before it has been lost: a deletion.",
+        "Base 9 moves to position 10, so a new base has been added in front of it: an insertion."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-10.jpg",
         "papers/biology/img/02B-Proteins-DNA-11.jpg",
         "papers/biology/img/02B-Proteins-DNA-12.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q5.jpg"
       ]
     },
     {
@@ -657,13 +750,23 @@
         "ial biology"
       ],
       "question": "Explain the possible effects of the three mutations on the amino acid sequence, using the code table.",
-      "status": "pending",
-      "answer": "Missing: the DNA base sequence diagram and genetic code table are needed.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Substitution: only one amino acid changes (Met to Ile). Deletion and insertion: frameshift, so every amino acid after the mutation can change.",
+      "steps": [
+        "Original: ATG CTC ATT TAC CAT CGA = Met-Leu-Ile-Tyr-His-Arg.",
+        "Substitution of base 3 (G to C): ATC CTC ATT ... so the first amino acid becomes isoleucine, the others stay the same. Effect is small (one amino acid), though it could still alter protein shape.",
+        "Deletion (base 5 lost): ATG CCA TTT ACC ATC GA = Met-Pro-Phe-Thr-Ile. The reading frame shifts, so all amino acids after the first change.",
+        "Insertion (extra base X before base 9): ATG CTC ATX TTA CCA TCG = Met-Leu-Ile (or Met if X is G)-Leu-Pro-Ser. The first two are unchanged but all later ones change.",
+        "Insertions and deletions are frameshift mutations and are usually more harmful than a substitution, because the protein is likely to be non-functional."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-10.jpg",
         "papers/biology/img/02B-Proteins-DNA-11.jpg",
         "papers/biology/img/02B-Proteins-DNA-12.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q5.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q5-2.jpg"
       ]
     },
     {
@@ -746,14 +849,22 @@
         "ial biology"
       ],
       "question": "Using the diagrams of warfarin and vitamin K, suggest why warfarin inhibits prothrombin synthesis.",
-      "status": "pending",
-      "answer": "Missing: the structure diagrams of warfarin and vitamin K are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Warfarin has a similar shape to vitamin K, so it binds to the active site of VKOR (competitive inhibition) and less reduced vitamin K is made.",
+      "steps": [
+        "Warfarin and vitamin K both have a similar ring structure with C=O/O groups, so their shapes are similar.",
+        "So warfarin fits the active site of VKOR and acts as a competitive inhibitor.",
+        "Vitamin K cannot bind, so it is not converted to reduced vitamin K.",
+        "Without reduced vitamin K, prothrombin cannot be synthesised."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-12.jpg",
         "papers/biology/img/02B-Proteins-DNA-13.jpg",
         "papers/biology/img/02B-Proteins-DNA-14.jpg",
         "papers/biology/img/02B-Proteins-DNA-15.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q6.jpg"
       ]
     },
     {
@@ -809,14 +920,22 @@
         "ial biology"
       ],
       "question": "Explain how the study shown should be designed so that warfarin and drug X can be compared.",
-      "status": "pending",
-      "answer": "Missing: the study diagram comparing warfarin and drug X is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Use similar, equal-sized groups, the same doses and conditions, and measure prothrombin at the same times, repeating the test.",
+      "steps": [
+        "Groups A and B should be large and of the same size, with people of similar age, sex and health, so that differences are due to the drug.",
+        "The same dose of each drug and the same amount of vitamin K must be given, by the same method and over the same period.",
+        "Prothrombin must be measured in the same way and at the same time(s) in both groups, ideally also before treatment as a baseline.",
+        "Repeat or use many people and compare the means, so the comparison is reliable."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-12.jpg",
         "papers/biology/img/02B-Proteins-DNA-13.jpg",
         "papers/biology/img/02B-Proteins-DNA-14.jpg",
         "papers/biology/img/02B-Proteins-DNA-15.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q6-2.jpg"
       ]
     },
     {
@@ -850,6 +969,9 @@
         "papers/biology/img/02B-Proteins-DNA-16.jpg",
         "papers/biology/img/02B-Proteins-DNA-17.jpg",
         "papers/biology/img/02B-Proteins-DNA-18.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q7.jpg"
       ]
     },
     {
@@ -871,13 +993,22 @@
         "ial biology"
       ],
       "question": "Give the sequence of amino acids coded for by the bases shown on the antisense strand.",
-      "status": "pending",
-      "answer": "Missing: the base sequence diagram of the template strand is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Methionine - alanine - cysteine - proline - isoleucine - leucine",
+      "steps": [
+        "Read the bases in triplets: ATG | GCT | TGC | CCG | ATC | CTA.",
+        "ATG = methionine; GCT = alanine; TGC = cysteine.",
+        "CCG = proline; ATC = isoleucine; CTA = leucine.",
+        "Sequence: Met - Ala - Cys - Pro - Ile - Leu."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-16.jpg",
         "papers/biology/img/02B-Proteins-DNA-17.jpg",
         "papers/biology/img/02B-Proteins-DNA-18.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q7.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q7-2.jpg"
       ]
     },
     {
@@ -898,13 +1029,23 @@
         "ial biology"
       ],
       "question": "Explain the possible effects on a protein of a substitution mutation at the 9th base of the strand.",
-      "status": "pending",
-      "answer": "Missing: the base sequence and genetic code table are needed to work out the effect.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Base 9 is the last base of codon 3 (TGC, cysteine). The mutation could give no change (TGT), a different amino acid (TGG, Trp) or a stop codon (TGA).",
+      "steps": [
+        "Bases 7-9 are TGC, which codes for cysteine.",
+        "TGT: still cysteine, a silent mutation because the code is degenerate, so the protein is unchanged.",
+        "TGG: tryptophan replaces cysteine (missense). A different R group may alter bonding, tertiary structure and function.",
+        "TGA: a stop codon, so translation ends after two amino acids and a short, non-functional protein is made.",
+        "The effect therefore depends on which base replaces C."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-16.jpg",
         "papers/biology/img/02B-Proteins-DNA-17.jpg",
         "papers/biology/img/02B-Proteins-DNA-18.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q7.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q7-2.jpg"
       ]
     },
     {
@@ -923,15 +1064,24 @@
         "ial biology"
       ],
       "question": "Choose the diagram showing the sequence of events for the hydrolysis of lactose.",
-      "status": "pending",
-      "answer": "Missing: the symbol diagrams are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B",
+      "steps": [
+        "Lactose (two joined sugars) binds to the active site to form an enzyme-substrate complex.",
+        "The bond is hydrolysed and the two separate monosaccharides leave the enzyme.",
+        "The enzyme is unchanged at the end.",
+        "A shows lactose released still joined; C shows joining (synthesis); D starts with monosaccharides, not lactose."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-18.jpg",
         "papers/biology/img/02B-Proteins-DNA-19.jpg",
         "papers/biology/img/02B-Proteins-DNA-20.jpg",
         "papers/biology/img/02B-Proteins-DNA-21.jpg",
         "papers/biology/img/02B-Proteins-DNA-22.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q8.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q8-2.jpg"
       ]
     },
     {
@@ -982,15 +1132,24 @@
         "ial biology"
       ],
       "question": "Which row of the table describes line P and identifies the letter showing the decrease in activation energy due to lactase?",
-      "status": "pending",
-      "answer": "Missing: the energy graph and table rows are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: line P is the reaction without enzyme; the decrease in activation energy is Q.",
+      "steps": [
+        "Line P has the higher energy peak, so it is the reaction without enzyme.",
+        "Activation energy is the energy needed to reach the peak from the starting level.",
+        "The enzyme lowers the peak, and the difference between the two peaks is Q.",
+        "R is the activation energy that remains with the enzyme, so the answer is C."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-18.jpg",
         "papers/biology/img/02B-Proteins-DNA-19.jpg",
         "papers/biology/img/02B-Proteins-DNA-20.jpg",
         "papers/biology/img/02B-Proteins-DNA-21.jpg",
         "papers/biology/img/02B-Proteins-DNA-22.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q8-3.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q8-4.jpg"
       ]
     },
     {
@@ -1025,6 +1184,9 @@
         "papers/biology/img/02B-Proteins-DNA-20.jpg",
         "papers/biology/img/02B-Proteins-DNA-21.jpg",
         "papers/biology/img/02B-Proteins-DNA-22.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q8-5.jpg"
       ]
     },
     {
@@ -1045,15 +1207,23 @@
         "ial biology"
       ],
       "question": "Calculate the reaction rate (V) at a substrate concentration of 4 a.u. using the given formula.",
-      "status": "pending",
-      "answer": "Missing: the values of Vmax and K (from the graph) are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "33 a.u. (33.3)",
+      "steps": [
+        "Vmax is the plateau of the graph: 50 a.u.",
+        "K is the concentration at half Vmax (25 a.u.), read from the curve as about 2 a.u.",
+        "V = (Vmax x S) / (K + S) = (50 x 4) / (2 + 4).",
+        "= 200 / 6 = 33.3, so about 33 a.u."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-18.jpg",
         "papers/biology/img/02B-Proteins-DNA-19.jpg",
         "papers/biology/img/02B-Proteins-DNA-20.jpg",
         "papers/biology/img/02B-Proteins-DNA-21.jpg",
         "papers/biology/img/02B-Proteins-DNA-22.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q8-5.jpg"
       ]
     },
     {
@@ -1072,14 +1242,22 @@
         "ial biology"
       ],
       "question": "Draw a circle around one mononucleotide that includes the base labelled R.",
-      "status": "pending",
-      "answer": "Missing: the DNA diagram showing base R is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Circle the base R, the pentose it is joined to and one phosphate attached to that pentose.",
+      "steps": [
+        "A mononucleotide is one phosphate, one pentose sugar and one base.",
+        "R is the base in the right-hand strand, third row.",
+        "Draw one loop round R, the pentagon joined to it and the phosphate circle linked to that pentagon.",
+        "Do not include the base on the other strand or a second pentose."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-22.jpg",
         "papers/biology/img/02B-Proteins-DNA-23.jpg",
         "papers/biology/img/02B-Proteins-DNA-24.jpg",
         "papers/biology/img/02B-Proteins-DNA-25.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q9.jpg"
       ]
     },
     {
@@ -1099,14 +1277,23 @@
         "ial biology"
       ],
       "question": "Which row of the table identifies the bonds labelled S, T and U?",
-      "status": "pending",
-      "answer": "Missing: the diagram and table rows are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: S phosphodiester, T covalent, U hydrogen",
+      "steps": [
+        "S is the bond between a phosphate and a pentose in the sugar-phosphate backbone: a phosphodiester bond.",
+        "T is the bond joining a base to its pentose: a covalent bond.",
+        "U is between the two bases of a pair: a hydrogen bond.",
+        "So the row is phosphodiester, covalent, hydrogen (D)."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-22.jpg",
         "papers/biology/img/02B-Proteins-DNA-23.jpg",
         "papers/biology/img/02B-Proteins-DNA-24.jpg",
         "papers/biology/img/02B-Proteins-DNA-25.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q9.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q9-2.jpg"
       ]
     },
     {
@@ -1127,14 +1314,21 @@
         "ial biology"
       ],
       "question": "Given base P is adenine, which base is labelled Q (A cytosine, B guanine, C thymine, D uracil)?",
-      "status": "pending",
-      "answer": "Missing: the diagram showing where Q sits relative to P is needed to confirm the pairing.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: thymine",
+      "steps": [
+        "P and Q are a base pair joined by two hydrogen bonds (two dashes).",
+        "Adenine pairs with thymine by two hydrogen bonds.",
+        "So Q is thymine (guanine and cytosine form three bonds; uracil is not found in DNA)."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-22.jpg",
         "papers/biology/img/02B-Proteins-DNA-23.jpg",
         "papers/biology/img/02B-Proteins-DNA-24.jpg",
         "papers/biology/img/02B-Proteins-DNA-25.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q9.jpg"
       ]
     },
     {
@@ -1155,14 +1349,23 @@
         "ial biology"
       ],
       "question": "Complete the diagram to show the DNA density bands after each stage of the Meselson and Stahl experiment.",
-      "status": "pending",
-      "answer": "Missing: the flow chart and band diagram are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Stage 2: one band on the middle dotted line. Stage 3: bands at the top and middle lines, each half height. Stage 4: bands at the top and middle lines, top three times taller than the middle one.",
+      "steps": [
+        "Heavy DNA is lowest, hybrid (15N/14N) is in the middle and light DNA is at the top dotted line.",
+        "After stage 2: all DNA is hybrid, so one full-height band on the middle line.",
+        "After stage 3: 50% hybrid, 50% light, so two bands (top and middle line), each half the height of the stage 1 band.",
+        "After stage 4: 25% hybrid and 75% light, so a band at the top line three times the height of the band on the middle line."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-22.jpg",
         "papers/biology/img/02B-Proteins-DNA-23.jpg",
         "papers/biology/img/02B-Proteins-DNA-24.jpg",
         "papers/biology/img/02B-Proteins-DNA-25.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q9-3.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q9-4.jpg"
       ]
     },
     {
@@ -1182,14 +1385,23 @@
         "ial biology"
       ],
       "question": "Which diagram shows the bands at stage 2 if the dispersive theory were correct?",
-      "status": "pending",
-      "answer": "Missing: the diagram options are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D",
+      "steps": [
+        "In the dispersive theory each new molecule is a mixture of old heavy and new light DNA.",
+        "So at stage 2 all the DNA has the same intermediate density.",
+        "This gives one band, in the middle position of the gradient.",
+        "A and C show two bands (heavy and light, conservative); B also shows two bands, so D is correct."
+      ],
       "images": [
         "papers/biology/img/02B-Proteins-DNA-22.jpg",
         "papers/biology/img/02B-Proteins-DNA-23.jpg",
         "papers/biology/img/02B-Proteins-DNA-24.jpg",
         "papers/biology/img/02B-Proteins-DNA-25.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02B-Proteins-DNA-Q9-5.jpg",
+        "papers/biology/fig/02B-Proteins-DNA-Q9-6.jpg"
       ]
     },
     {

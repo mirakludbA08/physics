@@ -18,13 +18,20 @@
         "base sequence"
       ],
       "question": "State the sequence of the first four amino acids coded for by the length of DNA shown in the diagram, using the codon table.",
-      "status": "pending",
-      "answer": "Pending: the DNA base diagram and the codon table are not in the text, so the amino acid sequence cannot be read.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Methionine - leucine - isoleucine - tyrosine",
+      "steps": [
+        "Split the DNA into triplets from base 1: ATG | CTC | ATT | TAC | CAT | CGA.",
+        "Read each triplet in the table: ATG = methionine, CTC = leucine, ATT = isoleucine, TAC = tyrosine.",
+        "Only the first four triplets are needed, so the sequence is Met - Leu - Ile - Tyr."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-01.jpg",
         "papers/biology/img/02C-Gene-Expression-02.jpg",
         "papers/biology/img/02C-Gene-Expression-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q1.jpg"
       ]
     },
     {
@@ -72,13 +79,22 @@
         "genetic code"
       ],
       "question": "Explain the possible effects of the substitution, deletion and insertion on the amino acid sequence, using the codon table.",
-      "status": "pending",
-      "answer": "Pending: the base sequence in the diagram is needed to show which codons change.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Substitution: one codon changes, so at most one amino acid changes. Deletion and insertion: frameshift, so every codon after the change is altered.",
+      "steps": [
+        "Substitution of base 3 (G to C) changes the first triplet ATG (methionine) to ATC (isoleucine), so only one amino acid is different; the rest of the sequence is unchanged. A substitution could also be silent if the new triplet still codes for the same amino acid (degenerate code).",
+        "Deletion (a base lost before base 6) shifts the reading frame, so all triplets after the deletion are read differently. For example, losing base 4 gives Met - Ser - Phe - Thr - Ile instead of Met - Leu - Ile - Tyr - His - Arg.",
+        "Insertion (an extra base before base 9) also shifts the reading frame, but triplets before the insertion are unchanged, so Met and Leu are kept and the later amino acids change (for example Met - Leu - Ile - Leu - Pro - Ser).",
+        "A frameshift can create a stop codon (TAA, TAG or TGA), giving a shortened polypeptide, or change many amino acids, so the protein folds differently and may not work.",
+        "Frameshift mutations are therefore usually more damaging than a single-base substitution."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-01.jpg",
         "papers/biology/img/02C-Gene-Expression-02.jpg",
         "papers/biology/img/02C-Gene-Expression-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q1.jpg"
       ]
     },
     {
@@ -177,13 +193,21 @@
         "data table"
       ],
       "question": "Explain, using the table, how the data show a correlation between the age of the mother and the miscarriage rate.",
-      "status": "pending",
-      "answer": "Pending: the miscarriage rate table with the ages is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "As age increases, the miscarriage rate of embryos not screened for aneuploidy rises steadily (12.0% to 58.8%), a positive correlation.",
+      "steps": [
+        "In the unscreened column the rate rises with every age band: 12.0% (<35), 16.8, 25.0, 37.9 and 58.8% (>42).",
+        "So older women have a higher miscarriage rate: a positive correlation.",
+        "The rate is almost five times greater in the oldest group than the youngest (58.8 / 12.0 = 4.9).",
+        "Quote figures from at least two age groups to gain the data mark."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-04.jpg",
         "papers/biology/img/02C-Gene-Expression-05.jpg",
         "papers/biology/img/02C-Gene-Expression-06.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q3.jpg"
       ]
     },
     {
@@ -200,13 +224,21 @@
         "data table"
       ],
       "question": "Explain the conclusions that can be drawn from the data about the causes of miscarriage.",
-      "status": "pending",
-      "answer": "Pending: the miscarriage rate table for screened and unscreened embryos is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Aneuploidy is a major cause of miscarriage, especially in older women, but it is not the only cause.",
+      "steps": [
+        "Screening removes aneuploid embryos and lowers the miscarriage rate in every age group, so aneuploidy is a cause of miscarriage.",
+        "The fall is much larger in older women (58.8% to 17.2% for >42 compared with 12.0% to 11.2% for <35), so aneuploidy accounts for most of the age effect.",
+        "Screened embryos still miscarry (11.2 to 17.2%), so other factors also cause miscarriage.",
+        "The rate in screened embryos still rises slightly with age (11.2% to 17.2%), so maternal age has a small effect that is independent of aneuploidy."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-04.jpg",
         "papers/biology/img/02C-Gene-Expression-05.jpg",
         "papers/biology/img/02C-Gene-Expression-06.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q3.jpg"
       ]
     },
     {
@@ -236,6 +268,9 @@
         "papers/biology/img/02C-Gene-Expression-04.jpg",
         "papers/biology/img/02C-Gene-Expression-05.jpg",
         "papers/biology/img/02C-Gene-Expression-06.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q3.jpg"
       ]
     },
     {
@@ -282,14 +317,23 @@
         "codon table"
       ],
       "question": "Explain the nature of the genetic code, using the codon table.",
-      "status": "pending",
-      "answer": "Pending: the codon table is not in the text, so the points about degeneracy and codons cannot be checked against it.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The code is a triplet code, degenerate, non-overlapping and universal, with a start codon (ATG) and three stop codons.",
+      "steps": [
+        "Triplet code: three bases (a codon) code for one amino acid; 4^3 = 64 possible codons, more than enough for the 20 amino acids.",
+        "Degenerate: most amino acids have more than one codon, for example ATA, ATC and ATT all code for isoleucine; only methionine (ATG) and tryptophan (TGG) have a single codon.",
+        "Stop codons: TAA, TAG and TGA do not code for an amino acid and end translation; ATG (methionine) is the start codon.",
+        "Non-overlapping: each base belongs to only one codon and the sequence is read in order from a fixed start point.",
+        "Universal: the same codons code for the same amino acids in almost all organisms."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-06.jpg",
         "papers/biology/img/02C-Gene-Expression-07.jpg",
         "papers/biology/img/02C-Gene-Expression-08.jpg",
         "papers/biology/img/02C-Gene-Expression-09.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q4.jpg"
       ]
     },
     {
@@ -306,14 +350,23 @@
         "base sequence"
       ],
       "question": "Give the sequence of amino acids coded for by the bases in the antisense strand shown in the diagram.",
-      "status": "pending",
-      "answer": "Pending: the base sequence of the antisense strand is in the diagram, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Tyrosine - arginine - threonine - glycine, then a stop codon (TAG)",
+      "steps": [
+        "The table lists codons as they appear on the sense strand, so first write the complement of the template (antisense) strand ATGGCTTGCCCGATCCTA: TACCGAACGGGCTAGGAT.",
+        "Split into triplets: TAC | CGA | ACG | GGC | TAG | GAT.",
+        "Read the table: TAC = tyrosine, CGA = arginine, ACG = threonine, GGC = glycine, TAG = stop codon, so translation ends there.",
+        "Common error: reading the antisense bases directly (ATG GCT TGC ...) ignores that this strand is the template."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-06.jpg",
         "papers/biology/img/02C-Gene-Expression-07.jpg",
         "papers/biology/img/02C-Gene-Expression-08.jpg",
         "papers/biology/img/02C-Gene-Expression-09.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q4.jpg",
+        "papers/biology/fig/02C-Gene-Expression-Q4-2.jpg"
       ]
     },
     {
@@ -331,14 +384,24 @@
         "antisense strand"
       ],
       "question": "Explain the possible effects on a protein of a substitution mutation at the 9th base of the antisense strand, using the codon table.",
-      "status": "pending",
-      "answer": "Pending: the base sequence in the diagram and the codon table are needed to work out the effect.",
-      "steps": [],
+      "status": "ready",
+      "answer": "No effect on the protein: base 9 is the third base of the threonine codon, and any substitution there still codes for threonine (silent mutation).",
+      "steps": [
+        "Base 9 of the template pairs with base 9 of the sense strand, which is the third base of the third codon, ACG (threonine).",
+        "Replacing the template base C with A, G or T changes the sense codon to ACT, ACC or ACA.",
+        "ACA, ACC, ACG and ACT all code for threonine, because the genetic code is degenerate.",
+        "The amino acid sequence (primary structure) is unchanged, so the protein folds and functions normally: a silent mutation.",
+        "Only one codon is affected and the reading frame is not shifted, so no other amino acids change."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-06.jpg",
         "papers/biology/img/02C-Gene-Expression-07.jpg",
         "papers/biology/img/02C-Gene-Expression-08.jpg",
         "papers/biology/img/02C-Gene-Expression-09.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q4.jpg",
+        "papers/biology/fig/02C-Gene-Expression-Q4-2.jpg"
       ]
     },
     {
@@ -464,12 +527,21 @@
         "table"
       ],
       "question": "Complete the table of blood clotting components by filling in the names, roles or solubility of each component.",
-      "status": "pending",
-      "answer": "Pending: the table of blood clotting components is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Thromboplastin: converts (activates) prothrombin to thrombin. Row 2: thrombin, soluble. Fibrin: insoluble; forms a mesh of fibres that traps platelets and red blood cells to form a clot.",
+      "steps": [
+        "Thromboplastin role: released from damaged tissue and platelets; it catalyses (with calcium ions) the conversion of soluble prothrombin into thrombin.",
+        "Row 2 name: thrombin, because it is the enzyme that catalyses the conversion of fibrinogen into fibrin. Its solubility: soluble.",
+        "Fibrin role 1: forms a mesh (network) of long fibres across the wound.",
+        "Fibrin role 2: the mesh traps platelets and red blood cells to form a clot (scab) that seals the wound and prevents blood loss and entry of pathogens.",
+        "Fibrin solubility: insoluble, so the clot stays in place (fibrinogen is its soluble precursor)."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-10.jpg",
         "papers/biology/img/02C-Gene-Expression-11.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q6.jpg"
       ]
     },
     {
@@ -627,13 +699,21 @@
         "orange tigers"
       ],
       "question": "Determine the expected phenotypic ratio of orange to white tigers born to the parents in the pedigree, using a genetic diagram.",
-      "status": "pending",
-      "answer": "Pending: the pedigree diagram showing the parents' phenotypes is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "3 orange : 1 white (both parents carry the recessive allele: Oo x Oo gives OO, Oo, Oo, oo).",
+      "steps": [
+        "Both parents are orange but they have white offspring, so white is recessive; let O = orange (dominant) and o = white.",
+        "Each parent must be heterozygous (Oo), since each passes o to a white (oo) cub.",
+        "Gametes: O or o from each parent. Punnett square: OO, Oo, Oo, oo.",
+        "Three genotypes (OO, Oo, Oo) give orange and one (oo) gives white, so the expected ratio is 3 orange : 1 white."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-12.jpg",
         "papers/biology/img/02C-Gene-Expression-13.jpg",
         "papers/biology/img/02C-Gene-Expression-14.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q8.jpg"
       ]
     },
     {
@@ -677,14 +757,22 @@
         "calculation"
       ],
       "question": "Calculate the percentage decrease in the diameter of the trachea lumen in a person with cystic fibrosis, measured between X and Y on each diagram.",
-      "status": "pending",
-      "answer": "Pending: the lumen measurements from the trachea diagrams are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 33% decrease (accept roughly 30 to 37%)",
+      "steps": [
+        "Measure X to Y on each diagram, using the same scale: without cystic fibrosis about 149 units; with cystic fibrosis about 100 units (on the page image; a ruler in cm gives the same ratio).",
+        "Decrease = 149 - 100 = 49 units.",
+        "Percentage decrease = 49 / 149 x 100 = 33%.",
+        "Working in the same units for both diagrams and dividing by the original (without cystic fibrosis) value is what gains the marks."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-14.jpg",
         "papers/biology/img/02C-Gene-Expression-15.jpg",
         "papers/biology/img/02C-Gene-Expression-16.jpg",
         "papers/biology/img/02C-Gene-Expression-17.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q9.jpg"
       ]
     },
     {
@@ -702,14 +790,23 @@
         "airway"
       ],
       "question": "Explain why cystic fibrosis causes the differences shown in the trachea diagrams.",
-      "status": "pending",
-      "answer": "Pending: the differences shown in the trachea diagrams are not described in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Faulty CFTR causes thick mucus that builds up and narrows the lumen; infection then inflames the airway muscle, narrowing it further.",
+      "steps": [
+        "A mutated CFTR gene makes a faulty chloride ion channel protein, so chloride ions are not moved out of the airway cells.",
+        "Less water moves out of the cells by osmosis, so the mucus is thick and sticky and forms a thick layer on the airway wall (the mucus layer in the diagram).",
+        "Cilia cannot move thick mucus up and out of the trachea, so it accumulates and narrows the lumen.",
+        "Trapped bacteria and other pathogens cause repeated infection and an immune response (inflammation).",
+        "The muscle in the trachea wall becomes inflamed and swollen (thicker), which narrows the lumen even more, making breathing difficult."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-14.jpg",
         "papers/biology/img/02C-Gene-Expression-15.jpg",
         "papers/biology/img/02C-Gene-Expression-16.jpg",
         "papers/biology/img/02C-Gene-Expression-17.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q9.jpg"
       ]
     },
     {
@@ -739,6 +836,9 @@
         "papers/biology/img/02C-Gene-Expression-15.jpg",
         "papers/biology/img/02C-Gene-Expression-16.jpg",
         "papers/biology/img/02C-Gene-Expression-17.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q9-2.jpg"
       ]
     },
     {
@@ -816,14 +916,23 @@
         "reproductive"
       ],
       "question": "Explain why very thick, sticky mucus results in the health problems shown in the diagram for a female with cystic fibrosis.",
-      "status": "pending",
-      "answer": "Pending: the diagram showing the health problems is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Thick mucus blocks tubes: in the lungs it blocks airways and causes infections; in the pancreas it blocks enzyme release; in the reproductive tract it blocks the movement of gametes.",
+      "steps": [
+        "Breathing difficulties: thick mucus blocks the airways and cannot be moved by cilia, so air flow and gas exchange are reduced.",
+        "Mucus also traps bacteria in the lungs, which leads to repeated infections and inflammation.",
+        "Problems absorbing nutrients: mucus blocks the pancreatic duct, so digestive enzymes (lipase, protease, amylase) cannot reach the small intestine.",
+        "Food is therefore not fully digested, and mucus on the gut wall also reduces absorption, so nutrients are not absorbed.",
+        "Infertility: thick mucus blocks the oviducts or thickens cervical mucus, so sperm cannot reach the egg and fertilisation is less likely."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-17.jpg",
         "papers/biology/img/02C-Gene-Expression-18.jpg",
         "papers/biology/img/02C-Gene-Expression-19.jpg",
         "papers/biology/img/02C-Gene-Expression-20.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q10.jpg"
       ]
     },
     {
@@ -840,14 +949,21 @@
         "cystic fibrosis"
       ],
       "question": "Which is the change in chloride ion concentration in sweat when CFTR function falls from 100% to 18%? Options: A 15, B 35, C 40, D 80 mmol dm^-3.",
-      "status": "pending",
-      "answer": "Pending: the values must be read from the graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 40 mmol dm^-3",
+      "steps": [
+        "Read the graph at 100% CFTR function: chloride concentration about 20 mmol dm^-3.",
+        "At 18% CFTR function the point is at 60 mmol dm^-3.",
+        "Change = 60 - 20 = 40 mmol dm^-3, which is option C."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-17.jpg",
         "papers/biology/img/02C-Gene-Expression-18.jpg",
         "papers/biology/img/02C-Gene-Expression-19.jpg",
         "papers/biology/img/02C-Gene-Expression-20.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q10-2.jpg"
       ]
     },
     {
@@ -864,14 +980,22 @@
         "evidence"
       ],
       "question": "Explain how the graph of chloride concentration against CFTR function provides evidence that cystic fibrosis results from different mutations in the CFTR gene.",
-      "status": "pending",
-      "answer": "Pending: the graph data are needed to show the range of CFTR function values.",
-      "steps": [],
+      "status": "ready",
+      "answer": "People with cystic fibrosis have a range of CFTR function (3 to 18%) and different sweat chloride levels, so the CFTR protein is altered in different ways by different mutations.",
+      "steps": [
+        "Individuals with cystic fibrosis have 18% function or less, but the graph shows different values (about 3%, 10% and 18%).",
+        "Their sweat chloride concentrations differ (about 100, 73 and 60 mmol dm^-3).",
+        "Different mutations change the base sequence and amino acid sequence differently, so the protein folds differently and keeps different amounts of function.",
+        "If there were only one mutation, all people with cystic fibrosis would show the same level of function."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-17.jpg",
         "papers/biology/img/02C-Gene-Expression-18.jpg",
         "papers/biology/img/02C-Gene-Expression-19.jpg",
         "papers/biology/img/02C-Gene-Expression-20.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q10-2.jpg"
       ]
     },
     {
@@ -944,14 +1068,21 @@
         "graph"
       ],
       "question": "Describe the correlations shown by the graphs of skin cancer incidence in males and females from 2000 to 2005.",
-      "status": "pending",
-      "answer": "Pending: the graphs of skin cancer incidence are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Incidence of skin cancer rises with age in both sexes (positive correlation), and it also rises from 2000 to 2005.",
+      "steps": [
+        "Age: for every year shown, incidence increases as age increases, slowly at first and very steeply after 50 (a positive correlation), in both males and females.",
+        "Year: incidence increases from 2000 to 2005 at each age; for males over 80 it rises from about 70 to about 220 per 100 000, and for females over 80 from about 35 to about 105.",
+        "Both correlations are positive. Quote figures from the graphs to support them."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-20.jpg",
         "papers/biology/img/02C-Gene-Expression-21.jpg",
         "papers/biology/img/02C-Gene-Expression-22.jpg",
         "papers/biology/img/02C-Gene-Expression-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q11.jpg"
       ]
     },
     {
@@ -969,14 +1100,21 @@
         "females"
       ],
       "question": "Suggest a reason for each of the correlations shown by the skin cancer graphs.",
-      "status": "pending",
-      "answer": "Pending: the trends in the graphs are needed to give specific reasons for each correlation.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Age: longer cumulative exposure to UV and more mutations accumulate in older people. Year: UV exposure or detection of skin cancer increased over 2000 to 2005.",
+      "steps": [
+        "With age, people have had more years of exposure to UV light, so more mutations have built up in skin cells (and DNA repair and immune surveillance become less effective).",
+        "Over the years 2000 to 2005, exposure to UV may have increased (more sunbathing, tanning beds, thinner ozone layer).",
+        "Alternatively, more screening and awareness of skin cancer leads to more cases being diagnosed, or the population has aged."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-20.jpg",
         "papers/biology/img/02C-Gene-Expression-21.jpg",
         "papers/biology/img/02C-Gene-Expression-22.jpg",
         "papers/biology/img/02C-Gene-Expression-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q11.jpg"
       ]
     },
     {
@@ -994,14 +1132,23 @@
         "criticise"
       ],
       "question": "Criticise the design of the study of the incidence of emphysema in smokers and non-smokers, using the table.",
-      "status": "pending",
-      "answer": "Pending: the table of the emphysema study is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Study too small, with unequal and very few smokers, age and other variables not controlled, and the results are inconsistent between the sexes.",
+      "steps": [
+        "Sample size is small (25 males, 25 females) and only 5 male and 6 female smokers, so results may not be reliable or representative.",
+        "Smokers and non-smokers are very unequal in number (5 v 20 males, 6 v 19 females), which makes comparison between the groups unreliable.",
+        "Results are inconsistent between the sexes: 1 of 5 male smokers (20%) but 6 of 6 female smokers (100%) had emphysema, so it is not clear that smoking is the only cause.",
+        "Age range is wide (32 to 77 years) and other variables (pollution, occupation, family history, how many cigarettes and for how long) are not controlled or recorded, so confounding factors are possible.",
+        "No statistical test was applied, so it is not known whether the difference is significant; a correlation does not prove smoking causes emphysema, and smoking status may be self-reported."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-20.jpg",
         "papers/biology/img/02C-Gene-Expression-21.jpg",
         "papers/biology/img/02C-Gene-Expression-22.jpg",
         "papers/biology/img/02C-Gene-Expression-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q11-2.jpg"
       ]
     },
     {
@@ -1127,13 +1274,20 @@
         "individuals"
       ],
       "question": "Complete the pedigree diagram: individual 7 as a male taster, individual 8 as a male non-taster, individual 9 as a female taster.",
-      "status": "pending",
-      "answer": "Pending: the pedigree diagram is not in the text, so the symbols cannot be placed.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Individual 7: unshaded square (male taster); individual 8: filled (black) square (male non-taster); individual 9: unshaded circle (female taster).",
+      "steps": [
+        "Use the key: squares are males and circles are females; unshaded means taster and filled (black) means non-taster.",
+        "7 is a male taster, so draw an unshaded square at the end of the line next to 6.",
+        "8 is a male non-taster, so draw a filled square; 9 is a female taster, so draw an unshaded circle, both joined below the parents."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-25.jpg",
         "papers/biology/img/02C-Gene-Expression-26.jpg",
         "papers/biology/img/02C-Gene-Expression-27.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q13.jpg"
       ]
     },
     {
@@ -1162,6 +1316,9 @@
         "papers/biology/img/02C-Gene-Expression-25.jpg",
         "papers/biology/img/02C-Gene-Expression-26.jpg",
         "papers/biology/img/02C-Gene-Expression-27.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q13.jpg"
       ]
     },
     {
@@ -1189,6 +1346,9 @@
         "papers/biology/img/02C-Gene-Expression-25.jpg",
         "papers/biology/img/02C-Gene-Expression-26.jpg",
         "papers/biology/img/02C-Gene-Expression-27.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q13.jpg"
       ]
     },
     {
@@ -1205,13 +1365,20 @@
         "ptc"
       ],
       "question": "Explain which allele is dominant, using the information in the pedigree diagram.",
-      "status": "pending",
-      "answer": "Pending: the pedigree diagram is needed to see which phenotype appears in offspring of non-taster parents.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Taster is dominant: tasters 1 and 2 have a non-taster daughter (6), so both carry the recessive non-taster allele, which is masked in them.",
+      "steps": [
+        "Individuals 1 and 2 are both tasters but they have a non-taster child (individual 6).",
+        "The non-taster allele must therefore be present, but hidden, in both parents, so it is recessive.",
+        "So the taster allele is the dominant one: it is expressed even when the non-taster allele is also present (parents Tt and Tt, child tt)."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-25.jpg",
         "papers/biology/img/02C-Gene-Expression-26.jpg",
         "papers/biology/img/02C-Gene-Expression-27.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q13.jpg"
       ]
     },
     {
@@ -1229,13 +1396,20 @@
         "gene location"
       ],
       "question": "Explain why this gene is unlikely to be located on the X chromosome, using the pedigree diagram.",
-      "status": "pending",
-      "answer": "Pending: the pedigree diagram is needed to show male-to-male transmission or the pattern in the family.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The non-taster daughter (6) has a taster father (1); if the gene were X-linked recessive her father would also have to be a non-taster.",
+      "steps": [
+        "Individual 6 is a female non-taster, so (if non-tasting were recessive and X-linked) she would have two recessive alleles on her X chromosomes.",
+        "She must have inherited one X chromosome from her father, individual 1, so he would also carry the recessive allele and be a non-taster.",
+        "Individual 1 is a taster, so this pattern does not fit X-linked inheritance and the gene is more likely to be on an autosome."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-25.jpg",
         "papers/biology/img/02C-Gene-Expression-26.jpg",
         "papers/biology/img/02C-Gene-Expression-27.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q13.jpg"
       ]
     },
     {
@@ -1364,13 +1538,20 @@
         "chicks"
       ],
       "question": "Complete the table of expected numbers of speckled, white and black chicks from 480 chicks.",
-      "status": "pending",
-      "answer": "Pending: the table of expected and actual chick numbers is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "(O - E): speckled +3, white +5, black -8. (O - E)^2 / E: speckled 0.0375, white 0.208, black 0.533.",
+      "steps": [
+        "(O - E): speckled 243 - 240 = 3; white 125 - 120 = 5; black 112 - 120 = -8.",
+        "(O - E)^2 / E: speckled 3^2 / 240 = 9 / 240 = 0.0375.",
+        "White: 5^2 / 120 = 25 / 120 = 0.208; black: (-8)^2 / 120 = 64 / 120 = 0.533."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-27.jpg",
         "papers/biology/img/02C-Gene-Expression-28.jpg",
         "papers/biology/img/02C-Gene-Expression-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q14.jpg"
       ]
     },
     {
@@ -1387,13 +1568,20 @@
         "statistics"
       ],
       "question": "Calculate the chi-squared value for the chick data.",
-      "status": "pending",
-      "answer": "Pending: the observed and expected counts from the table are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "chi-squared = 0.78 (0.779)",
+      "steps": [
+        "Add the three (O - E)^2 / E values from the table.",
+        "0.0375 + 0.2083 + 0.5333 = 0.779.",
+        "To 2 s.f. the chi-squared value is 0.78."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-27.jpg",
         "papers/biology/img/02C-Gene-Expression-28.jpg",
         "papers/biology/img/02C-Gene-Expression-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q14.jpg"
       ]
     },
     {
@@ -1660,15 +1848,23 @@
         "denaturation"
       ],
       "question": "Explain the effects of pH on the activity of free lactase and immobilised lactase, using the table.",
-      "status": "pending",
-      "answer": "Pending: the table of pH and enzyme activity is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Both enzymes work best near pH 5 and lose activity at higher and lower pH; immobilised lactase is less affected, and is still active at pH 3 where free lactase is not.",
+      "steps": [
+        "Both enzymes have highest activity near pH 5 (free 94 a.u., immobilised 98 a.u.), the optimum pH.",
+        "Away from the optimum, extra H+ or OH- ions break ionic and hydrogen bonds in the tertiary structure, changing the shape of the active site, so fewer enzyme-substrate complexes form and activity falls (free lactase falls to 28 a.u. at pH 8).",
+        "At pH 2 both enzymes are denatured (0 a.u.), but at pH 3 immobilised lactase is still active (38 a.u.) while free lactase is not (0 a.u.).",
+        "At pH 5 to 8 immobilised lactase has equal or higher activity than free lactase (for example 76 v 63 a.u. at pH 6), because being enclosed in the beads helps hold the enzyme in shape, so it is more tolerant of changes in pH."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-31.jpg",
         "papers/biology/img/02C-Gene-Expression-32.jpg",
         "papers/biology/img/02C-Gene-Expression-33.jpg",
         "papers/biology/img/02C-Gene-Expression-34.jpg",
         "papers/biology/img/02C-Gene-Expression-35.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q16.jpg"
       ]
     },
     {
@@ -1795,12 +1991,19 @@
         "trend"
       ],
       "question": "Describe the effect of age and sex on the number of cases of one type of cancer, using the graph.",
-      "status": "pending",
-      "answer": "Pending: the graph of cancer cases by age and sex is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Cases rise with age in both sexes; females have more cases up to about 59 years, after which males have more and the rise is steeper.",
+      "steps": [
+        "Age: the number of cases increases with age for both males and females (about 3600 for males and 2250 for females per 100 000 at 90 years).",
+        "Females: cases start at about 20 years and rise fairly steadily; they are higher than males in younger groups (about 450 v 200 per 100 000 at 40 years).",
+        "Males: cases start at about 30 years but rise more steeply, so the lines cross at about 59 years (about 950 per 100 000), after which males have more cases than females."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-35.jpg",
         "papers/biology/img/02C-Gene-Expression-36.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q17.jpg"
       ]
     },
     {
@@ -1818,14 +2021,21 @@
         "mutation"
       ],
       "question": "Give the seventh triplet code in the beta-globin gene of a person with sickle cell disease, using the table of bases and amino acids.",
-      "status": "pending",
-      "answer": "Pending: the table of bases and amino acids is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "GUG",
+      "steps": [
+        "The seventh triplet in the healthy gene is GAG, which codes for Glu.",
+        "Sickle cell disease replaces Glu with Val; in the table Val is coded by GUG (second triplet).",
+        "So the middle base A is replaced by U (GAG becomes GUG), a single base change."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-36.jpg",
         "papers/biology/img/02C-Gene-Expression-37.jpg",
         "papers/biology/img/02C-Gene-Expression-38.jpg",
         "papers/biology/img/02C-Gene-Expression-39.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q18.jpg"
       ]
     },
     {
@@ -1928,14 +2138,22 @@
         "difference"
       ],
       "question": "Calculate the largest difference in p50 values between people with and without sickle cell disease, using the oxygen dissociation curves.",
-      "status": "pending",
-      "answer": "Pending: the p50 values must be read from the oxygen dissociation graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "3.4 kPa",
+      "steps": [
+        "p50 is the partial pressure of oxygen at 50% saturation; read across from 50% to the edges of each shaded area.",
+        "People without sickle cell disease: p50 from about 4.4 to 4.9 kPa. People with sickle cell disease: about 5.7 to 7.8 kPa.",
+        "Largest difference = highest value for sickle cell disease - lowest value for people without = 7.8 - 4.4 = 3.4 kPa.",
+        "Give to 1 decimal place, matching the precision to which the graph can be read (accept 3.3 to 3.5)."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-36.jpg",
         "papers/biology/img/02C-Gene-Expression-37.jpg",
         "papers/biology/img/02C-Gene-Expression-38.jpg",
         "papers/biology/img/02C-Gene-Expression-39.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q18-2.jpg"
       ]
     },
     {
@@ -1952,14 +2170,21 @@
         "haemoglobin"
       ],
       "question": "Identify two conclusions, other than the p50 difference, that can be made from the oxygen dissociation graph.",
-      "status": "pending",
-      "answer": "Pending: the oxygen dissociation graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Sickle cell group shows a wider range of values (more variation); at the same partial pressure of oxygen its haemoglobin is less saturated.",
+      "steps": [
+        "Conclusion 1: the sickle cell disease band is much wider than the non-sickle band (at 50% saturation about 2.1 kPa wide v 0.5 kPa), so there is more variation between people with the disease.",
+        "Conclusion 2: at any given partial pressure of oxygen the haemoglobin of people with sickle cell disease is less saturated (for example about 21 to 39% v 52 to 60% at 5 kPa), so it has a lower affinity for oxygen and the curve is shifted to the right.",
+        "Other acceptable points: both groups show S-shaped curves, saturation rises as partial pressure of oxygen rises, and the people with sickle cell disease need a higher partial pressure to approach full saturation."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-36.jpg",
         "papers/biology/img/02C-Gene-Expression-37.jpg",
         "papers/biology/img/02C-Gene-Expression-38.jpg",
         "papers/biology/img/02C-Gene-Expression-39.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q18-2.jpg"
       ]
     },
     {
@@ -2063,14 +2288,21 @@
         "proportion"
       ],
       "question": "Name two other types of mutation shown in the chart of cancers caused by different mutations.",
-      "status": "pending",
-      "answer": "Pending: the chart labels are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Insertion and deletion (inversion, duplication or translocation are also acceptable)",
+      "steps": [
+        "The chart shows three types of substitution and a group labelled other types of mutation.",
+        "The other types of gene mutation are insertion (a base added) and deletion (a base lost).",
+        "Larger chromosome changes such as inversion, duplication and translocation would also gain the mark."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-40.jpg",
         "papers/biology/img/02C-Gene-Expression-41.jpg",
         "papers/biology/img/02C-Gene-Expression-42.jpg",
         "papers/biology/img/02C-Gene-Expression-43.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q19.jpg"
       ]
     },
     {
@@ -2086,14 +2318,21 @@
         "estimate"
       ],
       "question": "Estimate the percentage of cancers caused by type 3 substitution mutations, from the chart.",
-      "status": "pending",
-      "answer": "Pending: the bar values in the chart are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 64% (accept 60 to 68%)",
+      "steps": [
+        "Type 3 is the largest segment, running clockwise from the top for about 230 degrees of the circle.",
+        "Percentage = 230 / 360 x 100 = 64%.",
+        "Check: type 1 is about 23%, type 2 about 4% and other types about 8%; 64 + 23 + 4 + 8 = 99%, allowing for rounding."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-40.jpg",
         "papers/biology/img/02C-Gene-Expression-41.jpg",
         "papers/biology/img/02C-Gene-Expression-42.jpg",
         "papers/biology/img/02C-Gene-Expression-43.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q19.jpg"
       ]
     },
     {
@@ -2141,14 +2380,22 @@
         "genetic diagram"
       ],
       "question": "What is the probability that couple 1 and 2 have a fourth child who is a male affected by PKU? Options: A 0.000, B 0.125, C 0.250, D 0.500.",
-      "status": "pending",
-      "answer": "Pending: the pedigree needs to be checked to confirm both parents are heterozygous carriers (option B would then be correct).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 0.125",
+      "steps": [
+        "Individuals 3 and 4 are affected sons of unaffected parents 1 and 2, so PKU is recessive and both parents are carriers (Pp x Pp).",
+        "Probability of an affected child (pp) = 1/4.",
+        "Probability the child is male = 1/2.",
+        "Probability of an affected male = 1/4 x 1/2 = 1/8 = 0.125, which is option B."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-40.jpg",
         "papers/biology/img/02C-Gene-Expression-41.jpg",
         "papers/biology/img/02C-Gene-Expression-42.jpg",
         "papers/biology/img/02C-Gene-Expression-43.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q19-2.jpg"
       ]
     },
     {
@@ -2166,14 +2413,24 @@
         "family"
       ],
       "question": "Discuss the extent to which the PKU pedigree diagram can be used to identify the genotypes of all members of the family.",
-      "status": "pending",
-      "answer": "Pending: the pedigree diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Genotypes are certain only for the affected (pp) individuals 3 and 4 and their parents 1 and 2 (Pp); individuals 5 to 9 could be PP or Pp.",
+      "steps": [
+        "PKU is recessive: unaffected parents 1 and 2 have affected children (3 and 4), so the allele is hidden in the parents.",
+        "Affected individuals 3 and 4 must be homozygous recessive (pp).",
+        "Parents 1 and 2 each passed a recessive allele to their affected sons, so both are heterozygous carriers (Pp).",
+        "Individual 5 is unaffected and the child of two carriers, so could be PP or Pp (probability 2/3 of Pp); the pedigree cannot show which.",
+        "Individual 6 is an unaffected outsider with no family history shown, so could be PP or Pp. Children 7, 8 and 9 are unaffected and each could be PP or Pp, as only 5 and 6 are unknown.",
+        "So the pedigree identifies the genotypes of only 1, 2, 3 and 4; the others could only be found by genetic testing or by more offspring."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-40.jpg",
         "papers/biology/img/02C-Gene-Expression-41.jpg",
         "papers/biology/img/02C-Gene-Expression-42.jpg",
         "papers/biology/img/02C-Gene-Expression-43.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q19-2.jpg"
       ]
     },
     {
@@ -2191,12 +2448,19 @@
         "population"
       ],
       "question": "Complete the table giving the number of people with red-green colour blindness in India and the percentage in Malaysia.",
-      "status": "pending",
-      "answer": "Pending: the statistics table is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "India: 71.8 million (1380 x 5.2%). Malaysia: 3.2% (1.024 / 32 x 100).",
+      "steps": [
+        "India: number = 5.2 / 100 x 1380 = 71.76 million, about 71.8 million.",
+        "Malaysia: percentage = 1.024 / 32 x 100 = 3.2%.",
+        "Check using Japan: 3.024 / 126 x 100 = 2.4%, which matches the table."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-43.jpg",
         "papers/biology/img/02C-Gene-Expression-44.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q20.jpg"
       ]
     },
     {
@@ -2280,6 +2544,9 @@
         "papers/biology/img/02C-Gene-Expression-45.jpg",
         "papers/biology/img/02C-Gene-Expression-46.jpg",
         "papers/biology/img/02C-Gene-Expression-47.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q21.jpg"
       ]
     },
     {
@@ -2296,14 +2563,22 @@
         "phenotype ratio"
       ],
       "question": "Determine the ratio of possible blood type phenotypes of the children of individuals 3 and 4, drawing a genetic diagram.",
-      "status": "pending",
-      "answer": "Pending: the genotypes of individuals 3 and 4 are shown in the pedigree, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1 blood group M : 2 blood group MN : 1 blood group N",
+      "steps": [
+        "Individuals 3 and 4 are both blood group MN, so both are heterozygous: L^M L^N (the alleles are codominant).",
+        "Gametes from each parent: L^M or L^N.",
+        "Punnett square: L^M L^M, L^M L^N, L^M L^N, L^N L^N.",
+        "Phenotypes: 1 group M : 2 group MN : 1 group N (probabilities 1/4, 1/2 and 1/4)."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-44.jpg",
         "papers/biology/img/02C-Gene-Expression-45.jpg",
         "papers/biology/img/02C-Gene-Expression-46.jpg",
         "papers/biology/img/02C-Gene-Expression-47.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q21.jpg"
       ]
     },
     {
@@ -2321,14 +2596,22 @@
         "individual 3"
       ],
       "question": "Explain how the alleles present in individual 3 result in the proteins found on the surfaces of his red blood cells, using the diagram of red blood cells.",
-      "status": "pending",
-      "answer": "Pending: the red blood cell diagram and individual 3's genotype are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Individual 3 is heterozygous (L^M L^N); both alleles are expressed, so he makes both protein M and protein N on his red blood cells.",
+      "steps": [
+        "Individual 3 is MN, so he inherited the M allele from his father (individual 1) and the N allele from his mother (individual 2).",
+        "Each allele is transcribed and translated into a different protein: the M allele codes for protein M and the N allele codes for protein N.",
+        "The alleles are codominant, so neither masks the other and both proteins are made and placed in the red blood cell membrane."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-44.jpg",
         "papers/biology/img/02C-Gene-Expression-45.jpg",
         "papers/biology/img/02C-Gene-Expression-46.jpg",
         "papers/biology/img/02C-Gene-Expression-47.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q21.jpg",
+        "papers/biology/fig/02C-Gene-Expression-Q21-2.jpg"
       ]
     },
     {
@@ -2359,6 +2642,10 @@
         "papers/biology/img/02C-Gene-Expression-45.jpg",
         "papers/biology/img/02C-Gene-Expression-46.jpg",
         "papers/biology/img/02C-Gene-Expression-47.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q21.jpg",
+        "papers/biology/fig/02C-Gene-Expression-Q21-2.jpg"
       ]
     },
     {
@@ -2387,6 +2674,9 @@
         "papers/biology/img/02C-Gene-Expression-47.jpg",
         "papers/biology/img/02C-Gene-Expression-48.jpg",
         "papers/biology/img/02C-Gene-Expression-49.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q22.jpg"
       ]
     },
     {
@@ -2413,6 +2703,9 @@
         "papers/biology/img/02C-Gene-Expression-47.jpg",
         "papers/biology/img/02C-Gene-Expression-48.jpg",
         "papers/biology/img/02C-Gene-Expression-49.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q22.jpg"
       ]
     },
     {
@@ -2486,13 +2779,23 @@
         "ethics"
       ],
       "question": "Discuss the responses of women to three questions about screening for four genetic disorders, using the graph and table.",
-      "status": "pending",
-      "answer": "Pending: the graph and table of genetic disorders are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Most women would accept a blood test, fewer an amniocentesis, and far fewer termination, which depends strongly on how severe the disorder is.",
+      "steps": [
+        "Blood test: very high for every disorder (about 94 to 98%), because it is non-invasive and carries no risk to the baby.",
+        "Amniocentesis: lower than the blood test for every disorder (about 64 to 72%) and similar across disorders; it is invasive and carries a small risk of miscarriage.",
+        "Termination: much lower and varies widely: highest for disorder A (about 62%), then D (about 41%), B (about 20%) and C (about 10%).",
+        "Link to the table: more women would terminate when the disorder is severe or sometimes lethal (A) than when it is treatable with a normal or near-normal life (B and C); D (intellectual disability) is in between.",
+        "Fewer women would terminate than have amniocentesis, because a test result can also be used to prepare for the child rather than to end the pregnancy.",
+        "Limitations: only opinions of women who had recently had healthy babies, so they may not reflect women in families affected by the disorders; what they say they would do may differ from what they would actually do."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-49.jpg",
         "papers/biology/img/02C-Gene-Expression-50.jpg",
         "papers/biology/img/02C-Gene-Expression-51.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q23.jpg"
       ]
     },
     {
@@ -2623,13 +2926,21 @@
         "table"
       ],
       "question": "Which row of the table shows the genotype and phenotype of individual 1 in the pedigree?",
-      "status": "pending",
-      "answer": "Pending: the table rows and pedigree are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: genotype Cc, unaffected heterozygous",
+      "steps": [
+        "The allele for CMT (c) is recessive, so an affected person is cc.",
+        "Individual 1 is unaffected but has an affected son (individual 4, cc), so he must have passed on a c allele.",
+        "Individual 1 is therefore heterozygous (Cc) and unaffected: row B."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-53.jpg",
         "papers/biology/img/02C-Gene-Expression-54.jpg",
         "papers/biology/img/02C-Gene-Expression-55.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q25.jpg",
+        "papers/biology/fig/02C-Gene-Expression-Q25-2.jpg"
       ]
     },
     {
@@ -2647,13 +2958,20 @@
         "cc or cc"
       ],
       "question": "Which allele combinations could individual 3 have? A CC only, B cc only, C CC or cc, D CC or Cc.",
-      "status": "pending",
-      "answer": "Pending: individual 3's phenotype is shown in the pedigree, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: CC or Cc",
+      "steps": [
+        "Individual 3 is unaffected, so he is not cc (CMT is recessive).",
+        "His parents are both carriers (Cc), because they have an affected child (individual 4, cc).",
+        "An unaffected child of two carriers can be CC (1/4) or Cc (1/2), so the answer is D."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-53.jpg",
         "papers/biology/img/02C-Gene-Expression-54.jpg",
         "papers/biology/img/02C-Gene-Expression-55.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q25.jpg"
       ]
     },
     {
@@ -2671,13 +2989,21 @@
         "genetic diagram"
       ],
       "question": "What is the probability that a fourth child would be a female with CMT? Options: A 1 in 2, B 1 in 4, C 1 in 8, D 1 in 16.",
-      "status": "pending",
-      "answer": "Pending: the parents' genotypes come from the pedigree, which is not in the text (1 in 8, option C, if both parents are carriers).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 1 in 8",
+      "steps": [
+        "Both parents are carriers (Cc x Cc), because they have an affected son (individual 4).",
+        "Probability of a child with CMT (cc) = 1/4.",
+        "Probability that the child is female = 1/2.",
+        "Probability of a female with CMT = 1/4 x 1/2 = 1/8, which is option C."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-53.jpg",
         "papers/biology/img/02C-Gene-Expression-54.jpg",
         "papers/biology/img/02C-Gene-Expression-55.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q25.jpg"
       ]
     },
     {
@@ -2891,13 +3217,20 @@
         "diagram"
       ],
       "question": "The base labelled Q is thymine. Which is the base labelled P? A adenine, B cytosine, C guanine, D uracil.",
-      "status": "pending",
-      "answer": "Pending: the DNA diagram labelling P and Q is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: adenine",
+      "steps": [
+        "P and Q are opposite each other and form one complementary base pair held by hydrogen bonds.",
+        "Q is thymine, and thymine pairs only with adenine (A to T, with two hydrogen bonds).",
+        "The pair in the diagram shows two dashed lines (two hydrogen bonds), which is consistent with an A-T pair, so P is adenine."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-57.jpg",
         "papers/biology/img/02C-Gene-Expression-58.jpg",
         "papers/biology/img/02C-Gene-Expression-59.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q27.jpg"
       ]
     },
     {
@@ -2914,13 +3247,22 @@
         "r s t"
       ],
       "question": "Which row of the table identifies the bonds labelled R, S and T in the DNA diagram?",
-      "status": "pending",
-      "answer": "Pending: the table and the DNA diagram are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: R phosphodiester, S covalent, T hydrogen",
+      "steps": [
+        "R is the bond between the deoxyribose sugar and the phosphate group in the sugar-phosphate backbone: a phosphodiester bond.",
+        "S joins the sugar to the base: a (glycosidic) covalent bond.",
+        "T is the dashed bond between complementary bases: a hydrogen bond.",
+        "Only row D has phosphodiester, covalent and hydrogen in that order."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-57.jpg",
         "papers/biology/img/02C-Gene-Expression-58.jpg",
         "papers/biology/img/02C-Gene-Expression-59.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q27.jpg",
+        "papers/biology/fig/02C-Gene-Expression-Q27-2.jpg"
       ]
     },
     {
@@ -2961,13 +3303,21 @@
         "comparison"
       ],
       "question": "Describe two conclusions that can be made about the mutation rate in the four groups of primates shown in the graph.",
-      "status": "pending",
-      "answer": "Pending: the graph of mutation rates in the four primate groups is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Mutation rate falls as the mean age at the start of breeding rises; the highest rate is in prosimians breeding at 4 years, and apes have the lowest rates.",
+      "steps": [
+        "Conclusion 1: there is a negative correlation: the mutation rate falls as the mean age when breeding starts increases, from about 4.4 x 10^-9 at 4 years to about 0.4 x 10^-9 at 30 years.",
+        "The fall is steep up to about 10 years, then the rate levels off at about 0.4 to 0.65 x 10^-9 for breeding ages of 10 to 30 years.",
+        "Conclusion 2: prosimians that start breeding at about 4 years have the highest mutation rate (about 4.4 x 10^-9 per base pair per year, with a large error bar), while apes, which start breeding latest (19 to 30 years), have the lowest rates.",
+        "The points of the four groups overlap, so mutation rate seems to relate to breeding age rather than to which group the primate is in (the error bars on some points also overlap)."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-57.jpg",
         "papers/biology/img/02C-Gene-Expression-58.jpg",
         "papers/biology/img/02C-Gene-Expression-59.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q27-3.jpg"
       ]
     },
     {
@@ -3121,9 +3471,14 @@
         "diagram"
       ],
       "question": "Complete the diagram to show one possible structure of a fatty acid side chain of an unsaturated lipid.",
-      "status": "pending",
-      "answer": "Pending: the partial diagram is not in the text, so the drawing cannot be checked (it should show a C=C double bond).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Join the four carbons with single bonds and add hydrogen atoms, with one C=C double bond in the chain, for example -CH2-CH=CH-CH3 after the C(=O) group.",
+      "steps": [
+        "An unsaturated fatty acid has at least one carbon-carbon double bond (C=C) in its hydrocarbon chain.",
+        "Draw lines between the four carbons, with one double bond between two of them (for example between the 2nd and 3rd carbon).",
+        "Add hydrogen atoms so every carbon has four bonds in total: CH2 on the 1st carbon, one H on each carbon of the C=C, and CH3 on the last carbon.",
+        "Any valid position for the double bond is acceptable; the chain must not be fully single-bonded (that would be saturated)."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-61.jpg",
         "papers/biology/img/02C-Gene-Expression-62.jpg",
@@ -3131,6 +3486,9 @@
         "papers/biology/img/02C-Gene-Expression-64.jpg",
         "papers/biology/img/02C-Gene-Expression-65.jpg",
         "papers/biology/img/02C-Gene-Expression-66.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q29.jpg"
       ]
     },
     {
@@ -3147,9 +3505,13 @@
         "60 months"
       ],
       "question": "Calculate the mean rate of increase in the surface of arteries covered in lesions from 16 to 60 months in primates fed saturated lipids (graph 1).",
-      "status": "pending",
-      "answer": "Pending: the values must be read from graph 1, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 1.1 percentage points per month (accept 1.1 to 1.2)",
+      "steps": [
+        "Graph 1, saturated lipids: about 2% of the artery surface covered at 16 months and about 52% at 60 months.",
+        "Change = 52 - 2 = 50 percentage points over 60 - 16 = 44 months.",
+        "Rate = 50 / 44 = 1.1 % per month (to 2 s.f.)."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-61.jpg",
         "papers/biology/img/02C-Gene-Expression-62.jpg",
@@ -3157,6 +3519,9 @@
         "papers/biology/img/02C-Gene-Expression-64.jpg",
         "papers/biology/img/02C-Gene-Expression-65.jpg",
         "papers/biology/img/02C-Gene-Expression-66.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q29-2.jpg"
       ]
     },
     {
@@ -3173,9 +3538,13 @@
         "graph"
       ],
       "question": "Calculate the ratio of primates with atherosclerosis given saturated lipids to those given unsaturated lipids, at 32 months (graph 2).",
-      "status": "pending",
-      "answer": "Pending: the values must be read from graph 2, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 1.5 : 1 (32 : 22, which is 16 : 11 or 1.45 : 1)",
+      "steps": [
+        "Graph 2 at 32 months: about 32% of primates fed saturated lipids have atherosclerosis and about 22% of those fed unsaturated lipids.",
+        "Ratio saturated : unsaturated = 32 : 22.",
+        "Dividing both by 22 gives 1.45 : 1, which is about 1.5 : 1 (or 16 : 11)."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-61.jpg",
         "papers/biology/img/02C-Gene-Expression-62.jpg",
@@ -3183,6 +3552,9 @@
         "papers/biology/img/02C-Gene-Expression-64.jpg",
         "papers/biology/img/02C-Gene-Expression-65.jpg",
         "papers/biology/img/02C-Gene-Expression-66.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q29-2.jpg"
       ]
     },
     {
@@ -3200,9 +3572,13 @@
         "difference"
       ],
       "question": "Calculate the difference in the area of atheromas in males compared with females given saturated fats (graph 3), in m^2.",
-      "status": "pending",
-      "answer": "Pending: the areas must be read from graph 3, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 22 000 um^2 (2.2 x 10^4 um^2)",
+      "steps": [
+        "Graph 3, saturated lipids after 60 months: males about 0.026 mm^2 and females about 0.004 mm^2.",
+        "Difference = 0.026 - 0.004 = 0.022 mm^2.",
+        "Convert: 1 mm^2 = 1 000 000 um^2 (10^6, um = micrometre), so 0.022 x 10^6 = 22 000 um^2 (accept about 21 000 to 23 000)."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-61.jpg",
         "papers/biology/img/02C-Gene-Expression-62.jpg",
@@ -3210,6 +3586,9 @@
         "papers/biology/img/02C-Gene-Expression-64.jpg",
         "papers/biology/img/02C-Gene-Expression-65.jpg",
         "papers/biology/img/02C-Gene-Expression-66.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q29-3.jpg"
       ]
     },
     {
@@ -3227,9 +3606,16 @@
         "cholesterol"
       ],
       "question": "Deduce the effects of the two diets (cholesterol with saturated lipids, or with unsaturated lipids) on lesions, atherosclerosis and atheromas in the coronary arteries, using the graphs.",
-      "status": "pending",
-      "answer": "Pending: the three graphs are needed to compare the two diets.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Saturated lipids cause more lesions, more atherosclerosis and larger atheromas than unsaturated lipids, especially after 32 months; lesions and atheromas also appear in unsaturated groups.",
+      "steps": [
+        "Lesions (graph 1): both diets increase the percentage of artery surface covered with age; at 16 and 32 months the diets are similar (2 v 4% and 18 v 16%), but at 60 months saturated lipids give far more (about 52% v 38%).",
+        "Atherosclerosis (graph 2): more primates have atherosclerosis on saturated lipids at every age (about 18 v 12% at 16 months, 32 v 22% at 32 months, 56 v 20% at 60 months).",
+        "On saturated lipids the percentage with atherosclerosis keeps rising, but on unsaturated lipids it levels off at about 20% after 32 months.",
+        "Atheromas (graph 3): after 60 months the area is much bigger on saturated lipids (males about 0.026 mm^2 v 0.007 mm^2 on unsaturated) and females have none or very small ones (about 0.004 mm^2 and 0.0 mm^2).",
+        "Males develop bigger atheromas than females on both diets, so sex also affects development; the error bars for males on saturated lipids are large.",
+        "Overall, saturated lipids (with cholesterol) cause more severe disease than unsaturated lipids, but unsaturated lipids with cholesterol still produce some lesions, so they do not prevent them completely."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-61.jpg",
         "papers/biology/img/02C-Gene-Expression-62.jpg",
@@ -3237,6 +3623,10 @@
         "papers/biology/img/02C-Gene-Expression-64.jpg",
         "papers/biology/img/02C-Gene-Expression-65.jpg",
         "papers/biology/img/02C-Gene-Expression-66.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q29-2.jpg",
+        "papers/biology/fig/02C-Gene-Expression-Q29-3.jpg"
       ]
     },
     {
@@ -3327,6 +3717,9 @@
         "papers/biology/img/02C-Gene-Expression-67.jpg",
         "papers/biology/img/02C-Gene-Expression-68.jpg",
         "papers/biology/img/02C-Gene-Expression-69.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q30.jpg"
       ]
     },
     {
@@ -3343,14 +3736,21 @@
         "table"
       ],
       "question": "Suggest which set of data is the most valid and give a reason for your answer.",
-      "status": "pending",
-      "answer": "Pending: the table of mutation data is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Mouse: it has the largest sample size (10 animals), so its data are less affected by anomalies and are more reliable.",
+      "steps": [
+        "Validity and reliability of data increase with sample size.",
+        "The table shows 10 mice sampled compared with 3 naked mole rats, 3 dogs and 8 humans.",
+        "A larger sample reduces the effect of anomalous results, so the mouse data are the most valid."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-66.jpg",
         "papers/biology/img/02C-Gene-Expression-67.jpg",
         "papers/biology/img/02C-Gene-Expression-68.jpg",
         "papers/biology/img/02C-Gene-Expression-69.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q30.jpg"
       ]
     },
     {
@@ -3367,14 +3767,22 @@
         "calculation"
       ],
       "question": "Calculate the mean mutation rate for the mouse from the graph, drawing a line of best fit.",
-      "status": "pending",
-      "answer": "Pending: the mouse data on the graph are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 800 mutations per cell per year (accept 700 to 900)",
+      "steps": [
+        "Draw a straight line of best fit through the mouse points, starting at the origin, with about equal numbers of points on each side.",
+        "Mean number of mutations per cell: about 540 at 0.6 years, 790 at 1.0, 1100 at 1.4 and 1560 at 2.0 years.",
+        "The line passes through about (2.0, 1600), so gradient = 1600 / 2.0 = 800 mutations per cell per year.",
+        "The gradient of the line is the mean mutation rate."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-66.jpg",
         "papers/biology/img/02C-Gene-Expression-67.jpg",
         "papers/biology/img/02C-Gene-Expression-68.jpg",
         "papers/biology/img/02C-Gene-Expression-69.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q30-2.jpg"
       ]
     },
     {
@@ -3391,14 +3799,22 @@
         "mutation rate"
       ],
       "question": "Describe three conclusions that can be made from the graphs of mutations per cell during the lifespans of four animals.",
-      "status": "pending",
-      "answer": "Pending: the graphs of mutations per cell are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Mutations per cell increase with age in all four species; the rate differs between species (mouse fastest, human slowest); short-lived animals accumulate mutations faster than long-lived ones.",
+      "steps": [
+        "Conclusion 1: in all four species the number of mutations per cell increases with age (positive correlation).",
+        "Conclusion 2: the rate of increase differs between species: the mouse gains about 800 mutations per year, the naked mole rat about 100, the dog about 230 and the human only about 50 (rough estimates from the graphs).",
+        "Conclusion 3: the species with shorter lifespans (mouse, 2 years) have much higher mutation rates than those with long lifespans (human, 80 years).",
+        "Other acceptable points: humans accumulate the most mutations in total (up to about 4000 per cell), and there is wide variation between individuals of the same age, especially in older mice and humans."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-66.jpg",
         "papers/biology/img/02C-Gene-Expression-67.jpg",
         "papers/biology/img/02C-Gene-Expression-68.jpg",
         "papers/biology/img/02C-Gene-Expression-69.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q30-2.jpg"
       ]
     },
     {
@@ -3428,6 +3844,9 @@
         "papers/biology/img/02C-Gene-Expression-67.jpg",
         "papers/biology/img/02C-Gene-Expression-68.jpg",
         "papers/biology/img/02C-Gene-Expression-69.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q30-2.jpg"
       ]
     },
     {
@@ -3556,13 +3975,21 @@
         "percentage"
       ],
       "question": "Compare and contrast the number of deaths caused by the five cancers in ethnic groups 1 and 2, using the graph.",
-      "status": "pending",
-      "answer": "Pending: the graph of cancer deaths by ethnic group is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Both groups have most deaths from lung and bronchus cancer (47 per 100 000); group 2 has more deaths from every other cancer, especially prostate (38 v 18).",
+      "steps": [
+        "Similarity: in both groups lung and bronchus cancer causes the most deaths, with the same value of about 47 per 100 000.",
+        "Similarity: pancreatic cancer causes the fewest deaths in both groups (11 in group 1 and 14 in group 2).",
+        "Difference: deaths from colon and rectum (19 v 14), breast (29 v 21), pancreas (14 v 11) and prostate (38 v 18) are all higher in group 2 than in group 1.",
+        "The largest difference is prostate cancer, where group 2 has more than double the deaths of group 1."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-71.jpg",
         "papers/biology/img/02C-Gene-Expression-72.jpg",
         "papers/biology/img/02C-Gene-Expression-73.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q32.jpg"
       ]
     },
     {
@@ -3579,13 +4006,20 @@
         "calculation"
       ],
       "question": "Which is the percentage difference between lung and bronchus cancer deaths in ethnic group 1 and ethnic group 3? A 0.45%, B 0.89%, C 44.62%, D 89.23%.",
-      "status": "pending",
-      "answer": "Pending: the death values from the graph are needed to apply the formula.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 89.23%",
+      "steps": [
+        "Lung and bronchus deaths: group 1 = 47 and group 3 = 18 per 100 000.",
+        "Difference = 47 - 18 = 29; mean = (47 + 18) / 2 = 32.5.",
+        "Percentage difference = 29 / 32.5 x 100 = 89.23%, which is option D."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-71.jpg",
         "papers/biology/img/02C-Gene-Expression-72.jpg",
         "papers/biology/img/02C-Gene-Expression-73.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q32.jpg"
       ]
     },
     {
@@ -3602,13 +4036,19 @@
         "graph"
       ],
       "question": "Calculate how many more males died of prostate cancer in ethnic group 2 than in ethnic group 1.",
-      "status": "pending",
-      "answer": "Pending: the numbers of deaths are read from the graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "20 more deaths per 100 000 people",
+      "steps": [
+        "Prostate cancer deaths: ethnic group 2 = 38 per 100 000 and ethnic group 1 = 18 per 100 000.",
+        "Difference = 38 - 18 = 20 deaths per 100 000."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-71.jpg",
         "papers/biology/img/02C-Gene-Expression-72.jpg",
         "papers/biology/img/02C-Gene-Expression-73.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q32.jpg"
       ]
     },
     {
@@ -3637,6 +4077,9 @@
         "papers/biology/img/02C-Gene-Expression-71.jpg",
         "papers/biology/img/02C-Gene-Expression-72.jpg",
         "papers/biology/img/02C-Gene-Expression-73.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q32.jpg"
       ]
     },
     {
@@ -3712,13 +4155,23 @@
         "screening"
       ],
       "question": "Discuss the advantages and disadvantages of PGD and prenatal testing for couples at risk of having a child with OI, using the diagram of testing types.",
-      "status": "pending",
-      "answer": "Pending: the diagram giving information on the prenatal testing types is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "PGD avoids termination but needs IVF; NIPT and CVS give early results, with CVS and amniocentesis being invasive and risking miscarriage; ultrasound and cordocentesis are late and less specific or riskier.",
+      "steps": [
+        "PGD (before implantation): advantage: only embryos without the OI allele are implanted, so no termination of pregnancy; disadvantages: needs IVF, which is expensive, has a lower success rate and raises the ethical issue of discarding embryos.",
+        "NIPT (7 to 10 weeks): advantage: non-invasive (only a blood sample), no risk of miscarriage and the earliest result; disadvantages: it tests fetal DNA in the mother's blood so may not be fully diagnostic, and a positive result usually needs confirming.",
+        "Chorionic villus sampling (10 to 12 weeks): advantage: early and gives a direct DNA diagnosis; disadvantage: invasive, with a small risk of miscarriage.",
+        "Amniocentesis (15 to 20 weeks): advantage: gives a reliable DNA diagnosis; disadvantages: invasive with a risk of miscarriage, and the late result means any termination is later and more distressing.",
+        "Ultrasound (after 20 weeks) is non-invasive but late and cannot show the genotype, only abnormalities; cordocentesis (22 to 24 weeks) is very late and carries the highest risk.",
+        "General points: because OI is dominant, a heterozygous parent has a 50% chance of passing it on, so testing is informative; false results, cost and ethical objections to termination or embryo selection should be weighed."
+      ],
       "images": [
         "papers/biology/img/02C-Gene-Expression-74.jpg",
         "papers/biology/img/02C-Gene-Expression-75.jpg",
         "papers/biology/img/02C-Gene-Expression-76.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02C-Gene-Expression-Q33.jpg"
       ]
     }
   ]

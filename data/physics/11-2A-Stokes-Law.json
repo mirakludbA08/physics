@@ -19,12 +19,20 @@
         "oil"
       ],
       "question": "A polystyrene bead moves upwards through oil at constant velocity. Complete the free-body force diagram showing all forces on the bead.",
-      "status": "pending",
-      "answer": "Needs the diagram from the PDF to check the arrows (expected: upthrust up, weight down, viscous drag down)",
-      "steps": [],
+      "status": "ready",
+      "answer": "Add weight (downwards) and viscous drag (downwards); the upthrust already drawn acts upwards and equals weight + drag",
+      "steps": [
+        "The bead rises at constant velocity, so the resultant force on it is zero.",
+        "Weight W acts vertically downwards from the centre of the bead.",
+        "Viscous drag acts downwards as well, because it opposes the upward motion.",
+        "Upthrust = weight + drag, so the upward arrow must be as long as the two downward arrows added together."
+      ],
       "images": [
         "papers/physics/img/11-2A-Stokes-Law-01.jpg",
         "papers/physics/img/11-2A-Stokes-Law-02.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q1.jpg"
       ]
     },
     {
@@ -98,12 +106,21 @@
         "terminal velocity"
       ],
       "question": "For Stokes' law to be valid the speed of the bead must be less than v_R, given by a formula. The oil viscosity is 4.90 x 10^-2 Pa s and the bead weight is 1.05 x 10^-5 N. Deduce whether Stokes' law can be applied.",
-      "status": "pending",
-      "answer": "Needs the formula for v_R, which is missing from the text; check it against the PDF before working the answer",
-      "steps": [],
+      "status": "ready",
+      "answer": "Stokes' law cannot be applied: the bead's speed (about 0.16 m s^-1) is greater than v_R = 0.13 m s^-1",
+      "steps": [
+        "From the paper, v_R = 10 x viscosity / (density of oil x diameter) = 10 x 4.90 x 10^-2 / (930 x 4.00 x 10^-3) = 0.13 m s^-1.",
+        "At constant velocity upthrust = weight + drag, so drag D = 3.06 x 10^-4 - 1.05 x 10^-5 = 2.96 x 10^-4 N (upthrust from part (b)).",
+        "Stokes' law: D = 6 pi eta r v, so v = D / (6 pi eta r) = 2.96 x 10^-4 / (6 pi x 4.90 x 10^-2 x 2.00 x 10^-3) = 0.16 m s^-1.",
+        "The bead speed 0.16 m s^-1 is greater than v_R = 0.13 m s^-1, so the flow is not laminar.",
+        "Therefore Stokes' law cannot be applied to this bead."
+      ],
       "images": [
         "papers/physics/img/11-2A-Stokes-Law-01.jpg",
         "papers/physics/img/11-2A-Stokes-Law-02.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q1-2.jpg"
       ]
     },
     {
@@ -341,12 +358,20 @@
         "falls faster"
       ],
       "question": "A ball bearing falls at terminal velocity through a liquid. As the temperature of the liquid increases, the terminal velocity increases. Which row of the table is correct?",
-      "status": "pending",
-      "answer": "Needs the table of options from the PDF (the table is not in the text)",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: viscous drag constant, viscosity of the liquid decreases",
+      "steps": [
+        "At terminal velocity the resultant force is zero, so drag = weight - upthrust.",
+        "Weight and upthrust do not change when the liquid warms (density taken as constant), so the drag stays constant.",
+        "Drag = 6 pi eta r v: the same drag at a greater speed v means a smaller viscosity eta, so viscosity decreases as temperature rises.",
+        "Rows C and D (drag decreases) and row A (viscosity increases) are all wrong, so B is correct."
+      ],
       "images": [
         "papers/physics/img/11-2A-Stokes-Law-05.jpg",
         "papers/physics/img/11-2A-Stokes-Law-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q5.jpg"
       ]
     },
     {
@@ -890,13 +915,21 @@
         "expression"
       ],
       "question": "Using the air resistance expression for a raindrop of radius 2.0 x 10^-3 m (with density of air 1.2 kg m^-3 and rainwater density 1.0 x 10^3 kg m^-3), calculate the terminal velocity.",
-      "status": "pending",
-      "answer": "Needs the air resistance expression, which is missing from the text; check it against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Terminal velocity = 7.0 m s^-1",
+      "steps": [
+        "The air resistance is given on the paper as F = 0.45 rho A v^2, with rho the density of air and A the cross-sectional area.",
+        "At terminal velocity F = weight = (4/3) pi r^3 rho_water g = (4/3) pi (2.0 x 10^-3)^3 x 1.0 x 10^3 x 9.81 = 3.29 x 10^-4 N.",
+        "A = pi r^2 = pi x (2.0 x 10^-3)^2 = 1.26 x 10^-5 m^2.",
+        "v^2 = F / (0.45 rho A) = 3.29 x 10^-4 / (0.45 x 1.2 x 1.26 x 10^-5) = 48.4, so v = 7.0 m s^-1."
+      ],
       "images": [
         "papers/physics/img/11-2A-Stokes-Law-11.jpg",
         "papers/physics/img/11-2A-Stokes-Law-12.jpg",
         "papers/physics/img/11-2A-Stokes-Law-13.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q12-2.jpg"
       ]
     },
     {
@@ -914,13 +947,21 @@
         "diagram"
       ],
       "question": "A water drop slides off a leaf. Add to the diagram the positions of the drop at regular intervals of time, given the first two positions.",
-      "status": "pending",
-      "answer": "Needs the diagram from the PDF to check the spacing of the drop positions",
-      "steps": [],
+      "status": "ready",
+      "answer": "Further positions go down and to the right along a smooth curve, with the gap between successive positions getting larger each time",
+      "steps": [
+        "The drop is accelerating downwards (free fall, little air resistance), so in equal time intervals it travels further each time.",
+        "Each new gap between positions is bigger than the one before it, so the dots spread out.",
+        "The sideways speed from leaving the leaf stays roughly constant, so the horizontal spacing stays equal while the vertical spacing grows, giving a curved (parabolic) path.",
+        "Mark at least two more positions along this curve, continuing from the two given."
+      ],
       "images": [
         "papers/physics/img/11-2A-Stokes-Law-11.jpg",
         "papers/physics/img/11-2A-Stokes-Law-12.jpg",
         "papers/physics/img/11-2A-Stokes-Law-13.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q12.jpg"
       ]
     },
     {
@@ -1005,6 +1046,9 @@
       "images": [
         "papers/physics/img/11-2A-Stokes-Law-13.jpg",
         "papers/physics/img/11-2A-Stokes-Law-14.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q13.jpg"
       ]
     },
     {
@@ -1053,12 +1097,20 @@
         "spherical"
       ],
       "question": "An object is moving through a fluid. Which row of the table states the conditions that must be met for Stokes' law to apply?",
-      "status": "pending",
-      "answer": "Needs the table of rows from the PDF (not in the text)",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: small, spherical, laminar flow",
+      "steps": [
+        "Stokes' law (drag = 6 pi eta r v) is derived for a small sphere moving through a fluid with laminar flow.",
+        "Rows A and B (turbulent flow) are wrong, because turbulent drag is not given by Stokes' law.",
+        "Row D allows any shape, but the law only holds for a sphere.",
+        "Only row C has small, spherical and laminar, so C is correct."
+      ],
       "images": [
         "papers/physics/img/11-2A-Stokes-Law-14.jpg",
         "papers/physics/img/11-2A-Stokes-Law-15.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q14.jpg"
       ]
     },
     {
@@ -1104,13 +1156,20 @@
         "graph shape"
       ],
       "question": "The data-logger graph of a falling ball-bearing is shown. Explain the shape of the graph.",
-      "status": "pending",
-      "answer": "Needs the graph from the PDF to check the shape it shows",
-      "steps": [],
+      "status": "ready",
+      "answer": "The ball starts from rest (zero gradient), accelerates (gradient increases), then the graph becomes a straight line, showing a constant terminal velocity",
+      "steps": [
+        "The gradient of a displacement-time graph is the velocity. At t = 0 the gradient is zero because the ball is released from rest.",
+        "Over the first 0.6 s the graph gets steeper: the ball accelerates because its weight is greater than upthrust + drag, but the drag grows with speed, so the acceleration gets smaller.",
+        "After about 0.6 s the graph is a straight line, so the velocity is constant: drag + upthrust = weight, the resultant force is zero, and the ball is at terminal velocity."
+      ],
       "images": [
         "papers/physics/img/11-2A-Stokes-Law-15.jpg",
         "papers/physics/img/11-2A-Stokes-Law-16.jpg",
         "papers/physics/img/11-2A-Stokes-Law-17.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q15.jpg"
       ]
     },
     {
@@ -1129,13 +1188,21 @@
         "drag"
       ],
       "question": "A ball-bearing of diameter 1.6 mm has a difference of 1.45 x 10^-4 N between its upthrust and weight. Calculate the viscosity of the liquid, assuming Stokes' law applies.",
-      "status": "pending",
-      "answer": "Needs the terminal velocity read from the graph, which is not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Viscosity = 4.6 x 10^-2 Pa s (about 0.046 Pa s)",
+      "steps": [
+        "Terminal velocity is the gradient of the straight part of the graph, e.g. from t = 0.6 s (11.6 cm) to t = 1.1 s (1.3 cm): v = 10.3 x 10^-2 m / 0.5 s = 0.21 m s^-1.",
+        "At terminal velocity the drag equals the difference between weight and upthrust, D = 1.45 x 10^-4 N.",
+        "Radius r = 0.80 x 10^-3 m. Stokes' law: D = 6 pi eta r v, so eta = D / (6 pi r v).",
+        "eta = 1.45 x 10^-4 / (6 pi x 0.80 x 10^-3 x 0.21) = 1.45 x 10^-4 / 3.17 x 10^-3 = 4.6 x 10^-2 Pa s."
+      ],
       "images": [
         "papers/physics/img/11-2A-Stokes-Law-15.jpg",
         "papers/physics/img/11-2A-Stokes-Law-16.jpg",
         "papers/physics/img/11-2A-Stokes-Law-17.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q15.jpg"
       ]
     },
     {
@@ -1252,6 +1319,9 @@
         "papers/physics/img/11-2A-Stokes-Law-17.jpg",
         "papers/physics/img/11-2A-Stokes-Law-18.jpg",
         "papers/physics/img/11-2A-Stokes-Law-19.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q16.jpg"
       ]
     },
     {
@@ -1269,13 +1339,21 @@
         "slope"
       ],
       "question": "Determine the vertical acceleration of the diver at 70 s from the velocity-time graph.",
-      "status": "pending",
-      "answer": "Needs the velocity-time graph from the PDF to read the gradient at 70 s",
-      "steps": [],
+      "status": "ready",
+      "answer": "Acceleration = -9 x 10^-3 m s^-2 (about 0.009 m s^-2 downwards, the upward velocity is decreasing)",
+      "steps": [
+        "Acceleration is the gradient of the v-t graph, so draw a tangent to the curve at t = 70 s.",
+        "Over the curve near 70 s, v falls from about 0.38 m s^-1 at 67 s to about 0.32 m s^-1 at 74 s.",
+        "Gradient = (0.32 - 0.38) / (74 - 67) = -0.06 / 7 = -8.6 x 10^-3, about -9 x 10^-3 m s^-2.",
+        "The negative sign means the acceleration is downwards (opposite to the upward velocity); values from -8 x 10^-3 to -1.0 x 10^-2 m s^-2 are acceptable from a graph reading."
+      ],
       "images": [
         "papers/physics/img/11-2A-Stokes-Law-17.jpg",
         "papers/physics/img/11-2A-Stokes-Law-18.jpg",
         "papers/physics/img/11-2A-Stokes-Law-19.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q16.jpg"
       ]
     },
     {
@@ -1461,13 +1539,20 @@
         "glass spheres"
       ],
       "question": "The graph of terminal velocity v against d^2 is shown. Deduce from the graph whether the flow of liquid around the spheres was laminar.",
-      "status": "pending",
-      "answer": "Needs the graph from the PDF to check whether v against d^2 is a straight line through the origin",
-      "steps": [],
+      "status": "ready",
+      "answer": "Yes: v against d^2 is a straight line through the origin, so v is proportional to d^2 as Stokes' law predicts, which needs laminar flow",
+      "steps": [
+        "Stokes' law gives v = k d^2 only when the flow is laminar.",
+        "The graph is a straight line through the origin, and the points lie close to the line, with no curve at larger d.",
+        "So v is proportional to d^2, which agrees with the prediction of Stokes' law, so the flow around the spheres was laminar."
+      ],
       "images": [
         "papers/physics/img/11-2A-Stokes-Law-20.jpg",
         "papers/physics/img/11-2A-Stokes-Law-21.jpg",
         "papers/physics/img/11-2A-Stokes-Law-22.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q19.jpg"
       ]
     },
     {
@@ -1485,13 +1570,20 @@
         "glass spheres"
       ],
       "question": "Using the student's graph of v against d^2, where Stokes' law gives v = k d^2, determine a value for k.",
-      "status": "pending",
-      "answer": "Needs the graph values from the PDF to find the gradient k",
-      "steps": [],
+      "status": "ready",
+      "answer": "k = 6.0 m^-1 s^-1",
+      "steps": [
+        "k = v / d^2 is the gradient of the best-fit line through the origin.",
+        "Take a large triangle: at d^2 = 10.0 x 10^-4 m^2 the line gives v = 6.0 x 10^-3 m s^-1.",
+        "k = 6.0 x 10^-3 / 10.0 x 10^-4 = 6.0 m^-1 s^-1 (the far end of the line, 7.7 x 10^-3 at 12.9 x 10^-4, gives the same value)."
+      ],
       "images": [
         "papers/physics/img/11-2A-Stokes-Law-20.jpg",
         "papers/physics/img/11-2A-Stokes-Law-21.jpg",
         "papers/physics/img/11-2A-Stokes-Law-22.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q19.jpg"
       ]
     },
     {
@@ -1509,13 +1601,20 @@
         "liquid"
       ],
       "question": "The constant k is given by a formula involving the viscosity of the liquid. Using density of glass 2.52 x 10^3 kg m^-3 and density of liquid 1.43 x 10^3 kg m^-3, determine a value for the viscosity.",
-      "status": "pending",
-      "answer": "Needs the value of k from part (ii) and the formula for k, which is missing from the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Viscosity = 99 Pa s (about 1.0 x 10^2 Pa s)",
+      "steps": [
+        "The paper gives k = (rho_g - rho_s) g / (18 eta), so eta = (rho_g - rho_s) g / (18 k).",
+        "rho_g - rho_s = 2.52 x 10^3 - 1.43 x 10^3 = 1.09 x 10^3 kg m^-3, and k = 6.0 m^-1 s^-1 from part (ii).",
+        "eta = 1.09 x 10^3 x 9.81 / (18 x 6.0) = 1.07 x 10^4 / 108 = 99 Pa s."
+      ],
       "images": [
         "papers/physics/img/11-2A-Stokes-Law-20.jpg",
         "papers/physics/img/11-2A-Stokes-Law-21.jpg",
         "papers/physics/img/11-2A-Stokes-Law-22.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q19-2.jpg"
       ]
     },
     {
@@ -1544,6 +1643,9 @@
         "papers/physics/img/11-2A-Stokes-Law-22.jpg",
         "papers/physics/img/11-2A-Stokes-Law-23.jpg",
         "papers/physics/img/11-2A-Stokes-Law-24.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q20.jpg"
       ]
     },
     {
@@ -1572,6 +1674,9 @@
         "papers/physics/img/11-2A-Stokes-Law-22.jpg",
         "papers/physics/img/11-2A-Stokes-Law-23.jpg",
         "papers/physics/img/11-2A-Stokes-Law-24.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q20.jpg"
       ]
     },
     {
@@ -1589,13 +1694,19 @@
         "falling sphere"
       ],
       "question": "The student used an equation for the viscosity of the oil with symbols defined in the text. Which quantity is represented by the symbol shown in part (i)?",
-      "status": "pending",
-      "answer": "Needs the equation from the PDF, since its symbols are missing from the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "The weight of the sphere",
+      "steps": [
+        "(4/3) pi r^3 is the volume of the sphere.",
+        "Multiplying by rho_s gives the mass of the sphere, and multiplying by g gives its weight."
+      ],
       "images": [
         "papers/physics/img/11-2A-Stokes-Law-22.jpg",
         "papers/physics/img/11-2A-Stokes-Law-23.jpg",
         "papers/physics/img/11-2A-Stokes-Law-24.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q20-2.jpg"
       ]
     },
     {
@@ -1613,13 +1724,19 @@
         "stokes"
       ],
       "question": "Which quantity is represented by the symbol shown in part (ii) of the viscosity equation?",
-      "status": "pending",
-      "answer": "Needs the equation from the PDF, since its symbols are missing from the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "The upthrust on the sphere (the weight of oil it displaces)",
+      "steps": [
+        "(4/3) pi r^3 is the volume of oil displaced by the fully submerged sphere.",
+        "Multiplying by rho_o g gives the weight of the displaced oil, which is the upthrust (Archimedes principle)."
+      ],
       "images": [
         "papers/physics/img/11-2A-Stokes-Law-22.jpg",
         "papers/physics/img/11-2A-Stokes-Law-23.jpg",
         "papers/physics/img/11-2A-Stokes-Law-24.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q20-2.jpg"
       ]
     },
     {
@@ -1648,6 +1765,9 @@
         "papers/physics/img/11-2A-Stokes-Law-22.jpg",
         "papers/physics/img/11-2A-Stokes-Law-23.jpg",
         "papers/physics/img/11-2A-Stokes-Law-24.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q20-2.jpg"
       ]
     },
     {
@@ -1707,6 +1827,9 @@
         "papers/physics/img/11-2A-Stokes-Law-24.jpg",
         "papers/physics/img/11-2A-Stokes-Law-25.jpg",
         "papers/physics/img/11-2A-Stokes-Law-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q21.jpg"
       ]
     },
     {
@@ -1895,12 +2018,20 @@
         "row"
       ],
       "question": "A sphere falls through a viscous liquid. Which row of the table describes the upthrust and viscous drag as the sphere accelerates downwards?",
-      "status": "pending",
-      "answer": "Needs the table of rows from the PDF (not in the text)",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: upthrust constant, viscous drag increasing",
+      "steps": [
+        "The sphere is fully submerged, so the volume of liquid it displaces does not change and the upthrust (rho V g) stays constant.",
+        "Viscous drag = 6 pi eta r v increases as the speed v increases while the sphere accelerates.",
+        "Only row B has constant upthrust and increasing drag."
+      ],
       "images": [
         "papers/physics/img/11-2A-Stokes-Law-27.jpg",
         "papers/physics/img/11-2A-Stokes-Law-28.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q23.jpg",
+        "papers/physics/fig/11-2A-Stokes-Law-Q23-2.jpg"
       ]
     },
     {
@@ -1918,12 +2049,20 @@
         "diagram"
       ],
       "question": "A student releases a ball bearing at point V and times its fall to determine its terminal velocity in oil. Which two points (A: V and Y, B: W and Y, C: X and Y, D: W and Z) should be used for the measured distance?",
-      "status": "pending",
-      "answer": "Needs the diagram showing points V, W, X, Y and Z (not in the text)",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: X and Y",
+      "steps": [
+        "The ball must be timed only while it is moving at constant (terminal) velocity.",
+        "V is above the oil and W is at the surface, where the ball is still accelerating, so a timed section starting there would include the acceleration.",
+        "Z is too close to the base of the cylinder, where the ball slows and is hard to time.",
+        "X is a little below the surface (ball nearly at terminal velocity) and Y is well above the base, so X to Y is the best measured distance."
+      ],
       "images": [
         "papers/physics/img/11-2A-Stokes-Law-28.jpg",
         "papers/physics/img/11-2A-Stokes-Law-29.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q24.jpg"
       ]
     },
     {
@@ -1951,6 +2090,9 @@
       "images": [
         "papers/physics/img/11-2A-Stokes-Law-29.jpg",
         "papers/physics/img/11-2A-Stokes-Law-30.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q25.jpg"
       ]
     },
     {
@@ -2024,13 +2166,20 @@
         "viscosity"
       ],
       "question": "A student uses the falling-ball method on vegetable oil. Give one other measurement needed to determine the viscosity of the oil.",
-      "status": "pending",
-      "answer": "Needs the PDF mark scheme or diagram to confirm which measurement is expected (the text does not name it)",
-      "steps": [],
+      "status": "ready",
+      "answer": "The mass of the ball-bearing (to find its weight); the density of the oil is also acceptable",
+      "steps": [
+        "Drag at terminal velocity = weight - upthrust, and then eta = drag / (6 pi r v).",
+        "Diameter and the speed (20.0 cm / time) are already measured, so the weight is still needed, found from the mass of the ball-bearing (or its density).",
+        "The upthrust also needs the density of the oil, so measuring that is another valid answer."
+      ],
       "images": [
         "papers/physics/img/11-2A-Stokes-Law-30.jpg",
         "papers/physics/img/11-2A-Stokes-Law-31.jpg",
         "papers/physics/img/11-2A-Stokes-Law-32.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/11-2A-Stokes-Law-Q27.jpg"
       ]
     },
     {

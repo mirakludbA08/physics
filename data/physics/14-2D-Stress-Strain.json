@@ -19,12 +19,19 @@
         "stress strain"
       ],
       "question": "A compressive force F acts on an object of Young modulus E, original length x and cross-sectional area A. Which expression gives the length after the force is applied? The options A to D are not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the answer options A to D are missing from the extracted text (they appear only as images in the PDF).",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: x - Fx / (AE)",
+      "steps": [
+        "Stress = F / A and strain = stress / E = F / (AE).",
+        "The compression is strain x original length = Fx / (AE).",
+        "The force is compressive, so the length gets shorter: new length = x - Fx / (AE), which is option D."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-01.jpg",
         "papers/physics/img/14-2D-Stress-Strain-02.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q1.jpg"
       ]
     },
     {
@@ -120,12 +127,19 @@
         "tensile force"
       ],
       "question": "A force is applied to a copper wire. Which row of the length and diameter table would give the greatest extension? The table is not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the table of lengths and diameters (rows A to D) is missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: length 2x, diameter D",
+      "steps": [
+        "Extension = F L / (A E), so for the same force and material extension is proportional to L / A, which is proportional to L / d^2.",
+        "Row A: x / D^2 = 1 unit, row B: x / (4D^2) = 0.25, row C: 2x / D^2 = 2, row D: 2x / (4D^2) = 0.5.",
+        "Row C has the largest value of L / d^2, so it gives the greatest extension."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-02.jpg",
         "papers/physics/img/14-2D-Stress-Strain-03.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q3.jpg"
       ]
     },
     {
@@ -142,12 +156,19 @@
         "definition"
       ],
       "question": "Which row of the table shows the correct application of the terms stiffness constant and Young modulus? The table is not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the table with the four rows (A to D) is missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: stiffness constant applies to objects, Young modulus applies to materials",
+      "steps": [
+        "The stiffness constant k = F / x depends on the size and shape of the object (for a wire, k = EA / L).",
+        "The Young modulus is stress / strain, a property of the material that does not depend on the dimensions of the sample.",
+        "So the stiffness constant applies to objects and the Young modulus to materials: row D."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-02.jpg",
         "papers/physics/img/14-2D-Stress-Strain-03.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q4.jpg"
       ]
     },
     {
@@ -165,12 +186,18 @@
         "dimensionless"
       ],
       "question": "A 50 cm wire extends by 2 mm under a load. Which option gives the strain? The options A to D are not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the answer options A to D are missing from the extracted text (expected strain 0.004).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 0.004",
+      "steps": [
+        "Strain = extension / original length.",
+        "Both in the same units: 2 mm / 500 mm = 0.004 (no units)."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-03.jpg",
         "papers/physics/img/14-2D-Stress-Strain-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q5.jpg"
       ]
     },
     {
@@ -187,12 +214,19 @@
         "tensile force"
       ],
       "question": "A wire breaks under tensile force T. A second wire of the same material has twice the diameter. What force breaks the second wire? The options A to D are not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the answer options A to D are missing from the extracted text (expected 4T from the area ratio).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 4T",
+      "steps": [
+        "The same material breaks at the same breaking stress, so the breaking force = breaking stress x area.",
+        "Area is proportional to d^2, so doubling the diameter gives 4 times the area.",
+        "The breaking force is therefore 4T."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-03.jpg",
         "papers/physics/img/14-2D-Stress-Strain-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q6.jpg"
       ]
     },
     {
@@ -211,12 +245,22 @@
         "energy absorbed"
       ],
       "question": "Concrete samples with and without glue capsules are stressed up to fracture. Explain how adding the glue capsules changes the properties of the concrete, using the stress-strain graphs.",
-      "status": "pending",
-      "answer": "Pending: the answer depends on the stress-strain graphs for samples A and B, which are not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The capsules leave the initial stiffness unchanged, but concrete B stands a much higher stress and strain before fracture, becomes stiffer and absorbs much more energy, so it is tougher",
+      "steps": [
+        "At low stress and strain the two graphs coincide, so the gradient (Young modulus) at the start is the same: the capsules do not change the initial stiffness.",
+        "Sample A (plain concrete) fractures early, at low stress and strain, so the graph stops there.",
+        "Sample B carries on and its gradient increases: it becomes stiffer (larger stress for a given extra strain), because glue released from broken capsules fills the cracks and stops them spreading.",
+        "B reaches a maximum stress about 4 times that at which A fractures, so it can withstand a much greater force before breaking.",
+        "B also fractures at nearly twice the strain, so it can be deformed more before it breaks.",
+        "The area under the graph for B is much larger than for A, so B absorbs much more energy per unit volume before fracture: it is tougher."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-04.jpg",
         "papers/physics/img/14-2D-Stress-Strain-05.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q7.jpg"
       ]
     },
     {
@@ -234,12 +278,19 @@
         "table"
       ],
       "question": "A wire of length x and diameter d extends by x under a tensile force. A second wire of the same material extends by 2x under the same force. Which row of the table could give its length and diameter? The table is not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the table of length and diameter options is missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: length 0.5x, diameter 0.5d",
+      "steps": [
+        "Extension = F L / (A E), so for the same force and material extension is proportional to L / d^2.",
+        "The first wire has extension proportional to x / d^2; the second needs twice this, so L / d^2 must double.",
+        "Row A: 0.5x / (0.5d)^2 = 2 x / d^2, which is double, so it is correct. Row B gives 1/8, row C gives 8 and row D gives 0.5 times the first wire."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-05.jpg",
         "papers/physics/img/14-2D-Stress-Strain-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q8.jpg"
       ]
     },
     {
@@ -299,6 +350,9 @@
         "papers/physics/img/14-2D-Stress-Strain-06.jpg",
         "papers/physics/img/14-2D-Stress-Strain-07.jpg",
         "papers/physics/img/14-2D-Stress-Strain-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q9-2.jpg"
       ]
     },
     {
@@ -315,13 +369,21 @@
         "2 x 10^11 Pa"
       ],
       "question": "Using the stress-strain graph for steel in the ACSR cable, show that the Young modulus of steel is about 2 x 10^11 Pa. The graph is not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the stress and strain values must be read from the steel stress-strain graph, which is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Young modulus of steel = gradient of the straight part = about 1.8 x 10^11 Pa, which is about 2 x 10^11 Pa",
+      "steps": [
+        "The Young modulus is stress / strain, which is the gradient of the initial straight part of the steel line.",
+        "On the steel line, a stress of 100 MPa is reached at a strain of about 5.5 x 10^-4.",
+        "E = 100 x 10^6 / 5.5 x 10^-4 = 1.8 x 10^11 Pa.",
+        "This is about 2 x 10^11 Pa to 1 significant figure."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-06.jpg",
         "papers/physics/img/14-2D-Stress-Strain-07.jpg",
         "papers/physics/img/14-2D-Stress-Strain-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q9.jpg"
       ]
     },
     {
@@ -381,6 +443,9 @@
         "papers/physics/img/14-2D-Stress-Strain-06.jpg",
         "papers/physics/img/14-2D-Stress-Strain-07.jpg",
         "papers/physics/img/14-2D-Stress-Strain-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q9.jpg"
       ]
     },
     {
@@ -425,12 +490,20 @@
         "compression test"
       ],
       "question": "The Young modulus of concrete increases as it dries. Using the stress-strain graphs for 2-day and 28-day samples, show that the Young modulus after drying is at least 1.3 times greater.",
-      "status": "pending",
-      "answer": "Pending: the gradients of the 2-day and 28-day stress-strain graphs must be read from the graph, which is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "E(28 days) / E(2 days) = about 1.3 to 1.4, so the Young modulus is at least 1.3 times greater",
+      "steps": [
+        "The Young modulus is the gradient of the initial straight part of each graph.",
+        "28-day sample: at strain 0.0010 the stress is about 44 MPa, so E = 44 x 10^6 / 0.0010 = 4.4 x 10^10 Pa.",
+        "2-day sample: at strain 0.0010 the stress is about 33 MPa, so E = 33 x 10^6 / 0.0010 = 3.3 x 10^10 Pa.",
+        "Ratio = 4.4 x 10^10 / 3.3 x 10^10 = 1.3 (1.33), so the Young modulus is at least 1.3 times greater."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-09.jpg",
         "papers/physics/img/14-2D-Stress-Strain-10.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q11.jpg"
       ]
     },
     {
@@ -447,12 +520,20 @@
         "percentage reduction"
       ],
       "question": "The 2-day sample absorbs 0.35 MJ m^-3 before fracture, and the 28-day sample absorbs less. Determine the percentage reduction in energy absorbed, given that the energy per unit volume is the area under the stress-strain graph.",
-      "status": "pending",
-      "answer": "Pending: the energy absorbed by the 28-day sample must be read as an area from the stress-strain graph, which is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The energy absorbed falls by about 11% (accept about 8% to 15%)",
+      "steps": [
+        "Energy per unit volume is the area under the stress-strain graph. One large square is 0.001 x 20 MPa = 2.0 x 10^4 J m^-3 = 0.02 MJ m^-3.",
+        "The area under the 28-day graph up to fracture (strain 0.0040) is about 15.5 large squares = 0.31 MJ m^-3.",
+        "The 2-day sample absorbs 0.35 MJ m^-3 and the volumes are the same, so the fall is 0.35 - 0.31 = 0.04 MJ m^-3.",
+        "Percentage reduction = 0.04 / 0.35 x 100 = 11%."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-09.jpg",
         "papers/physics/img/14-2D-Stress-Strain-10.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q11.jpg"
       ]
     },
     {
@@ -498,13 +579,20 @@
         "suitability"
       ],
       "question": "Using the stress-strain graph for concrete (positive strain for compression, negative for tension), explain how it shows concrete is more suitable under compression than tension.",
-      "status": "pending",
-      "answer": "Pending: the answer depends on comparing the compressive and tensile parts of the concrete stress-strain graph, which is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Concrete withstands a much greater stress (about 41 MPa) and strain in compression than in tension (about 10 MPa), so it is more suitable under compression",
+      "steps": [
+        "Positive strain is compression: the stress rises to a maximum of about 41 MPa at a strain of about 0.3% before the concrete fractures.",
+        "Negative strain is tension: the stress reaches only about 10 MPa (in magnitude) at a strain of about -0.05%, and then fractures.",
+        "So concrete can take about 4 times the stress, and a larger strain, before breaking in compression than in tension, so it is better used in compression."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-11.jpg",
         "papers/physics/img/14-2D-Stress-Strain-12.jpg",
         "papers/physics/img/14-2D-Stress-Strain-13.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q12.jpg"
       ]
     },
     {
@@ -521,13 +609,20 @@
         "breaking stress"
       ],
       "question": "A steel rod of diameter 45 mm is used. Using the steel stress-strain graph, calculate the maximum force before the rod fractures.",
-      "status": "pending",
-      "answer": "Pending: the fracture stress must be read from the steel stress-strain graph, which is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Maximum force = 8.1 x 10^5 N",
+      "steps": [
+        "The greatest stress the steel withstands is the peak of the graph, about 5.1 x 10^8 Pa.",
+        "Cross-sectional area A = pi r^2 = pi x (22.5 x 10^-3)^2 = 1.59 x 10^-3 m^2.",
+        "Force = stress x area = 5.1 x 10^8 x 1.59 x 10^-3 = 8.1 x 10^5 N (using the slightly lower tension peak of about 4.9 x 10^8 Pa would give about 7.8 x 10^5 N)."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-11.jpg",
         "papers/physics/img/14-2D-Stress-Strain-12.jpg",
         "papers/physics/img/14-2D-Stress-Strain-13.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q12-2.jpg"
       ]
     },
     {
@@ -628,13 +723,20 @@
         "2 x 10^11 Pa"
       ],
       "question": "Using the compressive stress-strain graph for the metal, show that its Young modulus is about 2 x 10^11 Pa. The graph is not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the stress and strain values must be read from the compressive stress-strain graph, which is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Young modulus = gradient of the line = 2.1 x 10^11 Pa, which is about 2 x 10^11 Pa",
+      "steps": [
+        "The Young modulus is stress / strain, which is the gradient of the straight line through the origin.",
+        "Using a large triangle, the line gives a stress of 4.2 x 10^8 Pa at a strain of 2.0 x 10^-3.",
+        "E = 4.2 x 10^8 / 2.0 x 10^-3 = 2.1 x 10^11 Pa, about 2 x 10^11 Pa."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-13.jpg",
         "papers/physics/img/14-2D-Stress-Strain-14.jpg",
         "papers/physics/img/14-2D-Stress-Strain-15.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q13.jpg"
       ]
     },
     {
@@ -683,14 +785,24 @@
         "10 kN"
       ],
       "question": "A climber falls with fall factor 0.80 on a 15.0 m rope with maximum strain 9.0%, and mass 71 kg. Show that the maximum force on the climber due to the rope is about 10 kN, assuming extension is proportional to tension.",
-      "status": "pending",
-      "answer": "Pending: an energy calculation using the given data gives about 1.4 x 10^4 N (13.8 kN), not the 10 kN stated, so the intended method cannot be confirmed from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Maximum force = 1.4 x 10^4 N, which is about 1 x 10^4 N (10 kN) to 1 significant figure",
+      "steps": [
+        "Fall factor = height fallen before the rope stretches / total unstretched length, so the height fallen = 0.80 x 15.0 = 12.0 m.",
+        "Maximum extension of the rope = 9.0% of 15.0 m = 1.35 m.",
+        "The climber loses gravitational potential energy over the whole distance 12.0 + 1.35 m: E = m g h = 71 x 9.81 x 13.35 = 9.3 x 10^3 J.",
+        "This is all stored as elastic strain energy. As extension is proportional to tension, E = (1/2) F x, so F = 2E / x = 2 x 9.3 x 10^3 / 1.35 = 1.4 x 10^4 N.",
+        "1.4 x 10^4 N is about 1 x 10^4 N = 10 kN to 1 significant figure."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-15.jpg",
         "papers/physics/img/14-2D-Stress-Strain-16.jpg",
         "papers/physics/img/14-2D-Stress-Strain-17.jpg",
         "papers/physics/img/14-2D-Stress-Strain-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q14.jpg",
+        "papers/physics/fig/14-2D-Stress-Strain-Q14-2.jpg"
       ]
     },
     {
@@ -721,6 +833,9 @@
         "papers/physics/img/14-2D-Stress-Strain-16.jpg",
         "papers/physics/img/14-2D-Stress-Strain-17.jpg",
         "papers/physics/img/14-2D-Stress-Strain-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q14.jpg"
       ]
     },
     {
@@ -738,14 +853,24 @@
         "replacement recommendation"
       ],
       "question": "Manufacturers recommend replacing climbing ropes every 5 years. Force-extension graphs for a 1 m length of new rope and of rope after 5 years are shown. Comment on the recommendation, including calculations.",
-      "status": "pending",
-      "answer": "Pending: the answer depends on reading breaking forces and stiffnesses from the force-extension graphs, which are not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The recommendation is sensible: after 5 years the rope breaks at about 13 kN instead of 18 kN, stretches about twice as far under the same force, and absorbs less energy before breaking",
+      "steps": [
+        "Breaking force: the new rope breaks at about 18 x 10^3 N (extension 0.13 m); the 5-year-old rope breaks at only about 13 x 10^3 N (extension 0.18 m), about 30% lower.",
+        "Stiffness: at a force of 5000 N the new rope extends about 0.07 m, but the old rope extends about 0.13 m, so the old rope is much less stiff.",
+        "Energy absorbed to break 1 m (area under each graph): new rope about 790 J, old rope about 660 J, about 16% less.",
+        "A hard fall can produce a force of the order of 14 kN (part (a)), which is more than the old rope can stand (13 kN) but less than the new rope (18 kN), so the aged rope could break.",
+        "The aged rope also stretches more, so a falling climber would travel further before being stopped.",
+        "So the manufacturers are right: the rope weakens with age, and replacing it after 5 years keeps a safe margin."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-15.jpg",
         "papers/physics/img/14-2D-Stress-Strain-16.jpg",
         "papers/physics/img/14-2D-Stress-Strain-17.jpg",
         "papers/physics/img/14-2D-Stress-Strain-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q14-3.jpg"
       ]
     },
     {
@@ -922,12 +1047,19 @@
         "stiffness"
       ],
       "question": "Determine the gradient of the student's weight against extension graph for the stainless steel wire.",
-      "status": "pending",
-      "answer": "Pending: the gradient must be read from the student's weight-extension graph, which is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Gradient = 1.9 x 10^4 N m^-1 (about 18.5 N per 10^-3 m)",
+      "steps": [
+        "Draw a large triangle on the best-fit line, which passes through the origin.",
+        "At an extension of 2.0 x 10^-3 m the line gives a weight of about 37 N.",
+        "Gradient = 37 / 2.0 x 10^-3 = 1.85 x 10^4 N m^-1, about 1.9 x 10^4 N m^-1."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-20.jpg",
         "papers/physics/img/14-2D-Stress-Strain-21.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q16.jpg"
       ]
     },
     {
@@ -944,12 +1076,20 @@
         "wire"
       ],
       "question": "Using the gradient from part (b)(i), determine the Young modulus of stainless steel for a wire of unstretched length 2.6 m and diameter 5.6 x 10^-4 m.",
-      "status": "pending",
-      "answer": "Pending: the answer depends on the gradient read from the weight-extension graph in part (b)(i), which is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Young modulus = 2.0 x 10^11 Pa",
+      "steps": [
+        "Gradient of the weight-extension graph = F / x = 1.85 x 10^4 N m^-1.",
+        "Young modulus E = (F / A) / (x / L) = gradient x L / A.",
+        "Area A = pi (d/2)^2 = pi x (2.8 x 10^-4)^2 = 2.46 x 10^-7 m^2.",
+        "E = 1.85 x 10^4 x 2.6 / 2.46 x 10^-7 = 1.95 x 10^11 Pa, about 2.0 x 10^11 Pa."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-20.jpg",
         "papers/physics/img/14-2D-Stress-Strain-21.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q16.jpg"
       ]
     },
     {
@@ -1034,6 +1174,9 @@
         "papers/physics/img/14-2D-Stress-Strain-21.jpg",
         "papers/physics/img/14-2D-Stress-Strain-22.jpg",
         "papers/physics/img/14-2D-Stress-Strain-23.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q17-2.jpg"
       ]
     },
     {
@@ -1051,13 +1194,23 @@
         "unloading"
       ],
       "question": "The electromagnet is switched off and the steel object falls. A student says the elastic strain energy in the cable is transferred to the gravitational potential energy of the electromagnet. Discuss this statement, adding to the force-extension graph.",
-      "status": "pending",
-      "answer": "Pending: the discussion needs the force-extension graph of the cable to be annotated, which cannot be given as text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Not correct as stated: only part of the elastic energy released becomes gravitational potential energy; the rest becomes kinetic energy of the electromagnet, which then oscillates and is dissipated as heat",
+      "steps": [
+        "Before the object falls the cable supports the total weight W_total, and the extension is x2, with elastic energy equal to the area under the graph up to x2.",
+        "On the graph draw a horizontal line at the weight of the electromagnet alone, W_m. It meets the graph at the new equilibrium extension x1, less than x2.",
+        "The decrease in elastic energy is the area under the graph between x1 and x2, a trapezoid equal to (1/2)(W_m + W_total)(x2 - x1).",
+        "The gain in gravitational potential energy of the electromagnet is W_m (x2 - x1), the rectangle under the W_m line, which is smaller than the trapezoid.",
+        "The remaining energy (the triangle above the rectangle) becomes kinetic energy of the electromagnet, which oscillates, and is dissipated as thermal energy, so the student's statement is not correct in general (all of it becomes GPE only at the very top of the first oscillation if there are no losses)."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-21.jpg",
         "papers/physics/img/14-2D-Stress-Strain-22.jpg",
         "papers/physics/img/14-2D-Stress-Strain-23.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q17-2.jpg",
+        "papers/physics/fig/14-2D-Stress-Strain-Q17.jpg"
       ]
     },
     {
@@ -1214,12 +1367,19 @@
         "formula"
       ],
       "question": "A stress is applied across the ends of a wire of cross-sectional area A. Work W is done to extend the wire by x. Which expression could be used to determine W? The options are not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the extracted text (they appear only as images in the PDF).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: W = (1/2) x sigma x A x delta x",
+      "steps": [
+        "Force F = stress x area = sigma A.",
+        "For a wire obeying Hooke's law, work done = area under the force-extension graph = (1/2) F delta x.",
+        "So W = (1/2) x sigma x A x delta x, which is option C."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-25.jpg",
         "papers/physics/img/14-2D-Stress-Strain-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q19.jpg"
       ]
     },
     {
@@ -1236,12 +1396,19 @@
         "yield"
       ],
       "question": "A stress-strain graph up to breaking point is drawn for four wire samples A to D. Which sample has both a low elastic limit and a large region of plastic deformation? The graph and options are not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the stress-strain graph for samples A to D and the options are missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C",
+      "steps": [
+        "A low elastic limit means the curve levels off at a low stress, so the candidates are C and D (A and B have much higher stress).",
+        "A large region of plastic deformation means a long flat part of the graph before breaking, i.e. a large strain range at nearly constant stress.",
+        "C has the longer plastic region (it extends to a larger strain than D), so C is correct."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-25.jpg",
         "papers/physics/img/14-2D-Stress-Strain-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q20.jpg"
       ]
     },
     {
@@ -1259,11 +1426,19 @@
         "energy equation"
       ],
       "question": "An object of mass m rests on a compressed spring, which returns to its original length, and the object has speed v at that point. Which equation describes the energy transfer? The options are not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the extracted text (they appear only as images in the PDF).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: (1/2) F delta x = (1/2) m v^2 + m g delta x",
+      "steps": [
+        "The force rises from zero to F as the spring is compressed by delta x, so the energy stored is (1/2) F delta x.",
+        "As the spring returns to its original length the object rises by delta x, so it gains gravitational potential energy m g delta x.",
+        "The rest of the energy is kinetic: (1/2) F delta x = (1/2) m v^2 + m g delta x, which is option B."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q21.jpg",
+        "papers/physics/fig/14-2D-Stress-Strain-Q21-2.jpg"
       ]
     },
     {
@@ -1281,11 +1456,19 @@
         "work done"
       ],
       "question": "Two springs S1 and S2 hang with masses attached. S1 extends by x and stores elastic strain energy E. Which expression gives the strain energy in S2? The extension of S2 and the options are not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the extension of S2 and the answer options are missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 2E / 3",
+      "steps": [
+        "Elastic energy = (1/2) F x, where F is the weight hanging on the spring.",
+        "S1: force mg and extension x, so E = (1/2) m g x.",
+        "S2: force 2mg and extension x/3, so energy = (1/2)(2mg)(x/3) = (2/3)(1/2) m g x = 2E / 3, option C."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-27.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q22.jpg",
+        "papers/physics/fig/14-2D-Stress-Strain-Q22-2.jpg"
       ]
     },
     {
@@ -1332,12 +1515,20 @@
         "three springs"
       ],
       "question": "A spring stretched by force F stores energy E. Three identical springs in parallel are stretched by a force 2F. Which expression gives the total elastic energy? The options are not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the extracted text (the expected result is 4E/3, which should be checked against the options).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 4E / 3",
+      "steps": [
+        "For one spring, E = (1/2) F x = F^2 / (2k), so energy is proportional to (force)^2.",
+        "The three identical springs share 2F equally, so each carries 2F / 3.",
+        "Energy in each = (2/3)^2 E = 4E / 9, and for three springs the total is 3 x 4E / 9 = 4E / 3."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-29.jpg",
         "papers/physics/img/14-2D-Stress-Strain-30.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q24.jpg",
+        "papers/physics/fig/14-2D-Stress-Strain-Q24-2.jpg"
       ]
     },
     {
@@ -1354,12 +1545,20 @@
         "maximum extension"
       ],
       "question": "A rubber band is stretched and returned to its original length. Using the force-extension graph with areas P, Q and R, which expression gives the work done in stretching it to maximum extension? The graph is not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the force-extension graph showing areas P, Q and R is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Q + R",
+      "steps": [
+        "The work done in stretching is the area under the upper (loading) curve, from zero to maximum extension.",
+        "The area under the lower (unloading) curve is R, and the area between the two curves is Q.",
+        "So the area under the loading curve is Q + R. Area P lies above the curve and is not part of the work done."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-30.jpg",
         "papers/physics/img/14-2D-Stress-Strain-31.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q25.jpg",
+        "papers/physics/fig/14-2D-Stress-Strain-Q25-2.jpg"
       ]
     },
     {
@@ -1376,12 +1575,20 @@
         "joules"
       ],
       "question": "Using a force-extension graph for a spring, which expression gives the work done in joules to extend the spring by 0.30 m from its original length? The graph and options are not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the force-extension graph and answer options are missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 0.5 x 0.30 x 2.5",
+      "steps": [
+        "The graph is a straight line through the origin, so the work done is the area of a triangle = (1/2) x force x extension.",
+        "At an extension of 0.30 m the graph reads a force of about 2.5 N.",
+        "Work = 0.5 x 0.30 x 2.5 J, which is option B."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-31.jpg",
         "papers/physics/img/14-2D-Stress-Strain-32.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q26.jpg",
+        "papers/physics/fig/14-2D-Stress-Strain-Q26-2.jpg"
       ]
     },
     {
@@ -1399,12 +1606,20 @@
         "table"
       ],
       "question": "Arrangements P and Q of identical springs are subject to the same tensile force F, and one spring alone stores energy E. Which row of the table gives the total strain energy in each arrangement? The diagram and table are not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the arrangement diagrams and the table are missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: P = 2E, Q = (1/2)E",
+      "steps": [
+        "P: two identical springs in series each carry the full force F, so each stores E and the total is 2E.",
+        "Q: the two springs are in parallel, so the force F is shared and each carries F/2.",
+        "Energy is proportional to force squared, so each stores E/4 and the total is E/2, which gives row D."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-32.jpg",
         "papers/physics/img/14-2D-Stress-Strain-33.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q27.jpg",
+        "papers/physics/fig/14-2D-Stress-Strain-Q27-2.jpg"
       ]
     },
     {
@@ -1421,12 +1636,20 @@
         "table"
       ],
       "question": "A steel wire fixed at one end has an increasing force applied to the other end. Which row of the table identifies points P, Q and R on the force-extension graph? The graph and table are not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the force-extension graph and the table of points P, Q and R are missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: P is the yield point, Q the elastic limit and R the limit of proportionality",
+      "steps": [
+        "Moving along the graph from the origin, the first point to be reached is the end of the straight line, R, the limit of proportionality.",
+        "Q is a little further along, just beyond R: the elastic limit.",
+        "P is the peak just before the dip in the curve where the wire starts to stretch with little extra force: the yield point."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-33.jpg",
         "papers/physics/img/14-2D-Stress-Strain-34.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q28.jpg",
+        "papers/physics/fig/14-2D-Stress-Strain-Q28-2.jpg"
       ]
     },
     {
@@ -1455,6 +1678,10 @@
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-34.jpg",
         "papers/physics/img/14-2D-Stress-Strain-35.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q29-2.jpg",
+        "papers/physics/fig/14-2D-Stress-Strain-Q29.jpg"
       ]
     },
     {
@@ -1472,12 +1699,19 @@
         "graph"
       ],
       "question": "Using the graph of maximum velocity against extension for the elastic cord, and a glider mass of 300 g, determine the stiffness k of the cord.",
-      "status": "pending",
-      "answer": "Pending: the gradient of the velocity-extension graph is needed and is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "k = 23 N m^-1",
+      "steps": [
+        "Energy conservation: (1/2) k (delta x)^2 = (1/2) m v^2, so v = delta x sqrt(k / m) and the gradient of the graph = sqrt(k / m).",
+        "Gradient of the best-fit line = (4.4 - 1.8) / (0.50 - 0.20) = 8.7 s^-1.",
+        "k = m x gradient^2 = 0.300 x 8.7^2 = 23 N m^-1."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-34.jpg",
         "papers/physics/img/14-2D-Stress-Strain-35.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q29.jpg"
       ]
     },
     {
@@ -1504,6 +1738,9 @@
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-34.jpg",
         "papers/physics/img/14-2D-Stress-Strain-35.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q29.jpg"
       ]
     },
     {
@@ -1520,12 +1757,18 @@
         "same distance"
       ],
       "question": "A force F compresses a spring by x. A second spring with double the stiffness is compressed by the same distance x. Which expression gives the force on the second spring? The options are not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the extracted text (the expected force is 2F).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 2F",
+      "steps": [
+        "Hooke's law: F = k x, so for the same compression the force is proportional to the stiffness.",
+        "Doubling the stiffness at the same compression doubles the force: 2F."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-35.jpg",
         "papers/physics/img/14-2D-Stress-Strain-36.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q30.jpg"
       ]
     },
     {
@@ -1542,13 +1785,21 @@
         "exception"
       ],
       "question": "Several graphs are drawn and the area under each represents a physical quantity. For which graph is the area not equal to work done? The graphs are not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the set of graphs and their options are only in the PDF image, not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: stress against strain",
+      "steps": [
+        "Force against displacement: area = force x distance = work done.",
+        "Force against extension: area = work done in stretching.",
+        "Power against time: area = power x time = energy transferred = work done.",
+        "Stress against strain: area = (force / area) x (extension / length) = energy per unit volume, not work done. So D is the exception."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-36.jpg",
         "papers/physics/img/14-2D-Stress-Strain-37.jpg",
         "papers/physics/img/14-2D-Stress-Strain-38.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q31.jpg"
       ]
     },
     {
@@ -1646,13 +1897,21 @@
         "stored energy"
       ],
       "question": "The spring returns to its original length L. Sketch a graph of the ball's velocity against the length of the spring.",
-      "status": "pending",
-      "answer": "Pending: the answer is a sketched graph on the axes printed in the PDF, which cannot be given as text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A curve starting at zero velocity at a length below L (the compressed length), rising with decreasing gradient to a maximum velocity at L, where the gradient is zero",
+      "steps": [
+        "The spring starts compressed (length less than L, to the left of L on the axis) with the ball at rest, so the curve starts on the length axis at v = 0.",
+        "As the spring extends, the ball speeds up, but the spring force falls, so the acceleration decreases and the curve becomes less steep.",
+        "At the original length L the spring force is zero (no acceleration), so the velocity is at its maximum and the curve is horizontal there.",
+        "The shape is a quarter of an ellipse from (compressed length, 0) to (L, v_max), because (1/2) m v^2 = (1/2) k (x0^2 - x^2)."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-36.jpg",
         "papers/physics/img/14-2D-Stress-Strain-37.jpg",
         "papers/physics/img/14-2D-Stress-Strain-38.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q32.jpg"
       ]
     },
     {
@@ -1669,13 +1928,19 @@
         "graph"
       ],
       "question": "A student loads a spring and plots position against load for loading and unloading. State the significance of point K on the graph.",
-      "status": "pending",
-      "answer": "Pending: point K must be identified on the loading graph, which is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Point K is the limit of proportionality: beyond K the force is no longer proportional to the extension",
+      "steps": [
+        "Up to K the loading graph is a straight line through the origin, so force is proportional to extension (Hooke's law obeyed).",
+        "At K the line starts to curve, so K is the limit of proportionality."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-38.jpg",
         "papers/physics/img/14-2D-Stress-Strain-39.jpg",
         "papers/physics/img/14-2D-Stress-Strain-40.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q33.jpg"
       ]
     },
     {
@@ -1703,6 +1968,9 @@
         "papers/physics/img/14-2D-Stress-Strain-38.jpg",
         "papers/physics/img/14-2D-Stress-Strain-39.jpg",
         "papers/physics/img/14-2D-Stress-Strain-40.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q33.jpg"
       ]
     },
     {
@@ -1730,6 +1998,9 @@
         "papers/physics/img/14-2D-Stress-Strain-38.jpg",
         "papers/physics/img/14-2D-Stress-Strain-39.jpg",
         "papers/physics/img/14-2D-Stress-Strain-40.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q33.jpg"
       ]
     },
     {
@@ -1747,13 +2018,20 @@
         "sketch"
       ],
       "question": "A second student forgets to subtract the original length of the spring from the measurements. Sketch the shape of the graph he would obtain for loading.",
-      "status": "pending",
-      "answer": "Pending: the answer is a sketch on axes printed in the PDF, which cannot be given as text (the graph would be a straight line with an offset, parallel to the original line).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A straight line with the same gradient as before, but not through the origin: it starts on the extension axis at a positive value equal to the original length, then curves like the first graph beyond the limit of proportionality",
+      "steps": [
+        "He plots the length (original length + extension) instead of the extension.",
+        "With no load the plotted value is the original length, so the graph starts on the horizontal axis at a positive value, not at the origin.",
+        "Every point is shifted to the right by the same amount, so the straight part is parallel to the correct graph (same gradient)."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-38.jpg",
         "papers/physics/img/14-2D-Stress-Strain-39.jpg",
         "papers/physics/img/14-2D-Stress-Strain-40.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q33-2.jpg"
       ]
     },
     {
@@ -1800,12 +2078,19 @@
         "yield point"
       ],
       "question": "A copper rod is put under tensile stress and the stress is plotted against strain. What does point X represent? Options: A fracture point, B limit of proportionality, C maximum stress, D yield point. The graph is not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the stress-strain graph showing point X is missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: the yield point of copper",
+      "steps": [
+        "X is the peak of the curve after the initial steep rise, followed by a drop in stress.",
+        "After this point the rod stretches a lot with little or no increase in stress, which is the yield point.",
+        "It is not the fracture point or the maximum stress (the curve rises higher later), so D is correct."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-40.jpg",
         "papers/physics/img/14-2D-Stress-Strain-41.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q34.jpg"
       ]
     },
     {
@@ -1848,12 +2133,18 @@
         "graph"
       ],
       "question": "State how the graph of extension against force for the rubber band shows that it deformed elastically.",
-      "status": "pending",
-      "answer": "Pending: the answer depends on the loading and unloading curves in the graph, which are not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The extension returns to zero when the force is reduced to zero (the decreasing-force curve ends at the origin), so the band returns to its original length",
+      "steps": [
+        "Elastic deformation means the object returns to its original length when the force is removed.",
+        "On the graph, when the force falls back to zero the extension is also back to zero."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-41.jpg",
         "papers/physics/img/14-2D-Stress-Strain-42.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q36.jpg"
       ]
     },
     {
@@ -1871,12 +2162,20 @@
         "energy"
       ],
       "question": "The work done on the rubber band while the force increases is greater than the work done by the band as the force decreases, because heating occurred. Determine the energy that caused heating.",
-      "status": "pending",
-      "answer": "Pending: the energy equals the area between the loading and unloading curves, which must be read from the graph (not in the extracted text).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Energy that caused heating = 0.050 J (about 5 x 10^-2 J)",
+      "steps": [
+        "Work done on the band as force increases = area under the increasing-force curve, which is about 10.7 N cm.",
+        "Work done by the band as force decreases = area under the decreasing-force curve, about 5.7 N cm.",
+        "The energy that caused heating is the difference, which is the area between the curves = about 5.0 N cm.",
+        "1 N cm = 0.01 J, so the energy = 5.0 x 0.01 = 0.050 J (accept about 0.045 to 0.055 J)."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-41.jpg",
         "papers/physics/img/14-2D-Stress-Strain-42.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q36.jpg"
       ]
     },
     {
@@ -1893,12 +2192,19 @@
         "young modulus"
       ],
       "question": "Two wires P and Q of different metals are stretched to breaking, and their stress-strain graphs are shown. Which statement is correct: A P has greater breaking stress, B P has greater breaking strain, C P has greater yield stress, D P has lower Young modulus? The graph is not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the stress-strain graphs for wires P and Q are missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: P has a greater yield stress than Q",
+      "steps": [
+        "P has the steeper initial line, so it has the greater Young modulus (D is false).",
+        "P's first peak (the yield stress) is higher than Q's, so C is true.",
+        "Q ends at a higher stress and a larger strain than P, so P has a lower breaking stress (A false) and a lower breaking strain (B false)."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-42.jpg",
         "papers/physics/img/14-2D-Stress-Strain-43.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q37.jpg"
       ]
     },
     {
@@ -1994,12 +2300,18 @@
         "joules"
       ],
       "question": "A spring is stretched by a force of 3.0 N and stores 0.04 J of elastic strain energy. Which expression gives the extension in m? The options are not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the extracted text (the extension is 2E/F = 0.027 m, which should be checked against the options).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 2 x 0.04 / 3.0 (0.027 m)",
+      "steps": [
+        "Elastic strain energy E = (1/2) F x.",
+        "So the extension x = 2E / F = 2 x 0.04 / 3.0 = 0.027 m, which is option A."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-45.jpg",
         "papers/physics/img/14-2D-Stress-Strain-46.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q41.jpg"
       ]
     },
     {
@@ -2017,12 +2329,19 @@
         "elastic energy"
       ],
       "question": "Which expression gives the work done in stretching a spring from its original length p to length q? The options are not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the answer options are missing from the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: (q - p) x R / 2 (taking R as the final stretching force, which is not defined on this page)",
+      "steps": [
+        "The extension is the new length minus the original length: q - p.",
+        "For a spring obeying Hooke's law the work done is the area of a triangle = (1/2) x force x extension.",
+        "With R the final force, work = (q - p) x R / 2, which is option B."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-45.jpg",
         "papers/physics/img/14-2D-Stress-Strain-46.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q42.jpg"
       ]
     },
     {
@@ -2093,12 +2412,20 @@
         "young modulus comparison"
       ],
       "question": "Add a line to the sketch stress-strain graph for spider silk to show the stress-strain relationship for steel up to its limit of proportionality, using the table of properties.",
-      "status": "pending",
-      "answer": "Pending: the answer is a line added to a sketch graph, and the table of properties is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Draw a much steeper straight line from the origin, ending at a slightly higher stress (350 MPa against 300 MPa) at a much smaller strain than the spider silk line",
+      "steps": [
+        "Steel has Young modulus 200 GPa, about 23 times that of spider silk (8.70 GPa), so its line is 23 times as steep.",
+        "Strain at the limit of proportionality for steel = 350 x 10^6 / 200 x 10^9 = 1.75 x 10^-3, compared with 0.0345 for the silk, so about 1/20 as far along the strain axis.",
+        "Stress at the end of the steel line is 350 MPa, about 17% higher than the 300 MPa at the end of the silk line."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-46.jpg",
         "papers/physics/img/14-2D-Stress-Strain-47.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q43.jpg",
+        "papers/physics/fig/14-2D-Stress-Strain-Q43-2.jpg"
       ]
     },
     {
@@ -2116,12 +2443,20 @@
         "stress"
       ],
       "question": "Samples of steel and spider silk of identical shape, length and cross-sectional area are each stretched to their limit of proportionality. Explain which sample has the greater elastic strain energy. The table of properties is not in the extracted text.",
-      "status": "pending",
-      "answer": "Pending: the comparison depends on the property table (Young modulus and limit of proportionality values), which is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The spider silk stores the greater elastic strain energy (about 17 times more per unit volume)",
+      "steps": [
+        "The samples have the same volume, so compare the energy per unit volume = (1/2) x stress x strain at the limit of proportionality (area under the graph).",
+        "Silk: strain = 300 x 10^6 / 8.70 x 10^9 = 0.0345, so energy density = 0.5 x 300 x 10^6 x 0.0345 = 5.2 x 10^6 J m^-3.",
+        "Steel: strain = 350 x 10^6 / 200 x 10^9 = 1.75 x 10^-3, so energy density = 0.5 x 350 x 10^6 x 1.75 x 10^-3 = 3.1 x 10^5 J m^-3.",
+        "The silk therefore stores about 17 times more energy, because it stretches to a much larger strain even though its stress limit is lower."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-46.jpg",
         "papers/physics/img/14-2D-Stress-Strain-47.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q43.jpg"
       ]
     },
     {
@@ -2166,13 +2501,20 @@
         "tugboat"
       ],
       "question": "The rope has diameter 220 mm. Using its stress-strain graph, determine the force applied when the strain is 0.025.",
-      "status": "pending",
-      "answer": "Pending: the stress at strain 0.025 must be read from the rope's stress-strain graph, which is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Force = 4.2 x 10^6 N",
+      "steps": [
+        "From the graph, at a strain of 0.025 the stress is about 110 MPa (110 x 10^6 Pa).",
+        "Cross-sectional area A = pi r^2 = pi x (0.110)^2 = 3.80 x 10^-2 m^2 (diameter 220 mm, radius 0.110 m).",
+        "Force = stress x area = 110 x 10^6 x 3.80 x 10^-2 = 4.2 x 10^6 N."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-47.jpg",
         "papers/physics/img/14-2D-Stress-Strain-48.jpg",
         "papers/physics/img/14-2D-Stress-Strain-49.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q44.jpg"
       ]
     },
     {
@@ -2268,12 +2610,19 @@
         "area under graph"
       ],
       "question": "Determine the increase in elastic strain energy in a brick as the force increases from 85 N to 140 N, using the force-compression graph.",
-      "status": "pending",
-      "answer": "Pending: the compressions at 85 N and 140 N must be read from the force-compression graph, which is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Increase in elastic strain energy = 4.3 x 10^-6 J",
+      "steps": [
+        "The energy stored is the area under the force-compression graph, so the increase is the area between the two forces.",
+        "Reading the graph: 85 N corresponds to a compression of about 59 nm and 140 N to about 97 nm.",
+        "Area of the trapezoid = (1/2)(85 + 140) x (97 - 59) x 10^-9 = 112.5 x 38 x 10^-9 = 4.3 x 10^-6 J (equivalently (1/2)(140 x 97 - 85 x 59) x 10^-9)."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-50.jpg",
         "papers/physics/img/14-2D-Stress-Strain-51.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q47.jpg"
       ]
     },
     {
@@ -2314,13 +2663,22 @@
         "string identification"
       ],
       "question": "A force-extension graph for a sample of one violin string, and a table of stiffnesses for three other strings of the same original length, are given. Deduce which string was used to obtain the graph.",
-      "status": "pending",
-      "answer": "Pending: the force-extension graph and the table of stiffnesses are not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "String Y: the graph gradient (stiffness) is about 2.7 x 10^3 N m^-1",
+      "steps": [
+        "The graph is a straight line through the origin, so the stiffness k = force / extension = gradient.",
+        "Using a large triangle: force 80 N at an extension of 29.4 mm = 0.0294 m.",
+        "k = 80 / 0.0294 = 2.7 x 10^3 N m^-1.",
+        "The strings have the same original length, so their stiffnesses can be compared directly: 2700 N m^-1 matches string Y (X is 1700 and Z is 6100)."
+      ],
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-51.jpg",
         "papers/physics/img/14-2D-Stress-Strain-52.jpg",
         "papers/physics/img/14-2D-Stress-Strain-53.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/14-2D-Stress-Strain-Q48.jpg",
+        "papers/physics/fig/14-2D-Stress-Strain-Q48-2.jpg"
       ]
     },
     {

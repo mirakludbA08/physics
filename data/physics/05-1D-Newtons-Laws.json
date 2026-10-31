@@ -80,12 +80,22 @@
         "newton second law"
       ],
       "question": "Explain the shape of an acceleration-time graph for a skydiver who opens a parachute, referring to the forces acting on her.",
-      "status": "pending",
-      "answer": "Needs the acceleration-time graph from the PDF to check the shape against the explanation.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Acceleration starts at g and falls to zero as drag grows to equal weight (first terminal velocity). At t1 the parachute opens: drag far exceeds weight, giving a sharp negative acceleration spike. It returns to zero as drag falls back to equal weight (second, lower terminal velocity) and stays zero until t2.",
+      "steps": [
+        "At the start she is moving slowly, so air resistance is almost zero and the only force is her weight; a = g, the largest value on the graph (taking downwards as positive).",
+        "As her speed rises the air resistance R rises, so the resultant force mg - R falls; a = (mg - R)/m decreases and the curve flattens.",
+        "The acceleration reaches zero when R = mg: the forces are balanced, so by Newton first law she falls at a constant (terminal) velocity.",
+        "At t1 the parachute opens, the area increases and R suddenly becomes much greater than mg; the resultant force is upwards, so the acceleration is negative (a deceleration) with a large magnitude - a sharp downward spike.",
+        "She slows down, so R decreases and the magnitude of the negative acceleration shrinks back to zero.",
+        "When R = mg again she reaches a second, lower terminal velocity, so the acceleration stays at zero until she lands at t2."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-01.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-02.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q3.jpg"
       ]
     },
     {
@@ -104,12 +114,20 @@
         "forces"
       ],
       "question": "Assess whether the forces R and W on a unicycle, shown on a photograph, are a Newton third law pair.",
-      "status": "pending",
-      "answer": "Needs the unicycle photograph to see which bodies R and W act on and their directions.",
-      "steps": [],
+      "status": "ready",
+      "answer": "No. R and W are not a Newton third law pair: they are different types of force (contact and gravitational), they are not equal (R is drawn longer than W), and their partner forces act on the ground and on the Earth.",
+      "steps": [
+        "A third law pair must be the same type of force. R is the contact (normal) force of the ground and W is the gravitational pull of the Earth, so they are different types.",
+        "A pair must be equal in size. In the photograph R is drawn slightly longer than W, so R > W (R also supports the weight of the unicycle itself).",
+        "The partner of W is the pull of the rider on the Earth, and the partner of R is the push of the unicycle on the ground; these act on different bodies from R and W, so R and W are not partners of each other.",
+        "Their directions are opposite, but opposite direction alone does not make a third law pair."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-02.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-03.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q4.jpg"
       ]
     },
     {
@@ -128,12 +146,19 @@
         "forces"
       ],
       "question": "Explain the motion of a unicycle moving at constant speed on a horizontal surface, referring to all the forces acting on it.",
-      "status": "pending",
-      "answer": "Needs the photograph in the PDF to list all force arrows on the unicycle (R, W and any others).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Constant speed means zero resultant force (Newton first law): vertically R equals the total weight of rider and unicycle, and horizontally the forward driving force equals the resistive forces (air resistance and rolling resistance).",
+      "steps": [
+        "Constant speed in a straight line means zero acceleration, so the resultant force on the unicycle is zero (Newton first law).",
+        "Vertically: the upward force R balances the total downward weight (weight of the rider plus the weight of the unicycle); this is why R is longer than the arrow W.",
+        "Horizontally: the forward driving force from the ground (friction on the wheel, from pedalling) is equal and opposite to the resistive forces (air resistance and friction), although these are not shown in the photograph."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-02.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-03.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q4.jpg"
       ]
     },
     {
@@ -183,13 +208,21 @@
         "water flow"
       ],
       "question": "Show that the chain force F on a buoy at 33 deg to the vertical, with horizontal force 260 N, is about 500 N.",
-      "status": "pending",
-      "answer": "As read, F = 260 / sin33 = 477 N, not about 500 N. Check the angle in the PDF before marking.",
-      "steps": [],
+      "status": "ready",
+      "answer": "F = 260 / sin33 = 477 N, which is about 500 N (1 s.f.)",
+      "steps": [
+        "The buoy is stationary, so the horizontal forces balance: the horizontal component of the chain force F equals the 260 N from the water.",
+        "The chain is at 33 deg to the vertical, so the horizontal component is F sin33.",
+        "F sin33 = 260, so F = 260 / sin33 = 260 / 0.545 = 477 N.",
+        "477 N is about 500 N to 1 significant figure."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-04.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-05.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q6.jpg"
       ]
     },
     {
@@ -222,6 +255,9 @@
         "papers/physics/img/05-1D-Newtons-Laws-04.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-05.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q6.jpg"
       ]
     },
     {
@@ -253,6 +289,9 @@
         "papers/physics/img/05-1D-Newtons-Laws-04.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-05.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q6.jpg"
       ]
     },
     {
@@ -542,12 +581,21 @@
         "newton second law"
       ],
       "question": "A soap bubble has wind force P, weight W and upthrust U acting on it. Which vector diagram (A to D) shows the resultant force F?",
-      "status": "pending",
-      "answer": "Needs the four vector diagrams A to D from the PDF, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B",
+      "steps": [
+        "The resultant is the vector sum of the three forces. U and W act along the same line, so combine them first: W - U downwards (W is longer than U).",
+        "Add the vectors head to tail: draw W - U downwards, then draw P from the end of it; the resultant F runs from the tail of the first vector to the head of the last one, so it points from the start of W - U to the end of P.",
+        "In B the three vectors form a closed triangle, with W - U and P head to tail and F drawn from the start of W - U to the end of P.",
+        "A is wrong because F points the wrong way round the triangle. C and D are wrong because W - U and P are drawn tail to tail, not head to tail."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-12.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-13.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q12.jpg",
+        "papers/physics/fig/05-1D-Newtons-Laws-Q12-2.jpg"
       ]
     },
     {
@@ -566,12 +614,21 @@
         "wind"
       ],
       "question": "A student in a windy parachute jump has vertical velocity 5.0 m/s and horizontal velocity 8.0 m/s. Which row gives the magnitude and angle of the resultant velocity?",
-      "status": "pending",
-      "answer": "Needs the table of options from the PDF. Calculated: resultant 9.4 m/s at 58 deg to the vertical.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: magnitude sqrt(8^2 + 5^2) = 9.4 m s^-1; angle tan^-1(8/5) = 58 deg to the vertical",
+      "steps": [
+        "The velocity components are at right angles, so the magnitude is found with Pythagoras: v = sqrt(8^2 + 5^2) = 9.4 m s^-1 (a minus sign would be wrong).",
+        "The angle theta is measured from the vertical, so the horizontal component 8 is opposite the angle and the vertical component 5 is adjacent.",
+        "tan theta = opposite / adjacent = 8/5, so theta = tan^-1(8/5) = 58 deg.",
+        "sin^-1(5/8) would be correct only if 8 were the hypotenuse, so D is wrong; this leaves C."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-13.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-14.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q13.jpg",
+        "papers/physics/fig/05-1D-Newtons-Laws-Q13-2.jpg"
       ]
     },
     {
@@ -590,13 +647,22 @@
         "magnitude"
       ],
       "question": "Two forces P and Q act on an object. Which of the diagrams A to D is a correctly drawn, scaled vector diagram for their resultant R?",
-      "status": "pending",
-      "answer": "Needs the diagrams A to D and the directions of P and Q from the PDF.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D",
+      "steps": [
+        "The resultant R = P + Q, so P and Q must be drawn head to tail, and R must run from the tail of the first vector to the head of the second.",
+        "In D, P is drawn up and to the right, Q is then drawn from the end of P (down and to the right), and R runs from the start of P to the end of Q.",
+        "The lengths and directions of P and Q in D match the original diagram, and R points the same way as the net force (down and to the right).",
+        "In A and B the arrow on R points the wrong way, and in C R joins the ends of P and Q, which is not the resultant."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-14.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-15.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-16.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q14.jpg",
+        "papers/physics/fig/05-1D-Newtons-Laws-Q14-2.jpg"
       ]
     },
     {
@@ -758,11 +824,19 @@
         "direction"
       ],
       "question": "A massive star exerts gravitational force Fstar on a distant planet, and the planet exerts Fplanet on the star. Which row of the table is correct?",
-      "status": "pending",
-      "answer": "Needs the table rows from the PDF; the text does not show the options.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: F_planet = F_star, in opposite directions",
+      "steps": [
+        "The force of the star on the planet and the force of the planet on the star are a Newton third law pair.",
+        "The two forces in a third law pair are always equal in magnitude, whatever the masses of the bodies.",
+        "They act in opposite directions (the star pulls the planet towards the star; the planet pulls the star towards the planet).",
+        "So the correct row is C."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q20.jpg"
       ]
     },
     {
@@ -781,12 +855,20 @@
         "free-body diagram"
       ],
       "question": "A uniform solid cube rests on a four-legged table. Which statement about the forces on the table and cube is correct according to Newton third law?",
-      "status": "pending",
-      "answer": "Needs the diagram of forces on the table and cube (labels Rc, Rt, Rf, Wc, Wt) from the PDF to match the labels.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Rc = Rt",
+      "steps": [
+        "Rc is the force of the cube on the table and Rt is the force of the table on the cube, so they are a Newton third law pair.",
+        "Third law pairs are equal in magnitude and opposite in direction, so Rc = Rt.",
+        "B (4Rf = Rc + Wt) and D (Rt = Wc) come from the equilibrium of the table and of the cube (first law), not from the third law.",
+        "A is wrong because Rt acts on the cube, not on the table."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-19.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-20.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q21.jpg"
       ]
     },
     {
@@ -805,12 +887,20 @@
         "resulting motion"
       ],
       "question": "Once in orbit above the atmosphere, the rocket engines are switched off. Which row of the table gives the resulting motion and the law explaining it?",
-      "status": "pending",
-      "answer": "Needs the table rows from the PDF; the options are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: changing velocity, Newton 2nd law",
+      "steps": [
+        "With the engines off, the gravitational pull of the Earth is the only force on the rocket, so the resultant force is not zero.",
+        "By Newton second law (F = ma) a resultant force gives an acceleration, so the velocity keeps changing (in orbit its direction changes continuously).",
+        "So the motion is a changing velocity, explained by Newton second law: row C.",
+        "Rows A and B (uniform velocity) are wrong because there is still a resultant force; the third law concerns pairs of forces, not the motion of one body."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-19.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-20.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q22.jpg"
       ]
     },
     {
@@ -860,12 +950,21 @@
         "path"
       ],
       "question": "Explain the differences between the golf ball paths with and without air resistance, as shown in a diagram.",
-      "status": "pending",
-      "answer": "Needs the two trajectories from the PDF diagram to describe the differences accurately.",
-      "steps": [],
+      "status": "ready",
+      "answer": "With air resistance the ball rises less, travels a shorter horizontal distance and has an asymmetric path that is steeper on the way down, because air resistance acts opposite to the velocity and slows both the horizontal and vertical motion.",
+      "steps": [
+        "Without air resistance the only force is the weight: the horizontal velocity is constant and the path is a symmetrical parabola.",
+        "With air resistance there is a force opposite to the velocity at all times; its horizontal component continuously reduces the horizontal velocity, so the horizontal distance travelled (range) is shorter.",
+        "On the way up the air resistance has a downward component as well as the weight, so the deceleration is greater than g and the vertical velocity falls to zero sooner: the maximum height is lower.",
+        "On the way down the air resistance acts upwards (against the weight), so the downward acceleration is less than g, but the ball starts from a lower height with a smaller horizontal velocity, so it lands at a steeper angle and the path is not symmetrical.",
+        "The kinetic energy lost does work against air resistance (transferred as thermal energy to the air), so the ball lands with less kinetic energy than without air resistance."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-20.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-21.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q23b.jpg"
       ]
     },
     {
@@ -896,6 +995,9 @@
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-22.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-23.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q24.jpg"
       ]
     },
     {
@@ -914,12 +1016,21 @@
         "scale"
       ],
       "question": "A student uses masses on a holder until part of the string is horizontal, then photographs the arrangement. Describe how the photograph can be used to determine the tension T.",
-      "status": "pending",
-      "answer": "Needs the photograph in the PDF to see which angles and forces the student measures.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Measure the angle theta of the kite string to the horizontal on the photograph with a protractor, find the weight mg of the holder and masses, then use T = mg / sin theta (or a scale vector triangle) because the knot is in equilibrium.",
+      "steps": [
+        "The knot is in equilibrium under three forces: the tension T in the string to the kite, the horizontal string pull and the downward pull of the mass holder and masses, which equals their weight mg.",
+        "Find the total mass of the holder and masses (from the known masses or a balance) and calculate the weight mg.",
+        "Use a protractor on the photograph to measure the angle theta between the kite string and the horizontal.",
+        "Resolve vertically: T sin theta = mg, so T = mg / sin theta. (The horizontal string pull equals T cos theta and can be used as a check.)",
+        "Alternatively draw a scale vector triangle (weight downwards, horizontal force, T at the measured angle) and read T from the length of its side using the scale; repeat with different masses and average."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-22.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-23.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q24b.jpg"
       ]
     },
     {
@@ -938,14 +1049,22 @@
         "air resistance"
       ],
       "question": "Draw a free-body force diagram for the sledge and athlete accelerating down a straight section of an icy track, showing the relative sizes of the forces.",
-      "status": "pending",
-      "answer": "Needs the luge diagram in the PDF to check the force arrows and their relative sizes.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Three forces from the dot: weight W vertically downwards (longest arrow); normal contact force R perpendicular to the track (slightly shorter than W); a small resistive force F (friction and air resistance) up the slope, shorter than the component of W down the slope.",
+      "steps": [
+        "Weight W: a long arrow vertically downwards.",
+        "Normal contact force R: perpendicular to the track, pointing away from the surface; R = W cos theta, so it is slightly shorter than W.",
+        "Resistive force (friction and air resistance) F: parallel to the track, pointing up the slope (opposite to the motion).",
+        "Relative sizes: the athlete accelerates down the slope, so the component W sin theta down the slope must be greater than F; the resultant is down the slope, so F must be shorter than W sin theta."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-23.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-24.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-25.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q25a.jpg"
       ]
     },
     {
@@ -1028,9 +1147,13 @@
         "suggest"
       ],
       "question": "It is stated that maximum speed is greater for heavier athletes, but only up to a certain mass. Suggest why.",
-      "status": "pending",
-      "answer": "Open-ended; check the expected reasoning (for example drag from body size) against the PDF mark scheme before marking.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A heavier athlete has a larger weight component down the slope, giving a higher terminal speed, but a heavier athlete is also bigger, with a larger cross-sectional area, so the air resistance rises too and eventually cancels the benefit.",
+      "steps": [
+        "A greater mass gives a larger weight component mg sin theta down the slope, so a larger resistive force is needed to balance it; the maximum speed is therefore higher.",
+        "A heavier athlete usually has a larger frontal area (and the sledge presses harder on the track), so air resistance and friction at a given speed are larger.",
+        "Above a certain mass the extra resistive forces offset the gain in weight component, so the maximum speed no longer increases."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-23.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-24.jpg",
@@ -1146,12 +1269,19 @@
         "diagram"
       ],
       "question": "Complete the free-body force diagram for a sledge sliding down a frictionless slope with no air resistance.",
-      "status": "pending",
-      "answer": "Needs the diagram in the PDF; expected forces are weight vertically down and normal contact force perpendicular to the slope.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Two forces only: weight W vertically downwards and a normal contact force R perpendicular to the slope (slightly shorter than W).",
+      "steps": [
+        "Draw weight W as a vertical arrow downwards from the dot.",
+        "Draw the normal contact force R perpendicular to the slope, pointing away from the surface (6.9 deg from the vertical); R = W cos6.9, so it is just shorter than W.",
+        "There is no friction and no air resistance, so no other forces are drawn; their resultant is W sin6.9 down the slope."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-27.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-28.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q27.jpg"
       ]
     },
     {
@@ -1181,6 +1311,9 @@
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-27.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-28.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q27.jpg"
       ]
     },
     {
@@ -1210,6 +1343,9 @@
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-27.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-28.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q27.jpg"
       ]
     },
     {
@@ -1239,6 +1375,9 @@
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-27.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-28.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q27.jpg"
       ]
     },
     {
@@ -1257,12 +1396,19 @@
         "arrows"
       ],
       "question": "A uniform solid cube rests on a table. The dot at the start of each arrow shows where the force acts. Which force (Rc, Rt, Wc or Wt) is drawn in the wrong position?",
-      "status": "pending",
-      "answer": "Needs the cube and table diagram in the PDF to see which arrow starts at the wrong point.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Wc",
+      "steps": [
+        "The weight of a uniform cube acts at its centre of mass, which is the centre of the cube.",
+        "Rt and Rc act at the contact point between the cube and table, on the centre line, and Wt on the centre line of the table: these are in sensible positions.",
+        "The dot for Wc is drawn to the right of the cube centre, so Wc is in the wrong position."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-28.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-29.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q28.jpg"
       ]
     },
     {
@@ -1281,12 +1427,21 @@
         "reasons"
       ],
       "question": "A disc of mass m is held stationary by a magnetic force F. Its free-body diagram shows two equal and opposite forces. Give two reasons why these are not a Newton third law pair.",
-      "status": "pending",
-      "answer": "Needs the disc free-body diagram from the PDF to name the forces and their types (both act on the disc).",
-      "steps": [],
+      "status": "ready",
+      "answer": "(1) Both forces act on the same object (the disc), whereas a third law pair acts on two different objects. (2) They are different types of force: F is magnetic and mg is gravitational.",
+      "steps": [
+        "A Newton third law pair acts on two different bodies. F and mg both act on the disc, so they cannot be a pair.",
+        "A third law pair must be the same type of force. F is a magnetic force but mg is a gravitational force.",
+        "They are equal and opposite only because the disc is in equilibrium (first law), not because of the third law.",
+        "The partner of F is the force of the disc on the magnetic base, and the partner of mg is the gravitational pull of the disc on the Earth."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-29.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-30.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q29.jpg",
+        "papers/physics/fig/05-1D-Newtons-Laws-Q29-2.jpg"
       ]
     },
     {
@@ -1305,12 +1460,20 @@
         "forces"
       ],
       "question": "A magnetic base of weight W rests on a horizontal table and holds a disc. Complete the free-body force diagram for the base.",
-      "status": "pending",
-      "answer": "Needs the PDF diagram; expected forces are weight W down, normal reaction up from the table, and the disc's downward pull on the base.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Add a downward magnetic force from the disc, F = mg, and an upward normal contact force R from the table equal to W + mg (a longer arrow than W).",
+      "steps": [
+        "Weight W is already drawn downwards.",
+        "The disc pulls on the base with a magnetic force F = mg (third law partner of the force of the base on the disc), so draw a second arrow downwards, length equal to mg.",
+        "The base is in equilibrium, so the table pushes up with a normal contact force R = W + mg: draw an upward arrow as long as the two downward arrows together."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-29.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-30.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q29.jpg",
+        "papers/physics/fig/05-1D-Newtons-Laws-Q29-3.jpg"
       ]
     },
     {
@@ -1329,12 +1492,21 @@
         "forces"
       ],
       "question": "A railway engine pushes a truck at constant velocity on horizontal rails. Complete the free-body diagram showing all forces acting on the engine.",
-      "status": "pending",
-      "answer": "Needs the engine diagram in the PDF to check the arrow labels and directions.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Add three horizontal arrows: a forward force from the rails of 1.5 x 10^5 N; a backward force from the truck of 1.2 x 10^5 N; and a backward resistive force (air resistance and friction) of 3 x 10^4 N. Weight and normal contact force are already drawn and are equal.",
+      "steps": [
+        "The engine pushes the rails backwards with 1.5 x 10^5 N, so by Newton third law the rails push the engine forward with 1.5 x 10^5 N (forward arrow).",
+        "The engine pushes the truck forward with 1.2 x 10^5 N, so the truck pushes the engine backwards with 1.2 x 10^5 N (backward arrow).",
+        "Constant velocity means zero resultant force, so the remaining backward force is 1.5 x 10^5 - 1.2 x 10^5 = 3.0 x 10^4 N (air resistance and other resistive forces on the engine).",
+        "The vertical arrows (weight and normal contact force) must be equal in length because there is no vertical acceleration."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-30.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-31.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q30.jpg",
+        "papers/physics/fig/05-1D-Newtons-Laws-Q30-2.jpg"
       ]
     },
     {
@@ -1442,12 +1614,19 @@
         "dimensions"
       ],
       "question": "Which row of the table contains two units that are not equivalent?",
-      "status": "pending",
-      "answer": "Needs the table of unit pairs from the PDF; the options are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: kg m s^-2 and N s",
+      "steps": [
+        "kg m s^-2 is a mass times an acceleration, so it is the unit of force: the newton (N).",
+        "N s is the unit of impulse (change of momentum), equivalent to kg m s^-1, so it is not equivalent to N.",
+        "The other rows are equivalent: J s^-1 = W, N kg^-1 = m s^-2 and N m = J."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-32.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-33.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q33.jpg"
       ]
     },
     {
@@ -1466,12 +1645,20 @@
         "forces"
       ],
       "question": "Two perpendicular forces act on an object. Determine the magnitude of the resultant force using a scaled vector diagram.",
-      "status": "pending",
-      "answer": "Needs the two force magnitudes from the PDF diagram to scale the vector triangle.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 2600 N (2.6 x 10^3 N), at 28 deg to the 2300 N force",
+      "steps": [
+        "Choose a scale, for example 1 cm = 200 N, so the forces are drawn as 6.0 cm (1200 N) and 11.5 cm (2300 N).",
+        "Draw them at right angles, head to tail, and draw the resultant from the tail of the first to the head of the second.",
+        "The resultant measures about 13 cm, which is 13 x 200 = 2600 N.",
+        "Check by calculation: R = sqrt(1200^2 + 2300^2) = 2594 N, at tan^-1(1200/2300) = 28 deg to the 2300 N force."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-33.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-34.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q34.jpg"
       ]
     },
     {
@@ -1490,13 +1677,21 @@
         "forces"
       ],
       "question": "A person on a zip-line is accelerating. Complete the free-body diagram showing the three forces acting on the person.",
-      "status": "pending",
-      "answer": "Needs the PDF diagram of the person on the zip-line to confirm the three forces and their directions.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Weight W downwards (longest arrow), tension in the wire along the wire (almost vertical, pointing up towards the wheel) and a small air resistance force up the cable, opposite to the motion; the resultant must point down the cable.",
+      "steps": [
+        "Weight: an arrow vertically downwards from the dot.",
+        "Tension in the wire: an arrow along the wire, pointing up towards the wheel (slightly shorter than the weight).",
+        "Air resistance (drag) opposing the motion: a short arrow pointing up the slope of the cable.",
+        "The person is accelerating down the cable, so the resultant of the three forces points down the slope of the cable; the drag must be smaller than the component of the weight down the cable."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-34.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-35.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-36.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q35.jpg"
       ]
     },
     {
@@ -1527,6 +1722,9 @@
         "papers/physics/img/05-1D-Newtons-Laws-34.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-35.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-36.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q35-2.jpg"
       ]
     },
     {
@@ -1558,6 +1756,9 @@
         "papers/physics/img/05-1D-Newtons-Laws-34.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-35.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-36.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q35-2.jpg"
       ]
     },
     {
@@ -1608,12 +1809,20 @@
         "resolve"
       ],
       "question": "A bird of weight W stands on the middle of a string between two posts. The string makes 80 deg with each post and has tension T. Which expression is correct?",
-      "status": "pending",
-      "answer": "Needs the four expression options from the PDF; expected W = 2T cos80, so T = W/(2 cos80).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: T = W / (2 cos80 deg)",
+      "steps": [
+        "Each half of the string makes 80 deg with the vertical post, so the vertical component of each tension is T cos80.",
+        "The bird is in equilibrium: the two vertical components support the weight, so 2T cos80 = W.",
+        "Rearranging, T = W / (2 cos80), which is option C. (Using sin would be correct only if 80 deg were measured from the horizontal.)"
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-36.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-37.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q36.jpg",
+        "papers/physics/fig/05-1D-Newtons-Laws-Q36-2.jpg"
       ]
     },
     {
@@ -1690,12 +1899,19 @@
         "force components"
       ],
       "question": "Two boats A and B pull a ship with forces FA and FB at angles of 31 deg and 27 deg. Which expression gives the forward component of the total force?",
-      "status": "pending",
-      "answer": "Needs the diagram to confirm whether 31 deg and 27 deg are measured from the forward direction (which would give option C).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: FA cos(31) + FB cos(27)",
+      "steps": [
+        "Both angles (31 deg and 27 deg) are measured from the forwards direction, so the forward component of each force is F cos(angle).",
+        "The sideways components FA sin31 and FB sin27 are in opposite directions and are not part of the forward total.",
+        "Forward component = FA cos31 + FB cos27, option C."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-37.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-38.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q39.jpg"
       ]
     },
     {
@@ -1744,12 +1960,20 @@
         "free fall"
       ],
       "question": "A coin and a feather are dropped from the same height through air. Which row of the table is correct as they fall?",
-      "status": "pending",
-      "answer": "Needs the table rows from the PDF; the options are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: same initial acceleration for coin and feather; less time for the coin",
+      "steps": [
+        "At the instant of release the speed is zero, so there is no air resistance and the only force is weight: both have initial acceleration g.",
+        "As they fall, air resistance increases; it affects the feather much more (large area for its weight), so the feather's acceleration falls quickly.",
+        "The coin keeps accelerating for longer and falls faster, so it takes less time to reach the ground.",
+        "This is row C."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-39.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-40.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q41.jpg"
       ]
     },
     {
@@ -1824,12 +2048,19 @@
         "landing"
       ],
       "question": "A ball of mass m leaves a table at speed v and takes time t to land. A second ball of mass 2m leaves at speed 2v. Which expression gives its time from leaving the table to landing?",
-      "status": "pending",
-      "answer": "Needs the four options from the PDF (the options are not in the text); expected answer t, since fall time depends only on height.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: t",
+      "steps": [
+        "The horizontal and vertical motions are independent, so the time to fall depends only on the vertical motion.",
+        "Both balls start with zero vertical velocity and fall the same height with acceleration g, so they take the same time: s = (1/2)gt^2 gives t = sqrt(2s/g).",
+        "The mass and the horizontal speed do not change the time, so the second ball also takes t."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-41.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-42.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q44.jpg"
       ]
     },
     {
@@ -1848,12 +2079,19 @@
         "forces"
       ],
       "question": "A wire hangs a picture of weight W from a hook, exerting tensions T1 and T2. Which option describes the relationship between the forces?",
-      "status": "pending",
-      "answer": "Needs the four options and the diagram from the PDF; the text does not show them.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: W + T1 + T2 = 0 (vector sum)",
+      "steps": [
+        "The picture hangs at rest, so the resultant force on it is zero (Newton first law).",
+        "W, T1 and T2 are the three forces on the picture, drawn in their actual directions, so their vector sum is zero: W + T1 + T2 = 0.",
+        "A, C and D contain a minus sign or omit a force, so they do not describe a zero vector sum of all three forces."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-41.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-42.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q45.jpg"
       ]
     },
     {
@@ -1930,12 +2168,21 @@
         "expression"
       ],
       "question": "Forces act on a helicopter shown as a dot in a diagram. Which expression gives the magnitude of the resultant force on it?",
-      "status": "pending",
-      "answer": "Needs the force diagram and the options from the PDF; the text does not show them.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: sqrt((15 000 - 14 500)^2 + 200^2) = 538 N (about 540 N)",
+      "steps": [
+        "The vertical forces act in opposite directions: 15 000 N downwards and 14 500 N upwards, so the net vertical force is 15 000 - 14 500 = 500 N downwards.",
+        "The horizontal force is 200 N, at right angles to the vertical force.",
+        "Pythagoras gives resultant = sqrt(500^2 + 200^2) = sqrt((15 000 - 14 500)^2 + 200^2) = 538 N.",
+        "Option D matches; A and C do not take a square root, and B squares the individual forces before subtracting."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-43.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-44.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q48.jpg",
+        "papers/physics/fig/05-1D-Newtons-Laws-Q48-2.jpg"
       ]
     },
     {
@@ -2045,12 +2292,20 @@
         "expression"
       ],
       "question": "Traffic lights of weight W hang from a wire held at an angle theta to the horizontal by two supports. Which expression gives the tension in the wire?",
-      "status": "pending",
-      "answer": "Needs the four expression options from the PDF; the text does not show them (expected T = W/(2 sin theta)).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: T = W / (2 sin theta)",
+      "steps": [
+        "The wire is at an angle theta to the horizontal, so the vertical component of the tension in each half is T sin theta.",
+        "The traffic lights are in equilibrium, so the two upward components support the weight: 2T sin theta = W.",
+        "Rearranging gives T = W / (2 sin theta), option B."
+      ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-46.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-47.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/05-1D-Newtons-Laws-Q50.jpg",
+        "papers/physics/fig/05-1D-Newtons-Laws-Q50-2.jpg"
       ]
     }
   ]

@@ -46,12 +46,20 @@
         "N per m"
       ],
       "question": "Using the force against extension graph for the constantan wire, show that the stiffness of the wire is about 1.3 x 10^4 N/m.",
-      "status": "pending",
-      "answer": "Needs the force-extension graph from the PDF to read the gradient and check the value of about 1.3 x 10^4 N/m.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Stiffness = gradient of the straight part of the graph = 60 N / 4.6 x 10^-3 m = 1.3 x 10^4 N m^-1",
+      "steps": [
+        "Stiffness k = F / x, which is the gradient of the force-extension graph in its straight-line (elastic) region.",
+        "Take a large triangle on the straight part, from the origin to the point (4.6 mm, 60 N); convert the extension to metres: 4.6 x 10^-3 m.",
+        "k = 60 N / 4.6 x 10^-3 m = 1.30 x 10^4 N m^-1.",
+        "This is about 1.3 x 10^4 N m^-1, as required."
+      ],
       "images": [
         "papers/physics/img/10-CP3-Young-Modulus-01.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-02.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/10-CP3-Young-Modulus-Q1.jpg"
       ]
     },
     {
@@ -96,13 +104,21 @@
         "Tyrolean traverse"
       ],
       "question": "A climber of weight 650 N is suspended on a rope in a Tyrolean traverse. Using the free-body force diagram, show that the tension in the rope is about 1.3 x 10^3 N.",
-      "status": "pending",
-      "answer": "Needs the rope angle from the free-body diagram in the PDF, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "T = 650 / (2 cos76) = 1.34 x 10^3 N, about 1.3 x 10^3 N",
+      "steps": [
+        "The climber is in equilibrium, so the upward components of the two rope tensions balance the weight of 650 N.",
+        "Each rope makes 76 deg with the vertical, so each has a vertical component T cos76.",
+        "2T cos76 = 650, so T = 650 / (2 x cos76).",
+        "T = 650 / (2 x 0.2419) = 1.34 x 10^3 N, which is about 1.3 x 10^3 N."
+      ],
       "images": [
         "papers/physics/img/10-CP3-Young-Modulus-02.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-03.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/10-CP3-Young-Modulus-Q2.jpg"
       ]
     },
     {
@@ -119,13 +135,21 @@
         "Tyrolean traverse"
       ],
       "question": "The rope has an unstretched length of 120 m. Determine the strain in the rope while it supports the climber, ignoring the weight of the rope.",
-      "status": "pending",
-      "answer": "Needs the extension of the rope from the PDF diagram, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Strain = 0.031 (3.1 x 10^-2): the stretched length is 123.7 m, an extension of 3.7 m over 120 m",
+      "steps": [
+        "Each half of the rope spans 60 m horizontally (half of the 120 m gap) and makes 76 deg with the vertical.",
+        "Length of one half = 60 / sin76 = 61.8 m, so the stretched length of the rope = 2 x 61.8 = 123.7 m.",
+        "Extension = 123.7 - 120 = 3.7 m.",
+        "Strain = extension / original length = 3.7 / 120 = 0.031."
+      ],
       "images": [
         "papers/physics/img/10-CP3-Young-Modulus-02.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-03.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/10-CP3-Young-Modulus-Q2-2.jpg"
       ]
     },
     {
@@ -142,13 +166,21 @@
         "tension"
       ],
       "question": "The rope has cross-sectional area 3.14 x 10^-4 m^2. Using the tension and the strain from earlier parts, determine the Young modulus of the rope material.",
-      "status": "pending",
-      "answer": "Needs the tension from part (a) and the strain from part (b)(i), which depend on the PDF diagram.",
-      "steps": [],
+      "status": "ready",
+      "answer": "E = 1.4 x 10^8 Pa",
+      "steps": [
+        "Tension in the rope T = 1.34 x 10^3 N (from part (a)).",
+        "Stress = T / A = 1.34 x 10^3 / 3.14 x 10^-4 = 4.3 x 10^6 Pa.",
+        "Strain = 0.031 (from part (b)(i)).",
+        "Young modulus = stress / strain = 4.3 x 10^6 / 0.031 = 1.4 x 10^8 Pa."
+      ],
       "images": [
         "papers/physics/img/10-CP3-Young-Modulus-02.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-03.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/10-CP3-Young-Modulus-Q2-2.jpg"
       ]
     },
     {
@@ -254,14 +286,22 @@
         "2.4 m"
       ],
       "question": "Using the load-extension graph, the original length of 2.4 m and the diameter of 2.3 x 10^-4 m, determine the Young modulus of copper.",
-      "status": "pending",
-      "answer": "Needs the load against extension graph from the PDF to read the gradient, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "E = 1.3 x 10^11 Pa",
+      "steps": [
+        "From the straight part of the graph, take a large triangle, e.g. the point (2.0 x 10^-3 m, 4.5 N): gradient = F / x = 4.5 / 2.0 x 10^-3 = 2.25 x 10^3 N m^-1.",
+        "Cross-sectional area A = pi d^2 / 4 = pi x (2.3 x 10^-4)^2 / 4 = 4.15 x 10^-8 m^2.",
+        "Young modulus E = (F / A) / (x / L) = gradient x L / A.",
+        "E = 2.25 x 10^3 x 2.4 / 4.15 x 10^-8 = 1.3 x 10^11 Pa."
+      ],
       "images": [
         "papers/physics/img/10-CP3-Young-Modulus-05.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-06.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-07.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/10-CP3-Young-Modulus-Q5.jpg"
       ]
     },
     {
@@ -338,12 +378,19 @@
         "table of readings"
       ],
       "question": "The student repeated the diameter measurements at different positions and orientations. Using the results table, determine the cross-sectional area of the wire.",
-      "status": "pending",
-      "answer": "Needs the table of diameter results from the PDF, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A = 4.3 x 10^-8 m^2 (mean diameter 0.234 mm)",
+      "steps": [
+        "Take the mean of the four diameters: (0.230 + 0.235 + 0.230 + 0.240) / 4 = 0.234 mm = 2.34 x 10^-4 m.",
+        "Area of a circle: A = pi d^2 / 4.",
+        "A = pi x (2.34 x 10^-4)^2 / 4 = 4.3 x 10^-8 m^2."
+      ],
       "images": [
         "papers/physics/img/10-CP3-Young-Modulus-08.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-09.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/10-CP3-Young-Modulus-Q6.jpg"
       ]
     },
     {
@@ -361,9 +408,14 @@
         "cross-sectional area"
       ],
       "question": "The graph of mass m against extension x has gradient 195 kg/m for a copper sample of length 3.50 m. Determine the Young modulus of the copper.",
-      "status": "pending",
-      "answer": "Needs the cross-sectional area from part (b)(i), whose diameter table is not in the text (use E = gradient x g x L / A).",
-      "steps": [],
+      "status": "ready",
+      "answer": "E = 1.6 x 10^11 Pa",
+      "steps": [
+        "For the wire, F = mg = (EA / L) x, so m = (EA / (gL)) x and the gradient of m against x is EA / (gL).",
+        "Rearranging, E = gradient x g x L / A.",
+        "E = 195 x 9.81 x 3.50 / 4.29 x 10^-8 (using A from part (b)(i)).",
+        "E = 1.56 x 10^11 Pa, about 1.6 x 10^11 Pa."
+      ],
       "images": [
         "papers/physics/img/10-CP3-Young-Modulus-08.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-09.jpg"
@@ -438,13 +490,20 @@
         "elastic"
       ],
       "question": "Using the stress-strain graph for the titanium alloy sample (original length 40.0 cm), determine the Young modulus of the sample.",
-      "status": "pending",
-      "answer": "Needs the stress-strain graph from the PDF to read the gradient of the linear region, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "E = gradient of the linear part = 1.2 x 10^11 Pa (about 120 GPa)",
+      "steps": [
+        "Young modulus = stress / strain = the gradient of the straight (linear) part of the graph.",
+        "Take a large triangle on the straight section, e.g. stress 600 MPa at strain 0.0050.",
+        "E = 600 x 10^6 Pa / 0.0050 = 1.2 x 10^11 Pa (the original length is not needed, since strain is already given)."
+      ],
       "images": [
         "papers/physics/img/10-CP3-Young-Modulus-09.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-10.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/10-CP3-Young-Modulus-Q7.jpg"
       ]
     },
     {
@@ -461,13 +520,20 @@
         "titanium alloy"
       ],
       "question": "The titanium alloy sample breaks at point B on the stress-strain graph. Determine the force required to break the sample, using its 5.05 mm diameter.",
-      "status": "pending",
-      "answer": "Needs the stress at point B from the PDF graph; the area from the 5.05 mm diameter is 2.0 x 10^-5 m^2.",
-      "steps": [],
+      "status": "ready",
+      "answer": "F = 2.6 x 10^4 N",
+      "steps": [
+        "At point B the stress on the graph is about 1290 MPa = 1.29 x 10^9 Pa.",
+        "Cross-sectional area A = pi d^2 / 4 = pi x (5.05 x 10^-3)^2 / 4 = 2.0 x 10^-5 m^2.",
+        "Force = stress x area = 1.29 x 10^9 x 2.0 x 10^-5 = 2.6 x 10^4 N (accept a small range, since the stress is read from the graph)."
+      ],
       "images": [
         "papers/physics/img/10-CP3-Young-Modulus-09.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-10.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/10-CP3-Young-Modulus-Q7.jpg"
       ]
     },
     {
@@ -497,6 +563,9 @@
         "papers/physics/img/10-CP3-Young-Modulus-09.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-10.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/10-CP3-Young-Modulus-Q7-2.jpg"
       ]
     },
     {
@@ -514,13 +583,21 @@
         "stress-strain graph"
       ],
       "question": "Using the fact that the area under a stress-strain graph gives work done per unit volume, estimate the work required to break the titanium alloy sample.",
-      "status": "pending",
-      "answer": "Needs the full stress-strain graph from the PDF to estimate the area under the curve up to breaking, and the sample volume.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 5 x 10^2 J (500 J)",
+      "steps": [
+        "The area under the curve up to B is the work done per unit volume. Estimate it by splitting the area into strips (trapezoids) or counting squares.",
+        "Area from strain 0 to 0.0563 (to B): about 0.0563 x an average stress of roughly 1100 MPa, which is about 6.3 x 10^7 J m^-3 (6.3 x 10^7 Pa).",
+        "Volume of the sample = A L = 2.0 x 10^-5 m^2 x 0.400 m = 8.0 x 10^-6 m^3.",
+        "Work = work per unit volume x volume = 6.3 x 10^7 x 8.0 x 10^-6 = 5 x 10^2 J (accept about 450 to 550 J)."
+      ],
       "images": [
         "papers/physics/img/10-CP3-Young-Modulus-09.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-10.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/10-CP3-Young-Modulus-Q7.jpg"
       ]
     },
     {
@@ -687,14 +764,23 @@
         "diameter 0.17 mm"
       ],
       "question": "Using the force-extension graph, the wire length of 1.80 m and the diameter of 0.17 mm, deduce which material in the table the wire is made from.",
-      "status": "pending",
-      "answer": "Needs the force-extension graph and the table of Young modulus values from the PDF, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Brass: E = 1.07 x 10^11 Pa (about 106 GPa)",
+      "steps": [
+        "The graph is straight but does not pass through the origin (zero extension at 1 N), so use the gradient, not a single point: gradient = delta-x / F = (10.4 - 0) x 10^-3 / (15 - 1) = 7.4 x 10^-4 m N^-1.",
+        "Area A = pi d^2 / 4 = pi x (0.17 x 10^-3)^2 / 4 = 2.27 x 10^-8 m^2.",
+        "E = F L / (A x) = L / (A x gradient) = 1.80 / (2.27 x 10^-8 x 7.4 x 10^-4).",
+        "E = 1.07 x 10^11 Pa = 107 GPa, which matches brass (106 GPa), not aluminium (68 GPa) or steel (200 GPa)."
+      ],
       "images": [
         "papers/physics/img/10-CP3-Young-Modulus-13.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-14.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-15.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-16.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/10-CP3-Young-Modulus-Q9.jpg",
+        "papers/physics/fig/10-CP3-Young-Modulus-Q9-2.jpg"
       ]
     },
     {

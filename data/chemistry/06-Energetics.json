@@ -18,12 +18,20 @@
         "multiple choice"
       ],
       "question": "Which equation represents the standard enthalpy change of atomisation of bromine?",
-      "status": "pending",
-      "answer": "Needs the A-D equation options, which are missing from the text, to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 1/2 Br2(l) -> Br(g)",
+      "steps": [
+        "Enthalpy change of atomisation is the enthalpy change to form 1 mol of gaseous atoms from the element in its standard state",
+        "Bromine is a liquid in its standard state, Br2(l)",
+        "Forming one mole of Br(g) needs 1/2 mol of Br2(l), so the equation is 1/2 Br2(l) -> Br(g)",
+        "A and D start from Br2(g), B forms 2 mol of atoms"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-01.jpg",
         "papers/chemistry/img/06-Energetics-02.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q1.jpg"
       ]
     },
     {
@@ -125,11 +133,18 @@
         "multiple choice"
       ],
       "question": "Graphite burns to form carbon monoxide: 2C(s) + O2(g) -> 2CO(g), Delta H = -221 kJ mol-1. Which statement is correct?",
-      "status": "pending",
-      "answer": "Needs the A-D statement options, which are missing from the text, to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: delta-f H (carbon monoxide) = -110.5 kJ mol^-1",
+      "steps": [
+        "The equation forms 2 mol of CO from its elements in their standard states, releasing 221 kJ",
+        "Enthalpy of formation is per mole of CO: -221 / 2 = -110.5 kJ mol^-1",
+        "Enthalpy of combustion of carbon refers to forming CO2, not CO, so options A and C are wrong"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q5.jpg"
       ]
     },
     {
@@ -176,14 +191,20 @@
         "multiple choice"
       ],
       "question": "The standard enthalpy change of neutralisation for NaOH(aq) with HCl(aq) is -56 kJ mol-1. Which row in the table is correct for this neutralisation?",
-      "status": "pending",
-      "answer": "Needs the table of A-D rows, which is missing from the text, to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: exothermic, temperature increases",
+      "steps": [
+        "A negative enthalpy change (-56 kJ mol^-1) means the reaction is exothermic",
+        "An exothermic reaction transfers energy to the surroundings, so the temperature of the solution increases"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-04.jpg",
         "papers/chemistry/img/06-Energetics-05.jpg",
         "papers/chemistry/img/06-Energetics-06.jpg",
         "papers/chemistry/img/06-Energetics-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q7.jpg"
       ]
     },
     {
@@ -262,14 +283,22 @@
         "calorimetry"
       ],
       "question": "Plot the temperature-time results given in the table on the grid.",
-      "status": "pending",
-      "answer": "Needs the results table and grid, which are missing from the text, to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Plot temperature (y axis, /C) against time (x axis, /min): (0, 22.2), (1, 22.0), (2, 22.0), (3, 39.6), (4, 41.8), (5, 40.8), (6, 40.2), (7, 39.4), (8, 38.6); then draw a best-fit line through the points before the Mg was added and a separate cooling line through the points from 4 to 8 min",
+      "steps": [
+        "Label the axes with quantities and units, and choose scales so the data fill more than half of the grid (time 0 to 8 min, temperature about 20 to 45 C)",
+        "Plot all nine points accurately with small crosses",
+        "Draw a straight line through the first three points (about 22 C) and a straight line through the cooling points from 4 to 8 min, extended back to 2 min",
+        "The 3 min point is not on the cooling line because the reaction was not yet complete"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-04.jpg",
         "papers/chemistry/img/06-Energetics-05.jpg",
         "papers/chemistry/img/06-Energetics-06.jpg",
         "papers/chemistry/img/06-Energetics-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q8c.jpg"
       ]
     },
     {
@@ -286,14 +315,22 @@
         "temperature"
       ],
       "question": "Use your graph to determine the maximum temperature change, showing working on the graph.",
-      "status": "pending",
-      "answer": "Needs the results table and graph, which are missing from the text, to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Delta T about 21 C (about 43.2 - 22.0 = 21.2 C; accept roughly 21.0 to 21.5 C)",
+      "steps": [
+        "Extend the cooling line (4 to 8 min) back to the time the magnesium was added, 2 min",
+        "At 2 min the extrapolated line reads about 43.2 C (the cooling line falls by about 0.8 C per minute)",
+        "Show this extrapolation on the graph with a vertical line at 2 min from the starting temperature, 22.0 C, to the cooling line",
+        "Delta T = 43.2 - 22.0 = about 21.2 C"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-04.jpg",
         "papers/chemistry/img/06-Energetics-05.jpg",
         "papers/chemistry/img/06-Energetics-06.jpg",
         "papers/chemistry/img/06-Energetics-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q8c.jpg"
       ]
     },
     {
@@ -310,14 +347,22 @@
         "kj mol-1"
       ],
       "question": "Using your answers to (b) and (c)(ii), calculate the standard molar enthalpy change for the reaction, with sign and units. Specific heat capacity of solution = 4.18 J g-1 C-1.",
-      "status": "pending",
-      "answer": "Needs the temperature change from the graph in (c)(ii), which is missing from the text; method: q = 25 x 4.18 x Delta T, then Delta H = -q / 0.0050",
-      "steps": [],
+      "status": "ready",
+      "answer": "About -440 kJ mol^-1 (-443 kJ mol^-1 before rounding)",
+      "steps": [
+        "Moles reacted from (b): 0.0050 mol of Mg and H2SO4 (the acid is limiting)",
+        "Energy transferred q = m c Delta T = 25 x 4.18 x 21.2 = 2215 J = 2.22 kJ (assuming 25 cm3 of solution has mass 25 g)",
+        "Delta H = -q / n = -2.22 / 0.0050 = -443 kJ mol^-1",
+        "The reaction is exothermic so the sign is negative; give to 2 s.f. (set by 0.0050 mol): -440 kJ mol^-1"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-04.jpg",
         "papers/chemistry/img/06-Energetics-05.jpg",
         "papers/chemistry/img/06-Energetics-06.jpg",
         "papers/chemistry/img/06-Energetics-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q8c.jpg"
       ]
     },
     {
@@ -476,13 +521,20 @@
         "kj mol-1"
       ],
       "question": "Calculate the enthalpy change of combustion of methanol, CH3OH + 1.5O2 -> CO2 + 2H2O, using the bond enthalpy table given.",
-      "status": "pending",
-      "answer": "Needs the bond enthalpy table, which is missing from the text, to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "-658 kJ mol^-1",
+      "steps": [
+        "Bonds broken: 3 C-H + 1 C-O + 1 O-H + 1.5 O=O = 3 x 413 + 358 + 464 + 1.5 x 498 = 1239 + 358 + 464 + 747 = 2808 kJ",
+        "Bonds formed: 2 C=O + 4 O-H = 2 x 805 + 4 x 464 = 1610 + 1856 = 3466 kJ",
+        "Delta H = bonds broken - bonds formed = 2808 - 3466 = -658 kJ mol^-1"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-07.jpg",
         "papers/chemistry/img/06-Energetics-08.jpg",
         "papers/chemistry/img/06-Energetics-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q9b.jpg"
       ]
     },
     {
@@ -499,13 +551,22 @@
         "kj mol-1"
       ],
       "question": "Complete the Hess cycle and calculate the standard enthalpy change of formation of ethanal: 2C(s, graphite) + 2H2(g) + 1/2O2(g) -> CH3CHO(g), using enthalpies of combustion.",
-      "status": "pending",
-      "answer": "Needs the Hess cycle and enthalpy of combustion data, which are missing from the text, to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "-193 kJ mol^-1",
+      "steps": [
+        "Complete the box with the combustion products: 2CO2(g) + 2H2O(l); the arrow from the elements gives 2 Delta cH(C) + 2 Delta cH(H2) and the arrow from CH3CHO(g) gives Delta cH(CH3CHO)",
+        "Delta fH + Delta cH(CH3CHO) = 2 Delta cH(C) + 2 Delta cH(H2)",
+        "Delta fH = 2(-394) + 2(-286) - (-1167) = -788 - 572 + 1167",
+        "Delta fH(CH3CHO) = -193 kJ mol^-1"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-07.jpg",
         "papers/chemistry/img/06-Energetics-08.jpg",
         "papers/chemistry/img/06-Energetics-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q9c.jpg",
+        "papers/chemistry/fig/06-Energetics-Q9c-2.jpg"
       ]
     },
     {
@@ -549,12 +610,19 @@
         "kj mol-1"
       ],
       "question": "Using the enthalpy changes for two reactions given, find the enthalpy change for CH3COOH(aq) -> CH3COO-(aq) + H+(aq). A +113.2, B +1.2, C -1.2, D -113.2 kJ mol-1.",
-      "status": "pending",
-      "answer": "Needs the two reaction enthalpy equations, which are missing from the text, to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: +1.2 kJ mol^-1",
+      "steps": [
+        "Dissociation CH3COOH -> CH3COO- + H+ equals the second reaction minus the first",
+        "Delta H = (-56.0) - (-57.2) = +1.2 kJ mol^-1",
+        "Equivalent: reverse the first (+57.2) and add the second (-56.0)"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-10.jpg",
         "papers/chemistry/img/06-Energetics-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q11.jpg"
       ]
     },
     {
@@ -598,12 +666,21 @@
         "hcho"
       ],
       "question": "Using the combustion equation for methanal and the bond enthalpy data given, find the C=O bond enthalpy in methanal. A 623, B 678, C 805, D 1036 kJ mol-1.",
-      "status": "pending",
-      "answer": "Needs the combustion equation with its Delta H and the bond enthalpy table, which are missing from the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 623 kJ mol^-1",
+      "steps": [
+        "Bonds broken: 2 C-H + 1 C=O (x) + 1 O=O = 2 x 413 + x + 498 = 1324 + x",
+        "Bonds formed: 2 C=O in CO2 + 2 O-H = 2 x 805 + 2 x 464 = 2538",
+        "Delta H = broken - formed: 1324 + x - 2538 = -591",
+        "x = 2538 - 591 - 1324 = 623 kJ mol^-1"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-11.jpg",
         "papers/chemistry/img/06-Energetics-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q13.jpg",
+        "papers/chemistry/fig/06-Energetics-Q13-2.jpg"
       ]
     },
     {
@@ -785,11 +862,18 @@
         "kj mol-1"
       ],
       "question": "Using the enthalpy changes of combustion given, find the enthalpy change of formation of ethanal, CH3CHO. A +765, B -765, C +193, D -193 kJ mol-1.",
-      "status": "pending",
-      "answer": "Needs the table of enthalpy changes of combustion, which is missing from the text, to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: -193 kJ mol^-1",
+      "steps": [
+        "Formation: 2C(s) + 2H2(g) + 1/2 O2(g) -> CH3CHO",
+        "Delta fH = 2 x Delta cH(C) + 2 x Delta cH(H2) - Delta cH(CH3CHO)",
+        "= 2(-394) + 2(-286) - (-1167) = -1360 + 1167 = -193 kJ mol^-1"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q18.jpg"
       ]
     },
     {
@@ -833,13 +917,19 @@
         "spirit burner"
       ],
       "question": "Complete the results table for burning 2-methylpropan-2-ol to heat 75 g of water.",
-      "status": "pending",
-      "answer": "Needs the results table, which is missing from the text, to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Change in mass: 0.57 g (loss); change in temperature: 45.8 C (rise)",
+      "steps": [
+        "Mass change = 267.35 - 266.78 = 0.57 g (the burner lost this mass of alcohol)",
+        "Temperature change = 65.3 - 19.5 = 45.8 C"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-16.jpg",
         "papers/chemistry/img/06-Energetics-17.jpg",
         "papers/chemistry/img/06-Energetics-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q20a.jpg"
       ]
     },
     {
@@ -856,13 +946,21 @@
         "kj mol-1"
       ],
       "question": "Calculate Delta cH of 2-methylpropan-2-ol from the results, with sign and units (75 g water, c = 4.18 J g-1 C-1).",
-      "status": "pending",
-      "answer": "Needs the mass burned and temperature change from the missing results table; method: q = 75 x 4.18 x Delta T, Delta cH = -q / (m / 74.0)",
-      "steps": [],
+      "status": "ready",
+      "answer": "-1860 kJ mol^-1 (about -1.9 x 10^3)",
+      "steps": [
+        "q = m c Delta T = 75 x 4.18 x 45.8 = 14 358 J = 14.4 kJ",
+        "Moles of 2-methylpropan-2-ol (C4H10O, M = 74.0) = 0.57 / 74.0 = 0.0077 mol",
+        "Delta cH = -q / n = -14.36 / 0.00770 = -1864 kJ mol^-1",
+        "Combustion is exothermic, so the sign is negative: about -1860 kJ mol^-1"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-16.jpg",
         "papers/chemistry/img/06-Energetics-17.jpg",
         "papers/chemistry/img/06-Energetics-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q20a.jpg"
       ]
     },
     {
@@ -920,6 +1018,9 @@
         "papers/chemistry/img/06-Energetics-16.jpg",
         "papers/chemistry/img/06-Energetics-17.jpg",
         "papers/chemistry/img/06-Energetics-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q20b-2.jpg"
       ]
     },
     {
@@ -936,13 +1037,22 @@
         "kj mol-1"
       ],
       "question": "Calculate the standard enthalpy change of combustion of 2-methylpropan-2-ol using the formation data in the table and your Hess cycle.",
-      "status": "pending",
-      "answer": "Needs the table of enthalpy of formation values, which is missing from the text, to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "-2647 kJ mol^-1",
+      "steps": [
+        "Combustion: C4H10O(l) + 6O2(g) -> 4CO2(g) + 5H2O(l)",
+        "Delta cH = [4 Delta fH(CO2) + 5 Delta fH(H2O)] - Delta fH(alcohol) (O2 contributes zero)",
+        "= [4(-394) + 5(-286)] - (-359) = (-1576 - 1430) + 359",
+        "= -2647 kJ mol^-1"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-16.jpg",
         "papers/chemistry/img/06-Energetics-17.jpg",
         "papers/chemistry/img/06-Energetics-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q20b.jpg",
+        "papers/chemistry/fig/06-Energetics-Q20b-2.jpg"
       ]
     },
     {
@@ -988,11 +1098,17 @@
         "multiple choice"
       ],
       "question": "For CH3COOH + KOH -> CH3COO-K+ + H2O, Delta H = -55.8 kJ mol-1, which statements are correct?",
-      "status": "pending",
-      "answer": "Needs the A-D option list, which is missing from the text, to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: exothermic, neutralisation",
+      "steps": [
+        "Delta H is negative (-55.8 kJ mol^-1), so the reaction is exothermic",
+        "An acid (CH3COOH) reacts with a base (KOH) to form a salt and water, which is a neutralisation, not a formation from elements"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q21.jpg"
       ]
     },
     {
@@ -1063,12 +1179,19 @@
         "multiple choice"
       ],
       "question": "The mean C-F bond enthalpy is +485 kJ mol-1. Which process has an enthalpy change of +1940 kJ mol-1 (= 4 x 485)?",
-      "status": "pending",
-      "answer": "Needs the A-D process options, which are missing from the text (expected: CF4(g) -> C(g) + 4F(g))",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: CF4(g) -> C(g) + 4F(g)",
+      "steps": [
+        "+1940 = 4 x 485, so four C-F bonds are broken",
+        "Breaking bonds is endothermic and gives gaseous atoms: CF4(g) -> C(g) + 4F(g)",
+        "A is the reverse (bond forming, -1940); B and D involve solid carbon and F2 molecules"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-19.jpg",
         "papers/chemistry/img/06-Energetics-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q24.jpg"
       ]
     },
     {
@@ -1166,11 +1289,18 @@
         "ammonium nitrate"
       ],
       "question": "Which process is represented by the given enthalpy level diagram? A Na(s) -> Na(g), B Na(g) -> Na+(g) + e-, C 2Cl(g) -> Cl2(g), D NH4NO3(s) + aq -> solution.",
-      "status": "pending",
-      "answer": "Needs the enthalpy level diagram, which is missing from the text, to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 2Cl(g) -> Cl2(g)",
+      "steps": [
+        "The products are at lower enthalpy than the reactants, so the reaction is exothermic",
+        "Na(s) -> Na(g) (atomisation), Na(g) -> Na+(g) + e- (ionisation) and NH4NO3 dissolving are all endothermic",
+        "Forming the Cl-Cl bond from atoms releases energy, so C is exothermic"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q27.jpg"
       ]
     },
     {
@@ -1187,12 +1317,20 @@
         "kj mol-1"
       ],
       "question": "Using the enthalpy changes for two reactions given, find the enthalpy change for the reaction between iron(III) oxide and carbon. A +491, B +713, C -491, D -713 kJ mol-1.",
-      "status": "pending",
-      "answer": "Needs the two reaction equations and their enthalpy changes, which are missing from the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: +491 kJ mol^-1",
+      "steps": [
+        "Target: Fe2O3 + 3C -> 2Fe + 3CO",
+        "Reverse the first equation (Fe2O3 -> 2Fe + 1.5 O2): +824 kJ mol^-1",
+        "Triple the second equation (3C + 1.5 O2 -> 3CO): 3 x (-111) = -333 kJ mol^-1",
+        "Delta H = +824 - 333 = +491 kJ mol^-1"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-22.jpg",
         "papers/chemistry/img/06-Energetics-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q28.jpg"
       ]
     },
     {
@@ -1220,6 +1358,9 @@
       "images": [
         "papers/chemistry/img/06-Energetics-22.jpg",
         "papers/chemistry/img/06-Energetics-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q29.jpg"
       ]
     },
     {
@@ -1236,12 +1377,20 @@
         "q=mct"
       ],
       "question": "The student repeats the experiment burning 0.30 g of methanol with 75.0 cm3 of water. What is the expected temperature change? A 7.1 C, B 10.7 C, C 16.0 C, D 36.0 C.",
-      "status": "pending",
-      "answer": "Needs the original volume of water from the apparatus diagram, which is missing from the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 16.0 C",
+      "steps": [
+        "The original experiment used 50.0 cm3 of water and 0.20 g of methanol (diagram), giving a 16.0 C rise",
+        "The repeat burns 0.30 g, which is 1.5 times as much methanol, so 1.5 times as much energy is released",
+        "It also heats 75.0 cm3 of water, which is 1.5 times as much water",
+        "The two factors cancel, so the temperature change is unchanged: 16.0 C"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-22.jpg",
         "papers/chemistry/img/06-Energetics-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q29.jpg"
       ]
     },
     {
@@ -1269,6 +1418,9 @@
       "images": [
         "papers/chemistry/img/06-Energetics-22.jpg",
         "papers/chemistry/img/06-Energetics-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q29.jpg"
       ]
     },
     {
@@ -1435,6 +1587,9 @@
       "images": [
         "papers/chemistry/img/06-Energetics-25.jpg",
         "papers/chemistry/img/06-Energetics-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q33-2.jpg"
       ]
     },
     {
@@ -1451,12 +1606,20 @@
         "kj mol-1"
       ],
       "question": "Calculate the standard enthalpy change for the thermal decomposition of sodium hydrogencarbonate using the formation data table and your cycle, with sign and units.",
-      "status": "pending",
-      "answer": "Needs the table of formation enthalpies, which is missing from the text (method: products - 2 x Delta fH(NaHCO3))",
-      "steps": [],
+      "status": "ready",
+      "answer": "+91.6 kJ mol^-1 (for the equation as written)",
+      "steps": [
+        "Delta rH = sum of Delta fH (products) - sum of Delta fH (reactants), using the cycle",
+        "Products: -1130.7 + (-393.5) + (-285.8) = -1810.0 kJ mol^-1",
+        "Reactants: 2 x (-950.8) = -1901.6 kJ mol^-1",
+        "Delta rH = -1810.0 - (-1901.6) = +91.6 kJ mol^-1 (positive, so endothermic)"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-25.jpg",
         "papers/chemistry/img/06-Energetics-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q33.jpg"
       ]
     },
     {
@@ -1473,12 +1636,20 @@
         "reactants"
       ],
       "question": "Use your answer to (b)(iii) to draw a labelled enthalpy level diagram for the decomposition.",
-      "status": "pending",
-      "answer": "Depends on the value from (b)(iii), which needs the missing formation data table; a drawn diagram must be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Axes: enthalpy (y), progress of reaction (x); reactants 2NaHCO3(s) at the lower level, products Na2CO3(s) + CO2(g) + H2O(l) at a higher level, with an upward arrow labelled Delta H = +91.6 kJ mol^-1",
+      "steps": [
+        "Label the vertical axis Enthalpy and the horizontal axis Progress of reaction (reaction pathway)",
+        "Draw a horizontal line labelled 2NaHCO3(s) at a lower level",
+        "Draw a horizontal line labelled Na2CO3(s) + CO2(g) + H2O(l) at a higher level, because the reaction is endothermic",
+        "Add an upward arrow between the levels labelled Delta H = +91.6 kJ mol^-1"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-25.jpg",
         "papers/chemistry/img/06-Energetics-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q33.jpg"
       ]
     },
     {
@@ -1495,13 +1666,20 @@
         "definition"
       ],
       "question": "Explain why Delta rH1 for Reaction 1 can also be described as an enthalpy change of formation.",
-      "status": "pending",
-      "answer": "Needs the equation for Reaction 1, which is missing from the text, to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Reaction 1 forms one mole of a compound (MgO) from its elements (Mg and O2) in their standard states, which is the definition of the enthalpy change of formation",
+      "steps": [
+        "Enthalpy of formation is the enthalpy change when 1 mol of a compound forms from its elements in their standard states",
+        "Reaction 1, Mg(s) + 1/2 O2(g) -> MgO(s), produces exactly 1 mol of MgO",
+        "Mg(s) and O2(g) are both elements in their standard states, so Delta rH1 equals Delta fH of MgO"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-26.jpg",
         "papers/chemistry/img/06-Energetics-27.jpg",
         "papers/chemistry/img/06-Energetics-28.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q34a.jpg"
       ]
     },
     {
@@ -1547,13 +1725,20 @@
         "kj mol-1"
       ],
       "question": "Calculate Delta rH1 for Reaction 1 using your answer to (b), the data provided and the enthalpy cycle shown (use -100 kJ mol-1 if (b) not done).",
-      "status": "pending",
-      "answer": "Needs Reaction 1, the data and the enthalpy cycle, which are missing from the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "-603 kJ mol^-1",
+      "steps": [
+        "By Hess's law, Delta rH1 + Delta rH2 = (-462) + (-286) (the route through the lower boxes)",
+        "So Delta rH1 = -462 - 286 - Delta rH2 = -748 - (-145)",
+        "Delta rH1 = -603 kJ mol^-1 (using Delta rH2 = -145 kJ mol^-1 from part (b))"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-26.jpg",
         "papers/chemistry/img/06-Energetics-27.jpg",
         "papers/chemistry/img/06-Energetics-28.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q34c.jpg"
       ]
     },
     {
@@ -1570,12 +1755,19 @@
         "reaction profile"
       ],
       "question": "An enthalpy level diagram for a reaction with an intermediate is shown. Which arrow (A, B, C or D) shows the enthalpy change for the reaction?",
-      "status": "pending",
-      "answer": "Needs the enthalpy level diagram with arrows A-D, which is missing from the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: arrow A",
+      "steps": [
+        "The enthalpy change of the overall reaction is the enthalpy of the products minus the enthalpy of the reactants",
+        "Arrow A runs from the reactants level up to the products level (the dashed lines mark the two levels), so it is the overall enthalpy change (endothermic)",
+        "B goes from the reactants to the first peak, C from the reactants to the second peak, and D from the products to the second peak; these are activation-energy type measurements, not the overall enthalpy change"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-28.jpg",
         "papers/chemistry/img/06-Energetics-29.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q35.jpg"
       ]
     },
     {
@@ -1649,13 +1841,20 @@
         "graph"
       ],
       "question": "From the thermometric titration graph (ammonia added in 5.00 cm3 portions to 30.0 cm3 ethanoic acid), find the end-point volume and maximum temperature using lines of best fit.",
-      "status": "pending",
-      "answer": "Needs the temperature-volume graph, which is missing from the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "End-point volume about 21 cm3; maximum temperature about 27.7 C",
+      "steps": [
+        "Draw one straight line through the rising points (0 to 15 cm3, about 0.33 C per cm3) and one through the falling points (25 to 40 cm3, -0.26 C per cm3), extending both until they cross",
+        "The lines cross at about 21 cm3 of ammonia, which is the end-point volume (accept about 20.5 to 21.5)",
+        "Read the temperature at the crossing point on the temperature axis: about 27.7 C"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-29.jpg",
         "papers/chemistry/img/06-Energetics-30.jpg",
         "papers/chemistry/img/06-Energetics-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q38.jpg"
       ]
     },
     {
@@ -1672,13 +1871,19 @@
         "mol dm-3"
       ],
       "question": "Calculate the number of moles of ammonia (1.30 mol dm-3) added at the end-point.",
-      "status": "pending",
-      "answer": "Needs the end-point volume from the missing graph; method: moles = 1.30 x V/1000",
-      "steps": [],
+      "status": "ready",
+      "answer": "0.0273 mol (using an end-point of 21.0 cm3)",
+      "steps": [
+        "Volume of NH3 added at the end-point = 21.0 cm3 = 0.0210 dm3",
+        "Moles = concentration x volume = 1.30 x 0.0210 = 0.0273 mol"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-29.jpg",
         "papers/chemistry/img/06-Energetics-30.jpg",
         "papers/chemistry/img/06-Energetics-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q38.jpg"
       ]
     },
     {
@@ -1695,13 +1900,21 @@
         "kj mol-1"
       ],
       "question": "For CH3COOH(aq) + NH3(aq) -> CH3COONH4(aq), calculate the enthalpy change of neutralisation in kJ mol-1 with sign and suitable s.f. (density 1.00 g cm-3, c = 4.18 J g-1 C-1).",
-      "status": "pending",
-      "answer": "Needs the end-point volume and temperature rise from the missing graph",
-      "steps": [],
+      "status": "ready",
+      "answer": "-55 kJ mol^-1",
+      "steps": [
+        "Temperature rise: maximum 27.7 C minus start temperature 20.7 C (the line at 0 cm3) = 7.0 C",
+        "Total volume of solution at end-point = 30.0 + 21.0 = 51.0 cm3, so mass = 51.0 g",
+        "q = m c Delta T = 51.0 x 4.18 x 7.0 = 1492 J = 1.49 kJ",
+        "Delta H = -q / n = -1.49 / 0.0273 = -54.7 kJ mol^-1, so -55 kJ mol^-1 (2 s.f. because Delta T has 2 s.f.); the sign is negative as the temperature rises"
+      ],
       "images": [
         "papers/chemistry/img/06-Energetics-29.jpg",
         "papers/chemistry/img/06-Energetics-30.jpg",
         "papers/chemistry/img/06-Energetics-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/06-Energetics-Q38.jpg"
       ]
     },
     {

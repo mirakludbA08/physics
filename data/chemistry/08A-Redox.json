@@ -44,11 +44,19 @@
         "electrons"
       ],
       "question": "State the coefficients in the half-equation for reduction of dichromate(VI) ions in acidic solution.",
-      "status": "pending",
-      "answer": "Needs the half-equation with its blanks, which is missing from the text (options not present).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: x = 14, y = 6, z = 7",
+      "steps": [
+        "Each Cr goes from +6 in Cr2O7 2- to +3 in Cr3+, a gain of 3 electrons per Cr, so 6 electrons for 2 Cr: y = 6.",
+        "The 7 oxygen atoms form 7 H2O, so z = 7.",
+        "The 7 H2O contain 14 H, so 14 H+ are needed: x = 14.",
+        "Check the charge: -2 + 14 - 6 = +6 on the left and 2 x (+3) = +6 on the right."
+      ],
       "images": [
         "papers/chemistry/img/08A-Redox-01.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08A-Redox-Q2.jpg"
       ]
     },
     {
@@ -65,12 +73,20 @@
         "IO3-"
       ],
       "question": "State the balancing numbers x, y and z for iodate(V) ions oxidising dithionate ions.",
-      "status": "pending",
-      "answer": "Needs the ionic equation and options, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: x = 2, y = 5, z = 10",
+      "steps": [
+        "Iodine in IO3- is +5 and in I2 is 0: each iodine gains 5 electrons, so 2 IO3- gain 10 electrons (x = 2, since I2 contains 2 I).",
+        "Sulfur in S2O6 2- is +5 and in SO4 2- is +6: each S2O6 2- loses 2 electrons, so 5 S2O6 2- are needed to supply 10 electrons (y = 5).",
+        "5 S2O6 2- contain 10 S, so 10 SO4 2- form: z = 10.",
+        "Check: charge on the left = 2(-1) + 5(-2) = -12; on the right = 10(-2) + 8(+1) = -12. Oxygen: 6 + 30 + 4 = 40 = 10 x 4."
+      ],
       "images": [
         "papers/chemistry/img/08A-Redox-02.jpg",
         "papers/chemistry/img/08A-Redox-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08A-Redox-Q3.jpg"
       ]
     },
     {
@@ -223,12 +239,19 @@
         "hydrogen"
       ],
       "question": "In H2O2 -> H2O + O2, how do hydrogen and oxygen change in terms of oxidation and reduction?",
-      "status": "pending",
-      "answer": "Needs the answer options, which are missing from the text. Oxygen is both oxidised and reduced; hydrogen is unchanged.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: hydrogen unchanged; oxygen both oxidised and reduced",
+      "steps": [
+        "Hydrogen is +1 in H2O2 and +1 in H2O, so its oxidation number does not change.",
+        "Oxygen in H2O2 is -1. In H2O it is -2 (reduced) and in O2 it is 0 (oxidised).",
+        "The same element is oxidised and reduced, so this is disproportionation of oxygen, and the answer is D."
+      ],
       "images": [
         "papers/chemistry/img/08A-Redox-04.jpg",
         "papers/chemistry/img/08A-Redox-05.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08A-Redox-Q8.jpg"
       ]
     },
     {
@@ -351,11 +374,19 @@
         "identify"
       ],
       "question": "Which reaction is not a redox reaction?",
-      "status": "pending",
-      "answer": "Needs the reaction options, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 2HCl + Ba(OH)2 -> BaCl2 + 2H2O",
+      "steps": [
+        "B is an acid-base neutralisation: no element changes oxidation number (H +1, Cl -1, Ba +2, O -2 throughout), so it is not redox.",
+        "A: Cl goes from +5 in KClO3 to +7 in KClO4 and -1 in KCl, so it is redox (disproportionation).",
+        "C: Zn goes 0 to +2 and Cu goes +2 to 0, so it is redox.",
+        "D: Cl2 (0) goes to Cl- (-1) and to HClO (+1), so it is redox (disproportionation)."
+      ],
       "images": [
         "papers/chemistry/img/08A-Redox-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08A-Redox-Q12.jpg"
       ]
     },
     {
@@ -372,12 +403,19 @@
         "options"
       ],
       "question": "How does an oxidising agent change during a redox reaction?",
-      "status": "pending",
-      "answer": "Needs the answer options, which are missing from the text. Expected answer: it is reduced (gains electrons; oxidation number falls).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: gains electrons; oxidation number decreases",
+      "steps": [
+        "An oxidising agent oxidises another species by taking electrons from it.",
+        "So the oxidising agent gains electrons and is itself reduced.",
+        "Gaining electrons lowers the oxidation number, so it decreases: A."
+      ],
       "images": [
         "papers/chemistry/img/08A-Redox-07.jpg",
         "papers/chemistry/img/08A-Redox-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08A-Redox-Q13.jpg"
       ]
     },
     {
@@ -394,12 +432,19 @@
         "options"
       ],
       "question": "Two half-equations for a reaction are given; choose the overall ionic equation.",
-      "status": "pending",
-      "answer": "Needs the two half-equations and options, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 3Cu + 2NO3- + 8H+ -> 3Cu2+ + 2NO + 4H2O",
+      "steps": [
+        "Make the electrons equal: the Cu half-equation releases 2e- and the nitrate half-equation takes 3e-, so use 3 Cu (6e-) and 2 NO3- (6e-).",
+        "Multiply the Cu half-equation by 3 and the nitrate half-equation by 2, then add them: 3Cu + 2NO3- + 8H+ -> 3Cu2+ + 2NO + 4H2O.",
+        "Check the charge: 2(-1) + 8(+1) = +6 on the left and 3(+2) = +6 on the right."
+      ],
       "images": [
         "papers/chemistry/img/08A-Redox-07.jpg",
         "papers/chemistry/img/08A-Redox-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08A-Redox-Q14.jpg"
       ]
     },
     {
@@ -416,12 +461,20 @@
         "neutralisation"
       ],
       "question": "Choose the ionic equation for Ba(OH)2(aq) + H2SO4(aq) -> BaSO4(s) + 2H2O(l).",
-      "status": "pending",
-      "answer": "Needs the ionic equation options, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: Ba2+(aq) + 2OH-(aq) + 2H+(aq) + SO4 2-(aq) -> BaSO4(s) + 2H2O(l)",
+      "steps": [
+        "Ba(OH)2 and H2SO4 are fully ionised in solution, giving Ba2+, OH-, H+ and SO4 2-.",
+        "The products are not written as ions: BaSO4 is an insoluble solid and H2O is a molecular liquid.",
+        "All four ions on the left take part in forming these products, so there are no spectator ions and the full ionic equation is A.",
+        "B (precipitation only) and C (neutralisation only) are each only part of the change; D wrongly shows Ba2+ and SO4 2- on the right."
+      ],
       "images": [
         "papers/chemistry/img/08A-Redox-07.jpg",
         "papers/chemistry/img/08A-Redox-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08A-Redox-Q15.jpg"
       ]
     },
     {
@@ -464,11 +517,18 @@
         "species"
       ],
       "question": "State the oxidation number of bromine in the species shown (formula missing from the text), options +1, +3, +5, +7.",
-      "status": "pending",
-      "answer": "Needs the species formula, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: +5 (in BrO3-)",
+      "steps": [
+        "The species is the bromate ion, BrO3-, with an overall charge of -1.",
+        "Three oxygen atoms at -2 give -6.",
+        "Br + (-6) = -1, so Br = +5."
+      ],
       "images": [
         "papers/chemistry/img/08A-Redox-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08A-Redox-Q17.jpg"
       ]
     },
     {
@@ -647,11 +707,19 @@
         "ion formula"
       ],
       "question": "Which ion contains vanadium with oxidation number +4?",
-      "status": "pending",
-      "answer": "Needs the ion options, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: VO2+",
+      "steps": [
+        "Oxygen is -2. For VO2+: V + (-2) = +2, so V = +4.",
+        "For B, VO2+: V + 2(-2) = +1, so V = +5.",
+        "For C, VO3-: V + 3(-2) = -1, so V = +5; for D, VO4 3-: V + 4(-2) = -3, so V = +5.",
+        "Only A contains V(IV)."
+      ],
       "images": [
         "papers/chemistry/img/08A-Redox-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08A-Redox-Q24.jpg"
       ]
     },
     {
@@ -827,12 +895,21 @@
         "identify"
       ],
       "question": "Which equation shows a disproportionation reaction?",
-      "status": "pending",
-      "answer": "Needs the answer equations, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: S2O3 2- + 2H+ -> SO2 + S + H2O",
+      "steps": [
+        "Disproportionation is when one element is both oxidised and reduced in the same reaction.",
+        "In D sulfur in S2O3 2- is +2 on average; it goes to +4 in SO2 (oxidised) and to 0 in S (reduced).",
+        "A is an ordinary redox reaction: Cu is oxidised and N (+5 to +4) is reduced.",
+        "In B, iodine is oxidised (0 to +5) and the oxygen of O3 is reduced, so two different elements change.",
+        "In C manganese goes from +7 and +4 to +6 in one product: the reverse of disproportionation (comproportionation)."
+      ],
       "images": [
         "papers/chemistry/img/08A-Redox-13.jpg",
         "papers/chemistry/img/08A-Redox-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08A-Redox-Q28.jpg"
       ]
     },
     {
@@ -905,13 +982,23 @@
         "diagram"
       ],
       "question": "Complete the dot-and-cross diagram for the ClO2 structure shown.",
-      "status": "pending",
-      "answer": "Needs the suggested structure diagram from the PDF to complete the dot-and-cross diagram.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Each Cl=O overlap holds 2 crosses and 2 dots; each O has 4 more dots (two lone pairs); Cl has 3 more crosses (a lone pair and one unpaired electron)",
+      "steps": [
+        "Cl has 7 outer electrons (shown as crosses) and each O has 6 (shown as dots).",
+        "Each Cl=O double bond is two shared pairs: in each overlap region of the circles draw 4 electrons, 2 crosses (from Cl) and 2 dots (from O).",
+        "Each oxygen needs 4 more dots outside the overlap, drawn as two lone pairs, so every O has 8 electrons.",
+        "Cl has used 4 crosses in the two overlaps; the other 3 crosses stay on Cl, drawn as one lone pair and a single unpaired electron (the dot on Cl in the structure shown marks the radical electron).",
+        "Totals: 7 crosses around Cl, 6 dots around each O."
+      ],
       "images": [
         "papers/chemistry/img/08A-Redox-14.jpg",
         "papers/chemistry/img/08A-Redox-15.jpg",
         "papers/chemistry/img/08A-Redox-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08A-Redox-Q30.jpg",
+        "papers/chemistry/fig/08A-Redox-Q30-2.jpg"
       ]
     },
     {
@@ -1122,12 +1209,20 @@
         "sample"
       ],
       "question": "Which sample of sulfuric acid is exactly neutralised by 20 cm3 of 0.5 mol dm-3 NaOH?",
-      "status": "pending",
-      "answer": "Needs the answer options (sulfuric acid samples), which are missing from the text. Expected: 0.005 mol H2SO4 in the sample.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 20 cm3 of 0.25 mol dm-3 sulfuric acid",
+      "steps": [
+        "H2SO4 + 2NaOH -> Na2SO4 + 2H2O, so 1 mol of acid reacts with 2 mol of NaOH.",
+        "Moles of NaOH = 0.020 dm3 x 0.5 mol dm-3 = 0.010 mol.",
+        "Moles of H2SO4 needed = 0.010 / 2 = 0.0050 mol.",
+        "A contains 0.020 x 0.25 = 0.0050 mol, B and D contain 0.010 mol, and C contains 0.020 mol, so only A fits."
+      ],
       "images": [
         "papers/chemistry/img/08A-Redox-16.jpg",
         "papers/chemistry/img/08A-Redox-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08A-Redox-Q32.jpg"
       ]
     },
     {
@@ -1144,12 +1239,20 @@
         "options"
       ],
       "question": "Which reaction involves the oxidation of a Group 7 element?",
-      "status": "pending",
-      "answer": "Needs the answer reactions, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: Br2 + F2 -> 2BrF",
+      "steps": [
+        "Oxidation of an element means its oxidation number increases.",
+        "In A, bromine goes from 0 in Br2 to +1 in BrF (oxidised), while fluorine goes from 0 to -1.",
+        "In B, chlorine goes from +3 to +1 (reduced) and in C fluorine goes from 0 to -1 (reduced).",
+        "D is not a redox reaction: Cl stays at -1 (KCl to HCl), so no Group 7 element is oxidised."
+      ],
       "images": [
         "papers/chemistry/img/08A-Redox-17.jpg",
         "papers/chemistry/img/08A-Redox-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08A-Redox-Q33.jpg"
       ]
     },
     {
@@ -1248,12 +1351,20 @@
         "options"
       ],
       "question": "Which is the correct order of increasing oxidation number of nitrogen in NO, NO3- and NH3?",
-      "status": "pending",
-      "answer": "Needs the answer options, which are missing from the text. Expected order: NH3 (-3) < NO (+2) < NO3- (+5).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: NH3, NO, NO3-",
+      "steps": [
+        "In NH3, H is +1, so N = -3.",
+        "In NO, O is -2, so N = +2.",
+        "In NO3-, three O give -6 and the charge is -1, so N = +5.",
+        "Increasing order: NH3 (-3), NO (+2), NO3- (+5), which is A."
+      ],
       "images": [
         "papers/chemistry/img/08A-Redox-18.jpg",
         "papers/chemistry/img/08A-Redox-19.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08A-Redox-Q37.jpg"
       ]
     },
     {

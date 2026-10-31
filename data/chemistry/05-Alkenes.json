@@ -658,12 +658,20 @@
         "addition polymer"
       ],
       "question": "Name the monomer that forms a polymer whose repeat unit is shown.",
-      "status": "pending",
-      "answer": "Needs the repeat unit diagram to identify the monomer.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 2-methylbut-2-ene",
+      "steps": [
+        "The repeat unit has two backbone carbons: one carries two CH3 groups, the other carries H and CH3",
+        "Closing the two chain bonds into a C=C gives the monomer (CH3)2C=CH(CH3)",
+        "The longest chain containing the C=C has four carbons, with the double bond at C2 and a methyl on C2, so the systematic name is 2-methylbut-2-ene",
+        "The other options are not correct IUPAC names for this compound (trimethylethene and dimethylpropene are not systematic, and 3-methylbut-2-ene numbers the chain wrongly)"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-14.jpg",
         "papers/chemistry/img/05-Alkenes-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q22.jpg"
       ]
     },
     {
@@ -691,6 +699,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-14.jpg",
         "papers/chemistry/img/05-Alkenes-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q23.jpg"
       ]
     },
     {
@@ -718,6 +729,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-14.jpg",
         "papers/chemistry/img/05-Alkenes-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q23.jpg"
       ]
     },
     {
@@ -799,6 +813,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-16.jpg",
         "papers/chemistry/img/05-Alkenes-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q26.jpg"
       ]
     },
     {
@@ -815,12 +832,20 @@
         "alkene"
       ],
       "question": "Choose the systematic name for a compound whose structure is shown (options: E/Z-5-methylhex-2-ene, E/Z-2-methylpent-4-ene).",
-      "status": "pending",
-      "answer": "Needs the structure diagram to choose between the four names.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: E-5-methylhex-2-ene",
+      "steps": [
+        "The longest chain containing the C=C has six carbons; numbering from the end nearer the double bond puts the C=C at C2 and the methyl branch at C5, so the name is 5-methylhex-2-ene",
+        "The names with pent-4-ene (options C and D) have the wrong chain length and numbering",
+        "At each end of the C=C one substituent is H and the other is a carbon chain; in the zigzag drawing the two chain carbons lie on opposite sides of the double bond",
+        "Higher-priority groups on opposite sides means E, so the compound is E-5-methylhex-2-ene"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-16.jpg",
         "papers/chemistry/img/05-Alkenes-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q27.jpg"
       ]
     },
     {
@@ -864,12 +889,19 @@
         "displayed formula"
       ],
       "question": "Choose the diagram showing two repeat units of the addition polymer of cyclohexene.",
-      "status": "pending",
-      "answer": "Needs the option diagrams, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D",
+      "steps": [
+        "In addition polymerisation the C=C opens, so the two ring carbons that were doubly bonded become part of the polymer backbone",
+        "Each repeat unit is therefore a cyclohexane ring joined to the chain through two adjacent (1,2) carbons",
+        "Only D shows each ring linked to the chain and to its neighbour through adjacent carbons; A is 1,3-linked, B is 1,4-linked and C joins the rings at a single shared carbon"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-17.jpg",
         "papers/chemistry/img/05-Alkenes-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q28b.jpg"
       ]
     },
     {
@@ -913,12 +945,20 @@
         "structure"
       ],
       "question": "Identify each double bond in a molecule with two double bonds, using options whose text is missing.",
-      "status": "pending",
-      "answer": "Needs the molecule and the option list, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: E and E",
+      "steps": [
+        "The molecule is CH3-CH=C(CH3)-C(CH3)=CH-CH2CH3 (3,4-dimethylhepta-2,4-diene)",
+        "Double bond 1: on its CH carbon CH3 outranks H; on its other carbon the neighbouring C(CH3)= carbon outranks CH3; these two groups are on opposite sides in the zigzag, so E",
+        "Double bond 2: on its first carbon the C(CH3)= neighbour outranks CH3; on the CH carbon CH2CH3 outranks H; these are again on opposite sides, so E",
+        "Both double bonds are E, so the answer is A"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-18.jpg",
         "papers/chemistry/img/05-Alkenes-19.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q29.jpg"
       ]
     },
     {
@@ -946,6 +986,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-19.jpg",
         "papers/chemistry/img/05-Alkenes-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q30.jpg"
       ]
     },
     {
@@ -973,6 +1016,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-19.jpg",
         "papers/chemistry/img/05-Alkenes-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q30.jpg"
       ]
     },
     {
@@ -1081,6 +1127,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-21.jpg",
         "papers/chemistry/img/05-Alkenes-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q33.jpg"
       ]
     },
     {
@@ -1097,12 +1146,19 @@
         "cyclohexene"
       ],
       "question": "Decide which of three formulae (i)-(iii) are correct for 1,4-diethylcyclohexene.",
-      "status": "pending",
-      "answer": "Needs the three formulae (i)-(iii), which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: (i), (ii) and (iii) are all correct",
+      "steps": [
+        "(i) The skeletal formula shows a cyclohexene ring with an ethyl group on one carbon of the C=C (C1) and another on C4, which is 1,4-diethylcyclohexene",
+        "(ii) Counting atoms: 6 ring C + 2 x 2 ethyl C = 10 C; cyclohexene C6H10 loses 2 H and gains 2 C2H5, giving C10H18",
+        "(iii) The simplest whole-number ratio of C10H18 is C5H9, so the empirical formula is correct"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-21.jpg",
         "papers/chemistry/img/05-Alkenes-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q34.jpg"
       ]
     },
     {
@@ -1119,11 +1175,18 @@
         "structure"
       ],
       "question": "Choose which molecule has a geometric isomer from structure options.",
-      "status": "pending",
-      "answer": "Needs the option structures, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D (pent-2-ene)",
+      "steps": [
+        "Geometric isomers need each carbon of the C=C to carry two different groups",
+        "In A, B and C one carbon of the C=C carries two identical CH3 groups, so no E/Z isomers exist",
+        "In D (CH3CH=CHCH2CH3) one carbon has H and CH3 and the other has H and CH2CH3, so it has E and Z forms"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q35.jpg"
       ]
     },
     {
@@ -1140,11 +1203,18 @@
         "carbocation"
       ],
       "question": "Choose the correct mechanism for electrophilic addition of HBr to pent-1-ene giving the major product.",
-      "status": "pending",
-      "answer": "Needs the mechanism options, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B",
+      "steps": [
+        "Step 1: a curly arrow starts at the C=C and points to the H of the polarised H(delta+)-Br(delta-); a second arrow starts at the H-Br bond and points to Br",
+        "Step 2: the arrow from the lone pair on the bromide ion Br- must point to the C+ of the carbocation, and the ion carries a full negative charge, not delta-",
+        "A has the last arrow reversed, C has the first arrow reversed, and D shows Br with delta- instead of Br-; only B is fully correct"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q36.jpg"
       ]
     },
     {
@@ -1172,6 +1242,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-23.jpg",
         "papers/chemistry/img/05-Alkenes-24.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q37.jpg"
       ]
     },
     {
@@ -1188,11 +1261,20 @@
         "alkene"
       ],
       "question": "Choose which structure is a Z-isomer.",
-      "status": "pending",
-      "answer": "Needs the option structures, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D",
+      "steps": [
+        "Z means the two higher-priority groups (by CIP rules) are on the same side of the C=C",
+        "A: Cl and CH3 are on opposite sides, so E",
+        "B: Cl (higher than OH) and ethyl (higher than methyl) are on opposite sides, so E",
+        "C: Br (higher than Cl) is up and Cl (higher than ethyl) is down, so E",
+        "D: Cl and ethyl are both on the upper side, so Z"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-24.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q38.jpg"
       ]
     },
     {
@@ -1209,11 +1291,18 @@
         "alkene test"
       ],
       "question": "Choose the skeletal formula of the major product when bromine water reacts with 2-methylbut-2-ene.",
-      "status": "pending",
-      "answer": "Needs the option skeletal formulae, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 3-bromo-2-methylbutan-2-ol",
+      "steps": [
+        "In bromine water the alkene attacks Br2, then water (the solvent) attacks the more stable carbon of the intermediate, so Br and OH end up on adjacent carbons",
+        "The more substituted (tertiary) carbon of 2-methylbut-2-ene bears the OH group, and Br goes on the CH carbon",
+        "This gives (CH3)2C(OH)-CHBr-CH3, shown in A; B has the groups the wrong way round and C and D have the wrong carbon skeleton"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-25.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-A-Q39.jpg"
       ]
     },
     {
@@ -1370,13 +1459,21 @@
         "bromide ion"
       ],
       "question": "Describe three changes to a student's mechanism for the addition of bromine to ethene.",
-      "status": "pending",
-      "answer": "Needs the student's mechanism diagram to check the three errors against the PDF.",
-      "steps": [],
+      "status": "ready",
+      "answer": "(1) The first curly arrow must start at the C=C and end at the nearer Br, not the reverse; (2) the Br-Br dipole is swapped: the Br nearer the alkene is delta+ and the far Br delta-; (3) the bromide ion must be Br- (with a lone pair), not Br+",
+      "steps": [
+        "Change 1: the first curly arrow points the wrong way; it must start at the C=C double bond (the electron-rich pi bond) and end at the Br atom nearer the alkene",
+        "Change 2: the dipole on bromine is reversed; the Br nearer the alkene must be delta+ and the far Br delta-; the arrow from the Br-Br bond to the far Br, which becomes Br-, is then correct",
+        "Change 3: in the second step the bromide ion is labelled Br+; it must be Br- (negative charge) with a lone pair, which attacks the C+",
+        "The carbocation intermediate and the final product, 1,2-dibromoethane, are otherwise correct"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-26.jpg",
         "papers/chemistry/img/05-Alkenes-27.jpg",
         "papers/chemistry/img/05-Alkenes-28.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q1e.jpg"
       ]
     },
     {
@@ -1393,13 +1490,20 @@
         "alkene"
       ],
       "question": "Draw the monomer of a polymer whose section is shown.",
-      "status": "pending",
-      "answer": "Needs the polymer section diagram.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Propene, CH3-CH=CH2",
+      "steps": [
+        "The repeat unit is -CH(CH3)-CH2-, with two backbone carbons",
+        "Reopen the repeat unit as a C=C to give the monomer",
+        "Draw the monomer as CH3-CH=CH2 (propene): one carbon carries CH3 and H, the other carries two H"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-26.jpg",
         "papers/chemistry/img/05-Alkenes-27.jpg",
         "papers/chemistry/img/05-Alkenes-28.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q1f.jpg"
       ]
     },
     {
@@ -1502,14 +1606,21 @@
         "cleavage"
       ],
       "question": "Give the skeletal formula of the organic product Q from Reaction 1 (2-methylpropene with acidified KMnO4).",
-      "status": "pending",
-      "answer": "Needs the Reaction 1 scheme and conditions to confirm product Q (cleavage to propanone or a diol).",
-      "steps": [],
+      "status": "ready",
+      "answer": "2-methylpropane-1,2-diol: skeletal formula with a carbon carrying two CH3 groups and an OH, joined to a CH2OH",
+      "steps": [
+        "Acidified potassium manganate(VII) oxidises the C=C of an alkene to a diol (OH added to each carbon of the double bond)",
+        "In 2-methylpropene (CH3)2C=CH2 one OH goes on the carbon with the two methyls and one on the CH2",
+        "Q is HOCH2-C(CH3)2-OH; draw a carbon with two methyl lines, an OH, and a CH2-OH branch"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-28.jpg",
         "papers/chemistry/img/05-Alkenes-29.jpg",
         "papers/chemistry/img/05-Alkenes-30.jpg",
         "papers/chemistry/img/05-Alkenes-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q2d.jpg"
       ]
     },
     {
@@ -1539,6 +1650,9 @@
         "papers/chemistry/img/05-Alkenes-29.jpg",
         "papers/chemistry/img/05-Alkenes-30.jpg",
         "papers/chemistry/img/05-Alkenes-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q2d.jpg"
       ]
     },
     {
@@ -1567,6 +1681,9 @@
         "papers/chemistry/img/05-Alkenes-29.jpg",
         "papers/chemistry/img/05-Alkenes-30.jpg",
         "papers/chemistry/img/05-Alkenes-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q2d.jpg"
       ]
     },
     {
@@ -1596,6 +1713,9 @@
         "papers/chemistry/img/05-Alkenes-29.jpg",
         "papers/chemistry/img/05-Alkenes-30.jpg",
         "papers/chemistry/img/05-Alkenes-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q2d.jpg"
       ]
     },
     {
@@ -2257,7 +2377,7 @@
       ],
       "question": "Draw the geometric isomer of a related molecule that shows geometric isomerism (the molecule is shown in the PDF).",
       "status": "pending",
-      "answer": "Needs the related molecule diagram, which is missing from the text.",
+      "answer": "The molecule whose geometric isomer must be drawn is missing from the page image: there is a blank gap between 'A related molecule does show geometric isomerism' and 'Draw the geometric isomer of this molecule'.",
       "steps": [],
       "images": [
         "papers/chemistry/img/05-Alkenes-36.jpg",
@@ -2393,14 +2513,21 @@
         "addition"
       ],
       "question": "Draw the skeletal formula of compound X formed in Reaction 1 from 1-methylcyclohexene.",
-      "status": "pending",
-      "answer": "Needs the Reaction 1 scheme (reagent, product), which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1,2-dibromo-1-methylcyclohexane: a cyclohexane ring with Br on each of two adjacent carbons and a CH3 on one of them",
+      "steps": [
+        "Bromine adds across the C=C of 1-methylcyclohexene (electrophilic addition)",
+        "Each carbon of the former double bond gains one Br",
+        "Skeletal formula: cyclohexane ring, Br on C1 (which also carries the CH3 group) and Br on the adjacent C2"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-38.jpg",
         "papers/chemistry/img/05-Alkenes-39.jpg",
         "papers/chemistry/img/05-Alkenes-40.jpg",
         "papers/chemistry/img/05-Alkenes-41.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q6c.jpg"
       ]
     },
     {
@@ -2417,14 +2544,22 @@
         "conditions"
       ],
       "question": "Give the reagent and condition needed for Reaction 2 from 1-methylcyclohexene.",
-      "status": "pending",
-      "answer": "Needs the Reaction 2 scheme, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Reagent: steam (water vapour); condition: phosphoric acid catalyst at about 300 C and 60-70 atm",
+      "steps": [
+        "Reaction 2 adds H and OH across the C=C: hydration of the alkene to an alcohol",
+        "Reagent: steam, H2O(g)",
+        "Conditions: concentrated phosphoric acid (H3PO4) as catalyst, about 300 C and 60-70 atm (alternatively accept concentrated sulfuric acid followed by water)",
+        "OH goes on the carbon with the methyl group, giving the tertiary alcohol 1-methylcyclohexan-1-ol shown"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-38.jpg",
         "papers/chemistry/img/05-Alkenes-39.jpg",
         "papers/chemistry/img/05-Alkenes-40.jpg",
         "papers/chemistry/img/05-Alkenes-41.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q6c.jpg"
       ]
     },
     {
@@ -2454,6 +2589,9 @@
         "papers/chemistry/img/05-Alkenes-39.jpg",
         "papers/chemistry/img/05-Alkenes-40.jpg",
         "papers/chemistry/img/05-Alkenes-41.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q6d.jpg"
       ]
     },
     {
@@ -2470,14 +2608,21 @@
         "name"
       ],
       "question": "Give the name of the monomer that forms a polymer whose two repeat units are shown.",
-      "status": "pending",
-      "answer": "Needs the polymer diagram to name the monomer.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Pent-2-ene",
+      "steps": [
+        "The repeat unit is -CH(CH3)-CH(C2H5)-, two backbone carbons",
+        "Reforming the C=C between them gives CH3-CH=CH-CH2CH3",
+        "The longest chain has five carbons with the double bond starting at C2, so the monomer is pent-2-ene"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-38.jpg",
         "papers/chemistry/img/05-Alkenes-39.jpg",
         "papers/chemistry/img/05-Alkenes-40.jpg",
         "papers/chemistry/img/05-Alkenes-41.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q6e.jpg"
       ]
     },
     {
@@ -3066,14 +3211,21 @@
         "complete"
       ],
       "question": "Complete the diagram to show another structural isomer of C15H24.",
-      "status": "pending",
-      "answer": "Needs the partly drawn diagram from the PDF; any valid C15H24 isomer is accepted.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Add one C=C between two adjacent ring carbons that each still carry an H (for example the two CH2 carbons at the far left of the left-hand ring); this gives C15H24",
+      "steps": [
+        "The partly drawn skeleton has 15 carbons in three fused rings plus four methyl groups, which is the saturated C15H26",
+        "C15H24 has one fewer H2, so it needs one C=C in addition to the three rings",
+        "Draw a double bond between any two neighbouring ring carbons that have hydrogens (not at the carbons already carrying four C-C bonds), giving a valid structural isomer of C15H24"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-43.jpg",
         "papers/chemistry/img/05-Alkenes-44.jpg",
         "papers/chemistry/img/05-Alkenes-45.jpg",
         "papers/chemistry/img/05-Alkenes-46.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q8f.jpg"
       ]
     },
     {
@@ -3177,14 +3329,22 @@
         "reagents"
       ],
       "question": "Give the name and structural formula of each product from the reactions of but-1-ene shown in the PDF.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme (reagents and products) which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1: 1,2-dichlorobutane CH3CH2CHClCH2Cl; 2: butane CH3CH2CH2CH3; 3: butane-1,2-diol CH3CH2CH(OH)CH2OH; 4: butan-2-ol CH3CH2CH(OH)CH3 (major)",
+      "steps": [
+        "Cl2 adds across the C=C: CH3CH2CHCl-CH2Cl, 1,2-dichlorobutane",
+        "H2 with a nickel catalyst hydrogenates the C=C: butane",
+        "Acidified KMnO4 oxidises the C=C to a diol: CH3CH2CH(OH)CH2OH, butane-1,2-diol",
+        "Steam with an acid catalyst hydrates the C=C; the OH goes on the more substituted carbon (Markovnikov), giving butan-2-ol as the major product (butan-1-ol is minor)"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-47.jpg",
         "papers/chemistry/img/05-Alkenes-48.jpg",
         "papers/chemistry/img/05-Alkenes-49.jpg",
         "papers/chemistry/img/05-Alkenes-50.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q9b.jpg"
       ]
     },
     {
@@ -3329,6 +3489,9 @@
         "papers/chemistry/img/05-Alkenes-50.jpg",
         "papers/chemistry/img/05-Alkenes-51.jpg",
         "papers/chemistry/img/05-Alkenes-52.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q10b.jpg"
       ]
     },
     {
@@ -3373,13 +3536,21 @@
         "ketone"
       ],
       "question": "Draw the skeletal formula of the organic product of limonene with excess acidified KMnO4.",
-      "status": "pending",
-      "answer": "Needs the limonene skeletal structure from the PDF to draw the cleavage product.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The tetraol: cyclohexane ring with CH3 and OH on C1, OH on C2, and a C(CH3)(OH)CH2OH group on C4 (formula C10H20O4)",
+      "steps": [
+        "Limonene has two C=C bonds: one in the ring and one in the isopropenyl side chain",
+        "Excess acidified potassium manganate(VII) oxidises both, adding an OH to each carbon of each double bond",
+        "Ring C=C becomes C(OH)(CH3)-CH(OH); side chain C(CH3)=CH2 becomes C(CH3)(OH)-CH2OH",
+        "The product therefore has four OH groups (a tetraol)"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-50.jpg",
         "papers/chemistry/img/05-Alkenes-51.jpg",
         "papers/chemistry/img/05-Alkenes-52.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q10b.jpg"
       ]
     },
     {
@@ -3575,6 +3746,9 @@
         "papers/chemistry/img/05-Alkenes-52.jpg",
         "papers/chemistry/img/05-Alkenes-53.jpg",
         "papers/chemistry/img/05-Alkenes-54.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q11a.jpg"
       ]
     },
     {
@@ -3591,13 +3765,21 @@
         "gas composition"
       ],
       "question": "Calculate the mass of carbon dioxide produced in a year by a landfill of 90 000 tonnes, given 12.5 dm3 of gas per tonne per day and the gas composition table.",
-      "status": "pending",
-      "answer": "Needs the landfill gas composition table (percentage of CO2) which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 3.39 x 10^8 g of CO2 per year (339 tonnes)",
+      "steps": [
+        "Gas per day = 12.5 dm3 x 90 000 = 1.125 x 10^6 dm3",
+        "CO2 is 45 % by volume: 0.45 x 1.125 x 10^6 = 5.06 x 10^5 dm3 per day",
+        "Moles per day = 506 250 / 24.0 = 21 094 mol; mass per day = 21 094 x 44.0 = 9.28 x 10^5 g",
+        "Mass per year = 9.28 x 10^5 x 365 = 3.39 x 10^8 g (about 339 tonnes)"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-52.jpg",
         "papers/chemistry/img/05-Alkenes-53.jpg",
         "papers/chemistry/img/05-Alkenes-54.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q11a.jpg"
       ]
     },
     {
@@ -4145,13 +4327,21 @@
         "water"
       ],
       "question": "In each box, draw the organic product of the reaction of propene with the reagents shown.",
-      "status": "pending",
-      "answer": "Needs the reagent boxes (diagram) which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Steam + acid catalyst: propan-2-ol CH3CH(OH)CH3 (major); acidified manganate(VII): propane-1,2-diol CH3CH(OH)CH2OH; bromine: 1,2-dibromopropane CH3CHBrCH2Br",
+      "steps": [
+        "Steam and an acid catalyst add H and OH across the C=C; by Markovnikov addition the OH goes on the middle carbon, giving propan-2-ol",
+        "Acidified potassium manganate(VII) oxidises the C=C to a diol, CH3-CH(OH)-CH2OH",
+        "Bromine adds across the C=C to give CH3-CHBr-CH2Br",
+        "Draw each as a full structure in its box, with all atoms and bonds shown"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-59.jpg",
         "papers/chemistry/img/05-Alkenes-60.jpg",
         "papers/chemistry/img/05-Alkenes-61.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q14b.jpg"
       ]
     },
     {
@@ -4180,6 +4370,9 @@
         "papers/chemistry/img/05-Alkenes-59.jpg",
         "papers/chemistry/img/05-Alkenes-60.jpg",
         "papers/chemistry/img/05-Alkenes-61.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q14b.jpg"
       ]
     },
     {
@@ -4208,6 +4401,9 @@
         "papers/chemistry/img/05-Alkenes-59.jpg",
         "papers/chemistry/img/05-Alkenes-60.jpg",
         "papers/chemistry/img/05-Alkenes-61.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q14c.jpg"
       ]
     },
     {
@@ -4224,13 +4420,20 @@
         "E Z"
       ],
       "question": "Circle the part of alpha-ocimene's skeletal formula that gives rise to its geometric isomerism.",
-      "status": "pending",
-      "answer": "Needs the alpha-ocimene skeletal formula, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Circle the middle C=C, the internal double bond between the C(CH3) carbon and the CH carbon next to it",
+      "steps": [
+        "Geometric isomerism needs each carbon of the C=C to have two different groups",
+        "The terminal CH2=CH and CH2=C(CH3) bonds each have two H on one carbon, so they cannot show it",
+        "The internal C=C has CH3 and CH=CH2 on one carbon and H and CH2CH2- on the other, so the circle goes round this bond"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-59.jpg",
         "papers/chemistry/img/05-Alkenes-60.jpg",
         "papers/chemistry/img/05-Alkenes-61.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q14c.jpg"
       ]
     },
     {
@@ -4247,13 +4450,20 @@
         "draw"
       ],
       "question": "Draw the skeletal formula of the other geometric isomer of alpha-ocimene.",
-      "status": "pending",
-      "answer": "Needs the alpha-ocimene skeletal formula from the PDF to draw the other isomer.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Redraw the molecule with the internal C=C having the vinyl group (CH=CH2) and the CH2CH2... chain on the same side (the Z isomer)",
+      "steps": [
+        "The drawn molecule has these two groups on opposite sides (the E isomer)",
+        "Keep the skeleton CH2=CH-C(CH3)=CH-CH2-CH2-C(CH3)=CH2 the same",
+        "Swap the side of the chain on one carbon of the internal C=C so that the two higher-priority groups are on the same side, giving the Z isomer"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-59.jpg",
         "papers/chemistry/img/05-Alkenes-60.jpg",
         "papers/chemistry/img/05-Alkenes-61.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q14c.jpg"
       ]
     },
     {
@@ -4282,6 +4492,9 @@
         "papers/chemistry/img/05-Alkenes-59.jpg",
         "papers/chemistry/img/05-Alkenes-60.jpg",
         "papers/chemistry/img/05-Alkenes-61.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q14c.jpg"
       ]
     },
     {
@@ -4298,14 +4511,22 @@
         "isomers"
       ],
       "question": "Draw the skeletal formulae of the four structural isomers of straight-chain alkene X that are alkenes (ignoring geometric isomers).",
-      "status": "pending",
-      "answer": "Needs the structure of X shown in the PDF to determine its carbon skeleton and the four isomers.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Pent-1-ene; 2-methylbut-1-ene; 3-methylbut-1-ene; 2-methylbut-2-ene",
+      "steps": [
+        "X is pent-2-ene, C5H10, a straight-chain alkene with the C=C at C2",
+        "The other C5H10 alkenes are pent-1-ene (CH2=CHCH2CH2CH3) and the three branched ones",
+        "The branched ones are 2-methylbut-1-ene CH2=C(CH3)CH2CH3, 3-methylbut-1-ene CH2=CHCH(CH3)2 and 2-methylbut-2-ene (CH3)2C=CHCH3",
+        "Draw each as a skeletal formula (zigzag chain with the double bond marked)"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-62.jpg",
         "papers/chemistry/img/05-Alkenes-63.jpg",
         "papers/chemistry/img/05-Alkenes-64.jpg",
         "papers/chemistry/img/05-Alkenes-65.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q15a.jpg"
       ]
     },
     {
@@ -4335,6 +4556,9 @@
         "papers/chemistry/img/05-Alkenes-63.jpg",
         "papers/chemistry/img/05-Alkenes-64.jpg",
         "papers/chemistry/img/05-Alkenes-65.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q15a.jpg"
       ]
     },
     {
@@ -4351,14 +4575,21 @@
         "molecule"
       ],
       "question": "Give the IUPAC name for compound Y (structure shown in the PDF).",
-      "status": "pending",
-      "answer": "Needs the structure of Y from the PDF.",
-      "steps": [],
+      "status": "ready",
+      "answer": "(E)-2,3-dichlorobut-2-ene",
+      "steps": [
+        "The main chain has four carbons with the C=C between C2 and C3, so but-2-ene",
+        "One Cl on each carbon of the C=C (C2 and C3), so 2,3-dichloro",
+        "The two Cl atoms are on opposite sides, so the isomer is E (not Z)"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-62.jpg",
         "papers/chemistry/img/05-Alkenes-63.jpg",
         "papers/chemistry/img/05-Alkenes-64.jpg",
         "papers/chemistry/img/05-Alkenes-65.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q15b.jpg"
       ]
     },
     {
@@ -4375,14 +4606,22 @@
         "student statement"
       ],
       "question": "Comment on a student's statement that compound Y has polar bonds so it is a polar molecule.",
-      "status": "pending",
-      "answer": "Needs the structure of compound Y to judge whether its bond dipoles cancel.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The student is wrong: the C-Cl bonds are polar, but in Y the dipoles cancel, so the molecule is non-polar overall",
+      "steps": [
+        "C-Cl bonds are polar because Cl is more electronegative than C, so the student is right that Y has polar bonds",
+        "In Y the two Cl atoms are on opposite sides of the C=C and the molecule is symmetrical",
+        "The two bond dipoles are equal and act in opposite directions, so they cancel",
+        "There is no net dipole, so Y is non-polar; polar bonds alone do not make a polar molecule"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-62.jpg",
         "papers/chemistry/img/05-Alkenes-63.jpg",
         "papers/chemistry/img/05-Alkenes-64.jpg",
         "papers/chemistry/img/05-Alkenes-65.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q15b.jpg"
       ]
     },
     {
@@ -4528,21 +4767,26 @@
     },
     {
       "id": "Ch5-B-Q15d(iii)",
-      "no": "Q15(d)(iii)",
+      "no": "Q15(e)",
       "marks": 2,
-      "topic": "Polyisoprene Question Garbled",
+      "topic": "Incinerator Gas Scrubbing",
       "keywords": [
-        "polyisoprene",
-        "garbled text",
-        "scrambled question",
-        "2 marks",
-        "check PDF",
-        "polymer"
+        "incineration",
+        "calcium hydroxide",
+        "waste gases",
+        "acidic gases",
+        "neutralisation",
+        "surface area",
+        "polymer disposal"
       ],
-      "question": "A further 2-mark question on polyisoprene (possibly about its properties or disposal) follows part (d)(ii); the text is scrambled by a watermark overlay.",
-      "status": "pending",
-      "answer": "Question text is garbled by an overlay and cannot be read reliably; check against the PDF.",
-      "steps": [],
+      "question": "Incinerators used to dispose of polymer waste have a system to remove waste gases. Suggest why these systems contain solid calcium hydroxide and why it is finely powdered.",
+      "status": "ready",
+      "answer": "Calcium hydroxide is a base that neutralises acidic waste gases (such as HCl and SO2); the fine powder gives a large surface area so the reaction is faster",
+      "steps": [
+        "Burning polymers can release acidic gases such as hydrogen chloride (from PVC) and sulfur dioxide",
+        "Calcium hydroxide is a base, so it neutralises these acidic gases and stops them reaching the atmosphere",
+        "A fine powder has a large surface area, so more gas molecules collide with it and the reaction is faster"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-62.jpg",
         "papers/chemistry/img/05-Alkenes-63.jpg",
@@ -4564,13 +4808,19 @@
         "missing diagram"
       ],
       "question": "Identify the catalyst needed for Reaction 1 from propene.",
-      "status": "pending",
-      "answer": "Needs the Reaction 1 scheme, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Nickel (Ni)",
+      "steps": [
+        "Reaction 1 is the hydrogenation of propene to propane with H2(g)",
+        "A finely divided nickel catalyst is used (platinum or palladium also work)"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-65.jpg",
         "papers/chemistry/img/05-Alkenes-66.jpg",
         "papers/chemistry/img/05-Alkenes-67.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q16a.jpg"
       ]
     },
     {
@@ -4587,13 +4837,20 @@
         "missing diagram"
       ],
       "question": "Name product A from the propene reaction scheme.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1,2-dichloropropane",
+      "steps": [
+        "Chlorine adds across the C=C of propene",
+        "Each carbon of the double bond gains one Cl, giving CH3CHClCH2Cl",
+        "Numbering the three-carbon chain gives 1,2-dichloropropane"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-65.jpg",
         "papers/chemistry/img/05-Alkenes-66.jpg",
         "papers/chemistry/img/05-Alkenes-67.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q16a.jpg"
       ]
     },
     {
@@ -4610,13 +4867,20 @@
         "missing diagram"
       ],
       "question": "Identify the substances needed for Reaction 2 from propene.",
-      "status": "pending",
-      "answer": "Needs the Reaction 2 scheme, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Steam (water vapour) and a phosphoric acid (H3PO4) catalyst",
+      "steps": [
+        "Reaction 2 converts propene to propan-2-ol by adding H and OH across the C=C (hydration)",
+        "The reagent is steam, H2O(g)",
+        "The catalyst is phosphoric acid, H3PO4 (at about 300 C and 60-70 atm)"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-65.jpg",
         "papers/chemistry/img/05-Alkenes-66.jpg",
         "papers/chemistry/img/05-Alkenes-67.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q16a.jpg"
       ]
     },
     {
@@ -4633,13 +4897,20 @@
         "missing diagram"
       ],
       "question": "Draw the displayed formula of product B from the propene reaction scheme.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Propane-1,2-diol, CH3-CH(OH)-CH2OH, drawn as a displayed formula with every bond shown",
+      "steps": [
+        "Acidified potassium manganate(VII) oxidises the C=C of propene to a diol",
+        "An OH is added to each carbon of the C=C, giving CH3-CH(OH)-CH2OH",
+        "Draw all C-H, C-C, C-O and O-H bonds: three carbons in a row, OH on carbon 1 and carbon 2, H atoms to complete four bonds on each carbon"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-65.jpg",
         "papers/chemistry/img/05-Alkenes-66.jpg",
         "papers/chemistry/img/05-Alkenes-67.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q16a.jpg"
       ]
     },
     {
@@ -4724,6 +4995,9 @@
         "papers/chemistry/img/05-Alkenes-65.jpg",
         "papers/chemistry/img/05-Alkenes-66.jpg",
         "papers/chemistry/img/05-Alkenes-67.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q16c.jpg"
       ]
     },
     {
@@ -5059,13 +5333,20 @@
         "ring"
       ],
       "question": "On the structure of zingiberene, circle the 2-methyl group referred to in its IUPAC name.",
-      "status": "pending",
-      "answer": "Needs the zingiberene structure from the PDF to mark the 2-methyl group.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Circle the CH3 group attached to the ring carbon at the lower right of the ring (the ring methyl), not the methyl groups on the side chain",
+      "steps": [
+        "The ring is numbered as cyclohexa-1,3-diene: C1=C2 and C3=C4 are the double bonds, C5 carries the side chain and C6 is the CH2",
+        "The 2-methyl group is on C2, the ring carbon double-bonded to C1 and single-bonded to C3",
+        "In the drawing that is the ring carbon at the lower right, whose methyl line points out to the right"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-70.jpg",
         "papers/chemistry/img/05-Alkenes-71.jpg",
         "papers/chemistry/img/05-Alkenes-72.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q18a.jpg"
       ]
     },
     {
@@ -5094,6 +5375,9 @@
         "papers/chemistry/img/05-Alkenes-70.jpg",
         "papers/chemistry/img/05-Alkenes-71.jpg",
         "papers/chemistry/img/05-Alkenes-72.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q18a.jpg"
       ]
     },
     {
@@ -5138,13 +5422,21 @@
         "carbocation"
       ],
       "question": "Complete the mechanism for zingiberene reacting with one molecule of HBr, using the simplified part A structure.",
-      "status": "pending",
-      "answer": "Needs the simplified structure of part A and the mechanism scheme from the PDF.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Electrophilic addition: curly arrow from the C=C to the H of H(delta+)-Br(delta-); arrow from the H-Br bond to Br; tertiary carbocation (CH3)2C+-CH2-A plus :Br-; arrow from a lone pair on Br- to C+; product (CH3)2CBr-CH2-A",
+      "steps": [
+        "Show HBr with dipoles H(delta+)-Br(delta-); the first curly arrow starts at the C=C and ends at the H",
+        "A second curly arrow starts at the H-Br bond and ends at Br, forming Br- (with a lone pair)",
+        "The H adds to the CH carbon, so the positive charge sits on the carbon with the two CH3 groups: the tertiary carbocation (CH3)2C+-CH2-A",
+        "A third curly arrow starts at a lone pair on Br- and ends at the C+, giving (CH3)2CBr-CH2-A, product I"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-70.jpg",
         "papers/chemistry/img/05-Alkenes-71.jpg",
         "papers/chemistry/img/05-Alkenes-72.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q18c.jpg"
       ]
     },
     {
@@ -5161,13 +5453,21 @@
         "HBr"
       ],
       "question": "Explain by referring to the mechanism why product I is the major product.",
-      "status": "pending",
-      "answer": "Needs the structures of products I and II from the PDF.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Product I forms through a tertiary carbocation, which is more stable than the secondary carbocation that would lead to II, so it forms faster and is the major product",
+      "steps": [
+        "Adding H to the CH carbon gives a tertiary carbocation with three alkyl groups on the positive carbon",
+        "Alkyl groups push electron density towards the C+ (positive inductive effect), stabilising it",
+        "Adding H to the other carbon would give a secondary carbocation, with only two alkyl groups, which is less stable",
+        "The more stable tertiary intermediate is formed preferentially, so I is the major product"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-70.jpg",
         "papers/chemistry/img/05-Alkenes-71.jpg",
         "papers/chemistry/img/05-Alkenes-72.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q18c-2.jpg"
       ]
     },
     {
@@ -5196,6 +5496,9 @@
         "papers/chemistry/img/05-Alkenes-70.jpg",
         "papers/chemistry/img/05-Alkenes-71.jpg",
         "papers/chemistry/img/05-Alkenes-72.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q18d.jpg"
       ]
     },
     {
@@ -5211,14 +5514,22 @@
         "pressure",
         "calculation"
       ],
-      "question": "2.0 mol of zingiberene reacts with hydrogen at 150 C and a pressure (about 120 kPa read from garbled text); calculate the requested gas quantity (the exact quantity is garbled).",
-      "status": "pending",
-      "answer": "Question text is garbled by an overlay; the requested quantity needs checking against the PDF (data read: 2.0 mol, 150 C, about 120 kPa, R = 8.31).",
-      "steps": [],
+      "question": "2.0 mol of zingiberene react completely with hydrogen at 150 C and a pressure of 120 kPa. Calculate the minimum volume of hydrogen needed under these conditions, stating your units. [pV = nRT, R = 8.31 J mol^-1 K^-1]",
+      "status": "ready",
+      "answer": "0.176 m3 (176 dm3)",
+      "steps": [
+        "Zingiberene has 3 C=C bonds (one in the chain, two in the ring) and the product is fully saturated, so 3 mol H2 react per mol",
+        "n(H2) = 3 x 2.0 = 6.0 mol",
+        "T = 150 + 273 = 423 K; p = 120 kPa = 1.20 x 10^5 Pa",
+        "V = nRT / p = (6.0 x 8.31 x 423) / (1.20 x 10^5) = 0.176 m3 = 176 dm3"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-70.jpg",
         "papers/chemistry/img/05-Alkenes-71.jpg",
         "papers/chemistry/img/05-Alkenes-72.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q18d.jpg"
       ]
     },
     {
@@ -5235,14 +5546,21 @@
         "missing diagram"
       ],
       "question": "Give the names of reagent W and catalyst X in the propene reactions.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Reagent W: hydrogen (H2); catalyst X: nickel (Ni)",
+      "steps": [
+        "Propene becomes propane, so H2 has added across the C=C (hydrogenation)",
+        "W is hydrogen",
+        "Catalyst X is nickel (platinum or palladium are also acceptable)"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-72.jpg",
         "papers/chemistry/img/05-Alkenes-73.jpg",
         "papers/chemistry/img/05-Alkenes-74.jpg",
         "papers/chemistry/img/05-Alkenes-75.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q19a.jpg"
       ]
     },
     {
@@ -5259,14 +5577,21 @@
         "missing diagram"
       ],
       "question": "Draw the displayed formula of compound Y in the propene scheme.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Propane-1,2-diol drawn in full: CH3-CH(OH)-CH2OH with all bonds shown",
+      "steps": [
+        "Acidified manganate(VII) oxidises the C=C of propene to a diol",
+        "Compound Y is propane-1,2-diol",
+        "Displayed formula: three carbons in a row, OH on the first and second carbons, and enough H atoms so each carbon has four bonds"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-72.jpg",
         "papers/chemistry/img/05-Alkenes-73.jpg",
         "papers/chemistry/img/05-Alkenes-74.jpg",
         "papers/chemistry/img/05-Alkenes-75.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q19a.jpg"
       ]
     },
     {
@@ -5283,14 +5608,21 @@
         "missing diagram"
       ],
       "question": "Draw the skeletal formula of the major product Z.",
-      "status": "pending",
-      "answer": "Needs the reaction scheme, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "2-chloropropane: a skeletal zigzag of three carbons with Cl on the middle carbon",
+      "steps": [
+        "HCl adds across the C=C of propene by electrophilic addition",
+        "By Markovnikov's rule H goes on the carbon with more H, so Cl bonds to the middle carbon via the more stable secondary carbocation",
+        "Z is CH3-CHCl-CH3, drawn as a V shape with Cl on the centre carbon"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-72.jpg",
         "papers/chemistry/img/05-Alkenes-73.jpg",
         "papers/chemistry/img/05-Alkenes-74.jpg",
         "papers/chemistry/img/05-Alkenes-75.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q19a.jpg"
       ]
     },
     {
@@ -5320,6 +5652,9 @@
         "papers/chemistry/img/05-Alkenes-73.jpg",
         "papers/chemistry/img/05-Alkenes-74.jpg",
         "papers/chemistry/img/05-Alkenes-75.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q19b.jpg"
       ]
     },
     {
@@ -5622,15 +5957,22 @@
         "plot"
       ],
       "question": "Plot a graph of the bromination data (0.5 g fat) and include a line of best fit.",
-      "status": "pending",
-      "answer": "Needs the data table and graph grid, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Graph of volume of bromine water / cm3 (y) against average number of C=C bonds per molecule (x), points (1, 28.3), (2, 57.3), (3, 86.9), (4, 115), with a straight line of best fit through the origin (gradient about 29 cm3 per C=C)",
+      "steps": [
+        "Put the average number of C=C bonds per molecule on the x axis (0 to 4 or 5) and the volume of bromine water / cm3 on the y axis (0 to about 120), choosing scales that use more than half the grid",
+        "Plot the four points accurately",
+        "Draw one straight line of best fit; the points are very close to a straight line that passes through (0, 0), since volume is proportional to the number of C=C bonds"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-77.jpg",
         "papers/chemistry/img/05-Alkenes-78.jpg",
         "papers/chemistry/img/05-Alkenes-79.jpg",
         "papers/chemistry/img/05-Alkenes-80.jpg",
         "papers/chemistry/img/05-Alkenes-81.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q21b.jpg"
       ]
     },
     {
@@ -5647,15 +5989,21 @@
         "average"
       ],
       "question": "Calculate the mean volume of bromine water using all results in the margarine bromination table.",
-      "status": "pending",
-      "answer": "Needs the data table of bromine volumes, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "35.7 cm3",
+      "steps": [
+        "Add all four volumes: 36.9 + 34.1 + 39.3 + 32.5 = 142.8 cm3",
+        "Divide by 4: 142.8 / 4 = 35.7 cm3"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-77.jpg",
         "papers/chemistry/img/05-Alkenes-78.jpg",
         "papers/chemistry/img/05-Alkenes-79.jpg",
         "papers/chemistry/img/05-Alkenes-80.jpg",
         "papers/chemistry/img/05-Alkenes-81.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q21b-2.jpg"
       ]
     },
     {
@@ -5672,15 +6020,23 @@
         "2 significant figures"
       ],
       "question": "Determine the average number of C=C bonds per molecule of the unknown fat sample using your graph, to 2 significant figures.",
-      "status": "pending",
-      "answer": "Needs the graph and table data, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1.2 C=C bonds per molecule (2 s.f.)",
+      "steps": [
+        "Use the mean volume from part (iii), 35.7 cm3",
+        "On the graph read across from 35.7 cm3 on the y axis to the line, then down to the x axis",
+        "Using the line of best fit (about 28.8 cm3 per C=C bond): 35.7 / 28.8 = 1.24, so 1.2 to 2 s.f."
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-77.jpg",
         "papers/chemistry/img/05-Alkenes-78.jpg",
         "papers/chemistry/img/05-Alkenes-79.jpg",
         "papers/chemistry/img/05-Alkenes-80.jpg",
         "papers/chemistry/img/05-Alkenes-81.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q21b.jpg",
+        "papers/chemistry/fig/05-Alkenes-B-Q21b-2.jpg"
       ]
     },
     {
@@ -5935,6 +6291,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-84.jpg",
         "papers/chemistry/img/05-Alkenes-85.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q24a.jpg"
       ]
     },
     {
@@ -5962,6 +6321,9 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-84.jpg",
         "papers/chemistry/img/05-Alkenes-85.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q24a.jpg"
       ]
     },
     {
@@ -5978,12 +6340,20 @@
         "dipoles"
       ],
       "question": "Complete the mechanism for the first stage of Reaction 2 (same mechanism as Reaction 1), with intermediate, curly arrows, dipoles, charges and lone pairs.",
-      "status": "pending",
-      "answer": "Needs the first-stage equation, which is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Step 1: curly arrow from the C=C to the H of H-O (delta+), arrow from the O-H bond to O; intermediate CH3-CH+-CH3 and HOSO2O-; Step 2: lone pair on O- attacks C+, giving CH3CH(OSO2OH)CH3",
+      "steps": [
+        "Mark the polar O-H bond of H2SO4 as H(delta+)-O(delta-); a curly arrow starts at the C=C and ends at the H",
+        "A second curly arrow starts at the O-H bond and ends at the O, forming the hydrogensulfate ion HOSO2O- with a lone pair and a negative charge",
+        "The H adds to the terminal CH2, leaving the secondary carbocation CH3-CH+-CH3 as the intermediate",
+        "Step 2: a curly arrow from a lone pair on the negative O of HOSO2O- to the C+ forms the C-O bond, giving CH3CH(OSO2OH)CH3"
+      ],
       "images": [
         "papers/chemistry/img/05-Alkenes-84.jpg",
         "papers/chemistry/img/05-Alkenes-85.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/05-Alkenes-B-Q24.jpg"
       ]
     },
     {

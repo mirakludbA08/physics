@@ -142,6 +142,9 @@
         "papers/physics/img/09-CP2-Viscosity-02.jpg",
         "papers/physics/img/09-CP2-Viscosity-03.jpg",
         "papers/physics/img/09-CP2-Viscosity-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/09-CP2-Viscosity-Q2.jpg"
       ]
     },
     {
@@ -169,6 +172,9 @@
         "papers/physics/img/09-CP2-Viscosity-02.jpg",
         "papers/physics/img/09-CP2-Viscosity-03.jpg",
         "papers/physics/img/09-CP2-Viscosity-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/09-CP2-Viscosity-Q2.jpg"
       ]
     },
     {
@@ -185,13 +191,20 @@
         "terminal velocity"
       ],
       "question": "Which quantity is represented by the first symbol in the equation for viscosity? The symbol is not legible in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the equation from the PDF, since the symbol is not legible in the extracted text; the defined symbols are rho_s, rho_o, r and v.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The weight of the sphere",
+      "steps": [
+        "(4/3) pi r^3 is the volume of the sphere.",
+        "Volume x density of the sphere (rho_s) gives its mass, and multiplying by g gives its weight.",
+        "So (4/3) pi r^3 rho_s g is the weight of the sphere, acting downwards."
+      ],
       "images": [
         "papers/physics/img/09-CP2-Viscosity-02.jpg",
         "papers/physics/img/09-CP2-Viscosity-03.jpg",
         "papers/physics/img/09-CP2-Viscosity-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/09-CP2-Viscosity-Q2-2.jpg"
       ]
     },
     {
@@ -208,13 +221,20 @@
         "quantity"
       ],
       "question": "Which quantity is represented by the second symbol in the viscosity equation? The symbol is not legible in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the equation from the PDF, since the symbol is not legible in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The upthrust on the sphere (the weight of oil it displaces)",
+      "steps": [
+        "(4/3) pi r^3 is the volume of oil displaced by the fully submerged sphere.",
+        "Multiplying by the oil density rho_o and g gives the weight of oil displaced.",
+        "By Archimedes principle this is the upthrust on the sphere, acting upwards."
+      ],
       "images": [
         "papers/physics/img/09-CP2-Viscosity-02.jpg",
         "papers/physics/img/09-CP2-Viscosity-03.jpg",
         "papers/physics/img/09-CP2-Viscosity-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/09-CP2-Viscosity-Q2-2.jpg"
       ]
     },
     {
@@ -231,13 +251,20 @@
         "terminal velocity"
       ],
       "question": "Which quantity is represented by the expression 6 pi r v in the viscosity equation? The symbol is not legible in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the equation from the PDF to confirm the notation; 6 pi r v is the Stokes drag coefficient multiplied by eta.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The viscous drag force on the sphere (Stokes drag)",
+      "steps": [
+        "6 pi r eta v is Stokes' law for the drag force on a small sphere moving through a viscous fluid.",
+        "At terminal velocity this upward drag, with the upthrust, balances the weight.",
+        "So 6 pi r eta v is the viscous drag acting upwards on the sphere."
+      ],
       "images": [
         "papers/physics/img/09-CP2-Viscosity-02.jpg",
         "papers/physics/img/09-CP2-Viscosity-03.jpg",
         "papers/physics/img/09-CP2-Viscosity-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/09-CP2-Viscosity-Q2-2.jpg"
       ]
     },
     {
@@ -265,6 +292,9 @@
         "papers/physics/img/09-CP2-Viscosity-02.jpg",
         "papers/physics/img/09-CP2-Viscosity-03.jpg",
         "papers/physics/img/09-CP2-Viscosity-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/09-CP2-Viscosity-Q2-2.jpg"
       ]
     },
     {
@@ -281,12 +311,20 @@
         "constant velocity section"
       ],
       "question": "A student releases a ball bearing at point V and times its fall through a measured distance in oil. Which two points should he use? A V and Y; B W and Y; C X and Y; D W and Z. The diagram with the points is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the diagram with points V to Z from the PDF; the correct pair lies within the section where the ball is at terminal velocity.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: X and Y",
+      "steps": [
+        "The timed distance must be one where the ball moves at terminal velocity, so that distance / time gives a constant velocity.",
+        "V and W are in the air or at the surface, where the ball is not in the oil or is still accelerating after entering the oil; using V or W (options A, B, D) includes this accelerating motion.",
+        "X is a short distance below the surface, far enough for the ball to have reached terminal velocity.",
+        "Z is at the bottom of the cylinder, where the base can affect the ball, so Y (above Z) is used as the lower point: X and Y, option C."
+      ],
       "images": [
         "papers/physics/img/09-CP2-Viscosity-04.jpg",
         "papers/physics/img/09-CP2-Viscosity-05.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/09-CP2-Viscosity-Q3.jpg"
       ]
     },
     {
@@ -390,14 +428,22 @@
         "terminal velocity"
       ],
       "question": "Deduce from the graph of v against d^2 whether the flow of liquid around the spheres was laminar. The graph is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the v against d^2 graph from the PDF; a straight line through the origin shows v proportional to d^2, so the flow was laminar (Stokes' law obeyed).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Yes: the graph is a straight line through the origin, so v is proportional to d^2 as Stokes' law (laminar flow) predicts.",
+      "steps": [
+        "Stokes' law, valid for laminar flow, gives v = k d^2, which is a straight line through the origin when v is plotted against d^2.",
+        "The points lie close to a single straight best-fit line.",
+        "The line passes through the origin (0, 0), so v is directly proportional to d^2.",
+        "This agrees with Stokes' law, so the flow was laminar."
+      ],
       "images": [
         "papers/physics/img/09-CP2-Viscosity-05.jpg",
         "papers/physics/img/09-CP2-Viscosity-06.jpg",
         "papers/physics/img/09-CP2-Viscosity-07.jpg",
         "papers/physics/img/09-CP2-Viscosity-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/09-CP2-Viscosity-Q5.jpg"
       ]
     },
     {
@@ -414,14 +460,21 @@
         "k value"
       ],
       "question": "Using the student's graph of v against d^2 and v = k d^2, determine the value of k. The graph is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the student's v against d^2 graph from the PDF; k is the gradient of the straight line.",
-      "steps": [],
+      "status": "ready",
+      "answer": "k = 6.0 m^-1 s^-1 (gradient of the line)",
+      "steps": [
+        "v = k d^2, so k is the gradient of the graph of v against d^2.",
+        "Take a large triangle on the line, for example from (0, 0) to (10.0 x 10^-4 m^2, 6.0 x 10^-3 m s^-1).",
+        "k = change in v / change in d^2 = 6.0 x 10^-3 / 10.0 x 10^-4 = 6.0 m^-1 s^-1 (accept about 5.8 to 6.2)."
+      ],
       "images": [
         "papers/physics/img/09-CP2-Viscosity-05.jpg",
         "papers/physics/img/09-CP2-Viscosity-06.jpg",
         "papers/physics/img/09-CP2-Viscosity-07.jpg",
         "papers/physics/img/09-CP2-Viscosity-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/09-CP2-Viscosity-Q5.jpg"
       ]
     },
     {
@@ -437,15 +490,23 @@
         "gravity",
         "Stokes constant"
       ],
-      "question": "The constant k is given by k = 2(rho_glass - rho_liquid) g / (9 eta). Using rho_glass = 2.52 x 10^3 kg m-3 and rho_liquid = 1.43 x 10^3 kg m-3, determine the viscosity eta. The value of k comes from part (c)(ii), which is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the value of k from part (c)(ii) (from the PDF graph); then eta = 2(rho_glass - rho_liquid) g / (9k).",
-      "steps": [],
+      "question": "The constant k is given by k = (rho_glass - rho_liquid) g / (18 eta), where eta is the viscosity of the liquid. Using rho_glass = 2.52 x 10^3 kg m-3 and rho_liquid = 1.43 x 10^3 kg m-3, determine the viscosity eta. (k = 6.0 m-1 s-1 from part (c)(ii).)",
+      "status": "ready",
+      "answer": "eta = 99 Pa s (about 1.0 x 10^2 Pa s), using k = 6.0 m^-1 s^-1",
+      "steps": [
+        "Rearrange the printed formula k = (rho_g - rho_s) g / (18 eta): eta = (rho_g - rho_s) g / (18 k).",
+        "Density difference = 2.52 x 10^3 - 1.43 x 10^3 = 1.09 x 10^3 kg m^-3.",
+        "eta = 1.09 x 10^3 x 9.81 / (18 x 6.0) = 1.07 x 10^4 / 108.",
+        "eta = 99 Pa s (about 1.0 x 10^2 Pa s)."
+      ],
       "images": [
         "papers/physics/img/09-CP2-Viscosity-05.jpg",
         "papers/physics/img/09-CP2-Viscosity-06.jpg",
         "papers/physics/img/09-CP2-Viscosity-07.jpg",
         "papers/physics/img/09-CP2-Viscosity-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/09-CP2-Viscosity-Q5.jpg"
       ]
     },
     {
@@ -515,13 +576,21 @@
         "forces"
       ],
       "question": "A sphere falls through a viscous liquid. Which row of the table describes the upthrust and the viscous drag as it accelerates downwards? The table is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the table from the PDF; the correct row has upthrust constant and viscous drag increasing as the speed increases.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: upthrust constant, viscous drag increasing",
+      "steps": [
+        "The sphere is fully submerged, so it displaces a constant volume of liquid and the upthrust (weight of liquid displaced) stays constant.",
+        "Viscous drag (6 pi eta r v) increases as the speed v increases while the sphere accelerates.",
+        "So upthrust is constant and viscous drag is increasing: row B."
+      ],
       "images": [
         "papers/physics/img/09-CP2-Viscosity-09.jpg",
         "papers/physics/img/09-CP2-Viscosity-10.jpg",
         "papers/physics/img/09-CP2-Viscosity-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/09-CP2-Viscosity-Q7.jpg",
+        "papers/physics/fig/09-CP2-Viscosity-Q7-2.jpg"
       ]
     },
     {
@@ -566,13 +635,21 @@
         "viscous drag"
       ],
       "question": "Explain the shape of the graph obtained by the student for the ball-bearing falling through a liquid. The graph is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the student's graph from the PDF to confirm the shape; expected: the speed increases with decreasing gradient (acceleration falls as drag rises) and then becomes constant at terminal velocity.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Gradient (velocity) starts at zero and increases, then becomes constant: the ball accelerates at first, and as the viscous drag rises the acceleration falls to zero, so it falls at constant terminal velocity (a straight line).",
+      "steps": [
+        "At release the ball is at rest, so the gradient of the displacement-time graph (the velocity) is zero at the start.",
+        "Its weight is greater than the upthrust, so there is a downward resultant force and the ball accelerates: the graph gets steeper.",
+        "As its speed increases the viscous drag increases, so the resultant force and the acceleration decrease, and the gradient increases more and more slowly.",
+        "When drag plus upthrust equals weight the resultant force is zero, so the ball moves at constant terminal velocity: the graph is a straight line of constant gradient."
+      ],
       "images": [
         "papers/physics/img/09-CP2-Viscosity-09.jpg",
         "papers/physics/img/09-CP2-Viscosity-10.jpg",
         "papers/physics/img/09-CP2-Viscosity-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/09-CP2-Viscosity-Q8.jpg"
       ]
     },
     {
@@ -589,13 +666,21 @@
         "graph"
       ],
       "question": "The ball-bearing has diameter 1.6 mm and the difference between upthrust and weight is 1.45 x 10^-4 N. Calculate the viscosity, assuming Stokes' law applies. The terminal velocity is needed and is read from the graph.",
-      "status": "pending",
-      "answer": "Needs the terminal velocity from the student's graph in the PDF (not in the text); then eta = F / (6 pi r v) with F = 1.45 x 10^-4 N and r = 0.80 mm.",
-      "steps": [],
+      "status": "ready",
+      "answer": "eta = 0.046 Pa s (about 4.6 x 10^-2 Pa s), using v = 0.21 m s^-1 from the graph",
+      "steps": [
+        "The graph is a straight line from about 0.6 s, so the ball is at terminal velocity: v = gradient = 11.7 cm / (1.15 - 0.60) s = 21 cm s^-1 = 0.21 m s^-1.",
+        "At terminal velocity the drag equals the difference between weight and upthrust: F = 1.45 x 10^-4 N.",
+        "Radius r = 1.6 mm / 2 = 0.80 mm = 8.0 x 10^-4 m.",
+        "Stokes' law F = 6 pi eta r v, so eta = F / (6 pi r v) = 1.45 x 10^-4 / (6 pi x 8.0 x 10^-4 x 0.21) = 0.046 Pa s (graph reading, so accept about 0.044 to 0.048)."
+      ],
       "images": [
         "papers/physics/img/09-CP2-Viscosity-09.jpg",
         "papers/physics/img/09-CP2-Viscosity-10.jpg",
         "papers/physics/img/09-CP2-Viscosity-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/09-CP2-Viscosity-Q8.jpg"
       ]
     },
     {

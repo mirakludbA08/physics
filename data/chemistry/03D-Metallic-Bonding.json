@@ -341,13 +341,21 @@
         "graph plotting"
       ],
       "question": "Plot a graph of atomic radius against atomic number for six Period 3 elements.",
-      "status": "pending",
-      "answer": "Pending: the atomic radius values (data table) and graph axes are not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Graph of atomic radius (nm) against atomic number with six points: (11, 0.191), (12, 0.160), (13, 0.130), (16, 0.102), (17, 0.099), (18, 0.095), joined by a smooth curve that falls steeply from Na to Al and then flattens",
+      "steps": [
+        "x axis: atomic number from 11 to 18; y axis: atomic radius / nm from about 0.09 to 0.20, each labelled with its quantity and unit, using more than half of the grid",
+        "Plot only the six given elements (Na, Mg, Al, S, Cl, Ar); Si and P have no data",
+        "Mark each point accurately with a small cross or dot",
+        "Draw a smooth best-fit line through the points; no point is plotted for Si or P but the line passes through that gap"
+      ],
       "images": [
         "papers/chemistry/img/03D-Metallic-Bonding-05.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-06.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03D-Metallic-Bonding-Q4.jpg"
       ]
     },
     {
@@ -364,13 +372,20 @@
         "atomic number"
       ],
       "question": "Use the graph of atomic radius against atomic number to estimate the atomic radius of silicon.",
-      "status": "pending",
-      "answer": "Pending: needs the graph from part (a)(i), which is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 0.12 nm (accept about 0.115 to 0.125 nm)",
+      "steps": [
+        "On the curve from part (i), read the radius at atomic number 14 (Si)",
+        "The curve lies between Al (0.130 nm at 13) and S (0.102 nm at 16), so the value must lie between these",
+        "A straight line between them gives 0.121 nm at 14, so about 0.12 nm"
+      ],
       "images": [
         "papers/chemistry/img/03D-Metallic-Bonding-05.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-06.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03D-Metallic-Bonding-Q4.jpg"
       ]
     },
     {
@@ -418,13 +433,21 @@
         "table"
       ],
       "question": "Complete the table giving the type of structure, the type of bond or force broken on melting, and the particles involved for sodium, sodium chloride and chlorine.",
-      "status": "pending",
-      "answer": "Pending: the table to complete is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Sodium: giant metallic; metallic bonding broken; sodium ions and delocalised electrons. Sodium chloride: giant ionic; ionic bonds broken; Na+ and Cl- ions. Chlorine: simple molecular; weak intermolecular forces broken; chlorine molecules",
+      "steps": [
+        "Sodium: type of structure is giant (already given); on melting the metallic bonds (attraction between positive ions and delocalised electrons) are weakened; particles are Na+ ions and delocalised electrons (sodium atoms)",
+        "Sodium chloride: structure is giant (ionic lattice); the strong electrostatic attractions between oppositely charged ions (ionic bonds) are overcome; particles are Na+ and Cl- ions",
+        "Chlorine: simple molecular (given); only the weak intermolecular (London) forces between molecules are overcome, not the covalent bonds; particles are Cl2 molecules (given)",
+        "This matches the melting temperatures: strong forces give 98 and 801 degrees C, weak forces give -101 degrees C"
+      ],
       "images": [
         "papers/chemistry/img/03D-Metallic-Bonding-05.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-06.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03D-Metallic-Bonding-Q4-2.jpg"
       ]
     },
     {
@@ -441,13 +464,21 @@
         "ionic"
       ],
       "question": "Draw a dot-and-cross diagram of an ion from solid phosphorus(V) chloride, showing outer shell electrons only.",
-      "status": "pending",
-      "answer": "Pending: the name or formula of the ion is blank in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "PCl4+: P in the centre sharing one pair with each of four Cl; each Cl has 3 further lone pairs; whole ion in square brackets with a + charge",
+      "steps": [
+        "The ion given on the page is PCl4+; P has 5 outer electrons, but one is lost for the 1+ charge, leaving 4 outer electrons from P (4 dots)",
+        "Each of the four Cl atoms contributes one electron (cross) to a shared pair with P, so there are four shared dot-and-cross pairs",
+        "Each Cl also has three non-bonding pairs of crosses, giving it a full outer shell of 8",
+        "Enclose the diagram in square brackets with + at the top right"
+      ],
       "images": [
         "papers/chemistry/img/03D-Metallic-Bonding-05.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-06.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03D-Metallic-Bonding-Q4-3.jpg"
       ]
     },
     {
@@ -464,13 +495,20 @@
         "ion"
       ],
       "question": "Predict the shape of the ion from solid phosphorus(V) chloride and justify your answer.",
-      "status": "pending",
-      "answer": "Pending: the ion name or formula is blank in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Tetrahedral (Cl-P-Cl about 109.5 degrees)",
+      "steps": [
+        "The PCl4+ ion has four bonding pairs of electrons around P and no lone pairs",
+        "Electron pairs repel and move as far apart as possible",
+        "All four pairs repel equally, giving a tetrahedral shape with bond angles of 109.5 degrees"
+      ],
       "images": [
         "papers/chemistry/img/03D-Metallic-Bonding-05.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-06.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03D-Metallic-Bonding-Q4-3.jpg"
       ]
     },
     {
@@ -517,11 +555,18 @@
         "multiple choice"
       ],
       "question": "Using a table of physical properties of five substances (letters, not element symbols), which could be metals? Options: A N only, B L and M only, C M and N only, D L, M and N only.",
-      "status": "pending",
-      "answer": "Pending: the table of physical properties is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: M and N only",
+      "steps": [
+        "Metals conduct electricity well as both solid and liquid because of delocalised electrons",
+        "Only M and N (good, good) fit this; M reacts with water and melts at 98 degrees C like sodium, and N is insoluble and melts at 1083 degrees C like copper",
+        "L conducts only when liquid or dissolved (ionic), and P and Q are poor conductors in solid and liquid (molecular), so they are not metals"
+      ],
       "images": [
         "papers/chemistry/img/03D-Metallic-Bonding-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03D-Metallic-Bonding-Q6.jpg"
       ]
     },
     {
@@ -540,11 +585,18 @@
         "multiple choice"
       ],
       "question": "Using the table of physical properties, which substance changes from a molecular structure to ions when it dissolves in water? Options: A L, B M, C P, D Q.",
-      "status": "pending",
-      "answer": "Pending: the table of physical properties is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: Q",
+      "steps": [
+        "A molecular substance does not conduct as a solid or liquid because it has no ions or free electrons; Q is poor in both states and melts at only 10 degrees C",
+        "Its solution in water is a good conductor, so ions must have formed when it dissolved",
+        "L is already ionic (poor as solid, good as liquid), and P is poor in both states but insoluble, so neither fits"
+      ],
       "images": [
         "papers/chemistry/img/03D-Metallic-Bonding-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03D-Metallic-Bonding-Q6.jpg"
       ]
     },
     {
@@ -1096,12 +1148,19 @@
         "multiple choice"
       ],
       "question": "Which row of the table shows properties consistent with the type of bonding shown?",
-      "status": "pending",
-      "answer": "Pending: the table of properties and the bonding diagram are not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: ionic, soluble, high melting temperature, poor conductor as a solid",
+      "steps": [
+        "Ionic compounds have strong attractions between ions, so high melting temperatures, and the ions are fixed in the solid, so poor conductivity",
+        "Many ionic compounds dissolve in water, so A is consistent",
+        "B fails because ionic solids do not conduct and do not melt at low temperatures; D fails because metals conduct well as solids; C fails because metals are insoluble in water and not low melting"
+      ],
       "images": [
         "papers/chemistry/img/03D-Metallic-Bonding-15.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03D-Metallic-Bonding-Q11.jpg"
       ]
     },
     {
@@ -1117,12 +1176,18 @@
         "multiple choice"
       ],
       "question": "Which are the correct bonding and structure for one of the substances listed?",
-      "status": "pending",
-      "answer": "Pending: the substances and answer options are not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: sodium, metallic bonding, giant structure",
+      "steps": [
+        "Sodium is a metal with metallic bonding in a giant lattice, so D is correct",
+        "Copper(II) sulfate is ionic (not covalent), graphene is a giant covalent structure (not simple molecular), and iodine is covalent (not metallic)"
+      ],
       "images": [
         "papers/chemistry/img/03D-Metallic-Bonding-15.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03D-Metallic-Bonding-Q12.jpg"
       ]
     },
     {
@@ -1280,14 +1345,22 @@
         "24.32"
       ],
       "question": "Calculate the relative abundance and mass number of the third magnesium isotope, given relative atomic mass 24.32 and a table of two isotopes' abundances.",
-      "status": "pending",
-      "answer": "Pending: the table of relative abundances is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Relative abundance 11.01 %; mass number 26 (26Mg)",
+      "steps": [
+        "Abundances add to 100: third isotope = 100 - 78.99 - 10.00 = 11.01 %",
+        "Weighted mean: 24.32 x 100 = (24 x 78.99) + (25 x 10.00) + (M x 11.01)",
+        "2432 = 1895.76 + 250 + 11.01 M, so 11.01 M = 286.24",
+        "M = 286.24 / 11.01 = 26.0, so the mass number is 26 (a whole number)"
+      ],
       "images": [
         "papers/chemistry/img/03D-Metallic-Bonding-17.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-18.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03D-Metallic-Bonding-Q14.jpg"
       ]
     },
     {
@@ -1317,6 +1390,9 @@
         "papers/chemistry/img/03D-Metallic-Bonding-18.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03D-Metallic-Bonding-Q14.jpg"
       ]
     },
     {
@@ -1334,14 +1410,20 @@
         "justify"
       ],
       "question": "State which magnesium isotope would be deflected most in a mass spectrometer, and justify your answer.",
-      "status": "pending",
-      "answer": "Pending: the answer depends on the mass numbers of the isotopes, which come from the table and part (a)(i), not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "24Mg (the lightest isotope)",
+      "steps": [
+        "The three isotopes are 24Mg, 25Mg and 26Mg (from the table and part (a)(i)); all form ions of the same charge, 1+",
+        "In a mass spectrometer lighter ions are deflected more by the magnetic field, so the one with the lowest m/z, 24Mg+, is deflected most"
+      ],
       "images": [
         "papers/chemistry/img/03D-Metallic-Bonding-17.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-18.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03D-Metallic-Bonding-Q14.jpg"
       ]
     },
     {
@@ -1420,14 +1502,21 @@
         "differences"
       ],
       "question": "Explain the similarities and differences in the electrical conductivity of magnesium and magnesium oxide, using the table of conductivity data.",
-      "status": "pending",
-      "answer": "Pending: the conductivity data table is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Both conduct when liquid; magnesium also conducts as a solid but MgO does not, because Mg has delocalised electrons but MgO conducts only when its ions can move",
+      "steps": [
+        "Similarity: both conduct when liquid; in Mg the delocalised electrons are free to move, in molten MgO the Mg2+ and O2- ions are free to move",
+        "Difference: solid Mg conducts well because delocalised electrons are free to carry charge in the solid too",
+        "Solid MgO conducts poorly because its ions are held in fixed positions in the lattice and there are no free electrons"
+      ],
       "images": [
         "papers/chemistry/img/03D-Metallic-Bonding-17.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-18.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03D-Metallic-Bonding-Q14-2.jpg"
       ]
     },
     {
@@ -1820,14 +1909,21 @@
         "lone pairs"
       ],
       "question": "The three molecules methane, ammonia and water each have a different shape. Complete the table giving the shape and bond angle of each.",
-      "status": "pending",
-      "answer": "Pending: the table to complete is not in the extracted text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Methane: tetrahedral, 109.5 degrees; ammonia: pyramidal (trigonal pyramidal), 107 degrees; water: bent (V-shaped), 104.5 degrees",
+      "steps": [
+        "Methane has 4 bonding pairs and no lone pairs: tetrahedral, 109.5 degrees",
+        "Ammonia has 3 bonding pairs and 1 lone pair: pyramidal, about 107 degrees",
+        "Water has 2 bonding pairs and 2 lone pairs: bent (non-linear), about 104.5 degrees"
+      ],
       "images": [
         "papers/chemistry/img/03D-Metallic-Bonding-20.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-21.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-22.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03D-Metallic-Bonding-Q15.jpg"
       ]
     },
     {
@@ -1890,6 +1986,9 @@
         "papers/chemistry/img/03D-Metallic-Bonding-21.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-22.jpg",
         "papers/chemistry/img/03D-Metallic-Bonding-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03D-Metallic-Bonding-Q15-2.jpg"
       ]
     },
     {

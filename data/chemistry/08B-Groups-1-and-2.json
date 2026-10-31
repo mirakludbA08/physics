@@ -139,13 +139,21 @@
         "carbon dioxide"
       ],
       "question": "Using the Hess cycle and data provided, calculate the enthalpy change for the thermal decomposition of MgCO3.",
-      "status": "pending",
-      "answer": "Needs the Hess cycle diagram and the data values, which are not in the text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "+100 kJ mol^-1",
+      "steps": [
+        "Both routes start from the elements Mg(s) + C(s) + 1.5O2(g) and end at MgO(s) + CO2(g).",
+        "Direct route: Delta fH(MgO) + Delta fH(CO2) = -602 + (-394) = -996 kJ mol^-1.",
+        "Indirect route: Delta fH(MgCO3) + Delta H(decomposition) = -1096 + Delta H.",
+        "Equate the routes: -1096 + Delta H = -996, so Delta H = -996 + 1096 = +100 kJ mol^-1 (endothermic)."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-01.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-02.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q2.jpg"
       ]
     },
     {
@@ -191,12 +199,20 @@
         "copper compounds"
       ],
       "question": "Four equations for reactions of copper or its compounds are shown in a diagram. Which one is a disproportionation reaction? Options A to D are Reactions 1 to 4.",
-      "status": "pending",
-      "answer": "Needs the four copper equations shown in the diagram (not in the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Reaction 3, 2Cu+ -> Cu + Cu2+",
+      "steps": [
+        "Disproportionation is when the same element is both oxidised and reduced.",
+        "In Reaction 3, copper in Cu+ goes to Cu (0, reduced) and to Cu2+ (+2, oxidised).",
+        "Reaction 1: Cu2+ is reduced to Cu+ and I- is oxidised to I2, so two different elements change.",
+        "Reaction 2: Cu is oxidised and N (+5 to +4) is reduced, so different elements; Reaction 4 involves no change in oxidation number."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-03.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q3.jpg"
       ]
     },
     {
@@ -213,12 +229,20 @@
         "copper compounds"
       ],
       "question": "Which of the four copper reactions shown in the diagram is an acid-base reaction? Options A to D are Reactions 1 to 4.",
-      "status": "pending",
-      "answer": "Needs the four copper equations shown in the diagram (not in the text) to be checked against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: Reaction 4, CuO + H2SO4 -> CuSO4 + H2O",
+      "steps": [
+        "An acid-base reaction is the reaction of an acid with a base, forming a salt and water.",
+        "In Reaction 4, CuO (a basic oxide) reacts with H2SO4 (an acid) to give the salt CuSO4 and water.",
+        "No oxidation numbers change in Reaction 4.",
+        "Reactions 1, 2 and 3 all involve changes in oxidation number, so they are redox reactions."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-03.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q3.jpg"
       ]
     },
     {
@@ -446,6 +470,9 @@
         "papers/chemistry/img/08B-Groups-1-and-2-07.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-08.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q6.jpg"
       ]
     },
     {
@@ -493,14 +520,21 @@
         "further titration"
       ],
       "question": "Give a reason why a further titration was not attempted. The titre results are in a table in the PDF.",
-      "status": "pending",
-      "answer": "Needs the titration results table, which is not in the text, to confirm which titres are concordant",
-      "steps": [],
+      "status": "ready",
+      "answer": "Titres 2 and 3 (21.15 and 21.05 cm3) are concordant, within 0.10 cm3 of each other",
+      "steps": [
+        "Titration 1 (21.55 cm3) is the rough result and differs from the others by more than 0.10 cm3.",
+        "Titrations 2 and 3 (21.15 and 21.05 cm3) agree to within 0.10 cm3, so they are concordant.",
+        "The mean titre of 21.10 cm3 is the mean of these two concordant values, so no further titration was needed."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-06.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-07.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-08.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q6-2.jpg"
       ]
     },
     {
@@ -609,14 +643,21 @@
         "upper atmosphere"
       ],
       "question": "Chlorine free radicals react with ozone. Derive the overall equation for this reaction of ozone. State symbols are not required.",
-      "status": "pending",
-      "answer": "Needs the two mechanism equations shown in the PDF (not in the text) before the overall equation can be derived and checked",
-      "steps": [],
+      "status": "ready",
+      "answer": "2O3 -> 3O2",
+      "steps": [
+        "Add the two steps: Cl + O3 + ClO + O3 -> ClO + O2 + Cl + 2O2.",
+        "Cl and ClO appear on both sides, so they cancel (Cl is regenerated, so it acts as a catalyst).",
+        "What is left: 2O3 -> 3O2."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-06.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-07.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-08.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q6-3.jpg"
       ]
     },
     {
@@ -708,6 +749,9 @@
         "papers/chemistry/img/08B-Groups-1-and-2-07.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-08.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q6-4.jpg"
       ]
     },
     {
@@ -897,12 +941,19 @@
         "identification"
       ],
       "question": "Which colour and test results are correct for nitrogen dioxide gas? Options are shown in a table in the PDF.",
-      "status": "pending",
-      "answer": "Options are not in the text; check the colour and test table in the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: brown, damp litmus paper turns from blue to red",
+      "steps": [
+        "Nitrogen dioxide, NO2, is a brown gas.",
+        "It is an acidic gas: it reacts with water in damp litmus paper to form acids (HNO3 and HNO2).",
+        "Acid turns blue litmus red, so the colour change is blue to red: option A."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-10.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q9.jpg"
       ]
     },
     {
@@ -1235,12 +1286,21 @@
         "pH control"
       ],
       "question": "Calculate the standard enthalpy change for the reaction of pure ethanoic acid with ammonium carbonate to form ammonium ethanoate by completing a Hess cycle, using the data shown in the PDF.",
-      "status": "pending",
-      "answer": "Needs the Hess cycle diagram and the data values, which are not in the text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "+57.0 kJ mol^-1 (for 2CH3COOH + (NH4)2CO3, as the equation is written)",
+      "steps": [
+        "Equation: 2CH3COOH(l) + (NH4)2CO3(s) -> 2CH3COONH4(s) + CO2(g) + H2O(l). Put the reactants in the top left box, the products in the top right box, and the elements (5C + 8H2 + N2 + 3.5O2) in the bottom box, with arrows up to both.",
+        "Sum of Delta fH(products) = 2(-586.3) + (-393.5) + (-285.8) = -1851.9 kJ mol^-1.",
+        "Sum of Delta fH(reactants) = 2(-484.5) + (-939.9) = -1908.9 kJ mol^-1.",
+        "Delta rH = sum of Delta fH(products) - sum of Delta fH(reactants) = -1851.9 - (-1908.9) = +57.0 kJ mol^-1.",
+        "Per mole of ethanoic acid this is +28.5 kJ mol^-1."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-15.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q15.jpg"
       ]
     },
     {
@@ -1404,13 +1464,21 @@
         "Ar"
       ],
       "question": "Using the mass of metal M and the titration results with 0.400 mol dm-3 HCl (250.0 cm3 volumetric flask, 25.0 cm3 aliquots), calculate the relative atomic mass of M and identify M.",
-      "status": "pending",
-      "answer": "Needs the mass of M and the titration results table, which are not in the text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Ar of M is about 7.2, so M is lithium",
+      "steps": [
+        "Moles of HCl in the mean titre = 0.01280 dm3 x 0.400 mol dm-3 = 5.12 x 10^-3 mol.",
+        "MOH : HCl is 1 : 1, so 25.0 cm3 of solution contains 5.12 x 10^-3 mol MOH.",
+        "The whole 250.0 cm3 contains 10 x this = 5.12 x 10^-2 mol, which equals the moles of M (1 mol M gives 1 mol MOH).",
+        "Ar = mass / moles = 0.37 / 0.0512 = 7.2, which is closest to lithium (6.9), so M is Li."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-16.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-17.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q16.jpg"
       ]
     },
     {
@@ -1567,12 +1635,20 @@
         "greatest stability"
       ],
       "question": "Data for Group 1 and Group 2 cations W, X, Y and Z are shown in a table. Which cation would form the nitrate with the greatest thermal stability? A W, B X, C Y, D Z.",
-      "status": "pending",
-      "answer": "Needs the table of cation data, which is not in the text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: Z (0.149 nm, +1)",
+      "steps": [
+        "Thermal stability of a nitrate is greater when the cation is less polarising, so it distorts the nitrate ion less.",
+        "Polarising power rises with charge density (high charge, small radius).",
+        "Z has the lowest charge (+1) and the largest radius (0.149 nm), so it has the lowest charge density.",
+        "X also has +1 but a smaller radius; W and Y are +2, so they are more polarising. So Z gives the most stable nitrate."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-20.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q21.jpg"
       ]
     },
     {
@@ -1619,12 +1695,20 @@
         "titration"
       ],
       "question": "Two titrations of NaOH (in the flask) with HCl (in the burette) use methyl orange and phenolphthalein respectively. What are the colour changes at the end-points? Options are in the PDF.",
-      "status": "pending",
-      "answer": "The option list is not in the text; check the PDF for the colour options",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: methyl orange yellow to orange; phenolphthalein pink to colourless",
+      "steps": [
+        "The flask contains NaOH (alkaline) and acid is added from the burette.",
+        "Methyl orange is yellow in alkali and turns orange at the end-point (red only in excess acid).",
+        "Phenolphthalein is pink in alkali and turns colourless at the end-point.",
+        "So the correct row is B."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-21.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q23.jpg"
       ]
     },
     {
@@ -1724,12 +1808,20 @@
         "options"
       ],
       "question": "Which is the ionic equation for the reaction of solid barium carbonate with dilute hydrochloric acid? Options are in the PDF.",
-      "status": "pending",
-      "answer": "The option list is not in the text; check the PDF for the ionic equation options",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: BaCO3(s) + 2H+(aq) -> Ba2+(aq) + CO2(g) + H2O(l)",
+      "steps": [
+        "Solid barium carbonate is insoluble, so it stays as BaCO3(s) in the ionic equation.",
+        "Hydrochloric acid is fully ionised, giving H+(aq) (Cl- is a spectator ion and is left out).",
+        "The products are Ba2+(aq) (BaCl2 is soluble), CO2(g) and H2O(l), and 2H+ are needed to balance.",
+        "B has wrong formulae (Ba2CO3, Ba+); C shows a free carbonate ion as a solid, which is wrong; D shows HCl(aq) as undissociated molecules and has no barium ion."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-23.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-24.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q25.jpg"
       ]
     },
     {
@@ -1812,6 +1904,9 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-24.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-25.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q27.jpg"
       ]
     },
     {
@@ -1829,12 +1924,19 @@
         "gas test"
       ],
       "question": "What reagent and what result of the gas test show the presence of ammonium ions? Options are in the PDF.",
-      "status": "pending",
-      "answer": "The option list is not in the text; check the PDF options (expected: warm with NaOH, ammonia turns damp red litmus blue)",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: NaOH(aq); damp red litmus paper turns blue",
+      "steps": [
+        "Warming ammonium ions with a strong base (NaOH(aq)) gives ammonia gas: NH4+ + OH- -> NH3 + H2O.",
+        "Ammonia is alkaline, so it turns damp red litmus paper blue.",
+        "HCl(aq) would not release ammonia, so A and B are wrong; blue litmus turning red indicates an acidic gas, so C is wrong."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-24.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-25.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q28.jpg"
       ]
     },
     {
@@ -1852,12 +1954,19 @@
         "flame colour"
       ],
       "question": "What produces the colour in a flame test? Options are in the PDF.",
-      "status": "pending",
-      "answer": "The option list is not in the text; check the PDF options",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: energy emitted as electrons move from an excited state to the ground state",
+      "steps": [
+        "The flame supplies energy, which excites electrons to higher energy levels.",
+        "When an excited electron falls back to a lower level (the ground state) it emits energy.",
+        "For some metal ions the energy emitted is in the visible region, giving the flame colour: option D."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-25.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q29.jpg"
       ]
     },
     {
@@ -1904,12 +2013,20 @@
         "trapped air"
       ],
       "question": "A student had an air bubble between the tap and tip of the burette, which filled with acid during the first titration. Which set of three titres could be the student's results? Options are in the PDF.",
-      "status": "pending",
-      "answer": "The option list is not in the text; check the PDF options (expected: first titre high, other two concordant)",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 22.80, 22.35, 22.40 cm3",
+      "steps": [
+        "The air bubble is displaced by acid, so the first reading drop is bigger than the volume that reached the flask: the first titre is too high.",
+        "The second and third titres are accurate, so they should be concordant with each other and smaller than the first.",
+        "C is the only row with a high first titre (22.80) and two concordant, lower values (22.35 and 22.40).",
+        "A has no high first titre (all three equal), B has second and third titres that are not concordant, and D has a first titre lower than the others."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-25.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q30.jpg"
       ]
     },
     {
@@ -2094,12 +2211,19 @@
         "reaction types"
       ],
       "question": "Which reaction produces more than one product? Options are in the PDF.",
-      "status": "pending",
-      "answer": "The option list is not in the text; check the PDF options",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Sr + H2O -> Sr(OH)2 + H2",
+      "steps": [
+        "Strontium reacts with water to give two products: strontium hydroxide and hydrogen (Sr + 2H2O -> Sr(OH)2 + H2).",
+        "A gives only MgO, B only CaCl2, and D only Ba(OH)2 (BaO + H2O -> Ba(OH)2).",
+        "So only C produces more than one product."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-28.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-29.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q36.jpg"
       ]
     },
     {
@@ -2812,14 +2936,22 @@
         "dissolving"
       ],
       "question": "100.0 g of water was used to dissolve 0.0628 mol of anhydrous MgSO4. Calculate the enthalpy change of solution, with sign and units (specific heat capacity 4.18 J g-1 C-1; density 1.00 g cm-3). The temperature results are in a table in the PDF.",
-      "status": "pending",
-      "answer": "Needs the temperature results table, which is not in the text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "-85.2 kJ mol^-1",
+      "steps": [
+        "Temperature rise = 29.4 - 16.6 = 12.8 deg C.",
+        "Heat = m c Delta T = 100.0 g x 4.18 J g-1 deg C-1 x 12.8 = 5350 J = 5.35 kJ.",
+        "Moles of MgSO4 = 0.0628, so energy per mole = 5.35 / 0.0628 = 85.2 kJ mol^-1.",
+        "The temperature rose, so the dissolving is exothermic: Delta H = -85.2 kJ mol^-1 (3 significant figures, as the data)."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-36.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-37.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-38.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-39.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q49.jpg"
       ]
     },
     {
@@ -2836,14 +2968,23 @@
         "enthalpy change"
       ],
       "question": "Complete the Hess cycle for the dissolving of hydrated magnesium sulfate MgSO4.7H2O (second experiment).",
-      "status": "pending",
-      "answer": "Needs the Hess cycle diagram, which is not in the text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Bottom box: MgSO4(aq); arrows from both top boxes down to it, labelled -85.2 kJ mol^-1 (left) and +15.8 kJ mol^-1 (right)",
+      "steps": [
+        "Both MgSO4(s) + 7H2O(l) and MgSO4.7H2O(s) can be dissolved to give the same final state, MgSO4(aq).",
+        "Write MgSO4(aq) in the empty bottom box.",
+        "Draw an arrow from MgSO4(s) + 7H2O(l) down to MgSO4(aq), labelled with the result from (b)(i): Delta H = -85.2 kJ mol^-1.",
+        "Draw an arrow from MgSO4.7H2O(s) down to MgSO4(aq), labelled Delta H = +15.8 kJ mol^-1."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-36.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-37.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-38.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-39.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q49-2.jpg",
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q49-3.jpg"
       ]
     },
     {
@@ -2861,14 +3002,22 @@
         "calculate"
       ],
       "question": "Using the completed Hess cycle and the answer to (b)(i), calculate the enthalpy change when anhydrous MgSO4 forms MgSO4.7H2O.",
-      "status": "pending",
-      "answer": "Depends on the answers to (b)(i) and (b)(ii) which need the PDF data",
-      "steps": [],
+      "status": "ready",
+      "answer": "-101 kJ mol^-1",
+      "steps": [
+        "By Hess's Law, the top arrow (anhydrous + 7H2O -> hydrated) plus the dissolving of the hydrated salt equals dissolving the anhydrous salt directly.",
+        "Delta H(top arrow) + (+15.8) = -85.2.",
+        "Delta H(top arrow) = -85.2 - 15.8 = -101.0 kJ mol^-1 (exothermic)."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-36.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-37.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-38.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-39.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q49-2.jpg",
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q49-3.jpg"
       ]
     },
     {
@@ -2886,9 +3035,13 @@
         "solubility"
       ],
       "question": "Draw a labelled diagram showing how both the magnesium ion and the sulfate ion interact with water molecules.",
-      "status": "pending",
-      "answer": "Needs a labelled diagram checked against the PDF (Mg2+ attracts the O end of water; sulfate attracts the H end via hydrogen bonds)",
-      "steps": [],
+      "status": "ready",
+      "answer": "Mg2+ surrounded by water molecules with the O (delta-) end pointing at it; SO4 2- surrounded by water molecules with H (delta+) pointing at the O atoms of the ion",
+      "steps": [
+        "Draw Mg2+ with several water molecules around it, each with its O atom (delta-, lone pair) nearest the ion; label the attraction as ion-dipole bonds (dotted lines).",
+        "Draw SO4 2- with several water molecules around it, each with its H atoms (delta+) pointing towards the O atoms of the sulfate ion; label these as ion-dipole attractions (hydrogen bonds).",
+        "Mark the charges 2+ and 2- on the ions and delta+ / delta- on the water molecules, and label the water molecules."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-36.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-37.jpg",
@@ -3026,12 +3179,20 @@
         "total uncertainty"
       ],
       "question": "Information about the uncertainties in each reading used to measure the volumes is given in a table in the PDF. Which statement is true? Options A to D are in the PDF.",
-      "status": "pending",
-      "answer": "The uncertainty table and option text are not fully in the text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: the total percentage uncertainty is 0.8 %",
+      "steps": [
+        "Percentage uncertainty = (uncertainty / volume) x 100.",
+        "Sulfuric acid, 10.00 cm3 from a pipette: 0.04 / 10.00 x 100 = 0.4 %.",
+        "Potassium hydroxide, 25.00 cm3 from a burette: the volume is the difference of two readings, so uncertainty = 2 x 0.05 = 0.10 cm3, and 0.10 / 25.00 x 100 = 0.4 %.",
+        "Total = 0.4 + 0.4 = 0.8 %, so C. A is wrong (the two are equal), B is wrong (0.4 %, not 0.8 %), and D is wrong (0.2 % uses only one burette reading)."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-39.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-40.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q51.jpg"
       ]
     },
     {
@@ -3364,12 +3525,20 @@
         "oxygen"
       ],
       "question": "What are the products formed when lithium nitrate and calcium nitrate are heated separately? Options are in the PDF.",
-      "status": "pending",
-      "answer": "The option list is not in the text; check the PDF options (expected: Li2O + NO2 + O2 and CaO + NO2 + O2)",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: lithium oxide, nitrogen dioxide and oxygen; calcium oxide, nitrogen dioxide and oxygen",
+      "steps": [
+        "Group 2 nitrates decompose to the metal oxide, nitrogen dioxide and oxygen: 2Ca(NO3)2 -> 2CaO + 4NO2 + O2.",
+        "Lithium is the exception in Group 1: its small ion has a high charge density, so it polarises the nitrate ion strongly, and it behaves like Group 2: 4LiNO3 -> 2Li2O + 4NO2 + O2.",
+        "Other Group 1 nitrates give a nitrite and oxygen only, but lithium nitrate does not, and calcium nitrate does not give a nitrite, so rows A, B and C (each has a nitrite for lithium or calcium) are wrong.",
+        "So both give oxide, NO2 and O2: row D."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-43.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-44.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q57.jpg"
       ]
     },
     {
@@ -3442,12 +3611,20 @@
         "estimate"
       ],
       "question": "A graph shows the decomposition temperature (K) of Group 2 nitrates against atomic number. Estimate the temperature in C at which calcium nitrate decomposes. Options A 587 C, B 767 C, C 860 C, D 1040 C.",
-      "status": "pending",
-      "answer": "Needs the graph from the PDF to read the value for calcium",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 587 deg C",
+      "steps": [
+        "Calcium has atomic number 20, so read the graph at 20 on the x-axis.",
+        "The curve is at about 860 K there (just below the 900 K line).",
+        "Convert to deg C: 860 - 273 = 587 deg C, which is option A.",
+        "Option C (860 deg C) wrongly treats the reading in K as deg C."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-44.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-45.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08B-Groups-1-and-2-Q59.jpg"
       ]
     },
     {
@@ -3494,9 +3671,14 @@
         "crystallisation"
       ],
       "question": "20 cm3 of saturated barium nitrate at 80 C was cooled to 20 C, and 9.32 g of crystals precipitated. Solubility at 20 C is 3.74 g per 100 g water. What is the solubility at 80 C in g per 100 g water? A 13.1, B 41.0, C 46.6, D 50.3.",
-      "status": "pending",
-      "answer": "Needs the density of the saturated solution to convert 20 cm3 to a mass of water; the density is not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 50.3 g per 100 g water",
+      "steps": [
+        "Take 20 cm3 of the saturated solution to contain 20 g of water (density taken as 1.00 g cm-3: an assumption needed to use the data given).",
+        "At 20 deg C that 20 g of water holds 3.74 x (20/100) = 0.748 g of barium nitrate, so 0.748 g stays dissolved.",
+        "At 80 deg C the 20 g of water held 9.32 + 0.748 = 10.068 g.",
+        "Per 100 g of water: 10.068 x 5 = 50.3 g (D). Option C (46.6) comes from forgetting the 0.748 g that stays in solution."
+      ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-45.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-46.jpg"

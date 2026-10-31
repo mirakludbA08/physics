@@ -4721,15 +4721,22 @@ window.BANK.biology = {
       "condensation"
      ],
      "question": "Which diagram shows the bond joining a glycerol molecule to a fatty acid in a triglyceride?",
-     "status": "pending",
-     "answer": "Pending: the diagram options (labelled bonds) are not in the text. The bond is an ester bond.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: the ester bond, drawn as -C-O-C(=O)-.",
+     "steps": [
+      "The bond joining glycerol to a fatty acid in a triglyceride is an ester bond, made by a condensation reaction between an -OH of glycerol and the -COOH of the fatty acid (water is released).",
+      "An ester link is a carbon, then an oxygen, then a carbon that has a double-bonded oxygen (C-O-C=O), which is diagram C.",
+      "A and B contain nitrogen, so they are peptide bonds (amino acids), not ester bonds.",
+      "D has an -OH on the carbonyl carbon (an acid group), which is not the ester link."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-01.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-02.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q1.jpg"
+     ]
     },
     {
      "id": "1C-Q1a(iii)",
@@ -4746,15 +4753,21 @@ window.BANK.biology = {
       "risk"
      ],
      "question": "Using the table of four fatty acids, explain which would have the lowest risk of causing CVD if included in a diet in equal masses.",
-     "status": "pending",
-     "answer": "Pending: the table of the four fatty acids is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Linoleic acid: it has two C=C double bonds (polyunsaturated), so it is the least likely to raise LDL cholesterol and CVD risk.",
+     "steps": [
+      "Saturated fatty acids (no C=C double bonds: butyric and stearic) raise blood LDL cholesterol, which builds up as atheroma in artery walls and raises the risk of CVD.",
+      "Unsaturated fatty acids have C=C double bonds: palmitoleic has 1 and linoleic has 2, so both carry less risk than the saturated ones.",
+      "Linoleic acid has the most double bonds (2, polyunsaturated), so it has the lowest risk of causing CVD."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-01.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-02.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q1-2.jpg"
+     ]
     },
     {
      "id": "1C-Q1b(i)",
@@ -4890,15 +4903,22 @@ window.BANK.biology = {
       "antioxidants"
      ],
      "question": "Explain whether eating dark chocolate is likely to reduce CVD risk more than milk chocolate, using the table.",
-     "status": "pending",
-     "answer": "Pending: the table comparing dark and milk chocolate is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Probably yes: dark chocolate has 170 mg flavonoids per 100 g against 70 mg in milk chocolate (about 2.4 times as much) and less energy (1800 v 2345 kJ per 100 g), but the table alone does not prove a lower CVD risk.",
+     "steps": [
+      "Flavonoids are antioxidants: they remove free radicals, so less LDL cholesterol is oxidised and less atheroma forms, which lowers CVD risk.",
+      "Dark chocolate has 170 mg per 100 g compared with 70 mg, which is 100 mg more (170/70 = 2.4 times), so an equal mass gives more antioxidant protection.",
+      "Dark chocolate also has 545 kJ per 100 g less energy (2345 - 1800), so it is less likely to cause weight gain and obesity, another CVD risk factor.",
+      "Caution: the table gives no data on fat, sugar or actual CVD outcomes, and the benefit depends on how much is eaten; chocolate is still energy dense, so large amounts could increase risk."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-03.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-04.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q2.jpg"
+     ]
     },
     {
      "id": "1C-Q2b(ii)",
@@ -4928,7 +4948,10 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-04.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q2.jpg",
+      "papers/biology/fig/01C-Cardiovascular-Health-Q2-2.jpg"
+     ]
     },
     {
      "id": "1C-Q2b(iii)",
@@ -4975,14 +4998,21 @@ window.BANK.biology = {
       "risk factors"
      ],
      "question": "Describe the conclusions that can be made about the risk factors for CVD, using the graph of relative risk for non-smokers and smokers.",
-     "status": "pending",
-     "answer": "Pending: the relative risk graph for non-smokers and smokers is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Relative risk of CVD rises with age in both groups, and smokers have a higher relative risk than non-smokers at every age.",
+     "steps": [
+      "Non-smokers: 1.6 (25-34), 3.2 (35-44), 4.4 (45 and above), so risk rises with age (about 2.8 times higher at 45+).",
+      "Smokers: 3.4, 4.0 and 7.0 for the same age groups, so risk also rises with age.",
+      "At every age the smoker's bar is higher: 3.4 v 1.6 (about 2 times), 4.0 v 3.2, 7.0 v 4.4 (about 1.6 times).",
+      "Age and smoking are both risk factors for CVD; the highest risk (7.0) is in smokers aged 45 and above, over 4 times the 25-34 non-smoker value."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-05.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q3.jpg"
+     ]
     },
     {
      "id": "1C-Q3a(ii)",
@@ -4999,14 +5029,21 @@ window.BANK.biology = {
       "risk factors"
      ],
      "question": "The graph data were collected more than 25 years ago. Explain how the graph might appear if it showed data collected last year.",
-     "status": "pending",
-     "answer": "Pending: the original relative risk graph is not in the text, so the expected change cannot be compared with it.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The bars would probably be lower for both groups (smokers' bars especially), though risk would still rise with age and smokers would still be higher.",
+     "steps": [
+      "Since then, smoking has fallen (public health campaigns, smoking bans, higher awareness), so fewer smokers and less damage from smoking.",
+      "Treatment has improved (statins, antihypertensives, anticoagulants, stents, earlier screening), so relative risk of CVD would be lower.",
+      "Age would still be a risk factor, so bars would still increase from 25-34 to 45 and above, and smokers would still have higher risk than non-smokers.",
+      "Alternative credit: some bars could be higher if more obesity, diabetes and inactivity were assumed."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-05.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q3.jpg"
+     ]
     },
     {
      "id": "1C-Q3b",
@@ -5091,7 +5128,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-07.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q4.jpg"
+     ]
     },
     {
      "id": "1C-Q4c",
@@ -5121,7 +5160,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-07.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q4.jpg"
+     ]
     },
     {
      "id": "1C-Q4d(i)",
@@ -5150,7 +5191,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-07.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q4.jpg"
+     ]
     },
     {
      "id": "1C-Q4d(ii)",
@@ -5179,7 +5222,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-07.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q4.jpg"
+     ]
     },
     {
      "id": "1C-Q4d(iii)",
@@ -5209,7 +5254,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-07.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q4.jpg"
+     ]
     },
     {
      "id": "1C-Q5a",
@@ -5297,7 +5344,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-09.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q5.jpg"
+     ]
     },
     {
      "id": "1C-Q5b(iii)",
@@ -5343,15 +5392,22 @@ window.BANK.biology = {
       "two to three times"
      ],
      "question": "Determine the extent to which the study on a low-fat and a very low-carbohydrate diet supports the claim that low-carbohydrate diets cause two to three times as much weight loss.",
-     "status": "pending",
-     "answer": "Pending: the table of weight loss results for the two diet groups is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Partly supports it: the very low-carbohydrate group lost more at every time, but after 12 weeks only about 1.9 times as much (8.1 kg v 4.3 kg), just under the claimed two to three times.",
+     "steps": [
+      "Low-fat group: 92.5 - 88.2 = 4.3 kg lost in 12 weeks (4.65% of starting mass).",
+      "Very low-carbohydrate group: 91.1 - 83.0 = 8.1 kg lost (8.89% of starting mass).",
+      "Ratio of losses = 8.1 / 4.3 = 1.9; at earlier times it was 1.4 to 1.8, so it never reached 2.",
+      "So the study supports greater weight loss on a low-carbohydrate diet but not the two to three times claim; it is a single study using mean values with no spread or statistics."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-08.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-09.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q5-2.jpg"
+     ]
     },
     {
      "id": "1C-Q5c(ii)",
@@ -5396,15 +5452,22 @@ window.BANK.biology = {
       "cause of death"
      ],
      "question": "State two conclusions from the graph of the increased risk of death related to a high-salt diet.",
-     "status": "pending",
-     "answer": "Pending: the hazard ratio graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "High salt intake increases the risk of death from all three causes (hazard ratio above 1.00), and the effect is greatest for coronary artery disease (1.60) and smallest for all other causes (1.10).",
+     "steps": [
+      "Low salt intake is the reference (1.00); high salt intake gives 1.60 for coronary artery disease, 1.25 for CVD and 1.10 for all other causes, all above 1.00.",
+      "So high salt is linked to a 60% higher risk of death from coronary artery disease, 25% from CVD and 10% from other causes.",
+      "The effect is largest for coronary artery disease, then CVD, then all other causes, suggesting salt acts mainly through the cardiovascular system (raised blood pressure).",
+      "This is an association (correlation) and does not prove salt is the cause."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-11.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-12.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q6.jpg"
+     ]
     },
     {
      "id": "1C-Q6b(i)",
@@ -5492,7 +5555,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-12.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q6.jpg"
+     ]
     },
     {
      "id": "1C-Q6d(i)",
@@ -5521,7 +5586,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-12.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q6.jpg"
+     ]
     },
     {
      "id": "1C-Q6d(ii)",
@@ -5566,15 +5633,20 @@ window.BANK.biology = {
       "cm"
      ],
      "question": "Calculate the waist size of female K from the table of measurements.",
-     "status": "pending",
-     "answer": "Pending: the table of measurements for females J and K is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "100 cm",
+     "steps": [
+      "WHR = waist / hips, so waist = WHR x hips.",
+      "Waist = 0.80 x 125 = 100 cm."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-13.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-14.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q7.jpg"
+     ]
     },
     {
      "id": "1C-Q7a(ii)",
@@ -5591,15 +5663,21 @@ window.BANK.biology = {
       "formula"
      ],
      "question": "Using the BMI formula and the data in the table, calculate the mass of female K.",
-     "status": "pending",
-     "answer": "Pending: the BMI formula image and the height and BMI values in the table are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "86.5 kg (86 kg to 2 significant figures)",
+     "steps": [
+      "BMI = mass / height^2, so mass = BMI x height^2.",
+      "Height = 155 cm = 1.55 m, so height^2 = 2.4025 m^2.",
+      "Mass = 36 x 2.4025 = 86.49 = 86.5 kg."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-13.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-14.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q7.jpg"
+     ]
     },
     {
      "id": "1C-Q7a(iii)",
@@ -5615,15 +5693,22 @@ window.BANK.biology = {
       "comparison"
      ],
      "question": "Comment on the risk of developing CVD in the two women, using the measurements in the table.",
-     "status": "pending",
-     "answer": "Pending: the measurement values for females J and K are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both women have WHR 0.80, so similar risk by WHR, but female K (BMI 36, waist 100 cm) is at greater risk of CVD than female J (BMI 25, waist 80 cm).",
+     "steps": [
+      "WHR is the same (0.80) for both and is below 0.85 (the usual limit for women), so abdominal fat does not give either woman a high-risk WHR.",
+      "BMI: J = 25 (borderline between healthy and overweight) but K = 36, which is obese (30 or more), so K carries much more body fat and has a higher risk of CVD.",
+      "K's waist of 100 cm is above the 88 cm risk limit for women, J's 80 cm is below it, so K has more abdominal fat and greater risk.",
+      "WHR alone can hide a high risk, because it ignores total body fat, so using BMI and waist as well shows K is at greater risk."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-13.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-14.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q7.jpg"
+     ]
     },
     {
      "id": "1C-Q7a(iv)",
@@ -5652,7 +5737,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-14.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q7-2.jpg"
+     ]
     },
     {
      "id": "1C-Q7b(i)",
@@ -5681,7 +5768,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-14.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q7-3.jpg"
+     ]
     },
     {
      "id": "1C-Q7b(ii)",
@@ -5697,15 +5786,22 @@ window.BANK.biology = {
       "female"
      ],
      "question": "Using the body fat interpretation chart and the mean of the four skinfold thickness measurements, determine the level of body fat of this female.",
-     "status": "pending",
-     "answer": "Pending: the body fat interpretation chart and the four skinfold values are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Moderate",
+     "steps": [
+      "Mean skinfold thickness = (0.63 + 0.82 + 0.65 + 0.82) / 4 = 2.92 / 4 = 0.73 a.u.",
+      "The female is 42, so use the 40 to 49 row: low is below 0.73, moderate is 0.73 to 0.79.",
+      "0.73 falls in the moderate band, so the level of body fat is moderate."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-13.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-14.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q7-3.jpg",
+      "papers/biology/fig/01C-Cardiovascular-Health-Q7-4.jpg"
+     ]
     },
     {
      "id": "1C-Q8a",
@@ -5735,7 +5831,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-17.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q8.jpg"
+     ]
     },
     {
      "id": "1C-Q8b(i)",
@@ -5751,15 +5849,21 @@ window.BANK.biology = {
       "patients"
      ],
      "question": "800 patients had stent A and 400 had stent B. Calculate the difference in the number of patients who developed stent thrombosis three years after insertion, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the incidence values from the stent thrombosis graph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "8 patients",
+     "steps": [
+      "From the graph at 3 years: stent A = 1.5% and stent B = 1.0% incidence of stent thrombosis.",
+      "Stent A: 800 x 1.5/100 = 12 patients; stent B: 400 x 1.0/100 = 4 patients.",
+      "Difference = 12 - 4 = 8 patients."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-16.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-17.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q8-2.jpg"
+     ]
     },
     {
      "id": "1C-Q8b(ii)",
@@ -5892,16 +5996,24 @@ window.BANK.biology = {
       "men"
      ],
      "question": "Explain why a man with a blood HDL level above 40 mg dm-3 may still have a high risk of heart disease, using the graph of HDL and LDL levels and own knowledge.",
-     "status": "pending",
-     "answer": "Pending: the graph of heart disease risk against HDL and LDL levels is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Even with HDL above 40, a man can still be at high risk because HDL = 43.5 gives much higher risk than 63.0 or 82.5, risk rises steeply as LDL rises, and other risk factors also raise heart disease risk.",
+     "steps": [
+      "Graph: at HDL = 43.5 the risk of heart disease is far higher than at HDL = 63.0 or 82.5 at every LDL level, so HDL just above 40 gives much less protection than a high HDL.",
+      "At all HDL levels risk increases as the LDL level increases, and the lines for HDL = 24.4 and 43.5 rise steeply, so a man with high LDL still has a high risk.",
+      "Own knowledge: LDL carries cholesterol to the artery wall, where it builds up as atheroma (atherosclerosis), narrowing the coronary arteries and causing clots; HDL only removes some of this cholesterol.",
+      "Other risk factors are independent of HDL: smoking, high blood pressure, diet high in saturated fat and salt, obesity, inactivity, diabetes, age, sex and genetics.",
+      "Very high cholesterol can alter HDL so that it is less effective, so an HDL level above 40 does not guarantee protection."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-18.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-19.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-20.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q9.jpg"
+     ]
     },
     {
      "id": "1C-Q9b(i)",
@@ -5917,16 +6029,23 @@ window.BANK.biology = {
       "compare contrast"
      ],
      "question": "Compare and contrast the structure of HDL with altered HDL, shown in the diagrams.",
-     "status": "pending",
-     "answer": "Pending: the diagrams of HDL in low and high cholesterol blood are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both are spherical particles with a phospholipid layer carrying ApoA-1 and polyunsaturated PC and a core of cholesteryl ester (CE), but altered HDL is much larger with a bigger CE core, fewer PC molecules and fewer types of protein.",
+     "steps": [
+      "Similarities: both are roughly spherical; both have a surface phospholipid layer with long-chain polyunsaturated PC and the protein ApoA-1; both have a core of cholesteryl ester (CE).",
+      "Difference: altered HDL is much larger (greater diameter) than normal HDL.",
+      "Difference: altered HDL has a much larger core containing many more CE molecules.",
+      "Difference: HDL has several proteins (ApoA-1, ApoM, CRABP1, RBP4) but altered HDL shows only ApoA-1, and it has fewer long-chain polyunsaturated PC molecules in its surface layer."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-18.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-19.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-20.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q9-2.jpg"
+     ]
     },
     {
      "id": "1C-Q9b(ii)",
@@ -5956,7 +6075,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-20.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q9-2.jpg"
+     ]
     },
     {
      "id": "1C-Q10a",
@@ -5988,7 +6109,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-24.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q10.jpg"
+     ]
     },
     {
      "id": "1C-Q10b",
@@ -6004,9 +6127,13 @@ window.BANK.biology = {
       "physical activity"
      ],
      "question": "Describe the conclusions that can be made from the graph showing the effect of exercise on the relative risk of death from CVD.",
-     "status": "pending",
-     "answer": "Pending: the exercise and relative risk graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Relative risk of death from CVD falls as the weekly energy spent on exercise increases, and the more vigorous the exercise the greater the fall.",
+     "steps": [
+      "All three lines start at 1.0 at 4000 kJ per week and fall as energy used increases.",
+      "At 14000 kJ per week the relative risk is about 0.95 for light, 0.84 for moderate and 0.70 for vigorous exercise (reductions of 5%, 16% and 30%).",
+      "For the same energy expended, vigorous exercise gives the lowest risk (falls about 0.03 per 1000 kJ), moderate falls about 0.016 per 1000 kJ, and light exercise levels off after about 8000 kJ with little extra benefit."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-21.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-22.jpg",
@@ -6014,7 +6141,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-24.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q10-2.jpg"
+     ]
     },
     {
      "id": "1C-Q10c(i)",
@@ -6110,7 +6239,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-24.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q10-3.jpg"
+     ]
     },
     {
      "id": "1C-Q11a",
@@ -6156,15 +6287,21 @@ window.BANK.biology = {
       "anticoagulant"
      ],
      "question": "Deduce a safe range for the INR level, using the graph of INR against the risk of stroke and the risk of bleeding within the skull.",
-     "status": "pending",
-     "answer": "Pending: the graph of INR against stroke and bleeding risk is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 2.0 to 3.5 (1.8 to 3.5 is also acceptable).",
+     "steps": [
+      "Below INR 1.8 the risk of stroke is high (very high at 1.3 or below and still raised at 1.4-1.7) because blood clots too easily.",
+      "Above 3.5 the risk of bleeding in the skull rises steeply (3.6-4.5, then very high above 4.5).",
+      "Between about 1.8 and 3.5 both risks are low and similar, with the lowest combined risk at 2.0-2.5, so a safe range is about 2.0 to 3.5."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-25.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-26.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q11.jpg"
+     ]
     },
     {
      "id": "1C-Q11c",
@@ -6269,15 +6406,21 @@ window.BANK.biology = {
       "risk factors"
      ],
      "question": "Which row of the table identifies one lifestyle factor and one non-lifestyle factor?",
-     "status": "pending",
-     "answer": "Pending: the table with the rows of factors is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A",
+     "steps": [
+      "Lifestyle factors can be changed; non-lifestyle factors cannot.",
+      "BMI can be changed by diet and exercise (lifestyle) and age cannot be changed (non-lifestyle), so row A is correct.",
+      "B, C and D each have a factor in the wrong column (for example gender and genetics cannot be changed, and inactivity and alcohol intake can)."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-27.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-28.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q12.jpg"
+     ]
     },
     {
      "id": "1C-Q12a(ii)",
@@ -6411,9 +6554,13 @@ window.BANK.biology = {
       "study"
      ],
      "question": "Describe two conclusions that can be drawn from the study comparing perceived risk with actual risk of CVD.",
-     "status": "pending",
-     "answer": "Pending: the graph of perceived against actual risk is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "People underestimate their actual risk for inactivity, high cholesterol and high blood pressure (perceived about 10 lower), but slightly overestimate being overweight; perceived and actual risk of smoking are close.",
+     "steps": [
+      "Perceived v actual number of people: smoking 18 v 20; inactivity 25 v 35; overweight 58 v 55; high cholesterol 27 v 36; high blood pressure 25 v 36.",
+      "Conclusion 1: for four of the five factors the perceived risk is lower than the actual risk, with the biggest gaps for high blood pressure (11 people) and inactivity (10) and high cholesterol (9).",
+      "Conclusion 2: overweight is the only factor where more people perceived a risk than actually had it (58 v 55), and it is the most common risk factor; smoking has the closest match (2 people difference)."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-29.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-30.jpg",
@@ -6421,7 +6568,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q13.jpg"
+     ]
     },
     {
      "id": "1C-Q13a(ii)",
@@ -6501,9 +6650,14 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Calculate the 10-year risk of CVD for a 35-year-old woman with total cholesterol 242 mg dm-3, who is a smoker, and systolic blood pressure 132 mm Hg, using the Framingham point tables.",
-     "status": "pending",
-     "answer": "Pending: the point score tables (Table 1 and Table 2) are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "8%",
+     "steps": [
+      "Age 35 to 39: -3 points.",
+      "Total cholesterol 242 mg dm-3 is in the 240 to 279 band: +11; smoker: +9; systolic blood pressure 132 mm Hg is in the 130 to 139 band: +2.",
+      "Total = -3 + 11 + 9 + 2 = 19 points.",
+      "Table 2: 19 points gives a 10-year risk of 8%."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-29.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-30.jpg",
@@ -6511,7 +6665,10 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q13-2.jpg",
+      "papers/biology/fig/01C-Cardiovascular-Health-Q13-3.jpg"
+     ]
     },
     {
      "id": "1C-Q13b(ii)",
@@ -6528,9 +6685,14 @@ window.BANK.biology = {
       "woman"
      ],
      "question": "Explain the lifestyle changes this woman could make to reduce her 10-year risk of CVD, using the information in the table.",
-     "status": "pending",
-     "answer": "Pending: the points table that the answer should use is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Stop smoking first (saves 9 points: 19 to 10, so risk falls from 8% to below 4%), then lower cholesterol and blood pressure through diet and exercise.",
+     "steps": [
+      "Stopping smoking removes the +9 points, taking the total from 19 to 10, below the lowest value in Table 2 (16 points = 4%), so risk falls from 8% to under 4%.",
+      "Lowering total cholesterol from 240-279 (+11) to 160-199 (+4) saves 7 points: eat less saturated fat and more fibre, and exercise more.",
+      "Lowering systolic blood pressure to below 120 mm Hg saves 2 points: eat less salt, lose weight, exercise and drink less alcohol.",
+      "Age (-3 points) is not a lifestyle factor and cannot be changed."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-29.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-30.jpg",
@@ -6538,7 +6700,10 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q13-2.jpg",
+      "papers/biology/fig/01C-Cardiovascular-Health-Q13-3.jpg"
+     ]
     },
     {
      "id": "1C-Q13b(iii)",
@@ -6617,15 +6782,21 @@ window.BANK.biology = {
       "diet"
      ],
      "question": "Which row in the table describes the cholesterol content and antioxidant content of the Portfolio diet?",
-     "status": "pending",
-     "answer": "Pending: the table of cholesterol and antioxidant content is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: low cholesterol content and high antioxidant content.",
+     "steps": [
+      "The Portfolio diet lowers LDL because it is mainly plant-based (nuts, soya protein, fibre, plant sterols), which contains little or no animal cholesterol, so the cholesterol content is low.",
+      "Plant foods such as fruit, vegetables and nuts are rich in antioxidants, so the antioxidant content is high.",
+      "Only row C has low cholesterol and high antioxidants."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-33.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q14.jpg"
+     ]
     },
     {
      "id": "1C-Q14a(ii)",
@@ -6683,7 +6854,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q14-2.jpg"
+     ]
     },
     {
      "id": "1C-Q14b(ii)",
@@ -6713,7 +6886,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q14-2.jpg"
+     ]
     },
     {
      "id": "1C-Q14b(iii)",
@@ -6742,7 +6917,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q14-2.jpg"
+     ]
     },
     {
      "id": "1C-Q14b(iv)",
@@ -6758,15 +6935,20 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the percentage of all the women removed from this investigation, using the numbers in the diagram of the study.",
-     "status": "pending",
-     "answer": "Pending: the numbers removed at each stage are shown in the diagram, which is not in the text. (Initial 161 808 minus selected 123 330 gives 38 478, which is about 23.8 % of the initial group, if this is the full removal.)",
-     "steps": [],
+     "status": "ready",
+     "answer": "23.8%",
+     "steps": [
+      "Women removed = 5 884 + 32 594 = 38 478 (also 161 808 - 123 330 = 38 478).",
+      "Percentage removed = 38 478 / 161 808 x 100 = 23.78 = 23.8%."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-33.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q14-2.jpg"
+     ]
     },
     {
      "id": "1C-Q14c",
@@ -6811,15 +6993,21 @@ window.BANK.biology = {
       "non-lifestyle"
      ],
      "question": "How many of the risk factors listed in the table are not influenced by lifestyle? Options: A 1, B 2, C 3, D 4.",
-     "status": "pending",
-     "answer": "Pending: the table of risk factors for RAC-1 and RAC-2 is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 1 (age only).",
+     "steps": [
+      "The factors in the table are age, blood pressure, smoking, total cholesterol and HDL cholesterol.",
+      "Blood pressure, smoking, total cholesterol and HDL cholesterol are all influenced by lifestyle (diet, exercise, smoking habit).",
+      "Only age is not influenced by lifestyle, so the answer is 1."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-35.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-36.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q15.jpg"
+     ]
     },
     {
      "id": "1C-Q15b",
@@ -6851,7 +7039,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-36.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q15.jpg"
+     ]
     },
     {
      "id": "1C-Q15c(i)",
@@ -7105,16 +7295,23 @@ window.BANK.biology = {
       "X-Y line"
      ],
      "question": "Calculate the percentage increase in the thickness of the artery wall where the plaque is located, measured along the line X-Y on the photograph.",
-     "status": "pending",
-     "answer": "Pending: the photograph of the artery section with the X-Y measurements is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 200% (the wall at the plaque is about three times as thick as the normal wall; accept about 150 to 250% depending on measurement).",
+     "steps": [
+      "Use a ruler along the line X-Y: measure the wall thickness at the plaque (X to the edge of the lumen) and the normal wall thickness on the opposite side (edge of the lumen to Y).",
+      "On this photograph the wall at the plaque is about 3 times as thick as the normal wall (for example about 36 mm v 12 mm on the printed page; there is no scale bar, so use the same units for both).",
+      "Percentage increase = (thickness at plaque - normal thickness) / normal thickness x 100.",
+      "= (36 - 12) / 12 x 100 = 200%."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-40.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-41.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-42.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q17.jpg"
+     ]
     },
     {
      "id": "1C-Q17b",
@@ -7164,16 +7361,26 @@ window.BANK.biology = {
       "ratio"
      ],
      "question": "Assess the contribution of the lipoproteins LDL and HDL to the risk of developing CVD, using Graph 1 (total cholesterol and death risk) and Graph 2 (LDL size and ratio of total cholesterol to HDL).",
-     "status": "pending",
-     "answer": "Pending: Graph 1 and Graph 2 are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "LDL and HDL both make a major contribution: total cholesterol and a high total cholesterol:HDL ratio, especially with small LDL particles, are linked to more CVD, but other factors also matter and the graphs show correlation only.",
+     "steps": [
+      "Graph 1: in all four populations the percentage of deaths from CVD rises as total cholesterol rises (for example Northern Europe 14.5% at 5.0 mmol dm-3 to 30% at 8.3; United States 10.8% at 4.85 to 26% at 7.75).",
+      "But total cholesterol is not the only factor: at about 5 mmol dm-3 deaths differ by region (Northern Europe about 14.5%, USA about 11%, Southern Europe inland about 8.5%, Mediterranean about 3.5%), so diet, lifestyle and other risk factors also affect CVD.",
+      "Graph 2: a high ratio of total cholesterol to HDL (above 6) raises relative risk of CVD for both LDL sizes: small LDL 1.25 to 4.9 (about 4 times) and large LDL 1.0 to 1.7.",
+      "Small LDL is more harmful than large LDL: at a ratio above 6 the relative risk is 4.9 v 1.7 (about 2.9 times), perhaps because small LDL enters the artery wall and is oxidised more easily.",
+      "Own knowledge: LDL carries cholesterol to tissues and deposits it in artery walls as atheroma, leading to atherosclerosis, blood clots and CHD; HDL carries cholesterol away to the liver, so it is protective.",
+      "Overall, lipoproteins make a large contribution (more LDL, especially small LDL, and less HDL raise risk), but the data show correlation not cause, and smoking, blood pressure, obesity, age and genetics also contribute."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-40.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-41.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-42.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q17-2.jpg",
+      "papers/biology/fig/01C-Cardiovascular-Health-Q17-3.jpg"
+     ]
     },
     {
      "id": "1C-Q18a",
@@ -7369,15 +7576,20 @@ window.BANK.biology = {
       "classification"
      ],
      "question": "Which describes the body mass of a person who is obese? The four options (A to D) use inequality symbols that are garbled in the text.",
-     "status": "pending",
-     "answer": "Pending: the inequality symbols in options A to D are garbled in the text, so the exact option cannot be confirmed. Obese means a BMI of 30 or more.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: BMI >= 30",
+     "steps": [
+      "A person with a BMI of 25 to below 30 is overweight, so obesity starts at a BMI of 30 and includes 30.",
+      "Option B (BMI greater than or equal to 30) is therefore correct; A leaves out exactly 30, and C and D describe lower BMI values."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q19.jpg"
+     ]
     },
     {
      "id": "1C-Q19b",
@@ -7423,15 +7635,21 @@ window.BANK.biology = {
       "enzyme action"
      ],
      "question": "Which row of the table describes the action of amylase in breaking down amylose into maltose?",
-     "status": "pending",
-     "answer": "Pending: the table of enzyme actions is not in the text (the correct action is hydrolysis of amylose into maltose).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: hydrolysis of 1-4 glycosidic bonds.",
+     "steps": [
+      "Amylase breaks amylose into maltose by hydrolysis, which uses water to break the bonds; condensation is the reverse reaction.",
+      "Amylose is a chain of glucose joined by 1-4 glycosidic bonds, which amylase breaks (1-6 bonds are the branch points in amylopectin).",
+      "So the row is hydrolysis, 1-4, which is C."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q19-2.jpg"
+     ]
     },
     {
      "id": "1C-Q19c(ii)",
@@ -7535,16 +7753,22 @@ window.BANK.biology = {
       "production rate"
      ],
      "question": "Calculate the mean rate of production of monacolin K in the culture over the 45-day period, to two decimal places.",
-     "status": "pending",
-     "answer": "Pending: the amounts of monacolin K at the start and end of the 45-day period are read from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "7.56 mg per 100 g of rice per day",
+     "steps": [
+      "From the graph, the concentration of monacolin K is 0 at the start and about 340 mg per 100 g at 45 days.",
+      "Mean rate = change in concentration / time = (340 - 0) / 45.",
+      "= 7.56 mg per 100 g of rice per day (to 2 decimal places)."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-47.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-48.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-49.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-50.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q20.jpg"
+     ]
     },
     {
      "id": "1C-Q20b",
@@ -7561,16 +7785,27 @@ window.BANK.biology = {
       "study design"
      ],
      "question": "Discuss the limitations of using the four studies, and the two graphs of LDL cholesterol levels, to draw conclusions about the effects of red yeast rice on lipid levels.",
-     "status": "pending",
-     "answer": "Pending: the table of four studies and Graphs 1 and 2 are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The studies are not directly comparable and show no consistent dose effect, the graphs show small groups, overlapping error bars, only short-term effects and incomplete data, so firm conclusions on RYR and lipid levels cannot be drawn.",
+     "steps": [
+      "Table: the four studies use different doses (340, 1200 and 2400 mg per day) and give inconsistent results: 340 mg lowers LDL by 21-24% yet 2400 mg lowers it by only 23% (study 3) or 32% (study 4), and 1200 mg gives 34% (study 2) or 23% (study 4); RYR products probably vary in monacolin K content.",
+      "HDL data are missing for studies 3 and 4 and conflict for 1 and 2 (no change v +18); sample sizes, duration, participants and controls are not given, and some results are ranges rather than means.",
+      "Graph 1: only 10 weeks with small groups (n = 21 or 22); the 100 mg and 200 mg lines are similar and error bars are large and overlap, so a dose effect cannot be shown.",
+      "LDL returned to about the control level within 2 weeks of stopping RYR, so the effect is short-lived, and there is no long-term data on LDL or on CVD events.",
+      "Graph 2: the time axis has no values or units, sample size and what the error bars show are not given, and the error bars overlap (for example 4.1 and 4.8) so differences may not be significant; the LDL unit and scale differ from Graph 1.",
+      "No statistical tests, different populations and possible side effects and diet are not reported, so correlation and cause cannot be separated."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-47.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-48.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-49.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-50.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q20-2.jpg",
+      "papers/biology/fig/01C-Cardiovascular-Health-Q20-3.jpg",
+      "papers/biology/fig/01C-Cardiovascular-Health-Q20-4.jpg"
+     ]
     },
     {
      "id": "1C-Q20c(i)",
@@ -8021,9 +8256,12 @@ window.BANK.biology = {
       "blood pressure calculation"
      ],
      "question": "Calculate the blood pressure of a person with systolic blood pressure 11.0 kPa and diastolic blood pressure 6.7 kPa, using the formula given in the text.",
-     "status": "pending",
-     "answer": "Pending: the blood pressure formula image is not in the text, so the exact formula cannot be confirmed. (If mean arterial pressure is intended, MAP = DBP + (SBP - DBP) / 3 = 8.1 kPa.)",
-     "steps": [],
+     "status": "ready",
+     "answer": "8.13 kPa",
+     "steps": [
+      "Blood pressure = (SBP + 2 x DBP) / 3.",
+      "= (11.0 + 2 x 6.7) / 3 = (11.0 + 13.4) / 3 = 24.4 / 3 = 8.13 kPa."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-53.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-54.jpg",
@@ -8031,7 +8269,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q23.jpg"
+     ]
     },
     {
      "id": "1C-Q23c(iv)",
@@ -8080,9 +8320,14 @@ window.BANK.biology = {
       "graphs"
      ],
      "question": "Comment on the relationships between the number of neutrophils and the proportion of healthy endothelial cells of males and females in this study, using the graphs.",
-     "status": "pending",
-     "answer": "Pending: the graphs of neutrophil number against proportion of healthy endothelial cells for males and females are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "There is a negative relationship in both sexes: more neutrophils in saliva goes with fewer healthy endothelial cells, with all high-count values below about 10 a.u. and lots of scatter at low counts.",
+     "steps": [
+      "Top graph: as neutrophils rise from 0 to 6.5 x 10^4 cells cm-3 the proportion of healthy endothelial cells tends to fall, in both males and females (a negative correlation).",
+      "Bottom graph: at a low count (2.5 or below) the proportion of healthy cells ranges from 0 to about 19.5, but at a high count (above 2.5) all values are lower, between about 1.5 and 9.5.",
+      "Males and females show the same trend, and there is no clear difference between the sexes (more of the high-count points are female, 5 v 3).",
+      "There is a wide scatter at low counts (for example 0 to 19 near 1.5), so neutrophil number is not the only factor; the relationship is a correlation only, with a small sample and no statistical test."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-53.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-54.jpg",
@@ -8090,7 +8335,9 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q23-2.jpg"
+     ]
     },
     {
      "id": "1C-Q24a",
@@ -8259,16 +8506,25 @@ window.BANK.biology = {
       "graphs"
      ],
      "question": "Discuss the usefulness of BMI and WHR in predicting death from CVD and CHD, using the graphs of BMI and WHR of men and women who died.",
-     "status": "pending",
-     "answer": "Pending: the graphs of BMI and WHR for men and women who died from CVD or CHD are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "WHR is the better predictor of death from both CVD and CHD, because it shows a steady rise in risk with increasing WHR in both sexes, while BMI gives an irregular pattern, especially in women.",
+     "steps": [
+      "WHR: percentage of deaths from CVD rises steadily and steeply at higher WHR (men about 13% at 1.05 or more; women about 9% at 0.94-0.99), and the same pattern is seen for CHD, in both sexes.",
+      "BMI: CVD deaths in men fall from about 2.7% (below 20) to 1.5% (20-24.9) then rise to about 10% at 40 or more; in women they stay below 4% and are irregular (drop at 35-39.9); for CHD, men reach 4.6% at 35-39.9 but women stay at 2% or less, so BMI is a weaker predictor.",
+      "BMI does not distinguish fat from muscle or show where fat is stored, whereas WHR shows abdominal fat, which is more strongly linked to CVD.",
+      "Both are only associations, and other risk factors were not controlled, so both are useful but WHR is better."
+     ],
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-57.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-58.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-59.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-60.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/01C-Cardiovascular-Health-Q24.jpg",
+      "papers/biology/fig/01C-Cardiovascular-Health-Q24-2.jpg",
+      "papers/biology/fig/01C-Cardiovascular-Health-Q24-3.jpg"
+     ]
     }
    ]
   },
@@ -12460,15 +12716,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Complete the diagram to show the amino acid sequence coded by a given DNA base sequence.",
-     "status": "pending",
-     "answer": "Missing: the DNA base sequence diagram and the amino acid genetic code table are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Trp - Ser - Ser - Lys - Trp (one amino acid in each box, left to right)",
+     "steps": [
+      "Split the 15 bases into triplets: TGG | AGT | AGC | AAG | TGG.",
+      "TGG = tryptophan (Trp); AGT and AGC are both serine (Ser).",
+      "AAG = lysine (Lys); the last TGG = tryptophan (Trp).",
+      "So the boxes read Trp, Ser, Ser, Lys, Trp."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-01.jpg",
       "papers/biology/img/02B-Proteins-DNA-02.jpg",
       "papers/biology/img/02B-Proteins-DNA-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q1.jpg"
+     ]
     },
     {
      "id": "2B-Q1a(ii)",
@@ -12488,15 +12751,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Explain why only five amino acids are coded by the DNA sequence shown.",
-     "status": "pending",
-     "answer": "Missing: the DNA base sequence diagram is needed to see which codons repeat.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The code is a triplet code: 3 bases code for 1 amino acid, so 15 bases give 15 / 3 = 5 amino acids.",
+     "steps": [
+      "Each amino acid is coded by a triplet of three bases (a codon).",
+      "The sequence has 15 bases, which is 15 / 3 = 5 triplets.",
+      "So only five amino acids are coded, and the code is non-overlapping so no base is used twice.",
+      "Only three different amino acids appear (Trp, Ser, Lys) because TGG is repeated and the code is degenerate (AGT and AGC both code serine)."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-01.jpg",
       "papers/biology/img/02B-Proteins-DNA-02.jpg",
       "papers/biology/img/02B-Proteins-DNA-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q1.jpg"
+     ]
     },
     {
      "id": "2B-Q1b",
@@ -12529,7 +12799,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-02.jpg",
       "papers/biology/img/02B-Proteins-DNA-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q1.jpg"
+     ]
     },
     {
      "id": "2B-Q1c(i)",
@@ -12610,15 +12882,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Choose the row of the table showing the mRNA codon and tRNA anticodon for tryptophan.",
-     "status": "pending",
-     "answer": "Missing: the table rows (options) are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: mRNA codon ACC, tRNA anticodon UGG",
+     "steps": [
+      "The table gives TGG as the DNA triplet for tryptophan, read here as the template triplet.",
+      "The mRNA codon is complementary to it: T-A, G-C, G-C gives ACC.",
+      "The tRNA anticodon is complementary to the codon: A-U, C-G, C-G gives UGG.",
+      "A and D are wrong because tRNA contains uracil, not thymine; C does not pair with its codon."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-01.jpg",
       "papers/biology/img/02B-Proteins-DNA-02.jpg",
       "papers/biology/img/02B-Proteins-DNA-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q1.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q1-2.jpg"
+     ]
     },
     {
      "id": "2B-Q2a",
@@ -12639,16 +12919,24 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Choose the diagram that shows the R group only of the amino acid AzPhe.",
-     "status": "pending",
-     "answer": "Missing: the four diagram options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "The R group is the side chain on the central carbon, not the amino or carboxyl groups.",
+      "In AzPhe this is CH2 joined to the benzene ring carrying the N3 group.",
+      "A also includes the central carbon (part of the amino acid backbone), so it is wrong.",
+      "C has no CH2 link and D is only part of the backbone, so B is correct."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-03.jpg",
       "papers/biology/img/02B-Proteins-DNA-04.jpg",
       "papers/biology/img/02B-Proteins-DNA-05.jpg",
       "papers/biology/img/02B-Proteins-DNA-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q2.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q2-2.jpg"
+     ]
     },
     {
      "id": "2B-Q2b(i)",
@@ -12699,16 +12987,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Draw two circles on the AzPhe diagram to show the parts lost in a condensation reaction.",
-     "status": "pending",
-     "answer": "Missing: the AzPhe structure diagram is needed to circle the groups.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Circle the OH of the carboxyl group (-COOH) and one H of the amino group (-NH2).",
+     "steps": [
+      "A condensation reaction releases a molecule of water as the peptide bond forms.",
+      "The OH comes from the carboxyl group at the right-hand end of AzPhe.",
+      "The H comes from the amino group (NH2) at the left-hand end.",
+      "Draw one circle round the -OH of COOH and one round a single H on the NH2 (together they make H2O)."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-03.jpg",
       "papers/biology/img/02B-Proteins-DNA-04.jpg",
       "papers/biology/img/02B-Proteins-DNA-05.jpg",
       "papers/biology/img/02B-Proteins-DNA-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q2.jpg"
+     ]
     },
     {
      "id": "2B-Q2b(iii)",
@@ -12922,15 +13217,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Complete the table showing the percentage of DNA molecules with heavy only, light only or both nitrogen at each stage.",
-     "status": "pending",
-     "answer": "Missing: the flow chart and the table are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "End of stage 1: 100% heavy only, 0 light only, 0 both. End of stage 2: 0, 0, 100% both. End of stage 3: 0, 50% light only, 50% both.",
+     "steps": [
+      "Stage 1: many generations in 15N, so all DNA is heavy only (100%).",
+      "Stage 2: one generation in 14N. Replication is semi-conservative, so each molecule has one old heavy strand and one new light strand: 100% both.",
+      "Stage 3: another generation in 14N. Each hybrid molecule makes one hybrid and one light-only molecule: 50% both, 50% light only.",
+      "Heavy only is 0% from the end of stage 2 onwards."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-06.jpg",
       "papers/biology/img/02B-Proteins-DNA-07.jpg",
       "papers/biology/img/02B-Proteins-DNA-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q3.jpg"
+     ]
     },
     {
      "id": "2B-Q4a",
@@ -12948,15 +13250,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Draw a diagram of two mononucleotides joined in a single DNA strand, using the symbols shown.",
-     "status": "pending",
-     "answer": "Missing: the symbol key the question refers to is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Pentose (pentagon) with a base (rectangle) and a phosphate (circle) attached, then the pentose of nucleotide 1 joined to the phosphate of nucleotide 2.",
+     "steps": [
+      "Mononucleotide: draw a pentagon joined by a short line to a rectangle (base) and by another line to a circle (phosphate).",
+      "Draw a second mononucleotide in the same way below the first.",
+      "Join them with a line from the pentose of the first nucleotide to the phosphate of the second (a phosphodiester bond).",
+      "The sugar-phosphate backbone reads circle - pentagon - circle - pentagon, with a base hanging off each pentagon and no line between the two bases."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-08.jpg",
       "papers/biology/img/02B-Proteins-DNA-09.jpg",
       "papers/biology/img/02B-Proteins-DNA-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q4.jpg"
+     ]
     },
     {
      "id": "2B-Q4b(i)",
@@ -12975,15 +13284,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Calculate the distance between one base and the next on one strand, given 10 base pairs per pitch.",
-     "status": "pending",
-     "answer": "Missing: the pitch length (nm) is shown on the diagram, not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.34 nm",
+     "steps": [
+      "One pitch is 3.4 nm and contains 10 base pairs, so 10 bases on each strand.",
+      "Distance between neighbouring bases = 3.4 / 10.",
+      "= 0.34 nm.",
+      "Give 2 significant figures to match the 3.4 nm in the data."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-08.jpg",
       "papers/biology/img/02B-Proteins-DNA-09.jpg",
       "papers/biology/img/02B-Proteins-DNA-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q4-2.jpg"
+     ]
     },
     {
      "id": "2B-Q4b(ii)",
@@ -13001,15 +13317,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Explain which of bases P, Q, R or S is adenine.",
-     "status": "pending",
-     "answer": "Missing: the diagram showing which of Q or R is thymine is needed.",
-     "steps": [],
+     "status": "ready",
+     "answer": "R is adenine.",
+     "steps": [
+      "Adenine pairs with thymine by two hydrogen bonds, so adenine is Q or R (P and S form three bonds, so they are cytosine and guanine).",
+      "A purine always pairs with a pyrimidine. Thymine is a single-ring pyrimidine, so adenine must have a double ring.",
+      "Q has a single ring (a pyrimidine, similar to thymine), so it cannot pair with thymine.",
+      "R has a double ring and an NH2 group, so R is adenine."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-08.jpg",
       "papers/biology/img/02B-Proteins-DNA-09.jpg",
       "papers/biology/img/02B-Proteins-DNA-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q4-3.jpg"
+     ]
     },
     {
      "id": "2B-Q4c",
@@ -13062,15 +13385,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "State the sequence of the first four amino acids coded by the DNA shown.",
-     "status": "pending",
-     "answer": "Missing: the DNA base diagram and the genetic code table are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Methionine - leucine - isoleucine - tyrosine",
+     "steps": [
+      "Read the DNA in triplets: ATG | CTC | ATT | TAC | CAT | CGA.",
+      "ATG = methionine; CTC = leucine.",
+      "ATT = isoleucine; TAC = tyrosine.",
+      "The first four amino acids are Met, Leu, Ile, Tyr."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-10.jpg",
       "papers/biology/img/02B-Proteins-DNA-11.jpg",
       "papers/biology/img/02B-Proteins-DNA-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q5.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q5-2.jpg"
+     ]
     },
     {
      "id": "2B-Q5b(i)",
@@ -13089,15 +13420,21 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Name the type of each mutation described for the DNA base sequence.",
-     "status": "pending",
-     "answer": "Missing: the DNA base sequence diagram is needed to classify the second and third mutations.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Base 3 becomes C: substitution. Base 6 becomes base 5: deletion. Base 9 becomes base 10: insertion.",
+     "steps": [
+      "Base 3 is replaced by a different base (G to C): a substitution (point mutation).",
+      "Base 6 moves into position 5, so the base before it has been lost: a deletion.",
+      "Base 9 moves to position 10, so a new base has been added in front of it: an insertion."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-10.jpg",
       "papers/biology/img/02B-Proteins-DNA-11.jpg",
       "papers/biology/img/02B-Proteins-DNA-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q5.jpg"
+     ]
     },
     {
      "id": "2B-Q5b(ii)",
@@ -13116,15 +13453,24 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Explain the possible effects of the three mutations on the amino acid sequence, using the code table.",
-     "status": "pending",
-     "answer": "Missing: the DNA base sequence diagram and genetic code table are needed.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Substitution: only one amino acid changes (Met to Ile). Deletion and insertion: frameshift, so every amino acid after the mutation can change.",
+     "steps": [
+      "Original: ATG CTC ATT TAC CAT CGA = Met-Leu-Ile-Tyr-His-Arg.",
+      "Substitution of base 3 (G to C): ATC CTC ATT ... so the first amino acid becomes isoleucine, the others stay the same. Effect is small (one amino acid), though it could still alter protein shape.",
+      "Deletion (base 5 lost): ATG CCA TTT ACC ATC GA = Met-Pro-Phe-Thr-Ile. The reading frame shifts, so all amino acids after the first change.",
+      "Insertion (extra base X before base 9): ATG CTC ATX TTA CCA TCG = Met-Leu-Ile (or Met if X is G)-Leu-Pro-Ser. The first two are unchanged but all later ones change.",
+      "Insertions and deletions are frameshift mutations and are usually more harmful than a substitution, because the protein is likely to be non-functional."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-10.jpg",
       "papers/biology/img/02B-Proteins-DNA-11.jpg",
       "papers/biology/img/02B-Proteins-DNA-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q5.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q5-2.jpg"
+     ]
     },
     {
      "id": "2B-Q6a",
@@ -13208,16 +13554,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Using the diagrams of warfarin and vitamin K, suggest why warfarin inhibits prothrombin synthesis.",
-     "status": "pending",
-     "answer": "Missing: the structure diagrams of warfarin and vitamin K are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Warfarin has a similar shape to vitamin K, so it binds to the active site of VKOR (competitive inhibition) and less reduced vitamin K is made.",
+     "steps": [
+      "Warfarin and vitamin K both have a similar ring structure with C=O/O groups, so their shapes are similar.",
+      "So warfarin fits the active site of VKOR and acts as a competitive inhibitor.",
+      "Vitamin K cannot bind, so it is not converted to reduced vitamin K.",
+      "Without reduced vitamin K, prothrombin cannot be synthesised."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-12.jpg",
       "papers/biology/img/02B-Proteins-DNA-13.jpg",
       "papers/biology/img/02B-Proteins-DNA-14.jpg",
       "papers/biology/img/02B-Proteins-DNA-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q6.jpg"
+     ]
     },
     {
      "id": "2B-Q6c(ii)",
@@ -13273,16 +13626,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Explain how the study shown should be designed so that warfarin and drug X can be compared.",
-     "status": "pending",
-     "answer": "Missing: the study diagram comparing warfarin and drug X is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Use similar, equal-sized groups, the same doses and conditions, and measure prothrombin at the same times, repeating the test.",
+     "steps": [
+      "Groups A and B should be large and of the same size, with people of similar age, sex and health, so that differences are due to the drug.",
+      "The same dose of each drug and the same amount of vitamin K must be given, by the same method and over the same period.",
+      "Prothrombin must be measured in the same way and at the same time(s) in both groups, ideally also before treatment as a baseline.",
+      "Repeat or use many people and compare the means, so the comparison is reliable."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-12.jpg",
       "papers/biology/img/02B-Proteins-DNA-13.jpg",
       "papers/biology/img/02B-Proteins-DNA-14.jpg",
       "papers/biology/img/02B-Proteins-DNA-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q6-2.jpg"
+     ]
     },
     {
      "id": "2B-Q7a",
@@ -13316,7 +13676,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-17.jpg",
       "papers/biology/img/02B-Proteins-DNA-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q7.jpg"
+     ]
     },
     {
      "id": "2B-Q7b(i)",
@@ -13337,15 +13699,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Give the sequence of amino acids coded for by the bases shown on the antisense strand.",
-     "status": "pending",
-     "answer": "Missing: the base sequence diagram of the template strand is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Methionine - alanine - cysteine - proline - isoleucine - leucine",
+     "steps": [
+      "Read the bases in triplets: ATG | GCT | TGC | CCG | ATC | CTA.",
+      "ATG = methionine; GCT = alanine; TGC = cysteine.",
+      "CCG = proline; ATC = isoleucine; CTA = leucine.",
+      "Sequence: Met - Ala - Cys - Pro - Ile - Leu."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-16.jpg",
       "papers/biology/img/02B-Proteins-DNA-17.jpg",
       "papers/biology/img/02B-Proteins-DNA-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q7.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q7-2.jpg"
+     ]
     },
     {
      "id": "2B-Q7b(ii)",
@@ -13365,15 +13735,24 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Explain the possible effects on a protein of a substitution mutation at the 9th base of the strand.",
-     "status": "pending",
-     "answer": "Missing: the base sequence and genetic code table are needed to work out the effect.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Base 9 is the last base of codon 3 (TGC, cysteine). The mutation could give no change (TGT), a different amino acid (TGG, Trp) or a stop codon (TGA).",
+     "steps": [
+      "Bases 7-9 are TGC, which codes for cysteine.",
+      "TGT: still cysteine, a silent mutation because the code is degenerate, so the protein is unchanged.",
+      "TGG: tryptophan replaces cysteine (missense). A different R group may alter bonding, tertiary structure and function.",
+      "TGA: a stop codon, so translation ends after two amino acids and a short, non-functional protein is made.",
+      "The effect therefore depends on which base replaces C."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-16.jpg",
       "papers/biology/img/02B-Proteins-DNA-17.jpg",
       "papers/biology/img/02B-Proteins-DNA-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q7.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q7-2.jpg"
+     ]
     },
     {
      "id": "2B-Q8a(i)",
@@ -13391,9 +13770,14 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Choose the diagram showing the sequence of events for the hydrolysis of lactose.",
-     "status": "pending",
-     "answer": "Missing: the symbol diagrams are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "Lactose (two joined sugars) binds to the active site to form an enzyme-substrate complex.",
+      "The bond is hydrolysed and the two separate monosaccharides leave the enzyme.",
+      "The enzyme is unchanged at the end.",
+      "A shows lactose released still joined; C shows joining (synthesis); D starts with monosaccharides, not lactose."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-18.jpg",
       "papers/biology/img/02B-Proteins-DNA-19.jpg",
@@ -13401,7 +13785,10 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-21.jpg",
       "papers/biology/img/02B-Proteins-DNA-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q8.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q8-2.jpg"
+     ]
     },
     {
      "id": "2B-Q8a(ii)",
@@ -13452,9 +13839,14 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which row of the table describes line P and identifies the letter showing the decrease in activation energy due to lactase?",
-     "status": "pending",
-     "answer": "Missing: the energy graph and table rows are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: line P is the reaction without enzyme; the decrease in activation energy is Q.",
+     "steps": [
+      "Line P has the higher energy peak, so it is the reaction without enzyme.",
+      "Activation energy is the energy needed to reach the peak from the starting level.",
+      "The enzyme lowers the peak, and the difference between the two peaks is Q.",
+      "R is the activation energy that remains with the enzyme, so the answer is C."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-18.jpg",
       "papers/biology/img/02B-Proteins-DNA-19.jpg",
@@ -13462,7 +13854,10 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-21.jpg",
       "papers/biology/img/02B-Proteins-DNA-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q8-3.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q8-4.jpg"
+     ]
     },
     {
      "id": "2B-Q8c(i)",
@@ -13497,7 +13892,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-21.jpg",
       "papers/biology/img/02B-Proteins-DNA-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q8-5.jpg"
+     ]
     },
     {
      "id": "2B-Q8c(ii)",
@@ -13517,9 +13914,14 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Calculate the reaction rate (V) at a substrate concentration of 4 a.u. using the given formula.",
-     "status": "pending",
-     "answer": "Missing: the values of Vmax and K (from the graph) are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "33 a.u. (33.3)",
+     "steps": [
+      "Vmax is the plateau of the graph: 50 a.u.",
+      "K is the concentration at half Vmax (25 a.u.), read from the curve as about 2 a.u.",
+      "V = (Vmax x S) / (K + S) = (50 x 4) / (2 + 4).",
+      "= 200 / 6 = 33.3, so about 33 a.u."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-18.jpg",
       "papers/biology/img/02B-Proteins-DNA-19.jpg",
@@ -13527,7 +13929,9 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-21.jpg",
       "papers/biology/img/02B-Proteins-DNA-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q8-5.jpg"
+     ]
     },
     {
      "id": "2B-Q9a(i)",
@@ -13545,16 +13949,23 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Draw a circle around one mononucleotide that includes the base labelled R.",
-     "status": "pending",
-     "answer": "Missing: the DNA diagram showing base R is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Circle the base R, the pentose it is joined to and one phosphate attached to that pentose.",
+     "steps": [
+      "A mononucleotide is one phosphate, one pentose sugar and one base.",
+      "R is the base in the right-hand strand, third row.",
+      "Draw one loop round R, the pentagon joined to it and the phosphate circle linked to that pentagon.",
+      "Do not include the base on the other strand or a second pentose."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-22.jpg",
       "papers/biology/img/02B-Proteins-DNA-23.jpg",
       "papers/biology/img/02B-Proteins-DNA-24.jpg",
       "papers/biology/img/02B-Proteins-DNA-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q9.jpg"
+     ]
     },
     {
      "id": "2B-Q9a(ii)",
@@ -13573,16 +13984,24 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which row of the table identifies the bonds labelled S, T and U?",
-     "status": "pending",
-     "answer": "Missing: the diagram and table rows are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: S phosphodiester, T covalent, U hydrogen",
+     "steps": [
+      "S is the bond between a phosphate and a pentose in the sugar-phosphate backbone: a phosphodiester bond.",
+      "T is the bond joining a base to its pentose: a covalent bond.",
+      "U is between the two bases of a pair: a hydrogen bond.",
+      "So the row is phosphodiester, covalent, hydrogen (D)."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-22.jpg",
       "papers/biology/img/02B-Proteins-DNA-23.jpg",
       "papers/biology/img/02B-Proteins-DNA-24.jpg",
       "papers/biology/img/02B-Proteins-DNA-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q9.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q9-2.jpg"
+     ]
     },
     {
      "id": "2B-Q9a(iii)",
@@ -13602,16 +14021,22 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Given base P is adenine, which base is labelled Q (A cytosine, B guanine, C thymine, D uracil)?",
-     "status": "pending",
-     "answer": "Missing: the diagram showing where Q sits relative to P is needed to confirm the pairing.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: thymine",
+     "steps": [
+      "P and Q are a base pair joined by two hydrogen bonds (two dashes).",
+      "Adenine pairs with thymine by two hydrogen bonds.",
+      "So Q is thymine (guanine and cytosine form three bonds; uracil is not found in DNA)."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-22.jpg",
       "papers/biology/img/02B-Proteins-DNA-23.jpg",
       "papers/biology/img/02B-Proteins-DNA-24.jpg",
       "papers/biology/img/02B-Proteins-DNA-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q9.jpg"
+     ]
     },
     {
      "id": "2B-Q9b(i)",
@@ -13631,16 +14056,24 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Complete the diagram to show the DNA density bands after each stage of the Meselson and Stahl experiment.",
-     "status": "pending",
-     "answer": "Missing: the flow chart and band diagram are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Stage 2: one band on the middle dotted line. Stage 3: bands at the top and middle lines, each half height. Stage 4: bands at the top and middle lines, top three times taller than the middle one.",
+     "steps": [
+      "Heavy DNA is lowest, hybrid (15N/14N) is in the middle and light DNA is at the top dotted line.",
+      "After stage 2: all DNA is hybrid, so one full-height band on the middle line.",
+      "After stage 3: 50% hybrid, 50% light, so two bands (top and middle line), each half the height of the stage 1 band.",
+      "After stage 4: 25% hybrid and 75% light, so a band at the top line three times the height of the band on the middle line."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-22.jpg",
       "papers/biology/img/02B-Proteins-DNA-23.jpg",
       "papers/biology/img/02B-Proteins-DNA-24.jpg",
       "papers/biology/img/02B-Proteins-DNA-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q9-3.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q9-4.jpg"
+     ]
     },
     {
      "id": "2B-Q9b(ii)",
@@ -13659,16 +14092,24 @@ window.BANK.biology = {
       "ial biology"
      ],
      "question": "Which diagram shows the bands at stage 2 if the dispersive theory were correct?",
-     "status": "pending",
-     "answer": "Missing: the diagram options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D",
+     "steps": [
+      "In the dispersive theory each new molecule is a mixture of old heavy and new light DNA.",
+      "So at stage 2 all the DNA has the same intermediate density.",
+      "This gives one band, in the middle position of the gradient.",
+      "A and C show two bands (heavy and light, conservative); B also shows two bands, so D is correct."
+     ],
      "images": [
       "papers/biology/img/02B-Proteins-DNA-22.jpg",
       "papers/biology/img/02B-Proteins-DNA-23.jpg",
       "papers/biology/img/02B-Proteins-DNA-24.jpg",
       "papers/biology/img/02B-Proteins-DNA-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02B-Proteins-DNA-Q9-5.jpg",
+      "papers/biology/fig/02B-Proteins-DNA-Q9-6.jpg"
+     ]
     },
     {
      "id": "2B-Q10",
@@ -17816,15 +18257,21 @@ window.BANK.biology = {
       "base sequence"
      ],
      "question": "State the sequence of the first four amino acids coded for by the length of DNA shown in the diagram, using the codon table.",
-     "status": "pending",
-     "answer": "Pending: the DNA base diagram and the codon table are not in the text, so the amino acid sequence cannot be read.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Methionine - leucine - isoleucine - tyrosine",
+     "steps": [
+      "Split the DNA into triplets from base 1: ATG | CTC | ATT | TAC | CAT | CGA.",
+      "Read each triplet in the table: ATG = methionine, CTC = leucine, ATT = isoleucine, TAC = tyrosine.",
+      "Only the first four triplets are needed, so the sequence is Met - Leu - Ile - Tyr."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-01.jpg",
       "papers/biology/img/02C-Gene-Expression-02.jpg",
       "papers/biology/img/02C-Gene-Expression-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q1.jpg"
+     ]
     },
     {
      "id": "2C-Q1b(i)",
@@ -17872,15 +18319,23 @@ window.BANK.biology = {
       "genetic code"
      ],
      "question": "Explain the possible effects of the substitution, deletion and insertion on the amino acid sequence, using the codon table.",
-     "status": "pending",
-     "answer": "Pending: the base sequence in the diagram is needed to show which codons change.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Substitution: one codon changes, so at most one amino acid changes. Deletion and insertion: frameshift, so every codon after the change is altered.",
+     "steps": [
+      "Substitution of base 3 (G to C) changes the first triplet ATG (methionine) to ATC (isoleucine), so only one amino acid is different; the rest of the sequence is unchanged. A substitution could also be silent if the new triplet still codes for the same amino acid (degenerate code).",
+      "Deletion (a base lost before base 6) shifts the reading frame, so all triplets after the deletion are read differently. For example, losing base 4 gives Met - Ser - Phe - Thr - Ile instead of Met - Leu - Ile - Tyr - His - Arg.",
+      "Insertion (an extra base before base 9) also shifts the reading frame, but triplets before the insertion are unchanged, so Met and Leu are kept and the later amino acids change (for example Met - Leu - Ile - Leu - Pro - Ser).",
+      "A frameshift can create a stop codon (TAA, TAG or TGA), giving a shortened polypeptide, or change many amino acids, so the protein folds differently and may not work.",
+      "Frameshift mutations are therefore usually more damaging than a single-base substitution."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-01.jpg",
       "papers/biology/img/02C-Gene-Expression-02.jpg",
       "papers/biology/img/02C-Gene-Expression-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q1.jpg"
+     ]
     },
     {
      "id": "2C-Q2a",
@@ -17981,15 +18436,22 @@ window.BANK.biology = {
       "data table"
      ],
      "question": "Explain, using the table, how the data show a correlation between the age of the mother and the miscarriage rate.",
-     "status": "pending",
-     "answer": "Pending: the miscarriage rate table with the ages is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "As age increases, the miscarriage rate of embryos not screened for aneuploidy rises steadily (12.0% to 58.8%), a positive correlation.",
+     "steps": [
+      "In the unscreened column the rate rises with every age band: 12.0% (<35), 16.8, 25.0, 37.9 and 58.8% (>42).",
+      "So older women have a higher miscarriage rate: a positive correlation.",
+      "The rate is almost five times greater in the oldest group than the youngest (58.8 / 12.0 = 4.9).",
+      "Quote figures from at least two age groups to gain the data mark."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-04.jpg",
       "papers/biology/img/02C-Gene-Expression-05.jpg",
       "papers/biology/img/02C-Gene-Expression-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q3.jpg"
+     ]
     },
     {
      "id": "2C-Q3b(i)",
@@ -18005,15 +18467,22 @@ window.BANK.biology = {
       "data table"
      ],
      "question": "Explain the conclusions that can be drawn from the data about the causes of miscarriage.",
-     "status": "pending",
-     "answer": "Pending: the miscarriage rate table for screened and unscreened embryos is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Aneuploidy is a major cause of miscarriage, especially in older women, but it is not the only cause.",
+     "steps": [
+      "Screening removes aneuploid embryos and lowers the miscarriage rate in every age group, so aneuploidy is a cause of miscarriage.",
+      "The fall is much larger in older women (58.8% to 17.2% for >42 compared with 12.0% to 11.2% for <35), so aneuploidy accounts for most of the age effect.",
+      "Screened embryos still miscarry (11.2 to 17.2%), so other factors also cause miscarriage.",
+      "The rate in screened embryos still rises slightly with age (11.2% to 17.2%), so maternal age has a small effect that is independent of aneuploidy."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-04.jpg",
       "papers/biology/img/02C-Gene-Expression-05.jpg",
       "papers/biology/img/02C-Gene-Expression-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q3.jpg"
+     ]
     },
     {
      "id": "2C-Q3b(ii)",
@@ -18043,7 +18512,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-05.jpg",
       "papers/biology/img/02C-Gene-Expression-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q3.jpg"
+     ]
     },
     {
      "id": "2C-Q3c",
@@ -18090,16 +18561,24 @@ window.BANK.biology = {
       "codon table"
      ],
      "question": "Explain the nature of the genetic code, using the codon table.",
-     "status": "pending",
-     "answer": "Pending: the codon table is not in the text, so the points about degeneracy and codons cannot be checked against it.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The code is a triplet code, degenerate, non-overlapping and universal, with a start codon (ATG) and three stop codons.",
+     "steps": [
+      "Triplet code: three bases (a codon) code for one amino acid; 4^3 = 64 possible codons, more than enough for the 20 amino acids.",
+      "Degenerate: most amino acids have more than one codon, for example ATA, ATC and ATT all code for isoleucine; only methionine (ATG) and tryptophan (TGG) have a single codon.",
+      "Stop codons: TAA, TAG and TGA do not code for an amino acid and end translation; ATG (methionine) is the start codon.",
+      "Non-overlapping: each base belongs to only one codon and the sequence is read in order from a fixed start point.",
+      "Universal: the same codons code for the same amino acids in almost all organisms."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-06.jpg",
       "papers/biology/img/02C-Gene-Expression-07.jpg",
       "papers/biology/img/02C-Gene-Expression-08.jpg",
       "papers/biology/img/02C-Gene-Expression-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q4.jpg"
+     ]
     },
     {
      "id": "2C-Q4b(i)",
@@ -18115,16 +18594,24 @@ window.BANK.biology = {
       "base sequence"
      ],
      "question": "Give the sequence of amino acids coded for by the bases in the antisense strand shown in the diagram.",
-     "status": "pending",
-     "answer": "Pending: the base sequence of the antisense strand is in the diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Tyrosine - arginine - threonine - glycine, then a stop codon (TAG)",
+     "steps": [
+      "The table lists codons as they appear on the sense strand, so first write the complement of the template (antisense) strand ATGGCTTGCCCGATCCTA: TACCGAACGGGCTAGGAT.",
+      "Split into triplets: TAC | CGA | ACG | GGC | TAG | GAT.",
+      "Read the table: TAC = tyrosine, CGA = arginine, ACG = threonine, GGC = glycine, TAG = stop codon, so translation ends there.",
+      "Common error: reading the antisense bases directly (ATG GCT TGC ...) ignores that this strand is the template."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-06.jpg",
       "papers/biology/img/02C-Gene-Expression-07.jpg",
       "papers/biology/img/02C-Gene-Expression-08.jpg",
       "papers/biology/img/02C-Gene-Expression-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q4.jpg",
+      "papers/biology/fig/02C-Gene-Expression-Q4-2.jpg"
+     ]
     },
     {
      "id": "2C-Q4b(ii)",
@@ -18141,16 +18628,25 @@ window.BANK.biology = {
       "antisense strand"
      ],
      "question": "Explain the possible effects on a protein of a substitution mutation at the 9th base of the antisense strand, using the codon table.",
-     "status": "pending",
-     "answer": "Pending: the base sequence in the diagram and the codon table are needed to work out the effect.",
-     "steps": [],
+     "status": "ready",
+     "answer": "No effect on the protein: base 9 is the third base of the threonine codon, and any substitution there still codes for threonine (silent mutation).",
+     "steps": [
+      "Base 9 of the template pairs with base 9 of the sense strand, which is the third base of the third codon, ACG (threonine).",
+      "Replacing the template base C with A, G or T changes the sense codon to ACT, ACC or ACA.",
+      "ACA, ACC, ACG and ACT all code for threonine, because the genetic code is degenerate.",
+      "The amino acid sequence (primary structure) is unchanged, so the protein folds and functions normally: a silent mutation.",
+      "Only one codon is affected and the reading frame is not shifted, so no other amino acids change."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-06.jpg",
       "papers/biology/img/02C-Gene-Expression-07.jpg",
       "papers/biology/img/02C-Gene-Expression-08.jpg",
       "papers/biology/img/02C-Gene-Expression-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q4.jpg",
+      "papers/biology/fig/02C-Gene-Expression-Q4-2.jpg"
+     ]
     },
     {
      "id": "2C-Q5a",
@@ -18279,14 +18775,22 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Complete the table of blood clotting components by filling in the names, roles or solubility of each component.",
-     "status": "pending",
-     "answer": "Pending: the table of blood clotting components is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Thromboplastin: converts (activates) prothrombin to thrombin. Row 2: thrombin, soluble. Fibrin: insoluble; forms a mesh of fibres that traps platelets and red blood cells to form a clot.",
+     "steps": [
+      "Thromboplastin role: released from damaged tissue and platelets; it catalyses (with calcium ions) the conversion of soluble prothrombin into thrombin.",
+      "Row 2 name: thrombin, because it is the enzyme that catalyses the conversion of fibrinogen into fibrin. Its solubility: soluble.",
+      "Fibrin role 1: forms a mesh (network) of long fibres across the wound.",
+      "Fibrin role 2: the mesh traps platelets and red blood cells to form a clot (scab) that seals the wound and prevents blood loss and entry of pathogens.",
+      "Fibrin solubility: insoluble, so the clot stays in place (fibrinogen is its soluble precursor)."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-10.jpg",
       "papers/biology/img/02C-Gene-Expression-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q6.jpg"
+     ]
     },
     {
      "id": "2C-Q6b",
@@ -18448,15 +18952,22 @@ window.BANK.biology = {
       "orange tigers"
      ],
      "question": "Determine the expected phenotypic ratio of orange to white tigers born to the parents in the pedigree, using a genetic diagram.",
-     "status": "pending",
-     "answer": "Pending: the pedigree diagram showing the parents' phenotypes is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "3 orange : 1 white (both parents carry the recessive allele: Oo x Oo gives OO, Oo, Oo, oo).",
+     "steps": [
+      "Both parents are orange but they have white offspring, so white is recessive; let O = orange (dominant) and o = white.",
+      "Each parent must be heterozygous (Oo), since each passes o to a white (oo) cub.",
+      "Gametes: O or o from each parent. Punnett square: OO, Oo, Oo, oo.",
+      "Three genotypes (OO, Oo, Oo) give orange and one (oo) gives white, so the expected ratio is 3 orange : 1 white."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-12.jpg",
       "papers/biology/img/02C-Gene-Expression-13.jpg",
       "papers/biology/img/02C-Gene-Expression-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q8.jpg"
+     ]
     },
     {
      "id": "2C-Q8d",
@@ -18500,16 +19011,23 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the percentage decrease in the diameter of the trachea lumen in a person with cystic fibrosis, measured between X and Y on each diagram.",
-     "status": "pending",
-     "answer": "Pending: the lumen measurements from the trachea diagrams are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 33% decrease (accept roughly 30 to 37%)",
+     "steps": [
+      "Measure X to Y on each diagram, using the same scale: without cystic fibrosis about 149 units; with cystic fibrosis about 100 units (on the page image; a ruler in cm gives the same ratio).",
+      "Decrease = 149 - 100 = 49 units.",
+      "Percentage decrease = 49 / 149 x 100 = 33%.",
+      "Working in the same units for both diagrams and dividing by the original (without cystic fibrosis) value is what gains the marks."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-14.jpg",
       "papers/biology/img/02C-Gene-Expression-15.jpg",
       "papers/biology/img/02C-Gene-Expression-16.jpg",
       "papers/biology/img/02C-Gene-Expression-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q9.jpg"
+     ]
     },
     {
      "id": "2C-Q9a(ii)",
@@ -18526,16 +19044,24 @@ window.BANK.biology = {
       "airway"
      ],
      "question": "Explain why cystic fibrosis causes the differences shown in the trachea diagrams.",
-     "status": "pending",
-     "answer": "Pending: the differences shown in the trachea diagrams are not described in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Faulty CFTR causes thick mucus that builds up and narrows the lumen; infection then inflames the airway muscle, narrowing it further.",
+     "steps": [
+      "A mutated CFTR gene makes a faulty chloride ion channel protein, so chloride ions are not moved out of the airway cells.",
+      "Less water moves out of the cells by osmosis, so the mucus is thick and sticky and forms a thick layer on the airway wall (the mucus layer in the diagram).",
+      "Cilia cannot move thick mucus up and out of the trachea, so it accumulates and narrows the lumen.",
+      "Trapped bacteria and other pathogens cause repeated infection and an immune response (inflammation).",
+      "The muscle in the trachea wall becomes inflamed and swollen (thicker), which narrows the lumen even more, making breathing difficult."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-14.jpg",
       "papers/biology/img/02C-Gene-Expression-15.jpg",
       "papers/biology/img/02C-Gene-Expression-16.jpg",
       "papers/biology/img/02C-Gene-Expression-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q9.jpg"
+     ]
     },
     {
      "id": "2C-Q9b(i)",
@@ -18565,7 +19091,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-16.jpg",
       "papers/biology/img/02C-Gene-Expression-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q9-2.jpg"
+     ]
     },
     {
      "id": "2C-Q9b(ii)",
@@ -18644,16 +19172,24 @@ window.BANK.biology = {
       "reproductive"
      ],
      "question": "Explain why very thick, sticky mucus results in the health problems shown in the diagram for a female with cystic fibrosis.",
-     "status": "pending",
-     "answer": "Pending: the diagram showing the health problems is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Thick mucus blocks tubes: in the lungs it blocks airways and causes infections; in the pancreas it blocks enzyme release; in the reproductive tract it blocks the movement of gametes.",
+     "steps": [
+      "Breathing difficulties: thick mucus blocks the airways and cannot be moved by cilia, so air flow and gas exchange are reduced.",
+      "Mucus also traps bacteria in the lungs, which leads to repeated infections and inflammation.",
+      "Problems absorbing nutrients: mucus blocks the pancreatic duct, so digestive enzymes (lipase, protease, amylase) cannot reach the small intestine.",
+      "Food is therefore not fully digested, and mucus on the gut wall also reduces absorption, so nutrients are not absorbed.",
+      "Infertility: thick mucus blocks the oviducts or thickens cervical mucus, so sperm cannot reach the egg and fertilisation is less likely."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-17.jpg",
       "papers/biology/img/02C-Gene-Expression-18.jpg",
       "papers/biology/img/02C-Gene-Expression-19.jpg",
       "papers/biology/img/02C-Gene-Expression-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q10.jpg"
+     ]
     },
     {
      "id": "2C-Q10c(i)",
@@ -18669,16 +19205,22 @@ window.BANK.biology = {
       "cystic fibrosis"
      ],
      "question": "Which is the change in chloride ion concentration in sweat when CFTR function falls from 100% to 18%? Options: A 15, B 35, C 40, D 80 mmol dm^-3.",
-     "status": "pending",
-     "answer": "Pending: the values must be read from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 40 mmol dm^-3",
+     "steps": [
+      "Read the graph at 100% CFTR function: chloride concentration about 20 mmol dm^-3.",
+      "At 18% CFTR function the point is at 60 mmol dm^-3.",
+      "Change = 60 - 20 = 40 mmol dm^-3, which is option C."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-17.jpg",
       "papers/biology/img/02C-Gene-Expression-18.jpg",
       "papers/biology/img/02C-Gene-Expression-19.jpg",
       "papers/biology/img/02C-Gene-Expression-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q10-2.jpg"
+     ]
     },
     {
      "id": "2C-Q10c(ii)",
@@ -18694,16 +19236,23 @@ window.BANK.biology = {
       "evidence"
      ],
      "question": "Explain how the graph of chloride concentration against CFTR function provides evidence that cystic fibrosis results from different mutations in the CFTR gene.",
-     "status": "pending",
-     "answer": "Pending: the graph data are needed to show the range of CFTR function values.",
-     "steps": [],
+     "status": "ready",
+     "answer": "People with cystic fibrosis have a range of CFTR function (3 to 18%) and different sweat chloride levels, so the CFTR protein is altered in different ways by different mutations.",
+     "steps": [
+      "Individuals with cystic fibrosis have 18% function or less, but the graph shows different values (about 3%, 10% and 18%).",
+      "Their sweat chloride concentrations differ (about 100, 73 and 60 mmol dm^-3).",
+      "Different mutations change the base sequence and amino acid sequence differently, so the protein folds differently and keeps different amounts of function.",
+      "If there were only one mutation, all people with cystic fibrosis would show the same level of function."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-17.jpg",
       "papers/biology/img/02C-Gene-Expression-18.jpg",
       "papers/biology/img/02C-Gene-Expression-19.jpg",
       "papers/biology/img/02C-Gene-Expression-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q10-2.jpg"
+     ]
     },
     {
      "id": "2C-Q11a",
@@ -18777,16 +19326,22 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Describe the correlations shown by the graphs of skin cancer incidence in males and females from 2000 to 2005.",
-     "status": "pending",
-     "answer": "Pending: the graphs of skin cancer incidence are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Incidence of skin cancer rises with age in both sexes (positive correlation), and it also rises from 2000 to 2005.",
+     "steps": [
+      "Age: for every year shown, incidence increases as age increases, slowly at first and very steeply after 50 (a positive correlation), in both males and females.",
+      "Year: incidence increases from 2000 to 2005 at each age; for males over 80 it rises from about 70 to about 220 per 100 000, and for females over 80 from about 35 to about 105.",
+      "Both correlations are positive. Quote figures from the graphs to support them."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-20.jpg",
       "papers/biology/img/02C-Gene-Expression-21.jpg",
       "papers/biology/img/02C-Gene-Expression-22.jpg",
       "papers/biology/img/02C-Gene-Expression-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q11.jpg"
+     ]
     },
     {
      "id": "2C-Q11b(iii)",
@@ -18803,16 +19358,22 @@ window.BANK.biology = {
       "females"
      ],
      "question": "Suggest a reason for each of the correlations shown by the skin cancer graphs.",
-     "status": "pending",
-     "answer": "Pending: the trends in the graphs are needed to give specific reasons for each correlation.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Age: longer cumulative exposure to UV and more mutations accumulate in older people. Year: UV exposure or detection of skin cancer increased over 2000 to 2005.",
+     "steps": [
+      "With age, people have had more years of exposure to UV light, so more mutations have built up in skin cells (and DNA repair and immune surveillance become less effective).",
+      "Over the years 2000 to 2005, exposure to UV may have increased (more sunbathing, tanning beds, thinner ozone layer).",
+      "Alternatively, more screening and awareness of skin cancer leads to more cases being diagnosed, or the population has aged."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-20.jpg",
       "papers/biology/img/02C-Gene-Expression-21.jpg",
       "papers/biology/img/02C-Gene-Expression-22.jpg",
       "papers/biology/img/02C-Gene-Expression-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q11.jpg"
+     ]
     },
     {
      "id": "2C-Q11c",
@@ -18829,16 +19390,24 @@ window.BANK.biology = {
       "criticise"
      ],
      "question": "Criticise the design of the study of the incidence of emphysema in smokers and non-smokers, using the table.",
-     "status": "pending",
-     "answer": "Pending: the table of the emphysema study is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Study too small, with unequal and very few smokers, age and other variables not controlled, and the results are inconsistent between the sexes.",
+     "steps": [
+      "Sample size is small (25 males, 25 females) and only 5 male and 6 female smokers, so results may not be reliable or representative.",
+      "Smokers and non-smokers are very unequal in number (5 v 20 males, 6 v 19 females), which makes comparison between the groups unreliable.",
+      "Results are inconsistent between the sexes: 1 of 5 male smokers (20%) but 6 of 6 female smokers (100%) had emphysema, so it is not clear that smoking is the only cause.",
+      "Age range is wide (32 to 77 years) and other variables (pollution, occupation, family history, how many cigarettes and for how long) are not controlled or recorded, so confounding factors are possible.",
+      "No statistical test was applied, so it is not known whether the difference is significant; a correlation does not prove smoking causes emphysema, and smoking status may be self-reported."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-20.jpg",
       "papers/biology/img/02C-Gene-Expression-21.jpg",
       "papers/biology/img/02C-Gene-Expression-22.jpg",
       "papers/biology/img/02C-Gene-Expression-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q11-2.jpg"
+     ]
     },
     {
      "id": "2C-Q12a",
@@ -18967,15 +19536,21 @@ window.BANK.biology = {
       "individuals"
      ],
      "question": "Complete the pedigree diagram: individual 7 as a male taster, individual 8 as a male non-taster, individual 9 as a female taster.",
-     "status": "pending",
-     "answer": "Pending: the pedigree diagram is not in the text, so the symbols cannot be placed.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Individual 7: unshaded square (male taster); individual 8: filled (black) square (male non-taster); individual 9: unshaded circle (female taster).",
+     "steps": [
+      "Use the key: squares are males and circles are females; unshaded means taster and filled (black) means non-taster.",
+      "7 is a male taster, so draw an unshaded square at the end of the line next to 6.",
+      "8 is a male non-taster, so draw a filled square; 9 is a female taster, so draw an unshaded circle, both joined below the parents."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-25.jpg",
       "papers/biology/img/02C-Gene-Expression-26.jpg",
       "papers/biology/img/02C-Gene-Expression-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q13.jpg"
+     ]
     },
     {
      "id": "2C-Q13b(i)",
@@ -19004,7 +19579,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-26.jpg",
       "papers/biology/img/02C-Gene-Expression-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q13.jpg"
+     ]
     },
     {
      "id": "2C-Q13b(ii)",
@@ -19032,7 +19609,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-26.jpg",
       "papers/biology/img/02C-Gene-Expression-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q13.jpg"
+     ]
     },
     {
      "id": "2C-Q13c",
@@ -19048,15 +19627,21 @@ window.BANK.biology = {
       "ptc"
      ],
      "question": "Explain which allele is dominant, using the information in the pedigree diagram.",
-     "status": "pending",
-     "answer": "Pending: the pedigree diagram is needed to see which phenotype appears in offspring of non-taster parents.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Taster is dominant: tasters 1 and 2 have a non-taster daughter (6), so both carry the recessive non-taster allele, which is masked in them.",
+     "steps": [
+      "Individuals 1 and 2 are both tasters but they have a non-taster child (individual 6).",
+      "The non-taster allele must therefore be present, but hidden, in both parents, so it is recessive.",
+      "So the taster allele is the dominant one: it is expressed even when the non-taster allele is also present (parents Tt and Tt, child tt)."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-25.jpg",
       "papers/biology/img/02C-Gene-Expression-26.jpg",
       "papers/biology/img/02C-Gene-Expression-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q13.jpg"
+     ]
     },
     {
      "id": "2C-Q13d",
@@ -19073,15 +19658,21 @@ window.BANK.biology = {
       "gene location"
      ],
      "question": "Explain why this gene is unlikely to be located on the X chromosome, using the pedigree diagram.",
-     "status": "pending",
-     "answer": "Pending: the pedigree diagram is needed to show male-to-male transmission or the pattern in the family.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The non-taster daughter (6) has a taster father (1); if the gene were X-linked recessive her father would also have to be a non-taster.",
+     "steps": [
+      "Individual 6 is a female non-taster, so (if non-tasting were recessive and X-linked) she would have two recessive alleles on her X chromosomes.",
+      "She must have inherited one X chromosome from her father, individual 1, so he would also carry the recessive allele and be a non-taster.",
+      "Individual 1 is a taster, so this pattern does not fit X-linked inheritance and the gene is more likely to be on an autosome."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-25.jpg",
       "papers/biology/img/02C-Gene-Expression-26.jpg",
       "papers/biology/img/02C-Gene-Expression-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q13.jpg"
+     ]
     },
     {
      "id": "2C-Q14a(i)",
@@ -19213,15 +19804,21 @@ window.BANK.biology = {
       "chicks"
      ],
      "question": "Complete the table of expected numbers of speckled, white and black chicks from 480 chicks.",
-     "status": "pending",
-     "answer": "Pending: the table of expected and actual chick numbers is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "(O - E): speckled +3, white +5, black -8. (O - E)^2 / E: speckled 0.0375, white 0.208, black 0.533.",
+     "steps": [
+      "(O - E): speckled 243 - 240 = 3; white 125 - 120 = 5; black 112 - 120 = -8.",
+      "(O - E)^2 / E: speckled 3^2 / 240 = 9 / 240 = 0.0375.",
+      "White: 5^2 / 120 = 25 / 120 = 0.208; black: (-8)^2 / 120 = 64 / 120 = 0.533."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-27.jpg",
       "papers/biology/img/02C-Gene-Expression-28.jpg",
       "papers/biology/img/02C-Gene-Expression-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q14.jpg"
+     ]
     },
     {
      "id": "2C-Q14c(iii)",
@@ -19237,15 +19834,21 @@ window.BANK.biology = {
       "statistics"
      ],
      "question": "Calculate the chi-squared value for the chick data.",
-     "status": "pending",
-     "answer": "Pending: the observed and expected counts from the table are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "chi-squared = 0.78 (0.779)",
+     "steps": [
+      "Add the three (O - E)^2 / E values from the table.",
+      "0.0375 + 0.2083 + 0.5333 = 0.779.",
+      "To 2 s.f. the chi-squared value is 0.78."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-27.jpg",
       "papers/biology/img/02C-Gene-Expression-28.jpg",
       "papers/biology/img/02C-Gene-Expression-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q14.jpg"
+     ]
     },
     {
      "id": "2C-Q14c(iv)",
@@ -19520,9 +20123,14 @@ window.BANK.biology = {
       "denaturation"
      ],
      "question": "Explain the effects of pH on the activity of free lactase and immobilised lactase, using the table.",
-     "status": "pending",
-     "answer": "Pending: the table of pH and enzyme activity is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both enzymes work best near pH 5 and lose activity at higher and lower pH; immobilised lactase is less affected, and is still active at pH 3 where free lactase is not.",
+     "steps": [
+      "Both enzymes have highest activity near pH 5 (free 94 a.u., immobilised 98 a.u.), the optimum pH.",
+      "Away from the optimum, extra H+ or OH- ions break ionic and hydrogen bonds in the tertiary structure, changing the shape of the active site, so fewer enzyme-substrate complexes form and activity falls (free lactase falls to 28 a.u. at pH 8).",
+      "At pH 2 both enzymes are denatured (0 a.u.), but at pH 3 immobilised lactase is still active (38 a.u.) while free lactase is not (0 a.u.).",
+      "At pH 5 to 8 immobilised lactase has equal or higher activity than free lactase (for example 76 v 63 a.u. at pH 6), because being enclosed in the beads helps hold the enzyme in shape, so it is more tolerant of changes in pH."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-31.jpg",
       "papers/biology/img/02C-Gene-Expression-32.jpg",
@@ -19530,7 +20138,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-34.jpg",
       "papers/biology/img/02C-Gene-Expression-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q16.jpg"
+     ]
     },
     {
      "id": "2C-Q16b(iii)",
@@ -19660,14 +20270,20 @@ window.BANK.biology = {
       "trend"
      ],
      "question": "Describe the effect of age and sex on the number of cases of one type of cancer, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph of cancer cases by age and sex is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Cases rise with age in both sexes; females have more cases up to about 59 years, after which males have more and the rise is steeper.",
+     "steps": [
+      "Age: the number of cases increases with age for both males and females (about 3600 for males and 2250 for females per 100 000 at 90 years).",
+      "Females: cases start at about 20 years and rise fairly steadily; they are higher than males in younger groups (about 450 v 200 per 100 000 at 40 years).",
+      "Males: cases start at about 30 years but rise more steeply, so the lines cross at about 59 years (about 950 per 100 000), after which males have more cases than females."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-35.jpg",
       "papers/biology/img/02C-Gene-Expression-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q17.jpg"
+     ]
     },
     {
      "id": "2C-Q18a(i)",
@@ -19684,16 +20300,22 @@ window.BANK.biology = {
       "mutation"
      ],
      "question": "Give the seventh triplet code in the beta-globin gene of a person with sickle cell disease, using the table of bases and amino acids.",
-     "status": "pending",
-     "answer": "Pending: the table of bases and amino acids is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "GUG",
+     "steps": [
+      "The seventh triplet in the healthy gene is GAG, which codes for Glu.",
+      "Sickle cell disease replaces Glu with Val; in the table Val is coded by GUG (second triplet).",
+      "So the middle base A is replaced by U (GAG becomes GUG), a single base change."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-36.jpg",
       "papers/biology/img/02C-Gene-Expression-37.jpg",
       "papers/biology/img/02C-Gene-Expression-38.jpg",
       "papers/biology/img/02C-Gene-Expression-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q18.jpg"
+     ]
     },
     {
      "id": "2C-Q18a(ii)",
@@ -19798,16 +20420,23 @@ window.BANK.biology = {
       "difference"
      ],
      "question": "Calculate the largest difference in p50 values between people with and without sickle cell disease, using the oxygen dissociation curves.",
-     "status": "pending",
-     "answer": "Pending: the p50 values must be read from the oxygen dissociation graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "3.4 kPa",
+     "steps": [
+      "p50 is the partial pressure of oxygen at 50% saturation; read across from 50% to the edges of each shaded area.",
+      "People without sickle cell disease: p50 from about 4.4 to 4.9 kPa. People with sickle cell disease: about 5.7 to 7.8 kPa.",
+      "Largest difference = highest value for sickle cell disease - lowest value for people without = 7.8 - 4.4 = 3.4 kPa.",
+      "Give to 1 decimal place, matching the precision to which the graph can be read (accept 3.3 to 3.5)."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-36.jpg",
       "papers/biology/img/02C-Gene-Expression-37.jpg",
       "papers/biology/img/02C-Gene-Expression-38.jpg",
       "papers/biology/img/02C-Gene-Expression-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q18-2.jpg"
+     ]
     },
     {
      "id": "2C-Q18c(ii)",
@@ -19823,16 +20452,22 @@ window.BANK.biology = {
       "haemoglobin"
      ],
      "question": "Identify two conclusions, other than the p50 difference, that can be made from the oxygen dissociation graph.",
-     "status": "pending",
-     "answer": "Pending: the oxygen dissociation graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Sickle cell group shows a wider range of values (more variation); at the same partial pressure of oxygen its haemoglobin is less saturated.",
+     "steps": [
+      "Conclusion 1: the sickle cell disease band is much wider than the non-sickle band (at 50% saturation about 2.1 kPa wide v 0.5 kPa), so there is more variation between people with the disease.",
+      "Conclusion 2: at any given partial pressure of oxygen the haemoglobin of people with sickle cell disease is less saturated (for example about 21 to 39% v 52 to 60% at 5 kPa), so it has a lower affinity for oxygen and the curve is shifted to the right.",
+      "Other acceptable points: both groups show S-shaped curves, saturation rises as partial pressure of oxygen rises, and the people with sickle cell disease need a higher partial pressure to approach full saturation."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-36.jpg",
       "papers/biology/img/02C-Gene-Expression-37.jpg",
       "papers/biology/img/02C-Gene-Expression-38.jpg",
       "papers/biology/img/02C-Gene-Expression-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q18-2.jpg"
+     ]
     },
     {
      "id": "2C-Q18c(iii)",
@@ -19938,16 +20573,22 @@ window.BANK.biology = {
       "proportion"
      ],
      "question": "Name two other types of mutation shown in the chart of cancers caused by different mutations.",
-     "status": "pending",
-     "answer": "Pending: the chart labels are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Insertion and deletion (inversion, duplication or translocation are also acceptable)",
+     "steps": [
+      "The chart shows three types of substitution and a group labelled other types of mutation.",
+      "The other types of gene mutation are insertion (a base added) and deletion (a base lost).",
+      "Larger chromosome changes such as inversion, duplication and translocation would also gain the mark."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-40.jpg",
       "papers/biology/img/02C-Gene-Expression-41.jpg",
       "papers/biology/img/02C-Gene-Expression-42.jpg",
       "papers/biology/img/02C-Gene-Expression-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q19.jpg"
+     ]
     },
     {
      "id": "2C-Q19b(ii)",
@@ -19962,16 +20603,22 @@ window.BANK.biology = {
       "estimate"
      ],
      "question": "Estimate the percentage of cancers caused by type 3 substitution mutations, from the chart.",
-     "status": "pending",
-     "answer": "Pending: the bar values in the chart are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 64% (accept 60 to 68%)",
+     "steps": [
+      "Type 3 is the largest segment, running clockwise from the top for about 230 degrees of the circle.",
+      "Percentage = 230 / 360 x 100 = 64%.",
+      "Check: type 1 is about 23%, type 2 about 4% and other types about 8%; 64 + 23 + 4 + 8 = 99%, allowing for rounding."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-40.jpg",
       "papers/biology/img/02C-Gene-Expression-41.jpg",
       "papers/biology/img/02C-Gene-Expression-42.jpg",
       "papers/biology/img/02C-Gene-Expression-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q19.jpg"
+     ]
     },
     {
      "id": "2C-Q19b(iii)",
@@ -20019,16 +20666,23 @@ window.BANK.biology = {
       "genetic diagram"
      ],
      "question": "What is the probability that couple 1 and 2 have a fourth child who is a male affected by PKU? Options: A 0.000, B 0.125, C 0.250, D 0.500.",
-     "status": "pending",
-     "answer": "Pending: the pedigree needs to be checked to confirm both parents are heterozygous carriers (option B would then be correct).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 0.125",
+     "steps": [
+      "Individuals 3 and 4 are affected sons of unaffected parents 1 and 2, so PKU is recessive and both parents are carriers (Pp x Pp).",
+      "Probability of an affected child (pp) = 1/4.",
+      "Probability the child is male = 1/2.",
+      "Probability of an affected male = 1/4 x 1/2 = 1/8 = 0.125, which is option B."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-40.jpg",
       "papers/biology/img/02C-Gene-Expression-41.jpg",
       "papers/biology/img/02C-Gene-Expression-42.jpg",
       "papers/biology/img/02C-Gene-Expression-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q19-2.jpg"
+     ]
     },
     {
      "id": "2C-Q19c(ii)",
@@ -20045,16 +20699,25 @@ window.BANK.biology = {
       "family"
      ],
      "question": "Discuss the extent to which the PKU pedigree diagram can be used to identify the genotypes of all members of the family.",
-     "status": "pending",
-     "answer": "Pending: the pedigree diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Genotypes are certain only for the affected (pp) individuals 3 and 4 and their parents 1 and 2 (Pp); individuals 5 to 9 could be PP or Pp.",
+     "steps": [
+      "PKU is recessive: unaffected parents 1 and 2 have affected children (3 and 4), so the allele is hidden in the parents.",
+      "Affected individuals 3 and 4 must be homozygous recessive (pp).",
+      "Parents 1 and 2 each passed a recessive allele to their affected sons, so both are heterozygous carriers (Pp).",
+      "Individual 5 is unaffected and the child of two carriers, so could be PP or Pp (probability 2/3 of Pp); the pedigree cannot show which.",
+      "Individual 6 is an unaffected outsider with no family history shown, so could be PP or Pp. Children 7, 8 and 9 are unaffected and each could be PP or Pp, as only 5 and 6 are unknown.",
+      "So the pedigree identifies the genotypes of only 1, 2, 3 and 4; the others could only be found by genetic testing or by more offspring."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-40.jpg",
       "papers/biology/img/02C-Gene-Expression-41.jpg",
       "papers/biology/img/02C-Gene-Expression-42.jpg",
       "papers/biology/img/02C-Gene-Expression-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q19-2.jpg"
+     ]
     },
     {
      "id": "2C-Q20a",
@@ -20071,14 +20734,20 @@ window.BANK.biology = {
       "population"
      ],
      "question": "Complete the table giving the number of people with red-green colour blindness in India and the percentage in Malaysia.",
-     "status": "pending",
-     "answer": "Pending: the statistics table is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "India: 71.8 million (1380 x 5.2%). Malaysia: 3.2% (1.024 / 32 x 100).",
+     "steps": [
+      "India: number = 5.2 / 100 x 1380 = 71.76 million, about 71.8 million.",
+      "Malaysia: percentage = 1.024 / 32 x 100 = 3.2%.",
+      "Check using Japan: 3.024 / 126 x 100 = 2.4%, which matches the table."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-43.jpg",
       "papers/biology/img/02C-Gene-Expression-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q20.jpg"
+     ]
     },
     {
      "id": "2C-Q20b(i)",
@@ -20164,7 +20833,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-46.jpg",
       "papers/biology/img/02C-Gene-Expression-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q21.jpg"
+     ]
     },
     {
      "id": "2C-Q21b",
@@ -20180,16 +20851,23 @@ window.BANK.biology = {
       "phenotype ratio"
      ],
      "question": "Determine the ratio of possible blood type phenotypes of the children of individuals 3 and 4, drawing a genetic diagram.",
-     "status": "pending",
-     "answer": "Pending: the genotypes of individuals 3 and 4 are shown in the pedigree, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1 blood group M : 2 blood group MN : 1 blood group N",
+     "steps": [
+      "Individuals 3 and 4 are both blood group MN, so both are heterozygous: L^M L^N (the alleles are codominant).",
+      "Gametes from each parent: L^M or L^N.",
+      "Punnett square: L^M L^M, L^M L^N, L^M L^N, L^N L^N.",
+      "Phenotypes: 1 group M : 2 group MN : 1 group N (probabilities 1/4, 1/2 and 1/4)."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-44.jpg",
       "papers/biology/img/02C-Gene-Expression-45.jpg",
       "papers/biology/img/02C-Gene-Expression-46.jpg",
       "papers/biology/img/02C-Gene-Expression-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q21.jpg"
+     ]
     },
     {
      "id": "2C-Q21c(i)",
@@ -20206,16 +20884,23 @@ window.BANK.biology = {
       "individual 3"
      ],
      "question": "Explain how the alleles present in individual 3 result in the proteins found on the surfaces of his red blood cells, using the diagram of red blood cells.",
-     "status": "pending",
-     "answer": "Pending: the red blood cell diagram and individual 3's genotype are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Individual 3 is heterozygous (L^M L^N); both alleles are expressed, so he makes both protein M and protein N on his red blood cells.",
+     "steps": [
+      "Individual 3 is MN, so he inherited the M allele from his father (individual 1) and the N allele from his mother (individual 2).",
+      "Each allele is transcribed and translated into a different protein: the M allele codes for protein M and the N allele codes for protein N.",
+      "The alleles are codominant, so neither masks the other and both proteins are made and placed in the red blood cell membrane."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-44.jpg",
       "papers/biology/img/02C-Gene-Expression-45.jpg",
       "papers/biology/img/02C-Gene-Expression-46.jpg",
       "papers/biology/img/02C-Gene-Expression-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q21.jpg",
+      "papers/biology/fig/02C-Gene-Expression-Q21-2.jpg"
+     ]
     },
     {
      "id": "2C-Q21c(ii)",
@@ -20246,7 +20931,10 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-46.jpg",
       "papers/biology/img/02C-Gene-Expression-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q21.jpg",
+      "papers/biology/fig/02C-Gene-Expression-Q21-2.jpg"
+     ]
     },
     {
      "id": "2C-Q22a",
@@ -20275,7 +20963,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-48.jpg",
       "papers/biology/img/02C-Gene-Expression-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q22.jpg"
+     ]
     },
     {
      "id": "2C-Q22b",
@@ -20302,7 +20992,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-48.jpg",
       "papers/biology/img/02C-Gene-Expression-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q22.jpg"
+     ]
     },
     {
      "id": "2C-Q22c",
@@ -20377,15 +21069,24 @@ window.BANK.biology = {
       "ethics"
      ],
      "question": "Discuss the responses of women to three questions about screening for four genetic disorders, using the graph and table.",
-     "status": "pending",
-     "answer": "Pending: the graph and table of genetic disorders are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Most women would accept a blood test, fewer an amniocentesis, and far fewer termination, which depends strongly on how severe the disorder is.",
+     "steps": [
+      "Blood test: very high for every disorder (about 94 to 98%), because it is non-invasive and carries no risk to the baby.",
+      "Amniocentesis: lower than the blood test for every disorder (about 64 to 72%) and similar across disorders; it is invasive and carries a small risk of miscarriage.",
+      "Termination: much lower and varies widely: highest for disorder A (about 62%), then D (about 41%), B (about 20%) and C (about 10%).",
+      "Link to the table: more women would terminate when the disorder is severe or sometimes lethal (A) than when it is treatable with a normal or near-normal life (B and C); D (intellectual disability) is in between.",
+      "Fewer women would terminate than have amniocentesis, because a test result can also be used to prepare for the child rather than to end the pregnancy.",
+      "Limitations: only opinions of women who had recently had healthy babies, so they may not reflect women in families affected by the disorders; what they say they would do may differ from what they would actually do."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-49.jpg",
       "papers/biology/img/02C-Gene-Expression-50.jpg",
       "papers/biology/img/02C-Gene-Expression-51.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q23.jpg"
+     ]
     },
     {
      "id": "2C-Q24a",
@@ -20519,15 +21220,22 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Which row of the table shows the genotype and phenotype of individual 1 in the pedigree?",
-     "status": "pending",
-     "answer": "Pending: the table rows and pedigree are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: genotype Cc, unaffected heterozygous",
+     "steps": [
+      "The allele for CMT (c) is recessive, so an affected person is cc.",
+      "Individual 1 is unaffected but has an affected son (individual 4, cc), so he must have passed on a c allele.",
+      "Individual 1 is therefore heterozygous (Cc) and unaffected: row B."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-53.jpg",
       "papers/biology/img/02C-Gene-Expression-54.jpg",
       "papers/biology/img/02C-Gene-Expression-55.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q25.jpg",
+      "papers/biology/fig/02C-Gene-Expression-Q25-2.jpg"
+     ]
     },
     {
      "id": "2C-Q25a(ii)",
@@ -20544,15 +21252,21 @@ window.BANK.biology = {
       "cc or cc"
      ],
      "question": "Which allele combinations could individual 3 have? A CC only, B cc only, C CC or cc, D CC or Cc.",
-     "status": "pending",
-     "answer": "Pending: individual 3's phenotype is shown in the pedigree, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: CC or Cc",
+     "steps": [
+      "Individual 3 is unaffected, so he is not cc (CMT is recessive).",
+      "His parents are both carriers (Cc), because they have an affected child (individual 4, cc).",
+      "An unaffected child of two carriers can be CC (1/4) or Cc (1/2), so the answer is D."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-53.jpg",
       "papers/biology/img/02C-Gene-Expression-54.jpg",
       "papers/biology/img/02C-Gene-Expression-55.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q25.jpg"
+     ]
     },
     {
      "id": "2C-Q25a(iii)",
@@ -20569,15 +21283,22 @@ window.BANK.biology = {
       "genetic diagram"
      ],
      "question": "What is the probability that a fourth child would be a female with CMT? Options: A 1 in 2, B 1 in 4, C 1 in 8, D 1 in 16.",
-     "status": "pending",
-     "answer": "Pending: the parents' genotypes come from the pedigree, which is not in the text (1 in 8, option C, if both parents are carriers).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 1 in 8",
+     "steps": [
+      "Both parents are carriers (Cc x Cc), because they have an affected son (individual 4).",
+      "Probability of a child with CMT (cc) = 1/4.",
+      "Probability that the child is female = 1/2.",
+      "Probability of a female with CMT = 1/4 x 1/2 = 1/8, which is option C."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-53.jpg",
       "papers/biology/img/02C-Gene-Expression-54.jpg",
       "papers/biology/img/02C-Gene-Expression-55.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q25.jpg"
+     ]
     },
     {
      "id": "2C-Q25b(i)",
@@ -20797,15 +21518,21 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "The base labelled Q is thymine. Which is the base labelled P? A adenine, B cytosine, C guanine, D uracil.",
-     "status": "pending",
-     "answer": "Pending: the DNA diagram labelling P and Q is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: adenine",
+     "steps": [
+      "P and Q are opposite each other and form one complementary base pair held by hydrogen bonds.",
+      "Q is thymine, and thymine pairs only with adenine (A to T, with two hydrogen bonds).",
+      "The pair in the diagram shows two dashed lines (two hydrogen bonds), which is consistent with an A-T pair, so P is adenine."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-57.jpg",
       "papers/biology/img/02C-Gene-Expression-58.jpg",
       "papers/biology/img/02C-Gene-Expression-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q27.jpg"
+     ]
     },
     {
      "id": "2C-Q27a(ii)",
@@ -20821,15 +21548,23 @@ window.BANK.biology = {
       "r s t"
      ],
      "question": "Which row of the table identifies the bonds labelled R, S and T in the DNA diagram?",
-     "status": "pending",
-     "answer": "Pending: the table and the DNA diagram are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: R phosphodiester, S covalent, T hydrogen",
+     "steps": [
+      "R is the bond between the deoxyribose sugar and the phosphate group in the sugar-phosphate backbone: a phosphodiester bond.",
+      "S joins the sugar to the base: a (glycosidic) covalent bond.",
+      "T is the dashed bond between complementary bases: a hydrogen bond.",
+      "Only row D has phosphodiester, covalent and hydrogen in that order."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-57.jpg",
       "papers/biology/img/02C-Gene-Expression-58.jpg",
       "papers/biology/img/02C-Gene-Expression-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q27.jpg",
+      "papers/biology/fig/02C-Gene-Expression-Q27-2.jpg"
+     ]
     },
     {
      "id": "2C-Q27b",
@@ -20870,15 +21605,22 @@ window.BANK.biology = {
       "comparison"
      ],
      "question": "Describe two conclusions that can be made about the mutation rate in the four groups of primates shown in the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph of mutation rates in the four primate groups is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Mutation rate falls as the mean age at the start of breeding rises; the highest rate is in prosimians breeding at 4 years, and apes have the lowest rates.",
+     "steps": [
+      "Conclusion 1: there is a negative correlation: the mutation rate falls as the mean age when breeding starts increases, from about 4.4 x 10^-9 at 4 years to about 0.4 x 10^-9 at 30 years.",
+      "The fall is steep up to about 10 years, then the rate levels off at about 0.4 to 0.65 x 10^-9 for breeding ages of 10 to 30 years.",
+      "Conclusion 2: prosimians that start breeding at about 4 years have the highest mutation rate (about 4.4 x 10^-9 per base pair per year, with a large error bar), while apes, which start breeding latest (19 to 30 years), have the lowest rates.",
+      "The points of the four groups overlap, so mutation rate seems to relate to breeding age rather than to which group the primate is in (the error bars on some points also overlap)."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-57.jpg",
       "papers/biology/img/02C-Gene-Expression-58.jpg",
       "papers/biology/img/02C-Gene-Expression-59.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q27-3.jpg"
+     ]
     },
     {
      "id": "2C-Q28a",
@@ -21036,9 +21778,14 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Complete the diagram to show one possible structure of a fatty acid side chain of an unsaturated lipid.",
-     "status": "pending",
-     "answer": "Pending: the partial diagram is not in the text, so the drawing cannot be checked (it should show a C=C double bond).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Join the four carbons with single bonds and add hydrogen atoms, with one C=C double bond in the chain, for example -CH2-CH=CH-CH3 after the C(=O) group.",
+     "steps": [
+      "An unsaturated fatty acid has at least one carbon-carbon double bond (C=C) in its hydrocarbon chain.",
+      "Draw lines between the four carbons, with one double bond between two of them (for example between the 2nd and 3rd carbon).",
+      "Add hydrogen atoms so every carbon has four bonds in total: CH2 on the 1st carbon, one H on each carbon of the C=C, and CH3 on the last carbon.",
+      "Any valid position for the double bond is acceptable; the chain must not be fully single-bonded (that would be saturated)."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-61.jpg",
       "papers/biology/img/02C-Gene-Expression-62.jpg",
@@ -21047,7 +21794,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-65.jpg",
       "papers/biology/img/02C-Gene-Expression-66.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q29.jpg"
+     ]
     },
     {
      "id": "2C-Q29b(i)",
@@ -21063,9 +21812,13 @@ window.BANK.biology = {
       "60 months"
      ],
      "question": "Calculate the mean rate of increase in the surface of arteries covered in lesions from 16 to 60 months in primates fed saturated lipids (graph 1).",
-     "status": "pending",
-     "answer": "Pending: the values must be read from graph 1, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 1.1 percentage points per month (accept 1.1 to 1.2)",
+     "steps": [
+      "Graph 1, saturated lipids: about 2% of the artery surface covered at 16 months and about 52% at 60 months.",
+      "Change = 52 - 2 = 50 percentage points over 60 - 16 = 44 months.",
+      "Rate = 50 / 44 = 1.1 % per month (to 2 s.f.)."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-61.jpg",
       "papers/biology/img/02C-Gene-Expression-62.jpg",
@@ -21074,7 +21827,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-65.jpg",
       "papers/biology/img/02C-Gene-Expression-66.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q29-2.jpg"
+     ]
     },
     {
      "id": "2C-Q29b(ii)",
@@ -21090,9 +21845,13 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Calculate the ratio of primates with atherosclerosis given saturated lipids to those given unsaturated lipids, at 32 months (graph 2).",
-     "status": "pending",
-     "answer": "Pending: the values must be read from graph 2, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 1.5 : 1 (32 : 22, which is 16 : 11 or 1.45 : 1)",
+     "steps": [
+      "Graph 2 at 32 months: about 32% of primates fed saturated lipids have atherosclerosis and about 22% of those fed unsaturated lipids.",
+      "Ratio saturated : unsaturated = 32 : 22.",
+      "Dividing both by 22 gives 1.45 : 1, which is about 1.5 : 1 (or 16 : 11)."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-61.jpg",
       "papers/biology/img/02C-Gene-Expression-62.jpg",
@@ -21101,7 +21860,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-65.jpg",
       "papers/biology/img/02C-Gene-Expression-66.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q29-2.jpg"
+     ]
     },
     {
      "id": "2C-Q29b(iii)",
@@ -21118,9 +21879,13 @@ window.BANK.biology = {
       "difference"
      ],
      "question": "Calculate the difference in the area of atheromas in males compared with females given saturated fats (graph 3), in m^2.",
-     "status": "pending",
-     "answer": "Pending: the areas must be read from graph 3, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 22 000 um^2 (2.2 x 10^4 um^2)",
+     "steps": [
+      "Graph 3, saturated lipids after 60 months: males about 0.026 mm^2 and females about 0.004 mm^2.",
+      "Difference = 0.026 - 0.004 = 0.022 mm^2.",
+      "Convert: 1 mm^2 = 1 000 000 um^2 (10^6, um = micrometre), so 0.022 x 10^6 = 22 000 um^2 (accept about 21 000 to 23 000)."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-61.jpg",
       "papers/biology/img/02C-Gene-Expression-62.jpg",
@@ -21129,7 +21894,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-65.jpg",
       "papers/biology/img/02C-Gene-Expression-66.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q29-3.jpg"
+     ]
     },
     {
      "id": "2C-Q29b(iv)",
@@ -21146,9 +21913,16 @@ window.BANK.biology = {
       "cholesterol"
      ],
      "question": "Deduce the effects of the two diets (cholesterol with saturated lipids, or with unsaturated lipids) on lesions, atherosclerosis and atheromas in the coronary arteries, using the graphs.",
-     "status": "pending",
-     "answer": "Pending: the three graphs are needed to compare the two diets.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Saturated lipids cause more lesions, more atherosclerosis and larger atheromas than unsaturated lipids, especially after 32 months; lesions and atheromas also appear in unsaturated groups.",
+     "steps": [
+      "Lesions (graph 1): both diets increase the percentage of artery surface covered with age; at 16 and 32 months the diets are similar (2 v 4% and 18 v 16%), but at 60 months saturated lipids give far more (about 52% v 38%).",
+      "Atherosclerosis (graph 2): more primates have atherosclerosis on saturated lipids at every age (about 18 v 12% at 16 months, 32 v 22% at 32 months, 56 v 20% at 60 months).",
+      "On saturated lipids the percentage with atherosclerosis keeps rising, but on unsaturated lipids it levels off at about 20% after 32 months.",
+      "Atheromas (graph 3): after 60 months the area is much bigger on saturated lipids (males about 0.026 mm^2 v 0.007 mm^2 on unsaturated) and females have none or very small ones (about 0.004 mm^2 and 0.0 mm^2).",
+      "Males develop bigger atheromas than females on both diets, so sex also affects development; the error bars for males on saturated lipids are large.",
+      "Overall, saturated lipids (with cholesterol) cause more severe disease than unsaturated lipids, but unsaturated lipids with cholesterol still produce some lesions, so they do not prevent them completely."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-61.jpg",
       "papers/biology/img/02C-Gene-Expression-62.jpg",
@@ -21157,7 +21931,10 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-65.jpg",
       "papers/biology/img/02C-Gene-Expression-66.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q29-2.jpg",
+      "papers/biology/fig/02C-Gene-Expression-Q29-3.jpg"
+     ]
     },
     {
      "id": "2C-Q29b(v)",
@@ -21250,7 +22027,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-68.jpg",
       "papers/biology/img/02C-Gene-Expression-69.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q30.jpg"
+     ]
     },
     {
      "id": "2C-Q30a(iii)",
@@ -21266,16 +22045,22 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Suggest which set of data is the most valid and give a reason for your answer.",
-     "status": "pending",
-     "answer": "Pending: the table of mutation data is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Mouse: it has the largest sample size (10 animals), so its data are less affected by anomalies and are more reliable.",
+     "steps": [
+      "Validity and reliability of data increase with sample size.",
+      "The table shows 10 mice sampled compared with 3 naked mole rats, 3 dogs and 8 humans.",
+      "A larger sample reduces the effect of anomalous results, so the mouse data are the most valid."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-66.jpg",
       "papers/biology/img/02C-Gene-Expression-67.jpg",
       "papers/biology/img/02C-Gene-Expression-68.jpg",
       "papers/biology/img/02C-Gene-Expression-69.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q30.jpg"
+     ]
     },
     {
      "id": "2C-Q30b(i)",
@@ -21291,16 +22076,23 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the mean mutation rate for the mouse from the graph, drawing a line of best fit.",
-     "status": "pending",
-     "answer": "Pending: the mouse data on the graph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 800 mutations per cell per year (accept 700 to 900)",
+     "steps": [
+      "Draw a straight line of best fit through the mouse points, starting at the origin, with about equal numbers of points on each side.",
+      "Mean number of mutations per cell: about 540 at 0.6 years, 790 at 1.0, 1100 at 1.4 and 1560 at 2.0 years.",
+      "The line passes through about (2.0, 1600), so gradient = 1600 / 2.0 = 800 mutations per cell per year.",
+      "The gradient of the line is the mean mutation rate."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-66.jpg",
       "papers/biology/img/02C-Gene-Expression-67.jpg",
       "papers/biology/img/02C-Gene-Expression-68.jpg",
       "papers/biology/img/02C-Gene-Expression-69.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q30-2.jpg"
+     ]
     },
     {
      "id": "2C-Q30b(ii)",
@@ -21316,16 +22108,23 @@ window.BANK.biology = {
       "mutation rate"
      ],
      "question": "Describe three conclusions that can be made from the graphs of mutations per cell during the lifespans of four animals.",
-     "status": "pending",
-     "answer": "Pending: the graphs of mutations per cell are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Mutations per cell increase with age in all four species; the rate differs between species (mouse fastest, human slowest); short-lived animals accumulate mutations faster than long-lived ones.",
+     "steps": [
+      "Conclusion 1: in all four species the number of mutations per cell increases with age (positive correlation).",
+      "Conclusion 2: the rate of increase differs between species: the mouse gains about 800 mutations per year, the naked mole rat about 100, the dog about 230 and the human only about 50 (rough estimates from the graphs).",
+      "Conclusion 3: the species with shorter lifespans (mouse, 2 years) have much higher mutation rates than those with long lifespans (human, 80 years).",
+      "Other acceptable points: humans accumulate the most mutations in total (up to about 4000 per cell), and there is wide variation between individuals of the same age, especially in older mice and humans."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-66.jpg",
       "papers/biology/img/02C-Gene-Expression-67.jpg",
       "papers/biology/img/02C-Gene-Expression-68.jpg",
       "papers/biology/img/02C-Gene-Expression-69.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q30-2.jpg"
+     ]
     },
     {
      "id": "2C-Q30b(iii)",
@@ -21355,7 +22154,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-68.jpg",
       "papers/biology/img/02C-Gene-Expression-69.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q30-2.jpg"
+     ]
     },
     {
      "id": "2C-Q31a",
@@ -21487,15 +22288,22 @@ window.BANK.biology = {
       "percentage"
      ],
      "question": "Compare and contrast the number of deaths caused by the five cancers in ethnic groups 1 and 2, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph of cancer deaths by ethnic group is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both groups have most deaths from lung and bronchus cancer (47 per 100 000); group 2 has more deaths from every other cancer, especially prostate (38 v 18).",
+     "steps": [
+      "Similarity: in both groups lung and bronchus cancer causes the most deaths, with the same value of about 47 per 100 000.",
+      "Similarity: pancreatic cancer causes the fewest deaths in both groups (11 in group 1 and 14 in group 2).",
+      "Difference: deaths from colon and rectum (19 v 14), breast (29 v 21), pancreas (14 v 11) and prostate (38 v 18) are all higher in group 2 than in group 1.",
+      "The largest difference is prostate cancer, where group 2 has more than double the deaths of group 1."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-71.jpg",
       "papers/biology/img/02C-Gene-Expression-72.jpg",
       "papers/biology/img/02C-Gene-Expression-73.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q32.jpg"
+     ]
     },
     {
      "id": "2C-Q32b(ii)",
@@ -21511,15 +22319,21 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Which is the percentage difference between lung and bronchus cancer deaths in ethnic group 1 and ethnic group 3? A 0.45%, B 0.89%, C 44.62%, D 89.23%.",
-     "status": "pending",
-     "answer": "Pending: the death values from the graph are needed to apply the formula.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 89.23%",
+     "steps": [
+      "Lung and bronchus deaths: group 1 = 47 and group 3 = 18 per 100 000.",
+      "Difference = 47 - 18 = 29; mean = (47 + 18) / 2 = 32.5.",
+      "Percentage difference = 29 / 32.5 x 100 = 89.23%, which is option D."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-71.jpg",
       "papers/biology/img/02C-Gene-Expression-72.jpg",
       "papers/biology/img/02C-Gene-Expression-73.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q32.jpg"
+     ]
     },
     {
      "id": "2C-Q32b(iii)",
@@ -21535,15 +22349,20 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Calculate how many more males died of prostate cancer in ethnic group 2 than in ethnic group 1.",
-     "status": "pending",
-     "answer": "Pending: the numbers of deaths are read from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "20 more deaths per 100 000 people",
+     "steps": [
+      "Prostate cancer deaths: ethnic group 2 = 38 per 100 000 and ethnic group 1 = 18 per 100 000.",
+      "Difference = 38 - 18 = 20 deaths per 100 000."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-71.jpg",
       "papers/biology/img/02C-Gene-Expression-72.jpg",
       "papers/biology/img/02C-Gene-Expression-73.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q32.jpg"
+     ]
     },
     {
      "id": "2C-Q32b(iv)",
@@ -21572,7 +22391,9 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-72.jpg",
       "papers/biology/img/02C-Gene-Expression-73.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q32.jpg"
+     ]
     },
     {
      "id": "2C-Q33a",
@@ -21649,15 +22470,24 @@ window.BANK.biology = {
       "screening"
      ],
      "question": "Discuss the advantages and disadvantages of PGD and prenatal testing for couples at risk of having a child with OI, using the diagram of testing types.",
-     "status": "pending",
-     "answer": "Pending: the diagram giving information on the prenatal testing types is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "PGD avoids termination but needs IVF; NIPT and CVS give early results, with CVS and amniocentesis being invasive and risking miscarriage; ultrasound and cordocentesis are late and less specific or riskier.",
+     "steps": [
+      "PGD (before implantation): advantage: only embryos without the OI allele are implanted, so no termination of pregnancy; disadvantages: needs IVF, which is expensive, has a lower success rate and raises the ethical issue of discarding embryos.",
+      "NIPT (7 to 10 weeks): advantage: non-invasive (only a blood sample), no risk of miscarriage and the earliest result; disadvantages: it tests fetal DNA in the mother's blood so may not be fully diagnostic, and a positive result usually needs confirming.",
+      "Chorionic villus sampling (10 to 12 weeks): advantage: early and gives a direct DNA diagnosis; disadvantage: invasive, with a small risk of miscarriage.",
+      "Amniocentesis (15 to 20 weeks): advantage: gives a reliable DNA diagnosis; disadvantages: invasive with a risk of miscarriage, and the late result means any termination is later and more distressing.",
+      "Ultrasound (after 20 weeks) is non-invasive but late and cannot show the genotype, only abnormalities; cordocentesis (22 to 24 weeks) is very late and carries the highest risk.",
+      "General points: because OI is dominant, a heterozygous parent has a 50% chance of passing it on, so testing is informative; false results, cost and ethical objections to termination or embryo selection should be weighed."
+     ],
      "images": [
       "papers/biology/img/02C-Gene-Expression-74.jpg",
       "papers/biology/img/02C-Gene-Expression-75.jpg",
       "papers/biology/img/02C-Gene-Expression-76.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/02C-Gene-Expression-Q33.jpg"
+     ]
     }
    ]
   },
@@ -21682,15 +22512,21 @@ window.BANK.biology = {
       "smooth endoplasmic reticulum"
      ],
      "question": "Name the organelle seen with the electron microscope, from the four options A to D (centriole, Golgi apparatus, rough ER, smooth ER).",
-     "status": "pending",
-     "answer": "Missing: the description of the organelle seen in the photograph or diagram is not in the text, so the correct option cannot be chosen.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Golgi apparatus",
+     "steps": [
+      "The description is several curved, membrane-bound sacs of decreasing size, which is a stack of flattened cisternae.",
+      "This is the Golgi apparatus (option B).",
+      "Rough ER has ribosomes on its membranes and forms long folded sheets; smooth ER is a network of tubules; a centriole is not made of membrane sacs, so A, C and D are wrong."
+     ],
      "images": [
       "papers/biology/img/03A-Cell-Structure-01.jpg",
       "papers/biology/img/03A-Cell-Structure-02.jpg",
       "papers/biology/img/03A-Cell-Structure-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03A-Cell-Structure-Q1.jpg"
+     ]
     },
     {
      "id": "3A-Q1a(ii)",
@@ -21796,15 +22632,23 @@ window.BANK.biology = {
       "pancreas"
      ],
      "question": "Explain the results of an investigation in which pancreas cells were given fluorescently labelled amino acids, measuring green fluorescence inside and outside the cells at the start and after 60 minutes.",
-     "status": "pending",
-     "answer": "Missing: the results table with the percentage fluorescence values is not in the text, so the explanation cannot be checked against the data.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Labelled amino acids are used to make proteins, which are packaged and secreted from the cells, so fluorescence falls inside (100% to 38%) and rises outside (0% to 62%).",
+     "steps": [
+      "At 0 minutes all the fluorescence (100%) is inside the cells, because the labelled amino acids have just been taken up and none have been secreted (0% outside).",
+      "Inside the cells the labelled amino acids are joined into polypeptides by ribosomes on the rough ER; the polypeptides are modified in the Golgi apparatus and packaged into secretory vesicles.",
+      "Vesicles fuse with the cell surface membrane and release the enzymes and glycoproteins by exocytosis, so the label moves out of the cells.",
+      "After 60 minutes 62% of the fluorescence is outside and 38% inside; the total is still 100%, so the label has moved, not been lost.",
+      "These processes take time and use ATP, which is why only part (62%) of the label has been secreted after 60 minutes."
+     ],
      "images": [
       "papers/biology/img/03A-Cell-Structure-01.jpg",
       "papers/biology/img/03A-Cell-Structure-02.jpg",
       "papers/biology/img/03A-Cell-Structure-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03A-Cell-Structure-Q1-2.jpg"
+     ]
     },
     {
      "id": "3A-Q2a(i)",
@@ -21820,14 +22664,20 @@ window.BANK.biology = {
       "labelled structure"
      ],
      "question": "From the labelled prokaryotic cell diagram (options AW, BX, CY, DZ), state which structure is a plasmid.",
-     "status": "pending",
-     "answer": "Missing: the labelled diagram of the prokaryotic cell is not in the text, so the letter cannot be matched to the plasmid.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: X",
+     "steps": [
+      "A plasmid is a small, circular piece of extra DNA found in the cytoplasm of a bacterium, separate from the main chromosome.",
+      "W points to the large coiled loop of DNA, the bacterial chromosome (nucleoid), and V points to a ribosome.",
+      "X points to a small separate DNA loop, so X is the plasmid: option B."
+     ],
      "images": [
       "papers/biology/img/03A-Cell-Structure-03.jpg",
       "papers/biology/img/03A-Cell-Structure-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03A-Cell-Structure-Q2.jpg"
+     ]
     },
     {
      "id": "3A-Q2a(ii)",
@@ -21844,14 +22694,20 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "From the same prokaryotic cell diagram (options AV, BX, CY, DZ), state which labelled structure lets the cell adhere to other bacteria during conjugation.",
-     "status": "pending",
-     "answer": "Missing: the labelled diagram is not in the text; the structure is a pilus, but its letter cannot be confirmed.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Y (a pilus)",
+     "steps": [
+      "The structure that lets a bacterium attach to another bacterium during conjugation is a pilus (sex pilus).",
+      "Y points to one of the thin, hair-like projections on the cell surface, which is a pilus.",
+      "Z is the capsule (outer layer) and V and X are inside the cell, so the answer is C."
+     ],
      "images": [
       "papers/biology/img/03A-Cell-Structure-03.jpg",
       "papers/biology/img/03A-Cell-Structure-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03A-Cell-Structure-Q2.jpg"
+     ]
     },
     {
      "id": "3A-Q2a(iii)",
@@ -21925,16 +22781,22 @@ window.BANK.biology = {
       "labelled structure"
      ],
      "question": "From the labelled electron micrograph of a beta cell (options AP, BQ, CR, DS), state which structure produces ribosomes.",
-     "status": "pending",
-     "answer": "Missing: the labelled photograph is not in the text; the structure is the nucleolus, but its letter cannot be confirmed.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: R",
+     "steps": [
+      "Ribosomal RNA is made and ribosomes are assembled in the nucleolus, the dense dark region inside the nucleus.",
+      "R points to the dark dense region within the nucleus, so R is the nucleolus.",
+      "Q is rough endoplasmic reticulum, S is the nuclear envelope or edge of the nucleus and P is the cytoplasm, so they do not produce ribosomes."
+     ],
      "images": [
       "papers/biology/img/03A-Cell-Structure-04.jpg",
       "papers/biology/img/03A-Cell-Structure-05.jpg",
       "papers/biology/img/03A-Cell-Structure-06.jpg",
       "papers/biology/img/03A-Cell-Structure-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03A-Cell-Structure-Q3.jpg"
+     ]
     },
     {
      "id": "3A-Q3a(ii)",
@@ -21951,16 +22813,22 @@ window.BANK.biology = {
       "electron micrograph"
      ],
      "question": "Suggest why the two structures labelled T and U, which are the same type of organelle, look different in the photograph.",
-     "status": "pending",
-     "answer": "Missing: the photograph with labels T and U is not in the text, so the difference in appearance cannot be explained from the image.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Mitochondria are three-dimensional structures cut in different planes, so one is seen as a round section and the other as a longer section showing cristae.",
+     "steps": [
+      "T and U are mitochondria, which are three-dimensional, roughly sausage-shaped organelles.",
+      "A thin section through them is cut at different angles, so the 2D image of each looks different.",
+      "U is cut lengthways (longitudinal section) and shows its elongated shape with cristae; T is cut across (transverse section) so it looks round, and cristae are less clear."
+     ],
      "images": [
       "papers/biology/img/03A-Cell-Structure-04.jpg",
       "papers/biology/img/03A-Cell-Structure-05.jpg",
       "papers/biology/img/03A-Cell-Structure-06.jpg",
       "papers/biology/img/03A-Cell-Structure-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03A-Cell-Structure-Q3.jpg"
+     ]
     },
     {
      "id": "3A-Q3a(iii)",
@@ -21991,7 +22859,9 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-06.jpg",
       "papers/biology/img/03A-Cell-Structure-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03A-Cell-Structure-Q3.jpg"
+     ]
     },
     {
      "id": "3A-Q3b",
@@ -22377,15 +23247,22 @@ window.BANK.biology = {
       "beta"
      ],
      "question": "Describe the changes in the percentages of the polypeptides in red blood cells before and after birth, using the graph.",
-     "status": "pending",
-     "answer": "Missing: the graph of polypeptide percentages before and after birth is not in the text, so the changes cannot be read.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Alpha stays at about 50%; gamma rises, stays at about 47% and then falls to under 1% after birth; beta is low before birth and rises to about 48% after birth.",
+     "steps": [
+      "Alpha polypeptide: rises quickly from about 30% at 7.5 months before birth to 50% by about 6 months before birth, then stays at about 50% to 6 months after birth.",
+      "Gamma polypeptide: rises to about 47% by 5 months before birth and stays there until about 3 months before birth, then falls to about 38% at birth and to less than 1% by 6 months after birth.",
+      "Beta polypeptide: very low before birth (about 2 to 4%), about 11% at birth, then rises quickly to about 48% by 6 months after birth.",
+      "Gamma and beta are equal (about 26%) at about 1 month after birth, so fetal haemoglobin is replaced by adult haemoglobin."
+     ],
      "images": [
       "papers/biology/img/03A-Cell-Structure-11.jpg",
       "papers/biology/img/03A-Cell-Structure-12.jpg",
       "papers/biology/img/03A-Cell-Structure-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03A-Cell-Structure-Q6.jpg"
+     ]
     },
     {
      "id": "3A-Q6c(ii)",
@@ -22417,7 +23294,9 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-12.jpg",
       "papers/biology/img/03A-Cell-Structure-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03A-Cell-Structure-Q6.jpg"
+     ]
     },
     {
      "id": "3A-Q7a",
@@ -22462,15 +23341,20 @@ window.BANK.biology = {
       "rough endoplasmic reticulum"
      ],
      "question": "Name organelle A, shown in the electron micrograph, which is involved in the formation of extracellular enzymes.",
-     "status": "pending",
-     "answer": "Missing: the electron micrograph with organelle A is not in the text, so the organelle cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Golgi apparatus",
+     "steps": [
+      "The photograph shows a stack of flattened, curved membrane-bound sacs (cisternae) with small vesicles at the edges.",
+      "This is the Golgi apparatus, which modifies and packages proteins such as extracellular enzymes."
+     ],
      "images": [
       "papers/biology/img/03A-Cell-Structure-13.jpg",
       "papers/biology/img/03A-Cell-Structure-14.jpg",
       "papers/biology/img/03A-Cell-Structure-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03A-Cell-Structure-Q7.jpg"
+     ]
     },
     {
      "id": "3A-Q7b(ii)",
@@ -22487,15 +23371,22 @@ window.BANK.biology = {
       "modification"
      ],
      "question": "Describe the role of organelle A in the formation and transport of extracellular enzymes.",
-     "status": "pending",
-     "answer": "Missing: organelle A has not been identified in the text (Q7(b)(i) is pending), so its role cannot be stated with certainty.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The Golgi apparatus modifies the enzymes it receives from the rough ER, packages them into vesicles and sends them to the cell surface membrane for exocytosis.",
+     "steps": [
+      "Vesicles carrying newly made enzymes from the rough ER fuse with the cis face of the Golgi apparatus.",
+      "The Golgi modifies the proteins, for example by adding carbohydrate groups or cutting the polypeptide chain.",
+      "The finished enzymes are packaged into secretory vesicles that bud off from the trans face.",
+      "The vesicles move to the cell surface membrane, fuse with it and release the extracellular enzymes by exocytosis."
+     ],
      "images": [
       "papers/biology/img/03A-Cell-Structure-13.jpg",
       "papers/biology/img/03A-Cell-Structure-14.jpg",
       "papers/biology/img/03A-Cell-Structure-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03A-Cell-Structure-Q7.jpg"
+     ]
     },
     {
      "id": "3A-Q7b(iii)",
@@ -22525,7 +23416,9 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-14.jpg",
       "papers/biology/img/03A-Cell-Structure-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/03A-Cell-Structure-Q7.jpg"
+     ]
     }
    ]
   },

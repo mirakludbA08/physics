@@ -3772,14 +3772,23 @@ window.BANK.physics = {
       "newton second law"
      ],
      "question": "Explain the shape of an acceleration-time graph for a skydiver who opens a parachute, referring to the forces acting on her.",
-     "status": "pending",
-     "answer": "Needs the acceleration-time graph from the PDF to check the shape against the explanation.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Acceleration starts at g and falls to zero as drag grows to equal weight (first terminal velocity). At t1 the parachute opens: drag far exceeds weight, giving a sharp negative acceleration spike. It returns to zero as drag falls back to equal weight (second, lower terminal velocity) and stays zero until t2.",
+     "steps": [
+      "At the start she is moving slowly, so air resistance is almost zero and the only force is her weight; a = g, the largest value on the graph (taking downwards as positive).",
+      "As her speed rises the air resistance R rises, so the resultant force mg - R falls; a = (mg - R)/m decreases and the curve flattens.",
+      "The acceleration reaches zero when R = mg: the forces are balanced, so by Newton first law she falls at a constant (terminal) velocity.",
+      "At t1 the parachute opens, the area increases and R suddenly becomes much greater than mg; the resultant force is upwards, so the acceleration is negative (a deceleration) with a large magnitude - a sharp downward spike.",
+      "She slows down, so R decreases and the magnitude of the negative acceleration shrinks back to zero.",
+      "When R = mg again she reaches a second, lower terminal velocity, so the acceleration stays at zero until she lands at t2."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-01.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q3.jpg"
+     ]
     },
     {
      "id": "1D-Q4a",
@@ -3797,14 +3806,21 @@ window.BANK.physics = {
       "forces"
      ],
      "question": "Assess whether the forces R and W on a unicycle, shown on a photograph, are a Newton third law pair.",
-     "status": "pending",
-     "answer": "Needs the unicycle photograph to see which bodies R and W act on and their directions.",
-     "steps": [],
+     "status": "ready",
+     "answer": "No. R and W are not a Newton third law pair: they are different types of force (contact and gravitational), they are not equal (R is drawn longer than W), and their partner forces act on the ground and on the Earth.",
+     "steps": [
+      "A third law pair must be the same type of force. R is the contact (normal) force of the ground and W is the gravitational pull of the Earth, so they are different types.",
+      "A pair must be equal in size. In the photograph R is drawn slightly longer than W, so R > W (R also supports the weight of the unicycle itself).",
+      "The partner of W is the pull of the rider on the Earth, and the partner of R is the push of the unicycle on the ground; these act on different bodies from R and W, so R and W are not partners of each other.",
+      "Their directions are opposite, but opposite direction alone does not make a third law pair."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-02.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q4.jpg"
+     ]
     },
     {
      "id": "1D-Q4b",
@@ -3822,14 +3838,20 @@ window.BANK.physics = {
       "forces"
      ],
      "question": "Explain the motion of a unicycle moving at constant speed on a horizontal surface, referring to all the forces acting on it.",
-     "status": "pending",
-     "answer": "Needs the photograph in the PDF to list all force arrows on the unicycle (R, W and any others).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Constant speed means zero resultant force (Newton first law): vertically R equals the total weight of rider and unicycle, and horizontally the forward driving force equals the resistive forces (air resistance and rolling resistance).",
+     "steps": [
+      "Constant speed in a straight line means zero acceleration, so the resultant force on the unicycle is zero (Newton first law).",
+      "Vertically: the upward force R balances the total downward weight (weight of the rider plus the weight of the unicycle); this is why R is longer than the arrow W.",
+      "Horizontally: the forward driving force from the ground (friction on the wheel, from pedalling) is equal and opposite to the resistive forces (air resistance and friction), although these are not shown in the photograph."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-02.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q4.jpg"
+     ]
     },
     {
      "id": "1D-Q5",
@@ -3879,15 +3901,22 @@ window.BANK.physics = {
       "water flow"
      ],
      "question": "Show that the chain force F on a buoy at 33 deg to the vertical, with horizontal force 260 N, is about 500 N.",
-     "status": "pending",
-     "answer": "As read, F = 260 / sin33 = 477 N, not about 500 N. Check the angle in the PDF before marking.",
-     "steps": [],
+     "status": "ready",
+     "answer": "F = 260 / sin33 = 477 N, which is about 500 N (1 s.f.)",
+     "steps": [
+      "The buoy is stationary, so the horizontal forces balance: the horizontal component of the chain force F equals the 260 N from the water.",
+      "The chain is at 33 deg to the vertical, so the horizontal component is F sin33.",
+      "F sin33 = 260, so F = 260 / sin33 = 260 / 0.545 = 477 N.",
+      "477 N is about 500 N to 1 significant figure."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-04.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-05.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q6.jpg"
+     ]
     },
     {
      "id": "1D-Q6a(ii)",
@@ -3920,7 +3949,9 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-05.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q6.jpg"
+     ]
     },
     {
      "id": "1D-Q6b",
@@ -3952,7 +3983,9 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-05.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q6.jpg"
+     ]
     },
     {
      "id": "1D-Q7a",
@@ -4250,14 +4283,22 @@ window.BANK.physics = {
       "newton second law"
      ],
      "question": "A soap bubble has wind force P, weight W and upthrust U acting on it. Which vector diagram (A to D) shows the resultant force F?",
-     "status": "pending",
-     "answer": "Needs the four vector diagrams A to D from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "The resultant is the vector sum of the three forces. U and W act along the same line, so combine them first: W - U downwards (W is longer than U).",
+      "Add the vectors head to tail: draw W - U downwards, then draw P from the end of it; the resultant F runs from the tail of the first vector to the head of the last one, so it points from the start of W - U to the end of P.",
+      "In B the three vectors form a closed triangle, with W - U and P head to tail and F drawn from the start of W - U to the end of P.",
+      "A is wrong because F points the wrong way round the triangle. C and D are wrong because W - U and P are drawn tail to tail, not head to tail."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-12.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q12.jpg",
+      "papers/physics/fig/05-1D-Newtons-Laws-Q12-2.jpg"
+     ]
     },
     {
      "id": "1D-Q13",
@@ -4275,14 +4316,22 @@ window.BANK.physics = {
       "wind"
      ],
      "question": "A student in a windy parachute jump has vertical velocity 5.0 m/s and horizontal velocity 8.0 m/s. Which row gives the magnitude and angle of the resultant velocity?",
-     "status": "pending",
-     "answer": "Needs the table of options from the PDF. Calculated: resultant 9.4 m/s at 58 deg to the vertical.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: magnitude sqrt(8^2 + 5^2) = 9.4 m s^-1; angle tan^-1(8/5) = 58 deg to the vertical",
+     "steps": [
+      "The velocity components are at right angles, so the magnitude is found with Pythagoras: v = sqrt(8^2 + 5^2) = 9.4 m s^-1 (a minus sign would be wrong).",
+      "The angle theta is measured from the vertical, so the horizontal component 8 is opposite the angle and the vertical component 5 is adjacent.",
+      "tan theta = opposite / adjacent = 8/5, so theta = tan^-1(8/5) = 58 deg.",
+      "sin^-1(5/8) would be correct only if 8 were the hypotenuse, so D is wrong; this leaves C."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-13.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q13.jpg",
+      "papers/physics/fig/05-1D-Newtons-Laws-Q13-2.jpg"
+     ]
     },
     {
      "id": "1D-Q14",
@@ -4300,15 +4349,23 @@ window.BANK.physics = {
       "magnitude"
      ],
      "question": "Two forces P and Q act on an object. Which of the diagrams A to D is a correctly drawn, scaled vector diagram for their resultant R?",
-     "status": "pending",
-     "answer": "Needs the diagrams A to D and the directions of P and Q from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D",
+     "steps": [
+      "The resultant R = P + Q, so P and Q must be drawn head to tail, and R must run from the tail of the first vector to the head of the second.",
+      "In D, P is drawn up and to the right, Q is then drawn from the end of P (down and to the right), and R runs from the start of P to the end of Q.",
+      "The lengths and directions of P and Q in D match the original diagram, and R points the same way as the net force (down and to the right).",
+      "In A and B the arrow on R points the wrong way, and in C R joins the ends of P and Q, which is not the resultant."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-14.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-15.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q14.jpg",
+      "papers/physics/fig/05-1D-Newtons-Laws-Q14-2.jpg"
+     ]
     },
     {
      "id": "1D-Q15",
@@ -4474,13 +4531,20 @@ window.BANK.physics = {
       "direction"
      ],
      "question": "A massive star exerts gravitational force Fstar on a distant planet, and the planet exerts Fplanet on the star. Which row of the table is correct?",
-     "status": "pending",
-     "answer": "Needs the table rows from the PDF; the text does not show the options.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: F_planet = F_star, in opposite directions",
+     "steps": [
+      "The force of the star on the planet and the force of the planet on the star are a Newton third law pair.",
+      "The two forces in a third law pair are always equal in magnitude, whatever the masses of the bodies.",
+      "They act in opposite directions (the star pulls the planet towards the star; the planet pulls the star towards the planet).",
+      "So the correct row is C."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q20.jpg"
+     ]
     },
     {
      "id": "1D-Q21",
@@ -4498,14 +4562,21 @@ window.BANK.physics = {
       "free-body diagram"
      ],
      "question": "A uniform solid cube rests on a four-legged table. Which statement about the forces on the table and cube is correct according to Newton third law?",
-     "status": "pending",
-     "answer": "Needs the diagram of forces on the table and cube (labels Rc, Rt, Rf, Wc, Wt) from the PDF to match the labels.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Rc = Rt",
+     "steps": [
+      "Rc is the force of the cube on the table and Rt is the force of the table on the cube, so they are a Newton third law pair.",
+      "Third law pairs are equal in magnitude and opposite in direction, so Rc = Rt.",
+      "B (4Rf = Rc + Wt) and D (Rt = Wc) come from the equilibrium of the table and of the cube (first law), not from the third law.",
+      "A is wrong because Rt acts on the cube, not on the table."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-19.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q21.jpg"
+     ]
     },
     {
      "id": "1D-Q22",
@@ -4523,14 +4594,21 @@ window.BANK.physics = {
       "resulting motion"
      ],
      "question": "Once in orbit above the atmosphere, the rocket engines are switched off. Which row of the table gives the resulting motion and the law explaining it?",
-     "status": "pending",
-     "answer": "Needs the table rows from the PDF; the options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: changing velocity, Newton 2nd law",
+     "steps": [
+      "With the engines off, the gravitational pull of the Earth is the only force on the rocket, so the resultant force is not zero.",
+      "By Newton second law (F = ma) a resultant force gives an acceleration, so the velocity keeps changing (in orbit its direction changes continuously).",
+      "So the motion is a changing velocity, explained by Newton second law: row C.",
+      "Rows A and B (uniform velocity) are wrong because there is still a resultant force; the third law concerns pairs of forces, not the motion of one body."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-19.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q22.jpg"
+     ]
     },
     {
      "id": "1D-Q23a",
@@ -4580,14 +4658,22 @@ window.BANK.physics = {
       "path"
      ],
      "question": "Explain the differences between the golf ball paths with and without air resistance, as shown in a diagram.",
-     "status": "pending",
-     "answer": "Needs the two trajectories from the PDF diagram to describe the differences accurately.",
-     "steps": [],
+     "status": "ready",
+     "answer": "With air resistance the ball rises less, travels a shorter horizontal distance and has an asymmetric path that is steeper on the way down, because air resistance acts opposite to the velocity and slows both the horizontal and vertical motion.",
+     "steps": [
+      "Without air resistance the only force is the weight: the horizontal velocity is constant and the path is a symmetrical parabola.",
+      "With air resistance there is a force opposite to the velocity at all times; its horizontal component continuously reduces the horizontal velocity, so the horizontal distance travelled (range) is shorter.",
+      "On the way up the air resistance has a downward component as well as the weight, so the deceleration is greater than g and the vertical velocity falls to zero sooner: the maximum height is lower.",
+      "On the way down the air resistance acts upwards (against the weight), so the downward acceleration is less than g, but the ball starts from a lower height with a smaller horizontal velocity, so it lands at a steeper angle and the path is not symmetrical.",
+      "The kinetic energy lost does work against air resistance (transferred as thermal energy to the air), so the ball lands with less kinetic energy than without air resistance."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-20.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q23b.jpg"
+     ]
     },
     {
      "id": "1D-Q24a",
@@ -4618,7 +4704,9 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-22.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q24.jpg"
+     ]
     },
     {
      "id": "1D-Q24b",
@@ -4636,14 +4724,22 @@ window.BANK.physics = {
       "scale"
      ],
      "question": "A student uses masses on a holder until part of the string is horizontal, then photographs the arrangement. Describe how the photograph can be used to determine the tension T.",
-     "status": "pending",
-     "answer": "Needs the photograph in the PDF to see which angles and forces the student measures.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Measure the angle theta of the kite string to the horizontal on the photograph with a protractor, find the weight mg of the holder and masses, then use T = mg / sin theta (or a scale vector triangle) because the knot is in equilibrium.",
+     "steps": [
+      "The knot is in equilibrium under three forces: the tension T in the string to the kite, the horizontal string pull and the downward pull of the mass holder and masses, which equals their weight mg.",
+      "Find the total mass of the holder and masses (from the known masses or a balance) and calculate the weight mg.",
+      "Use a protractor on the photograph to measure the angle theta between the kite string and the horizontal.",
+      "Resolve vertically: T sin theta = mg, so T = mg / sin theta. (The horizontal string pull equals T cos theta and can be used as a check.)",
+      "Alternatively draw a scale vector triangle (weight downwards, horizontal force, T at the measured angle) and read T from the length of its side using the scale; repeat with different masses and average."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-22.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q24b.jpg"
+     ]
     },
     {
      "id": "1D-Q25a",
@@ -4661,16 +4757,23 @@ window.BANK.physics = {
       "air resistance"
      ],
      "question": "Draw a free-body force diagram for the sledge and athlete accelerating down a straight section of an icy track, showing the relative sizes of the forces.",
-     "status": "pending",
-     "answer": "Needs the luge diagram in the PDF to check the force arrows and their relative sizes.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Three forces from the dot: weight W vertically downwards (longest arrow); normal contact force R perpendicular to the track (slightly shorter than W); a small resistive force F (friction and air resistance) up the slope, shorter than the component of W down the slope.",
+     "steps": [
+      "Weight W: a long arrow vertically downwards.",
+      "Normal contact force R: perpendicular to the track, pointing away from the surface; R = W cos theta, so it is slightly shorter than W.",
+      "Resistive force (friction and air resistance) F: parallel to the track, pointing up the slope (opposite to the motion).",
+      "Relative sizes: the athlete accelerates down the slope, so the component W sin theta down the slope must be greater than F; the resultant is down the slope, so F must be shorter than W sin theta."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-23.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-24.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-25.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q25a.jpg"
+     ]
     },
     {
      "id": "1D-Q25b(i)",
@@ -4754,9 +4857,13 @@ window.BANK.physics = {
       "suggest"
      ],
      "question": "It is stated that maximum speed is greater for heavier athletes, but only up to a certain mass. Suggest why.",
-     "status": "pending",
-     "answer": "Open-ended; check the expected reasoning (for example drag from body size) against the PDF mark scheme before marking.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A heavier athlete has a larger weight component down the slope, giving a higher terminal speed, but a heavier athlete is also bigger, with a larger cross-sectional area, so the air resistance rises too and eventually cancels the benefit.",
+     "steps": [
+      "A greater mass gives a larger weight component mg sin theta down the slope, so a larger resistive force is needed to balance it; the maximum speed is therefore higher.",
+      "A heavier athlete usually has a larger frontal area (and the sledge presses harder on the track), so air resistance and friction at a given speed are larger.",
+      "Above a certain mass the extra resistive forces offset the gain in weight component, so the maximum speed no longer increases."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-23.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-24.jpg",
@@ -4876,14 +4983,20 @@ window.BANK.physics = {
       "diagram"
      ],
      "question": "Complete the free-body force diagram for a sledge sliding down a frictionless slope with no air resistance.",
-     "status": "pending",
-     "answer": "Needs the diagram in the PDF; expected forces are weight vertically down and normal contact force perpendicular to the slope.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Two forces only: weight W vertically downwards and a normal contact force R perpendicular to the slope (slightly shorter than W).",
+     "steps": [
+      "Draw weight W as a vertical arrow downwards from the dot.",
+      "Draw the normal contact force R perpendicular to the slope, pointing away from the surface (6.9 deg from the vertical); R = W cos6.9, so it is just shorter than W.",
+      "There is no friction and no air resistance, so no other forces are drawn; their resultant is W sin6.9 down the slope."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-27.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q27.jpg"
+     ]
     },
     {
      "id": "1D-Q27b(i)",
@@ -4913,7 +5026,9 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-27.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q27.jpg"
+     ]
     },
     {
      "id": "1D-Q27b(ii)",
@@ -4943,7 +5058,9 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-27.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q27.jpg"
+     ]
     },
     {
      "id": "1D-Q27b(iii)",
@@ -4973,7 +5090,9 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-27.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q27.jpg"
+     ]
     },
     {
      "id": "1D-Q28",
@@ -4991,14 +5110,20 @@ window.BANK.physics = {
       "arrows"
      ],
      "question": "A uniform solid cube rests on a table. The dot at the start of each arrow shows where the force acts. Which force (Rc, Rt, Wc or Wt) is drawn in the wrong position?",
-     "status": "pending",
-     "answer": "Needs the cube and table diagram in the PDF to see which arrow starts at the wrong point.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Wc",
+     "steps": [
+      "The weight of a uniform cube acts at its centre of mass, which is the centre of the cube.",
+      "Rt and Rc act at the contact point between the cube and table, on the centre line, and Wt on the centre line of the table: these are in sensible positions.",
+      "The dot for Wc is drawn to the right of the cube centre, so Wc is in the wrong position."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-28.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q28.jpg"
+     ]
     },
     {
      "id": "1D-Q29a",
@@ -5016,14 +5141,22 @@ window.BANK.physics = {
       "reasons"
      ],
      "question": "A disc of mass m is held stationary by a magnetic force F. Its free-body diagram shows two equal and opposite forces. Give two reasons why these are not a Newton third law pair.",
-     "status": "pending",
-     "answer": "Needs the disc free-body diagram from the PDF to name the forces and their types (both act on the disc).",
-     "steps": [],
+     "status": "ready",
+     "answer": "(1) Both forces act on the same object (the disc), whereas a third law pair acts on two different objects. (2) They are different types of force: F is magnetic and mg is gravitational.",
+     "steps": [
+      "A Newton third law pair acts on two different bodies. F and mg both act on the disc, so they cannot be a pair.",
+      "A third law pair must be the same type of force. F is a magnetic force but mg is a gravitational force.",
+      "They are equal and opposite only because the disc is in equilibrium (first law), not because of the third law.",
+      "The partner of F is the force of the disc on the magnetic base, and the partner of mg is the gravitational pull of the disc on the Earth."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-29.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q29.jpg",
+      "papers/physics/fig/05-1D-Newtons-Laws-Q29-2.jpg"
+     ]
     },
     {
      "id": "1D-Q29b",
@@ -5041,14 +5174,21 @@ window.BANK.physics = {
       "forces"
      ],
      "question": "A magnetic base of weight W rests on a horizontal table and holds a disc. Complete the free-body force diagram for the base.",
-     "status": "pending",
-     "answer": "Needs the PDF diagram; expected forces are weight W down, normal reaction up from the table, and the disc's downward pull on the base.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Add a downward magnetic force from the disc, F = mg, and an upward normal contact force R from the table equal to W + mg (a longer arrow than W).",
+     "steps": [
+      "Weight W is already drawn downwards.",
+      "The disc pulls on the base with a magnetic force F = mg (third law partner of the force of the base on the disc), so draw a second arrow downwards, length equal to mg.",
+      "The base is in equilibrium, so the table pushes up with a normal contact force R = W + mg: draw an upward arrow as long as the two downward arrows together."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-29.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q29.jpg",
+      "papers/physics/fig/05-1D-Newtons-Laws-Q29-3.jpg"
+     ]
     },
     {
      "id": "1D-Q30a",
@@ -5066,14 +5206,22 @@ window.BANK.physics = {
       "forces"
      ],
      "question": "A railway engine pushes a truck at constant velocity on horizontal rails. Complete the free-body diagram showing all forces acting on the engine.",
-     "status": "pending",
-     "answer": "Needs the engine diagram in the PDF to check the arrow labels and directions.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Add three horizontal arrows: a forward force from the rails of 1.5 x 10^5 N; a backward force from the truck of 1.2 x 10^5 N; and a backward resistive force (air resistance and friction) of 3 x 10^4 N. Weight and normal contact force are already drawn and are equal.",
+     "steps": [
+      "The engine pushes the rails backwards with 1.5 x 10^5 N, so by Newton third law the rails push the engine forward with 1.5 x 10^5 N (forward arrow).",
+      "The engine pushes the truck forward with 1.2 x 10^5 N, so the truck pushes the engine backwards with 1.2 x 10^5 N (backward arrow).",
+      "Constant velocity means zero resultant force, so the remaining backward force is 1.5 x 10^5 - 1.2 x 10^5 = 3.0 x 10^4 N (air resistance and other resistive forces on the engine).",
+      "The vertical arrows (weight and normal contact force) must be equal in length because there is no vertical acceleration."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-30.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q30.jpg",
+      "papers/physics/fig/05-1D-Newtons-Laws-Q30-2.jpg"
+     ]
     },
     {
      "id": "1D-Q30b",
@@ -5183,14 +5331,20 @@ window.BANK.physics = {
       "dimensions"
      ],
      "question": "Which row of the table contains two units that are not equivalent?",
-     "status": "pending",
-     "answer": "Needs the table of unit pairs from the PDF; the options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: kg m s^-2 and N s",
+     "steps": [
+      "kg m s^-2 is a mass times an acceleration, so it is the unit of force: the newton (N).",
+      "N s is the unit of impulse (change of momentum), equivalent to kg m s^-1, so it is not equivalent to N.",
+      "The other rows are equivalent: J s^-1 = W, N kg^-1 = m s^-2 and N m = J."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-32.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q33.jpg"
+     ]
     },
     {
      "id": "1D-Q34",
@@ -5208,14 +5362,21 @@ window.BANK.physics = {
       "forces"
      ],
      "question": "Two perpendicular forces act on an object. Determine the magnitude of the resultant force using a scaled vector diagram.",
-     "status": "pending",
-     "answer": "Needs the two force magnitudes from the PDF diagram to scale the vector triangle.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 2600 N (2.6 x 10^3 N), at 28 deg to the 2300 N force",
+     "steps": [
+      "Choose a scale, for example 1 cm = 200 N, so the forces are drawn as 6.0 cm (1200 N) and 11.5 cm (2300 N).",
+      "Draw them at right angles, head to tail, and draw the resultant from the tail of the first to the head of the second.",
+      "The resultant measures about 13 cm, which is 13 x 200 = 2600 N.",
+      "Check by calculation: R = sqrt(1200^2 + 2300^2) = 2594 N, at tan^-1(1200/2300) = 28 deg to the 2300 N force."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-33.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q34.jpg"
+     ]
     },
     {
      "id": "1D-Q35a",
@@ -5233,15 +5394,22 @@ window.BANK.physics = {
       "forces"
      ],
      "question": "A person on a zip-line is accelerating. Complete the free-body diagram showing the three forces acting on the person.",
-     "status": "pending",
-     "answer": "Needs the PDF diagram of the person on the zip-line to confirm the three forces and their directions.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Weight W downwards (longest arrow), tension in the wire along the wire (almost vertical, pointing up towards the wheel) and a small air resistance force up the cable, opposite to the motion; the resultant must point down the cable.",
+     "steps": [
+      "Weight: an arrow vertically downwards from the dot.",
+      "Tension in the wire: an arrow along the wire, pointing up towards the wheel (slightly shorter than the weight).",
+      "Air resistance (drag) opposing the motion: a short arrow pointing up the slope of the cable.",
+      "The person is accelerating down the cable, so the resultant of the three forces points down the slope of the cable; the drag must be smaller than the component of the weight down the cable."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-34.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-35.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q35.jpg"
+     ]
     },
     {
      "id": "1D-Q35b(i)",
@@ -5272,7 +5440,9 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-35.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q35-2.jpg"
+     ]
     },
     {
      "id": "1D-Q35b(ii)",
@@ -5304,7 +5474,9 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-35.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q35-2.jpg"
+     ]
     },
     {
      "id": "1D-Q35c",
@@ -5355,14 +5527,21 @@ window.BANK.physics = {
       "resolve"
      ],
      "question": "A bird of weight W stands on the middle of a string between two posts. The string makes 80 deg with each post and has tension T. Which expression is correct?",
-     "status": "pending",
-     "answer": "Needs the four expression options from the PDF; expected W = 2T cos80, so T = W/(2 cos80).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: T = W / (2 cos80 deg)",
+     "steps": [
+      "Each half of the string makes 80 deg with the vertical post, so the vertical component of each tension is T cos80.",
+      "The bird is in equilibrium: the two vertical components support the weight, so 2T cos80 = W.",
+      "Rearranging, T = W / (2 cos80), which is option C. (Using sin would be correct only if 80 deg were measured from the horizontal.)"
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-36.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-37.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q36.jpg",
+      "papers/physics/fig/05-1D-Newtons-Laws-Q36-2.jpg"
+     ]
     },
     {
      "id": "1D-Q37",
@@ -5440,14 +5619,20 @@ window.BANK.physics = {
       "force components"
      ],
      "question": "Two boats A and B pull a ship with forces FA and FB at angles of 31 deg and 27 deg. Which expression gives the forward component of the total force?",
-     "status": "pending",
-     "answer": "Needs the diagram to confirm whether 31 deg and 27 deg are measured from the forward direction (which would give option C).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: FA cos(31) + FB cos(27)",
+     "steps": [
+      "Both angles (31 deg and 27 deg) are measured from the forwards direction, so the forward component of each force is F cos(angle).",
+      "The sideways components FA sin31 and FB sin27 are in opposite directions and are not part of the forward total.",
+      "Forward component = FA cos31 + FB cos27, option C."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-37.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q39.jpg"
+     ]
     },
     {
      "id": "1D-Q40",
@@ -5496,14 +5681,21 @@ window.BANK.physics = {
       "free fall"
      ],
      "question": "A coin and a feather are dropped from the same height through air. Which row of the table is correct as they fall?",
-     "status": "pending",
-     "answer": "Needs the table rows from the PDF; the options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: same initial acceleration for coin and feather; less time for the coin",
+     "steps": [
+      "At the instant of release the speed is zero, so there is no air resistance and the only force is weight: both have initial acceleration g.",
+      "As they fall, air resistance increases; it affects the feather much more (large area for its weight), so the feather's acceleration falls quickly.",
+      "The coin keeps accelerating for longer and falls faster, so it takes less time to reach the ground.",
+      "This is row C."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-39.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q41.jpg"
+     ]
     },
     {
      "id": "1D-Q42",
@@ -5579,14 +5771,20 @@ window.BANK.physics = {
       "landing"
      ],
      "question": "A ball of mass m leaves a table at speed v and takes time t to land. A second ball of mass 2m leaves at speed 2v. Which expression gives its time from leaving the table to landing?",
-     "status": "pending",
-     "answer": "Needs the four options from the PDF (the options are not in the text); expected answer t, since fall time depends only on height.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: t",
+     "steps": [
+      "The horizontal and vertical motions are independent, so the time to fall depends only on the vertical motion.",
+      "Both balls start with zero vertical velocity and fall the same height with acceleration g, so they take the same time: s = (1/2)gt^2 gives t = sqrt(2s/g).",
+      "The mass and the horizontal speed do not change the time, so the second ball also takes t."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-41.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q44.jpg"
+     ]
     },
     {
      "id": "1D-Q45",
@@ -5604,14 +5802,20 @@ window.BANK.physics = {
       "forces"
      ],
      "question": "A wire hangs a picture of weight W from a hook, exerting tensions T1 and T2. Which option describes the relationship between the forces?",
-     "status": "pending",
-     "answer": "Needs the four options and the diagram from the PDF; the text does not show them.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: W + T1 + T2 = 0 (vector sum)",
+     "steps": [
+      "The picture hangs at rest, so the resultant force on it is zero (Newton first law).",
+      "W, T1 and T2 are the three forces on the picture, drawn in their actual directions, so their vector sum is zero: W + T1 + T2 = 0.",
+      "A, C and D contain a minus sign or omit a force, so they do not describe a zero vector sum of all three forces."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-41.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q45.jpg"
+     ]
     },
     {
      "id": "1D-Q46",
@@ -5689,14 +5893,22 @@ window.BANK.physics = {
       "expression"
      ],
      "question": "Forces act on a helicopter shown as a dot in a diagram. Which expression gives the magnitude of the resultant force on it?",
-     "status": "pending",
-     "answer": "Needs the force diagram and the options from the PDF; the text does not show them.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: sqrt((15 000 - 14 500)^2 + 200^2) = 538 N (about 540 N)",
+     "steps": [
+      "The vertical forces act in opposite directions: 15 000 N downwards and 14 500 N upwards, so the net vertical force is 15 000 - 14 500 = 500 N downwards.",
+      "The horizontal force is 200 N, at right angles to the vertical force.",
+      "Pythagoras gives resultant = sqrt(500^2 + 200^2) = sqrt((15 000 - 14 500)^2 + 200^2) = 538 N.",
+      "Option D matches; A and C do not take a square root, and B squares the individual forces before subtracting."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-43.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q48.jpg",
+      "papers/physics/fig/05-1D-Newtons-Laws-Q48-2.jpg"
+     ]
     },
     {
      "id": "1D-Q49a(i)",
@@ -5808,14 +6020,21 @@ window.BANK.physics = {
       "expression"
      ],
      "question": "Traffic lights of weight W hang from a wire held at an angle theta to the horizontal by two supports. Which expression gives the tension in the wire?",
-     "status": "pending",
-     "answer": "Needs the four expression options from the PDF; the text does not show them (expected T = W/(2 sin theta)).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: T = W / (2 sin theta)",
+     "steps": [
+      "The wire is at an angle theta to the horizontal, so the vertical component of the tension in each half is T sin theta.",
+      "The traffic lights are in equilibrium, so the two upward components support the weight: 2T sin theta = W.",
+      "Rearranging gives T = W / (2 sin theta), option B."
+     ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-46.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/05-1D-Newtons-Laws-Q50.jpg",
+      "papers/physics/fig/05-1D-Newtons-Laws-Q50-2.jpg"
+     ]
     }
    ]
   },
@@ -6098,14 +6317,22 @@ window.BANK.physics = {
       "explain"
      ],
      "question": "Explain why the efficiency of the regenerative braking system varies with initial velocity, over 20 m/s to 40 m/s, as shown on the graph.",
-     "status": "pending",
-     "answer": "Needs the efficiency against initial velocity graph from the PDF to be checked before the explanation can be written.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Efficiency falls as the initial velocity rises, and falls faster at high velocity, because the drag force grows with speed so a larger share of the kinetic energy is dissipated to the surroundings and less is stored in the battery.",
+     "steps": [
+      "The efficiency is the energy stored in the battery divided by the kinetic energy the car starts with.",
+      "Drag on the car rises as velocity increases (roughly as v^2), so at higher initial velocity more of the kinetic energy is transferred to thermal energy in the air by work done against drag.",
+      "So a smaller fraction of the kinetic energy is available for charging the battery and the efficiency decreases.",
+      "Drag increases faster than linearly with speed, so the fraction lost rises more and more rapidly: the curve is nearly flat at 20 m s^-1 and steepens towards 40 m s^-1.",
+      "Higher speeds also mean a larger braking power, so more energy is also wasted as thermal energy in friction and in the resistance of the wires and battery."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-04.jpg",
       "papers/physics/img/06-1E-Power-Energy-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q4.jpg"
+     ]
     },
     {
      "id": "1E-Q5",
@@ -6120,14 +6347,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A lamp with efficiency 0.68 usefully transfers 120 J. Which expression can be used to determine the energy E supplied to the lamp?",
-     "status": "pending",
-     "answer": "Needs the four answer options from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: E = 120 / 0.68",
+     "steps": [
+      "Efficiency = useful energy output / total energy input, so E = useful energy / efficiency.",
+      "The efficiency is given as a decimal (0.68), not a percentage, so no factor of 100 is needed.",
+      "E = 120 / 0.68 = 176 J, which is option D."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-05.jpg",
       "papers/physics/img/06-1E-Power-Energy-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q5.jpg"
+     ]
     },
     {
      "id": "1E-Q6",
@@ -6171,14 +6404,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "An electric pump has an output power of 25 kW and an efficiency of 52%. Which expression gives the rate in kW at which energy is dissipated?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: (0.48 x 25) / 0.52 kW",
+     "steps": [
+      "The useful output power is 25 kW, so the input power = 25 / 0.52 = 48.1 kW.",
+      "Power dissipated = input - output = 25/0.52 - 25 = 25 x (1 - 0.52)/0.52.",
+      "This equals (0.48 x 25) / 0.52 = 23.1 kW, which is option C."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-06.jpg",
       "papers/physics/img/06-1E-Power-Energy-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q7.jpg"
+     ]
     },
     {
      "id": "1E-Q8",
@@ -6194,14 +6433,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A proton and an electron have equal kinetic energies. The proton's speed is v and its mass is 2000 times the electron's mass. Which expression gives the speed of the electron?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: sqrt(2000) x v",
+     "steps": [
+      "The kinetic energies are equal: (1/2) m_p v^2 = (1/2) m_e v_e^2.",
+      "With m_p = 2000 m_e, 2000 m_e v^2 = m_e v_e^2, so v_e^2 = 2000 v^2.",
+      "v_e = sqrt(2000) x v, option A (the lighter electron is faster)."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-06.jpg",
       "papers/physics/img/06-1E-Power-Energy-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q8.jpg"
+     ]
     },
     {
      "id": "1E-Q9",
@@ -6218,14 +6463,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A tractor pulls a trailer a distance s in time t with useful power output P. Which equation gives the force F of the tractor on the trailer?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: F = Pt / s",
+     "steps": [
+      "Power P = work / time = F s / t, so P = F s / t.",
+      "Rearranging, F = P t / s.",
+      "This is option B."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-07.jpg",
       "papers/physics/img/06-1E-Power-Energy-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q9.jpg"
+     ]
     },
     {
      "id": "1E-Q10",
@@ -6242,14 +6493,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A motor lifts a 50 000 kg mass through 25 m with an output power of 700 kW. Which expression gives the time in seconds to lift the mass?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: (50 000 x 9.81 x 25) / 700 000",
+     "steps": [
+      "The useful work is the gain in gravitational potential energy: mgh = 50 000 x 9.81 x 25 J.",
+      "Power = work / time, so t = mgh / P.",
+      "The power must be in watts: 700 kW = 700 000 W, so t = (50 000 x 9.81 x 25) / 700 000 = 17.5 s. Option B."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-07.jpg",
       "papers/physics/img/06-1E-Power-Energy-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q10.jpg"
+     ]
     },
     {
      "id": "1E-Q11",
@@ -6266,14 +6523,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A machine has a power of 750 W and transfers 150 kJ of energy in time t. Which expression gives t in seconds?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: (150 x 1000) / 750",
+     "steps": [
+      "Power = energy / time, so t = energy / power.",
+      "The energy must be in joules: 150 kJ = 150 x 1000 J.",
+      "t = (150 x 1000) / 750 = 200 s, which is option C."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-08.jpg",
       "papers/physics/img/06-1E-Power-Energy-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q11.jpg"
+     ]
     },
     {
      "id": "1E-Q12",
@@ -6289,14 +6552,21 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "An object accelerates from rest down a frictionless slope at 23 degrees to the horizontal, moving a distance of 20 m. Which expression gives its final speed?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: sqrt(2 x 9.81 x 20 x sin23)",
+     "steps": [
+      "There is no friction, so the only force along the slope is the component of weight, mg sin23; the acceleration is a = g sin23.",
+      "The object starts from rest and moves 20 m along the slope, so v^2 = 2as = 2 x 9.81 sin23 x 20.",
+      "v = sqrt(2 x 9.81 x 20 x sin23) = 8.8 m s^-1, option C. (Equivalently, the height lost is 20 sin23 and v = sqrt(2gh).)"
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-08.jpg",
       "papers/physics/img/06-1E-Power-Energy-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q12.jpg",
+      "papers/physics/fig/06-1E-Power-Energy-Q12-2.jpg"
+     ]
     },
     {
      "id": "1E-Q13",
@@ -6341,13 +6611,21 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A 90 N force pushes a 200 N box up a 10 m ramp onto a platform 4 m above the ground. Which expression could be used to determine the efficiency of the ramp?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: (200 x 4) / (90 x 10)",
+     "steps": [
+      "Efficiency = useful energy output / total energy input.",
+      "The useful output is the gain in gravitational potential energy of the box = weight x height = 200 x 4 = 800 J.",
+      "The input is the work done by the pushing force = 90 N x 10 m = 900 J.",
+      "Efficiency = (200 x 4) / (90 x 10) = 0.89 (89%), option C. Options B and D wrongly add the two energies."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q14.jpg",
+      "papers/physics/fig/06-1E-Power-Energy-Q14-2.jpg"
+     ]
     },
     {
      "id": "1E-Q15",
@@ -6364,13 +6642,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A cyclist rides at constant speed up a slope. The vertical height gained is h, and the forward force from the road is F with negligible air resistance. Which expression gives the work done by the cyclist?",
-     "status": "pending",
-     "answer": "Needs the answer options and the slope angle symbol from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: F Delta-h / sin(theta)",
+     "steps": [
+      "The work done by the cyclist is the forward force times the distance moved along the slope: W = F s.",
+      "The slope is at angle theta and the vertical height gained is Delta-h, so Delta-h = s sin(theta), giving s = Delta-h / sin(theta).",
+      "W = F Delta-h / sin(theta), option D."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q15.jpg",
+      "papers/physics/fig/06-1E-Power-Energy-Q15-2.jpg"
+     ]
     },
     {
      "id": "1E-Q16",
@@ -6385,14 +6670,21 @@ window.BANK.physics = {
       "dropped ball"
      ],
      "question": "A ball is dropped, bounces once and is caught. Which graph of gravitational potential energy against time could represent its motion?",
-     "status": "pending",
-     "answer": "Needs the four graphs from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A",
+     "steps": [
+      "Egrav = mgh, so the graph has the same shape as the height-time graph of the ball (taking the ground as zero).",
+      "While falling from rest, the height decreases as h = h0 - (1/2)gt^2, so Egrav decreases with an increasing gradient (a curve), reaching zero at the bounce.",
+      "After the bounce the ball rises with decreasing speed, so Egrav increases with a decreasing gradient (a curve that levels off) until the ball is caught.",
+      "Graph A shows this pair of curved sections meeting at zero. B is one smooth arch with no bounce, and C and D have straight lines, which would need constant speed."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-11.jpg",
       "papers/physics/img/06-1E-Power-Energy-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q16.jpg"
+     ]
     },
     {
      "id": "1E-Q17",
@@ -6409,14 +6701,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A locomotive pulls a train at constant speed against a force of 8400 kN with output power 70 MW. Which expression gives the time in seconds to pull the train 1 km?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: (8.4 x 10^6 x 10^3) / (7 x 10^7)",
+     "steps": [
+      "At constant speed, power P = Fv, so v = P/F = 70 x 10^6 / 8.4 x 10^6 = 8.3 m s^-1.",
+      "Time t = s / v = s F / P = (1000 x 8.4 x 10^6) / (7 x 10^7).",
+      "That is option C (= 120 s); the other options do not convert MW and kN to the same units."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-11.jpg",
       "papers/physics/img/06-1E-Power-Energy-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q17.jpg"
+     ]
     },
     {
      "id": "1E-Q18",
@@ -6433,15 +6731,21 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A pump ejects 200 g of water per second from a hose nozzle at 3 m/s. Which expression gives the minimum output power of the pump?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: (0.2 x 3^2) / 2",
+     "steps": [
+      "The pump must at least give the water its kinetic energy: power = kinetic energy per second = (1/2)(m/t)v^2.",
+      "The mass per second is 200 g = 0.2 kg per second, in kilograms.",
+      "Power = (0.2 x 3^2) / 2 = 0.9 W, option B."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-12.jpg",
       "papers/physics/img/06-1E-Power-Energy-13.jpg",
       "papers/physics/img/06-1E-Power-Energy-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q18.jpg"
+     ]
     },
     {
      "id": "1E-Q19a",
@@ -6548,15 +6852,21 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "An object moving with velocity v has its kinetic energy doubled. Which expression gives its new velocity?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: sqrt(2) v",
+     "steps": [
+      "Kinetic energy E = (1/2) m v^2, so E is proportional to v^2.",
+      "If E doubles, v^2 doubles, so the new velocity is sqrt(2) x v.",
+      "This is option A."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-14.jpg",
       "papers/physics/img/06-1E-Power-Energy-15.jpg",
       "papers/physics/img/06-1E-Power-Energy-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q20.jpg"
+     ]
     },
     {
      "id": "1E-Q21a",
@@ -6720,14 +7030,22 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "An electric pump lifts water 10 m at 4 kg/s and the water leaves at 5 m/s. Which expression could be used to determine the minimum power output of the pump in watts?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: (4 x 9.81 x 10) + (1/2)(4 x 5^2)",
+     "steps": [
+      "The minimum power output equals the rate of increase of the water's energy.",
+      "Rate of gain of gravitational potential energy = (m/t) g h = 4 x 9.81 x 10 W.",
+      "Rate of gain of kinetic energy = (1/2)(m/t)v^2 = (1/2)(4 x 5^2) W.",
+      "Add the two: option C (= 392 + 50 = 442 W)."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-17.jpg",
       "papers/physics/img/06-1E-Power-Energy-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q23.jpg",
+      "papers/physics/fig/06-1E-Power-Energy-Q23-2.jpg"
+     ]
     },
     {
      "id": "1E-Q24a",
@@ -6972,13 +7290,19 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A power station provides an electrical output of 2.1 GW and transfers thermal energy to the surroundings at 3.4 GW. Which expression gives its efficiency?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 2.1 / (3.4 + 2.1)",
+     "steps": [
+      "Efficiency = useful power output / total power input.",
+      "The useful output is the electrical 2.1 GW; the total input is the electrical output plus the thermal power wasted, 2.1 + 3.4 GW.",
+      "Efficiency = 2.1 / (3.4 + 2.1) = 0.38, option A."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q28.jpg"
+     ]
     },
     {
      "id": "1E-Q29",
@@ -6995,14 +7319,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A hydroelectric station has efficiency 32%. In one hour its useful energy output is 1.2 x 10^13 J. Which expression gives the total power input in watts?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 1.2 x 10^13 / (0.32 x 3600)",
+     "steps": [
+      "Efficiency = useful energy output / total energy input, so total energy input in one hour = 1.2 x 10^13 / 0.32.",
+      "Power = energy / time, and one hour = 3600 s.",
+      "Power input = 1.2 x 10^13 / (0.32 x 3600) = 1.0 x 10^10 W, option B."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-21.jpg",
       "papers/physics/img/06-1E-Power-Energy-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q29.jpg"
+     ]
     },
     {
      "id": "1E-Q30a",
@@ -7078,14 +7408,21 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A roller coaster car stops momentarily at P and then descends towards Q. Which expression could be used to determine the velocity of the car at Q?",
-     "status": "pending",
-     "answer": "Needs the answer options and the height diagram from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: sqrt(90g)",
+     "steps": [
+      "The car is momentarily at rest at P, so it starts with no kinetic energy.",
+      "The height drop from P (75 m) to Q (30 m) is 45 m, so (1/2) v^2 = g x 45 (mass cancels).",
+      "v^2 = 90g, so v = sqrt(90g), option D."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-22.jpg",
       "papers/physics/img/06-1E-Power-Energy-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q31.jpg",
+      "papers/physics/fig/06-1E-Power-Energy-Q31-2.jpg"
+     ]
     },
     {
      "id": "1E-Q32a",
@@ -7115,7 +7452,9 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-24.jpg",
       "papers/physics/img/06-1E-Power-Energy-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q32.jpg"
+     ]
     },
     {
      "id": "1E-Q32b",
@@ -7145,7 +7484,9 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-24.jpg",
       "papers/physics/img/06-1E-Power-Energy-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q32.jpg"
+     ]
     },
     {
      "id": "1E-Q32c",
@@ -7162,15 +7503,23 @@ window.BANK.physics = {
       "trajectory"
      ],
      "question": "Point A is 0.86 m above the ground and 1.23 m horizontally from the foot of the ramp. Deduce whether the ball will bounce a second time on the ramp.",
-     "status": "pending",
-     "answer": "Needs the ramp angle and layout from the PDF diagram, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "No. The ball lands on the ground about 1.8 m horizontally from A, beyond the 1.23 m end of the ramp, so it does not bounce on the ramp again.",
+     "steps": [
+      "After the bounce the components are vx = 3.43 sin70 = 3.22 m s^-1 and vy = 3.43 cos70 = 1.17 m s^-1 upwards.",
+      "To fall 0.86 m below A to the ground: -0.86 = 1.17t - 4.905t^2, giving t = 0.555 s.",
+      "Horizontal distance = 3.22 x 0.555 = 1.79 m.",
+      "The ramp ends only 1.23 m horizontally from A, and 1.79 m > 1.23 m, so the ball has passed the end of the ramp when it comes down.",
+      "(Check: at x = 1.23 m the ball is only 0.27 m below A, but the ramp end is 0.86 m below A, so the ball is above the ramp.)"
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-23.jpg",
       "papers/physics/img/06-1E-Power-Energy-24.jpg",
       "papers/physics/img/06-1E-Power-Energy-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q32-2.jpg"
+     ]
     },
     {
      "id": "1E-Q33a(i)",
@@ -7186,16 +7535,22 @@ window.BANK.physics = {
       "1st gear"
      ],
      "question": "State how the velocity-time graph shows that in 3rd gear the car has a smaller acceleration than in 1st gear.",
-     "status": "pending",
-     "answer": "Needs the velocity-time graph from the PDF to compare the gradients of the 1st and 3rd gear sections.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The gradient of the velocity-time graph is the acceleration, and the graph is less steep in 3rd gear than in 1st gear.",
+     "steps": [
+      "Acceleration is the gradient of the velocity-time graph.",
+      "The 1st gear section is very steep (about 7 m s^-1 gained in about 2 s, roughly 3 m s^-2).",
+      "The 3rd gear section is much shallower (about 5 m s^-1 gained in about 7 s, roughly 0.7 m s^-2), so the acceleration is smaller."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-25.jpg",
       "papers/physics/img/06-1E-Power-Energy-26.jpg",
       "papers/physics/img/06-1E-Power-Energy-27.jpg",
       "papers/physics/img/06-1E-Power-Energy-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q33.jpg"
+     ]
     },
     {
      "id": "1E-Q33a(ii)",
@@ -7210,16 +7565,22 @@ window.BANK.physics = {
       "change in velocity"
      ],
      "question": "Determine the average acceleration of the car while accelerating in 2nd gear, from the velocity-time graph.",
-     "status": "pending",
-     "answer": "Needs the velocity-time graph from the PDF to read the velocity change and time for 2nd gear.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 0.9 m s^-2 (0.93 m s^-2)",
+     "steps": [
+      "2nd gear runs from the end of the dip after 1st gear (about t = 3.8 s, v = 6.9 m s^-1) to the peak before the next dip (about t = 10.6 s, v = 13.2 m s^-1).",
+      "Average acceleration = change in velocity / time taken.",
+      "a = (13.2 - 6.9) / (10.6 - 3.8) = 6.3 / 6.8 = 0.93 m s^-2, about 0.9 m s^-2 (readings from the graph, so accept a small range)."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-25.jpg",
       "papers/physics/img/06-1E-Power-Energy-26.jpg",
       "papers/physics/img/06-1E-Power-Energy-27.jpg",
       "papers/physics/img/06-1E-Power-Energy-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q33.jpg"
+     ]
     },
     {
      "id": "1E-Q33a(iii)",
@@ -7267,16 +7628,23 @@ window.BANK.physics = {
       "kinematics"
      ],
      "question": "Calculate the minimum time for the car to accelerate from rest to 60 miles per hour, with 1 mile = 1600 m and negligible gear-change time, using the manufacturer's information.",
-     "status": "pending",
-     "answer": "Needs the manufacturer's information (table or graph) from the PDF, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 13 s (13.4 s)",
+     "steps": [
+      "60 miles per hour = 60 x 1600 / 3600 = 26.7 m s^-1.",
+      "The shortest time uses the maximum acceleration in each gear: 1st gear up to its maximum velocity of 18 m s^-1: t1 = 18 / 2.9 = 6.2 s.",
+      "Then 2nd gear (maximum acceleration 1.2 m s^-2) from 18 to 26.7 m s^-1 (below the 2nd gear limit of 32 m s^-1): t2 = (26.7 - 18) / 1.2 = 7.2 s.",
+      "Total time = 6.2 + 7.2 = 13.4 s, about 13 s, with negligible gear-change time."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-25.jpg",
       "papers/physics/img/06-1E-Power-Energy-26.jpg",
       "papers/physics/img/06-1E-Power-Energy-27.jpg",
       "papers/physics/img/06-1E-Power-Energy-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q33-2.jpg"
+     ]
     },
     {
      "id": "1E-Q33b(ii)",
@@ -7323,14 +7691,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A motor with efficiency 68% raises a 350 N load through 25 m. Which expression gives the energy supplied to the motor?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: (350 x 25) / 0.68",
+     "steps": [
+      "Useful work = gain in gravitational potential energy = weight x height = 350 x 25 J (the load is already given as a weight in newtons).",
+      "Efficiency = useful energy / energy supplied, so energy supplied = useful energy / efficiency.",
+      "Energy supplied = (350 x 25) / 0.68 = 12.9 kJ, option D (the efficiency must be used as the decimal 0.68)."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-28.jpg",
       "papers/physics/img/06-1E-Power-Energy-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q34.jpg"
+     ]
     },
     {
      "id": "1E-Q35",
@@ -7519,13 +7893,20 @@ window.BANK.physics = {
       "height"
      ],
      "question": "A trolley accelerates from rest at A down a straight track to B, with no air resistance or friction. Show that it reaches B with a speed of about 3 m/s.",
-     "status": "pending",
-     "answer": "Needs the height of A above B from the PDF diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "v = sqrt(2 x 9.81 x 0.50) = 3.1 m s^-1, about 3 m s^-1",
+     "steps": [
+      "There is no friction or air resistance, so gravitational potential energy lost = kinetic energy gained.",
+      "The trolley falls through a height of 0.50 m: mgh = (1/2) m v^2.",
+      "v = sqrt(2gh) = sqrt(2 x 9.81 x 0.50) = sqrt(9.81) = 3.13 m s^-1.",
+      "This is about 3 m s^-1, as required."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q38.jpg"
+     ]
     },
     {
      "id": "1E-Q38b",
@@ -7542,13 +7923,20 @@ window.BANK.physics = {
       "point C"
      ],
      "question": "Determine the time taken by the trolley to move from point A to point C.",
-     "status": "pending",
-     "answer": "Needs the track lengths and heights from the PDF diagram, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1.6 s (1.64 s)",
+     "steps": [
+      "Length of the slope AB = sqrt(2.0^2 + 0.50^2) = 2.06 m.",
+      "On the slope the acceleration is constant from rest to 3.13 m s^-1, so the average speed is 3.13 / 2 = 1.57 m s^-1 and t(AB) = 2.06 / 1.57 = 1.32 s.",
+      "On the horizontal section BC there is no friction, so the speed stays 3.13 m s^-1: t(BC) = 1.0 / 3.13 = 0.32 s.",
+      "Total time = 1.32 + 0.32 = 1.64 s, about 1.6 s."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q38.jpg"
+     ]
     },
     {
      "id": "1E-Q39a",
@@ -7663,7 +8051,10 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-33.jpg",
       "papers/physics/img/06-1E-Power-Energy-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q40.jpg",
+      "papers/physics/fig/06-1E-Power-Energy-Q40-2.jpg"
+     ]
     },
     {
      "id": "1E-Q40b",
@@ -7680,14 +8071,21 @@ window.BANK.physics = {
       "assess"
      ],
      "question": "Trolley A runs down the slope and collides with an identical trolley B at rest; they then move off together with velocity v. Assess whether the student's prediction, that friction being ignored, is correct.",
-     "status": "pending",
-     "answer": "Needs the student's prediction, which is missing from the PDF text (the sentence is blank), so check the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The student is correct: v = sqrt(gh/2).",
+     "steps": [
+      "Without friction, energy is conserved down the slope: mgh = (1/2) m u^2, so trolley A reaches the bottom at u = sqrt(2gh).",
+      "The collision is a joining (inelastic) collision, so momentum is conserved (kinetic energy is not): m u = (m + m) v.",
+      "v = u / 2 = sqrt(2gh) / 2 = sqrt(2gh / 4) = sqrt(gh / 2).",
+      "This agrees with the student's prediction, so the prediction is correct."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-33.jpg",
       "papers/physics/img/06-1E-Power-Energy-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q40-3.jpg"
+     ]
     },
     {
      "id": "1E-Q41",
@@ -7931,14 +8329,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "An engine transfers energy to water at 180 kW and wastes energy at 60 kW. Which expression gives its efficiency?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 180 / 240",
+     "steps": [
+      "Efficiency = useful power output / total power input.",
+      "The useful power is the 180 kW transferred to the water; the total input is 180 + 60 = 240 kW.",
+      "Efficiency = 180 / 240 = 0.75, option A."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-38.jpg",
       "papers/physics/img/06-1E-Power-Energy-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q46.jpg"
+     ]
     },
     {
      "id": "1E-Q47",
@@ -7954,14 +8358,21 @@ window.BANK.physics = {
       "power-time graph"
      ],
      "question": "A cyclist moves along a horizontal road at constant speed, then at the same speed up a hill. Which graph shows how her power output P varies with time t?",
-     "status": "pending",
-     "answer": "Needs the four power-time graphs from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: power steps up to a higher constant value",
+     "steps": [
+      "On the level road at constant speed, her power output is P = Fv, where F balances the resistive forces: a constant, non-zero power.",
+      "Going up the hill at the same speed, she must also supply a force equal to the component of weight down the slope, so the total force and the power P = Fv are larger.",
+      "The gradient and speed are constant, so the power is constant on the hill: a step up from one constant value to a higher constant value, graph D.",
+      "A starts at zero power, B increases steadily, and C steps down."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-38.jpg",
       "papers/physics/img/06-1E-Power-Energy-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q47.jpg"
+     ]
     },
     {
      "id": "1E-Q48a",
@@ -8092,14 +8503,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A moving staircase increases a person's gravitational potential energy by 5000 J in 42 s with efficiency 0.63. Which expression gives the power input in watts?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 5000 / (42 x 0.63)",
+     "steps": [
+      "Useful power output = energy gained / time = 5000 / 42 W.",
+      "Efficiency = useful power output / power input, so power input = useful power / efficiency.",
+      "Power input = 5000 / (42 x 0.63) = 189 W, option C."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-41.jpg",
       "papers/physics/img/06-1E-Power-Energy-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q50.jpg"
+     ]
     },
     {
      "id": "1E-Q51",
@@ -8116,14 +8533,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A car's brakes dissipate average power 50 kW from a constant frictional force F while it moves 13 m in 2.3 s to rest. Which expression gives F in newtons?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: (50 x 10^3 x 2.3) / 13",
+     "steps": [
+      "Energy dissipated by the brakes = average power x time = 50 x 10^3 x 2.3 J.",
+      "This equals the work done by the friction force over 13 m: F x 13 = 50 x 10^3 x 2.3.",
+      "F = (50 x 10^3 x 2.3) / 13 = 8.8 x 10^3 N, option A."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-41.jpg",
       "papers/physics/img/06-1E-Power-Energy-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q51.jpg"
+     ]
     },
     {
      "id": "1E-Q52a",
@@ -8286,15 +8709,23 @@ window.BANK.physics = {
       "gradient"
      ],
      "question": "Sketch the velocity-time graph for the skydiver between jumping and opening the parachute, using the displacement-time graph given.",
-     "status": "pending",
-     "answer": "Needs the displacement-time graph and the empty axes from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A curve starting at the origin with steepest gradient (-g), flattening to a constant velocity of about -45 m s^-1 (downwards) by about 10 s, then a horizontal line at -45 m s^-1 up to about 21 s.",
+     "steps": [
+      "The gradient of the displacement-time graph is the velocity. It is zero at t = 0, so the velocity-time graph starts from the origin.",
+      "The displacement graph gets steeper at first, so the speed increases; the velocity-time graph curves away from zero with a gradient (acceleration) that starts at about g and decreases.",
+      "From about 10 s the displacement-time graph is a straight line of gradient (-800 + 315) / 11 = about -45 m s^-1, so the velocity-time graph becomes a horizontal line at about -45 m s^-1 (terminal velocity), continuing to about 21 s.",
+      "Because displacement is measured downwards as negative, the velocity values are negative (below the time axis); they would be drawn positive if downwards were taken as positive."
+     ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-45.jpg",
       "papers/physics/img/06-1E-Power-Energy-46.jpg",
       "papers/physics/img/06-1E-Power-Energy-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/06-1E-Power-Energy-Q54.jpg",
+      "papers/physics/fig/06-1E-Power-Energy-Q54-2.jpg"
+     ]
     },
     {
      "id": "1E-Q54c",
@@ -11675,7 +12106,9 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-03.jpg",
       "papers/physics/img/09-CP2-Viscosity-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/09-CP2-Viscosity-Q2.jpg"
+     ]
     },
     {
      "id": "CP2-Q2aii",
@@ -11703,7 +12136,9 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-03.jpg",
       "papers/physics/img/09-CP2-Viscosity-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/09-CP2-Viscosity-Q2.jpg"
+     ]
     },
     {
      "id": "CP2-Q2bi",
@@ -11719,15 +12154,21 @@ window.BANK.physics = {
       "terminal velocity"
      ],
      "question": "Which quantity is represented by the first symbol in the equation for viscosity? The symbol is not legible in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the equation from the PDF, since the symbol is not legible in the extracted text; the defined symbols are rho_s, rho_o, r and v.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The weight of the sphere",
+     "steps": [
+      "(4/3) pi r^3 is the volume of the sphere.",
+      "Volume x density of the sphere (rho_s) gives its mass, and multiplying by g gives its weight.",
+      "So (4/3) pi r^3 rho_s g is the weight of the sphere, acting downwards."
+     ],
      "images": [
       "papers/physics/img/09-CP2-Viscosity-02.jpg",
       "papers/physics/img/09-CP2-Viscosity-03.jpg",
       "papers/physics/img/09-CP2-Viscosity-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/09-CP2-Viscosity-Q2-2.jpg"
+     ]
     },
     {
      "id": "CP2-Q2bii",
@@ -11743,15 +12184,21 @@ window.BANK.physics = {
       "quantity"
      ],
      "question": "Which quantity is represented by the second symbol in the viscosity equation? The symbol is not legible in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the equation from the PDF, since the symbol is not legible in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The upthrust on the sphere (the weight of oil it displaces)",
+     "steps": [
+      "(4/3) pi r^3 is the volume of oil displaced by the fully submerged sphere.",
+      "Multiplying by the oil density rho_o and g gives the weight of oil displaced.",
+      "By Archimedes principle this is the upthrust on the sphere, acting upwards."
+     ],
      "images": [
       "papers/physics/img/09-CP2-Viscosity-02.jpg",
       "papers/physics/img/09-CP2-Viscosity-03.jpg",
       "papers/physics/img/09-CP2-Viscosity-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/09-CP2-Viscosity-Q2-2.jpg"
+     ]
     },
     {
      "id": "CP2-Q2biii",
@@ -11767,15 +12214,21 @@ window.BANK.physics = {
       "terminal velocity"
      ],
      "question": "Which quantity is represented by the expression 6 pi r v in the viscosity equation? The symbol is not legible in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the equation from the PDF to confirm the notation; 6 pi r v is the Stokes drag coefficient multiplied by eta.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The viscous drag force on the sphere (Stokes drag)",
+     "steps": [
+      "6 pi r eta v is Stokes' law for the drag force on a small sphere moving through a viscous fluid.",
+      "At terminal velocity this upward drag, with the upthrust, balances the weight.",
+      "So 6 pi r eta v is the viscous drag acting upwards on the sphere."
+     ],
      "images": [
       "papers/physics/img/09-CP2-Viscosity-02.jpg",
       "papers/physics/img/09-CP2-Viscosity-03.jpg",
       "papers/physics/img/09-CP2-Viscosity-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/09-CP2-Viscosity-Q2-2.jpg"
+     ]
     },
     {
      "id": "CP2-Q2biv",
@@ -11803,7 +12256,9 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-03.jpg",
       "papers/physics/img/09-CP2-Viscosity-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/09-CP2-Viscosity-Q2-2.jpg"
+     ]
     },
     {
      "id": "CP2-Q3",
@@ -11819,14 +12274,21 @@ window.BANK.physics = {
       "constant velocity section"
      ],
      "question": "A student releases a ball bearing at point V and times its fall through a measured distance in oil. Which two points should he use? A V and Y; B W and Y; C X and Y; D W and Z. The diagram with the points is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the diagram with points V to Z from the PDF; the correct pair lies within the section where the ball is at terminal velocity.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: X and Y",
+     "steps": [
+      "The timed distance must be one where the ball moves at terminal velocity, so that distance / time gives a constant velocity.",
+      "V and W are in the air or at the surface, where the ball is not in the oil or is still accelerating after entering the oil; using V or W (options A, B, D) includes this accelerating motion.",
+      "X is a short distance below the surface, far enough for the ball to have reached terminal velocity.",
+      "Z is at the bottom of the cylinder, where the base can affect the ball, so Y (above Z) is used as the lower point: X and Y, option C."
+     ],
      "images": [
       "papers/physics/img/09-CP2-Viscosity-04.jpg",
       "papers/physics/img/09-CP2-Viscosity-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/09-CP2-Viscosity-Q3.jpg"
+     ]
     },
     {
      "id": "CP2-Q4",
@@ -11932,16 +12394,23 @@ window.BANK.physics = {
       "terminal velocity"
      ],
      "question": "Deduce from the graph of v against d^2 whether the flow of liquid around the spheres was laminar. The graph is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the v against d^2 graph from the PDF; a straight line through the origin shows v proportional to d^2, so the flow was laminar (Stokes' law obeyed).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Yes: the graph is a straight line through the origin, so v is proportional to d^2 as Stokes' law (laminar flow) predicts.",
+     "steps": [
+      "Stokes' law, valid for laminar flow, gives v = k d^2, which is a straight line through the origin when v is plotted against d^2.",
+      "The points lie close to a single straight best-fit line.",
+      "The line passes through the origin (0, 0), so v is directly proportional to d^2.",
+      "This agrees with Stokes' law, so the flow was laminar."
+     ],
      "images": [
       "papers/physics/img/09-CP2-Viscosity-05.jpg",
       "papers/physics/img/09-CP2-Viscosity-06.jpg",
       "papers/physics/img/09-CP2-Viscosity-07.jpg",
       "papers/physics/img/09-CP2-Viscosity-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/09-CP2-Viscosity-Q5.jpg"
+     ]
     },
     {
      "id": "CP2-Q5cii",
@@ -11957,16 +12426,22 @@ window.BANK.physics = {
       "k value"
      ],
      "question": "Using the student's graph of v against d^2 and v = k d^2, determine the value of k. The graph is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the student's v against d^2 graph from the PDF; k is the gradient of the straight line.",
-     "steps": [],
+     "status": "ready",
+     "answer": "k = 6.0 m^-1 s^-1 (gradient of the line)",
+     "steps": [
+      "v = k d^2, so k is the gradient of the graph of v against d^2.",
+      "Take a large triangle on the line, for example from (0, 0) to (10.0 x 10^-4 m^2, 6.0 x 10^-3 m s^-1).",
+      "k = change in v / change in d^2 = 6.0 x 10^-3 / 10.0 x 10^-4 = 6.0 m^-1 s^-1 (accept about 5.8 to 6.2)."
+     ],
      "images": [
       "papers/physics/img/09-CP2-Viscosity-05.jpg",
       "papers/physics/img/09-CP2-Viscosity-06.jpg",
       "papers/physics/img/09-CP2-Viscosity-07.jpg",
       "papers/physics/img/09-CP2-Viscosity-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/09-CP2-Viscosity-Q5.jpg"
+     ]
     },
     {
      "id": "CP2-Q5ciii",
@@ -11981,17 +12456,24 @@ window.BANK.physics = {
       "gravity",
       "Stokes constant"
      ],
-     "question": "The constant k is given by k = 2(rho_glass - rho_liquid) g / (9 eta). Using rho_glass = 2.52 x 10^3 kg m-3 and rho_liquid = 1.43 x 10^3 kg m-3, determine the viscosity eta. The value of k comes from part (c)(ii), which is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the value of k from part (c)(ii) (from the PDF graph); then eta = 2(rho_glass - rho_liquid) g / (9k).",
-     "steps": [],
+     "question": "The constant k is given by k = (rho_glass - rho_liquid) g / (18 eta), where eta is the viscosity of the liquid. Using rho_glass = 2.52 x 10^3 kg m-3 and rho_liquid = 1.43 x 10^3 kg m-3, determine the viscosity eta. (k = 6.0 m-1 s-1 from part (c)(ii).)",
+     "status": "ready",
+     "answer": "eta = 99 Pa s (about 1.0 x 10^2 Pa s), using k = 6.0 m^-1 s^-1",
+     "steps": [
+      "Rearrange the printed formula k = (rho_g - rho_s) g / (18 eta): eta = (rho_g - rho_s) g / (18 k).",
+      "Density difference = 2.52 x 10^3 - 1.43 x 10^3 = 1.09 x 10^3 kg m^-3.",
+      "eta = 1.09 x 10^3 x 9.81 / (18 x 6.0) = 1.07 x 10^4 / 108.",
+      "eta = 99 Pa s (about 1.0 x 10^2 Pa s)."
+     ],
      "images": [
       "papers/physics/img/09-CP2-Viscosity-05.jpg",
       "papers/physics/img/09-CP2-Viscosity-06.jpg",
       "papers/physics/img/09-CP2-Viscosity-07.jpg",
       "papers/physics/img/09-CP2-Viscosity-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/09-CP2-Viscosity-Q5.jpg"
+     ]
     },
     {
      "id": "CP2-Q6a",
@@ -12062,15 +12544,22 @@ window.BANK.physics = {
       "forces"
      ],
      "question": "A sphere falls through a viscous liquid. Which row of the table describes the upthrust and the viscous drag as it accelerates downwards? The table is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the table from the PDF; the correct row has upthrust constant and viscous drag increasing as the speed increases.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: upthrust constant, viscous drag increasing",
+     "steps": [
+      "The sphere is fully submerged, so it displaces a constant volume of liquid and the upthrust (weight of liquid displaced) stays constant.",
+      "Viscous drag (6 pi eta r v) increases as the speed v increases while the sphere accelerates.",
+      "So upthrust is constant and viscous drag is increasing: row B."
+     ],
      "images": [
       "papers/physics/img/09-CP2-Viscosity-09.jpg",
       "papers/physics/img/09-CP2-Viscosity-10.jpg",
       "papers/physics/img/09-CP2-Viscosity-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/09-CP2-Viscosity-Q7.jpg",
+      "papers/physics/fig/09-CP2-Viscosity-Q7-2.jpg"
+     ]
     },
     {
      "id": "CP2-Q8a",
@@ -12115,15 +12604,22 @@ window.BANK.physics = {
       "viscous drag"
      ],
      "question": "Explain the shape of the graph obtained by the student for the ball-bearing falling through a liquid. The graph is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the student's graph from the PDF to confirm the shape; expected: the speed increases with decreasing gradient (acceleration falls as drag rises) and then becomes constant at terminal velocity.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Gradient (velocity) starts at zero and increases, then becomes constant: the ball accelerates at first, and as the viscous drag rises the acceleration falls to zero, so it falls at constant terminal velocity (a straight line).",
+     "steps": [
+      "At release the ball is at rest, so the gradient of the displacement-time graph (the velocity) is zero at the start.",
+      "Its weight is greater than the upthrust, so there is a downward resultant force and the ball accelerates: the graph gets steeper.",
+      "As its speed increases the viscous drag increases, so the resultant force and the acceleration decrease, and the gradient increases more and more slowly.",
+      "When drag plus upthrust equals weight the resultant force is zero, so the ball moves at constant terminal velocity: the graph is a straight line of constant gradient."
+     ],
      "images": [
       "papers/physics/img/09-CP2-Viscosity-09.jpg",
       "papers/physics/img/09-CP2-Viscosity-10.jpg",
       "papers/physics/img/09-CP2-Viscosity-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/09-CP2-Viscosity-Q8.jpg"
+     ]
     },
     {
      "id": "CP2-Q8bii",
@@ -12139,15 +12635,22 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "The ball-bearing has diameter 1.6 mm and the difference between upthrust and weight is 1.45 x 10^-4 N. Calculate the viscosity, assuming Stokes' law applies. The terminal velocity is needed and is read from the graph.",
-     "status": "pending",
-     "answer": "Needs the terminal velocity from the student's graph in the PDF (not in the text); then eta = F / (6 pi r v) with F = 1.45 x 10^-4 N and r = 0.80 mm.",
-     "steps": [],
+     "status": "ready",
+     "answer": "eta = 0.046 Pa s (about 4.6 x 10^-2 Pa s), using v = 0.21 m s^-1 from the graph",
+     "steps": [
+      "The graph is a straight line from about 0.6 s, so the ball is at terminal velocity: v = gradient = 11.7 cm / (1.15 - 0.60) s = 21 cm s^-1 = 0.21 m s^-1.",
+      "At terminal velocity the drag equals the difference between weight and upthrust: F = 1.45 x 10^-4 N.",
+      "Radius r = 1.6 mm / 2 = 0.80 mm = 8.0 x 10^-4 m.",
+      "Stokes' law F = 6 pi eta r v, so eta = F / (6 pi r v) = 1.45 x 10^-4 / (6 pi x 8.0 x 10^-4 x 0.21) = 0.046 Pa s (graph reading, so accept about 0.044 to 0.048)."
+     ],
      "images": [
       "papers/physics/img/09-CP2-Viscosity-09.jpg",
       "papers/physics/img/09-CP2-Viscosity-10.jpg",
       "papers/physics/img/09-CP2-Viscosity-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/09-CP2-Viscosity-Q8.jpg"
+     ]
     },
     {
      "id": "CP2-Q8biii",
@@ -12427,14 +12930,21 @@ window.BANK.physics = {
       "N per m"
      ],
      "question": "Using the force against extension graph for the constantan wire, show that the stiffness of the wire is about 1.3 x 10^4 N/m.",
-     "status": "pending",
-     "answer": "Needs the force-extension graph from the PDF to read the gradient and check the value of about 1.3 x 10^4 N/m.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Stiffness = gradient of the straight part of the graph = 60 N / 4.6 x 10^-3 m = 1.3 x 10^4 N m^-1",
+     "steps": [
+      "Stiffness k = F / x, which is the gradient of the force-extension graph in its straight-line (elastic) region.",
+      "Take a large triangle on the straight part, from the origin to the point (4.6 mm, 60 N); convert the extension to metres: 4.6 x 10^-3 m.",
+      "k = 60 N / 4.6 x 10^-3 m = 1.30 x 10^4 N m^-1.",
+      "This is about 1.3 x 10^4 N m^-1, as required."
+     ],
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-01.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/10-CP3-Young-Modulus-Q1.jpg"
+     ]
     },
     {
      "id": "CP3-Q1b(ii)",
@@ -12479,15 +12989,22 @@ window.BANK.physics = {
       "Tyrolean traverse"
      ],
      "question": "A climber of weight 650 N is suspended on a rope in a Tyrolean traverse. Using the free-body force diagram, show that the tension in the rope is about 1.3 x 10^3 N.",
-     "status": "pending",
-     "answer": "Needs the rope angle from the free-body diagram in the PDF, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "T = 650 / (2 cos76) = 1.34 x 10^3 N, about 1.3 x 10^3 N",
+     "steps": [
+      "The climber is in equilibrium, so the upward components of the two rope tensions balance the weight of 650 N.",
+      "Each rope makes 76 deg with the vertical, so each has a vertical component T cos76.",
+      "2T cos76 = 650, so T = 650 / (2 x cos76).",
+      "T = 650 / (2 x 0.2419) = 1.34 x 10^3 N, which is about 1.3 x 10^3 N."
+     ],
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-02.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-03.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/10-CP3-Young-Modulus-Q2.jpg"
+     ]
     },
     {
      "id": "CP3-Q2b(i)",
@@ -12503,15 +13020,22 @@ window.BANK.physics = {
       "Tyrolean traverse"
      ],
      "question": "The rope has an unstretched length of 120 m. Determine the strain in the rope while it supports the climber, ignoring the weight of the rope.",
-     "status": "pending",
-     "answer": "Needs the extension of the rope from the PDF diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Strain = 0.031 (3.1 x 10^-2): the stretched length is 123.7 m, an extension of 3.7 m over 120 m",
+     "steps": [
+      "Each half of the rope spans 60 m horizontally (half of the 120 m gap) and makes 76 deg with the vertical.",
+      "Length of one half = 60 / sin76 = 61.8 m, so the stretched length of the rope = 2 x 61.8 = 123.7 m.",
+      "Extension = 123.7 - 120 = 3.7 m.",
+      "Strain = extension / original length = 3.7 / 120 = 0.031."
+     ],
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-02.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-03.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/10-CP3-Young-Modulus-Q2-2.jpg"
+     ]
     },
     {
      "id": "CP3-Q2b(ii)",
@@ -12527,15 +13051,22 @@ window.BANK.physics = {
       "tension"
      ],
      "question": "The rope has cross-sectional area 3.14 x 10^-4 m^2. Using the tension and the strain from earlier parts, determine the Young modulus of the rope material.",
-     "status": "pending",
-     "answer": "Needs the tension from part (a) and the strain from part (b)(i), which depend on the PDF diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "E = 1.4 x 10^8 Pa",
+     "steps": [
+      "Tension in the rope T = 1.34 x 10^3 N (from part (a)).",
+      "Stress = T / A = 1.34 x 10^3 / 3.14 x 10^-4 = 4.3 x 10^6 Pa.",
+      "Strain = 0.031 (from part (b)(i)).",
+      "Young modulus = stress / strain = 4.3 x 10^6 / 0.031 = 1.4 x 10^8 Pa."
+     ],
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-02.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-03.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/10-CP3-Young-Modulus-Q2-2.jpg"
+     ]
     },
     {
      "id": "CP3-Q3",
@@ -12643,16 +13174,23 @@ window.BANK.physics = {
       "2.4 m"
      ],
      "question": "Using the load-extension graph, the original length of 2.4 m and the diameter of 2.3 x 10^-4 m, determine the Young modulus of copper.",
-     "status": "pending",
-     "answer": "Needs the load against extension graph from the PDF to read the gradient, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "E = 1.3 x 10^11 Pa",
+     "steps": [
+      "From the straight part of the graph, take a large triangle, e.g. the point (2.0 x 10^-3 m, 4.5 N): gradient = F / x = 4.5 / 2.0 x 10^-3 = 2.25 x 10^3 N m^-1.",
+      "Cross-sectional area A = pi d^2 / 4 = pi x (2.3 x 10^-4)^2 / 4 = 4.15 x 10^-8 m^2.",
+      "Young modulus E = (F / A) / (x / L) = gradient x L / A.",
+      "E = 2.25 x 10^3 x 2.4 / 4.15 x 10^-8 = 1.3 x 10^11 Pa."
+     ],
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-05.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-06.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-07.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/10-CP3-Young-Modulus-Q5.jpg"
+     ]
     },
     {
      "id": "CP3-Q5c",
@@ -12730,14 +13268,20 @@ window.BANK.physics = {
       "table of readings"
      ],
      "question": "The student repeated the diameter measurements at different positions and orientations. Using the results table, determine the cross-sectional area of the wire.",
-     "status": "pending",
-     "answer": "Needs the table of diameter results from the PDF, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A = 4.3 x 10^-8 m^2 (mean diameter 0.234 mm)",
+     "steps": [
+      "Take the mean of the four diameters: (0.230 + 0.235 + 0.230 + 0.240) / 4 = 0.234 mm = 2.34 x 10^-4 m.",
+      "Area of a circle: A = pi d^2 / 4.",
+      "A = pi x (2.34 x 10^-4)^2 / 4 = 4.3 x 10^-8 m^2."
+     ],
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-08.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/10-CP3-Young-Modulus-Q6.jpg"
+     ]
     },
     {
      "id": "CP3-Q6b(ii)",
@@ -12754,9 +13298,14 @@ window.BANK.physics = {
       "cross-sectional area"
      ],
      "question": "The graph of mass m against extension x has gradient 195 kg/m for a copper sample of length 3.50 m. Determine the Young modulus of the copper.",
-     "status": "pending",
-     "answer": "Needs the cross-sectional area from part (b)(i), whose diameter table is not in the text (use E = gradient x g x L / A).",
-     "steps": [],
+     "status": "ready",
+     "answer": "E = 1.6 x 10^11 Pa",
+     "steps": [
+      "For the wire, F = mg = (EA / L) x, so m = (EA / (gL)) x and the gradient of m against x is EA / (gL).",
+      "Rearranging, E = gradient x g x L / A.",
+      "E = 195 x 9.81 x 3.50 / 4.29 x 10^-8 (using A from part (b)(i)).",
+      "E = 1.56 x 10^11 Pa, about 1.6 x 10^11 Pa."
+     ],
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-08.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-09.jpg"
@@ -12834,15 +13383,21 @@ window.BANK.physics = {
       "elastic"
      ],
      "question": "Using the stress-strain graph for the titanium alloy sample (original length 40.0 cm), determine the Young modulus of the sample.",
-     "status": "pending",
-     "answer": "Needs the stress-strain graph from the PDF to read the gradient of the linear region, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "E = gradient of the linear part = 1.2 x 10^11 Pa (about 120 GPa)",
+     "steps": [
+      "Young modulus = stress / strain = the gradient of the straight (linear) part of the graph.",
+      "Take a large triangle on the straight section, e.g. stress 600 MPa at strain 0.0050.",
+      "E = 600 x 10^6 Pa / 0.0050 = 1.2 x 10^11 Pa (the original length is not needed, since strain is already given)."
+     ],
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-09.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-10.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/10-CP3-Young-Modulus-Q7.jpg"
+     ]
     },
     {
      "id": "CP3-Q7b(ii)",
@@ -12858,15 +13413,21 @@ window.BANK.physics = {
       "titanium alloy"
      ],
      "question": "The titanium alloy sample breaks at point B on the stress-strain graph. Determine the force required to break the sample, using its 5.05 mm diameter.",
-     "status": "pending",
-     "answer": "Needs the stress at point B from the PDF graph; the area from the 5.05 mm diameter is 2.0 x 10^-5 m^2.",
-     "steps": [],
+     "status": "ready",
+     "answer": "F = 2.6 x 10^4 N",
+     "steps": [
+      "At point B the stress on the graph is about 1290 MPa = 1.29 x 10^9 Pa.",
+      "Cross-sectional area A = pi d^2 / 4 = pi x (5.05 x 10^-3)^2 / 4 = 2.0 x 10^-5 m^2.",
+      "Force = stress x area = 1.29 x 10^9 x 2.0 x 10^-5 = 2.6 x 10^4 N (accept a small range, since the stress is read from the graph)."
+     ],
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-09.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-10.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/10-CP3-Young-Modulus-Q7.jpg"
+     ]
     },
     {
      "id": "CP3-Q7b(iii)",
@@ -12896,7 +13457,9 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-10.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/10-CP3-Young-Modulus-Q7-2.jpg"
+     ]
     },
     {
      "id": "CP3-Q7b(iv)",
@@ -12913,15 +13476,22 @@ window.BANK.physics = {
       "stress-strain graph"
      ],
      "question": "Using the fact that the area under a stress-strain graph gives work done per unit volume, estimate the work required to break the titanium alloy sample.",
-     "status": "pending",
-     "answer": "Needs the full stress-strain graph from the PDF to estimate the area under the curve up to breaking, and the sample volume.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 5 x 10^2 J (500 J)",
+     "steps": [
+      "The area under the curve up to B is the work done per unit volume. Estimate it by splitting the area into strips (trapezoids) or counting squares.",
+      "Area from strain 0 to 0.0563 (to B): about 0.0563 x an average stress of roughly 1100 MPa, which is about 6.3 x 10^7 J m^-3 (6.3 x 10^7 Pa).",
+      "Volume of the sample = A L = 2.0 x 10^-5 m^2 x 0.400 m = 8.0 x 10^-6 m^3.",
+      "Work = work per unit volume x volume = 6.3 x 10^7 x 8.0 x 10^-6 = 5 x 10^2 J (accept about 450 to 550 J)."
+     ],
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-09.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-10.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/10-CP3-Young-Modulus-Q7.jpg"
+     ]
     },
     {
      "id": "CP3-Q8a",
@@ -13092,16 +13662,24 @@ window.BANK.physics = {
       "diameter 0.17 mm"
      ],
      "question": "Using the force-extension graph, the wire length of 1.80 m and the diameter of 0.17 mm, deduce which material in the table the wire is made from.",
-     "status": "pending",
-     "answer": "Needs the force-extension graph and the table of Young modulus values from the PDF, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Brass: E = 1.07 x 10^11 Pa (about 106 GPa)",
+     "steps": [
+      "The graph is straight but does not pass through the origin (zero extension at 1 N), so use the gradient, not a single point: gradient = delta-x / F = (10.4 - 0) x 10^-3 / (15 - 1) = 7.4 x 10^-4 m N^-1.",
+      "Area A = pi d^2 / 4 = pi x (0.17 x 10^-3)^2 / 4 = 2.27 x 10^-8 m^2.",
+      "E = F L / (A x) = L / (A x gradient) = 1.80 / (2.27 x 10^-8 x 7.4 x 10^-4).",
+      "E = 1.07 x 10^11 Pa = 107 GPa, which matches brass (106 GPa), not aluminium (68 GPa) or steel (200 GPa)."
+     ],
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-13.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-14.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-15.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/10-CP3-Young-Modulus-Q9.jpg",
+      "papers/physics/fig/10-CP3-Young-Modulus-Q9-2.jpg"
+     ]
     },
     {
      "id": "CP3-Q10",
@@ -13154,14 +13732,21 @@ window.BANK.physics = {
       "oil"
      ],
      "question": "A polystyrene bead moves upwards through oil at constant velocity. Complete the free-body force diagram showing all forces on the bead.",
-     "status": "pending",
-     "answer": "Needs the diagram from the PDF to check the arrows (expected: upthrust up, weight down, viscous drag down)",
-     "steps": [],
+     "status": "ready",
+     "answer": "Add weight (downwards) and viscous drag (downwards); the upthrust already drawn acts upwards and equals weight + drag",
+     "steps": [
+      "The bead rises at constant velocity, so the resultant force on it is zero.",
+      "Weight W acts vertically downwards from the centre of the bead.",
+      "Viscous drag acts downwards as well, because it opposes the upward motion.",
+      "Upthrust = weight + drag, so the upward arrow must be as long as the two downward arrows added together."
+     ],
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-01.jpg",
       "papers/physics/img/11-2A-Stokes-Law-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q1.jpg"
+     ]
     },
     {
      "id": "2A-Q1b",
@@ -13236,14 +13821,22 @@ window.BANK.physics = {
       "terminal velocity"
      ],
      "question": "For Stokes' law to be valid the speed of the bead must be less than v_R, given by a formula. The oil viscosity is 4.90 x 10^-2 Pa s and the bead weight is 1.05 x 10^-5 N. Deduce whether Stokes' law can be applied.",
-     "status": "pending",
-     "answer": "Needs the formula for v_R, which is missing from the text; check it against the PDF before working the answer",
-     "steps": [],
+     "status": "ready",
+     "answer": "Stokes' law cannot be applied: the bead's speed (about 0.16 m s^-1) is greater than v_R = 0.13 m s^-1",
+     "steps": [
+      "From the paper, v_R = 10 x viscosity / (density of oil x diameter) = 10 x 4.90 x 10^-2 / (930 x 4.00 x 10^-3) = 0.13 m s^-1.",
+      "At constant velocity upthrust = weight + drag, so drag D = 3.06 x 10^-4 - 1.05 x 10^-5 = 2.96 x 10^-4 N (upthrust from part (b)).",
+      "Stokes' law: D = 6 pi eta r v, so v = D / (6 pi eta r) = 2.96 x 10^-4 / (6 pi x 4.90 x 10^-2 x 2.00 x 10^-3) = 0.16 m s^-1.",
+      "The bead speed 0.16 m s^-1 is greater than v_R = 0.13 m s^-1, so the flow is not laminar.",
+      "Therefore Stokes' law cannot be applied to this bead."
+     ],
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-01.jpg",
       "papers/physics/img/11-2A-Stokes-Law-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q1-2.jpg"
+     ]
     },
     {
      "id": "2A-Q2a",
@@ -13488,14 +14081,21 @@ window.BANK.physics = {
       "falls faster"
      ],
      "question": "A ball bearing falls at terminal velocity through a liquid. As the temperature of the liquid increases, the terminal velocity increases. Which row of the table is correct?",
-     "status": "pending",
-     "answer": "Needs the table of options from the PDF (the table is not in the text)",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: viscous drag constant, viscosity of the liquid decreases",
+     "steps": [
+      "At terminal velocity the resultant force is zero, so drag = weight - upthrust.",
+      "Weight and upthrust do not change when the liquid warms (density taken as constant), so the drag stays constant.",
+      "Drag = 6 pi eta r v: the same drag at a greater speed v means a smaller viscosity eta, so viscosity decreases as temperature rises.",
+      "Rows C and D (drag decreases) and row A (viscosity increases) are all wrong, so B is correct."
+     ],
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-05.jpg",
       "papers/physics/img/11-2A-Stokes-Law-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q5.jpg"
+     ]
     },
     {
      "id": "2A-Q6a(i)",
@@ -14057,15 +14657,22 @@ window.BANK.physics = {
       "expression"
      ],
      "question": "Using the air resistance expression for a raindrop of radius 2.0 x 10^-3 m (with density of air 1.2 kg m^-3 and rainwater density 1.0 x 10^3 kg m^-3), calculate the terminal velocity.",
-     "status": "pending",
-     "answer": "Needs the air resistance expression, which is missing from the text; check it against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Terminal velocity = 7.0 m s^-1",
+     "steps": [
+      "The air resistance is given on the paper as F = 0.45 rho A v^2, with rho the density of air and A the cross-sectional area.",
+      "At terminal velocity F = weight = (4/3) pi r^3 rho_water g = (4/3) pi (2.0 x 10^-3)^3 x 1.0 x 10^3 x 9.81 = 3.29 x 10^-4 N.",
+      "A = pi r^2 = pi x (2.0 x 10^-3)^2 = 1.26 x 10^-5 m^2.",
+      "v^2 = F / (0.45 rho A) = 3.29 x 10^-4 / (0.45 x 1.2 x 1.26 x 10^-5) = 48.4, so v = 7.0 m s^-1."
+     ],
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-11.jpg",
       "papers/physics/img/11-2A-Stokes-Law-12.jpg",
       "papers/physics/img/11-2A-Stokes-Law-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q12-2.jpg"
+     ]
     },
     {
      "id": "2A-Q12b(i)",
@@ -14082,15 +14689,22 @@ window.BANK.physics = {
       "diagram"
      ],
      "question": "A water drop slides off a leaf. Add to the diagram the positions of the drop at regular intervals of time, given the first two positions.",
-     "status": "pending",
-     "answer": "Needs the diagram from the PDF to check the spacing of the drop positions",
-     "steps": [],
+     "status": "ready",
+     "answer": "Further positions go down and to the right along a smooth curve, with the gap between successive positions getting larger each time",
+     "steps": [
+      "The drop is accelerating downwards (free fall, little air resistance), so in equal time intervals it travels further each time.",
+      "Each new gap between positions is bigger than the one before it, so the dots spread out.",
+      "The sideways speed from leaving the leaf stays roughly constant, so the horizontal spacing stays equal while the vertical spacing grows, giving a curved (parabolic) path.",
+      "Mark at least two more positions along this curve, continuing from the two given."
+     ],
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-11.jpg",
       "papers/physics/img/11-2A-Stokes-Law-12.jpg",
       "papers/physics/img/11-2A-Stokes-Law-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q12.jpg"
+     ]
     },
     {
      "id": "2A-Q12b(ii)",
@@ -14177,7 +14791,9 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-13.jpg",
       "papers/physics/img/11-2A-Stokes-Law-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q13.jpg"
+     ]
     },
     {
      "id": "2A-Q13b(ii)",
@@ -14226,14 +14842,21 @@ window.BANK.physics = {
       "spherical"
      ],
      "question": "An object is moving through a fluid. Which row of the table states the conditions that must be met for Stokes' law to apply?",
-     "status": "pending",
-     "answer": "Needs the table of rows from the PDF (not in the text)",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: small, spherical, laminar flow",
+     "steps": [
+      "Stokes' law (drag = 6 pi eta r v) is derived for a small sphere moving through a fluid with laminar flow.",
+      "Rows A and B (turbulent flow) are wrong, because turbulent drag is not given by Stokes' law.",
+      "Row D allows any shape, but the law only holds for a sphere.",
+      "Only row C has small, spherical and laminar, so C is correct."
+     ],
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-14.jpg",
       "papers/physics/img/11-2A-Stokes-Law-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q14.jpg"
+     ]
     },
     {
      "id": "2A-Q15a",
@@ -14279,15 +14902,21 @@ window.BANK.physics = {
       "graph shape"
      ],
      "question": "The data-logger graph of a falling ball-bearing is shown. Explain the shape of the graph.",
-     "status": "pending",
-     "answer": "Needs the graph from the PDF to check the shape it shows",
-     "steps": [],
+     "status": "ready",
+     "answer": "The ball starts from rest (zero gradient), accelerates (gradient increases), then the graph becomes a straight line, showing a constant terminal velocity",
+     "steps": [
+      "The gradient of a displacement-time graph is the velocity. At t = 0 the gradient is zero because the ball is released from rest.",
+      "Over the first 0.6 s the graph gets steeper: the ball accelerates because its weight is greater than upthrust + drag, but the drag grows with speed, so the acceleration gets smaller.",
+      "After about 0.6 s the graph is a straight line, so the velocity is constant: drag + upthrust = weight, the resultant force is zero, and the ball is at terminal velocity."
+     ],
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-15.jpg",
       "papers/physics/img/11-2A-Stokes-Law-16.jpg",
       "papers/physics/img/11-2A-Stokes-Law-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q15.jpg"
+     ]
     },
     {
      "id": "2A-Q15b(ii)",
@@ -14305,15 +14934,22 @@ window.BANK.physics = {
       "drag"
      ],
      "question": "A ball-bearing of diameter 1.6 mm has a difference of 1.45 x 10^-4 N between its upthrust and weight. Calculate the viscosity of the liquid, assuming Stokes' law applies.",
-     "status": "pending",
-     "answer": "Needs the terminal velocity read from the graph, which is not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Viscosity = 4.6 x 10^-2 Pa s (about 0.046 Pa s)",
+     "steps": [
+      "Terminal velocity is the gradient of the straight part of the graph, e.g. from t = 0.6 s (11.6 cm) to t = 1.1 s (1.3 cm): v = 10.3 x 10^-2 m / 0.5 s = 0.21 m s^-1.",
+      "At terminal velocity the drag equals the difference between weight and upthrust, D = 1.45 x 10^-4 N.",
+      "Radius r = 0.80 x 10^-3 m. Stokes' law: D = 6 pi eta r v, so eta = D / (6 pi r v).",
+      "eta = 1.45 x 10^-4 / (6 pi x 0.80 x 10^-3 x 0.21) = 1.45 x 10^-4 / 3.17 x 10^-3 = 4.6 x 10^-2 Pa s."
+     ],
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-15.jpg",
       "papers/physics/img/11-2A-Stokes-Law-16.jpg",
       "papers/physics/img/11-2A-Stokes-Law-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q15.jpg"
+     ]
     },
     {
      "id": "2A-Q15b(iii)",
@@ -14433,7 +15069,9 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-18.jpg",
       "papers/physics/img/11-2A-Stokes-Law-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q16.jpg"
+     ]
     },
     {
      "id": "2A-Q16b(ii)",
@@ -14450,15 +15088,22 @@ window.BANK.physics = {
       "slope"
      ],
      "question": "Determine the vertical acceleration of the diver at 70 s from the velocity-time graph.",
-     "status": "pending",
-     "answer": "Needs the velocity-time graph from the PDF to read the gradient at 70 s",
-     "steps": [],
+     "status": "ready",
+     "answer": "Acceleration = -9 x 10^-3 m s^-2 (about 0.009 m s^-2 downwards, the upward velocity is decreasing)",
+     "steps": [
+      "Acceleration is the gradient of the v-t graph, so draw a tangent to the curve at t = 70 s.",
+      "Over the curve near 70 s, v falls from about 0.38 m s^-1 at 67 s to about 0.32 m s^-1 at 74 s.",
+      "Gradient = (0.32 - 0.38) / (74 - 67) = -0.06 / 7 = -8.6 x 10^-3, about -9 x 10^-3 m s^-2.",
+      "The negative sign means the acceleration is downwards (opposite to the upward velocity); values from -8 x 10^-3 to -1.0 x 10^-2 m s^-2 are acceptable from a graph reading."
+     ],
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-17.jpg",
       "papers/physics/img/11-2A-Stokes-Law-18.jpg",
       "papers/physics/img/11-2A-Stokes-Law-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q16.jpg"
+     ]
     },
     {
      "id": "2A-Q17",
@@ -14649,15 +15294,21 @@ window.BANK.physics = {
       "glass spheres"
      ],
      "question": "The graph of terminal velocity v against d^2 is shown. Deduce from the graph whether the flow of liquid around the spheres was laminar.",
-     "status": "pending",
-     "answer": "Needs the graph from the PDF to check whether v against d^2 is a straight line through the origin",
-     "steps": [],
+     "status": "ready",
+     "answer": "Yes: v against d^2 is a straight line through the origin, so v is proportional to d^2 as Stokes' law predicts, which needs laminar flow",
+     "steps": [
+      "Stokes' law gives v = k d^2 only when the flow is laminar.",
+      "The graph is a straight line through the origin, and the points lie close to the line, with no curve at larger d.",
+      "So v is proportional to d^2, which agrees with the prediction of Stokes' law, so the flow around the spheres was laminar."
+     ],
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-20.jpg",
       "papers/physics/img/11-2A-Stokes-Law-21.jpg",
       "papers/physics/img/11-2A-Stokes-Law-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q19.jpg"
+     ]
     },
     {
      "id": "2A-Q19c(ii)",
@@ -14674,15 +15325,21 @@ window.BANK.physics = {
       "glass spheres"
      ],
      "question": "Using the student's graph of v against d^2, where Stokes' law gives v = k d^2, determine a value for k.",
-     "status": "pending",
-     "answer": "Needs the graph values from the PDF to find the gradient k",
-     "steps": [],
+     "status": "ready",
+     "answer": "k = 6.0 m^-1 s^-1",
+     "steps": [
+      "k = v / d^2 is the gradient of the best-fit line through the origin.",
+      "Take a large triangle: at d^2 = 10.0 x 10^-4 m^2 the line gives v = 6.0 x 10^-3 m s^-1.",
+      "k = 6.0 x 10^-3 / 10.0 x 10^-4 = 6.0 m^-1 s^-1 (the far end of the line, 7.7 x 10^-3 at 12.9 x 10^-4, gives the same value)."
+     ],
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-20.jpg",
       "papers/physics/img/11-2A-Stokes-Law-21.jpg",
       "papers/physics/img/11-2A-Stokes-Law-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q19.jpg"
+     ]
     },
     {
      "id": "2A-Q19c(iii)",
@@ -14699,15 +15356,21 @@ window.BANK.physics = {
       "liquid"
      ],
      "question": "The constant k is given by a formula involving the viscosity of the liquid. Using density of glass 2.52 x 10^3 kg m^-3 and density of liquid 1.43 x 10^3 kg m^-3, determine a value for the viscosity.",
-     "status": "pending",
-     "answer": "Needs the value of k from part (ii) and the formula for k, which is missing from the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Viscosity = 99 Pa s (about 1.0 x 10^2 Pa s)",
+     "steps": [
+      "The paper gives k = (rho_g - rho_s) g / (18 eta), so eta = (rho_g - rho_s) g / (18 k).",
+      "rho_g - rho_s = 2.52 x 10^3 - 1.43 x 10^3 = 1.09 x 10^3 kg m^-3, and k = 6.0 m^-1 s^-1 from part (ii).",
+      "eta = 1.09 x 10^3 x 9.81 / (18 x 6.0) = 1.07 x 10^4 / 108 = 99 Pa s."
+     ],
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-20.jpg",
       "papers/physics/img/11-2A-Stokes-Law-21.jpg",
       "papers/physics/img/11-2A-Stokes-Law-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q19-2.jpg"
+     ]
     },
     {
      "id": "2A-Q20a(i)",
@@ -14736,7 +15399,9 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-23.jpg",
       "papers/physics/img/11-2A-Stokes-Law-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q20.jpg"
+     ]
     },
     {
      "id": "2A-Q20a(ii)",
@@ -14765,7 +15430,9 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-23.jpg",
       "papers/physics/img/11-2A-Stokes-Law-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q20.jpg"
+     ]
     },
     {
      "id": "2A-Q20b(i)",
@@ -14782,15 +15449,20 @@ window.BANK.physics = {
       "falling sphere"
      ],
      "question": "The student used an equation for the viscosity of the oil with symbols defined in the text. Which quantity is represented by the symbol shown in part (i)?",
-     "status": "pending",
-     "answer": "Needs the equation from the PDF, since its symbols are missing from the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "The weight of the sphere",
+     "steps": [
+      "(4/3) pi r^3 is the volume of the sphere.",
+      "Multiplying by rho_s gives the mass of the sphere, and multiplying by g gives its weight."
+     ],
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-22.jpg",
       "papers/physics/img/11-2A-Stokes-Law-23.jpg",
       "papers/physics/img/11-2A-Stokes-Law-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q20-2.jpg"
+     ]
     },
     {
      "id": "2A-Q20b(ii)",
@@ -14807,15 +15479,20 @@ window.BANK.physics = {
       "stokes"
      ],
      "question": "Which quantity is represented by the symbol shown in part (ii) of the viscosity equation?",
-     "status": "pending",
-     "answer": "Needs the equation from the PDF, since its symbols are missing from the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "The upthrust on the sphere (the weight of oil it displaces)",
+     "steps": [
+      "(4/3) pi r^3 is the volume of oil displaced by the fully submerged sphere.",
+      "Multiplying by rho_o g gives the weight of the displaced oil, which is the upthrust (Archimedes principle)."
+     ],
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-22.jpg",
       "papers/physics/img/11-2A-Stokes-Law-23.jpg",
       "papers/physics/img/11-2A-Stokes-Law-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q20-2.jpg"
+     ]
     },
     {
      "id": "2A-Q20b(iii)",
@@ -14844,7 +15521,9 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-23.jpg",
       "papers/physics/img/11-2A-Stokes-Law-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q20-2.jpg"
+     ]
     },
     {
      "id": "2A-Q20b(iv)",
@@ -14905,7 +15584,9 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-25.jpg",
       "papers/physics/img/11-2A-Stokes-Law-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q21.jpg"
+     ]
     },
     {
      "id": "2A-Q21a(ii)",
@@ -15099,14 +15780,21 @@ window.BANK.physics = {
       "row"
      ],
      "question": "A sphere falls through a viscous liquid. Which row of the table describes the upthrust and viscous drag as the sphere accelerates downwards?",
-     "status": "pending",
-     "answer": "Needs the table of rows from the PDF (not in the text)",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: upthrust constant, viscous drag increasing",
+     "steps": [
+      "The sphere is fully submerged, so the volume of liquid it displaces does not change and the upthrust (rho V g) stays constant.",
+      "Viscous drag = 6 pi eta r v increases as the speed v increases while the sphere accelerates.",
+      "Only row B has constant upthrust and increasing drag."
+     ],
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-27.jpg",
       "papers/physics/img/11-2A-Stokes-Law-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q23.jpg",
+      "papers/physics/fig/11-2A-Stokes-Law-Q23-2.jpg"
+     ]
     },
     {
      "id": "2A-Q24",
@@ -15123,14 +15811,21 @@ window.BANK.physics = {
       "diagram"
      ],
      "question": "A student releases a ball bearing at point V and times its fall to determine its terminal velocity in oil. Which two points (A: V and Y, B: W and Y, C: X and Y, D: W and Z) should be used for the measured distance?",
-     "status": "pending",
-     "answer": "Needs the diagram showing points V, W, X, Y and Z (not in the text)",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: X and Y",
+     "steps": [
+      "The ball must be timed only while it is moving at constant (terminal) velocity.",
+      "V is above the oil and W is at the surface, where the ball is still accelerating, so a timed section starting there would include the acceleration.",
+      "Z is too close to the base of the cylinder, where the ball slows and is hard to time.",
+      "X is a little below the surface (ball nearly at terminal velocity) and Y is well above the base, so X to Y is the best measured distance."
+     ],
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-28.jpg",
       "papers/physics/img/11-2A-Stokes-Law-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q24.jpg"
+     ]
     },
     {
      "id": "2A-Q25",
@@ -15158,7 +15853,9 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-29.jpg",
       "papers/physics/img/11-2A-Stokes-Law-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q25.jpg"
+     ]
     },
     {
      "id": "2A-Q26a",
@@ -15233,15 +15930,21 @@ window.BANK.physics = {
       "viscosity"
      ],
      "question": "A student uses the falling-ball method on vegetable oil. Give one other measurement needed to determine the viscosity of the oil.",
-     "status": "pending",
-     "answer": "Needs the PDF mark scheme or diagram to confirm which measurement is expected (the text does not name it)",
-     "steps": [],
+     "status": "ready",
+     "answer": "The mass of the ball-bearing (to find its weight); the density of the oil is also acceptable",
+     "steps": [
+      "Drag at terminal velocity = weight - upthrust, and then eta = drag / (6 pi r v).",
+      "Diameter and the speed (20.0 cm / time) are already measured, so the weight is still needed, found from the mass of the ball-bearing (or its density).",
+      "The upthrust also needs the density of the oil, so measuring that is another valid answer."
+     ],
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-30.jpg",
       "papers/physics/img/11-2A-Stokes-Law-31.jpg",
       "papers/physics/img/11-2A-Stokes-Law-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/11-2A-Stokes-Law-Q27.jpg"
+     ]
     },
     {
      "id": "2A-Q27b",
@@ -15412,15 +16115,21 @@ window.BANK.physics = {
       "calculation"
      ],
      "question": "A cylinder of aluminium has weight 35.0 N and volume 1.32 x 10^-3 m^3. Which calculation gives its density in kg m^-3? The options A to D are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the answer options A to D are missing from the text (they appear only as an image in the PDF).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 35.0 / (9.81 x 1.32 x 10^-3)",
+     "steps": [
+      "Density = mass / volume, and the mass is found from the weight: m = W / g = 35.0 / 9.81.",
+      "So density = (35.0 / 9.81) / (1.32 x 10^-3) = 35.0 / (9.81 x 1.32 x 10^-3), which is about 2.7 x 10^3 kg m^-3.",
+      "Options A and D multiply by g instead of dividing, and B is the inverse of the density, so only C is correct."
+     ],
      "images": [
       "papers/physics/img/12-2B-Density-Upthrust-01.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-02.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q1.jpg"
+     ]
     },
     {
      "id": "2B-Q2a(i)",
@@ -15773,14 +16482,25 @@ window.BANK.physics = {
       "assess statements"
      ],
      "question": "Assess which of two internet statements explains why old eggs float: Statement 1 says decomposition produces gases that escape through the shell; Statement 2 says air enters the egg and enlarges the air cell.",
-     "status": "pending",
-     "answer": "Pending: the wording of Statement 1 and Statement 2 is in boxes in the PDF and is missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Statement 2 is correct: the larger air cell lowers the average density of the egg below that of water, so the old egg floats",
+     "steps": [
+      "The 1-day egg sinks: even when fully submerged the upthrust (rho_water V g) is less than its weight, so its average density is greater than that of water.",
+      "The 1-month egg floats with part of it above the surface: weight = upthrust = weight of water displaced, so its average density is less than that of water.",
+      "As the egg ages, air enters through the porous shell and the air cell gets bigger, replacing denser egg contents. The shell fixes the volume, so the same volume now has less mass and the average density falls.",
+      "This makes the maximum possible upthrust greater than the weight, so the old egg floats: the larger air cell does act as a flotation device, as Statement 2 says.",
+      "Statement 1 is not correct: gas that escapes through the shell leaves the egg, so it cannot give any upthrust or hold the egg up, and it says nothing about the air cell. Any small loss of mass is not the main cause.",
+      "Conclusion: Statement 2 is the correct explanation."
+     ],
      "images": [
       "papers/physics/img/12-2B-Density-Upthrust-07.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q5.jpg",
+      "papers/physics/fig/12-2B-Density-Upthrust-Q5-2.jpg",
+      "papers/physics/fig/12-2B-Density-Upthrust-Q5-3.jpg"
+     ]
     },
     {
      "id": "2B-Q6a",
@@ -15797,15 +16517,22 @@ window.BANK.physics = {
       "suspended in water"
      ],
      "question": "Draw a free-body force diagram for the uniform sphere when it is suspended in water by a thread, as in the apparatus.",
-     "status": "pending",
-     "answer": "Pending: the answer is a drawn free-body diagram, which is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Three forces on the sphere: weight W downwards, upthrust U upwards and tension T in the thread upwards, with W = U + T",
+     "steps": [
+      "Weight W acts vertically downwards from the centre of the sphere.",
+      "Upthrust U (the weight of the water displaced) acts vertically upwards.",
+      "Tension T from the thread acts vertically upwards along the thread.",
+      "The sphere is at rest, so the downward arrow equals the two upward arrows added together (W = U + T). Here the sphere is twice as dense as water, so U = T = W/2."
+     ],
      "images": [
       "papers/physics/img/12-2B-Density-Upthrust-08.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-09.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q6.jpg"
+     ]
     },
     {
      "id": "2B-Q6b(i)",
@@ -15835,7 +16562,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-09.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q6-2.jpg"
+     ]
     },
     {
      "id": "2B-Q6b(ii)",
@@ -15865,7 +16594,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-09.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q6-2.jpg"
+     ]
     },
     {
      "id": "2B-Q6b(iii)",
@@ -15895,7 +16626,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-09.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q6-2.jpg"
+     ]
     },
     {
      "id": "2B-Q7a",
@@ -16213,14 +16946,21 @@ window.BANK.physics = {
       "ratio"
      ],
      "question": "A small cube of side x and a larger cube of side 1.5x are weighed on a balance. Which option gives the density of the larger cube in terms of the density of the smaller cube?",
-     "status": "pending",
-     "answer": "Pending: the two balance readings (both shown as 50.00 g in the figures) are not in the extracted text, so the mass ratio cannot be confirmed from the text alone.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: rho_L = 0.30 rho_S",
+     "steps": [
+      "Both balances read 50.00 g, so the two cubes have the same mass.",
+      "The volume of the larger cube is (1.5x)^3 = 3.375 x^3, which is 3.375 times the volume of the smaller cube.",
+      "Density = mass / volume, so rho_L = rho_S / 3.375 = 0.296 rho_S, about 0.30 rho_S."
+     ],
      "images": [
       "papers/physics/img/12-2B-Density-Upthrust-16.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q11.jpg",
+      "papers/physics/fig/12-2B-Density-Upthrust-Q11-2.jpg"
+     ]
     },
     {
      "id": "2B-Q12",
@@ -16237,14 +16977,20 @@ window.BANK.physics = {
       "immersed"
      ],
      "question": "A sphere of weight 2.5 N floats with a fraction of its volume beneath the water surface. A force F is applied to completely immerse it. Which option gives the minimum value of F?",
-     "status": "pending",
-     "answer": "Pending: the fraction of the volume beneath the surface and the options C and D are garbled or missing in the extracted text; they are readable only from the PDF image.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 1 x 2.5 N",
+     "steps": [
+      "Floating with half its volume submerged, the upthrust equals the weight: U = 2.5 N.",
+      "Fully immersed, the sphere displaces twice as much water, so the upthrust is 2 x 2.5 = 5.0 N.",
+      "The minimum force holds the sphere just fully submerged in equilibrium: F + weight = upthrust, so F = 5.0 - 2.5 = 2.5 N = 1 x 2.5 N."
+     ],
      "images": [
       "papers/physics/img/12-2B-Density-Upthrust-16.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q12.jpg"
+     ]
     },
     {
      "id": "2B-Q13a",
@@ -16321,15 +17067,22 @@ window.BANK.physics = {
       "upthrust"
      ],
      "question": "Using a graph of air density against height, deduce whether the balloon could support the equipment at 25 km without its volume exceeding 50 m^3.",
-     "status": "pending",
-     "answer": "Pending: the air density at 25 km must be read from the density-height graph, which is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Yes: the volume needed at 25 km is about 31 m^3, which is less than 50 m^3, so the balloon can support the equipment without bursting",
+     "steps": [
+      "Read the air density at 25 km from the graph: about 0.044 kg m^-3 (0.04 to 0.05 is acceptable).",
+      "The balloon stops rising when the upthrust equals the weight of the balloon and equipment: rho V g = m g, so V = m / rho.",
+      "Using m = 1.35 kg from part (i), V = 1.35 / 0.044 = 31 m^3.",
+      "31 m^3 is less than the 50 m^3 bursting limit, so the balloon could reach 25 km and support the equipment without bursting."
+     ],
      "images": [
       "papers/physics/img/12-2B-Density-Upthrust-17.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-18.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q13.jpg"
+     ]
     },
     {
      "id": "2B-Q13c",
@@ -16468,15 +17221,21 @@ window.BANK.physics = {
       "forces"
      ],
      "question": "Complete the free-body diagram showing the forces on a hydrometer floating vertically in pure water at equilibrium.",
-     "status": "pending",
-     "answer": "Pending: the answer is a completed free-body diagram; the diagram is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw two equal vertical arrows from the dot: weight downwards and upthrust upwards",
+     "steps": [
+      "The hydrometer floats at rest, so it is in equilibrium and the resultant force is zero.",
+      "Weight acts vertically downwards from the centre of the hydrometer.",
+      "Upthrust (the weight of water displaced) acts vertically upwards, with an arrow of the same length as the weight, since the two forces balance."
+     ],
      "images": [
       "papers/physics/img/12-2B-Density-Upthrust-22.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-23.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q16.jpg"
+     ]
     },
     {
      "id": "2B-Q16b(i)",
@@ -16507,7 +17266,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-23.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q16-2.jpg"
+     ]
     },
     {
      "id": "2B-Q16b(ii)",
@@ -16540,7 +17301,9 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-23.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q16-2.jpg"
+     ]
     },
     {
      "id": "2B-Q17",
@@ -16557,15 +17320,21 @@ window.BANK.physics = {
       "rho g"
      ],
      "question": "A solid cube of weight W is made from material of density rho. Which expression gives the length of each side of the cube? The options A to D are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the four expression options A to D are missing from the text (they appear only as images in the PDF).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: cube root of (W / (rho g))",
+     "steps": [
+      "Weight W = m g = rho V g, so the volume is V = W / (rho g).",
+      "A cube of side L has volume L^3, so L^3 = W / (rho g).",
+      "Therefore L = cube root of (W / (rho g)), which is option D."
+     ],
      "images": [
       "papers/physics/img/12-2B-Density-Upthrust-24.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-25.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q17.jpg"
+     ]
     },
     {
      "id": "2B-Q18a",
@@ -16671,15 +17440,22 @@ window.BANK.physics = {
       "angle"
      ],
      "question": "A submarine has a horizontal engine force of 70 N and a drag force of 43 N at 25 degrees to the horizontal. Find the magnitude and direction of the resultant force.",
-     "status": "pending",
-     "answer": "Pending: the direction of the 43 N drag force (below the horizontal and towards the front) is shown only in the diagram, not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Resultant force = 36 N, at 30 degrees below the horizontal, pointing to the left (the same side as the 70 N engine force)",
+     "steps": [
+      "Scale diagram: draw the 70 N force 7.0 cm to the left (1 cm = 10 N), then from its tip draw the 43 N force (4.3 cm) at 25 degrees below the horizontal, going right.",
+      "The resultant joins the start of the first arrow to the end of the second and measures about 3.6 cm, so 36 N.",
+      "Check by components: horizontal = -70 + 43 cos 25 = -31.0 N, vertical = -43 sin 25 = -18.2 N.",
+      "Magnitude = sqrt(31.0^2 + 18.2^2) = 36 N, and the angle below the horizontal = tan^-1(18.2 / 31.0) = 30 degrees."
+     ],
      "images": [
       "papers/physics/img/12-2B-Density-Upthrust-26.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-27.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/12-2B-Density-Upthrust-Q20.jpg"
+     ]
     },
     {
      "id": "2B-Q20b",
@@ -17007,13 +17783,19 @@ window.BANK.physics = {
       "hookes law"
      ],
      "question": "A spring compressed by 50 N has length 12.0 cm, and by 70 N has length 7.1 cm. Which expression gives its stiffness in N cm^-1? The four options A to D are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the answer options A to D are missing from the extracted text (they appear only as images in the PDF).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: (70 - 50) / (12.0 - 7.1)",
+     "steps": [
+      "Stiffness k = change in force / change in length (compression).",
+      "The force changes by 70 - 50 = 20 N and the length changes by 12.0 - 7.1 = 4.9 cm.",
+      "So k = (70 - 50) / (12.0 - 7.1) = 4.1 N cm^-1, which is option B. Option D wrongly uses 4.9 as a length and subtracts it again."
+     ],
      "images": [
       "papers/physics/img/13-2C-Hookes-Law-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/13-2C-Hookes-Law-Q4.jpg"
+     ]
     },
     {
      "id": "2C-Q5",
@@ -17030,13 +17812,20 @@ window.BANK.physics = {
       "N mm-1"
      ],
      "question": "Two identical springs are in series with a 45.0 N force applied, and they extend a total of 15 mm. Which expression gives the stiffness of each spring in N mm^-1? The four options A to D are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the answer options A to D are missing from the extracted text (they appear only as images in the PDF).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 2 x 45 / 15 (6.0 N mm^-1)",
+     "steps": [
+      "The two identical springs are in series, so each carries the full force of 45.0 N and the total extension is shared equally.",
+      "Each spring extends 15 / 2 = 7.5 mm.",
+      "Stiffness of each spring k = F / x = 45 / (15 / 2) = 2 x 45 / 15 = 6.0 N mm^-1, which is option D."
+     ],
      "images": [
       "papers/physics/img/13-2C-Hookes-Law-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/13-2C-Hookes-Law-Q5.jpg",
+      "papers/physics/fig/13-2C-Hookes-Law-Q5-2.jpg"
+     ]
     },
     {
      "id": "2C-Q6",
@@ -17259,15 +18048,22 @@ window.BANK.physics = {
       "force length graph"
      ],
      "question": "A force stretches a spring, and a graph shows the spring length against applied force. Which option gives the stiffness of the spring?",
-     "status": "pending",
-     "answer": "Pending: the force-length graph and the answer options are not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: the gradient of the graph",
+     "steps": [
+      "Hooke's law: F = k x, where x is the extension, which is the length of the spring minus its original length.",
+      "On a graph of force (y-axis) against length (x-axis), the gradient is change in force / change in length = k.",
+      "So the stiffness is the gradient of the graph (the straight part), option C. 1 / gradient would be the extension per unit force."
+     ],
      "images": [
       "papers/physics/img/13-2C-Hookes-Law-11.jpg",
       "papers/physics/img/13-2C-Hookes-Law-12.jpg",
       "papers/physics/img/13-2C-Hookes-Law-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/13-2C-Hookes-Law-Q11.jpg",
+      "papers/physics/fig/13-2C-Hookes-Law-Q11-2.jpg"
+     ]
     },
     {
      "id": "2C-Q12a",
@@ -17369,15 +18165,22 @@ window.BANK.physics = {
       "energy"
      ],
      "question": "The spring returns to its original length L. Sketch a graph of the ball's velocity against the length of the spring.",
-     "status": "pending",
-     "answer": "Pending: the answer is a sketched graph on axes printed in the PDF, which cannot be given as text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A curve starting at zero velocity at a length below L (the compressed length), rising with decreasing gradient to a maximum velocity at L, where the gradient is zero",
+     "steps": [
+      "The spring starts compressed (length less than L, to the left of L on the axis) with the ball at rest, so the curve starts on the length axis at v = 0.",
+      "As the spring extends, the ball speeds up, but the spring force falls, so the acceleration decreases and the curve becomes less steep.",
+      "At the original length L the spring force is zero (no acceleration), so the velocity is at its maximum and the curve is horizontal there.",
+      "The shape is a quarter of an ellipse from (compressed length, 0) to (L, v_max), because (1/2) m v^2 = (1/2) k (x0^2 - x^2)."
+     ],
      "images": [
       "papers/physics/img/13-2C-Hookes-Law-11.jpg",
       "papers/physics/img/13-2C-Hookes-Law-12.jpg",
       "papers/physics/img/13-2C-Hookes-Law-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/13-2C-Hookes-Law-Q12.jpg"
+     ]
     },
     {
      "id": "2C-Q13",
@@ -17394,14 +18197,21 @@ window.BANK.physics = {
       "hookes law"
      ],
      "question": "A spring of original length p is stretched to length q by an increasing force up to R. Using the graph, which expression gives its stiffness? The graph and options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the graph and the answer options are missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: R / (q - p)",
+     "steps": [
+      "The extension is q - p when the force is R, so Hooke's law gives k = F / x = R / (q - p).",
+      "The graph plots length against force, so its gradient (q - p) / R is 1 / k, not k.",
+      "So the stiffness is R / (q - p), which is option D."
+     ],
      "images": [
       "papers/physics/img/13-2C-Hookes-Law-13.jpg",
       "papers/physics/img/13-2C-Hookes-Law-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/13-2C-Hookes-Law-Q13.jpg",
+      "papers/physics/fig/13-2C-Hookes-Law-Q13-2.jpg"
+     ]
     },
     {
      "id": "2C-Q14",
@@ -17418,13 +18228,19 @@ window.BANK.physics = {
       "scaling"
      ],
      "question": "A force F stretches a spring of stiffness k by x. A force 2F is applied to a second spring of stiffness 3k. Which expression gives the extension of the second spring? The options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the extracted text (they appear only as images in the PDF).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: (2/3) delta x",
+     "steps": [
+      "First spring: delta x = F / k.",
+      "Second spring: extension = 2F / (3k) = (2/3)(F / k) = (2/3) delta x.",
+      "So the answer is option A."
+     ],
      "images": [
       "papers/physics/img/13-2C-Hookes-Law-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/13-2C-Hookes-Law-Q14.jpg"
+     ]
     }
    ]
   },
@@ -17449,14 +18265,20 @@ window.BANK.physics = {
       "stress strain"
      ],
      "question": "A compressive force F acts on an object of Young modulus E, original length x and cross-sectional area A. Which expression gives the length after the force is applied? The options A to D are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the answer options A to D are missing from the extracted text (they appear only as images in the PDF).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: x - Fx / (AE)",
+     "steps": [
+      "Stress = F / A and strain = stress / E = F / (AE).",
+      "The compression is strain x original length = Fx / (AE).",
+      "The force is compressive, so the length gets shorter: new length = x - Fx / (AE), which is option D."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-01.jpg",
       "papers/physics/img/14-2D-Stress-Strain-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q1.jpg"
+     ]
     },
     {
      "id": "2D-Q2a",
@@ -17554,14 +18376,20 @@ window.BANK.physics = {
       "tensile force"
      ],
      "question": "A force is applied to a copper wire. Which row of the length and diameter table would give the greatest extension? The table is not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the table of lengths and diameters (rows A to D) is missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: length 2x, diameter D",
+     "steps": [
+      "Extension = F L / (A E), so for the same force and material extension is proportional to L / A, which is proportional to L / d^2.",
+      "Row A: x / D^2 = 1 unit, row B: x / (4D^2) = 0.25, row C: 2x / D^2 = 2, row D: 2x / (4D^2) = 0.5.",
+      "Row C has the largest value of L / d^2, so it gives the greatest extension."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-02.jpg",
       "papers/physics/img/14-2D-Stress-Strain-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q3.jpg"
+     ]
     },
     {
      "id": "2D-Q4",
@@ -17577,14 +18405,20 @@ window.BANK.physics = {
       "definition"
      ],
      "question": "Which row of the table shows the correct application of the terms stiffness constant and Young modulus? The table is not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the table with the four rows (A to D) is missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: stiffness constant applies to objects, Young modulus applies to materials",
+     "steps": [
+      "The stiffness constant k = F / x depends on the size and shape of the object (for a wire, k = EA / L).",
+      "The Young modulus is stress / strain, a property of the material that does not depend on the dimensions of the sample.",
+      "So the stiffness constant applies to objects and the Young modulus to materials: row D."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-02.jpg",
       "papers/physics/img/14-2D-Stress-Strain-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q4.jpg"
+     ]
     },
     {
      "id": "2D-Q5",
@@ -17601,14 +18435,19 @@ window.BANK.physics = {
       "dimensionless"
      ],
      "question": "A 50 cm wire extends by 2 mm under a load. Which option gives the strain? The options A to D are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the answer options A to D are missing from the extracted text (expected strain 0.004).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 0.004",
+     "steps": [
+      "Strain = extension / original length.",
+      "Both in the same units: 2 mm / 500 mm = 0.004 (no units)."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-03.jpg",
       "papers/physics/img/14-2D-Stress-Strain-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q5.jpg"
+     ]
     },
     {
      "id": "2D-Q6",
@@ -17624,14 +18463,20 @@ window.BANK.physics = {
       "tensile force"
      ],
      "question": "A wire breaks under tensile force T. A second wire of the same material has twice the diameter. What force breaks the second wire? The options A to D are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the answer options A to D are missing from the extracted text (expected 4T from the area ratio).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 4T",
+     "steps": [
+      "The same material breaks at the same breaking stress, so the breaking force = breaking stress x area.",
+      "Area is proportional to d^2, so doubling the diameter gives 4 times the area.",
+      "The breaking force is therefore 4T."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-03.jpg",
       "papers/physics/img/14-2D-Stress-Strain-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q6.jpg"
+     ]
     },
     {
      "id": "2D-Q7",
@@ -17649,14 +18494,23 @@ window.BANK.physics = {
       "energy absorbed"
      ],
      "question": "Concrete samples with and without glue capsules are stressed up to fracture. Explain how adding the glue capsules changes the properties of the concrete, using the stress-strain graphs.",
-     "status": "pending",
-     "answer": "Pending: the answer depends on the stress-strain graphs for samples A and B, which are not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The capsules leave the initial stiffness unchanged, but concrete B stands a much higher stress and strain before fracture, becomes stiffer and absorbs much more energy, so it is tougher",
+     "steps": [
+      "At low stress and strain the two graphs coincide, so the gradient (Young modulus) at the start is the same: the capsules do not change the initial stiffness.",
+      "Sample A (plain concrete) fractures early, at low stress and strain, so the graph stops there.",
+      "Sample B carries on and its gradient increases: it becomes stiffer (larger stress for a given extra strain), because glue released from broken capsules fills the cracks and stops them spreading.",
+      "B reaches a maximum stress about 4 times that at which A fractures, so it can withstand a much greater force before breaking.",
+      "B also fractures at nearly twice the strain, so it can be deformed more before it breaks.",
+      "The area under the graph for B is much larger than for A, so B absorbs much more energy per unit volume before fracture: it is tougher."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-04.jpg",
       "papers/physics/img/14-2D-Stress-Strain-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q7.jpg"
+     ]
     },
     {
      "id": "2D-Q8",
@@ -17673,14 +18527,20 @@ window.BANK.physics = {
       "table"
      ],
      "question": "A wire of length x and diameter d extends by x under a tensile force. A second wire of the same material extends by 2x under the same force. Which row of the table could give its length and diameter? The table is not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the table of length and diameter options is missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: length 0.5x, diameter 0.5d",
+     "steps": [
+      "Extension = F L / (A E), so for the same force and material extension is proportional to L / d^2.",
+      "The first wire has extension proportional to x / d^2; the second needs twice this, so L / d^2 must double.",
+      "Row A: 0.5x / (0.5d)^2 = 2 x / d^2, which is double, so it is correct. Row B gives 1/8, row C gives 8 and row D gives 0.5 times the first wire."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-05.jpg",
       "papers/physics/img/14-2D-Stress-Strain-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q8.jpg"
+     ]
     },
     {
      "id": "2D-Q9a(i)",
@@ -17741,7 +18601,9 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-07.jpg",
       "papers/physics/img/14-2D-Stress-Strain-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q9-2.jpg"
+     ]
     },
     {
      "id": "2D-Q9b(i)",
@@ -17757,15 +18619,22 @@ window.BANK.physics = {
       "2 x 10^11 Pa"
      ],
      "question": "Using the stress-strain graph for steel in the ACSR cable, show that the Young modulus of steel is about 2 x 10^11 Pa. The graph is not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the stress and strain values must be read from the steel stress-strain graph, which is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Young modulus of steel = gradient of the straight part = about 1.8 x 10^11 Pa, which is about 2 x 10^11 Pa",
+     "steps": [
+      "The Young modulus is stress / strain, which is the gradient of the initial straight part of the steel line.",
+      "On the steel line, a stress of 100 MPa is reached at a strain of about 5.5 x 10^-4.",
+      "E = 100 x 10^6 / 5.5 x 10^-4 = 1.8 x 10^11 Pa.",
+      "This is about 2 x 10^11 Pa to 1 significant figure."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-06.jpg",
       "papers/physics/img/14-2D-Stress-Strain-07.jpg",
       "papers/physics/img/14-2D-Stress-Strain-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q9.jpg"
+     ]
     },
     {
      "id": "2D-Q9b(ii)",
@@ -17826,7 +18695,9 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-07.jpg",
       "papers/physics/img/14-2D-Stress-Strain-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q9.jpg"
+     ]
     },
     {
      "id": "2D-Q10",
@@ -17871,14 +18742,21 @@ window.BANK.physics = {
       "compression test"
      ],
      "question": "The Young modulus of concrete increases as it dries. Using the stress-strain graphs for 2-day and 28-day samples, show that the Young modulus after drying is at least 1.3 times greater.",
-     "status": "pending",
-     "answer": "Pending: the gradients of the 2-day and 28-day stress-strain graphs must be read from the graph, which is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "E(28 days) / E(2 days) = about 1.3 to 1.4, so the Young modulus is at least 1.3 times greater",
+     "steps": [
+      "The Young modulus is the gradient of the initial straight part of each graph.",
+      "28-day sample: at strain 0.0010 the stress is about 44 MPa, so E = 44 x 10^6 / 0.0010 = 4.4 x 10^10 Pa.",
+      "2-day sample: at strain 0.0010 the stress is about 33 MPa, so E = 33 x 10^6 / 0.0010 = 3.3 x 10^10 Pa.",
+      "Ratio = 4.4 x 10^10 / 3.3 x 10^10 = 1.3 (1.33), so the Young modulus is at least 1.3 times greater."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-09.jpg",
       "papers/physics/img/14-2D-Stress-Strain-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q11.jpg"
+     ]
     },
     {
      "id": "2D-Q11b",
@@ -17894,14 +18772,21 @@ window.BANK.physics = {
       "percentage reduction"
      ],
      "question": "The 2-day sample absorbs 0.35 MJ m^-3 before fracture, and the 28-day sample absorbs less. Determine the percentage reduction in energy absorbed, given that the energy per unit volume is the area under the stress-strain graph.",
-     "status": "pending",
-     "answer": "Pending: the energy absorbed by the 28-day sample must be read as an area from the stress-strain graph, which is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The energy absorbed falls by about 11% (accept about 8% to 15%)",
+     "steps": [
+      "Energy per unit volume is the area under the stress-strain graph. One large square is 0.001 x 20 MPa = 2.0 x 10^4 J m^-3 = 0.02 MJ m^-3.",
+      "The area under the 28-day graph up to fracture (strain 0.0040) is about 15.5 large squares = 0.31 MJ m^-3.",
+      "The 2-day sample absorbs 0.35 MJ m^-3 and the volumes are the same, so the fall is 0.35 - 0.31 = 0.04 MJ m^-3.",
+      "Percentage reduction = 0.04 / 0.35 x 100 = 11%."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-09.jpg",
       "papers/physics/img/14-2D-Stress-Strain-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q11.jpg"
+     ]
     },
     {
      "id": "2D-Q11c",
@@ -17947,15 +18832,21 @@ window.BANK.physics = {
       "suitability"
      ],
      "question": "Using the stress-strain graph for concrete (positive strain for compression, negative for tension), explain how it shows concrete is more suitable under compression than tension.",
-     "status": "pending",
-     "answer": "Pending: the answer depends on comparing the compressive and tensile parts of the concrete stress-strain graph, which is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Concrete withstands a much greater stress (about 41 MPa) and strain in compression than in tension (about 10 MPa), so it is more suitable under compression",
+     "steps": [
+      "Positive strain is compression: the stress rises to a maximum of about 41 MPa at a strain of about 0.3% before the concrete fractures.",
+      "Negative strain is tension: the stress reaches only about 10 MPa (in magnitude) at a strain of about -0.05%, and then fractures.",
+      "So concrete can take about 4 times the stress, and a larger strain, before breaking in compression than in tension, so it is better used in compression."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-11.jpg",
       "papers/physics/img/14-2D-Stress-Strain-12.jpg",
       "papers/physics/img/14-2D-Stress-Strain-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q12.jpg"
+     ]
     },
     {
      "id": "2D-Q12b",
@@ -17971,15 +18862,21 @@ window.BANK.physics = {
       "breaking stress"
      ],
      "question": "A steel rod of diameter 45 mm is used. Using the steel stress-strain graph, calculate the maximum force before the rod fractures.",
-     "status": "pending",
-     "answer": "Pending: the fracture stress must be read from the steel stress-strain graph, which is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Maximum force = 8.1 x 10^5 N",
+     "steps": [
+      "The greatest stress the steel withstands is the peak of the graph, about 5.1 x 10^8 Pa.",
+      "Cross-sectional area A = pi r^2 = pi x (22.5 x 10^-3)^2 = 1.59 x 10^-3 m^2.",
+      "Force = stress x area = 5.1 x 10^8 x 1.59 x 10^-3 = 8.1 x 10^5 N (using the slightly lower tension peak of about 4.9 x 10^8 Pa would give about 7.8 x 10^5 N)."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-11.jpg",
       "papers/physics/img/14-2D-Stress-Strain-12.jpg",
       "papers/physics/img/14-2D-Stress-Strain-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q12-2.jpg"
+     ]
     },
     {
      "id": "2D-Q12c(i)",
@@ -18082,15 +18979,21 @@ window.BANK.physics = {
       "2 x 10^11 Pa"
      ],
      "question": "Using the compressive stress-strain graph for the metal, show that its Young modulus is about 2 x 10^11 Pa. The graph is not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the stress and strain values must be read from the compressive stress-strain graph, which is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Young modulus = gradient of the line = 2.1 x 10^11 Pa, which is about 2 x 10^11 Pa",
+     "steps": [
+      "The Young modulus is stress / strain, which is the gradient of the straight line through the origin.",
+      "Using a large triangle, the line gives a stress of 4.2 x 10^8 Pa at a strain of 2.0 x 10^-3.",
+      "E = 4.2 x 10^8 / 2.0 x 10^-3 = 2.1 x 10^11 Pa, about 2 x 10^11 Pa."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-13.jpg",
       "papers/physics/img/14-2D-Stress-Strain-14.jpg",
       "papers/physics/img/14-2D-Stress-Strain-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q13.jpg"
+     ]
     },
     {
      "id": "2D-Q13b(ii)",
@@ -18139,16 +19042,25 @@ window.BANK.physics = {
       "10 kN"
      ],
      "question": "A climber falls with fall factor 0.80 on a 15.0 m rope with maximum strain 9.0%, and mass 71 kg. Show that the maximum force on the climber due to the rope is about 10 kN, assuming extension is proportional to tension.",
-     "status": "pending",
-     "answer": "Pending: an energy calculation using the given data gives about 1.4 x 10^4 N (13.8 kN), not the 10 kN stated, so the intended method cannot be confirmed from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Maximum force = 1.4 x 10^4 N, which is about 1 x 10^4 N (10 kN) to 1 significant figure",
+     "steps": [
+      "Fall factor = height fallen before the rope stretches / total unstretched length, so the height fallen = 0.80 x 15.0 = 12.0 m.",
+      "Maximum extension of the rope = 9.0% of 15.0 m = 1.35 m.",
+      "The climber loses gravitational potential energy over the whole distance 12.0 + 1.35 m: E = m g h = 71 x 9.81 x 13.35 = 9.3 x 10^3 J.",
+      "This is all stored as elastic strain energy. As extension is proportional to tension, E = (1/2) F x, so F = 2E / x = 2 x 9.3 x 10^3 / 1.35 = 1.4 x 10^4 N.",
+      "1.4 x 10^4 N is about 1 x 10^4 N = 10 kN to 1 significant figure."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-15.jpg",
       "papers/physics/img/14-2D-Stress-Strain-16.jpg",
       "papers/physics/img/14-2D-Stress-Strain-17.jpg",
       "papers/physics/img/14-2D-Stress-Strain-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q14.jpg",
+      "papers/physics/fig/14-2D-Stress-Strain-Q14-2.jpg"
+     ]
     },
     {
      "id": "2D-Q14a(ii)",
@@ -18179,7 +19091,9 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-17.jpg",
       "papers/physics/img/14-2D-Stress-Strain-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q14.jpg"
+     ]
     },
     {
      "id": "2D-Q14b",
@@ -18196,16 +19110,25 @@ window.BANK.physics = {
       "replacement recommendation"
      ],
      "question": "Manufacturers recommend replacing climbing ropes every 5 years. Force-extension graphs for a 1 m length of new rope and of rope after 5 years are shown. Comment on the recommendation, including calculations.",
-     "status": "pending",
-     "answer": "Pending: the answer depends on reading breaking forces and stiffnesses from the force-extension graphs, which are not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The recommendation is sensible: after 5 years the rope breaks at about 13 kN instead of 18 kN, stretches about twice as far under the same force, and absorbs less energy before breaking",
+     "steps": [
+      "Breaking force: the new rope breaks at about 18 x 10^3 N (extension 0.13 m); the 5-year-old rope breaks at only about 13 x 10^3 N (extension 0.18 m), about 30% lower.",
+      "Stiffness: at a force of 5000 N the new rope extends about 0.07 m, but the old rope extends about 0.13 m, so the old rope is much less stiff.",
+      "Energy absorbed to break 1 m (area under each graph): new rope about 790 J, old rope about 660 J, about 16% less.",
+      "A hard fall can produce a force of the order of 14 kN (part (a)), which is more than the old rope can stand (13 kN) but less than the new rope (18 kN), so the aged rope could break.",
+      "The aged rope also stretches more, so a falling climber would travel further before being stopped.",
+      "So the manufacturers are right: the rope weakens with age, and replacing it after 5 years keeps a safe margin."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-15.jpg",
       "papers/physics/img/14-2D-Stress-Strain-16.jpg",
       "papers/physics/img/14-2D-Stress-Strain-17.jpg",
       "papers/physics/img/14-2D-Stress-Strain-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q14-3.jpg"
+     ]
     },
     {
      "id": "2D-Q15a",
@@ -18387,14 +19310,20 @@ window.BANK.physics = {
       "stiffness"
      ],
      "question": "Determine the gradient of the student's weight against extension graph for the stainless steel wire.",
-     "status": "pending",
-     "answer": "Pending: the gradient must be read from the student's weight-extension graph, which is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Gradient = 1.9 x 10^4 N m^-1 (about 18.5 N per 10^-3 m)",
+     "steps": [
+      "Draw a large triangle on the best-fit line, which passes through the origin.",
+      "At an extension of 2.0 x 10^-3 m the line gives a weight of about 37 N.",
+      "Gradient = 37 / 2.0 x 10^-3 = 1.85 x 10^4 N m^-1, about 1.9 x 10^4 N m^-1."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-20.jpg",
       "papers/physics/img/14-2D-Stress-Strain-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q16.jpg"
+     ]
     },
     {
      "id": "2D-Q16b(ii)",
@@ -18410,14 +19339,21 @@ window.BANK.physics = {
       "wire"
      ],
      "question": "Using the gradient from part (b)(i), determine the Young modulus of stainless steel for a wire of unstretched length 2.6 m and diameter 5.6 x 10^-4 m.",
-     "status": "pending",
-     "answer": "Pending: the answer depends on the gradient read from the weight-extension graph in part (b)(i), which is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Young modulus = 2.0 x 10^11 Pa",
+     "steps": [
+      "Gradient of the weight-extension graph = F / x = 1.85 x 10^4 N m^-1.",
+      "Young modulus E = (F / A) / (x / L) = gradient x L / A.",
+      "Area A = pi (d/2)^2 = pi x (2.8 x 10^-4)^2 = 2.46 x 10^-7 m^2.",
+      "E = 1.85 x 10^4 x 2.6 / 2.46 x 10^-7 = 1.95 x 10^11 Pa, about 2.0 x 10^11 Pa."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-20.jpg",
       "papers/physics/img/14-2D-Stress-Strain-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q16.jpg"
+     ]
     },
     {
      "id": "2D-Q16c",
@@ -18504,7 +19440,9 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-22.jpg",
       "papers/physics/img/14-2D-Stress-Strain-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q17-2.jpg"
+     ]
     },
     {
      "id": "2D-Q17b(ii)",
@@ -18521,15 +19459,24 @@ window.BANK.physics = {
       "unloading"
      ],
      "question": "The electromagnet is switched off and the steel object falls. A student says the elastic strain energy in the cable is transferred to the gravitational potential energy of the electromagnet. Discuss this statement, adding to the force-extension graph.",
-     "status": "pending",
-     "answer": "Pending: the discussion needs the force-extension graph of the cable to be annotated, which cannot be given as text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Not correct as stated: only part of the elastic energy released becomes gravitational potential energy; the rest becomes kinetic energy of the electromagnet, which then oscillates and is dissipated as heat",
+     "steps": [
+      "Before the object falls the cable supports the total weight W_total, and the extension is x2, with elastic energy equal to the area under the graph up to x2.",
+      "On the graph draw a horizontal line at the weight of the electromagnet alone, W_m. It meets the graph at the new equilibrium extension x1, less than x2.",
+      "The decrease in elastic energy is the area under the graph between x1 and x2, a trapezoid equal to (1/2)(W_m + W_total)(x2 - x1).",
+      "The gain in gravitational potential energy of the electromagnet is W_m (x2 - x1), the rectangle under the W_m line, which is smaller than the trapezoid.",
+      "The remaining energy (the triangle above the rectangle) becomes kinetic energy of the electromagnet, which oscillates, and is dissipated as thermal energy, so the student's statement is not correct in general (all of it becomes GPE only at the very top of the first oscillation if there are no losses)."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-21.jpg",
       "papers/physics/img/14-2D-Stress-Strain-22.jpg",
       "papers/physics/img/14-2D-Stress-Strain-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q17-2.jpg",
+      "papers/physics/fig/14-2D-Stress-Strain-Q17.jpg"
+     ]
     },
     {
      "id": "2D-Q18a",
@@ -18690,14 +19637,20 @@ window.BANK.physics = {
       "formula"
      ],
      "question": "A stress is applied across the ends of a wire of cross-sectional area A. Work W is done to extend the wire by x. Which expression could be used to determine W? The options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the extracted text (they appear only as images in the PDF).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: W = (1/2) x sigma x A x delta x",
+     "steps": [
+      "Force F = stress x area = sigma A.",
+      "For a wire obeying Hooke's law, work done = area under the force-extension graph = (1/2) F delta x.",
+      "So W = (1/2) x sigma x A x delta x, which is option C."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-25.jpg",
       "papers/physics/img/14-2D-Stress-Strain-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q19.jpg"
+     ]
     },
     {
      "id": "2D-Q20",
@@ -18713,14 +19666,20 @@ window.BANK.physics = {
       "yield"
      ],
      "question": "A stress-strain graph up to breaking point is drawn for four wire samples A to D. Which sample has both a low elastic limit and a large region of plastic deformation? The graph and options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the stress-strain graph for samples A to D and the options are missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C",
+     "steps": [
+      "A low elastic limit means the curve levels off at a low stress, so the candidates are C and D (A and B have much higher stress).",
+      "A large region of plastic deformation means a long flat part of the graph before breaking, i.e. a large strain range at nearly constant stress.",
+      "C has the longer plastic region (it extends to a larger strain than D), so C is correct."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-25.jpg",
       "papers/physics/img/14-2D-Stress-Strain-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q20.jpg"
+     ]
     },
     {
      "id": "2D-Q21",
@@ -18737,13 +19696,20 @@ window.BANK.physics = {
       "energy equation"
      ],
      "question": "An object of mass m rests on a compressed spring, which returns to its original length, and the object has speed v at that point. Which equation describes the energy transfer? The options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the extracted text (they appear only as images in the PDF).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: (1/2) F delta x = (1/2) m v^2 + m g delta x",
+     "steps": [
+      "The force rises from zero to F as the spring is compressed by delta x, so the energy stored is (1/2) F delta x.",
+      "As the spring returns to its original length the object rises by delta x, so it gains gravitational potential energy m g delta x.",
+      "The rest of the energy is kinetic: (1/2) F delta x = (1/2) m v^2 + m g delta x, which is option B."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q21.jpg",
+      "papers/physics/fig/14-2D-Stress-Strain-Q21-2.jpg"
+     ]
     },
     {
      "id": "2D-Q22",
@@ -18760,13 +19726,20 @@ window.BANK.physics = {
       "work done"
      ],
      "question": "Two springs S1 and S2 hang with masses attached. S1 extends by x and stores elastic strain energy E. Which expression gives the strain energy in S2? The extension of S2 and the options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the extension of S2 and the answer options are missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 2E / 3",
+     "steps": [
+      "Elastic energy = (1/2) F x, where F is the weight hanging on the spring.",
+      "S1: force mg and extension x, so E = (1/2) m g x.",
+      "S2: force 2mg and extension x/3, so energy = (1/2)(2mg)(x/3) = (2/3)(1/2) m g x = 2E / 3, option C."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q22.jpg",
+      "papers/physics/fig/14-2D-Stress-Strain-Q22-2.jpg"
+     ]
     },
     {
      "id": "2D-Q23",
@@ -18813,14 +19786,21 @@ window.BANK.physics = {
       "three springs"
      ],
      "question": "A spring stretched by force F stores energy E. Three identical springs in parallel are stretched by a force 2F. Which expression gives the total elastic energy? The options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the extracted text (the expected result is 4E/3, which should be checked against the options).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 4E / 3",
+     "steps": [
+      "For one spring, E = (1/2) F x = F^2 / (2k), so energy is proportional to (force)^2.",
+      "The three identical springs share 2F equally, so each carries 2F / 3.",
+      "Energy in each = (2/3)^2 E = 4E / 9, and for three springs the total is 3 x 4E / 9 = 4E / 3."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-29.jpg",
       "papers/physics/img/14-2D-Stress-Strain-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q24.jpg",
+      "papers/physics/fig/14-2D-Stress-Strain-Q24-2.jpg"
+     ]
     },
     {
      "id": "2D-Q25",
@@ -18836,14 +19816,21 @@ window.BANK.physics = {
       "maximum extension"
      ],
      "question": "A rubber band is stretched and returned to its original length. Using the force-extension graph with areas P, Q and R, which expression gives the work done in stretching it to maximum extension? The graph is not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the force-extension graph showing areas P, Q and R is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Q + R",
+     "steps": [
+      "The work done in stretching is the area under the upper (loading) curve, from zero to maximum extension.",
+      "The area under the lower (unloading) curve is R, and the area between the two curves is Q.",
+      "So the area under the loading curve is Q + R. Area P lies above the curve and is not part of the work done."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-30.jpg",
       "papers/physics/img/14-2D-Stress-Strain-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q25.jpg",
+      "papers/physics/fig/14-2D-Stress-Strain-Q25-2.jpg"
+     ]
     },
     {
      "id": "2D-Q26",
@@ -18859,14 +19846,21 @@ window.BANK.physics = {
       "joules"
      ],
      "question": "Using a force-extension graph for a spring, which expression gives the work done in joules to extend the spring by 0.30 m from its original length? The graph and options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the force-extension graph and answer options are missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 0.5 x 0.30 x 2.5",
+     "steps": [
+      "The graph is a straight line through the origin, so the work done is the area of a triangle = (1/2) x force x extension.",
+      "At an extension of 0.30 m the graph reads a force of about 2.5 N.",
+      "Work = 0.5 x 0.30 x 2.5 J, which is option B."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-31.jpg",
       "papers/physics/img/14-2D-Stress-Strain-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q26.jpg",
+      "papers/physics/fig/14-2D-Stress-Strain-Q26-2.jpg"
+     ]
     },
     {
      "id": "2D-Q27",
@@ -18883,14 +19877,21 @@ window.BANK.physics = {
       "table"
      ],
      "question": "Arrangements P and Q of identical springs are subject to the same tensile force F, and one spring alone stores energy E. Which row of the table gives the total strain energy in each arrangement? The diagram and table are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the arrangement diagrams and the table are missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: P = 2E, Q = (1/2)E",
+     "steps": [
+      "P: two identical springs in series each carry the full force F, so each stores E and the total is 2E.",
+      "Q: the two springs are in parallel, so the force F is shared and each carries F/2.",
+      "Energy is proportional to force squared, so each stores E/4 and the total is E/2, which gives row D."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-32.jpg",
       "papers/physics/img/14-2D-Stress-Strain-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q27.jpg",
+      "papers/physics/fig/14-2D-Stress-Strain-Q27-2.jpg"
+     ]
     },
     {
      "id": "2D-Q28",
@@ -18906,14 +19907,21 @@ window.BANK.physics = {
       "table"
      ],
      "question": "A steel wire fixed at one end has an increasing force applied to the other end. Which row of the table identifies points P, Q and R on the force-extension graph? The graph and table are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the force-extension graph and the table of points P, Q and R are missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: P is the yield point, Q the elastic limit and R the limit of proportionality",
+     "steps": [
+      "Moving along the graph from the origin, the first point to be reached is the end of the straight line, R, the limit of proportionality.",
+      "Q is a little further along, just beyond R: the elastic limit.",
+      "P is the peak just before the dip in the curve where the wire starts to stretch with little extra force: the yield point."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-33.jpg",
       "papers/physics/img/14-2D-Stress-Strain-34.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q28.jpg",
+      "papers/physics/fig/14-2D-Stress-Strain-Q28-2.jpg"
+     ]
     },
     {
      "id": "2D-Q29a(i)",
@@ -18942,7 +19950,10 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-34.jpg",
       "papers/physics/img/14-2D-Stress-Strain-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q29-2.jpg",
+      "papers/physics/fig/14-2D-Stress-Strain-Q29.jpg"
+     ]
     },
     {
      "id": "2D-Q29a(ii)",
@@ -18959,14 +19970,20 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "Using the graph of maximum velocity against extension for the elastic cord, and a glider mass of 300 g, determine the stiffness k of the cord.",
-     "status": "pending",
-     "answer": "Pending: the gradient of the velocity-extension graph is needed and is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "k = 23 N m^-1",
+     "steps": [
+      "Energy conservation: (1/2) k (delta x)^2 = (1/2) m v^2, so v = delta x sqrt(k / m) and the gradient of the graph = sqrt(k / m).",
+      "Gradient of the best-fit line = (4.4 - 1.8) / (0.50 - 0.20) = 8.7 s^-1.",
+      "k = m x gradient^2 = 0.300 x 8.7^2 = 23 N m^-1."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-34.jpg",
       "papers/physics/img/14-2D-Stress-Strain-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q29.jpg"
+     ]
     },
     {
      "id": "2D-Q29b",
@@ -18993,7 +20010,9 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-34.jpg",
       "papers/physics/img/14-2D-Stress-Strain-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q29.jpg"
+     ]
     },
     {
      "id": "2D-Q30",
@@ -19009,14 +20028,19 @@ window.BANK.physics = {
       "same distance"
      ],
      "question": "A force F compresses a spring by x. A second spring with double the stiffness is compressed by the same distance x. Which expression gives the force on the second spring? The options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the extracted text (the expected force is 2F).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 2F",
+     "steps": [
+      "Hooke's law: F = k x, so for the same compression the force is proportional to the stiffness.",
+      "Doubling the stiffness at the same compression doubles the force: 2F."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-35.jpg",
       "papers/physics/img/14-2D-Stress-Strain-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q30.jpg"
+     ]
     },
     {
      "id": "2D-Q31",
@@ -19032,15 +20056,22 @@ window.BANK.physics = {
       "exception"
      ],
      "question": "Several graphs are drawn and the area under each represents a physical quantity. For which graph is the area not equal to work done? The graphs are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the set of graphs and their options are only in the PDF image, not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: stress against strain",
+     "steps": [
+      "Force against displacement: area = force x distance = work done.",
+      "Force against extension: area = work done in stretching.",
+      "Power against time: area = power x time = energy transferred = work done.",
+      "Stress against strain: area = (force / area) x (extension / length) = energy per unit volume, not work done. So D is the exception."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-36.jpg",
       "papers/physics/img/14-2D-Stress-Strain-37.jpg",
       "papers/physics/img/14-2D-Stress-Strain-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q31.jpg"
+     ]
     },
     {
      "id": "2D-Q32a",
@@ -19140,15 +20171,22 @@ window.BANK.physics = {
       "stored energy"
      ],
      "question": "The spring returns to its original length L. Sketch a graph of the ball's velocity against the length of the spring.",
-     "status": "pending",
-     "answer": "Pending: the answer is a sketched graph on the axes printed in the PDF, which cannot be given as text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A curve starting at zero velocity at a length below L (the compressed length), rising with decreasing gradient to a maximum velocity at L, where the gradient is zero",
+     "steps": [
+      "The spring starts compressed (length less than L, to the left of L on the axis) with the ball at rest, so the curve starts on the length axis at v = 0.",
+      "As the spring extends, the ball speeds up, but the spring force falls, so the acceleration decreases and the curve becomes less steep.",
+      "At the original length L the spring force is zero (no acceleration), so the velocity is at its maximum and the curve is horizontal there.",
+      "The shape is a quarter of an ellipse from (compressed length, 0) to (L, v_max), because (1/2) m v^2 = (1/2) k (x0^2 - x^2)."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-36.jpg",
       "papers/physics/img/14-2D-Stress-Strain-37.jpg",
       "papers/physics/img/14-2D-Stress-Strain-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q32.jpg"
+     ]
     },
     {
      "id": "2D-Q33a(i)",
@@ -19164,15 +20202,20 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "A student loads a spring and plots position against load for loading and unloading. State the significance of point K on the graph.",
-     "status": "pending",
-     "answer": "Pending: point K must be identified on the loading graph, which is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Point K is the limit of proportionality: beyond K the force is no longer proportional to the extension",
+     "steps": [
+      "Up to K the loading graph is a straight line through the origin, so force is proportional to extension (Hooke's law obeyed).",
+      "At K the line starts to curve, so K is the limit of proportionality."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-38.jpg",
       "papers/physics/img/14-2D-Stress-Strain-39.jpg",
       "papers/physics/img/14-2D-Stress-Strain-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q33.jpg"
+     ]
     },
     {
      "id": "2D-Q33a(ii)",
@@ -19200,7 +20243,9 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-39.jpg",
       "papers/physics/img/14-2D-Stress-Strain-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q33.jpg"
+     ]
     },
     {
      "id": "2D-Q33a(iii)",
@@ -19228,7 +20273,9 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-39.jpg",
       "papers/physics/img/14-2D-Stress-Strain-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q33.jpg"
+     ]
     },
     {
      "id": "2D-Q33b",
@@ -19245,15 +20292,21 @@ window.BANK.physics = {
       "sketch"
      ],
      "question": "A second student forgets to subtract the original length of the spring from the measurements. Sketch the shape of the graph he would obtain for loading.",
-     "status": "pending",
-     "answer": "Pending: the answer is a sketch on axes printed in the PDF, which cannot be given as text (the graph would be a straight line with an offset, parallel to the original line).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A straight line with the same gradient as before, but not through the origin: it starts on the extension axis at a positive value equal to the original length, then curves like the first graph beyond the limit of proportionality",
+     "steps": [
+      "He plots the length (original length + extension) instead of the extension.",
+      "With no load the plotted value is the original length, so the graph starts on the horizontal axis at a positive value, not at the origin.",
+      "Every point is shifted to the right by the same amount, so the straight part is parallel to the correct graph (same gradient)."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-38.jpg",
       "papers/physics/img/14-2D-Stress-Strain-39.jpg",
       "papers/physics/img/14-2D-Stress-Strain-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q33-2.jpg"
+     ]
     },
     {
      "id": "2D-Q33c",
@@ -19300,14 +20353,20 @@ window.BANK.physics = {
       "yield point"
      ],
      "question": "A copper rod is put under tensile stress and the stress is plotted against strain. What does point X represent? Options: A fracture point, B limit of proportionality, C maximum stress, D yield point. The graph is not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the stress-strain graph showing point X is missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: the yield point of copper",
+     "steps": [
+      "X is the peak of the curve after the initial steep rise, followed by a drop in stress.",
+      "After this point the rod stretches a lot with little or no increase in stress, which is the yield point.",
+      "It is not the fracture point or the maximum stress (the curve rises higher later), so D is correct."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-40.jpg",
       "papers/physics/img/14-2D-Stress-Strain-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q34.jpg"
+     ]
     },
     {
      "id": "2D-Q35",
@@ -19350,14 +20409,19 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "State how the graph of extension against force for the rubber band shows that it deformed elastically.",
-     "status": "pending",
-     "answer": "Pending: the answer depends on the loading and unloading curves in the graph, which are not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The extension returns to zero when the force is reduced to zero (the decreasing-force curve ends at the origin), so the band returns to its original length",
+     "steps": [
+      "Elastic deformation means the object returns to its original length when the force is removed.",
+      "On the graph, when the force falls back to zero the extension is also back to zero."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-41.jpg",
       "papers/physics/img/14-2D-Stress-Strain-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q36.jpg"
+     ]
     },
     {
      "id": "2D-Q36b",
@@ -19374,14 +20438,21 @@ window.BANK.physics = {
       "energy"
      ],
      "question": "The work done on the rubber band while the force increases is greater than the work done by the band as the force decreases, because heating occurred. Determine the energy that caused heating.",
-     "status": "pending",
-     "answer": "Pending: the energy equals the area between the loading and unloading curves, which must be read from the graph (not in the extracted text).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Energy that caused heating = 0.050 J (about 5 x 10^-2 J)",
+     "steps": [
+      "Work done on the band as force increases = area under the increasing-force curve, which is about 10.7 N cm.",
+      "Work done by the band as force decreases = area under the decreasing-force curve, about 5.7 N cm.",
+      "The energy that caused heating is the difference, which is the area between the curves = about 5.0 N cm.",
+      "1 N cm = 0.01 J, so the energy = 5.0 x 0.01 = 0.050 J (accept about 0.045 to 0.055 J)."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-41.jpg",
       "papers/physics/img/14-2D-Stress-Strain-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q36.jpg"
+     ]
     },
     {
      "id": "2D-Q37",
@@ -19397,14 +20468,20 @@ window.BANK.physics = {
       "young modulus"
      ],
      "question": "Two wires P and Q of different metals are stretched to breaking, and their stress-strain graphs are shown. Which statement is correct: A P has greater breaking stress, B P has greater breaking strain, C P has greater yield stress, D P has lower Young modulus? The graph is not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the stress-strain graphs for wires P and Q are missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: P has a greater yield stress than Q",
+     "steps": [
+      "P has the steeper initial line, so it has the greater Young modulus (D is false).",
+      "P's first peak (the yield stress) is higher than Q's, so C is true.",
+      "Q ends at a higher stress and a larger strain than P, so P has a lower breaking stress (A false) and a lower breaking strain (B false)."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-42.jpg",
       "papers/physics/img/14-2D-Stress-Strain-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q37.jpg"
+     ]
     },
     {
      "id": "2D-Q38",
@@ -19502,14 +20579,19 @@ window.BANK.physics = {
       "joules"
      ],
      "question": "A spring is stretched by a force of 3.0 N and stores 0.04 J of elastic strain energy. Which expression gives the extension in m? The options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the extracted text (the extension is 2E/F = 0.027 m, which should be checked against the options).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 2 x 0.04 / 3.0 (0.027 m)",
+     "steps": [
+      "Elastic strain energy E = (1/2) F x.",
+      "So the extension x = 2E / F = 2 x 0.04 / 3.0 = 0.027 m, which is option A."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-45.jpg",
       "papers/physics/img/14-2D-Stress-Strain-46.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q41.jpg"
+     ]
     },
     {
      "id": "2D-Q42",
@@ -19526,14 +20608,20 @@ window.BANK.physics = {
       "elastic energy"
      ],
      "question": "Which expression gives the work done in stretching a spring from its original length p to length q? The options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: (q - p) x R / 2 (taking R as the final stretching force, which is not defined on this page)",
+     "steps": [
+      "The extension is the new length minus the original length: q - p.",
+      "For a spring obeying Hooke's law the work done is the area of a triangle = (1/2) x force x extension.",
+      "With R the final force, work = (q - p) x R / 2, which is option B."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-45.jpg",
       "papers/physics/img/14-2D-Stress-Strain-46.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q42.jpg"
+     ]
     },
     {
      "id": "2D-Q43a",
@@ -19605,14 +20693,21 @@ window.BANK.physics = {
       "young modulus comparison"
      ],
      "question": "Add a line to the sketch stress-strain graph for spider silk to show the stress-strain relationship for steel up to its limit of proportionality, using the table of properties.",
-     "status": "pending",
-     "answer": "Pending: the answer is a line added to a sketch graph, and the table of properties is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw a much steeper straight line from the origin, ending at a slightly higher stress (350 MPa against 300 MPa) at a much smaller strain than the spider silk line",
+     "steps": [
+      "Steel has Young modulus 200 GPa, about 23 times that of spider silk (8.70 GPa), so its line is 23 times as steep.",
+      "Strain at the limit of proportionality for steel = 350 x 10^6 / 200 x 10^9 = 1.75 x 10^-3, compared with 0.0345 for the silk, so about 1/20 as far along the strain axis.",
+      "Stress at the end of the steel line is 350 MPa, about 17% higher than the 300 MPa at the end of the silk line."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-46.jpg",
       "papers/physics/img/14-2D-Stress-Strain-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q43.jpg",
+      "papers/physics/fig/14-2D-Stress-Strain-Q43-2.jpg"
+     ]
     },
     {
      "id": "2D-Q43c(ii)",
@@ -19629,14 +20724,21 @@ window.BANK.physics = {
       "stress"
      ],
      "question": "Samples of steel and spider silk of identical shape, length and cross-sectional area are each stretched to their limit of proportionality. Explain which sample has the greater elastic strain energy. The table of properties is not in the extracted text.",
-     "status": "pending",
-     "answer": "Pending: the comparison depends on the property table (Young modulus and limit of proportionality values), which is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The spider silk stores the greater elastic strain energy (about 17 times more per unit volume)",
+     "steps": [
+      "The samples have the same volume, so compare the energy per unit volume = (1/2) x stress x strain at the limit of proportionality (area under the graph).",
+      "Silk: strain = 300 x 10^6 / 8.70 x 10^9 = 0.0345, so energy density = 0.5 x 300 x 10^6 x 0.0345 = 5.2 x 10^6 J m^-3.",
+      "Steel: strain = 350 x 10^6 / 200 x 10^9 = 1.75 x 10^-3, so energy density = 0.5 x 350 x 10^6 x 1.75 x 10^-3 = 3.1 x 10^5 J m^-3.",
+      "The silk therefore stores about 17 times more energy, because it stretches to a much larger strain even though its stress limit is lower."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-46.jpg",
       "papers/physics/img/14-2D-Stress-Strain-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q43.jpg"
+     ]
     },
     {
      "id": "2D-Q44a",
@@ -19681,15 +20783,21 @@ window.BANK.physics = {
       "tugboat"
      ],
      "question": "The rope has diameter 220 mm. Using its stress-strain graph, determine the force applied when the strain is 0.025.",
-     "status": "pending",
-     "answer": "Pending: the stress at strain 0.025 must be read from the rope's stress-strain graph, which is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Force = 4.2 x 10^6 N",
+     "steps": [
+      "From the graph, at a strain of 0.025 the stress is about 110 MPa (110 x 10^6 Pa).",
+      "Cross-sectional area A = pi r^2 = pi x (0.110)^2 = 3.80 x 10^-2 m^2 (diameter 220 mm, radius 0.110 m).",
+      "Force = stress x area = 110 x 10^6 x 3.80 x 10^-2 = 4.2 x 10^6 N."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-47.jpg",
       "papers/physics/img/14-2D-Stress-Strain-48.jpg",
       "papers/physics/img/14-2D-Stress-Strain-49.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q44.jpg"
+     ]
     },
     {
      "id": "2D-Q44b(ii)",
@@ -19787,14 +20895,20 @@ window.BANK.physics = {
       "area under graph"
      ],
      "question": "Determine the increase in elastic strain energy in a brick as the force increases from 85 N to 140 N, using the force-compression graph.",
-     "status": "pending",
-     "answer": "Pending: the compressions at 85 N and 140 N must be read from the force-compression graph, which is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Increase in elastic strain energy = 4.3 x 10^-6 J",
+     "steps": [
+      "The energy stored is the area under the force-compression graph, so the increase is the area between the two forces.",
+      "Reading the graph: 85 N corresponds to a compression of about 59 nm and 140 N to about 97 nm.",
+      "Area of the trapezoid = (1/2)(85 + 140) x (97 - 59) x 10^-9 = 112.5 x 38 x 10^-9 = 4.3 x 10^-6 J (equivalently (1/2)(140 x 97 - 85 x 59) x 10^-9)."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-50.jpg",
       "papers/physics/img/14-2D-Stress-Strain-51.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q47.jpg"
+     ]
     },
     {
      "id": "2D-Q47b",
@@ -19835,15 +20949,23 @@ window.BANK.physics = {
       "string identification"
      ],
      "question": "A force-extension graph for a sample of one violin string, and a table of stiffnesses for three other strings of the same original length, are given. Deduce which string was used to obtain the graph.",
-     "status": "pending",
-     "answer": "Pending: the force-extension graph and the table of stiffnesses are not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "String Y: the graph gradient (stiffness) is about 2.7 x 10^3 N m^-1",
+     "steps": [
+      "The graph is a straight line through the origin, so the stiffness k = force / extension = gradient.",
+      "Using a large triangle: force 80 N at an extension of 29.4 mm = 0.0294 m.",
+      "k = 80 / 0.0294 = 2.7 x 10^3 N m^-1.",
+      "The strings have the same original length, so their stiffnesses can be compared directly: 2700 N m^-1 matches string Y (X is 1700 and Z is 6100)."
+     ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-51.jpg",
       "papers/physics/img/14-2D-Stress-Strain-52.jpg",
       "papers/physics/img/14-2D-Stress-Strain-53.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/14-2D-Stress-Strain-Q48.jpg",
+      "papers/physics/fig/14-2D-Stress-Strain-Q48-2.jpg"
+     ]
     },
     {
      "id": "2D-Q48b",

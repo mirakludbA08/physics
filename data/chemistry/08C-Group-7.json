@@ -46,11 +46,19 @@
         "options"
       ],
       "question": "Which of these is a disproportionation reaction? Options are in the PDF.",
-      "status": "pending",
-      "answer": "The reaction options are not in the text; check the PDF options for a species that is both oxidised and reduced",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 6NaOH + 3Br2 -> 5NaBr + NaBrO3 + 3H2O",
+      "steps": [
+        "Disproportionation is when one element is both oxidised and reduced in the same reaction.",
+        "In B, bromine goes from 0 in Br2 to -1 in NaBr (reduced) and to +5 in NaBrO3 (oxidised).",
+        "A and D are acid-base reactions with no change in oxidation number.",
+        "In C, aluminium is oxidised (0 to +3) and hydrogen is reduced (+1 to 0): redox, but two different elements change."
+      ],
       "images": [
         "papers/chemistry/img/08C-Group-7-01.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08C-Group-7-Q2.jpg"
       ]
     },
     {
@@ -204,12 +212,20 @@
         "5.2 C"
       ],
       "question": "Student A reacted 50.0 cm3 of silver nitrate solution with excess powdered zinc; the maximum temperature rise was 5.2 C (c = 4.18 J g-1 C-1, density 1.00 g cm-3). Calculate the concentration of the silver nitrate solution in mol dm-3.",
-      "status": "pending",
-      "answer": "Needs the enthalpy change for the reaction Zn + 2Ag+ -> Zn2+ + 2Ag, which is not given in the text; check the data book value in the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "0.602 mol dm^-3 (0.60 mol dm^-3 to 2 s.f.)",
+      "steps": [
+        "The equation AgNO3 + 1/2 Zn -> 1/2 Zn(NO3)2 + Ag has Delta rH = -36.1 kJ mol^-1 per mole of AgNO3.",
+        "Mass of solution = 50.0 cm3 x 1.00 g cm-3 = 50.0 g, so heat released q = m c Delta T = 50.0 x 4.18 x 5.2 = 1087 J = 1.087 kJ.",
+        "Moles of AgNO3 = 1.087 / 36.1 = 0.0301 mol.",
+        "Concentration = 0.0301 mol / 0.0500 dm3 = 0.602 mol dm^-3."
+      ],
       "images": [
         "papers/chemistry/img/08C-Group-7-03.jpg",
         "papers/chemistry/img/08C-Group-7-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08C-Group-7-Q7.jpg"
       ]
     },
     {
@@ -313,12 +329,21 @@
         "explain"
       ],
       "question": "Some data for three small molecules are shown. Explain the large variation in boiling temperatures, given the small range in Mr values. Detailed descriptions of the forces are not required.",
-      "status": "pending",
-      "answer": "The data table for the three molecules is not in the text; check the PDF before writing the explanation",
-      "steps": [],
+      "status": "ready",
+      "answer": "The Mr values are similar, so the difference comes from the types of intermolecular force: F2 has only London forces (-188 deg C), HCl also has permanent dipole-dipole forces (-85 deg C), and methanol has hydrogen bonds (65 deg C)",
+      "steps": [
+        "The three molecules have similar Mr (32.0 to 38.0) and so similar numbers of electrons, so London forces are of similar strength in all of them.",
+        "Fluorine is non-polar (two identical atoms), so it has only London forces: the weakest overall forces and the lowest boiling temperature (-188 deg C).",
+        "Hydrogen chloride is polar because Cl is more electronegative than H, so it has permanent dipole-permanent dipole forces as well as London forces: a higher boiling temperature (-85 deg C).",
+        "Methanol has an O-H bond, so H is bonded to a small, highly electronegative O with lone pairs: it forms hydrogen bonds (as well as London forces), the strongest of the three types.",
+        "More energy is needed to overcome stronger intermolecular forces, so the boiling temperatures increase in the order F2 < HCl < CH3OH."
+      ],
       "images": [
         "papers/chemistry/img/08C-Group-7-05.jpg",
         "papers/chemistry/img/08C-Group-7-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08C-Group-7-Q9.jpg"
       ]
     },
     {
@@ -336,12 +361,20 @@
         "hydrated ions"
       ],
       "question": "Calcium chloride is soluble in water. Complete the diagram to show how water molecules interact with each ion.",
-      "status": "pending",
-      "answer": "Needs the diagram from the PDF; expected: O ends of water face Ca2+ and H ends face Cl-",
-      "steps": [],
+      "status": "ready",
+      "answer": "Several water molecules around Ca2+ with their O (delta-) ends pointing at the ion; several around Cl- with their H (delta+) ends pointing at the ion",
+      "steps": [
+        "Ca2+ is positive, so it attracts the delta- oxygen end of water molecules: draw water molecules around the Ca2+ circle with the oxygen (the curved top of the symbol) facing the ion.",
+        "Cl- is negative, so it attracts the delta+ hydrogen end of water molecules: draw water molecules around the Cl- circle with the hydrogens (the two black dots) facing the ion.",
+        "Show at least two water molecules around each ion, and ideally label delta+ and delta- on the water molecules (these are ion-dipole attractions)."
+      ],
       "images": [
         "papers/chemistry/img/08C-Group-7-05.jpg",
         "papers/chemistry/img/08C-Group-7-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08C-Group-7-Q9-2.jpg",
+        "papers/chemistry/fig/08C-Group-7-Q9-3.jpg"
       ]
     },
     {
@@ -822,18 +855,20 @@
       ],
       "question": "Hydrogen bromide and hydrogen iodide reduce sulfuric acid. Identify, by name or formula, the compound containing sulfur with its lowest oxidation number in that reaction.",
       "status": "ready",
-      "answer": "Hydrogen sulfide, H2S (sulfur at -2)",
+      "answer": "HBr: sulfur dioxide, SO2 (S +4); HI: hydrogen sulfide, H2S (S -2)",
       "steps": [
-        "Sulfur in H2SO4 is +6; in SO2 it is +4; in elemental S it is 0; in H2S it is -2.",
-        "HI is the stronger reducing agent and reduces H2SO4 all the way to H2S.",
-        "H2S has sulfur at -2, the lowest oxidation number formed.",
-        "Answer: H2S."
+        "Concentrated H2SO4 contains sulfur at +6; it is reduced by the halide ions to lower oxidation states.",
+        "HBr (Br- is a moderate reducing agent) reduces it only as far as SO2, with sulfur at +4.",
+        "HI (I- is a stronger reducing agent) reduces it further to H2S, with sulfur at -2 (S and SO2 also form)."
       ],
       "images": [
         "papers/chemistry/img/08C-Group-7-11.jpg",
         "papers/chemistry/img/08C-Group-7-12.jpg",
         "papers/chemistry/img/08C-Group-7-13.jpg",
         "papers/chemistry/img/08C-Group-7-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08C-Group-7-Q20-2.jpg"
       ]
     },
     {
@@ -864,6 +899,9 @@
         "papers/chemistry/img/08C-Group-7-12.jpg",
         "papers/chemistry/img/08C-Group-7-13.jpg",
         "papers/chemistry/img/08C-Group-7-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08C-Group-7-Q20.jpg"
       ]
     },
     {
@@ -968,12 +1006,21 @@
         "greatest number"
       ],
       "question": "A fixed amount of concentrated H2SO4 is reacted separately with an excess of four solid potassium halides. In which reaction would the greatest number of moles of halide be oxidised? Options are in the PDF.",
-      "status": "pending",
-      "answer": "The option list is not in the text; check the PDF options (expected answer: the iodide, KI)",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 8KI + 9H2SO4 -> 8KHSO4 + 4I2 + H2S + 4H2O",
+      "steps": [
+        "The acid is fixed, so compare how many moles of halide are oxidised per mole of H2SO4.",
+        "A and B are not redox reactions (the halogen is not oxidised): only HF or HCl forms.",
+        "In C, 3 mol H2SO4 oxidise 2 mol Br-, which is 2/3 mol per mole of acid, because H2SO4 is reduced only to SO2 (2 electrons).",
+        "In D, 9 mol H2SO4 oxidise 8 mol I-, which is 8/9 mol per mole of acid, because iodide is a stronger reducing agent and reduces H2SO4 to H2S (8 electrons).",
+        "So D has the greatest moles of halide oxidised."
+      ],
       "images": [
         "papers/chemistry/img/08C-Group-7-15.jpg",
         "papers/chemistry/img/08C-Group-7-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08C-Group-7-Q23.jpg"
       ]
     },
     {
@@ -991,12 +1038,19 @@
         "procedure"
       ],
       "question": "A brine solution containing a mixture of potassium iodide and potassium chloride was analysed. State the colour of the solid in Step 3.",
-      "status": "pending",
-      "answer": "Step 3 of the procedure is not in the text; check the PDF (the solid is probably a silver halide or iodine-containing solid)",
-      "steps": [],
+      "status": "ready",
+      "answer": "Yellow (silver iodide, AgI)",
+      "steps": [
+        "Step 1: excess AgNO3 precipitates both halides: white AgCl and yellow AgI.",
+        "Step 2: aqueous ammonia dissolves the AgCl (forming a soluble complex), but AgI does not dissolve.",
+        "Step 3: the solid that is filtered, washed, dried and weighed is therefore AgI, which is yellow (pale yellow or cream)."
+      ],
       "images": [
         "papers/chemistry/img/08C-Group-7-15.jpg",
         "papers/chemistry/img/08C-Group-7-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08C-Group-7-Q24.jpg"
       ]
     },
     {
@@ -1014,12 +1068,20 @@
         "brine"
       ],
       "question": "A 2.49 g mixture of KI and KCl gave 0.162 g of dried solid in the analysis. Calculate the percentage by mass of KI. Ar: Ag 107.9, K 39.1, I 126.9.",
-      "status": "pending",
-      "answer": "The procedure (Step 3 and the identity of the 0.162 g solid) is not in the text; check the PDF before calculating",
-      "steps": [],
+      "status": "ready",
+      "answer": "4.60% KI by mass",
+      "steps": [
+        "The dried solid (0.162 g) is AgI, with Mr = 107.9 + 126.9 = 234.8.",
+        "Moles of AgI = 0.162 / 234.8 = 6.90 x 10^-4 mol, which equals the moles of KI (1 I- gives 1 AgI).",
+        "Mass of KI (Mr = 39.1 + 126.9 = 166.0) = 6.90 x 10^-4 x 166.0 = 0.1145 g.",
+        "Percentage KI = 0.1145 / 2.49 x 100 = 4.60% (3 s.f., as the data)."
+      ],
       "images": [
         "papers/chemistry/img/08C-Group-7-15.jpg",
         "papers/chemistry/img/08C-Group-7-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08C-Group-7-Q24.jpg"
       ]
     },
     {
@@ -1125,12 +1187,19 @@
         "options"
       ],
       "question": "Which equation shows a redox reaction that would not be expected to occur, based on the trend in reactivity of the halogens? Options are in the PDF.",
-      "status": "pending",
-      "answer": "The option equations are not in the text; check the PDF (expected: a less reactive halogen displacing a more reactive halide, e.g. Br2 + 2Cl-)",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 2F-(aq) + At2(aq) -> 2At-(aq) + F2(aq)",
+      "steps": [
+        "Reactivity (oxidising power) of the halogens decreases down Group 7, so a halogen can only oxidise (displace) the halide ions of the halogens below it.",
+        "A: I2 oxidises At- to At2, as iodine is above astatine, so it is expected to occur. B and C: Cl2 oxidises Br- and I-, as expected.",
+        "D: At2, the least reactive halogen, would have to oxidise F- to F2, the most reactive halogen. This would not be expected to occur."
+      ],
       "images": [
         "papers/chemistry/img/08C-Group-7-17.jpg",
         "papers/chemistry/img/08C-Group-7-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08C-Group-7-Q25.jpg"
       ]
     },
     {
@@ -1402,12 +1471,19 @@
         "reactivity"
       ],
       "question": "Which row shows the correct trends down the group for the elements of Group 7? The table of rows (A to D) is in the PDF.",
-      "status": "pending",
-      "answer": "The table of rows is not in the text; check the PDF (expected: radius up, electronegativity down, reactivity down, boiling temperature up)",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: boiling temperature increases, electronegativity decreases, reactivity as an oxidising agent decreases",
+      "steps": [
+        "Boiling temperature increases down the group, because larger molecules with more electrons have stronger London forces.",
+        "Electronegativity decreases down the group, as atoms get larger with more shielding.",
+        "Reactivity as an oxidising agent decreases, because the larger atoms attract an extra electron less strongly. This is row A."
+      ],
       "images": [
         "papers/chemistry/img/08C-Group-7-20.jpg",
         "papers/chemistry/img/08C-Group-7-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08C-Group-7-Q35.jpg"
       ]
     },
     {
@@ -1436,6 +1512,9 @@
       "images": [
         "papers/chemistry/img/08C-Group-7-21.jpg",
         "papers/chemistry/img/08C-Group-7-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08C-Group-7-Q36.jpg"
       ]
     },
     {
@@ -1453,12 +1532,19 @@
         "options"
       ],
       "question": "Which is a displacement reaction that results in a visible colour change in solution? Options are in the PDF.",
-      "status": "pending",
-      "answer": "The option reactions are not in the text; check the PDF (expected: chlorine displacing bromide, giving orange/brown bromine)",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 2NaI + Br2 -> 2NaBr + I2",
+      "steps": [
+        "A displacement occurs only when the added halogen is more reactive than the halogen in the halide.",
+        "In C, bromine is more reactive than iodine, so it oxidises I- to I2: the solution changes from orange to brown, a visible colour change.",
+        "A, B and D need a less reactive halogen (At2, I2, Cl2) to displace a more reactive one (Cl2, Br2, F2), so no reaction occurs."
+      ],
       "images": [
         "papers/chemistry/img/08C-Group-7-21.jpg",
         "papers/chemistry/img/08C-Group-7-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08C-Group-7-Q37.jpg"
       ]
     },
     {
@@ -1641,11 +1727,19 @@
         "redox"
       ],
       "question": "Which equation is not an example of disproportionation? Options are in the PDF.",
-      "status": "pending",
-      "answer": "The option equations are not in the text; check the PDF options",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: Mg + 2HCl -> MgCl2 + H2",
+      "steps": [
+        "In D magnesium is oxidised (0 to +2) and hydrogen is reduced (+1 to 0): two different elements, so it is not disproportionation.",
+        "A: copper goes from +1 in Cu2O to 0 in Cu and to +2 in CuSO4, so it is disproportionation.",
+        "B: nitrogen goes from +3 to +5 in HNO3 and to +2 in NO, so it is disproportionation.",
+        "C: chlorine goes from +1 in ClO- to -1 in Cl- and to +5 in ClO3-, so it is disproportionation."
+      ],
       "images": [
         "papers/chemistry/img/08C-Group-7-24.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08C-Group-7-Q40.jpg"
       ]
     },
     {
@@ -1673,6 +1767,9 @@
       ],
       "images": [
         "papers/chemistry/img/08C-Group-7-24.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/08C-Group-7-Q41.jpg"
       ]
     }
   ]

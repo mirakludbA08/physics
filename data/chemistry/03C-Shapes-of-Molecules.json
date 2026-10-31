@@ -107,13 +107,21 @@
         "nitrogen trichloride"
       ],
       "question": "Complete the table to predict the shape and Cl-N-Cl bond angle of nitrogen trichloride. The table is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the table from the PDF to check the expected entries (expected: trigonal pyramidal, bond angle slightly less than 107 degrees)",
-      "steps": [],
+      "status": "ready",
+      "answer": "3 bonding pairs; 1 lone pair; trigonal pyramidal; Cl-N-Cl about 107 degrees",
+      "steps": [
+        "N has 5 outer electrons: 3 are shared with three Cl atoms, leaving 2 electrons as one lone pair",
+        "So there are 3 bonding pairs and 1 lone pair, four electron pairs in total",
+        "Four pairs arrange tetrahedrally, but only three point at atoms, so the shape is trigonal pyramidal",
+        "The lone pair repels the bonding pairs more than they repel each other, squeezing the angle to about 107 degrees (less than 109.5)"
+      ],
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-01.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-02.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03C-Shapes-of-Molecules-Q1.jpg"
       ]
     },
     {
@@ -187,12 +195,19 @@
         "shapes of ions"
       ],
       "question": "Which species is not tetrahedral? The answer options are missing from the extracted text.",
-      "status": "pending",
-      "answer": "Needs the answer options from the PDF to identify the non-tetrahedral species",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: ICl4^-",
+      "steps": [
+        "CCl4, CH4 and NH4^+ each have four bonding pairs and no lone pairs on the central atom, so all are tetrahedral",
+        "In ICl4^- iodine has 7 outer electrons + 1 from the charge + 4 from Cl = 6 pairs: 4 bonding pairs and 2 lone pairs",
+        "Six pairs point octahedrally with the two lone pairs opposite each other, so the ion is square planar, not tetrahedral"
+      ],
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-03.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03C-Shapes-of-Molecules-Q2.jpg"
       ]
     },
     {
@@ -296,13 +311,21 @@
         "table"
       ],
       "question": "Complete the table for a PCl5 molecule. The table is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the table from the PDF to check entries (expected: 5 bonding pairs, no lone pairs, trigonal bipyramidal, 90 and 120 degree angles)",
-      "steps": [],
+      "status": "ready",
+      "answer": "5 bonding pairs; 0 lone pairs; trigonal bipyramidal; Cl-P-Cl angles 90 degrees and 120 degrees",
+      "steps": [
+        "P has 5 outer electrons and forms 5 P-Cl bonds, so it has 5 bonding pairs and 10 electrons in its outer shell",
+        "All 5 pairs are bonding pairs, so there are no lone pairs",
+        "Five bonding pairs repel equally and are furthest apart as a trigonal bipyramid",
+        "Three equatorial Cl are 120 degrees apart; each axial Cl is 90 degrees from the equatorial ones"
+      ],
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-04.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-05.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03C-Shapes-of-Molecules-Q3.jpg"
       ]
     },
     {
@@ -489,12 +512,20 @@
         "shape table"
       ],
       "question": "Complete the table for a molecule of NCl3 (molecular structure, shape and bond angle). The table is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the table from the PDF to check entries (expected: trigonal pyramidal, 3 bonding pairs and 1 lone pair, bond angle slightly less than 107 degrees)",
-      "steps": [],
+      "status": "ready",
+      "answer": "3 bond pairs; 1 lone pair; Cl-N-Cl about 107 degrees; trigonal pyramidal",
+      "steps": [
+        "The displayed formula shows three N-Cl single bonds, so there are 3 bonding pairs around N",
+        "N has 5 outer electrons, 3 used in bonding, so 2 remain as 1 lone pair",
+        "Four electron pairs with one lone pair give a trigonal pyramidal shape",
+        "Lone pair-bond pair repulsion is greater than bond pair-bond pair repulsion, so the angle is about 107 degrees"
+      ],
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-07.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03C-Shapes-of-Molecules-Q7.jpg"
       ]
     },
     {
@@ -602,6 +633,9 @@
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-07.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03C-Shapes-of-Molecules-Q7-2.jpg"
       ]
     },
     {
@@ -710,6 +744,9 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-09.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03C-Shapes-of-Molecules-Q8.jpg"
       ]
     },
     {
@@ -844,13 +881,21 @@
         "Ar"
       ],
       "question": "Calculate the relative atomic mass of germanium from the mass spectrum shown. The spectrum is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the mass spectrum peak masses and abundances from the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "72.7",
+      "steps": [
+        "Read the peaks: 70 (20.6%), 72 (27.4%), 73 (7.7%), 74 (36.7%), 76 (7.6%); the abundances add up to 100.0",
+        "Ar = sum of (mass x abundance) / sum of abundances",
+        "(70 x 20.6 + 72 x 27.4 + 73 x 7.7 + 74 x 36.7 + 76 x 7.6) / 100.0",
+        "= 7270.3 / 100.0 = 72.7 (3 s.f.)"
+      ],
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03C-Shapes-of-Molecules-Q9.jpg"
       ]
     },
     {
@@ -1254,14 +1299,22 @@
         "table"
       ],
       "question": "Three peaks lie between m/z 101 and 105 in the mass spectrum of PCl3. Complete the table giving the ions responsible. The table is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the table and relative peak heights from the PDF to check the ion assignments",
-      "steps": [],
+      "status": "ready",
+      "answer": "m/z 101: 31P 35Cl 35Cl (+); m/z 103: 31P 35Cl 37Cl (+); m/z 105: 31P 37Cl 37Cl (+)",
+      "steps": [
+        "Phosphorus has only 31P, so differences between peaks come from the Cl isotopes",
+        "101 = 31 + 35 + 35, so the ion is [31P 35Cl2]+ (two 35Cl atoms)",
+        "103 = 31 + 35 + 37, so the ion is [31P 35Cl 37Cl]+",
+        "105 = 31 + 37 + 37, so the ion is [31P 37Cl2]+; each ion has charge 1+ (one electron lost in the spectrometer)"
+      ],
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-14.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-15.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03C-Shapes-of-Molecules-Q10.jpg"
       ]
     },
     {
@@ -1278,14 +1331,22 @@
         "relative peak heights"
       ],
       "question": "Show that the relative peak heights in the table are consistent with a 35Cl : 37Cl ratio of 3 : 1. The table values are not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the relative peak heights from the table in the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Probabilities 9/16 : 6/16 : 1/16 = 9 : 6 : 1, matching the peak heights",
+      "steps": [
+        "If 35Cl : 37Cl = 3 : 1, then P(35Cl) = 3/4 and P(37Cl) = 1/4",
+        "m/z 101 needs two 35Cl: (3/4) x (3/4) = 9/16",
+        "m/z 103 needs one of each, in either order: 2 x (3/4) x (1/4) = 6/16",
+        "m/z 105 needs two 37Cl: (1/4) x (1/4) = 1/16, so the heights are in the ratio 9 : 6 : 1, as in the table"
+      ],
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-14.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-15.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03C-Shapes-of-Molecules-Q10.jpg"
       ]
     },
     {
@@ -1401,6 +1462,9 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-17.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03C-Shapes-of-Molecules-Q12.jpg"
       ]
     },
     {
@@ -1418,13 +1482,21 @@
         "paired electrons"
       ],
       "question": "Predict a value for the first ionisation energy of oxygen and justify it. The graph of first ionisation energies is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the graph values of the Period 2 ionisation energies from the PDF to give a predicted value",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 1300 kJ mol^-1 (any value between 1086 and 1402), lower than nitrogen",
+      "steps": [
+        "From the table, N is 1402 and C is 1086, and O has two more protons than C, so a value between these is expected",
+        "Ignoring electron pairing, the value would be higher than N, in line with the general rise across the period",
+        "But in oxygen (2p4) two electrons share one 2p orbital and repel each other",
+        "The repulsion between the paired electrons makes one of them easier to remove, so the first ionisation energy dips below that of N (actual value 1314)"
+      ],
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-17.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03C-Shapes-of-Molecules-Q12.jpg"
       ]
     },
     {
@@ -1605,12 +1677,19 @@
         "options"
       ],
       "question": "What are the shapes of the AlCl3 and PH3 molecules? The answer options are missing from the extracted text.",
-      "status": "pending",
-      "answer": "Needs the answer options from the PDF (expected: AlCl3 trigonal planar, PH3 trigonal pyramidal)",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: AlCl3 trigonal planar, PH3 pyramidal",
+      "steps": [
+        "AlCl3: Al has 3 bonding pairs and no lone pairs, so the shape is trigonal planar (120 degrees)",
+        "PH3: P has 3 bonding pairs and 1 lone pair, so the shape is pyramidal",
+        "Only option D gives trigonal planar for AlCl3 and pyramidal for PH3"
+      ],
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-19.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03C-Shapes-of-Molecules-Q14.jpg"
       ]
     },
     {
@@ -1916,9 +1995,15 @@
         "PCl5 comparison"
       ],
       "question": "Draw the shape of the TlCl4^3- ion, which has 10 electrons in the outer shell of thallium, and predict the bond angles, including any lone pairs that affect the shape.",
-      "status": "pending",
-      "answer": "Needs the answer or mark scheme to confirm the expected shape and bond angles, since the electron count and ion geometry are ambiguous from the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "See-saw: 4 bonding pairs + 1 lone pair (trigonal bipyramidal pair arrangement); lone pair equatorial; angles about 120 degrees (equatorial Cl-Tl-Cl, slightly less) and about 90 degrees (axial-equatorial, slightly less)",
+      "steps": [
+        "Tl has 3 outer electrons, + 3 for the 3- charge, + 4 from the four Cl = 10 electrons, so 5 pairs",
+        "Four pairs are bonding pairs and one is a lone pair",
+        "Five pairs adopt a trigonal bipyramid, with the lone pair in an equatorial position (fewest 90 degree repulsions)",
+        "The shape of the ion is therefore see-saw: two axial Cl and two equatorial Cl, with Cl-Tl-Cl angles about 90 degrees (axial-equatorial) and about 120 degrees (equatorial-equatorial)",
+        "The lone pair repels more strongly than bonding pairs, so these angles are slightly smaller and the axial Cl-Tl-Cl angle is slightly less than 180 degrees"
+      ],
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-21.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-22.jpg"
@@ -1979,6 +2064,9 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-24.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-25.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03C-Shapes-of-Molecules-Q19.jpg"
       ]
     },
     {
@@ -2033,6 +2121,9 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-24.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-25.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03C-Shapes-of-Molecules-Q20.jpg"
       ]
     },
     {
@@ -2077,14 +2168,22 @@
         "bond angles"
       ],
       "question": "Complete the table showing the shapes of S2F10 and SF4 and their F-S-F bond angles. The table is not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the table from the PDF to check the entries",
-      "steps": [],
+      "status": "ready",
+      "answer": "S2F10: octahedral around each S, F-S-F 90 degrees; SF4: see-saw, F-S-F about 90 degrees and about 120 degrees (both slightly less) with axial F-S-F slightly less than 180 degrees",
+      "steps": [
+        "S2F10: each S has 6 bonding pairs (5 S-F + 1 S-S) and no lone pairs, so each S is octahedral; draw two octahedra sharing an S-S bond",
+        "F-S-F angle in S2F10 is 90 degrees (axial-equatorial F), as in SF6",
+        "SF4: S has 4 bonding pairs and 1 lone pair, five pairs in a trigonal bipyramid, so the shape is see-saw (distorted tetrahedral)",
+        "SF4 angles: about 120 degrees between equatorial F (slightly less) and about 90 degrees between axial and equatorial F (slightly less), because the equatorial lone pair repels the bonding pairs more strongly"
+      ],
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-23.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-24.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-25.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/03C-Shapes-of-Molecules-Q20-2.jpg"
       ]
     },
     {

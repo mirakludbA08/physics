@@ -19,13 +19,20 @@
         "smooth endoplasmic reticulum"
       ],
       "question": "Name the organelle seen with the electron microscope, from the four options A to D (centriole, Golgi apparatus, rough ER, smooth ER).",
-      "status": "pending",
-      "answer": "Missing: the description of the organelle seen in the photograph or diagram is not in the text, so the correct option cannot be chosen.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Golgi apparatus",
+      "steps": [
+        "The description is several curved, membrane-bound sacs of decreasing size, which is a stack of flattened cisternae.",
+        "This is the Golgi apparatus (option B).",
+        "Rough ER has ribosomes on its membranes and forms long folded sheets; smooth ER is a network of tubules; a centriole is not made of membrane sacs, so A, C and D are wrong."
+      ],
       "images": [
         "papers/biology/img/03A-Cell-Structure-01.jpg",
         "papers/biology/img/03A-Cell-Structure-02.jpg",
         "papers/biology/img/03A-Cell-Structure-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03A-Cell-Structure-Q1.jpg"
       ]
     },
     {
@@ -129,13 +136,22 @@
         "pancreas"
       ],
       "question": "Explain the results of an investigation in which pancreas cells were given fluorescently labelled amino acids, measuring green fluorescence inside and outside the cells at the start and after 60 minutes.",
-      "status": "pending",
-      "answer": "Missing: the results table with the percentage fluorescence values is not in the text, so the explanation cannot be checked against the data.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Labelled amino acids are used to make proteins, which are packaged and secreted from the cells, so fluorescence falls inside (100% to 38%) and rises outside (0% to 62%).",
+      "steps": [
+        "At 0 minutes all the fluorescence (100%) is inside the cells, because the labelled amino acids have just been taken up and none have been secreted (0% outside).",
+        "Inside the cells the labelled amino acids are joined into polypeptides by ribosomes on the rough ER; the polypeptides are modified in the Golgi apparatus and packaged into secretory vesicles.",
+        "Vesicles fuse with the cell surface membrane and release the enzymes and glycoproteins by exocytosis, so the label moves out of the cells.",
+        "After 60 minutes 62% of the fluorescence is outside and 38% inside; the total is still 100%, so the label has moved, not been lost.",
+        "These processes take time and use ATP, which is why only part (62%) of the label has been secreted after 60 minutes."
+      ],
       "images": [
         "papers/biology/img/03A-Cell-Structure-01.jpg",
         "papers/biology/img/03A-Cell-Structure-02.jpg",
         "papers/biology/img/03A-Cell-Structure-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03A-Cell-Structure-Q1-2.jpg"
       ]
     },
     {
@@ -152,12 +168,19 @@
         "labelled structure"
       ],
       "question": "From the labelled prokaryotic cell diagram (options AW, BX, CY, DZ), state which structure is a plasmid.",
-      "status": "pending",
-      "answer": "Missing: the labelled diagram of the prokaryotic cell is not in the text, so the letter cannot be matched to the plasmid.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: X",
+      "steps": [
+        "A plasmid is a small, circular piece of extra DNA found in the cytoplasm of a bacterium, separate from the main chromosome.",
+        "W points to the large coiled loop of DNA, the bacterial chromosome (nucleoid), and V points to a ribosome.",
+        "X points to a small separate DNA loop, so X is the plasmid: option B."
+      ],
       "images": [
         "papers/biology/img/03A-Cell-Structure-03.jpg",
         "papers/biology/img/03A-Cell-Structure-04.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03A-Cell-Structure-Q2.jpg"
       ]
     },
     {
@@ -175,12 +198,19 @@
         "diagram"
       ],
       "question": "From the same prokaryotic cell diagram (options AV, BX, CY, DZ), state which labelled structure lets the cell adhere to other bacteria during conjugation.",
-      "status": "pending",
-      "answer": "Missing: the labelled diagram is not in the text; the structure is a pilus, but its letter cannot be confirmed.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Y (a pilus)",
+      "steps": [
+        "The structure that lets a bacterium attach to another bacterium during conjugation is a pilus (sex pilus).",
+        "Y points to one of the thin, hair-like projections on the cell surface, which is a pilus.",
+        "Z is the capsule (outer layer) and V and X are inside the cell, so the answer is C."
+      ],
       "images": [
         "papers/biology/img/03A-Cell-Structure-03.jpg",
         "papers/biology/img/03A-Cell-Structure-04.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03A-Cell-Structure-Q2.jpg"
       ]
     },
     {
@@ -253,14 +283,21 @@
         "labelled structure"
       ],
       "question": "From the labelled electron micrograph of a beta cell (options AP, BQ, CR, DS), state which structure produces ribosomes.",
-      "status": "pending",
-      "answer": "Missing: the labelled photograph is not in the text; the structure is the nucleolus, but its letter cannot be confirmed.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: R",
+      "steps": [
+        "Ribosomal RNA is made and ribosomes are assembled in the nucleolus, the dense dark region inside the nucleus.",
+        "R points to the dark dense region within the nucleus, so R is the nucleolus.",
+        "Q is rough endoplasmic reticulum, S is the nuclear envelope or edge of the nucleus and P is the cytoplasm, so they do not produce ribosomes."
+      ],
       "images": [
         "papers/biology/img/03A-Cell-Structure-04.jpg",
         "papers/biology/img/03A-Cell-Structure-05.jpg",
         "papers/biology/img/03A-Cell-Structure-06.jpg",
         "papers/biology/img/03A-Cell-Structure-07.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03A-Cell-Structure-Q3.jpg"
       ]
     },
     {
@@ -278,14 +315,21 @@
         "electron micrograph"
       ],
       "question": "Suggest why the two structures labelled T and U, which are the same type of organelle, look different in the photograph.",
-      "status": "pending",
-      "answer": "Missing: the photograph with labels T and U is not in the text, so the difference in appearance cannot be explained from the image.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Mitochondria are three-dimensional structures cut in different planes, so one is seen as a round section and the other as a longer section showing cristae.",
+      "steps": [
+        "T and U are mitochondria, which are three-dimensional, roughly sausage-shaped organelles.",
+        "A thin section through them is cut at different angles, so the 2D image of each looks different.",
+        "U is cut lengthways (longitudinal section) and shows its elongated shape with cristae; T is cut across (transverse section) so it looks round, and cristae are less clear."
+      ],
       "images": [
         "papers/biology/img/03A-Cell-Structure-04.jpg",
         "papers/biology/img/03A-Cell-Structure-05.jpg",
         "papers/biology/img/03A-Cell-Structure-06.jpg",
         "papers/biology/img/03A-Cell-Structure-07.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03A-Cell-Structure-Q3.jpg"
       ]
     },
     {
@@ -316,6 +360,9 @@
         "papers/biology/img/03A-Cell-Structure-05.jpg",
         "papers/biology/img/03A-Cell-Structure-06.jpg",
         "papers/biology/img/03A-Cell-Structure-07.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03A-Cell-Structure-Q3.jpg"
       ]
     },
     {
@@ -690,13 +737,21 @@
         "beta"
       ],
       "question": "Describe the changes in the percentages of the polypeptides in red blood cells before and after birth, using the graph.",
-      "status": "pending",
-      "answer": "Missing: the graph of polypeptide percentages before and after birth is not in the text, so the changes cannot be read.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Alpha stays at about 50%; gamma rises, stays at about 47% and then falls to under 1% after birth; beta is low before birth and rises to about 48% after birth.",
+      "steps": [
+        "Alpha polypeptide: rises quickly from about 30% at 7.5 months before birth to 50% by about 6 months before birth, then stays at about 50% to 6 months after birth.",
+        "Gamma polypeptide: rises to about 47% by 5 months before birth and stays there until about 3 months before birth, then falls to about 38% at birth and to less than 1% by 6 months after birth.",
+        "Beta polypeptide: very low before birth (about 2 to 4%), about 11% at birth, then rises quickly to about 48% by 6 months after birth.",
+        "Gamma and beta are equal (about 26%) at about 1 month after birth, so fetal haemoglobin is replaced by adult haemoglobin."
+      ],
       "images": [
         "papers/biology/img/03A-Cell-Structure-11.jpg",
         "papers/biology/img/03A-Cell-Structure-12.jpg",
         "papers/biology/img/03A-Cell-Structure-13.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03A-Cell-Structure-Q6.jpg"
       ]
     },
     {
@@ -728,6 +783,9 @@
         "papers/biology/img/03A-Cell-Structure-11.jpg",
         "papers/biology/img/03A-Cell-Structure-12.jpg",
         "papers/biology/img/03A-Cell-Structure-13.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03A-Cell-Structure-Q6.jpg"
       ]
     },
     {
@@ -772,13 +830,19 @@
         "rough endoplasmic reticulum"
       ],
       "question": "Name organelle A, shown in the electron micrograph, which is involved in the formation of extracellular enzymes.",
-      "status": "pending",
-      "answer": "Missing: the electron micrograph with organelle A is not in the text, so the organelle cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Golgi apparatus",
+      "steps": [
+        "The photograph shows a stack of flattened, curved membrane-bound sacs (cisternae) with small vesicles at the edges.",
+        "This is the Golgi apparatus, which modifies and packages proteins such as extracellular enzymes."
+      ],
       "images": [
         "papers/biology/img/03A-Cell-Structure-13.jpg",
         "papers/biology/img/03A-Cell-Structure-14.jpg",
         "papers/biology/img/03A-Cell-Structure-15.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03A-Cell-Structure-Q7.jpg"
       ]
     },
     {
@@ -796,13 +860,21 @@
         "modification"
       ],
       "question": "Describe the role of organelle A in the formation and transport of extracellular enzymes.",
-      "status": "pending",
-      "answer": "Missing: organelle A has not been identified in the text (Q7(b)(i) is pending), so its role cannot be stated with certainty.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The Golgi apparatus modifies the enzymes it receives from the rough ER, packages them into vesicles and sends them to the cell surface membrane for exocytosis.",
+      "steps": [
+        "Vesicles carrying newly made enzymes from the rough ER fuse with the cis face of the Golgi apparatus.",
+        "The Golgi modifies the proteins, for example by adding carbohydrate groups or cutting the polypeptide chain.",
+        "The finished enzymes are packaged into secretory vesicles that bud off from the trans face.",
+        "The vesicles move to the cell surface membrane, fuse with it and release the extracellular enzymes by exocytosis."
+      ],
       "images": [
         "papers/biology/img/03A-Cell-Structure-13.jpg",
         "papers/biology/img/03A-Cell-Structure-14.jpg",
         "papers/biology/img/03A-Cell-Structure-15.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03A-Cell-Structure-Q7.jpg"
       ]
     },
     {
@@ -832,6 +904,9 @@
         "papers/biology/img/03A-Cell-Structure-13.jpg",
         "papers/biology/img/03A-Cell-Structure-14.jpg",
         "papers/biology/img/03A-Cell-Structure-15.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/03A-Cell-Structure-Q7.jpg"
       ]
     }
   ]

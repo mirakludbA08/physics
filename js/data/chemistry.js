@@ -10716,15 +10716,22 @@ window.BANK.chemistry = {
       "nitrogen trichloride"
      ],
      "question": "Complete the table to predict the shape and Cl-N-Cl bond angle of nitrogen trichloride. The table is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the table from the PDF to check the expected entries (expected: trigonal pyramidal, bond angle slightly less than 107 degrees)",
-     "steps": [],
+     "status": "ready",
+     "answer": "3 bonding pairs; 1 lone pair; trigonal pyramidal; Cl-N-Cl about 107 degrees",
+     "steps": [
+      "N has 5 outer electrons: 3 are shared with three Cl atoms, leaving 2 electrons as one lone pair",
+      "So there are 3 bonding pairs and 1 lone pair, four electron pairs in total",
+      "Four pairs arrange tetrahedrally, but only three point at atoms, so the shape is trigonal pyramidal",
+      "The lone pair repels the bonding pairs more than they repel each other, squeezing the angle to about 107 degrees (less than 109.5)"
+     ],
      "images": [
       "papers/chemistry/img/03C-Shapes-of-Molecules-01.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-02.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03C-Shapes-of-Molecules-Q1.jpg"
+     ]
     },
     {
      "id": "Ch3C-Q1d(i)",
@@ -10799,14 +10806,20 @@ window.BANK.chemistry = {
       "shapes of ions"
      ],
      "question": "Which species is not tetrahedral? The answer options are missing from the extracted text.",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF to identify the non-tetrahedral species",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: ICl4^-",
+     "steps": [
+      "CCl4, CH4 and NH4^+ each have four bonding pairs and no lone pairs on the central atom, so all are tetrahedral",
+      "In ICl4^- iodine has 7 outer electrons + 1 from the charge + 4 from Cl = 6 pairs: 4 bonding pairs and 2 lone pairs",
+      "Six pairs point octahedrally with the two lone pairs opposite each other, so the ion is square planar, not tetrahedral"
+     ],
      "images": [
       "papers/chemistry/img/03C-Shapes-of-Molecules-03.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03C-Shapes-of-Molecules-Q2.jpg"
+     ]
     },
     {
      "id": "Ch3C-Q3a(i)",
@@ -10912,15 +10925,22 @@ window.BANK.chemistry = {
       "table"
      ],
      "question": "Complete the table for a PCl5 molecule. The table is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the table from the PDF to check entries (expected: 5 bonding pairs, no lone pairs, trigonal bipyramidal, 90 and 120 degree angles)",
-     "steps": [],
+     "status": "ready",
+     "answer": "5 bonding pairs; 0 lone pairs; trigonal bipyramidal; Cl-P-Cl angles 90 degrees and 120 degrees",
+     "steps": [
+      "P has 5 outer electrons and forms 5 P-Cl bonds, so it has 5 bonding pairs and 10 electrons in its outer shell",
+      "All 5 pairs are bonding pairs, so there are no lone pairs",
+      "Five bonding pairs repel equally and are furthest apart as a trigonal bipyramid",
+      "Three equatorial Cl are 120 degrees apart; each axial Cl is 90 degrees from the equatorial ones"
+     ],
      "images": [
       "papers/chemistry/img/03C-Shapes-of-Molecules-04.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-05.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03C-Shapes-of-Molecules-Q3.jpg"
+     ]
     },
     {
      "id": "Ch3C-Q3c(ii)",
@@ -11112,14 +11132,21 @@ window.BANK.chemistry = {
       "shape table"
      ],
      "question": "Complete the table for a molecule of NCl3 (molecular structure, shape and bond angle). The table is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the table from the PDF to check entries (expected: trigonal pyramidal, 3 bonding pairs and 1 lone pair, bond angle slightly less than 107 degrees)",
-     "steps": [],
+     "status": "ready",
+     "answer": "3 bond pairs; 1 lone pair; Cl-N-Cl about 107 degrees; trigonal pyramidal",
+     "steps": [
+      "The displayed formula shows three N-Cl single bonds, so there are 3 bonding pairs around N",
+      "N has 5 outer electrons, 3 used in bonding, so 2 remain as 1 lone pair",
+      "Four electron pairs with one lone pair give a trigonal pyramidal shape",
+      "Lone pair-bond pair repulsion is greater than bond pair-bond pair repulsion, so the angle is about 107 degrees"
+     ],
      "images": [
       "papers/chemistry/img/03C-Shapes-of-Molecules-07.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03C-Shapes-of-Molecules-Q7.jpg"
+     ]
     },
     {
      "id": "Ch3C-Q7b(i)",
@@ -11230,7 +11257,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03C-Shapes-of-Molecules-07.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03C-Shapes-of-Molecules-Q7-2.jpg"
+     ]
     },
     {
      "id": "Ch3C-Q7d",
@@ -11342,7 +11371,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03C-Shapes-of-Molecules-09.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03C-Shapes-of-Molecules-Q8.jpg"
+     ]
     },
     {
      "id": "Ch3C-Q8d",
@@ -11480,15 +11511,22 @@ window.BANK.chemistry = {
       "Ar"
      ],
      "question": "Calculate the relative atomic mass of germanium from the mass spectrum shown. The spectrum is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the mass spectrum peak masses and abundances from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "72.7",
+     "steps": [
+      "Read the peaks: 70 (20.6%), 72 (27.4%), 73 (7.7%), 74 (36.7%), 76 (7.6%); the abundances add up to 100.0",
+      "Ar = sum of (mass x abundance) / sum of abundances",
+      "(70 x 20.6 + 72 x 27.4 + 73 x 7.7 + 74 x 36.7 + 76 x 7.6) / 100.0",
+      "= 7270.3 / 100.0 = 72.7 (3 s.f.)"
+     ],
      "images": [
       "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03C-Shapes-of-Molecules-Q9.jpg"
+     ]
     },
     {
      "id": "Ch3C-Q9c",
@@ -11905,16 +11943,23 @@ window.BANK.chemistry = {
       "table"
      ],
      "question": "Three peaks lie between m/z 101 and 105 in the mass spectrum of PCl3. Complete the table giving the ions responsible. The table is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the table and relative peak heights from the PDF to check the ion assignments",
-     "steps": [],
+     "status": "ready",
+     "answer": "m/z 101: 31P 35Cl 35Cl (+); m/z 103: 31P 35Cl 37Cl (+); m/z 105: 31P 37Cl 37Cl (+)",
+     "steps": [
+      "Phosphorus has only 31P, so differences between peaks come from the Cl isotopes",
+      "101 = 31 + 35 + 35, so the ion is [31P 35Cl2]+ (two 35Cl atoms)",
+      "103 = 31 + 35 + 37, so the ion is [31P 35Cl 37Cl]+",
+      "105 = 31 + 37 + 37, so the ion is [31P 37Cl2]+; each ion has charge 1+ (one electron lost in the spectrometer)"
+     ],
      "images": [
       "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-14.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-15.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03C-Shapes-of-Molecules-Q10.jpg"
+     ]
     },
     {
      "id": "Ch3C-Q10c(ii)",
@@ -11930,16 +11975,23 @@ window.BANK.chemistry = {
       "relative peak heights"
      ],
      "question": "Show that the relative peak heights in the table are consistent with a 35Cl : 37Cl ratio of 3 : 1. The table values are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the relative peak heights from the table in the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Probabilities 9/16 : 6/16 : 1/16 = 9 : 6 : 1, matching the peak heights",
+     "steps": [
+      "If 35Cl : 37Cl = 3 : 1, then P(35Cl) = 3/4 and P(37Cl) = 1/4",
+      "m/z 101 needs two 35Cl: (3/4) x (3/4) = 9/16",
+      "m/z 103 needs one of each, in either order: 2 x (3/4) x (1/4) = 6/16",
+      "m/z 105 needs two 37Cl: (1/4) x (1/4) = 1/16, so the heights are in the ratio 9 : 6 : 1, as in the table"
+     ],
      "images": [
       "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-14.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-15.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03C-Shapes-of-Molecules-Q10.jpg"
+     ]
     },
     {
      "id": "Ch3C-Q10d(i)",
@@ -12058,7 +12110,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03C-Shapes-of-Molecules-17.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03C-Shapes-of-Molecules-Q12.jpg"
+     ]
     },
     {
      "id": "Ch3C-Q12a(ii)",
@@ -12075,15 +12129,22 @@ window.BANK.chemistry = {
       "paired electrons"
      ],
      "question": "Predict a value for the first ionisation energy of oxygen and justify it. The graph of first ionisation energies is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the graph values of the Period 2 ionisation energies from the PDF to give a predicted value",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 1300 kJ mol^-1 (any value between 1086 and 1402), lower than nitrogen",
+     "steps": [
+      "From the table, N is 1402 and C is 1086, and O has two more protons than C, so a value between these is expected",
+      "Ignoring electron pairing, the value would be higher than N, in line with the general rise across the period",
+      "But in oxygen (2p4) two electrons share one 2p orbital and repel each other",
+      "The repulsion between the paired electrons makes one of them easier to remove, so the first ionisation energy dips below that of N (actual value 1314)"
+     ],
      "images": [
       "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-17.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03C-Shapes-of-Molecules-Q12.jpg"
+     ]
     },
     {
      "id": "Ch3C-Q12b(i)",
@@ -12269,14 +12330,20 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "What are the shapes of the AlCl3 and PH3 molecules? The answer options are missing from the extracted text.",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF (expected: AlCl3 trigonal planar, PH3 trigonal pyramidal)",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: AlCl3 trigonal planar, PH3 pyramidal",
+     "steps": [
+      "AlCl3: Al has 3 bonding pairs and no lone pairs, so the shape is trigonal planar (120 degrees)",
+      "PH3: P has 3 bonding pairs and 1 lone pair, so the shape is pyramidal",
+      "Only option D gives trigonal planar for AlCl3 and pyramidal for PH3"
+     ],
      "images": [
       "papers/chemistry/img/03C-Shapes-of-Molecules-19.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03C-Shapes-of-Molecules-Q14.jpg"
+     ]
     },
     {
      "id": "Ch3C-Q15a",
@@ -12592,9 +12659,15 @@ window.BANK.chemistry = {
       "PCl5 comparison"
      ],
      "question": "Draw the shape of the TlCl4^3- ion, which has 10 electrons in the outer shell of thallium, and predict the bond angles, including any lone pairs that affect the shape.",
-     "status": "pending",
-     "answer": "Needs the answer or mark scheme to confirm the expected shape and bond angles, since the electron count and ion geometry are ambiguous from the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "See-saw: 4 bonding pairs + 1 lone pair (trigonal bipyramidal pair arrangement); lone pair equatorial; angles about 120 degrees (equatorial Cl-Tl-Cl, slightly less) and about 90 degrees (axial-equatorial, slightly less)",
+     "steps": [
+      "Tl has 3 outer electrons, + 3 for the 3- charge, + 4 from the four Cl = 10 electrons, so 5 pairs",
+      "Four pairs are bonding pairs and one is a lone pair",
+      "Five pairs adopt a trigonal bipyramid, with the lone pair in an equatorial position (fewest 90 degree repulsions)",
+      "The shape of the ion is therefore see-saw: two axial Cl and two equatorial Cl, with Cl-Tl-Cl angles about 90 degrees (axial-equatorial) and about 120 degrees (equatorial-equatorial)",
+      "The lone pair repels more strongly than bonding pairs, so these angles are slightly smaller and the axial Cl-Tl-Cl angle is slightly less than 180 degrees"
+     ],
      "images": [
       "papers/chemistry/img/03C-Shapes-of-Molecules-21.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-22.jpg"
@@ -12658,7 +12731,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03C-Shapes-of-Molecules-25.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03C-Shapes-of-Molecules-Q19.jpg"
+     ]
     },
     {
      "id": "Ch3C-Q20a",
@@ -12714,7 +12789,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03C-Shapes-of-Molecules-25.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03C-Shapes-of-Molecules-Q20.jpg"
+     ]
     },
     {
      "id": "Ch3C-Q20c",
@@ -12759,16 +12836,23 @@ window.BANK.chemistry = {
       "bond angles"
      ],
      "question": "Complete the table showing the shapes of S2F10 and SF4 and their F-S-F bond angles. The table is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the table from the PDF to check the entries",
-     "steps": [],
+     "status": "ready",
+     "answer": "S2F10: octahedral around each S, F-S-F 90 degrees; SF4: see-saw, F-S-F about 90 degrees and about 120 degrees (both slightly less) with axial F-S-F slightly less than 180 degrees",
+     "steps": [
+      "S2F10: each S has 6 bonding pairs (5 S-F + 1 S-S) and no lone pairs, so each S is octahedral; draw two octahedra sharing an S-S bond",
+      "F-S-F angle in S2F10 is 90 degrees (axial-equatorial F), as in SF6",
+      "SF4: S has 4 bonding pairs and 1 lone pair, five pairs in a trigonal bipyramid, so the shape is see-saw (distorted tetrahedral)",
+      "SF4 angles: about 120 degrees between equatorial F (slightly less) and about 90 degrees between axial and equatorial F (slightly less), because the equatorial lone pair repels the bonding pairs more strongly"
+     ],
      "images": [
       "papers/chemistry/img/03C-Shapes-of-Molecules-23.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-24.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-25.jpg",
       "papers/chemistry/img/03C-Shapes-of-Molecules-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03C-Shapes-of-Molecules-Q20-2.jpg"
+     ]
     },
     {
      "id": "Ch3C-Q20e",
@@ -13188,15 +13272,22 @@ window.BANK.chemistry = {
       "graph plotting"
      ],
      "question": "Plot a graph of atomic radius against atomic number for six Period 3 elements.",
-     "status": "pending",
-     "answer": "Pending: the atomic radius values (data table) and graph axes are not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Graph of atomic radius (nm) against atomic number with six points: (11, 0.191), (12, 0.160), (13, 0.130), (16, 0.102), (17, 0.099), (18, 0.095), joined by a smooth curve that falls steeply from Na to Al and then flattens",
+     "steps": [
+      "x axis: atomic number from 11 to 18; y axis: atomic radius / nm from about 0.09 to 0.20, each labelled with its quantity and unit, using more than half of the grid",
+      "Plot only the six given elements (Na, Mg, Al, S, Cl, Ar); Si and P have no data",
+      "Mark each point accurately with a small cross or dot",
+      "Draw a smooth best-fit line through the points; no point is plotted for Si or P but the line passes through that gap"
+     ],
      "images": [
       "papers/chemistry/img/03D-Metallic-Bonding-05.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-06.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03D-Metallic-Bonding-Q4.jpg"
+     ]
     },
     {
      "id": "Ch3D-Q4a(ii)",
@@ -13212,15 +13303,21 @@ window.BANK.chemistry = {
       "atomic number"
      ],
      "question": "Use the graph of atomic radius against atomic number to estimate the atomic radius of silicon.",
-     "status": "pending",
-     "answer": "Pending: needs the graph from part (a)(i), which is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 0.12 nm (accept about 0.115 to 0.125 nm)",
+     "steps": [
+      "On the curve from part (i), read the radius at atomic number 14 (Si)",
+      "The curve lies between Al (0.130 nm at 13) and S (0.102 nm at 16), so the value must lie between these",
+      "A straight line between them gives 0.121 nm at 14, so about 0.12 nm"
+     ],
      "images": [
       "papers/chemistry/img/03D-Metallic-Bonding-05.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-06.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03D-Metallic-Bonding-Q4.jpg"
+     ]
     },
     {
      "id": "Ch3D-Q4a(iii)",
@@ -13268,15 +13365,22 @@ window.BANK.chemistry = {
       "table"
      ],
      "question": "Complete the table giving the type of structure, the type of bond or force broken on melting, and the particles involved for sodium, sodium chloride and chlorine.",
-     "status": "pending",
-     "answer": "Pending: the table to complete is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Sodium: giant metallic; metallic bonding broken; sodium ions and delocalised electrons. Sodium chloride: giant ionic; ionic bonds broken; Na+ and Cl- ions. Chlorine: simple molecular; weak intermolecular forces broken; chlorine molecules",
+     "steps": [
+      "Sodium: type of structure is giant (already given); on melting the metallic bonds (attraction between positive ions and delocalised electrons) are weakened; particles are Na+ ions and delocalised electrons (sodium atoms)",
+      "Sodium chloride: structure is giant (ionic lattice); the strong electrostatic attractions between oppositely charged ions (ionic bonds) are overcome; particles are Na+ and Cl- ions",
+      "Chlorine: simple molecular (given); only the weak intermolecular (London) forces between molecules are overcome, not the covalent bonds; particles are Cl2 molecules (given)",
+      "This matches the melting temperatures: strong forces give 98 and 801 degrees C, weak forces give -101 degrees C"
+     ],
      "images": [
       "papers/chemistry/img/03D-Metallic-Bonding-05.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-06.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03D-Metallic-Bonding-Q4-2.jpg"
+     ]
     },
     {
      "id": "Ch3D-Q4c(i)",
@@ -13292,15 +13396,22 @@ window.BANK.chemistry = {
       "ionic"
      ],
      "question": "Draw a dot-and-cross diagram of an ion from solid phosphorus(V) chloride, showing outer shell electrons only.",
-     "status": "pending",
-     "answer": "Pending: the name or formula of the ion is blank in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "PCl4+: P in the centre sharing one pair with each of four Cl; each Cl has 3 further lone pairs; whole ion in square brackets with a + charge",
+     "steps": [
+      "The ion given on the page is PCl4+; P has 5 outer electrons, but one is lost for the 1+ charge, leaving 4 outer electrons from P (4 dots)",
+      "Each of the four Cl atoms contributes one electron (cross) to a shared pair with P, so there are four shared dot-and-cross pairs",
+      "Each Cl also has three non-bonding pairs of crosses, giving it a full outer shell of 8",
+      "Enclose the diagram in square brackets with + at the top right"
+     ],
      "images": [
       "papers/chemistry/img/03D-Metallic-Bonding-05.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-06.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03D-Metallic-Bonding-Q4-3.jpg"
+     ]
     },
     {
      "id": "Ch3D-Q4c(ii)",
@@ -13316,15 +13427,21 @@ window.BANK.chemistry = {
       "ion"
      ],
      "question": "Predict the shape of the ion from solid phosphorus(V) chloride and justify your answer.",
-     "status": "pending",
-     "answer": "Pending: the ion name or formula is blank in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Tetrahedral (Cl-P-Cl about 109.5 degrees)",
+     "steps": [
+      "The PCl4+ ion has four bonding pairs of electrons around P and no lone pairs",
+      "Electron pairs repel and move as far apart as possible",
+      "All four pairs repel equally, giving a tetrahedral shape with bond angles of 109.5 degrees"
+     ],
      "images": [
       "papers/chemistry/img/03D-Metallic-Bonding-05.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-06.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03D-Metallic-Bonding-Q4-3.jpg"
+     ]
     },
     {
      "id": "Ch3D-Q5",
@@ -13371,13 +13488,19 @@ window.BANK.chemistry = {
       "multiple choice"
      ],
      "question": "Using a table of physical properties of five substances (letters, not element symbols), which could be metals? Options: A N only, B L and M only, C M and N only, D L, M and N only.",
-     "status": "pending",
-     "answer": "Pending: the table of physical properties is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: M and N only",
+     "steps": [
+      "Metals conduct electricity well as both solid and liquid because of delocalised electrons",
+      "Only M and N (good, good) fit this; M reacts with water and melts at 98 degrees C like sodium, and N is insoluble and melts at 1083 degrees C like copper",
+      "L conducts only when liquid or dissolved (ionic), and P and Q are poor conductors in solid and liquid (molecular), so they are not metals"
+     ],
      "images": [
       "papers/chemistry/img/03D-Metallic-Bonding-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03D-Metallic-Bonding-Q6.jpg"
+     ]
     },
     {
      "id": "Ch3D-Q6b",
@@ -13395,13 +13518,19 @@ window.BANK.chemistry = {
       "multiple choice"
      ],
      "question": "Using the table of physical properties, which substance changes from a molecular structure to ions when it dissolves in water? Options: A L, B M, C P, D Q.",
-     "status": "pending",
-     "answer": "Pending: the table of physical properties is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Q",
+     "steps": [
+      "A molecular substance does not conduct as a solid or liquid because it has no ions or free electrons; Q is poor in both states and melts at only 10 degrees C",
+      "Its solution in water is a good conductor, so ions must have formed when it dissolved",
+      "L is already ionic (poor as solid, good as liquid), and P is poor in both states but insoluble, so neither fits"
+     ],
      "images": [
       "papers/chemistry/img/03D-Metallic-Bonding-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03D-Metallic-Bonding-Q6.jpg"
+     ]
     },
     {
      "id": "Ch3D-Q7a(i)",
@@ -13971,14 +14100,20 @@ window.BANK.chemistry = {
       "multiple choice"
      ],
      "question": "Which row of the table shows properties consistent with the type of bonding shown?",
-     "status": "pending",
-     "answer": "Pending: the table of properties and the bonding diagram are not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: ionic, soluble, high melting temperature, poor conductor as a solid",
+     "steps": [
+      "Ionic compounds have strong attractions between ions, so high melting temperatures, and the ions are fixed in the solid, so poor conductivity",
+      "Many ionic compounds dissolve in water, so A is consistent",
+      "B fails because ionic solids do not conduct and do not melt at low temperatures; D fails because metals conduct well as solids; C fails because metals are insoluble in water and not low melting"
+     ],
      "images": [
       "papers/chemistry/img/03D-Metallic-Bonding-15.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03D-Metallic-Bonding-Q11.jpg"
+     ]
     },
     {
      "id": "Ch3D-Q12",
@@ -13993,14 +14128,19 @@ window.BANK.chemistry = {
       "multiple choice"
      ],
      "question": "Which are the correct bonding and structure for one of the substances listed?",
-     "status": "pending",
-     "answer": "Pending: the substances and answer options are not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: sodium, metallic bonding, giant structure",
+     "steps": [
+      "Sodium is a metal with metallic bonding in a giant lattice, so D is correct",
+      "Copper(II) sulfate is ionic (not covalent), graphene is a giant covalent structure (not simple molecular), and iodine is covalent (not metallic)"
+     ],
      "images": [
       "papers/chemistry/img/03D-Metallic-Bonding-15.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03D-Metallic-Bonding-Q12.jpg"
+     ]
     },
     {
      "id": "Ch3D-Q13a",
@@ -14162,16 +14302,23 @@ window.BANK.chemistry = {
       "24.32"
      ],
      "question": "Calculate the relative abundance and mass number of the third magnesium isotope, given relative atomic mass 24.32 and a table of two isotopes' abundances.",
-     "status": "pending",
-     "answer": "Pending: the table of relative abundances is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Relative abundance 11.01 %; mass number 26 (26Mg)",
+     "steps": [
+      "Abundances add to 100: third isotope = 100 - 78.99 - 10.00 = 11.01 %",
+      "Weighted mean: 24.32 x 100 = (24 x 78.99) + (25 x 10.00) + (M x 11.01)",
+      "2432 = 1895.76 + 250 + 11.01 M, so 11.01 M = 286.24",
+      "M = 286.24 / 11.01 = 26.0, so the mass number is 26 (a whole number)"
+     ],
      "images": [
       "papers/chemistry/img/03D-Metallic-Bonding-17.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-18.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03D-Metallic-Bonding-Q14.jpg"
+     ]
     },
     {
      "id": "Ch3D-Q14a(ii)",
@@ -14201,7 +14348,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03D-Metallic-Bonding-Q14.jpg"
+     ]
     },
     {
      "id": "Ch3D-Q14a(iii)",
@@ -14218,16 +14367,21 @@ window.BANK.chemistry = {
       "justify"
      ],
      "question": "State which magnesium isotope would be deflected most in a mass spectrometer, and justify your answer.",
-     "status": "pending",
-     "answer": "Pending: the answer depends on the mass numbers of the isotopes, which come from the table and part (a)(i), not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "24Mg (the lightest isotope)",
+     "steps": [
+      "The three isotopes are 24Mg, 25Mg and 26Mg (from the table and part (a)(i)); all form ions of the same charge, 1+",
+      "In a mass spectrometer lighter ions are deflected more by the magnetic field, so the one with the lowest m/z, 24Mg+, is deflected most"
+     ],
      "images": [
       "papers/chemistry/img/03D-Metallic-Bonding-17.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-18.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03D-Metallic-Bonding-Q14.jpg"
+     ]
     },
     {
      "id": "Ch3D-Q14b(i)",
@@ -14307,16 +14461,22 @@ window.BANK.chemistry = {
       "differences"
      ],
      "question": "Explain the similarities and differences in the electrical conductivity of magnesium and magnesium oxide, using the table of conductivity data.",
-     "status": "pending",
-     "answer": "Pending: the conductivity data table is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both conduct when liquid; magnesium also conducts as a solid but MgO does not, because Mg has delocalised electrons but MgO conducts only when its ions can move",
+     "steps": [
+      "Similarity: both conduct when liquid; in Mg the delocalised electrons are free to move, in molten MgO the Mg2+ and O2- ions are free to move",
+      "Difference: solid Mg conducts well because delocalised electrons are free to carry charge in the solid too",
+      "Solid MgO conducts poorly because its ions are held in fixed positions in the lattice and there are no free electrons"
+     ],
      "images": [
       "papers/chemistry/img/03D-Metallic-Bonding-17.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-18.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-19.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03D-Metallic-Bonding-Q14-2.jpg"
+     ]
     },
     {
      "id": "Ch3D-Q14d(i)",
@@ -14721,16 +14881,22 @@ window.BANK.chemistry = {
       "lone pairs"
      ],
      "question": "The three molecules methane, ammonia and water each have a different shape. Complete the table giving the shape and bond angle of each.",
-     "status": "pending",
-     "answer": "Pending: the table to complete is not in the extracted text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Methane: tetrahedral, 109.5 degrees; ammonia: pyramidal (trigonal pyramidal), 107 degrees; water: bent (V-shaped), 104.5 degrees",
+     "steps": [
+      "Methane has 4 bonding pairs and no lone pairs: tetrahedral, 109.5 degrees",
+      "Ammonia has 3 bonding pairs and 1 lone pair: pyramidal, about 107 degrees",
+      "Water has 2 bonding pairs and 2 lone pairs: bent (non-linear), about 104.5 degrees"
+     ],
      "images": [
       "papers/chemistry/img/03D-Metallic-Bonding-20.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-21.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-22.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03D-Metallic-Bonding-Q15.jpg"
+     ]
     },
     {
      "id": "Ch3D-Q15b(iv)",
@@ -14794,7 +14960,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/03D-Metallic-Bonding-22.jpg",
       "papers/chemistry/img/03D-Metallic-Bonding-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/03D-Metallic-Bonding-Q15-2.jpg"
+     ]
     },
     {
      "id": "Ch3D-Q15c(i)",
@@ -20239,14 +20407,21 @@ window.BANK.chemistry = {
       "addition polymer"
      ],
      "question": "Name the monomer that forms a polymer whose repeat unit is shown.",
-     "status": "pending",
-     "answer": "Needs the repeat unit diagram to identify the monomer.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 2-methylbut-2-ene",
+     "steps": [
+      "The repeat unit has two backbone carbons: one carries two CH3 groups, the other carries H and CH3",
+      "Closing the two chain bonds into a C=C gives the monomer (CH3)2C=CH(CH3)",
+      "The longest chain containing the C=C has four carbons, with the double bond at C2 and a methyl on C2, so the systematic name is 2-methylbut-2-ene",
+      "The other options are not correct IUPAC names for this compound (trimethylethene and dimethylpropene are not systematic, and 3-methylbut-2-ene numbers the chain wrongly)"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-14.jpg",
       "papers/chemistry/img/05-Alkenes-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-A-Q22.jpg"
+     ]
     },
     {
      "id": "Ch5-A-Q23a",
@@ -20274,7 +20449,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-14.jpg",
       "papers/chemistry/img/05-Alkenes-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-A-Q23.jpg"
+     ]
     },
     {
      "id": "Ch5-A-Q23b",
@@ -20302,7 +20479,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-14.jpg",
       "papers/chemistry/img/05-Alkenes-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-A-Q23.jpg"
+     ]
     },
     {
      "id": "Ch5-A-Q24",
@@ -20386,7 +20565,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-16.jpg",
       "papers/chemistry/img/05-Alkenes-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-A-Q26.jpg"
+     ]
     },
     {
      "id": "Ch5-A-Q27",
@@ -20402,14 +20583,21 @@ window.BANK.chemistry = {
       "alkene"
      ],
      "question": "Choose the systematic name for a compound whose structure is shown (options: E/Z-5-methylhex-2-ene, E/Z-2-methylpent-4-ene).",
-     "status": "pending",
-     "answer": "Needs the structure diagram to choose between the four names.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: E-5-methylhex-2-ene",
+     "steps": [
+      "The longest chain containing the C=C has six carbons; numbering from the end nearer the double bond puts the C=C at C2 and the methyl branch at C5, so the name is 5-methylhex-2-ene",
+      "The names with pent-4-ene (options C and D) have the wrong chain length and numbering",
+      "At each end of the C=C one substituent is H and the other is a carbon chain; in the zigzag drawing the two chain carbons lie on opposite sides of the double bond",
+      "Higher-priority groups on opposite sides means E, so the compound is E-5-methylhex-2-ene"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-16.jpg",
       "papers/chemistry/img/05-Alkenes-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-A-Q27.jpg"
+     ]
     },
     {
      "id": "Ch5-A-Q28a",
@@ -20453,14 +20641,20 @@ window.BANK.chemistry = {
       "displayed formula"
      ],
      "question": "Choose the diagram showing two repeat units of the addition polymer of cyclohexene.",
-     "status": "pending",
-     "answer": "Needs the option diagrams, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D",
+     "steps": [
+      "In addition polymerisation the C=C opens, so the two ring carbons that were doubly bonded become part of the polymer backbone",
+      "Each repeat unit is therefore a cyclohexane ring joined to the chain through two adjacent (1,2) carbons",
+      "Only D shows each ring linked to the chain and to its neighbour through adjacent carbons; A is 1,3-linked, B is 1,4-linked and C joins the rings at a single shared carbon"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-17.jpg",
       "papers/chemistry/img/05-Alkenes-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-A-Q28b.jpg"
+     ]
     },
     {
      "id": "Ch5-A-Q28c",
@@ -20504,14 +20698,21 @@ window.BANK.chemistry = {
       "structure"
      ],
      "question": "Identify each double bond in a molecule with two double bonds, using options whose text is missing.",
-     "status": "pending",
-     "answer": "Needs the molecule and the option list, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: E and E",
+     "steps": [
+      "The molecule is CH3-CH=C(CH3)-C(CH3)=CH-CH2CH3 (3,4-dimethylhepta-2,4-diene)",
+      "Double bond 1: on its CH carbon CH3 outranks H; on its other carbon the neighbouring C(CH3)= carbon outranks CH3; these two groups are on opposite sides in the zigzag, so E",
+      "Double bond 2: on its first carbon the C(CH3)= neighbour outranks CH3; on the CH carbon CH2CH3 outranks H; these are again on opposite sides, so E",
+      "Both double bonds are E, so the answer is A"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-18.jpg",
       "papers/chemistry/img/05-Alkenes-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-A-Q29.jpg"
+     ]
     },
     {
      "id": "Ch5-A-Q30a",
@@ -20539,7 +20740,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-19.jpg",
       "papers/chemistry/img/05-Alkenes-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-A-Q30.jpg"
+     ]
     },
     {
      "id": "Ch5-A-Q30b",
@@ -20567,7 +20770,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-19.jpg",
       "papers/chemistry/img/05-Alkenes-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-A-Q30.jpg"
+     ]
     },
     {
      "id": "Ch5-A-Q31",
@@ -20679,7 +20884,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-21.jpg",
       "papers/chemistry/img/05-Alkenes-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-A-Q33.jpg"
+     ]
     },
     {
      "id": "Ch5-A-Q34",
@@ -20695,14 +20902,20 @@ window.BANK.chemistry = {
       "cyclohexene"
      ],
      "question": "Decide which of three formulae (i)-(iii) are correct for 1,4-diethylcyclohexene.",
-     "status": "pending",
-     "answer": "Needs the three formulae (i)-(iii), which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: (i), (ii) and (iii) are all correct",
+     "steps": [
+      "(i) The skeletal formula shows a cyclohexene ring with an ethyl group on one carbon of the C=C (C1) and another on C4, which is 1,4-diethylcyclohexene",
+      "(ii) Counting atoms: 6 ring C + 2 x 2 ethyl C = 10 C; cyclohexene C6H10 loses 2 H and gains 2 C2H5, giving C10H18",
+      "(iii) The simplest whole-number ratio of C10H18 is C5H9, so the empirical formula is correct"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-21.jpg",
       "papers/chemistry/img/05-Alkenes-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-A-Q34.jpg"
+     ]
     },
     {
      "id": "Ch5-A-Q35",
@@ -20718,13 +20931,19 @@ window.BANK.chemistry = {
       "structure"
      ],
      "question": "Choose which molecule has a geometric isomer from structure options.",
-     "status": "pending",
-     "answer": "Needs the option structures, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D (pent-2-ene)",
+     "steps": [
+      "Geometric isomers need each carbon of the C=C to carry two different groups",
+      "In A, B and C one carbon of the C=C carries two identical CH3 groups, so no E/Z isomers exist",
+      "In D (CH3CH=CHCH2CH3) one carbon has H and CH3 and the other has H and CH2CH3, so it has E and Z forms"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-A-Q35.jpg"
+     ]
     },
     {
      "id": "Ch5-A-Q36",
@@ -20740,13 +20959,19 @@ window.BANK.chemistry = {
       "carbocation"
      ],
      "question": "Choose the correct mechanism for electrophilic addition of HBr to pent-1-ene giving the major product.",
-     "status": "pending",
-     "answer": "Needs the mechanism options, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "Step 1: a curly arrow starts at the C=C and points to the H of the polarised H(delta+)-Br(delta-); a second arrow starts at the H-Br bond and points to Br",
+      "Step 2: the arrow from the lone pair on the bromide ion Br- must point to the C+ of the carbocation, and the ion carries a full negative charge, not delta-",
+      "A has the last arrow reversed, C has the first arrow reversed, and D shows Br with delta- instead of Br-; only B is fully correct"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-A-Q36.jpg"
+     ]
     },
     {
      "id": "Ch5-A-Q37",
@@ -20774,7 +20999,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-23.jpg",
       "papers/chemistry/img/05-Alkenes-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-A-Q37.jpg"
+     ]
     },
     {
      "id": "Ch5-A-Q38",
@@ -20790,13 +21017,21 @@ window.BANK.chemistry = {
       "alkene"
      ],
      "question": "Choose which structure is a Z-isomer.",
-     "status": "pending",
-     "answer": "Needs the option structures, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D",
+     "steps": [
+      "Z means the two higher-priority groups (by CIP rules) are on the same side of the C=C",
+      "A: Cl and CH3 are on opposite sides, so E",
+      "B: Cl (higher than OH) and ethyl (higher than methyl) are on opposite sides, so E",
+      "C: Br (higher than Cl) is up and Cl (higher than ethyl) is down, so E",
+      "D: Cl and ethyl are both on the upper side, so Z"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-A-Q38.jpg"
+     ]
     },
     {
      "id": "Ch5-A-Q39",
@@ -20812,13 +21047,19 @@ window.BANK.chemistry = {
       "alkene test"
      ],
      "question": "Choose the skeletal formula of the major product when bromine water reacts with 2-methylbut-2-ene.",
-     "status": "pending",
-     "answer": "Needs the option skeletal formulae, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 3-bromo-2-methylbutan-2-ol",
+     "steps": [
+      "In bromine water the alkene attacks Br2, then water (the solvent) attacks the more stable carbon of the intermediate, so Br and OH end up on adjacent carbons",
+      "The more substituted (tertiary) carbon of 2-methylbut-2-ene bears the OH group, and Br goes on the CH carbon",
+      "This gives (CH3)2C(OH)-CHBr-CH3, shown in A; B has the groups the wrong way round and C and D have the wrong carbon skeleton"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-A-Q39.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q1a",
@@ -20979,15 +21220,22 @@ window.BANK.chemistry = {
       "bromide ion"
      ],
      "question": "Describe three changes to a student's mechanism for the addition of bromine to ethene.",
-     "status": "pending",
-     "answer": "Needs the student's mechanism diagram to check the three errors against the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "(1) The first curly arrow must start at the C=C and end at the nearer Br, not the reverse; (2) the Br-Br dipole is swapped: the Br nearer the alkene is delta+ and the far Br delta-; (3) the bromide ion must be Br- (with a lone pair), not Br+",
+     "steps": [
+      "Change 1: the first curly arrow points the wrong way; it must start at the C=C double bond (the electron-rich pi bond) and end at the Br atom nearer the alkene",
+      "Change 2: the dipole on bromine is reversed; the Br nearer the alkene must be delta+ and the far Br delta-; the arrow from the Br-Br bond to the far Br, which becomes Br-, is then correct",
+      "Change 3: in the second step the bromide ion is labelled Br+; it must be Br- (negative charge) with a lone pair, which attacks the C+",
+      "The carbocation intermediate and the final product, 1,2-dibromoethane, are otherwise correct"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-26.jpg",
       "papers/chemistry/img/05-Alkenes-27.jpg",
       "papers/chemistry/img/05-Alkenes-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q1e.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q1f",
@@ -21003,15 +21251,21 @@ window.BANK.chemistry = {
       "alkene"
      ],
      "question": "Draw the monomer of a polymer whose section is shown.",
-     "status": "pending",
-     "answer": "Needs the polymer section diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Propene, CH3-CH=CH2",
+     "steps": [
+      "The repeat unit is -CH(CH3)-CH2-, with two backbone carbons",
+      "Reopen the repeat unit as a C=C to give the monomer",
+      "Draw the monomer as CH3-CH=CH2 (propene): one carbon carries CH3 and H, the other carries two H"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-26.jpg",
       "papers/chemistry/img/05-Alkenes-27.jpg",
       "papers/chemistry/img/05-Alkenes-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q1f.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q2a",
@@ -21116,16 +21370,22 @@ window.BANK.chemistry = {
       "cleavage"
      ],
      "question": "Give the skeletal formula of the organic product Q from Reaction 1 (2-methylpropene with acidified KMnO4).",
-     "status": "pending",
-     "answer": "Needs the Reaction 1 scheme and conditions to confirm product Q (cleavage to propanone or a diol).",
-     "steps": [],
+     "status": "ready",
+     "answer": "2-methylpropane-1,2-diol: skeletal formula with a carbon carrying two CH3 groups and an OH, joined to a CH2OH",
+     "steps": [
+      "Acidified potassium manganate(VII) oxidises the C=C of an alkene to a diol (OH added to each carbon of the double bond)",
+      "In 2-methylpropene (CH3)2C=CH2 one OH goes on the carbon with the two methyls and one on the CH2",
+      "Q is HOCH2-C(CH3)2-OH; draw a carbon with two methyl lines, an OH, and a CH2-OH branch"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-28.jpg",
       "papers/chemistry/img/05-Alkenes-29.jpg",
       "papers/chemistry/img/05-Alkenes-30.jpg",
       "papers/chemistry/img/05-Alkenes-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q2d.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q2d(ii)",
@@ -21155,7 +21415,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-30.jpg",
       "papers/chemistry/img/05-Alkenes-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q2d.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q2d(iii)",
@@ -21184,7 +21446,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-30.jpg",
       "papers/chemistry/img/05-Alkenes-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q2d.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q2d(iv)",
@@ -21214,7 +21478,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-30.jpg",
       "papers/chemistry/img/05-Alkenes-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q2d.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q2e",
@@ -21898,7 +22164,7 @@ window.BANK.chemistry = {
      ],
      "question": "Draw the geometric isomer of a related molecule that shows geometric isomerism (the molecule is shown in the PDF).",
      "status": "pending",
-     "answer": "Needs the related molecule diagram, which is missing from the text.",
+     "answer": "The molecule whose geometric isomer must be drawn is missing from the page image: there is a blank gap between 'A related molecule does show geometric isomerism' and 'Draw the geometric isomer of this molecule'.",
      "steps": [],
      "images": [
       "papers/chemistry/img/05-Alkenes-36.jpg",
@@ -22039,16 +22305,22 @@ window.BANK.chemistry = {
       "addition"
      ],
      "question": "Draw the skeletal formula of compound X formed in Reaction 1 from 1-methylcyclohexene.",
-     "status": "pending",
-     "answer": "Needs the Reaction 1 scheme (reagent, product), which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1,2-dibromo-1-methylcyclohexane: a cyclohexane ring with Br on each of two adjacent carbons and a CH3 on one of them",
+     "steps": [
+      "Bromine adds across the C=C of 1-methylcyclohexene (electrophilic addition)",
+      "Each carbon of the former double bond gains one Br",
+      "Skeletal formula: cyclohexane ring, Br on C1 (which also carries the CH3 group) and Br on the adjacent C2"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-38.jpg",
       "papers/chemistry/img/05-Alkenes-39.jpg",
       "papers/chemistry/img/05-Alkenes-40.jpg",
       "papers/chemistry/img/05-Alkenes-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q6c.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q6c(ii)",
@@ -22064,16 +22336,23 @@ window.BANK.chemistry = {
       "conditions"
      ],
      "question": "Give the reagent and condition needed for Reaction 2 from 1-methylcyclohexene.",
-     "status": "pending",
-     "answer": "Needs the Reaction 2 scheme, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Reagent: steam (water vapour); condition: phosphoric acid catalyst at about 300 C and 60-70 atm",
+     "steps": [
+      "Reaction 2 adds H and OH across the C=C: hydration of the alkene to an alcohol",
+      "Reagent: steam, H2O(g)",
+      "Conditions: concentrated phosphoric acid (H3PO4) as catalyst, about 300 C and 60-70 atm (alternatively accept concentrated sulfuric acid followed by water)",
+      "OH goes on the carbon with the methyl group, giving the tertiary alcohol 1-methylcyclohexan-1-ol shown"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-38.jpg",
       "papers/chemistry/img/05-Alkenes-39.jpg",
       "papers/chemistry/img/05-Alkenes-40.jpg",
       "papers/chemistry/img/05-Alkenes-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q6c.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q6d",
@@ -22103,7 +22382,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-40.jpg",
       "papers/chemistry/img/05-Alkenes-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q6d.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q6e",
@@ -22119,16 +22400,22 @@ window.BANK.chemistry = {
       "name"
      ],
      "question": "Give the name of the monomer that forms a polymer whose two repeat units are shown.",
-     "status": "pending",
-     "answer": "Needs the polymer diagram to name the monomer.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Pent-2-ene",
+     "steps": [
+      "The repeat unit is -CH(CH3)-CH(C2H5)-, two backbone carbons",
+      "Reforming the C=C between them gives CH3-CH=CH-CH2CH3",
+      "The longest chain has five carbons with the double bond starting at C2, so the monomer is pent-2-ene"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-38.jpg",
       "papers/chemistry/img/05-Alkenes-39.jpg",
       "papers/chemistry/img/05-Alkenes-40.jpg",
       "papers/chemistry/img/05-Alkenes-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q6e.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q6f",
@@ -22736,16 +23023,22 @@ window.BANK.chemistry = {
       "complete"
      ],
      "question": "Complete the diagram to show another structural isomer of C15H24.",
-     "status": "pending",
-     "answer": "Needs the partly drawn diagram from the PDF; any valid C15H24 isomer is accepted.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Add one C=C between two adjacent ring carbons that each still carry an H (for example the two CH2 carbons at the far left of the left-hand ring); this gives C15H24",
+     "steps": [
+      "The partly drawn skeleton has 15 carbons in three fused rings plus four methyl groups, which is the saturated C15H26",
+      "C15H24 has one fewer H2, so it needs one C=C in addition to the three rings",
+      "Draw a double bond between any two neighbouring ring carbons that have hydrogens (not at the carbons already carrying four C-C bonds), giving a valid structural isomer of C15H24"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-43.jpg",
       "papers/chemistry/img/05-Alkenes-44.jpg",
       "papers/chemistry/img/05-Alkenes-45.jpg",
       "papers/chemistry/img/05-Alkenes-46.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q8f.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q9a",
@@ -22851,16 +23144,23 @@ window.BANK.chemistry = {
       "reagents"
      ],
      "question": "Give the name and structural formula of each product from the reactions of but-1-ene shown in the PDF.",
-     "status": "pending",
-     "answer": "Needs the reaction scheme (reagents and products) which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1: 1,2-dichlorobutane CH3CH2CHClCH2Cl; 2: butane CH3CH2CH2CH3; 3: butane-1,2-diol CH3CH2CH(OH)CH2OH; 4: butan-2-ol CH3CH2CH(OH)CH3 (major)",
+     "steps": [
+      "Cl2 adds across the C=C: CH3CH2CHCl-CH2Cl, 1,2-dichlorobutane",
+      "H2 with a nickel catalyst hydrogenates the C=C: butane",
+      "Acidified KMnO4 oxidises the C=C to a diol: CH3CH2CH(OH)CH2OH, butane-1,2-diol",
+      "Steam with an acid catalyst hydrates the C=C; the OH goes on the more substituted carbon (Markovnikov), giving butan-2-ol as the major product (butan-1-ol is minor)"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-47.jpg",
       "papers/chemistry/img/05-Alkenes-48.jpg",
       "papers/chemistry/img/05-Alkenes-49.jpg",
       "papers/chemistry/img/05-Alkenes-50.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q9b.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q9c",
@@ -23009,7 +23309,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-51.jpg",
       "papers/chemistry/img/05-Alkenes-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q10b.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q10b(i)",
@@ -23054,15 +23356,22 @@ window.BANK.chemistry = {
       "ketone"
      ],
      "question": "Draw the skeletal formula of the organic product of limonene with excess acidified KMnO4.",
-     "status": "pending",
-     "answer": "Needs the limonene skeletal structure from the PDF to draw the cleavage product.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The tetraol: cyclohexane ring with CH3 and OH on C1, OH on C2, and a C(CH3)(OH)CH2OH group on C4 (formula C10H20O4)",
+     "steps": [
+      "Limonene has two C=C bonds: one in the ring and one in the isopropenyl side chain",
+      "Excess acidified potassium manganate(VII) oxidises both, adding an OH to each carbon of each double bond",
+      "Ring C=C becomes C(OH)(CH3)-CH(OH); side chain C(CH3)=CH2 becomes C(CH3)(OH)-CH2OH",
+      "The product therefore has four OH groups (a tetraol)"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-50.jpg",
       "papers/chemistry/img/05-Alkenes-51.jpg",
       "papers/chemistry/img/05-Alkenes-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q10b.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q10b(iii)",
@@ -23264,7 +23573,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-53.jpg",
       "papers/chemistry/img/05-Alkenes-54.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q11a.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q11a(iii)",
@@ -23280,15 +23591,22 @@ window.BANK.chemistry = {
       "gas composition"
      ],
      "question": "Calculate the mass of carbon dioxide produced in a year by a landfill of 90 000 tonnes, given 12.5 dm3 of gas per tonne per day and the gas composition table.",
-     "status": "pending",
-     "answer": "Needs the landfill gas composition table (percentage of CO2) which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 3.39 x 10^8 g of CO2 per year (339 tonnes)",
+     "steps": [
+      "Gas per day = 12.5 dm3 x 90 000 = 1.125 x 10^6 dm3",
+      "CO2 is 45 % by volume: 0.45 x 1.125 x 10^6 = 5.06 x 10^5 dm3 per day",
+      "Moles per day = 506 250 / 24.0 = 21 094 mol; mass per day = 21 094 x 44.0 = 9.28 x 10^5 g",
+      "Mass per year = 9.28 x 10^5 x 365 = 3.39 x 10^8 g (about 339 tonnes)"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-52.jpg",
       "papers/chemistry/img/05-Alkenes-53.jpg",
       "papers/chemistry/img/05-Alkenes-54.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q11a.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q11b",
@@ -23854,15 +24172,22 @@ window.BANK.chemistry = {
       "water"
      ],
      "question": "In each box, draw the organic product of the reaction of propene with the reagents shown.",
-     "status": "pending",
-     "answer": "Needs the reagent boxes (diagram) which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Steam + acid catalyst: propan-2-ol CH3CH(OH)CH3 (major); acidified manganate(VII): propane-1,2-diol CH3CH(OH)CH2OH; bromine: 1,2-dibromopropane CH3CHBrCH2Br",
+     "steps": [
+      "Steam and an acid catalyst add H and OH across the C=C; by Markovnikov addition the OH goes on the middle carbon, giving propan-2-ol",
+      "Acidified potassium manganate(VII) oxidises the C=C to a diol, CH3-CH(OH)-CH2OH",
+      "Bromine adds across the C=C to give CH3-CHBr-CH2Br",
+      "Draw each as a full structure in its box, with all atoms and bonds shown"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-59.jpg",
       "papers/chemistry/img/05-Alkenes-60.jpg",
       "papers/chemistry/img/05-Alkenes-61.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q14b.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q14b(ii)",
@@ -23891,7 +24216,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-60.jpg",
       "papers/chemistry/img/05-Alkenes-61.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q14b.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q14c(i)",
@@ -23920,7 +24247,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-60.jpg",
       "papers/chemistry/img/05-Alkenes-61.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q14c.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q14c(ii)",
@@ -23936,15 +24265,21 @@ window.BANK.chemistry = {
       "E Z"
      ],
      "question": "Circle the part of alpha-ocimene's skeletal formula that gives rise to its geometric isomerism.",
-     "status": "pending",
-     "answer": "Needs the alpha-ocimene skeletal formula, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Circle the middle C=C, the internal double bond between the C(CH3) carbon and the CH carbon next to it",
+     "steps": [
+      "Geometric isomerism needs each carbon of the C=C to have two different groups",
+      "The terminal CH2=CH and CH2=C(CH3) bonds each have two H on one carbon, so they cannot show it",
+      "The internal C=C has CH3 and CH=CH2 on one carbon and H and CH2CH2- on the other, so the circle goes round this bond"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-59.jpg",
       "papers/chemistry/img/05-Alkenes-60.jpg",
       "papers/chemistry/img/05-Alkenes-61.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q14c.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q14c(iii)",
@@ -23960,15 +24295,21 @@ window.BANK.chemistry = {
       "draw"
      ],
      "question": "Draw the skeletal formula of the other geometric isomer of alpha-ocimene.",
-     "status": "pending",
-     "answer": "Needs the alpha-ocimene skeletal formula from the PDF to draw the other isomer.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Redraw the molecule with the internal C=C having the vinyl group (CH=CH2) and the CH2CH2... chain on the same side (the Z isomer)",
+     "steps": [
+      "The drawn molecule has these two groups on opposite sides (the E isomer)",
+      "Keep the skeleton CH2=CH-C(CH3)=CH-CH2-CH2-C(CH3)=CH2 the same",
+      "Swap the side of the chain on one carbon of the internal C=C so that the two higher-priority groups are on the same side, giving the Z isomer"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-59.jpg",
       "papers/chemistry/img/05-Alkenes-60.jpg",
       "papers/chemistry/img/05-Alkenes-61.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q14c.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q14c(iv)",
@@ -23997,7 +24338,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-60.jpg",
       "papers/chemistry/img/05-Alkenes-61.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q14c.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q15a(i)",
@@ -24013,16 +24356,23 @@ window.BANK.chemistry = {
       "isomers"
      ],
      "question": "Draw the skeletal formulae of the four structural isomers of straight-chain alkene X that are alkenes (ignoring geometric isomers).",
-     "status": "pending",
-     "answer": "Needs the structure of X shown in the PDF to determine its carbon skeleton and the four isomers.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Pent-1-ene; 2-methylbut-1-ene; 3-methylbut-1-ene; 2-methylbut-2-ene",
+     "steps": [
+      "X is pent-2-ene, C5H10, a straight-chain alkene with the C=C at C2",
+      "The other C5H10 alkenes are pent-1-ene (CH2=CHCH2CH2CH3) and the three branched ones",
+      "The branched ones are 2-methylbut-1-ene CH2=C(CH3)CH2CH3, 3-methylbut-1-ene CH2=CHCH(CH3)2 and 2-methylbut-2-ene (CH3)2C=CHCH3",
+      "Draw each as a skeletal formula (zigzag chain with the double bond marked)"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-62.jpg",
       "papers/chemistry/img/05-Alkenes-63.jpg",
       "papers/chemistry/img/05-Alkenes-64.jpg",
       "papers/chemistry/img/05-Alkenes-65.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q15a.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q15a(ii)",
@@ -24052,7 +24402,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-64.jpg",
       "papers/chemistry/img/05-Alkenes-65.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q15a.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q15b(i)",
@@ -24068,16 +24420,22 @@ window.BANK.chemistry = {
       "molecule"
      ],
      "question": "Give the IUPAC name for compound Y (structure shown in the PDF).",
-     "status": "pending",
-     "answer": "Needs the structure of Y from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "(E)-2,3-dichlorobut-2-ene",
+     "steps": [
+      "The main chain has four carbons with the C=C between C2 and C3, so but-2-ene",
+      "One Cl on each carbon of the C=C (C2 and C3), so 2,3-dichloro",
+      "The two Cl atoms are on opposite sides, so the isomer is E (not Z)"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-62.jpg",
       "papers/chemistry/img/05-Alkenes-63.jpg",
       "papers/chemistry/img/05-Alkenes-64.jpg",
       "papers/chemistry/img/05-Alkenes-65.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q15b.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q15b(ii)",
@@ -24093,16 +24451,23 @@ window.BANK.chemistry = {
       "student statement"
      ],
      "question": "Comment on a student's statement that compound Y has polar bonds so it is a polar molecule.",
-     "status": "pending",
-     "answer": "Needs the structure of compound Y to judge whether its bond dipoles cancel.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The student is wrong: the C-Cl bonds are polar, but in Y the dipoles cancel, so the molecule is non-polar overall",
+     "steps": [
+      "C-Cl bonds are polar because Cl is more electronegative than C, so the student is right that Y has polar bonds",
+      "In Y the two Cl atoms are on opposite sides of the C=C and the molecule is symmetrical",
+      "The two bond dipoles are equal and act in opposite directions, so they cancel",
+      "There is no net dipole, so Y is non-polar; polar bonds alone do not make a polar molecule"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-62.jpg",
       "papers/chemistry/img/05-Alkenes-63.jpg",
       "papers/chemistry/img/05-Alkenes-64.jpg",
       "papers/chemistry/img/05-Alkenes-65.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q15b.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q15c(i)",
@@ -24252,21 +24617,26 @@ window.BANK.chemistry = {
     },
     {
      "id": "Ch5-B-Q15d(iii)",
-     "no": "Q15(d)(iii)",
+     "no": "Q15(e)",
      "marks": 2,
-     "topic": "Polyisoprene Question Garbled",
+     "topic": "Incinerator Gas Scrubbing",
      "keywords": [
-      "polyisoprene",
-      "garbled text",
-      "scrambled question",
-      "2 marks",
-      "check PDF",
-      "polymer"
+      "incineration",
+      "calcium hydroxide",
+      "waste gases",
+      "acidic gases",
+      "neutralisation",
+      "surface area",
+      "polymer disposal"
      ],
-     "question": "A further 2-mark question on polyisoprene (possibly about its properties or disposal) follows part (d)(ii); the text is scrambled by a watermark overlay.",
-     "status": "pending",
-     "answer": "Question text is garbled by an overlay and cannot be read reliably; check against the PDF.",
-     "steps": [],
+     "question": "Incinerators used to dispose of polymer waste have a system to remove waste gases. Suggest why these systems contain solid calcium hydroxide and why it is finely powdered.",
+     "status": "ready",
+     "answer": "Calcium hydroxide is a base that neutralises acidic waste gases (such as HCl and SO2); the fine powder gives a large surface area so the reaction is faster",
+     "steps": [
+      "Burning polymers can release acidic gases such as hydrogen chloride (from PVC) and sulfur dioxide",
+      "Calcium hydroxide is a base, so it neutralises these acidic gases and stops them reaching the atmosphere",
+      "A fine powder has a large surface area, so more gas molecules collide with it and the reaction is faster"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-62.jpg",
       "papers/chemistry/img/05-Alkenes-63.jpg",
@@ -24289,15 +24659,20 @@ window.BANK.chemistry = {
       "missing diagram"
      ],
      "question": "Identify the catalyst needed for Reaction 1 from propene.",
-     "status": "pending",
-     "answer": "Needs the Reaction 1 scheme, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Nickel (Ni)",
+     "steps": [
+      "Reaction 1 is the hydrogenation of propene to propane with H2(g)",
+      "A finely divided nickel catalyst is used (platinum or palladium also work)"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-65.jpg",
       "papers/chemistry/img/05-Alkenes-66.jpg",
       "papers/chemistry/img/05-Alkenes-67.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q16a.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q16a(ii)",
@@ -24313,15 +24688,21 @@ window.BANK.chemistry = {
       "missing diagram"
      ],
      "question": "Name product A from the propene reaction scheme.",
-     "status": "pending",
-     "answer": "Needs the reaction scheme, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1,2-dichloropropane",
+     "steps": [
+      "Chlorine adds across the C=C of propene",
+      "Each carbon of the double bond gains one Cl, giving CH3CHClCH2Cl",
+      "Numbering the three-carbon chain gives 1,2-dichloropropane"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-65.jpg",
       "papers/chemistry/img/05-Alkenes-66.jpg",
       "papers/chemistry/img/05-Alkenes-67.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q16a.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q16a(iii)",
@@ -24337,15 +24718,21 @@ window.BANK.chemistry = {
       "missing diagram"
      ],
      "question": "Identify the substances needed for Reaction 2 from propene.",
-     "status": "pending",
-     "answer": "Needs the Reaction 2 scheme, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Steam (water vapour) and a phosphoric acid (H3PO4) catalyst",
+     "steps": [
+      "Reaction 2 converts propene to propan-2-ol by adding H and OH across the C=C (hydration)",
+      "The reagent is steam, H2O(g)",
+      "The catalyst is phosphoric acid, H3PO4 (at about 300 C and 60-70 atm)"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-65.jpg",
       "papers/chemistry/img/05-Alkenes-66.jpg",
       "papers/chemistry/img/05-Alkenes-67.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q16a.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q16a(iv)",
@@ -24361,15 +24748,21 @@ window.BANK.chemistry = {
       "missing diagram"
      ],
      "question": "Draw the displayed formula of product B from the propene reaction scheme.",
-     "status": "pending",
-     "answer": "Needs the reaction scheme, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Propane-1,2-diol, CH3-CH(OH)-CH2OH, drawn as a displayed formula with every bond shown",
+     "steps": [
+      "Acidified potassium manganate(VII) oxidises the C=C of propene to a diol",
+      "An OH is added to each carbon of the C=C, giving CH3-CH(OH)-CH2OH",
+      "Draw all C-H, C-C, C-O and O-H bonds: three carbons in a row, OH on carbon 1 and carbon 2, H atoms to complete four bonds on each carbon"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-65.jpg",
       "papers/chemistry/img/05-Alkenes-66.jpg",
       "papers/chemistry/img/05-Alkenes-67.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q16a.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q16b(i)",
@@ -24456,7 +24849,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-66.jpg",
       "papers/chemistry/img/05-Alkenes-67.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q16c.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q16c(ii)",
@@ -24802,15 +25197,21 @@ window.BANK.chemistry = {
       "ring"
      ],
      "question": "On the structure of zingiberene, circle the 2-methyl group referred to in its IUPAC name.",
-     "status": "pending",
-     "answer": "Needs the zingiberene structure from the PDF to mark the 2-methyl group.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Circle the CH3 group attached to the ring carbon at the lower right of the ring (the ring methyl), not the methyl groups on the side chain",
+     "steps": [
+      "The ring is numbered as cyclohexa-1,3-diene: C1=C2 and C3=C4 are the double bonds, C5 carries the side chain and C6 is the CH2",
+      "The 2-methyl group is on C2, the ring carbon double-bonded to C1 and single-bonded to C3",
+      "In the drawing that is the ring carbon at the lower right, whose methyl line points out to the right"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-70.jpg",
       "papers/chemistry/img/05-Alkenes-71.jpg",
       "papers/chemistry/img/05-Alkenes-72.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q18a.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q18b",
@@ -24839,7 +25240,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-71.jpg",
       "papers/chemistry/img/05-Alkenes-72.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q18a.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q18c(i)",
@@ -24884,15 +25287,22 @@ window.BANK.chemistry = {
       "carbocation"
      ],
      "question": "Complete the mechanism for zingiberene reacting with one molecule of HBr, using the simplified part A structure.",
-     "status": "pending",
-     "answer": "Needs the simplified structure of part A and the mechanism scheme from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Electrophilic addition: curly arrow from the C=C to the H of H(delta+)-Br(delta-); arrow from the H-Br bond to Br; tertiary carbocation (CH3)2C+-CH2-A plus :Br-; arrow from a lone pair on Br- to C+; product (CH3)2CBr-CH2-A",
+     "steps": [
+      "Show HBr with dipoles H(delta+)-Br(delta-); the first curly arrow starts at the C=C and ends at the H",
+      "A second curly arrow starts at the H-Br bond and ends at Br, forming Br- (with a lone pair)",
+      "The H adds to the CH carbon, so the positive charge sits on the carbon with the two CH3 groups: the tertiary carbocation (CH3)2C+-CH2-A",
+      "A third curly arrow starts at a lone pair on Br- and ends at the C+, giving (CH3)2CBr-CH2-A, product I"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-70.jpg",
       "papers/chemistry/img/05-Alkenes-71.jpg",
       "papers/chemistry/img/05-Alkenes-72.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q18c.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q18c(iii)",
@@ -24908,15 +25318,22 @@ window.BANK.chemistry = {
       "HBr"
      ],
      "question": "Explain by referring to the mechanism why product I is the major product.",
-     "status": "pending",
-     "answer": "Needs the structures of products I and II from the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Product I forms through a tertiary carbocation, which is more stable than the secondary carbocation that would lead to II, so it forms faster and is the major product",
+     "steps": [
+      "Adding H to the CH carbon gives a tertiary carbocation with three alkyl groups on the positive carbon",
+      "Alkyl groups push electron density towards the C+ (positive inductive effect), stabilising it",
+      "Adding H to the other carbon would give a secondary carbocation, with only two alkyl groups, which is less stable",
+      "The more stable tertiary intermediate is formed preferentially, so I is the major product"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-70.jpg",
       "papers/chemistry/img/05-Alkenes-71.jpg",
       "papers/chemistry/img/05-Alkenes-72.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q18c-2.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q18d(i)",
@@ -24945,7 +25362,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-71.jpg",
       "papers/chemistry/img/05-Alkenes-72.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q18d.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q18d(ii)",
@@ -24960,16 +25379,23 @@ window.BANK.chemistry = {
       "pressure",
       "calculation"
      ],
-     "question": "2.0 mol of zingiberene reacts with hydrogen at 150 C and a pressure (about 120 kPa read from garbled text); calculate the requested gas quantity (the exact quantity is garbled).",
-     "status": "pending",
-     "answer": "Question text is garbled by an overlay; the requested quantity needs checking against the PDF (data read: 2.0 mol, 150 C, about 120 kPa, R = 8.31).",
-     "steps": [],
+     "question": "2.0 mol of zingiberene react completely with hydrogen at 150 C and a pressure of 120 kPa. Calculate the minimum volume of hydrogen needed under these conditions, stating your units. [pV = nRT, R = 8.31 J mol^-1 K^-1]",
+     "status": "ready",
+     "answer": "0.176 m3 (176 dm3)",
+     "steps": [
+      "Zingiberene has 3 C=C bonds (one in the chain, two in the ring) and the product is fully saturated, so 3 mol H2 react per mol",
+      "n(H2) = 3 x 2.0 = 6.0 mol",
+      "T = 150 + 273 = 423 K; p = 120 kPa = 1.20 x 10^5 Pa",
+      "V = nRT / p = (6.0 x 8.31 x 423) / (1.20 x 10^5) = 0.176 m3 = 176 dm3"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-70.jpg",
       "papers/chemistry/img/05-Alkenes-71.jpg",
       "papers/chemistry/img/05-Alkenes-72.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q18d.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q19a(i)",
@@ -24985,16 +25411,22 @@ window.BANK.chemistry = {
       "missing diagram"
      ],
      "question": "Give the names of reagent W and catalyst X in the propene reactions.",
-     "status": "pending",
-     "answer": "Needs the reaction scheme, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Reagent W: hydrogen (H2); catalyst X: nickel (Ni)",
+     "steps": [
+      "Propene becomes propane, so H2 has added across the C=C (hydrogenation)",
+      "W is hydrogen",
+      "Catalyst X is nickel (platinum or palladium are also acceptable)"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-72.jpg",
       "papers/chemistry/img/05-Alkenes-73.jpg",
       "papers/chemistry/img/05-Alkenes-74.jpg",
       "papers/chemistry/img/05-Alkenes-75.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q19a.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q19a(ii)",
@@ -25010,16 +25442,22 @@ window.BANK.chemistry = {
       "missing diagram"
      ],
      "question": "Draw the displayed formula of compound Y in the propene scheme.",
-     "status": "pending",
-     "answer": "Needs the reaction scheme, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Propane-1,2-diol drawn in full: CH3-CH(OH)-CH2OH with all bonds shown",
+     "steps": [
+      "Acidified manganate(VII) oxidises the C=C of propene to a diol",
+      "Compound Y is propane-1,2-diol",
+      "Displayed formula: three carbons in a row, OH on the first and second carbons, and enough H atoms so each carbon has four bonds"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-72.jpg",
       "papers/chemistry/img/05-Alkenes-73.jpg",
       "papers/chemistry/img/05-Alkenes-74.jpg",
       "papers/chemistry/img/05-Alkenes-75.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q19a.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q19a(iii)",
@@ -25035,16 +25473,22 @@ window.BANK.chemistry = {
       "missing diagram"
      ],
      "question": "Draw the skeletal formula of the major product Z.",
-     "status": "pending",
-     "answer": "Needs the reaction scheme, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "2-chloropropane: a skeletal zigzag of three carbons with Cl on the middle carbon",
+     "steps": [
+      "HCl adds across the C=C of propene by electrophilic addition",
+      "By Markovnikov's rule H goes on the carbon with more H, so Cl bonds to the middle carbon via the more stable secondary carbocation",
+      "Z is CH3-CHCl-CH3, drawn as a V shape with Cl on the centre carbon"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-72.jpg",
       "papers/chemistry/img/05-Alkenes-73.jpg",
       "papers/chemistry/img/05-Alkenes-74.jpg",
       "papers/chemistry/img/05-Alkenes-75.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q19a.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q19b(i)",
@@ -25074,7 +25518,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-74.jpg",
       "papers/chemistry/img/05-Alkenes-75.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q19b.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q19b(ii)",
@@ -25386,9 +25832,13 @@ window.BANK.chemistry = {
       "plot"
      ],
      "question": "Plot a graph of the bromination data (0.5 g fat) and include a line of best fit.",
-     "status": "pending",
-     "answer": "Needs the data table and graph grid, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Graph of volume of bromine water / cm3 (y) against average number of C=C bonds per molecule (x), points (1, 28.3), (2, 57.3), (3, 86.9), (4, 115), with a straight line of best fit through the origin (gradient about 29 cm3 per C=C)",
+     "steps": [
+      "Put the average number of C=C bonds per molecule on the x axis (0 to 4 or 5) and the volume of bromine water / cm3 on the y axis (0 to about 120), choosing scales that use more than half the grid",
+      "Plot the four points accurately",
+      "Draw one straight line of best fit; the points are very close to a straight line that passes through (0, 0), since volume is proportional to the number of C=C bonds"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-77.jpg",
       "papers/chemistry/img/05-Alkenes-78.jpg",
@@ -25396,7 +25846,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-80.jpg",
       "papers/chemistry/img/05-Alkenes-81.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q21b.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q21b(iii)",
@@ -25412,9 +25864,12 @@ window.BANK.chemistry = {
       "average"
      ],
      "question": "Calculate the mean volume of bromine water using all results in the margarine bromination table.",
-     "status": "pending",
-     "answer": "Needs the data table of bromine volumes, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "35.7 cm3",
+     "steps": [
+      "Add all four volumes: 36.9 + 34.1 + 39.3 + 32.5 = 142.8 cm3",
+      "Divide by 4: 142.8 / 4 = 35.7 cm3"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-77.jpg",
       "papers/chemistry/img/05-Alkenes-78.jpg",
@@ -25422,7 +25877,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-80.jpg",
       "papers/chemistry/img/05-Alkenes-81.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q21b-2.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q21b(iv)",
@@ -25438,9 +25895,13 @@ window.BANK.chemistry = {
       "2 significant figures"
      ],
      "question": "Determine the average number of C=C bonds per molecule of the unknown fat sample using your graph, to 2 significant figures.",
-     "status": "pending",
-     "answer": "Needs the graph and table data, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1.2 C=C bonds per molecule (2 s.f.)",
+     "steps": [
+      "Use the mean volume from part (iii), 35.7 cm3",
+      "On the graph read across from 35.7 cm3 on the y axis to the line, then down to the x axis",
+      "Using the line of best fit (about 28.8 cm3 per C=C bond): 35.7 / 28.8 = 1.24, so 1.2 to 2 s.f."
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-77.jpg",
       "papers/chemistry/img/05-Alkenes-78.jpg",
@@ -25448,7 +25909,10 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-80.jpg",
       "papers/chemistry/img/05-Alkenes-81.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q21b.jpg",
+      "papers/chemistry/fig/05-Alkenes-B-Q21b-2.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q21c(i)",
@@ -25711,7 +26175,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-84.jpg",
       "papers/chemistry/img/05-Alkenes-85.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q24a.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q24a(ii)",
@@ -25739,7 +26205,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/05-Alkenes-84.jpg",
       "papers/chemistry/img/05-Alkenes-85.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q24a.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q24b",
@@ -25755,14 +26223,21 @@ window.BANK.chemistry = {
       "dipoles"
      ],
      "question": "Complete the mechanism for the first stage of Reaction 2 (same mechanism as Reaction 1), with intermediate, curly arrows, dipoles, charges and lone pairs.",
-     "status": "pending",
-     "answer": "Needs the first-stage equation, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Step 1: curly arrow from the C=C to the H of H-O (delta+), arrow from the O-H bond to O; intermediate CH3-CH+-CH3 and HOSO2O-; Step 2: lone pair on O- attacks C+, giving CH3CH(OSO2OH)CH3",
+     "steps": [
+      "Mark the polar O-H bond of H2SO4 as H(delta+)-O(delta-); a curly arrow starts at the C=C and ends at the H",
+      "A second curly arrow starts at the O-H bond and ends at the O, forming the hydrogensulfate ion HOSO2O- with a lone pair and a negative charge",
+      "The H adds to the terminal CH2, leaving the secondary carbocation CH3-CH+-CH3 as the intermediate",
+      "Step 2: a curly arrow from a lone pair on the negative O of HOSO2O- to the C+ forms the C-O bond, giving CH3CH(OSO2OH)CH3"
+     ],
      "images": [
       "papers/chemistry/img/05-Alkenes-84.jpg",
       "papers/chemistry/img/05-Alkenes-85.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/05-Alkenes-B-Q24.jpg"
+     ]
     },
     {
      "id": "Ch5-B-Q25a(i)",
@@ -26264,14 +26739,21 @@ window.BANK.chemistry = {
       "multiple choice"
      ],
      "question": "Which equation represents the standard enthalpy change of atomisation of bromine?",
-     "status": "pending",
-     "answer": "Needs the A-D equation options, which are missing from the text, to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 1/2 Br2(l) -> Br(g)",
+     "steps": [
+      "Enthalpy change of atomisation is the enthalpy change to form 1 mol of gaseous atoms from the element in its standard state",
+      "Bromine is a liquid in its standard state, Br2(l)",
+      "Forming one mole of Br(g) needs 1/2 mol of Br2(l), so the equation is 1/2 Br2(l) -> Br(g)",
+      "A and D start from Br2(g), B forms 2 mol of atoms"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-01.jpg",
       "papers/chemistry/img/06-Energetics-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q1.jpg"
+     ]
     },
     {
      "id": "Ch6-Q2",
@@ -26375,13 +26857,19 @@ window.BANK.chemistry = {
       "multiple choice"
      ],
      "question": "Graphite burns to form carbon monoxide: 2C(s) + O2(g) -> 2CO(g), Delta H = -221 kJ mol-1. Which statement is correct?",
-     "status": "pending",
-     "answer": "Needs the A-D statement options, which are missing from the text, to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: delta-f H (carbon monoxide) = -110.5 kJ mol^-1",
+     "steps": [
+      "The equation forms 2 mol of CO from its elements in their standard states, releasing 221 kJ",
+      "Enthalpy of formation is per mole of CO: -221 / 2 = -110.5 kJ mol^-1",
+      "Enthalpy of combustion of carbon refers to forming CO2, not CO, so options A and C are wrong"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q5.jpg"
+     ]
     },
     {
      "id": "Ch6-Q6",
@@ -26428,16 +26916,21 @@ window.BANK.chemistry = {
       "multiple choice"
      ],
      "question": "The standard enthalpy change of neutralisation for NaOH(aq) with HCl(aq) is -56 kJ mol-1. Which row in the table is correct for this neutralisation?",
-     "status": "pending",
-     "answer": "Needs the table of A-D rows, which is missing from the text, to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: exothermic, temperature increases",
+     "steps": [
+      "A negative enthalpy change (-56 kJ mol^-1) means the reaction is exothermic",
+      "An exothermic reaction transfers energy to the surroundings, so the temperature of the solution increases"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-04.jpg",
       "papers/chemistry/img/06-Energetics-05.jpg",
       "papers/chemistry/img/06-Energetics-06.jpg",
       "papers/chemistry/img/06-Energetics-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q7.jpg"
+     ]
     },
     {
      "id": "Ch6-Q8a",
@@ -26517,16 +27010,23 @@ window.BANK.chemistry = {
       "calorimetry"
      ],
      "question": "Plot the temperature-time results given in the table on the grid.",
-     "status": "pending",
-     "answer": "Needs the results table and grid, which are missing from the text, to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Plot temperature (y axis, /C) against time (x axis, /min): (0, 22.2), (1, 22.0), (2, 22.0), (3, 39.6), (4, 41.8), (5, 40.8), (6, 40.2), (7, 39.4), (8, 38.6); then draw a best-fit line through the points before the Mg was added and a separate cooling line through the points from 4 to 8 min",
+     "steps": [
+      "Label the axes with quantities and units, and choose scales so the data fill more than half of the grid (time 0 to 8 min, temperature about 20 to 45 C)",
+      "Plot all nine points accurately with small crosses",
+      "Draw a straight line through the first three points (about 22 C) and a straight line through the cooling points from 4 to 8 min, extended back to 2 min",
+      "The 3 min point is not on the cooling line because the reaction was not yet complete"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-04.jpg",
       "papers/chemistry/img/06-Energetics-05.jpg",
       "papers/chemistry/img/06-Energetics-06.jpg",
       "papers/chemistry/img/06-Energetics-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q8c.jpg"
+     ]
     },
     {
      "id": "Ch6-Q8c(ii)",
@@ -26542,16 +27042,23 @@ window.BANK.chemistry = {
       "temperature"
      ],
      "question": "Use your graph to determine the maximum temperature change, showing working on the graph.",
-     "status": "pending",
-     "answer": "Needs the results table and graph, which are missing from the text, to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Delta T about 21 C (about 43.2 - 22.0 = 21.2 C; accept roughly 21.0 to 21.5 C)",
+     "steps": [
+      "Extend the cooling line (4 to 8 min) back to the time the magnesium was added, 2 min",
+      "At 2 min the extrapolated line reads about 43.2 C (the cooling line falls by about 0.8 C per minute)",
+      "Show this extrapolation on the graph with a vertical line at 2 min from the starting temperature, 22.0 C, to the cooling line",
+      "Delta T = 43.2 - 22.0 = about 21.2 C"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-04.jpg",
       "papers/chemistry/img/06-Energetics-05.jpg",
       "papers/chemistry/img/06-Energetics-06.jpg",
       "papers/chemistry/img/06-Energetics-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q8c.jpg"
+     ]
     },
     {
      "id": "Ch6-Q8d",
@@ -26567,16 +27074,23 @@ window.BANK.chemistry = {
       "kj mol-1"
      ],
      "question": "Using your answers to (b) and (c)(ii), calculate the standard molar enthalpy change for the reaction, with sign and units. Specific heat capacity of solution = 4.18 J g-1 C-1.",
-     "status": "pending",
-     "answer": "Needs the temperature change from the graph in (c)(ii), which is missing from the text; method: q = 25 x 4.18 x Delta T, then Delta H = -q / 0.0050",
-     "steps": [],
+     "status": "ready",
+     "answer": "About -440 kJ mol^-1 (-443 kJ mol^-1 before rounding)",
+     "steps": [
+      "Moles reacted from (b): 0.0050 mol of Mg and H2SO4 (the acid is limiting)",
+      "Energy transferred q = m c Delta T = 25 x 4.18 x 21.2 = 2215 J = 2.22 kJ (assuming 25 cm3 of solution has mass 25 g)",
+      "Delta H = -q / n = -2.22 / 0.0050 = -443 kJ mol^-1",
+      "The reaction is exothermic so the sign is negative; give to 2 s.f. (set by 0.0050 mol): -440 kJ mol^-1"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-04.jpg",
       "papers/chemistry/img/06-Energetics-05.jpg",
       "papers/chemistry/img/06-Energetics-06.jpg",
       "papers/chemistry/img/06-Energetics-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q8c.jpg"
+     ]
     },
     {
      "id": "Ch6-Q9a(i)",
@@ -26739,15 +27253,21 @@ window.BANK.chemistry = {
       "kj mol-1"
      ],
      "question": "Calculate the enthalpy change of combustion of methanol, CH3OH + 1.5O2 -> CO2 + 2H2O, using the bond enthalpy table given.",
-     "status": "pending",
-     "answer": "Needs the bond enthalpy table, which is missing from the text, to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "-658 kJ mol^-1",
+     "steps": [
+      "Bonds broken: 3 C-H + 1 C-O + 1 O-H + 1.5 O=O = 3 x 413 + 358 + 464 + 1.5 x 498 = 1239 + 358 + 464 + 747 = 2808 kJ",
+      "Bonds formed: 2 C=O + 4 O-H = 2 x 805 + 4 x 464 = 1610 + 1856 = 3466 kJ",
+      "Delta H = bonds broken - bonds formed = 2808 - 3466 = -658 kJ mol^-1"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-07.jpg",
       "papers/chemistry/img/06-Energetics-08.jpg",
       "papers/chemistry/img/06-Energetics-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q9b.jpg"
+     ]
     },
     {
      "id": "Ch6-Q9c",
@@ -26763,15 +27283,23 @@ window.BANK.chemistry = {
       "kj mol-1"
      ],
      "question": "Complete the Hess cycle and calculate the standard enthalpy change of formation of ethanal: 2C(s, graphite) + 2H2(g) + 1/2O2(g) -> CH3CHO(g), using enthalpies of combustion.",
-     "status": "pending",
-     "answer": "Needs the Hess cycle and enthalpy of combustion data, which are missing from the text, to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "-193 kJ mol^-1",
+     "steps": [
+      "Complete the box with the combustion products: 2CO2(g) + 2H2O(l); the arrow from the elements gives 2 Delta cH(C) + 2 Delta cH(H2) and the arrow from CH3CHO(g) gives Delta cH(CH3CHO)",
+      "Delta fH + Delta cH(CH3CHO) = 2 Delta cH(C) + 2 Delta cH(H2)",
+      "Delta fH = 2(-394) + 2(-286) - (-1167) = -788 - 572 + 1167",
+      "Delta fH(CH3CHO) = -193 kJ mol^-1"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-07.jpg",
       "papers/chemistry/img/06-Energetics-08.jpg",
       "papers/chemistry/img/06-Energetics-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q9c.jpg",
+      "papers/chemistry/fig/06-Energetics-Q9c-2.jpg"
+     ]
     },
     {
      "id": "Ch6-Q10",
@@ -26815,14 +27343,20 @@ window.BANK.chemistry = {
       "kj mol-1"
      ],
      "question": "Using the enthalpy changes for two reactions given, find the enthalpy change for CH3COOH(aq) -> CH3COO-(aq) + H+(aq). A +113.2, B +1.2, C -1.2, D -113.2 kJ mol-1.",
-     "status": "pending",
-     "answer": "Needs the two reaction enthalpy equations, which are missing from the text, to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: +1.2 kJ mol^-1",
+     "steps": [
+      "Dissociation CH3COOH -> CH3COO- + H+ equals the second reaction minus the first",
+      "Delta H = (-56.0) - (-57.2) = +1.2 kJ mol^-1",
+      "Equivalent: reverse the first (+57.2) and add the second (-56.0)"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-10.jpg",
       "papers/chemistry/img/06-Energetics-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q11.jpg"
+     ]
     },
     {
      "id": "Ch6-Q12",
@@ -26866,14 +27400,22 @@ window.BANK.chemistry = {
       "hcho"
      ],
      "question": "Using the combustion equation for methanal and the bond enthalpy data given, find the C=O bond enthalpy in methanal. A 623, B 678, C 805, D 1036 kJ mol-1.",
-     "status": "pending",
-     "answer": "Needs the combustion equation with its Delta H and the bond enthalpy table, which are missing from the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 623 kJ mol^-1",
+     "steps": [
+      "Bonds broken: 2 C-H + 1 C=O (x) + 1 O=O = 2 x 413 + x + 498 = 1324 + x",
+      "Bonds formed: 2 C=O in CO2 + 2 O-H = 2 x 805 + 2 x 464 = 2538",
+      "Delta H = broken - formed: 1324 + x - 2538 = -591",
+      "x = 2538 - 591 - 1324 = 623 kJ mol^-1"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-11.jpg",
       "papers/chemistry/img/06-Energetics-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q13.jpg",
+      "papers/chemistry/fig/06-Energetics-Q13-2.jpg"
+     ]
     },
     {
      "id": "Ch6-Q14",
@@ -27060,13 +27602,19 @@ window.BANK.chemistry = {
       "kj mol-1"
      ],
      "question": "Using the enthalpy changes of combustion given, find the enthalpy change of formation of ethanal, CH3CHO. A +765, B -765, C +193, D -193 kJ mol-1.",
-     "status": "pending",
-     "answer": "Needs the table of enthalpy changes of combustion, which is missing from the text, to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: -193 kJ mol^-1",
+     "steps": [
+      "Formation: 2C(s) + 2H2(g) + 1/2 O2(g) -> CH3CHO",
+      "Delta fH = 2 x Delta cH(C) + 2 x Delta cH(H2) - Delta cH(CH3CHO)",
+      "= 2(-394) + 2(-286) - (-1167) = -1360 + 1167 = -193 kJ mol^-1"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q18.jpg"
+     ]
     },
     {
      "id": "Ch6-Q19",
@@ -27110,15 +27658,20 @@ window.BANK.chemistry = {
       "spirit burner"
      ],
      "question": "Complete the results table for burning 2-methylpropan-2-ol to heat 75 g of water.",
-     "status": "pending",
-     "answer": "Needs the results table, which is missing from the text, to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Change in mass: 0.57 g (loss); change in temperature: 45.8 C (rise)",
+     "steps": [
+      "Mass change = 267.35 - 266.78 = 0.57 g (the burner lost this mass of alcohol)",
+      "Temperature change = 65.3 - 19.5 = 45.8 C"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-16.jpg",
       "papers/chemistry/img/06-Energetics-17.jpg",
       "papers/chemistry/img/06-Energetics-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q20a.jpg"
+     ]
     },
     {
      "id": "Ch6-Q20a(ii)",
@@ -27134,15 +27687,22 @@ window.BANK.chemistry = {
       "kj mol-1"
      ],
      "question": "Calculate Delta cH of 2-methylpropan-2-ol from the results, with sign and units (75 g water, c = 4.18 J g-1 C-1).",
-     "status": "pending",
-     "answer": "Needs the mass burned and temperature change from the missing results table; method: q = 75 x 4.18 x Delta T, Delta cH = -q / (m / 74.0)",
-     "steps": [],
+     "status": "ready",
+     "answer": "-1860 kJ mol^-1 (about -1.9 x 10^3)",
+     "steps": [
+      "q = m c Delta T = 75 x 4.18 x 45.8 = 14 358 J = 14.4 kJ",
+      "Moles of 2-methylpropan-2-ol (C4H10O, M = 74.0) = 0.57 / 74.0 = 0.0077 mol",
+      "Delta cH = -q / n = -14.36 / 0.00770 = -1864 kJ mol^-1",
+      "Combustion is exothermic, so the sign is negative: about -1860 kJ mol^-1"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-16.jpg",
       "papers/chemistry/img/06-Energetics-17.jpg",
       "papers/chemistry/img/06-Energetics-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q20a.jpg"
+     ]
     },
     {
      "id": "Ch6-Q20b(i)",
@@ -27201,7 +27761,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/06-Energetics-17.jpg",
       "papers/chemistry/img/06-Energetics-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q20b-2.jpg"
+     ]
     },
     {
      "id": "Ch6-Q20b(iii)",
@@ -27217,15 +27779,23 @@ window.BANK.chemistry = {
       "kj mol-1"
      ],
      "question": "Calculate the standard enthalpy change of combustion of 2-methylpropan-2-ol using the formation data in the table and your Hess cycle.",
-     "status": "pending",
-     "answer": "Needs the table of enthalpy of formation values, which is missing from the text, to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "-2647 kJ mol^-1",
+     "steps": [
+      "Combustion: C4H10O(l) + 6O2(g) -> 4CO2(g) + 5H2O(l)",
+      "Delta cH = [4 Delta fH(CO2) + 5 Delta fH(H2O)] - Delta fH(alcohol) (O2 contributes zero)",
+      "= [4(-394) + 5(-286)] - (-359) = (-1576 - 1430) + 359",
+      "= -2647 kJ mol^-1"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-16.jpg",
       "papers/chemistry/img/06-Energetics-17.jpg",
       "papers/chemistry/img/06-Energetics-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q20b.jpg",
+      "papers/chemistry/fig/06-Energetics-Q20b-2.jpg"
+     ]
     },
     {
      "id": "Ch6-Q20c",
@@ -27271,13 +27841,18 @@ window.BANK.chemistry = {
       "multiple choice"
      ],
      "question": "For CH3COOH + KOH -> CH3COO-K+ + H2O, Delta H = -55.8 kJ mol-1, which statements are correct?",
-     "status": "pending",
-     "answer": "Needs the A-D option list, which is missing from the text, to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: exothermic, neutralisation",
+     "steps": [
+      "Delta H is negative (-55.8 kJ mol^-1), so the reaction is exothermic",
+      "An acid (CH3COOH) reacts with a base (KOH) to form a salt and water, which is a neutralisation, not a formation from elements"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q21.jpg"
+     ]
     },
     {
      "id": "Ch6-Q22",
@@ -27349,14 +27924,20 @@ window.BANK.chemistry = {
       "multiple choice"
      ],
      "question": "The mean C-F bond enthalpy is +485 kJ mol-1. Which process has an enthalpy change of +1940 kJ mol-1 (= 4 x 485)?",
-     "status": "pending",
-     "answer": "Needs the A-D process options, which are missing from the text (expected: CF4(g) -> C(g) + 4F(g))",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: CF4(g) -> C(g) + 4F(g)",
+     "steps": [
+      "+1940 = 4 x 485, so four C-F bonds are broken",
+      "Breaking bonds is endothermic and gives gaseous atoms: CF4(g) -> C(g) + 4F(g)",
+      "A is the reverse (bond forming, -1940); B and D involve solid carbon and F2 molecules"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-19.jpg",
       "papers/chemistry/img/06-Energetics-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q24.jpg"
+     ]
     },
     {
      "id": "Ch6-Q25a",
@@ -27456,13 +28037,19 @@ window.BANK.chemistry = {
       "ammonium nitrate"
      ],
      "question": "Which process is represented by the given enthalpy level diagram? A Na(s) -> Na(g), B Na(g) -> Na+(g) + e-, C 2Cl(g) -> Cl2(g), D NH4NO3(s) + aq -> solution.",
-     "status": "pending",
-     "answer": "Needs the enthalpy level diagram, which is missing from the text, to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 2Cl(g) -> Cl2(g)",
+     "steps": [
+      "The products are at lower enthalpy than the reactants, so the reaction is exothermic",
+      "Na(s) -> Na(g) (atomisation), Na(g) -> Na+(g) + e- (ionisation) and NH4NO3 dissolving are all endothermic",
+      "Forming the Cl-Cl bond from atoms releases energy, so C is exothermic"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q27.jpg"
+     ]
     },
     {
      "id": "Ch6-Q28",
@@ -27478,14 +28065,21 @@ window.BANK.chemistry = {
       "kj mol-1"
      ],
      "question": "Using the enthalpy changes for two reactions given, find the enthalpy change for the reaction between iron(III) oxide and carbon. A +491, B +713, C -491, D -713 kJ mol-1.",
-     "status": "pending",
-     "answer": "Needs the two reaction equations and their enthalpy changes, which are missing from the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: +491 kJ mol^-1",
+     "steps": [
+      "Target: Fe2O3 + 3C -> 2Fe + 3CO",
+      "Reverse the first equation (Fe2O3 -> 2Fe + 1.5 O2): +824 kJ mol^-1",
+      "Triple the second equation (3C + 1.5 O2 -> 3CO): 3 x (-111) = -333 kJ mol^-1",
+      "Delta H = +824 - 333 = +491 kJ mol^-1"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-22.jpg",
       "papers/chemistry/img/06-Energetics-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q28.jpg"
+     ]
     },
     {
      "id": "Ch6-Q29a",
@@ -27513,7 +28107,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/06-Energetics-22.jpg",
       "papers/chemistry/img/06-Energetics-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q29.jpg"
+     ]
     },
     {
      "id": "Ch6-Q29b",
@@ -27529,14 +28125,21 @@ window.BANK.chemistry = {
       "q=mct"
      ],
      "question": "The student repeats the experiment burning 0.30 g of methanol with 75.0 cm3 of water. What is the expected temperature change? A 7.1 C, B 10.7 C, C 16.0 C, D 36.0 C.",
-     "status": "pending",
-     "answer": "Needs the original volume of water from the apparatus diagram, which is missing from the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 16.0 C",
+     "steps": [
+      "The original experiment used 50.0 cm3 of water and 0.20 g of methanol (diagram), giving a 16.0 C rise",
+      "The repeat burns 0.30 g, which is 1.5 times as much methanol, so 1.5 times as much energy is released",
+      "It also heats 75.0 cm3 of water, which is 1.5 times as much water",
+      "The two factors cancel, so the temperature change is unchanged: 16.0 C"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-22.jpg",
       "papers/chemistry/img/06-Energetics-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q29.jpg"
+     ]
     },
     {
      "id": "Ch6-Q29c",
@@ -27564,7 +28167,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/06-Energetics-22.jpg",
       "papers/chemistry/img/06-Energetics-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q29.jpg"
+     ]
     },
     {
      "id": "Ch6-Q30",
@@ -27736,7 +28341,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/06-Energetics-25.jpg",
       "papers/chemistry/img/06-Energetics-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q33-2.jpg"
+     ]
     },
     {
      "id": "Ch6-Q33b(iii)",
@@ -27752,14 +28359,21 @@ window.BANK.chemistry = {
       "kj mol-1"
      ],
      "question": "Calculate the standard enthalpy change for the thermal decomposition of sodium hydrogencarbonate using the formation data table and your cycle, with sign and units.",
-     "status": "pending",
-     "answer": "Needs the table of formation enthalpies, which is missing from the text (method: products - 2 x Delta fH(NaHCO3))",
-     "steps": [],
+     "status": "ready",
+     "answer": "+91.6 kJ mol^-1 (for the equation as written)",
+     "steps": [
+      "Delta rH = sum of Delta fH (products) - sum of Delta fH (reactants), using the cycle",
+      "Products: -1130.7 + (-393.5) + (-285.8) = -1810.0 kJ mol^-1",
+      "Reactants: 2 x (-950.8) = -1901.6 kJ mol^-1",
+      "Delta rH = -1810.0 - (-1901.6) = +91.6 kJ mol^-1 (positive, so endothermic)"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-25.jpg",
       "papers/chemistry/img/06-Energetics-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q33.jpg"
+     ]
     },
     {
      "id": "Ch6-Q33b(iv)",
@@ -27775,14 +28389,21 @@ window.BANK.chemistry = {
       "reactants"
      ],
      "question": "Use your answer to (b)(iii) to draw a labelled enthalpy level diagram for the decomposition.",
-     "status": "pending",
-     "answer": "Depends on the value from (b)(iii), which needs the missing formation data table; a drawn diagram must be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Axes: enthalpy (y), progress of reaction (x); reactants 2NaHCO3(s) at the lower level, products Na2CO3(s) + CO2(g) + H2O(l) at a higher level, with an upward arrow labelled Delta H = +91.6 kJ mol^-1",
+     "steps": [
+      "Label the vertical axis Enthalpy and the horizontal axis Progress of reaction (reaction pathway)",
+      "Draw a horizontal line labelled 2NaHCO3(s) at a lower level",
+      "Draw a horizontal line labelled Na2CO3(s) + CO2(g) + H2O(l) at a higher level, because the reaction is endothermic",
+      "Add an upward arrow between the levels labelled Delta H = +91.6 kJ mol^-1"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-25.jpg",
       "papers/chemistry/img/06-Energetics-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q33.jpg"
+     ]
     },
     {
      "id": "Ch6-Q34a",
@@ -27798,15 +28419,21 @@ window.BANK.chemistry = {
       "definition"
      ],
      "question": "Explain why Delta rH1 for Reaction 1 can also be described as an enthalpy change of formation.",
-     "status": "pending",
-     "answer": "Needs the equation for Reaction 1, which is missing from the text, to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Reaction 1 forms one mole of a compound (MgO) from its elements (Mg and O2) in their standard states, which is the definition of the enthalpy change of formation",
+     "steps": [
+      "Enthalpy of formation is the enthalpy change when 1 mol of a compound forms from its elements in their standard states",
+      "Reaction 1, Mg(s) + 1/2 O2(g) -> MgO(s), produces exactly 1 mol of MgO",
+      "Mg(s) and O2(g) are both elements in their standard states, so Delta rH1 equals Delta fH of MgO"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-26.jpg",
       "papers/chemistry/img/06-Energetics-27.jpg",
       "papers/chemistry/img/06-Energetics-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q34a.jpg"
+     ]
     },
     {
      "id": "Ch6-Q34b",
@@ -27852,15 +28479,21 @@ window.BANK.chemistry = {
       "kj mol-1"
      ],
      "question": "Calculate Delta rH1 for Reaction 1 using your answer to (b), the data provided and the enthalpy cycle shown (use -100 kJ mol-1 if (b) not done).",
-     "status": "pending",
-     "answer": "Needs Reaction 1, the data and the enthalpy cycle, which are missing from the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "-603 kJ mol^-1",
+     "steps": [
+      "By Hess's law, Delta rH1 + Delta rH2 = (-462) + (-286) (the route through the lower boxes)",
+      "So Delta rH1 = -462 - 286 - Delta rH2 = -748 - (-145)",
+      "Delta rH1 = -603 kJ mol^-1 (using Delta rH2 = -145 kJ mol^-1 from part (b))"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-26.jpg",
       "papers/chemistry/img/06-Energetics-27.jpg",
       "papers/chemistry/img/06-Energetics-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q34c.jpg"
+     ]
     },
     {
      "id": "Ch6-Q35",
@@ -27876,14 +28509,20 @@ window.BANK.chemistry = {
       "reaction profile"
      ],
      "question": "An enthalpy level diagram for a reaction with an intermediate is shown. Which arrow (A, B, C or D) shows the enthalpy change for the reaction?",
-     "status": "pending",
-     "answer": "Needs the enthalpy level diagram with arrows A-D, which is missing from the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: arrow A",
+     "steps": [
+      "The enthalpy change of the overall reaction is the enthalpy of the products minus the enthalpy of the reactants",
+      "Arrow A runs from the reactants level up to the products level (the dashed lines mark the two levels), so it is the overall enthalpy change (endothermic)",
+      "B goes from the reactants to the first peak, C from the reactants to the second peak, and D from the products to the second peak; these are activation-energy type measurements, not the overall enthalpy change"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-28.jpg",
       "papers/chemistry/img/06-Energetics-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q35.jpg"
+     ]
     },
     {
      "id": "Ch6-Q36",
@@ -27958,15 +28597,21 @@ window.BANK.chemistry = {
       "graph"
      ],
      "question": "From the thermometric titration graph (ammonia added in 5.00 cm3 portions to 30.0 cm3 ethanoic acid), find the end-point volume and maximum temperature using lines of best fit.",
-     "status": "pending",
-     "answer": "Needs the temperature-volume graph, which is missing from the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "End-point volume about 21 cm3; maximum temperature about 27.7 C",
+     "steps": [
+      "Draw one straight line through the rising points (0 to 15 cm3, about 0.33 C per cm3) and one through the falling points (25 to 40 cm3, -0.26 C per cm3), extending both until they cross",
+      "The lines cross at about 21 cm3 of ammonia, which is the end-point volume (accept about 20.5 to 21.5)",
+      "Read the temperature at the crossing point on the temperature axis: about 27.7 C"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-29.jpg",
       "papers/chemistry/img/06-Energetics-30.jpg",
       "papers/chemistry/img/06-Energetics-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q38.jpg"
+     ]
     },
     {
      "id": "Ch6-Q38b",
@@ -27982,15 +28627,20 @@ window.BANK.chemistry = {
       "mol dm-3"
      ],
      "question": "Calculate the number of moles of ammonia (1.30 mol dm-3) added at the end-point.",
-     "status": "pending",
-     "answer": "Needs the end-point volume from the missing graph; method: moles = 1.30 x V/1000",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.0273 mol (using an end-point of 21.0 cm3)",
+     "steps": [
+      "Volume of NH3 added at the end-point = 21.0 cm3 = 0.0210 dm3",
+      "Moles = concentration x volume = 1.30 x 0.0210 = 0.0273 mol"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-29.jpg",
       "papers/chemistry/img/06-Energetics-30.jpg",
       "papers/chemistry/img/06-Energetics-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q38.jpg"
+     ]
     },
     {
      "id": "Ch6-Q38c",
@@ -28006,15 +28656,22 @@ window.BANK.chemistry = {
       "kj mol-1"
      ],
      "question": "For CH3COOH(aq) + NH3(aq) -> CH3COONH4(aq), calculate the enthalpy change of neutralisation in kJ mol-1 with sign and suitable s.f. (density 1.00 g cm-3, c = 4.18 J g-1 C-1).",
-     "status": "pending",
-     "answer": "Needs the end-point volume and temperature rise from the missing graph",
-     "steps": [],
+     "status": "ready",
+     "answer": "-55 kJ mol^-1",
+     "steps": [
+      "Temperature rise: maximum 27.7 C minus start temperature 20.7 C (the line at 0 cm3) = 7.0 C",
+      "Total volume of solution at end-point = 30.0 + 21.0 = 51.0 cm3, so mass = 51.0 g",
+      "q = m c Delta T = 51.0 x 4.18 x 7.0 = 1492 J = 1.49 kJ",
+      "Delta H = -q / n = -1.49 / 0.0273 = -54.7 kJ mol^-1, so -55 kJ mol^-1 (2 s.f. because Delta T has 2 s.f.); the sign is negative as the temperature rises"
+     ],
      "images": [
       "papers/chemistry/img/06-Energetics-29.jpg",
       "papers/chemistry/img/06-Energetics-30.jpg",
       "papers/chemistry/img/06-Energetics-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/06-Energetics-Q38.jpg"
+     ]
     },
     {
      "id": "Ch6-Q39a",
@@ -28094,13 +28751,21 @@ window.BANK.chemistry = {
       "structures"
      ],
      "question": "Which of these isomers has the highest boiling temperature? (The isomer structures are in a diagram not present in the text.)",
-     "status": "pending",
-     "answer": "Pending: the isomer structures (diagram) are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: the unbranched (straight-chain) chloroalkane",
+     "steps": [
+      "The four structures are isomers, each with one polar C-Cl bond, so they have the same number of electrons and similar dipoles.",
+      "Boiling temperature depends on how strong the intermolecular forces (mainly London forces) are between the molecules.",
+      "A has no side chains, so its long molecules lie side by side with the largest surface area of contact and the most London forces.",
+      "Branching (B, then C, then D which is the most branched) makes the molecule more compact, so there is less contact and weaker London forces.",
+      "More energy is needed to separate the molecules of A, so A has the highest boiling temperature."
+     ],
      "images": [
       "papers/chemistry/img/07-Intermolecular-Forces-01.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q1.jpg"
+     ]
     },
     {
      "id": "Ch7-Q2a",
@@ -28146,14 +28811,22 @@ window.BANK.chemistry = {
       "hydrogen bonding"
      ],
      "question": "Which diagram best represents a hydrogen bond between two water molecules? (The diagrams A-D are not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the diagram options are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: dotted line from the H of one water molecule to the O of the other, in a straight line (180 deg) with the O-H bond",
+     "steps": [
+      "A hydrogen bond forms between a delta+ H (bonded to O) on one molecule and a lone pair on the delta- O of a neighbouring molecule.",
+      "It is drawn as a dotted line from H to O, lying in a straight line with the covalent O-H bond, so the O-H...O angle is 180 deg: this is A.",
+      "B is wrong: the dotted line joins H to H, and two delta+ hydrogens attract nothing.",
+      "C is wrong: it marks 104.5 deg at the hydrogen bond, but 104.5 deg is the H-O-H bond angle inside a molecule, not the O-H...O angle.",
+      "D is wrong: the O-H...O arrangement is bent, and 104.5 deg is again the angle within one molecule."
+     ],
      "images": [
       "papers/chemistry/img/07-Intermolecular-Forces-02.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q2.jpg"
+     ]
     },
     {
      "id": "Ch7-Q3",
@@ -28200,13 +28873,21 @@ window.BANK.chemistry = {
       "intermolecular forces"
      ],
      "question": "Three isomers X, Y and Z are shown as skeletal formulae. Which series gives the correct order of increasing boiling temperature? (A: Y, X, Z; B: X, Y, Z; C: Y, Z, X; D: X, Z, Y.)",
-     "status": "pending",
-     "answer": "Pending: the skeletal formulae of X, Y and Z are in a diagram missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: X, Z, Y",
+     "steps": [
+      "Read the skeletal formulae: Y is hexane (straight chain), Z is 3-methylpentane, X is 2,2-dimethylbutane. All are C6H14 and non-polar, so only London forces act.",
+      "More branching makes a molecule more compact, so there is less surface area of contact between molecules and weaker London forces.",
+      "Y is unbranched, so it has the strongest London forces and the highest boiling temperature.",
+      "X is the most branched, so it has the weakest London forces and the lowest boiling temperature; Z lies between.",
+      "Increasing boiling temperature: X < Z < Y, which is option D."
+     ],
      "images": [
       "papers/chemistry/img/07-Intermolecular-Forces-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q4.jpg"
+     ]
     },
     {
      "id": "Ch7-Q5",
@@ -28265,7 +28946,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/07-Intermolecular-Forces-06.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q6-2.jpg"
+     ]
     },
     {
      "id": "Ch7-Q6a(ii)",
@@ -28281,15 +28964,23 @@ window.BANK.chemistry = {
       "sign and units"
      ],
      "question": "Use the enthalpy data at the start of Q6 and the Hess's Law diagram to calculate the standard enthalpy change of formation of propane, with sign and units.",
-     "status": "pending",
-     "answer": "Pending: the enthalpy data given at the start of Q6 are in a table missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "-104.7 kJ mol^-1",
+     "steps": [
+      "The diagram gives two routes from the elements to 3CO2(g) + 4H2O(l): direct (formation of the products) and via propane (formation of propane then its combustion).",
+      "So Delta fH(C3H8) + Delta cH(C3H8) = 3 x Delta fH(CO2) + 4 x Delta fH(H2O), which gives Delta fH(C3H8) = [3 x Delta fH(CO2) + 4 x Delta fH(H2O)] - Delta cH(C3H8).",
+      "3 x (-393.5) = -1180.5 and 4 x (-285.8) = -1143.2, so the direct route totals -2323.7 kJ mol^-1.",
+      "Delta fH(C3H8) = -2323.7 - (-2219) = -104.7 kJ mol^-1 (negative: formation of propane is exothermic)."
+     ],
      "images": [
       "papers/chemistry/img/07-Intermolecular-Forces-05.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-06.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q6.jpg",
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q6-2.jpg"
+     ]
     },
     {
      "id": "Ch7-Q6b(i)",
@@ -28320,7 +29011,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/07-Intermolecular-Forces-06.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q6-3.jpg"
+     ]
     },
     {
      "id": "Ch7-Q6b(ii)",
@@ -28337,15 +29030,22 @@ window.BANK.chemistry = {
       "explanation"
      ],
      "question": "The increase in one of the tabulated values from butane to pentane is smaller than any other increase. Suggest an explanation.",
-     "status": "pending",
-     "answer": "Pending: the table of values and the quantity referred to are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "At 298 K butane is a gas but pentane is a liquid, so some energy is needed to vaporise pentane before it burns, and less energy is released",
+     "steps": [
+      "Standard enthalpies of combustion refer to the fuel in its standard state at 298 K. The table gives boiling temperatures of -0.5 deg C for butane and 36.1 deg C for pentane.",
+      "So butane is a gas, while pentane (like hexane and heptane) is a liquid at 298 K.",
+      "Burning liquid pentane involves first overcoming its London forces to vaporise it, which takes in energy, so less net energy is released (a less exothermic value).",
+      "The other increases compare two gases (C2 to C4) or two liquids (C5 to C7), so only the butane to pentane step (632 against about 655) is smaller."
+     ],
      "images": [
       "papers/chemistry/img/07-Intermolecular-Forces-05.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-06.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q6-3.jpg"
+     ]
     },
     {
      "id": "Ch7-Q6b(iii)",
@@ -28377,7 +29077,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/07-Intermolecular-Forces-06.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q6-3.jpg"
+     ]
     },
     {
      "id": "Ch7-Q7",
@@ -28393,14 +29095,22 @@ window.BANK.chemistry = {
       "time"
      ],
      "question": "Four liquid organic compounds are compared by timing an air bubble in inverted tubes. For which compound does the bubble take the longest time?",
-     "status": "pending",
-     "answer": "Pending: the four compounds and their viscosities are shown in a diagram or table missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: butane-1,2,4-triol (three OH groups)",
+     "steps": [
+      "The bubble rises slowest through the most viscous liquid, so the longest time means the highest viscosity.",
+      "Viscosity is higher when the intermolecular forces are stronger, because the molecules cannot slide past each other as easily.",
+      "Each OH group can form hydrogen bonds. A has one OH, B has two and C has three, so C forms the most extensive hydrogen-bonded network.",
+      "D has no O-H group, so it cannot hydrogen bond with itself (only London and permanent dipole forces), so it is less viscous than C.",
+      "So C has the greatest viscosity and the longest bubble time."
+     ],
      "images": [
       "papers/chemistry/img/07-Intermolecular-Forces-07.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q7.jpg"
+     ]
     },
     {
      "id": "Ch7-Q8",
@@ -28444,14 +29154,21 @@ window.BANK.chemistry = {
       "intermolecular forces"
      ],
      "question": "Which of these isomers has the highest boiling temperature? (The isomer structures are in a diagram not present in the text.)",
-     "status": "pending",
-     "answer": "Pending: the isomer structures and options are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: the unbranched (straight-chain) isomer",
+     "steps": [
+      "The four structures are isomers of the same alkane, so each has the same number of electrons and only London forces.",
+      "A is the straight chain; B (2-methylpentane), C (3-methylpentane) and D (2,3-dimethylbutane) have side chains.",
+      "The unbranched molecule has the largest surface area of contact, so the strongest London forces.",
+      "More energy is needed to separate the molecules of A, so A has the highest boiling temperature."
+     ],
      "images": [
       "papers/chemistry/img/07-Intermolecular-Forces-09.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q9.jpg"
+     ]
     },
     {
      "id": "Ch7-Q10",
@@ -28467,14 +29184,21 @@ window.BANK.chemistry = {
       "table"
      ],
      "question": "Which row shows the hydrogen halides in order of increasing boiling temperature? (The rows are in a table missing from the text.)",
-     "status": "pending",
-     "answer": "Pending: the table of answer rows is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: HCl, HBr, HI, HF",
+     "steps": [
+      "Boiling temperatures: HCl -85.0 deg C, HBr about -67 deg C, HI -35.1 deg C, HF +19.5 deg C.",
+      "From HCl to HI the molecules have more electrons, so London forces strengthen and the boiling temperature rises.",
+      "HF is out of line and highest because its molecules form hydrogen bonds (H bonded to the very electronegative, small F).",
+      "So increasing boiling temperature is HCl < HBr < HI < HF, which is row C."
+     ],
      "images": [
       "papers/chemistry/img/07-Intermolecular-Forces-09.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q10.jpg"
+     ]
     },
     {
      "id": "Ch7-Q11",
@@ -28518,14 +29242,21 @@ window.BANK.chemistry = {
       "structures"
      ],
      "question": "Which compound has the highest boiling temperature? (The options are in a diagram not present in the text.)",
-     "status": "pending",
-     "answer": "Pending: the compound options are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: propan-1-ol (CH3CH2CH2OH)",
+     "steps": [
+      "The options are A propan-2-ol, B propan-1-ol, C butane and D 2-methylpropane.",
+      "The alcohols (A, B) form hydrogen bonds between molecules as well as London forces, so they boil far higher than the alkanes C and D, which have only London forces.",
+      "Of the two alcohols, propan-1-ol is straight-chain, so its molecules have a larger surface area of contact and stronger London forces than the branched propan-2-ol.",
+      "So propan-1-ol (B) has the highest boiling temperature."
+     ],
      "images": [
       "papers/chemistry/img/07-Intermolecular-Forces-10.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q12.jpg"
+     ]
     },
     {
      "id": "Ch7-Q13",
@@ -28597,14 +29328,21 @@ window.BANK.chemistry = {
       "molecule structure"
      ],
      "question": "Which intermolecular forces exist between the molecules of the compound shown? (The compound structure is in a diagram missing from the text.)",
-     "status": "pending",
-     "answer": "Pending: the structure of the compound is in a diagram missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: hydrogen bonding, permanent dipole-permanent dipole forces and London forces",
+     "steps": [
+      "The compound is HOCH2CH2CHO: it has an O-H group and a C=O group.",
+      "The O-H group (H bonded to O, with a lone pair on O in neighbouring molecules) allows hydrogen bonding between molecules.",
+      "The polar C=O group gives permanent dipole-permanent dipole forces.",
+      "All molecules have London forces, so all three types are present: D."
+     ],
      "images": [
       "papers/chemistry/img/07-Intermolecular-Forces-12.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q15.jpg"
+     ]
     },
     {
      "id": "Ch7-Q16",
@@ -28737,20 +29475,22 @@ window.BANK.chemistry = {
       "hexane",
       "lowest"
      ],
-     "question": "Which of these alkanes (the same list as part (a): butane, hexane, pentane, propane) has the lowest boiling temperature?",
+     "question": "Which of these alkanes (skeletal formulae A to D, all isomers of C7H16) has the lowest boiling temperature?",
      "status": "ready",
-     "answer": "D (propane)",
+     "answer": "A: 2,4-dimethylpentane (the most branched isomer)",
      "steps": [
-      "Propane (C3H8) is the shortest chain of the four alkanes.",
-      "It has the fewest electrons and the smallest surface area of contact.",
-      "So it has the weakest London forces and the lowest boiling temperature.",
-      "So the answer is D (propane)."
+      "The four structures are isomers of C7H16: A is 2,4-dimethylpentane, B is 3-methylhexane, C is 2-methylhexane and D is heptane.",
+      "All are non-polar, so only London forces act, and each has the same number of electrons.",
+      "More branching gives a more compact molecule with a smaller surface area of contact, so weaker London forces.",
+      "A has the most branching, so it has the weakest London forces and the lowest boiling temperature (D, unbranched, is the highest)."
      ],
      "images": [
       "papers/chemistry/img/07-Intermolecular-Forces-13.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q19.jpg"
+     ]
     },
     {
      "id": "Ch7-Q20",
@@ -28766,14 +29506,22 @@ window.BANK.chemistry = {
       "dipole-dipole"
      ],
      "question": "Which row in the table shows the forces between the molecules in the liquid state? (The table is missing from the text.)",
-     "status": "pending",
-     "answer": "Pending: the table of rows is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: H2S (London forces and permanent dipole-permanent dipole interactions, no hydrogen bonding)",
+     "steps": [
+      "H2S is a bent, polar molecule, so it has permanent dipole-permanent dipole forces as well as London forces.",
+      "S is not electronegative enough for hydrogen bonding, so the row ticks London forces and permanent dipole forces and crosses hydrogen bonding: D.",
+      "A is wrong: BF3 is symmetrical and non-polar, but every molecule has London forces, so the row should not show London forces crossed.",
+      "B is wrong: CH4 is non-polar and cannot hydrogen bond (C-H is not polar enough).",
+      "C is wrong: NH3 does form hydrogen bonds (N-H and a lone pair on N), but the row shows none."
+     ],
      "images": [
       "papers/chemistry/img/07-Intermolecular-Forces-14.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q20.jpg"
+     ]
     },
     {
      "id": "Ch7-Q21a(i)",
@@ -28790,14 +29538,22 @@ window.BANK.chemistry = {
       "calculation"
      ],
      "question": "Use mean bond enthalpies to calculate the enthalpy change of combustion of octane, C8H18. (The balanced equation and the bond enthalpy values are not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the combustion equation and the mean bond enthalpy values are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "-5144 kJ mol^-1",
+     "steps": [
+      "Equation: C8H18 + 12.5 O2 -> 8CO2 + 9H2O. Bonds broken: 7 C-C, 18 C-H and 12.5 O=O.",
+      "Energy to break bonds = (7 x 347) + (18 x 413) + (12.5 x 498) = 2429 + 7434 + 6225 = 16088 kJ.",
+      "Bonds formed: 16 C=O (in 8CO2) and 18 O-H (in 9H2O).",
+      "Energy released forming bonds = (16 x 805) + (18 x 464) = 12880 + 8352 = 21232 kJ.",
+      "Enthalpy change = bonds broken - bonds formed = 16088 - 21232 = -5144 kJ mol^-1."
+     ],
      "images": [
       "papers/chemistry/img/07-Intermolecular-Forces-15.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q21.jpg"
+     ]
     },
     {
      "id": "Ch7-Q21a(ii)",
@@ -28962,14 +29718,22 @@ window.BANK.chemistry = {
       "diagram"
      ],
      "question": "Which structure best represents a hydrogen bond between methanol and water? (The structures are in a diagram missing from the text.)",
-     "status": "pending",
-     "answer": "Pending: the structure options are in a diagram missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: dotted line from the O lone pair of methanol to the H of the water O-H, in a straight line O...H-O",
+     "steps": [
+      "A hydrogen bond links a lone pair on an O atom (delta-) to a delta+ H that is bonded to O (or N or F).",
+      "In A, the dotted line joins the lone pair on the methanol O to the H of water, lying in a straight line with the O-H bond (O...H-O about 180 deg).",
+      "B has the same atoms linked, but the water O-H is drawn bent away from the hydrogen bond, so it does not show the linear arrangement.",
+      "In C and D the dotted line goes to an H on the carbon (C-H), but C-H is almost non-polar so it cannot form a hydrogen bond.",
+      "So A is best."
+     ],
      "images": [
       "papers/chemistry/img/07-Intermolecular-Forces-17.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q23.jpg"
+     ]
     },
     {
      "id": "Ch7-Q24",
@@ -29075,14 +29839,21 @@ window.BANK.chemistry = {
       "sequence"
      ],
      "question": "Which sequence shows the hydrogen halides in order of decreasing boiling temperature? (The sequences are missing from the text.)",
-     "status": "pending",
-     "answer": "Pending: the sequence options are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: HF > HI > HBr > HCl",
+     "steps": [
+      "Boiling temperatures: HF 19.5 deg C, HI -35.1 deg C, HBr about -67 deg C, HCl -85 deg C.",
+      "HF is highest because its molecules form hydrogen bonds, the strongest of these intermolecular forces.",
+      "For the others, London forces strengthen with the number of electrons, so HI > HBr > HCl.",
+      "So the decreasing order is HF > HI > HBr > HCl: B."
+     ],
      "images": [
       "papers/chemistry/img/07-Intermolecular-Forces-20.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q27.jpg"
+     ]
     },
     {
      "id": "Ch7-Q28",
@@ -29113,7 +29884,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/07-Intermolecular-Forces-20.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q28.jpg"
+     ]
     },
     {
      "id": "Ch7-Q29",
@@ -29128,14 +29901,21 @@ window.BANK.chemistry = {
       "structures"
      ],
      "question": "Which is the order of increasing boiling temperature for compounds W, X, Y and Z? (A: YZXW; B: YXZW; C: WXZY; D: XWYZ.) The compounds are shown in a diagram missing from the text.",
-     "status": "pending",
-     "answer": "Pending: the structures or data for W, X, Y and Z are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Y X Z W",
+     "steps": [
+      "Read the structures: Y is butane, X is butan-1-ol (one OH), Z is butane-1,2-diol (two OH) and W is butane-1,2,3-triol (three OH).",
+      "Y has no O-H group, so only London forces act: it has the lowest boiling temperature.",
+      "X, Z and W form hydrogen bonds, and the number of hydrogen bonds per molecule rises with the number of OH groups (1, 2, 3).",
+      "More hydrogen bonding means more energy is needed to separate the molecules, so boiling temperature increases Y < X < Z < W (option B)."
+     ],
      "images": [
       "papers/chemistry/img/07-Intermolecular-Forces-21.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q29.jpg"
+     ]
     },
     {
      "id": "Ch7-Q30",
@@ -29209,14 +29989,21 @@ window.BANK.chemistry = {
       "intermolecular forces"
      ],
      "question": "Which isomer has the highest boiling temperature? (The isomer options are in a diagram missing from the text.)",
-     "status": "pending",
-     "answer": "Pending: the isomer options are in a diagram missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: the unbranched (straight-chain) isomer",
+     "steps": [
+      "The four structures are isomers of the same alkane, so each has only London forces and the same number of electrons.",
+      "A is the straight chain, B and C have one side chain each, and D has two methyl groups on one carbon, so D is the most branched.",
+      "The unbranched molecule has the largest surface area of contact, giving the strongest London forces.",
+      "So A has the highest boiling temperature."
+     ],
      "images": [
       "papers/chemistry/img/07-Intermolecular-Forces-22.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q32.jpg"
+     ]
     },
     {
      "id": "Ch7-Q32b",
@@ -29498,14 +30285,22 @@ window.BANK.chemistry = {
       "contrast"
      ],
      "question": "Compare and contrast the effect of intermolecular forces on the properties of water and ammonia, using the data shown.",
-     "status": "pending",
-     "answer": "Pending: the data table for water and ammonia is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both have hydrogen bonding, but water has far more per molecule, so it boils higher (373 K against 240 K), and ice is less dense than water",
+     "steps": [
+      "Similar Mr (16.0 and 18.0), so differences come from intermolecular forces: both NH3 and H2O form hydrogen bonds (plus London forces).",
+      "Water has two delta+ H and two lone pairs on O, so each molecule can form up to 4 hydrogen bonds; NH3 has three H but only one lone pair, so fewer.",
+      "More energy is needed to break water's hydrogen bonds, so water has the higher boiling temperature (373 K against 240 K).",
+      "At 223 K water is ice (926 kg m^-3), less dense than liquid water (1000 kg m^-3 at 278 K): hydrogen bonds hold the molecules in an open lattice with large gaps.",
+      "NH3 at 278 K is a gas (0.763 kg m^-3) since it boils at 240 K, whereas water is still a dense liquid at 278 K because its hydrogen bonds hold the molecules together."
+     ],
      "images": [
       "papers/chemistry/img/07-Intermolecular-Forces-26.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q40.jpg"
+     ]
     },
     {
      "id": "Ch7-Q41a",
@@ -29536,7 +30331,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/07-Intermolecular-Forces-26.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q41.jpg"
+     ]
     },
     {
      "id": "Ch7-Q41b",
@@ -29566,7 +30363,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/07-Intermolecular-Forces-26.jpg",
       "papers/chemistry/img/07-Intermolecular-Forces-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/07-Intermolecular-Forces-Q41.jpg"
+     ]
     },
     {
      "id": "Ch7-Q42",
@@ -29645,13 +30444,20 @@ window.BANK.chemistry = {
       "electrons"
      ],
      "question": "State the coefficients in the half-equation for reduction of dichromate(VI) ions in acidic solution.",
-     "status": "pending",
-     "answer": "Needs the half-equation with its blanks, which is missing from the text (options not present).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: x = 14, y = 6, z = 7",
+     "steps": [
+      "Each Cr goes from +6 in Cr2O7 2- to +3 in Cr3+, a gain of 3 electrons per Cr, so 6 electrons for 2 Cr: y = 6.",
+      "The 7 oxygen atoms form 7 H2O, so z = 7.",
+      "The 7 H2O contain 14 H, so 14 H+ are needed: x = 14.",
+      "Check the charge: -2 + 14 - 6 = +6 on the left and 2 x (+3) = +6 on the right."
+     ],
      "images": [
       "papers/chemistry/img/08A-Redox-01.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q2.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q3",
@@ -29667,14 +30473,21 @@ window.BANK.chemistry = {
       "IO3-"
      ],
      "question": "State the balancing numbers x, y and z for iodate(V) ions oxidising dithionate ions.",
-     "status": "pending",
-     "answer": "Needs the ionic equation and options, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: x = 2, y = 5, z = 10",
+     "steps": [
+      "Iodine in IO3- is +5 and in I2 is 0: each iodine gains 5 electrons, so 2 IO3- gain 10 electrons (x = 2, since I2 contains 2 I).",
+      "Sulfur in S2O6 2- is +5 and in SO4 2- is +6: each S2O6 2- loses 2 electrons, so 5 S2O6 2- are needed to supply 10 electrons (y = 5).",
+      "5 S2O6 2- contain 10 S, so 10 SO4 2- form: z = 10.",
+      "Check: charge on the left = 2(-1) + 5(-2) = -12; on the right = 10(-2) + 8(+1) = -12. Oxygen: 6 + 30 + 4 = 40 = 10 x 4."
+     ],
      "images": [
       "papers/chemistry/img/08A-Redox-02.jpg",
       "papers/chemistry/img/08A-Redox-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q3.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q4a",
@@ -29831,14 +30644,20 @@ window.BANK.chemistry = {
       "hydrogen"
      ],
      "question": "In H2O2 -> H2O + O2, how do hydrogen and oxygen change in terms of oxidation and reduction?",
-     "status": "pending",
-     "answer": "Needs the answer options, which are missing from the text. Oxygen is both oxidised and reduced; hydrogen is unchanged.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: hydrogen unchanged; oxygen both oxidised and reduced",
+     "steps": [
+      "Hydrogen is +1 in H2O2 and +1 in H2O, so its oxidation number does not change.",
+      "Oxygen in H2O2 is -1. In H2O it is -2 (reduced) and in O2 it is 0 (oxidised).",
+      "The same element is oxidised and reduced, so this is disproportionation of oxygen, and the answer is D."
+     ],
      "images": [
       "papers/chemistry/img/08A-Redox-04.jpg",
       "papers/chemistry/img/08A-Redox-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q8.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q9",
@@ -29964,13 +30783,20 @@ window.BANK.chemistry = {
       "identify"
      ],
      "question": "Which reaction is not a redox reaction?",
-     "status": "pending",
-     "answer": "Needs the reaction options, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 2HCl + Ba(OH)2 -> BaCl2 + 2H2O",
+     "steps": [
+      "B is an acid-base neutralisation: no element changes oxidation number (H +1, Cl -1, Ba +2, O -2 throughout), so it is not redox.",
+      "A: Cl goes from +5 in KClO3 to +7 in KClO4 and -1 in KCl, so it is redox (disproportionation).",
+      "C: Zn goes 0 to +2 and Cu goes +2 to 0, so it is redox.",
+      "D: Cl2 (0) goes to Cl- (-1) and to HClO (+1), so it is redox (disproportionation)."
+     ],
      "images": [
       "papers/chemistry/img/08A-Redox-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q12.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q13",
@@ -29986,14 +30812,20 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "How does an oxidising agent change during a redox reaction?",
-     "status": "pending",
-     "answer": "Needs the answer options, which are missing from the text. Expected answer: it is reduced (gains electrons; oxidation number falls).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: gains electrons; oxidation number decreases",
+     "steps": [
+      "An oxidising agent oxidises another species by taking electrons from it.",
+      "So the oxidising agent gains electrons and is itself reduced.",
+      "Gaining electrons lowers the oxidation number, so it decreases: A."
+     ],
      "images": [
       "papers/chemistry/img/08A-Redox-07.jpg",
       "papers/chemistry/img/08A-Redox-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q13.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q14",
@@ -30009,14 +30841,20 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "Two half-equations for a reaction are given; choose the overall ionic equation.",
-     "status": "pending",
-     "answer": "Needs the two half-equations and options, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 3Cu + 2NO3- + 8H+ -> 3Cu2+ + 2NO + 4H2O",
+     "steps": [
+      "Make the electrons equal: the Cu half-equation releases 2e- and the nitrate half-equation takes 3e-, so use 3 Cu (6e-) and 2 NO3- (6e-).",
+      "Multiply the Cu half-equation by 3 and the nitrate half-equation by 2, then add them: 3Cu + 2NO3- + 8H+ -> 3Cu2+ + 2NO + 4H2O.",
+      "Check the charge: 2(-1) + 8(+1) = +6 on the left and 3(+2) = +6 on the right."
+     ],
      "images": [
       "papers/chemistry/img/08A-Redox-07.jpg",
       "papers/chemistry/img/08A-Redox-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q14.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q15",
@@ -30032,14 +30870,21 @@ window.BANK.chemistry = {
       "neutralisation"
      ],
      "question": "Choose the ionic equation for Ba(OH)2(aq) + H2SO4(aq) -> BaSO4(s) + 2H2O(l).",
-     "status": "pending",
-     "answer": "Needs the ionic equation options, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: Ba2+(aq) + 2OH-(aq) + 2H+(aq) + SO4 2-(aq) -> BaSO4(s) + 2H2O(l)",
+     "steps": [
+      "Ba(OH)2 and H2SO4 are fully ionised in solution, giving Ba2+, OH-, H+ and SO4 2-.",
+      "The products are not written as ions: BaSO4 is an insoluble solid and H2O is a molecular liquid.",
+      "All four ions on the left take part in forming these products, so there are no spectator ions and the full ionic equation is A.",
+      "B (precipitation only) and C (neutralisation only) are each only part of the change; D wrongly shows Ba2+ and SO4 2- on the right."
+     ],
      "images": [
       "papers/chemistry/img/08A-Redox-07.jpg",
       "papers/chemistry/img/08A-Redox-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q15.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q16",
@@ -30082,13 +30927,19 @@ window.BANK.chemistry = {
       "species"
      ],
      "question": "State the oxidation number of bromine in the species shown (formula missing from the text), options +1, +3, +5, +7.",
-     "status": "pending",
-     "answer": "Needs the species formula, which is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: +5 (in BrO3-)",
+     "steps": [
+      "The species is the bromate ion, BrO3-, with an overall charge of -1.",
+      "Three oxygen atoms at -2 give -6.",
+      "Br + (-6) = -1, so Br = +5."
+     ],
      "images": [
       "papers/chemistry/img/08A-Redox-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q17.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q18",
@@ -30272,13 +31123,20 @@ window.BANK.chemistry = {
       "ion formula"
      ],
      "question": "Which ion contains vanadium with oxidation number +4?",
-     "status": "pending",
-     "answer": "Needs the ion options, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: VO2+",
+     "steps": [
+      "Oxygen is -2. For VO2+: V + (-2) = +2, so V = +4.",
+      "For B, VO2+: V + 2(-2) = +1, so V = +5.",
+      "For C, VO3-: V + 3(-2) = -1, so V = +5; for D, VO4 3-: V + 4(-2) = -3, so V = +5.",
+      "Only A contains V(IV)."
+     ],
      "images": [
       "papers/chemistry/img/08A-Redox-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q24.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q25",
@@ -30459,14 +31317,22 @@ window.BANK.chemistry = {
       "identify"
      ],
      "question": "Which equation shows a disproportionation reaction?",
-     "status": "pending",
-     "answer": "Needs the answer equations, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: S2O3 2- + 2H+ -> SO2 + S + H2O",
+     "steps": [
+      "Disproportionation is when one element is both oxidised and reduced in the same reaction.",
+      "In D sulfur in S2O3 2- is +2 on average; it goes to +4 in SO2 (oxidised) and to 0 in S (reduced).",
+      "A is an ordinary redox reaction: Cu is oxidised and N (+5 to +4) is reduced.",
+      "In B, iodine is oxidised (0 to +5) and the oxygen of O3 is reduced, so two different elements change.",
+      "In C manganese goes from +7 and +4 to +6 in one product: the reverse of disproportionation (comproportionation)."
+     ],
      "images": [
       "papers/chemistry/img/08A-Redox-13.jpg",
       "papers/chemistry/img/08A-Redox-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q28.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q29a",
@@ -30540,15 +31406,24 @@ window.BANK.chemistry = {
       "diagram"
      ],
      "question": "Complete the dot-and-cross diagram for the ClO2 structure shown.",
-     "status": "pending",
-     "answer": "Needs the suggested structure diagram from the PDF to complete the dot-and-cross diagram.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Each Cl=O overlap holds 2 crosses and 2 dots; each O has 4 more dots (two lone pairs); Cl has 3 more crosses (a lone pair and one unpaired electron)",
+     "steps": [
+      "Cl has 7 outer electrons (shown as crosses) and each O has 6 (shown as dots).",
+      "Each Cl=O double bond is two shared pairs: in each overlap region of the circles draw 4 electrons, 2 crosses (from Cl) and 2 dots (from O).",
+      "Each oxygen needs 4 more dots outside the overlap, drawn as two lone pairs, so every O has 8 electrons.",
+      "Cl has used 4 crosses in the two overlaps; the other 3 crosses stay on Cl, drawn as one lone pair and a single unpaired electron (the dot on Cl in the structure shown marks the radical electron).",
+      "Totals: 7 crosses around Cl, 6 dots around each O."
+     ],
      "images": [
       "papers/chemistry/img/08A-Redox-14.jpg",
       "papers/chemistry/img/08A-Redox-15.jpg",
       "papers/chemistry/img/08A-Redox-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q30.jpg",
+      "papers/chemistry/fig/08A-Redox-Q30-2.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q30aii",
@@ -30765,14 +31640,21 @@ window.BANK.chemistry = {
       "sample"
      ],
      "question": "Which sample of sulfuric acid is exactly neutralised by 20 cm3 of 0.5 mol dm-3 NaOH?",
-     "status": "pending",
-     "answer": "Needs the answer options (sulfuric acid samples), which are missing from the text. Expected: 0.005 mol H2SO4 in the sample.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 20 cm3 of 0.25 mol dm-3 sulfuric acid",
+     "steps": [
+      "H2SO4 + 2NaOH -> Na2SO4 + 2H2O, so 1 mol of acid reacts with 2 mol of NaOH.",
+      "Moles of NaOH = 0.020 dm3 x 0.5 mol dm-3 = 0.010 mol.",
+      "Moles of H2SO4 needed = 0.010 / 2 = 0.0050 mol.",
+      "A contains 0.020 x 0.25 = 0.0050 mol, B and D contain 0.010 mol, and C contains 0.020 mol, so only A fits."
+     ],
      "images": [
       "papers/chemistry/img/08A-Redox-16.jpg",
       "papers/chemistry/img/08A-Redox-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q32.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q33",
@@ -30788,14 +31670,21 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "Which reaction involves the oxidation of a Group 7 element?",
-     "status": "pending",
-     "answer": "Needs the answer reactions, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: Br2 + F2 -> 2BrF",
+     "steps": [
+      "Oxidation of an element means its oxidation number increases.",
+      "In A, bromine goes from 0 in Br2 to +1 in BrF (oxidised), while fluorine goes from 0 to -1.",
+      "In B, chlorine goes from +3 to +1 (reduced) and in C fluorine goes from 0 to -1 (reduced).",
+      "D is not a redox reaction: Cl stays at -1 (KCl to HCl), so no Group 7 element is oxidised."
+     ],
      "images": [
       "papers/chemistry/img/08A-Redox-17.jpg",
       "papers/chemistry/img/08A-Redox-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q33.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q34",
@@ -30896,14 +31785,21 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "Which is the correct order of increasing oxidation number of nitrogen in NO, NO3- and NH3?",
-     "status": "pending",
-     "answer": "Needs the answer options, which are missing from the text. Expected order: NH3 (-3) < NO (+2) < NO3- (+5).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: NH3, NO, NO3-",
+     "steps": [
+      "In NH3, H is +1, so N = -3.",
+      "In NO, O is -2, so N = +2.",
+      "In NO3-, three O give -6 and the charge is -1, so N = +5.",
+      "Increasing order: NH3 (-3), NO (+2), NO3- (+5), which is A."
+     ],
      "images": [
       "papers/chemistry/img/08A-Redox-18.jpg",
       "papers/chemistry/img/08A-Redox-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08A-Redox-Q37.jpg"
+     ]
     },
     {
      "id": "Ch8A-Q38",
@@ -31079,15 +31975,22 @@ window.BANK.chemistry = {
       "carbon dioxide"
      ],
      "question": "Using the Hess cycle and data provided, calculate the enthalpy change for the thermal decomposition of MgCO3.",
-     "status": "pending",
-     "answer": "Needs the Hess cycle diagram and the data values, which are not in the text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "+100 kJ mol^-1",
+     "steps": [
+      "Both routes start from the elements Mg(s) + C(s) + 1.5O2(g) and end at MgO(s) + CO2(g).",
+      "Direct route: Delta fH(MgO) + Delta fH(CO2) = -602 + (-394) = -996 kJ mol^-1.",
+      "Indirect route: Delta fH(MgCO3) + Delta H(decomposition) = -1096 + Delta H.",
+      "Equate the routes: -1096 + Delta H = -996, so Delta H = -996 + 1096 = +100 kJ mol^-1 (endothermic)."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-01.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-02.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q2.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q2b(iii)",
@@ -31133,14 +32036,21 @@ window.BANK.chemistry = {
       "copper compounds"
      ],
      "question": "Four equations for reactions of copper or its compounds are shown in a diagram. Which one is a disproportionation reaction? Options A to D are Reactions 1 to 4.",
-     "status": "pending",
-     "answer": "Needs the four copper equations shown in the diagram (not in the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Reaction 3, 2Cu+ -> Cu + Cu2+",
+     "steps": [
+      "Disproportionation is when the same element is both oxidised and reduced.",
+      "In Reaction 3, copper in Cu+ goes to Cu (0, reduced) and to Cu2+ (+2, oxidised).",
+      "Reaction 1: Cu2+ is reduced to Cu+ and I- is oxidised to I2, so two different elements change.",
+      "Reaction 2: Cu is oxidised and N (+5 to +4) is reduced, so different elements; Reaction 4 involves no change in oxidation number."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-03.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q3.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q3b",
@@ -31156,14 +32066,21 @@ window.BANK.chemistry = {
       "copper compounds"
      ],
      "question": "Which of the four copper reactions shown in the diagram is an acid-base reaction? Options A to D are Reactions 1 to 4.",
-     "status": "pending",
-     "answer": "Needs the four copper equations shown in the diagram (not in the text) to be checked against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Reaction 4, CuO + H2SO4 -> CuSO4 + H2O",
+     "steps": [
+      "An acid-base reaction is the reaction of an acid with a base, forming a salt and water.",
+      "In Reaction 4, CuO (a basic oxide) reacts with H2SO4 (an acid) to give the salt CuSO4 and water.",
+      "No oxidation numbers change in Reaction 4.",
+      "Reactions 1, 2 and 3 all involve changes in oxidation number, so they are redox reactions."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-03.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q3.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q4a",
@@ -31398,7 +32315,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08B-Groups-1-and-2-08.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q6.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q6a(ii)",
@@ -31446,16 +32365,22 @@ window.BANK.chemistry = {
       "further titration"
      ],
      "question": "Give a reason why a further titration was not attempted. The titre results are in a table in the PDF.",
-     "status": "pending",
-     "answer": "Needs the titration results table, which is not in the text, to confirm which titres are concordant",
-     "steps": [],
+     "status": "ready",
+     "answer": "Titres 2 and 3 (21.15 and 21.05 cm3) are concordant, within 0.10 cm3 of each other",
+     "steps": [
+      "Titration 1 (21.55 cm3) is the rough result and differs from the others by more than 0.10 cm3.",
+      "Titrations 2 and 3 (21.15 and 21.05 cm3) agree to within 0.10 cm3, so they are concordant.",
+      "The mean titre of 21.10 cm3 is the mean of these two concordant values, so no further titration was needed."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-06.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-07.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-08.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q6-2.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q6b(ii)",
@@ -31566,16 +32491,22 @@ window.BANK.chemistry = {
       "upper atmosphere"
      ],
      "question": "Chlorine free radicals react with ozone. Derive the overall equation for this reaction of ozone. State symbols are not required.",
-     "status": "pending",
-     "answer": "Needs the two mechanism equations shown in the PDF (not in the text) before the overall equation can be derived and checked",
-     "steps": [],
+     "status": "ready",
+     "answer": "2O3 -> 3O2",
+     "steps": [
+      "Add the two steps: Cl + O3 + ClO + O3 -> ClO + O2 + Cl + 2O2.",
+      "Cl and ClO appear on both sides, so they cancel (Cl is regenerated, so it acts as a catalyst).",
+      "What is left: 2O3 -> 3O2."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-06.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-07.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-08.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q6-3.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q6c(ii)",
@@ -31669,7 +32600,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08B-Groups-1-and-2-08.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q6-4.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q6d(iii)",
@@ -31864,14 +32797,20 @@ window.BANK.chemistry = {
       "identification"
      ],
      "question": "Which colour and test results are correct for nitrogen dioxide gas? Options are shown in a table in the PDF.",
-     "status": "pending",
-     "answer": "Options are not in the text; check the colour and test table in the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: brown, damp litmus paper turns from blue to red",
+     "steps": [
+      "Nitrogen dioxide, NO2, is a brown gas.",
+      "It is an acidic gas: it reacts with water in damp litmus paper to form acids (HNO3 and HNO2).",
+      "Acid turns blue litmus red, so the colour change is blue to red: option A."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-10.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q9.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q10",
@@ -32214,14 +33153,22 @@ window.BANK.chemistry = {
       "pH control"
      ],
      "question": "Calculate the standard enthalpy change for the reaction of pure ethanoic acid with ammonium carbonate to form ammonium ethanoate by completing a Hess cycle, using the data shown in the PDF.",
-     "status": "pending",
-     "answer": "Needs the Hess cycle diagram and the data values, which are not in the text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "+57.0 kJ mol^-1 (for 2CH3COOH + (NH4)2CO3, as the equation is written)",
+     "steps": [
+      "Equation: 2CH3COOH(l) + (NH4)2CO3(s) -> 2CH3COONH4(s) + CO2(g) + H2O(l). Put the reactants in the top left box, the products in the top right box, and the elements (5C + 8H2 + N2 + 3.5O2) in the bottom box, with arrows up to both.",
+      "Sum of Delta fH(products) = 2(-586.3) + (-393.5) + (-285.8) = -1851.9 kJ mol^-1.",
+      "Sum of Delta fH(reactants) = 2(-484.5) + (-939.9) = -1908.9 kJ mol^-1.",
+      "Delta rH = sum of Delta fH(products) - sum of Delta fH(reactants) = -1851.9 - (-1908.9) = +57.0 kJ mol^-1.",
+      "Per mole of ethanoic acid this is +28.5 kJ mol^-1."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-15.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q15.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q15d",
@@ -32389,15 +33336,22 @@ window.BANK.chemistry = {
       "Ar"
      ],
      "question": "Using the mass of metal M and the titration results with 0.400 mol dm-3 HCl (250.0 cm3 volumetric flask, 25.0 cm3 aliquots), calculate the relative atomic mass of M and identify M.",
-     "status": "pending",
-     "answer": "Needs the mass of M and the titration results table, which are not in the text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Ar of M is about 7.2, so M is lithium",
+     "steps": [
+      "Moles of HCl in the mean titre = 0.01280 dm3 x 0.400 mol dm-3 = 5.12 x 10^-3 mol.",
+      "MOH : HCl is 1 : 1, so 25.0 cm3 of solution contains 5.12 x 10^-3 mol MOH.",
+      "The whole 250.0 cm3 contains 10 x this = 5.12 x 10^-2 mol, which equals the moles of M (1 mol M gives 1 mol MOH).",
+      "Ar = mass / moles = 0.37 / 0.0512 = 7.2, which is closest to lithium (6.9), so M is Li."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-16.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-17.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q16.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q16c",
@@ -32558,14 +33512,21 @@ window.BANK.chemistry = {
       "greatest stability"
      ],
      "question": "Data for Group 1 and Group 2 cations W, X, Y and Z are shown in a table. Which cation would form the nitrate with the greatest thermal stability? A W, B X, C Y, D Z.",
-     "status": "pending",
-     "answer": "Needs the table of cation data, which is not in the text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Z (0.149 nm, +1)",
+     "steps": [
+      "Thermal stability of a nitrate is greater when the cation is less polarising, so it distorts the nitrate ion less.",
+      "Polarising power rises with charge density (high charge, small radius).",
+      "Z has the lowest charge (+1) and the largest radius (0.149 nm), so it has the lowest charge density.",
+      "X also has +1 but a smaller radius; W and Y are +2, so they are more polarising. So Z gives the most stable nitrate."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-20.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q21.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q22",
@@ -32612,14 +33573,21 @@ window.BANK.chemistry = {
       "titration"
      ],
      "question": "Two titrations of NaOH (in the flask) with HCl (in the burette) use methyl orange and phenolphthalein respectively. What are the colour changes at the end-points? Options are in the PDF.",
-     "status": "pending",
-     "answer": "The option list is not in the text; check the PDF for the colour options",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: methyl orange yellow to orange; phenolphthalein pink to colourless",
+     "steps": [
+      "The flask contains NaOH (alkaline) and acid is added from the burette.",
+      "Methyl orange is yellow in alkali and turns orange at the end-point (red only in excess acid).",
+      "Phenolphthalein is pink in alkali and turns colourless at the end-point.",
+      "So the correct row is B."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-21.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q23.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q24a(i)",
@@ -32721,14 +33689,21 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "Which is the ionic equation for the reaction of solid barium carbonate with dilute hydrochloric acid? Options are in the PDF.",
-     "status": "pending",
-     "answer": "The option list is not in the text; check the PDF for the ionic equation options",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: BaCO3(s) + 2H+(aq) -> Ba2+(aq) + CO2(g) + H2O(l)",
+     "steps": [
+      "Solid barium carbonate is insoluble, so it stays as BaCO3(s) in the ionic equation.",
+      "Hydrochloric acid is fully ionised, giving H+(aq) (Cl- is a spectator ion and is left out).",
+      "The products are Ba2+(aq) (BaCl2 is soluble), CO2(g) and H2O(l), and 2H+ are needed to balance.",
+      "B has wrong formulae (Ba2CO3, Ba+); C shows a free carbonate ion as a solid, which is wrong; D shows HCl(aq) as undissociated molecules and has no barium ion."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-23.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q25.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q26",
@@ -32813,7 +33788,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08B-Groups-1-and-2-24.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q27.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q28",
@@ -32830,14 +33807,20 @@ window.BANK.chemistry = {
       "gas test"
      ],
      "question": "What reagent and what result of the gas test show the presence of ammonium ions? Options are in the PDF.",
-     "status": "pending",
-     "answer": "The option list is not in the text; check the PDF options (expected: warm with NaOH, ammonia turns damp red litmus blue)",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: NaOH(aq); damp red litmus paper turns blue",
+     "steps": [
+      "Warming ammonium ions with a strong base (NaOH(aq)) gives ammonia gas: NH4+ + OH- -> NH3 + H2O.",
+      "Ammonia is alkaline, so it turns damp red litmus paper blue.",
+      "HCl(aq) would not release ammonia, so A and B are wrong; blue litmus turning red indicates an acidic gas, so C is wrong."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-24.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q28.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q29",
@@ -32854,14 +33837,20 @@ window.BANK.chemistry = {
       "flame colour"
      ],
      "question": "What produces the colour in a flame test? Options are in the PDF.",
-     "status": "pending",
-     "answer": "The option list is not in the text; check the PDF options",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: energy emitted as electrons move from an excited state to the ground state",
+     "steps": [
+      "The flame supplies energy, which excites electrons to higher energy levels.",
+      "When an excited electron falls back to a lower level (the ground state) it emits energy.",
+      "For some metal ions the energy emitted is in the visible region, giving the flame colour: option D."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-25.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q29.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q30a",
@@ -32908,14 +33897,21 @@ window.BANK.chemistry = {
       "trapped air"
      ],
      "question": "A student had an air bubble between the tap and tip of the burette, which filled with acid during the first titration. Which set of three titres could be the student's results? Options are in the PDF.",
-     "status": "pending",
-     "answer": "The option list is not in the text; check the PDF options (expected: first titre high, other two concordant)",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 22.80, 22.35, 22.40 cm3",
+     "steps": [
+      "The air bubble is displaced by acid, so the first reading drop is bigger than the volume that reached the flask: the first titre is too high.",
+      "The second and third titres are accurate, so they should be concordant with each other and smaller than the first.",
+      "C is the only row with a high first titre (22.80) and two concordant, lower values (22.35 and 22.40).",
+      "A has no high first titre (all three equal), B has second and third titres that are not concordant, and D has a first titre lower than the others."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-25.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q30.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q30c",
@@ -33105,14 +34101,20 @@ window.BANK.chemistry = {
       "reaction types"
      ],
      "question": "Which reaction produces more than one product? Options are in the PDF.",
-     "status": "pending",
-     "answer": "The option list is not in the text; check the PDF options",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Sr + H2O -> Sr(OH)2 + H2",
+     "steps": [
+      "Strontium reacts with water to give two products: strontium hydroxide and hydrogen (Sr + 2H2O -> Sr(OH)2 + H2).",
+      "A gives only MgO, B only CaCl2, and D only Ba(OH)2 (BaO + H2O -> Ba(OH)2).",
+      "So only C produces more than one product."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-28.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q36.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q37",
@@ -33848,16 +34850,23 @@ window.BANK.chemistry = {
       "dissolving"
      ],
      "question": "100.0 g of water was used to dissolve 0.0628 mol of anhydrous MgSO4. Calculate the enthalpy change of solution, with sign and units (specific heat capacity 4.18 J g-1 C-1; density 1.00 g cm-3). The temperature results are in a table in the PDF.",
-     "status": "pending",
-     "answer": "Needs the temperature results table, which is not in the text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "-85.2 kJ mol^-1",
+     "steps": [
+      "Temperature rise = 29.4 - 16.6 = 12.8 deg C.",
+      "Heat = m c Delta T = 100.0 g x 4.18 J g-1 deg C-1 x 12.8 = 5350 J = 5.35 kJ.",
+      "Moles of MgSO4 = 0.0628, so energy per mole = 5.35 / 0.0628 = 85.2 kJ mol^-1.",
+      "The temperature rose, so the dissolving is exothermic: Delta H = -85.2 kJ mol^-1 (3 significant figures, as the data)."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-36.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-37.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-38.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q49.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q49b(ii)",
@@ -33873,16 +34882,24 @@ window.BANK.chemistry = {
       "enthalpy change"
      ],
      "question": "Complete the Hess cycle for the dissolving of hydrated magnesium sulfate MgSO4.7H2O (second experiment).",
-     "status": "pending",
-     "answer": "Needs the Hess cycle diagram, which is not in the text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "Bottom box: MgSO4(aq); arrows from both top boxes down to it, labelled -85.2 kJ mol^-1 (left) and +15.8 kJ mol^-1 (right)",
+     "steps": [
+      "Both MgSO4(s) + 7H2O(l) and MgSO4.7H2O(s) can be dissolved to give the same final state, MgSO4(aq).",
+      "Write MgSO4(aq) in the empty bottom box.",
+      "Draw an arrow from MgSO4(s) + 7H2O(l) down to MgSO4(aq), labelled with the result from (b)(i): Delta H = -85.2 kJ mol^-1.",
+      "Draw an arrow from MgSO4.7H2O(s) down to MgSO4(aq), labelled Delta H = +15.8 kJ mol^-1."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-36.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-37.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-38.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q49-2.jpg",
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q49-3.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q49b(iii)",
@@ -33899,16 +34916,23 @@ window.BANK.chemistry = {
       "calculate"
      ],
      "question": "Using the completed Hess cycle and the answer to (b)(i), calculate the enthalpy change when anhydrous MgSO4 forms MgSO4.7H2O.",
-     "status": "pending",
-     "answer": "Depends on the answers to (b)(i) and (b)(ii) which need the PDF data",
-     "steps": [],
+     "status": "ready",
+     "answer": "-101 kJ mol^-1",
+     "steps": [
+      "By Hess's Law, the top arrow (anhydrous + 7H2O -> hydrated) plus the dissolving of the hydrated salt equals dissolving the anhydrous salt directly.",
+      "Delta H(top arrow) + (+15.8) = -85.2.",
+      "Delta H(top arrow) = -85.2 - 15.8 = -101.0 kJ mol^-1 (exothermic)."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-36.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-37.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-38.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q49-2.jpg",
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q49-3.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q49c(i)",
@@ -33925,9 +34949,13 @@ window.BANK.chemistry = {
       "solubility"
      ],
      "question": "Draw a labelled diagram showing how both the magnesium ion and the sulfate ion interact with water molecules.",
-     "status": "pending",
-     "answer": "Needs a labelled diagram checked against the PDF (Mg2+ attracts the O end of water; sulfate attracts the H end via hydrogen bonds)",
-     "steps": [],
+     "status": "ready",
+     "answer": "Mg2+ surrounded by water molecules with the O (delta-) end pointing at it; SO4 2- surrounded by water molecules with H (delta+) pointing at the O atoms of the ion",
+     "steps": [
+      "Draw Mg2+ with several water molecules around it, each with its O atom (delta-, lone pair) nearest the ion; label the attraction as ion-dipole bonds (dotted lines).",
+      "Draw SO4 2- with several water molecules around it, each with its H atoms (delta+) pointing towards the O atoms of the sulfate ion; label these as ion-dipole attractions (hydrogen bonds).",
+      "Mark the charges 2+ and 2- on the ions and delta+ / delta- on the water molecules, and label the water molecules."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-36.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-37.jpg",
@@ -34070,14 +35098,21 @@ window.BANK.chemistry = {
       "total uncertainty"
      ],
      "question": "Information about the uncertainties in each reading used to measure the volumes is given in a table in the PDF. Which statement is true? Options A to D are in the PDF.",
-     "status": "pending",
-     "answer": "The uncertainty table and option text are not fully in the text; check against the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: the total percentage uncertainty is 0.8 %",
+     "steps": [
+      "Percentage uncertainty = (uncertainty / volume) x 100.",
+      "Sulfuric acid, 10.00 cm3 from a pipette: 0.04 / 10.00 x 100 = 0.4 %.",
+      "Potassium hydroxide, 25.00 cm3 from a burette: the volume is the difference of two readings, so uncertainty = 2 x 0.05 = 0.10 cm3, and 0.10 / 25.00 x 100 = 0.4 %.",
+      "Total = 0.4 + 0.4 = 0.8 %, so C. A is wrong (the two are equal), B is wrong (0.4 %, not 0.8 %), and D is wrong (0.2 % uses only one burette reading)."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-39.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q51.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q52",
@@ -34420,14 +35455,21 @@ window.BANK.chemistry = {
       "oxygen"
      ],
      "question": "What are the products formed when lithium nitrate and calcium nitrate are heated separately? Options are in the PDF.",
-     "status": "pending",
-     "answer": "The option list is not in the text; check the PDF options (expected: Li2O + NO2 + O2 and CaO + NO2 + O2)",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: lithium oxide, nitrogen dioxide and oxygen; calcium oxide, nitrogen dioxide and oxygen",
+     "steps": [
+      "Group 2 nitrates decompose to the metal oxide, nitrogen dioxide and oxygen: 2Ca(NO3)2 -> 2CaO + 4NO2 + O2.",
+      "Lithium is the exception in Group 1: its small ion has a high charge density, so it polarises the nitrate ion strongly, and it behaves like Group 2: 4LiNO3 -> 2Li2O + 4NO2 + O2.",
+      "Other Group 1 nitrates give a nitrite and oxygen only, but lithium nitrate does not, and calcium nitrate does not give a nitrite, so rows A, B and C (each has a nitrite for lithium or calcium) are wrong.",
+      "So both give oxide, NO2 and O2: row D."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-43.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q57.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q58a",
@@ -34501,14 +35543,21 @@ window.BANK.chemistry = {
       "estimate"
      ],
      "question": "A graph shows the decomposition temperature (K) of Group 2 nitrates against atomic number. Estimate the temperature in C at which calcium nitrate decomposes. Options A 587 C, B 767 C, C 860 C, D 1040 C.",
-     "status": "pending",
-     "answer": "Needs the graph from the PDF to read the value for calcium",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 587 deg C",
+     "steps": [
+      "Calcium has atomic number 20, so read the graph at 20 on the x-axis.",
+      "The curve is at about 860 K there (just below the 900 K line).",
+      "Convert to deg C: 860 - 273 = 587 deg C, which is option A.",
+      "Option C (860 deg C) wrongly treats the reading in K as deg C."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-44.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-45.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08B-Groups-1-and-2-Q59.jpg"
+     ]
     },
     {
      "id": "Ch8B-Q60",
@@ -34555,9 +35604,14 @@ window.BANK.chemistry = {
       "crystallisation"
      ],
      "question": "20 cm3 of saturated barium nitrate at 80 C was cooled to 20 C, and 9.32 g of crystals precipitated. Solubility at 20 C is 3.74 g per 100 g water. What is the solubility at 80 C in g per 100 g water? A 13.1, B 41.0, C 46.6, D 50.3.",
-     "status": "pending",
-     "answer": "Needs the density of the saturated solution to convert 20 cm3 to a mass of water; the density is not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 50.3 g per 100 g water",
+     "steps": [
+      "Take 20 cm3 of the saturated solution to contain 20 g of water (density taken as 1.00 g cm-3: an assumption needed to use the data given).",
+      "At 20 deg C that 20 g of water holds 3.74 x (20/100) = 0.748 g of barium nitrate, so 0.748 g stays dissolved.",
+      "At 80 deg C the 20 g of water held 9.32 + 0.748 = 10.068 g.",
+      "Per 100 g of water: 10.068 x 5 = 50.3 g (D). Option C (46.6) comes from forgetting the 0.748 g that stays in solution."
+     ],
      "images": [
       "papers/chemistry/img/08B-Groups-1-and-2-45.jpg",
       "papers/chemistry/img/08B-Groups-1-and-2-46.jpg"
@@ -34873,13 +35927,20 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "Which of these is a disproportionation reaction? Options are in the PDF.",
-     "status": "pending",
-     "answer": "The reaction options are not in the text; check the PDF options for a species that is both oxidised and reduced",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 6NaOH + 3Br2 -> 5NaBr + NaBrO3 + 3H2O",
+     "steps": [
+      "Disproportionation is when one element is both oxidised and reduced in the same reaction.",
+      "In B, bromine goes from 0 in Br2 to -1 in NaBr (reduced) and to +5 in NaBrO3 (oxidised).",
+      "A and D are acid-base reactions with no change in oxidation number.",
+      "In C, aluminium is oxidised (0 to +3) and hydrogen is reduced (+1 to 0): redox, but two different elements change."
+     ],
      "images": [
       "papers/chemistry/img/08C-Group-7-01.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08C-Group-7-Q2.jpg"
+     ]
     },
     {
      "id": "Ch8C-Q3",
@@ -35037,14 +36098,21 @@ window.BANK.chemistry = {
       "5.2 C"
      ],
      "question": "Student A reacted 50.0 cm3 of silver nitrate solution with excess powdered zinc; the maximum temperature rise was 5.2 C (c = 4.18 J g-1 C-1, density 1.00 g cm-3). Calculate the concentration of the silver nitrate solution in mol dm-3.",
-     "status": "pending",
-     "answer": "Needs the enthalpy change for the reaction Zn + 2Ag+ -> Zn2+ + 2Ag, which is not given in the text; check the data book value in the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.602 mol dm^-3 (0.60 mol dm^-3 to 2 s.f.)",
+     "steps": [
+      "The equation AgNO3 + 1/2 Zn -> 1/2 Zn(NO3)2 + Ag has Delta rH = -36.1 kJ mol^-1 per mole of AgNO3.",
+      "Mass of solution = 50.0 cm3 x 1.00 g cm-3 = 50.0 g, so heat released q = m c Delta T = 50.0 x 4.18 x 5.2 = 1087 J = 1.087 kJ.",
+      "Moles of AgNO3 = 1.087 / 36.1 = 0.0301 mol.",
+      "Concentration = 0.0301 mol / 0.0500 dm3 = 0.602 mol dm^-3."
+     ],
      "images": [
       "papers/chemistry/img/08C-Group-7-03.jpg",
       "papers/chemistry/img/08C-Group-7-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08C-Group-7-Q7.jpg"
+     ]
     },
     {
      "id": "Ch8C-Q7b(ii)",
@@ -35150,14 +36218,22 @@ window.BANK.chemistry = {
       "explain"
      ],
      "question": "Some data for three small molecules are shown. Explain the large variation in boiling temperatures, given the small range in Mr values. Detailed descriptions of the forces are not required.",
-     "status": "pending",
-     "answer": "The data table for the three molecules is not in the text; check the PDF before writing the explanation",
-     "steps": [],
+     "status": "ready",
+     "answer": "The Mr values are similar, so the difference comes from the types of intermolecular force: F2 has only London forces (-188 deg C), HCl also has permanent dipole-dipole forces (-85 deg C), and methanol has hydrogen bonds (65 deg C)",
+     "steps": [
+      "The three molecules have similar Mr (32.0 to 38.0) and so similar numbers of electrons, so London forces are of similar strength in all of them.",
+      "Fluorine is non-polar (two identical atoms), so it has only London forces: the weakest overall forces and the lowest boiling temperature (-188 deg C).",
+      "Hydrogen chloride is polar because Cl is more electronegative than H, so it has permanent dipole-permanent dipole forces as well as London forces: a higher boiling temperature (-85 deg C).",
+      "Methanol has an O-H bond, so H is bonded to a small, highly electronegative O with lone pairs: it forms hydrogen bonds (as well as London forces), the strongest of the three types.",
+      "More energy is needed to overcome stronger intermolecular forces, so the boiling temperatures increase in the order F2 < HCl < CH3OH."
+     ],
      "images": [
       "papers/chemistry/img/08C-Group-7-05.jpg",
       "papers/chemistry/img/08C-Group-7-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08C-Group-7-Q9.jpg"
+     ]
     },
     {
      "id": "Ch8C-Q9b",
@@ -35174,14 +36250,21 @@ window.BANK.chemistry = {
       "hydrated ions"
      ],
      "question": "Calcium chloride is soluble in water. Complete the diagram to show how water molecules interact with each ion.",
-     "status": "pending",
-     "answer": "Needs the diagram from the PDF; expected: O ends of water face Ca2+ and H ends face Cl-",
-     "steps": [],
+     "status": "ready",
+     "answer": "Several water molecules around Ca2+ with their O (delta-) ends pointing at the ion; several around Cl- with their H (delta+) ends pointing at the ion",
+     "steps": [
+      "Ca2+ is positive, so it attracts the delta- oxygen end of water molecules: draw water molecules around the Ca2+ circle with the oxygen (the curved top of the symbol) facing the ion.",
+      "Cl- is negative, so it attracts the delta+ hydrogen end of water molecules: draw water molecules around the Cl- circle with the hydrogens (the two black dots) facing the ion.",
+      "Show at least two water molecules around each ion, and ideally label delta+ and delta- on the water molecules (these are ion-dipole attractions)."
+     ],
      "images": [
       "papers/chemistry/img/08C-Group-7-05.jpg",
       "papers/chemistry/img/08C-Group-7-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08C-Group-7-Q9-2.jpg",
+      "papers/chemistry/fig/08C-Group-7-Q9-3.jpg"
+     ]
     },
     {
      "id": "Ch8C-Q9c",
@@ -35677,12 +36760,11 @@ window.BANK.chemistry = {
      ],
      "question": "Hydrogen bromide and hydrogen iodide reduce sulfuric acid. Identify, by name or formula, the compound containing sulfur with its lowest oxidation number in that reaction.",
      "status": "ready",
-     "answer": "Hydrogen sulfide, H2S (sulfur at -2)",
+     "answer": "HBr: sulfur dioxide, SO2 (S +4); HI: hydrogen sulfide, H2S (S -2)",
      "steps": [
-      "Sulfur in H2SO4 is +6; in SO2 it is +4; in elemental S it is 0; in H2S it is -2.",
-      "HI is the stronger reducing agent and reduces H2SO4 all the way to H2S.",
-      "H2S has sulfur at -2, the lowest oxidation number formed.",
-      "Answer: H2S."
+      "Concentrated H2SO4 contains sulfur at +6; it is reduced by the halide ions to lower oxidation states.",
+      "HBr (Br- is a moderate reducing agent) reduces it only as far as SO2, with sulfur at +4.",
+      "HI (I- is a stronger reducing agent) reduces it further to H2S, with sulfur at -2 (S and SO2 also form)."
      ],
      "images": [
       "papers/chemistry/img/08C-Group-7-11.jpg",
@@ -35690,7 +36772,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08C-Group-7-13.jpg",
       "papers/chemistry/img/08C-Group-7-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08C-Group-7-Q20-2.jpg"
+     ]
     },
     {
      "id": "Ch8C-Q20d",
@@ -35721,7 +36805,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08C-Group-7-13.jpg",
       "papers/chemistry/img/08C-Group-7-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08C-Group-7-Q20.jpg"
+     ]
     },
     {
      "id": "Ch8C-Q20e",
@@ -35828,14 +36914,22 @@ window.BANK.chemistry = {
       "greatest number"
      ],
      "question": "A fixed amount of concentrated H2SO4 is reacted separately with an excess of four solid potassium halides. In which reaction would the greatest number of moles of halide be oxidised? Options are in the PDF.",
-     "status": "pending",
-     "answer": "The option list is not in the text; check the PDF options (expected answer: the iodide, KI)",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 8KI + 9H2SO4 -> 8KHSO4 + 4I2 + H2S + 4H2O",
+     "steps": [
+      "The acid is fixed, so compare how many moles of halide are oxidised per mole of H2SO4.",
+      "A and B are not redox reactions (the halogen is not oxidised): only HF or HCl forms.",
+      "In C, 3 mol H2SO4 oxidise 2 mol Br-, which is 2/3 mol per mole of acid, because H2SO4 is reduced only to SO2 (2 electrons).",
+      "In D, 9 mol H2SO4 oxidise 8 mol I-, which is 8/9 mol per mole of acid, because iodide is a stronger reducing agent and reduces H2SO4 to H2S (8 electrons).",
+      "So D has the greatest moles of halide oxidised."
+     ],
      "images": [
       "papers/chemistry/img/08C-Group-7-15.jpg",
       "papers/chemistry/img/08C-Group-7-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08C-Group-7-Q23.jpg"
+     ]
     },
     {
      "id": "Ch8C-Q24a(i)",
@@ -35852,14 +36946,20 @@ window.BANK.chemistry = {
       "procedure"
      ],
      "question": "A brine solution containing a mixture of potassium iodide and potassium chloride was analysed. State the colour of the solid in Step 3.",
-     "status": "pending",
-     "answer": "Step 3 of the procedure is not in the text; check the PDF (the solid is probably a silver halide or iodine-containing solid)",
-     "steps": [],
+     "status": "ready",
+     "answer": "Yellow (silver iodide, AgI)",
+     "steps": [
+      "Step 1: excess AgNO3 precipitates both halides: white AgCl and yellow AgI.",
+      "Step 2: aqueous ammonia dissolves the AgCl (forming a soluble complex), but AgI does not dissolve.",
+      "Step 3: the solid that is filtered, washed, dried and weighed is therefore AgI, which is yellow (pale yellow or cream)."
+     ],
      "images": [
       "papers/chemistry/img/08C-Group-7-15.jpg",
       "papers/chemistry/img/08C-Group-7-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08C-Group-7-Q24.jpg"
+     ]
     },
     {
      "id": "Ch8C-Q24a(ii)",
@@ -35876,14 +36976,21 @@ window.BANK.chemistry = {
       "brine"
      ],
      "question": "A 2.49 g mixture of KI and KCl gave 0.162 g of dried solid in the analysis. Calculate the percentage by mass of KI. Ar: Ag 107.9, K 39.1, I 126.9.",
-     "status": "pending",
-     "answer": "The procedure (Step 3 and the identity of the 0.162 g solid) is not in the text; check the PDF before calculating",
-     "steps": [],
+     "status": "ready",
+     "answer": "4.60% KI by mass",
+     "steps": [
+      "The dried solid (0.162 g) is AgI, with Mr = 107.9 + 126.9 = 234.8.",
+      "Moles of AgI = 0.162 / 234.8 = 6.90 x 10^-4 mol, which equals the moles of KI (1 I- gives 1 AgI).",
+      "Mass of KI (Mr = 39.1 + 126.9 = 166.0) = 6.90 x 10^-4 x 166.0 = 0.1145 g.",
+      "Percentage KI = 0.1145 / 2.49 x 100 = 4.60% (3 s.f., as the data)."
+     ],
      "images": [
       "papers/chemistry/img/08C-Group-7-15.jpg",
       "papers/chemistry/img/08C-Group-7-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08C-Group-7-Q24.jpg"
+     ]
     },
     {
      "id": "Ch8C-Q24b",
@@ -35991,14 +37098,20 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "Which equation shows a redox reaction that would not be expected to occur, based on the trend in reactivity of the halogens? Options are in the PDF.",
-     "status": "pending",
-     "answer": "The option equations are not in the text; check the PDF (expected: a less reactive halogen displacing a more reactive halide, e.g. Br2 + 2Cl-)",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 2F-(aq) + At2(aq) -> 2At-(aq) + F2(aq)",
+     "steps": [
+      "Reactivity (oxidising power) of the halogens decreases down Group 7, so a halogen can only oxidise (displace) the halide ions of the halogens below it.",
+      "A: I2 oxidises At- to At2, as iodine is above astatine, so it is expected to occur. B and C: Cl2 oxidises Br- and I-, as expected.",
+      "D: At2, the least reactive halogen, would have to oxidise F- to F2, the most reactive halogen. This would not be expected to occur."
+     ],
      "images": [
       "papers/chemistry/img/08C-Group-7-17.jpg",
       "papers/chemistry/img/08C-Group-7-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08C-Group-7-Q25.jpg"
+     ]
     },
     {
      "id": "Ch8C-Q26",
@@ -36278,14 +37391,20 @@ window.BANK.chemistry = {
       "reactivity"
      ],
      "question": "Which row shows the correct trends down the group for the elements of Group 7? The table of rows (A to D) is in the PDF.",
-     "status": "pending",
-     "answer": "The table of rows is not in the text; check the PDF (expected: radius up, electronegativity down, reactivity down, boiling temperature up)",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: boiling temperature increases, electronegativity decreases, reactivity as an oxidising agent decreases",
+     "steps": [
+      "Boiling temperature increases down the group, because larger molecules with more electrons have stronger London forces.",
+      "Electronegativity decreases down the group, as atoms get larger with more shielding.",
+      "Reactivity as an oxidising agent decreases, because the larger atoms attract an extra electron less strongly. This is row A."
+     ],
      "images": [
       "papers/chemistry/img/08C-Group-7-20.jpg",
       "papers/chemistry/img/08C-Group-7-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08C-Group-7-Q35.jpg"
+     ]
     },
     {
      "id": "Ch8C-Q36",
@@ -36314,7 +37433,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/08C-Group-7-21.jpg",
       "papers/chemistry/img/08C-Group-7-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08C-Group-7-Q36.jpg"
+     ]
     },
     {
      "id": "Ch8C-Q37",
@@ -36331,14 +37452,20 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "Which is a displacement reaction that results in a visible colour change in solution? Options are in the PDF.",
-     "status": "pending",
-     "answer": "The option reactions are not in the text; check the PDF (expected: chlorine displacing bromide, giving orange/brown bromine)",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 2NaI + Br2 -> 2NaBr + I2",
+     "steps": [
+      "A displacement occurs only when the added halogen is more reactive than the halogen in the halide.",
+      "In C, bromine is more reactive than iodine, so it oxidises I- to I2: the solution changes from orange to brown, a visible colour change.",
+      "A, B and D need a less reactive halogen (At2, I2, Cl2) to displace a more reactive one (Cl2, Br2, F2), so no reaction occurs."
+     ],
      "images": [
       "papers/chemistry/img/08C-Group-7-21.jpg",
       "papers/chemistry/img/08C-Group-7-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08C-Group-7-Q37.jpg"
+     ]
     },
     {
      "id": "Ch8C-Q38a",
@@ -36526,13 +37653,20 @@ window.BANK.chemistry = {
       "redox"
      ],
      "question": "Which equation is not an example of disproportionation? Options are in the PDF.",
-     "status": "pending",
-     "answer": "The option equations are not in the text; check the PDF options",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Mg + 2HCl -> MgCl2 + H2",
+     "steps": [
+      "In D magnesium is oxidised (0 to +2) and hydrogen is reduced (+1 to 0): two different elements, so it is not disproportionation.",
+      "A: copper goes from +1 in Cu2O to 0 in Cu and to +2 in CuSO4, so it is disproportionation.",
+      "B: nitrogen goes from +3 to +5 in HNO3 and to +2 in NO, so it is disproportionation.",
+      "C: chlorine goes from +1 in ClO- to -1 in Cl- and to +5 in ClO3-, so it is disproportionation."
+     ],
      "images": [
       "papers/chemistry/img/08C-Group-7-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08C-Group-7-Q40.jpg"
+     ]
     },
     {
      "id": "Ch8C-Q41",
@@ -36560,7 +37694,9 @@ window.BANK.chemistry = {
      "images": [
       "papers/chemistry/img/08C-Group-7-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/08C-Group-7-Q41.jpg"
+     ]
     }
    ]
   },
@@ -36615,14 +37751,20 @@ window.BANK.chemistry = {
       "reactant"
      ],
      "question": "A graph shows how the concentration of a reactant changes with time. Which expression gives the best estimate of the rate at time b?",
-     "status": "pending",
-     "answer": "Needs the concentration-time graph and the option symbols (a to e) from the PDF to check the gradient at time b",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: d / a",
+     "steps": [
+      "The rate at time b is the magnitude of the gradient of the tangent to the concentration-time curve at b.",
+      "The tangent drawn at b meets the concentration axis at about d and the time axis at about a.",
+      "Gradient = change in concentration / change in time = d / a (the rate is taken as positive), so the answer is B."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-01.jpg",
       "papers/chemistry/img/09A-Kinetics-02.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q2.jpg"
+     ]
     },
     {
      "id": "Q3",
@@ -36670,16 +37812,22 @@ window.BANK.chemistry = {
       "mistake"
      ],
      "question": "A student wrote a mechanism for ethene reacting with chlorine to form 1,2-dichloroethane. Identify the two mistakes in the mechanism and give the correction for each.",
-     "status": "pending",
-     "answer": "Needs the student's mechanism diagram from the PDF to identify the two mistakes",
-     "steps": [],
+     "status": "ready",
+     "answer": "Mistake 1: the curly arrow in step 1 starts at Cl and points to the C=C; it must start at the C=C double bond and point to the Cl delta+. Mistake 2: the carbocation is shown with delta+; it must carry a full + charge.",
+     "steps": [
+      "Mistake 1: the first curly arrow is drawn from the Cl delta+ atom to the carbon. The electron pair of the C=C bond is what attacks the electrophile, so the arrow must start at the C=C bond and end at the Cl delta+ atom.",
+      "Mistake 2: the intermediate is a carbocation, which has a full positive charge (+) on the carbon, not a partial charge (delta+).",
+      "The other arrows are correct: the Cl-Cl bond breaks with the arrow from the bond to the Cl delta- atom, and the lone pair of Cl- attacks the C+ in step 2."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-02.jpg",
       "papers/chemistry/img/09A-Kinetics-03.jpg",
       "papers/chemistry/img/09A-Kinetics-04.jpg",
       "papers/chemistry/img/09A-Kinetics-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q4.jpg"
+     ]
     },
     {
      "id": "Q4a(ii)",
@@ -36854,14 +38002,20 @@ window.BANK.chemistry = {
       "rate"
      ],
      "question": "Which sketch graph shows the volume of carbon dioxide (y-axis) against time (x-axis) for the reaction in Q6?",
-     "status": "pending",
-     "answer": "Needs the option sketch graphs from the PDF; they are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: a curve rising steeply at first, then levelling off",
+     "steps": [
+      "CO2 is produced fastest at the start, when the acid concentration is highest, so the volume rises steeply.",
+      "The reaction slows as acid is used up, so the curve flattens.",
+      "It levels off at a constant total volume once the reaction is complete (the limiting reactant is used up): graph B."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-06.jpg",
       "papers/chemistry/img/09A-Kinetics-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q6.jpg"
+     ]
     },
     {
      "id": "Q6c",
@@ -36877,14 +38031,20 @@ window.BANK.chemistry = {
       "acid"
      ],
      "question": "Which sketch graph shows the rate of reaction (y-axis) against time (x-axis) for the reaction in Q6?",
-     "status": "pending",
-     "answer": "Needs the option sketch graphs from the PDF; they are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: a curve falling from a high initial value towards zero",
+     "steps": [
+      "The rate is greatest at the start, when the concentration of acid is highest.",
+      "It falls as the acid is used up, because the gradient of the volume-time graph decreases.",
+      "It reaches zero when the reaction is finished: graph A."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-06.jpg",
       "papers/chemistry/img/09A-Kinetics-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q6-2.jpg"
+     ]
     },
     {
      "id": "Q7a",
@@ -36900,14 +38060,20 @@ window.BANK.chemistry = {
       "products"
      ],
      "question": "A reaction profile for a reversible reaction is shown. Which symbol represents the enthalpy change for R to P? Options: u, v, w, x.",
-     "status": "pending",
-     "answer": "Needs the reaction profile diagram from the PDF to label u, v, w and x",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: v",
+     "steps": [
+      "The enthalpy change for R -> P is the difference in energy between P and R.",
+      "In the profile, P is above R, and v is the arrow from the level of R up to the level of P.",
+      "u is the activation energy for R -> P and w is the activation energy for P -> R, so v is the enthalpy change (+ve, endothermic)."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-07.jpg",
       "papers/chemistry/img/09A-Kinetics-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q7.jpg"
+     ]
     },
     {
      "id": "Q7b",
@@ -36922,14 +38088,20 @@ window.BANK.chemistry = {
       "energy level"
      ],
      "question": "Using the reaction profile for a reversible reaction, which symbol represents the activation energy of the reverse reaction P to R? Options: u, v, w, x.",
-     "status": "pending",
-     "answer": "Needs the reaction profile diagram from the PDF to label u, v, w and x",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: w",
+     "steps": [
+      "The activation energy of the reverse reaction P -> R is the energy needed to go from the level of P up to the top of the energy barrier.",
+      "This is the arrow w, from the level of P to the peak.",
+      "u is the activation energy of the forward reaction R -> P (from R to the peak)."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-07.jpg",
       "papers/chemistry/img/09A-Kinetics-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q7.jpg"
+     ]
     },
     {
      "id": "Q7c",
@@ -36944,14 +38116,20 @@ window.BANK.chemistry = {
       "reversible reaction"
      ],
      "question": "Using Hess's Law on the reaction profile in Q7, which expression is correct? A v+x=u+w, B w+x=u, C u-w=v, D u-v=x.",
-     "status": "pending",
-     "answer": "Needs the labelled reaction profile from the PDF to check which Hess expression holds",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: u - w = v",
+     "steps": [
+      "Going from R to the peak is u (forward activation energy); coming down from the peak to P is w (reverse activation energy).",
+      "By Hess's Law the enthalpy change R -> P, v, equals the energy up to the peak minus the energy released coming down to P: v = u - w.",
+      "The other expressions do not hold: x points downwards (it is the enthalpy change of the reverse reaction, -v), so v + x = u + w and w + x = u are wrong, and u - v = w, not x."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-07.jpg",
       "papers/chemistry/img/09A-Kinetics-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q7.jpg"
+     ]
     },
     {
      "id": "Q8",
@@ -36967,14 +38145,20 @@ window.BANK.chemistry = {
       "Y"
      ],
      "question": "The energy profile for a reaction is shown. What is the minimum energy needed for the reaction to occur? Options: A X, B Y, C X-Y, D X+Y.",
-     "status": "pending",
-     "answer": "Needs the energy profile diagram from the PDF to identify which labelled energy is the activation energy",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: X",
+     "steps": [
+      "The minimum energy needed for reactants to form products is the activation energy.",
+      "X is measured from the energy of the reactants up to the top of the barrier, so X is the activation energy.",
+      "Y is from the top of the barrier down to the products: the activation energy of the reverse reaction, which is not needed here."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-08.jpg",
       "papers/chemistry/img/09A-Kinetics-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q8.jpg"
+     ]
     },
     {
      "id": "Q9",
@@ -36991,14 +38175,21 @@ window.BANK.chemistry = {
       "graph"
      ],
      "question": "A graph shows how the concentration of iodine changes with time. What is the rate of reaction in mol dm-3 s-1 at 8 seconds? Options: A 0.01, B 0.02, C 0.03, D 0.25.",
-     "status": "pending",
-     "answer": "Needs the iodine concentration-time graph from the PDF to measure the gradient at 8 s",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 0.01 mol dm^-3 s^-1",
+     "steps": [
+      "The rate at 8 s is the gradient of the tangent to the [I2]-time curve at t = 8 s.",
+      "At 8 s the curve is at about 0.25 mol dm-3 and is flattening: it rises from about 0.23 at 6 s to about 0.265 at 10 s.",
+      "Gradient about (0.265 - 0.23) / (10 - 6) = 0.009, which is about 0.01 mol dm-3 s-1.",
+      "D (0.25) is the concentration at 8 s, not the rate."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-09.jpg",
       "papers/chemistry/img/09A-Kinetics-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q9.jpg"
+     ]
     },
     {
      "id": "Q10",
@@ -37014,14 +38205,20 @@ window.BANK.chemistry = {
       "distribution"
      ],
      "question": "The Maxwell-Boltzmann curve for an uncatalysed reaction is shown with activation energy Ea. Which row shows the correct curve and activation energy for the reaction at a higher temperature with a catalyst?",
-     "status": "pending",
-     "answer": "Needs the table of curve and Ea rows from the PDF to choose the correct row",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: curve Y with activation energy W",
+     "steps": [
+      "A higher temperature moves the peak to a higher energy and lowers it, giving a flatter curve with more molecules at high energy: this is curve Y (X, with the higher peak further left, would be a lower temperature).",
+      "A catalyst provides an alternative route with a lower activation energy, so Ea moves to the left of the original Ea: this is W (Z is higher than Ea).",
+      "So the row is Y and W: C."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-09.jpg",
       "papers/chemistry/img/09A-Kinetics-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q10.jpg"
+     ]
     },
     {
      "id": "Q11a(i)",
@@ -37038,9 +38235,13 @@ window.BANK.chemistry = {
       "stage 2"
      ],
      "question": "Write the overall equation for the Liebig Process that makes potassium chlorate(V), KClO3. State symbols are not required.",
-     "status": "pending",
-     "answer": "Needs the Stage 2 equation (not in the text) to combine with Stage 1 into the overall equation",
-     "steps": [],
+     "status": "ready",
+     "answer": "6Ca(OH)2 + 6Cl2 + 2KCl -> 2KClO3 + 6CaCl2 + 6H2O",
+     "steps": [
+      "Add the two stages: 6Ca(OH)2 + 6Cl2 + Ca(ClO3)2 + 2KCl -> Ca(ClO3)2 + 5CaCl2 + 6H2O + 2KClO3 + CaCl2.",
+      "Ca(ClO3)2 is an intermediate that appears on both sides, so it cancels.",
+      "Combine the CaCl2: 5 + 1 = 6. The overall equation is 6Ca(OH)2 + 6Cl2 + 2KCl -> 2KClO3 + 6CaCl2 + 6H2O."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-10.jpg",
       "papers/chemistry/img/09A-Kinetics-11.jpg",
@@ -37048,7 +38249,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09A-Kinetics-13.jpg",
       "papers/chemistry/img/09A-Kinetics-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q11.jpg"
+     ]
     },
     {
      "id": "Q11a(ii)",
@@ -37064,9 +38267,14 @@ window.BANK.chemistry = {
       "mass"
      ],
      "question": "Using your overall equation for the Liebig Process, calculate the overall atom economy by mass for the production of KClO3.",
-     "status": "pending",
-     "answer": "Depends on the overall equation in Q11(a)(i), which needs the Stage 2 equation from the PDF",
-     "steps": [],
+     "status": "ready",
+     "answer": "24.0% (about 24%)",
+     "steps": [
+      "Atom economy = (mass of desired product / total mass of reactants) x 100, using the overall equation.",
+      "Reactants: 6Ca(OH)2 = 6 x 74.1 = 444.6; 6Cl2 = 6 x 71.0 = 426.0; 2KCl = 2 x 74.6 = 149.2. Total = 1019.8.",
+      "Desired product: 2KClO3 = 2 x 122.6 = 245.2.",
+      "Atom economy = 245.2 / 1019.8 x 100 = 24.0%."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-10.jpg",
       "papers/chemistry/img/09A-Kinetics-11.jpg",
@@ -37074,7 +38282,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09A-Kinetics-13.jpg",
       "papers/chemistry/img/09A-Kinetics-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q11.jpg"
+     ]
     },
     {
      "id": "Q11b",
@@ -37221,9 +38431,15 @@ window.BANK.chemistry = {
       "investigation"
      ],
      "question": "A student investigated the role of the catalyst in the thermal decomposition of KClO3. Explain how each step of the procedure shows the catalyst is not used up.",
-     "status": "pending",
-     "answer": "Needs the list of procedure steps shown in the PDF, which are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Heating to constant mass completes the reaction; water dissolves the soluble KCl; filtering and rinsing leave the insoluble catalyst; drying removes water; the final mass is compared with the starting mass",
+     "steps": [
+      "Step 1: heating until the mass is constant shows that all the KClO3 has decomposed, so only the catalyst and the soluble product KCl remain.",
+      "Step 2: adding water dissolves the soluble KCl but not the insoluble catalyst, so they can be separated.",
+      "Step 3: filtering collects the insoluble catalyst, and rinsing with deionised water washes off remaining KCl so that it does not add to the mass.",
+      "Step 4: drying removes water, which would add to the mass of the solid.",
+      "Step 5: weighing the dry solid and finding the same mass as the known starting mass shows the catalyst has not been used up."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-10.jpg",
       "papers/chemistry/img/09A-Kinetics-11.jpg",
@@ -37231,7 +38447,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09A-Kinetics-13.jpg",
       "papers/chemistry/img/09A-Kinetics-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q11-2.jpg"
+     ]
     },
     {
      "id": "Q11e",
@@ -37262,7 +38480,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/09A-Kinetics-13.jpg",
       "papers/chemistry/img/09A-Kinetics-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q11-3.jpg"
+     ]
     },
     {
      "id": "Q12",
@@ -37278,14 +38498,20 @@ window.BANK.chemistry = {
       "labelled"
      ],
      "question": "Which is the correctly labelled reaction profile for an exothermic reaction?",
-     "status": "pending",
-     "answer": "Needs the reaction profile options from the PDF; they are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A",
+     "steps": [
+      "In an exothermic reaction the products have lower enthalpy than the reactants, so the profile ends below where it starts.",
+      "The activation energy is measured from the level of the reactants up to the top of the peak, and the enthalpy change is measured from the reactants level down to the products level.",
+      "In A both are labelled correctly. B is exothermic but has the Ea and Delta H labels swapped. C and D show the products higher than the reactants (endothermic) and are mislabelled."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-14.jpg",
       "papers/chemistry/img/09A-Kinetics-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q12.jpg"
+     ]
     },
     {
      "id": "Q13",
@@ -37302,14 +38528,21 @@ window.BANK.chemistry = {
       "graph"
      ],
      "question": "The results of an experiment to determine the rate of magnesium with hydrochloric acid are shown. What is the approximate rate in cm3 s-1 at 40 seconds? A 0.75, B 1.3, C 2.2, D 6.0.",
-     "status": "pending",
-     "answer": "Needs the results graph from the PDF to measure the gradient at 40 s",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 0.75 cm3 s^-1",
+     "steps": [
+      "The rate at 40 s is the gradient of the tangent to the volume-time curve at t = 40 s.",
+      "At 40 s the volume is about 89 cm3, and the curve is flattening, rising from about 81 cm3 at 30 s to about 94 cm3 at 50 s.",
+      "Gradient about (94 - 81) / 20 = 0.65 to 0.7 cm3 s-1, which is closest to 0.75.",
+      "B, C and D are too large: the rate is about 6 cm3 s-1 near the start but has fallen well below 1 cm3 s-1 by 40 s."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-15.jpg",
       "papers/chemistry/img/09A-Kinetics-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q13.jpg"
+     ]
     },
     {
      "id": "Q14a",
@@ -37387,15 +38620,22 @@ window.BANK.chemistry = {
       "cm3 s-1"
      ],
      "question": "Using the graph of gas volume against time for the CaCO3 and HCl experiment, calculate the initial rate of reaction, showing working on the graph and including units.",
-     "status": "pending",
-     "answer": "Needs the volume-time graph from the PDF to draw the initial tangent and read values",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 0.28 cm3 s^-1 (accept about 0.25 to 0.30)",
+     "steps": [
+      "The initial rate is the gradient of the tangent to the curve at t = 0.",
+      "Draw a tangent through the origin that follows the start of the curve; it reaches about 34 cm3 at 120 s.",
+      "Gradient = change in volume / change in time = 34 cm3 / 120 s = 0.28.",
+      "Units: cm3 s-1."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-16.jpg",
       "papers/chemistry/img/09A-Kinetics-17.jpg",
       "papers/chemistry/img/09A-Kinetics-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q14.jpg"
+     ]
     },
     {
      "id": "Q14b(iii)",
@@ -37412,15 +38652,21 @@ window.BANK.chemistry = {
       "calcium carbonate"
      ],
      "question": "The experiment is repeated with 0.250 mol dm-3 HCl, all else the same. State what happens to the initial rate and to the final volume of CO2 collected.",
-     "status": "pending",
-     "answer": "Needs the final-volume plateau shown on the PDF graph to confirm whether the acid is limiting",
-     "steps": [],
+     "status": "ready",
+     "answer": "Initial rate decreases (about halves); final volume of CO2 decreases (about halves to about 45 cm3)",
+     "steps": [
+      "A lower concentration of HCl means fewer particles per unit volume, so fewer collisions per second and a lower initial rate.",
+      "The graph levels at about 90 cm3, which is below the 100 cm3 the syringe could hold, so CaCO3 is in excess and the HCl is the limiting reactant.",
+      "Halving the concentration with the same volume halves the moles of HCl, so the final volume of CO2 halves to about 45 cm3."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-16.jpg",
       "papers/chemistry/img/09A-Kinetics-17.jpg",
       "papers/chemistry/img/09A-Kinetics-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q14.jpg"
+     ]
     },
     {
      "id": "Q15a",
@@ -37550,13 +38796,20 @@ window.BANK.chemistry = {
       "cm3 min-1"
      ],
      "question": "The volume of O2 from hydrogen peroxide decomposition is plotted against time. What is the rate of formation of oxygen at point X? Options: A 1.3, B 2.5, C 4.4, D 25 cm3 min-1.",
-     "status": "pending",
-     "answer": "Needs the volume-time graph from the PDF to measure the gradient at point X",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 1.3 cm3 min^-1",
+     "steps": [
+      "The rate of formation of O2 at X is the gradient of the tangent to the curve at X (4 min, 17.5 cm3).",
+      "Reading the curve either side: about 15.8 cm3 at 3 min and about 18.7 cm3 at 5 min.",
+      "Gradient about (18.7 - 15.8) / 2 = 1.4, which is about 1.3 cm3 min-1.",
+      "2.5 is too steep for this late stage, 4.4 is the rate near the start, and 25 is the final volume."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q17.jpg"
+     ]
     },
     {
      "id": "Q18",
@@ -37574,14 +38827,21 @@ window.BANK.chemistry = {
       "ion"
      ],
      "question": "The time for iron(III) sulfate and sodium thiosulfate to react is measured with one drop of different solutions added. Which ion speeds up the reaction? A copper(II), B lead(II), C nitrate, D sulfate.",
-     "status": "pending",
-     "answer": "Needs the results table from the PDF to confirm which ion reduced the time",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: copper(II)",
+     "steps": [
+      "With no added substance the reaction takes 205 s.",
+      "Only copper(II) sulfate reduces the time substantially (75 s), so a Cu2+ ion speeds up the reaction.",
+      "Sodium nitrate (204 s) and zinc sulfate (202 s) have no real effect, so nitrate and sulfate ions do not catalyse the reaction.",
+      "Lead(II) nitrate increases the time to 464 s, so lead(II) slows the reaction down."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-22.jpg",
       "papers/chemistry/img/09A-Kinetics-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q18.jpg"
+     ]
     },
     {
      "id": "Q19a",
@@ -37990,14 +39250,21 @@ window.BANK.chemistry = {
       "mol dm-3 s-1"
      ],
      "question": "An experiment measures the concentration of a reactant over time. What is the approximate initial rate? A 4.5 x 10^-5, B 1.8 x 10^-5, C 1.3 x 10^-5, D 2.0 x 10^-6.",
-     "status": "pending",
-     "answer": "Needs the concentration-time graph from the PDF to measure the initial gradient",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 4.5 x 10^-5 (concentration units per s)",
+     "steps": [
+      "The initial rate is the magnitude of the gradient of the tangent to the curve at t = 0.",
+      "The curve starts at 0.0050 and the tangent at t = 0 reaches the time axis at about 105 s.",
+      "Gradient = 0.0050 / 105 = 4.8 x 10^-5 (a chord from 0 to 50 s gives a lower value, about 3.8 x 10^-5, because the curve flattens).",
+      "This is closest to 4.5 x 10^-5, which is option A."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-28.jpg",
       "papers/chemistry/img/09A-Kinetics-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q27.jpg"
+     ]
     },
     {
      "id": "Q27b",
@@ -38040,14 +39307,21 @@ window.BANK.chemistry = {
       "volume"
      ],
      "question": "Magnesium ribbon (0.24 g) in 25 cm3 of 1.00 mol dm-3 sulfuric acid is compared with magnesium powder (0.24 g) in 50 cm3 of the same acid. What are the expected differences in observations in the second experiment?",
-     "status": "pending",
-     "answer": "Needs the answer options from the PDF, which are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: the rate increases and the total volume of hydrogen is unchanged",
+     "steps": [
+      "Magnesium powder has a larger surface area than ribbon, so the reaction is faster: the rate increases.",
+      "Moles of Mg = 0.24 / 24 = 0.010 mol. Moles of H2SO4 are 0.025 mol (25 cm3) and 0.050 mol (50 cm3), so the acid is in excess in both experiments.",
+      "Magnesium is the limiting reactant both times, so the same 0.010 mol of H2 forms and the total volume of hydrogen does not change.",
+      "So the answer is C (rate increases, total volume no change)."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-29.jpg",
       "papers/chemistry/img/09A-Kinetics-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q28.jpg"
+     ]
     },
     {
      "id": "Q29",
@@ -38182,16 +39456,22 @@ window.BANK.chemistry = {
       "time"
      ],
      "question": "Complete the table of rate indicator (1/t) for each volume of rhubarb juice used in the manganate(VII) experiment.",
-     "status": "pending",
-     "answer": "Needs the table values from the PDF; the times are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "1/t = 0.00383 s^-1; (1/t) x 10^3 = 3.83 s^-1 (for 8 cm3 of juice)",
+     "steps": [
+      "The missing row is for 8 cm3 of rhubarb juice, with t = 261 s.",
+      "1 / 261 = 0.00383 s-1.",
+      "Multiply by 10^3 to give 3.83 s-1 in the last column."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-30.jpg",
       "papers/chemistry/img/09A-Kinetics-31.jpg",
       "papers/chemistry/img/09A-Kinetics-32.jpg",
       "papers/chemistry/img/09A-Kinetics-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q30.jpg"
+     ]
     },
     {
      "id": "Q30b(ii)",
@@ -38208,16 +39488,23 @@ window.BANK.chemistry = {
       "manganate(VII)"
      ],
      "question": "Plot a graph of the rate of reaction, (1/t) x 10^3, against the volume of rhubarb juice.",
-     "status": "pending",
-     "answer": "Needs the data table from the PDF; plotting cannot be checked from the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A smooth curve through the six points, rising steeply at first and levelling off near 4.1",
+     "steps": [
+      "Label the x-axis \"Volume of rhubarb juice / cm3\" and the y-axis \"(1/t) x 10^3 / s^-1\", with scales that fill more than half of the grid.",
+      "Plot the points (5, 2.51), (6, 3.04), (7, 3.46), (8, 3.83), (9, 4.02) and (10, 4.08) accurately.",
+      "Draw a smooth best-fit curve through them: the gradient decreases as the volume rises, and the curve levels off at about 4.1 by 9 to 10 cm3.",
+      "Do not join the points with straight line segments, and do not force the line through the origin."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-30.jpg",
       "papers/chemistry/img/09A-Kinetics-31.jpg",
       "papers/chemistry/img/09A-Kinetics-32.jpg",
       "papers/chemistry/img/09A-Kinetics-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q30.jpg"
+     ]
     },
     {
      "id": "Q30b(iii)",
@@ -38292,16 +39579,23 @@ window.BANK.chemistry = {
       "peak"
      ],
      "question": "Draw a curve on the Maxwell-Boltzmann distribution to represent the distribution at a higher temperature.",
-     "status": "pending",
-     "answer": "Drawing task; the diagram is in the PDF and cannot be checked from the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A curve from the origin with a lower peak further to the right, flatter overall, with a bigger area beyond Ea",
+     "steps": [
+      "The new curve must start at the origin and never touch the x-axis at high energy.",
+      "Its peak is lower and at a higher energy (to the right of the original peak), so the curve is wider and flatter.",
+      "It lies above the original curve at high energies, so a greater area (more particles) lies to the right of the line at Ea.",
+      "The total area under the curve stays the same, because the number of particles is unchanged."
+     ],
      "images": [
       "papers/chemistry/img/09A-Kinetics-30.jpg",
       "papers/chemistry/img/09A-Kinetics-31.jpg",
       "papers/chemistry/img/09A-Kinetics-32.jpg",
       "papers/chemistry/img/09A-Kinetics-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/09A-Kinetics-Q30-2.jpg"
+     ]
     },
     {
      "id": "Q30d(ii)",
