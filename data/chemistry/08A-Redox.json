@@ -28,6 +28,13 @@
       ],
       "images": [
         "papers/chemistry/img/08A-Redox-01.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1206,
+          0.2906
+        ]
       ]
     },
     {
@@ -57,6 +64,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6049,
+          0.8509
+        ]
       ]
     },
     {
@@ -87,6 +101,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1519,
+          0.4777
+        ]
       ]
     },
     {
@@ -115,6 +136,18 @@
       "images": [
         "papers/chemistry/img/08A-Redox-02.jpg",
         "papers/chemistry/img/08A-Redox-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7502,
+          0.7692
+        ],
+        [
+          1,
+          0.0674,
+          0.2241
+        ]
       ]
     },
     {
@@ -142,6 +175,13 @@
       "images": [
         "papers/chemistry/img/08A-Redox-02.jpg",
         "papers/chemistry/img/08A-Redox-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.227,
+          0.3827
+        ]
       ]
     },
     {
@@ -169,6 +209,13 @@
       "images": [
         "papers/chemistry/img/08A-Redox-03.jpg",
         "papers/chemistry/img/08A-Redox-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5689,
+          0.7047
+        ]
       ]
     },
     {
@@ -199,6 +246,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9088,
+          0.9278
+        ],
+        [
+          1,
+          0.0532,
+          0.226
+        ]
       ]
     },
     {
@@ -226,6 +285,13 @@
       "images": [
         "papers/chemistry/img/08A-Redox-04.jpg",
         "papers/chemistry/img/08A-Redox-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.434,
+          0.5252
+        ]
       ]
     },
     {
@@ -255,6 +321,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7293,
+          0.7778
+        ],
+        [
+          1,
+          0.0655,
+          0.2849
+        ]
       ]
     },
     {
@@ -282,6 +360,13 @@
       "images": [
         "papers/chemistry/img/08A-Redox-05.jpg",
         "papers/chemistry/img/08A-Redox-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4691,
+          0.5679
+        ]
       ]
     },
     {
@@ -309,6 +394,13 @@
       "images": [
         "papers/chemistry/img/08A-Redox-05.jpg",
         "papers/chemistry/img/08A-Redox-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7711,
+          0.8936
+        ]
       ]
     },
     {
@@ -335,6 +427,25 @@
       ],
       "images": [
         "papers/chemistry/img/08A-Redox-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2431,
+          0.3495
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.2137,
+              0.2317
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -361,6 +472,25 @@
       ],
       "images": [
         "papers/chemistry/img/08A-Redox-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3704,
+          0.491
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.2137,
+              0.2317
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -390,6 +520,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6952,
+          0.8376
+        ]
       ]
     },
     {
@@ -419,6 +556,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1396,
+          0.321
+        ]
       ]
     },
     {
@@ -448,6 +592,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5347,
+          0.7816
+        ]
       ]
     },
     {
@@ -478,6 +629,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.3039
+        ]
       ]
     },
     {
@@ -504,6 +662,13 @@
       ],
       "images": [
         "papers/chemistry/img/08A-Redox-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4891,
+          0.5831
+        ]
       ]
     },
     {
@@ -532,6 +697,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8072,
+          0.8784
+        ]
       ]
     },
     {
@@ -559,6 +731,13 @@
       "images": [
         "papers/chemistry/img/08A-Redox-09.jpg",
         "papers/chemistry/img/08A-Redox-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.208,
+          0.301
+        ]
       ]
     },
     {
@@ -589,6 +768,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5204,
+          0.6144
+        ]
       ]
     },
     {
@@ -616,6 +802,13 @@
       "images": [
         "papers/chemistry/img/08A-Redox-09.jpg",
         "papers/chemistry/img/08A-Redox-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8699,
+          0.944
+        ]
       ]
     },
     {
@@ -643,6 +836,13 @@
       "images": [
         "papers/chemistry/img/08A-Redox-10.jpg",
         "papers/chemistry/img/08A-Redox-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3001,
+          0.3713
+        ]
       ]
     },
     {
@@ -670,6 +870,13 @@
       "images": [
         "papers/chemistry/img/08A-Redox-10.jpg",
         "papers/chemistry/img/08A-Redox-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5745,
+          0.6676
+        ]
       ]
     },
     {
@@ -700,6 +907,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0855,
+          0.1795
+        ]
       ]
     },
     {
@@ -729,6 +943,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3799,
+          0.5204
+        ]
       ]
     },
     {
@@ -755,6 +976,13 @@
       ],
       "images": [
         "papers/chemistry/img/08A-Redox-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7806,
+          0.8727
+        ]
       ]
     },
     {
@@ -782,6 +1010,13 @@
       "images": [
         "papers/chemistry/img/08A-Redox-12.jpg",
         "papers/chemistry/img/08A-Redox-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1909,
+          0.283
+        ]
       ]
     },
     {
@@ -812,6 +1047,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5261,
+          0.7474
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.4378,
+              0.5005
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -842,6 +1096,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7607,
+          0.7797
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.4378,
+              0.5005
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -868,6 +1141,35 @@
       "images": [
         "papers/chemistry/img/08A-Redox-12.jpg",
         "papers/chemistry/img/08A-Redox-13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1804,
+          0.2146
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.4378,
+              0.5005
+            ]
+          ]
+        ],
+        [
+          "Q27(c)",
+          [
+            [
+              1,
+              0.1425,
+              0.1842
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -894,6 +1196,45 @@
       "images": [
         "papers/chemistry/img/08A-Redox-12.jpg",
         "papers/chemistry/img/08A-Redox-13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4501,
+          0.4843
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.4378,
+              0.5005
+            ]
+          ]
+        ],
+        [
+          "Q27(c)",
+          [
+            [
+              1,
+              0.1425,
+              0.1842
+            ]
+          ]
+        ],
+        [
+          "Q27(c)(i)",
+          [
+            [
+              1,
+              0.1804,
+              0.2146
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -925,6 +1266,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9107,
+          0.9297
+        ],
+        [
+          1,
+          0.0513,
+          0.1719
+        ]
       ]
     },
     {
@@ -953,6 +1306,25 @@
         "papers/chemistry/img/08A-Redox-14.jpg",
         "papers/chemistry/img/08A-Redox-15.jpg",
         "papers/chemistry/img/08A-Redox-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3666,
+          0.5033
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.3086,
+              0.3571
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -981,6 +1353,25 @@
         "papers/chemistry/img/08A-Redox-14.jpg",
         "papers/chemistry/img/08A-Redox-15.jpg",
         "papers/chemistry/img/08A-Redox-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5242,
+          0.6306
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.3086,
+              0.3571
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1014,6 +1405,30 @@
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q30.jpg",
         "papers/chemistry/fig/08A-Redox-Q30-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8955,
+          0.9364
+        ],
+        [
+          1,
+          0.0731,
+          0.3134
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.7854,
+              0.886
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1045,6 +1460,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3153,
+          0.4568
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.7854,
+              0.886
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1073,6 +1507,35 @@
         "papers/chemistry/img/08A-Redox-14.jpg",
         "papers/chemistry/img/08A-Redox-15.jpg",
         "papers/chemistry/img/08A-Redox-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5366,
+          0.6486
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.7854,
+              0.886
+            ]
+          ]
+        ],
+        [
+          "Q30(b)",
+          [
+            [
+              1,
+              0.4691,
+              0.5413
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1100,6 +1563,35 @@
         "papers/chemistry/img/08A-Redox-14.jpg",
         "papers/chemistry/img/08A-Redox-15.jpg",
         "papers/chemistry/img/08A-Redox-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6543,
+          0.7075
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.7854,
+              0.886
+            ]
+          ]
+        ],
+        [
+          "Q30(b)",
+          [
+            [
+              1,
+              0.4691,
+              0.5413
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1131,6 +1623,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q30b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7142,
+          0.9288
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.7854,
+              0.886
+            ]
+          ]
+        ],
+        [
+          "Q30(b)",
+          [
+            [
+              1,
+              0.4691,
+              0.5413
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1162,6 +1683,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q30b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.1016
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.7854,
+              0.886
+            ]
+          ]
+        ],
+        [
+          "Q30(b)",
+          [
+            [
+              1,
+              0.4691,
+              0.5413
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1193,6 +1743,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q30b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2783,
+          0.3276
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.7854,
+              0.886
+            ]
+          ]
+        ],
+        [
+          "Q30(b)",
+          [
+            [
+              1,
+              0.4691,
+              0.9288
+            ],
+            [
+              2,
+              0.0532,
+              0.3276
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1220,6 +1804,13 @@
       "images": [
         "papers/chemistry/img/08A-Redox-16.jpg",
         "papers/chemistry/img/08A-Redox-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6781,
+          0.7702
+        ]
       ]
     },
     {
@@ -1250,6 +1841,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.3837
+        ]
       ]
     },
     {
@@ -1280,6 +1878,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5698,
+          0.7113
+        ]
       ]
     },
     {
@@ -1310,6 +1915,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8974,
+          0.9449
+        ],
+        [
+          1,
+          0.0522,
+          0.1595
+        ]
       ]
     },
     {
@@ -1337,6 +1954,13 @@
       "images": [
         "papers/chemistry/img/08A-Redox-18.jpg",
         "papers/chemistry/img/08A-Redox-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3618,
+          0.472
+        ]
       ]
     },
     {
@@ -1364,6 +1988,13 @@
       "images": [
         "papers/chemistry/img/08A-Redox-18.jpg",
         "papers/chemistry/img/08A-Redox-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6724,
+          0.7949
+        ]
       ]
     },
     {
@@ -1395,6 +2026,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/08A-Redox-Q37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.245
+        ]
       ]
     },
     {
@@ -1421,6 +2059,13 @@
       ],
       "images": [
         "papers/chemistry/img/08A-Redox-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4311,
+          0.5954
+        ]
       ]
     }
   ]

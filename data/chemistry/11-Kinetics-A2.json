@@ -35,6 +35,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1719,
+          0.3789
+        ]
       ]
     },
     {
@@ -63,6 +70,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7635,
+          0.7958
+        ],
+        [
+          1,
+          0.0608,
+          0.6173
+        ]
       ]
     },
     {
@@ -91,6 +110,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8205,
+          0.8519
+        ],
+        [
+          1,
+          0.0522,
+          0.8557
+        ]
       ]
     },
     {
@@ -118,6 +149,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.169,
+          0.6762
+        ]
       ]
     },
     {
@@ -148,6 +186,25 @@
         "papers/chemistry/img/11-Kinetics-A2-05.jpg",
         "papers/chemistry/img/11-Kinetics-A2-06.jpg",
         "papers/chemistry/img/11-Kinetics-A2-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2089,
+          0.3333
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.1054,
+              0.1985
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -177,6 +234,25 @@
         "papers/chemistry/img/11-Kinetics-A2-05.jpg",
         "papers/chemistry/img/11-Kinetics-A2-06.jpg",
         "papers/chemistry/img/11-Kinetics-A2-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3514,
+          0.4577
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.1054,
+              0.1985
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -205,6 +281,25 @@
         "papers/chemistry/img/11-Kinetics-A2-05.jpg",
         "papers/chemistry/img/11-Kinetics-A2-06.jpg",
         "papers/chemistry/img/11-Kinetics-A2-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4777,
+          0.6762
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.1054,
+              0.1985
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -235,6 +330,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4084,
+          0.4274
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.831,
+              0.8623
+            ],
+            [
+              1,
+              0.0655,
+              0.3913
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -264,6 +383,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4454,
+          0.8946
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.831,
+              0.8623
+            ],
+            [
+              1,
+              0.0655,
+              0.3913
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -295,6 +438,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9288,
+          0.9478
+        ],
+        [
+          2,
+          0.0532,
+          0.1206
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.831,
+              0.8623
+            ],
+            [
+              1,
+              0.0655,
+              0.3913
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -324,6 +496,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q6.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.151,
+          0.3732
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.831,
+              0.8623
+            ],
+            [
+              1,
+              0.0655,
+              0.3913
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -354,6 +550,30 @@
         "papers/chemistry/img/11-Kinetics-A2-05.jpg",
         "papers/chemistry/img/11-Kinetics-A2-06.jpg",
         "papers/chemistry/img/11-Kinetics-A2-07.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3865,
+          0.6515
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.831,
+              0.8623
+            ],
+            [
+              1,
+              0.0655,
+              0.3913
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -383,6 +603,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7987,
+          0.8547
+        ],
+        [
+          1,
+          0.0598,
+          0.7094
+        ]
       ]
     },
     {
@@ -412,6 +644,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q8.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1472,
+          0.2564
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.9107,
+              0.9269
+            ],
+            [
+              1,
+              0.0532,
+              0.1368
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -442,6 +698,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q8.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2745,
+          0.4207
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.9107,
+              0.9269
+            ],
+            [
+              1,
+              0.0532,
+              0.1368
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -470,6 +750,18 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-09.jpg",
         "papers/chemistry/img/11-Kinetics-A2-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8395,
+          0.9459
+        ],
+        [
+          1,
+          0.0513,
+          0.1244
+        ]
       ]
     },
     {
@@ -501,6 +793,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3257,
+          0.5613
+        ]
       ]
     },
     {
@@ -532,6 +831,45 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3248,
+          0.3438
+        ],
+        [
+          2,
+          0.0608,
+          0.7559
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.7198,
+              0.8101
+            ]
+          ]
+        ],
+        [
+          "Q11(a)",
+          [
+            [
+              0,
+              0.8234,
+              0.8575
+            ],
+            [
+              1,
+              0.0608,
+              0.3096
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -563,6 +901,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q11.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7588,
+          0.8272
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.7198,
+              0.8101
+            ]
+          ]
+        ],
+        [
+          "Q11(a)",
+          [
+            [
+              0,
+              0.8234,
+              0.8575
+            ],
+            [
+              1,
+              0.0608,
+              0.3096
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -595,6 +967,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q11.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8329,
+          0.8908
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.7198,
+              0.8101
+            ]
+          ]
+        ],
+        [
+          "Q11(a)",
+          [
+            [
+              0,
+              0.8234,
+              0.8575
+            ],
+            [
+              1,
+              0.0608,
+              0.3096
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -627,6 +1033,45 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q11-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.5945,
+          0.6249
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.7198,
+              0.8101
+            ]
+          ]
+        ],
+        [
+          "Q11(a)(iii)",
+          [
+            [
+              2,
+              0.8329,
+              0.8908
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              3,
+              0.1576,
+              0.5907
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -657,6 +1102,45 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q11-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.7892,
+          0.8082
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.7198,
+              0.8101
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              3,
+              0.1576,
+              0.5907
+            ]
+          ]
+        ],
+        [
+          "Q11(b)(i)",
+          [
+            [
+              3,
+              0.5945,
+              0.6249
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -690,6 +1174,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q11-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.8196,
+          0.8538
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.7198,
+              0.8101
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              3,
+              0.1576,
+              0.5907
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -722,6 +1235,45 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q11-2.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.1282,
+          0.1766
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.7198,
+              0.8101
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              3,
+              0.1576,
+              0.5907
+            ]
+          ]
+        ],
+        [
+          "Q11(b)(iii)",
+          [
+            [
+              3,
+              0.8196,
+              0.8538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -751,6 +1303,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.603,
+          0.886
+        ]
       ]
     },
     {
@@ -782,6 +1341,13 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-15.jpg",
         "papers/chemistry/img/11-Kinetics-A2-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1643,
+          0.3305
+        ]
       ]
     },
     {
@@ -811,6 +1377,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5385,
+          0.6866
+        ],
+        [
+          1,
+          0.0541,
+          0.4872
+        ]
       ]
     },
     {
@@ -838,6 +1416,13 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-16.jpg",
         "papers/chemistry/img/11-Kinetics-A2-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.68,
+          0.9088
+        ]
       ]
     },
     {
@@ -868,6 +1453,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5764,
+          0.6097
+        ],
+        [
+          1,
+          0.0541,
+          0.4473
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1861,
+              0.2526
+            ]
+          ]
+        ],
+        [
+          "Q16(a)",
+          [
+            [
+              0,
+              0.2631,
+              0.5584
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -898,6 +1517,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4511,
+          0.5337
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1861,
+              0.2526
+            ]
+          ]
+        ],
+        [
+          "Q16(a)",
+          [
+            [
+              0,
+              0.2631,
+              0.5584
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -928,6 +1576,50 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.755,
+          0.8955
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1861,
+              0.2526
+            ]
+          ]
+        ],
+        [
+          "Q16(a)",
+          [
+            [
+              0,
+              0.2631,
+              0.6097
+            ],
+            [
+              1,
+              0.0541,
+              0.5337
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.5461,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -956,6 +1648,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9022,
+          0.9212
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1861,
+              0.2526
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.5461,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -987,6 +1708,45 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.113,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1861,
+              0.2526
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.5461,
+              0.7379
+            ]
+          ]
+        ],
+        [
+          "Q16(b)(ii)",
+          [
+            [
+              1,
+              0.9022,
+              0.9212
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1016,6 +1776,25 @@
         "papers/chemistry/img/11-Kinetics-A2-17.jpg",
         "papers/chemistry/img/11-Kinetics-A2-18.jpg",
         "papers/chemistry/img/11-Kinetics-A2-19.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3153,
+          0.6401
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1861,
+              0.2526
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1045,6 +1824,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8357,
+          0.9107
+        ],
+        [
+          1,
+          0.0513,
+          0.2934
+        ]
       ]
     },
     {
@@ -1070,6 +1861,25 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-20.jpg",
         "papers/chemistry/img/11-Kinetics-A2-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.603,
+          0.7123
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5014,
+              0.5897
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1095,6 +1905,25 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-20.jpg",
         "papers/chemistry/img/11-Kinetics-A2-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7303,
+          0.8367
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5014,
+              0.5897
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1123,6 +1952,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8575,
+          0.8927
+        ],
+        [
+          1,
+          0.0522,
+          0.529
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5014,
+              0.5897
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1149,6 +2002,13 @@
       ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7208,
+          0.8414
+        ]
       ]
     },
     {
@@ -1175,6 +2035,25 @@
         "papers/chemistry/img/11-Kinetics-A2-22.jpg",
         "papers/chemistry/img/11-Kinetics-A2-23.jpg",
         "papers/chemistry/img/11-Kinetics-A2-24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1633,
+          0.1823
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.1054,
+              0.1529
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1205,6 +2084,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7987,
+          0.9117
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.1054,
+              0.1529
+            ]
+          ]
+        ],
+        [
+          "Q20(b)",
+          [
+            [
+              0,
+              0.283,
+              0.7958
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1232,6 +2140,50 @@
         "papers/chemistry/img/11-Kinetics-A2-22.jpg",
         "papers/chemistry/img/11-Kinetics-A2-23.jpg",
         "papers/chemistry/img/11-Kinetics-A2-24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9164,
+          0.9364
+        ],
+        [
+          1,
+          0.0532,
+          0.1149
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.1054,
+              0.1529
+            ]
+          ]
+        ],
+        [
+          "Q20(b)",
+          [
+            [
+              0,
+              0.283,
+              0.7958
+            ]
+          ]
+        ],
+        [
+          "Q20(b)(i)",
+          [
+            [
+              0,
+              0.7987,
+              0.9117
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1259,6 +2211,35 @@
         "papers/chemistry/img/11-Kinetics-A2-22.jpg",
         "papers/chemistry/img/11-Kinetics-A2-23.jpg",
         "papers/chemistry/img/11-Kinetics-A2-24.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4786,
+          0.6192
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.1054,
+              0.1529
+            ]
+          ]
+        ],
+        [
+          "Q20(c)",
+          [
+            [
+              1,
+              0.4406,
+              0.472
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1293,6 +2274,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q20-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6249,
+          0.7635
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.1054,
+              0.1529
+            ]
+          ]
+        ],
+        [
+          "Q20(c)",
+          [
+            [
+              1,
+              0.4406,
+              0.472
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1323,6 +2333,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q20-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2032,
+          0.4141
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.1054,
+              0.1529
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1353,6 +2382,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6059,
+          0.8908
+        ]
       ]
     },
     {
@@ -1381,6 +2417,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4853,
+          0.7588
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.1643,
+              0.2403
+            ]
+          ]
+        ],
+        [
+          "Q22(a)",
+          [
+            [
+              0,
+              0.2526,
+              0.4815
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1406,6 +2471,45 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7645,
+          0.7835
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.1643,
+              0.2403
+            ]
+          ]
+        ],
+        [
+          "Q22(a)",
+          [
+            [
+              0,
+              0.2526,
+              0.4815
+            ]
+          ]
+        ],
+        [
+          "Q22(a)(i)",
+          [
+            [
+              0,
+              0.4853,
+              0.7588
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1434,6 +2538,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8699,
+          0.9031
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.1643,
+              0.2403
+            ]
+          ]
+        ],
+        [
+          "Q22(a)",
+          [
+            [
+              0,
+              0.2526,
+              0.4815
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1461,6 +2594,25 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-25.jpg",
         "papers/chemistry/img/11-Kinetics-A2-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.188,
+          0.2289
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.1643,
+              0.2403
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1487,6 +2639,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4568,
+          0.5783
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.7303,
+              0.7493
+            ],
+            [
+              1,
+              0.0522,
+              0.4463
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1513,6 +2689,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5992,
+          0.7208
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.7303,
+              0.7493
+            ],
+            [
+              1,
+              0.0522,
+              0.4463
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1541,6 +2741,18 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-27.jpg",
         "papers/chemistry/img/11-Kinetics-A2-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8756,
+          0.924
+        ],
+        [
+          1,
+          0.0532,
+          0.1624
+        ]
       ]
     },
     {
@@ -1572,6 +2784,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6942,
+          0.9269
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.3124,
+              0.6496
+            ]
+          ]
+        ],
+        [
+          "Q25(a)",
+          [
+            [
+              0,
+              0.6724,
+              0.6914
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1600,6 +2846,50 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1918,
+          0.226
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.3124,
+              0.6496
+            ]
+          ]
+        ],
+        [
+          "Q25(a)",
+          [
+            [
+              0,
+              0.6724,
+              0.6914
+            ]
+          ]
+        ],
+        [
+          "Q25(a)(i)",
+          [
+            [
+              0,
+              0.6942,
+              0.9269
+            ],
+            [
+              1,
+              0.0608,
+              0.1861
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1628,6 +2918,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4691,
+          0.6173
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.3124,
+              0.6496
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1654,6 +2963,25 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-29.jpg",
         "papers/chemistry/img/11-Kinetics-A2-30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1738
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.8139,
+              0.9202
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1682,6 +3010,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1956,
+          0.6382
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.8139,
+              0.9202
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1709,6 +3056,25 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-29.jpg",
         "papers/chemistry/img/11-Kinetics-A2-30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6486,
+          0.8148
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.8139,
+              0.9202
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1738,6 +3104,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3314,
+          0.5318
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.2365,
+              0.321
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1765,6 +3150,25 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-31.jpg",
         "papers/chemistry/img/11-Kinetics-A2-32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5432,
+          0.6524
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.2365,
+              0.321
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1794,6 +3198,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q28.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.3124
+        ]
       ]
     },
     {
@@ -1821,6 +3232,13 @@
         "papers/chemistry/img/11-Kinetics-A2-32.jpg",
         "papers/chemistry/img/11-Kinetics-A2-33.jpg",
         "papers/chemistry/img/11-Kinetics-A2-34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5138,
+          0.6049
+        ]
       ]
     },
     {
@@ -1851,6 +3269,40 @@
         "papers/chemistry/img/11-Kinetics-A2-32.jpg",
         "papers/chemistry/img/11-Kinetics-A2-33.jpg",
         "papers/chemistry/img/11-Kinetics-A2-34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8547,
+          0.9383
+        ],
+        [
+          1,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.7597,
+              0.8224
+            ]
+          ]
+        ],
+        [
+          "Q30(a)",
+          [
+            [
+              0,
+              0.8329,
+              0.8519
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1882,6 +3334,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2802,
+          0.5214
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.7597,
+              0.8224
+            ]
+          ]
+        ],
+        [
+          "Q30(a)",
+          [
+            [
+              0,
+              0.8329,
+              0.8519
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1912,6 +3393,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6857,
+          0.7189
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.7597,
+              0.8224
+            ]
+          ]
+        ],
+        [
+          "Q30(a)",
+          [
+            [
+              0,
+              0.8329,
+              0.8519
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1943,6 +3453,25 @@
         "papers/chemistry/img/11-Kinetics-A2-32.jpg",
         "papers/chemistry/img/11-Kinetics-A2-33.jpg",
         "papers/chemistry/img/11-Kinetics-A2-34.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0826,
+          0.1994
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.7597,
+              0.8224
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1970,6 +3499,13 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-34.jpg",
         "papers/chemistry/img/11-Kinetics-A2-35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7066,
+          0.9478
+        ]
       ]
     },
     {
@@ -1996,6 +3532,13 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-35.jpg",
         "papers/chemistry/img/11-Kinetics-A2-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3808,
+          0.5052
+        ]
       ]
     },
     {
@@ -2023,6 +3566,13 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-35.jpg",
         "papers/chemistry/img/11-Kinetics-A2-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6572,
+          0.7949
+        ]
       ]
     },
     {
@@ -2051,6 +3601,13 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-35.jpg",
         "papers/chemistry/img/11-Kinetics-A2-36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2032
+        ]
       ]
     },
     {
@@ -2077,6 +3634,25 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-36.jpg",
         "papers/chemistry/img/11-Kinetics-A2-37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5413,
+          0.6505
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.4245,
+              0.5309
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2102,6 +3678,25 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-36.jpg",
         "papers/chemistry/img/11-Kinetics-A2-37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6686,
+          0.7749
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.4245,
+              0.5309
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2127,6 +3722,30 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-36.jpg",
         "papers/chemistry/img/11-Kinetics-A2-37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7958,
+          0.8376
+        ],
+        [
+          1,
+          0.0522,
+          0.2412
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.4245,
+              0.5309
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2155,6 +3774,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q35.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2441,
+          0.4938
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.4245,
+              0.5309
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2180,6 +3818,13 @@
       ],
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6971,
+          0.8765
+        ]
       ]
     },
     {
@@ -2208,6 +3853,25 @@
         "papers/chemistry/img/11-Kinetics-A2-39.jpg",
         "papers/chemistry/img/11-Kinetics-A2-40.jpg",
         "papers/chemistry/img/11-Kinetics-A2-41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3837,
+          0.4444
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.1425,
+              0.3732
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2237,6 +3901,25 @@
         "papers/chemistry/img/11-Kinetics-A2-39.jpg",
         "papers/chemistry/img/11-Kinetics-A2-40.jpg",
         "papers/chemistry/img/11-Kinetics-A2-41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4501,
+          0.6942
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.1425,
+              0.3732
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2269,6 +3952,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2659,
+          0.4957
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.1425,
+              0.3732
+            ]
+          ]
+        ],
+        [
+          "Q37(b)",
+          [
+            [
+              0,
+              0.7075,
+              0.7607
+            ],
+            [
+              1,
+              0.0617,
+              0.2621
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2298,6 +4015,50 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5014,
+          0.5204
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.1425,
+              0.3732
+            ]
+          ]
+        ],
+        [
+          "Q37(b)",
+          [
+            [
+              0,
+              0.7075,
+              0.7607
+            ],
+            [
+              1,
+              0.0617,
+              0.2621
+            ]
+          ]
+        ],
+        [
+          "Q37(b)(i)",
+          [
+            [
+              1,
+              0.2659,
+              0.4957
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2326,6 +4087,40 @@
         "papers/chemistry/img/11-Kinetics-A2-39.jpg",
         "papers/chemistry/img/11-Kinetics-A2-40.jpg",
         "papers/chemistry/img/11-Kinetics-A2-41.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5309,
+          0.623
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.1425,
+              0.3732
+            ]
+          ]
+        ],
+        [
+          "Q37(b)",
+          [
+            [
+              0,
+              0.7075,
+              0.7607
+            ],
+            [
+              1,
+              0.0617,
+              0.2621
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2388,6 +4183,50 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7113,
+          0.7578
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.1425,
+              0.3732
+            ]
+          ]
+        ],
+        [
+          "Q37(b)",
+          [
+            [
+              0,
+              0.7075,
+              0.7607
+            ],
+            [
+              1,
+              0.0617,
+              0.2621
+            ]
+          ]
+        ],
+        [
+          "Q37(b)(ii)",
+          [
+            [
+              1,
+              0.5014,
+              0.5204
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2419,6 +4258,45 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q37-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4891,
+          0.5689
+        ],
+        [
+          3,
+          0.0513,
+          0.6353
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.1425,
+              0.3732
+            ]
+          ]
+        ],
+        [
+          "Q37(c)",
+          [
+            [
+              1,
+              0.9288,
+              0.9478
+            ],
+            [
+              2,
+              0.0541,
+              0.4843
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2449,6 +4327,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q37-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.6401,
+          0.6866
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.1425,
+              0.3732
+            ]
+          ]
+        ],
+        [
+          "Q37(c)",
+          [
+            [
+              1,
+              0.9288,
+              0.9478
+            ],
+            [
+              2,
+              0.0541,
+              0.4843
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2479,6 +4391,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q38.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5252,
+          0.5594
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.8414,
+              0.8879
+            ]
+          ]
+        ],
+        [
+          "Q38(a)",
+          [
+            [
+              0,
+              0.8993,
+              0.9183
+            ],
+            [
+              1,
+              0.0513,
+              0.5233
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2509,6 +4455,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q38.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6458,
+          0.7892
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.8414,
+              0.8879
+            ]
+          ]
+        ],
+        [
+          "Q38(a)",
+          [
+            [
+              0,
+              0.8993,
+              0.9183
+            ],
+            [
+              1,
+              0.0513,
+              0.5233
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2539,6 +4519,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q38-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8025,
+          0.8433
+        ],
+        [
+          2,
+          0.0513,
+          0.5233
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.8414,
+              0.8879
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2567,6 +4571,18 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-43.jpg",
         "papers/chemistry/img/11-Kinetics-A2-44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8974,
+          0.9459
+        ],
+        [
+          1,
+          0.0532,
+          0.1453
+        ]
       ]
     },
     {
@@ -2598,6 +4614,25 @@
         "papers/chemistry/img/11-Kinetics-A2-44.jpg",
         "papers/chemistry/img/11-Kinetics-A2-45.jpg",
         "papers/chemistry/img/11-Kinetics-A2-46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3286,
+          0.4872
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.2991,
+              0.3172
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2625,6 +4660,35 @@
         "papers/chemistry/img/11-Kinetics-A2-44.jpg",
         "papers/chemistry/img/11-Kinetics-A2-45.jpg",
         "papers/chemistry/img/11-Kinetics-A2-46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8053,
+          0.8585
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.2991,
+              0.3172
+            ]
+          ]
+        ],
+        [
+          "Q40(b)",
+          [
+            [
+              0,
+              0.5052,
+              0.8015
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2654,6 +4718,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8642,
+          0.8917
+        ],
+        [
+          1,
+          0.1804,
+          0.7132
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.2991,
+              0.3172
+            ]
+          ]
+        ],
+        [
+          "Q40(b)",
+          [
+            [
+              0,
+              0.5052,
+              0.8015
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2682,6 +4780,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q40.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7246,
+          0.8357
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.2991,
+              0.3172
+            ]
+          ]
+        ],
+        [
+          "Q40(b)",
+          [
+            [
+              0,
+              0.5052,
+              0.8015
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2712,6 +4839,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q40-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9307,
+          0.9497
+        ],
+        [
+          2,
+          0.0513,
+          0.4558
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.2991,
+              0.3172
+            ]
+          ]
+        ],
+        [
+          "Q40(c)",
+          [
+            [
+              1,
+              0.849,
+              0.9278
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2742,6 +4903,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q40-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5717,
+          0.8015
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.2991,
+              0.3172
+            ]
+          ]
+        ],
+        [
+          "Q40(c)",
+          [
+            [
+              1,
+              0.849,
+              0.9278
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2770,6 +4960,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q41.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.6857
+        ]
       ]
     },
     {
@@ -2799,6 +4996,18 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-47.jpg",
         "papers/chemistry/img/11-Kinetics-A2-48.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8898,
+          0.9202
+        ],
+        [
+          1,
+          0.0532,
+          0.1472
+        ]
       ]
     },
     {
@@ -2825,6 +5034,13 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-48.jpg",
         "papers/chemistry/img/11-Kinetics-A2-49.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3476,
+          0.5299
+        ]
       ]
     },
     {
@@ -2851,6 +5067,13 @@
       "images": [
         "papers/chemistry/img/11-Kinetics-A2-48.jpg",
         "papers/chemistry/img/11-Kinetics-A2-49.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7312,
+          0.8955
+        ]
       ]
     },
     {
@@ -2878,6 +5101,25 @@
         "papers/chemistry/img/11-Kinetics-A2-49.jpg",
         "papers/chemistry/img/11-Kinetics-A2-50.jpg",
         "papers/chemistry/img/11-Kinetics-A2-51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5907,
+          0.6952
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.1643,
+              0.5802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2905,6 +5147,25 @@
         "papers/chemistry/img/11-Kinetics-A2-49.jpg",
         "papers/chemistry/img/11-Kinetics-A2-50.jpg",
         "papers/chemistry/img/11-Kinetics-A2-51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7009,
+          0.8281
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.1643,
+              0.5802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2934,6 +5195,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8338,
+          0.8528
+        ],
+        [
+          1,
+          0.0617,
+          0.6638
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.1643,
+              0.5802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2965,6 +5250,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q45.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6838,
+          0.8699
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.1643,
+              0.5802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2994,6 +5298,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/11-Kinetics-A2-Q45-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8832,
+          0.9022
+        ],
+        [
+          2,
+          0.0551,
+          0.509
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.1643,
+              0.5802
+            ]
+          ]
+        ]
       ]
     }
   ]

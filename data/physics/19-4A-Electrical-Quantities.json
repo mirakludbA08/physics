@@ -30,6 +30,13 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1719,
+          0.831
+        ]
       ]
     },
     {
@@ -61,6 +68,13 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.0902,
+          0.6144
+        ]
       ]
     },
     {
@@ -88,6 +102,25 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-02.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8063,
+          0.8955
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.7616,
+              0.7949
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -115,6 +148,30 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-02.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9079,
+          0.9278
+        ],
+        [
+          1,
+          0.0532,
+          0.2412
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.7616,
+              0.7949
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -145,6 +202,13 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3846,
+          0.6486
+        ]
       ]
     },
     {
@@ -173,6 +237,30 @@
         "papers/physics/img/19-4A-Electrical-Quantities-03.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-04.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-05.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.302,
+          0.4824
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7844,
+              0.8034
+            ],
+            [
+              1,
+              0.0513,
+              0.2887
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -200,6 +288,40 @@
         "papers/physics/img/19-4A-Electrical-Quantities-03.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-04.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-05.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5147,
+          0.6847
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7844,
+              0.8034
+            ],
+            [
+              1,
+              0.0513,
+              0.2887
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              1,
+              0.4919,
+              0.5109
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -228,6 +350,45 @@
         "papers/physics/img/19-4A-Electrical-Quantities-03.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-04.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-05.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6914,
+          0.9202
+        ],
+        [
+          2,
+          0.0532,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7844,
+              0.8034
+            ],
+            [
+              1,
+              0.0513,
+              0.2887
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              1,
+              0.4919,
+              0.5109
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -257,6 +418,25 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-05.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2602,
+          0.4815
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.2156,
+              0.2498
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -286,6 +466,25 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-05.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4948,
+          0.7749
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.2156,
+              0.2498
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -313,6 +512,13 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-05.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-06.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0855,
+          0.2061
+        ]
       ]
     },
     {
@@ -341,6 +547,13 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3599,
+          0.5366
+        ]
       ]
     },
     {
@@ -367,6 +580,13 @@
       ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7293,
+          0.8215
+        ]
       ]
     },
     {
@@ -396,6 +616,13 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1396,
+          0.5052
+        ]
       ]
     },
     {
@@ -426,6 +653,18 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6676,
+          0.7018
+        ],
+        [
+          1,
+          0.0513,
+          0.4615
+        ]
       ]
     },
     {
@@ -454,6 +693,30 @@
         "papers/physics/img/19-4A-Electrical-Quantities-08.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-09.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4492,
+          0.5973
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.6201,
+              0.6515
+            ],
+            [
+              1,
+              0.0589,
+              0.4245
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -485,6 +748,30 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6106,
+          0.774
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.6201,
+              0.6515
+            ],
+            [
+              1,
+              0.0589,
+              0.4245
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -516,6 +803,45 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8243,
+          0.9364
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.6201,
+              0.6515
+            ],
+            [
+              1,
+              0.0589,
+              0.4245
+            ]
+          ]
+        ],
+        [
+          "Q12(c)",
+          [
+            [
+              1,
+              0.7873,
+              0.8205
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -548,6 +874,40 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q12.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1624,
+          0.4957
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.6201,
+              0.6515
+            ],
+            [
+              1,
+              0.0589,
+              0.4245
+            ]
+          ]
+        ],
+        [
+          "Q12(c)",
+          [
+            [
+              1,
+              0.7873,
+              0.8205
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -576,6 +936,13 @@
       ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6914,
+          0.8319
+        ]
       ]
     },
     {
@@ -604,6 +971,13 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1045,
+          0.4359
+        ]
       ]
     },
     {
@@ -633,6 +1007,13 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6296,
+          0.8908
+        ]
       ]
     },
     {
@@ -660,6 +1041,13 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-12.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1909,
+          0.3799
+        ]
       ]
     },
     {
@@ -688,6 +1076,13 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5878,
+          0.8243
+        ]
       ]
     },
     {
@@ -720,6 +1115,13 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.075,
+          0.8452
+        ]
       ]
     },
     {
@@ -749,6 +1151,13 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1045,
+          0.3485
+        ]
       ]
     },
     {
@@ -779,6 +1188,25 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7426,
+          0.8329
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4853,
+              0.7331
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -811,6 +1239,30 @@
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q20.jpg",
         "papers/physics/fig/19-4A-Electrical-Quantities-Q20-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8462,
+          0.9316
+        ],
+        [
+          1,
+          0.0522,
+          0.2621
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4853,
+              0.7331
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -838,6 +1290,13 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-15.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4558,
+          0.5935
+        ]
       ]
     },
     {
@@ -866,6 +1325,13 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-15.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7949,
+          0.9155
+        ]
       ]
     },
     {
@@ -893,6 +1359,13 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-16.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1861,
+          0.4843
+        ]
       ]
     },
     {
@@ -922,6 +1395,18 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6771,
+          0.6961
+        ],
+        [
+          1,
+          0.0522,
+          0.4008
+        ]
       ]
     },
     {
@@ -951,6 +1436,18 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.604,
+          0.9449
+        ],
+        [
+          1,
+          0.0513,
+          0.0712
+        ]
       ]
     },
     {
@@ -979,6 +1476,13 @@
         "papers/physics/img/19-4A-Electrical-Quantities-18.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-19.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2745,
+          0.3656
+        ]
       ]
     },
     {
@@ -1009,6 +1513,30 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7911,
+          0.8101
+        ],
+        [
+          1,
+          0.0959,
+          0.2184
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.5204,
+              0.7816
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1037,6 +1565,35 @@
         "papers/physics/img/19-4A-Electrical-Quantities-18.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-19.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-20.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5147,
+          0.6999
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.5204,
+              0.7816
+            ]
+          ]
+        ],
+        [
+          "Q27(b)",
+          [
+            [
+              1,
+              0.4777,
+              0.5109
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1068,6 +1625,40 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q27-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7066,
+          0.9202
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.5204,
+              0.7816
+            ]
+          ]
+        ],
+        [
+          "Q27(b)",
+          [
+            [
+              1,
+              0.4777,
+              0.5109
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1095,6 +1686,25 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-20.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3181,
+          0.4701
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.2735,
+              0.3058
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1122,6 +1732,25 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-20.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4796,
+          0.7198
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.2735,
+              0.3058
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1150,6 +1779,30 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-20.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7293,
+          0.9221
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.2735,
+              0.3058
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1180,6 +1833,13 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.265,
+          0.5337
+        ]
       ]
     },
     {
@@ -1208,6 +1868,18 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7379,
+          0.7863
+        ],
+        [
+          1,
+          0.0522,
+          0.2887
+        ]
       ]
     },
     {
@@ -1235,6 +1907,13 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-22.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4748,
+          0.6486
+        ]
       ]
     },
     {
@@ -1262,6 +1941,18 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-22.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8566,
+          0.9335
+        ],
+        [
+          1,
+          0.0513,
+          0.1339
+        ]
       ]
     },
     {
@@ -1289,6 +1980,13 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-23.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3447,
+          0.4653
+        ]
       ]
     },
     {
@@ -1317,6 +2015,18 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6686,
+          0.9392
+        ],
+        [
+          1,
+          0.0513,
+          0.0712
+        ]
       ]
     },
     {
@@ -1344,6 +2054,13 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-24.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2745,
+          0.3656
+        ]
       ]
     },
     {
@@ -1371,6 +2088,13 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-24.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5698,
+          0.6904
+        ]
       ]
     },
     {
@@ -1400,6 +2124,18 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8946,
+          0.9136
+        ],
+        [
+          1,
+          0.0522,
+          0.3856
+        ]
       ]
     },
     {
@@ -1431,6 +2167,30 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7749,
+          0.9231
+        ],
+        [
+          1,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.5385,
+              0.7616
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1462,6 +2222,25 @@
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q38-2.jpg",
         "papers/physics/fig/19-4A-Electrical-Quantities-Q38-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.17,
+          0.6287
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.5385,
+              0.7616
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1494,6 +2273,30 @@
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q39.jpg",
         "papers/physics/fig/19-4A-Electrical-Quantities-Q39-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5223,
+          0.8462
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.773,
+              0.8072
+            ],
+            [
+              1,
+              0.0513,
+              0.5119
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1522,6 +2325,45 @@
         "papers/physics/img/19-4A-Electrical-Quantities-26.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-27.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-28.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8955,
+          0.9155
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.773,
+              0.8072
+            ],
+            [
+              1,
+              0.0513,
+              0.5119
+            ]
+          ]
+        ],
+        [
+          "Q39(b)",
+          [
+            [
+              1,
+              0.8594,
+              0.8936
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1550,6 +2392,40 @@
         "papers/physics/img/19-4A-Electrical-Quantities-26.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-27.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-28.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1624,
+          0.3067
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.773,
+              0.8072
+            ],
+            [
+              1,
+              0.0513,
+              0.5119
+            ]
+          ]
+        ],
+        [
+          "Q39(b)",
+          [
+            [
+              1,
+              0.8594,
+              0.8936
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1581,6 +2457,40 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q39-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3096,
+          0.5242
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.773,
+              0.8072
+            ],
+            [
+              1,
+              0.0513,
+              0.5119
+            ]
+          ]
+        ],
+        [
+          "Q39(b)",
+          [
+            [
+              1,
+              0.8594,
+              0.8936
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1607,6 +2517,13 @@
       ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7208,
+          0.8414
+        ]
       ]
     },
     {
@@ -1635,6 +2552,13 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1538,
+          0.4634
+        ]
       ]
     },
     {
@@ -1665,6 +2589,18 @@
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q42.jpg",
         "papers/physics/fig/19-4A-Electrical-Quantities-Q42-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6676,
+          0.8984
+        ],
+        [
+          1,
+          0.0513,
+          0.2308
+        ]
       ]
     },
     {
@@ -1700,6 +2636,25 @@
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q43.jpg",
         "papers/physics/fig/19-4A-Electrical-Quantities-Q43-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.4349
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.3675,
+              0.9278
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1732,6 +2687,35 @@
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q43.jpg",
         "papers/physics/fig/19-4A-Electrical-Quantities-Q43-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4853,
+          0.6999
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.3675,
+              0.9278
+            ]
+          ]
+        ],
+        [
+          "Q43(b)",
+          [
+            [
+              1,
+              0.4482,
+              0.4824
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1761,6 +2745,40 @@
         "papers/physics/img/19-4A-Electrical-Quantities-30.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-31.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7056,
+          0.9354
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.3675,
+              0.9278
+            ]
+          ]
+        ],
+        [
+          "Q43(b)",
+          [
+            [
+              1,
+              0.4482,
+              0.4824
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1788,6 +2806,13 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-32.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2944,
+          0.4179
+        ]
       ]
     },
     {
@@ -1817,6 +2842,35 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7939,
+          0.9316
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.5698,
+              0.6002
+            ]
+          ]
+        ],
+        [
+          "Q45(a)",
+          [
+            [
+              0,
+              0.6135,
+              0.7844
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1850,6 +2904,35 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q45.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.4501
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.5698,
+              0.6002
+            ]
+          ]
+        ],
+        [
+          "Q45(a)",
+          [
+            [
+              0,
+              0.6135,
+              0.7844
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1877,6 +2960,35 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-32.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4995,
+          0.7151
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.5698,
+              0.6002
+            ]
+          ]
+        ],
+        [
+          "Q45(b)",
+          [
+            [
+              1,
+              0.4634,
+              0.4948
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1903,6 +3015,35 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-32.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7198,
+          0.8946
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.5698,
+              0.6002
+            ]
+          ]
+        ],
+        [
+          "Q45(b)",
+          [
+            [
+              1,
+              0.4634,
+              0.4948
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1930,6 +3071,13 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-34.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1425,
+          0.378
+        ]
       ]
     },
     {
@@ -1958,6 +3106,13 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5907,
+          0.8015
+        ]
       ]
     },
     {
@@ -1986,6 +3141,13 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q48.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1187,
+          0.3561
+        ]
       ]
     },
     {
@@ -2016,6 +3178,30 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q49.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8765,
+          0.9478
+        ],
+        [
+          1,
+          0.0826,
+          0.2991
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.4929,
+              0.8661
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2047,6 +3233,25 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q49.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3096,
+          0.6049
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.4929,
+              0.8661
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2075,6 +3280,18 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q50.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8015,
+          0.8642
+        ],
+        [
+          1,
+          0.0646,
+          0.2127
+        ]
       ]
     },
     {
@@ -2102,6 +3319,13 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-37.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4255,
+          0.5166
+        ]
       ]
     },
     {
@@ -2129,6 +3353,18 @@
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-37.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6714,
+          0.9212
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
       ]
     },
     {
@@ -2160,6 +3396,13 @@
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q53.jpg",
         "papers/physics/fig/19-4A-Electrical-Quantities-Q53-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.245,
+          0.6391
+        ]
       ]
     },
     {
@@ -2191,6 +3434,30 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q54.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3267,
+          0.4748
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.7901,
+              0.8243
+            ],
+            [
+              1,
+              0.0579,
+              0.3162
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2223,6 +3490,40 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q54.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.509,
+          0.7683
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.7901,
+              0.8243
+            ],
+            [
+              1,
+              0.0579,
+              0.3162
+            ]
+          ]
+        ],
+        [
+          "Q54(b)",
+          [
+            [
+              1,
+              0.4881,
+              0.5071
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2254,6 +3555,45 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q54-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7749,
+          0.8082
+        ],
+        [
+          2,
+          0.0513,
+          0.5128
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.7901,
+              0.8243
+            ],
+            [
+              1,
+              0.0579,
+              0.3162
+            ]
+          ]
+        ],
+        [
+          "Q54(b)",
+          [
+            [
+              1,
+              0.4881,
+              0.5071
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2280,6 +3620,13 @@
       ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7085,
+          0.8291
+        ]
       ]
     },
     {
@@ -2307,6 +3654,13 @@
       ],
       "images": [
         "papers/physics/img/19-4A-Electrical-Quantities-41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1709,
+          0.3219
+        ]
       ]
     },
     {
@@ -2336,6 +3690,13 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q57.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5423,
+          0.8338
+        ]
       ]
     },
     {
@@ -2366,6 +3727,13 @@
         "papers/physics/img/19-4A-Electrical-Quantities-43.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-44.jpg",
         "papers/physics/img/19-4A-Electrical-Quantities-45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1709,
+          0.2621
+        ]
       ]
     },
     {
@@ -2396,6 +3764,13 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q59.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4663,
+          0.7066
+        ]
       ]
     },
     {
@@ -2428,6 +3803,30 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q60.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3067,
+          0.5432
+        ]
+      ],
+      "ctx": [
+        [
+          "Q60",
+          [
+            [
+              0,
+              0.8689,
+              0.9022
+            ],
+            [
+              1,
+              0.075,
+              0.2963
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2462,6 +3861,35 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q60-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5565,
+          0.9136
+        ],
+        [
+          2,
+          0.0608,
+          0.3324
+        ]
+      ],
+      "ctx": [
+        [
+          "Q60",
+          [
+            [
+              0,
+              0.8689,
+              0.9022
+            ],
+            [
+              1,
+              0.075,
+              0.2963
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2495,6 +3923,30 @@
       ],
       "figures": [
         "papers/physics/fig/19-4A-Electrical-Quantities-Q60-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3457,
+          0.9231
+        ]
+      ],
+      "ctx": [
+        [
+          "Q60",
+          [
+            [
+              0,
+              0.8689,
+              0.9022
+            ],
+            [
+              1,
+              0.075,
+              0.2963
+            ]
+          ]
+        ]
       ]
     }
   ]

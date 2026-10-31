@@ -32,6 +32,25 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8272,
+          0.9088
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1804,
+              0.8139
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -98,6 +117,45 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q1.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2934,
+          0.9145
+        ],
+        [
+          2,
+          0.0446,
+          0.0522
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1804,
+              0.8139
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.925,
+              0.9592
+            ],
+            [
+              1,
+              0.0446,
+              0.2783
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -124,6 +182,25 @@
       "images": [
         "papers/biology/img/02C-Gene-Expression-03.jpg",
         "papers/biology/img/02C-Gene-Expression-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.245,
+          0.3922
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.1956,
+              0.2289
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -152,6 +229,25 @@
       "images": [
         "papers/biology/img/02C-Gene-Expression-03.jpg",
         "papers/biology/img/02C-Gene-Expression-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4084,
+          0.7512
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.1956,
+              0.2289
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -180,6 +276,30 @@
       "images": [
         "papers/biology/img/02C-Gene-Expression-03.jpg",
         "papers/biology/img/02C-Gene-Expression-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7673,
+          0.9012
+        ],
+        [
+          1,
+          0.0741,
+          0.2783
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.1956,
+              0.2289
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -211,6 +331,30 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2802,
+          0.5423
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.491,
+              0.7056
+            ],
+            [
+              1,
+              0.0446,
+              0.2602
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -242,6 +386,30 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5584,
+          0.8196
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.491,
+              0.7056
+            ],
+            [
+              1,
+              0.0446,
+              0.2602
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -274,6 +442,35 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8357,
+          0.9506
+        ],
+        [
+          2,
+          0.0741,
+          0.246
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.491,
+              0.7056
+            ],
+            [
+              1,
+              0.0446,
+              0.2602
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -303,6 +500,30 @@
         "papers/biology/img/02C-Gene-Expression-04.jpg",
         "papers/biology/img/02C-Gene-Expression-05.jpg",
         "papers/biology/img/02C-Gene-Expression-06.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2612,
+          0.6049
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.491,
+              0.7056
+            ],
+            [
+              1,
+              0.0446,
+              0.2602
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -337,6 +558,35 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.509,
+          0.9506
+        ],
+        [
+          2,
+          0.0741,
+          0.246
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.8158,
+              0.8689
+            ],
+            [
+              1,
+              0.0446,
+              0.4967
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -370,6 +620,40 @@
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q4.jpg",
         "papers/biology/fig/02C-Gene-Expression-Q4-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3884,
+          0.471
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.8158,
+              0.8689
+            ],
+            [
+              1,
+              0.0446,
+              0.4967
+            ]
+          ]
+        ],
+        [
+          "Q4(b)",
+          [
+            [
+              2,
+              0.2612,
+              0.3666
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -405,6 +689,45 @@
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q4.jpg",
         "papers/biology/fig/02C-Gene-Expression-Q4-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4872,
+          0.9449
+        ],
+        [
+          3,
+          0.0741,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.8158,
+              0.8689
+            ],
+            [
+              1,
+              0.0446,
+              0.4967
+            ]
+          ]
+        ],
+        [
+          "Q4(b)",
+          [
+            [
+              2,
+              0.2612,
+              0.3666
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -431,6 +754,25 @@
       "images": [
         "papers/biology/img/02C-Gene-Expression-09.jpg",
         "papers/biology/img/02C-Gene-Expression-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3922,
+          0.5717
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.359,
+              0.3789
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -458,6 +800,25 @@
       "images": [
         "papers/biology/img/02C-Gene-Expression-09.jpg",
         "papers/biology/img/02C-Gene-Expression-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5878,
+          0.8006
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.359,
+              0.3789
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -485,6 +846,30 @@
       "images": [
         "papers/biology/img/02C-Gene-Expression-09.jpg",
         "papers/biology/img/02C-Gene-Expression-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8158,
+          0.9307
+        ],
+        [
+          1,
+          0.0741,
+          0.1804
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.359,
+              0.3789
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -513,6 +898,25 @@
       "images": [
         "papers/biology/img/02C-Gene-Expression-09.jpg",
         "papers/biology/img/02C-Gene-Expression-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1956,
+          0.3466
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.359,
+              0.3789
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -545,6 +949,30 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6201,
+          0.6895
+        ],
+        [
+          1,
+          0.0446,
+          0.359
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.5546,
+              0.6078
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -573,6 +1001,25 @@
       "images": [
         "papers/biology/img/02C-Gene-Expression-10.jpg",
         "papers/biology/img/02C-Gene-Expression-11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4103,
+          0.7863
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.5546,
+              0.6078
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -658,6 +1105,30 @@
         "papers/biology/img/02C-Gene-Expression-12.jpg",
         "papers/biology/img/02C-Gene-Expression-13.jpg",
         "papers/biology/img/02C-Gene-Expression-14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5821,
+          0.7616
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.6363,
+              0.7056
+            ],
+            [
+              1,
+              0.0446,
+              0.5708
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -686,6 +1157,30 @@
         "papers/biology/img/02C-Gene-Expression-12.jpg",
         "papers/biology/img/02C-Gene-Expression-13.jpg",
         "papers/biology/img/02C-Gene-Expression-14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7768,
+          0.8594
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.6363,
+              0.7056
+            ],
+            [
+              1,
+              0.0446,
+              0.5708
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -717,6 +1212,35 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q8.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8756,
+          0.944
+        ],
+        [
+          2,
+          0.0665,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.6363,
+              0.7056
+            ],
+            [
+              1,
+              0.0446,
+              0.5708
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -744,6 +1268,30 @@
         "papers/biology/img/02C-Gene-Expression-12.jpg",
         "papers/biology/img/02C-Gene-Expression-13.jpg",
         "papers/biology/img/02C-Gene-Expression-14.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0978,
+          0.246
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.6363,
+              0.7056
+            ],
+            [
+              1,
+              0.0446,
+              0.5708
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -776,6 +1324,35 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7977,
+          0.9297
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4568,
+              0.4767
+            ]
+          ]
+        ],
+        [
+          "Q9(a)",
+          [
+            [
+              0,
+              0.491,
+              0.7863
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -810,6 +1387,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9449,
+          0.9592
+        ],
+        [
+          1,
+          0.0741,
+          0.7028
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4568,
+              0.4767
+            ]
+          ]
+        ],
+        [
+          "Q9(a)",
+          [
+            [
+              0,
+              0.491,
+              0.7863
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -842,6 +1453,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3001,
+          0.6762
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4568,
+              0.4767
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.7179,
+              0.7512
+            ],
+            [
+              2,
+              0.0446,
+              0.2896
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -872,6 +1517,45 @@
         "papers/biology/img/02C-Gene-Expression-15.jpg",
         "papers/biology/img/02C-Gene-Expression-16.jpg",
         "papers/biology/img/02C-Gene-Expression-17.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6914,
+          0.9373
+        ],
+        [
+          3,
+          0.0741,
+          0.1149
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4568,
+              0.4767
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.7179,
+              0.7512
+            ],
+            [
+              2,
+              0.0446,
+              0.2896
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -902,6 +1586,25 @@
         "papers/biology/img/02C-Gene-Expression-18.jpg",
         "papers/biology/img/02C-Gene-Expression-19.jpg",
         "papers/biology/img/02C-Gene-Expression-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4577,
+          0.8015
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3922,
+              0.4454
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -936,6 +1639,30 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8167,
+          0.8367
+        ],
+        [
+          1,
+          0.0446,
+          0.8481
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3922,
+              0.4454
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -967,6 +1694,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q10-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4834,
+          0.6838
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3922,
+              0.4454
+            ]
+          ]
+        ],
+        [
+          "Q10(c)",
+          [
+            [
+              1,
+              0.8632,
+              0.8993
+            ],
+            [
+              2,
+              0.0446,
+              0.4682
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -999,6 +1760,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q10-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.699,
+          0.9592
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3922,
+              0.4454
+            ]
+          ]
+        ],
+        [
+          "Q10(c)",
+          [
+            [
+              1,
+              0.8632,
+              0.8993
+            ],
+            [
+              2,
+              0.0446,
+              0.4682
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1026,6 +1821,25 @@
         "papers/biology/img/02C-Gene-Expression-21.jpg",
         "papers/biology/img/02C-Gene-Expression-22.jpg",
         "papers/biology/img/02C-Gene-Expression-23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3276,
+          0.5071
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.2612,
+              0.3105
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1054,6 +1868,40 @@
         "papers/biology/img/02C-Gene-Expression-21.jpg",
         "papers/biology/img/02C-Gene-Expression-22.jpg",
         "papers/biology/img/02C-Gene-Expression-23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5394,
+          0.7198
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.2612,
+              0.3105
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              0,
+              0.5223,
+              0.5888
+            ],
+            [
+              1,
+              0.0446,
+              0.528
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1086,6 +1934,45 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.735,
+          0.9487
+        ],
+        [
+          2,
+          0.0741,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.2612,
+              0.3105
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              0,
+              0.5223,
+              0.5888
+            ],
+            [
+              1,
+              0.0446,
+              0.528
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1118,6 +2005,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q11.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1633,
+          0.5071
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.2612,
+              0.3105
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              0,
+              0.5223,
+              0.5888
+            ],
+            [
+              1,
+              0.0446,
+              0.528
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1152,6 +2073,30 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q11-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5223,
+          0.9592
+        ],
+        [
+          3,
+          0.0741,
+          0.5394
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.2612,
+              0.3105
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1178,6 +2123,30 @@
         "papers/biology/img/02C-Gene-Expression-23.jpg",
         "papers/biology/img/02C-Gene-Expression-24.jpg",
         "papers/biology/img/02C-Gene-Expression-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8984,
+          0.9183
+        ],
+        [
+          1,
+          0.0446,
+          0.1491
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.8167,
+              0.886
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1205,6 +2174,25 @@
         "papers/biology/img/02C-Gene-Expression-23.jpg",
         "papers/biology/img/02C-Gene-Expression-24.jpg",
         "papers/biology/img/02C-Gene-Expression-25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1643,
+          0.3808
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.8167,
+              0.886
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1231,6 +2219,35 @@
         "papers/biology/img/02C-Gene-Expression-23.jpg",
         "papers/biology/img/02C-Gene-Expression-24.jpg",
         "papers/biology/img/02C-Gene-Expression-25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4283,
+          0.5594
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.8167,
+              0.886
+            ]
+          ]
+        ],
+        [
+          "Q12(c)",
+          [
+            [
+              1,
+              0.3951,
+              0.4141
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1260,6 +2277,40 @@
         "papers/biology/img/02C-Gene-Expression-23.jpg",
         "papers/biology/img/02C-Gene-Expression-24.jpg",
         "papers/biology/img/02C-Gene-Expression-25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5755,
+          0.9516
+        ],
+        [
+          2,
+          0.0741,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.8167,
+              0.886
+            ]
+          ]
+        ],
+        [
+          "Q12(c)",
+          [
+            [
+              1,
+              0.3951,
+              0.4141
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1291,6 +2342,30 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8167,
+          0.9316
+        ],
+        [
+          1,
+          0.0446,
+          0.5878
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.359,
+              0.8063
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1382,6 +2457,25 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6049,
+          0.8822
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.359,
+              0.8063
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1413,6 +2507,30 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8974,
+          0.9506
+        ],
+        [
+          2,
+          0.0741,
+          0.246
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.359,
+              0.8063
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1444,6 +2562,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7797,
+          0.9592
+        ],
+        [
+          1,
+          0.0741,
+          0.1804
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4568,
+              0.7179
+            ]
+          ]
+        ],
+        [
+          "Q14(a)",
+          [
+            [
+              0,
+              0.7303,
+              0.7673
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1475,6 +2627,35 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1956,
+          0.5394
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4568,
+              0.7179
+            ]
+          ]
+        ],
+        [
+          "Q14(a)",
+          [
+            [
+              0,
+              0.7303,
+              0.7673
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1507,6 +2688,25 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5546,
+          0.7028
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4568,
+              0.7179
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1536,6 +2736,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q14.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2792,
+          0.3609
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4568,
+              0.7179
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.7189,
+              0.8196
+            ],
+            [
+              2,
+              0.0446,
+              0.2631
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1567,6 +2801,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q14.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.377,
+          0.396
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4568,
+              0.7179
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.7189,
+              0.8196
+            ],
+            [
+              2,
+              0.0446,
+              0.2631
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1597,6 +2865,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q14.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4397,
+          0.5556
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4568,
+              0.7179
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.7189,
+              0.8196
+            ],
+            [
+              2,
+              0.0446,
+              0.2631
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1629,6 +2931,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q14.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5708,
+          0.8329
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4568,
+              0.7179
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.7189,
+              0.8196
+            ],
+            [
+              2,
+              0.0446,
+              0.2631
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1655,6 +2991,25 @@
       "images": [
         "papers/biology/img/02C-Gene-Expression-30.jpg",
         "papers/biology/img/02C-Gene-Expression-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1966,
+          0.3818
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.1652,
+              0.1842
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1679,6 +3034,25 @@
       "images": [
         "papers/biology/img/02C-Gene-Expression-30.jpg",
         "papers/biology/img/02C-Gene-Expression-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3951,
+          0.4777
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.1652,
+              0.1842
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1707,6 +3081,25 @@
       "images": [
         "papers/biology/img/02C-Gene-Expression-30.jpg",
         "papers/biology/img/02C-Gene-Expression-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4929,
+          0.8367
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.1652,
+              0.1842
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1734,6 +3127,40 @@
       "images": [
         "papers/biology/img/02C-Gene-Expression-30.jpg",
         "papers/biology/img/02C-Gene-Expression-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.886,
+          0.9373
+        ],
+        [
+          1,
+          0.0446,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.1652,
+              0.1842
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              0,
+              0.8519,
+              0.8718
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1761,6 +3188,35 @@
       "images": [
         "papers/biology/img/02C-Gene-Expression-30.jpg",
         "papers/biology/img/02C-Gene-Expression-31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1643,
+          0.4577
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.1652,
+              0.1842
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              0,
+              0.8519,
+              0.8718
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1790,6 +3246,30 @@
         "papers/biology/img/02C-Gene-Expression-33.jpg",
         "papers/biology/img/02C-Gene-Expression-34.jpg",
         "papers/biology/img/02C-Gene-Expression-35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8006,
+          0.9525
+        ],
+        [
+          1,
+          0.0446,
+          0.0522
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.735,
+              0.7882
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1821,6 +3301,25 @@
         "papers/biology/img/02C-Gene-Expression-33.jpg",
         "papers/biology/img/02C-Gene-Expression-34.jpg",
         "papers/biology/img/02C-Gene-Expression-35.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0655,
+          0.4255
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.735,
+              0.7882
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1852,6 +3351,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4387,
+          0.5869
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.735,
+              0.7882
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.4416,
+              0.641
+            ],
+            [
+              2,
+              0.0712,
+              0.4283
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1886,6 +3419,45 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q16.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6021,
+          0.9592
+        ],
+        [
+          3,
+          0.0741,
+          0.4416
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.735,
+              0.7882
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.4416,
+              0.641
+            ],
+            [
+              2,
+              0.0712,
+              0.4283
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1916,6 +3488,40 @@
         "papers/biology/img/02C-Gene-Expression-33.jpg",
         "papers/biology/img/02C-Gene-Expression-34.jpg",
         "papers/biology/img/02C-Gene-Expression-35.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.4568,
+          0.735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.735,
+              0.7882
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.4416,
+              0.641
+            ],
+            [
+              2,
+              0.0712,
+              0.4283
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1945,6 +3551,30 @@
         "papers/biology/img/02C-Gene-Expression-33.jpg",
         "papers/biology/img/02C-Gene-Expression-34.jpg",
         "papers/biology/img/02C-Gene-Expression-35.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.7512,
+          0.9307
+        ],
+        [
+          4,
+          0.0741,
+          0.1149
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.735,
+              0.7882
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1970,6 +3600,25 @@
       "images": [
         "papers/biology/img/02C-Gene-Expression-35.jpg",
         "papers/biology/img/02C-Gene-Expression-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4255,
+          0.6106
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.3932,
+              0.4122
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1995,6 +3644,25 @@
       "images": [
         "papers/biology/img/02C-Gene-Expression-35.jpg",
         "papers/biology/img/02C-Gene-Expression-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6239,
+          0.7388
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.3932,
+              0.4122
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2025,6 +3693,30 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.754,
+          0.774
+        ],
+        [
+          1,
+          0.0446,
+          0.6857
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.3932,
+              0.4122
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2057,6 +3749,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2583,
+          0.3571
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.8974,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q18(a)",
+          [
+            [
+              0,
+              0.9297,
+              0.9497
+            ],
+            [
+              1,
+              0.0446,
+              0.2469
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2087,6 +3813,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3723,
+          0.4549
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.8974,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q18(a)",
+          [
+            [
+              0,
+              0.9297,
+              0.9497
+            ],
+            [
+              1,
+              0.0446,
+              0.2469
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2117,6 +3877,40 @@
         "papers/biology/img/02C-Gene-Expression-37.jpg",
         "papers/biology/img/02C-Gene-Expression-38.jpg",
         "papers/biology/img/02C-Gene-Expression-39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4701,
+          0.8462
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.8974,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q18(a)",
+          [
+            [
+              0,
+              0.9297,
+              0.9497
+            ],
+            [
+              1,
+              0.0446,
+              0.2469
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2145,6 +3939,30 @@
         "papers/biology/img/02C-Gene-Expression-37.jpg",
         "papers/biology/img/02C-Gene-Expression-38.jpg",
         "papers/biology/img/02C-Gene-Expression-39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8632,
+          0.9449
+        ],
+        [
+          2,
+          0.0665,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.8974,
+              0.9174
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2178,6 +3996,35 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q18-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.622,
+          0.7863
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.8974,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q18(c)",
+          [
+            [
+              2,
+              0.0978,
+              0.6106
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2209,6 +4056,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q18-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8015,
+          0.9335
+        ],
+        [
+          3,
+          0.0741,
+          0.2127
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.8974,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q18(c)",
+          [
+            [
+              2,
+              0.0978,
+              0.6106
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2237,6 +4118,35 @@
         "papers/biology/img/02C-Gene-Expression-37.jpg",
         "papers/biology/img/02C-Gene-Expression-38.jpg",
         "papers/biology/img/02C-Gene-Expression-39.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2289,
+          0.4112
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.8974,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q18(c)",
+          [
+            [
+              2,
+              0.0978,
+              0.6106
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2267,6 +4177,35 @@
         "papers/biology/img/02C-Gene-Expression-37.jpg",
         "papers/biology/img/02C-Gene-Expression-38.jpg",
         "papers/biology/img/02C-Gene-Expression-39.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.4245,
+          0.8167
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.8974,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q18(c)",
+          [
+            [
+              2,
+              0.0978,
+              0.6106
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2295,6 +4234,25 @@
         "papers/biology/img/02C-Gene-Expression-41.jpg",
         "papers/biology/img/02C-Gene-Expression-42.jpg",
         "papers/biology/img/02C-Gene-Expression-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1966,
+          0.377
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.1643,
+              0.1842
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2327,6 +4285,35 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7493,
+          0.8965
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.1643,
+              0.1842
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              0,
+              0.3922,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2357,6 +4344,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9126,
+          0.9326
+        ],
+        [
+          1,
+          0.0665,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.1643,
+              0.1842
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              0,
+              0.3922,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2387,6 +4408,35 @@
         "papers/biology/img/02C-Gene-Expression-41.jpg",
         "papers/biology/img/02C-Gene-Expression-42.jpg",
         "papers/biology/img/02C-Gene-Expression-43.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0978,
+          0.5878
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.1643,
+              0.1842
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              0,
+              0.3922,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2420,6 +4470,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q19-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3941,
+          0.5774
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.1643,
+              0.1842
+            ]
+          ]
+        ],
+        [
+          "Q19(c)",
+          [
+            [
+              1,
+              0.604,
+              0.6895
+            ],
+            [
+              2,
+              0.0446,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2455,6 +4539,45 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q19-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5926,
+          0.9525
+        ],
+        [
+          3,
+          0.0741,
+          0.3105
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.1643,
+              0.1842
+            ]
+          ]
+        ],
+        [
+          "Q19(c)",
+          [
+            [
+              1,
+              0.604,
+              0.6895
+            ],
+            [
+              2,
+              0.0446,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2485,6 +4608,25 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7797,
+          0.8158
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.5223,
+              0.7597
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2511,6 +4653,40 @@
       "images": [
         "papers/biology/img/02C-Gene-Expression-43.jpg",
         "papers/biology/img/02C-Gene-Expression-44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9098,
+          0.9468
+        ],
+        [
+          1,
+          0.0665,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.5223,
+              0.7597
+            ]
+          ]
+        ],
+        [
+          "Q20(b)",
+          [
+            [
+              0,
+              0.8613,
+              0.8974
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2540,6 +4716,35 @@
       "images": [
         "papers/biology/img/02C-Gene-Expression-43.jpg",
         "papers/biology/img/02C-Gene-Expression-44.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0978,
+          0.5556
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.5223,
+              0.7597
+            ]
+          ]
+        ],
+        [
+          "Q20(b)",
+          [
+            [
+              0,
+              0.8613,
+              0.8974
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2571,6 +4776,30 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.245,
+          0.5071
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.7673,
+              0.8689
+            ],
+            [
+              1,
+              0.0446,
+              0.2346
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2603,6 +4832,30 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5223,
+          0.6866
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.7673,
+              0.8689
+            ],
+            [
+              1,
+              0.0446,
+              0.2346
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2636,6 +4889,45 @@
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q21.jpg",
         "papers/biology/fig/02C-Gene-Expression-Q21-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2374,
+          0.5973
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.7673,
+              0.8689
+            ],
+            [
+              1,
+              0.0446,
+              0.2346
+            ]
+          ]
+        ],
+        [
+          "Q21(c)",
+          [
+            [
+              1,
+              0.7018,
+              0.7873
+            ],
+            [
+              2,
+              0.0446,
+              0.226
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2670,6 +4962,50 @@
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q21.jpg",
         "papers/biology/fig/02C-Gene-Expression-Q21-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6125,
+          0.9392
+        ],
+        [
+          3,
+          0.0741,
+          0.3438
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.7673,
+              0.8689
+            ],
+            [
+              1,
+              0.0446,
+              0.2346
+            ]
+          ]
+        ],
+        [
+          "Q21(c)",
+          [
+            [
+              1,
+              0.7018,
+              0.7873
+            ],
+            [
+              2,
+              0.0446,
+              0.226
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2701,6 +5037,30 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2564,
+          0.6002
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.5546,
+              0.7873
+            ],
+            [
+              1,
+              0.0446,
+              0.246
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2730,6 +5090,30 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6154,
+          0.8775
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.5546,
+              0.7873
+            ],
+            [
+              1,
+              0.0446,
+              0.246
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2757,6 +5141,35 @@
         "papers/biology/img/02C-Gene-Expression-47.jpg",
         "papers/biology/img/02C-Gene-Expression-48.jpg",
         "papers/biology/img/02C-Gene-Expression-49.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8927,
+          0.9297
+        ],
+        [
+          2,
+          0.0741,
+          0.2127
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.5546,
+              0.7873
+            ],
+            [
+              1,
+              0.0446,
+              0.246
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2786,6 +5199,25 @@
         "papers/biology/img/02C-Gene-Expression-49.jpg",
         "papers/biology/img/02C-Gene-Expression-50.jpg",
         "papers/biology/img/02C-Gene-Expression-51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4568,
+          0.8006
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.4245,
+              0.4444
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2820,6 +5252,35 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8158,
+          0.9506
+        ],
+        [
+          1,
+          0.0446,
+          0.9421
+        ],
+        [
+          2,
+          0.0741,
+          0.3105
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.4245,
+              0.4444
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2849,6 +5310,13 @@
         "papers/biology/img/02C-Gene-Expression-51.jpg",
         "papers/biology/img/02C-Gene-Expression-52.jpg",
         "papers/biology/img/02C-Gene-Expression-53.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5223,
+          0.8661
+        ]
       ]
     },
     {
@@ -2904,6 +5372,30 @@
         "papers/biology/img/02C-Gene-Expression-51.jpg",
         "papers/biology/img/02C-Gene-Expression-52.jpg",
         "papers/biology/img/02C-Gene-Expression-53.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1956,
+          0.5878
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24(b)",
+          [
+            [
+              0,
+              0.8813,
+              0.9478
+            ],
+            [
+              1,
+              0.0446,
+              0.1804
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2933,6 +5425,30 @@
         "papers/biology/img/02C-Gene-Expression-51.jpg",
         "papers/biology/img/02C-Gene-Expression-52.jpg",
         "papers/biology/img/02C-Gene-Expression-53.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.604,
+          0.9478
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24(b)",
+          [
+            [
+              0,
+              0.8813,
+              0.9478
+            ],
+            [
+              1,
+              0.0446,
+              0.1804
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2965,6 +5481,40 @@
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q25.jpg",
         "papers/biology/fig/02C-Gene-Expression-Q25-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7217,
+          0.9307
+        ],
+        [
+          1,
+          0.0969,
+          0.2165
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.3267,
+              0.396
+            ]
+          ]
+        ],
+        [
+          "Q25(a)",
+          [
+            [
+              0,
+              0.4084,
+              0.7113
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3028,6 +5578,35 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2308,
+          0.415
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.3267,
+              0.396
+            ]
+          ]
+        ],
+        [
+          "Q25(a)",
+          [
+            [
+              0,
+              0.4084,
+              0.7113
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3054,6 +5633,35 @@
         "papers/biology/img/02C-Gene-Expression-53.jpg",
         "papers/biology/img/02C-Gene-Expression-54.jpg",
         "papers/biology/img/02C-Gene-Expression-55.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4625,
+          0.6097
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.3267,
+              0.396
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              1,
+              0.4292,
+              0.4492
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3083,6 +5691,35 @@
         "papers/biology/img/02C-Gene-Expression-53.jpg",
         "papers/biology/img/02C-Gene-Expression-54.jpg",
         "papers/biology/img/02C-Gene-Expression-55.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6249,
+          0.8224
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.3267,
+              0.396
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              1,
+              0.4292,
+              0.4492
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3111,6 +5748,30 @@
         "papers/biology/img/02C-Gene-Expression-53.jpg",
         "papers/biology/img/02C-Gene-Expression-54.jpg",
         "papers/biology/img/02C-Gene-Expression-55.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8699,
+          0.9231
+        ],
+        [
+          2,
+          0.0741,
+          0.2127
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.3267,
+              0.396
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3140,6 +5801,25 @@
         "papers/biology/img/02C-Gene-Expression-55.jpg",
         "papers/biology/img/02C-Gene-Expression-56.jpg",
         "papers/biology/img/02C-Gene-Expression-57.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4729,
+          0.8167
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.4245,
+              0.4606
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3166,6 +5846,35 @@
         "papers/biology/img/02C-Gene-Expression-55.jpg",
         "papers/biology/img/02C-Gene-Expression-56.jpg",
         "papers/biology/img/02C-Gene-Expression-57.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8974,
+          0.9174
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.4245,
+              0.4606
+            ]
+          ]
+        ],
+        [
+          "Q26(b)",
+          [
+            [
+              0,
+              0.8329,
+              0.8851
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3195,6 +5904,35 @@
         "papers/biology/img/02C-Gene-Expression-55.jpg",
         "papers/biology/img/02C-Gene-Expression-56.jpg",
         "papers/biology/img/02C-Gene-Expression-57.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0655,
+          0.4084
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.4245,
+              0.4606
+            ]
+          ]
+        ],
+        [
+          "Q26(b)",
+          [
+            [
+              0,
+              0.8329,
+              0.8851
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3225,6 +5963,30 @@
         "papers/biology/img/02C-Gene-Expression-55.jpg",
         "papers/biology/img/02C-Gene-Expression-56.jpg",
         "papers/biology/img/02C-Gene-Expression-57.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4245,
+          0.9307
+        ],
+        [
+          2,
+          0.0741,
+          0.3105
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.4245,
+              0.4606
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3287,6 +6049,40 @@
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q27.jpg",
         "papers/biology/fig/02C-Gene-Expression-Q27-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.264,
+          0.4796
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.5888,
+              0.6078
+            ]
+          ]
+        ],
+        [
+          "Q27(a)",
+          [
+            [
+              0,
+              0.6211,
+              0.9383
+            ],
+            [
+              1,
+              0.0446,
+              0.2488
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3312,6 +6108,25 @@
         "papers/biology/img/02C-Gene-Expression-57.jpg",
         "papers/biology/img/02C-Gene-Expression-58.jpg",
         "papers/biology/img/02C-Gene-Expression-59.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.491,
+          0.6059
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.5888,
+              0.6078
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3342,6 +6157,30 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q27-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6211,
+          0.641
+        ],
+        [
+          2,
+          0.0446,
+          0.679
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.5888,
+              0.6078
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3371,6 +6210,25 @@
         "papers/biology/img/02C-Gene-Expression-59.jpg",
         "papers/biology/img/02C-Gene-Expression-60.jpg",
         "papers/biology/img/02C-Gene-Expression-61.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.114,
+          0.6049
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              1,
+              0.0446,
+              0.1016
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3398,6 +6256,35 @@
         "papers/biology/img/02C-Gene-Expression-59.jpg",
         "papers/biology/img/02C-Gene-Expression-60.jpg",
         "papers/biology/img/02C-Gene-Expression-61.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7179,
+          0.8167
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              1,
+              0.0446,
+              0.1016
+            ]
+          ]
+        ],
+        [
+          "Q28(b)",
+          [
+            [
+              1,
+              0.6201,
+              0.7056
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3424,6 +6311,40 @@
         "papers/biology/img/02C-Gene-Expression-59.jpg",
         "papers/biology/img/02C-Gene-Expression-60.jpg",
         "papers/biology/img/02C-Gene-Expression-61.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8319,
+          0.9497
+        ],
+        [
+          2,
+          0.0627,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              1,
+              0.0446,
+              0.1016
+            ]
+          ]
+        ],
+        [
+          "Q28(b)",
+          [
+            [
+              1,
+              0.6201,
+              0.7056
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3450,6 +6371,35 @@
         "papers/biology/img/02C-Gene-Expression-59.jpg",
         "papers/biology/img/02C-Gene-Expression-60.jpg",
         "papers/biology/img/02C-Gene-Expression-61.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0978,
+          0.2783
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              1,
+              0.0446,
+              0.1016
+            ]
+          ]
+        ],
+        [
+          "Q28(b)",
+          [
+            [
+              1,
+              0.6201,
+              0.7056
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3479,6 +6429,25 @@
         "papers/biology/img/02C-Gene-Expression-59.jpg",
         "papers/biology/img/02C-Gene-Expression-60.jpg",
         "papers/biology/img/02C-Gene-Expression-61.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2934,
+          0.6866
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              1,
+              0.0446,
+              0.1016
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3513,6 +6482,30 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9307,
+          0.9506
+        ],
+        [
+          1,
+          0.0446,
+          0.2849
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8974,
+              0.9174
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3546,6 +6539,45 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q29-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.3941,
+          0.4957
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8974,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q29(b)",
+          [
+            [
+              1,
+              0.397,
+              0.6619
+            ],
+            [
+              2,
+              0.0484,
+              0.7047
+            ],
+            [
+              3,
+              0.0484,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3579,6 +6611,45 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q29-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.509,
+          0.6078
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8974,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q29(b)",
+          [
+            [
+              1,
+              0.397,
+              0.6619
+            ],
+            [
+              2,
+              0.0484,
+              0.7047
+            ],
+            [
+              3,
+              0.0484,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3613,6 +6684,45 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q29-3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.623,
+          0.754
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8974,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q29(b)",
+          [
+            [
+              1,
+              0.397,
+              0.6619
+            ],
+            [
+              2,
+              0.0484,
+              0.7047
+            ],
+            [
+              3,
+              0.0484,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3651,6 +6761,50 @@
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q29-2.jpg",
         "papers/biology/fig/02C-Gene-Expression-Q29-3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.7702,
+          0.9506
+        ],
+        [
+          4,
+          0.0741,
+          0.5394
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8974,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q29(b)",
+          [
+            [
+              1,
+              0.397,
+              0.6619
+            ],
+            [
+              2,
+              0.0484,
+              0.7047
+            ],
+            [
+              3,
+              0.0484,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3683,6 +6837,50 @@
         "papers/biology/img/02C-Gene-Expression-64.jpg",
         "papers/biology/img/02C-Gene-Expression-65.jpg",
         "papers/biology/img/02C-Gene-Expression-66.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.5546,
+          0.9145
+        ],
+        [
+          5,
+          0.0446,
+          0.0522
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8974,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q29(b)",
+          [
+            [
+              1,
+              0.397,
+              0.6619
+            ],
+            [
+              2,
+              0.0484,
+              0.7047
+            ],
+            [
+              3,
+              0.0484,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3711,6 +6909,35 @@
         "papers/biology/img/02C-Gene-Expression-67.jpg",
         "papers/biology/img/02C-Gene-Expression-68.jpg",
         "papers/biology/img/02C-Gene-Expression-69.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6448,
+          0.8908
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.1956,
+              0.2621
+            ]
+          ]
+        ],
+        [
+          "Q30(a)",
+          [
+            [
+              0,
+              0.2773,
+              0.6011
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3744,6 +6971,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.906,
+          0.9563
+        ],
+        [
+          1,
+          0.0741,
+          0.4416
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.1956,
+              0.2621
+            ]
+          ]
+        ],
+        [
+          "Q30(a)",
+          [
+            [
+              0,
+              0.2773,
+              0.6011
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3775,6 +7036,35 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4568,
+          0.6372
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.1956,
+              0.2621
+            ]
+          ]
+        ],
+        [
+          "Q30(a)",
+          [
+            [
+              0,
+              0.2773,
+              0.6011
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3807,6 +7097,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q30-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5033,
+          0.6211
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.1956,
+              0.2621
+            ]
+          ]
+        ],
+        [
+          "Q30(b)",
+          [
+            [
+              1,
+              0.6524,
+              0.6724
+            ],
+            [
+              2,
+              0.0532,
+              0.4587
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3839,6 +7163,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q30-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6334,
+          0.9449
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.1956,
+              0.2621
+            ]
+          ]
+        ],
+        [
+          "Q30(b)",
+          [
+            [
+              1,
+              0.6524,
+              0.6724
+            ],
+            [
+              2,
+              0.0532,
+              0.4587
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3871,6 +7229,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q30-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.0655,
+          0.3267
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.1956,
+              0.2621
+            ]
+          ]
+        ],
+        [
+          "Q30(b)",
+          [
+            [
+              1,
+              0.6524,
+              0.6724
+            ],
+            [
+              2,
+              0.0532,
+              0.4587
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3899,6 +7291,25 @@
         "papers/biology/img/02C-Gene-Expression-69.jpg",
         "papers/biology/img/02C-Gene-Expression-70.jpg",
         "papers/biology/img/02C-Gene-Expression-71.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6695,
+          0.9145
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.5385,
+              0.6562
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3930,6 +7341,40 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3267,
+          0.5717
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.5385,
+              0.6562
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              0,
+              0.9316,
+              0.9592
+            ],
+            [
+              1,
+              0.0655,
+              0.2811
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3962,6 +7407,45 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5878,
+          0.9307
+        ],
+        [
+          2,
+          0.0741,
+          0.4084
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.5385,
+              0.6562
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              0,
+              0.9316,
+              0.9592
+            ],
+            [
+              1,
+              0.0655,
+              0.2811
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3989,6 +7473,35 @@
         "papers/biology/img/02C-Gene-Expression-71.jpg",
         "papers/biology/img/02C-Gene-Expression-72.jpg",
         "papers/biology/img/02C-Gene-Expression-73.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7198,
+          0.9316
+        ],
+        [
+          1,
+          0.0446,
+          0.9411
+        ],
+        [
+          2,
+          0.0741,
+          0.8072
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.6866,
+              0.7066
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4139,6 +7652,25 @@
         "papers/biology/img/02C-Gene-Expression-74.jpg",
         "papers/biology/img/02C-Gene-Expression-75.jpg",
         "papers/biology/img/02C-Gene-Expression-76.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2612,
+          0.8329
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.0978,
+              0.2488
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4168,6 +7700,30 @@
         "papers/biology/img/02C-Gene-Expression-74.jpg",
         "papers/biology/img/02C-Gene-Expression-75.jpg",
         "papers/biology/img/02C-Gene-Expression-76.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.849,
+          0.9592
+        ],
+        [
+          1,
+          0.0655,
+          0.15
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.0978,
+              0.2488
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4202,6 +7758,30 @@
       ],
       "figures": [
         "papers/biology/fig/02C-Gene-Expression-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1643,
+          0.9468
+        ],
+        [
+          2,
+          0.0741,
+          0.4739
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.0978,
+              0.2488
+            ]
+          ]
+        ]
       ]
     }
   ]

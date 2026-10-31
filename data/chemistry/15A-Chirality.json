@@ -33,6 +33,13 @@
       "images": [
         "papers/chemistry/img/15A-Chirality-1.jpg",
         "papers/chemistry/img/15A-Chirality-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1225,
+          0.2165
+        ]
       ]
     },
     {
@@ -65,6 +72,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/15A-Chirality-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4179,
+          0.7208
+        ]
       ]
     },
     {
@@ -96,6 +110,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/15A-Chirality-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.377
+        ]
       ]
     },
     {
@@ -126,6 +147,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/15A-Chirality-Q4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5774,
+          0.8262
+        ]
       ]
     },
     {
@@ -157,6 +185,13 @@
       "images": [
         "papers/chemistry/img/15A-Chirality-3.jpg",
         "papers/chemistry/img/15A-Chirality-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1538,
+          0.4008
+        ]
       ]
     },
     {
@@ -188,6 +223,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/15A-Chirality-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6258,
+          0.9174
+        ]
       ]
     },
     {
@@ -219,6 +261,13 @@
       "images": [
         "papers/chemistry/img/15A-Chirality-4.jpg",
         "papers/chemistry/img/15A-Chirality-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2526,
+          0.359
+        ]
       ]
     },
     {
@@ -251,6 +300,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/15A-Chirality-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5138,
+          0.5328
+        ],
+        [
+          1,
+          0.0513,
+          0.5489
+        ]
       ]
     },
     {
@@ -282,6 +343,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/15A-Chirality-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7341,
+          0.9421
+        ],
+        [
+          1,
+          0.0513,
+          0.1216
+        ]
       ]
     },
     {
@@ -313,6 +386,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/15A-Chirality-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2764,
+          0.9307
+        ]
       ]
     },
     {
@@ -347,6 +427,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/15A-Chirality-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2526,
+          0.4615
+        ]
       ]
     },
     {
@@ -377,6 +464,35 @@
         "papers/chemistry/img/15A-Chirality-7.jpg",
         "papers/chemistry/img/15A-Chirality-8.jpg",
         "papers/chemistry/img/15A-Chirality-9.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1643
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.6163,
+              0.6353
+            ]
+          ]
+        ],
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.6458,
+              0.943
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -410,6 +526,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15A-Chirality-Q12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1709,
+          0.2013
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.6163,
+              0.6353
+            ]
+          ]
+        ],
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.6458,
+              0.943
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -441,6 +586,35 @@
         "papers/chemistry/img/15A-Chirality-7.jpg",
         "papers/chemistry/img/15A-Chirality-8.jpg",
         "papers/chemistry/img/15A-Chirality-9.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3656,
+          0.6097
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.6163,
+              0.6353
+            ]
+          ]
+        ],
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.6458,
+              0.943
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -474,6 +648,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/15A-Chirality-Q12-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.623,
+          0.6781
+        ],
+        [
+          2,
+          0.0522,
+          0.641
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.6163,
+              0.6353
+            ]
+          ]
+        ]
       ]
     }
   ]

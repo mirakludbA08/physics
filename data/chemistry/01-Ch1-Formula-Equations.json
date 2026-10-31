@@ -30,6 +30,25 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-01.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2108,
+          0.2526
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.2013
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -61,6 +80,25 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-01.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3447,
+          0.4444
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.2013
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -91,6 +129,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9202,
+          0.9392
+        ],
+        [
+          1,
+          0.0532,
+          0.0988
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.2013
+            ]
+          ]
+        ],
+        [
+          "Q1(c)",
+          [
+            [
+              0,
+              0.8452,
+              0.925
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -119,6 +191,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q1.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3685,
+          0.4217
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.2013
+            ]
+          ]
+        ],
+        [
+          "Q1(c)",
+          [
+            [
+              0,
+              0.8452,
+              0.925
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -146,6 +247,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-02.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5679,
+          0.7037
+        ]
       ]
     },
     {
@@ -175,6 +283,18 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-02.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8585,
+          0.9364
+        ],
+        [
+          1,
+          0.0665,
+          0.1368
+        ]
       ]
     },
     {
@@ -205,6 +325,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.321,
+          0.3875
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.2915,
+              0.3105
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -238,6 +377,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q4-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2934,
+          0.8832
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.2915,
+              0.3105
+            ]
+          ]
+        ],
+        [
+          "Q4(b)",
+          [
+            [
+              0,
+              0.397,
+              0.7208
+            ],
+            [
+              1,
+              0.0617,
+              0.2773
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -271,6 +444,45 @@
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q4-4.jpg",
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q4-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.886,
+          0.905
+        ],
+        [
+          2,
+          0.0513,
+          0.3181
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.2915,
+              0.3105
+            ]
+          ]
+        ],
+        [
+          "Q4(b)",
+          [
+            [
+              0,
+              0.397,
+              0.7208
+            ],
+            [
+              1,
+              0.0617,
+              0.2773
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -303,6 +515,55 @@
       ],
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q4-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3238,
+          0.377
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.2915,
+              0.3105
+            ]
+          ]
+        ],
+        [
+          "Q4(b)",
+          [
+            [
+              0,
+              0.397,
+              0.7208
+            ],
+            [
+              1,
+              0.0617,
+              0.2773
+            ]
+          ]
+        ],
+        [
+          "Q4(b)(ii)",
+          [
+            [
+              1,
+              0.886,
+              0.905
+            ],
+            [
+              2,
+              0.0513,
+              0.3181
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -334,6 +595,65 @@
         "papers/chemistry/img/01-Ch1-Formula-Equations-04.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-05.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-06.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3837,
+          0.4321
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.2915,
+              0.3105
+            ]
+          ]
+        ],
+        [
+          "Q4(b)",
+          [
+            [
+              0,
+              0.397,
+              0.7208
+            ],
+            [
+              1,
+              0.0617,
+              0.2773
+            ]
+          ]
+        ],
+        [
+          "Q4(b)(ii)",
+          [
+            [
+              1,
+              0.886,
+              0.905
+            ],
+            [
+              2,
+              0.0513,
+              0.3181
+            ]
+          ]
+        ],
+        [
+          "Q4(b)(iii)",
+          [
+            [
+              2,
+              0.3238,
+              0.377
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -364,6 +684,40 @@
         "papers/chemistry/img/01-Ch1-Formula-Equations-04.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-05.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-06.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.0826,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.2915,
+              0.3105
+            ]
+          ]
+        ],
+        [
+          "Q4(b)",
+          [
+            [
+              0,
+              0.397,
+              0.7208
+            ],
+            [
+              1,
+              0.0617,
+              0.2773
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -397,6 +751,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q4-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.5575,
+          0.8091
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.2915,
+              0.3105
+            ]
+          ]
+        ],
+        [
+          "Q4(b)(iv)",
+          [
+            [
+              2,
+              0.3837,
+              0.4321
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -423,6 +806,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-06.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-07.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.075,
+          0.2108
+        ]
       ]
     },
     {
@@ -450,6 +840,13 @@
       ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3656,
+          0.5594
+        ]
       ]
     },
     {
@@ -475,6 +872,13 @@
       ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7142,
+          0.85
+        ]
       ]
     },
     {
@@ -503,6 +907,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-08.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.169,
+          0.32
+        ]
       ]
     },
     {
@@ -529,6 +940,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-08.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4739,
+          0.6534
+        ]
       ]
     },
     {
@@ -558,6 +976,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8575,
+          0.9364
+        ],
+        [
+          1,
+          0.0513,
+          0.1216
+        ]
       ]
     },
     {
@@ -584,6 +1014,13 @@
       ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3257,
+          0.4919
+        ]
       ]
     },
     {
@@ -609,6 +1046,13 @@
       ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6942,
+          0.8462
+        ]
       ]
     },
     {
@@ -637,6 +1081,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-10.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.169,
+          0.3115
+        ]
       ]
     },
     {
@@ -664,6 +1115,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-10.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5214,
+          0.7151
+        ]
       ]
     },
     {
@@ -689,6 +1147,18 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-10.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9183,
+          0.9354
+        ],
+        [
+          1,
+          0.0513,
+          0.1652
+        ]
       ]
     },
     {
@@ -714,6 +1184,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-11.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3761,
+          0.4967
+        ]
       ]
     },
     {
@@ -743,6 +1220,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-11.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6847,
+          0.7778
+        ]
       ]
     },
     {
@@ -769,6 +1253,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-11.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1007,
+          0.2517
+        ]
       ]
     },
     {
@@ -794,6 +1285,25 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-12.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4853,
+          0.5916
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.4558,
+              0.4748
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -821,6 +1331,25 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-12.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6125,
+          0.7635
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.4558,
+              0.4748
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -848,6 +1377,25 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-12.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1576,
+          0.265
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              1,
+              0.0845,
+              0.1481
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -875,6 +1423,25 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-12.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2849,
+          0.4074
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              1,
+              0.0845,
+              0.1481
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -904,6 +1471,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q20.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4283,
+          0.6011
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              1,
+              0.0845,
+              0.1481
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -931,6 +1517,25 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-12.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.603,
+          0.7844
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              1,
+              0.0845,
+              0.1481
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -959,6 +1564,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-13.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1007,
+          0.246
+        ]
       ]
     },
     {
@@ -985,6 +1597,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-14.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4539,
+          0.6049
+        ]
       ]
     },
     {
@@ -1013,6 +1632,18 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-14.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8072,
+          0.943
+        ],
+        [
+          1,
+          0.0513,
+          0.0741
+        ]
       ]
     },
     {
@@ -1044,6 +1675,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2735,
+          0.925
+        ]
       ]
     },
     {
@@ -1071,6 +1709,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-16.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3875,
+          0.4805
+        ]
       ]
     },
     {
@@ -1096,6 +1741,25 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-16.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7464,
+          0.7654
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26(a)",
+          [
+            [
+              0,
+              0.6334,
+              0.7502
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1121,6 +1785,25 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-16.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8509,
+          0.8822
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26(a)",
+          [
+            [
+              0,
+              0.6334,
+              0.7502
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1149,6 +1832,45 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-16.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-17.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0978,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26(a)",
+          [
+            [
+              0,
+              0.6334,
+              0.7502
+            ]
+          ]
+        ],
+        [
+          "Q26(a)(i)",
+          [
+            [
+              0,
+              0.7464,
+              0.7654
+            ]
+          ]
+        ],
+        [
+          "Q26(a)(ii)",
+          [
+            [
+              0,
+              0.8509,
+              0.8822
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1176,6 +1898,30 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-16.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-17.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3153,
+          0.4017
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26(a)",
+          [
+            [
+              0,
+              0.6334,
+              0.8822
+            ],
+            [
+              1,
+              0.0978,
+              0.1472
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1202,6 +1948,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-17.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1007,
+          0.2915
+        ]
       ]
     },
     {
@@ -1228,6 +1981,13 @@
         "papers/chemistry/img/01-Ch1-Formula-Equations-18.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-19.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6524,
+          0.773
+        ]
       ]
     },
     {
@@ -1257,6 +2017,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3495,
+          0.6714
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.9269,
+              0.9459
+            ],
+            [
+              1,
+              0.0532,
+              0.0703
+            ]
+          ]
+        ],
+        [
+          "Q29(a)",
+          [
+            [
+              1,
+              0.0817,
+              0.3533
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1288,6 +2082,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6752,
+          0.7236
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.9269,
+              0.9459
+            ],
+            [
+              1,
+              0.0532,
+              0.0703
+            ]
+          ]
+        ],
+        [
+          "Q29(a)",
+          [
+            [
+              1,
+              0.0817,
+              0.3533
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1320,6 +2148,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q29-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0826,
+          0.32
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.9269,
+              0.9459
+            ],
+            [
+              1,
+              0.0532,
+              0.0703
+            ]
+          ]
+        ],
+        [
+          "Q29(a)(ii)",
+          [
+            [
+              1,
+              0.6752,
+              0.7236
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1345,6 +2207,13 @@
       ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5328,
+          0.7113
+        ]
       ]
     },
     {
@@ -1397,6 +2266,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-21.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4682,
+          0.6762
+        ]
       ]
     },
     {
@@ -1424,6 +2300,18 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-21.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8803,
+          0.943
+        ],
+        [
+          1,
+          0.0665,
+          0.1368
+        ]
       ]
     },
     {
@@ -1452,6 +2340,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3409,
+          0.6467
+        ]
       ]
     },
     {
@@ -1479,6 +2374,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-23.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1396,
+          0.3666
+        ]
       ]
     },
     {
@@ -1504,6 +2406,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-23.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.567,
+          0.7721
+        ]
       ]
     },
     {
@@ -1530,6 +2439,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-24.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2346,
+          0.3884
+        ]
       ]
     },
     {
@@ -1559,6 +2475,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7227,
+          0.9345
+        ]
       ]
     },
     {
@@ -1584,6 +2507,25 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-25.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2944,
+          0.4008
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.2355,
+              0.284
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1609,6 +2551,25 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-25.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4217,
+          0.528
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.2355,
+              0.284
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1634,6 +2595,25 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-25.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7607,
+          0.8822
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.7322,
+              0.7512
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1658,6 +2638,30 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-25.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9031,
+          0.9449
+        ],
+        [
+          1,
+          0.0665,
+          0.1368
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.7322,
+              0.7512
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1684,6 +2688,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-26.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.34,
+          0.4615
+        ]
       ]
     },
     {
@@ -1710,6 +2721,18 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-26.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8443,
+          0.943
+        ],
+        [
+          1,
+          0.0513,
+          0.1064
+        ]
       ]
     },
     {
@@ -1737,6 +2760,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3381,
+          0.4919
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.3086,
+              0.3257
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1764,6 +2806,25 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-27.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4976,
+          0.6657
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.3086,
+              0.3257
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1791,6 +2852,18 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-27.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8661,
+          0.944
+        ],
+        [
+          1,
+          0.0513,
+          0.1235
+        ]
       ]
     },
     {
@@ -1816,6 +2889,13 @@
       ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3257,
+          0.4767
+        ]
       ]
     },
     {
@@ -1842,6 +2922,13 @@
       ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6781,
+          0.8148
+        ]
       ]
     },
     {
@@ -1867,6 +2954,13 @@
       ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1396,
+          0.2745
+        ]
       ]
     },
     {
@@ -1892,6 +2986,13 @@
       ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4292,
+          0.5679
+        ]
       ]
     },
     {
@@ -1917,6 +3018,13 @@
       ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7198,
+          0.8566
+        ]
       ]
     },
     {
@@ -1942,6 +3050,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-30.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1197,
+          0.2555
+        ]
       ]
     },
     {
@@ -1968,6 +3083,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-30.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4093,
+          0.5318
+        ]
       ]
     },
     {
@@ -1996,6 +3118,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-30.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7521,
+          0.9468
+        ]
       ]
     },
     {
@@ -2023,6 +3152,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-31.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2507,
+          0.4008
+        ]
       ]
     },
     {
@@ -2049,6 +3185,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-31.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.604,
+          0.698
+        ]
       ]
     },
     {
@@ -2075,6 +3218,18 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-31.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8984,
+          0.9326
+        ],
+        [
+          1,
+          0.0532,
+          0.1443
+        ]
       ]
     },
     {
@@ -2101,6 +3256,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-32.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3647,
+          0.5764
+        ]
       ]
     },
     {
@@ -2127,6 +3289,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-32.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7939,
+          0.944
+        ]
       ]
     },
     {
@@ -2158,6 +3327,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q58.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8557,
+          0.9354
+        ],
+        [
+          1,
+          0.0541,
+          0.6866
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.2013,
+              0.831
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2188,6 +3381,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q58.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6895,
+          0.7578
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.2013,
+              0.831
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2215,6 +3427,35 @@
         "papers/chemistry/img/01-Ch1-Formula-Equations-33.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-34.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-35.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7635,
+          0.8177
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.2013,
+              0.831
+            ]
+          ]
+        ],
+        [
+          "Q58(a)(ii)",
+          [
+            [
+              1,
+              0.6895,
+              0.7578
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2242,6 +3483,25 @@
         "papers/chemistry/img/01-Ch1-Formula-Equations-33.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-34.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-35.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.113,
+          0.1662
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.2013,
+              0.831
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2270,6 +3530,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-35.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5204,
+          0.6144
+        ]
       ]
     },
     {
@@ -2295,6 +3562,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-35.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8158,
+          0.9098
+        ]
       ]
     },
     {
@@ -2322,6 +3596,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-36.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2308,
+          0.3827
+        ]
       ]
     },
     {
@@ -2347,6 +3628,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-36.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6011,
+          0.7217
+        ]
       ]
     },
     {
@@ -2372,6 +3660,18 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-36.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9259,
+          0.9449
+        ],
+        [
+          1,
+          0.0532,
+          0.1453
+        ]
       ]
     },
     {
@@ -2395,6 +3695,13 @@
       ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3476,
+          0.4682
+        ]
       ]
     },
     {
@@ -2420,6 +3727,13 @@
       ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6724,
+          0.8224
+        ]
       ]
     },
     {
@@ -2447,6 +3761,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-38.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1387,
+          0.321
+        ]
       ]
     },
     {
@@ -2475,6 +3796,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-38.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5394,
+          0.7331
+        ]
       ]
     },
     {
@@ -2500,6 +3828,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-38.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1766
+        ]
       ]
     },
     {
@@ -2528,6 +3863,25 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-39.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3865,
+          0.4055
+        ]
+      ],
+      "ctx": [
+        [
+          "Q69",
+          [
+            [
+              0,
+              0.3276,
+              0.3761
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2555,6 +3909,35 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-39.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5812,
+          0.6562
+        ]
+      ],
+      "ctx": [
+        [
+          "Q69",
+          [
+            [
+              0,
+              0.3276,
+              0.3761
+            ]
+          ]
+        ],
+        [
+          "Q69(a)",
+          [
+            [
+              0,
+              0.3865,
+              0.4055
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2581,6 +3964,18 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-39.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8519,
+          0.9402
+        ],
+        [
+          1,
+          0.0513,
+          0.1083
+        ]
       ]
     },
     {
@@ -2609,6 +4004,13 @@
         "papers/chemistry/img/01-Ch1-Formula-Equations-40.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-41.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3077,
+          0.4615
+        ]
       ]
     },
     {
@@ -2634,6 +4036,25 @@
         "papers/chemistry/img/01-Ch1-Formula-Equations-40.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-41.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.716,
+          0.7768
+        ]
+      ],
+      "ctx": [
+        [
+          "Q72",
+          [
+            [
+              0,
+              0.6135,
+              0.7056
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2661,6 +4082,25 @@
         "papers/chemistry/img/01-Ch1-Formula-Equations-40.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-41.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7825,
+          0.8651
+        ]
+      ],
+      "ctx": [
+        [
+          "Q72",
+          [
+            [
+              0,
+              0.6135,
+              0.7056
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2689,6 +4129,25 @@
         "papers/chemistry/img/01-Ch1-Formula-Equations-40.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-41.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8784,
+          0.9316
+        ]
+      ],
+      "ctx": [
+        [
+          "Q72",
+          [
+            [
+              0,
+              0.6135,
+              0.7056
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2717,6 +4176,25 @@
         "papers/chemistry/img/01-Ch1-Formula-Equations-40.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-41.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-42.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2773,
+          0.3276
+        ]
+      ],
+      "ctx": [
+        [
+          "Q72",
+          [
+            [
+              0,
+              0.6135,
+              0.7056
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2747,6 +4225,35 @@
         "papers/chemistry/img/01-Ch1-Formula-Equations-40.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-41.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-42.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4872,
+          0.5527
+        ]
+      ],
+      "ctx": [
+        [
+          "Q72",
+          [
+            [
+              0,
+              0.6135,
+              0.7056
+            ]
+          ]
+        ],
+        [
+          "Q72(b)(ii)",
+          [
+            [
+              1,
+              0.2773,
+              0.3276
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2775,6 +4282,25 @@
         "papers/chemistry/img/01-Ch1-Formula-Equations-40.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-41.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-42.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7958,
+          0.8148
+        ]
+      ],
+      "ctx": [
+        [
+          "Q72",
+          [
+            [
+              0,
+              0.6135,
+              0.7056
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2801,6 +4327,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-42.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2811,
+          0.4017
+        ]
       ]
     },
     {
@@ -2826,6 +4359,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-42.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6049,
+          0.7284
+        ]
       ]
     },
     {
@@ -2852,6 +4392,18 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-42.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9297,
+          0.9487
+        ],
+        [
+          1,
+          0.0522,
+          0.1443
+        ]
       ]
     },
     {
@@ -2877,6 +4429,13 @@
       ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3466,
+          0.4539
+        ]
       ]
     },
     {
@@ -2904,6 +4463,13 @@
       ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6581,
+          0.7939
+        ]
       ]
     },
     {
@@ -2954,6 +4520,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-44.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4995,
+          0.5916
+        ]
       ]
     },
     {
@@ -2979,6 +4552,18 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-44.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7949,
+          0.943
+        ],
+        [
+          1,
+          0.0513,
+          0.0712
+        ]
       ]
     },
     {
@@ -3006,6 +4591,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-45.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2735,
+          0.3951
+        ]
       ]
     },
     {
@@ -3031,6 +4623,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-45.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5983,
+          0.7198
+        ]
       ]
     },
     {
@@ -3058,6 +4657,18 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-45.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.924,
+          0.943
+        ],
+        [
+          1,
+          0.0513,
+          0.1244
+        ]
       ]
     },
     {
@@ -3085,6 +4696,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q84.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3257,
+          0.4976
+        ]
       ]
     },
     {
@@ -3111,6 +4729,13 @@
       ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6971,
+          0.8632
+        ]
       ]
     },
     {
@@ -3138,6 +4763,13 @@
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-47.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-48.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.169,
+          0.3058
+        ]
       ]
     },
     {
@@ -3166,6 +4798,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q87.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.509,
+          0.6524
+        ]
       ]
     },
     {
@@ -3193,6 +4832,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/01-Ch1-Formula-Equations-Q88.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8414,
+          0.8604
+        ],
+        [
+          1,
+          0.0522,
+          0.1728
+        ]
       ]
     },
     {
@@ -3220,6 +4871,13 @@
       ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-48.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3599,
+          0.4549
+        ]
       ]
     }
   ]

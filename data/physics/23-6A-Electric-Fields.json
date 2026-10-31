@@ -33,6 +33,13 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1719,
+          0.5109
+        ]
       ]
     },
     {
@@ -62,6 +69,18 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7047,
+          0.8908
+        ],
+        [
+          1,
+          0.0522,
+          0.3039
+        ]
       ]
     },
     {
@@ -92,6 +111,13 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5147,
+          0.793
+        ]
       ]
     },
     {
@@ -124,6 +150,13 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.3827
+        ]
       ]
     },
     {
@@ -153,6 +186,13 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5423,
+          0.8272
+        ]
       ]
     },
     {
@@ -182,6 +222,13 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1054,
+          0.6211
+        ]
       ]
     },
     {
@@ -212,6 +259,18 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7645,
+          0.9468
+        ],
+        [
+          1,
+          0.0513,
+          0.0712
+        ]
       ]
     },
     {
@@ -240,6 +299,25 @@
       "images": [
         "papers/physics/img/23-6A-Electric-Fields-05.jpg",
         "papers/physics/img/23-6A-Electric-Fields-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3504,
+          0.4691
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.2327,
+              0.34
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -270,6 +348,25 @@
       "images": [
         "papers/physics/img/23-6A-Electric-Fields-05.jpg",
         "papers/physics/img/23-6A-Electric-Fields-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4824,
+          0.8803
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.2327,
+              0.34
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -298,6 +395,30 @@
       "images": [
         "papers/physics/img/23-6A-Electric-Fields-05.jpg",
         "papers/physics/img/23-6A-Electric-Fields-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8936,
+          0.9354
+        ],
+        [
+          1,
+          0.0532,
+          0.4027
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.2327,
+              0.34
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -331,6 +452,30 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q9a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6201,
+          0.9297
+        ],
+        [
+          1,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5461,
+              0.6097
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -362,6 +507,40 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q9b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2868,
+          0.7835
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5461,
+              0.6097
+            ]
+          ]
+        ],
+        [
+          "Q9(a)",
+          [
+            [
+              0,
+              0.6201,
+              0.9297
+            ],
+            [
+              1,
+              0.0608,
+              0.2735
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -393,6 +572,40 @@
         "papers/physics/img/23-6A-Electric-Fields-08.jpg",
         "papers/physics/img/23-6A-Electric-Fields-09.jpg",
         "papers/physics/img/23-6A-Electric-Fields-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2251,
+          0.4577
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.9297,
+              0.9487
+            ],
+            [
+              1,
+              0.0532,
+              0.1159
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              1,
+              0.1263,
+              0.2317
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -423,6 +636,40 @@
         "papers/physics/img/23-6A-Electric-Fields-08.jpg",
         "papers/physics/img/23-6A-Electric-Fields-09.jpg",
         "papers/physics/img/23-6A-Electric-Fields-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4625,
+          0.679
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.9297,
+              0.9487
+            ],
+            [
+              1,
+              0.0532,
+              0.1159
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              1,
+              0.1263,
+              0.2317
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -457,6 +704,45 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q10a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6847,
+          0.9316
+        ],
+        [
+          2,
+          0.0532,
+          0.3428
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.9297,
+              0.9487
+            ],
+            [
+              1,
+              0.0532,
+              0.1159
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              1,
+              0.1263,
+              0.2317
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -490,6 +776,35 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q10b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3533,
+          0.925
+        ],
+        [
+          3,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.9297,
+              0.9487
+            ],
+            [
+              1,
+              0.0532,
+              0.1159
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -522,6 +837,30 @@
         "papers/physics/img/23-6A-Electric-Fields-08.jpg",
         "papers/physics/img/23-6A-Electric-Fields-09.jpg",
         "papers/physics/img/23-6A-Electric-Fields-10.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1985,
+          0.3922
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.9297,
+              0.9487
+            ],
+            [
+              1,
+              0.0532,
+              0.1159
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -551,6 +890,13 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5888,
+          0.8281
+        ]
       ]
     },
     {
@@ -582,6 +928,13 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1054,
+          0.5366
+        ]
       ]
     },
     {
@@ -611,6 +964,18 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6743,
+          0.7217
+        ],
+        [
+          1,
+          0.0513,
+          0.4862
+        ]
       ]
     },
     {
@@ -638,6 +1003,25 @@
       "images": [
         "papers/physics/img/23-6A-Electric-Fields-12.jpg",
         "papers/physics/img/23-6A-Electric-Fields-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6724,
+          0.8917
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.6277,
+              0.6619
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -670,6 +1054,30 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9041,
+          0.924
+        ],
+        [
+          1,
+          0.0513,
+          0.4929
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.6277,
+              0.6619
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -701,6 +1109,18 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6885,
+          0.943
+        ],
+        [
+          1,
+          0.0513,
+          0.1054
+        ]
       ]
     },
     {
@@ -731,6 +1151,13 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2593,
+          0.4862
+        ]
       ]
     },
     {
@@ -760,6 +1187,18 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.831,
+          0.85
+        ],
+        [
+          1,
+          0.056,
+          0.4777
+        ]
       ]
     },
     {
@@ -790,6 +1229,13 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6809,
+          0.7455
+        ]
       ]
     },
     {
@@ -822,6 +1268,13 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4511,
+          0.773
+        ]
       ]
     },
     {
@@ -851,6 +1304,13 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q20.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0855,
+          0.5527
+        ]
       ]
     },
     {
@@ -882,6 +1342,30 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q21a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3865,
+          0.623
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.7075,
+              0.7711
+            ],
+            [
+              1,
+              0.0712,
+              0.3761
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -912,6 +1396,35 @@
         "papers/physics/img/23-6A-Electric-Fields-18.jpg",
         "papers/physics/img/23-6A-Electric-Fields-19.jpg",
         "papers/physics/img/23-6A-Electric-Fields-20.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7835,
+          0.9174
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.7075,
+              0.7711
+            ],
+            [
+              1,
+              0.0712,
+              0.3761
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -946,6 +1459,30 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q21b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.075,
+          0.5461
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.7075,
+              0.7711
+            ],
+            [
+              1,
+              0.0712,
+              0.3761
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -980,6 +1517,30 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q21b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5518,
+          0.7664
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.7075,
+              0.7711
+            ],
+            [
+              1,
+              0.0712,
+              0.3761
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1010,6 +1571,35 @@
         "papers/physics/img/23-6A-Electric-Fields-18.jpg",
         "papers/physics/img/23-6A-Electric-Fields-19.jpg",
         "papers/physics/img/23-6A-Electric-Fields-20.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7797,
+          0.8357
+        ],
+        [
+          3,
+          0.057,
+          0.5764
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.7075,
+              0.7711
+            ],
+            [
+              1,
+              0.0712,
+              0.3761
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1042,6 +1632,30 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q22a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8091,
+          0.9288
+        ],
+        [
+          1,
+          0.0608,
+          0.1595
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.7227,
+              0.7996
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1073,6 +1687,35 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q22b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5537,
+          0.5878
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.7227,
+              0.7996
+            ]
+          ]
+        ],
+        [
+          "Q22(b)",
+          [
+            [
+              1,
+              0.17,
+              0.5052
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1105,6 +1748,35 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q22b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5992,
+          0.8718
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.7227,
+              0.7996
+            ]
+          ]
+        ],
+        [
+          "Q22(b)",
+          [
+            [
+              1,
+              0.17,
+              0.5052
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1137,6 +1809,30 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q22c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8851,
+          0.9041
+        ],
+        [
+          2,
+          0.0513,
+          0.5783
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.7227,
+              0.7996
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1167,6 +1863,13 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7882,
+          0.8898
+        ]
       ]
     },
     {
@@ -1195,6 +1898,25 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q24a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6467,
+          0.6657
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.3333,
+              0.5166
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1221,6 +1943,25 @@
       "images": [
         "papers/physics/img/23-6A-Electric-Fields-23.jpg",
         "papers/physics/img/23-6A-Electric-Fields-24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6904,
+          0.9012
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.3333,
+              0.5166
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1250,6 +1991,30 @@
       "images": [
         "papers/physics/img/23-6A-Electric-Fields-23.jpg",
         "papers/physics/img/23-6A-Electric-Fields-24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9117,
+          0.9307
+        ],
+        [
+          1,
+          0.0532,
+          0.3115
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.3333,
+              0.5166
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1278,6 +2043,25 @@
       "images": [
         "papers/physics/img/23-6A-Electric-Fields-24.jpg",
         "papers/physics/img/23-6A-Electric-Fields-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5603,
+          0.7379
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.4577,
+              0.5499
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1305,6 +2089,25 @@
       "images": [
         "papers/physics/img/23-6A-Electric-Fields-24.jpg",
         "papers/physics/img/23-6A-Electric-Fields-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7512,
+          0.9316
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.4577,
+              0.5499
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1336,6 +2139,35 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q26a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6382,
+          0.6695
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.1861,
+              0.3086
+            ]
+          ]
+        ],
+        [
+          "Q26(a)",
+          [
+            [
+              0,
+              0.3181,
+              0.6344
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1364,6 +2196,35 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q26a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6828,
+          0.7018
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.1861,
+              0.3086
+            ]
+          ]
+        ],
+        [
+          "Q26(a)",
+          [
+            [
+              0,
+              0.3181,
+              0.6344
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1393,6 +2254,40 @@
       "images": [
         "papers/physics/img/23-6A-Electric-Fields-25.jpg",
         "papers/physics/img/23-6A-Electric-Fields-26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7569,
+          0.944
+        ],
+        [
+          1,
+          0.0608,
+          0.1301
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.1861,
+              0.3086
+            ]
+          ]
+        ],
+        [
+          "Q26(b)",
+          [
+            [
+              0,
+              0.7189,
+              0.7512
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1422,6 +2317,35 @@
       "images": [
         "papers/physics/img/23-6A-Electric-Fields-25.jpg",
         "papers/physics/img/23-6A-Electric-Fields-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1339,
+          0.4967
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.1861,
+              0.3086
+            ]
+          ]
+        ],
+        [
+          "Q26(b)",
+          [
+            [
+              0,
+              0.7189,
+              0.7512
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1449,6 +2373,25 @@
       "images": [
         "papers/physics/img/23-6A-Electric-Fields-25.jpg",
         "papers/physics/img/23-6A-Electric-Fields-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.51,
+          0.6296
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.1861,
+              0.3086
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1480,6 +2423,18 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8253,
+          0.8443
+        ],
+        [
+          1,
+          0.0617,
+          0.3979
+        ]
       ]
     },
     {
@@ -1508,6 +2463,13 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6021,
+          0.8965
+        ]
       ]
     },
     {
@@ -1539,6 +2501,35 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q29a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6211,
+          0.7768
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.1643,
+              0.5584
+            ]
+          ]
+        ],
+        [
+          "Q29(a)",
+          [
+            [
+              0,
+              0.5689,
+              0.6249
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1569,6 +2560,40 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q29a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7835,
+          0.925
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.1643,
+              0.5584
+            ]
+          ]
+        ],
+        [
+          "Q29(a)",
+          [
+            [
+              0,
+              0.5689,
+              0.6249
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1604,6 +2629,35 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q29a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.075,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.1643,
+              0.5584
+            ]
+          ]
+        ],
+        [
+          "Q29(a)",
+          [
+            [
+              0,
+              0.5689,
+              0.6249
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1636,6 +2690,40 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q29b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8462,
+          0.9297
+        ],
+        [
+          2,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.1643,
+              0.5584
+            ]
+          ]
+        ],
+        [
+          "Q29(b)",
+          [
+            [
+              1,
+              0.3761,
+              0.8433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1667,6 +2755,35 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q29b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1918,
+          0.4065
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.1643,
+              0.5584
+            ]
+          ]
+        ],
+        [
+          "Q29(b)",
+          [
+            [
+              1,
+              0.3761,
+              0.8433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1696,6 +2813,25 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q30a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7322,
+          0.7512
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.5537,
+              0.6619
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1727,6 +2863,30 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q30b.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7759,
+          0.9478
+        ],
+        [
+          1,
+          0.0532,
+          0.2412
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.5537,
+              0.6619
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1757,6 +2917,13 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3846,
+          0.7787
+        ]
       ]
     },
     {
@@ -1786,6 +2953,25 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3742,
+          0.5375
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              1,
+              0.0532,
+              0.3637
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1815,6 +3001,25 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5508,
+          0.7759
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              1,
+              0.0532,
+              0.3637
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1845,6 +3050,13 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0855,
+          0.3913
+        ]
       ]
     },
     {
@@ -1875,6 +3087,25 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q34a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8519,
+          0.8832
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.5432,
+              0.8414
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1906,6 +3137,25 @@
       "images": [
         "papers/physics/img/23-6A-Electric-Fields-33.jpg",
         "papers/physics/img/23-6A-Electric-Fields-34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0826,
+          0.4815
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.5432,
+              0.8414
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1937,6 +3187,18 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6942,
+          0.7578
+        ],
+        [
+          1,
+          0.0579,
+          0.3039
+        ]
       ]
     },
     {
@@ -1969,6 +3231,25 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q36a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5356,
+          0.8015
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.4473,
+              0.5223
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2002,6 +3283,40 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q36b-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2764,
+          0.4179
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.4473,
+              0.5223
+            ]
+          ]
+        ],
+        [
+          "Q36(b)",
+          [
+            [
+              0,
+              0.8196,
+              0.8746
+            ],
+            [
+              1,
+              0.0551,
+              0.2659
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2034,6 +3349,40 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q36b-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4236,
+          0.5802
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.4473,
+              0.5223
+            ]
+          ]
+        ],
+        [
+          "Q36(b)",
+          [
+            [
+              0,
+              0.8196,
+              0.8746
+            ],
+            [
+              1,
+              0.0551,
+              0.2659
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2069,6 +3418,45 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q36b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5859,
+          0.9193
+        ],
+        [
+          2,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.4473,
+              0.5223
+            ]
+          ]
+        ],
+        [
+          "Q36(b)",
+          [
+            [
+              0,
+              0.8196,
+              0.8746
+            ],
+            [
+              1,
+              0.0551,
+              0.2659
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2101,6 +3489,35 @@
       ],
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q36c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4758,
+          0.7502
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.4473,
+              0.5223
+            ]
+          ]
+        ],
+        [
+          "Q36(c)",
+          [
+            [
+              2,
+              0.2574,
+              0.4653
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2135,6 +3552,40 @@
       "figures": [
         "papers/physics/fig/23-6A-Electric-Fields-Q36c-2.jpg",
         "papers/physics/fig/23-6A-Electric-Fields-Q36c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7569,
+          0.9421
+        ],
+        [
+          3,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.4473,
+              0.5223
+            ]
+          ]
+        ],
+        [
+          "Q36(c)",
+          [
+            [
+              2,
+              0.2574,
+              0.4653
+            ]
+          ]
+        ]
       ]
     }
   ]

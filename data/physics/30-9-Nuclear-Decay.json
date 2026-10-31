@@ -34,6 +34,13 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1719,
+          0.5157
+        ]
       ]
     },
     {
@@ -66,6 +73,18 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7246,
+          0.7436
+        ],
+        [
+          1,
+          0.0513,
+          0.4131
+        ]
       ]
     },
     {
@@ -96,6 +115,18 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-02.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5717,
+          0.925
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
       ]
     },
     {
@@ -127,6 +158,25 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2602,
+          0.34
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.2156,
+              0.2498
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -155,6 +205,35 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-03.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3723,
+          0.4255
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.2156,
+              0.2498
+            ]
+          ]
+        ],
+        [
+          "Q4(b)",
+          [
+            [
+              0,
+              0.3495,
+              0.3685
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -186,6 +265,35 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-03.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4311,
+          0.7778
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.2156,
+              0.2498
+            ]
+          ]
+        ],
+        [
+          "Q4(b)",
+          [
+            [
+              0,
+              0.3495,
+              0.3685
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -215,6 +323,30 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-03.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7911,
+          0.9259
+        ],
+        [
+          1,
+          0.0608,
+          0.2184
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.2156,
+              0.2498
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -243,6 +375,25 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-03.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-04.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2279,
+          0.4349
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.2156,
+              0.2498
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -275,6 +426,18 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6315,
+          0.9326
+        ],
+        [
+          1,
+          0.0513,
+          0.0741
+        ]
       ]
     },
     {
@@ -305,6 +468,13 @@
         "papers/physics/img/30-9-Nuclear-Decay-05.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-06.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2821,
+          0.4672
+        ]
       ]
     },
     {
@@ -338,6 +508,25 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q7-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6733,
+          0.7483
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6287,
+              0.6629
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -372,6 +561,30 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7654,
+          0.7968
+        ],
+        [
+          1,
+          0.0627,
+          0.4511
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6287,
+              0.6629
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -402,6 +615,25 @@
         "papers/physics/img/30-9-Nuclear-Decay-05.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-06.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-07.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4539,
+          0.6106
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6287,
+              0.6629
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -431,6 +663,35 @@
         "papers/physics/img/30-9-Nuclear-Decay-05.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-06.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-07.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6724,
+          0.8756
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6287,
+              0.6629
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              1,
+              0.623,
+              0.679
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -461,6 +722,40 @@
         "papers/physics/img/30-9-Nuclear-Decay-05.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-06.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-07.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8813,
+          0.9449
+        ],
+        [
+          2,
+          0.0522,
+          0.2526
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6287,
+              0.6629
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              1,
+              0.623,
+              0.679
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -495,6 +790,23 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3989,
+          0.7816
+        ],
+        [
+          1,
+          0.0513,
+          0.9449
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
       ]
     },
     {
@@ -526,6 +838,13 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-09.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.245,
+          0.6999
+        ]
       ]
     },
     {
@@ -558,6 +877,18 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8471,
+          0.9098
+        ],
+        [
+          1,
+          0.0522,
+          0.2412
+        ]
       ]
     },
     {
@@ -588,6 +919,13 @@
         "papers/physics/img/30-9-Nuclear-Decay-10.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-11.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.378,
+          0.5014
+        ]
       ]
     },
     {
@@ -616,6 +954,25 @@
         "papers/physics/img/30-9-Nuclear-Decay-10.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-11.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6971,
+          0.7873
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.6534,
+              0.6876
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -649,6 +1006,30 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8006,
+          0.8462
+        ],
+        [
+          1,
+          0.0532,
+          0.2479
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.6534,
+              0.6876
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -680,6 +1061,25 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2507,
+          0.2697
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.6534,
+              0.6876
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -712,6 +1112,25 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q12-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2877,
+          0.3979
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.6534,
+              0.6876
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -745,6 +1164,25 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q12-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3913,
+          0.7018
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.6534,
+              0.6876
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -777,6 +1215,30 @@
         "papers/physics/img/30-9-Nuclear-Decay-10.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-11.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7123,
+          0.9202
+        ],
+        [
+          2,
+          0.0608,
+          0.3324
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.6534,
+              0.6876
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -809,6 +1271,30 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7635,
+          0.9411
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.4796,
+              0.7388
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -841,6 +1327,25 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1406,
+          0.4359
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.4796,
+              0.7388
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -874,6 +1379,25 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6116,
+          0.6857
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.5831,
+              0.6021
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -904,6 +1428,25 @@
         "papers/physics/img/30-9-Nuclear-Decay-13.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-14.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7037,
+          0.83
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.5831,
+              0.6021
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -934,6 +1477,30 @@
         "papers/physics/img/30-9-Nuclear-Decay-13.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-14.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8424,
+          0.9297
+        ],
+        [
+          1,
+          0.0608,
+          0.3058
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.5831,
+              0.6021
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -967,6 +1534,30 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3162,
+          0.9449
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.5831,
+              0.6021
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -998,6 +1589,13 @@
         "papers/physics/img/30-9-Nuclear-Decay-16.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-17.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3238,
+          0.4473
+        ]
       ]
     },
     {
@@ -1033,6 +1631,30 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6572,
+          0.9335
+        ],
+        [
+          1,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.5983,
+              0.6467
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1065,6 +1687,25 @@
         "papers/physics/img/30-9-Nuclear-Decay-16.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-17.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3153,
+          0.773
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.5983,
+              0.6467
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1100,6 +1741,30 @@
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q16-2.jpg",
         "papers/physics/fig/30-9-Nuclear-Decay-Q16-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7863,
+          0.8348
+        ],
+        [
+          2,
+          0.0532,
+          0.9041
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.5983,
+              0.6467
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1131,6 +1796,18 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2137,
+          0.9449
+        ],
+        [
+          1,
+          0.0532,
+          0.1443
+        ]
       ]
     },
     {
@@ -1159,6 +1836,13 @@
       ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3476,
+          0.4862
+        ]
       ]
     },
     {
@@ -1187,6 +1871,13 @@
       ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6876,
+          0.8262
+        ]
       ]
     },
     {
@@ -1276,6 +1967,25 @@
       ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7179,
+          0.8661
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.0902,
+              0.5138
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1308,6 +2018,25 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1643,
+          0.2393
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.1197,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1337,6 +2066,25 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-21.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.264,
+          0.5442
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.1197,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1366,6 +2114,25 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-21.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5575,
+          0.8528
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.1197,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1395,6 +2162,30 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-21.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8651,
+          0.9221
+        ],
+        [
+          1,
+          0.0608,
+          0.3647
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.1197,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1426,6 +2217,25 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5366,
+          0.622
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.5071,
+              0.5271
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1454,6 +2264,25 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-22.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6458,
+          0.8243
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.5071,
+              0.5271
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1483,6 +2312,30 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-22.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8376,
+          0.9392
+        ],
+        [
+          1,
+          0.0522,
+          0.2821
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.5071,
+              0.5271
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1517,6 +2370,18 @@
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q23.jpg",
         "papers/physics/fig/30-9-Nuclear-Decay-Q23-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4283,
+          0.8613
+        ],
+        [
+          1,
+          0.0513,
+          0.7607
+        ]
       ]
     },
     {
@@ -1546,6 +2411,13 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-24.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.265
+        ]
       ]
     },
     {
@@ -1576,6 +2448,13 @@
         "papers/physics/img/30-9-Nuclear-Decay-25.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-26.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4663,
+          0.5897
+        ]
       ]
     },
     {
@@ -1604,6 +2483,25 @@
         "papers/physics/img/30-9-Nuclear-Decay-25.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-26.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7702,
+          0.8452
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.7407,
+              0.7597
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1636,6 +2534,30 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8727,
+          0.9145
+        ],
+        [
+          1,
+          0.0513,
+          0.1045
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.7407,
+              0.7597
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1666,6 +2588,25 @@
         "papers/physics/img/30-9-Nuclear-Decay-25.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-26.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1244,
+          0.2802
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.7407,
+              0.7597
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1698,6 +2639,35 @@
         "papers/physics/img/30-9-Nuclear-Decay-25.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-26.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3153,
+          0.7217
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.7407,
+              0.7597
+            ]
+          ]
+        ],
+        [
+          "Q26(c)",
+          [
+            [
+              1,
+              0.2934,
+              0.3124
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1728,6 +2698,40 @@
         "papers/physics/img/30-9-Nuclear-Decay-25.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-26.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7284,
+          0.9288
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.7407,
+              0.7597
+            ]
+          ]
+        ],
+        [
+          "Q26(c)",
+          [
+            [
+              1,
+              0.2934,
+              0.3124
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1759,6 +2763,13 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3238,
+          0.5271
+        ]
       ]
     },
     {
@@ -1791,6 +2802,18 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7236,
+          0.9421
+        ],
+        [
+          1,
+          0.0513,
+          0.1216
+        ]
       ]
     },
     {
@@ -1823,6 +2846,13 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3257,
+          0.7654
+        ]
       ]
     },
     {
@@ -1851,6 +2881,13 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-28.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0855,
+          0.2517
+        ]
       ]
     },
     {
@@ -1881,6 +2918,13 @@
         "papers/physics/img/30-9-Nuclear-Decay-29.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-30.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4539,
+          0.5926
+        ]
       ]
     },
     {
@@ -1913,6 +2957,30 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8936,
+          0.9126
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.7436,
+              0.8841
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1946,6 +3014,25 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q32-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.075,
+          0.5764
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.7436,
+              0.8841
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1977,6 +3064,25 @@
         "papers/physics/img/30-9-Nuclear-Decay-29.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-30.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5869,
+          0.9117
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.7436,
+              0.8841
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2006,6 +3112,13 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-31.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2137,
+          0.3371
+        ]
       ]
     },
     {
@@ -2037,6 +3150,25 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5318,
+          0.641
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.4881,
+              0.5223
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2067,6 +3199,30 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-31.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6496,
+          0.9459
+        ],
+        [
+          1,
+          0.0608,
+          0.1595
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.4881,
+              0.5223
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2098,6 +3254,25 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3324,
+          0.6572
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.3039,
+              0.3229
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2156,6 +3331,25 @@
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q36.jpg",
         "papers/physics/fig/30-9-Nuclear-Decay-Q36-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.5024
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.8006,
+              0.943
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2185,6 +3379,25 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-32.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5128,
+          0.6762
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.8006,
+              0.943
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2214,6 +3427,30 @@
         "papers/physics/img/30-9-Nuclear-Decay-33.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-34.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8955,
+          0.9373
+        ],
+        [
+          1,
+          0.0522,
+          0.1937
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.8234,
+              0.886
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2243,6 +3480,25 @@
         "papers/physics/img/30-9-Nuclear-Decay-33.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-34.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-35.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1994,
+          0.4872
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.8234,
+              0.886
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2272,6 +3528,25 @@
         "papers/physics/img/30-9-Nuclear-Decay-33.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-34.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-35.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4938,
+          0.6961
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.8234,
+              0.886
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2302,6 +3577,30 @@
         "papers/physics/img/30-9-Nuclear-Decay-33.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-34.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-35.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7056,
+          0.944
+        ],
+        [
+          2,
+          0.0608,
+          0.1595
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.8234,
+              0.886
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2333,6 +3632,13 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3523,
+          0.5641
+        ]
       ]
     },
     {
@@ -2365,6 +3671,25 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2621
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.7123,
+              0.9212
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2392,6 +3717,25 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-35.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2726,
+          0.4976
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.7123,
+              0.9212
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2420,6 +3764,13 @@
       ],
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6904,
+          0.8291
+        ]
       ]
     },
     {
@@ -2448,6 +3799,25 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-37.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1339,
+          0.3276
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.0902,
+              0.1244
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2477,6 +3847,25 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-37.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3409,
+          0.7854
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.0902,
+              0.1244
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2509,6 +3898,30 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7987,
+          0.8177
+        ],
+        [
+          1,
+          0.0513,
+          0.6914
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.0902,
+              0.1244
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2541,6 +3954,18 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8348,
+          0.9126
+        ],
+        [
+          1,
+          0.0513,
+          0.7047
+        ]
       ]
     },
     {
@@ -2570,6 +3995,18 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-39.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9003,
+          0.943
+        ],
+        [
+          1,
+          0.0513,
+          0.1083
+        ]
       ]
     },
     {
@@ -2601,6 +4038,13 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3086,
+          0.5024
+        ]
       ]
     },
     {
@@ -2632,6 +4076,18 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6885,
+          0.9326
+        ],
+        [
+          1,
+          0.0532,
+          0.188
+        ]
       ]
     },
     {
@@ -2663,6 +4119,13 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3922,
+          0.7047
+        ]
       ]
     },
     {
@@ -2692,6 +4155,18 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-41.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8908,
+          0.9402
+        ],
+        [
+          1,
+          0.0513,
+          0.1244
+        ]
       ]
     },
     {
@@ -2722,6 +4197,13 @@
         "papers/physics/img/30-9-Nuclear-Decay-43.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-44.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3257,
+          0.4644
+        ]
       ]
     },
     {
@@ -2753,6 +4235,13 @@
         "papers/physics/img/30-9-Nuclear-Decay-43.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-44.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6819,
+          0.8053
+        ]
       ]
     },
     {
@@ -2787,6 +4276,25 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q50-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1045,
+          0.6543
+        ]
+      ],
+      "ctx": [
+        [
+          "Q50",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2824,6 +4332,35 @@
         "papers/physics/fig/30-9-Nuclear-Decay-Q50.jpg",
         "papers/physics/fig/30-9-Nuclear-Decay-Q50-2.jpg",
         "papers/physics/fig/30-9-Nuclear-Decay-Q50-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6676,
+          0.7825
+        ],
+        [
+          2,
+          0.0513,
+          0.9003
+        ],
+        [
+          3,
+          0.0522,
+          0.4767
+        ]
+      ],
+      "ctx": [
+        [
+          "Q50",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2855,6 +4392,30 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-45.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6524,
+          0.9183
+        ],
+        [
+          1,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.623,
+              0.642
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2884,6 +4445,35 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-45.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-46.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1918,
+          0.4986
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.623,
+              0.642
+            ]
+          ]
+        ],
+        [
+          "Q51(b)",
+          [
+            [
+              1,
+              0.17,
+              0.189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2912,6 +4502,35 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-45.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-46.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5014,
+          0.6866
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.623,
+              0.642
+            ]
+          ]
+        ],
+        [
+          "Q51(b)",
+          [
+            [
+              1,
+              0.17,
+              0.189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2941,6 +4560,18 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-46.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8822,
+          0.943
+        ],
+        [
+          1,
+          0.0513,
+          0.0912
+        ]
       ]
     },
     {
@@ -2971,6 +4602,13 @@
         "papers/physics/img/30-9-Nuclear-Decay-47.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-48.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-49.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2915,
+          0.3856
+        ]
       ]
     },
     {
@@ -3003,6 +4641,25 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q54-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7759,
+          0.8803
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.5375,
+              0.7626
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3035,6 +4692,30 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q54-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8936,
+          0.9126
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.5375,
+              0.7626
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3068,6 +4749,25 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q54.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2279,
+          0.9003
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.5375,
+              0.7626
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3099,6 +4799,25 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q55.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2089,
+          0.3115
+        ]
+      ],
+      "ctx": [
+        [
+          "Q55",
+          [
+            [
+              0,
+              0.1643,
+              0.1985
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3129,6 +4848,25 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-49.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-50.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.321,
+          0.6676
+        ]
+      ],
+      "ctx": [
+        [
+          "Q55",
+          [
+            [
+              0,
+              0.1643,
+              0.1985
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3157,6 +4895,25 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-49.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-50.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6733,
+          0.8462
+        ]
+      ],
+      "ctx": [
+        [
+          "Q55",
+          [
+            [
+              0,
+              0.1643,
+              0.1985
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3186,6 +4943,30 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-49.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-50.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8566,
+          0.9402
+        ],
+        [
+          1,
+          0.0551,
+          0.3989
+        ]
+      ],
+      "ctx": [
+        [
+          "Q55",
+          [
+            [
+              0,
+              0.1643,
+              0.1985
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3217,6 +4998,25 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q56.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5888,
+          0.698
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.5442,
+              0.5764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3247,6 +5047,30 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-50.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7085,
+          0.9468
+        ],
+        [
+          1,
+          0.0608,
+          0.2175
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.5442,
+              0.5764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3275,6 +5099,25 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-50.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-51.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2203,
+          0.4245
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.5442,
+              0.5764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3304,6 +5147,30 @@
         "papers/physics/img/30-9-Nuclear-Decay-51.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-52.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-53.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5062,
+          0.6543
+        ]
+      ],
+      "ctx": [
+        [
+          "Q57",
+          [
+            [
+              0,
+              0.5689,
+              0.5878
+            ],
+            [
+              1,
+              0.0513,
+              0.4967
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3337,6 +5204,30 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q57.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6667,
+          0.9069
+        ]
+      ],
+      "ctx": [
+        [
+          "Q57",
+          [
+            [
+              0,
+              0.5689,
+              0.5878
+            ],
+            [
+              1,
+              0.0513,
+              0.4967
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3369,6 +5260,40 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q57-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.1453
+        ]
+      ],
+      "ctx": [
+        [
+          "Q57",
+          [
+            [
+              0,
+              0.5689,
+              0.5878
+            ],
+            [
+              1,
+              0.0513,
+              0.4967
+            ]
+          ]
+        ],
+        [
+          "Q57(c)",
+          [
+            [
+              1,
+              0.9174,
+              0.9364
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3398,6 +5323,40 @@
         "papers/physics/img/30-9-Nuclear-Decay-51.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-52.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-53.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.151,
+          0.3542
+        ]
+      ],
+      "ctx": [
+        [
+          "Q57",
+          [
+            [
+              0,
+              0.5689,
+              0.5878
+            ],
+            [
+              1,
+              0.0513,
+              0.4967
+            ]
+          ]
+        ],
+        [
+          "Q57(c)",
+          [
+            [
+              1,
+              0.9174,
+              0.9364
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3428,6 +5387,40 @@
         "papers/physics/img/30-9-Nuclear-Decay-51.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-52.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-53.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.358,
+          0.6315
+        ]
+      ],
+      "ctx": [
+        [
+          "Q57",
+          [
+            [
+              0,
+              0.5689,
+              0.5878
+            ],
+            [
+              1,
+              0.0513,
+              0.4967
+            ]
+          ]
+        ],
+        [
+          "Q57(c)",
+          [
+            [
+              1,
+              0.9174,
+              0.9364
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3462,6 +5455,18 @@
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q58.jpg",
         "papers/physics/fig/30-9-Nuclear-Decay-Q58-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7787,
+          0.812
+        ],
+        [
+          1,
+          0.0522,
+          0.509
+        ]
       ]
     },
     {
@@ -3495,6 +5500,40 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q59.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.302,
+          0.4435
+        ]
+      ],
+      "ctx": [
+        [
+          "Q59",
+          [
+            [
+              0,
+              0.6657,
+              0.6971
+            ]
+          ]
+        ],
+        [
+          "Q59(a)",
+          [
+            [
+              0,
+              0.7104,
+              0.7293
+            ],
+            [
+              1,
+              0.0513,
+              0.3058
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3527,6 +5566,40 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q59-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4492,
+          0.566
+        ]
+      ],
+      "ctx": [
+        [
+          "Q59",
+          [
+            [
+              0,
+              0.6657,
+              0.6971
+            ]
+          ]
+        ],
+        [
+          "Q59(a)",
+          [
+            [
+              0,
+              0.7104,
+              0.7293
+            ],
+            [
+              1,
+              0.0513,
+              0.3058
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3556,6 +5629,40 @@
         "papers/physics/img/30-9-Nuclear-Decay-54.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-55.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-56.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5689,
+          0.9012
+        ]
+      ],
+      "ctx": [
+        [
+          "Q59",
+          [
+            [
+              0,
+              0.6657,
+              0.6971
+            ]
+          ]
+        ],
+        [
+          "Q59(a)",
+          [
+            [
+              0,
+              0.7104,
+              0.7293
+            ],
+            [
+              1,
+              0.0513,
+              0.3058
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3587,6 +5694,30 @@
         "papers/physics/img/30-9-Nuclear-Decay-54.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-55.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-56.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9145,
+          0.9335
+        ],
+        [
+          2,
+          0.0532,
+          0.4463
+        ]
+      ],
+      "ctx": [
+        [
+          "Q59",
+          [
+            [
+              0,
+              0.6657,
+              0.6971
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3619,6 +5750,18 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q60.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5907,
+          0.9421
+        ],
+        [
+          1,
+          0.0532,
+          0.509
+        ]
       ]
     },
     {
@@ -3647,6 +5790,13 @@
       "images": [
         "papers/physics/img/30-9-Nuclear-Decay-57.jpg",
         "papers/physics/img/30-9-Nuclear-Decay-58.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7217,
+          0.9316
+        ]
       ]
     },
     {
@@ -3678,6 +5828,13 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q62.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2678,
+          0.6401
+        ]
       ]
     },
     {
@@ -3709,6 +5866,18 @@
       ],
       "figures": [
         "papers/physics/fig/30-9-Nuclear-Decay-Q63.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8481,
+          0.9231
+        ],
+        [
+          1,
+          0.0693,
+          0.2184
+        ]
       ]
     }
   ]

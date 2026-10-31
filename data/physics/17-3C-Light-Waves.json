@@ -31,6 +31,13 @@
         "papers/physics/img/17-3C-Light-Waves-01.jpg",
         "papers/physics/img/17-3C-Light-Waves-02.jpg",
         "papers/physics/img/17-3C-Light-Waves-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1719,
+          0.34
+        ]
       ]
     },
     {
@@ -60,6 +67,30 @@
         "papers/physics/img/17-3C-Light-Waves-01.jpg",
         "papers/physics/img/17-3C-Light-Waves-02.jpg",
         "papers/physics/img/17-3C-Light-Waves-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8661,
+          0.9259
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.491,
+              0.8557
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -92,6 +123,25 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1406,
+          0.2887
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.491,
+              0.8557
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -125,6 +175,35 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q2c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6391,
+          0.8775
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.491,
+              0.8557
+            ]
+          ]
+        ],
+        [
+          "Q2(c)",
+          [
+            [
+              1,
+              0.302,
+              0.6458
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -154,6 +233,40 @@
         "papers/physics/img/17-3C-Light-Waves-01.jpg",
         "papers/physics/img/17-3C-Light-Waves-02.jpg",
         "papers/physics/img/17-3C-Light-Waves-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8841,
+          0.9335
+        ],
+        [
+          2,
+          0.0608,
+          0.1871
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.491,
+              0.8557
+            ]
+          ]
+        ],
+        [
+          "Q2(c)",
+          [
+            [
+              1,
+              0.302,
+              0.6458
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -187,6 +300,35 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q2c-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1918,
+          0.5793
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.491,
+              0.8557
+            ]
+          ]
+        ],
+        [
+          "Q2(c)",
+          [
+            [
+              1,
+              0.302,
+              0.6458
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -214,6 +356,18 @@
       "images": [
         "papers/physics/img/17-3C-Light-Waves-03.jpg",
         "papers/physics/img/17-3C-Light-Waves-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7246,
+          0.7892
+        ],
+        [
+          1,
+          0.0513,
+          0.2821
+        ]
       ]
     },
     {
@@ -243,6 +397,13 @@
         "papers/physics/img/17-3C-Light-Waves-04.jpg",
         "papers/physics/img/17-3C-Light-Waves-05.jpg",
         "papers/physics/img/17-3C-Light-Waves-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4207,
+          0.529
+        ]
       ]
     },
     {
@@ -275,6 +436,30 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q5-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9221,
+          0.9411
+        ],
+        [
+          1,
+          0.0826,
+          0.1785
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6819,
+              0.9126
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -307,6 +492,25 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q5-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1918,
+          0.3552
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6819,
+              0.9126
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -340,6 +544,30 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3685,
+          0.9288
+        ],
+        [
+          2,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6819,
+              0.9126
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -375,6 +603,30 @@
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q6.jpg",
         "papers/physics/fig/17-3C-Light-Waves-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2896,
+          0.6287
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4501,
+              0.8196
+            ],
+            [
+              1,
+              0.0513,
+              0.2802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -407,6 +659,30 @@
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q6.jpg",
         "papers/physics/fig/17-3C-Light-Waves-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.642,
+          0.8196
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4501,
+              0.8196
+            ],
+            [
+              1,
+              0.0513,
+              0.2802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -437,6 +713,35 @@
         "papers/physics/img/17-3C-Light-Waves-06.jpg",
         "papers/physics/img/17-3C-Light-Waves-07.jpg",
         "papers/physics/img/17-3C-Light-Waves-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8329,
+          0.9231
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4501,
+              0.8196
+            ],
+            [
+              1,
+              0.0513,
+              0.2802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -465,6 +770,13 @@
       "images": [
         "papers/physics/img/17-3C-Light-Waves-08.jpg",
         "papers/physics/img/17-3C-Light-Waves-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.245,
+          0.3894
+        ]
       ]
     },
     {
@@ -493,6 +805,13 @@
       "images": [
         "papers/physics/img/17-3C-Light-Waves-08.jpg",
         "papers/physics/img/17-3C-Light-Waves-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5973,
+          0.7407
+        ]
       ]
     },
     {
@@ -524,6 +843,30 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q9.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3495,
+          0.5299
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.9003,
+              0.9345
+            ],
+            [
+              1,
+              0.0684,
+              0.339
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -552,6 +895,30 @@
       "images": [
         "papers/physics/img/17-3C-Light-Waves-08.jpg",
         "papers/physics/img/17-3C-Light-Waves-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5394,
+          0.7198
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.9003,
+              0.9345
+            ],
+            [
+              1,
+              0.0684,
+              0.339
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -585,6 +952,25 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.6999
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8642,
+              0.9269
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -617,6 +1003,30 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q10-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7113,
+          0.7303
+        ],
+        [
+          2,
+          0.1387,
+          0.5641
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8642,
+              0.9269
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -646,6 +1056,25 @@
         "papers/physics/img/17-3C-Light-Waves-11.jpg",
         "papers/physics/img/17-3C-Light-Waves-12.jpg",
         "papers/physics/img/17-3C-Light-Waves-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7398,
+          0.9468
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.7104,
+              0.7293
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -681,6 +1110,25 @@
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q11b.jpg",
         "papers/physics/fig/17-3C-Light-Waves-Q11b-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.8604
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.7104,
+              0.7293
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -714,6 +1162,30 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q11c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8699,
+          0.9487
+        ],
+        [
+          2,
+          0.0532,
+          0.51
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.7104,
+              0.7293
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -743,6 +1215,30 @@
         "papers/physics/img/17-3C-Light-Waves-13.jpg",
         "papers/physics/img/17-3C-Light-Waves-14.jpg",
         "papers/physics/img/17-3C-Light-Waves-15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3229,
+          0.471
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.6572,
+              0.9468
+            ],
+            [
+              1,
+              0.0532,
+              0.3134
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -775,6 +1271,35 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4843,
+          0.5185
+        ],
+        [
+          2,
+          0.0513,
+          0.7721
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.6572,
+              0.9468
+            ],
+            [
+              1,
+              0.0532,
+              0.3134
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -805,6 +1330,18 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9193,
+          0.9383
+        ],
+        [
+          1,
+          0.0532,
+          0.2669
+        ]
       ]
     },
     {
@@ -839,6 +1376,30 @@
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q14.jpg",
         "papers/physics/fig/17-3C-Light-Waves-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5651,
+          0.9231
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4112,
+              0.5432
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -872,6 +1433,35 @@
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q14-3.jpg",
         "papers/physics/fig/17-3C-Light-Waves-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.584,
+          0.7407
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4112,
+              0.5432
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              1,
+              0.1994,
+              0.5802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -904,6 +1494,35 @@
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q14-3.jpg",
         "papers/physics/fig/17-3C-Light-Waves-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7464,
+          0.9022
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4112,
+              0.5432
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              1,
+              0.1994,
+              0.5802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -935,6 +1554,25 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5176,
+          0.755
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.1643,
+              0.5081
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -963,6 +1601,30 @@
       "images": [
         "papers/physics/img/17-3C-Light-Waves-18.jpg",
         "papers/physics/img/17-3C-Light-Waves-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7664,
+          0.9307
+        ],
+        [
+          1,
+          0.0608,
+          0.1007
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.1643,
+              0.5081
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -993,6 +1655,25 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5081,
+          0.7303
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.245,
+              0.4986
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1024,6 +1705,30 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.736,
+          0.9364
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.245,
+              0.4986
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1054,6 +1759,35 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2934,
+          0.5223
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.245,
+              0.4986
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.0817,
+              0.2915
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1085,6 +1819,35 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.529,
+          0.7151
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.245,
+              0.4986
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.0817,
+              0.2915
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1116,6 +1879,18 @@
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q17.jpg",
         "papers/physics/fig/17-3C-Light-Waves-Q17-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9107,
+          0.9449
+        ],
+        [
+          1,
+          0.0646,
+          0.4283
+        ]
       ]
     },
     {
@@ -1146,6 +1921,18 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.622,
+          0.943
+        ],
+        [
+          1,
+          0.0513,
+          0.0722
+        ]
       ]
     },
     {
@@ -1176,6 +1963,13 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2745,
+          0.7578
+        ]
       ]
     },
     {
@@ -1207,6 +2001,13 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q20.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.3922
+        ]
       ]
     },
     {
@@ -1237,6 +2038,30 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8234,
+          0.9421
+        ],
+        [
+          1,
+          0.0608,
+          0.1007
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.5442,
+              0.8129
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1267,6 +2092,25 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1045,
+          0.1358
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.5442,
+              0.8129
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1295,6 +2139,25 @@
       "images": [
         "papers/physics/img/17-3C-Light-Waves-23.jpg",
         "papers/physics/img/17-3C-Light-Waves-24.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3067,
+          0.5024
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.5442,
+              0.8129
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1326,6 +2189,18 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6952,
+          0.7436
+        ],
+        [
+          1,
+          0.1102,
+          0.3884
+        ]
       ]
     },
     {
@@ -1357,6 +2232,18 @@
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q23.jpg",
         "papers/physics/fig/17-3C-Light-Waves-Q23-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5888,
+          0.8794
+        ],
+        [
+          1,
+          0.0522,
+          0.2298
+        ]
       ]
     },
     {
@@ -1388,6 +2275,30 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8898,
+          0.9383
+        ],
+        [
+          1,
+          0.0826,
+          0.208
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.3742,
+              0.8794
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1420,6 +2331,35 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q24b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.585,
+          0.7854
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.3742,
+              0.8794
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              1,
+              0.2213,
+              0.5897
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1452,6 +2392,40 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q24b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7911,
+          0.9174
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.3742,
+              0.8794
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              1,
+              0.2213,
+              0.5897
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1479,6 +2453,25 @@
       "images": [
         "papers/physics/img/17-3C-Light-Waves-28.jpg",
         "papers/physics/img/17-3C-Light-Waves-29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.245,
+          0.396
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.2156,
+              0.2317
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1512,6 +2505,30 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4065,
+          0.9183
+        ],
+        [
+          1,
+          0.0608,
+          0.3324
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.2156,
+              0.2317
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1544,6 +2561,30 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8291,
+          0.9183
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.4796,
+              0.8186
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1576,6 +2617,25 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1111,
+          0.452
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.4796,
+              0.8186
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1605,6 +2665,35 @@
         "papers/physics/img/17-3C-Light-Waves-29.jpg",
         "papers/physics/img/17-3C-Light-Waves-30.jpg",
         "papers/physics/img/17-3C-Light-Waves-31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5024,
+          0.6733
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.4796,
+              0.8186
+            ]
+          ]
+        ],
+        [
+          "Q26(c)",
+          [
+            [
+              1,
+              0.4653,
+              0.4957
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1639,6 +2728,40 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q26-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.679,
+          0.7284
+        ],
+        [
+          2,
+          0.0522,
+          0.754
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.4796,
+              0.8186
+            ]
+          ]
+        ],
+        [
+          "Q26(c)",
+          [
+            [
+              1,
+              0.4653,
+              0.4957
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1670,6 +2793,18 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8974,
+          0.9459
+        ],
+        [
+          1,
+          0.0513,
+          0.5043
+        ]
       ]
     },
     {
@@ -1701,6 +2836,18 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.717,
+          0.7626
+        ],
+        [
+          1,
+          0.0513,
+          0.5176
+        ]
       ]
     },
     {
@@ -1732,6 +2879,30 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q29a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.925,
+          0.944
+        ],
+        [
+          1,
+          0.0532,
+          0.1937
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.6543,
+              0.9069
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1762,6 +2933,35 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4672,
+          0.6087
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.6543,
+              0.9069
+            ]
+          ]
+        ],
+        [
+          "Q29(b)",
+          [
+            [
+              1,
+              0.207,
+              0.4644
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1793,6 +2993,35 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6144,
+          0.7711
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.6543,
+              0.9069
+            ]
+          ]
+        ],
+        [
+          "Q29(b)",
+          [
+            [
+              1,
+              0.207,
+              0.4644
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1825,6 +3054,18 @@
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q30.jpg",
         "papers/physics/fig/17-3C-Light-Waves-Q30-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9174,
+          0.9364
+        ],
+        [
+          1,
+          0.0513,
+          0.4682
+        ]
       ]
     },
     {
@@ -1854,6 +3095,13 @@
         "papers/physics/img/17-3C-Light-Waves-35.jpg",
         "papers/physics/img/17-3C-Light-Waves-36.jpg",
         "papers/physics/img/17-3C-Light-Waves-37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6695,
+          0.793
+        ]
       ]
     },
     {
@@ -1885,6 +3133,25 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2783,
+          0.3409
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              1,
+              0.0532,
+              0.2574
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1916,6 +3183,25 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3447,
+          0.5033
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              1,
+              0.0532,
+              0.2574
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1945,6 +3231,35 @@
         "papers/physics/img/17-3C-Light-Waves-35.jpg",
         "papers/physics/img/17-3C-Light-Waves-36.jpg",
         "papers/physics/img/17-3C-Light-Waves-37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5508,
+          0.7502
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              1,
+              0.0532,
+              0.2574
+            ]
+          ]
+        ],
+        [
+          "Q32(b)",
+          [
+            [
+              1,
+              0.5138,
+              0.5451
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1974,6 +3289,40 @@
         "papers/physics/img/17-3C-Light-Waves-35.jpg",
         "papers/physics/img/17-3C-Light-Waves-36.jpg",
         "papers/physics/img/17-3C-Light-Waves-37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7569,
+          0.9421
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              1,
+              0.0532,
+              0.2574
+            ]
+          ]
+        ],
+        [
+          "Q32(b)",
+          [
+            [
+              1,
+              0.5138,
+              0.5451
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2005,6 +3354,13 @@
       ],
       "figures": [
         "papers/physics/fig/17-3C-Light-Waves-Q33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2821,
+          0.66
+        ]
       ]
     },
     {
@@ -2033,6 +3389,18 @@
       "images": [
         "papers/physics/img/17-3C-Light-Waves-37.jpg",
         "papers/physics/img/17-3C-Light-Waves-38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8775,
+          0.9259
+        ],
+        [
+          1,
+          0.0513,
+          0.1216
+        ]
       ]
     }
   ]

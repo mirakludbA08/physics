@@ -32,6 +32,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1719,
+          0.3742
+        ]
       ]
     },
     {
@@ -64,6 +71,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6885,
+          0.7075
+        ],
+        [
+          1,
+          0.0513,
+          0.396
+        ]
       ]
     },
     {
@@ -94,6 +113,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6002,
+          0.8604
+        ]
       ]
     },
     {
@@ -122,6 +148,13 @@
       ],
       "images": [
         "papers/chemistry/img/06-Energetics-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2877,
+          0.4824
+        ]
       ]
     },
     {
@@ -150,6 +183,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6372,
+          0.8386
+        ]
       ]
     },
     {
@@ -180,6 +220,13 @@
         "papers/chemistry/img/06-Energetics-05.jpg",
         "papers/chemistry/img/06-Energetics-06.jpg",
         "papers/chemistry/img/06-Energetics-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1538,
+          0.2745
+        ]
       ]
     },
     {
@@ -210,6 +257,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4786,
+          0.7398
+        ]
       ]
     },
     {
@@ -241,6 +295,30 @@
         "papers/chemistry/img/06-Energetics-05.jpg",
         "papers/chemistry/img/06-Energetics-06.jpg",
         "papers/chemistry/img/06-Energetics-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9174,
+          0.9364
+        ],
+        [
+          1,
+          0.0532,
+          0.0722
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.8879,
+              0.9069
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -272,6 +350,25 @@
         "papers/chemistry/img/06-Energetics-05.jpg",
         "papers/chemistry/img/06-Energetics-06.jpg",
         "papers/chemistry/img/06-Energetics-07.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1719,
+          0.4112
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.8879,
+              0.9069
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -304,6 +401,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q8c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4245,
+          0.8148
+        ],
+        [
+          2,
+          0.0532,
+          0.5992
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.8879,
+              0.9069
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -336,6 +457,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q8c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6049,
+          0.6733
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.8879,
+              0.9069
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -368,6 +508,45 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q8c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6866,
+          0.7493
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.8879,
+              0.9069
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              1,
+              0.1719,
+              0.4112
+            ]
+          ]
+        ],
+        [
+          "Q8(c)(ii)",
+          [
+            [
+              2,
+              0.6049,
+              0.6733
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -396,6 +575,35 @@
         "papers/chemistry/img/06-Energetics-07.jpg",
         "papers/chemistry/img/06-Energetics-08.jpg",
         "papers/chemistry/img/06-Energetics-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4321,
+          0.4663
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.3219,
+              0.3409
+            ]
+          ]
+        ],
+        [
+          "Q9(a)",
+          [
+            [
+              0,
+              0.3514,
+              0.4359
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -424,6 +632,35 @@
         "papers/chemistry/img/06-Energetics-07.jpg",
         "papers/chemistry/img/06-Energetics-08.jpg",
         "papers/chemistry/img/06-Energetics-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6277,
+          0.6762
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.3219,
+              0.3409
+            ]
+          ]
+        ],
+        [
+          "Q9(a)",
+          [
+            [
+              0,
+              0.3514,
+              0.4359
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -453,6 +690,50 @@
         "papers/chemistry/img/06-Energetics-07.jpg",
         "papers/chemistry/img/06-Energetics-08.jpg",
         "papers/chemistry/img/06-Energetics-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9126,
+          0.944
+        ],
+        [
+          1,
+          0.0532,
+          0.0722
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.3219,
+              0.3409
+            ]
+          ]
+        ],
+        [
+          "Q9(a)",
+          [
+            [
+              0,
+              0.3514,
+              0.4359
+            ]
+          ]
+        ],
+        [
+          "Q9(a)(i)",
+          [
+            [
+              0,
+              0.4321,
+              0.4663
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -482,6 +763,35 @@
         "papers/chemistry/img/06-Energetics-07.jpg",
         "papers/chemistry/img/06-Energetics-08.jpg",
         "papers/chemistry/img/06-Energetics-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3086,
+          0.5223
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.3219,
+              0.3409
+            ]
+          ]
+        ],
+        [
+          "Q9(a)",
+          [
+            [
+              0,
+              0.3514,
+              0.4359
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -510,6 +820,35 @@
         "papers/chemistry/img/06-Energetics-07.jpg",
         "papers/chemistry/img/06-Energetics-08.jpg",
         "papers/chemistry/img/06-Energetics-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5726,
+          0.7142
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.3219,
+              0.3409
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.5356,
+              0.567
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -540,6 +879,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q9b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7198,
+          0.9012
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.3219,
+              0.3409
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.5356,
+              0.567
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -572,6 +940,25 @@
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q9c.jpg",
         "papers/chemistry/fig/06-Energetics-Q9c-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2479,
+          0.8205
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.3219,
+              0.3409
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -599,6 +986,13 @@
       "images": [
         "papers/chemistry/img/06-Energetics-09.jpg",
         "papers/chemistry/img/06-Energetics-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1244,
+          0.2745
+        ]
       ]
     },
     {
@@ -628,6 +1022,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4777,
+          0.7274
+        ]
       ]
     },
     {
@@ -657,6 +1058,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.4568
+        ]
       ]
     },
     {
@@ -688,6 +1096,18 @@
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q13.jpg",
         "papers/chemistry/fig/06-Energetics-Q13-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6847,
+          0.8215
+        ],
+        [
+          1,
+          0.0646,
+          0.3552
+        ]
       ]
     },
     {
@@ -718,6 +1138,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5594,
+          0.8424
+        ]
       ]
     },
     {
@@ -745,6 +1172,13 @@
       "images": [
         "papers/chemistry/img/06-Energetics-13.jpg",
         "papers/chemistry/img/06-Energetics-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1538,
+          0.2925
+        ]
       ]
     },
     {
@@ -774,6 +1208,25 @@
       "images": [
         "papers/chemistry/img/06-Energetics-13.jpg",
         "papers/chemistry/img/06-Energetics-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5223,
+          0.7635
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4444,
+              0.5119
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -805,6 +1258,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q16bi.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1197,
+          0.3723
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4444,
+              0.5119
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.1159
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -835,6 +1317,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q16bi.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3742,
+          0.4084
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4444,
+              0.5119
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.1159
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -862,6 +1373,13 @@
       ],
       "images": [
         "papers/chemistry/img/06-Energetics-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7578,
+          0.8604
+        ]
       ]
     },
     {
@@ -890,6 +1408,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.169,
+          0.4615
+        ]
       ]
     },
     {
@@ -917,6 +1442,13 @@
       ],
       "images": [
         "papers/chemistry/img/06-Energetics-15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6828,
+          0.8613
+        ]
       ]
     },
     {
@@ -946,6 +1478,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q20a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5869,
+          0.6059
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.1197,
+              0.5764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -977,6 +1528,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q20a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6239,
+          0.8509
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.1197,
+              0.5764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1008,6 +1578,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q20b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2213,
+          0.3058
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.1197,
+              0.5764
+            ]
+          ]
+        ],
+        [
+          "Q20(b)",
+          [
+            [
+              0,
+              0.8443,
+              0.8803
+            ],
+            [
+              1,
+              0.0665,
+              0.2279
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1040,6 +1644,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q20b-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3115,
+          0.5195
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.1197,
+              0.5764
+            ]
+          ]
+        ],
+        [
+          "Q20(b)",
+          [
+            [
+              0,
+              0.8443,
+              0.8803
+            ],
+            [
+              1,
+              0.0665,
+              0.2279
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1072,6 +1710,40 @@
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q20b.jpg",
         "papers/chemistry/fig/06-Energetics-Q20b-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5366,
+          0.7445
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.1197,
+              0.5764
+            ]
+          ]
+        ],
+        [
+          "Q20(b)",
+          [
+            [
+              0,
+              0.8443,
+              0.8803
+            ],
+            [
+              1,
+              0.0665,
+              0.2279
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1101,6 +1773,40 @@
         "papers/chemistry/img/06-Energetics-16.jpg",
         "papers/chemistry/img/06-Energetics-17.jpg",
         "papers/chemistry/img/06-Energetics-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7379,
+          0.9364
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.1197,
+              0.5764
+            ]
+          ]
+        ],
+        [
+          "Q20(a)(ii)",
+          [
+            [
+              0,
+              0.6239,
+              0.8509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1128,6 +1834,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3438,
+          0.5033
+        ]
       ]
     },
     {
@@ -1155,6 +1868,13 @@
       ],
       "images": [
         "papers/chemistry/img/06-Energetics-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6895,
+          0.7835
+        ]
       ]
     },
     {
@@ -1182,6 +1902,13 @@
       "images": [
         "papers/chemistry/img/06-Energetics-19.jpg",
         "papers/chemistry/img/06-Energetics-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2232,
+          0.3172
+        ]
       ]
     },
     {
@@ -1211,6 +1938,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5185,
+          0.6904
+        ]
       ]
     },
     {
@@ -1238,6 +1972,30 @@
       "images": [
         "papers/chemistry/img/06-Energetics-19.jpg",
         "papers/chemistry/img/06-Energetics-20.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.188
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.8746,
+              0.9392
+            ],
+            [
+              1,
+              0.0532,
+              0.0693
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1265,6 +2023,30 @@
       "images": [
         "papers/chemistry/img/06-Energetics-19.jpg",
         "papers/chemistry/img/06-Energetics-20.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2089,
+          0.3485
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.8746,
+              0.9392
+            ],
+            [
+              1,
+              0.0532,
+              0.0693
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1295,6 +2077,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5499,
+          0.8889
+        ]
       ]
     },
     {
@@ -1323,6 +2112,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1909,
+          0.6439
+        ]
       ]
     },
     {
@@ -1353,6 +2149,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1396,
+          0.358
+        ]
       ]
     },
     {
@@ -1383,6 +2186,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1738
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.5613,
+              0.9345
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1413,6 +2235,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1947,
+          0.3314
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.5613,
+              0.9345
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1443,6 +2284,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3523,
+          0.49
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.5613,
+              0.9345
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1474,6 +2334,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7493,
+          0.9136
+        ]
       ]
     },
     {
@@ -1504,6 +2371,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2355,
+          0.5964
+        ]
       ]
     },
     {
@@ -1532,6 +2406,13 @@
       "images": [
         "papers/chemistry/img/06-Energetics-24.jpg",
         "papers/chemistry/img/06-Energetics-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7987,
+          0.9003
+        ]
       ]
     },
     {
@@ -1559,6 +2440,25 @@
       "images": [
         "papers/chemistry/img/06-Energetics-25.jpg",
         "papers/chemistry/img/06-Energetics-26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3561,
+          0.4758
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.2688,
+              0.3466
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1586,6 +2486,25 @@
       "images": [
         "papers/chemistry/img/06-Energetics-25.jpg",
         "papers/chemistry/img/06-Energetics-26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4881,
+          0.6078
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.2688,
+              0.3466
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1617,6 +2536,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q33-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6135,
+          0.8623
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.2688,
+              0.3466
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1647,6 +2585,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2821
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.2688,
+              0.3466
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1677,6 +2634,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4425,
+          0.6781
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.2688,
+              0.3466
+            ]
+          ]
+        ],
+        [
+          "Q33(b)(iii)",
+          [
+            [
+              1,
+              0.0532,
+              0.2821
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1707,6 +2693,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q34a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9117,
+          0.9307
+        ],
+        [
+          1,
+          0.0826,
+          0.15
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.8224,
+              0.9012
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1739,6 +2749,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q34b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1624,
+          0.3257
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.8224,
+              0.9012
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1769,6 +2798,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q34c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4948,
+          0.8443
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.8224,
+              0.9012
+            ]
+          ]
+        ],
+        [
+          "Q34(b)",
+          [
+            [
+              1,
+              0.1624,
+              0.3257
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1798,6 +2856,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2137,
+          0.6182
+        ]
       ]
     },
     {
@@ -1826,6 +2891,13 @@
       "images": [
         "papers/chemistry/img/06-Energetics-28.jpg",
         "papers/chemistry/img/06-Energetics-29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8215,
+          0.9307
+        ]
       ]
     },
     {
@@ -1855,6 +2927,13 @@
         "papers/chemistry/img/06-Energetics-29.jpg",
         "papers/chemistry/img/06-Energetics-30.jpg",
         "papers/chemistry/img/06-Energetics-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2678,
+          0.377
+        ]
       ]
     },
     {
@@ -1885,6 +2964,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q38.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4767,
+          0.5812
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.529,
+              0.7322
+            ],
+            [
+              1,
+              0.0513,
+              0.4663
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1914,6 +3017,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q38.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5945,
+          0.6135
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.529,
+              0.7322
+            ],
+            [
+              1,
+              0.0513,
+              0.4663
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1945,6 +3072,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q38.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7142,
+          0.8291
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.529,
+              0.7322
+            ],
+            [
+              1,
+              0.0513,
+              0.4663
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1975,6 +3126,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/06-Energetics-Q39a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2953,
+          0.623
+        ]
       ]
     },
     {
@@ -2002,6 +3160,13 @@
       ],
       "images": [
         "papers/chemistry/img/06-Energetics-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6448,
+          0.7949
+        ]
       ]
     }
   ]

@@ -35,6 +35,13 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1225,
+          0.7322
+        ]
       ]
     },
     {
@@ -67,6 +74,18 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8784,
+          0.9126
+        ],
+        [
+          1,
+          0.0513,
+          0.2479
+        ]
       ]
     },
     {
@@ -99,6 +118,30 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5964,
+          0.9202
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.4065,
+              0.5859
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -131,6 +174,25 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q3-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1406,
+          0.6334
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.4065,
+              0.5859
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -164,6 +226,30 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q4a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1481,
+          0.3998
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7806,
+              0.9031
+            ],
+            [
+              1,
+              0.0513,
+              0.1387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -198,6 +284,35 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q4b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4131,
+          0.9421
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7806,
+              0.9031
+            ],
+            [
+              1,
+              0.0513,
+              0.1387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -231,6 +346,30 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5859,
+          0.6201
+        ],
+        [
+          1,
+          0.1292,
+          0.5802
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.3039,
+              0.5764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -260,6 +399,25 @@
         "papers/physics/img/07-1F-Momentum-05.jpg",
         "papers/physics/img/07-1F-Momentum-06.jpg",
         "papers/physics/img/07-1F-Momentum-07.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5926,
+          0.7702
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.3039,
+              0.5764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -294,6 +452,30 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7835,
+          0.9459
+        ],
+        [
+          2,
+          0.0532,
+          0.0722
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.3039,
+              0.5764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -325,6 +507,35 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6885,
+          0.8025
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.2156,
+              0.641
+            ]
+          ]
+        ],
+        [
+          "Q6(a)",
+          [
+            [
+              0,
+              0.6505,
+              0.6847
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -357,6 +568,40 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8063,
+          0.9174
+        ],
+        [
+          1,
+          0.0608,
+          0.1292
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.2156,
+              0.641
+            ]
+          ]
+        ],
+        [
+          "Q6(a)",
+          [
+            [
+              0,
+              0.6505,
+              0.6847
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -386,6 +631,25 @@
       "images": [
         "papers/physics/img/07-1F-Momentum-07.jpg",
         "papers/physics/img/07-1F-Momentum-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1406,
+          0.5565
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.2156,
+              0.641
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -413,6 +677,13 @@
       ],
       "images": [
         "papers/physics/img/07-1F-Momentum-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6999,
+          0.8414
+        ]
       ]
     },
     {
@@ -441,6 +712,13 @@
       "images": [
         "papers/physics/img/07-1F-Momentum-09.jpg",
         "papers/physics/img/07-1F-Momentum-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1197,
+          0.2583
+        ]
       ]
     },
     {
@@ -473,6 +751,25 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6258,
+          0.8481
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4103,
+              0.6144
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -500,6 +797,35 @@
       "images": [
         "papers/physics/img/07-1F-Momentum-09.jpg",
         "papers/physics/img/07-1F-Momentum-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8538,
+          0.9364
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4103,
+              0.6144
+            ]
+          ]
+        ],
+        [
+          "Q9(a)(i)",
+          [
+            [
+              0,
+              0.6258,
+              0.8481
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -528,6 +854,25 @@
       "images": [
         "papers/physics/img/07-1F-Momentum-09.jpg",
         "papers/physics/img/07-1F-Momentum-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2707
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4103,
+              0.6144
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -557,6 +902,25 @@
       "images": [
         "papers/physics/img/07-1F-Momentum-09.jpg",
         "papers/physics/img/07-1F-Momentum-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2811,
+          0.5024
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4103,
+              0.6144
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -585,6 +949,25 @@
       "images": [
         "papers/physics/img/07-1F-Momentum-10.jpg",
         "papers/physics/img/07-1F-Momentum-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6781,
+          0.8262
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.6486,
+              0.6676
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -616,6 +999,30 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8395,
+          0.8585
+        ],
+        [
+          1,
+          0.0513,
+          0.567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.6486,
+              0.6676
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -645,6 +1052,25 @@
       "images": [
         "papers/physics/img/07-1F-Momentum-10.jpg",
         "papers/physics/img/07-1F-Momentum-11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5802,
+          0.8167
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.6486,
+              0.6676
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -672,6 +1098,25 @@
       "images": [
         "papers/physics/img/07-1F-Momentum-11.jpg",
         "papers/physics/img/07-1F-Momentum-12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1197,
+          0.2678
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              1,
+              0.075,
+              0.1092
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -704,6 +1149,25 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2811,
+          0.8338
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              1,
+              0.075,
+              0.1092
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -732,6 +1196,25 @@
       "images": [
         "papers/physics/img/07-1F-Momentum-13.jpg",
         "papers/physics/img/07-1F-Momentum-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1633,
+          0.3267
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.0893,
+              0.1529
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -761,6 +1244,25 @@
       "images": [
         "papers/physics/img/07-1F-Momentum-13.jpg",
         "papers/physics/img/07-1F-Momentum-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.34,
+          0.5499
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.0893,
+              0.1529
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -790,6 +1292,25 @@
       "images": [
         "papers/physics/img/07-1F-Momentum-13.jpg",
         "papers/physics/img/07-1F-Momentum-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5594,
+          0.7398
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.0893,
+              0.1529
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -820,6 +1341,30 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2279,
+          0.3761
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.8841,
+              0.9155
+            ],
+            [
+              1,
+              0.0513,
+              0.2184
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -848,6 +1393,40 @@
       "images": [
         "papers/physics/img/07-1F-Momentum-13.jpg",
         "papers/physics/img/07-1F-Momentum-14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4264,
+          0.5679
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.8841,
+              0.9155
+            ],
+            [
+              1,
+              0.0513,
+              0.2184
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              1,
+              0.3884,
+              0.4207
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -880,6 +1459,40 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5736,
+          0.8946
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.8841,
+              0.9155
+            ],
+            [
+              1,
+              0.0513,
+              0.2184
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              1,
+              0.3884,
+              0.4207
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -908,6 +1521,13 @@
       "images": [
         "papers/physics/img/07-1F-Momentum-15.jpg",
         "papers/physics/img/07-1F-Momentum-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1909,
+          0.283
+        ]
       ]
     },
     {
@@ -940,6 +1560,30 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6733,
+          0.9392
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.4378,
+              0.6638
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -969,6 +1613,25 @@
       "images": [
         "papers/physics/img/07-1F-Momentum-15.jpg",
         "papers/physics/img/07-1F-Momentum-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.3656
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.4378,
+              0.6638
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1002,6 +1665,30 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1377,
+          0.4482
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.51,
+              0.906
+            ],
+            [
+              1,
+              0.0513,
+              0.1273
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1032,6 +1719,40 @@
         "papers/physics/img/07-1F-Momentum-16.jpg",
         "papers/physics/img/07-1F-Momentum-17.jpg",
         "papers/physics/img/07-1F-Momentum-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4986,
+          0.7132
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.51,
+              0.906
+            ],
+            [
+              1,
+              0.0513,
+              0.1273
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.4615,
+              0.4957
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1061,6 +1782,40 @@
         "papers/physics/img/07-1F-Momentum-16.jpg",
         "papers/physics/img/07-1F-Momentum-17.jpg",
         "papers/physics/img/07-1F-Momentum-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7198,
+          0.9373
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.51,
+              0.906
+            ],
+            [
+              1,
+              0.0513,
+              0.1273
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.4615,
+              0.4957
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1087,6 +1842,25 @@
       ],
       "images": [
         "papers/physics/img/07-1F-Momentum-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4084,
+          0.5271
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.1861,
+              0.3989
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1118,6 +1892,35 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5916,
+          0.7331
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.1861,
+              0.3989
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              0,
+              0.5404,
+              0.5964
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1149,6 +1952,35 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7388,
+          0.8803
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.1861,
+              0.3989
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              0,
+              0.5404,
+              0.5964
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1182,6 +2014,30 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5983,
+          0.9402
+        ],
+        [
+          1,
+          0.0532,
+          0.2555
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.1425,
+              0.5878
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1214,6 +2070,25 @@
         "papers/physics/img/07-1F-Momentum-19.jpg",
         "papers/physics/img/07-1F-Momentum-20.jpg",
         "papers/physics/img/07-1F-Momentum-21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2659,
+          0.6629
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.1425,
+              0.5878
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1244,6 +2119,30 @@
         "papers/physics/img/07-1F-Momentum-19.jpg",
         "papers/physics/img/07-1F-Momentum-20.jpg",
         "papers/physics/img/07-1F-Momentum-21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6762,
+          0.9288
+        ],
+        [
+          2,
+          0.0532,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.1425,
+              0.5878
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1273,6 +2172,13 @@
         "papers/physics/img/07-1F-Momentum-21.jpg",
         "papers/physics/img/07-1F-Momentum-22.jpg",
         "papers/physics/img/07-1F-Momentum-23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2821,
+          0.6591
+        ]
       ]
     },
     {
@@ -1306,6 +2212,30 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q20.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3324,
+          0.5394
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7949,
+              0.8993
+            ],
+            [
+              1,
+              0.0522,
+              0.3229
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1335,6 +2265,30 @@
         "papers/physics/img/07-1F-Momentum-21.jpg",
         "papers/physics/img/07-1F-Momentum-22.jpg",
         "papers/physics/img/07-1F-Momentum-23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5518,
+          0.7474
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7949,
+              0.8993
+            ],
+            [
+              1,
+              0.0522,
+              0.3229
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1365,6 +2319,35 @@
         "papers/physics/img/07-1F-Momentum-21.jpg",
         "papers/physics/img/07-1F-Momentum-22.jpg",
         "papers/physics/img/07-1F-Momentum-23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7578,
+          0.9212
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7949,
+              0.8993
+            ],
+            [
+              1,
+              0.0522,
+              0.3229
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1396,6 +2379,13 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2821,
+          0.6971
+        ]
       ]
     },
     {
@@ -1424,6 +2414,30 @@
       "images": [
         "papers/physics/img/07-1F-Momentum-23.jpg",
         "papers/physics/img/07-1F-Momentum-24.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.2013
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.8462,
+              0.9212
+            ],
+            [
+              1,
+              0.0532,
+              0.0693
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1456,6 +2470,30 @@
       ],
       "figures": [
         "papers/physics/fig/07-1F-Momentum-Q22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2137,
+          0.622
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.8462,
+              0.9212
+            ],
+            [
+              1,
+              0.0532,
+              0.0693
+            ]
+          ]
+        ]
       ]
     }
   ]

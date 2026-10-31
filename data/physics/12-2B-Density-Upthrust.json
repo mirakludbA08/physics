@@ -34,6 +34,13 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1709,
+          0.4615
+        ]
       ]
     },
     {
@@ -67,6 +74,30 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3504,
+          0.4986
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5983,
+              0.9487
+            ],
+            [
+              1,
+              0.0522,
+              0.3172
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -99,6 +130,30 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5043,
+          0.7369
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5983,
+              0.9487
+            ],
+            [
+              1,
+              0.0522,
+              0.3172
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -132,6 +187,35 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q2-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7474,
+          0.7816
+        ],
+        [
+          2,
+          0.0513,
+          0.6315
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5983,
+              0.9487
+            ],
+            [
+              1,
+              0.0522,
+              0.3172
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -161,6 +245,40 @@
         "papers/physics/img/12-2B-Density-Upthrust-03.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-04.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-05.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4292,
+          0.5992
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.7778,
+              0.7968
+            ],
+            [
+              1,
+              0.0513,
+              0.3666
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              1,
+              0.3761,
+              0.4302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -189,6 +307,40 @@
         "papers/physics/img/12-2B-Density-Upthrust-03.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-04.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-05.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6049,
+          0.7464
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.7778,
+              0.7968
+            ],
+            [
+              1,
+              0.0513,
+              0.3666
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              1,
+              0.3761,
+              0.4302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -217,6 +369,45 @@
         "papers/physics/img/12-2B-Density-Upthrust-03.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-04.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-05.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.812,
+          0.924
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.7778,
+              0.7968
+            ],
+            [
+              1,
+              0.0513,
+              0.3666
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              1,
+              0.7597,
+              0.8091
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -247,6 +438,40 @@
         "papers/physics/img/12-2B-Density-Upthrust-03.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-04.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-05.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.075,
+          0.2754
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.7778,
+              0.7968
+            ],
+            [
+              1,
+              0.0513,
+              0.3666
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              1,
+              0.7597,
+              0.8091
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -277,6 +502,35 @@
         "papers/physics/img/12-2B-Density-Upthrust-05.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-06.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-07.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.3115
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.4226,
+              0.8908
+            ]
+          ]
+        ],
+        [
+          "Q4(a)",
+          [
+            [
+              0,
+              0.9003,
+              0.9411
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -306,6 +560,35 @@
         "papers/physics/img/12-2B-Density-Upthrust-05.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-06.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-07.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3172,
+          0.4758
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.4226,
+              0.8908
+            ]
+          ]
+        ],
+        [
+          "Q4(a)",
+          [
+            [
+              0,
+              0.9003,
+              0.9411
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -335,6 +618,25 @@
         "papers/physics/img/12-2B-Density-Upthrust-05.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-06.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-07.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4862,
+          0.6496
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.4226,
+              0.8908
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -367,6 +669,30 @@
         "papers/physics/img/12-2B-Density-Upthrust-05.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-06.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-07.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6629,
+          0.9307
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.4226,
+              0.8908
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -403,6 +729,18 @@
         "papers/physics/fig/12-2B-Density-Upthrust-Q5.jpg",
         "papers/physics/fig/12-2B-Density-Upthrust-Q5-2.jpg",
         "papers/physics/fig/12-2B-Density-Upthrust-Q5-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.245,
+          0.924
+        ],
+        [
+          1,
+          0.0608,
+          0.5375
+        ]
       ]
     },
     {
@@ -435,6 +773,25 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1909
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.6838,
+              0.9354
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -467,6 +824,35 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4805,
+          0.6952
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.6838,
+              0.9354
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.2764,
+              0.4777
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -499,6 +885,40 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7009,
+          0.9307
+        ],
+        [
+          2,
+          0.0532,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.6838,
+              0.9354
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.2764,
+              0.4777
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -531,6 +951,35 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0817,
+          0.2602
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.6838,
+              0.9354
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.2764,
+              0.4777
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -560,6 +1009,30 @@
       "images": [
         "papers/physics/img/12-2B-Density-Upthrust-10.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7455,
+          0.924
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.4074,
+              0.736
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -590,6 +1063,25 @@
       "images": [
         "papers/physics/img/12-2B-Density-Upthrust-10.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1994,
+          0.6268
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.4074,
+              0.736
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -623,6 +1115,18 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.773,
+          0.8196
+        ],
+        [
+          1,
+          0.0522,
+          0.8737
+        ]
       ]
     },
     {
@@ -654,6 +1158,25 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4359,
+          0.584
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1425,
+              0.4255
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -685,6 +1208,35 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6182,
+          0.8775
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1425,
+              0.4255
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              0,
+              0.5964,
+              0.6163
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -717,6 +1269,40 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8832,
+          0.9478
+        ],
+        [
+          1,
+          0.0826,
+          0.2374
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1425,
+              0.4255
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              0,
+              0.5964,
+              0.6163
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -750,6 +1336,40 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q10-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9069,
+          0.9259
+        ],
+        [
+          1,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3846,
+              0.5821
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              0,
+              0.6306,
+              0.8813
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -784,6 +1404,35 @@
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q10.jpg",
         "papers/physics/fig/12-2B-Density-Upthrust-Q10-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1624,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3846,
+              0.5821
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              0,
+              0.6306,
+              0.8813
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -816,6 +1465,35 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q10b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5717,
+          0.8746
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3846,
+              0.5821
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              1,
+              0.3751,
+              0.5689
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -847,6 +1525,40 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q10b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8803,
+          0.9335
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3846,
+              0.5821
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              1,
+              0.3751,
+              0.5689
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -878,6 +1590,13 @@
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q11.jpg",
         "papers/physics/fig/12-2B-Density-Upthrust-Q11-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2745,
+          0.7806
+        ]
       ]
     },
     {
@@ -908,6 +1627,13 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.3894
+        ]
       ]
     },
     {
@@ -936,6 +1662,30 @@
         "papers/physics/img/12-2B-Density-Upthrust-17.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-18.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8946,
+          0.9136
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5432,
+              0.8841
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -965,6 +1715,25 @@
         "papers/physics/img/12-2B-Density-Upthrust-17.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-18.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1102,
+          0.377
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5432,
+              0.8841
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -998,6 +1767,30 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3837,
+          0.943
+        ],
+        [
+          2,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5432,
+              0.8841
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1030,6 +1823,25 @@
         "papers/physics/img/12-2B-Density-Upthrust-17.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-18.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-19.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1994,
+          0.642
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5432,
+              0.8841
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1062,6 +1874,35 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8889,
+          0.9297
+        ],
+        [
+          2,
+          0.0608,
+          0.2469
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.7882,
+              0.8224
+            ],
+            [
+              1,
+              0.0513,
+              0.8756
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1092,6 +1933,45 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q14.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2574,
+          0.4653
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.7882,
+              0.8224
+            ],
+            [
+              1,
+              0.0513,
+              0.8756
+            ]
+          ]
+        ],
+        [
+          "Q14(a)",
+          [
+            [
+              1,
+              0.8889,
+              0.9297
+            ],
+            [
+              2,
+              0.0608,
+              0.2469
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1125,6 +2005,18 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6116,
+          0.9497
+        ],
+        [
+          1,
+          0.0532,
+          0.2887
+        ]
       ]
     },
     {
@@ -1156,6 +2048,25 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7816,
+          0.905
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4359,
+              0.7711
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1189,6 +2100,35 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4055,
+          0.6201
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4359,
+              0.7711
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.0674,
+              0.4036
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1224,6 +2164,40 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6268,
+          0.9307
+        ],
+        [
+          2,
+          0.0608,
+          0.1301
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4359,
+              0.7711
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.0674,
+              0.4036
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1255,6 +2229,13 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3238,
+          0.6211
+        ]
       ]
     },
     {
@@ -1288,6 +2269,30 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4425,
+          0.7977
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.774,
+              0.8367
+            ],
+            [
+              1,
+              0.0513,
+              0.433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1316,6 +2321,35 @@
         "papers/physics/img/12-2B-Density-Upthrust-24.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-25.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.811,
+          0.9307
+        ],
+        [
+          2,
+          0.0608,
+          0.1595
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.774,
+              0.8367
+            ],
+            [
+              1,
+              0.0513,
+              0.433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1343,6 +2377,13 @@
         "papers/physics/img/12-2B-Density-Upthrust-26.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-27.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3694,
+          0.49
+        ]
       ]
     },
     {
@@ -1376,6 +2417,30 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6743,
+          0.8575
+        ],
+        [
+          1,
+          0.2184,
+          0.2659
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.6448,
+              0.6638
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1407,6 +2472,30 @@
         "papers/physics/img/12-2B-Density-Upthrust-26.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-27.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-28.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2764,
+          0.9449
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.6448,
+              0.6638
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1435,6 +2524,25 @@
         "papers/physics/img/12-2B-Density-Upthrust-28.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-29.jpg",
         "papers/physics/img/12-2B-Density-Upthrust-30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5916,
+          0.83
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.2745,
+              0.5793
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1466,6 +2574,30 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8424,
+          0.8832
+        ],
+        [
+          1,
+          0.0589,
+          0.4084
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.2745,
+              0.5793
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1502,6 +2634,30 @@
       ],
       "figures": [
         "papers/physics/fig/12-2B-Density-Upthrust-Q21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4217,
+          0.9193
+        ],
+        [
+          2,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.2745,
+              0.5793
+            ]
+          ]
+        ]
       ]
     }
   ]

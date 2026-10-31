@@ -33,6 +33,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-001.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-002.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-003.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1814,
+          0.4027
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1709
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -64,6 +83,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-001.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-002.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-003.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4093,
+          0.7113
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1709
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -95,6 +133,30 @@
         "papers/biology/img/06AB-Microbiology-Immunity-001.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-002.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-003.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.717,
+          0.9193
+        ],
+        [
+          1,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1709
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -129,6 +191,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q1.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3162,
+          0.924
+        ],
+        [
+          2,
+          0.0608,
+          0.5375
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1709
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -162,6 +248,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7626,
+          0.8357
+        ],
+        [
+          1,
+          0.0646,
+          0.3371
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7331,
+              0.7521
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -193,6 +303,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-003.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-004.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-005.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3865,
+          0.7179
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7331,
+              0.7521
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.3647,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -224,6 +363,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-003.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-004.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-005.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7246,
+          0.924
+        ],
+        [
+          2,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7331,
+              0.7521
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.3647,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -256,6 +429,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7312,
+          0.8433
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.3618,
+              0.8053
+            ],
+            [
+              1,
+              0.0513,
+              0.6999
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              1,
+              0.7094,
+              0.7284
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -292,6 +499,45 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q3-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.849,
+          0.9316
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.3618,
+              0.8053
+            ],
+            [
+              1,
+              0.0513,
+              0.6999
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              1,
+              0.7094,
+              0.7284
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -327,6 +573,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q3-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1624,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.3618,
+              0.8053
+            ],
+            [
+              1,
+              0.0513,
+              0.6999
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              1,
+              0.7094,
+              0.7284
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -363,6 +643,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q3-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3751,
+          0.5973
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.3618,
+              0.8053
+            ],
+            [
+              1,
+              0.0513,
+              0.6999
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -397,6 +701,45 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.5138,
+          0.7132
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.3618,
+              0.8053
+            ],
+            [
+              1,
+              0.0513,
+              0.6999
+            ]
+          ]
+        ],
+        [
+          "Q3(c)",
+          [
+            [
+              2,
+              0.6106,
+              0.6296
+            ],
+            [
+              3,
+              0.0513,
+              0.5119
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -433,6 +776,45 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.7198,
+          0.9193
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.3618,
+              0.8053
+            ],
+            [
+              1,
+              0.0513,
+              0.6999
+            ]
+          ]
+        ],
+        [
+          "Q3(c)",
+          [
+            [
+              2,
+              0.6106,
+              0.6296
+            ],
+            [
+              3,
+              0.0513,
+              0.5119
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -469,6 +851,50 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.925,
+          0.944
+        ],
+        [
+          4,
+          0.0532,
+          0.2678
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.3618,
+              0.8053
+            ],
+            [
+              1,
+              0.0513,
+              0.6999
+            ]
+          ]
+        ],
+        [
+          "Q3(c)",
+          [
+            [
+              2,
+              0.6106,
+              0.6296
+            ],
+            [
+              3,
+              0.0513,
+              0.5119
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -505,6 +931,45 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q3.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.2735,
+          0.4017
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.3618,
+              0.8053
+            ],
+            [
+              1,
+              0.0513,
+              0.6999
+            ]
+          ]
+        ],
+        [
+          "Q3(c)",
+          [
+            [
+              2,
+              0.6106,
+              0.6296
+            ],
+            [
+              3,
+              0.0513,
+              0.5119
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -538,6 +1003,25 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q4-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7303,
+          0.8395
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.5973,
+              0.717
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -569,6 +1053,30 @@
         "papers/biology/img/06AB-Microbiology-Immunity-009.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-010.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-011.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8575,
+          0.9174
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.5973,
+              0.717
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -603,6 +1111,35 @@
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q4.jpg",
         "papers/biology/fig/06AB-Microbiology-Immunity-Q4-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5594,
+          0.6619
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.5973,
+              0.717
+            ]
+          ]
+        ],
+        [
+          "Q4(c)",
+          [
+            [
+              1,
+              0.1994,
+              0.5565
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -636,6 +1173,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6724,
+          0.8803
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.5973,
+              0.717
+            ]
+          ]
+        ],
+        [
+          "Q4(c)",
+          [
+            [
+              1,
+              0.1994,
+              0.5565
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -669,6 +1235,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8946,
+          0.9136
+        ],
+        [
+          2,
+          0.0513,
+          0.2811
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.5973,
+              0.717
+            ]
+          ]
+        ],
+        [
+          "Q4(c)",
+          [
+            [
+              1,
+              0.1994,
+              0.5565
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -701,6 +1301,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8642,
+          0.9392
+        ],
+        [
+          1,
+          0.0513,
+          0.0883
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.4777,
+              0.8538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -730,6 +1354,35 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-011.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-012.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1311,
+          0.3305
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.4777,
+              0.8538
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              1,
+              0.1092,
+              0.1282
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -760,6 +1413,35 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-011.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-012.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3371,
+          0.5366
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.4777,
+              0.8538
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              1,
+              0.1092,
+              0.1282
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -794,6 +1476,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7635,
+          0.7825
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.6828,
+              0.7911
+            ],
+            [
+              1,
+              0.0513,
+              0.7531
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -828,6 +1534,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8072,
+          0.9269
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.6828,
+              0.7911
+            ],
+            [
+              1,
+              0.0513,
+              0.7531
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -860,6 +1595,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-013.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-014.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-015.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1728,
+          0.377
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.6828,
+              0.7911
+            ],
+            [
+              1,
+              0.0513,
+              0.7531
+            ]
+          ]
+        ],
+        [
+          "Q6(c)",
+          [
+            [
+              2,
+              0.1406,
+              0.1795
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -895,6 +1664,45 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3837,
+          0.9183
+        ],
+        [
+          3,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.6828,
+              0.7911
+            ],
+            [
+              1,
+              0.0513,
+              0.7531
+            ]
+          ]
+        ],
+        [
+          "Q6(c)",
+          [
+            [
+              2,
+              0.1406,
+              0.1795
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -924,6 +1732,25 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-015.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-016.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3523,
+          0.472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3238,
+              0.34
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -953,6 +1780,25 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-015.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-016.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4853,
+          0.604
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3238,
+              0.34
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -983,6 +1829,25 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-015.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-016.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6173,
+          0.8386
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3238,
+              0.34
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1015,6 +1880,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8519,
+          0.8832
+        ],
+        [
+          1,
+          0.0522,
+          0.4625
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3238,
+              0.34
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1046,6 +1935,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-016.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-017.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-018.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6876,
+          0.8946
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.6581,
+              0.6771
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1077,6 +1985,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-016.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-017.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-018.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5233,
+          0.811
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.6581,
+              0.6771
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              0,
+              0.9079,
+              0.9487
+            ],
+            [
+              1,
+              0.0532,
+              0.5214
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1109,6 +2051,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q8.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8167,
+          0.9193
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.6581,
+              0.6771
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              0,
+              0.9079,
+              0.9487
+            ],
+            [
+              1,
+              0.0532,
+              0.5214
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1143,6 +2119,45 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q8.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9297,
+          0.9487
+        ],
+        [
+          2,
+          0.0826,
+          0.2374
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.6581,
+              0.6771
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              0,
+              0.9079,
+              0.9487
+            ],
+            [
+              1,
+              0.0532,
+              0.5214
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1176,6 +2191,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8053,
+          0.924
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.3846,
+              0.7939
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1207,6 +2246,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-018.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-019.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-020.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.188,
+          0.3922
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.3846,
+              0.7939
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.1406,
+              0.1947
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1238,6 +2306,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-018.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-019.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-020.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3989,
+          0.7882
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.3846,
+              0.7939
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.1406,
+              0.1947
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1269,6 +2366,30 @@
         "papers/biology/img/06AB-Microbiology-Immunity-018.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-019.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-020.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8015,
+          0.9212
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.3846,
+              0.7939
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1300,6 +2421,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-018.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-019.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-020.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.17,
+          0.4368
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.3846,
+              0.7939
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1331,6 +2471,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-018.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-019.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-020.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4501,
+          0.6866
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.3846,
+              0.7939
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1365,6 +2524,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q10-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4198,
+          0.5261
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8822,
+              0.9012
+            ],
+            [
+              1,
+              0.0513,
+              0.4074
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1398,6 +2581,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.547,
+          0.8395
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8822,
+              0.9012
+            ],
+            [
+              1,
+              0.0513,
+              0.4074
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1427,6 +2634,45 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q10-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.283,
+          0.3846
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8822,
+              0.9012
+            ],
+            [
+              1,
+              0.0513,
+              0.4074
+            ]
+          ]
+        ],
+        [
+          "Q10(c)",
+          [
+            [
+              1,
+              0.85,
+              0.9212
+            ],
+            [
+              2,
+              0.0532,
+              0.2792
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1458,6 +2704,45 @@
         "papers/biology/img/06AB-Microbiology-Immunity-020.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-021.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-022.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.396,
+          0.7569
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8822,
+              0.9012
+            ],
+            [
+              1,
+              0.0513,
+              0.4074
+            ]
+          ]
+        ],
+        [
+          "Q10(c)",
+          [
+            [
+              1,
+              0.85,
+              0.9212
+            ],
+            [
+              2,
+              0.0532,
+              0.2792
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1489,6 +2774,30 @@
         "papers/biology/img/06AB-Microbiology-Immunity-022.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-023.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-024.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1852,
+          0.4948
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.9031,
+              0.9221
+            ],
+            [
+              1,
+              0.0532,
+              0.1747
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1520,6 +2829,30 @@
         "papers/biology/img/06AB-Microbiology-Immunity-022.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-023.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-024.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5081,
+          0.7142
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.9031,
+              0.9221
+            ],
+            [
+              1,
+              0.0532,
+              0.1747
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1551,6 +2884,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-022.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-023.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-024.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7198,
+          0.9345
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.9031,
+              0.9221
+            ],
+            [
+              1,
+              0.0532,
+              0.1747
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1582,6 +2944,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-022.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-023.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-024.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1776,
+          0.377
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.9031,
+              0.9221
+            ],
+            [
+              1,
+              0.0532,
+              0.1747
+            ]
+          ]
+        ],
+        [
+          "Q11(c)",
+          [
+            [
+              2,
+              0.1406,
+              0.1719
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1611,6 +3007,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-022.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-023.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-024.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3837,
+          0.5983
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.9031,
+              0.9221
+            ],
+            [
+              1,
+              0.0532,
+              0.1747
+            ]
+          ]
+        ],
+        [
+          "Q11(c)",
+          [
+            [
+              2,
+              0.1406,
+              0.1719
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1646,6 +3076,30 @@
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q12.jpg",
         "papers/biology/fig/06AB-Microbiology-Immunity-Q12-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3599,
+          0.4625
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.7445,
+              0.7635
+            ],
+            [
+              1,
+              0.0551,
+              0.3571
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1680,6 +3134,30 @@
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q12.jpg",
         "papers/biology/fig/06AB-Microbiology-Immunity-Q12-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4729,
+          0.5755
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.7445,
+              0.7635
+            ],
+            [
+              1,
+              0.0551,
+              0.3571
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1713,6 +3191,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q12-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5859,
+          0.6857
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.7445,
+              0.7635
+            ],
+            [
+              1,
+              0.0551,
+              0.3571
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1744,6 +3246,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-024.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.698,
+          0.7977
+        ],
+        [
+          2,
+          0.0988,
+          0.114
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.7445,
+              0.7635
+            ],
+            [
+              1,
+              0.0551,
+              0.3571
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1774,6 +3305,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-024.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1643,
+          0.2469
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12(b)",
+          [
+            [
+              2,
+              0.1273,
+              0.1586
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1805,6 +3355,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-024.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2526,
+          0.5404
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12(b)",
+          [
+            [
+              2,
+              0.1273,
+              0.1586
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1839,6 +3408,25 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q13-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7654,
+          0.8746
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.736,
+              0.755
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1871,6 +3459,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4245,
+          0.4777
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.736,
+              0.755
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              0,
+              0.8927,
+              0.9117
+            ],
+            [
+              1,
+              0.0513,
+              0.4207
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1907,6 +3529,40 @@
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q13.jpg",
         "papers/biology/fig/06AB-Microbiology-Immunity-Q13-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4834,
+          0.6125
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.736,
+              0.755
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              0,
+              0.8927,
+              0.9117
+            ],
+            [
+              1,
+              0.0513,
+              0.4207
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1942,6 +3598,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6268,
+          0.944
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.736,
+              0.755
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              0,
+              0.8927,
+              0.9117
+            ],
+            [
+              1,
+              0.0513,
+              0.4207
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1976,6 +3666,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q13-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4948,
+          0.7816
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.736,
+              0.755
+            ]
+          ]
+        ],
+        [
+          "Q13(c)",
+          [
+            [
+              2,
+              0.0532,
+              0.4919
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2009,6 +3728,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q13-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7882,
+          0.9288
+        ],
+        [
+          3,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.736,
+              0.755
+            ]
+          ]
+        ],
+        [
+          "Q13(c)",
+          [
+            [
+              2,
+              0.0532,
+              0.4919
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2040,6 +3793,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4292,
+          0.6439
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3324,
+              0.3514
+            ]
+          ]
+        ],
+        [
+          "Q14(a)",
+          [
+            [
+              0,
+              0.3618,
+              0.4302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2071,6 +3853,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6496,
+          0.849
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3324,
+              0.3514
+            ]
+          ]
+        ],
+        [
+          "Q14(a)",
+          [
+            [
+              0,
+              0.3618,
+              0.4302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2102,6 +3913,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4444,
+          0.5565
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3324,
+              0.3514
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              0,
+              0.8623,
+              0.9487
+            ],
+            [
+              1,
+              0.0532,
+              0.4406
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2135,6 +3980,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5622,
+          0.7236
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3324,
+              0.3514
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              0,
+              0.8623,
+              0.9487
+            ],
+            [
+              1,
+              0.0532,
+              0.4406
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2170,6 +4049,45 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7265,
+          0.9259
+        ],
+        [
+          2,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3324,
+              0.3514
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              0,
+              0.8623,
+              0.9487
+            ],
+            [
+              1,
+              0.0532,
+              0.4406
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2201,6 +4119,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2213,
+          0.3485
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3324,
+              0.3514
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              0,
+              0.8623,
+              0.9487
+            ],
+            [
+              1,
+              0.0532,
+              0.4406
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2236,6 +4188,45 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3542,
+          0.9183
+        ],
+        [
+          3,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3324,
+              0.3514
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              0,
+              0.8623,
+              0.9487
+            ],
+            [
+              1,
+              0.0532,
+              0.4406
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2267,6 +4258,25 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5442,
+          0.6505
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2944,
+              0.5337
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2299,6 +4309,25 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6648,
+          0.8414
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2944,
+              0.5337
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2331,6 +4360,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8547,
+          0.9402
+        ],
+        [
+          1,
+          0.0513,
+          0.0741
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2944,
+              0.5337
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2363,6 +4416,25 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0845,
+          0.1994
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2944,
+              0.5337
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2396,6 +4468,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q15-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6106,
+          0.8253
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2944,
+              0.5337
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              1,
+              0.2203,
+              0.6087
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2427,6 +4528,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q15-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8319,
+          0.8651
+        ],
+        [
+          2,
+          0.1425,
+          0.1614
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2944,
+              0.5337
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              1,
+              0.2203,
+              0.6087
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2460,6 +4595,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q15-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1652,
+          0.3504
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2944,
+              0.5337
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              1,
+              0.2203,
+              0.6087
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2493,6 +4657,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q15-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3561,
+          0.4682
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2944,
+              0.5337
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              1,
+              0.2203,
+              0.6087
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2527,6 +4720,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q15-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4739,
+          0.7616
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2944,
+              0.5337
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              1,
+              0.2203,
+              0.6087
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2560,6 +4782,25 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.9088,
+              0.9278
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2596,6 +4837,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9231,
+          0.9421
+        ],
+        [
+          2,
+          0.0532,
+          0.1548
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.9088,
+              0.9278
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.2612,
+              0.9202
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2631,6 +4906,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1662,
+          0.3656
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.9088,
+              0.9278
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.2612,
+              0.9202
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2666,6 +4970,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3713,
+          0.6591
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.9088,
+              0.9278
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.2612,
+              0.9202
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2701,6 +5034,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6648,
+          0.9383
+        ],
+        [
+          3,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.9088,
+              0.9278
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.2612,
+              0.9202
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2733,6 +5100,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-035.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1045,
+          0.3343
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.9088,
+              0.9278
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.2612,
+              0.9202
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2763,6 +5159,25 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-037.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-038.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.51,
+          0.8917
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.4805,
+              0.4995
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2793,6 +5208,35 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-037.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-038.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2526
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.4805,
+              0.4995
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              0,
+              0.905,
+              0.9468
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2822,6 +5266,35 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-037.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-038.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2583,
+          0.4729
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.4805,
+              0.4995
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              0,
+              0.905,
+              0.9468
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2852,6 +5325,35 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-037.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-038.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4796,
+          0.6933
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.4805,
+              0.4995
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              0,
+              0.905,
+              0.9468
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2883,6 +5385,30 @@
         "papers/biology/img/06AB-Microbiology-Immunity-038.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-039.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-040.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8699,
+          0.9307
+        ],
+        [
+          1,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.8405,
+              0.8594
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2917,6 +5443,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8243,
+          0.9221
+        ],
+        [
+          2,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.8405,
+              0.8594
+            ]
+          ]
+        ],
+        [
+          "Q18(b)",
+          [
+            [
+              1,
+              0.2868,
+              0.8215
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2950,6 +5510,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q18.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2507,
+          0.3495
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.8405,
+              0.8594
+            ]
+          ]
+        ],
+        [
+          "Q18(b)",
+          [
+            [
+              1,
+              0.2868,
+              0.8215
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2984,6 +5573,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q18.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3637,
+          0.6657
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.8405,
+              0.8594
+            ]
+          ]
+        ],
+        [
+          "Q18(b)",
+          [
+            [
+              1,
+              0.2868,
+              0.8215
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3015,6 +5633,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3181,
+          0.416
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.8129,
+              0.8319
+            ]
+          ]
+        ],
+        [
+          "Q19(a)",
+          [
+            [
+              0,
+              0.8424,
+              0.8737
+            ],
+            [
+              1,
+              0.0513,
+              0.3162
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3048,6 +5700,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4217,
+          0.5195
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.8129,
+              0.8319
+            ]
+          ]
+        ],
+        [
+          "Q19(a)",
+          [
+            [
+              0,
+              0.8424,
+              0.8737
+            ],
+            [
+              1,
+              0.0513,
+              0.3162
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3082,6 +5768,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q19-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.2678
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.8129,
+              0.8319
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              1,
+              0.5328,
+              0.9497
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3116,6 +5831,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q19-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2735,
+          0.4729
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.8129,
+              0.8319
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              1,
+              0.5328,
+              0.9497
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3147,6 +5891,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-040.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-041.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-042.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4796,
+          0.8841
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.8129,
+              0.8319
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              1,
+              0.5328,
+              0.9497
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3179,6 +5952,25 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q20-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2203,
+          0.4805
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.1909,
+              0.2099
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3209,6 +6001,25 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-043.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-044.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.49,
+          0.7047
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.1909,
+              0.2099
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3240,6 +6051,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7702,
+          0.8044
+        ],
+        [
+          1,
+          0.0513,
+          0.5651
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.1909,
+              0.2099
+            ]
+          ]
+        ],
+        [
+          "Q20(b)",
+          [
+            [
+              0,
+              0.7179,
+              0.7711
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3272,6 +6117,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q20-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5717,
+          0.7037
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.1909,
+              0.2099
+            ]
+          ]
+        ],
+        [
+          "Q20(b)",
+          [
+            [
+              0,
+              0.7179,
+              0.7711
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3302,6 +6176,30 @@
         "papers/biology/img/06AB-Microbiology-Immunity-044.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-045.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-046.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1406,
+          0.2593
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.9041,
+              0.9231
+            ],
+            [
+              1,
+              0.0532,
+              0.1301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3335,6 +6233,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3343,
+          0.4387
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.9041,
+              0.9231
+            ],
+            [
+              1,
+              0.0532,
+              0.1301
+            ]
+          ]
+        ],
+        [
+          "Q21(b)",
+          [
+            [
+              1,
+              0.302,
+              0.3409
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3368,6 +6300,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q21-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.452,
+          0.567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.9041,
+              0.9231
+            ],
+            [
+              1,
+              0.0532,
+              0.1301
+            ]
+          ]
+        ],
+        [
+          "Q21(b)",
+          [
+            [
+              1,
+              0.302,
+              0.3409
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3399,6 +6365,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-044.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-045.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-046.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6201,
+          0.9117
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.9041,
+              0.9231
+            ],
+            [
+              1,
+              0.0532,
+              0.1301
+            ]
+          ]
+        ],
+        [
+          "Q21(c)",
+          [
+            [
+              1,
+              0.5878,
+              0.6268
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3430,6 +6430,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-044.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-045.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-046.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.3704
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.9041,
+              0.9231
+            ],
+            [
+              1,
+              0.0532,
+              0.1301
+            ]
+          ]
+        ],
+        [
+          "Q21(c)",
+          [
+            [
+              1,
+              0.5878,
+              0.6268
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3461,6 +6495,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-044.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-045.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-046.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4055,
+          0.7683
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.9041,
+              0.9231
+            ],
+            [
+              1,
+              0.0532,
+              0.1301
+            ]
+          ]
+        ],
+        [
+          "Q21(c)",
+          [
+            [
+              1,
+              0.5878,
+              0.6268
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3495,6 +6563,25 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.114,
+          0.6467
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              1,
+              0.0855,
+              0.1016
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3529,6 +6616,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q22-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.66,
+          0.679
+        ],
+        [
+          2,
+          0.0541,
+          0.6534
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              1,
+              0.0855,
+              0.1016
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3562,6 +6673,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-048.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.9221,
+          0.9411
+        ],
+        [
+          3,
+          0.0826,
+          0.2374
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              1,
+              0.0855,
+              0.1016
+            ]
+          ]
+        ],
+        [
+          "Q22(c)",
+          [
+            [
+              2,
+              0.6781,
+              0.9183
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3594,6 +6739,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-048.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2431,
+          0.4435
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              1,
+              0.0855,
+              0.1016
+            ]
+          ]
+        ],
+        [
+          "Q22(c)",
+          [
+            [
+              2,
+              0.6781,
+              0.9183
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3628,6 +6802,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q22-3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.4492,
+          0.6828
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              1,
+              0.0855,
+              0.1016
+            ]
+          ]
+        ],
+        [
+          "Q22(c)",
+          [
+            [
+              2,
+              0.6781,
+              0.9183
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3663,6 +6866,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q22-3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.6885,
+          0.9174
+        ],
+        [
+          4,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              1,
+              0.0855,
+              0.1016
+            ]
+          ]
+        ],
+        [
+          "Q22(c)",
+          [
+            [
+              2,
+              0.6781,
+              0.9183
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3694,6 +6931,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-050.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-051.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-052.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5451,
+          0.7664
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.245,
+              0.5347
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3725,6 +6981,30 @@
         "papers/biology/img/06AB-Microbiology-Immunity-050.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-051.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-052.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7797,
+          0.9278
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.245,
+              0.5347
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3756,6 +7036,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-050.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-051.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-052.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1111,
+          0.3333
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.245,
+              0.5347
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3789,6 +7088,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7265,
+          0.9269
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.245,
+              0.5347
+            ]
+          ]
+        ],
+        [
+          "Q23(d)",
+          [
+            [
+              1,
+              0.3466,
+              0.7236
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3821,6 +7149,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q23.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.34
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.245,
+              0.5347
+            ]
+          ]
+        ],
+        [
+          "Q23(d)",
+          [
+            [
+              1,
+              0.3466,
+              0.7236
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3852,6 +7209,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-050.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-051.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-052.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3466,
+          0.5973
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.245,
+              0.5347
+            ]
+          ]
+        ],
+        [
+          "Q23(d)",
+          [
+            [
+              1,
+              0.3466,
+              0.7236
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3881,6 +7267,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-052.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-053.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-054.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.793,
+          0.8756
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.7417,
+              0.7607
+            ]
+          ]
+        ],
+        [
+          "Q24(a)",
+          [
+            [
+              0,
+              0.7711,
+              0.7901
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3912,6 +7327,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-052.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-053.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-054.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8813,
+          0.9345
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.7417,
+              0.7607
+            ]
+          ]
+        ],
+        [
+          "Q24(a)",
+          [
+            [
+              0,
+              0.7711,
+              0.7901
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3942,6 +7391,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-052.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-053.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-054.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1994,
+          0.4055
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.7417,
+              0.7607
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3974,6 +7442,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q24.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4188,
+          0.9269
+        ],
+        [
+          2,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.7417,
+              0.7607
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4006,6 +7498,25 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4065,
+          0.8177
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.3324,
+              0.3932
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4038,6 +7549,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q25-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.868,
+          0.9174
+        ],
+        [
+          1,
+          0.0513,
+          0.6087
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.3324,
+              0.3932
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              0,
+              0.831,
+              0.8651
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4068,6 +7613,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-054.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-055.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-056.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6144,
+          0.8139
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.3324,
+              0.3932
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              0,
+              0.831,
+              0.8651
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4099,6 +7673,30 @@
         "papers/biology/img/06AB-Microbiology-Immunity-054.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-055.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-056.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8272,
+          0.9259
+        ],
+        [
+          2,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.3324,
+              0.3932
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4129,6 +7727,30 @@
         "papers/biology/img/06AB-Microbiology-Immunity-056.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-057.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-058.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3979,
+          0.5821
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.4995,
+              0.6059
+            ],
+            [
+              1,
+              0.0513,
+              0.3875
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4163,6 +7785,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.603,
+          0.8243
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.4995,
+              0.6059
+            ],
+            [
+              1,
+              0.0513,
+              0.3875
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4193,6 +7839,45 @@
         "papers/biology/img/06AB-Microbiology-Immunity-056.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-057.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-058.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8708,
+          0.9288
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.4995,
+              0.6059
+            ],
+            [
+              1,
+              0.0513,
+              0.3875
+            ]
+          ]
+        ],
+        [
+          "Q26(c)",
+          [
+            [
+              1,
+              0.8376,
+              0.8775
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4229,6 +7914,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q26.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1045,
+          0.6125
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.4995,
+              0.6059
+            ],
+            [
+              1,
+              0.0513,
+              0.3875
+            ]
+          ]
+        ],
+        [
+          "Q26(c)",
+          [
+            [
+              1,
+              0.8376,
+              0.8775
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4260,6 +7979,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-058.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-059.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-060.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1197,
+          0.4065
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.7588,
+              0.9402
+            ],
+            [
+              1,
+              0.0532,
+              0.0693
+            ]
+          ]
+        ],
+        [
+          "Q27(a)",
+          [
+            [
+              1,
+              0.0817,
+              0.1159
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4294,6 +8047,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4131,
+          0.9231
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.7588,
+              0.9402
+            ],
+            [
+              1,
+              0.0532,
+              0.0693
+            ]
+          ]
+        ],
+        [
+          "Q27(a)",
+          [
+            [
+              1,
+              0.0817,
+              0.1159
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4325,6 +8112,30 @@
         "papers/biology/img/06AB-Microbiology-Immunity-058.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-059.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-060.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.4957
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.7588,
+              0.9402
+            ],
+            [
+              1,
+              0.0532,
+              0.0693
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4356,6 +8167,30 @@
         "papers/biology/img/06AB-Microbiology-Immunity-058.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-059.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-060.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5081,
+          0.8053
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.7588,
+              0.9402
+            ],
+            [
+              1,
+              0.0532,
+              0.0693
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4387,6 +8222,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-061.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-062.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-063.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.2887
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4418,6 +8272,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-061.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-062.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-063.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2953,
+          0.4065
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4451,6 +8324,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q28.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9069,
+          0.9259
+        ],
+        [
+          2,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q28(b)",
+          [
+            [
+              1,
+              0.4198,
+              0.9041
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4485,6 +8392,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q28.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3096,
+          0.509
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q28(b)",
+          [
+            [
+              1,
+              0.4198,
+              0.9041
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4517,6 +8453,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-061.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-062.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-063.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5442,
+          0.7436
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q28(c)",
+          [
+            [
+              2,
+              0.5223,
+              0.5413
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4548,6 +8513,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-061.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-062.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-063.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7493,
+          0.9202
+        ],
+        [
+          3,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q28(c)",
+          [
+            [
+              2,
+              0.5223,
+              0.5413
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4583,6 +8582,35 @@
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q29-2.jpg",
         "papers/biology/fig/06AB-Microbiology-Immunity-Q29-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.528,
+          0.6448
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.265,
+              0.284
+            ]
+          ]
+        ],
+        [
+          "Q29(a)",
+          [
+            [
+              0,
+              0.2944,
+              0.5242
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4616,6 +8644,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q29-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6562,
+          0.774
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.265,
+              0.284
+            ]
+          ]
+        ],
+        [
+          "Q29(a)",
+          [
+            [
+              0,
+              0.2944,
+              0.5242
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4649,6 +8706,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q29-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7844,
+          0.9411
+        ],
+        [
+          1,
+          0.0513,
+          0.1054
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.265,
+              0.284
+            ]
+          ]
+        ],
+        [
+          "Q29(a)",
+          [
+            [
+              0,
+              0.2944,
+              0.5242
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4680,6 +8771,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6382,
+          0.754
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.265,
+              0.284
+            ]
+          ]
+        ],
+        [
+          "Q29(b)",
+          [
+            [
+              1,
+              0.1263,
+              0.6363
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4714,6 +8834,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7702,
+          0.9402
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.265,
+              0.284
+            ]
+          ]
+        ],
+        [
+          "Q29(b)",
+          [
+            [
+              1,
+              0.1263,
+              0.6363
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4745,6 +8899,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-063.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0817,
+          0.8129
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.265,
+              0.284
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4780,6 +8953,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q30.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8243,
+          0.943
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              1,
+              0.075,
+              0.5755
+            ],
+            [
+              2,
+              0.0513,
+              0.8148
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4814,6 +9011,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q30.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.0532,
+          0.2783
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              1,
+              0.075,
+              0.5755
+            ],
+            [
+              2,
+              0.0513,
+              0.8148
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4848,6 +9069,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q30.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2915,
+          0.4103
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              1,
+              0.075,
+              0.5755
+            ],
+            [
+              2,
+              0.0513,
+              0.8148
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4884,6 +9129,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q30-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.4169,
+          0.6752
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              1,
+              0.075,
+              0.5755
+            ],
+            [
+              2,
+              0.0513,
+              0.8148
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4916,6 +9185,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-067.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.6876,
+          0.8186
+        ],
+        [
+          4,
+          0.114,
+          0.1292
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              1,
+              0.075,
+              0.5755
+            ],
+            [
+              2,
+              0.0513,
+              0.8148
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4954,6 +9252,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q30.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.1425,
+          0.7151
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              1,
+              0.075,
+              0.5755
+            ],
+            [
+              2,
+              0.0513,
+              0.8148
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4985,6 +9307,30 @@
         "papers/biology/img/06AB-Microbiology-Immunity-069.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-070.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-071.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5726,
+          0.7949
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.9107,
+              0.9297
+            ],
+            [
+              1,
+              0.0532,
+              0.5632
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5016,6 +9362,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8082,
+          0.9145
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.9107,
+              0.9297
+            ],
+            [
+              1,
+              0.0532,
+              0.5632
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5050,6 +9420,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q31.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.9107,
+              0.9297
+            ],
+            [
+              1,
+              0.0532,
+              0.5632
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5083,6 +9477,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2526
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.509,
+              0.9003
+            ]
+          ]
+        ],
+        [
+          "Q32(a)",
+          [
+            [
+              0,
+              0.9107,
+              0.9297
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5117,6 +9540,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2583,
+          0.4577
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.509,
+              0.9003
+            ]
+          ]
+        ],
+        [
+          "Q32(a)",
+          [
+            [
+              0,
+              0.9107,
+              0.9297
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5150,6 +9602,25 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.471,
+          0.6933
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.509,
+              0.9003
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5184,6 +9655,25 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7056,
+          0.9278
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.509,
+              0.9003
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5218,6 +9708,25 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q32.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.2745
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.509,
+              0.9003
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5252,6 +9761,25 @@
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q33-2.jpg",
         "papers/biology/fig/06AB-Microbiology-Immunity-Q33-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6667,
+          0.7759
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.4217,
+              0.6562
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5285,6 +9813,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.227,
+          0.3381
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.4217,
+              0.6562
+            ]
+          ]
+        ],
+        [
+          "Q33(b)",
+          [
+            [
+              0,
+              0.7939,
+              0.8348
+            ],
+            [
+              1,
+              0.0636,
+              0.2156
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5318,6 +9880,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3447,
+          0.5442
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.4217,
+              0.6562
+            ]
+          ]
+        ],
+        [
+          "Q33(b)",
+          [
+            [
+              0,
+              0.7939,
+              0.8348
+            ],
+            [
+              1,
+              0.0636,
+              0.2156
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5349,6 +9945,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5499,
+          0.8376
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.4217,
+              0.6562
+            ]
+          ]
+        ],
+        [
+          "Q33(b)",
+          [
+            [
+              0,
+              0.7939,
+              0.8348
+            ],
+            [
+              1,
+              0.0636,
+              0.2156
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5380,6 +10010,45 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8433,
+          0.9259
+        ],
+        [
+          2,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.4217,
+              0.6562
+            ]
+          ]
+        ],
+        [
+          "Q33(b)",
+          [
+            [
+              0,
+              0.7939,
+              0.8348
+            ],
+            [
+              1,
+              0.0636,
+              0.2156
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5411,6 +10080,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-073.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2507,
+          0.4653
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.4217,
+              0.6562
+            ]
+          ]
+        ],
+        [
+          "Q33(b)",
+          [
+            [
+              0,
+              0.7939,
+              0.8348
+            ],
+            [
+              1,
+              0.0636,
+              0.2156
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5443,6 +10146,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-076.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-077.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-078.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6562,
+          0.8063
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.6116,
+              0.6429
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5475,6 +10197,30 @@
         "papers/biology/img/06AB-Microbiology-Immunity-076.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-077.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-078.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8196,
+          0.9392
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.6116,
+              0.6429
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5509,6 +10255,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2906,
+          0.8632
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.6116,
+              0.6429
+            ]
+          ]
+        ],
+        [
+          "Q34(c)",
+          [
+            [
+              1,
+              0.2279,
+              0.2972
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5544,6 +10319,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q34-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8699,
+          0.9183
+        ],
+        [
+          2,
+          0.0532,
+          0.6999
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.6116,
+              0.6429
+            ]
+          ]
+        ],
+        [
+          "Q34(c)",
+          [
+            [
+              1,
+              0.2279,
+              0.2972
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5577,6 +10386,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-076.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-077.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-078.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7056,
+          0.9364
+        ],
+        [
+          3,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.6116,
+              0.6429
+            ]
+          ]
+        ],
+        [
+          "Q34(c)",
+          [
+            [
+              1,
+              0.2279,
+              0.2972
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5608,6 +10451,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-076.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-077.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-078.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2802,
+          0.4065
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.6116,
+              0.6429
+            ]
+          ]
+        ],
+        [
+          "Q34(c)",
+          [
+            [
+              1,
+              0.2279,
+              0.2972
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5639,6 +10511,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7882,
+          0.8879
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.5537,
+              0.5726
+            ]
+          ]
+        ],
+        [
+          "Q35(a)",
+          [
+            [
+              0,
+              0.5831,
+              0.7854
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5673,6 +10574,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9012,
+          0.9354
+        ],
+        [
+          1,
+          0.0826,
+          0.3542
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.5537,
+              0.5726
+            ]
+          ]
+        ],
+        [
+          "Q35(a)",
+          [
+            [
+              0,
+              0.5831,
+              0.7854
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5706,6 +10641,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q35-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3675,
+          0.925
+        ],
+        [
+          2,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.5537,
+              0.5726
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5738,6 +10697,25 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q35-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2279,
+          0.7939
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.5537,
+              0.5726
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5769,6 +10747,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-080.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-081.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-082.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1111,
+          0.4938
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              1,
+              0.0532,
+              0.1007
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5801,6 +10798,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q36.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.34
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              1,
+              0.0532,
+              0.1007
+            ]
+          ]
+        ],
+        [
+          "Q36(b)",
+          [
+            [
+              1,
+              0.5071,
+              0.9259
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5834,6 +10860,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q36.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3466,
+          0.4577
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              1,
+              0.0532,
+              0.1007
+            ]
+          ]
+        ],
+        [
+          "Q36(b)",
+          [
+            [
+              1,
+              0.5071,
+              0.9259
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5865,6 +10920,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-080.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-081.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-082.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.471,
+          0.7227
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              1,
+              0.0532,
+              0.1007
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5898,6 +10972,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8993,
+          0.9183
+        ],
+        [
+          1,
+          0.0513,
+          0.1671
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.8699,
+              0.886
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5928,6 +11026,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-082.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-083.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-084.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2602,
+          0.4891
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.8699,
+              0.886
+            ]
+          ]
+        ],
+        [
+          "Q37(b)",
+          [
+            [
+              1,
+              0.1928,
+              0.2621
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5959,6 +11086,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-082.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-083.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-084.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4948,
+          0.8557
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.8699,
+              0.886
+            ]
+          ]
+        ],
+        [
+          "Q37(b)",
+          [
+            [
+              1,
+              0.1928,
+              0.2621
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5989,6 +11145,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-082.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-083.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-084.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8623,
+          0.9307
+        ],
+        [
+          2,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.8699,
+              0.886
+            ]
+          ]
+        ],
+        [
+          "Q37(b)",
+          [
+            [
+              1,
+              0.1928,
+              0.2621
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6020,6 +11210,13 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.548,
+          0.7939
+        ]
       ]
     },
     {
@@ -6047,6 +11244,25 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-084.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-085.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8566,
+          0.9098
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38(b)",
+          [
+            [
+              0,
+              0.8044,
+              0.8575
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6076,6 +11292,30 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-084.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-085.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9155,
+          0.9345
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38(b)",
+          [
+            [
+              0,
+              0.8044,
+              0.8575
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6106,6 +11346,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-085.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-086.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-087.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7455,
+          0.9449
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.2745,
+              0.7132
+            ]
+          ]
+        ],
+        [
+          "Q39(a)",
+          [
+            [
+              0,
+              0.7236,
+              0.7426
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6136,6 +11405,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-085.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-086.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-087.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2526
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.2745,
+              0.7132
+            ]
+          ]
+        ],
+        [
+          "Q39(a)",
+          [
+            [
+              0,
+              0.7236,
+              0.7426
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6168,6 +11466,25 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2659,
+          0.4872
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.2745,
+              0.7132
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6201,6 +11518,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5527,
+          0.6809
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.2745,
+              0.7132
+            ]
+          ]
+        ],
+        [
+          "Q39(c)",
+          [
+            [
+              1,
+              0.5005,
+              0.5537
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6234,6 +11580,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6866,
+          0.9459
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.2745,
+              0.7132
+            ]
+          ]
+        ],
+        [
+          "Q39(c)",
+          [
+            [
+              1,
+              0.5005,
+              0.5537
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6264,6 +11644,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-087.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-088.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-089.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3238,
+          0.5299
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.265,
+              0.3115
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6298,6 +11697,35 @@
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q40.jpg",
         "papers/biology/fig/06AB-Microbiology-Immunity-Q40-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7835,
+          0.9278
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.265,
+              0.3115
+            ]
+          ]
+        ],
+        [
+          "Q40(b)",
+          [
+            [
+              0,
+              0.5432,
+              0.7806
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6331,6 +11759,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q40.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1643
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.265,
+              0.3115
+            ]
+          ]
+        ],
+        [
+          "Q40(b)",
+          [
+            [
+              0,
+              0.5432,
+              0.7806
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6361,6 +11818,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-087.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-088.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-089.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1709,
+          0.3856
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.265,
+              0.3115
+            ]
+          ]
+        ],
+        [
+          "Q40(b)",
+          [
+            [
+              0,
+              0.5432,
+              0.7806
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6391,6 +11877,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-087.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-088.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-089.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3913,
+          0.6059
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.265,
+              0.3115
+            ]
+          ]
+        ],
+        [
+          "Q40(b)",
+          [
+            [
+              0,
+              0.5432,
+              0.7806
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6422,6 +11937,30 @@
         "papers/biology/img/06AB-Microbiology-Immunity-087.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-088.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-089.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6192,
+          0.9288
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.265,
+              0.3115
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6454,6 +11993,25 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3039,
+          0.5992
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.2745,
+              0.2934
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6485,6 +12043,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6363,
+          0.8575
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.2745,
+              0.2934
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6519,6 +12096,45 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q41-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8006,
+          0.9193
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.2745,
+              0.2934
+            ]
+          ]
+        ],
+        [
+          "Q41(c)",
+          [
+            [
+              0,
+              0.8708,
+              0.9421
+            ],
+            [
+              1,
+              0.0532,
+              0.7911
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6552,6 +12168,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q41-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1406,
+          0.2764
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.2745,
+              0.2934
+            ]
+          ]
+        ],
+        [
+          "Q41(c)",
+          [
+            [
+              0,
+              0.8708,
+              0.9421
+            ],
+            [
+              1,
+              0.0532,
+              0.7911
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6586,6 +12236,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q41-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2896,
+          0.4084
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.2745,
+              0.2934
+            ]
+          ]
+        ],
+        [
+          "Q41(c)",
+          [
+            [
+              0,
+              0.8708,
+              0.9421
+            ],
+            [
+              1,
+              0.0532,
+              0.7911
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6622,6 +12306,45 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q41-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4217,
+          0.9202
+        ],
+        [
+          3,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.2745,
+              0.2934
+            ]
+          ]
+        ],
+        [
+          "Q41(c)",
+          [
+            [
+              0,
+              0.8708,
+              0.9421
+            ],
+            [
+              1,
+              0.0532,
+              0.7911
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6655,6 +12378,25 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q42-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3238,
+          0.4302
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.2944,
+              0.3134
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6687,6 +12429,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q42.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5309,
+          0.7303
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.2944,
+              0.3134
+            ]
+          ]
+        ],
+        [
+          "Q42(b)",
+          [
+            [
+              0,
+              0.4511,
+              0.4919
+            ],
+            [
+              1,
+              0.0522,
+              0.528
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6719,6 +12495,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q42.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7369,
+          0.9364
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.2944,
+              0.3134
+            ]
+          ]
+        ],
+        [
+          "Q42(b)",
+          [
+            [
+              0,
+              0.4511,
+              0.4919
+            ],
+            [
+              1,
+              0.0522,
+              0.528
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6749,6 +12559,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-094.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-095.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-096.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2754,
+          0.6572
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.1861,
+              0.2621
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6779,6 +12608,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-094.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-095.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-096.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7037,
+          0.9069
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.1861,
+              0.2621
+            ]
+          ]
+        ],
+        [
+          "Q43(b)",
+          [
+            [
+              0,
+              0.6705,
+              0.7104
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6809,6 +12667,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-094.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-095.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-096.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9136,
+          0.9478
+        ],
+        [
+          1,
+          0.1358,
+          0.151
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.1861,
+              0.2621
+            ]
+          ]
+        ],
+        [
+          "Q43(b)",
+          [
+            [
+              0,
+              0.6705,
+              0.7104
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6840,6 +12732,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q43.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5783,
+          0.7996
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.1861,
+              0.2621
+            ]
+          ]
+        ],
+        [
+          "Q43(c)",
+          [
+            [
+              1,
+              0.1643,
+              0.5689
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6873,6 +12794,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q43.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8129,
+          0.9174
+        ],
+        [
+          2,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.1861,
+              0.2621
+            ]
+          ]
+        ],
+        [
+          "Q43(c)",
+          [
+            [
+              1,
+              0.1643,
+              0.5689
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6903,6 +12858,30 @@
         "papers/biology/img/06AB-Microbiology-Immunity-096.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-097.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-098.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8642,
+          0.9202
+        ],
+        [
+          1,
+          0.0513,
+          0.1216
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.4406,
+              0.8538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6933,6 +12912,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-096.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-097.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-098.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1909,
+          0.3096
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.4406,
+              0.8538
+            ]
+          ]
+        ],
+        [
+          "Q44(b)",
+          [
+            [
+              1,
+              0.1434,
+              0.1975
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6965,6 +12973,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q44.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3238,
+          0.9459
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.4406,
+              0.8538
+            ]
+          ]
+        ],
+        [
+          "Q44(b)",
+          [
+            [
+              1,
+              0.1434,
+              0.1975
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6995,6 +13037,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-096.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-097.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-098.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1624,
+          0.4805
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.4406,
+              0.8538
+            ]
+          ]
+        ],
+        [
+          "Q44(c)",
+          [
+            [
+              2,
+              0.1406,
+              0.1595
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7024,6 +13095,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-096.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-097.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-098.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4862,
+          0.6135
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.4406,
+              0.8538
+            ]
+          ]
+        ],
+        [
+          "Q44(c)",
+          [
+            [
+              2,
+              0.1406,
+              0.1595
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7054,6 +13154,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-096.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-097.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-098.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6192,
+          0.8784
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.4406,
+              0.8538
+            ]
+          ]
+        ],
+        [
+          "Q44(c)",
+          [
+            [
+              2,
+              0.1406,
+              0.1595
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7086,6 +13215,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7521,
+          0.7711
+        ],
+        [
+          1,
+          0.0513,
+          0.2868
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.1909,
+              0.284
+            ]
+          ]
+        ],
+        [
+          "Q45(a)",
+          [
+            [
+              0,
+              0.2944,
+              0.7493
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7119,6 +13282,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q45.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2811,
+          0.3998
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.1909,
+              0.284
+            ]
+          ]
+        ],
+        [
+          "Q45(a)",
+          [
+            [
+              0,
+              0.2944,
+              0.7493
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7149,6 +13341,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-099.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-100.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-101.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4207,
+          0.6572
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.1909,
+              0.284
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7181,6 +13392,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-099.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-100.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-101.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7028,
+          0.9373
+        ],
+        [
+          2,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.1909,
+              0.284
+            ]
+          ]
+        ],
+        [
+          "Q45(c)",
+          [
+            [
+              1,
+              0.6705,
+              0.7094
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7212,6 +13457,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-099.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-100.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-101.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3096,
+          0.6268
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.1909,
+              0.284
+            ]
+          ]
+        ],
+        [
+          "Q45(c)",
+          [
+            [
+              1,
+              0.6705,
+              0.7094
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7243,6 +13517,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-102.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-103.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-104.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3504,
+          0.4986
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.773,
+              0.8661
+            ],
+            [
+              1,
+              0.0513,
+              0.3077
+            ]
+          ]
+        ],
+        [
+          "Q46(a)",
+          [
+            [
+              1,
+              0.3181,
+              0.3571
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7277,6 +13585,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q46.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5119,
+          0.8405
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.773,
+              0.8661
+            ],
+            [
+              1,
+              0.0513,
+              0.3077
+            ]
+          ]
+        ],
+        [
+          "Q46(a)",
+          [
+            [
+              1,
+              0.3181,
+              0.3571
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7310,6 +13652,45 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q46-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8955,
+          0.944
+        ],
+        [
+          2,
+          0.0532,
+          0.5973
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.773,
+              0.8661
+            ],
+            [
+              1,
+              0.0513,
+              0.3077
+            ]
+          ]
+        ],
+        [
+          "Q46(b)",
+          [
+            [
+              1,
+              0.8575,
+              0.8898
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7341,6 +13722,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-102.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-103.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-104.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6106,
+          0.868
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.773,
+              0.8661
+            ],
+            [
+              1,
+              0.0513,
+              0.3077
+            ]
+          ]
+        ],
+        [
+          "Q46(b)",
+          [
+            [
+              1,
+              0.8575,
+              0.8898
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7372,6 +13787,45 @@
         "papers/biology/img/06AB-Microbiology-Immunity-102.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-103.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-104.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.906,
+          0.9392
+        ],
+        [
+          3,
+          0.0826,
+          0.4131
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.773,
+              0.8661
+            ],
+            [
+              1,
+              0.0513,
+              0.3077
+            ]
+          ]
+        ],
+        [
+          "Q46(b)",
+          [
+            [
+              1,
+              0.8575,
+              0.8898
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7402,6 +13856,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-104.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-105.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-106.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.4796
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.5594,
+              0.9326
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7432,6 +13905,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-104.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-105.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-106.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5404,
+          0.7597
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.5594,
+              0.9326
+            ]
+          ]
+        ],
+        [
+          "Q47(b)",
+          [
+            [
+              1,
+              0.4929,
+              0.547
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7462,6 +13964,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-104.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-105.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-106.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7654,
+          0.9364
+        ],
+        [
+          2,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.5594,
+              0.9326
+            ]
+          ]
+        ],
+        [
+          "Q47(b)",
+          [
+            [
+              1,
+              0.4929,
+              0.547
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7492,6 +14028,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-104.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-105.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-106.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1918,
+          0.3913
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.5594,
+              0.9326
+            ]
+          ]
+        ],
+        [
+          "Q47(b)",
+          [
+            [
+              1,
+              0.4929,
+              0.547
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7521,6 +14086,25 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-106.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-107.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5973,
+          0.8632
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.5385,
+              0.5869
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7551,6 +14135,40 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-106.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-107.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9098,
+          0.9335
+        ],
+        [
+          1,
+          0.1292,
+          0.1443
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.5385,
+              0.5869
+            ]
+          ]
+        ],
+        [
+          "Q48(b)",
+          [
+            [
+              0,
+              0.8746,
+              0.9164
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7579,6 +14197,35 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-106.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-107.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1481,
+          0.2621
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.5385,
+              0.5869
+            ]
+          ]
+        ],
+        [
+          "Q48(b)",
+          [
+            [
+              0,
+              0.8746,
+              0.9164
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7608,6 +14255,25 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-106.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-107.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2754,
+          0.4967
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.5385,
+              0.5869
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7637,6 +14303,25 @@
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-106.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-107.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.51,
+          0.8044
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.5385,
+              0.5869
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7668,6 +14353,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-108.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2336,
+          0.3533
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              1,
+              0.1016,
+              0.2241
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7698,6 +14402,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-108.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3666,
+          0.5024
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              1,
+              0.1016,
+              0.2241
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7729,6 +14452,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-108.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5233,
+          0.7303
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              1,
+              0.1016,
+              0.2241
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7763,6 +14505,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q49.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7436,
+          0.7844
+        ],
+        [
+          2,
+          0.0513,
+          0.4672
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              1,
+              0.1016,
+              0.2241
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7795,6 +14561,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q49-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.811,
+          0.9373
+        ],
+        [
+          3,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              1,
+              0.1016,
+              0.2241
+            ]
+          ]
+        ],
+        [
+          "Q49(e)",
+          [
+            [
+              2,
+              0.4805,
+              0.8091
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7829,6 +14629,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q49-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1339,
+          0.4359
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              1,
+              0.1016,
+              0.2241
+            ]
+          ]
+        ],
+        [
+          "Q49(e)",
+          [
+            [
+              2,
+              0.4805,
+              0.8091
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7863,6 +14692,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q50.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6562,
+          0.6876
+        ],
+        [
+          1,
+          0.0513,
+          0.6724
+        ]
+      ],
+      "ctx": [
+        [
+          "Q50",
+          [
+            [
+              0,
+              0.5831,
+              0.6458
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7899,6 +14752,45 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q50-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.4131,
+          0.6277
+        ]
+      ],
+      "ctx": [
+        [
+          "Q50",
+          [
+            [
+              0,
+              0.5831,
+              0.6458
+            ]
+          ]
+        ],
+        [
+          "Q50(b)",
+          [
+            [
+              1,
+              0.6847,
+              0.831
+            ],
+            [
+              2,
+              0.0513,
+              0.6657
+            ],
+            [
+              3,
+              0.0513,
+              0.4112
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7933,6 +14825,45 @@
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q50-2.jpg",
         "papers/biology/fig/06AB-Microbiology-Immunity-Q50-3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.6344,
+          0.7759
+        ]
+      ],
+      "ctx": [
+        [
+          "Q50",
+          [
+            [
+              0,
+              0.5831,
+              0.6458
+            ]
+          ]
+        ],
+        [
+          "Q50(b)",
+          [
+            [
+              1,
+              0.6847,
+              0.831
+            ],
+            [
+              2,
+              0.0513,
+              0.6657
+            ],
+            [
+              3,
+              0.0513,
+              0.4112
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7966,6 +14897,50 @@
         "papers/biology/img/06AB-Microbiology-Immunity-113.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.7816,
+          0.9392
+        ],
+        [
+          4,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q50",
+          [
+            [
+              0,
+              0.5831,
+              0.6458
+            ]
+          ]
+        ],
+        [
+          "Q50(b)",
+          [
+            [
+              1,
+              0.6847,
+              0.831
+            ],
+            [
+              2,
+              0.0513,
+              0.6657
+            ],
+            [
+              3,
+              0.0513,
+              0.4112
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8001,6 +14976,45 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q50-4.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.1339,
+          0.7569
+        ]
+      ],
+      "ctx": [
+        [
+          "Q50",
+          [
+            [
+              0,
+              0.5831,
+              0.6458
+            ]
+          ]
+        ],
+        [
+          "Q50(b)",
+          [
+            [
+              1,
+              0.6847,
+              0.831
+            ],
+            [
+              2,
+              0.0513,
+              0.6657
+            ],
+            [
+              3,
+              0.0513,
+              0.4112
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8037,6 +15051,50 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q50-4.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.7635,
+          0.9193
+        ],
+        [
+          5,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q50",
+          [
+            [
+              0,
+              0.5831,
+              0.6458
+            ]
+          ]
+        ],
+        [
+          "Q50(b)",
+          [
+            [
+              1,
+              0.6847,
+              0.831
+            ],
+            [
+              2,
+              0.0513,
+              0.6657
+            ],
+            [
+              3,
+              0.0513,
+              0.4112
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8068,6 +15126,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3039,
+          0.5252
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.245,
+              0.2934
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8099,6 +15176,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5385,
+          0.8329
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.245,
+              0.2934
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8132,6 +15228,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8462,
+          0.8651
+        ],
+        [
+          1,
+          0.0513,
+          0.4815
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.245,
+              0.2934
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8163,6 +15283,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5926,
+          0.736
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.245,
+              0.2934
+            ]
+          ]
+        ],
+        [
+          "Q51(d)",
+          [
+            [
+              1,
+              0.4938,
+              0.5897
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8194,6 +15343,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7417,
+          0.9278
+        ],
+        [
+          2,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.245,
+              0.2934
+            ]
+          ]
+        ],
+        [
+          "Q51(d)",
+          [
+            [
+              1,
+              0.4938,
+              0.5897
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8227,6 +15410,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q51-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2915,
+          0.8557
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.245,
+              0.2934
+            ]
+          ]
+        ],
+        [
+          "Q51(e)",
+          [
+            [
+              2,
+              0.1994,
+              0.2982
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8261,6 +15473,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q51-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8613,
+          0.9297
+        ],
+        [
+          3,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.245,
+              0.2934
+            ]
+          ]
+        ],
+        [
+          "Q51(e)",
+          [
+            [
+              2,
+              0.1994,
+              0.2982
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8295,6 +15541,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q51-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1045,
+          0.3191
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.245,
+              0.2934
+            ]
+          ]
+        ],
+        [
+          "Q51(e)",
+          [
+            [
+              2,
+              0.1994,
+              0.2982
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8328,6 +15603,30 @@
         "papers/biology/img/06AB-Microbiology-Immunity-118.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-119.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-120.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.642,
+          0.9221
+        ],
+        [
+          1,
+          0.0608,
+          0.3324
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.4653,
+              0.6315
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8358,6 +15657,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-118.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-119.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-120.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3457,
+          0.6705
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.4653,
+              0.6315
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8389,6 +15707,30 @@
         "papers/biology/img/06AB-Microbiology-Immunity-118.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-119.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-120.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6828,
+          0.9345
+        ],
+        [
+          2,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.4653,
+              0.6315
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8420,6 +15762,40 @@
         "papers/biology/img/06AB-Microbiology-Immunity-121.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8832,
+          0.9212
+        ],
+        [
+          1,
+          0.1282,
+          0.1443
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.4501,
+              0.8348
+            ]
+          ]
+        ],
+        [
+          "Q53(a)",
+          [
+            [
+              0,
+              0.85,
+              0.8898
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8451,6 +15827,35 @@
         "papers/biology/img/06AB-Microbiology-Immunity-121.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.15,
+          0.3495
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.4501,
+              0.8348
+            ]
+          ]
+        ],
+        [
+          "Q53(a)",
+          [
+            [
+              0,
+              0.85,
+              0.8898
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8485,6 +15890,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q53.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7626,
+          0.8746
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.4501,
+              0.8348
+            ]
+          ]
+        ],
+        [
+          "Q53(b)",
+          [
+            [
+              1,
+              0.3628,
+              0.754
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8519,6 +15953,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q53.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8803,
+          0.9145
+        ],
+        [
+          2,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.4501,
+              0.8348
+            ]
+          ]
+        ],
+        [
+          "Q53(b)",
+          [
+            [
+              1,
+              0.3628,
+              0.754
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8552,6 +16020,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q53.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2213,
+          0.5242
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.4501,
+              0.8348
+            ]
+          ]
+        ],
+        [
+          "Q53(b)",
+          [
+            [
+              1,
+              0.3628,
+              0.754
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8584,6 +16081,30 @@
         "papers/biology/img/06AB-Microbiology-Immunity-121.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5366,
+          0.9202
+        ],
+        [
+          3,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.4501,
+              0.8348
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8612,6 +16133,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-123.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-124.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-125.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.245,
+          0.3789
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.2156,
+              0.2346
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8642,6 +16182,25 @@
         "papers/biology/img/06AB-Microbiology-Immunity-123.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-124.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-125.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3922,
+          0.5109
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.2156,
+              0.2346
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8672,6 +16231,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q54.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4416,
+          0.5537
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.2156,
+              0.2346
+            ]
+          ]
+        ],
+        [
+          "Q54(c)",
+          [
+            [
+              0,
+              0.5242,
+              0.6249
+            ],
+            [
+              1,
+              0.057,
+              0.433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8703,6 +16296,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q54.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5594,
+          0.7635
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.2156,
+              0.2346
+            ]
+          ]
+        ],
+        [
+          "Q54(c)",
+          [
+            [
+              0,
+              0.5242,
+              0.6249
+            ],
+            [
+              1,
+              0.057,
+              0.433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8736,6 +16363,45 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q54.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7692,
+          0.9392
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.2156,
+              0.2346
+            ]
+          ]
+        ],
+        [
+          "Q54(c)",
+          [
+            [
+              0,
+              0.5242,
+              0.6249
+            ],
+            [
+              1,
+              0.057,
+              0.433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8768,6 +16434,25 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q55-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3096,
+          0.4188
+        ]
+      ],
+      "ctx": [
+        [
+          "Q55",
+          [
+            [
+              0,
+              0.265,
+              0.2991
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8800,6 +16485,35 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q55.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6857,
+          0.9003
+        ]
+      ],
+      "ctx": [
+        [
+          "Q55",
+          [
+            [
+              0,
+              0.265,
+              0.2991
+            ]
+          ]
+        ],
+        [
+          "Q55(b)",
+          [
+            [
+              0,
+              0.4368,
+              0.6762
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8898,6 +16612,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q56-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1994,
+          0.4872
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.7265,
+              0.8632
+            ]
+          ]
+        ],
+        [
+          "Q56(a)",
+          [
+            [
+              0,
+              0.8737,
+              0.9297
+            ],
+            [
+              1,
+              0.0551,
+              0.1861
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8933,6 +16681,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q56-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4929,
+          0.6933
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.7265,
+              0.8632
+            ]
+          ]
+        ],
+        [
+          "Q56(a)",
+          [
+            [
+              0,
+              0.8737,
+              0.9297
+            ],
+            [
+              1,
+              0.0551,
+              0.1861
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -8966,6 +16748,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q56.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3419,
+          0.4416
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.7265,
+              0.8632
+            ]
+          ]
+        ],
+        [
+          "Q56(b)",
+          [
+            [
+              1,
+              0.7056,
+              0.7474
+            ],
+            [
+              2,
+              0.0674,
+              0.3305
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -9001,6 +16817,40 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q56.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4549,
+          0.6553
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.7265,
+              0.8632
+            ]
+          ]
+        ],
+        [
+          "Q56(b)",
+          [
+            [
+              1,
+              0.7056,
+              0.7474
+            ],
+            [
+              2,
+              0.0674,
+              0.3305
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -9035,6 +16885,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q56-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6676,
+          0.7094
+        ],
+        [
+          3,
+          0.0636,
+          0.8594
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.7265,
+              0.8632
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -9069,6 +16943,30 @@
       ],
       "figures": [
         "papers/biology/fig/06AB-Microbiology-Immunity-Q56-3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.8727,
+          0.9069
+        ],
+        [
+          4,
+          0.0579,
+          0.6933
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.7265,
+              0.8632
+            ]
+          ]
+        ]
       ]
     }
   ]

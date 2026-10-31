@@ -31,6 +31,35 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-01.jpg",
         "papers/chemistry/img/04B-Alkanes-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1738,
+          0.2564
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ],
+        [
+          "Q1(a)",
+          [
+            [
+              0,
+              0.1519,
+              0.1709
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -59,6 +88,35 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-01.jpg",
         "papers/chemistry/img/04B-Alkanes-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2631,
+          0.2821
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ],
+        [
+          "Q1(a)",
+          [
+            [
+              0,
+              0.1519,
+              0.1709
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -88,6 +146,35 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-01.jpg",
         "papers/chemistry/img/04B-Alkanes-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3675,
+          0.4169
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ],
+        [
+          "Q1(a)",
+          [
+            [
+              0,
+              0.1519,
+              0.1709
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -117,6 +204,35 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-01.jpg",
         "papers/chemistry/img/04B-Alkanes-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5033,
+          0.6885
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ],
+        [
+          "Q1(a)",
+          [
+            [
+              0,
+              0.1519,
+              0.1709
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -145,6 +261,35 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-01.jpg",
         "papers/chemistry/img/04B-Alkanes-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7236,
+          0.8215
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.7018,
+              0.7208
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -173,6 +318,35 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-01.jpg",
         "papers/chemistry/img/04B-Alkanes-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8272,
+          0.8613
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.7018,
+              0.7208
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -201,6 +375,35 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-01.jpg",
         "papers/chemistry/img/04B-Alkanes-02.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0674,
+          0.0864
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.7018,
+              0.7208
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -229,6 +432,35 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-01.jpg",
         "papers/chemistry/img/04B-Alkanes-02.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1728,
+          0.3875
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.7018,
+              0.7208
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -258,6 +490,13 @@
         "papers/chemistry/img/04B-Alkanes-02.jpg",
         "papers/chemistry/img/04B-Alkanes-03.jpg",
         "papers/chemistry/img/04B-Alkanes-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5347,
+          0.6781
+        ]
       ]
     },
     {
@@ -287,6 +526,25 @@
         "papers/chemistry/img/04B-Alkanes-02.jpg",
         "papers/chemistry/img/04B-Alkanes-03.jpg",
         "papers/chemistry/img/04B-Alkanes-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.867,
+          0.9202
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8376,
+              0.8566
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -318,6 +576,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2156,
+          0.2688
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8376,
+              0.8566
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              1,
+              0.1282,
+              0.2127
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -348,6 +635,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2745,
+          0.3276
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8376,
+              0.8566
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              1,
+              0.1282,
+              0.2127
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -381,6 +697,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q3-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3409,
+          0.5366
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8376,
+              0.8566
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -410,6 +745,25 @@
         "papers/chemistry/img/04B-Alkanes-02.jpg",
         "papers/chemistry/img/04B-Alkanes-03.jpg",
         "papers/chemistry/img/04B-Alkanes-04.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6087,
+          0.6838
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8376,
+              0.8566
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -440,6 +794,25 @@
         "papers/chemistry/img/04B-Alkanes-02.jpg",
         "papers/chemistry/img/04B-Alkanes-03.jpg",
         "papers/chemistry/img/04B-Alkanes-04.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6961,
+          0.812
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8376,
+              0.8566
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -469,6 +842,35 @@
         "papers/chemistry/img/04B-Alkanes-02.jpg",
         "papers/chemistry/img/04B-Alkanes-03.jpg",
         "papers/chemistry/img/04B-Alkanes-04.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1956,
+          0.2488
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8376,
+              0.8566
+            ]
+          ]
+        ],
+        [
+          "Q3(f)",
+          [
+            [
+              2,
+              0.1728,
+              0.1918
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -501,6 +903,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q3fii.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2545,
+          0.3181
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8376,
+              0.8566
+            ]
+          ]
+        ],
+        [
+          "Q3(f)",
+          [
+            [
+              2,
+              0.1728,
+              0.1918
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -530,6 +961,35 @@
         "papers/chemistry/img/04B-Alkanes-02.jpg",
         "papers/chemistry/img/04B-Alkanes-03.jpg",
         "papers/chemistry/img/04B-Alkanes-04.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3143,
+          0.3637
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8376,
+              0.8566
+            ]
+          ]
+        ],
+        [
+          "Q3(f)",
+          [
+            [
+              2,
+              0.1728,
+              0.1918
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -559,6 +1019,35 @@
         "papers/chemistry/img/04B-Alkanes-02.jpg",
         "papers/chemistry/img/04B-Alkanes-03.jpg",
         "papers/chemistry/img/04B-Alkanes-04.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4492,
+          0.6952
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8376,
+              0.8566
+            ]
+          ]
+        ],
+        [
+          "Q3(f)",
+          [
+            [
+              2,
+              0.1728,
+              0.1918
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -587,6 +1076,18 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-04.jpg",
         "papers/chemistry/img/04B-Alkanes-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8414,
+          0.9202
+        ],
+        [
+          1,
+          0.0513,
+          0.1026
+        ]
       ]
     },
     {
@@ -618,6 +1119,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4397,
+          0.4995
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.264,
+              0.4302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -646,6 +1166,35 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-05.jpg",
         "papers/chemistry/img/04B-Alkanes-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5347,
+          0.5878
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.264,
+              0.4302
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              0,
+              0.5128,
+              0.5318
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -676,6 +1225,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5945,
+          0.6277
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.264,
+              0.4302
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              0,
+              0.5128,
+              0.5318
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -706,6 +1284,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7892,
+          0.8234
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.264,
+              0.4302
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              0,
+              0.5128,
+              0.5318
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -737,6 +1344,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0978,
+          0.1301
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.264,
+              0.4302
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              0,
+              0.5128,
+              0.5318
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -768,6 +1404,45 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3001,
+          0.3903
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.264,
+              0.4302
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              0,
+              0.5128,
+              0.5318
+            ]
+          ]
+        ],
+        [
+          "Q5(b)(iv)",
+          [
+            [
+              1,
+              0.0978,
+              0.1301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -797,6 +1472,13 @@
         "papers/chemistry/img/04B-Alkanes-06.jpg",
         "papers/chemistry/img/04B-Alkanes-07.jpg",
         "papers/chemistry/img/04B-Alkanes-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5859,
+          0.6781
+        ]
       ]
     },
     {
@@ -826,6 +1508,40 @@
         "papers/chemistry/img/04B-Alkanes-06.jpg",
         "papers/chemistry/img/04B-Alkanes-07.jpg",
         "papers/chemistry/img/04B-Alkanes-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8832,
+          0.9364
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8319,
+              0.8509
+            ]
+          ]
+        ],
+        [
+          "Q7(a)",
+          [
+            [
+              0,
+              0.8613,
+              0.8803
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -855,6 +1571,35 @@
         "papers/chemistry/img/04B-Alkanes-06.jpg",
         "papers/chemistry/img/04B-Alkanes-07.jpg",
         "papers/chemistry/img/04B-Alkanes-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1045,
+          0.1681
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8319,
+              0.8509
+            ]
+          ]
+        ],
+        [
+          "Q7(a)",
+          [
+            [
+              0,
+              0.8613,
+              0.8803
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -884,6 +1629,35 @@
         "papers/chemistry/img/04B-Alkanes-06.jpg",
         "papers/chemistry/img/04B-Alkanes-07.jpg",
         "papers/chemistry/img/04B-Alkanes-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.284,
+          0.5195
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8319,
+              0.8509
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              1,
+              0.2612,
+              0.2802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -913,6 +1687,35 @@
         "papers/chemistry/img/04B-Alkanes-06.jpg",
         "papers/chemistry/img/04B-Alkanes-07.jpg",
         "papers/chemistry/img/04B-Alkanes-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6572,
+          0.6885
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8319,
+              0.8509
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              1,
+              0.2612,
+              0.2802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -942,6 +1745,40 @@
         "papers/chemistry/img/04B-Alkanes-06.jpg",
         "papers/chemistry/img/04B-Alkanes-07.jpg",
         "papers/chemistry/img/04B-Alkanes-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8528,
+          0.9354
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8319,
+              0.8509
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              1,
+              0.2612,
+              0.2802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -971,6 +1808,35 @@
         "papers/chemistry/img/04B-Alkanes-06.jpg",
         "papers/chemistry/img/04B-Alkanes-07.jpg",
         "papers/chemistry/img/04B-Alkanes-08.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1045,
+          0.1576
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8319,
+              0.8509
+            ]
+          ]
+        ],
+        [
+          "Q7(c)",
+          [
+            [
+              2,
+              0.0817,
+              0.1007
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1003,6 +1869,35 @@
         "papers/chemistry/img/04B-Alkanes-06.jpg",
         "papers/chemistry/img/04B-Alkanes-07.jpg",
         "papers/chemistry/img/04B-Alkanes-08.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1633,
+          0.2127
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8319,
+              0.8509
+            ]
+          ]
+        ],
+        [
+          "Q7(c)",
+          [
+            [
+              2,
+              0.0817,
+              0.1007
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1031,6 +1926,25 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-08.jpg",
         "papers/chemistry/img/04B-Alkanes-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7436,
+          0.8509
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.7142,
+              0.7331
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1059,6 +1973,30 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-08.jpg",
         "papers/chemistry/img/04B-Alkanes-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8708,
+          0.9459
+        ],
+        [
+          1,
+          0.0513,
+          0.0912
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.7142,
+              0.7331
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1089,6 +2027,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q8.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1092,
+          0.264
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.7142,
+              0.7331
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1119,6 +2076,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q8-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2669,
+          0.4805
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.7142,
+              0.7331
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1150,6 +2126,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q9a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6458,
+          0.8613
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.6173,
+              0.6363
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1179,6 +2174,30 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-09.jpg",
         "papers/chemistry/img/04B-Alkanes-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8651,
+          0.9383
+        ],
+        [
+          1,
+          0.0513,
+          0.0883
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.6173,
+              0.6363
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1211,6 +2230,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2716,
+          0.6448
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.2422,
+              0.2612
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1243,6 +2281,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q10-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3371,
+          0.4777
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.2422,
+              0.2612
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              0,
+              0.6581,
+              0.6771
+            ],
+            [
+              1,
+              0.0513,
+              0.3343
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1275,6 +2347,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q10-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4843,
+          0.6401
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.2422,
+              0.2612
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              0,
+              0.6581,
+              0.6771
+            ],
+            [
+              1,
+              0.0513,
+              0.3343
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1304,6 +2410,25 @@
         "papers/chemistry/img/04B-Alkanes-10.jpg",
         "papers/chemistry/img/04B-Alkanes-11.jpg",
         "papers/chemistry/img/04B-Alkanes-12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6534,
+          0.8015
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.2422,
+              0.2612
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1333,6 +2458,30 @@
         "papers/chemistry/img/04B-Alkanes-10.jpg",
         "papers/chemistry/img/04B-Alkanes-11.jpg",
         "papers/chemistry/img/04B-Alkanes-12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8072,
+          0.9193
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.2422,
+              0.2612
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1365,6 +2514,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q10di.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1197,
+          0.189
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.2422,
+              0.2612
+            ]
+          ]
+        ],
+        [
+          "Q10(d)",
+          [
+            [
+              2,
+              0.0817,
+              0.1159
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1394,6 +2572,35 @@
         "papers/chemistry/img/04B-Alkanes-10.jpg",
         "papers/chemistry/img/04B-Alkanes-11.jpg",
         "papers/chemistry/img/04B-Alkanes-12.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1947,
+          0.3647
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.2422,
+              0.2612
+            ]
+          ]
+        ],
+        [
+          "Q10(d)",
+          [
+            [
+              2,
+              0.0817,
+              0.1159
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1421,6 +2628,13 @@
       ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5613,
+          0.7217
+        ]
       ]
     },
     {
@@ -1449,6 +2663,13 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-13.jpg",
         "papers/chemistry/img/04B-Alkanes-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1909,
+          0.3647
+        ]
       ]
     },
     {
@@ -1477,6 +2698,13 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-13.jpg",
         "papers/chemistry/img/04B-Alkanes-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5897,
+          0.6809
+        ]
       ]
     },
     {
@@ -1505,6 +2733,18 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-13.jpg",
         "papers/chemistry/img/04B-Alkanes-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9022,
+          0.9421
+        ],
+        [
+          1,
+          0.0513,
+          0.1054
+        ]
       ]
     },
     {
@@ -1533,6 +2773,13 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-14.jpg",
         "papers/chemistry/img/04B-Alkanes-15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3086,
+          0.3998
+        ]
       ]
     },
     {
@@ -1561,6 +2808,13 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-14.jpg",
         "papers/chemistry/img/04B-Alkanes-15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6211,
+          0.7445
+        ]
       ]
     },
     {
@@ -1589,6 +2843,13 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-14.jpg",
         "papers/chemistry/img/04B-Alkanes-15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1766
+        ]
       ]
     },
     {
@@ -1616,6 +2877,25 @@
       ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3723,
+          0.4131
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.3286,
+              0.3618
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1643,6 +2923,35 @@
       ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6572,
+          0.698
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.3286,
+              0.3618
+            ]
+          ]
+        ],
+        [
+          "Q18(a)",
+          [
+            [
+              0,
+              0.3723,
+              0.4131
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1671,6 +2980,25 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-16.jpg",
         "papers/chemistry/img/04B-Alkanes-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2156,
+          0.3229
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.1861,
+              0.2042
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1699,6 +3027,25 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-16.jpg",
         "papers/chemistry/img/04B-Alkanes-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3428,
+          0.452
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.1861,
+              0.2042
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1729,6 +3076,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6534,
+          0.6724
+        ],
+        [
+          1,
+          0.0513,
+          0.4141
+        ]
       ]
     },
     {
@@ -1757,6 +3116,13 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-17.jpg",
         "papers/chemistry/img/04B-Alkanes-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6163,
+          0.7075
+        ]
       ]
     },
     {
@@ -1785,6 +3151,25 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-17.jpg",
         "papers/chemistry/img/04B-Alkanes-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1624
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.8623,
+              0.925
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1813,6 +3198,25 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-17.jpg",
         "papers/chemistry/img/04B-Alkanes-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1795,
+          0.3162
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.8623,
+              0.925
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1843,6 +3247,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6999,
+          0.8405
+        ]
       ]
     },
     {
@@ -1873,6 +3284,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1975,
+          0.2868
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.0902,
+              0.1757
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1904,6 +3334,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2934,
+          0.3466
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.0902,
+              0.1757
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1932,6 +3381,35 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-19.jpg",
         "papers/chemistry/img/04B-Alkanes-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3818,
+          0.4008
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.0902,
+              0.1757
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              0,
+              0.3599,
+              0.3789
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1960,6 +3438,35 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-19.jpg",
         "papers/chemistry/img/04B-Alkanes-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4872,
+          0.5556
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.0902,
+              0.1757
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              0,
+              0.3599,
+              0.3789
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1988,6 +3495,25 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-19.jpg",
         "papers/chemistry/img/04B-Alkanes-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5689,
+          0.7901
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.0902,
+              0.1757
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2016,6 +3542,13 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-19.jpg",
         "papers/chemistry/img/04B-Alkanes-20.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.1937
+        ]
       ]
     },
     {
@@ -2047,6 +3580,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3476,
+          0.5166
+        ]
       ]
     },
     {
@@ -2079,6 +3619,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.699,
+          0.7407
+        ],
+        [
+          1,
+          0.0522,
+          0.4758
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.6553,
+              0.6895
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2111,6 +3675,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q27bi.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.679,
+          0.7293
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.6553,
+              0.6895
+            ]
+          ]
+        ],
+        [
+          "Q27(b)",
+          [
+            [
+              1,
+              0.5185,
+              0.6771
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2140,6 +3733,35 @@
         "papers/chemistry/img/04B-Alkanes-20.jpg",
         "papers/chemistry/img/04B-Alkanes-21.jpg",
         "papers/chemistry/img/04B-Alkanes-22.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0826,
+          0.3856
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.6553,
+              0.6895
+            ]
+          ]
+        ],
+        [
+          "Q27(b)",
+          [
+            [
+              1,
+              0.5185,
+              0.6771
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2169,6 +3791,13 @@
         "papers/chemistry/img/04B-Alkanes-22.jpg",
         "papers/chemistry/img/04B-Alkanes-23.jpg",
         "papers/chemistry/img/04B-Alkanes-24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5812,
+          0.6743
+        ]
       ]
     },
     {
@@ -2198,6 +3827,30 @@
         "papers/chemistry/img/04B-Alkanes-22.jpg",
         "papers/chemistry/img/04B-Alkanes-23.jpg",
         "papers/chemistry/img/04B-Alkanes-24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8718,
+          0.9316
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8272,
+              0.8585
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2227,6 +3880,35 @@
         "papers/chemistry/img/04B-Alkanes-22.jpg",
         "papers/chemistry/img/04B-Alkanes-23.jpg",
         "papers/chemistry/img/04B-Alkanes-24.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1339,
+          0.1985
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8272,
+              0.8585
+            ]
+          ]
+        ],
+        [
+          "Q29(b)",
+          [
+            [
+              1,
+              0.0817,
+              0.1387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2256,6 +3938,35 @@
         "papers/chemistry/img/04B-Alkanes-22.jpg",
         "papers/chemistry/img/04B-Alkanes-23.jpg",
         "papers/chemistry/img/04B-Alkanes-24.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3599,
+          0.4084
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8272,
+              0.8585
+            ]
+          ]
+        ],
+        [
+          "Q29(b)",
+          [
+            [
+              1,
+              0.0817,
+              0.1387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2285,6 +3996,35 @@
         "papers/chemistry/img/04B-Alkanes-22.jpg",
         "papers/chemistry/img/04B-Alkanes-23.jpg",
         "papers/chemistry/img/04B-Alkanes-24.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6106,
+          0.6781
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8272,
+              0.8585
+            ]
+          ]
+        ],
+        [
+          "Q29(c)",
+          [
+            [
+              1,
+              0.5764,
+              0.6173
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2314,6 +4054,45 @@
         "papers/chemistry/img/04B-Alkanes-22.jpg",
         "papers/chemistry/img/04B-Alkanes-23.jpg",
         "papers/chemistry/img/04B-Alkanes-24.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8243,
+          0.8832
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8272,
+              0.8585
+            ]
+          ]
+        ],
+        [
+          "Q29(c)",
+          [
+            [
+              1,
+              0.5764,
+              0.6173
+            ]
+          ]
+        ],
+        [
+          "Q29(c)(i)",
+          [
+            [
+              1,
+              0.6106,
+              0.6781
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2343,6 +4122,35 @@
         "papers/chemistry/img/04B-Alkanes-22.jpg",
         "papers/chemistry/img/04B-Alkanes-23.jpg",
         "papers/chemistry/img/04B-Alkanes-24.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1425,
+          0.284
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8272,
+              0.8585
+            ]
+          ]
+        ],
+        [
+          "Q29(c)",
+          [
+            [
+              1,
+              0.5764,
+              0.6173
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2375,6 +4183,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6173,
+          0.6515
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.4311,
+              0.4796
+            ]
+          ]
+        ],
+        [
+          "Q30(a)",
+          [
+            [
+              0,
+              0.49,
+              0.6068
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2404,6 +4241,35 @@
         "papers/chemistry/img/04B-Alkanes-24.jpg",
         "papers/chemistry/img/04B-Alkanes-25.jpg",
         "papers/chemistry/img/04B-Alkanes-26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.811,
+          0.8433
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.4311,
+              0.4796
+            ]
+          ]
+        ],
+        [
+          "Q30(a)",
+          [
+            [
+              0,
+              0.49,
+              0.6068
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2433,6 +4299,60 @@
         "papers/chemistry/img/04B-Alkanes-24.jpg",
         "papers/chemistry/img/04B-Alkanes-25.jpg",
         "papers/chemistry/img/04B-Alkanes-26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9164,
+          0.9364
+        ],
+        [
+          1,
+          0.0532,
+          0.1016
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.4311,
+              0.4796
+            ]
+          ]
+        ],
+        [
+          "Q30(a)",
+          [
+            [
+              0,
+              0.49,
+              0.6068
+            ]
+          ]
+        ],
+        [
+          "Q30(a)(i)",
+          [
+            [
+              0,
+              0.6173,
+              0.6515
+            ]
+          ]
+        ],
+        [
+          "Q30(a)(ii)",
+          [
+            [
+              0,
+              0.811,
+              0.8433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2463,6 +4383,25 @@
         "papers/chemistry/img/04B-Alkanes-24.jpg",
         "papers/chemistry/img/04B-Alkanes-25.jpg",
         "papers/chemistry/img/04B-Alkanes-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1956,
+          0.5337
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.4311,
+              0.4796
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2492,6 +4431,35 @@
         "papers/chemistry/img/04B-Alkanes-24.jpg",
         "papers/chemistry/img/04B-Alkanes-25.jpg",
         "papers/chemistry/img/04B-Alkanes-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5992,
+          0.6182
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.4311,
+              0.4796
+            ]
+          ]
+        ],
+        [
+          "Q30(c)",
+          [
+            [
+              1,
+              0.547,
+              0.5964
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2521,6 +4489,35 @@
         "papers/chemistry/img/04B-Alkanes-24.jpg",
         "papers/chemistry/img/04B-Alkanes-25.jpg",
         "papers/chemistry/img/04B-Alkanes-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7047,
+          0.7236
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.4311,
+              0.4796
+            ]
+          ]
+        ],
+        [
+          "Q30(c)",
+          [
+            [
+              1,
+              0.547,
+              0.5964
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2550,6 +4547,40 @@
         "papers/chemistry/img/04B-Alkanes-24.jpg",
         "papers/chemistry/img/04B-Alkanes-25.jpg",
         "papers/chemistry/img/04B-Alkanes-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8386,
+          0.9212
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.4311,
+              0.4796
+            ]
+          ]
+        ],
+        [
+          "Q30(d)",
+          [
+            [
+              1,
+              0.8167,
+              0.8357
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2579,6 +4610,35 @@
         "papers/chemistry/img/04B-Alkanes-24.jpg",
         "papers/chemistry/img/04B-Alkanes-25.jpg",
         "papers/chemistry/img/04B-Alkanes-26.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1339,
+          0.3001
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.4311,
+              0.4796
+            ]
+          ]
+        ],
+        [
+          "Q30(d)",
+          [
+            [
+              1,
+              0.8167,
+              0.8357
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2608,6 +4668,25 @@
         "papers/chemistry/img/04B-Alkanes-26.jpg",
         "papers/chemistry/img/04B-Alkanes-27.jpg",
         "papers/chemistry/img/04B-Alkanes-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5442,
+          0.5632
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.5147,
+              0.5337
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2639,6 +4718,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8129,
+          0.8319
+        ],
+        [
+          1,
+          0.0522,
+          0.2213
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.5147,
+              0.5337
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2671,6 +4774,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q31-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2346,
+          0.547
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.5147,
+              0.5337
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2700,6 +4822,35 @@
         "papers/chemistry/img/04B-Alkanes-26.jpg",
         "papers/chemistry/img/04B-Alkanes-27.jpg",
         "papers/chemistry/img/04B-Alkanes-28.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5945,
+          0.6439
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.5147,
+              0.5337
+            ]
+          ]
+        ],
+        [
+          "Q31(d)",
+          [
+            [
+              1,
+              0.5726,
+              0.5916
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2729,6 +4880,35 @@
         "papers/chemistry/img/04B-Alkanes-26.jpg",
         "papers/chemistry/img/04B-Alkanes-27.jpg",
         "papers/chemistry/img/04B-Alkanes-28.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6999,
+          0.8414
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.5147,
+              0.5337
+            ]
+          ]
+        ],
+        [
+          "Q31(d)",
+          [
+            [
+              1,
+              0.5726,
+              0.5916
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2758,6 +4938,35 @@
         "papers/chemistry/img/04B-Alkanes-26.jpg",
         "papers/chemistry/img/04B-Alkanes-27.jpg",
         "papers/chemistry/img/04B-Alkanes-28.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8917,
+          0.925
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.5147,
+              0.5337
+            ]
+          ]
+        ],
+        [
+          "Q31(e)",
+          [
+            [
+              1,
+              0.8538,
+              0.8879
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2787,6 +4996,35 @@
         "papers/chemistry/img/04B-Alkanes-26.jpg",
         "papers/chemistry/img/04B-Alkanes-27.jpg",
         "papers/chemistry/img/04B-Alkanes-28.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1282,
+          0.2108
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.5147,
+              0.5337
+            ]
+          ]
+        ],
+        [
+          "Q31(e)",
+          [
+            [
+              1,
+              0.8538,
+              0.8879
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2816,6 +5054,35 @@
         "papers/chemistry/img/04B-Alkanes-26.jpg",
         "papers/chemistry/img/04B-Alkanes-27.jpg",
         "papers/chemistry/img/04B-Alkanes-28.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2165,
+          0.2991
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.5147,
+              0.5337
+            ]
+          ]
+        ],
+        [
+          "Q31(e)",
+          [
+            [
+              1,
+              0.8538,
+              0.8879
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2845,6 +5112,35 @@
         "papers/chemistry/img/04B-Alkanes-26.jpg",
         "papers/chemistry/img/04B-Alkanes-27.jpg",
         "papers/chemistry/img/04B-Alkanes-28.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3048,
+          0.3875
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.5147,
+              0.5337
+            ]
+          ]
+        ],
+        [
+          "Q31(e)",
+          [
+            [
+              1,
+              0.8538,
+              0.8879
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2874,6 +5170,35 @@
         "papers/chemistry/img/04B-Alkanes-26.jpg",
         "papers/chemistry/img/04B-Alkanes-27.jpg",
         "papers/chemistry/img/04B-Alkanes-28.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3932,
+          0.5945
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.5147,
+              0.5337
+            ]
+          ]
+        ],
+        [
+          "Q31(e)",
+          [
+            [
+              1,
+              0.8538,
+              0.8879
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2901,6 +5226,13 @@
       ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7417,
+          0.8509
+        ]
       ]
     },
     {
@@ -2928,6 +5260,13 @@
       ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.169,
+          0.2602
+        ]
       ]
     },
     {
@@ -2955,6 +5294,13 @@
       ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4644,
+          0.5584
+        ]
       ]
     },
     {
@@ -2982,6 +5328,13 @@
       ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7597,
+          0.8538
+        ]
       ]
     },
     {
@@ -3013,6 +5366,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2545,
+          0.3732
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.1197,
+              0.2441
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3041,6 +5413,35 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-30.jpg",
         "papers/chemistry/img/04B-Alkanes-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4539,
+          0.5071
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.1197,
+              0.2441
+            ]
+          ]
+        ],
+        [
+          "Q36(b)",
+          [
+            [
+              0,
+              0.3865,
+              0.4577
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3069,6 +5470,35 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-30.jpg",
         "papers/chemistry/img/04B-Alkanes-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5128,
+          0.6828
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.1197,
+              0.2441
+            ]
+          ]
+        ],
+        [
+          "Q36(b)",
+          [
+            [
+              0,
+              0.3865,
+              0.4577
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3097,6 +5527,35 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-30.jpg",
         "papers/chemistry/img/04B-Alkanes-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7331,
+          0.7673
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.1197,
+              0.2441
+            ]
+          ]
+        ],
+        [
+          "Q36(c)",
+          [
+            [
+              0,
+              0.6961,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3125,6 +5584,40 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-30.jpg",
         "papers/chemistry/img/04B-Alkanes-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8234,
+          0.8841
+        ],
+        [
+          1,
+          0.0902,
+          0.3039
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.1197,
+              0.2441
+            ]
+          ]
+        ],
+        [
+          "Q36(c)",
+          [
+            [
+              0,
+              0.6961,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3153,6 +5646,35 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-30.jpg",
         "papers/chemistry/img/04B-Alkanes-31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3096,
+          0.378
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.1197,
+              0.2441
+            ]
+          ]
+        ],
+        [
+          "Q36(c)",
+          [
+            [
+              0,
+              0.6961,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3181,6 +5703,35 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-30.jpg",
         "papers/chemistry/img/04B-Alkanes-31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4283,
+          0.4815
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.1197,
+              0.2441
+            ]
+          ]
+        ],
+        [
+          "Q36(d)",
+          [
+            [
+              1,
+              0.3913,
+              0.4226
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3209,6 +5760,35 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-30.jpg",
         "papers/chemistry/img/04B-Alkanes-31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4881,
+          0.5413
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.1197,
+              0.2441
+            ]
+          ]
+        ],
+        [
+          "Q36(d)",
+          [
+            [
+              1,
+              0.3913,
+              0.4226
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3237,6 +5817,35 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-30.jpg",
         "papers/chemistry/img/04B-Alkanes-31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.547,
+          0.5812
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.1197,
+              0.2441
+            ]
+          ]
+        ],
+        [
+          "Q36(d)",
+          [
+            [
+              1,
+              0.3913,
+              0.4226
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3265,6 +5874,13 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-31.jpg",
         "papers/chemistry/img/04B-Alkanes-32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1472
+        ]
       ]
     },
     {
@@ -3297,6 +5913,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3647,
+          0.6087
+        ]
       ]
     },
     {
@@ -3330,6 +5953,18 @@
         "papers/chemistry/fig/04B-Alkanes-Q39.jpg",
         "papers/chemistry/fig/04B-Alkanes-Q39-2.jpg",
         "papers/chemistry/fig/04B-Alkanes-Q39-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8262,
+          0.9041
+        ],
+        [
+          1,
+          0.0513,
+          0.4321
+        ]
       ]
     },
     {
@@ -3358,6 +5993,13 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-33.jpg",
         "papers/chemistry/img/04B-Alkanes-34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6173,
+          0.7407
+        ]
       ]
     },
     {
@@ -3389,6 +6031,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q41.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.4255
+        ]
       ]
     },
     {
@@ -3418,6 +6067,25 @@
         "papers/chemistry/img/04B-Alkanes-34.jpg",
         "papers/chemistry/img/04B-Alkanes-35.jpg",
         "papers/chemistry/img/04B-Alkanes-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6553,
+          0.7455
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.5964,
+              0.6448
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3447,6 +6115,35 @@
         "papers/chemistry/img/04B-Alkanes-34.jpg",
         "papers/chemistry/img/04B-Alkanes-35.jpg",
         "papers/chemistry/img/04B-Alkanes-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8101,
+          0.8433
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.5964,
+              0.6448
+            ]
+          ]
+        ],
+        [
+          "Q42(b)",
+          [
+            [
+              0,
+              0.7873,
+              0.8063
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3476,6 +6173,35 @@
         "papers/chemistry/img/04B-Alkanes-34.jpg",
         "papers/chemistry/img/04B-Alkanes-35.jpg",
         "papers/chemistry/img/04B-Alkanes-36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1197,
+          0.2327
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.5964,
+              0.6448
+            ]
+          ]
+        ],
+        [
+          "Q42(b)",
+          [
+            [
+              0,
+              0.7873,
+              0.8063
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3505,6 +6231,35 @@
         "papers/chemistry/img/04B-Alkanes-34.jpg",
         "papers/chemistry/img/04B-Alkanes-35.jpg",
         "papers/chemistry/img/04B-Alkanes-36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2678,
+          0.321
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.5964,
+              0.6448
+            ]
+          ]
+        ],
+        [
+          "Q42(b)",
+          [
+            [
+              0,
+              0.7873,
+              0.8063
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3534,6 +6289,25 @@
         "papers/chemistry/img/04B-Alkanes-34.jpg",
         "papers/chemistry/img/04B-Alkanes-35.jpg",
         "papers/chemistry/img/04B-Alkanes-36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3637,
+          0.4255
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.5964,
+              0.6448
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3567,6 +6341,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/04B-Alkanes-Q42d.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6011,
+          0.6553
+        ],
+        [
+          2,
+          0.0532,
+          0.4929
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.5964,
+              0.6448
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3595,6 +6393,13 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-36.jpg",
         "papers/chemistry/img/04B-Alkanes-37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6923,
+          0.7835
+        ]
       ]
     },
     {
@@ -3623,6 +6428,13 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-36.jpg",
         "papers/chemistry/img/04B-Alkanes-37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.2099
+        ]
       ]
     },
     {
@@ -3652,6 +6464,25 @@
         "papers/chemistry/img/04B-Alkanes-37.jpg",
         "papers/chemistry/img/04B-Alkanes-38.jpg",
         "papers/chemistry/img/04B-Alkanes-39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3922,
+          0.471
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.3628,
+              0.3808
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3681,6 +6512,40 @@
         "papers/chemistry/img/04B-Alkanes-37.jpg",
         "papers/chemistry/img/04B-Alkanes-38.jpg",
         "papers/chemistry/img/04B-Alkanes-39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9088,
+          0.9278
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.3628,
+              0.3808
+            ]
+          ]
+        ],
+        [
+          "Q45(b)",
+          [
+            [
+              0,
+              0.886,
+              0.905
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3710,6 +6575,35 @@
         "papers/chemistry/img/04B-Alkanes-37.jpg",
         "papers/chemistry/img/04B-Alkanes-38.jpg",
         "papers/chemistry/img/04B-Alkanes-39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1045,
+          0.1387
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.3628,
+              0.3808
+            ]
+          ]
+        ],
+        [
+          "Q45(b)",
+          [
+            [
+              0,
+              0.886,
+              0.905
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3741,6 +6635,35 @@
         "papers/chemistry/img/04B-Alkanes-37.jpg",
         "papers/chemistry/img/04B-Alkanes-38.jpg",
         "papers/chemistry/img/04B-Alkanes-39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1795,
+          0.2887
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.3628,
+              0.3808
+            ]
+          ]
+        ],
+        [
+          "Q45(b)",
+          [
+            [
+              0,
+              0.886,
+              0.905
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3770,6 +6693,35 @@
         "papers/chemistry/img/04B-Alkanes-37.jpg",
         "papers/chemistry/img/04B-Alkanes-38.jpg",
         "papers/chemistry/img/04B-Alkanes-39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6904,
+          0.754
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.3628,
+              0.3808
+            ]
+          ]
+        ],
+        [
+          "Q45(b)",
+          [
+            [
+              0,
+              0.886,
+              0.905
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3797,6 +6749,13 @@
       ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5641,
+          0.6847
+        ]
       ]
     }
   ]

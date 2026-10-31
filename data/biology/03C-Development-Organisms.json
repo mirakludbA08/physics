@@ -35,6 +35,25 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q1a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3998,
+          0.5821
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.246,
+              0.378
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -68,6 +87,25 @@
         "papers/biology/img/03C-Development-Organisms-01.jpg",
         "papers/biology/img/03C-Development-Organisms-02.jpg",
         "papers/biology/img/03C-Development-Organisms-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5973,
+          0.8433
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.246,
+              0.378
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -98,6 +136,30 @@
         "papers/biology/img/03C-Development-Organisms-01.jpg",
         "papers/biology/img/03C-Development-Organisms-02.jpg",
         "papers/biology/img/03C-Development-Organisms-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8585,
+          0.9411
+        ],
+        [
+          1,
+          0.0741,
+          0.1804
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.246,
+              0.378
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -130,6 +192,25 @@
         "papers/biology/img/03C-Development-Organisms-01.jpg",
         "papers/biology/img/03C-Development-Organisms-02.jpg",
         "papers/biology/img/03C-Development-Organisms-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1956,
+          0.3438
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.246,
+              0.378
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -166,6 +247,30 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q1c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.359,
+          0.9335
+        ],
+        [
+          2,
+          0.0741,
+          0.246
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.246,
+              0.378
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -198,6 +303,25 @@
         "papers/biology/img/03C-Development-Organisms-04.jpg",
         "papers/biology/img/03C-Development-Organisms-05.jpg",
         "papers/biology/img/03C-Development-Organisms-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.49,
+          0.6733
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.4568,
+              0.4767
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -230,6 +354,25 @@
         "papers/biology/img/03C-Development-Organisms-04.jpg",
         "papers/biology/img/03C-Development-Organisms-05.jpg",
         "papers/biology/img/03C-Development-Organisms-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6876,
+          0.8727
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.4568,
+              0.4767
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -265,6 +408,30 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q2b.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.886,
+          0.9392
+        ],
+        [
+          1,
+          0.0446,
+          0.6116
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.4568,
+              0.4767
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -303,6 +470,30 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q2c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6268,
+          0.68
+        ],
+        [
+          2,
+          0.0446,
+          0.9373
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.4568,
+              0.4767
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -338,6 +529,25 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q2d.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.0655,
+          0.6553
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.4568,
+              0.4767
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -370,6 +580,40 @@
         "papers/biology/img/03C-Development-Organisms-07.jpg",
         "papers/biology/img/03C-Development-Organisms-08.jpg",
         "papers/biology/img/03C-Development-Organisms-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3077,
+          0.5537
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.867,
+              0.887
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.8993,
+              0.9193
+            ],
+            [
+              1,
+              0.0446,
+              0.2925
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -406,6 +650,45 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q3a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5689,
+          0.5888
+        ],
+        [
+          2,
+          0.0446,
+          0.6002
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.867,
+              0.887
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.8993,
+              0.9193
+            ],
+            [
+              1,
+              0.0446,
+              0.2925
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -438,6 +721,35 @@
         "papers/biology/img/03C-Development-Organisms-07.jpg",
         "papers/biology/img/03C-Development-Organisms-08.jpg",
         "papers/biology/img/03C-Development-Organisms-09.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7844,
+          0.8993
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.867,
+              0.887
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              2,
+              0.6211,
+              0.7721
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -472,6 +784,40 @@
         "papers/biology/img/03C-Development-Organisms-07.jpg",
         "papers/biology/img/03C-Development-Organisms-08.jpg",
         "papers/biology/img/03C-Development-Organisms-09.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.9145,
+          0.9345
+        ],
+        [
+          3,
+          0.0741,
+          0.3105
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.867,
+              0.887
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              2,
+              0.6211,
+              0.7721
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -506,6 +852,40 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q4a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6163,
+          0.7996
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.5223,
+              0.5745
+            ]
+          ]
+        ],
+        [
+          "Q4(a)",
+          [
+            [
+              0,
+              0.5878,
+              0.623
+            ],
+            [
+              1,
+              0.0446,
+              0.6049
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -540,6 +920,45 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q4a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8148,
+          0.9297
+        ],
+        [
+          2,
+          0.0741,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.5223,
+              0.5745
+            ]
+          ]
+        ],
+        [
+          "Q4(a)",
+          [
+            [
+              0,
+              0.5878,
+              0.623
+            ],
+            [
+              1,
+              0.0446,
+              0.6049
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -572,6 +991,40 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q4a.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1643,
+          0.3105
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.5223,
+              0.5745
+            ]
+          ]
+        ],
+        [
+          "Q4(a)",
+          [
+            [
+              0,
+              0.5878,
+              0.623
+            ],
+            [
+              1,
+              0.0446,
+              0.6049
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -604,6 +1057,25 @@
         "papers/biology/img/03C-Development-Organisms-10.jpg",
         "papers/biology/img/03C-Development-Organisms-11.jpg",
         "papers/biology/img/03C-Development-Organisms-12.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3267,
+          0.8822
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.5223,
+              0.5745
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -639,6 +1111,30 @@
         "papers/biology/img/03C-Development-Organisms-10.jpg",
         "papers/biology/img/03C-Development-Organisms-11.jpg",
         "papers/biology/img/03C-Development-Organisms-12.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8974,
+          0.9174
+        ],
+        [
+          3,
+          0.0741,
+          0.5071
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.5223,
+              0.5745
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -673,6 +1169,30 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.283,
+          0.5641
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7844,
+              0.8367
+            ],
+            [
+              1,
+              0.0446,
+              0.2716
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -704,6 +1224,30 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5793,
+          0.8414
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7844,
+              0.8367
+            ],
+            [
+              1,
+              0.0446,
+              0.2716
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -734,6 +1278,40 @@
         "papers/biology/img/03C-Development-Organisms-12.jpg",
         "papers/biology/img/03C-Development-Organisms-13.jpg",
         "papers/biology/img/03C-Development-Organisms-14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8889,
+          0.9088
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7844,
+              0.8367
+            ],
+            [
+              1,
+              0.0446,
+              0.2716
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              1,
+              0.8566,
+              0.8765
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -766,6 +1344,40 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q5.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0655,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7844,
+              0.8367
+            ],
+            [
+              1,
+              0.0446,
+              0.2716
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              1,
+              0.8566,
+              0.8765
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -800,6 +1412,40 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q5.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.378,
+          0.6562
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7844,
+              0.8367
+            ],
+            [
+              1,
+              0.0446,
+              0.2716
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              1,
+              0.8566,
+              0.8765
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -834,6 +1480,30 @@
         "papers/biology/img/03C-Development-Organisms-16.jpg",
         "papers/biology/img/03C-Development-Organisms-17.jpg",
         "papers/biology/img/03C-Development-Organisms-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2915,
+          0.5366
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.868,
+              0.9202
+            ],
+            [
+              1,
+              0.0446,
+              0.2802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -866,6 +1536,40 @@
         "papers/biology/img/03C-Development-Organisms-16.jpg",
         "papers/biology/img/03C-Development-Organisms-17.jpg",
         "papers/biology/img/03C-Development-Organisms-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.585,
+          0.9288
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.868,
+              0.9202
+            ],
+            [
+              1,
+              0.0446,
+              0.2802
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.5527,
+              0.5726
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -898,6 +1602,45 @@
         "papers/biology/img/03C-Development-Organisms-16.jpg",
         "papers/biology/img/03C-Development-Organisms-17.jpg",
         "papers/biology/img/03C-Development-Organisms-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.944,
+          0.9592
+        ],
+        [
+          2,
+          0.0446,
+          0.5233
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.868,
+              0.9202
+            ],
+            [
+              1,
+              0.0446,
+              0.2802
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.5527,
+              0.5726
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -934,6 +1677,45 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q6c.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.3932,
+          0.5062
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.868,
+              0.9202
+            ],
+            [
+              1,
+              0.0446,
+              0.2802
+            ]
+          ]
+        ],
+        [
+          "Q6(c)",
+          [
+            [
+              2,
+              0.5385,
+              0.6895
+            ],
+            [
+              3,
+              0.0446,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -969,6 +1751,45 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q6c.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.5214,
+          0.6667
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.868,
+              0.9202
+            ],
+            [
+              1,
+              0.0446,
+              0.2802
+            ]
+          ]
+        ],
+        [
+          "Q6(c)",
+          [
+            [
+              2,
+              0.5385,
+              0.6895
+            ],
+            [
+              3,
+              0.0446,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1005,6 +1826,50 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q6c-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.6819,
+          0.944
+        ],
+        [
+          4,
+          0.0741,
+          0.246
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.868,
+              0.9202
+            ],
+            [
+              1,
+              0.0446,
+              0.2802
+            ]
+          ]
+        ],
+        [
+          "Q6(c)",
+          [
+            [
+              2,
+              0.5385,
+              0.6895
+            ],
+            [
+              3,
+              0.0446,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1040,6 +1905,35 @@
         "papers/biology/img/03C-Development-Organisms-19.jpg",
         "papers/biology/img/03C-Development-Organisms-20.jpg",
         "papers/biology/img/03C-Development-Organisms-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8917,
+          0.9421
+        ],
+        [
+          1,
+          0.0655,
+          0.9307
+        ],
+        [
+          2,
+          0.0741,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.4568,
+              0.8803
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1076,6 +1970,30 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q7b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0978,
+          0.9392
+        ],
+        [
+          3,
+          0.0741,
+          0.5394
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.4568,
+              0.8803
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1105,6 +2023,30 @@
         "papers/biology/img/03C-Development-Organisms-21.jpg",
         "papers/biology/img/03C-Development-Organisms-22.jpg",
         "papers/biology/img/03C-Development-Organisms-23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3846,
+          0.5783
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.7512,
+              0.8034
+            ],
+            [
+              1,
+              0.0446,
+              0.3732
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1137,6 +2079,35 @@
         "papers/biology/img/03C-Development-Organisms-21.jpg",
         "papers/biology/img/03C-Development-Organisms-22.jpg",
         "papers/biology/img/03C-Development-Organisms-23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5935,
+          0.9535
+        ],
+        [
+          2,
+          0.0741,
+          0.1804
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.7512,
+              0.8034
+            ],
+            [
+              1,
+              0.0446,
+              0.3732
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1173,6 +2144,30 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q9a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6885,
+          0.8386
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4577,
+              0.4938
+            ],
+            [
+              1,
+              0.0446,
+              0.6762
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1204,6 +2199,35 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q9a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8509,
+          0.9506
+        ],
+        [
+          2,
+          0.0655,
+          0.1178
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4577,
+              0.4938
+            ],
+            [
+              1,
+              0.0446,
+              0.6762
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1240,6 +2264,30 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q9a.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.132,
+          0.7047
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4577,
+              0.4938
+            ],
+            [
+              1,
+              0.0446,
+              0.6762
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1272,6 +2320,40 @@
         "papers/biology/img/03C-Development-Organisms-24.jpg",
         "papers/biology/img/03C-Development-Organisms-25.jpg",
         "papers/biology/img/03C-Development-Organisms-26.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7692,
+          0.7892
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4577,
+              0.4938
+            ],
+            [
+              1,
+              0.0446,
+              0.6762
+            ]
+          ]
+        ],
+        [
+          "Q9(c)",
+          [
+            [
+              2,
+              0.7198,
+              0.7559
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1304,6 +2386,45 @@
         "papers/biology/img/03C-Development-Organisms-24.jpg",
         "papers/biology/img/03C-Development-Organisms-25.jpg",
         "papers/biology/img/03C-Development-Organisms-26.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8348,
+          0.9525
+        ],
+        [
+          3,
+          0.0646,
+          0.1985
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4577,
+              0.4938
+            ],
+            [
+              1,
+              0.0446,
+              0.6762
+            ]
+          ]
+        ],
+        [
+          "Q9(c)",
+          [
+            [
+              2,
+              0.7198,
+              0.7559
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1338,6 +2459,30 @@
         "papers/biology/img/03C-Development-Organisms-24.jpg",
         "papers/biology/img/03C-Development-Organisms-25.jpg",
         "papers/biology/img/03C-Development-Organisms-26.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2118,
+          0.8072
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4577,
+              0.4938
+            ],
+            [
+              1,
+              0.0446,
+              0.6762
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1373,6 +2518,25 @@
         "papers/biology/img/03C-Development-Organisms-28.jpg",
         "papers/biology/img/03C-Development-Organisms-29.jpg",
         "papers/biology/img/03C-Development-Organisms-30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1301,
+          0.4739
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.0978,
+              0.1178
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1405,6 +2569,30 @@
         "papers/biology/img/03C-Development-Organisms-28.jpg",
         "papers/biology/img/03C-Development-Organisms-29.jpg",
         "papers/biology/img/03C-Development-Organisms-30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.49,
+          0.9478
+        ],
+        [
+          1,
+          0.0741,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.0978,
+              0.1178
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1439,6 +2627,25 @@
         "papers/biology/img/03C-Development-Organisms-28.jpg",
         "papers/biology/img/03C-Development-Organisms-29.jpg",
         "papers/biology/img/03C-Development-Organisms-30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1643,
+          0.4739
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.0978,
+              0.1178
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1476,6 +2683,35 @@
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q10d.jpg",
         "papers/biology/fig/03C-Development-Organisms-Q10d-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.491,
+          0.9592
+        ],
+        [
+          2,
+          0.0494,
+          0.9573
+        ],
+        [
+          3,
+          0.0741,
+          0.2127
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.0978,
+              0.1178
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1504,6 +2740,25 @@
         "papers/biology/img/03C-Development-Organisms-30.jpg",
         "papers/biology/img/03C-Development-Organisms-31.jpg",
         "papers/biology/img/03C-Development-Organisms-32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4568,
+          0.6049
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.4245,
+              0.4444
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1536,6 +2791,40 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q11b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4444,
+          0.4644
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.4245,
+              0.4444
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              0,
+              0.6201,
+              0.6724
+            ],
+            [
+              1,
+              0.0475,
+              0.433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1568,6 +2857,40 @@
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q11b.jpg",
         "papers/biology/fig/03C-Development-Organisms-Q11b-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.509,
+          0.754
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.4245,
+              0.4444
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              0,
+              0.6201,
+              0.6724
+            ],
+            [
+              1,
+              0.0475,
+              0.433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1602,6 +2925,40 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q11c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4929,
+          0.7179
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.4245,
+              0.4444
+            ]
+          ]
+        ],
+        [
+          "Q11(c)",
+          [
+            [
+              1,
+              0.7654,
+              0.8177
+            ],
+            [
+              2,
+              0.0446,
+              0.4796
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1634,6 +2991,40 @@
         "papers/biology/img/03C-Development-Organisms-30.jpg",
         "papers/biology/img/03C-Development-Organisms-31.jpg",
         "papers/biology/img/03C-Development-Organisms-32.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.735,
+          0.8338
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.4245,
+              0.4444
+            ]
+          ]
+        ],
+        [
+          "Q11(c)",
+          [
+            [
+              1,
+              0.7654,
+              0.8177
+            ],
+            [
+              2,
+              0.0446,
+              0.4796
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1667,6 +3058,35 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q12a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6106,
+          0.7588
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.1643,
+              0.1842
+            ]
+          ]
+        ],
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.1966,
+              0.5992
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1699,6 +3119,35 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q12a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.774,
+          0.9411
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.1643,
+              0.1842
+            ]
+          ]
+        ],
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.1966,
+              0.5992
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1733,6 +3182,35 @@
         "papers/biology/img/03C-Development-Organisms-33.jpg",
         "papers/biology/img/03C-Development-Organisms-34.jpg",
         "papers/biology/img/03C-Development-Organisms-35.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0655,
+          0.6534
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.1643,
+              0.1842
+            ]
+          ]
+        ],
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.1966,
+              0.5992
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1768,6 +3246,30 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q12b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6686,
+          0.8357
+        ],
+        [
+          2,
+          0.0446,
+          0.6724
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.1643,
+              0.1842
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1808,6 +3310,35 @@
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q13a.jpg",
         "papers/biology/fig/03C-Development-Organisms-Q13a-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9031,
+          0.9364
+        ],
+        [
+          2,
+          0.0446,
+          0.6695
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.8832,
+              0.9364
+            ],
+            [
+              1,
+              0.0446,
+              0.8927
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1840,6 +3371,35 @@
         "papers/biology/img/03C-Development-Organisms-36.jpg",
         "papers/biology/img/03C-Development-Organisms-37.jpg",
         "papers/biology/img/03C-Development-Organisms-38.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6857,
+          0.9478
+        ],
+        [
+          3,
+          0.0741,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.8832,
+              0.9364
+            ],
+            [
+              1,
+              0.0446,
+              0.8927
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1873,6 +3433,25 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q14a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.623,
+          0.8063
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3599,
+              0.6106
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1906,6 +3485,25 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q14a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8215,
+          0.9364
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3599,
+              0.6106
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1941,6 +3539,25 @@
         "papers/biology/img/03C-Development-Organisms-39.jpg",
         "papers/biology/img/03C-Development-Organisms-40.jpg",
         "papers/biology/img/03C-Development-Organisms-41.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0655,
+          0.7028
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3599,
+              0.6106
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1973,6 +3590,40 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q14c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3542,
+          0.4691
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3599,
+              0.6106
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.7179,
+              0.7711
+            ],
+            [
+              2,
+              0.0446,
+              0.3428
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2008,6 +3659,40 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q14c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4843,
+          0.6686
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3599,
+              0.6106
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.7179,
+              0.7711
+            ],
+            [
+              2,
+              0.0446,
+              0.3428
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2040,6 +3725,40 @@
         "papers/biology/img/03C-Development-Organisms-39.jpg",
         "papers/biology/img/03C-Development-Organisms-40.jpg",
         "papers/biology/img/03C-Development-Organisms-41.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6828,
+          0.9449
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3599,
+              0.6106
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.7179,
+              0.7711
+            ],
+            [
+              2,
+              0.0446,
+              0.3428
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2072,6 +3791,25 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q15a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6277,
+          0.7426
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2944,
+              0.6135
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2107,6 +3845,30 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q15b.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7588,
+          0.8433
+        ],
+        [
+          1,
+          0.0446,
+          0.5632
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2944,
+              0.6135
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2136,6 +3898,35 @@
         "papers/biology/img/03C-Development-Organisms-41.jpg",
         "papers/biology/img/03C-Development-Organisms-42.jpg",
         "papers/biology/img/03C-Development-Organisms-43.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6448,
+          0.792
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2944,
+              0.6135
+            ]
+          ]
+        ],
+        [
+          "Q15(c)",
+          [
+            [
+              1,
+              0.5793,
+              0.6315
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2168,6 +3959,40 @@
         "papers/biology/img/03C-Development-Organisms-41.jpg",
         "papers/biology/img/03C-Development-Organisms-42.jpg",
         "papers/biology/img/03C-Development-Organisms-43.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8072,
+          0.9411
+        ],
+        [
+          2,
+          0.0636,
+          0.1159
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2944,
+              0.6135
+            ]
+          ]
+        ],
+        [
+          "Q15(c)",
+          [
+            [
+              1,
+              0.5793,
+              0.6315
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2198,6 +4023,25 @@
       "images": [
         "papers/biology/img/03C-Development-Organisms-43.jpg",
         "papers/biology/img/03C-Development-Organisms-44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4587,
+          0.6762
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.3932,
+              0.4454
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2228,6 +4072,25 @@
       "images": [
         "papers/biology/img/03C-Development-Organisms-43.jpg",
         "papers/biology/img/03C-Development-Organisms-44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6895,
+          0.9516
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.3932,
+              0.4454
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2260,6 +4123,25 @@
       "images": [
         "papers/biology/img/03C-Development-Organisms-43.jpg",
         "papers/biology/img/03C-Development-Organisms-44.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0655,
+          0.49
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.3932,
+              0.4454
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2293,6 +4175,30 @@
         "papers/biology/img/03C-Development-Organisms-45.jpg",
         "papers/biology/img/03C-Development-Organisms-46.jpg",
         "papers/biology/img/03C-Development-Organisms-47.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3314,
+          0.5271
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.7683,
+              0.8205
+            ],
+            [
+              1,
+              0.0446,
+              0.3191
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2326,6 +4232,30 @@
         "papers/biology/img/03C-Development-Organisms-45.jpg",
         "papers/biology/img/03C-Development-Organisms-46.jpg",
         "papers/biology/img/03C-Development-Organisms-47.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5432,
+          0.8215
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.7683,
+              0.8205
+            ],
+            [
+              1,
+              0.0446,
+              0.3191
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2359,6 +4289,45 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q17b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2764,
+          0.4606
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.7683,
+              0.8205
+            ],
+            [
+              1,
+              0.0446,
+              0.3191
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              1,
+              0.8367,
+              0.8889
+            ],
+            [
+              2,
+              0.0446,
+              0.265
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2393,6 +4362,45 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q17b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4748,
+          0.623
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.7683,
+              0.8205
+            ],
+            [
+              1,
+              0.0446,
+              0.3191
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              1,
+              0.8367,
+              0.8889
+            ],
+            [
+              2,
+              0.0446,
+              0.265
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2425,6 +4433,50 @@
         "papers/biology/img/03C-Development-Organisms-45.jpg",
         "papers/biology/img/03C-Development-Organisms-46.jpg",
         "papers/biology/img/03C-Development-Organisms-47.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6382,
+          0.9487
+        ],
+        [
+          3,
+          0.0741,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.7683,
+              0.8205
+            ],
+            [
+              1,
+              0.0446,
+              0.3191
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              1,
+              0.8367,
+              0.8889
+            ],
+            [
+              2,
+              0.0446,
+              0.265
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2457,6 +4509,40 @@
         "papers/biology/img/03C-Development-Organisms-45.jpg",
         "papers/biology/img/03C-Development-Organisms-46.jpg",
         "papers/biology/img/03C-Development-Organisms-47.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.3903,
+          0.6363
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.7683,
+              0.8205
+            ],
+            [
+              1,
+              0.0446,
+              0.3191
+            ]
+          ]
+        ],
+        [
+          "Q17(c)",
+          [
+            [
+              3,
+              0.0978,
+              0.3761
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2492,6 +4578,40 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q17c.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.6515,
+          0.8974
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.7683,
+              0.8205
+            ],
+            [
+              1,
+              0.0446,
+              0.3191
+            ]
+          ]
+        ],
+        [
+          "Q17(c)",
+          [
+            [
+              3,
+              0.0978,
+              0.3761
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2523,6 +4643,25 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5755,
+          0.8528
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.1633,
+              0.5641
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2556,6 +4695,30 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8689,
+          0.9506
+        ],
+        [
+          1,
+          0.0665,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.1633,
+              0.5641
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2591,6 +4754,25 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0988,
+          0.7189
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.1633,
+              0.5641
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2657,6 +4839,30 @@
         "papers/biology/img/03C-Development-Organisms-50.jpg",
         "papers/biology/img/03C-Development-Organisms-51.jpg",
         "papers/biology/img/03C-Development-Organisms-52.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2308,
+          0.8129
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.9316,
+              0.9506
+            ],
+            [
+              1,
+              0.0969,
+              0.2175
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2691,6 +4897,45 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q19c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3922,
+          0.7521
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.9316,
+              0.9506
+            ],
+            [
+              1,
+              0.0969,
+              0.2175
+            ]
+          ]
+        ],
+        [
+          "Q19(c)",
+          [
+            [
+              1,
+              0.8291,
+              0.9107
+            ],
+            [
+              2,
+              0.0446,
+              0.3808
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2728,6 +4973,50 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q19c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7673,
+          0.9478
+        ],
+        [
+          3,
+          0.0741,
+          0.1804
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.9316,
+              0.9506
+            ],
+            [
+              1,
+              0.0969,
+              0.2175
+            ]
+          ]
+        ],
+        [
+          "Q19(c)",
+          [
+            [
+              1,
+              0.8291,
+              0.9107
+            ],
+            [
+              2,
+              0.0446,
+              0.3808
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2761,6 +5050,40 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q20a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3542,
+          0.5014
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.3922,
+              0.754
+            ]
+          ]
+        ],
+        [
+          "Q20(a)",
+          [
+            [
+              0,
+              0.7654,
+              0.8509
+            ],
+            [
+              1,
+              0.0446,
+              0.3305
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2798,6 +5121,40 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q20a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5176,
+          0.7626
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.3922,
+              0.754
+            ]
+          ]
+        ],
+        [
+          "Q20(a)",
+          [
+            [
+              0,
+              0.7654,
+              0.8509
+            ],
+            [
+              1,
+              0.0446,
+              0.3305
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2832,6 +5189,30 @@
         "papers/biology/img/03C-Development-Organisms-53.jpg",
         "papers/biology/img/03C-Development-Organisms-54.jpg",
         "papers/biology/img/03C-Development-Organisms-55.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7787,
+          0.9288
+        ],
+        [
+          2,
+          0.0741,
+          0.4084
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.3922,
+              0.754
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2870,6 +5251,30 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q20c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4245,
+          0.9592
+        ],
+        [
+          3,
+          0.0741,
+          0.3105
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.3922,
+              0.754
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2902,6 +5307,25 @@
         "papers/biology/img/03C-Development-Organisms-55.jpg",
         "papers/biology/img/03C-Development-Organisms-56.jpg",
         "papers/biology/img/03C-Development-Organisms-57.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5878,
+          0.6695
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.5223,
+              0.5745
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2933,6 +5357,40 @@
         "papers/biology/img/03C-Development-Organisms-55.jpg",
         "papers/biology/img/03C-Development-Organisms-56.jpg",
         "papers/biology/img/03C-Development-Organisms-57.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7512,
+          0.9459
+        ],
+        [
+          1,
+          0.0446,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.5223,
+              0.5745
+            ]
+          ]
+        ],
+        [
+          "Q21(b)",
+          [
+            [
+              0,
+              0.7189,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2997,6 +5455,35 @@
         "papers/biology/img/03C-Development-Organisms-55.jpg",
         "papers/biology/img/03C-Development-Organisms-56.jpg",
         "papers/biology/img/03C-Development-Organisms-57.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1633,
+          0.5717
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.5223,
+              0.5745
+            ]
+          ]
+        ],
+        [
+          "Q21(b)",
+          [
+            [
+              0,
+              0.7189,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3026,6 +5513,30 @@
         "papers/biology/img/03C-Development-Organisms-55.jpg",
         "papers/biology/img/03C-Development-Organisms-56.jpg",
         "papers/biology/img/03C-Development-Organisms-57.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5878,
+          0.9012
+        ],
+        [
+          2,
+          0.0446,
+          0.0522
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.5223,
+              0.5745
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3056,6 +5567,35 @@
         "papers/biology/img/03C-Development-Organisms-58.jpg",
         "papers/biology/img/03C-Development-Organisms-59.jpg",
         "papers/biology/img/03C-Development-Organisms-60.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3267,
+          0.5726
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.2631,
+              0.2821
+            ]
+          ]
+        ],
+        [
+          "Q22(a)",
+          [
+            [
+              0,
+              0.2944,
+              0.3143
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3086,6 +5626,35 @@
         "papers/biology/img/03C-Development-Organisms-58.jpg",
         "papers/biology/img/03C-Development-Organisms-59.jpg",
         "papers/biology/img/03C-Development-Organisms-60.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5878,
+          0.6705
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.2631,
+              0.2821
+            ]
+          ]
+        ],
+        [
+          "Q22(a)",
+          [
+            [
+              0,
+              0.2944,
+              0.3143
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3120,6 +5689,40 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q22b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3951,
+          0.886
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.2631,
+              0.2821
+            ]
+          ]
+        ],
+        [
+          "Q22(b)",
+          [
+            [
+              0,
+              0.6866,
+              0.7854
+            ],
+            [
+              1,
+              0.0446,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3153,6 +5756,45 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q22b-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9012,
+          0.9506
+        ],
+        [
+          2,
+          0.0722,
+          0.2222
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.2631,
+              0.2821
+            ]
+          ]
+        ],
+        [
+          "Q22(b)",
+          [
+            [
+              0,
+              0.6866,
+              0.7854
+            ],
+            [
+              1,
+              0.0446,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3186,6 +5828,25 @@
         "papers/biology/img/03C-Development-Organisms-58.jpg",
         "papers/biology/img/03C-Development-Organisms-59.jpg",
         "papers/biology/img/03C-Development-Organisms-60.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2403,
+          0.453
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.2631,
+              0.2821
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3219,6 +5880,35 @@
         "papers/biology/img/03C-Development-Organisms-58.jpg",
         "papers/biology/img/03C-Development-Organisms-59.jpg",
         "papers/biology/img/03C-Development-Organisms-60.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5337,
+          0.812
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.2631,
+              0.2821
+            ]
+          ]
+        ],
+        [
+          "Q22(d)",
+          [
+            [
+              2,
+              0.4691,
+              0.5214
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3251,6 +5941,40 @@
         "papers/biology/img/03C-Development-Organisms-58.jpg",
         "papers/biology/img/03C-Development-Organisms-59.jpg",
         "papers/biology/img/03C-Development-Organisms-60.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8281,
+          0.9592
+        ],
+        [
+          3,
+          0.0741,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.2631,
+              0.2821
+            ]
+          ]
+        ],
+        [
+          "Q22(d)",
+          [
+            [
+              2,
+              0.4691,
+              0.5214
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3282,6 +6006,35 @@
         "papers/biology/img/03C-Development-Organisms-60.jpg",
         "papers/biology/img/03C-Development-Organisms-61.jpg",
         "papers/biology/img/03C-Development-Organisms-62.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6315,
+          0.8927
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.359,
+              0.3789
+            ]
+          ]
+        ],
+        [
+          "Q23(a)",
+          [
+            [
+              0,
+              0.3913,
+              0.6154
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3311,6 +6064,40 @@
         "papers/biology/img/03C-Development-Organisms-60.jpg",
         "papers/biology/img/03C-Development-Organisms-61.jpg",
         "papers/biology/img/03C-Development-Organisms-62.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9088,
+          0.9592
+        ],
+        [
+          1,
+          0.0741,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.359,
+              0.3789
+            ]
+          ]
+        ],
+        [
+          "Q23(a)",
+          [
+            [
+              0,
+              0.3913,
+              0.6154
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3346,6 +6133,25 @@
       ],
       "figures": [
         "papers/biology/fig/03C-Development-Organisms-Q23b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1633,
+          0.8927
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.359,
+              0.3789
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3378,6 +6184,30 @@
         "papers/biology/img/03C-Development-Organisms-60.jpg",
         "papers/biology/img/03C-Development-Organisms-61.jpg",
         "papers/biology/img/03C-Development-Organisms-62.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9088,
+          0.9592
+        ],
+        [
+          2,
+          0.0741,
+          0.3438
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.359,
+              0.3789
+            ]
+          ]
+        ]
       ]
     }
   ]

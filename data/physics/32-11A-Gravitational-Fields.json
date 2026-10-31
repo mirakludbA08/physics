@@ -33,6 +33,25 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6429,
+          0.8794
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.6334
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -60,6 +79,40 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-01.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9297,
+          0.9487
+        ],
+        [
+          1,
+          0.0532,
+          0.1947
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.6334
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.8927,
+              0.924
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -88,6 +141,35 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-01.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-02.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2004,
+          0.5356
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.6334
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.8927,
+              0.924
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -116,6 +198,13 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-02.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.68,
+          0.9449
+        ]
       ]
     },
     {
@@ -144,6 +233,35 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-03.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2982,
+          0.6448
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.1861,
+              0.2203
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.2308,
+              0.2991
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -172,6 +290,35 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-03.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6505,
+          0.8974
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.1861,
+              0.2203
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.2308,
+              0.2991
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -201,6 +348,30 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-03.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9079,
+          0.9487
+        ],
+        [
+          1,
+          0.0826,
+          0.1785
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.1861,
+              0.2203
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -229,6 +400,13 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-04.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3257,
+          0.6353
+        ]
       ]
     },
     {
@@ -258,6 +436,18 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-04.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.831,
+          0.9354
+        ],
+        [
+          1,
+          0.0513,
+          0.0912
+        ]
       ]
     },
     {
@@ -290,6 +480,13 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2915,
+          0.5366
+        ]
       ]
     },
     {
@@ -322,6 +519,30 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4065,
+          0.5698
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6724,
+              0.7037
+            ],
+            [
+              1,
+              0.0513,
+              0.396
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -354,6 +575,30 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5755,
+          0.7759
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6724,
+              0.7037
+            ],
+            [
+              1,
+              0.0513,
+              0.396
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -387,6 +632,35 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7816,
+          0.9392
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6724,
+              0.7037
+            ],
+            [
+              1,
+              0.0513,
+              0.396
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -419,6 +693,30 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q7.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1111,
+          0.3039
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6724,
+              0.7037
+            ],
+            [
+              1,
+              0.0513,
+              0.396
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -450,6 +748,40 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7768,
+          0.9202
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.4511,
+              0.7312
+            ]
+          ]
+        ],
+        [
+          "Q8(a)",
+          [
+            [
+              0,
+              0.7398,
+              0.7721
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -478,6 +810,50 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-07.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.075,
+          0.2783
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.4511,
+              0.7312
+            ]
+          ]
+        ],
+        [
+          "Q8(a)",
+          [
+            [
+              0,
+              0.7398,
+              0.7721
+            ]
+          ]
+        ],
+        [
+          "Q8(a)(i)",
+          [
+            [
+              0,
+              0.7768,
+              0.9202
+            ],
+            [
+              1,
+              0.0608,
+              0.0693
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -508,6 +884,25 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-07.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2877,
+          0.642
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.4511,
+              0.7312
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -539,6 +934,25 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q8.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6553,
+          0.849
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.4511,
+              0.7312
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -567,6 +981,13 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-09.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1054,
+          0.2403
+        ]
       ]
     },
     {
@@ -595,6 +1016,25 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-09.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.528,
+          0.8224
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3951,
+              0.5147
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -623,6 +1063,30 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-09.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8357,
+          0.9402
+        ],
+        [
+          1,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3951,
+              0.5147
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -651,6 +1115,25 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-09.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.17,
+          0.4682
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3951,
+              0.5147
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -683,6 +1166,30 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7588,
+          0.9316
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.6106,
+              0.7455
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -712,6 +1219,25 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-10.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2279,
+          0.5242
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.6106,
+              0.7455
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -741,6 +1267,25 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-10.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5375,
+          0.8632
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.6106,
+              0.7455
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -829,6 +1374,25 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-12.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2279,
+          0.5565
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.1197,
+              0.4596
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -860,6 +1424,18 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7493,
+          0.8129
+        ],
+        [
+          1,
+          0.0522,
+          0.2431
+        ]
       ]
     },
     {
@@ -888,6 +1464,25 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-14.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4368,
+          0.6002
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3789,
+              0.4274
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -917,6 +1512,25 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-14.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6068,
+          0.8822
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3789,
+              0.4274
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -946,6 +1560,30 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-14.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8927,
+          0.9487
+        ],
+        [
+          1,
+          0.0532,
+          0.2972
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3789,
+              0.4274
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -976,6 +1614,13 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4929,
+          0.7502
+        ]
       ]
     },
     {
@@ -1004,6 +1649,13 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-15.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1595
+        ]
       ]
     },
     {
@@ -1033,6 +1685,25 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-16.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.358,
+          0.831
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.3143,
+              0.3476
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1060,6 +1731,40 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-16.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.905,
+          0.9297
+        ],
+        [
+          1,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.3143,
+              0.3476
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              0,
+              0.8433,
+              0.9117
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1088,6 +1793,35 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-16.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-17.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1624,
+          0.378
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.3143,
+              0.3476
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              0,
+              0.8433,
+              0.9117
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1116,6 +1850,25 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-17.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6135,
+          0.9069
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5252,
+              0.603
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1144,6 +1897,30 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-17.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9193,
+          0.9392
+        ],
+        [
+          1,
+          0.0522,
+          0.2089
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5252,
+              0.603
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1172,6 +1949,25 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-17.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2146,
+          0.4444
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5252,
+              0.603
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1201,6 +1997,30 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-18.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6353,
+          0.9459
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.5907,
+              0.622
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1229,6 +2049,25 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-18.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1111,
+          0.4387
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.5907,
+              0.622
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1258,6 +2097,25 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-18.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4492,
+          0.6125
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.5907,
+              0.622
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1285,6 +2143,30 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-19.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8034,
+          0.9221
+        ],
+        [
+          1,
+          0.0532,
+          0.0722
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7578,
+              0.7901
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1316,6 +2198,25 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-19.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-20.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.5992
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7578,
+              0.7901
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1346,6 +2247,18 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7958,
+          0.8851
+        ],
+        [
+          1,
+          0.0513,
+          0.2251
+        ]
       ]
     },
     {
@@ -1374,6 +2287,13 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-21.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4103,
+          0.5926
+        ]
       ]
     },
     {
@@ -1404,6 +2324,18 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.793,
+          0.9003
+        ],
+        [
+          1,
+          0.0522,
+          0.2915
+        ]
       ]
     },
     {
@@ -1432,6 +2364,13 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-22.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4786,
+          0.6144
+        ]
       ]
     },
     {
@@ -1460,6 +2399,18 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-22.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7692,
+          0.9468
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
       ]
     },
     {
@@ -1489,6 +2440,13 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4112,
+          0.6591
+        ]
       ]
     },
     {
@@ -1517,6 +2475,18 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-23.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8708,
+          0.9345
+        ],
+        [
+          1,
+          0.0532,
+          0.1472
+        ]
       ]
     },
     {
@@ -1547,6 +2517,13 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3476,
+          0.6182
+        ]
       ]
     },
     {
@@ -1575,6 +2552,30 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-24.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8262,
+          0.9421
+        ],
+        [
+          1,
+          0.0826,
+          0.3542
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.7816,
+              0.8158
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1602,6 +2603,25 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-24.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3675,
+          0.5461
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.7816,
+              0.8158
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1630,6 +2650,25 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-24.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5518,
+          0.7673
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.7816,
+              0.8158
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1662,6 +2701,40 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4672,
+          0.6382
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.9145,
+              0.9335
+            ],
+            [
+              1,
+              0.0513,
+              0.4349
+            ]
+          ]
+        ],
+        [
+          "Q30(a)",
+          [
+            [
+              1,
+              0.4454,
+              0.4644
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1695,6 +2768,45 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q30-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6439,
+          0.9335
+        ],
+        [
+          2,
+          0.0608,
+          0.2764
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.9145,
+              0.9335
+            ],
+            [
+              1,
+              0.0513,
+              0.4349
+            ]
+          ]
+        ],
+        [
+          "Q30(a)",
+          [
+            [
+              1,
+              0.4454,
+              0.4644
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1724,6 +2836,30 @@
         "papers/physics/img/32-11A-Gravitational-Fields-25.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-26.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-27.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2868,
+          0.4653
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.9145,
+              0.9335
+            ],
+            [
+              1,
+              0.0513,
+              0.4349
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1751,6 +2887,13 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-27.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6116,
+          0.9088
+        ]
       ]
     },
     {
@@ -1782,6 +2925,13 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2308,
+          0.6743
+        ]
       ]
     },
     {
@@ -1813,6 +2963,18 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8291,
+          0.8889
+        ],
+        [
+          1,
+          0.1035,
+          0.5432
+        ]
       ]
     },
     {
@@ -1843,6 +3005,18 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6895,
+          0.7085
+        ],
+        [
+          1,
+          0.0522,
+          0.6325
+        ]
       ]
     },
     {
@@ -1871,6 +3045,30 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-30.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8082,
+          0.9288
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.7797,
+              0.7987
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1900,6 +3098,25 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-30.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1994,
+          0.4511
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.7797,
+              0.7987
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1930,6 +3147,13 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6467,
+          0.9259
+        ]
       ]
     },
     {
@@ -1959,6 +3183,13 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-32.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2355,
+          0.359
+        ]
       ]
     },
     {
@@ -1987,6 +3218,25 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-32.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5556,
+          0.8538
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.51,
+              0.5423
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2015,6 +3265,30 @@
       "images": [
         "papers/physics/img/32-11A-Gravitational-Fields-32.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8632,
+          0.9164
+        ],
+        [
+          1,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.51,
+              0.5423
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2044,6 +3318,13 @@
         "papers/physics/img/32-11A-Gravitational-Fields-33.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-34.jpg",
         "papers/physics/img/32-11A-Gravitational-Fields-35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4872,
+          0.5812
+        ]
       ]
     },
     {
@@ -2077,6 +3358,30 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q40.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4501,
+          0.8367
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.7331,
+              0.7635
+            ],
+            [
+              1,
+              0.056,
+              0.4406
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2107,6 +3412,35 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q40.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8462,
+          0.9221
+        ],
+        [
+          2,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.7331,
+              0.7635
+            ],
+            [
+              1,
+              0.056,
+              0.4406
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2139,6 +3473,30 @@
       ],
       "figures": [
         "papers/physics/fig/32-11A-Gravitational-Fields-Q40.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1994,
+          0.3913
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.7331,
+              0.7635
+            ],
+            [
+              1,
+              0.056,
+              0.4406
+            ]
+          ]
+        ]
       ]
     }
   ]

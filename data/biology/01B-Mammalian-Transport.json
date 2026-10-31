@@ -34,6 +34,25 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.415,
+          0.7104
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.4055
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -65,6 +84,40 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q1-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3058,
+          0.5052
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.4055
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.7227,
+              0.7417
+            ],
+            [
+              1,
+              0.0522,
+              0.3029
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -98,6 +151,40 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q1-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5109,
+          0.5423
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.4055
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.7227,
+              0.7417
+            ],
+            [
+              1,
+              0.0522,
+              0.3029
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -130,6 +217,30 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q1-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6391,
+          0.9402
+        ],
+        [
+          2,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.4055
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -163,6 +274,40 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6657,
+          0.9098
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3913,
+              0.4397
+            ]
+          ]
+        ],
+        [
+          "Q2(a)",
+          [
+            [
+              0,
+              0.4501,
+              0.4815
+            ],
+            [
+              1,
+              0.0513,
+              0.6619
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -197,6 +342,45 @@
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q2.jpg",
         "papers/biology/fig/01B-Mammalian-Transport-Q2-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9164,
+          0.9354
+        ],
+        [
+          2,
+          0.0513,
+          0.3713
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3913,
+              0.4397
+            ]
+          ]
+        ],
+        [
+          "Q2(a)",
+          [
+            [
+              0,
+              0.4501,
+              0.4815
+            ],
+            [
+              1,
+              0.0513,
+              0.6619
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -228,6 +412,40 @@
         "papers/biology/img/01B-Mammalian-Transport-05.jpg",
         "papers/biology/img/01B-Mammalian-Transport-06.jpg",
         "papers/biology/img/01B-Mammalian-Transport-07.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.378,
+          0.6068
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3913,
+              0.4397
+            ]
+          ]
+        ],
+        [
+          "Q2(a)",
+          [
+            [
+              0,
+              0.4501,
+              0.4815
+            ],
+            [
+              1,
+              0.0513,
+              0.6619
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -262,6 +480,40 @@
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q2-3.jpg",
         "papers/biology/fig/01B-Mammalian-Transport-Q2-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7854,
+          0.8044
+        ],
+        [
+          3,
+          0.0522,
+          0.2621
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3913,
+              0.4397
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              2,
+              0.6201,
+              0.7835
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -296,6 +548,35 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q2-3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2583,
+          0.358
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3913,
+              0.4397
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              2,
+              0.6201,
+              0.7835
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -328,6 +609,35 @@
         "papers/biology/img/01B-Mammalian-Transport-05.jpg",
         "papers/biology/img/01B-Mammalian-Transport-06.jpg",
         "papers/biology/img/01B-Mammalian-Transport-07.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.3713,
+          0.5717
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3913,
+              0.4397
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              2,
+              0.6201,
+              0.7835
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -359,6 +669,35 @@
         "papers/biology/img/01B-Mammalian-Transport-05.jpg",
         "papers/biology/img/01B-Mammalian-Transport-06.jpg",
         "papers/biology/img/01B-Mammalian-Transport-07.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.6068,
+          0.8063
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3913,
+              0.4397
+            ]
+          ]
+        ],
+        [
+          "Q2(c)",
+          [
+            [
+              3,
+              0.584,
+              0.603
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -390,6 +729,40 @@
         "papers/biology/img/01B-Mammalian-Transport-05.jpg",
         "papers/biology/img/01B-Mammalian-Transport-06.jpg",
         "papers/biology/img/01B-Mammalian-Transport-07.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.812,
+          0.9392
+        ],
+        [
+          4,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3913,
+              0.4397
+            ]
+          ]
+        ],
+        [
+          "Q2(c)",
+          [
+            [
+              3,
+              0.584,
+              0.603
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -419,6 +792,35 @@
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q3.jpg",
         "papers/biology/fig/01B-Mammalian-Transport-Q3-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7075,
+          0.8889
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.3618,
+              0.4103
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.4207,
+              0.7037
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -447,6 +849,40 @@
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-07.jpg",
         "papers/biology/img/01B-Mammalian-Transport-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8946,
+          0.9136
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.3618,
+              0.4103
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.4207,
+              0.7037
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -477,6 +913,35 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2213,
+          0.4397
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.3618,
+              0.4103
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.4207,
+              0.7037
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -505,6 +970,35 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4454,
+          0.528
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.3618,
+              0.4103
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.4207,
+              0.7037
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -533,6 +1027,25 @@
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-07.jpg",
         "papers/biology/img/01B-Mammalian-Transport-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5413,
+          0.8575
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.3618,
+              0.4103
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -562,6 +1075,25 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1985,
+          0.6771
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.169,
+              0.188
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -591,6 +1123,30 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q4-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6857,
+          0.717
+        ],
+        [
+          1,
+          0.0522,
+          0.2858
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.169,
+              0.188
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -621,6 +1177,25 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q4-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2963,
+          0.5071
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.169,
+              0.188
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -649,6 +1224,25 @@
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-09.jpg",
         "papers/biology/img/01B-Mammalian-Transport-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5271,
+          0.7483
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.169,
+              0.188
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -677,6 +1271,30 @@
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-10.jpg",
         "papers/biology/img/01B-Mammalian-Transport-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.925,
+          0.944
+        ],
+        [
+          1,
+          0.0532,
+          0.2716
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.8955,
+              0.9145
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -705,6 +1323,25 @@
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-10.jpg",
         "papers/biology/img/01B-Mammalian-Transport-11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2849,
+          0.5062
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.8955,
+              0.9145
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -736,6 +1373,25 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5195,
+          0.8329
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.8955,
+              0.9145
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -767,6 +1423,25 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1681,
+          0.5119
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1396,
+              0.1586
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -797,6 +1472,25 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5223,
+          0.8063
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1396,
+              0.1586
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -828,6 +1522,30 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q6-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8234,
+          0.8547
+        ],
+        [
+          1,
+          0.0513,
+          0.6923
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1396,
+              0.1586
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -859,6 +1577,30 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3989,
+          0.5052
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8879,
+              0.9193
+            ],
+            [
+              1,
+              0.0513,
+              0.3884
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -887,6 +1629,40 @@
         "papers/biology/img/01B-Mammalian-Transport-13.jpg",
         "papers/biology/img/01B-Mammalian-Transport-14.jpg",
         "papers/biology/img/01B-Mammalian-Transport-15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5641,
+          0.6173
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8879,
+              0.9193
+            ],
+            [
+              1,
+              0.0513,
+              0.3884
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              1,
+              0.5261,
+              0.5603
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -918,6 +1694,40 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.623,
+          0.7968
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8879,
+              0.9193
+            ],
+            [
+              1,
+              0.0513,
+              0.3884
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              1,
+              0.5261,
+              0.5603
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -949,6 +1759,45 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8319,
+          0.8661
+        ],
+        [
+          2,
+          0.0665,
+          0.0836
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8879,
+              0.9193
+            ],
+            [
+              1,
+              0.0513,
+              0.3884
+            ]
+          ]
+        ],
+        [
+          "Q7(c)",
+          [
+            [
+              1,
+              0.8101,
+              0.8291
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -981,6 +1830,40 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q7.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0902,
+          0.3048
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8879,
+              0.9193
+            ],
+            [
+              1,
+              0.0513,
+              0.3884
+            ]
+          ]
+        ],
+        [
+          "Q7(c)",
+          [
+            [
+              1,
+              0.8101,
+              0.8291
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1011,6 +1894,40 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8775,
+          0.9449
+        ],
+        [
+          1,
+          0.0513,
+          0.0883
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5005,
+              0.5195
+            ]
+          ]
+        ],
+        [
+          "Q8(a)",
+          [
+            [
+              0,
+              0.5299,
+              0.8538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1042,6 +1959,35 @@
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q8.jpg",
         "papers/biology/fig/01B-Mammalian-Transport-Q8-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.2982
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5005,
+              0.5195
+            ]
+          ]
+        ],
+        [
+          "Q8(a)",
+          [
+            [
+              0,
+              0.5299,
+              0.8538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1073,6 +2019,35 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q8-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6933,
+          0.792
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5005,
+              0.5195
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              1,
+              0.32,
+              0.6819
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1105,6 +2080,40 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q8-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7977,
+          0.9402
+        ],
+        [
+          2,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5005,
+              0.5195
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              1,
+              0.32,
+              0.6819
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1137,6 +2146,25 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7265,
+          0.7977
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4112,
+              0.716
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1169,6 +2197,30 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8908,
+          0.9221
+        ],
+        [
+          1,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4112,
+              0.716
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1201,6 +2253,25 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q9.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3162,
+          0.5233
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4112,
+              0.716
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1231,6 +2302,30 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5366,
+          0.5774
+        ],
+        [
+          2,
+          0.0646,
+          0.4444
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4112,
+              0.716
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1262,6 +2357,25 @@
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q9-2.jpg",
         "papers/biology/fig/01B-Mammalian-Transport-Q9-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4473,
+          0.6657
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4112,
+              0.716
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1291,6 +2405,30 @@
         "papers/biology/img/01B-Mammalian-Transport-19.jpg",
         "papers/biology/img/01B-Mammalian-Transport-20.jpg",
         "papers/biology/img/01B-Mammalian-Transport-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9088,
+          0.9278
+        ],
+        [
+          1,
+          0.0513,
+          0.1244
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8794,
+              0.8984
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1320,6 +2458,25 @@
         "papers/biology/img/01B-Mammalian-Transport-19.jpg",
         "papers/biology/img/01B-Mammalian-Transport-20.jpg",
         "papers/biology/img/01B-Mammalian-Transport-21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1434,
+          0.3875
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8794,
+              0.8984
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1349,6 +2506,25 @@
         "papers/biology/img/01B-Mammalian-Transport-19.jpg",
         "papers/biology/img/01B-Mammalian-Transport-20.jpg",
         "papers/biology/img/01B-Mammalian-Transport-21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4084,
+          0.6534
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8794,
+              0.8984
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1378,6 +2554,30 @@
         "papers/biology/img/01B-Mammalian-Transport-19.jpg",
         "papers/biology/img/01B-Mammalian-Transport-20.jpg",
         "papers/biology/img/01B-Mammalian-Transport-21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6743,
+          0.925
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8794,
+              0.8984
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1410,6 +2610,30 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2944,
+          0.9278
+        ],
+        [
+          1,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.265,
+              0.2811
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1442,6 +2666,35 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q11-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5954,
+          0.7531
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.265,
+              0.2811
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              1,
+              0.17,
+              0.5926
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1471,6 +2724,35 @@
         "papers/biology/img/01B-Mammalian-Transport-21.jpg",
         "papers/biology/img/01B-Mammalian-Transport-22.jpg",
         "papers/biology/img/01B-Mammalian-Transport-23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7597,
+          0.8708
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.265,
+              0.2811
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              1,
+              0.17,
+              0.5926
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1500,6 +2782,40 @@
         "papers/biology/img/01B-Mammalian-Transport-21.jpg",
         "papers/biology/img/01B-Mammalian-Transport-22.jpg",
         "papers/biology/img/01B-Mammalian-Transport-23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8775,
+          0.9449
+        ],
+        [
+          2,
+          0.0513,
+          0.0912
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.265,
+              0.2811
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              1,
+              0.17,
+              0.5926
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1528,6 +2844,35 @@
         "papers/biology/img/01B-Mammalian-Transport-21.jpg",
         "papers/biology/img/01B-Mammalian-Transport-22.jpg",
         "papers/biology/img/01B-Mammalian-Transport-23.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1016,
+          0.2042
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.265,
+              0.2811
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              1,
+              0.17,
+              0.5926
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1557,6 +2902,35 @@
         "papers/biology/img/01B-Mammalian-Transport-21.jpg",
         "papers/biology/img/01B-Mammalian-Transport-22.jpg",
         "papers/biology/img/01B-Mammalian-Transport-23.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2146,
+          0.283
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.265,
+              0.2811
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              1,
+              0.17,
+              0.5926
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1587,6 +2961,30 @@
         "papers/biology/img/01B-Mammalian-Transport-24.jpg",
         "papers/biology/img/01B-Mammalian-Transport-25.jpg",
         "papers/biology/img/01B-Mammalian-Transport-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1909,
+          0.4131
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.4302,
+              0.9288
+            ],
+            [
+              1,
+              0.0684,
+              0.1804
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1617,6 +3015,30 @@
         "papers/biology/img/01B-Mammalian-Transport-24.jpg",
         "papers/biology/img/01B-Mammalian-Transport-25.jpg",
         "papers/biology/img/01B-Mammalian-Transport-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4264,
+          0.7208
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.4302,
+              0.9288
+            ],
+            [
+              1,
+              0.0684,
+              0.1804
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1649,6 +3071,45 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9269,
+          0.9459
+        ],
+        [
+          2,
+          0.0522,
+          0.2868
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.4302,
+              0.9288
+            ],
+            [
+              1,
+              0.0684,
+              0.1804
+            ]
+          ]
+        ],
+        [
+          "Q12(c)",
+          [
+            [
+              1,
+              0.7341,
+              0.9231
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1681,6 +3142,40 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q12-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2925,
+          0.7635
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.4302,
+              0.9288
+            ],
+            [
+              1,
+              0.0684,
+              0.1804
+            ]
+          ]
+        ],
+        [
+          "Q12(c)",
+          [
+            [
+              1,
+              0.7341,
+              0.9231
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1717,6 +3212,45 @@
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q12.jpg",
         "papers/biology/fig/01B-Mammalian-Transport-Q12-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7702,
+          0.9259
+        ],
+        [
+          3,
+          0.0608,
+          0.4492
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.4302,
+              0.9288
+            ],
+            [
+              1,
+              0.0684,
+              0.1804
+            ]
+          ]
+        ],
+        [
+          "Q12(c)",
+          [
+            [
+              1,
+              0.7341,
+              0.9231
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1747,6 +3281,40 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4862,
+          0.5859
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5964,
+              0.6154
+            ]
+          ]
+        ],
+        [
+          "Q13(a)",
+          [
+            [
+              0,
+              0.6258,
+              0.6448
+            ],
+            [
+              1,
+              0.057,
+              0.4834
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1777,6 +3345,40 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5992,
+          0.7142
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5964,
+              0.6154
+            ]
+          ]
+        ],
+        [
+          "Q13(a)",
+          [
+            [
+              0,
+              0.6258,
+              0.6448
+            ],
+            [
+              1,
+              0.057,
+              0.4834
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1808,6 +3410,40 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q13-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4112,
+          0.51
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5964,
+              0.6154
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              1,
+              0.735,
+              0.754
+            ],
+            [
+              2,
+              0.0513,
+              0.4074
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1840,6 +3476,40 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q13-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5233,
+          0.7426
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5964,
+              0.6154
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              1,
+              0.735,
+              0.754
+            ],
+            [
+              2,
+              0.0513,
+              0.4074
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1873,6 +3543,30 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q13-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7559,
+          0.812
+        ],
+        [
+          3,
+          0.0513,
+          0.8158
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5964,
+              0.6154
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1903,6 +3597,25 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7303,
+          0.8367
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              1,
+              0.1244,
+              0.7189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1933,6 +3646,30 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8575,
+          0.8927
+        ],
+        [
+          2,
+          0.0978,
+          0.114
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              1,
+              0.1244,
+              0.7189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1966,6 +3703,25 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q14.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1273,
+          0.4368
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              1,
+              0.1244,
+              0.7189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1998,6 +3754,25 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2593
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15(a)",
+          [
+            [
+              0,
+              0.6325,
+              0.9392
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2030,6 +3805,25 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2735,
+          0.3723
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15(a)",
+          [
+            [
+              0,
+              0.6325,
+              0.9392
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2059,6 +3853,25 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3865,
+          0.4853
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15(a)",
+          [
+            [
+              0,
+              0.6325,
+              0.9392
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2091,6 +3904,25 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4995,
+          0.6011
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15(a)",
+          [
+            [
+              0,
+              0.6325,
+              0.9392
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2123,6 +3955,30 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q15-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4682,
+          0.641
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15(b)",
+          [
+            [
+              1,
+              0.6201,
+              0.7208
+            ],
+            [
+              2,
+              0.0522,
+              0.4644
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2154,6 +4010,30 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q15-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6477,
+          0.8205
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15(b)",
+          [
+            [
+              1,
+              0.6201,
+              0.7208
+            ],
+            [
+              2,
+              0.0522,
+              0.4644
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2188,6 +4068,35 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q15-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8262,
+          0.9383
+        ],
+        [
+          3,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15(b)",
+          [
+            [
+              1,
+              0.6201,
+              0.7208
+            ],
+            [
+              2,
+              0.0522,
+              0.4644
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2216,6 +4125,35 @@
         "papers/biology/img/01B-Mammalian-Transport-34.jpg",
         "papers/biology/img/01B-Mammalian-Transport-35.jpg",
         "papers/biology/img/01B-Mammalian-Transport-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4777,
+          0.5897
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4112,
+              0.4302
+            ]
+          ]
+        ],
+        [
+          "Q16(a)",
+          [
+            [
+              0,
+              0.4406,
+              0.4748
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2245,6 +4183,35 @@
         "papers/biology/img/01B-Mammalian-Transport-34.jpg",
         "papers/biology/img/01B-Mammalian-Transport-35.jpg",
         "papers/biology/img/01B-Mammalian-Transport-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5954,
+          0.8101
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4112,
+              0.4302
+            ]
+          ]
+        ],
+        [
+          "Q16(a)",
+          [
+            [
+              0,
+              0.4406,
+              0.4748
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2277,6 +4244,30 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8234,
+          0.8424
+        ],
+        [
+          1,
+          0.0522,
+          0.3343
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4112,
+              0.4302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2309,6 +4300,30 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3599,
+          0.9335
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4112,
+              0.4302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2339,6 +4354,35 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q16-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5793,
+          0.6819
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4112,
+              0.4302
+            ]
+          ]
+        ],
+        [
+          "Q16(d)",
+          [
+            [
+              2,
+              0.1111,
+              0.5764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2369,6 +4413,35 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q16-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6923,
+          0.7949
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4112,
+              0.4302
+            ]
+          ]
+        ],
+        [
+          "Q16(d)",
+          [
+            [
+              2,
+              0.1111,
+              0.5764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2400,6 +4473,35 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q17.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3751,
+          0.49
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              1,
+              0.1016,
+              0.133
+            ]
+          ]
+        ],
+        [
+          "Q17(a)",
+          [
+            [
+              1,
+              0.1462,
+              0.3428
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2433,6 +4535,35 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q17.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5033,
+          0.7911
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              1,
+              0.1016,
+              0.133
+            ]
+          ]
+        ],
+        [
+          "Q17(a)",
+          [
+            [
+              1,
+              0.1462,
+              0.3428
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2464,6 +4595,30 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q17-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8044,
+          0.8357
+        ],
+        [
+          2,
+          0.0617,
+          0.433
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              1,
+              0.1016,
+              0.133
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2497,6 +4652,30 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q17-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4463,
+          0.9259
+        ],
+        [
+          3,
+          0.0817,
+          0.4055
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              1,
+              0.1016,
+              0.133
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2530,6 +4709,13 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5527,
+          0.8044
+        ]
       ]
     },
     {
@@ -2562,6 +4748,25 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1311,
+          0.4644
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              1,
+              0.1016,
+              0.1178
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2592,6 +4797,35 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q19-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6429,
+          0.7417
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              1,
+              0.1016,
+              0.1178
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              1,
+              0.4872,
+              0.6391
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2623,6 +4857,40 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q19-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7559,
+          0.8338
+        ],
+        [
+          2,
+          0.1121,
+          0.1292
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              1,
+              0.1016,
+              0.1178
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              1,
+              0.4872,
+              0.6391
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2652,6 +4920,25 @@
         "papers/biology/img/01B-Mammalian-Transport-41.jpg",
         "papers/biology/img/01B-Mammalian-Transport-42.jpg",
         "papers/biology/img/01B-Mammalian-Transport-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8072,
+          0.9145
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.3248,
+              0.7968
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2681,6 +4968,30 @@
         "papers/biology/img/01B-Mammalian-Transport-41.jpg",
         "papers/biology/img/01B-Mammalian-Transport-42.jpg",
         "papers/biology/img/01B-Mammalian-Transport-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9269,
+          0.9459
+        ],
+        [
+          1,
+          0.0665,
+          0.1396
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.3248,
+              0.7968
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2710,6 +5021,25 @@
         "papers/biology/img/01B-Mammalian-Transport-41.jpg",
         "papers/biology/img/01B-Mammalian-Transport-42.jpg",
         "papers/biology/img/01B-Mammalian-Transport-43.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.151,
+          0.2498
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.3248,
+              0.7968
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2739,6 +5069,25 @@
         "papers/biology/img/01B-Mammalian-Transport-41.jpg",
         "papers/biology/img/01B-Mammalian-Transport-42.jpg",
         "papers/biology/img/01B-Mammalian-Transport-43.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2707,
+          0.6106
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.3248,
+              0.7968
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2768,6 +5117,30 @@
         "papers/biology/img/01B-Mammalian-Transport-41.jpg",
         "papers/biology/img/01B-Mammalian-Transport-42.jpg",
         "papers/biology/img/01B-Mammalian-Transport-43.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6239,
+          0.9345
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.3248,
+              0.7968
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2799,6 +5172,25 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3238,
+          0.452
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.265,
+              0.3134
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2826,6 +5218,25 @@
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-43.jpg",
         "papers/biology/img/01B-Mammalian-Transport-44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4577,
+          0.5641
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.265,
+              0.3134
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2853,6 +5264,25 @@
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-43.jpg",
         "papers/biology/img/01B-Mammalian-Transport-44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.585,
+          0.6752
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.265,
+              0.3134
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2883,6 +5313,40 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2574,
+          0.3599
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.8718,
+              0.8908
+            ]
+          ]
+        ],
+        [
+          "Q22(a)",
+          [
+            [
+              0,
+              0.9012,
+              0.9421
+            ],
+            [
+              1,
+              0.0532,
+              0.2555
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2915,6 +5379,40 @@
       ],
       "figures": [
         "papers/biology/fig/01B-Mammalian-Transport-Q22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3704,
+          0.4843
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.8718,
+              0.8908
+            ]
+          ]
+        ],
+        [
+          "Q22(a)",
+          [
+            [
+              0,
+              0.9012,
+              0.9421
+            ],
+            [
+              1,
+              0.0532,
+              0.2555
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2944,6 +5442,25 @@
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-43.jpg",
         "papers/biology/img/01B-Mammalian-Transport-44.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5062,
+          0.8158
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.8718,
+              0.8908
+            ]
+          ]
+        ]
       ]
     }
   ]

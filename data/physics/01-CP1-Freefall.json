@@ -35,6 +35,13 @@
       ],
       "figures": [
         "papers/physics/fig/01-CP1-Freefall-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1225,
+          0.8746
+        ]
       ]
     },
     {
@@ -66,6 +73,13 @@
       ],
       "figures": [
         "papers/physics/fig/01-CP1-Freefall-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1425,
+          0.6173
+        ]
       ]
     },
     {
@@ -98,6 +112,30 @@
       ],
       "figures": [
         "papers/physics/fig/01-CP1-Freefall-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3514,
+          0.4995
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.7721,
+              0.8509
+            ],
+            [
+              1,
+              0.0513,
+              0.3409
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -130,6 +168,30 @@
       ],
       "figures": [
         "papers/physics/fig/01-CP1-Freefall-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5119,
+          0.7341
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.7721,
+              0.8509
+            ],
+            [
+              1,
+              0.0513,
+              0.3409
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -162,6 +224,35 @@
       ],
       "figures": [
         "papers/physics/fig/01-CP1-Freefall-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7474,
+          0.925
+        ],
+        [
+          2,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.7721,
+              0.8509
+            ],
+            [
+              1,
+              0.0513,
+              0.3409
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -190,6 +281,13 @@
       "images": [
         "papers/physics/img/01-CP1-Freefall-04.jpg",
         "papers/physics/img/01-CP1-Freefall-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4995,
+          0.6876
+        ]
       ]
     },
     {
@@ -221,6 +319,18 @@
       ],
       "figures": [
         "papers/physics/fig/01-CP1-Freefall-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8955,
+          0.944
+        ],
+        [
+          1,
+          0.0532,
+          0.2631
+        ]
       ]
     },
     {
@@ -253,6 +363,30 @@
       "figures": [
         "papers/physics/fig/01-CP1-Freefall-Q6.jpg",
         "papers/physics/fig/01-CP1-Freefall-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3257,
+          0.5499
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4112,
+              0.7464
+            ],
+            [
+              1,
+              0.0513,
+              0.3162
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -282,6 +416,40 @@
         "papers/physics/img/01-CP1-Freefall-05.jpg",
         "papers/physics/img/01-CP1-Freefall-06.jpg",
         "papers/physics/img/01-CP1-Freefall-07.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.584,
+          0.7255
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4112,
+              0.7464
+            ],
+            [
+              1,
+              0.0513,
+              0.3162
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.5622,
+              0.5812
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -313,6 +481,45 @@
       ],
       "figures": [
         "papers/physics/fig/01-CP1-Freefall-Q6-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7312,
+          0.7512
+        ],
+        [
+          2,
+          0.0522,
+          0.5651
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4112,
+              0.7464
+            ],
+            [
+              1,
+              0.0513,
+              0.3162
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.5622,
+              0.5812
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -343,6 +550,13 @@
       ],
       "figures": [
         "papers/physics/fig/01-CP1-Freefall-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7094,
+          0.9354
+        ]
       ]
     },
     {
@@ -370,6 +584,13 @@
       ],
       "images": [
         "papers/physics/img/01-CP1-Freefall-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2355,
+          0.3561
+        ]
       ]
     },
     {
@@ -398,6 +619,13 @@
       ],
       "images": [
         "papers/physics/img/01-CP1-Freefall-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5603,
+          0.7132
+        ]
       ]
     },
     {
@@ -425,6 +653,13 @@
       ],
       "images": [
         "papers/physics/img/01-CP1-Freefall-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9145,
+          0.9459
+        ]
       ]
     },
     {
@@ -452,6 +687,13 @@
       "images": [
         "papers/physics/img/01-CP1-Freefall-09.jpg",
         "papers/physics/img/01-CP1-Freefall-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4511,
+          0.6334
+        ]
       ]
     },
     {
@@ -482,6 +724,18 @@
       ],
       "figures": [
         "papers/physics/fig/01-CP1-Freefall-Q12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8338,
+          0.8822
+        ],
+        [
+          1,
+          0.0522,
+          0.2422
+        ]
       ]
     },
     {
@@ -513,6 +767,13 @@
       ],
       "figures": [
         "papers/physics/fig/01-CP1-Freefall-Q13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4283,
+          0.8357
+        ]
       ]
     }
   ]

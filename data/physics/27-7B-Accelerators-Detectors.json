@@ -32,6 +32,25 @@
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-01.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2925,
+          0.4995
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.2802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -62,6 +81,25 @@
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-01.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5052,
+          0.8813
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.2802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -93,6 +131,30 @@
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-01.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8946,
+          0.925
+        ],
+        [
+          1,
+          0.0532,
+          0.4292
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.2802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -123,6 +185,25 @@
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-01.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-02.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4416,
+          0.6781
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.2802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -156,6 +237,30 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4103,
+          0.7683
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.8243,
+              0.8585
+            ],
+            [
+              1,
+              0.0513,
+              0.3998
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -190,6 +295,45 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q2-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0826,
+          0.3001
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.8243,
+              0.8585
+            ],
+            [
+              1,
+              0.0513,
+              0.3998
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.7816,
+              0.9297
+            ],
+            [
+              2,
+              0.0522,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -223,6 +367,45 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q2-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3039,
+          0.4596
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.8243,
+              0.8585
+            ],
+            [
+              1,
+              0.0513,
+              0.3998
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.7816,
+              0.9297
+            ],
+            [
+              2,
+              0.0522,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -254,6 +437,30 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-03.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-04.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-05.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4729,
+          0.7825
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.8243,
+              0.8585
+            ],
+            [
+              1,
+              0.0513,
+              0.3998
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -289,6 +496,35 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q2-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7958,
+          0.8291
+        ],
+        [
+          3,
+          0.0522,
+          0.49
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.8243,
+              0.8585
+            ],
+            [
+              1,
+              0.0513,
+              0.3998
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -321,6 +557,30 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5233,
+          0.6277
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.6344,
+              0.6942
+            ],
+            [
+              1,
+              0.0513,
+              0.5138
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -355,6 +615,40 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q3-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6781,
+          0.7607
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.6344,
+              0.6942
+            ],
+            [
+              1,
+              0.0513,
+              0.5138
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              1,
+              0.641,
+              0.6752
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -386,6 +680,40 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-06.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-07.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7635,
+          0.812
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.6344,
+              0.6942
+            ],
+            [
+              1,
+              0.0513,
+              0.5138
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              1,
+              0.641,
+              0.6752
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -418,6 +746,40 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-06.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-07.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-08.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1576,
+          0.5518
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.6344,
+              0.6942
+            ],
+            [
+              1,
+              0.0513,
+              0.5138
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              1,
+              0.641,
+              0.6752
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -452,6 +814,35 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q3-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5622,
+          0.9449
+        ],
+        [
+          3,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.6344,
+              0.6942
+            ],
+            [
+              1,
+              0.0513,
+              0.5138
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -479,6 +870,13 @@
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-08.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3238,
+          0.4473
+        ]
       ]
     },
     {
@@ -511,6 +909,18 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5983,
+          0.6619
+        ],
+        [
+          1,
+          0.0522,
+          0.4217
+        ]
       ]
     },
     {
@@ -540,6 +950,18 @@
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-09.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6087,
+          0.9373
+        ],
+        [
+          1,
+          0.0513,
+          0.0741
+        ]
       ]
     },
     {
@@ -568,6 +990,13 @@
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-10.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2745,
+          0.4103
+        ]
       ]
     },
     {
@@ -596,6 +1025,13 @@
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-10.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6144,
+          0.9022
+        ]
       ]
     },
     {
@@ -625,6 +1061,13 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-11.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-12.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2137,
+          0.3371
+        ]
       ]
     },
     {
@@ -657,6 +1100,40 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q10-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2783,
+          0.4349
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.4891,
+              0.8015
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              0,
+              0.812,
+              0.8727
+            ],
+            [
+              1,
+              0.0513,
+              0.2764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -690,6 +1167,40 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q10-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4406,
+          0.7151
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.4891,
+              0.8015
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              0,
+              0.812,
+              0.8727
+            ],
+            [
+              1,
+              0.0513,
+              0.2764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -722,6 +1233,40 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q10-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9193,
+          0.9383
+        ],
+        [
+          2,
+          0.0532,
+          0.2089
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.4891,
+              0.8015
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              1,
+              0.7284,
+              0.9164
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -754,6 +1299,35 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q10-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2146,
+          0.4919
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.4891,
+              0.8015
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              1,
+              0.7284,
+              0.9164
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -787,6 +1361,25 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q10.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5024,
+          0.7388
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.4891,
+              0.8015
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -818,6 +1411,13 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.3951
+        ]
       ]
     },
     {
@@ -851,6 +1451,30 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9231,
+          0.9421
+        ],
+        [
+          1,
+          0.0532,
+          0.3039
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.547,
+              0.9269
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -881,6 +1505,25 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-14.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-15.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3105,
+          0.5109
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.547,
+              0.9269
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -911,6 +1554,25 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-14.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-15.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5176,
+          0.8509
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.547,
+              0.9269
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -943,6 +1605,18 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q12-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8632,
+          0.905
+        ],
+        [
+          2,
+          0.0513,
+          0.5014
+        ]
       ]
     },
     {
@@ -976,6 +1650,30 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6771,
+          0.9326
+        ],
+        [
+          1,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.6477,
+              0.6667
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1007,6 +1705,25 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q13-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2868,
+          0.66
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.6477,
+              0.6667
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1036,6 +1753,18 @@
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-17.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8566,
+          0.9459
+        ],
+        [
+          1,
+          0.0513,
+          0.0912
+        ]
       ]
     },
     {
@@ -1069,6 +1798,30 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8367,
+          0.943
+        ],
+        [
+          1,
+          0.0608,
+          0.3324
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2422,
+              0.6771
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1102,6 +1855,25 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3457,
+          0.6258
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2422,
+              0.6771
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1134,6 +1906,18 @@
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q16.jpg",
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8215,
+          0.8557
+        ],
+        [
+          1,
+          0.0522,
+          0.3343
+        ]
       ]
     },
     {
@@ -1162,6 +1946,13 @@
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-20.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.528,
+          0.6505
+        ]
       ]
     },
     {
@@ -1194,6 +1985,18 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8519,
+          0.9003
+        ],
+        [
+          1,
+          0.0522,
+          0.3001
+        ]
       ]
     },
     {
@@ -1224,6 +2027,13 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-21.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-22.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4862,
+          0.5802
+        ]
       ]
     },
     {
@@ -1255,6 +2065,30 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-21.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-22.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4008,
+          0.6847
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7322,
+              0.7949
+            ],
+            [
+              1,
+              0.0513,
+              0.3903
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1286,6 +2120,35 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-21.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-22.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6952,
+          0.9345
+        ],
+        [
+          2,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7322,
+              0.7949
+            ],
+            [
+              1,
+              0.0513,
+              0.3903
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1318,6 +2181,18 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3913,
+          0.9259
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
       ]
     },
     {
@@ -1348,6 +2223,13 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-25.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-26.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3818,
+          0.5052
+        ]
       ]
     },
     {
@@ -1381,6 +2263,40 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3922,
+          0.548
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.6572,
+              0.7645
+            ],
+            [
+              1,
+              0.0513,
+              0.3295
+            ]
+          ]
+        ],
+        [
+          "Q23(a)",
+          [
+            [
+              1,
+              0.34,
+              0.396
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1414,6 +2330,40 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5537,
+          0.7246
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.6572,
+              0.7645
+            ],
+            [
+              1,
+              0.0513,
+              0.3295
+            ]
+          ]
+        ],
+        [
+          "Q23(a)",
+          [
+            [
+              1,
+              0.34,
+              0.396
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1449,6 +2399,45 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7312,
+          0.9316
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.6572,
+              0.7645
+            ],
+            [
+              1,
+              0.0513,
+              0.3295
+            ]
+          ]
+        ],
+        [
+          "Q23(a)",
+          [
+            [
+              1,
+              0.34,
+              0.396
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1482,6 +2471,40 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q23-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6106,
+          0.8405
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.6572,
+              0.7645
+            ],
+            [
+              1,
+              0.0513,
+              0.3295
+            ]
+          ]
+        ],
+        [
+          "Q23(b)",
+          [
+            [
+              2,
+              0.1406,
+              0.6068
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1516,6 +2539,45 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q23-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8462,
+          0.944
+        ],
+        [
+          3,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.6572,
+              0.7645
+            ],
+            [
+              1,
+              0.0513,
+              0.3295
+            ]
+          ]
+        ],
+        [
+          "Q23(b)",
+          [
+            [
+              2,
+              0.1406,
+              0.6068
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1545,6 +2607,13 @@
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3694,
+          0.4929
+        ]
       ]
     },
     {
@@ -1574,6 +2643,13 @@
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7113,
+          0.9069
+        ]
       ]
     },
     {
@@ -1606,6 +2682,13 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2308,
+          0.472
+        ]
       ]
     },
     {
@@ -1636,6 +2719,13 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-28.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-29.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6752,
+          0.7987
+        ]
       ]
     },
     {
@@ -1669,6 +2759,25 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q28.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4207,
+          0.4397
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              1,
+              0.0532,
+              0.4103
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1702,6 +2811,25 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q28.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4644,
+          0.812
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              1,
+              0.0532,
+              0.4103
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1737,6 +2865,30 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q28.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8253,
+          0.9297
+        ],
+        [
+          2,
+          0.0608,
+          0.3324
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              1,
+              0.0532,
+              0.4103
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1769,6 +2921,13 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.528,
+          0.8148
+        ]
       ]
     },
     {
@@ -1797,6 +2956,13 @@
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-30.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1415,
+          0.264
+        ]
       ]
     },
     {
@@ -1831,6 +2997,30 @@
       ],
       "figures": [
         "papers/physics/fig/27-7B-Accelerators-Detectors-Q31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6999,
+          0.9364
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.4169,
+              0.6876
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1861,6 +3051,35 @@
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-31.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2213,
+          0.4805
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.4169,
+              0.6876
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              1,
+              0.1994,
+              0.2184
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1890,6 +3109,35 @@
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-31.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4862,
+          0.7312
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.4169,
+              0.6876
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              1,
+              0.1994,
+              0.2184
+            ]
+          ]
+        ]
       ]
     }
   ]

@@ -33,6 +33,25 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.396,
+          0.5442
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.3856
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -66,6 +85,35 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5793,
+          0.8547
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.3856
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.5575,
+              0.5764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -93,6 +141,35 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-01.jpg",
         "papers/physics/img/06-1E-Power-Energy-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8585,
+          0.9411
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.3856
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.5575,
+              0.5764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -121,6 +198,25 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-01.jpg",
         "papers/physics/img/06-1E-Power-Energy-02.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2308
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.3856
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -148,6 +244,25 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-02.jpg",
         "papers/physics/img/06-1E-Power-Energy-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6344,
+          0.8139
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.378,
+              0.6239
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -175,6 +290,30 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-02.jpg",
         "papers/physics/img/06-1E-Power-Energy-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8243,
+          0.9288
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.378,
+              0.6239
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -206,6 +345,13 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2745,
+          0.905
+        ]
       ]
     },
     {
@@ -233,6 +379,25 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-04.jpg",
         "papers/physics/img/06-1E-Power-Energy-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.208,
+          0.5214
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.1643,
+              0.1956
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -260,6 +425,25 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-04.jpg",
         "papers/physics/img/06-1E-Power-Energy-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5318,
+          0.6363
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.1643,
+              0.1956
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -292,6 +476,30 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6429,
+          0.9487
+        ],
+        [
+          1,
+          0.0532,
+          0.3694
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.1643,
+              0.1956
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -320,6 +528,13 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5651,
+          0.7854
+        ]
       ]
     },
     {
@@ -347,6 +562,13 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-05.jpg",
         "papers/physics/img/06-1E-Power-Energy-06.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1007,
+          0.2222
+        ]
       ]
     },
     {
@@ -376,6 +598,13 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4264,
+          0.6562
+        ]
       ]
     },
     {
@@ -405,6 +634,18 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8424,
+          0.9202
+        ],
+        [
+          1,
+          0.0522,
+          0.2213
+        ]
       ]
     },
     {
@@ -435,6 +676,13 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4065,
+          0.6828
+        ]
       ]
     },
     {
@@ -465,6 +713,18 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8699,
+          0.9468
+        ],
+        [
+          1,
+          0.0522,
+          0.2422
+        ]
       ]
     },
     {
@@ -495,6 +755,13 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4283,
+          0.7255
+        ]
       ]
     },
     {
@@ -525,6 +792,18 @@
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q12.jpg",
         "papers/physics/fig/06-1E-Power-Energy-Q12-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9183,
+          0.9373
+        ],
+        [
+          1,
+          0.0532,
+          0.3618
+        ]
       ]
     },
     {
@@ -555,6 +834,13 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.548,
+          0.8756
+        ]
       ]
     },
     {
@@ -586,6 +872,13 @@
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q14.jpg",
         "papers/physics/fig/06-1E-Power-Energy-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1425,
+          0.5176
+        ]
       ]
     },
     {
@@ -616,6 +909,13 @@
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q15.jpg",
         "papers/physics/fig/06-1E-Power-Energy-Q15-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7113,
+          0.9316
+        ]
       ]
     },
     {
@@ -645,6 +945,13 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4027,
+          0.5945
+        ]
       ]
     },
     {
@@ -675,6 +982,18 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7369,
+          0.8006
+        ],
+        [
+          1,
+          0.0532,
+          0.2934
+        ]
       ]
     },
     {
@@ -706,6 +1025,13 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4796,
+          0.7673
+        ]
       ]
     },
     {
@@ -737,6 +1063,30 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3723,
+          0.6097
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.9031,
+              0.9364
+            ],
+            [
+              1,
+              0.0513,
+              0.3618
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -771,6 +1121,35 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.622,
+          0.9193
+        ],
+        [
+          2,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.9031,
+              0.9364
+            ],
+            [
+              1,
+              0.0513,
+              0.3618
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -803,6 +1182,30 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q19.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1994,
+          0.377
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.9031,
+              0.9364
+            ],
+            [
+              1,
+              0.0513,
+              0.3618
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -833,6 +1236,13 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5736,
+          0.7749
+        ]
       ]
     },
     {
@@ -865,6 +1275,30 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4454,
+          0.7464
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.9107,
+              0.9449
+            ],
+            [
+              1,
+              0.0513,
+              0.4349
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -894,6 +1328,35 @@
         "papers/physics/img/06-1E-Power-Energy-14.jpg",
         "papers/physics/img/06-1E-Power-Energy-15.jpg",
         "papers/physics/img/06-1E-Power-Energy-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7588,
+          0.9383
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.9107,
+              0.9449
+            ],
+            [
+              1,
+              0.0513,
+              0.4349
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -922,6 +1385,25 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-16.jpg",
         "papers/physics/img/06-1E-Power-Energy-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3181,
+          0.4672
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.2745,
+              0.3086
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -951,6 +1433,25 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-16.jpg",
         "papers/physics/img/06-1E-Power-Energy-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4796,
+          0.717
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.2745,
+              0.3086
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -978,6 +1479,25 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-16.jpg",
         "papers/physics/img/06-1E-Power-Energy-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7293,
+          0.9098
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.2745,
+              0.3086
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1010,6 +1530,13 @@
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q23.jpg",
         "papers/physics/fig/06-1E-Power-Energy-Q23-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1643,
+          0.5907
+        ]
       ]
     },
     {
@@ -1037,6 +1564,25 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-17.jpg",
         "papers/physics/img/06-1E-Power-Energy-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8006,
+          0.8898
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.7265,
+              0.7901
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1065,6 +1611,30 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-17.jpg",
         "papers/physics/img/06-1E-Power-Energy-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9031,
+          0.9411
+        ],
+        [
+          1,
+          0.0522,
+          0.2232
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.7265,
+              0.7901
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1093,6 +1663,25 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-17.jpg",
         "papers/physics/img/06-1E-Power-Energy-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2365,
+          0.4321
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.7265,
+              0.7901
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1124,6 +1713,30 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8946,
+          0.9288
+        ],
+        [
+          1,
+          0.0532,
+          0.2232
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.5755,
+              0.8841
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1152,6 +1765,25 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-18.jpg",
         "papers/physics/img/06-1E-Power-Energy-19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2365,
+          0.4729
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.5755,
+              0.8841
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1179,6 +1811,25 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-19.jpg",
         "papers/physics/img/06-1E-Power-Energy-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6486,
+          0.8272
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.6201,
+              0.6391
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1207,6 +1858,30 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-19.jpg",
         "papers/physics/img/06-1E-Power-Energy-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8405,
+          0.9449
+        ],
+        [
+          1,
+          0.0608,
+          0.1007
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.6201,
+              0.6391
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1234,6 +1909,13 @@
       ],
       "images": [
         "papers/physics/img/06-1E-Power-Energy-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2441,
+          0.3865
+        ]
       ]
     },
     {
@@ -1262,6 +1944,13 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5973,
+          0.8519
+        ]
       ]
     },
     {
@@ -1292,6 +1981,13 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1538,
+          0.4463
+        ]
       ]
     },
     {
@@ -1323,6 +2019,30 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q30a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.811,
+          0.9459
+        ],
+        [
+          1,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.5831,
+              0.8015
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1356,6 +2076,25 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q30b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.17,
+          0.8158
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.5831,
+              0.8015
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1386,6 +2125,13 @@
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q31.jpg",
         "papers/physics/fig/06-1E-Power-Energy-Q31-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1244,
+          0.5385
+        ]
       ]
     },
     {
@@ -1418,6 +2164,30 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3951,
+          0.5442
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.6828,
+              0.7018
+            ],
+            [
+              1,
+              0.0522,
+              0.3856
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1450,6 +2220,30 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5575,
+          0.6914
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.6828,
+              0.7018
+            ],
+            [
+              1,
+              0.0522,
+              0.3856
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1483,6 +2277,35 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q32-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7047,
+          0.736
+        ],
+        [
+          2,
+          0.0522,
+          0.6952
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.6828,
+              0.7018
+            ],
+            [
+              1,
+              0.0522,
+              0.3856
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1514,6 +2337,40 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.585,
+          0.6676
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.8414,
+              0.8604
+            ],
+            [
+              1,
+              0.0513,
+              0.5385
+            ]
+          ]
+        ],
+        [
+          "Q33(a)",
+          [
+            [
+              1,
+              0.548,
+              0.5821
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1544,6 +2401,40 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6733,
+          0.8765
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.8414,
+              0.8604
+            ],
+            [
+              1,
+              0.0513,
+              0.5385
+            ]
+          ]
+        ],
+        [
+          "Q33(a)",
+          [
+            [
+              1,
+              0.548,
+              0.5821
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1574,6 +2465,45 @@
         "papers/physics/img/06-1E-Power-Energy-26.jpg",
         "papers/physics/img/06-1E-Power-Energy-27.jpg",
         "papers/physics/img/06-1E-Power-Energy-28.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8794,
+          0.9326
+        ],
+        [
+          2,
+          0.0532,
+          0.2232
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.8414,
+              0.8604
+            ],
+            [
+              1,
+              0.0513,
+              0.5385
+            ]
+          ]
+        ],
+        [
+          "Q33(a)",
+          [
+            [
+              1,
+              0.548,
+              0.5821
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1607,6 +2537,40 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q33-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4302,
+          0.7189
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.8414,
+              0.8604
+            ],
+            [
+              1,
+              0.0513,
+              0.5385
+            ]
+          ]
+        ],
+        [
+          "Q33(b)",
+          [
+            [
+              2,
+              0.2365,
+              0.4169
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1637,6 +2601,40 @@
         "papers/physics/img/06-1E-Power-Energy-26.jpg",
         "papers/physics/img/06-1E-Power-Energy-27.jpg",
         "papers/physics/img/06-1E-Power-Energy-28.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7246,
+          0.924
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.8414,
+              0.8604
+            ],
+            [
+              1,
+              0.0513,
+              0.5385
+            ]
+          ]
+        ],
+        [
+          "Q33(b)",
+          [
+            [
+              2,
+              0.2365,
+              0.4169
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1666,6 +2664,13 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1861,
+          0.4815
+        ]
       ]
     },
     {
@@ -1697,6 +2702,18 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6743,
+          0.943
+        ],
+        [
+          1,
+          0.0513,
+          0.0712
+        ]
       ]
     },
     {
@@ -1728,6 +2745,13 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.226,
+          0.5907
+        ]
       ]
     },
     {
@@ -1759,6 +2783,30 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1273,
+          0.2754
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.7379,
+              0.9468
+            ],
+            [
+              1,
+              0.0532,
+              0.114
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1790,6 +2838,30 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2887,
+          0.4957
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.7379,
+              0.9468
+            ],
+            [
+              1,
+              0.0532,
+              0.114
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1820,6 +2892,30 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5081,
+          0.6562
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.7379,
+              0.9468
+            ],
+            [
+              1,
+              0.0532,
+              0.114
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1847,6 +2943,30 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-29.jpg",
         "papers/physics/img/06-1E-Power-Energy-30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6695,
+          0.85
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.7379,
+              0.9468
+            ],
+            [
+              1,
+              0.0532,
+              0.114
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1877,6 +2997,25 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.377,
+          0.5546
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.1054,
+              0.3666
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1907,6 +3046,25 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5679,
+          0.8623
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.1054,
+              0.3666
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1938,6 +3096,25 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5252,
+          0.6885
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.1197,
+              0.5157
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1969,6 +3146,30 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7018,
+          0.924
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.1197,
+              0.5157
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1996,6 +3197,25 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-32.jpg",
         "papers/physics/img/06-1E-Power-Energy-33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1406,
+          0.3362
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.1197,
+              0.5157
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2028,6 +3248,30 @@
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q40.jpg",
         "papers/physics/fig/06-1E-Power-Energy-Q40-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6695,
+          0.9297
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.4796,
+              0.6591
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2059,6 +3303,25 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q40-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1994,
+          0.6923
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.4796,
+              0.6591
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2085,6 +3348,18 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-34.jpg",
         "papers/physics/img/06-1E-Power-Energy-35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8879,
+          0.9364
+        ],
+        [
+          1,
+          0.0513,
+          0.1244
+        ]
       ]
     },
     {
@@ -2113,6 +3388,13 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-35.jpg",
         "papers/physics/img/06-1E-Power-Energy-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2764,
+          0.4274
+        ]
       ]
     },
     {
@@ -2140,6 +3422,13 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-35.jpg",
         "papers/physics/img/06-1E-Power-Energy-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5821,
+          0.7227
+        ]
       ]
     },
     {
@@ -2167,6 +3456,30 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-35.jpg",
         "papers/physics/img/06-1E-Power-Energy-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9145,
+          0.9335
+        ],
+        [
+          1,
+          0.0522,
+          0.1937
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.8851,
+              0.9041
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2195,6 +3508,25 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-35.jpg",
         "papers/physics/img/06-1E-Power-Energy-36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.207,
+          0.4435
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.8851,
+              0.9041
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2225,6 +3557,40 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8955,
+          0.944
+        ],
+        [
+          1,
+          0.0826,
+          0.2374
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.5907,
+              0.849
+            ]
+          ]
+        ],
+        [
+          "Q45(a)",
+          [
+            [
+              0,
+              0.8585,
+              0.8993
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2256,6 +3622,35 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q45.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2431,
+          0.4577
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.5907,
+              0.849
+            ]
+          ]
+        ],
+        [
+          "Q45(a)",
+          [
+            [
+              0,
+              0.8585,
+              0.8993
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2287,6 +3682,25 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q45b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.471,
+          0.8813
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.5907,
+              0.849
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2317,6 +3731,13 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.208,
+          0.4634
+        ]
       ]
     },
     {
@@ -2347,6 +3768,18 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6486,
+          0.7123
+        ],
+        [
+          1,
+          0.0522,
+          0.5632
+        ]
       ]
     },
     {
@@ -2374,6 +3807,30 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-39.jpg",
         "papers/physics/img/06-1E-Power-Energy-40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.774,
+          0.9231
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.7151,
+              0.7635
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2402,6 +3859,35 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-39.jpg",
         "papers/physics/img/06-1E-Power-Energy-40.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1624,
+          0.377
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.7151,
+              0.7635
+            ]
+          ]
+        ],
+        [
+          "Q48(b)",
+          [
+            [
+              1,
+              0.1406,
+              0.1595
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2431,6 +3917,35 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-39.jpg",
         "papers/physics/img/06-1E-Power-Energy-40.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3837,
+          0.7474
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.7151,
+              0.7635
+            ]
+          ]
+        ],
+        [
+          "Q48(b)",
+          [
+            [
+              1,
+              0.1406,
+              0.1595
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2458,6 +3973,13 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-40.jpg",
         "papers/physics/img/06-1E-Power-Energy-41.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1443
+        ]
       ]
     },
     {
@@ -2487,6 +4009,13 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q50.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3647,
+          0.7274
+        ]
       ]
     },
     {
@@ -2517,6 +4046,18 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9297,
+          0.9487
+        ],
+        [
+          1,
+          0.0532,
+          0.3799
+        ]
       ]
     },
     {
@@ -2547,6 +4088,30 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q52.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2526,
+          0.4311
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.5252,
+              0.9326
+            ],
+            [
+              1,
+              0.0513,
+              0.2431
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2575,6 +4140,30 @@
       "images": [
         "papers/physics/img/06-1E-Power-Energy-42.jpg",
         "papers/physics/img/06-1E-Power-Energy-43.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4444,
+          0.6961
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.5252,
+              0.9326
+            ],
+            [
+              1,
+              0.0513,
+              0.2431
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2608,6 +4197,30 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q53.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4425,
+          0.7977
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.8433,
+              0.906
+            ],
+            [
+              1,
+              0.0513,
+              0.433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2637,6 +4250,35 @@
         "papers/physics/img/06-1E-Power-Energy-43.jpg",
         "papers/physics/img/06-1E-Power-Energy-44.jpg",
         "papers/physics/img/06-1E-Power-Energy-45.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.811,
+          0.9307
+        ],
+        [
+          2,
+          0.0608,
+          0.1595
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.8433,
+              0.906
+            ],
+            [
+              1,
+              0.0513,
+              0.433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2665,6 +4307,25 @@
         "papers/physics/img/06-1E-Power-Energy-45.jpg",
         "papers/physics/img/06-1E-Power-Energy-46.jpg",
         "papers/physics/img/06-1E-Power-Energy-47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3324,
+          0.6581
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.3039,
+              0.3229
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2697,6 +4358,30 @@
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q54.jpg",
         "papers/physics/fig/06-1E-Power-Energy-Q54-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6714,
+          0.7047
+        ],
+        [
+          1,
+          0.057,
+          0.7825
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.3039,
+              0.3229
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2725,6 +4410,30 @@
         "papers/physics/img/06-1E-Power-Energy-45.jpg",
         "papers/physics/img/06-1E-Power-Energy-46.jpg",
         "papers/physics/img/06-1E-Power-Energy-47.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9221,
+          0.9411
+        ],
+        [
+          2,
+          0.0532,
+          0.3333
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.3039,
+              0.3229
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2755,6 +4464,25 @@
         "papers/physics/img/06-1E-Power-Energy-45.jpg",
         "papers/physics/img/06-1E-Power-Energy-46.jpg",
         "papers/physics/img/06-1E-Power-Energy-47.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3466,
+          0.6999
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.3039,
+              0.3229
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2786,6 +4514,18 @@
       ],
       "figures": [
         "papers/physics/fig/06-1E-Power-Energy-Q55.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8471,
+          0.9098
+        ],
+        [
+          1,
+          0.0665,
+          0.4796
+        ]
       ]
     }
   ]

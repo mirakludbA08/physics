@@ -34,6 +34,25 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5622,
+          0.7882
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.5518
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -64,6 +83,30 @@
         "papers/biology/img/02A-Membranes-Transport-01.jpg",
         "papers/biology/img/02A-Membranes-Transport-02.jpg",
         "papers/biology/img/02A-Membranes-Transport-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8015,
+          0.9354
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.5518
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -94,6 +137,35 @@
         "papers/biology/img/02A-Membranes-Transport-01.jpg",
         "papers/biology/img/02A-Membranes-Transport-02.jpg",
         "papers/biology/img/02A-Membranes-Transport-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1624,
+          0.1814
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.5518
+            ]
+          ]
+        ],
+        [
+          "Q1(c)",
+          [
+            [
+              1,
+              0.1406,
+              0.1595
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -124,6 +196,35 @@
         "papers/biology/img/02A-Membranes-Transport-01.jpg",
         "papers/biology/img/02A-Membranes-Transport-02.jpg",
         "papers/biology/img/02A-Membranes-Transport-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6429,
+          0.8433
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.5518
+            ]
+          ]
+        ],
+        [
+          "Q1(c)",
+          [
+            [
+              1,
+              0.1406,
+              0.1595
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -154,6 +255,40 @@
         "papers/biology/img/02A-Membranes-Transport-01.jpg",
         "papers/biology/img/02A-Membranes-Transport-02.jpg",
         "papers/biology/img/02A-Membranes-Transport-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8936,
+          0.9468
+        ],
+        [
+          2,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.5518
+            ]
+          ]
+        ],
+        [
+          "Q1(d)",
+          [
+            [
+              1,
+              0.8557,
+              0.8974
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -184,6 +319,35 @@
         "papers/biology/img/02A-Membranes-Transport-01.jpg",
         "papers/biology/img/02A-Membranes-Transport-02.jpg",
         "papers/biology/img/02A-Membranes-Transport-03.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1918,
+          0.452
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.5518
+            ]
+          ]
+        ],
+        [
+          "Q1(d)",
+          [
+            [
+              1,
+              0.8557,
+              0.8974
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -215,6 +379,30 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.4473
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5983,
+              0.9326
+            ],
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -247,6 +435,45 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q2-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8433,
+          0.9259
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5983,
+              0.9326
+            ],
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.4701,
+              0.8405
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -279,6 +506,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q2-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1624,
+          0.1814
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5983,
+              0.9326
+            ],
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.4701,
+              0.8405
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -308,6 +569,40 @@
         "papers/biology/img/02A-Membranes-Transport-03.jpg",
         "papers/biology/img/02A-Membranes-Transport-04.jpg",
         "papers/biology/img/02A-Membranes-Transport-05.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2222,
+          0.4217
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5983,
+              0.9326
+            ],
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q2(c)",
+          [
+            [
+              2,
+              0.1994,
+              0.2184
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -337,6 +632,40 @@
         "papers/biology/img/02A-Membranes-Transport-03.jpg",
         "papers/biology/img/02A-Membranes-Transport-04.jpg",
         "papers/biology/img/02A-Membranes-Transport-05.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4274,
+          0.642
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5983,
+              0.9326
+            ],
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q2(c)",
+          [
+            [
+              2,
+              0.1994,
+              0.2184
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -370,6 +699,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2621,
+          0.5147
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.7892,
+              0.8519
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.8623,
+              0.8813
+            ],
+            [
+              1,
+              0.0513,
+              0.2602
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -403,6 +766,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5204,
+          0.7198
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.7892,
+              0.8519
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.8623,
+              0.8813
+            ],
+            [
+              1,
+              0.0513,
+              0.2602
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -433,6 +830,40 @@
         "papers/biology/img/02A-Membranes-Transport-06.jpg",
         "papers/biology/img/02A-Membranes-Transport-07.jpg",
         "papers/biology/img/02A-Membranes-Transport-08.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.339,
+          0.4881
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.7892,
+              0.8519
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              1,
+              0.7331,
+              0.8348
+            ],
+            [
+              2,
+              0.0513,
+              0.3352
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -467,6 +898,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q3-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.509,
+          0.811
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.7892,
+              0.8519
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              1,
+              0.7331,
+              0.8348
+            ],
+            [
+              2,
+              0.0513,
+              0.3352
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -497,6 +962,45 @@
         "papers/biology/img/02A-Membranes-Transport-06.jpg",
         "papers/biology/img/02A-Membranes-Transport-07.jpg",
         "papers/biology/img/02A-Membranes-Transport-08.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8177,
+          0.9288
+        ],
+        [
+          3,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.7892,
+              0.8519
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              1,
+              0.7331,
+              0.8348
+            ],
+            [
+              2,
+              0.0513,
+              0.3352
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -529,6 +1033,25 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5527,
+          0.7179
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.2745,
+              0.5432
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -559,6 +1082,30 @@
         "papers/biology/img/02A-Membranes-Transport-08.jpg",
         "papers/biology/img/02A-Membranes-Transport-09.jpg",
         "papers/biology/img/02A-Membranes-Transport-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7312,
+          0.9392
+        ],
+        [
+          1,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.2745,
+              0.5432
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -594,6 +1141,30 @@
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q4-2.jpg",
         "papers/biology/fig/02A-Membranes-Transport-Q4-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.17,
+          0.9402
+        ],
+        [
+          2,
+          0.0608,
+          0.4786
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.2745,
+              0.5432
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -625,6 +1196,30 @@
         "papers/biology/img/02A-Membranes-Transport-11.jpg",
         "papers/biology/img/02A-Membranes-Transport-12.jpg",
         "papers/biology/img/02A-Membranes-Transport-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9183,
+          0.9373
+        ],
+        [
+          1,
+          0.0826,
+          0.3257
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6258,
+              0.886
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -656,6 +1251,25 @@
         "papers/biology/img/02A-Membranes-Transport-11.jpg",
         "papers/biology/img/02A-Membranes-Transport-12.jpg",
         "papers/biology/img/02A-Membranes-Transport-13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3381,
+          0.6325
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6258,
+              0.886
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -689,6 +1303,35 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8148,
+          0.8984
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6258,
+              0.886
+            ]
+          ]
+        ],
+        [
+          "Q5(c)",
+          [
+            [
+              1,
+              0.6458,
+              0.812
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -724,6 +1367,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q5-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0826,
+          0.9402
+        ],
+        [
+          3,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6258,
+              0.886
+            ]
+          ]
+        ],
+        [
+          "Q5(c)",
+          [
+            [
+              1,
+              0.6458,
+              0.812
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -753,6 +1430,25 @@
         "papers/biology/img/02A-Membranes-Transport-14.jpg",
         "papers/biology/img/02A-Membranes-Transport-15.jpg",
         "papers/biology/img/02A-Membranes-Transport-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7483,
+          0.867
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.3039,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -787,6 +1483,30 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8737,
+          0.9421
+        ],
+        [
+          1,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.3039,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -821,6 +1541,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8689,
+          0.9221
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.3039,
+              0.7379
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.2868,
+              0.8651
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -855,6 +1609,35 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1045,
+          0.4065
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.3039,
+              0.7379
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.2868,
+              0.8651
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -887,6 +1670,35 @@
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q6.jpg",
         "papers/biology/fig/02A-Membranes-Transport-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4131,
+          0.6458
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.3039,
+              0.7379
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.2868,
+              0.8651
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -921,6 +1733,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6524,
+          0.925
+        ],
+        [
+          3,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.3039,
+              0.7379
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.2868,
+              0.8651
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -954,6 +1800,25 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q7-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.716,
+          0.8936
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3039,
+              0.7066
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -988,6 +1853,30 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q7-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9003,
+          0.9193
+        ],
+        [
+          1,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3039,
+              0.7066
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1024,6 +1913,30 @@
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q7.jpg",
         "papers/biology/fig/02A-Membranes-Transport-Q7-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2574,
+          0.8727
+        ],
+        [
+          2,
+          0.0513,
+          0.9307
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3039,
+              0.7066
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1054,6 +1967,13 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2355,
+          0.4729
+        ]
       ]
     },
     {
@@ -1083,6 +2003,13 @@
         "papers/biology/img/02A-Membranes-Transport-19.jpg",
         "papers/biology/img/02A-Membranes-Transport-20.jpg",
         "papers/biology/img/02A-Membranes-Transport-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4691,
+          0.5717
+        ]
       ]
     },
     {
@@ -1112,6 +2039,30 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q8-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8082,
+          0.8414
+        ],
+        [
+          1,
+          0.1273,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8(b)",
+          [
+            [
+              0,
+              0.5897,
+              0.8044
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1146,6 +2097,30 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q8-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.15,
+          0.9449
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8(b)",
+          [
+            [
+              0,
+              0.5897,
+              0.8044
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1179,6 +2154,30 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3181,
+          0.9278
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.2745,
+              0.3058
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1212,6 +2211,25 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1406,
+          0.7759
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.2745,
+              0.3058
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1242,6 +2260,40 @@
         "papers/biology/img/02A-Membranes-Transport-21.jpg",
         "papers/biology/img/02A-Membranes-Transport-22.jpg",
         "papers/biology/img/02A-Membranes-Transport-23.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2355,
+          0.4349
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.2745,
+              0.3058
+            ]
+          ]
+        ],
+        [
+          "Q9(c)",
+          [
+            [
+              1,
+              0.7892,
+              0.8082
+            ],
+            [
+              2,
+              0.0513,
+              0.2365
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1276,6 +2328,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q9-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4406,
+          0.8158
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.2745,
+              0.3058
+            ]
+          ]
+        ],
+        [
+          "Q9(c)",
+          [
+            [
+              1,
+              0.7892,
+              0.8082
+            ],
+            [
+              2,
+              0.0513,
+              0.2365
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1309,6 +2395,35 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1415,
+          0.7474
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              1,
+              0.1045,
+              0.1453
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1339,6 +2454,40 @@
         "papers/biology/img/02A-Membranes-Transport-24.jpg",
         "papers/biology/img/02A-Membranes-Transport-25.jpg",
         "papers/biology/img/02A-Membranes-Transport-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.754,
+          0.925
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              1,
+              0.1045,
+              0.1453
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1374,6 +2523,30 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q10-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1111,
+          0.9297
+        ],
+        [
+          3,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1408,6 +2581,25 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7417,
+          0.8794
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.4406,
+              0.7331
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1441,6 +2633,30 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8936,
+          0.9411
+        ],
+        [
+          1,
+          0.0513,
+          0.1054
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.4406,
+              0.7331
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1475,6 +2691,25 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1263,
+          0.2327
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.4406,
+              0.7331
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1508,6 +2743,25 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2536,
+          0.6505
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.4406,
+              0.7331
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1542,6 +2796,35 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q11-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6638,
+          0.6828
+        ],
+        [
+          2,
+          0.0655,
+          0.9307
+        ],
+        [
+          3,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.4406,
+              0.7331
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1572,6 +2855,25 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5575,
+          0.7388
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.4995,
+              0.547
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1600,6 +2902,25 @@
       "images": [
         "papers/biology/img/02A-Membranes-Transport-29.jpg",
         "papers/biology/img/02A-Membranes-Transport-30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0826,
+          0.1852
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.4995,
+              0.547
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1628,6 +2949,25 @@
       "images": [
         "papers/biology/img/02A-Membranes-Transport-29.jpg",
         "papers/biology/img/02A-Membranes-Transport-30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2032,
+          0.3276
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.4995,
+              0.547
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1656,6 +2996,25 @@
       "images": [
         "papers/biology/img/02A-Membranes-Transport-29.jpg",
         "papers/biology/img/02A-Membranes-Transport-30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3381,
+          0.4853
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.4995,
+              0.547
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1689,6 +3048,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4416,
+          0.4606
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.6895,
+              0.7379
+            ]
+          ]
+        ],
+        [
+          "Q13(a)",
+          [
+            [
+              0,
+              0.7483,
+              0.7673
+            ],
+            [
+              1,
+              0.0665,
+              0.4387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1719,6 +3112,45 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q13-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.622,
+          0.6638
+        ],
+        [
+          2,
+          0.0513,
+          0.3989
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.6895,
+              0.7379
+            ]
+          ]
+        ],
+        [
+          "Q13(a)",
+          [
+            [
+              0,
+              0.7483,
+              0.7673
+            ],
+            [
+              1,
+              0.0665,
+              0.4387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1750,6 +3182,35 @@
         "papers/biology/img/02A-Membranes-Transport-32.jpg",
         "papers/biology/img/02A-Membranes-Transport-33.jpg",
         "papers/biology/img/02A-Membranes-Transport-34.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5233,
+          0.7236
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.6895,
+              0.7379
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              2,
+              0.4084,
+              0.5204
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1781,6 +3242,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q13-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7293,
+          0.7607
+        ],
+        [
+          3,
+          0.0617,
+          0.2384
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.6895,
+              0.7379
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              2,
+              0.4084,
+              0.5204
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1812,6 +3307,35 @@
         "papers/biology/img/02A-Membranes-Transport-32.jpg",
         "papers/biology/img/02A-Membranes-Transport-33.jpg",
         "papers/biology/img/02A-Membranes-Transport-34.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2412,
+          0.4416
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.6895,
+              0.7379
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              2,
+              0.4084,
+              0.5204
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1842,6 +3366,35 @@
         "papers/biology/img/02A-Membranes-Transport-32.jpg",
         "papers/biology/img/02A-Membranes-Transport-33.jpg",
         "papers/biology/img/02A-Membranes-Transport-34.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.4473,
+          0.5594
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.6895,
+              0.7379
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              2,
+              0.4084,
+              0.5204
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1873,6 +3426,35 @@
         "papers/biology/img/02A-Membranes-Transport-32.jpg",
         "papers/biology/img/02A-Membranes-Transport-33.jpg",
         "papers/biology/img/02A-Membranes-Transport-34.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.6097,
+          0.8091
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.6895,
+              0.7379
+            ]
+          ]
+        ],
+        [
+          "Q13(c)",
+          [
+            [
+              3,
+              0.5717,
+              0.6059
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1904,6 +3486,40 @@
         "papers/biology/img/02A-Membranes-Transport-32.jpg",
         "papers/biology/img/02A-Membranes-Transport-33.jpg",
         "papers/biology/img/02A-Membranes-Transport-34.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.8148,
+          0.9269
+        ],
+        [
+          4,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.6895,
+              0.7379
+            ]
+          ]
+        ],
+        [
+          "Q13(c)",
+          [
+            [
+              3,
+              0.5717,
+              0.6059
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1937,6 +3553,30 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3039,
+          0.9193
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.2745,
+              0.2934
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1969,6 +3609,25 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.8091
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.2745,
+              0.2934
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2003,6 +3662,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q14-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1434,
+          0.4311
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.2745,
+              0.2934
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.8215,
+              0.8775
+            ],
+            [
+              2,
+              0.0513,
+              0.1406
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2034,6 +3727,40 @@
         "papers/biology/img/02A-Membranes-Transport-35.jpg",
         "papers/biology/img/02A-Membranes-Transport-36.jpg",
         "papers/biology/img/02A-Membranes-Transport-37.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4368,
+          0.6515
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.2745,
+              0.2934
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.8215,
+              0.8775
+            ],
+            [
+              2,
+              0.0513,
+              0.1406
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2064,6 +3791,45 @@
         "papers/biology/img/02A-Membranes-Transport-35.jpg",
         "papers/biology/img/02A-Membranes-Transport-36.jpg",
         "papers/biology/img/02A-Membranes-Transport-37.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6581,
+          0.9307
+        ],
+        [
+          3,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.2745,
+              0.2934
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.8215,
+              0.8775
+            ],
+            [
+              2,
+              0.0513,
+              0.1406
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2094,6 +3860,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8727,
+          0.9383
+        ],
+        [
+          1,
+          0.0513,
+          0.0883
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.265,
+              0.3276
+            ]
+          ]
+        ],
+        [
+          "Q15(a)",
+          [
+            [
+              0,
+              0.3381,
+              0.8699
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2124,6 +3924,35 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.2013
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.265,
+              0.3276
+            ]
+          ]
+        ],
+        [
+          "Q15(a)",
+          [
+            [
+              0,
+              0.3381,
+              0.8699
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2154,6 +3983,35 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2146,
+          0.3143
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.265,
+              0.3276
+            ]
+          ]
+        ],
+        [
+          "Q15(a)",
+          [
+            [
+              0,
+              0.3381,
+              0.8699
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2183,6 +4041,25 @@
         "papers/biology/img/02A-Membranes-Transport-38.jpg",
         "papers/biology/img/02A-Membranes-Transport-39.jpg",
         "papers/biology/img/02A-Membranes-Transport-40.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3352,
+          0.6306
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.265,
+              0.3276
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2218,6 +4095,35 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q15-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6439,
+          0.9364
+        ],
+        [
+          2,
+          0.0532,
+          0.9326
+        ],
+        [
+          3,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.265,
+              0.3276
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2248,6 +4154,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9117,
+          0.9307
+        ],
+        [
+          1,
+          0.0513,
+          0.1216
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4501,
+              0.8794
+            ]
+          ]
+        ],
+        [
+          "Q16(a)",
+          [
+            [
+              0,
+              0.8889,
+              0.9079
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2277,6 +4217,35 @@
       "images": [
         "papers/biology/img/02A-Membranes-Transport-40.jpg",
         "papers/biology/img/02A-Membranes-Transport-41.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1349,
+          0.265
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4501,
+              0.8794
+            ]
+          ]
+        ],
+        [
+          "Q16(a)",
+          [
+            [
+              0,
+              0.8889,
+              0.9079
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2305,6 +4274,35 @@
       "images": [
         "papers/biology/img/02A-Membranes-Transport-40.jpg",
         "papers/biology/img/02A-Membranes-Transport-41.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2783,
+          0.5423
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4501,
+              0.8794
+            ]
+          ]
+        ],
+        [
+          "Q16(a)",
+          [
+            [
+              0,
+              0.8889,
+              0.9079
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2333,6 +4331,25 @@
       "images": [
         "papers/biology/img/02A-Membranes-Transport-40.jpg",
         "papers/biology/img/02A-Membranes-Transport-41.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5556,
+          0.8651
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4501,
+              0.8794
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2365,6 +4382,25 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q17-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3229,
+          0.3827
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.169,
+              0.3134
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2396,6 +4432,25 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q17-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.396,
+          0.6097
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.169,
+              0.3134
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2426,6 +4481,30 @@
         "papers/biology/img/02A-Membranes-Transport-42.jpg",
         "papers/biology/img/02A-Membranes-Transport-43.jpg",
         "papers/biology/img/02A-Membranes-Transport-44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6306,
+          0.9307
+        ],
+        [
+          1,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.169,
+              0.3134
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2461,6 +4540,30 @@
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q17.jpg",
         "papers/biology/fig/02A-Membranes-Transport-Q17-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.17,
+          0.9297
+        ],
+        [
+          2,
+          0.0532,
+          0.604
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.169,
+              0.3134
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2495,6 +4598,40 @@
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q18.jpg",
         "papers/biology/fig/02A-Membranes-Transport-Q18-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4406,
+          0.6439
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.7996,
+              0.9364
+            ],
+            [
+              1,
+              0.056,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q18(a)",
+          [
+            [
+              1,
+              0.0817,
+              0.4387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2525,6 +4662,45 @@
         "papers/biology/img/02A-Membranes-Transport-45.jpg",
         "papers/biology/img/02A-Membranes-Transport-46.jpg",
         "papers/biology/img/02A-Membranes-Transport-47.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6762,
+          0.9202
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.7996,
+              0.9364
+            ],
+            [
+              1,
+              0.056,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q18(a)",
+          [
+            [
+              1,
+              0.0817,
+              0.4387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2556,6 +4732,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q18-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3647,
+          0.4938
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.7996,
+              0.9364
+            ],
+            [
+              1,
+              0.056,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q18(b)",
+          [
+            [
+              2,
+              0.1111,
+              0.3485
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2587,6 +4797,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q18-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4995,
+          0.6581
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.7996,
+              0.9364
+            ],
+            [
+              1,
+              0.056,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q18(b)",
+          [
+            [
+              2,
+              0.1111,
+              0.3485
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2619,6 +4863,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q18-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6638,
+          0.8936
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.7996,
+              0.9364
+            ],
+            [
+              1,
+              0.056,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q18(b)",
+          [
+            [
+              2,
+              0.1111,
+              0.3485
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2651,6 +4929,45 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q18-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8993,
+          0.9183
+        ],
+        [
+          3,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.7996,
+              0.9364
+            ],
+            [
+              1,
+              0.056,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q18(b)",
+          [
+            [
+              2,
+              0.1111,
+              0.3485
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2681,6 +4998,40 @@
         "papers/biology/img/02A-Membranes-Transport-45.jpg",
         "papers/biology/img/02A-Membranes-Transport-46.jpg",
         "papers/biology/img/02A-Membranes-Transport-47.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1339,
+          0.3485
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.7996,
+              0.9364
+            ],
+            [
+              1,
+              0.056,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q18(b)",
+          [
+            [
+              2,
+              0.1111,
+              0.3485
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2712,6 +5063,35 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8424,
+          0.9449
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.5442,
+              0.5755
+            ]
+          ]
+        ],
+        [
+          "Q19(a)",
+          [
+            [
+              0,
+              0.5888,
+              0.8395
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2744,6 +5124,35 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0674,
+          0.4577
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.5442,
+              0.5755
+            ]
+          ]
+        ],
+        [
+          "Q19(a)",
+          [
+            [
+              0,
+              0.5888,
+              0.8395
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2774,6 +5183,35 @@
         "papers/biology/img/02A-Membranes-Transport-47.jpg",
         "papers/biology/img/02A-Membranes-Transport-48.jpg",
         "papers/biology/img/02A-Membranes-Transport-49.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4938,
+          0.6933
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.5442,
+              0.5755
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              1,
+              0.471,
+              0.49
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2803,6 +5241,35 @@
         "papers/biology/img/02A-Membranes-Transport-47.jpg",
         "papers/biology/img/02A-Membranes-Transport-48.jpg",
         "papers/biology/img/02A-Membranes-Transport-49.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.699,
+          0.9288
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.5442,
+              0.5755
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              1,
+              0.471,
+              0.49
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2833,6 +5300,35 @@
         "papers/biology/img/02A-Membranes-Transport-47.jpg",
         "papers/biology/img/02A-Membranes-Transport-48.jpg",
         "papers/biology/img/02A-Membranes-Transport-49.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.283
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.5442,
+              0.5755
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              1,
+              0.471,
+              0.49
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2861,6 +5357,35 @@
         "papers/biology/img/02A-Membranes-Transport-49.jpg",
         "papers/biology/img/02A-Membranes-Transport-50.jpg",
         "papers/biology/img/02A-Membranes-Transport-51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4805,
+          0.5831
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4292,
+              0.4482
+            ]
+          ]
+        ],
+        [
+          "Q20(a)",
+          [
+            [
+              0,
+              0.4587,
+              0.4777
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2891,6 +5416,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5935,
+          0.943
+        ],
+        [
+          1,
+          0.0665,
+          0.1368
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4292,
+              0.4482
+            ]
+          ]
+        ],
+        [
+          "Q20(a)",
+          [
+            [
+              0,
+              0.4587,
+              0.4777
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2919,6 +5478,25 @@
         "papers/biology/img/02A-Membranes-Transport-49.jpg",
         "papers/biology/img/02A-Membranes-Transport-50.jpg",
         "papers/biology/img/02A-Membranes-Transport-51.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1586,
+          0.3067
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4292,
+              0.4482
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2948,6 +5526,25 @@
         "papers/biology/img/02A-Membranes-Transport-49.jpg",
         "papers/biology/img/02A-Membranes-Transport-50.jpg",
         "papers/biology/img/02A-Membranes-Transport-51.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3191,
+          0.6135
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4292,
+              0.4482
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2977,6 +5574,25 @@
         "papers/biology/img/02A-Membranes-Transport-49.jpg",
         "papers/biology/img/02A-Membranes-Transport-50.jpg",
         "papers/biology/img/02A-Membranes-Transport-51.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6268,
+          0.9221
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4292,
+              0.4482
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3005,6 +5621,13 @@
       "images": [
         "papers/biology/img/02A-Membranes-Transport-51.jpg",
         "papers/biology/img/02A-Membranes-Transport-52.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1861,
+          0.4815
+        ]
       ]
     },
     {
@@ -3032,6 +5655,25 @@
       "images": [
         "papers/biology/img/02A-Membranes-Transport-51.jpg",
         "papers/biology/img/02A-Membranes-Transport-52.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5309,
+          0.6429
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21(b)",
+          [
+            [
+              0,
+              0.4938,
+              0.5356
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3061,6 +5703,30 @@
       "images": [
         "papers/biology/img/02A-Membranes-Transport-51.jpg",
         "papers/biology/img/02A-Membranes-Transport-52.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6486,
+          0.9373
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21(b)",
+          [
+            [
+              0,
+              0.4938,
+              0.5356
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3090,6 +5756,25 @@
       "images": [
         "papers/biology/img/02A-Membranes-Transport-51.jpg",
         "papers/biology/img/02A-Membranes-Transport-52.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.075,
+          0.3913
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21(b)",
+          [
+            [
+              0,
+              0.4938,
+              0.5356
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3118,6 +5803,30 @@
       "images": [
         "papers/biology/img/02A-Membranes-Transport-52.jpg",
         "papers/biology/img/02A-Membranes-Transport-53.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8585,
+          0.9145
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.5878,
+              0.8481
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3149,6 +5858,35 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1624,
+          0.3229
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.5878,
+              0.8481
+            ]
+          ]
+        ],
+        [
+          "Q22(b)",
+          [
+            [
+              1,
+              0.1406,
+              0.1595
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3178,6 +5916,35 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3352,
+          0.566
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.5878,
+              0.8481
+            ]
+          ]
+        ],
+        [
+          "Q22(b)",
+          [
+            [
+              1,
+              0.1406,
+              0.1595
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3206,6 +5973,35 @@
       "images": [
         "papers/biology/img/02A-Membranes-Transport-52.jpg",
         "papers/biology/img/02A-Membranes-Transport-53.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5622,
+          0.7616
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.5878,
+              0.8481
+            ]
+          ]
+        ],
+        [
+          "Q22(b)",
+          [
+            [
+              1,
+              0.1406,
+              0.1595
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3236,6 +6032,25 @@
         "papers/biology/img/02A-Membranes-Transport-54.jpg",
         "papers/biology/img/02A-Membranes-Transport-55.jpg",
         "papers/biology/img/02A-Membranes-Transport-56.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.2032
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              1,
+              0.0532,
+              0.0693
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3265,6 +6080,25 @@
         "papers/biology/img/02A-Membranes-Transport-54.jpg",
         "papers/biology/img/02A-Membranes-Transport-55.jpg",
         "papers/biology/img/02A-Membranes-Transport-56.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2241,
+          0.4112
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              1,
+              0.0532,
+              0.0693
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3294,6 +6128,25 @@
         "papers/biology/img/02A-Membranes-Transport-54.jpg",
         "papers/biology/img/02A-Membranes-Transport-55.jpg",
         "papers/biology/img/02A-Membranes-Transport-56.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4292,
+          0.5356
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              1,
+              0.0532,
+              0.0693
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3322,6 +6175,25 @@
         "papers/biology/img/02A-Membranes-Transport-54.jpg",
         "papers/biology/img/02A-Membranes-Transport-55.jpg",
         "papers/biology/img/02A-Membranes-Transport-56.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5565,
+          0.6629
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              1,
+              0.0532,
+              0.0693
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3353,6 +6225,25 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6838,
+          0.9335
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              1,
+              0.0532,
+              0.0693
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3386,6 +6277,30 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q23-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.9364
+        ],
+        [
+          3,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              1,
+              0.0532,
+              0.0693
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3417,6 +6332,35 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7977,
+          0.8965
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.4406,
+              0.4596
+            ]
+          ]
+        ],
+        [
+          "Q24(a)",
+          [
+            [
+              0,
+              0.4701,
+              0.7949
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3446,6 +6390,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9107,
+          0.9297
+        ],
+        [
+          1,
+          0.0513,
+          0.1216
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.4406,
+              0.4596
+            ]
+          ]
+        ],
+        [
+          "Q24(a)",
+          [
+            [
+              0,
+              0.4701,
+              0.7949
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3476,6 +6454,35 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q24.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1358,
+          0.2355
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.4406,
+              0.4596
+            ]
+          ]
+        ],
+        [
+          "Q24(a)",
+          [
+            [
+              0,
+              0.4701,
+              0.7949
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3505,6 +6512,35 @@
         "papers/biology/img/02A-Membranes-Transport-56.jpg",
         "papers/biology/img/02A-Membranes-Transport-57.jpg",
         "papers/biology/img/02A-Membranes-Transport-58.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3086,
+          0.3913
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.4406,
+              0.4596
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              1,
+              0.2564,
+              0.3096
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3532,6 +6568,35 @@
         "papers/biology/img/02A-Membranes-Transport-56.jpg",
         "papers/biology/img/02A-Membranes-Transport-57.jpg",
         "papers/biology/img/02A-Membranes-Transport-58.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.397,
+          0.4501
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.4406,
+              0.4596
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              1,
+              0.2564,
+              0.3096
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3562,6 +6627,35 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q24-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7569,
+          0.7759
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.4406,
+              0.4596
+            ]
+          ]
+        ],
+        [
+          "Q24(c)",
+          [
+            [
+              1,
+              0.4634,
+              0.754
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3595,6 +6689,35 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q24-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.3704
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.4406,
+              0.4596
+            ]
+          ]
+        ],
+        [
+          "Q24(c)",
+          [
+            [
+              1,
+              0.4634,
+              0.754
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3628,6 +6751,35 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q25-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8196,
+          0.925
+        ],
+        [
+          2,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.5166,
+              0.5651
+            ],
+            [
+              1,
+              0.0522,
+              0.8082
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3661,6 +6813,30 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q25-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1994,
+          0.4207
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.5166,
+              0.5651
+            ],
+            [
+              1,
+              0.0522,
+              0.8082
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3695,6 +6871,30 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q25-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.434,
+          0.6125
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.5166,
+              0.5651
+            ],
+            [
+              1,
+              0.0522,
+              0.8082
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3729,6 +6929,30 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q25-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6258,
+          0.8623
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.5166,
+              0.5651
+            ],
+            [
+              1,
+              0.0522,
+              0.8082
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3762,6 +6986,35 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q25.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8756,
+          0.9316
+        ],
+        [
+          3,
+          0.0513,
+          0.3343
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.5166,
+              0.5651
+            ],
+            [
+              1,
+              0.0522,
+              0.8082
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3796,6 +7049,30 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q25-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.3476,
+          0.5689
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.5166,
+              0.5651
+            ],
+            [
+              1,
+              0.0522,
+              0.8082
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3831,6 +7108,30 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7455,
+          0.7863
+        ],
+        [
+          1,
+          0.0617,
+          0.7284
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.716,
+              0.735
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3866,6 +7167,30 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q26-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7417,
+          0.9392
+        ],
+        [
+          2,
+          0.0532,
+          0.283
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.716,
+              0.735
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3903,6 +7228,35 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q26-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2953,
+          0.3514
+        ],
+        [
+          3,
+          0.057,
+          0.9193
+        ],
+        [
+          4,
+          0.0608,
+          0.4492
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.716,
+              0.735
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3936,6 +7290,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3153,
+          0.4302
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.6458,
+              0.6762
+            ]
+          ]
+        ],
+        [
+          "Q27(a)",
+          [
+            [
+              0,
+              0.6895,
+              0.7085
+            ],
+            [
+              1,
+              0.0617,
+              0.302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3968,6 +7356,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4435,
+          0.5432
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.6458,
+              0.6762
+            ]
+          ]
+        ],
+        [
+          "Q27(a)",
+          [
+            [
+              0,
+              0.6895,
+              0.7085
+            ],
+            [
+              1,
+              0.0617,
+              0.302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4001,6 +7423,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5565,
+          0.6562
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.6458,
+              0.6762
+            ]
+          ]
+        ],
+        [
+          "Q27(a)",
+          [
+            [
+              0,
+              0.6895,
+              0.7085
+            ],
+            [
+              1,
+              0.0617,
+              0.302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4031,6 +7487,30 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q27-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6771,
+          0.9307
+        ],
+        [
+          2,
+          0.056,
+          0.2811
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.6458,
+              0.6762
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4063,6 +7543,25 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q27-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2963,
+          0.8889
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.6458,
+              0.6762
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4094,6 +7593,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q27-4.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2346,
+          0.453
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.6458,
+              0.6762
+            ]
+          ]
+        ],
+        [
+          "Q27(d)",
+          [
+            [
+              2,
+              0.9022,
+              0.9212
+            ],
+            [
+              3,
+              0.0646,
+              0.227
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4127,6 +7660,40 @@
       ],
       "figures": [
         "papers/biology/fig/02A-Membranes-Transport-Q27-4.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.4587,
+          0.7464
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.6458,
+              0.6762
+            ]
+          ]
+        ],
+        [
+          "Q27(d)",
+          [
+            [
+              2,
+              0.9022,
+              0.9212
+            ],
+            [
+              3,
+              0.0646,
+              0.227
+            ]
+          ]
+        ]
       ]
     }
   ]

@@ -44,7 +44,11 @@ function build(subject) {
           steps: Array.isArray(q.steps) ? q.steps : [],
           images: Array.isArray(q.images) ? q.images : [],
           // Cropped diagrams, tables or graphs the question needs (papers/<subject>/fig/).
-          figures: Array.isArray(q.figures) ? q.figures : []
+          figures: Array.isArray(q.figures) ? q.figures : [],
+          // Where the part and the earlier text it needs sit on the page images, for the
+          // Questions PDF (tools/shot-boxes.py). Absent when the part could not be placed.
+          ...(Array.isArray(q.shot) ? { shot: q.shot } : {}),
+          ...(Array.isArray(q.ctx) ? { ctx: q.ctx } : {})
         }))
       }
     };
@@ -53,8 +57,10 @@ function build(subject) {
     return ka[0] - kb[0] || ka[1] - kb[1] || a.file.localeCompare(b.file, undefined, { numeric: true });
   }).map((x) => x.paper);
 
-  const body = 'window.BANK = window.BANK || {};\n\nwindow.BANK.' + subject + ' = ' +
-    JSON.stringify({ papers }, null, 1) + ';\n';
+  // Each page slice [image, top, bottom] goes on one line, not one number per line.
+  const json = JSON.stringify({ papers }, null, 1)
+    .replace(/\[\s*(\d+),\s*([\d.]+),\s*([\d.]+)\s*\]/g, '[$1,$2,$3]');
+  const body = 'window.BANK = window.BANK || {};\n\nwindow.BANK.' + subject + ' = ' + json + ';\n';
   fs.writeFileSync(path.join(ROOT, 'js', 'data', subject + '.js'), body);
 
   const count = (pred) => papers.reduce((n, p) => n + p.questions.filter(pred).length, 0);

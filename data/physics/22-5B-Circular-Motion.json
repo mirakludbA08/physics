@@ -36,6 +36,13 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q1-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1225,
+          0.7977
+        ]
       ]
     },
     {
@@ -67,6 +74,30 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q1.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6638,
+          0.7939
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.811,
+              0.83
+            ],
+            [
+              1,
+              0.0513,
+              0.6686
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -102,6 +133,35 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q1.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8737,
+          0.9421
+        ],
+        [
+          2,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.811,
+              0.83
+            ],
+            [
+              1,
+              0.0513,
+              0.6686
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -135,6 +195,30 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q1.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2507,
+          0.5831
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.811,
+              0.83
+            ],
+            [
+              1,
+              0.0513,
+              0.6686
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -164,6 +248,18 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7787,
+          0.8272
+        ],
+        [
+          1,
+          0.0513,
+          0.2184
+        ]
       ]
     },
     {
@@ -198,6 +294,30 @@
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q3.jpg",
         "papers/physics/fig/22-5B-Circular-Motion-Q3-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.641,
+          0.9269
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.3618,
+              0.6277
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -231,6 +351,35 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q3-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4682,
+          0.6838
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.3618,
+              0.6277
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              1,
+              0.1994,
+              0.4739
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -265,6 +414,35 @@
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q3.jpg",
         "papers/physics/fig/22-5B-Circular-Motion-Q3-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6904,
+          0.8632
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.3618,
+              0.6277
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              1,
+              0.1994,
+              0.4739
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -299,6 +477,30 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8737,
+          0.9145
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.3618,
+              0.6277
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -330,6 +532,18 @@
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-06.jpg",
         "papers/physics/img/22-5B-Circular-Motion-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3039,
+          0.9449
+        ],
+        [
+          1,
+          0.0608,
+          0.1567
+        ]
       ]
     },
     {
@@ -359,6 +573,25 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6277,
+          0.6467
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.3039,
+              0.6182
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -391,6 +624,30 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6714,
+          0.9364
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.3039,
+              0.6182
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -423,6 +680,25 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1045,
+          0.3485
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.3039,
+              0.6182
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -455,6 +731,18 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4957,
+          0.925
+        ],
+        [
+          1,
+          0.0608,
+          0.3618
+        ]
       ]
     },
     {
@@ -485,6 +773,13 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5575,
+          0.7939
+        ]
       ]
     },
     {
@@ -519,6 +814,25 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q8.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.8177
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -553,6 +867,40 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q8-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.868,
+          0.887
+        ],
+        [
+          2,
+          0.0513,
+          0.6562
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              1,
+              0.831,
+              0.8718
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -589,6 +937,40 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q8-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6629,
+          0.9212
+        ],
+        [
+          3,
+          0.0532,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              1,
+              0.831,
+              0.8718
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -620,6 +1002,30 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4653,
+          0.9316
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.2156,
+              0.4549
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -648,6 +1054,25 @@
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-12.jpg",
         "papers/physics/img/22-5B-Circular-Motion-13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.3191
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.2156,
+              0.4549
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -678,6 +1103,25 @@
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-12.jpg",
         "papers/physics/img/22-5B-Circular-Motion-13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3324,
+          0.6277
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.2156,
+              0.4549
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -805,6 +1249,30 @@
         "papers/physics/img/22-5B-Circular-Motion-13.jpg",
         "papers/physics/img/22-5B-Circular-Motion-14.jpg",
         "papers/physics/img/22-5B-Circular-Motion-15.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1994,
+          0.5679
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.774,
+              0.8205
+            ],
+            [
+              1,
+              0.0513,
+              0.5499
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -838,6 +1306,30 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q11-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3609,
+          0.8993
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.7151,
+              0.7455
+            ],
+            [
+              1,
+              0.0513,
+              0.3504
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -873,6 +1365,45 @@
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q11.jpg",
         "papers/physics/fig/22-5B-Circular-Motion-Q11-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.246,
+          0.7559
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.7151,
+              0.7455
+            ],
+            [
+              1,
+              0.0513,
+              0.3504
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              1,
+              0.9107,
+              0.9421
+            ],
+            [
+              2,
+              0.0532,
+              0.2441
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -909,6 +1440,50 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q11.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7616,
+          0.9174
+        ],
+        [
+          3,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.7151,
+              0.7455
+            ],
+            [
+              1,
+              0.0513,
+              0.3504
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              1,
+              0.9107,
+              0.9421
+            ],
+            [
+              2,
+              0.0532,
+              0.2441
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -936,6 +1511,13 @@
       ],
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.245,
+          0.831
+        ]
       ]
     },
     {
@@ -970,6 +1552,40 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3048,
+          0.6591
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.0902,
+              0.3837
+            ]
+          ]
+        ],
+        [
+          "Q13(a)",
+          [
+            [
+              0,
+              0.6211,
+              0.7075
+            ],
+            [
+              1,
+              0.0513,
+              0.2953
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1002,6 +1618,40 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6648,
+          0.85
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.0902,
+              0.3837
+            ]
+          ]
+        ],
+        [
+          "Q13(a)",
+          [
+            [
+              0,
+              0.6211,
+              0.7075
+            ],
+            [
+              1,
+              0.0513,
+              0.2953
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1034,6 +1684,30 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q13-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8632,
+          0.9041
+        ],
+        [
+          2,
+          0.0522,
+          0.2631
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.0902,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1064,6 +1738,13 @@
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q14.jpg",
         "papers/physics/fig/22-5B-Circular-Motion-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4596,
+          0.8917
+        ]
       ]
     },
     {
@@ -1097,6 +1778,13 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1425,
+          0.7578
+        ]
       ]
     },
     {
@@ -1129,6 +1817,30 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6562,
+          0.8196
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.9041,
+              0.9383
+            ],
+            [
+              1,
+              0.0513,
+              0.6467
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1162,6 +1874,35 @@
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q16.jpg",
         "papers/physics/fig/22-5B-Circular-Motion-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8253,
+          0.9383
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.9041,
+              0.9383
+            ],
+            [
+              1,
+              0.0513,
+              0.6467
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1198,6 +1939,30 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q16.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1406,
+          0.5679
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.9041,
+              0.9383
+            ],
+            [
+              1,
+              0.0513,
+              0.6467
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1227,6 +1992,18 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7635,
+          0.812
+        ],
+        [
+          1,
+          0.0522,
+          0.2403
+        ]
       ]
     },
     {
@@ -1256,6 +2033,13 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4255,
+          0.7142
+        ]
       ]
     },
     {
@@ -1288,6 +2072,30 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8803,
+          0.9335
+        ],
+        [
+          1,
+          0.0513,
+          0.7749
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.8509,
+              0.867
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1322,6 +2130,30 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q19-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7882,
+          0.8072
+        ],
+        [
+          2,
+          0.0617,
+          0.6059
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.8509,
+              0.867
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1355,6 +2187,30 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.811,
+          0.8424
+        ],
+        [
+          1,
+          0.0522,
+          0.4349
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7531,
+              0.8015
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1382,6 +2238,35 @@
         "papers/physics/img/22-5B-Circular-Motion-27.jpg",
         "papers/physics/img/22-5B-Circular-Motion-28.jpg",
         "papers/physics/img/22-5B-Circular-Motion-29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6543,
+          0.7977
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7531,
+              0.8015
+            ]
+          ]
+        ],
+        [
+          "Q20(b)",
+          [
+            [
+              1,
+              0.4482,
+              0.6553
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1415,6 +2300,40 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q20-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8015,
+          0.9449
+        ],
+        [
+          2,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7531,
+              0.8015
+            ]
+          ]
+        ],
+        [
+          "Q20(b)",
+          [
+            [
+              1,
+              0.4482,
+              0.6553
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1442,6 +2361,35 @@
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-29.jpg",
         "papers/physics/img/22-5B-Circular-Motion-30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.774,
+          0.9145
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3324,
+              0.7417
+            ]
+          ]
+        ],
+        [
+          "Q21(a)",
+          [
+            [
+              0,
+              0.7521,
+              0.7711
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1470,6 +2418,40 @@
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-29.jpg",
         "papers/physics/img/22-5B-Circular-Motion-30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9212,
+          0.9402
+        ],
+        [
+          1,
+          0.0532,
+          0.1956
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3324,
+              0.7417
+            ]
+          ]
+        ],
+        [
+          "Q21(a)",
+          [
+            [
+              0,
+              0.7521,
+              0.7711
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1501,6 +2483,35 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4292,
+          0.4482
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3324,
+              0.7417
+            ]
+          ]
+        ],
+        [
+          "Q21(b)",
+          [
+            [
+              1,
+              0.207,
+              0.4264
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1533,6 +2544,35 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4596,
+          0.7322
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3324,
+              0.7417
+            ]
+          ]
+        ],
+        [
+          "Q21(b)",
+          [
+            [
+              1,
+              0.207,
+              0.4264
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1561,6 +2601,35 @@
       "images": [
         "papers/physics/img/22-5B-Circular-Motion-29.jpg",
         "papers/physics/img/22-5B-Circular-Motion-30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7388,
+          0.8357
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3324,
+              0.7417
+            ]
+          ]
+        ],
+        [
+          "Q21(b)",
+          [
+            [
+              1,
+              0.207,
+              0.4264
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1591,6 +2660,13 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1538,
+          0.4425
+        ]
       ]
     },
     {
@@ -1622,6 +2698,40 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q23-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.622,
+          0.8367
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.5793,
+              0.9079
+            ],
+            [
+              1,
+              0.0541,
+              0.3542
+            ]
+          ]
+        ],
+        [
+          "Q23(a)",
+          [
+            [
+              1,
+              0.3694,
+              0.6125
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1654,6 +2764,45 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q23-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8424,
+          0.9259
+        ],
+        [
+          2,
+          0.0608,
+          0.1633
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.5793,
+              0.9079
+            ],
+            [
+              1,
+              0.0541,
+              0.3542
+            ]
+          ]
+        ],
+        [
+          "Q23(a)",
+          [
+            [
+              1,
+              0.3694,
+              0.6125
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1686,6 +2835,30 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q23.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1624,
+          0.548
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.5793,
+              0.9079
+            ],
+            [
+              1,
+              0.0541,
+              0.3542
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1716,6 +2889,30 @@
         "papers/physics/img/22-5B-Circular-Motion-31.jpg",
         "papers/physics/img/22-5B-Circular-Motion-32.jpg",
         "papers/physics/img/22-5B-Circular-Motion-33.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5537,
+          0.7246
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.5793,
+              0.9079
+            ],
+            [
+              1,
+              0.0541,
+              0.3542
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1748,6 +2945,13 @@
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q24.jpg",
         "papers/physics/fig/22-5B-Circular-Motion-Q24-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.5698
+        ]
       ]
     },
     {
@@ -1779,6 +2983,40 @@
         "papers/physics/img/22-5B-Circular-Motion-35.jpg",
         "papers/physics/img/22-5B-Circular-Motion-36.jpg",
         "papers/physics/img/22-5B-Circular-Motion-37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4055,
+          0.7426
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.717,
+              0.736
+            ],
+            [
+              1,
+              0.0779,
+              0.32
+            ]
+          ]
+        ],
+        [
+          "Q25(a)",
+          [
+            [
+              1,
+              0.358,
+              0.4112
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1808,6 +3046,40 @@
         "papers/physics/img/22-5B-Circular-Motion-35.jpg",
         "papers/physics/img/22-5B-Circular-Motion-36.jpg",
         "papers/physics/img/22-5B-Circular-Motion-37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7483,
+          0.8889
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.717,
+              0.736
+            ],
+            [
+              1,
+              0.0779,
+              0.32
+            ]
+          ]
+        ],
+        [
+          "Q25(a)",
+          [
+            [
+              1,
+              0.358,
+              0.4112
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1837,6 +3109,45 @@
         "papers/physics/img/22-5B-Circular-Motion-35.jpg",
         "papers/physics/img/22-5B-Circular-Motion-36.jpg",
         "papers/physics/img/22-5B-Circular-Motion-37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8955,
+          0.9145
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.717,
+              0.736
+            ],
+            [
+              1,
+              0.0779,
+              0.32
+            ]
+          ]
+        ],
+        [
+          "Q25(a)",
+          [
+            [
+              1,
+              0.358,
+              0.4112
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1869,6 +3180,40 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q25.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4834,
+          0.5166
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.717,
+              0.736
+            ],
+            [
+              1,
+              0.0779,
+              0.32
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              2,
+              0.17,
+              0.4606
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1903,6 +3248,40 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q25.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.528,
+          0.8443
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.717,
+              0.736
+            ],
+            [
+              1,
+              0.0779,
+              0.32
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              2,
+              0.17,
+              0.4606
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1937,6 +3316,45 @@
       ],
       "figures": [
         "papers/physics/fig/22-5B-Circular-Motion-Q25.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.85,
+          0.9335
+        ],
+        [
+          3,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.717,
+              0.736
+            ],
+            [
+              1,
+              0.0779,
+              0.32
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              2,
+              0.17,
+              0.4606
+            ]
+          ]
+        ]
       ]
     }
   ]

@@ -30,6 +30,25 @@
       "images": [
         "papers/physics/img/10-CP3-Young-Modulus-01.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2108,
+          0.4473
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.2004
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -60,6 +79,35 @@
       ],
       "figures": [
         "papers/physics/fig/10-CP3-Young-Modulus-Q1.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0522,
+          0.1937
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.2004
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.4606,
+              0.9487
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -87,6 +135,35 @@
       "images": [
         "papers/physics/img/10-CP3-Young-Modulus-01.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-02.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1994,
+          0.4539
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.2004
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.4606,
+              0.9487
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -119,6 +196,30 @@
       ],
       "figures": [
         "papers/physics/fig/10-CP3-Young-Modulus-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3599,
+          0.8148
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5973,
+              0.6439
+            ],
+            [
+              1,
+              0.0513,
+              0.3495
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -150,6 +251,45 @@
       ],
       "figures": [
         "papers/physics/fig/10-CP3-Young-Modulus-Q2-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2146,
+          0.4587
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5973,
+              0.6439
+            ],
+            [
+              1,
+              0.0513,
+              0.3495
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.8281,
+              0.8471
+            ],
+            [
+              2,
+              0.0513,
+              0.2127
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -181,6 +321,45 @@
       ],
       "figures": [
         "papers/physics/fig/10-CP3-Young-Modulus-Q2-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4644,
+          0.7113
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5973,
+              0.6439
+            ],
+            [
+              1,
+              0.0513,
+              0.3495
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.8281,
+              0.8471
+            ],
+            [
+              2,
+              0.0513,
+              0.2127
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -212,6 +391,18 @@
       ],
       "figures": [
         "papers/physics/fig/10-CP3-Young-Modulus-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.905,
+          0.924
+        ],
+        [
+          1,
+          0.0522,
+          0.4387
+        ]
       ]
     },
     {
@@ -242,6 +433,13 @@
         "papers/physics/img/10-CP3-Young-Modulus-06.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-07.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6467,
+          0.8148
+        ]
       ]
     },
     {
@@ -272,6 +470,25 @@
         "papers/physics/img/10-CP3-Young-Modulus-06.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-07.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2915,
+          0.4986
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              1,
+              0.075,
+              0.2811
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -305,6 +522,30 @@
       ],
       "figures": [
         "papers/physics/fig/10-CP3-Young-Modulus-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5119,
+          0.5527
+        ],
+        [
+          2,
+          0.0513,
+          0.7825
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              1,
+              0.075,
+              0.2811
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -337,6 +578,30 @@
         "papers/physics/img/10-CP3-Young-Modulus-06.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-07.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-08.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.793,
+          0.9411
+        ],
+        [
+          3,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              1,
+              0.075,
+              0.2811
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -365,6 +630,25 @@
       "images": [
         "papers/physics/img/10-CP3-Young-Modulus-08.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4938,
+          0.6135
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4207,
+              0.4843
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -394,6 +678,35 @@
       ],
       "figures": [
         "papers/physics/fig/10-CP3-Young-Modulus-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7113,
+          0.9107
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4207,
+              0.4843
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              0,
+              0.6258,
+              0.698
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -422,6 +735,40 @@
       "images": [
         "papers/physics/img/10-CP3-Young-Modulus-08.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9174,
+          0.9364
+        ],
+        [
+          1,
+          0.0532,
+          0.3438
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4207,
+              0.4843
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              0,
+              0.6258,
+              0.698
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -449,6 +796,50 @@
       "images": [
         "papers/physics/img/10-CP3-Young-Modulus-08.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3466,
+          0.5185
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4207,
+              0.4843
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              0,
+              0.6258,
+              0.698
+            ]
+          ]
+        ],
+        [
+          "Q6(b)(ii)",
+          [
+            [
+              0,
+              0.9174,
+              0.9364
+            ],
+            [
+              1,
+              0.0532,
+              0.3438
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -477,6 +868,25 @@
         "papers/physics/img/10-CP3-Young-Modulus-09.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-10.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7236,
+          0.7835
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6648,
+              0.7132
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -507,6 +917,40 @@
       ],
       "figures": [
         "papers/physics/fig/10-CP3-Young-Modulus-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6591,
+          0.8613
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6648,
+              0.7132
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              0,
+              0.7968,
+              0.8158
+            ],
+            [
+              1,
+              0.0513,
+              0.6572
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -537,6 +981,45 @@
       ],
       "figures": [
         "papers/physics/fig/10-CP3-Young-Modulus-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8651,
+          0.9335
+        ],
+        [
+          2,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6648,
+              0.7132
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              0,
+              0.7968,
+              0.8158
+            ],
+            [
+              1,
+              0.0513,
+              0.6572
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -569,6 +1052,40 @@
       ],
       "figures": [
         "papers/physics/fig/10-CP3-Young-Modulus-Q7-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2213,
+          0.6087
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6648,
+              0.7132
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              0,
+              0.7968,
+              0.8158
+            ],
+            [
+              1,
+              0.0513,
+              0.6572
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -601,6 +1118,40 @@
       ],
       "figures": [
         "papers/physics/fig/10-CP3-Young-Modulus-Q7.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6144,
+          0.8879
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6648,
+              0.7132
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              0,
+              0.7968,
+              0.8158
+            ],
+            [
+              1,
+              0.0513,
+              0.6572
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -635,6 +1186,25 @@
       ],
       "figures": [
         "papers/physics/fig/10-CP3-Young-Modulus-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1709,
+          0.8879
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1425,
+              0.1614
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -664,6 +1234,30 @@
       "images": [
         "papers/physics/img/10-CP3-Young-Modulus-12.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9012,
+          0.9392
+        ],
+        [
+          1,
+          0.0532,
+          0.3846
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1425,
+              0.1614
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -693,6 +1287,25 @@
         "papers/physics/img/10-CP3-Young-Modulus-14.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-15.jpg",
         "papers/physics/img/10-CP3-Young-Modulus-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5603,
+          0.7854
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5309,
+              0.5499
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -726,6 +1339,40 @@
       ],
       "figures": [
         "papers/physics/fig/10-CP3-Young-Modulus-Q9b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3979,
+          0.5537
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5309,
+              0.5499
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              0,
+              0.7977,
+              0.8993
+            ],
+            [
+              1,
+              0.0513,
+              0.3941
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -759,6 +1406,40 @@
       ],
       "figures": [
         "papers/physics/fig/10-CP3-Young-Modulus-Q9b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5594,
+          0.716
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5309,
+              0.5499
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              0,
+              0.7977,
+              0.8993
+            ],
+            [
+              1,
+              0.0513,
+              0.3941
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -793,6 +1474,35 @@
       "figures": [
         "papers/physics/fig/10-CP3-Young-Modulus-Q9.jpg",
         "papers/physics/fig/10-CP3-Young-Modulus-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7284,
+          0.7597
+        ],
+        [
+          2,
+          0.0522,
+          0.9174
+        ],
+        [
+          3,
+          0.0608,
+          0.3324
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5309,
+              0.5499
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -823,6 +1533,18 @@
       ],
       "figures": [
         "papers/physics/fig/10-CP3-Young-Modulus-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5451,
+          0.9364
+        ],
+        [
+          1,
+          0.0532,
+          0.1766
+        ]
       ]
     }
   ]

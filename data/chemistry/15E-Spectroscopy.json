@@ -32,6 +32,25 @@
         "papers/chemistry/img/15E-Spectroscopy-01.jpg",
         "papers/chemistry/img/15E-Spectroscopy-02.jpg",
         "papers/chemistry/img/15E-Spectroscopy-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1519,
+          0.6087
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1406
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -64,6 +83,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8509,
+          0.8851
+        ],
+        [
+          1,
+          0.0513,
+          0.3875
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1406
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -93,6 +136,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q1.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3903,
+          0.4444
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1406
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -122,6 +184,35 @@
         "papers/chemistry/img/15E-Spectroscopy-01.jpg",
         "papers/chemistry/img/15E-Spectroscopy-02.jpg",
         "papers/chemistry/img/15E-Spectroscopy-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5546,
+          0.9449
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1406
+            ]
+          ]
+        ],
+        [
+          "Q1(c)",
+          [
+            [
+              1,
+              0.4577,
+              0.5584
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -150,6 +241,35 @@
         "papers/chemistry/img/15E-Spectroscopy-01.jpg",
         "papers/chemistry/img/15E-Spectroscopy-02.jpg",
         "papers/chemistry/img/15E-Spectroscopy-03.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.1064
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1406
+            ]
+          ]
+        ],
+        [
+          "Q1(c)",
+          [
+            [
+              1,
+              0.4577,
+              0.5584
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -177,6 +297,35 @@
         "papers/chemistry/img/15E-Spectroscopy-01.jpg",
         "papers/chemistry/img/15E-Spectroscopy-02.jpg",
         "papers/chemistry/img/15E-Spectroscopy-03.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1121,
+          0.1652
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1406
+            ]
+          ]
+        ],
+        [
+          "Q1(c)",
+          [
+            [
+              1,
+              0.4577,
+              0.5584
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -206,6 +355,25 @@
         "papers/chemistry/img/15E-Spectroscopy-01.jpg",
         "papers/chemistry/img/15E-Spectroscopy-02.jpg",
         "papers/chemistry/img/15E-Spectroscopy-03.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1785,
+          0.4881
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1406
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -238,6 +406,30 @@
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q2.jpg",
         "papers/chemistry/fig/15E-Spectroscopy-Q2-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3723,
+          0.5964
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.6344,
+              0.698
+            ],
+            [
+              1,
+              0.0617,
+              0.3504
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -270,6 +462,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6477,
+          0.8186
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.6344,
+              0.698
+            ],
+            [
+              1,
+              0.0617,
+              0.3504
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -299,6 +515,30 @@
         "papers/chemistry/img/15E-Spectroscopy-03.jpg",
         "papers/chemistry/img/15E-Spectroscopy-04.jpg",
         "papers/chemistry/img/15E-Spectroscopy-05.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8234,
+          0.8832
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.6344,
+              0.698
+            ],
+            [
+              1,
+              0.0617,
+              0.3504
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -331,6 +571,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q2-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3001,
+          0.6154
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.6344,
+              0.698
+            ],
+            [
+              1,
+              0.0617,
+              0.3504
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              2,
+              0.2327,
+              0.3039
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -360,6 +634,40 @@
         "papers/chemistry/img/15E-Spectroscopy-03.jpg",
         "papers/chemistry/img/15E-Spectroscopy-04.jpg",
         "papers/chemistry/img/15E-Spectroscopy-05.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6657,
+          0.8803
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.6344,
+              0.698
+            ],
+            [
+              1,
+              0.0617,
+              0.3504
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              2,
+              0.2327,
+              0.3039
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -387,6 +695,25 @@
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-06.jpg",
         "papers/chemistry/img/15E-Spectroscopy-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1709,
+          0.2023
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -415,6 +742,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6572,
+          0.7104
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              0,
+              0.4558,
+              0.6543
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -444,6 +800,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.716,
+          0.735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              0,
+              0.4558,
+              0.6543
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -473,6 +858,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q3-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1197,
+          0.3248
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ],
+        [
+          "Q3(c)",
+          [
+            [
+              1,
+              0.0978,
+              0.1168
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -504,6 +918,35 @@
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q3-2.jpg",
         "papers/chemistry/fig/15E-Spectroscopy-Q3-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3286,
+          0.5603
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ],
+        [
+          "Q3(c)",
+          [
+            [
+              1,
+              0.0978,
+              0.1168
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -530,6 +973,25 @@
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-07.jpg",
         "papers/chemistry/img/15E-Spectroscopy-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7968,
+          0.9326
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7673,
+              0.7863
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -557,6 +1019,25 @@
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-07.jpg",
         "papers/chemistry/img/15E-Spectroscopy-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0674,
+          0.1766
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7673,
+              0.7863
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -586,6 +1067,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.378,
+          0.6781
+        ]
       ]
     },
     {
@@ -615,6 +1103,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8585,
+          0.8775
+        ],
+        [
+          1,
+          0.0864,
+          0.2707
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8291,
+              0.8481
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -644,6 +1156,25 @@
         "papers/chemistry/img/15E-Spectroscopy-08.jpg",
         "papers/chemistry/img/15E-Spectroscopy-09.jpg",
         "papers/chemistry/img/15E-Spectroscopy-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.284,
+          0.3552
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8291,
+              0.8481
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -671,6 +1202,35 @@
         "papers/chemistry/img/15E-Spectroscopy-08.jpg",
         "papers/chemistry/img/15E-Spectroscopy-09.jpg",
         "papers/chemistry/img/15E-Spectroscopy-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8462,
+          0.9145
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8291,
+              0.8481
+            ]
+          ]
+        ],
+        [
+          "Q6(c)",
+          [
+            [
+              1,
+              0.8243,
+              0.8433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -699,6 +1259,35 @@
         "papers/chemistry/img/15E-Spectroscopy-08.jpg",
         "papers/chemistry/img/15E-Spectroscopy-09.jpg",
         "papers/chemistry/img/15E-Spectroscopy-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9202,
+          0.9392
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8291,
+              0.8481
+            ]
+          ]
+        ],
+        [
+          "Q6(c)",
+          [
+            [
+              1,
+              0.8243,
+              0.8433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -727,6 +1316,35 @@
         "papers/chemistry/img/15E-Spectroscopy-08.jpg",
         "papers/chemistry/img/15E-Spectroscopy-09.jpg",
         "papers/chemistry/img/15E-Spectroscopy-10.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3248,
+          0.3894
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8291,
+              0.8481
+            ]
+          ]
+        ],
+        [
+          "Q6(c)",
+          [
+            [
+              1,
+              0.8243,
+              0.8433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -761,6 +1379,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5575,
+          0.7398
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8291,
+              0.8481
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -792,6 +1429,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q7-5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2678
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8984,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q7(a)",
+          [
+            [
+              0,
+              0.9278,
+              0.9468
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -821,6 +1487,35 @@
         "papers/chemistry/img/15E-Spectroscopy-12.jpg",
         "papers/chemistry/img/15E-Spectroscopy-13.jpg",
         "papers/chemistry/img/15E-Spectroscopy-14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2735,
+          0.416
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8984,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q7(a)",
+          [
+            [
+              0,
+              0.9278,
+              0.9468
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -850,6 +1545,35 @@
         "papers/chemistry/img/15E-Spectroscopy-12.jpg",
         "papers/chemistry/img/15E-Spectroscopy-13.jpg",
         "papers/chemistry/img/15E-Spectroscopy-14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4217,
+          0.4558
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8984,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q7(a)",
+          [
+            [
+              0,
+              0.9278,
+              0.9468
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -881,6 +1605,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5489,
+          0.7958
+        ],
+        [
+          2,
+          0.0598,
+          0.3276
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8984,
+              0.9174
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -913,6 +1661,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q7-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4862,
+          0.661
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8984,
+              0.9174
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -945,6 +1712,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q7-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8746,
+          0.8936
+        ],
+        [
+          3,
+          0.0636,
+          0.2403
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8984,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q7(d)",
+          [
+            [
+              2,
+              0.8519,
+              0.8708
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -973,6 +1774,35 @@
         "papers/chemistry/img/15E-Spectroscopy-12.jpg",
         "papers/chemistry/img/15E-Spectroscopy-13.jpg",
         "papers/chemistry/img/15E-Spectroscopy-14.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.3295,
+          0.4425
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8984,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q7(d)",
+          [
+            [
+              2,
+              0.8519,
+              0.8708
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1000,6 +1830,35 @@
         "papers/chemistry/img/15E-Spectroscopy-12.jpg",
         "papers/chemistry/img/15E-Spectroscopy-13.jpg",
         "papers/chemistry/img/15E-Spectroscopy-14.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.4482,
+          0.5166
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8984,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q7(d)",
+          [
+            [
+              2,
+              0.8519,
+              0.8708
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1034,6 +1893,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q7-3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.5223,
+          0.7673
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.8984,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q7(d)",
+          [
+            [
+              2,
+              0.8519,
+              0.8708
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1062,6 +1950,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5404,
+          0.6467
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.3105,
+              0.5299
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1090,6 +1997,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6667,
+          0.774
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.3105,
+              0.5299
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1120,6 +2046,30 @@
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q8.jpg",
         "papers/chemistry/fig/15E-Spectroscopy-Q8-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7949,
+          0.8509
+        ],
+        [
+          1,
+          0.0883,
+          0.5745
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.3105,
+              0.5299
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1148,6 +2098,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7778,
+          0.812
+        ],
+        [
+          1,
+          0.0655,
+          0.8642
+        ]
       ]
     },
     {
@@ -1176,6 +2138,25 @@
         "papers/chemistry/img/15E-Spectroscopy-18.jpg",
         "papers/chemistry/img/15E-Spectroscopy-19.jpg",
         "papers/chemistry/img/15E-Spectroscopy-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.151,
+          0.1871
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.1197,
+              0.1576
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1204,6 +2185,35 @@
         "papers/chemistry/img/15E-Spectroscopy-18.jpg",
         "papers/chemistry/img/15E-Spectroscopy-19.jpg",
         "papers/chemistry/img/15E-Spectroscopy-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4378,
+          0.6952
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.1197,
+              0.1576
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              0,
+              0.151,
+              0.1871
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1232,6 +2242,40 @@
         "papers/chemistry/img/15E-Spectroscopy-18.jpg",
         "papers/chemistry/img/15E-Spectroscopy-19.jpg",
         "papers/chemistry/img/15E-Spectroscopy-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9231,
+          0.9421
+        ],
+        [
+          1,
+          0.0826,
+          0.15
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.8414,
+              0.8756
+            ]
+          ]
+        ],
+        [
+          "Q11(a)",
+          [
+            [
+              0,
+              0.886,
+              0.9202
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1263,6 +2307,35 @@
         "papers/chemistry/img/15E-Spectroscopy-18.jpg",
         "papers/chemistry/img/15E-Spectroscopy-19.jpg",
         "papers/chemistry/img/15E-Spectroscopy-20.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1557,
+          0.1747
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.8414,
+              0.8756
+            ]
+          ]
+        ],
+        [
+          "Q11(a)",
+          [
+            [
+              0,
+              0.886,
+              0.9202
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1296,6 +2369,40 @@
         "papers/chemistry/img/15E-Spectroscopy-18.jpg",
         "papers/chemistry/img/15E-Spectroscopy-19.jpg",
         "papers/chemistry/img/15E-Spectroscopy-20.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5755,
+          0.9421
+        ],
+        [
+          2,
+          0.0608,
+          0.3324
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.8414,
+              0.8756
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              1,
+              0.4929,
+              0.5793
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1325,6 +2432,50 @@
         "papers/chemistry/img/15E-Spectroscopy-18.jpg",
         "papers/chemistry/img/15E-Spectroscopy-19.jpg",
         "papers/chemistry/img/15E-Spectroscopy-20.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3457,
+          0.5964
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.8414,
+              0.8756
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              1,
+              0.4929,
+              0.5793
+            ]
+          ]
+        ],
+        [
+          "Q11(b)(i)",
+          [
+            [
+              1,
+              0.5755,
+              0.9421
+            ],
+            [
+              2,
+              0.0608,
+              0.3324
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1359,6 +2510,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q11.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8348,
+          0.8538
+        ],
+        [
+          3,
+          0.0513,
+          0.8737
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.8414,
+              0.8756
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1386,6 +2561,13 @@
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-21.jpg",
         "papers/chemistry/img/15E-Spectroscopy-22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1909,
+          0.359
+        ]
       ]
     },
     {
@@ -1414,6 +2596,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5603,
+          0.9402
+        ],
+        [
+          1,
+          0.0513,
+          0.1054
+        ]
       ]
     },
     {
@@ -1445,6 +2639,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5014,
+          0.5204
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.2593,
+              0.2783
+            ]
+          ]
+        ],
+        [
+          "Q14(a)",
+          [
+            [
+              0,
+              0.2887,
+              0.5052
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1476,6 +2699,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6819,
+          0.7009
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.2593,
+              0.2783
+            ]
+          ]
+        ],
+        [
+          "Q14(a)",
+          [
+            [
+              0,
+              0.2887,
+              0.5052
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1509,6 +2761,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8319,
+          0.9297
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.2593,
+              0.2783
+            ]
+          ]
+        ],
+        [
+          "Q14(a)",
+          [
+            [
+              0,
+              0.2887,
+              0.5052
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1540,6 +2826,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3495,
+          0.4027
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.2593,
+              0.2783
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              1,
+              0.1406,
+              0.3476
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1574,6 +2889,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4093,
+          0.7863
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.2593,
+              0.2783
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              1,
+              0.1406,
+              0.3476
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1603,6 +2947,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q14-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4853,
+          0.5385
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.2593,
+              0.2783
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              2,
+              0.0674,
+              0.4834
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1634,6 +3007,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q14-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5451,
+          0.5783
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.2593,
+              0.2783
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              2,
+              0.0674,
+              0.4834
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1663,6 +3065,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q14-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6648,
+          0.7635
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.2593,
+              0.2783
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              2,
+              0.0674,
+              0.4834
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1693,6 +3124,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q14-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7692,
+          0.7882
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.2593,
+              0.2783
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              2,
+              0.0674,
+              0.4834
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1729,6 +3189,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q14-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8813,
+          0.9373
+        ],
+        [
+          3,
+          0.0522,
+          0.9193
+        ],
+        [
+          4,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.2593,
+              0.2783
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1754,6 +3243,25 @@
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-26.jpg",
         "papers/chemistry/img/15E-Spectroscopy-27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4406,
+          0.547
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.4112,
+              0.4302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1780,6 +3288,25 @@
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-26.jpg",
         "papers/chemistry/img/15E-Spectroscopy-27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5679,
+          0.6923
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.4112,
+              0.4302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1808,6 +3335,25 @@
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-26.jpg",
         "papers/chemistry/img/15E-Spectroscopy-27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7104,
+          0.8566
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.4112,
+              0.4302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1837,6 +3383,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2526,
+          0.4454
+        ]
       ]
     },
     {
@@ -1863,6 +3416,35 @@
         "papers/chemistry/img/15E-Spectroscopy-28.jpg",
         "papers/chemistry/img/15E-Spectroscopy-29.jpg",
         "papers/chemistry/img/15E-Spectroscopy-30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6334,
+          0.6524
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.5821,
+              0.6011
+            ]
+          ]
+        ],
+        [
+          "Q17(a)",
+          [
+            [
+              0,
+              0.6116,
+              0.6306
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2044,6 +3626,25 @@
         "papers/chemistry/img/15E-Spectroscopy-28.jpg",
         "papers/chemistry/img/15E-Spectroscopy-29.jpg",
         "papers/chemistry/img/15E-Spectroscopy-30.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.4919,
+          0.5613
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.5821,
+              0.6011
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2076,6 +3677,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.3561
+        ]
       ]
     },
     {
@@ -2101,6 +3709,13 @@
       ],
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.716,
+          0.8234
+        ]
       ]
     },
     {
@@ -2128,6 +3743,13 @@
         "papers/chemistry/img/15E-Spectroscopy-32.jpg",
         "papers/chemistry/img/15E-Spectroscopy-33.jpg",
         "papers/chemistry/img/15E-Spectroscopy-34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1396,
+          0.2336
+        ]
       ]
     },
     {
@@ -2156,6 +3778,25 @@
         "papers/chemistry/img/15E-Spectroscopy-32.jpg",
         "papers/chemistry/img/15E-Spectroscopy-33.jpg",
         "papers/chemistry/img/15E-Spectroscopy-34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4141,
+          0.9259
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3856,
+              0.4046
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2183,6 +3824,35 @@
         "papers/chemistry/img/15E-Spectroscopy-32.jpg",
         "papers/chemistry/img/15E-Spectroscopy-33.jpg",
         "papers/chemistry/img/15E-Spectroscopy-34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0902,
+          0.1434
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3856,
+              0.4046
+            ]
+          ]
+        ],
+        [
+          "Q21(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2210,6 +3880,35 @@
         "papers/chemistry/img/15E-Spectroscopy-32.jpg",
         "papers/chemistry/img/15E-Spectroscopy-33.jpg",
         "papers/chemistry/img/15E-Spectroscopy-34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1491,
+          0.2612
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3856,
+              0.4046
+            ]
+          ]
+        ],
+        [
+          "Q21(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2238,6 +3937,35 @@
         "papers/chemistry/img/15E-Spectroscopy-32.jpg",
         "papers/chemistry/img/15E-Spectroscopy-33.jpg",
         "papers/chemistry/img/15E-Spectroscopy-34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2669,
+          0.4672
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3856,
+              0.4046
+            ]
+          ]
+        ],
+        [
+          "Q21(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2265,6 +3993,25 @@
         "papers/chemistry/img/15E-Spectroscopy-32.jpg",
         "papers/chemistry/img/15E-Spectroscopy-33.jpg",
         "papers/chemistry/img/15E-Spectroscopy-34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4796,
+          0.5185
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3856,
+              0.4046
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2291,6 +4038,35 @@
         "papers/chemistry/img/15E-Spectroscopy-32.jpg",
         "papers/chemistry/img/15E-Spectroscopy-33.jpg",
         "papers/chemistry/img/15E-Spectroscopy-34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6819,
+          0.7939
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3856,
+              0.4046
+            ]
+          ]
+        ],
+        [
+          "Q21(c)(i)",
+          [
+            [
+              1,
+              0.4796,
+              0.5185
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2318,6 +4094,40 @@
         "papers/chemistry/img/15E-Spectroscopy-32.jpg",
         "papers/chemistry/img/15E-Spectroscopy-33.jpg",
         "papers/chemistry/img/15E-Spectroscopy-34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8291,
+          0.8623
+        ],
+        [
+          2,
+          0.0655,
+          0.0874
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3856,
+              0.4046
+            ]
+          ]
+        ],
+        [
+          "Q21(d)",
+          [
+            [
+              1,
+              0.8063,
+              0.8262
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2343,6 +4153,35 @@
         "papers/chemistry/img/15E-Spectroscopy-32.jpg",
         "papers/chemistry/img/15E-Spectroscopy-33.jpg",
         "papers/chemistry/img/15E-Spectroscopy-34.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1776,
+          0.2393
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3856,
+              0.4046
+            ]
+          ]
+        ],
+        [
+          "Q21(d)",
+          [
+            [
+              1,
+              0.8063,
+              0.8262
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2376,6 +4215,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q22-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5783,
+          0.6192
+        ],
+        [
+          1,
+          0.0513,
+          0.6021
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.3789,
+              0.5679
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2409,6 +4272,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q22-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.755,
+          0.9402
+        ],
+        [
+          2,
+          0.0608,
+          0.1121
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.3789,
+              0.5679
+            ]
+          ]
+        ],
+        [
+          "Q22(b)",
+          [
+            [
+              1,
+              0.6116,
+              0.7531
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2440,6 +4337,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q22-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1054,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.3789,
+              0.5679
+            ]
+          ]
+        ],
+        [
+          "Q22(b)",
+          [
+            [
+              1,
+              0.6116,
+              0.7531
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2472,6 +4398,35 @@
         "papers/chemistry/img/15E-Spectroscopy-36.jpg",
         "papers/chemistry/img/15E-Spectroscopy-37.jpg",
         "papers/chemistry/img/15E-Spectroscopy-38.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2877,
+          0.4017
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.3789,
+              0.5679
+            ]
+          ]
+        ],
+        [
+          "Q22(b)",
+          [
+            [
+              1,
+              0.6116,
+              0.7531
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2503,6 +4458,25 @@
         "papers/chemistry/img/15E-Spectroscopy-36.jpg",
         "papers/chemistry/img/15E-Spectroscopy-37.jpg",
         "papers/chemistry/img/15E-Spectroscopy-38.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6458,
+          0.7151
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.3789,
+              0.5679
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2535,6 +4509,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q22.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.4274,
+          0.6268
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.3789,
+              0.5679
+            ]
+          ]
+        ],
+        [
+          "Q22(d)",
+          [
+            [
+              3,
+              0.0674,
+              0.4245
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2566,6 +4569,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q22.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.6334,
+          0.7018
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.3789,
+              0.5679
+            ]
+          ]
+        ],
+        [
+          "Q22(d)",
+          [
+            [
+              3,
+              0.0674,
+              0.4245
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2595,6 +4627,35 @@
         "papers/chemistry/img/15E-Spectroscopy-36.jpg",
         "papers/chemistry/img/15E-Spectroscopy-37.jpg",
         "papers/chemistry/img/15E-Spectroscopy-38.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.7075,
+          0.9069
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.3789,
+              0.5679
+            ]
+          ]
+        ],
+        [
+          "Q22(d)",
+          [
+            [
+              3,
+              0.0674,
+              0.4245
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2626,6 +4687,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2137,
+          0.6952
+        ]
       ]
     },
     {
@@ -2662,6 +4730,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q24-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2934,
+          0.9402
+        ],
+        [
+          2,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.85,
+              0.8661
+            ],
+            [
+              1,
+              0.0513,
+              0.284
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2691,6 +4788,40 @@
         "papers/chemistry/img/15E-Spectroscopy-40.jpg",
         "papers/chemistry/img/15E-Spectroscopy-41.jpg",
         "papers/chemistry/img/15E-Spectroscopy-42.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2517,
+          0.2707
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.85,
+              0.8661
+            ],
+            [
+              1,
+              0.0513,
+              0.284
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              2,
+              0.1994,
+              0.2555
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2720,6 +4851,40 @@
         "papers/chemistry/img/15E-Spectroscopy-40.jpg",
         "papers/chemistry/img/15E-Spectroscopy-41.jpg",
         "papers/chemistry/img/15E-Spectroscopy-42.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5062,
+          0.5527
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.85,
+              0.8661
+            ],
+            [
+              1,
+              0.0513,
+              0.284
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              2,
+              0.1994,
+              0.2555
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2753,6 +4918,45 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q24.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.867,
+          0.9164
+        ],
+        [
+          3,
+          0.0513,
+          0.6733
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.85,
+              0.8661
+            ],
+            [
+              1,
+              0.0513,
+              0.284
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              2,
+              0.1994,
+              0.2555
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2784,6 +4988,45 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q24-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.679,
+          0.9383
+        ],
+        [
+          4,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.85,
+              0.8661
+            ],
+            [
+              1,
+              0.0513,
+              0.284
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              2,
+              0.1994,
+              0.2555
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2816,6 +5059,65 @@
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q24.jpg",
         "papers/chemistry/fig/15E-Spectroscopy-Q24-2.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.1918,
+          0.2108
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.85,
+              0.8661
+            ],
+            [
+              1,
+              0.0513,
+              0.284
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              2,
+              0.1994,
+              0.2555
+            ]
+          ]
+        ],
+        [
+          "Q24(b)(ii)",
+          [
+            [
+              2,
+              0.5062,
+              0.5527
+            ]
+          ]
+        ],
+        [
+          "Q24(b)(iv)",
+          [
+            [
+              3,
+              0.679,
+              0.9383
+            ],
+            [
+              4,
+              0.0608,
+              0.1861
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2844,6 +5146,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3922,
+          0.5926
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.6372,
+              0.6857
+            ],
+            [
+              1,
+              0.0513,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2871,6 +5197,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.604,
+          0.8158
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.6372,
+              0.6857
+            ],
+            [
+              1,
+              0.0513,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2895,6 +5245,25 @@
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-43.jpg",
         "papers/chemistry/img/15E-Spectroscopy-44.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1643,
+          0.2251
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              1,
+              0.075,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2926,6 +5295,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2384,
+          0.4872
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              1,
+              0.075,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2954,6 +5342,25 @@
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-43.jpg",
         "papers/chemistry/img/15E-Spectroscopy-44.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5641,
+          0.8452
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              1,
+              0.075,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2985,6 +5392,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1567,
+          0.567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.1054,
+              0.1225
+            ]
+          ]
+        ],
+        [
+          "Q27(a)",
+          [
+            [
+              0,
+              0.1339,
+              0.1529
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3016,6 +5452,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q27-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5783,
+          0.9364
+        ],
+        [
+          1,
+          0.0532,
+          0.1453
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.1054,
+              0.1225
+            ]
+          ]
+        ],
+        [
+          "Q27(a)",
+          [
+            [
+              0,
+              0.1339,
+              0.1529
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3044,6 +5514,25 @@
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-45.jpg",
         "papers/chemistry/img/15E-Spectroscopy-46.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1994,
+          0.2412
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.1054,
+              0.1225
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3072,6 +5561,13 @@
         "papers/chemistry/img/15E-Spectroscopy-48.jpg",
         "papers/chemistry/img/15E-Spectroscopy-49.jpg",
         "papers/chemistry/img/15E-Spectroscopy-50.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6182,
+          0.7274
+        ]
       ]
     },
     {
@@ -3100,6 +5596,25 @@
         "papers/chemistry/img/15E-Spectroscopy-48.jpg",
         "papers/chemistry/img/15E-Spectroscopy-49.jpg",
         "papers/chemistry/img/15E-Spectroscopy-50.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.0722
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8794,
+              0.9421
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3131,6 +5646,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6059,
+          0.7626
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8794,
+              0.9421
+            ]
+          ]
+        ],
+        [
+          "Q29(b)",
+          [
+            [
+              1,
+              0.2469,
+              0.603
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3162,6 +5706,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7683,
+          0.924
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8794,
+              0.9421
+            ]
+          ]
+        ],
+        [
+          "Q29(b)",
+          [
+            [
+              1,
+              0.2469,
+              0.603
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3196,6 +5769,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q29-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.9449
+        ],
+        [
+          3,
+          0.0608,
+          0.5375
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8794,
+              0.9421
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3225,6 +5822,35 @@
         "papers/chemistry/img/15E-Spectroscopy-48.jpg",
         "papers/chemistry/img/15E-Spectroscopy-49.jpg",
         "papers/chemistry/img/15E-Spectroscopy-50.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.5726,
+          0.5916
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8794,
+              0.9421
+            ]
+          ]
+        ],
+        [
+          "Q29(d)",
+          [
+            [
+              3,
+              0.5508,
+              0.5698
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3255,6 +5881,40 @@
         "papers/chemistry/img/15E-Spectroscopy-48.jpg",
         "papers/chemistry/img/15E-Spectroscopy-49.jpg",
         "papers/chemistry/img/15E-Spectroscopy-50.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.7531,
+          0.9383
+        ],
+        [
+          4,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8794,
+              0.9421
+            ]
+          ]
+        ],
+        [
+          "Q29(d)",
+          [
+            [
+              3,
+              0.5508,
+              0.5698
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3282,6 +5942,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4615,
+          0.5708
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.3238,
+              0.4283
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3311,6 +5990,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5888,
+          0.698
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.3238,
+              0.4283
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3338,6 +6036,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7151,
+          0.8224
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.3238,
+              0.4283
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3367,6 +6084,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2213,
+          0.2821
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.0902,
+              0.2089
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3396,6 +6132,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q31-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.434,
+          0.4682
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.0902,
+              0.2089
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              0,
+              0.2953,
+              0.4292
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3425,6 +6190,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q31-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4796,
+          0.7521
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.0902,
+              0.2089
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              0,
+              0.2953,
+              0.4292
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3450,6 +6244,25 @@
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-51.jpg",
         "papers/chemistry/img/15E-Spectroscopy-52.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7645,
+          0.8063
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.0902,
+              0.2089
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3479,6 +6292,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q31-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5271,
+          0.5584
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.0902,
+              0.2089
+            ]
+          ]
+        ],
+        [
+          "Q31(d)",
+          [
+            [
+              0,
+              0.8993,
+              0.9335
+            ],
+            [
+              1,
+              0.0513,
+              0.5242
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3509,6 +6356,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q31-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5726,
+          0.6258
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.0902,
+              0.2089
+            ]
+          ]
+        ],
+        [
+          "Q31(d)",
+          [
+            [
+              0,
+              0.8993,
+              0.9335
+            ],
+            [
+              1,
+              0.0513,
+              0.5242
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3538,6 +6419,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8386,
+          0.8575
+        ],
+        [
+          1,
+          0.0513,
+          0.6277
+        ]
       ]
     },
     {
@@ -3569,6 +6462,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q33-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8642,
+          0.9269
+        ],
+        [
+          1,
+          0.0532,
+          0.1301
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.7635,
+              0.8538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3601,6 +6518,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q33-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1406,
+          0.358
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.7635,
+              0.8538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3632,6 +6568,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q33-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3675,
+          0.5736
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.7635,
+              0.8538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3660,6 +6615,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q33-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5869,
+          0.6477
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.7635,
+              0.8538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3689,6 +6663,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q33-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6534,
+          0.6876
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.7635,
+              0.8538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3720,6 +6713,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q33-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9079,
+          0.9269
+        ],
+        [
+          2,
+          0.0513,
+          0.1652
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.7635,
+              0.8538
+            ]
+          ]
+        ],
+        [
+          "Q33(d)",
+          [
+            [
+              1,
+              0.8557,
+              0.9117
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3752,6 +6779,35 @@
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q33.jpg",
         "papers/chemistry/fig/15E-Spectroscopy-Q33-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.169,
+          0.3846
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.7635,
+              0.8538
+            ]
+          ]
+        ],
+        [
+          "Q33(d)",
+          [
+            [
+              1,
+              0.8557,
+              0.9117
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3780,6 +6836,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5983,
+          0.9373
+        ]
       ]
     },
     {
@@ -3808,6 +6871,13 @@
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-56.jpg",
         "papers/chemistry/img/15E-Spectroscopy-57.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2517,
+          0.3447
+        ]
       ]
     },
     {
@@ -3836,6 +6906,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.755,
+          0.8613
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.5651,
+              0.7455
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3864,6 +6953,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q36-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8822,
+          0.9012
+        ],
+        [
+          1,
+          0.0513,
+          0.471
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.5651,
+              0.7455
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3894,6 +7007,25 @@
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q36-3.jpg",
         "papers/chemistry/fig/15E-Spectroscopy-Q36-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4739,
+          0.8215
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.5651,
+              0.7455
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3926,6 +7058,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5869,
+          0.6182
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              1,
+              0.0617,
+              0.5679
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3956,6 +7107,30 @@
         "papers/chemistry/img/15E-Spectroscopy-61.jpg",
         "papers/chemistry/img/15E-Spectroscopy-62.jpg",
         "papers/chemistry/img/15E-Spectroscopy-63.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8718,
+          0.925
+        ],
+        [
+          2,
+          0.1206,
+          0.1586
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              1,
+              0.0617,
+              0.5679
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3990,6 +7165,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q37-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1937,
+          0.3124
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              1,
+              0.0617,
+              0.5679
+            ]
+          ]
+        ],
+        [
+          "Q37(c)",
+          [
+            [
+              2,
+              0.1709,
+              0.1899
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4018,6 +7222,35 @@
         "papers/chemistry/img/15E-Spectroscopy-61.jpg",
         "papers/chemistry/img/15E-Spectroscopy-62.jpg",
         "papers/chemistry/img/15E-Spectroscopy-63.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3153,
+          0.3979
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              1,
+              0.0617,
+              0.5679
+            ]
+          ]
+        ],
+        [
+          "Q37(c)",
+          [
+            [
+              2,
+              0.1709,
+              0.1899
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4051,6 +7284,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q37-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4482,
+          0.4672
+        ],
+        [
+          3,
+          0.0513,
+          0.8851
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              1,
+              0.0617,
+              0.5679
+            ]
+          ]
+        ],
+        [
+          "Q37(d)",
+          [
+            [
+              2,
+              0.4103,
+              0.4425
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4083,6 +7350,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q37-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.8908,
+          0.9449
+        ],
+        [
+          4,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              1,
+              0.0617,
+              0.5679
+            ]
+          ]
+        ],
+        [
+          "Q37(d)",
+          [
+            [
+              2,
+              0.4103,
+              0.4425
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4118,6 +7419,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q37-2.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.075,
+          0.3058
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              1,
+              0.0617,
+              0.5679
+            ]
+          ]
+        ],
+        [
+          "Q37(d)",
+          [
+            [
+              2,
+              0.4103,
+              0.4425
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4148,6 +7478,35 @@
         "papers/chemistry/img/15E-Spectroscopy-61.jpg",
         "papers/chemistry/img/15E-Spectroscopy-62.jpg",
         "papers/chemistry/img/15E-Spectroscopy-63.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.3561,
+          0.528
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              1,
+              0.0617,
+              0.5679
+            ]
+          ]
+        ],
+        [
+          "Q37(e)",
+          [
+            [
+              4,
+              0.3191,
+              0.3533
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4178,6 +7537,35 @@
         "papers/chemistry/img/15E-Spectroscopy-61.jpg",
         "papers/chemistry/img/15E-Spectroscopy-62.jpg",
         "papers/chemistry/img/15E-Spectroscopy-63.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.5337,
+          0.5831
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              1,
+              0.0617,
+              0.5679
+            ]
+          ]
+        ],
+        [
+          "Q37(e)",
+          [
+            [
+              4,
+              0.3191,
+              0.3533
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4208,6 +7596,25 @@
         "papers/chemistry/img/15E-Spectroscopy-61.jpg",
         "papers/chemistry/img/15E-Spectroscopy-62.jpg",
         "papers/chemistry/img/15E-Spectroscopy-63.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.8272,
+          0.8462
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              1,
+              0.0617,
+              0.5679
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4238,6 +7645,13 @@
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-63.jpg",
         "papers/chemistry/img/15E-Spectroscopy-64.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3514,
+          0.6049
+        ]
       ]
     },
     {
@@ -4263,6 +7677,18 @@
       "images": [
         "papers/chemistry/img/15E-Spectroscopy-63.jpg",
         "papers/chemistry/img/15E-Spectroscopy-64.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.831,
+          0.9373
+        ],
+        [
+          1,
+          0.0532,
+          0.1472
+        ]
       ]
     },
     {
@@ -4294,6 +7720,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3428,
+          0.9402
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.2991,
+              0.3305
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4323,6 +7773,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q40-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1339,
+          0.6828
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.2991,
+              0.3305
+            ]
+          ]
+        ],
+        [
+          "Q40(b)",
+          [
+            [
+              1,
+              0.1111,
+              0.1301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4354,6 +7833,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q40-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6885,
+          0.7797
+        ],
+        [
+          2,
+          0.1026,
+          0.4995
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.2991,
+              0.3305
+            ]
+          ]
+        ],
+        [
+          "Q40(b)",
+          [
+            [
+              1,
+              0.1111,
+              0.1301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4381,6 +7894,35 @@
         "papers/chemistry/img/15E-Spectroscopy-64.jpg",
         "papers/chemistry/img/15E-Spectroscopy-65.jpg",
         "papers/chemistry/img/15E-Spectroscopy-66.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5147,
+          0.5461
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.2991,
+              0.3305
+            ]
+          ]
+        ],
+        [
+          "Q40(b)",
+          [
+            [
+              1,
+              0.1111,
+              0.1301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4409,6 +7951,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/15E-Spectroscopy-Q41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9003,
+          0.9193
+        ],
+        [
+          1,
+          0.0551,
+          0.4587
+        ]
       ]
     }
   ]

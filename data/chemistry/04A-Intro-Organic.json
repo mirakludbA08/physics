@@ -32,6 +32,13 @@
       "images": [
         "papers/chemistry/img/04A-Intro-Organic-01.jpg",
         "papers/chemistry/img/04A-Intro-Organic-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1225,
+          0.2669
+        ]
       ]
     },
     {
@@ -62,6 +69,13 @@
       "images": [
         "papers/chemistry/img/04A-Intro-Organic-01.jpg",
         "papers/chemistry/img/04A-Intro-Organic-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4748,
+          0.5954
+        ]
       ]
     },
     {
@@ -94,6 +108,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/04A-Intro-Organic-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7996,
+          0.9449
+        ],
+        [
+          1,
+          0.0513,
+          0.1064
+        ]
       ]
     },
     {
@@ -128,6 +154,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/04A-Intro-Organic-Q4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4482,
+          0.5556
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.3086,
+              0.4387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -162,6 +207,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/04A-Intro-Organic-Q4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5755,
+          0.6819
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.3086,
+              0.4387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -194,6 +258,35 @@
         "papers/chemistry/img/04A-Intro-Organic-03.jpg",
         "papers/chemistry/img/04A-Intro-Organic-04.jpg",
         "papers/chemistry/img/04A-Intro-Organic-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9031,
+          0.9373
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.8367,
+              0.8557
+            ]
+          ]
+        ],
+        [
+          "Q5(a)",
+          [
+            [
+              0,
+              0.8661,
+              0.9003
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -225,6 +318,35 @@
         "papers/chemistry/img/04A-Intro-Organic-03.jpg",
         "papers/chemistry/img/04A-Intro-Organic-04.jpg",
         "papers/chemistry/img/04A-Intro-Organic-05.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2184,
+          0.2716
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.8367,
+              0.8557
+            ]
+          ]
+        ],
+        [
+          "Q5(a)",
+          [
+            [
+              0,
+              0.8661,
+              0.9003
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -258,6 +380,25 @@
         "papers/chemistry/img/04A-Intro-Organic-03.jpg",
         "papers/chemistry/img/04A-Intro-Organic-04.jpg",
         "papers/chemistry/img/04A-Intro-Organic-05.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.284,
+          0.397
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.8367,
+              0.8557
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -290,6 +431,25 @@
         "papers/chemistry/img/04A-Intro-Organic-03.jpg",
         "papers/chemistry/img/04A-Intro-Organic-04.jpg",
         "papers/chemistry/img/04A-Intro-Organic-05.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7246,
+          0.7664
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.8367,
+              0.8557
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -321,6 +481,25 @@
         "papers/chemistry/img/04A-Intro-Organic-03.jpg",
         "papers/chemistry/img/04A-Intro-Organic-04.jpg",
         "papers/chemistry/img/04A-Intro-Organic-05.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.113,
+          0.3124
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.8367,
+              0.8557
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -357,6 +536,35 @@
       "figures": [
         "papers/chemistry/fig/04A-Intro-Organic-Q5.jpg",
         "papers/chemistry/fig/04A-Intro-Organic-Q5-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4891,
+          0.8984
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.8367,
+              0.8557
+            ]
+          ]
+        ],
+        [
+          "Q5(d)",
+          [
+            [
+              2,
+              0.3257,
+              0.4862
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -388,6 +596,40 @@
         "papers/chemistry/img/04A-Intro-Organic-03.jpg",
         "papers/chemistry/img/04A-Intro-Organic-04.jpg",
         "papers/chemistry/img/04A-Intro-Organic-05.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.9012,
+          0.9202
+        ],
+        [
+          3,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.8367,
+              0.8557
+            ]
+          ]
+        ],
+        [
+          "Q5(d)",
+          [
+            [
+              2,
+              0.3257,
+              0.4862
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -420,6 +662,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/04A-Intro-Organic-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3818,
+          0.6515
+        ]
       ]
     },
     {
@@ -450,6 +699,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/04A-Intro-Organic-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8594,
+          0.8784
+        ],
+        [
+          1,
+          0.0532,
+          0.3105
+        ]
       ]
     },
     {
@@ -479,6 +740,13 @@
       "images": [
         "papers/chemistry/img/04A-Intro-Organic-06.jpg",
         "papers/chemistry/img/04A-Intro-Organic-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5185,
+          0.6505
+        ]
       ]
     },
     {
@@ -511,6 +779,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/04A-Intro-Organic-Q9.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.2688
+        ]
       ]
     },
     {
@@ -543,6 +818,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/04A-Intro-Organic-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4691,
+          0.4881
+        ],
+        [
+          1,
+          0.0513,
+          0.5404
+        ]
       ]
     },
     {
@@ -573,6 +860,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/04A-Intro-Organic-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7607,
+          0.792
+        ],
+        [
+          1,
+          0.0522,
+          0.3514
+        ]
       ]
     },
     {
@@ -605,6 +904,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/04A-Intro-Organic-Q12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5556,
+          0.6021
+        ],
+        [
+          1,
+          0.0522,
+          0.7341
+        ]
       ]
     },
     {
@@ -637,6 +948,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/04A-Intro-Organic-Q13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.0902,
+          0.3485
+        ]
       ]
     },
     {
@@ -669,6 +987,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/04A-Intro-Organic-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5518,
+          0.7825
+        ]
       ]
     },
     {
@@ -699,6 +1024,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/04A-Intro-Organic-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.5594
+        ]
       ]
     },
     {
@@ -731,6 +1063,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/04A-Intro-Organic-Q16a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7616,
+          0.8917
+        ],
+        [
+          1,
+          0.056,
+          0.5546
+        ]
       ]
     },
     {
@@ -760,6 +1104,13 @@
       "images": [
         "papers/chemistry/img/04A-Intro-Organic-12.jpg",
         "papers/chemistry/img/04A-Intro-Organic-13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5603,
+          0.7293
+        ]
       ]
     }
   ]

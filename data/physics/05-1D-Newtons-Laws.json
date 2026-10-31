@@ -35,6 +35,13 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1719,
+          0.3105
+        ]
       ]
     },
     {
@@ -68,6 +75,13 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4625,
+          0.6353
+        ]
       ]
     },
     {
@@ -102,6 +116,18 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7949,
+          0.8575
+        ],
+        [
+          1,
+          0.0532,
+          0.6439
+        ]
       ]
     },
     {
@@ -134,6 +160,30 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.452,
+          0.6591
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7911,
+              0.8224
+            ],
+            [
+              1,
+              0.0513,
+              0.4425
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -165,6 +215,30 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6724,
+          0.8357
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7911,
+              0.8224
+            ],
+            [
+              1,
+              0.0513,
+              0.4425
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -199,6 +273,13 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1396,
+          0.2745
+        ]
       ]
     },
     {
@@ -232,6 +313,30 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3504,
+          0.4986
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4292,
+              0.7806
+            ],
+            [
+              1,
+              0.0522,
+              0.3172
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -267,6 +372,30 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5043,
+          0.7369
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4292,
+              0.7806
+            ],
+            [
+              1,
+              0.0522,
+              0.3172
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -301,6 +430,35 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7474,
+          0.7816
+        ],
+        [
+          2,
+          0.0513,
+          0.6315
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4292,
+              0.7806
+            ],
+            [
+              1,
+              0.0522,
+              0.3172
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -334,6 +492,30 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2564,
+          0.4198
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.7778,
+              0.812
+            ],
+            [
+              1,
+              0.0513,
+              0.246
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -369,6 +551,30 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.433,
+          0.83
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.7778,
+              0.812
+            ],
+            [
+              1,
+              0.0513,
+              0.246
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -399,6 +605,35 @@
         "papers/physics/img/05-1D-Newtons-Laws-06.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-07.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8433,
+          0.9335
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.7778,
+              0.812
+            ],
+            [
+              1,
+              0.0513,
+              0.246
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -432,6 +667,18 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3039,
+          0.9259
+        ],
+        [
+          1,
+          0.0608,
+          0.1567
+        ]
       ]
     },
     {
@@ -461,6 +708,25 @@
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-09.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5603,
+          0.8281
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.3039,
+              0.5518
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -489,6 +755,25 @@
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-09.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8405,
+          0.9307
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.3039,
+              0.5518
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -522,6 +807,13 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2355,
+          0.5992
+        ]
       ]
     },
     {
@@ -557,6 +849,30 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2754,
+          0.6144
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.7512,
+              0.8148
+            ],
+            [
+              1,
+              0.0513,
+              0.2659
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -587,6 +903,30 @@
         "papers/physics/img/05-1D-Newtons-Laws-10.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-11.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6277,
+          0.9402
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.7512,
+              0.8148
+            ],
+            [
+              1,
+              0.0513,
+              0.2659
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -620,6 +960,18 @@
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q12.jpg",
         "papers/physics/fig/05-1D-Newtons-Laws-Q12-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2355,
+          0.509
+        ],
+        [
+          1,
+          0.0522,
+          0.566
+        ]
       ]
     },
     {
@@ -653,6 +1005,18 @@
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q13.jpg",
         "papers/physics/fig/05-1D-Newtons-Laws-Q13-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7702,
+          0.8167
+        ],
+        [
+          1,
+          0.0513,
+          0.6277
+        ]
       ]
     },
     {
@@ -687,6 +1051,18 @@
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q14.jpg",
         "papers/physics/fig/05-1D-Newtons-Laws-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8291,
+          0.8481
+        ],
+        [
+          1,
+          0.0513,
+          0.8832
+        ]
       ]
     },
     {
@@ -720,6 +1096,13 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1643,
+          0.886
+        ]
       ]
     },
     {
@@ -752,6 +1135,13 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1909,
+          0.6163
+        ]
       ]
     },
     {
@@ -784,6 +1174,13 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8205,
+          0.943
+        ]
       ]
     },
     {
@@ -812,6 +1209,13 @@
       ],
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2507,
+          0.3742
+        ]
       ]
     },
     {
@@ -842,6 +1246,13 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5261,
+          0.699
+        ]
       ]
     },
     {
@@ -873,6 +1284,13 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9069,
+          0.9392
+        ]
       ]
     },
     {
@@ -905,6 +1323,13 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3827,
+          0.7521
+        ]
       ]
     },
     {
@@ -937,6 +1362,13 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2963
+        ]
       ]
     },
     {
@@ -971,6 +1403,30 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q23a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7626,
+          0.9411
+        ],
+        [
+          1,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.4416,
+              0.7531
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1004,6 +1460,40 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q23b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3162,
+          0.8879
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.4416,
+              0.7531
+            ]
+          ]
+        ],
+        [
+          "Q23(a)",
+          [
+            [
+              0,
+              0.7626,
+              0.9411
+            ],
+            [
+              1,
+              0.0608,
+              0.3029
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1037,6 +1527,25 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6496,
+          0.8604
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.1425,
+              0.6401
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1070,6 +1579,30 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q24b.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8727,
+          0.9193
+        ],
+        [
+          1,
+          0.0522,
+          0.754
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.1425,
+              0.6401
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1104,6 +1637,30 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q25a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1985,
+          0.7094
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.9012,
+              0.9316
+            ],
+            [
+              1,
+              0.0693,
+              0.1861
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1136,6 +1693,40 @@
         "papers/physics/img/05-1D-Newtons-Laws-24.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-25.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-26.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0902,
+          0.2896
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.9012,
+              0.9316
+            ],
+            [
+              1,
+              0.0693,
+              0.1861
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              2,
+              0.0674,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1168,6 +1759,40 @@
         "papers/physics/img/05-1D-Newtons-Laws-24.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-25.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-26.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2953,
+          0.5537
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.9012,
+              0.9316
+            ],
+            [
+              1,
+              0.0693,
+              0.1861
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              2,
+              0.0674,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1198,6 +1823,40 @@
         "papers/physics/img/05-1D-Newtons-Laws-24.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-25.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-26.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5594,
+          0.774
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.9012,
+              0.9316
+            ],
+            [
+              1,
+              0.0693,
+              0.1861
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              2,
+              0.0674,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1229,6 +1888,40 @@
         "papers/physics/img/05-1D-Newtons-Laws-24.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-25.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-26.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.0532,
+          0.1358
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.9012,
+              0.9316
+            ],
+            [
+              1,
+              0.0693,
+              0.1861
+            ]
+          ]
+        ],
+        [
+          "Q25(c)",
+          [
+            [
+              2,
+              0.7873,
+              0.9487
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1261,6 +1954,40 @@
         "papers/physics/img/05-1D-Newtons-Laws-24.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-25.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-26.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1415,
+          0.5185
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.9012,
+              0.9316
+            ],
+            [
+              1,
+              0.0693,
+              0.1861
+            ]
+          ]
+        ],
+        [
+          "Q25(c)",
+          [
+            [
+              2,
+              0.7873,
+              0.9487
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1293,6 +2020,18 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7142,
+          0.7626
+        ],
+        [
+          1,
+          0.0513,
+          0.4084
+        ]
       ]
     },
     {
@@ -1324,6 +2063,30 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7635,
+          0.7825
+        ],
+        [
+          1,
+          0.0703,
+          0.0864
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.5708,
+              0.754
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1356,6 +2119,35 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2688,
+          0.4103
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.5708,
+              0.754
+            ]
+          ]
+        ],
+        [
+          "Q27(b)",
+          [
+            [
+              1,
+              0.2469,
+              0.2659
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1388,6 +2180,35 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4169,
+          0.5897
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.5708,
+              0.754
+            ]
+          ]
+        ],
+        [
+          "Q27(b)",
+          [
+            [
+              1,
+              0.2469,
+              0.2659
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1420,6 +2241,35 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5926,
+          0.7635
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.5708,
+              0.754
+            ]
+          ]
+        ],
+        [
+          "Q27(b)",
+          [
+            [
+              1,
+              0.2469,
+              0.2659
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1451,6 +2301,18 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9098,
+          0.9411
+        ],
+        [
+          1,
+          0.0513,
+          0.377
+        ]
       ]
     },
     {
@@ -1484,6 +2346,30 @@
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q29.jpg",
         "papers/physics/fig/05-1D-Newtons-Laws-Q29-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7502,
+          0.9354
+        ],
+        [
+          1,
+          0.0826,
+          0.1785
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.5318,
+              0.7398
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1516,6 +2402,25 @@
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q29.jpg",
         "papers/physics/fig/05-1D-Newtons-Laws-Q29-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1918,
+          0.3922
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.5318,
+              0.7398
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1549,6 +2454,30 @@
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q30.jpg",
         "papers/physics/fig/05-1D-Newtons-Laws-Q30-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8063,
+          0.8253
+        ],
+        [
+          1,
+          0.0551,
+          0.284
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.5812,
+              0.793
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1580,6 +2509,25 @@
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-30.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4463,
+          0.8148
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.5812,
+              0.793
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1609,6 +2557,13 @@
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-31.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.075,
+          0.2194
+        ]
       ]
     },
     {
@@ -1638,6 +2593,13 @@
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-32.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4274,
+          0.5214
+        ]
       ]
     },
     {
@@ -1669,6 +2631,13 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7217,
+          0.9155
+        ]
       ]
     },
     {
@@ -1701,6 +2670,13 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1643,
+          0.9487
+        ]
       ]
     },
     {
@@ -1734,6 +2710,25 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4682,
+          0.5214
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.1861,
+              0.4587
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1767,6 +2762,40 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q35-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2412,
+          0.4416
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.1861,
+              0.4587
+            ]
+          ]
+        ],
+        [
+          "Q35(b)",
+          [
+            [
+              0,
+              0.7246,
+              0.7559
+            ],
+            [
+              1,
+              0.0513,
+              0.2384
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1801,6 +2830,40 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q35-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4473,
+          0.7711
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.1861,
+              0.4587
+            ]
+          ]
+        ],
+        [
+          "Q35(b)",
+          [
+            [
+              0,
+              0.7246,
+              0.7559
+            ],
+            [
+              1,
+              0.0513,
+              0.2384
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1833,6 +2896,30 @@
         "papers/physics/img/05-1D-Newtons-Laws-34.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-35.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7844,
+          0.9183
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.1861,
+              0.4587
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1865,6 +2952,13 @@
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q36.jpg",
         "papers/physics/fig/05-1D-Newtons-Laws-Q36-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3523,
+          0.7407
+        ]
       ]
     },
     {
@@ -1897,6 +2991,13 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2184
+        ]
       ]
     },
     {
@@ -1929,6 +3030,13 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4245,
+          0.7977
+        ]
       ]
     },
     {
@@ -1960,6 +3068,13 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1187,
+          0.4843
+        ]
       ]
     },
     {
@@ -1993,6 +3108,18 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6363,
+          0.6961
+        ],
+        [
+          1,
+          0.0513,
+          0.5632
+        ]
       ]
     },
     {
@@ -2025,6 +3152,18 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7588,
+          0.8072
+        ],
+        [
+          1,
+          0.0646,
+          0.2241
+        ]
       ]
     },
     {
@@ -2053,6 +3192,13 @@
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-40.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3761,
+          0.6154
+        ]
       ]
     },
     {
@@ -2081,6 +3227,18 @@
       "images": [
         "papers/physics/img/05-1D-Newtons-Laws-40.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7588,
+          0.9212
+        ],
+        [
+          1,
+          0.0608,
+          0.1301
+        ]
       ]
     },
     {
@@ -2112,6 +3270,13 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3409,
+          0.812
+        ]
       ]
     },
     {
@@ -2143,6 +3308,13 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q45.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1415,
+          0.5983
+        ]
       ]
     },
     {
@@ -2175,6 +3347,18 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8044,
+          0.8357
+        ],
+        [
+          1,
+          0.0617,
+          0.301
+        ]
       ]
     },
     {
@@ -2207,6 +3391,13 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5214,
+          0.6448
+        ]
       ]
     },
     {
@@ -2240,6 +3431,18 @@
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q48.jpg",
         "papers/physics/fig/05-1D-Newtons-Laws-Q48-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8632,
+          0.8822
+        ],
+        [
+          1,
+          0.0579,
+          0.585
+        ]
       ]
     },
     {
@@ -2273,6 +3476,30 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q49.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2678,
+          0.4891
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.7246,
+              0.8025
+            ],
+            [
+              1,
+              0.0513,
+              0.2574
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2306,6 +3533,30 @@
       ],
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q49.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6458,
+          0.9212
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.7246,
+              0.8025
+            ],
+            [
+              1,
+              0.0513,
+              0.2574
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2337,6 +3588,30 @@
         "papers/physics/img/05-1D-Newtons-Laws-44.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-45.jpg",
         "papers/physics/img/05-1D-Newtons-Laws-46.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.3932
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.7246,
+              0.8025
+            ],
+            [
+              1,
+              0.0513,
+              0.2574
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2369,6 +3644,18 @@
       "figures": [
         "papers/physics/fig/05-1D-Newtons-Laws-Q50.jpg",
         "papers/physics/fig/05-1D-Newtons-Laws-Q50-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5888,
+          0.8215
+        ],
+        [
+          1,
+          0.0513,
+          0.2308
+        ]
       ]
     }
   ]

@@ -32,6 +32,35 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6258,
+          0.8101
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1795,
+              0.2127
+            ]
+          ]
+        ],
+        [
+          "Q1(a)",
+          [
+            [
+              0,
+              0.2289,
+              0.6144
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -61,6 +90,40 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8243,
+          0.9421
+        ],
+        [
+          1,
+          0.0636,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1795,
+              0.2127
+            ]
+          ]
+        ],
+        [
+          "Q1(a)",
+          [
+            [
+              0,
+              0.2289,
+              0.6144
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -89,6 +152,35 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q1.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0978,
+          0.2811
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1795,
+              0.2127
+            ]
+          ]
+        ],
+        [
+          "Q1(a)",
+          [
+            [
+              0,
+              0.2289,
+              0.6144
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -118,6 +210,25 @@
         "papers/biology/img/07C-Internal-Environment-01.jpg",
         "papers/biology/img/07C-Internal-Environment-02.jpg",
         "papers/biology/img/07C-Internal-Environment-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2963,
+          0.5745
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1795,
+              0.2127
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -150,6 +261,30 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q1-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5897,
+          0.9468
+        ],
+        [
+          2,
+          0.0741,
+          0.2783
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1795,
+              0.2127
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -177,6 +312,35 @@
         "papers/biology/img/07C-Internal-Environment-03.jpg",
         "papers/biology/img/07C-Internal-Environment-04.jpg",
         "papers/biology/img/07C-Internal-Environment-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6372,
+          0.8386
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5556,
+              0.5755
+            ]
+          ]
+        ],
+        [
+          "Q2(a)",
+          [
+            [
+              0,
+              0.5878,
+              0.6249
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -207,6 +371,40 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8519,
+          0.9022
+        ],
+        [
+          1,
+          0.0608,
+          0.1377
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5556,
+              0.5755
+            ]
+          ]
+        ],
+        [
+          "Q2(a)",
+          [
+            [
+              0,
+              0.5878,
+              0.6249
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -239,6 +437,35 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q2-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6116,
+          0.9383
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5556,
+              0.5755
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.1491,
+              0.5964
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -271,6 +498,35 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q2-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0655,
+          0.4255
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5556,
+              0.5755
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.1491,
+              0.5964
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -303,6 +559,35 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q2-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4406,
+          0.8006
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5556,
+              0.5755
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.1491,
+              0.5964
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -420,6 +705,25 @@
         "papers/biology/img/07C-Internal-Environment-08.jpg",
         "papers/biology/img/07C-Internal-Environment-09.jpg",
         "papers/biology/img/07C-Internal-Environment-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0655,
+          0.3599
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              1,
+              0.0446,
+              0.0522
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -448,6 +752,25 @@
         "papers/biology/img/07C-Internal-Environment-08.jpg",
         "papers/biology/img/07C-Internal-Environment-09.jpg",
         "papers/biology/img/07C-Internal-Environment-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3751,
+          0.5764
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              1,
+              0.0446,
+              0.0522
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -478,6 +801,40 @@
         "papers/biology/img/07C-Internal-Environment-08.jpg",
         "papers/biology/img/07C-Internal-Environment-09.jpg",
         "papers/biology/img/07C-Internal-Environment-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6714,
+          0.9497
+        ],
+        [
+          2,
+          0.0741,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              1,
+              0.0446,
+              0.0522
+            ]
+          ]
+        ],
+        [
+          "Q4(c)",
+          [
+            [
+              1,
+              0.5897,
+              0.6562
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -507,6 +864,35 @@
         "papers/biology/img/07C-Internal-Environment-08.jpg",
         "papers/biology/img/07C-Internal-Environment-09.jpg",
         "papers/biology/img/07C-Internal-Environment-10.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0978,
+          0.246
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              1,
+              0.0446,
+              0.0522
+            ]
+          ]
+        ],
+        [
+          "Q4(c)",
+          [
+            [
+              1,
+              0.5897,
+              0.6562
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -541,6 +927,35 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6448,
+          0.9554
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              1,
+              0.0446,
+              0.0522
+            ]
+          ]
+        ],
+        [
+          "Q4(d)",
+          [
+            [
+              2,
+              0.2612,
+              0.6239
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -573,6 +988,35 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q4.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.0655,
+          0.1643
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              1,
+              0.0446,
+              0.0522
+            ]
+          ]
+        ],
+        [
+          "Q4(d)",
+          [
+            [
+              2,
+              0.2612,
+              0.6239
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -600,6 +1044,25 @@
         "papers/biology/img/07C-Internal-Environment-10.jpg",
         "papers/biology/img/07C-Internal-Environment-11.jpg",
         "papers/biology/img/07C-Internal-Environment-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5071,
+          0.6914
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.4416,
+              0.4938
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -626,6 +1089,25 @@
         "papers/biology/img/07C-Internal-Environment-10.jpg",
         "papers/biology/img/07C-Internal-Environment-11.jpg",
         "papers/biology/img/07C-Internal-Environment-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7056,
+          0.905
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.4416,
+              0.4938
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -653,6 +1135,30 @@
         "papers/biology/img/07C-Internal-Environment-10.jpg",
         "papers/biology/img/07C-Internal-Environment-11.jpg",
         "papers/biology/img/07C-Internal-Environment-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9202,
+          0.9402
+        ],
+        [
+          1,
+          0.0741,
+          0.3105
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.4416,
+              0.4938
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -683,6 +1189,25 @@
         "papers/biology/img/07C-Internal-Environment-10.jpg",
         "papers/biology/img/07C-Internal-Environment-11.jpg",
         "papers/biology/img/07C-Internal-Environment-12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3267,
+          0.6695
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.4416,
+              0.4938
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -712,6 +1237,30 @@
         "papers/biology/img/07C-Internal-Environment-10.jpg",
         "papers/biology/img/07C-Internal-Environment-11.jpg",
         "papers/biology/img/07C-Internal-Environment-12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6857,
+          0.9307
+        ],
+        [
+          2,
+          0.0741,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.4416,
+              0.4938
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -741,6 +1290,25 @@
         "papers/biology/img/07C-Internal-Environment-10.jpg",
         "papers/biology/img/07C-Internal-Environment-11.jpg",
         "papers/biology/img/07C-Internal-Environment-12.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1633,
+          0.6866
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.4416,
+              0.4938
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -771,6 +1339,40 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.114,
+          0.585
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8974,
+              0.9592
+            ],
+            [
+              1,
+              0.0446,
+              0.0655
+            ]
+          ]
+        ],
+        [
+          "Q6(a)",
+          [
+            [
+              1,
+              0.0817,
+              0.1016
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -800,6 +1402,40 @@
         "papers/biology/img/07C-Internal-Environment-13.jpg",
         "papers/biology/img/07C-Internal-Environment-14.jpg",
         "papers/biology/img/07C-Internal-Environment-15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6287,
+          0.812
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8974,
+              0.9592
+            ],
+            [
+              1,
+              0.0446,
+              0.0655
+            ]
+          ]
+        ],
+        [
+          "Q6(a)",
+          [
+            [
+              1,
+              0.0817,
+              0.1016
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -831,6 +1467,45 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8272,
+          0.8927
+        ],
+        [
+          2,
+          0.0446,
+          0.1766
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8974,
+              0.9592
+            ],
+            [
+              1,
+              0.0446,
+              0.0655
+            ]
+          ]
+        ],
+        [
+          "Q6(a)",
+          [
+            [
+              1,
+              0.0817,
+              0.1016
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -861,6 +1536,30 @@
         "papers/biology/img/07C-Internal-Environment-13.jpg",
         "papers/biology/img/07C-Internal-Environment-14.jpg",
         "papers/biology/img/07C-Internal-Environment-15.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1947,
+          0.6515
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8974,
+              0.9592
+            ],
+            [
+              1,
+              0.0446,
+              0.0655
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -892,6 +1591,35 @@
         "papers/biology/img/07C-Internal-Environment-13.jpg",
         "papers/biology/img/07C-Internal-Environment-14.jpg",
         "papers/biology/img/07C-Internal-Environment-15.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6667,
+          0.9449
+        ],
+        [
+          3,
+          0.0741,
+          0.1804
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8974,
+              0.9592
+            ],
+            [
+              1,
+              0.0446,
+              0.0655
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -923,6 +1651,30 @@
         "papers/biology/img/07C-Internal-Environment-16.jpg",
         "papers/biology/img/07C-Internal-Environment-17.jpg",
         "papers/biology/img/07C-Internal-Environment-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7778,
+          0.9259
+        ],
+        [
+          1,
+          0.0646,
+          0.1833
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.4577,
+              0.7654
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -955,6 +1707,35 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4596,
+          0.5745
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.4577,
+              0.7654
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              1,
+              0.1985,
+              0.4482
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -986,6 +1767,35 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5897,
+          0.8519
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.4577,
+              0.7654
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              1,
+              0.1985,
+              0.4482
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1019,6 +1829,30 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q7-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.868,
+          0.9525
+        ],
+        [
+          2,
+          0.0446,
+          0.8015
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.4577,
+              0.7654
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1047,6 +1881,30 @@
         "papers/biology/img/07C-Internal-Environment-16.jpg",
         "papers/biology/img/07C-Internal-Environment-17.jpg",
         "papers/biology/img/07C-Internal-Environment-18.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8177,
+          0.9487
+        ],
+        [
+          3,
+          0.0741,
+          0.1804
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.4577,
+              0.7654
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1077,6 +1935,35 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7303,
+          0.7673
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.4577,
+              0.4777
+            ]
+          ]
+        ],
+        [
+          "Q8(a)",
+          [
+            [
+              0,
+              0.49,
+              0.7189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1103,6 +1990,35 @@
       "images": [
         "papers/biology/img/07C-Internal-Environment-18.jpg",
         "papers/biology/img/07C-Internal-Environment-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.812,
+          0.9592
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.4577,
+              0.4777
+            ]
+          ]
+        ],
+        [
+          "Q8(a)",
+          [
+            [
+              0,
+              0.49,
+              0.7189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1131,6 +2047,35 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q8-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0655,
+          0.2877
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.4577,
+              0.4777
+            ]
+          ]
+        ],
+        [
+          "Q8(a)",
+          [
+            [
+              0,
+              0.49,
+              0.7189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1157,6 +2102,25 @@
       "images": [
         "papers/biology/img/07C-Internal-Environment-18.jpg",
         "papers/biology/img/07C-Internal-Environment-19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3058,
+          0.6486
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.4577,
+              0.4777
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1183,6 +2147,25 @@
       "images": [
         "papers/biology/img/07C-Internal-Environment-18.jpg",
         "papers/biology/img/07C-Internal-Environment-19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6648,
+          0.8822
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.4577,
+              0.4777
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1212,6 +2195,25 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2631,
+          0.5565
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.2289,
+              0.2488
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1242,6 +2244,30 @@
         "papers/biology/img/07C-Internal-Environment-20.jpg",
         "papers/biology/img/07C-Internal-Environment-21.jpg",
         "papers/biology/img/07C-Internal-Environment-22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5755,
+          0.9516
+        ],
+        [
+          1,
+          0.0741,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.2289,
+              0.2488
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1271,6 +2297,35 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3903,
+          0.6524
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.2289,
+              0.2488
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.0978,
+              0.3685
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1301,6 +2356,35 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6676,
+          0.9136
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.2289,
+              0.2488
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.0978,
+              0.3685
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1332,6 +2416,40 @@
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q9-2.jpg",
         "papers/biology/fig/07C-Internal-Environment-Q9-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9288,
+          0.9592
+        ],
+        [
+          2,
+          0.0446,
+          0.1994
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.2289,
+              0.2488
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.0978,
+              0.3685
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1360,6 +2478,25 @@
         "papers/biology/img/07C-Internal-Environment-20.jpg",
         "papers/biology/img/07C-Internal-Environment-21.jpg",
         "papers/biology/img/07C-Internal-Environment-22.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2146,
+          0.5907
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.2289,
+              0.2488
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1387,6 +2524,30 @@
         "papers/biology/img/07C-Internal-Environment-23.jpg",
         "papers/biology/img/07C-Internal-Environment-24.jpg",
         "papers/biology/img/07C-Internal-Environment-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8348,
+          0.9592
+        ],
+        [
+          1,
+          0.0446,
+          0.1187
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8025,
+              0.8224
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1413,6 +2574,25 @@
         "papers/biology/img/07C-Internal-Environment-23.jpg",
         "papers/biology/img/07C-Internal-Environment-24.jpg",
         "papers/biology/img/07C-Internal-Environment-25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.132,
+          0.3333
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8025,
+              0.8224
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1441,6 +2621,25 @@
         "papers/biology/img/07C-Internal-Environment-23.jpg",
         "papers/biology/img/07C-Internal-Environment-24.jpg",
         "papers/biology/img/07C-Internal-Environment-25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3466,
+          0.548
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8025,
+              0.8224
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1471,6 +2670,30 @@
         "papers/biology/img/07C-Internal-Environment-23.jpg",
         "papers/biology/img/07C-Internal-Environment-24.jpg",
         "papers/biology/img/07C-Internal-Environment-25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5613,
+          0.9373
+        ],
+        [
+          2,
+          0.0741,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8025,
+              0.8224
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1503,6 +2726,35 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q10.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6239,
+          0.7711
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8025,
+              0.8224
+            ]
+          ]
+        ],
+        [
+          "Q10(c)",
+          [
+            [
+              2,
+              0.1301,
+              0.5802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1535,6 +2787,40 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q10.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8196,
+          0.9345
+        ],
+        [
+          3,
+          0.0741,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8025,
+              0.8224
+            ]
+          ]
+        ],
+        [
+          "Q10(c)",
+          [
+            [
+              2,
+              0.1301,
+              0.5802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1567,6 +2853,35 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q10.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1956,
+          0.4416
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8025,
+              0.8224
+            ]
+          ]
+        ],
+        [
+          "Q10(c)",
+          [
+            [
+              2,
+              0.1301,
+              0.5802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1594,6 +2909,25 @@
         "papers/biology/img/07C-Internal-Environment-25.jpg",
         "papers/biology/img/07C-Internal-Environment-26.jpg",
         "papers/biology/img/07C-Internal-Environment-27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7512,
+          0.8993
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.7189,
+              0.7388
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1620,6 +2954,25 @@
         "papers/biology/img/07C-Internal-Environment-25.jpg",
         "papers/biology/img/07C-Internal-Environment-26.jpg",
         "papers/biology/img/07C-Internal-Environment-27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9145,
+          0.9345
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.7189,
+              0.7388
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1648,6 +3001,25 @@
         "papers/biology/img/07C-Internal-Environment-25.jpg",
         "papers/biology/img/07C-Internal-Environment-26.jpg",
         "papers/biology/img/07C-Internal-Environment-27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0655,
+          0.4122
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.7189,
+              0.7388
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1678,6 +3050,25 @@
         "papers/biology/img/07C-Internal-Environment-25.jpg",
         "papers/biology/img/07C-Internal-Environment-26.jpg",
         "papers/biology/img/07C-Internal-Environment-27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4264,
+          0.9335
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.7189,
+              0.7388
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1709,6 +3100,25 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q11.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0655,
+          0.716
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.7189,
+              0.7388
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1849,6 +3259,45 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q12.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3941,
+          0.5252
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.9269,
+              0.9468
+            ],
+            [
+              1,
+              0.0446,
+              0.2175
+            ]
+          ]
+        ],
+        [
+          "Q12(b)",
+          [
+            [
+              1,
+              0.905,
+              0.9582
+            ],
+            [
+              2,
+              0.0446,
+              0.3713
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1879,6 +3328,45 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q12.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5404,
+          0.7407
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.9269,
+              0.9468
+            ],
+            [
+              1,
+              0.0446,
+              0.2175
+            ]
+          ]
+        ],
+        [
+          "Q12(b)",
+          [
+            [
+              1,
+              0.905,
+              0.9582
+            ],
+            [
+              2,
+              0.0446,
+              0.3713
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1912,6 +3400,50 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q12.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7559,
+          0.9525
+        ],
+        [
+          3,
+          0.0741,
+          0.246
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.9269,
+              0.9468
+            ],
+            [
+              1,
+              0.0446,
+              0.2175
+            ]
+          ]
+        ],
+        [
+          "Q12(b)",
+          [
+            [
+              1,
+              0.905,
+              0.9582
+            ],
+            [
+              2,
+              0.0446,
+              0.3713
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1942,6 +3474,40 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9164,
+          0.9592
+        ],
+        [
+          1,
+          0.0665,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5233,
+              0.8718
+            ]
+          ]
+        ],
+        [
+          "Q13(a)",
+          [
+            [
+              0,
+              0.8832,
+              0.9022
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1973,6 +3539,35 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0978,
+          0.3248
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5233,
+              0.8718
+            ]
+          ]
+        ],
+        [
+          "Q13(a)",
+          [
+            [
+              0,
+              0.8832,
+              0.9022
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1999,6 +3594,25 @@
         "papers/biology/img/07C-Internal-Environment-30.jpg",
         "papers/biology/img/07C-Internal-Environment-31.jpg",
         "papers/biology/img/07C-Internal-Environment-32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3409,
+          0.5404
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5233,
+              0.8718
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2026,6 +3640,25 @@
         "papers/biology/img/07C-Internal-Environment-30.jpg",
         "papers/biology/img/07C-Internal-Environment-31.jpg",
         "papers/biology/img/07C-Internal-Environment-32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5556,
+          0.7198
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5233,
+              0.8718
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2055,6 +3688,30 @@
         "papers/biology/img/07C-Internal-Environment-30.jpg",
         "papers/biology/img/07C-Internal-Environment-31.jpg",
         "papers/biology/img/07C-Internal-Environment-32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.735,
+          0.9316
+        ],
+        [
+          2,
+          0.0741,
+          0.2783
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5233,
+              0.8718
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2081,6 +3738,25 @@
         "papers/biology/img/07C-Internal-Environment-30.jpg",
         "papers/biology/img/07C-Internal-Environment-31.jpg",
         "papers/biology/img/07C-Internal-Environment-32.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2934,
+          0.4777
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5233,
+              0.8718
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2108,6 +3784,25 @@
         "papers/biology/img/07C-Internal-Environment-30.jpg",
         "papers/biology/img/07C-Internal-Environment-31.jpg",
         "papers/biology/img/07C-Internal-Environment-32.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4919,
+          0.6097
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5233,
+              0.8718
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2139,6 +3834,30 @@
         "papers/biology/img/07C-Internal-Environment-33.jpg",
         "papers/biology/img/07C-Internal-Environment-34.jpg",
         "papers/biology/img/07C-Internal-Environment-35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8509,
+          0.9364
+        ],
+        [
+          1,
+          0.0741,
+          0.4416
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.8186,
+              0.8386
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2169,6 +3888,25 @@
         "papers/biology/img/07C-Internal-Environment-33.jpg",
         "papers/biology/img/07C-Internal-Environment-34.jpg",
         "papers/biology/img/07C-Internal-Environment-35.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4568,
+          0.8984
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.8186,
+              0.8386
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2201,6 +3939,40 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q14.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2906,
+          0.4217
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.8186,
+              0.8386
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.9136,
+              0.9335
+            ],
+            [
+              2,
+              0.0446,
+              0.2802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2236,6 +4008,45 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q14.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4378,
+          0.9278
+        ],
+        [
+          3,
+          0.0446,
+          0.0522
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.8186,
+              0.8386
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.9136,
+              0.9335
+            ],
+            [
+              2,
+              0.0446,
+              0.2802
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2266,6 +4077,35 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6942,
+          0.8775
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2621,
+              0.2821
+            ]
+          ]
+        ],
+        [
+          "Q15(a)",
+          [
+            [
+              0,
+              0.2944,
+              0.6819
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2298,6 +4138,40 @@
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q15.jpg",
         "papers/biology/fig/07C-Internal-Environment-Q15-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8927,
+          0.9126
+        ],
+        [
+          1,
+          0.0446,
+          0.1738
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2621,
+              0.2821
+            ]
+          ]
+        ],
+        [
+          "Q15(a)",
+          [
+            [
+              0,
+              0.2944,
+              0.6819
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2330,6 +4204,45 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q15-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1937,
+          0.9554
+        ],
+        [
+          2,
+          0.0446,
+          0.9592
+        ],
+        [
+          3,
+          0.0741,
+          0.2783
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2621,
+              0.2821
+            ]
+          ]
+        ],
+        [
+          "Q15(a)",
+          [
+            [
+              0,
+              0.2944,
+              0.6819
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2397,6 +4310,25 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q15-5.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2934,
+          0.9459
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2621,
+              0.2821
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2422,6 +4354,25 @@
         "papers/biology/img/07C-Internal-Environment-39.jpg",
         "papers/biology/img/07C-Internal-Environment-40.jpg",
         "papers/biology/img/07C-Internal-Environment-41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3761,
+          0.6106
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.3267,
+              0.3609
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2448,6 +4399,25 @@
         "papers/biology/img/07C-Internal-Environment-39.jpg",
         "papers/biology/img/07C-Internal-Environment-40.jpg",
         "papers/biology/img/07C-Internal-Environment-41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6211,
+          0.8395
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.3267,
+              0.3609
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2478,6 +4448,40 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2612,
+          0.4084
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.3267,
+              0.3609
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              0,
+              0.8557,
+              0.8898
+            ],
+            [
+              1,
+              0.0446,
+              0.2498
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2508,6 +4512,40 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4245,
+          0.6866
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.3267,
+              0.3609
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              0,
+              0.8557,
+              0.8898
+            ],
+            [
+              1,
+              0.0446,
+              0.2498
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2536,6 +4574,30 @@
         "papers/biology/img/07C-Internal-Environment-39.jpg",
         "papers/biology/img/07C-Internal-Environment-40.jpg",
         "papers/biology/img/07C-Internal-Environment-41.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7018,
+          0.9307
+        ],
+        [
+          2,
+          0.0741,
+          0.1149
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.3267,
+              0.3609
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2564,6 +4626,25 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4255,
+          0.641
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.3922,
+              0.4122
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2593,6 +4674,25 @@
       ],
       "figures": [
         "papers/biology/fig/07C-Internal-Environment-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6534,
+          0.8386
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.3922,
+              0.4122
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2620,6 +4720,30 @@
       "images": [
         "papers/biology/img/07C-Internal-Environment-41.jpg",
         "papers/biology/img/07C-Internal-Environment-42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8519,
+          0.905
+        ],
+        [
+          1,
+          0.0741,
+          0.3105
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.3922,
+              0.4122
+            ]
+          ]
+        ]
       ]
     }
   ]

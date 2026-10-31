@@ -30,6 +30,35 @@
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-001.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-002.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.189,
+          0.2915
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1538
+            ]
+          ]
+        ],
+        [
+          "Q1(a)",
+          [
+            [
+              0,
+              0.1671,
+              0.1861
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -59,6 +88,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.302,
+          0.5651
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1538
+            ]
+          ]
+        ],
+        [
+          "Q1(a)",
+          [
+            [
+              0,
+              0.1671,
+              0.1861
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -87,6 +145,30 @@
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-001.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-002.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5774,
+          0.9307
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -117,6 +199,25 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q1-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.7607
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -147,6 +248,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0969,
+          0.3039
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.9079,
+              0.9421
+            ],
+            [
+              1,
+              0.0532,
+              0.0855
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -178,6 +303,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3172,
+          0.7142
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.9079,
+              0.9421
+            ],
+            [
+              1,
+              0.0532,
+              0.0855
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -206,6 +355,35 @@
         "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7274,
+          0.9202
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.9079,
+              0.9421
+            ],
+            [
+              1,
+              0.0532,
+              0.0855
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -236,6 +414,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0817,
+          0.3191
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.9079,
+              0.9421
+            ],
+            [
+              1,
+              0.0532,
+              0.0855
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -266,6 +468,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3324,
+          0.7445
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.9079,
+              0.9421
+            ],
+            [
+              1,
+              0.0532,
+              0.0855
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -297,6 +523,35 @@
         "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7578,
+          0.9212
+        ],
+        [
+          3,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.9079,
+              0.9421
+            ],
+            [
+              1,
+              0.0532,
+              0.0855
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -327,6 +582,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2279,
+          0.5527
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.9079,
+              0.9421
+            ],
+            [
+              1,
+              0.0532,
+              0.0855
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -357,6 +636,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4188,
+          0.5185
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.6999,
+              0.7189
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.7293,
+              0.8148
+            ],
+            [
+              1,
+              0.0513,
+              0.4169
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -388,6 +701,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5242,
+          0.6524
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.6999,
+              0.7189
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.7293,
+              0.8148
+            ],
+            [
+              1,
+              0.0513,
+              0.4169
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -423,6 +770,30 @@
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q3.jpg",
         "papers/biology/fig/08AB-Nervous-Coordination-Q3-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6657,
+          0.9126
+        ],
+        [
+          2,
+          0.0608,
+          0.567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.6999,
+              0.7189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -453,6 +824,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4112,
+          0.6106
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7132,
+              0.7322
+            ]
+          ]
+        ],
+        [
+          "Q4(a)",
+          [
+            [
+              0,
+              0.7426,
+              0.7987
+            ],
+            [
+              1,
+              0.0665,
+              0.4074
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -485,6 +890,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6163,
+          0.85
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7132,
+              0.7322
+            ]
+          ]
+        ],
+        [
+          "Q4(a)",
+          [
+            [
+              0,
+              0.7426,
+              0.7987
+            ],
+            [
+              1,
+              0.0665,
+              0.4074
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -516,6 +955,45 @@
         "papers/biology/img/08AB-Nervous-Coordination-008.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-009.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-010.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8557,
+          0.9383
+        ],
+        [
+          2,
+          0.0608,
+          0.3324
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7132,
+              0.7322
+            ]
+          ]
+        ],
+        [
+          "Q4(a)",
+          [
+            [
+              0,
+              0.7426,
+              0.7987
+            ],
+            [
+              1,
+              0.0665,
+              0.4074
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -548,6 +1026,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q4-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8642,
+          0.9459
+        ],
+        [
+          3,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7132,
+              0.7322
+            ]
+          ]
+        ],
+        [
+          "Q4(b)",
+          [
+            [
+              2,
+              0.3457,
+              0.8519
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -581,6 +1093,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q4-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1624,
+          0.3922
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7132,
+              0.7322
+            ]
+          ]
+        ],
+        [
+          "Q4(b)",
+          [
+            [
+              2,
+              0.3457,
+              0.8519
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -614,6 +1155,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q5-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7493,
+          0.9345
+        ],
+        [
+          1,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.5394,
+              0.5584
+            ]
+          ]
+        ],
+        [
+          "Q5(a)",
+          [
+            [
+              0,
+              0.5689,
+              0.7455
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -644,6 +1219,35 @@
         "papers/biology/img/08AB-Nervous-Coordination-010.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-011.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-012.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1624,
+          0.5385
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.5394,
+              0.5584
+            ]
+          ]
+        ],
+        [
+          "Q5(a)",
+          [
+            [
+              0,
+              0.5689,
+              0.7455
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -678,6 +1282,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5508,
+          0.9297
+        ],
+        [
+          2,
+          0.0532,
+          0.6334
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.5394,
+              0.5584
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -707,6 +1335,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-012.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-013.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-014.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3818,
+          0.4881
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6(a)",
+          [
+            [
+              0,
+              0.83,
+              0.849
+            ],
+            [
+              1,
+              0.1557,
+              0.3884
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -736,6 +1388,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-012.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-013.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-014.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4986,
+          0.6011
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6(a)",
+          [
+            [
+              0,
+              0.83,
+              0.849
+            ],
+            [
+              1,
+              0.1557,
+              0.3884
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -768,6 +1444,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q6.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.397,
+          0.6847
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.6192,
+              0.9411
+            ],
+            [
+              2,
+              0.0532,
+              0.3932
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -800,6 +1500,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q6.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6904,
+          0.8044
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.6192,
+              0.9411
+            ],
+            [
+              2,
+              0.0532,
+              0.3932
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -829,6 +1553,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-014.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-015.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-016.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1045,
+          0.4141
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -858,6 +1601,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-014.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-015.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-016.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4274,
+          0.6638
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -888,6 +1650,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6771,
+          0.7778
+        ],
+        [
+          2,
+          0.0617,
+          0.5147
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -920,6 +1706,40 @@
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q8.jpg",
         "papers/biology/fig/08AB-Nervous-Coordination-Q8-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2963,
+          0.3979
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.7104,
+              0.7445
+            ]
+          ]
+        ],
+        [
+          "Q8(a)",
+          [
+            [
+              0,
+              0.755,
+              0.774
+            ],
+            [
+              1,
+              0.0522,
+              0.2925
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -949,6 +1769,40 @@
         "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4093,
+          0.5261
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.7104,
+              0.7445
+            ]
+          ]
+        ],
+        [
+          "Q8(a)",
+          [
+            [
+              0,
+              0.755,
+              0.774
+            ],
+            [
+              1,
+              0.0522,
+              0.2925
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -980,6 +1834,35 @@
         "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5774,
+          0.8689
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.7104,
+              0.7445
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              1,
+              0.5442,
+              0.584
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1010,6 +1893,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q8-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8746,
+          0.9088
+        ],
+        [
+          2,
+          0.0617,
+          0.301
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.7104,
+              0.7445
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              1,
+              0.5442,
+              0.584
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1040,6 +1957,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q8-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3067,
+          0.6524
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.7104,
+              0.7445
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              1,
+              0.5442,
+              0.584
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1073,6 +2019,40 @@
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q8-4.jpg",
         "papers/biology/fig/08AB-Nervous-Coordination-Q8-5.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6581,
+          0.9288
+        ],
+        [
+          3,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.7104,
+              0.7445
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              1,
+              0.5442,
+              0.584
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1102,6 +2082,35 @@
         "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5214,
+          0.6353
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4701,
+              0.4891
+            ]
+          ]
+        ],
+        [
+          "Q9(a)",
+          [
+            [
+              0,
+              0.4995,
+              0.5185
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1132,6 +2141,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6496,
+          0.8509
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4701,
+              0.4891
+            ]
+          ]
+        ],
+        [
+          "Q9(a)",
+          [
+            [
+              0,
+              0.4995,
+              0.5185
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1161,6 +2199,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3419,
+          0.5423
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4701,
+              0.4891
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              0,
+              0.8538,
+              0.9221
+            ],
+            [
+              1,
+              0.0617,
+              0.3257
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1190,6 +2262,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.548,
+          0.7664
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4701,
+              0.4891
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              0,
+              0.8538,
+              0.9221
+            ],
+            [
+              1,
+              0.0617,
+              0.3257
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1222,6 +2328,45 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7721,
+          0.9288
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4701,
+              0.4891
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              0,
+              0.8538,
+              0.9221
+            ],
+            [
+              1,
+              0.0617,
+              0.3257
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1251,6 +2396,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1111,
+          0.2175
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4701,
+              0.4891
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1279,6 +2443,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8177,
+          0.9164
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.4217,
+              0.4406
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              0,
+              0.4511,
+              0.8139
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1307,6 +2500,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1852
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.4217,
+              0.4406
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              0,
+              0.4511,
+              0.8139
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1335,6 +2557,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1956,
+          0.2982
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.4217,
+              0.4406
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              0,
+              0.4511,
+              0.8139
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1363,6 +2614,35 @@
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-021.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-022.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3096,
+          0.5157
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.4217,
+              0.4406
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              0,
+              0.4511,
+              0.8139
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1391,6 +2671,25 @@
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-021.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-022.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5366,
+          0.831
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.4217,
+              0.4406
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1421,6 +2720,35 @@
         "papers/biology/img/08AB-Nervous-Coordination-023.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-024.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-025.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1709,
+          0.547
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.0902,
+              0.1092
+            ]
+          ]
+        ],
+        [
+          "Q11(a)",
+          [
+            [
+              0,
+              0.1197,
+              0.1728
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1450,6 +2778,35 @@
         "papers/biology/img/08AB-Nervous-Coordination-023.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-024.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-025.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5527,
+          0.8547
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.0902,
+              0.1092
+            ]
+          ]
+        ],
+        [
+          "Q11(a)",
+          [
+            [
+              0,
+              0.1197,
+              0.1728
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1479,6 +2836,40 @@
         "papers/biology/img/08AB-Nervous-Coordination-023.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-024.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-025.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.905,
+          0.924
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.0902,
+              0.1092
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              0,
+              0.868,
+              0.9012
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1510,6 +2901,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2213,
+          0.9212
+        ],
+        [
+          2,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.0902,
+              0.1092
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              0,
+              0.868,
+              0.9012
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1541,6 +2966,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5233,
+          0.5641
+        ],
+        [
+          1,
+          0.0551,
+          0.6895
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.4938,
+              0.5128
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1569,6 +3018,35 @@
         "papers/biology/img/08AB-Nervous-Coordination-025.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-026.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-027.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.736,
+          0.8386
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.4938,
+              0.5128
+            ]
+          ]
+        ],
+        [
+          "Q12(b)",
+          [
+            [
+              1,
+              0.7142,
+              0.7331
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1598,6 +3076,40 @@
         "papers/biology/img/08AB-Nervous-Coordination-025.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-026.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-027.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.849,
+          0.9326
+        ],
+        [
+          2,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.4938,
+              0.5128
+            ]
+          ]
+        ],
+        [
+          "Q12(b)",
+          [
+            [
+              1,
+              0.7142,
+              0.7331
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1627,6 +3139,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-025.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-026.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-027.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2868,
+          0.5964
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.4938,
+              0.5128
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1657,6 +3188,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8319,
+          0.9212
+        ],
+        [
+          1,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.7436,
+              0.8205
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1687,6 +3242,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2574,
+          0.5527
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.7436,
+              0.8205
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1717,6 +3291,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5651,
+          0.9335
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.7436,
+              0.8205
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1747,6 +3345,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0807,
+          0.377
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.7436,
+              0.8205
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1777,6 +3394,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3894,
+          0.6116
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.7436,
+              0.8205
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1807,6 +3443,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6249,
+          0.9345
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.7436,
+              0.8205
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1837,6 +3492,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.0532,
+          0.2593
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.7436,
+              0.8205
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1868,6 +3542,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.736,
+          0.755
+        ],
+        [
+          1,
+          0.0665,
+          0.2393
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4558,
+              0.7255
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1897,6 +3595,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-030.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-031.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-032.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2564,
+          0.3742
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4558,
+              0.7255
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1927,6 +3644,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8139,
+          0.8965
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4558,
+              0.7255
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              1,
+              0.3922,
+              0.811
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1958,6 +3704,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9022,
+          0.9364
+        ],
+        [
+          2,
+          0.2251,
+          0.2412
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4558,
+              0.7255
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              1,
+              0.3922,
+              0.811
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1987,6 +3767,35 @@
         "papers/biology/img/08AB-Nervous-Coordination-030.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-031.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-032.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2469,
+          0.5651
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4558,
+              0.7255
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              1,
+              0.3922,
+              0.811
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2017,6 +3826,35 @@
         "papers/biology/img/08AB-Nervous-Coordination-033.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-034.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-035.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.812,
+          0.9117
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.7607,
+              0.7797
+            ]
+          ]
+        ],
+        [
+          "Q15(a)",
+          [
+            [
+              0,
+              0.7901,
+              0.8091
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2047,6 +3885,40 @@
         "papers/biology/img/08AB-Nervous-Coordination-033.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-034.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-035.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.925,
+          0.944
+        ],
+        [
+          1,
+          0.0826,
+          0.3257
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.7607,
+              0.7797
+            ]
+          ]
+        ],
+        [
+          "Q15(a)",
+          [
+            [
+              0,
+              0.7901,
+              0.8091
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2083,6 +3955,35 @@
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q15.jpg",
         "papers/biology/fig/08AB-Nervous-Coordination-Q15-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3381,
+          0.8148
+        ],
+        [
+          2,
+          0.0513,
+          0.9212
+        ],
+        [
+          3,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.7607,
+              0.7797
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2112,6 +4013,25 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4359,
+          0.8196
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4055,
+              0.4255
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2142,6 +4062,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8443,
+          0.8832
+        ],
+        [
+          1,
+          0.0655,
+          0.2526
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4055,
+              0.4255
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2172,6 +4116,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5195,
+          0.9174
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.416,
+              0.509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2202,6 +4165,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9307,
+          0.9497
+        ],
+        [
+          1,
+          0.0826,
+          0.3257
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.416,
+              0.509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2232,6 +4219,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3381,
+          0.5603
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.416,
+              0.509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2261,6 +4267,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5736,
+          0.7949
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.416,
+              0.509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2291,6 +4316,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8082,
+          0.9269
+        ],
+        [
+          2,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.416,
+              0.509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2321,6 +4370,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3162,
+          0.4349
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.416,
+              0.509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2351,6 +4419,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4482,
+          0.5821
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.416,
+              0.509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2380,6 +4467,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5954,
+          0.905
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.416,
+              0.509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2408,6 +4514,35 @@
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-039.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-040.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.265,
+          0.3666
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.2137,
+              0.2327
+            ]
+          ]
+        ],
+        [
+          "Q18(a)",
+          [
+            [
+              0,
+              0.2431,
+              0.2621
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2436,6 +4571,35 @@
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-039.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-040.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.378,
+          0.6657
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.2137,
+              0.2327
+            ]
+          ]
+        ],
+        [
+          "Q18(a)",
+          [
+            [
+              0,
+              0.2431,
+              0.2621
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2467,6 +4631,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.679,
+          0.9402
+        ],
+        [
+          1,
+          0.0541,
+          0.3637
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.2137,
+              0.2327
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2495,6 +4683,25 @@
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-039.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-040.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.377,
+          0.7892
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.2137,
+              0.2327
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2527,6 +4734,25 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1311,
+          0.3837
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              1,
+              0.1016,
+              0.1178
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2560,6 +4786,25 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q19-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3875,
+          0.925
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              1,
+              0.1016,
+              0.1178
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2591,6 +4836,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-042.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-043.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-044.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.4805
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              1,
+              0.1016,
+              0.1178
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2625,6 +4889,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q19-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4938,
+          0.5641
+        ],
+        [
+          3,
+          0.0513,
+          0.9316
+        ],
+        [
+          4,
+          0.0608,
+          0.3618
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              1,
+              0.1016,
+              0.1178
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2655,6 +4948,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-045.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-046.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-047.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.416,
+          0.6144
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.5575,
+              0.6059
+            ],
+            [
+              1,
+              0.0513,
+              0.4055
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2686,6 +5003,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q20.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6287,
+          0.849
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.5575,
+              0.6059
+            ],
+            [
+              1,
+              0.0513,
+              0.4055
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2718,6 +5059,45 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q20-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4274,
+          0.7151
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.5575,
+              0.6059
+            ],
+            [
+              1,
+              0.0513,
+              0.4055
+            ]
+          ]
+        ],
+        [
+          "Q20(b)",
+          [
+            [
+              1,
+              0.8623,
+              0.9155
+            ],
+            [
+              2,
+              0.0513,
+              0.4245
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2751,6 +5131,50 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q20-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7208,
+          0.9354
+        ],
+        [
+          3,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.5575,
+              0.6059
+            ],
+            [
+              1,
+              0.0513,
+              0.4055
+            ]
+          ]
+        ],
+        [
+          "Q20(b)",
+          [
+            [
+              1,
+              0.8623,
+              0.9155
+            ],
+            [
+              2,
+              0.0513,
+              0.4245
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2780,6 +5204,35 @@
         "papers/biology/img/08AB-Nervous-Coordination-047.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-048.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-049.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3894,
+          0.4919
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3238,
+              0.3428
+            ]
+          ]
+        ],
+        [
+          "Q21(a)",
+          [
+            [
+              0,
+              0.3523,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2809,6 +5262,35 @@
         "papers/biology/img/08AB-Nervous-Coordination-047.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-048.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-049.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5033,
+          0.6021
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3238,
+              0.3428
+            ]
+          ]
+        ],
+        [
+          "Q21(a)",
+          [
+            [
+              0,
+              0.3523,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2838,6 +5320,35 @@
         "papers/biology/img/08AB-Nervous-Coordination-047.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-048.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-049.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6163,
+          0.7303
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3238,
+              0.3428
+            ]
+          ]
+        ],
+        [
+          "Q21(a)",
+          [
+            [
+              0,
+              0.3523,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2867,6 +5378,35 @@
         "papers/biology/img/08AB-Nervous-Coordination-047.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-048.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-049.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7445,
+          0.7977
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3238,
+              0.3428
+            ]
+          ]
+        ],
+        [
+          "Q21(a)",
+          [
+            [
+              0,
+              0.3523,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2897,6 +5437,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7066,
+          0.906
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3238,
+              0.3428
+            ]
+          ]
+        ],
+        [
+          "Q21(b)",
+          [
+            [
+              0,
+              0.811,
+              0.8822
+            ],
+            [
+              1,
+              0.0513,
+              0.7028
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2929,6 +5503,45 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9117,
+          0.9307
+        ],
+        [
+          2,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3238,
+              0.3428
+            ]
+          ]
+        ],
+        [
+          "Q21(b)",
+          [
+            [
+              0,
+              0.811,
+              0.8822
+            ],
+            [
+              1,
+              0.0513,
+              0.7028
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2959,6 +5572,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-050.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-051.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-052.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5432,
+          0.6496
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.4995,
+              0.5328
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2990,6 +5622,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6705,
+          0.9326
+        ],
+        [
+          1,
+          0.0532,
+          0.2526
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.4995,
+              0.5328
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3022,6 +5678,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q22-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6486,
+          0.8519
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.4995,
+              0.5328
+            ]
+          ]
+        ],
+        [
+          "Q22(c)",
+          [
+            [
+              1,
+              0.2659,
+              0.6448
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3055,6 +5740,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q22-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8575,
+          0.9402
+        ],
+        [
+          2,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.4995,
+              0.5328
+            ]
+          ]
+        ],
+        [
+          "Q22(c)",
+          [
+            [
+              1,
+              0.2659,
+              0.6448
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3088,6 +5807,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q22-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2574,
+          0.944
+        ],
+        [
+          3,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.4995,
+              0.5328
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3119,6 +5862,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8357,
+          0.9354
+        ],
+        [
+          1,
+          0.0532,
+          0.1814
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.3039,
+              0.8253
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3149,6 +5916,25 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1871,
+          0.3305
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.3039,
+              0.8253
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3177,6 +5963,25 @@
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-052.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-053.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3438,
+          0.4777
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.3039,
+              0.8253
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3205,6 +6010,25 @@
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-052.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-053.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.491,
+          0.7123
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.3039,
+              0.8253
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3237,6 +6061,25 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q24.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2412
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.9088,
+              0.9278
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3270,6 +6113,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q24-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2479,
+          0.6239
+        ],
+        [
+          2,
+          0.0646,
+          0.6857
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.9088,
+              0.9278
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3300,6 +6167,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-055.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-056.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-057.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.699,
+          0.8082
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.9088,
+              0.9278
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3337,6 +6223,35 @@
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q24-3.jpg",
         "papers/biology/fig/08AB-Nervous-Coordination-Q24-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8262,
+          0.9126
+        ],
+        [
+          3,
+          0.0513,
+          0.9373
+        ],
+        [
+          4,
+          0.0608,
+          0.4786
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.9088,
+              0.9278
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3370,6 +6285,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.416,
+          0.8281
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.6743,
+              0.6933
+            ],
+            [
+              1,
+              0.0513,
+              0.4055
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3399,6 +6338,45 @@
         "papers/biology/img/08AB-Nervous-Coordination-057.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-058.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-059.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8632,
+          0.9449
+        ],
+        [
+          2,
+          0.0513,
+          0.0741
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.6743,
+              0.6933
+            ],
+            [
+              1,
+              0.0513,
+              0.4055
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              1,
+              0.8405,
+              0.8594
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3428,6 +6406,40 @@
         "papers/biology/img/08AB-Nervous-Coordination-057.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-058.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-059.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0845,
+          0.1871
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.6743,
+              0.6933
+            ],
+            [
+              1,
+              0.0513,
+              0.4055
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              1,
+              0.8405,
+              0.8594
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3457,6 +6469,40 @@
         "papers/biology/img/08AB-Nervous-Coordination-057.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-058.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-059.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1985,
+          0.3713
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.6743,
+              0.6933
+            ],
+            [
+              1,
+              0.0513,
+              0.4055
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              1,
+              0.8405,
+              0.8594
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3486,6 +6532,25 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5964,
+          0.9345
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.567,
+              0.5859
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3514,6 +6579,35 @@
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-059.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-060.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1045,
+          0.2032
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.567,
+              0.5859
+            ]
+          ]
+        ],
+        [
+          "Q26(b)",
+          [
+            [
+              1,
+              0.0817,
+              0.1007
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3542,6 +6636,35 @@
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-059.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-060.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2175,
+          0.5052
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.567,
+              0.5859
+            ]
+          ]
+        ],
+        [
+          "Q26(b)",
+          [
+            [
+              1,
+              0.0817,
+              0.1007
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3571,6 +6694,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-060.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-061.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-062.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7303,
+          0.8395
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.7009,
+              0.7198
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3600,6 +6742,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-060.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-061.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-062.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8575,
+          0.9326
+        ],
+        [
+          1,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.7009,
+              0.7198
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3631,6 +6797,25 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2868,
+          0.8993
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.7009,
+              0.7198
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3659,6 +6844,25 @@
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-062.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-063.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2431,
+          0.3495
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.2137,
+              0.2327
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3688,6 +6892,25 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3628,
+          0.5565
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.2137,
+              0.2327
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3716,6 +6939,25 @@
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-062.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-063.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5679,
+          0.8623
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.2137,
+              0.2327
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3744,6 +6986,30 @@
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-062.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-063.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8756,
+          0.9354
+        ],
+        [
+          1,
+          0.0608,
+          0.4786
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.2137,
+              0.2327
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3773,6 +7039,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7142,
+          0.9202
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.6258,
+              0.7028
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3804,6 +7089,25 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2336
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.6258,
+              0.7028
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3834,6 +7138,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2545,
+          0.5489
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.6258,
+              0.7028
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3864,6 +7187,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5622,
+          0.8566
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.6258,
+              0.7028
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3894,6 +7236,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8699,
+          0.9307
+        ],
+        [
+          2,
+          0.0608,
+          0.3618
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.6258,
+              0.7028
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3924,6 +7290,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3751,
+          0.6695
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.6258,
+              0.7028
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3954,6 +7339,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6828,
+          0.9335
+        ],
+        [
+          3,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.6258,
+              0.7028
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3983,6 +7392,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-066.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-067.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-068.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3238,
+          0.5366
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.2944,
+              0.3134
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4012,6 +7440,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-066.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-067.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-068.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5584,
+          0.9411
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.2944,
+              0.3134
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4042,6 +7494,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5347,
+          0.7341
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.2944,
+              0.3134
+            ]
+          ]
+        ],
+        [
+          "Q30(c)",
+          [
+            [
+              1,
+              0.1111,
+              0.5318
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4073,6 +7554,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7398,
+          0.9012
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.2944,
+              0.3134
+            ]
+          ]
+        ],
+        [
+          "Q30(c)",
+          [
+            [
+              1,
+              0.1111,
+              0.5318
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4105,6 +7615,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9041,
+          0.9383
+        ],
+        [
+          2,
+          0.0826,
+          0.3837
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.2944,
+              0.3134
+            ]
+          ]
+        ],
+        [
+          "Q30(c)",
+          [
+            [
+              1,
+              0.1111,
+              0.5318
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4139,6 +7683,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4368,
+          0.6999
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31(a)",
+          [
+            [
+              0,
+              0.5309,
+              0.5992
+            ],
+            [
+              1,
+              0.0513,
+              0.4425
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4172,6 +7740,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q31-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7047,
+          0.8205
+        ],
+        [
+          2,
+          0.0646,
+          0.3561
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31(a)",
+          [
+            [
+              0,
+              0.5309,
+              0.5992
+            ],
+            [
+              1,
+              0.0513,
+              0.4425
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4203,6 +7800,13 @@
         "papers/biology/img/08AB-Nervous-Coordination-070.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-071.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-072.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3799,
+          0.6895
+        ]
       ]
     },
     {
@@ -4238,6 +7842,23 @@
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q31-3.jpg",
         "papers/biology/fig/08AB-Nervous-Coordination-Q31-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7028,
+          0.774
+        ],
+        [
+          3,
+          0.0513,
+          0.9316
+        ],
+        [
+          4,
+          0.0608,
+          0.5081
+        ]
       ]
     },
     {
@@ -4270,6 +7891,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7426,
+          0.7768
+        ],
+        [
+          1,
+          0.0513,
+          0.6192
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.6543,
+              0.7322
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4302,6 +7947,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q32-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9278,
+          0.9468
+        ],
+        [
+          2,
+          0.0532,
+          0.2526
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.6543,
+              0.7322
+            ]
+          ]
+        ],
+        [
+          "Q32(b)",
+          [
+            [
+              1,
+              0.6325,
+              0.9145
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4335,6 +8014,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q32-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2583,
+          0.6486
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.6543,
+              0.7322
+            ]
+          ]
+        ],
+        [
+          "Q32(b)",
+          [
+            [
+              1,
+              0.6325,
+              0.9145
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4365,6 +8073,35 @@
         "papers/biology/img/08AB-Nervous-Coordination-073.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-074.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-075.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6543,
+          0.8984
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.6543,
+              0.7322
+            ]
+          ]
+        ],
+        [
+          "Q32(b)",
+          [
+            [
+              1,
+              0.6325,
+              0.9145
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4395,6 +8132,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5147,
+          0.7559
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.1643,
+              0.7284
+            ],
+            [
+              1,
+              0.0513,
+              0.5043
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4426,6 +8187,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7692,
+          0.9459
+        ],
+        [
+          2,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.1643,
+              0.7284
+            ],
+            [
+              1,
+              0.0513,
+              0.5043
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4455,6 +8245,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-075.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-076.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-077.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2574,
+          0.4644
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.1643,
+              0.7284
+            ],
+            [
+              1,
+              0.0513,
+              0.5043
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4485,6 +8299,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-078.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-079.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-080.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7189,
+          0.7797
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.66,
+              0.7085
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4515,6 +8348,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-078.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-079.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-080.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7854,
+          0.9411
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.66,
+              0.7085
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4545,6 +8402,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-078.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-079.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-080.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2213,
+          0.3685
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.66,
+              0.7085
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4574,6 +8450,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-078.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-079.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-080.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3799,
+          0.4815
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.66,
+              0.7085
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4609,6 +8504,35 @@
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q34.jpg",
         "papers/biology/fig/08AB-Nervous-Coordination-Q34-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4995,
+          0.8803
+        ],
+        [
+          2,
+          0.0513,
+          0.9364
+        ],
+        [
+          3,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.66,
+              0.7085
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4637,6 +8561,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7369,
+          0.8367
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.3523,
+              0.3713
+            ]
+          ]
+        ],
+        [
+          "Q35(a)",
+          [
+            [
+              0,
+              0.3818,
+              0.7341
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4665,6 +8618,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.85,
+          0.9326
+        ],
+        [
+          1,
+          0.0513,
+          0.0712
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.3523,
+              0.3713
+            ]
+          ]
+        ],
+        [
+          "Q35(a)",
+          [
+            [
+              0,
+              0.3818,
+              0.7341
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4693,6 +8680,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q35.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0845,
+          0.1842
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.3523,
+              0.3713
+            ]
+          ]
+        ],
+        [
+          "Q35(a)",
+          [
+            [
+              0,
+              0.3818,
+              0.7341
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4721,6 +8737,35 @@
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-080.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-081.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.227,
+          0.3295
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.3523,
+              0.3713
+            ]
+          ]
+        ],
+        [
+          "Q35(b)",
+          [
+            [
+              1,
+              0.2051,
+              0.2241
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4749,6 +8794,35 @@
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-080.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-081.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.34,
+          0.6724
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.3523,
+              0.3713
+            ]
+          ]
+        ],
+        [
+          "Q35(b)",
+          [
+            [
+              1,
+              0.2051,
+              0.2241
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4778,6 +8852,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8927,
+          0.9117
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.8196,
+              0.8832
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4808,6 +8906,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1406,
+          0.4501
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.8196,
+              0.8832
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4838,6 +8955,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4634,
+          0.8756
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.8196,
+              0.8832
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4868,6 +9004,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8889,
+          0.9297
+        ],
+        [
+          2,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.8196,
+              0.8832
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4898,6 +9058,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2574,
+          0.5527
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.8196,
+              0.8832
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4928,6 +9107,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5651,
+          0.8025
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.8196,
+              0.8832
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4958,6 +9156,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8148,
+          0.9345
+        ],
+        [
+          3,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.8196,
+              0.8832
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4987,6 +9209,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2574,
+          0.6116
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.8196,
+              0.8832
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5017,6 +9258,40 @@
         "papers/biology/img/08AB-Nervous-Coordination-085.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-086.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-087.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5157,
+          0.622
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.8072,
+              0.8262
+            ],
+            [
+              1,
+              0.0513,
+              0.4729
+            ]
+          ]
+        ],
+        [
+          "Q37(a)",
+          [
+            [
+              1,
+              0.4824,
+              0.5223
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5047,6 +9322,45 @@
         "papers/biology/img/08AB-Nervous-Coordination-085.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-086.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-087.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6334,
+          0.9364
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.8072,
+              0.8262
+            ],
+            [
+              1,
+              0.0513,
+              0.4729
+            ]
+          ]
+        ],
+        [
+          "Q37(a)",
+          [
+            [
+              1,
+              0.4824,
+              0.5223
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5079,6 +9393,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q37.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6106,
+          0.8015
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.8072,
+              0.8262
+            ],
+            [
+              1,
+              0.0513,
+              0.4729
+            ]
+          ]
+        ],
+        [
+          "Q37(b)",
+          [
+            [
+              2,
+              0.17,
+              0.6078
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5111,6 +9459,45 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q37.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8082,
+          0.9193
+        ],
+        [
+          3,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.8072,
+              0.8262
+            ],
+            [
+              1,
+              0.0513,
+              0.4729
+            ]
+          ]
+        ],
+        [
+          "Q37(b)",
+          [
+            [
+              2,
+              0.17,
+              0.6078
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5140,6 +9527,35 @@
         "papers/biology/img/08AB-Nervous-Coordination-087.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-088.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-089.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7987,
+          0.9155
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.4406,
+              0.7664
+            ]
+          ]
+        ],
+        [
+          "Q38(a)",
+          [
+            [
+              0,
+              0.7768,
+              0.7958
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5170,6 +9586,40 @@
         "papers/biology/img/08AB-Nervous-Coordination-087.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-088.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-089.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9269,
+          0.9459
+        ],
+        [
+          1,
+          0.0532,
+          0.4283
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.4406,
+              0.7664
+            ]
+          ]
+        ],
+        [
+          "Q38(a)",
+          [
+            [
+              0,
+              0.7768,
+              0.7958
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5201,6 +9651,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q38.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.735,
+          0.9345
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.4406,
+              0.7664
+            ]
+          ]
+        ],
+        [
+          "Q38(b)",
+          [
+            [
+              1,
+              0.4416,
+              0.7303
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5230,6 +9714,35 @@
         "papers/biology/img/08AB-Nervous-Coordination-087.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-088.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-089.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1339,
+          0.4359
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.4406,
+              0.7664
+            ]
+          ]
+        ],
+        [
+          "Q38(b)",
+          [
+            [
+              1,
+              0.4416,
+              0.7303
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5261,6 +9774,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3295,
+          0.4881
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.5831,
+              0.6021
+            ]
+          ]
+        ],
+        [
+          "Q39(a)",
+          [
+            [
+              0,
+              0.6116,
+              0.9345
+            ],
+            [
+              1,
+              0.0532,
+              0.3162
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5293,6 +9840,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4938,
+          0.7968
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.5831,
+              0.6021
+            ]
+          ]
+        ],
+        [
+          "Q39(a)",
+          [
+            [
+              0,
+              0.6116,
+              0.9345
+            ],
+            [
+              1,
+              0.0532,
+              0.3162
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5324,6 +9905,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q39-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8101,
+          0.8509
+        ],
+        [
+          2,
+          0.0513,
+          0.8898
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.5831,
+              0.6021
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5355,6 +9960,25 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4777,
+          0.905
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.1425,
+              0.4682
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5384,6 +10008,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-092.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-093.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-094.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9183,
+          0.9373
+        ],
+        [
+          1,
+          0.0532,
+          0.283
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.1425,
+              0.4682
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5416,6 +10064,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q40-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2953,
+          0.9392
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.1425,
+              0.4682
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5446,6 +10118,25 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5594,
+          0.5783
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.3523,
+              0.5489
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5475,6 +10166,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q41-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4378,
+          0.5366
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.3523,
+              0.5489
+            ]
+          ]
+        ],
+        [
+          "Q41(b)",
+          [
+            [
+              0,
+              0.603,
+              0.6448
+            ],
+            [
+              1,
+              0.0513,
+              0.4207
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5504,6 +10229,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q41-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5508,
+          0.6496
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.3523,
+              0.5489
+            ]
+          ]
+        ],
+        [
+          "Q41(b)",
+          [
+            [
+              0,
+              0.603,
+              0.6448
+            ],
+            [
+              1,
+              0.0513,
+              0.4207
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5534,6 +10293,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q41-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6638,
+          0.7626
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.3523,
+              0.5489
+            ]
+          ]
+        ],
+        [
+          "Q41(b)",
+          [
+            [
+              0,
+              0.603,
+              0.6448
+            ],
+            [
+              1,
+              0.0513,
+              0.4207
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5563,6 +10356,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-094.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-095.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-096.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7844,
+          0.9326
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.3523,
+              0.5489
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5595,6 +10412,25 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5812,
+          0.925
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.245,
+              0.5708
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5628,6 +10464,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q42-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4549,
+          0.8452
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.245,
+              0.5708
+            ]
+          ]
+        ],
+        [
+          "Q42(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.452
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5659,6 +10524,40 @@
         "papers/biology/img/08AB-Nervous-Coordination-097.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-098.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-099.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8509,
+          0.9345
+        ],
+        [
+          2,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.245,
+              0.5708
+            ]
+          ]
+        ],
+        [
+          "Q42(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.452
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5688,6 +10587,35 @@
         "papers/biology/img/08AB-Nervous-Coordination-097.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-098.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-099.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3096,
+          0.3286
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.245,
+              0.5708
+            ]
+          ]
+        ],
+        [
+          "Q42(c)",
+          [
+            [
+              2,
+              0.2868,
+              0.3058
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5721,6 +10649,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q42-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7142,
+          0.7787
+        ],
+        [
+          3,
+          0.0513,
+          0.567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.245,
+              0.5708
+            ]
+          ]
+        ],
+        [
+          "Q42(c)",
+          [
+            [
+              2,
+              0.2868,
+              0.3058
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5753,6 +10715,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q43-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4777,
+          0.5764
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.7635,
+              0.7825
+            ]
+          ]
+        ],
+        [
+          "Q43(a)",
+          [
+            [
+              0,
+              0.793,
+              0.8262
+            ],
+            [
+              1,
+              0.0513,
+              0.4729
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5785,6 +10781,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q43-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5907,
+          0.8053
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.7635,
+              0.7825
+            ]
+          ]
+        ],
+        [
+          "Q43(a)",
+          [
+            [
+              0,
+              0.793,
+              0.8262
+            ],
+            [
+              1,
+              0.0513,
+              0.4729
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5814,6 +10844,45 @@
         "papers/biology/img/08AB-Nervous-Coordination-099.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-100.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-101.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.811,
+          0.8832
+        ],
+        [
+          2,
+          0.1586,
+          0.1738
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.7635,
+              0.7825
+            ]
+          ]
+        ],
+        [
+          "Q43(a)",
+          [
+            [
+              0,
+              0.793,
+              0.8262
+            ],
+            [
+              1,
+              0.0513,
+              0.4729
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5844,6 +10913,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q43.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4957,
+          0.5783
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.7635,
+              0.7825
+            ]
+          ]
+        ],
+        [
+          "Q43(b)",
+          [
+            [
+              2,
+              0.1871,
+              0.4938
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5874,6 +10972,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q43.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.585,
+          0.7844
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.7635,
+              0.7825
+            ]
+          ]
+        ],
+        [
+          "Q43(b)",
+          [
+            [
+              2,
+              0.1871,
+              0.4938
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5904,6 +11031,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-102.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-103.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-104.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1311,
+          0.2403
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              1,
+              0.1016,
+              0.1178
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5934,6 +11080,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-102.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-103.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-104.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2517,
+          0.3533
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              1,
+              0.1016,
+              0.1178
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5966,6 +11131,45 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q44.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6581,
+          0.9459
+        ],
+        [
+          3,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              1,
+              0.1016,
+              0.1178
+            ]
+          ]
+        ],
+        [
+          "Q44(b)",
+          [
+            [
+              1,
+              0.3713,
+              0.4729
+            ],
+            [
+              2,
+              0.0513,
+              0.6562
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5996,6 +11200,40 @@
         "papers/biology/img/08AB-Nervous-Coordination-102.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-103.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-104.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1045,
+          0.3913
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              1,
+              0.1016,
+              0.1178
+            ]
+          ]
+        ],
+        [
+          "Q44(b)",
+          [
+            [
+              1,
+              0.3713,
+              0.4729
+            ],
+            [
+              2,
+              0.0513,
+              0.6562
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6027,6 +11265,18 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7398,
+          0.7588
+        ],
+        [
+          1,
+          0.0712,
+          0.2877
+        ]
       ]
     },
     {
@@ -6057,6 +11307,13 @@
         "papers/biology/img/08AB-Nervous-Coordination-105.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-106.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-107.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2953,
+          0.5869
+        ]
       ]
     },
     {
@@ -6089,6 +11346,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q45-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4368,
+          0.5651
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45(b)",
+          [
+            [
+              1,
+              0.6002,
+              0.6192
+            ],
+            [
+              2,
+              0.0513,
+              0.433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6120,6 +11401,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q45-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5708,
+          0.6534
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45(b)",
+          [
+            [
+              1,
+              0.6002,
+              0.6192
+            ],
+            [
+              2,
+              0.0513,
+              0.433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6150,6 +11455,35 @@
         "papers/biology/img/08AB-Nervous-Coordination-105.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-106.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-107.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.66,
+          0.9174
+        ],
+        [
+          3,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45(b)",
+          [
+            [
+              1,
+              0.6002,
+              0.6192
+            ],
+            [
+              2,
+              0.0513,
+              0.433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6180,6 +11514,25 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.603,
+          0.6372
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.2156,
+              0.5916
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6210,6 +11563,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q46-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6619,
+          0.6809
+        ],
+        [
+          1,
+          0.0655,
+          0.301
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.2156,
+              0.5916
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6239,6 +11616,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-108.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-109.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-110.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5033,
+          0.886
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.4739,
+              0.4929
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6270,6 +11666,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8984,
+          0.9402
+        ],
+        [
+          1,
+          0.0532,
+          0.6619
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.4739,
+              0.4929
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6300,6 +11720,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q47-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6752,
+          0.9269
+        ],
+        [
+          2,
+          0.0532,
+          0.1368
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.4739,
+              0.4929
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6329,6 +11773,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-108.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-109.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-110.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1586,
+          0.3647
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.4739,
+              0.4929
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6359,6 +11822,25 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q47-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3713,
+          0.8357
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.4739,
+              0.4929
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6388,6 +11870,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1633,
+          0.283
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.0902,
+              0.1519
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6417,6 +11918,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2953,
+          0.6049
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.0902,
+              0.1519
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6446,6 +11966,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6182,
+          0.8405
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.0902,
+              0.1519
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6475,6 +12014,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8528,
+          0.943
+        ],
+        [
+          1,
+          0.0608,
+          0.4198
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.0902,
+              0.1519
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6504,6 +12067,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.433,
+          0.6401
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.0902,
+              0.1519
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6533,6 +12115,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6534,
+          0.8746
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.0902,
+              0.1519
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6562,6 +12163,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8879,
+          0.9069
+        ],
+        [
+          2,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.0902,
+              0.1519
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6591,6 +12216,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3162,
+          0.5233
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.0902,
+              0.1519
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6621,6 +12265,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-114.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-115.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-116.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7483,
+          0.8699
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.7189,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6653,6 +12316,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q49.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4283,
+          0.7151
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.7189,
+              0.7379
+            ]
+          ]
+        ],
+        [
+          "Q49(b)",
+          [
+            [
+              0,
+              0.8908,
+              0.9468
+            ],
+            [
+              1,
+              0.0532,
+              0.4245
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6683,6 +12380,40 @@
         "papers/biology/img/08AB-Nervous-Coordination-114.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-115.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-116.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7208,
+          0.8357
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.7189,
+              0.7379
+            ]
+          ]
+        ],
+        [
+          "Q49(b)",
+          [
+            [
+              0,
+              0.8908,
+              0.9468
+            ],
+            [
+              1,
+              0.0532,
+              0.4245
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6713,6 +12444,45 @@
         "papers/biology/img/08AB-Nervous-Coordination-114.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-115.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-116.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.849,
+          0.9316
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.7189,
+              0.7379
+            ]
+          ]
+        ],
+        [
+          "Q49(b)",
+          [
+            [
+              0,
+              0.8908,
+              0.9468
+            ],
+            [
+              1,
+              0.0532,
+              0.4245
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6746,6 +12516,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q49-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.17,
+          0.9459
+        ],
+        [
+          3,
+          0.0608,
+          0.4198
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.7189,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6779,6 +12573,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q50.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4169,
+          0.4701
+        ]
+      ],
+      "ctx": [
+        [
+          "Q50",
+          [
+            [
+              0,
+              0.6163,
+              0.6353
+            ],
+            [
+              1,
+              0.0513,
+              0.3846
+            ]
+          ]
+        ],
+        [
+          "Q50(a)",
+          [
+            [
+              1,
+              0.3951,
+              0.4141
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6812,6 +12640,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q50.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4767,
+          0.6192
+        ]
+      ],
+      "ctx": [
+        [
+          "Q50",
+          [
+            [
+              0,
+              0.6163,
+              0.6353
+            ],
+            [
+              1,
+              0.0513,
+              0.3846
+            ]
+          ]
+        ],
+        [
+          "Q50(a)",
+          [
+            [
+              1,
+              0.3951,
+              0.4141
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6843,6 +12705,40 @@
         "papers/biology/img/08AB-Nervous-Coordination-118.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6553,
+          0.7873
+        ]
+      ],
+      "ctx": [
+        [
+          "Q50",
+          [
+            [
+              0,
+              0.6163,
+              0.6353
+            ],
+            [
+              1,
+              0.0513,
+              0.3846
+            ]
+          ]
+        ],
+        [
+          "Q50(b)",
+          [
+            [
+              1,
+              0.6325,
+              0.6515
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6875,6 +12771,45 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q50-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7977,
+          0.8319
+        ],
+        [
+          2,
+          0.0636,
+          0.2127
+        ]
+      ],
+      "ctx": [
+        [
+          "Q50",
+          [
+            [
+              0,
+              0.6163,
+              0.6353
+            ],
+            [
+              1,
+              0.0513,
+              0.3846
+            ]
+          ]
+        ],
+        [
+          "Q50(b)",
+          [
+            [
+              1,
+              0.6325,
+              0.6515
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6906,6 +12841,40 @@
         "papers/biology/img/08AB-Nervous-Coordination-118.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2165,
+          0.3343
+        ]
+      ],
+      "ctx": [
+        [
+          "Q50",
+          [
+            [
+              0,
+              0.6163,
+              0.6353
+            ],
+            [
+              1,
+              0.0513,
+              0.3846
+            ]
+          ]
+        ],
+        [
+          "Q50(b)",
+          [
+            [
+              1,
+              0.6325,
+              0.6515
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6937,6 +12906,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-118.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3552,
+          0.4748
+        ]
+      ],
+      "ctx": [
+        [
+          "Q50",
+          [
+            [
+              0,
+              0.6163,
+              0.6353
+            ],
+            [
+              1,
+              0.0513,
+              0.3846
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6972,6 +12965,40 @@
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q50-3.jpg",
         "papers/biology/fig/08AB-Nervous-Coordination-Q50-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4872,
+          0.5888
+        ],
+        [
+          3,
+          0.0513,
+          0.925
+        ],
+        [
+          4,
+          0.0608,
+          0.3324
+        ]
+      ],
+      "ctx": [
+        [
+          "Q50",
+          [
+            [
+              0,
+              0.6163,
+              0.6353
+            ],
+            [
+              1,
+              0.0513,
+              0.3846
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7002,6 +13029,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q51.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4862,
+          0.5859
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.528,
+              0.5764
+            ]
+          ]
+        ],
+        [
+          "Q51(a)",
+          [
+            [
+              0,
+              0.5869,
+              0.6277
+            ],
+            [
+              1,
+              0.0636,
+              0.4824
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7032,6 +13093,40 @@
         "papers/biology/img/08AB-Nervous-Coordination-121.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-122.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-123.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5992,
+          0.9022
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.528,
+              0.5764
+            ]
+          ]
+        ],
+        [
+          "Q51(a)",
+          [
+            [
+              0,
+              0.5869,
+              0.6277
+            ],
+            [
+              1,
+              0.0636,
+              0.4824
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7064,6 +13159,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q51-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9155,
+          0.9345
+        ],
+        [
+          2,
+          0.0532,
+          0.6477
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.528,
+              0.5764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7094,6 +13213,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-121.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-122.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-123.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.661,
+          0.7825
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.528,
+              0.5764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7124,6 +13262,40 @@
         "papers/biology/img/08AB-Nervous-Coordination-121.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-122.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-123.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8262,
+          0.9373
+        ],
+        [
+          3,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.528,
+              0.5764
+            ]
+          ]
+        ],
+        [
+          "Q51(d)",
+          [
+            [
+              2,
+              0.8034,
+              0.8224
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7154,6 +13326,35 @@
         "papers/biology/img/08AB-Nervous-Coordination-121.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-122.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-123.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2802,
+          0.4948
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.528,
+              0.5764
+            ]
+          ]
+        ],
+        [
+          "Q51(d)",
+          [
+            [
+              2,
+              0.8034,
+              0.8224
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7184,6 +13385,30 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q52.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5394,
+          0.5584
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.641,
+              0.6895
+            ],
+            [
+              1,
+              0.0522,
+              0.5147
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7212,6 +13437,30 @@
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-123.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-124.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5831,
+          0.8775
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.641,
+              0.6895
+            ],
+            [
+              1,
+              0.0522,
+              0.5147
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7241,6 +13490,13 @@
         "papers/biology/img/08AB-Nervous-Coordination-125.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-126.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-127.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1909,
+          0.5888
+        ]
       ]
     },
     {
@@ -7270,6 +13526,13 @@
         "papers/biology/img/08AB-Nervous-Coordination-125.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-126.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-127.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6021,
+          0.7265
+        ]
       ]
     },
     {
@@ -7303,6 +13566,23 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q53.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7445,
+          0.9459
+        ],
+        [
+          1,
+          0.0684,
+          0.925
+        ],
+        [
+          2,
+          0.0608,
+          0.4786
+        ]
       ]
     },
     {
@@ -7334,6 +13614,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-129.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-130.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-131.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7037,
+          0.8101
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.6743,
+              0.6933
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7368,6 +13667,35 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q54.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.831,
+          0.887
+        ],
+        [
+          1,
+          0.0551,
+          0.9202
+        ],
+        [
+          2,
+          0.0532,
+          0.3989
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.6743,
+              0.6933
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7399,6 +13727,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-129.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-130.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-131.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4122,
+          0.8851
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.6743,
+              0.6933
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7431,6 +13778,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q54-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.5945,
+          0.8281
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.6743,
+              0.6933
+            ]
+          ]
+        ],
+        [
+          "Q54(d)",
+          [
+            [
+              2,
+              0.8984,
+              0.9326
+            ],
+            [
+              3,
+              0.0532,
+              0.5755
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7465,6 +13846,45 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q54-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.8348,
+          0.9459
+        ],
+        [
+          4,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.6743,
+              0.6933
+            ]
+          ]
+        ],
+        [
+          "Q54(d)",
+          [
+            [
+              2,
+              0.8984,
+              0.9326
+            ],
+            [
+              3,
+              0.0532,
+              0.5755
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7495,6 +13915,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-132.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-133.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-134.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3523,
+          0.4606
+        ]
+      ],
+      "ctx": [
+        [
+          "Q55",
+          [
+            [
+              0,
+              0.3238,
+              0.3428
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7525,6 +13964,25 @@
         "papers/biology/img/08AB-Nervous-Coordination-132.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-133.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-134.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4805,
+          0.5869
+        ]
+      ],
+      "ctx": [
+        [
+          "Q55",
+          [
+            [
+              0,
+              0.3238,
+              0.3428
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7555,6 +14013,30 @@
         "papers/biology/img/08AB-Nervous-Coordination-132.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-133.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-134.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6078,
+          0.6268
+        ],
+        [
+          1,
+          0.0522,
+          0.6923
+        ]
+      ],
+      "ctx": [
+        [
+          "Q55",
+          [
+            [
+              0,
+              0.3238,
+              0.3428
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7588,6 +14070,40 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q55.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5271,
+          0.6695
+        ]
+      ],
+      "ctx": [
+        [
+          "Q55",
+          [
+            [
+              0,
+              0.3238,
+              0.3428
+            ]
+          ]
+        ],
+        [
+          "Q55(d)",
+          [
+            [
+              1,
+              0.7056,
+              0.7768
+            ],
+            [
+              2,
+              0.0693,
+              0.5252
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -7620,6 +14136,45 @@
       ],
       "figures": [
         "papers/biology/fig/08AB-Nervous-Coordination-Q55.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6752,
+          0.9335
+        ],
+        [
+          3,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q55",
+          [
+            [
+              0,
+              0.3238,
+              0.3428
+            ]
+          ]
+        ],
+        [
+          "Q55(d)",
+          [
+            [
+              1,
+              0.7056,
+              0.7768
+            ],
+            [
+              2,
+              0.0693,
+              0.5252
+            ]
+          ]
+        ]
       ]
     }
   ]

@@ -35,6 +35,25 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6344,
+          0.9288
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.6211
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -69,6 +88,35 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q1.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1197,
+          0.5252
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.6211
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.1216
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -99,6 +147,35 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-01.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-02.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5309,
+          0.7607
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.6211
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.1216
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -129,6 +206,30 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-01.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-02.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.774,
+          0.9231
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.6211
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -160,6 +261,13 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2944,
+          0.6306
+        ]
       ]
     },
     {
@@ -189,6 +297,13 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-03.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7854,
+          0.9392
+        ]
       ]
     },
     {
@@ -218,6 +333,13 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-04.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-05.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2013,
+          0.4625
+        ]
       ]
     },
     {
@@ -247,6 +369,13 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-04.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-05.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5992,
+          0.7873
+        ]
       ]
     },
     {
@@ -277,6 +406,25 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-04.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-05.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-06.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6866,
+          0.8348
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              1,
+              0.0532,
+              0.6762
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -310,6 +458,30 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8481,
+          0.8822
+        ],
+        [
+          2,
+          0.0513,
+          0.6448
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              1,
+              0.0532,
+              0.6762
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -342,6 +514,30 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2488,
+          0.3856
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.7882,
+              0.8367
+            ],
+            [
+              1,
+              0.0513,
+              0.2393
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -375,6 +571,30 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.396,
+          0.6344
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.7882,
+              0.8367
+            ],
+            [
+              1,
+              0.0513,
+              0.2393
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -409,6 +629,30 @@
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q7.jpg",
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q7c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6458,
+          0.9003
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.7882,
+              0.8367
+            ],
+            [
+              1,
+              0.0513,
+              0.2393
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -436,6 +680,13 @@
       ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1643,
+          0.396
+        ]
       ]
     },
     {
@@ -463,6 +714,13 @@
       ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.603,
+          0.8129
+        ]
       ]
     },
     {
@@ -494,6 +752,13 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1396,
+          0.7236
+        ]
       ]
     },
     {
@@ -523,6 +788,18 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-09.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9183,
+          0.9373
+        ],
+        [
+          1,
+          0.0532,
+          0.1472
+        ]
       ]
     },
     {
@@ -551,6 +828,13 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-10.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3476,
+          0.5052
+        ]
       ]
     },
     {
@@ -582,6 +866,18 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7085,
+          0.7274
+        ],
+        [
+          1,
+          0.0513,
+          0.7341
+        ]
       ]
     },
     {
@@ -612,6 +908,13 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8889,
+          0.9079
+        ]
       ]
     },
     {
@@ -644,6 +947,18 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8082,
+          0.8718
+        ],
+        [
+          1,
+          0.0513,
+          0.8348
+        ]
       ]
     },
     {
@@ -675,6 +990,13 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1396,
+          0.5926
+        ]
       ]
     },
     {
@@ -706,6 +1028,18 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7369,
+          0.7683
+        ],
+        [
+          1,
+          0.0513,
+          0.415
+        ]
       ]
     },
     {
@@ -735,6 +1069,13 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-15.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6182,
+          0.7569
+        ]
       ]
     },
     {
@@ -766,6 +1107,13 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.5404
+        ]
       ]
     },
     {
@@ -798,6 +1146,25 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q20.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.6933,
+              0.9421
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -831,6 +1198,25 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q20-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5774,
+          0.7844
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.6933,
+              0.9421
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -864,6 +1250,30 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q20-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7977,
+          0.9316
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.6933,
+              0.9421
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -896,6 +1306,25 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q21-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.509,
+          0.6287
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.2156,
+              0.4986
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -929,6 +1358,35 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.3875
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.2156,
+              0.4986
+            ]
+          ]
+        ],
+        [
+          "Q21(b)",
+          [
+            [
+              0,
+              0.642,
+              0.9383
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -960,6 +1418,35 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3903,
+          0.4397
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.2156,
+              0.4986
+            ]
+          ]
+        ],
+        [
+          "Q21(b)",
+          [
+            [
+              0,
+              0.642,
+              0.9383
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -992,6 +1479,30 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4008,
+          0.5499
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.7417,
+              0.8196
+            ],
+            [
+              1,
+              0.0513,
+              0.3903
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1026,6 +1537,30 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5622,
+          0.7987
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.7417,
+              0.8196
+            ],
+            [
+              1,
+              0.0513,
+              0.3903
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1057,6 +1592,35 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-19.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-20.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.812,
+          0.9136
+        ],
+        [
+          2,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.7417,
+              0.8196
+            ],
+            [
+              1,
+              0.0513,
+              0.3903
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1086,6 +1650,35 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-21.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5451,
+          0.6866
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.4501,
+              0.5128
+            ]
+          ]
+        ],
+        [
+          "Q23(a)",
+          [
+            [
+              0,
+              0.5233,
+              0.5423
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1117,6 +1710,40 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-21.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6923,
+          0.9221
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.4501,
+              0.5128
+            ]
+          ]
+        ],
+        [
+          "Q23(a)",
+          [
+            [
+              0,
+              0.5233,
+              0.5423
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1150,6 +1777,25 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q23b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2279,
+          0.6885
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.4501,
+              0.5128
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1180,6 +1826,18 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8841,
+          0.9478
+        ],
+        [
+          1,
+          0.0598,
+          0.5394
+        ]
       ]
     },
     {
@@ -1205,6 +1863,13 @@
       ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.831,
+          0.85
+        ]
       ]
     },
     {
@@ -1234,6 +1899,13 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-24.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4397,
+          0.5632
+        ]
       ]
     },
     {
@@ -1264,6 +1936,18 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7635,
+          0.9402
+        ],
+        [
+          1,
+          0.0513,
+          0.0712
+        ]
       ]
     },
     {
@@ -1298,6 +1982,30 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q28a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6534,
+          0.9335
+        ],
+        [
+          1,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.226,
+              0.6429
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1329,6 +2037,25 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q28b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.17,
+          0.547
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.226,
+              0.6429
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1356,6 +2083,13 @@
       ],
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7436,
+          0.8794
+        ]
       ]
     },
     {
@@ -1414,6 +2148,13 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5157,
+          0.8034
+        ]
       ]
     },
     {
@@ -1441,6 +2182,13 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-27.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-28.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1244,
+          0.3808
+        ]
       ]
     },
     {
@@ -1470,6 +2218,13 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-28.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.566,
+          0.661
+        ]
       ]
     },
     {
@@ -1499,6 +2254,18 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-28.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8613,
+          0.9307
+        ],
+        [
+          1,
+          0.0513,
+          0.1054
+        ]
       ]
     },
     {
@@ -1526,6 +2293,13 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-29.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3086,
+          0.5651
+        ]
       ]
     },
     {
@@ -1557,6 +2331,18 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7502,
+          0.7977
+        ],
+        [
+          1,
+          0.1026,
+          0.4634
+        ]
       ]
     },
     {
@@ -1588,6 +2374,30 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-30.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-31.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.2887
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.6144,
+              0.9421
+            ],
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1616,6 +2426,30 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.302,
+          0.6828
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.6144,
+              0.9421
+            ],
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1646,6 +2480,40 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-30.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-31.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.717,
+          0.8746
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.6144,
+              0.9421
+            ],
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q37(c)",
+          [
+            [
+              1,
+              0.6961,
+              0.7151
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1678,6 +2546,45 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-30.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-31.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8803,
+          0.9449
+        ],
+        [
+          2,
+          0.0532,
+          0.4577
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.6144,
+              0.9421
+            ],
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q37(c)",
+          [
+            [
+              1,
+              0.6961,
+              0.7151
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1705,6 +2612,25 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-32.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1576
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.6049,
+              0.9392
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1737,6 +2663,25 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q38.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1709,
+          0.3922
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.6049,
+              0.9392
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1771,6 +2716,30 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8196,
+          0.8538
+        ],
+        [
+          1,
+          0.0513,
+          0.6002
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.5394,
+              0.8063
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1805,6 +2774,30 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q39-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6097,
+          0.9364
+        ],
+        [
+          2,
+          0.0826,
+          0.2374
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.5394,
+              0.8063
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1838,6 +2831,25 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q39-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2507,
+          0.7512
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.5394,
+              0.8063
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1872,6 +2884,30 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q39-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7626,
+          0.7977
+        ],
+        [
+          3,
+          0.0522,
+          0.4625
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.5394,
+              0.8063
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1904,6 +2940,30 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8642,
+          0.924
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.6068,
+              0.8547
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1937,6 +2997,25 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q40.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.245
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.6068,
+              0.8547
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1970,6 +3049,35 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q40c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.471,
+          0.7293
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.6068,
+              0.8547
+            ]
+          ]
+        ],
+        [
+          "Q40(c)",
+          [
+            [
+              1,
+              0.2583,
+              0.4672
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2002,6 +3110,35 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q40c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.735,
+          0.9202
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.6068,
+              0.8547
+            ]
+          ]
+        ],
+        [
+          "Q40(c)",
+          [
+            [
+              1,
+              0.2583,
+              0.4672
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2032,6 +3169,25 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4435,
+          0.622
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.1861,
+              0.434
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2062,6 +3218,25 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6344,
+          0.8594
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.1861,
+              0.434
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2093,6 +3268,25 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5679,
+          0.716
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.1197,
+              0.5575
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2128,6 +3322,30 @@
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q42.jpg",
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q42-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7293,
+          0.7854
+        ],
+        [
+          1,
+          0.0513,
+          0.887
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.1197,
+              0.5575
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2155,6 +3373,13 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-41.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-42.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.208,
+          0.4739
+        ]
       ]
     },
     {
@@ -2184,6 +3409,30 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-41.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-42.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-43.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4141,
+          0.5043
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.6097,
+              0.6287
+            ],
+            [
+              1,
+              0.0513,
+              0.4036
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2216,6 +3465,30 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q44.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5166,
+          0.7901
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.6097,
+              0.6287
+            ],
+            [
+              1,
+              0.0513,
+              0.4036
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2249,6 +3522,35 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q44-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.811,
+          0.8974
+        ],
+        [
+          2,
+          0.0665,
+          0.5878
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.6097,
+              0.6287
+            ],
+            [
+              1,
+              0.0513,
+              0.4036
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2280,6 +3582,30 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.924,
+          0.943
+        ],
+        [
+          1,
+          0.0532,
+          0.1358
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.7341,
+              0.9145
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2312,6 +3638,25 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q45.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1481,
+          0.2384
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.7341,
+              0.9145
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2346,6 +3691,30 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6154,
+          0.9392
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.3846,
+              0.6002
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2377,6 +3746,35 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q46.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1776,
+          0.3656
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.3846,
+              0.6002
+            ]
+          ]
+        ],
+        [
+          "Q46(b)",
+          [
+            [
+              1,
+              0.1406,
+              0.1719
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2405,6 +3803,35 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-44.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-45.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3694,
+          0.5252
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.3846,
+              0.6002
+            ]
+          ]
+        ],
+        [
+          "Q46(b)",
+          [
+            [
+              1,
+              0.1406,
+              0.1719
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2433,6 +3860,25 @@
       "images": [
         "papers/physics/img/16-3B-Behaviour-of-Waves-45.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7009,
+          0.8063
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.6724,
+              0.6914
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2466,6 +3912,40 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q47.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2811,
+          0.5869
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.6724,
+              0.6914
+            ]
+          ]
+        ],
+        [
+          "Q47(b)",
+          [
+            [
+              0,
+              0.8186,
+              0.8528
+            ],
+            [
+              1,
+              0.0513,
+              0.2821
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2498,6 +3978,40 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q47.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5897,
+          0.7892
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.6724,
+              0.6914
+            ]
+          ]
+        ],
+        [
+          "Q47(b)",
+          [
+            [
+              0,
+              0.8186,
+              0.8528
+            ],
+            [
+              1,
+              0.0513,
+              0.2821
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2528,6 +4042,13 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q48.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1187,
+          0.7227
+        ]
       ]
     },
     {
@@ -2559,6 +4080,13 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q49.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.4416
+        ]
       ]
     },
     {
@@ -2591,6 +4119,18 @@
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q50.jpg",
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q50-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6429,
+          0.8661
+        ],
+        [
+          1,
+          0.0522,
+          0.5518
+        ]
       ]
     },
     {
@@ -2620,6 +4160,30 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q51.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2431,
+          0.2621
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.7037,
+              0.9259
+            ],
+            [
+              1,
+              0.0532,
+              0.2327
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2651,6 +4215,30 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-49.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-50.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-51.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2877,
+          0.4938
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.7037,
+              0.9259
+            ],
+            [
+              1,
+              0.0532,
+              0.2327
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2681,6 +4269,40 @@
         "papers/physics/img/16-3B-Behaviour-of-Waves-49.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-50.jpg",
         "papers/physics/img/16-3B-Behaviour-of-Waves-51.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6467,
+          0.8481
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.7037,
+              0.9259
+            ],
+            [
+              1,
+              0.0532,
+              0.2327
+            ]
+          ]
+        ],
+        [
+          "Q51(c)",
+          [
+            [
+              1,
+              0.5071,
+              0.6534
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2713,6 +4335,45 @@
       ],
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q51-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8538,
+          0.8727
+        ],
+        [
+          2,
+          0.0522,
+          0.5632
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.7037,
+              0.9259
+            ],
+            [
+              1,
+              0.0532,
+              0.2327
+            ]
+          ]
+        ],
+        [
+          "Q51(c)",
+          [
+            [
+              1,
+              0.5071,
+              0.6534
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2744,6 +4405,18 @@
       "figures": [
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q52.jpg",
         "papers/physics/fig/16-3B-Behaviour-of-Waves-Q52-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7559,
+          0.9468
+        ],
+        [
+          1,
+          0.0532,
+          0.2877
+        ]
       ]
     }
   ]

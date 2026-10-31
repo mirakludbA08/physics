@@ -31,6 +31,25 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2118,
+          0.7521
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1795,
+              0.1994
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -62,6 +81,30 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q1-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7673,
+          0.8689
+        ],
+        [
+          1,
+          0.0446,
+          0.3077
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1795,
+              0.1994
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -96,6 +139,25 @@
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q1.jpg",
         "papers/biology/fig/07B-Muscles-Heart-Q1-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3238,
+          0.9278
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1795,
+              0.1994
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -127,6 +189,35 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6353,
+          0.8186
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3267,
+              0.3466
+            ]
+          ]
+        ],
+        [
+          "Q2(a)",
+          [
+            [
+              0,
+              0.3599,
+              0.6239
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -159,6 +250,40 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8338,
+          0.9506
+        ],
+        [
+          1,
+          0.0655,
+          0.0845
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3267,
+              0.3466
+            ]
+          ]
+        ],
+        [
+          "Q2(a)",
+          [
+            [
+              0,
+              0.3599,
+              0.6239
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -188,6 +313,35 @@
         "papers/biology/img/07B-Muscles-Heart-04.jpg",
         "papers/biology/img/07B-Muscles-Heart-05.jpg",
         "papers/biology/img/07B-Muscles-Heart-06.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0988,
+          0.3647
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3267,
+              0.3466
+            ]
+          ]
+        ],
+        [
+          "Q2(a)",
+          [
+            [
+              0,
+              0.3599,
+              0.6239
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -217,6 +371,35 @@
         "papers/biology/img/07B-Muscles-Heart-04.jpg",
         "papers/biology/img/07B-Muscles-Heart-05.jpg",
         "papers/biology/img/07B-Muscles-Heart-06.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3789,
+          0.5632
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3267,
+              0.3466
+            ]
+          ]
+        ],
+        [
+          "Q2(a)",
+          [
+            [
+              0,
+              0.3599,
+              0.6239
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -253,6 +436,35 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q2-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5774,
+          0.9592
+        ],
+        [
+          2,
+          0.0494,
+          0.9392
+        ],
+        [
+          3,
+          0.0741,
+          0.3761
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3267,
+              0.3466
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -284,6 +496,30 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3694,
+          0.5337
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.5878,
+              0.6562
+            ],
+            [
+              1,
+              0.0446,
+              0.358
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -315,6 +551,30 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5489,
+          0.6809
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.5878,
+              0.6562
+            ],
+            [
+              1,
+              0.0446,
+              0.358
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -346,6 +606,35 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6961,
+          0.9582
+        ],
+        [
+          2,
+          0.0741,
+          0.1149
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.5878,
+              0.6562
+            ],
+            [
+              1,
+              0.0446,
+              0.358
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -378,6 +667,30 @@
         "papers/biology/img/07B-Muscles-Heart-06.jpg",
         "papers/biology/img/07B-Muscles-Heart-07.jpg",
         "papers/biology/img/07B-Muscles-Heart-08.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1301,
+          0.5717
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.5878,
+              0.6562
+            ],
+            [
+              1,
+              0.0446,
+              0.358
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -410,6 +723,30 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5594,
+          0.6581
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7835,
+              0.8519
+            ],
+            [
+              1,
+              0.0446,
+              0.5489
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -442,6 +779,35 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6733,
+          0.9354
+        ],
+        [
+          2,
+          0.0741,
+          0.1149
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7835,
+              0.8519
+            ],
+            [
+              1,
+              0.0446,
+              0.5489
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -473,6 +839,30 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1301,
+          0.4739
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7835,
+              0.8519
+            ],
+            [
+              1,
+              0.0446,
+              0.5489
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -504,6 +894,30 @@
         "papers/biology/img/07B-Muscles-Heart-10.jpg",
         "papers/biology/img/07B-Muscles-Heart-11.jpg",
         "papers/biology/img/07B-Muscles-Heart-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7844,
+          0.9174
+        ],
+        [
+          1,
+          0.0655,
+          0.151
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7512,
+              0.7711
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -532,6 +946,35 @@
         "papers/biology/img/07B-Muscles-Heart-10.jpg",
         "papers/biology/img/07B-Muscles-Heart-11.jpg",
         "papers/biology/img/07B-Muscles-Heart-12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5128,
+          0.5954
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7512,
+              0.7711
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              1,
+              0.1652,
+              0.5014
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -561,6 +1004,35 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6106,
+          0.6933
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7512,
+              0.7711
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              1,
+              0.1652,
+              0.5014
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -589,6 +1061,35 @@
         "papers/biology/img/07B-Muscles-Heart-10.jpg",
         "papers/biology/img/07B-Muscles-Heart-11.jpg",
         "papers/biology/img/07B-Muscles-Heart-12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7417,
+          0.8566
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7512,
+              0.7711
+            ]
+          ]
+        ],
+        [
+          "Q5(c)",
+          [
+            [
+              1,
+              0.7085,
+              0.7274
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -616,6 +1117,35 @@
         "papers/biology/img/07B-Muscles-Heart-10.jpg",
         "papers/biology/img/07B-Muscles-Heart-11.jpg",
         "papers/biology/img/07B-Muscles-Heart-12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8699,
+          0.9221
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7512,
+              0.7711
+            ]
+          ]
+        ],
+        [
+          "Q5(c)",
+          [
+            [
+              1,
+              0.7085,
+              0.7274
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -647,6 +1177,25 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q5-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0655,
+          0.6344
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7512,
+              0.7711
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -675,6 +1224,25 @@
         "papers/biology/img/07B-Muscles-Heart-10.jpg",
         "papers/biology/img/07B-Muscles-Heart-11.jpg",
         "papers/biology/img/07B-Muscles-Heart-12.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6477,
+          0.83
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.7512,
+              0.7711
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -705,6 +1273,25 @@
         "papers/biology/img/07B-Muscles-Heart-14.jpg",
         "papers/biology/img/07B-Muscles-Heart-15.jpg",
         "papers/biology/img/07B-Muscles-Heart-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1966,
+          0.4948
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1643,
+              0.1842
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -733,6 +1320,35 @@
         "papers/biology/img/07B-Muscles-Heart-14.jpg",
         "papers/biology/img/07B-Muscles-Heart-15.jpg",
         "papers/biology/img/07B-Muscles-Heart-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5745,
+          0.7056
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1643,
+              0.1842
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              0,
+              0.509,
+              0.5594
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -765,6 +1381,40 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7217,
+          0.8575
+        ],
+        [
+          1,
+          0.0446,
+          0.1937
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1643,
+              0.1842
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              0,
+              0.509,
+              0.5594
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -802,6 +1452,45 @@
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q6-2.jpg",
         "papers/biology/fig/07B-Muscles-Heart-Q6-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2422,
+          0.8025
+        ],
+        [
+          2,
+          0.0446,
+          0.9373
+        ],
+        [
+          3,
+          0.0741,
+          0.1149
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1643,
+              0.1842
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              0,
+              0.509,
+              0.5594
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -832,6 +1521,25 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4264,
+          0.7901
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3922,
+              0.4122
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -862,6 +1570,40 @@
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q7-2.jpg",
         "papers/biology/fig/07B-Muscles-Heart-Q7-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2336,
+          0.4188
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3922,
+              0.4122
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              0,
+              0.8053,
+              0.9231
+            ],
+            [
+              1,
+              0.0446,
+              0.2222
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -894,6 +1636,40 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q7-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4321,
+          0.9231
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3922,
+              0.4122
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              0,
+              0.8053,
+              0.9231
+            ],
+            [
+              1,
+              0.0446,
+              0.2222
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -953,6 +1729,40 @@
         "papers/biology/img/07B-Muscles-Heart-16.jpg",
         "papers/biology/img/07B-Muscles-Heart-17.jpg",
         "papers/biology/img/07B-Muscles-Heart-18.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3922,
+          0.8329
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3922,
+              0.4122
+            ]
+          ]
+        ],
+        [
+          "Q7(c)",
+          [
+            [
+              1,
+              0.9383,
+              0.9573
+            ],
+            [
+              2,
+              0.0446,
+              0.3761
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -981,6 +1791,25 @@
         "papers/biology/img/07B-Muscles-Heart-19.jpg",
         "papers/biology/img/07B-Muscles-Heart-20.jpg",
         "papers/biology/img/07B-Muscles-Heart-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1966,
+          0.3799
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1643,
+              0.1842
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1010,6 +1839,25 @@
         "papers/biology/img/07B-Muscles-Heart-19.jpg",
         "papers/biology/img/07B-Muscles-Heart-20.jpg",
         "papers/biology/img/07B-Muscles-Heart-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3951,
+          0.6762
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1643,
+              0.1842
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1040,6 +1888,40 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q8-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3352,
+          0.5195
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1643,
+              0.1842
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              0,
+              0.6914,
+              0.7113
+            ],
+            [
+              1,
+              0.0446,
+              0.3229
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1069,6 +1951,40 @@
         "papers/biology/img/07B-Muscles-Heart-19.jpg",
         "papers/biology/img/07B-Muscles-Heart-20.jpg",
         "papers/biology/img/07B-Muscles-Heart-21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5337,
+          0.8765
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1643,
+              0.1842
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              0,
+              0.6914,
+              0.7113
+            ],
+            [
+              1,
+              0.0446,
+              0.3229
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1100,6 +2016,30 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q8.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8936,
+          0.9592
+        ],
+        [
+          2,
+          0.0513,
+          0.7749
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1643,
+              0.1842
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1246,6 +2186,25 @@
         "papers/biology/img/07B-Muscles-Heart-24.jpg",
         "papers/biology/img/07B-Muscles-Heart-25.jpg",
         "papers/biology/img/07B-Muscles-Heart-26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7265,
+          0.9098
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.4255,
+              0.7151
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1273,6 +2232,30 @@
         "papers/biology/img/07B-Muscles-Heart-24.jpg",
         "papers/biology/img/07B-Muscles-Heart-25.jpg",
         "papers/biology/img/07B-Muscles-Heart-26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.924,
+          0.944
+        ],
+        [
+          1,
+          0.0646,
+          0.1833
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.4255,
+              0.7151
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1300,6 +2283,25 @@
         "papers/biology/img/07B-Muscles-Heart-24.jpg",
         "papers/biology/img/07B-Muscles-Heart-25.jpg",
         "papers/biology/img/07B-Muscles-Heart-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1985,
+          0.3818
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.4255,
+              0.7151
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1331,6 +2333,35 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6363,
+          0.8822
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.4255,
+              0.7151
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              1,
+              0.397,
+              0.6249
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1360,6 +2391,40 @@
         "papers/biology/img/07B-Muscles-Heart-24.jpg",
         "papers/biology/img/07B-Muscles-Heart-25.jpg",
         "papers/biology/img/07B-Muscles-Heart-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8974,
+          0.9174
+        ],
+        [
+          2,
+          0.0741,
+          0.3105
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.4255,
+              0.7151
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              1,
+              0.397,
+              0.6249
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1388,6 +2453,25 @@
         "papers/biology/img/07B-Muscles-Heart-26.jpg",
         "papers/biology/img/07B-Muscles-Heart-27.jpg",
         "papers/biology/img/07B-Muscles-Heart-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5878,
+          0.7028
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.5223,
+              0.5423
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1419,6 +2503,40 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2612,
+          0.5878
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.5223,
+              0.5423
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              0,
+              0.7512,
+              0.7711
+            ],
+            [
+              1,
+              0.0446,
+              0.2412
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1449,6 +2567,40 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6344,
+          0.8167
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.5223,
+              0.5423
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              0,
+              0.7512,
+              0.7711
+            ],
+            [
+              1,
+              0.0446,
+              0.2412
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1478,6 +2630,30 @@
         "papers/biology/img/07B-Muscles-Heart-26.jpg",
         "papers/biology/img/07B-Muscles-Heart-27.jpg",
         "papers/biology/img/07B-Muscles-Heart-28.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8651,
+          0.9174
+        ],
+        [
+          2,
+          0.0741,
+          0.4084
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.5223,
+              0.5423
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1506,6 +2682,25 @@
         "papers/biology/img/07B-Muscles-Heart-28.jpg",
         "papers/biology/img/07B-Muscles-Heart-29.jpg",
         "papers/biology/img/07B-Muscles-Heart-30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6524,
+          0.9307
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.6201,
+              0.6401
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1540,6 +2735,30 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0978,
+          0.9563
+        ],
+        [
+          2,
+          0.0741,
+          0.246
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.6201,
+              0.6401
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1572,6 +2791,30 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5556,
+          0.9307
+        ],
+        [
+          1,
+          0.0741,
+          0.1804
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5233,
+              0.5404
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1598,6 +2841,25 @@
         "papers/biology/img/07B-Muscles-Heart-31.jpg",
         "papers/biology/img/07B-Muscles-Heart-32.jpg",
         "papers/biology/img/07B-Muscles-Heart-33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1956,
+          0.2783
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5233,
+              0.5404
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1626,6 +2888,35 @@
         "papers/biology/img/07B-Muscles-Heart-31.jpg",
         "papers/biology/img/07B-Muscles-Heart-32.jpg",
         "papers/biology/img/07B-Muscles-Heart-33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3571,
+          0.8196
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5233,
+              0.5404
+            ]
+          ]
+        ],
+        [
+          "Q13(c)",
+          [
+            [
+              1,
+              0.2934,
+              0.3466
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1657,6 +2948,40 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q13-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8291,
+          0.9478
+        ],
+        [
+          2,
+          0.0636,
+          0.1159
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5233,
+              0.5404
+            ]
+          ]
+        ],
+        [
+          "Q13(c)",
+          [
+            [
+              1,
+              0.2934,
+              0.3466
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1687,6 +3012,35 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q13-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1311,
+          0.2137
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5233,
+              0.5404
+            ]
+          ]
+        ],
+        [
+          "Q13(c)",
+          [
+            [
+              1,
+              0.2934,
+              0.3466
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1717,6 +3071,35 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q13-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5442,
+          0.8879
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5233,
+              0.5404
+            ]
+          ]
+        ],
+        [
+          "Q13(d)",
+          [
+            [
+              2,
+              0.2289,
+              0.5328
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1748,6 +3131,40 @@
         "papers/biology/img/07B-Muscles-Heart-31.jpg",
         "papers/biology/img/07B-Muscles-Heart-32.jpg",
         "papers/biology/img/07B-Muscles-Heart-33.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.9041,
+          0.9563
+        ],
+        [
+          3,
+          0.1064,
+          0.3761
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5233,
+              0.5404
+            ]
+          ]
+        ],
+        [
+          "Q13(d)",
+          [
+            [
+              2,
+              0.2289,
+              0.5328
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1777,6 +3194,35 @@
         "papers/biology/img/07B-Muscles-Heart-31.jpg",
         "papers/biology/img/07B-Muscles-Heart-32.jpg",
         "papers/biology/img/07B-Muscles-Heart-33.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.3922,
+          0.6695
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.5233,
+              0.5404
+            ]
+          ]
+        ],
+        [
+          "Q13(d)",
+          [
+            [
+              2,
+              0.2289,
+              0.5328
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1807,6 +3253,30 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3609,
+          0.6068
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.9478,
+              0.9592
+            ],
+            [
+              1,
+              0.0446,
+              0.3381
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1837,6 +3307,45 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8784,
+          0.9592
+        ],
+        [
+          2,
+          0.0655,
+          0.1187
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.9478,
+              0.9592
+            ],
+            [
+              1,
+              0.0446,
+              0.3381
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              1,
+              0.622,
+              0.867
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1868,6 +3377,40 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.132,
+          0.378
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.9478,
+              0.9592
+            ],
+            [
+              1,
+              0.0446,
+              0.3381
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              1,
+              0.622,
+              0.867
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1898,6 +3441,40 @@
         "papers/biology/img/07B-Muscles-Heart-34.jpg",
         "papers/biology/img/07B-Muscles-Heart-35.jpg",
         "papers/biology/img/07B-Muscles-Heart-36.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4748,
+          0.7208
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.9478,
+              0.9592
+            ],
+            [
+              1,
+              0.0446,
+              0.3381
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              2,
+              0.3932,
+              0.4625
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1925,6 +3502,40 @@
         "papers/biology/img/07B-Muscles-Heart-34.jpg",
         "papers/biology/img/07B-Muscles-Heart-35.jpg",
         "papers/biology/img/07B-Muscles-Heart-36.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.736,
+          0.8841
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.9478,
+              0.9592
+            ],
+            [
+              1,
+              0.0446,
+              0.3381
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              2,
+              0.3932,
+              0.4625
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1956,6 +3567,45 @@
         "papers/biology/img/07B-Muscles-Heart-34.jpg",
         "papers/biology/img/07B-Muscles-Heart-35.jpg",
         "papers/biology/img/07B-Muscles-Heart-36.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8993,
+          0.9326
+        ],
+        [
+          3,
+          0.0446,
+          0.49
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.9478,
+              0.9592
+            ],
+            [
+              1,
+              0.0446,
+              0.3381
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              2,
+              0.3932,
+              0.4625
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1984,6 +3634,30 @@
         "papers/biology/img/07B-Muscles-Heart-37.jpg",
         "papers/biology/img/07B-Muscles-Heart-38.jpg",
         "papers/biology/img/07B-Muscles-Heart-39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8167,
+          0.9316
+        ],
+        [
+          1,
+          0.0655,
+          0.151
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.7683,
+              0.8015
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2015,6 +3689,35 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.509,
+          0.6923
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.7683,
+              0.8015
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              1,
+              0.1652,
+              0.4644
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2046,6 +3749,35 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7075,
+          0.8224
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.7683,
+              0.8015
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              1,
+              0.1652,
+              0.4644
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2077,6 +3809,40 @@
         "papers/biology/img/07B-Muscles-Heart-37.jpg",
         "papers/biology/img/07B-Muscles-Heart-38.jpg",
         "papers/biology/img/07B-Muscles-Heart-39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8708,
+          0.9041
+        ],
+        [
+          2,
+          0.0741,
+          0.4084
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.7683,
+              0.8015
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              1,
+              0.1652,
+              0.4644
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2110,6 +3876,30 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q15-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4568,
+          0.9535
+        ],
+        [
+          3,
+          0.0741,
+          0.2127
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.7683,
+              0.8015
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2136,6 +3926,30 @@
       "images": [
         "papers/biology/img/07B-Muscles-Heart-39.jpg",
         "papers/biology/img/07B-Muscles-Heart-40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8205,
+          0.9392
+        ],
+        [
+          1,
+          0.0636,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.491,
+              0.8091
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2165,6 +3979,25 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0978,
+          0.2811
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.491,
+              0.8091
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2194,6 +4027,25 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2963,
+          0.5423
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.491,
+              0.8091
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2223,6 +4075,25 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5575,
+          0.7047
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.491,
+              0.8091
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2251,6 +4122,25 @@
         "papers/biology/img/07B-Muscles-Heart-41.jpg",
         "papers/biology/img/07B-Muscles-Heart-42.jpg",
         "papers/biology/img/07B-Muscles-Heart-43.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0988,
+          0.284
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              1,
+              0.0655,
+              0.0855
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2282,6 +4172,35 @@
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q17.jpg",
         "papers/biology/fig/07B-Muscles-Heart-Q17-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6667,
+          0.8851
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              1,
+              0.0655,
+              0.0855
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              1,
+              0.2972,
+              0.6581
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2313,6 +4232,40 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q17.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9003,
+          0.9364
+        ],
+        [
+          2,
+          0.0446,
+          0.4473
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              1,
+              0.0655,
+              0.0855
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              1,
+              0.2972,
+              0.6581
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2345,6 +4298,40 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q17-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.868,
+          0.9364
+        ],
+        [
+          3,
+          0.0665,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              1,
+              0.0655,
+              0.0855
+            ]
+          ]
+        ],
+        [
+          "Q17(c)",
+          [
+            [
+              2,
+              0.4625,
+              0.8547
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2376,6 +4363,35 @@
         "papers/biology/img/07B-Muscles-Heart-41.jpg",
         "papers/biology/img/07B-Muscles-Heart-42.jpg",
         "papers/biology/img/07B-Muscles-Heart-43.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.0978,
+          0.6211
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              1,
+              0.0655,
+              0.0855
+            ]
+          ]
+        ],
+        [
+          "Q17(c)",
+          [
+            [
+              2,
+              0.4625,
+              0.8547
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2406,6 +4422,30 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3504,
+          0.5755
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18(a)",
+          [
+            [
+              0,
+              0.8329,
+              0.9174
+            ],
+            [
+              1,
+              0.0446,
+              0.3362
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2438,6 +4478,35 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q18-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5926,
+          0.9364
+        ],
+        [
+          2,
+          0.0741,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18(a)",
+          [
+            [
+              0,
+              0.8329,
+              0.9174
+            ],
+            [
+              1,
+              0.0446,
+              0.3362
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2468,6 +4537,13 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q18-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1633,
+          0.7968
+        ]
       ]
     },
     {
@@ -2622,6 +4698,40 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8822,
+          0.9592
+        ],
+        [
+          1,
+          0.0446,
+          0.2412
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.6534,
+              0.6733
+            ]
+          ]
+        ],
+        [
+          "Q20(a)",
+          [
+            [
+              0,
+              0.6866,
+              0.8367
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2657,6 +4767,40 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q20-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2593,
+          0.9487
+        ],
+        [
+          2,
+          0.0741,
+          0.5717
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.6534,
+              0.6733
+            ]
+          ]
+        ],
+        [
+          "Q20(a)",
+          [
+            [
+              0,
+              0.6866,
+              0.8367
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2687,6 +4831,30 @@
         "papers/biology/img/07B-Muscles-Heart-49.jpg",
         "papers/biology/img/07B-Muscles-Heart-50.jpg",
         "papers/biology/img/07B-Muscles-Heart-51.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5878,
+          0.9497
+        ],
+        [
+          3,
+          0.0446,
+          0.4739
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.6534,
+              0.6733
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2717,6 +4885,30 @@
         "papers/biology/img/07B-Muscles-Heart-52.jpg",
         "papers/biology/img/07B-Muscles-Heart-53.jpg",
         "papers/biology/img/07B-Muscles-Heart-54.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7835,
+          0.9307
+        ],
+        [
+          1,
+          0.0741,
+          0.1804
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.6857,
+              0.7683
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2745,6 +4937,35 @@
         "papers/biology/img/07B-Muscles-Heart-52.jpg",
         "papers/biology/img/07B-Muscles-Heart-53.jpg",
         "papers/biology/img/07B-Muscles-Heart-54.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2612,
+          0.3599
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.6857,
+              0.7683
+            ]
+          ]
+        ],
+        [
+          "Q21(b)",
+          [
+            [
+              1,
+              0.1956,
+              0.2488
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2773,6 +4994,35 @@
         "papers/biology/img/07B-Muscles-Heart-52.jpg",
         "papers/biology/img/07B-Muscles-Heart-53.jpg",
         "papers/biology/img/07B-Muscles-Heart-54.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3751,
+          0.5584
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.6857,
+              0.7683
+            ]
+          ]
+        ],
+        [
+          "Q21(b)",
+          [
+            [
+              1,
+              0.1956,
+              0.2488
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2804,6 +5054,40 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q21.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3466,
+          0.5916
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.6857,
+              0.7683
+            ]
+          ]
+        ],
+        [
+          "Q21(c)",
+          [
+            [
+              1,
+              0.5708,
+              0.6562
+            ],
+            [
+              2,
+              0.0465,
+              0.3352
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2834,6 +5118,40 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q21.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6078,
+          0.7711
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.6857,
+              0.7683
+            ]
+          ]
+        ],
+        [
+          "Q21(c)",
+          [
+            [
+              1,
+              0.5708,
+              0.6562
+            ],
+            [
+              2,
+              0.0465,
+              0.3352
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2865,6 +5183,40 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q21.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7873,
+          0.9516
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.6857,
+              0.7683
+            ]
+          ]
+        ],
+        [
+          "Q21(c)",
+          [
+            [
+              1,
+              0.5708,
+              0.6562
+            ],
+            [
+              2,
+              0.0465,
+              0.3352
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2895,6 +5247,35 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5204,
+          0.7056
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.2944,
+              0.3115
+            ]
+          ]
+        ],
+        [
+          "Q22(a)",
+          [
+            [
+              0,
+              0.3267,
+              0.509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2925,6 +5306,35 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7189,
+          0.85
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.2944,
+              0.3115
+            ]
+          ]
+        ],
+        [
+          "Q22(a)",
+          [
+            [
+              0,
+              0.3267,
+              0.509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2954,6 +5364,40 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8651,
+          0.9478
+        ],
+        [
+          1,
+          0.0446,
+          0.4739
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.2944,
+              0.3115
+            ]
+          ]
+        ],
+        [
+          "Q22(a)",
+          [
+            [
+              0,
+              0.3267,
+              0.509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3013,6 +5457,40 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q22-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3267,
+          0.3466
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.2944,
+              0.3115
+            ]
+          ]
+        ],
+        [
+          "Q22(c)",
+          [
+            [
+              1,
+              0.491,
+              0.9202
+            ],
+            [
+              2,
+              0.0446,
+              0.3153
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3042,6 +5520,40 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q22-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3913,
+          0.4767
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.2944,
+              0.3115
+            ]
+          ]
+        ],
+        [
+          "Q22(c)",
+          [
+            [
+              1,
+              0.491,
+              0.9202
+            ],
+            [
+              2,
+              0.0446,
+              0.3153
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3072,6 +5584,40 @@
       ],
       "figures": [
         "papers/biology/fig/07B-Muscles-Heart-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4349,
+          0.7787
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.6857,
+              0.7028
+            ]
+          ]
+        ],
+        [
+          "Q23(a)",
+          [
+            [
+              0,
+              0.7179,
+              0.9497
+            ],
+            [
+              1,
+              0.0446,
+              0.4112
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3102,6 +5648,45 @@
         "papers/biology/img/07B-Muscles-Heart-56.jpg",
         "papers/biology/img/07B-Muscles-Heart-57.jpg",
         "papers/biology/img/07B-Muscles-Heart-58.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7949,
+          0.9582
+        ],
+        [
+          2,
+          0.0741,
+          0.3105
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.6857,
+              0.7028
+            ]
+          ]
+        ],
+        [
+          "Q23(a)",
+          [
+            [
+              0,
+              0.7179,
+              0.9497
+            ],
+            [
+              1,
+              0.0446,
+              0.4112
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3129,6 +5714,25 @@
         "papers/biology/img/07B-Muscles-Heart-56.jpg",
         "papers/biology/img/07B-Muscles-Heart-57.jpg",
         "papers/biology/img/07B-Muscles-Heart-58.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3238,
+          0.5394
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.6857,
+              0.7028
+            ]
+          ]
+        ]
       ]
     }
   ]

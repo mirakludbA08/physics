@@ -28,6 +28,13 @@
       ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-01.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1216,
+          0.2934
+        ]
       ]
     },
     {
@@ -55,6 +62,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/03A-Ionic-Bonding-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4549,
+          0.7996
+        ]
       ]
     },
     {
@@ -108,6 +122,13 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-02.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5318,
+          0.6733
+        ]
       ]
     },
     {
@@ -137,6 +158,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/03A-Ionic-Bonding-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8348,
+          0.8509
+        ],
+        [
+          1,
+          0.0617,
+          0.3191
+        ]
       ]
     },
     {
@@ -161,6 +194,13 @@
       ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4729,
+          0.5821
+        ]
       ]
     },
     {
@@ -186,6 +226,13 @@
       ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7835,
+          0.8746
+        ]
       ]
     },
     {
@@ -212,6 +259,13 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-04.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1909,
+          0.2858
+        ]
       ]
     },
     {
@@ -238,6 +292,13 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-04.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4862,
+          0.5774
+        ]
       ]
     },
     {
@@ -265,6 +326,13 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-04.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7816,
+          0.8879
+        ]
       ]
     },
     {
@@ -292,6 +360,13 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-05.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2137,
+          0.3542
+        ]
       ]
     },
     {
@@ -318,6 +393,13 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-05.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.566,
+          0.7388
+        ]
       ]
     },
     {
@@ -343,6 +425,13 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-05.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-06.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1443
+        ]
       ]
     },
     {
@@ -370,6 +459,13 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-06.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3476,
+          0.4891
+        ]
       ]
     },
     {
@@ -397,6 +493,13 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-06.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6999,
+          0.7911
+        ]
       ]
     },
     {
@@ -422,6 +525,13 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-06.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-07.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.1937
+        ]
       ]
     },
     {
@@ -446,6 +556,13 @@
       ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4141,
+          0.5081
+        ]
       ]
     },
     {
@@ -472,6 +589,13 @@
       ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7265,
+          0.8794
+        ]
       ]
     },
     {
@@ -497,6 +621,35 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-08.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4739,
+          0.4929
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.1425,
+              0.1614
+            ]
+          ]
+        ],
+        [
+          "Q19(a)",
+          [
+            [
+              0,
+              0.1709,
+              0.472
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -525,6 +678,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/03A-Ionic-Bonding-Q19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5793,
+          0.7198
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.1425,
+              0.1614
+            ]
+          ]
+        ],
+        [
+          "Q19(a)",
+          [
+            [
+              0,
+              0.1709,
+              0.472
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -551,6 +733,35 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-08.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7559,
+          0.7892
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.1425,
+              0.1614
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              0,
+              0.7331,
+              0.7521
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -577,6 +788,35 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-08.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0665,
+          0.1168
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.1425,
+              0.1614
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              0,
+              0.7331,
+              0.7521
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -603,6 +843,35 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-08.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2783,
+          0.3267
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.1425,
+              0.1614
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              0,
+              0.7331,
+              0.7521
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -628,6 +897,25 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-08.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4207,
+          0.51
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.1425,
+              0.1614
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -652,6 +940,13 @@
       ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7227,
+          0.8167
+        ]
       ]
     },
     {
@@ -681,6 +976,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/03A-Ionic-Bonding-Q21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1396,
+          0.3884
+        ]
       ]
     },
     {
@@ -707,6 +1009,13 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-10.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8243,
+          0.9155
+        ]
       ]
     },
     {
@@ -733,6 +1042,13 @@
       ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2526,
+          0.3438
+        ]
       ]
     },
     {
@@ -759,6 +1075,25 @@
       ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6087,
+          0.716
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.5651,
+              0.5964
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -784,6 +1119,25 @@
       ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.736,
+          0.8452
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.5651,
+              0.5964
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -811,6 +1165,13 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-12.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1538,
+          0.246
+        ]
       ]
     },
     {
@@ -841,6 +1202,18 @@
       "figures": [
         "papers/chemistry/fig/03A-Ionic-Bonding-Q26.jpg",
         "papers/chemistry/fig/03A-Ionic-Bonding-Q26-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4492,
+          0.8386
+        ],
+        [
+          1,
+          0.0636,
+          0.2232
+        ]
       ]
     },
     {
@@ -869,6 +1242,13 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-13.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4093,
+          0.5033
+        ]
       ]
     },
     {
@@ -896,6 +1276,13 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-13.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7047,
+          0.7958
+        ]
       ]
     },
     {
@@ -922,6 +1309,13 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-13.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.208
+        ]
       ]
     },
     {
@@ -953,6 +1347,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/03A-Ionic-Bonding-Q30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4122,
+          0.7123
+        ]
       ]
     },
     {
@@ -985,6 +1386,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/03A-Ionic-Bonding-Q31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1481,
+          0.8433
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.849,
+              0.8651
+            ],
+            [
+              1,
+              0.0522,
+              0.1377
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1016,6 +1441,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/03A-Ionic-Bonding-Q31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8471,
+          0.9003
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.849,
+              0.8651
+            ],
+            [
+              1,
+              0.0522,
+              0.1377
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1044,6 +1493,35 @@
         "papers/chemistry/img/03A-Ionic-Bonding-15.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-16.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-17.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.906,
+          0.925
+        ],
+        [
+          2,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.849,
+              0.8651
+            ],
+            [
+              1,
+              0.0522,
+              0.1377
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1071,6 +1549,40 @@
         "papers/chemistry/img/03A-Ionic-Bonding-15.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-16.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-17.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3381,
+          0.4207
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.849,
+              0.8651
+            ],
+            [
+              1,
+              0.0522,
+              0.1377
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              2,
+              0.3162,
+              0.3352
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1100,6 +1612,40 @@
         "papers/chemistry/img/03A-Ionic-Bonding-15.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-16.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-17.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4274,
+          0.7293
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.849,
+              0.8651
+            ],
+            [
+              1,
+              0.0522,
+              0.1377
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              2,
+              0.3162,
+              0.3352
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1128,6 +1674,40 @@
         "papers/chemistry/img/03A-Ionic-Bonding-15.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-16.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-17.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.735,
+          0.9345
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.849,
+              0.8651
+            ],
+            [
+              1,
+              0.0522,
+              0.1377
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              2,
+              0.3162,
+              0.3352
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1154,6 +1734,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/03A-Ionic-Bonding-Q32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4141,
+          0.5204
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.1861,
+              0.4046
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1180,6 +1779,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/03A-Ionic-Bonding-Q32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5413,
+          0.6477
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.1861,
+              0.4046
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1206,6 +1824,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/03A-Ionic-Bonding-Q32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6686,
+          0.7749
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.1861,
+              0.4046
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1233,6 +1870,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/03A-Ionic-Bonding-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.226,
+          0.3172
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              1,
+              0.1016,
+              0.2156
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1260,6 +1916,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/03A-Ionic-Bonding-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3381,
+          0.4292
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              1,
+              0.1016,
+              0.2156
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1286,6 +1961,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/03A-Ionic-Bonding-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4501,
+          0.5413
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              1,
+              0.1016,
+              0.2156
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1313,6 +2007,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/03A-Ionic-Bonding-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5632,
+          0.6543
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              1,
+              0.1016,
+              0.2156
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1339,6 +2052,18 @@
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-18.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8575,
+          0.9345
+        ],
+        [
+          1,
+          0.0513,
+          0.0741
+        ]
       ]
     },
     {
@@ -1362,6 +2087,25 @@
       ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3039,
+          0.4131
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.2735,
+              0.2934
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1386,6 +2130,25 @@
       ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4311,
+          0.5375
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.2735,
+              0.2934
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1413,6 +2176,13 @@
       ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7588,
+          0.85
+        ]
       ]
     },
     {
@@ -1439,6 +2209,13 @@
       ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1197,
+          0.2118
+        ]
       ]
     },
     {
@@ -1463,6 +2240,13 @@
       ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.415,
+          0.5242
+        ]
       ]
     }
   ]

@@ -179,6 +179,25 @@
         "papers/chemistry/img/13-Chemical-Equilibria-02.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-03.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-04.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3457,
+          0.396
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.3267
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -208,6 +227,25 @@
         "papers/chemistry/img/13-Chemical-Equilibria-02.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-03.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-04.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6391,
+          0.6999
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.3267
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -237,6 +275,35 @@
         "papers/chemistry/img/13-Chemical-Equilibria-02.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-03.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-04.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1282,
+          0.416
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.3267
+            ]
+          ]
+        ],
+        [
+          "Q1(b)(ii)",
+          [
+            [
+              2,
+              0.6391,
+              0.6999
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -263,6 +330,13 @@
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-04.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5632,
+          0.7227
+        ]
       ]
     },
     {
@@ -293,6 +367,30 @@
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q3-2.jpg",
         "papers/chemistry/fig/13-Chemical-Equilibria-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4103,
+          0.5195
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8756,
+              0.9069
+            ],
+            [
+              1,
+              0.0608,
+              0.3998
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -322,6 +420,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q3-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5375,
+          0.6591
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8756,
+              0.9069
+            ],
+            [
+              1,
+              0.0608,
+              0.3998
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -350,6 +472,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8632,
+          0.8965
+        ],
+        [
+          1,
+          0.0513,
+          0.2925
+        ]
       ]
     },
     {
@@ -379,6 +513,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4786,
+          0.8025
+        ]
       ]
     },
     {
@@ -412,6 +553,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2764,
+          0.3248
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              1,
+              0.0532,
+              0.0712
+            ]
+          ]
+        ],
+        [
+          "Q6(a)",
+          [
+            [
+              1,
+              0.0817,
+              0.2697
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -444,6 +614,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5613,
+          0.8348
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              1,
+              0.0532,
+              0.0712
+            ]
+          ]
+        ],
+        [
+          "Q6(a)",
+          [
+            [
+              1,
+              0.0817,
+              0.2697
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -475,6 +674,45 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8405,
+          0.8594
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              1,
+              0.0532,
+              0.0712
+            ]
+          ]
+        ],
+        [
+          "Q6(a)",
+          [
+            [
+              1,
+              0.0817,
+              0.2697
+            ]
+          ]
+        ],
+        [
+          "Q6(a)(i)",
+          [
+            [
+              1,
+              0.2764,
+              0.3248
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -508,6 +746,40 @@
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q6-2.jpg",
         "papers/chemistry/fig/13-Chemical-Equilibria-Q6-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5005,
+          0.5337
+        ],
+        [
+          3,
+          0.057,
+          0.4843
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              1,
+              0.0532,
+              0.0712
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              2,
+              0.2184,
+              0.491
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -538,6 +810,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.5233,
+          0.5423
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              1,
+              0.0532,
+              0.0712
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              2,
+              0.2184,
+              0.491
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -570,6 +871,40 @@
         "papers/chemistry/img/13-Chemical-Equilibria-08.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-09.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-10.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.7028,
+          0.9183
+        ],
+        [
+          4,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              1,
+              0.0532,
+              0.0712
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              2,
+              0.2184,
+              0.491
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -601,6 +936,25 @@
         "papers/chemistry/img/13-Chemical-Equilibria-08.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-09.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-10.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.1396,
+          0.4207
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              1,
+              0.0532,
+              0.0712
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -636,6 +990,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q7-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6657,
+          0.8946
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.5679,
+              0.6182
+            ]
+          ]
+        ],
+        [
+          "Q7(a)",
+          [
+            [
+              0,
+              0.6277,
+              0.6619
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -668,6 +1051,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q7-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9003,
+          0.9193
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.5679,
+              0.6182
+            ]
+          ]
+        ],
+        [
+          "Q7(a)",
+          [
+            [
+              0,
+              0.6277,
+              0.6619
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -700,6 +1117,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q7-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1918,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.5679,
+              0.6182
+            ]
+          ]
+        ],
+        [
+          "Q7(a)",
+          [
+            [
+              0,
+              0.6277,
+              0.6619
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -733,6 +1179,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4587,
+          0.7322
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.5679,
+              0.6182
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              1,
+              0.3751,
+              0.4558
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -761,6 +1236,35 @@
         "papers/chemistry/img/13-Chemical-Equilibria-11.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-12.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8215,
+          0.8405
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.5679,
+              0.6182
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              1,
+              0.3751,
+              0.4558
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -791,6 +1295,55 @@
         "papers/chemistry/img/13-Chemical-Equilibria-11.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-12.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-13.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.188,
+          0.2222
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.5679,
+              0.6182
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              1,
+              0.3751,
+              0.4558
+            ]
+          ]
+        ],
+        [
+          "Q7(b)(i)",
+          [
+            [
+              1,
+              0.4587,
+              0.7322
+            ]
+          ]
+        ],
+        [
+          "Q7(b)(ii)",
+          [
+            [
+              1,
+              0.8215,
+              0.8405
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -818,6 +1371,45 @@
         "papers/chemistry/img/13-Chemical-Equilibria-11.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-12.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-13.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3837,
+          0.4027
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.5679,
+              0.6182
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              1,
+              0.3751,
+              0.4558
+            ]
+          ]
+        ],
+        [
+          "Q7(b)(iii)",
+          [
+            [
+              2,
+              0.188,
+              0.2222
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -852,6 +1444,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q7-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8708,
+          0.9259
+        ],
+        [
+          3,
+          0.0541,
+          0.4036
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.5679,
+              0.6182
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -878,6 +1494,13 @@
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-13.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5964,
+          0.7968
+        ]
       ]
     },
     {
@@ -908,6 +1531,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q9.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1861,
+          0.3485
+        ]
       ]
     },
     {
@@ -936,6 +1566,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3514,
+          0.5594
+        ]
       ]
     },
     {
@@ -965,6 +1602,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8224,
+          0.8414
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.7066,
+              0.7597
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              0,
+              0.7702,
+              0.8158
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -998,6 +1664,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.113,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.7066,
+              0.7597
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              0,
+              0.7702,
+              0.8158
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1030,6 +1725,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4653,
+          0.8927
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.7066,
+              0.7597
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1055,6 +1769,25 @@
       ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2669,
+          0.3742
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.208,
+              0.2564
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1080,6 +1813,25 @@
       ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3941,
+          0.5157
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.208,
+              0.2564
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1104,6 +1856,13 @@
       ],
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.736,
+          0.886
+        ]
       ]
     },
     {
@@ -1133,6 +1892,25 @@
         "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-19.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2944,
+          0.4188
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.1909,
+              0.284
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1162,6 +1940,25 @@
         "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-19.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4368,
+          0.5613
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.1909,
+              0.284
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1191,6 +1988,25 @@
         "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-19.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5793,
+          0.6857
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.1909,
+              0.284
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1217,6 +2033,25 @@
         "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-19.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-20.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1111,
+          0.1301
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              1,
+              0.0532,
+              0.1007
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1247,6 +2082,35 @@
         "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-19.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-20.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2308,
+          0.3324
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              1,
+              0.0532,
+              0.1007
+            ]
+          ]
+        ],
+        [
+          "Q14(a)",
+          [
+            [
+              1,
+              0.1111,
+              0.1301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1277,6 +2141,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9212,
+          0.9402
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              1,
+              0.0532,
+              0.1007
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.6505,
+              0.9174
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1307,6 +2200,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q14.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0674,
+          0.4881
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              1,
+              0.0532,
+              0.1007
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.6505,
+              0.9174
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1333,6 +2255,35 @@
         "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-19.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-20.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.491,
+          0.5252
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              1,
+              0.0532,
+              0.1007
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.6505,
+              0.9174
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1361,6 +2312,45 @@
         "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-19.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-20.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6116,
+          0.6961
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              1,
+              0.0532,
+              0.1007
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.6505,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q14(c)(iii)",
+          [
+            [
+              2,
+              0.491,
+              0.5252
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1392,6 +2382,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q14.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8575,
+          0.9326
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              1,
+              0.0532,
+              0.1007
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.6505,
+              0.9174
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1419,6 +2438,55 @@
         "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-19.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-20.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2184,
+          0.2811
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              1,
+              0.0532,
+              0.1007
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.6505,
+              0.9174
+            ]
+          ]
+        ],
+        [
+          "Q14(c)(iv)",
+          [
+            [
+              2,
+              0.6116,
+              0.6961
+            ]
+          ]
+        ],
+        [
+          "Q14(c)(v)",
+          [
+            [
+              2,
+              0.8575,
+              0.9326
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1447,6 +2515,25 @@
         "papers/chemistry/img/13-Chemical-Equilibria-18.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-19.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-20.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.5252,
+          0.7759
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              1,
+              0.0532,
+              0.1007
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1473,6 +2560,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0855,
+          0.207
+        ]
       ]
     },
     {
@@ -1502,6 +2596,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4112,
+          0.6724
+        ]
       ]
     },
     {
@@ -1530,6 +2631,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q17-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8765,
+          0.9003
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.8177,
+              0.867
+            ]
+          ]
+        ],
+        [
+          "Q17(a)",
+          [
+            [
+              0,
+              0.8775,
+              0.8965
+            ],
+            [
+              1,
+              0.0598,
+              0.8737
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1558,6 +2693,45 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q17-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.906,
+          0.925
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.8177,
+              0.867
+            ]
+          ]
+        ],
+        [
+          "Q17(a)",
+          [
+            [
+              0,
+              0.8775,
+              0.8965
+            ],
+            [
+              1,
+              0.0598,
+              0.8737
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1585,6 +2759,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q17.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1339,
+          0.1956
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.8177,
+              0.867
+            ]
+          ]
+        ],
+        [
+          "Q17(a)",
+          [
+            [
+              0,
+              0.8775,
+              0.8965
+            ],
+            [
+              1,
+              0.0598,
+              0.8737
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1611,6 +2819,50 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q17.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2232,
+          0.2422
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.8177,
+              0.867
+            ]
+          ]
+        ],
+        [
+          "Q17(a)",
+          [
+            [
+              0,
+              0.8775,
+              0.8965
+            ],
+            [
+              1,
+              0.0598,
+              0.8737
+            ]
+          ]
+        ],
+        [
+          "Q17(a)(iii)",
+          [
+            [
+              2,
+              0.1339,
+              0.1956
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1640,6 +2892,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q17.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3276,
+          0.3618
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.8177,
+              0.867
+            ]
+          ]
+        ],
+        [
+          "Q17(a)",
+          [
+            [
+              0,
+              0.8775,
+              0.8965
+            ],
+            [
+              1,
+              0.0598,
+              0.8737
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1667,6 +2953,25 @@
         "papers/chemistry/img/13-Chemical-Equilibria-21.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-22.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-23.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.529,
+          0.7379
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.8177,
+              0.867
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1696,6 +3001,25 @@
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q18.jpg",
         "papers/chemistry/fig/13-Chemical-Equilibria-Q18-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1159,
+          0.3941
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              1,
+              0.0532,
+              0.1064
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1724,6 +3048,25 @@
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q18.jpg",
         "papers/chemistry/fig/13-Chemical-Equilibria-Q18-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3998,
+          0.6154
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              1,
+              0.0532,
+              0.1064
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1755,6 +3098,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2849,
+          0.5736
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              1,
+              0.0532,
+              0.2915
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1786,6 +3148,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.567,
+          0.85
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              1,
+              0.0532,
+              0.2915
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1813,6 +3194,40 @@
         "papers/chemistry/img/13-Chemical-Equilibria-25.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-26.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8433,
+          0.906
+        ],
+        [
+          2,
+          0.1709,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              1,
+              0.0532,
+              0.2915
+            ]
+          ]
+        ],
+        [
+          "Q19(a)(ii)",
+          [
+            [
+              1,
+              0.567,
+              0.85
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1839,6 +3254,50 @@
         "papers/chemistry/img/13-Chemical-Equilibria-25.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-26.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-27.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1795,
+          0.2308
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              1,
+              0.0532,
+              0.2915
+            ]
+          ]
+        ],
+        [
+          "Q19(a)(i)",
+          [
+            [
+              1,
+              0.2849,
+              0.5736
+            ]
+          ]
+        ],
+        [
+          "Q19(a)(iii)",
+          [
+            [
+              1,
+              0.8433,
+              0.906
+            ],
+            [
+              2,
+              0.1709,
+              0.1861
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1866,6 +3325,25 @@
         "papers/chemistry/img/13-Chemical-Equilibria-25.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-26.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-27.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3922,
+          0.4112
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              1,
+              0.0532,
+              0.2915
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1894,6 +3372,35 @@
         "papers/chemistry/img/13-Chemical-Equilibria-25.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-26.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-27.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7227,
+          0.7417
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              1,
+              0.0532,
+              0.2915
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              2,
+              0.6543,
+              0.7198
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1924,6 +3431,35 @@
         "papers/chemistry/img/13-Chemical-Equilibria-25.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-26.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-27.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8281,
+          0.8471
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              1,
+              0.0532,
+              0.2915
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              2,
+              0.6543,
+              0.7198
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1954,6 +3490,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6154,
+          0.6562
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4122,
+              0.5992
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1983,6 +3538,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8253,
+          0.8917
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4122,
+              0.5992
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2008,6 +3582,25 @@
         "papers/chemistry/img/13-Chemical-Equilibria-27.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-28.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1576,
+          0.2146
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4122,
+              0.5992
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2033,6 +3626,45 @@
         "papers/chemistry/img/13-Chemical-Equilibria-27.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-28.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3827,
+          0.4141
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4122,
+              0.5992
+            ]
+          ]
+        ],
+        [
+          "Q20(a)",
+          [
+            [
+              0,
+              0.6154,
+              0.6562
+            ]
+          ]
+        ],
+        [
+          "Q20(c)",
+          [
+            [
+              1,
+              0.1576,
+              0.2146
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2059,6 +3691,25 @@
         "papers/chemistry/img/13-Chemical-Equilibria-27.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-28.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.585,
+          0.6496
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4122,
+              0.5992
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2085,6 +3736,25 @@
         "papers/chemistry/img/13-Chemical-Equilibria-27.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-28.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8186,
+          0.8376
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4122,
+              0.5992
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2114,6 +3784,25 @@
         "papers/chemistry/img/13-Chemical-Equilibria-27.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-28.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-29.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.113,
+          0.1605
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4122,
+              0.5992
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2140,6 +3829,25 @@
         "papers/chemistry/img/13-Chemical-Equilibria-27.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-28.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-29.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3979,
+          0.4957
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4122,
+              0.5992
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2168,6 +3876,25 @@
         "papers/chemistry/img/13-Chemical-Equilibria-27.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-28.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-29.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5014,
+          0.849
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4122,
+              0.5992
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2197,6 +3924,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2251,
+          0.5014
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.1054,
+              0.2146
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2222,6 +3968,25 @@
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-30.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5071,
+          0.6277
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.1054,
+              0.2146
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2248,6 +4013,30 @@
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-30.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8756,
+          0.9335
+        ],
+        [
+          1,
+          0.0513,
+          0.1083
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.7825,
+              0.8651
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2275,6 +4064,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1263,
+          0.3761
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.7825,
+              0.8651
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2304,6 +4112,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q23-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6572,
+          0.7939
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.5802,
+              0.6477
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2332,6 +4159,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8148,
+          0.8338
+        ],
+        [
+          1,
+          0.0513,
+          0.2963
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.5802,
+              0.6477
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2362,6 +4213,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q23-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2991,
+          0.4084
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.5802,
+              0.6477
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2387,6 +4257,25 @@
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-32.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6705,
+          0.7911
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.6097,
+              0.66
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2413,6 +4302,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8129,
+          0.9193
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.6097,
+              0.66
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2438,6 +4346,13 @@
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-33.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2526,
+          0.4501
+        ]
       ]
     },
     {
@@ -2465,6 +4380,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6676,
+          0.9316
+        ]
       ]
     },
     {
@@ -2492,6 +4414,25 @@
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-34.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.321,
+          0.4302
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.2355,
+              0.2991
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2519,6 +4460,25 @@
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-34.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4482,
+          0.5726
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.2355,
+              0.2991
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2546,6 +4506,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8319,
+          0.8509
+        ],
+        [
+          1,
+          0.057,
+          0.3599
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.773,
+              0.8215
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2572,6 +4556,25 @@
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-34.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-35.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3666,
+          0.4758
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.773,
+              0.8215
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2596,6 +4599,25 @@
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-34.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-35.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4938,
+          0.603
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.773,
+              0.8215
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2624,6 +4646,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9297,
+          0.9487
+        ],
+        [
+          1,
+          0.0665,
+          0.1368
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8034,
+              0.9193
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2652,6 +4698,25 @@
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-35.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1586,
+          0.3913
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8034,
+              0.9193
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2677,6 +4742,25 @@
       "images": [
         "papers/chemistry/img/13-Chemical-Equilibria-36.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6239,
+          0.7768
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.5954,
+              0.6144
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2706,6 +4790,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7977,
+          0.9373
+        ],
+        [
+          1,
+          0.0513,
+          0.0912
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.5954,
+              0.6144
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2736,6 +4844,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q30-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1092,
+          0.2792
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.5954,
+              0.6144
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2767,6 +4894,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q31-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5052,
+          0.7123
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.4311,
+              0.4948
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2794,6 +4940,35 @@
         "papers/chemistry/img/13-Chemical-Equilibria-37.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-38.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7626,
+          0.7816
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.4311,
+              0.4948
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              0,
+              0.7246,
+              0.7569
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2825,6 +5000,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/13-Chemical-Equilibria-Q31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8832,
+          0.9022
+        ],
+        [
+          1,
+          0.0674,
+          0.2023
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.4311,
+              0.4948
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              0,
+              0.7246,
+              0.7569
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2852,6 +5061,60 @@
         "papers/chemistry/img/13-Chemical-Equilibria-37.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-38.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2194,
+          0.2536
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.4311,
+              0.4948
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              0,
+              0.7246,
+              0.7569
+            ]
+          ]
+        ],
+        [
+          "Q31(b)(i)",
+          [
+            [
+              0,
+              0.7626,
+              0.7816
+            ]
+          ]
+        ],
+        [
+          "Q31(b)(ii)",
+          [
+            [
+              0,
+              0.8832,
+              0.9022
+            ],
+            [
+              1,
+              0.0674,
+              0.2023
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2879,6 +5142,35 @@
         "papers/chemistry/img/13-Chemical-Equilibria-37.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-38.jpg",
         "papers/chemistry/img/13-Chemical-Equilibria-39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6249,
+          0.8984
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.4311,
+              0.4948
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              0,
+              0.7246,
+              0.7569
+            ]
+          ]
+        ]
       ]
     }
   ]

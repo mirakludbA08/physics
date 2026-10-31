@@ -29,6 +29,25 @@
       "images": [
         "papers/biology/img/04A-Plant-Structure-001.jpg",
         "papers/biology/img/04A-Plant-Structure-002.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2745,
+          0.3352
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1719,
+              0.2631
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -57,6 +76,25 @@
       "images": [
         "papers/biology/img/04A-Plant-Structure-001.jpg",
         "papers/biology/img/04A-Plant-Structure-002.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3409,
+          0.4406
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1719,
+              0.2631
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -86,6 +124,35 @@
       "images": [
         "papers/biology/img/04A-Plant-Structure-001.jpg",
         "papers/biology/img/04A-Plant-Structure-002.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.509,
+          0.7721
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1719,
+              0.2631
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.4615,
+              0.5157
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -117,6 +184,40 @@
       "images": [
         "papers/biology/img/04A-Plant-Structure-001.jpg",
         "papers/biology/img/04A-Plant-Structure-002.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7778,
+          0.9354
+        ],
+        [
+          1,
+          0.0608,
+          0.5081
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1719,
+              0.2631
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.4615,
+              0.5157
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -144,6 +245,25 @@
       "images": [
         "papers/biology/img/04A-Plant-Structure-002.jpg",
         "papers/biology/img/04A-Plant-Structure-003.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6838,
+          0.793
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.6543,
+              0.6733
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -171,6 +291,25 @@
       "images": [
         "papers/biology/img/04A-Plant-Structure-002.jpg",
         "papers/biology/img/04A-Plant-Structure-003.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.811,
+          0.9174
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.6543,
+              0.6733
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -200,6 +339,25 @@
       "images": [
         "papers/biology/img/04A-Plant-Structure-002.jpg",
         "papers/biology/img/04A-Plant-Structure-003.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.3476
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.6543,
+              0.6733
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -230,6 +388,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q3a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4511,
+          0.5575
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.5432,
+              0.5916
+            ],
+            [
+              1,
+              0.0513,
+              0.4416
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -260,6 +442,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q3a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5708,
+          0.6705
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.5432,
+              0.5916
+            ],
+            [
+              1,
+              0.0513,
+              0.4416
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -290,6 +496,45 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q3b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3466,
+          0.3818
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.5432,
+              0.5916
+            ],
+            [
+              1,
+              0.0513,
+              0.4416
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              1,
+              0.6914,
+              0.7104
+            ],
+            [
+              2,
+              0.0513,
+              0.3457
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -322,6 +567,45 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q3b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3922,
+          0.68
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.5432,
+              0.5916
+            ],
+            [
+              1,
+              0.0513,
+              0.4416
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              1,
+              0.6914,
+              0.7104
+            ],
+            [
+              2,
+              0.0513,
+              0.3457
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -354,6 +638,40 @@
         "papers/biology/img/04A-Plant-Structure-007.jpg",
         "papers/biology/img/04A-Plant-Structure-008.jpg",
         "papers/biology/img/04A-Plant-Structure-009.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2991,
+          0.4758
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.8272,
+              0.8746
+            ],
+            [
+              1,
+              0.0598,
+              0.2669
+            ]
+          ]
+        ],
+        [
+          "Q4(a)",
+          [
+            [
+              1,
+              0.2773,
+              0.2963
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -384,6 +702,40 @@
         "papers/biology/img/04A-Plant-Structure-007.jpg",
         "papers/biology/img/04A-Plant-Structure-008.jpg",
         "papers/biology/img/04A-Plant-Structure-009.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.49,
+          0.8215
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.8272,
+              0.8746
+            ],
+            [
+              1,
+              0.0598,
+              0.2669
+            ]
+          ]
+        ],
+        [
+          "Q4(a)",
+          [
+            [
+              1,
+              0.2773,
+              0.2963
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -415,6 +767,35 @@
         "papers/biology/img/04A-Plant-Structure-007.jpg",
         "papers/biology/img/04A-Plant-Structure-008.jpg",
         "papers/biology/img/04A-Plant-Structure-009.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8348,
+          0.925
+        ],
+        [
+          2,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.8272,
+              0.8746
+            ],
+            [
+              1,
+              0.0598,
+              0.2669
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -450,6 +831,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q4c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2906,
+          0.6315
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.8272,
+              0.8746
+            ],
+            [
+              1,
+              0.0598,
+              0.2669
+            ]
+          ]
+        ],
+        [
+          "Q4(c)",
+          [
+            [
+              2,
+              0.2279,
+              0.2972
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -488,6 +903,50 @@
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q4c-2.jpg",
         "papers/biology/fig/04A-Plant-Structure-Q4c-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6372,
+          0.6714
+        ],
+        [
+          3,
+          0.0513,
+          0.9402
+        ],
+        [
+          4,
+          0.0608,
+          0.3618
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.8272,
+              0.8746
+            ],
+            [
+              1,
+              0.0598,
+              0.2669
+            ]
+          ]
+        ],
+        [
+          "Q4(c)",
+          [
+            [
+              2,
+              0.2279,
+              0.2972
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -516,6 +975,30 @@
         "papers/biology/img/04A-Plant-Structure-009.jpg",
         "papers/biology/img/04A-Plant-Structure-010.jpg",
         "papers/biology/img/04A-Plant-Structure-011.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8158,
+          0.9345
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.5081,
+              0.8053
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -545,6 +1028,25 @@
         "papers/biology/img/04A-Plant-Structure-009.jpg",
         "papers/biology/img/04A-Plant-Structure-010.jpg",
         "papers/biology/img/04A-Plant-Structure-011.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1406,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.5081,
+              0.8053
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -578,6 +1080,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q5c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3751,
+          0.4435
+        ],
+        [
+          2,
+          0.0513,
+          0.6857
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.5081,
+              0.8053
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -605,6 +1131,30 @@
         "papers/biology/img/04A-Plant-Structure-011.jpg",
         "papers/biology/img/04A-Plant-Structure-012.jpg",
         "papers/biology/img/04A-Plant-Structure-013.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8575,
+          0.9326
+        ],
+        [
+          1,
+          0.0513,
+          0.0912
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8281,
+              0.8471
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -632,6 +1182,25 @@
         "papers/biology/img/04A-Plant-Structure-011.jpg",
         "papers/biology/img/04A-Plant-Structure-012.jpg",
         "papers/biology/img/04A-Plant-Structure-013.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.2042
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8281,
+              0.8471
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -663,6 +1232,35 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q6b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4378,
+          0.5821
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8281,
+              0.8471
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.2222,
+              0.4349
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -694,6 +1292,35 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q6b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5878,
+          0.7142
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8281,
+              0.8471
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.2222,
+              0.4349
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -725,6 +1352,35 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q6b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7208,
+          0.8471
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8281,
+              0.8471
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.2222,
+              0.4349
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -754,6 +1410,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q6c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3286,
+          0.3818
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8281,
+              0.8471
+            ]
+          ]
+        ],
+        [
+          "Q6(c)",
+          [
+            [
+              1,
+              0.8604,
+              0.8794
+            ],
+            [
+              2,
+              0.0513,
+              0.3257
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -784,6 +1474,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q6c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3884,
+          0.5878
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8281,
+              0.8471
+            ]
+          ]
+        ],
+        [
+          "Q6(c)",
+          [
+            [
+              1,
+              0.8604,
+              0.8794
+            ],
+            [
+              2,
+              0.0513,
+              0.3257
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -813,6 +1537,30 @@
         "papers/biology/img/04A-Plant-Structure-013.jpg",
         "papers/biology/img/04A-Plant-Structure-014.jpg",
         "papers/biology/img/04A-Plant-Structure-015.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.793,
+          0.812
+        ],
+        [
+          1,
+          0.0522,
+          0.4207
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.735,
+              0.7825
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -842,6 +1590,30 @@
         "papers/biology/img/04A-Plant-Structure-013.jpg",
         "papers/biology/img/04A-Plant-Structure-014.jpg",
         "papers/biology/img/04A-Plant-Structure-015.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4311,
+          0.9421
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.735,
+              0.7825
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -872,6 +1644,25 @@
         "papers/biology/img/04A-Plant-Structure-013.jpg",
         "papers/biology/img/04A-Plant-Structure-014.jpg",
         "papers/biology/img/04A-Plant-Structure-015.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1111,
+          0.4207
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.735,
+              0.7825
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -906,6 +1697,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q8a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9041,
+          0.9449
+        ],
+        [
+          1,
+          0.1197,
+          0.2887
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5679,
+              0.8936
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -939,6 +1754,25 @@
         "papers/biology/img/04A-Plant-Structure-018.jpg",
         "papers/biology/img/04A-Plant-Structure-019.jpg",
         "papers/biology/img/04A-Plant-Structure-020.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3371,
+          0.5442
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5679,
+              0.8936
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -974,6 +1808,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q8b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6011,
+          0.7445
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5679,
+              0.8936
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              1,
+              0.5584,
+              0.622
+            ],
+            [
+              2,
+              0.0532,
+              0.5888
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1011,6 +1879,45 @@
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q8b.jpg",
         "papers/biology/fig/04A-Plant-Structure-Q8b-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7502,
+          0.9364
+        ],
+        [
+          3,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5679,
+              0.8936
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              1,
+              0.5584,
+              0.622
+            ],
+            [
+              2,
+              0.0532,
+              0.5888
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1044,6 +1951,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q8c.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2574,
+          0.2991
+        ],
+        [
+          4,
+          0.0636,
+          0.7635
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5679,
+              0.8936
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1078,6 +2009,30 @@
         "papers/biology/img/04A-Plant-Structure-018.jpg",
         "papers/biology/img/04A-Plant-Structure-019.jpg",
         "papers/biology/img/04A-Plant-Structure-020.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.7882,
+          0.9364
+        ],
+        [
+          5,
+          0.0608,
+          0.3324
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5679,
+              0.8936
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1105,6 +2060,25 @@
       "images": [
         "papers/biology/img/04A-Plant-Structure-020.jpg",
         "papers/biology/img/04A-Plant-Structure-021.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5081,
+          0.6144
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4796,
+              0.4957
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1134,6 +2108,25 @@
       "images": [
         "papers/biology/img/04A-Plant-Structure-020.jpg",
         "papers/biology/img/04A-Plant-Structure-021.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6287,
+          0.7882
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4796,
+              0.4957
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1163,6 +2156,30 @@
       "images": [
         "papers/biology/img/04A-Plant-Structure-020.jpg",
         "papers/biology/img/04A-Plant-Structure-021.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8015,
+          0.944
+        ],
+        [
+          1,
+          0.0513,
+          0.0712
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4796,
+              0.4957
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1194,6 +2211,25 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q9b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0921,
+          0.7578
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4796,
+              0.4957
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1229,6 +2265,25 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q10a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.642
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.905,
+              0.924
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1262,6 +2317,40 @@
         "papers/biology/img/04A-Plant-Structure-023.jpg",
         "papers/biology/img/04A-Plant-Structure-024.jpg",
         "papers/biology/img/04A-Plant-Structure-025.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5062,
+          0.8528
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.905,
+              0.924
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              1,
+              0.6553,
+              0.6743
+            ],
+            [
+              2,
+              0.0513,
+              0.5005
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1299,6 +2388,50 @@
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q10b.jpg",
         "papers/biology/fig/04A-Plant-Structure-Q10b-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8585,
+          0.9373
+        ],
+        [
+          3,
+          0.0532,
+          0.9231
+        ],
+        [
+          4,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.905,
+              0.924
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              1,
+              0.6553,
+              0.6743
+            ],
+            [
+              2,
+              0.0513,
+              0.5005
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1331,6 +2464,40 @@
         "papers/biology/img/04A-Plant-Structure-023.jpg",
         "papers/biology/img/04A-Plant-Structure-024.jpg",
         "papers/biology/img/04A-Plant-Structure-025.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.2802,
+          0.699
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.905,
+              0.924
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              1,
+              0.6553,
+              0.6743
+            ],
+            [
+              2,
+              0.0513,
+              0.5005
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1361,6 +2528,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q11a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.924,
+          0.943
+        ],
+        [
+          1,
+          0.0513,
+          0.2555
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.8955,
+              0.9145
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1388,6 +2579,25 @@
       "images": [
         "papers/biology/img/04A-Plant-Structure-025.jpg",
         "papers/biology/img/04A-Plant-Structure-026.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2697,
+          0.3685
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.8955,
+              0.9145
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1415,6 +2625,25 @@
       "images": [
         "papers/biology/img/04A-Plant-Structure-025.jpg",
         "papers/biology/img/04A-Plant-Structure-026.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3827,
+          0.4815
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.8955,
+              0.9145
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1441,6 +2670,35 @@
       "images": [
         "papers/biology/img/04A-Plant-Structure-025.jpg",
         "papers/biology/img/04A-Plant-Structure-026.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5252,
+          0.5935
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.8955,
+              0.9145
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              1,
+              0.5024,
+              0.5214
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1467,6 +2725,35 @@
       "images": [
         "papers/biology/img/04A-Plant-Structure-025.jpg",
         "papers/biology/img/04A-Plant-Structure-026.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5992,
+          0.6676
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.8955,
+              0.9145
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              1,
+              0.5024,
+              0.5214
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1498,6 +2785,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q12a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3191,
+          0.5185
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.8139,
+              0.8471
+            ]
+          ]
+        ],
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.8585,
+              0.9297
+            ],
+            [
+              1,
+              0.0532,
+              0.3172
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1528,6 +2849,45 @@
         "papers/biology/img/04A-Plant-Structure-026.jpg",
         "papers/biology/img/04A-Plant-Structure-027.jpg",
         "papers/biology/img/04A-Plant-Structure-028.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5252,
+          0.9326
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.8139,
+              0.8471
+            ]
+          ]
+        ],
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.8585,
+              0.9297
+            ],
+            [
+              1,
+              0.0532,
+              0.3172
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1558,6 +2918,35 @@
         "papers/biology/img/04A-Plant-Structure-026.jpg",
         "papers/biology/img/04A-Plant-Structure-027.jpg",
         "papers/biology/img/04A-Plant-Structure-028.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3343,
+          0.5071
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.8139,
+              0.8471
+            ]
+          ]
+        ],
+        [
+          "Q12(b)",
+          [
+            [
+              2,
+              0.1111,
+              0.3305
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1587,6 +2976,35 @@
         "papers/biology/img/04A-Plant-Structure-026.jpg",
         "papers/biology/img/04A-Plant-Structure-027.jpg",
         "papers/biology/img/04A-Plant-Structure-028.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5138,
+          0.7578
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.8139,
+              0.8471
+            ]
+          ]
+        ],
+        [
+          "Q12(b)",
+          [
+            [
+              2,
+              0.1111,
+              0.3305
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1616,6 +3034,25 @@
         "papers/biology/img/04A-Plant-Structure-028.jpg",
         "papers/biology/img/04A-Plant-Structure-029.jpg",
         "papers/biology/img/04A-Plant-Structure-030.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3998,
+          0.5347
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              1,
+              0.0532,
+              0.3894
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1643,6 +3080,35 @@
         "papers/biology/img/04A-Plant-Structure-028.jpg",
         "papers/biology/img/04A-Plant-Structure-029.jpg",
         "papers/biology/img/04A-Plant-Structure-030.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5698,
+          0.6714
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              1,
+              0.0532,
+              0.3894
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              1,
+              0.548,
+              0.567
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1672,6 +3138,35 @@
         "papers/biology/img/04A-Plant-Structure-028.jpg",
         "papers/biology/img/04A-Plant-Structure-029.jpg",
         "papers/biology/img/04A-Plant-Structure-030.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6828,
+          0.8974
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              1,
+              0.0532,
+              0.3894
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              1,
+              0.548,
+              0.567
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1702,6 +3197,40 @@
         "papers/biology/img/04A-Plant-Structure-028.jpg",
         "papers/biology/img/04A-Plant-Structure-029.jpg",
         "papers/biology/img/04A-Plant-Structure-030.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9031,
+          0.9221
+        ],
+        [
+          2,
+          0.0608,
+          0.3913
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              1,
+              0.0532,
+              0.3894
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              1,
+              0.548,
+              0.567
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1732,6 +3261,30 @@
         "papers/biology/img/04A-Plant-Structure-030.jpg",
         "papers/biology/img/04A-Plant-Structure-031.jpg",
         "papers/biology/img/04A-Plant-Structure-032.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6695,
+          0.9345
+        ],
+        [
+          1,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.5375,
+              0.6562
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1763,6 +3316,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q14b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8082,
+          0.8547
+        ],
+        [
+          2,
+          0.1282,
+          0.1443
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.5375,
+              0.6562
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              1,
+              0.17,
+              0.8063
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1797,6 +3384,35 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q14b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.15,
+          0.7455
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.5375,
+              0.6562
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              1,
+              0.17,
+              0.8063
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1826,6 +3442,35 @@
         "papers/biology/img/04A-Plant-Structure-032.jpg",
         "papers/biology/img/04A-Plant-Structure-033.jpg",
         "papers/biology/img/04A-Plant-Structure-034.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3637,
+          0.5404
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              1,
+              0.0532,
+              0.3314
+            ]
+          ]
+        ],
+        [
+          "Q15(a)",
+          [
+            [
+              1,
+              0.3419,
+              0.3609
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1854,6 +3499,35 @@
         "papers/biology/img/04A-Plant-Structure-032.jpg",
         "papers/biology/img/04A-Plant-Structure-033.jpg",
         "papers/biology/img/04A-Plant-Structure-034.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5546,
+          0.7312
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              1,
+              0.0532,
+              0.3314
+            ]
+          ]
+        ],
+        [
+          "Q15(a)",
+          [
+            [
+              1,
+              0.3419,
+              0.3609
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1883,6 +3557,35 @@
         "papers/biology/img/04A-Plant-Structure-032.jpg",
         "papers/biology/img/04A-Plant-Structure-033.jpg",
         "papers/biology/img/04A-Plant-Structure-034.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7844,
+          0.8718
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              1,
+              0.0532,
+              0.3314
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              1,
+              0.7521,
+              0.7911
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1913,6 +3616,40 @@
         "papers/biology/img/04A-Plant-Structure-032.jpg",
         "papers/biology/img/04A-Plant-Structure-033.jpg",
         "papers/biology/img/04A-Plant-Structure-034.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8775,
+          0.9459
+        ],
+        [
+          2,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              1,
+              0.0532,
+              0.3314
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              1,
+              0.7521,
+              0.7911
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1944,6 +3681,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q16a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7939,
+          0.8348
+        ],
+        [
+          1,
+          0.189,
+          0.2042
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4207,
+              0.7835
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1973,6 +3734,25 @@
         "papers/biology/img/04A-Plant-Structure-035.jpg",
         "papers/biology/img/04A-Plant-Structure-036.jpg",
         "papers/biology/img/04A-Plant-Structure-037.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2175,
+          0.3533
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4207,
+              0.7835
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2002,6 +3782,35 @@
         "papers/biology/img/04A-Plant-Structure-035.jpg",
         "papers/biology/img/04A-Plant-Structure-036.jpg",
         "papers/biology/img/04A-Plant-Structure-037.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7892,
+          0.9012
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4207,
+              0.7835
+            ]
+          ]
+        ],
+        [
+          "Q16(c)",
+          [
+            [
+              1,
+              0.3751,
+              0.7873
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2035,6 +3844,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q16c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9069,
+          0.9259
+        ],
+        [
+          2,
+          0.0541,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4207,
+              0.7835
+            ]
+          ]
+        ],
+        [
+          "Q16(c)",
+          [
+            [
+              1,
+              0.3751,
+              0.7873
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2070,6 +3913,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q16d.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3162,
+          0.7331
+        ],
+        [
+          3,
+          0.0646,
+          0.8481
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4207,
+              0.7835
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2101,6 +3968,25 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q17a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.453,
+          0.5138
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.1538,
+              0.4425
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2132,6 +4018,25 @@
         "papers/biology/img/04A-Plant-Structure-039.jpg",
         "papers/biology/img/04A-Plant-Structure-040.jpg",
         "papers/biology/img/04A-Plant-Structure-041.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5195,
+          0.8072
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.1538,
+              0.4425
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2163,6 +4068,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q17b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5328,
+          0.6325
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.1538,
+              0.4425
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              0,
+              0.8205,
+              0.8528
+            ],
+            [
+              1,
+              0.0513,
+              0.528
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2194,6 +4133,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q17b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6458,
+          0.8044
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.1538,
+              0.4425
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              0,
+              0.8205,
+              0.8528
+            ],
+            [
+              1,
+              0.0513,
+              0.528
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2230,6 +4203,35 @@
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q17c.jpg",
         "papers/biology/fig/04A-Plant-Structure-Q17c-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8177,
+          0.9335
+        ],
+        [
+          2,
+          0.0513,
+          0.9421
+        ],
+        [
+          3,
+          0.0608,
+          0.3324
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.1538,
+              0.4425
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2261,6 +4263,25 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q18a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1595
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.4796,
+              0.9364
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2292,6 +4313,25 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q18a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1728,
+          0.2868
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.4796,
+              0.9364
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2323,6 +4363,25 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q18a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.301,
+          0.416
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.4796,
+              0.9364
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2355,6 +4414,25 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q18a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4292,
+          0.5318
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.4796,
+              0.9364
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2383,6 +4461,40 @@
         "papers/biology/img/04A-Plant-Structure-042.jpg",
         "papers/biology/img/04A-Plant-Structure-043.jpg",
         "papers/biology/img/04A-Plant-Structure-044.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7132,
+          0.9126
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.4796,
+              0.9364
+            ]
+          ]
+        ],
+        [
+          "Q18(b)",
+          [
+            [
+              1,
+              0.5499,
+              0.5907
+            ],
+            [
+              2,
+              0.0513,
+              0.7094
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2416,6 +4528,45 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q18b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.9183,
+          0.9373
+        ],
+        [
+          3,
+          0.0532,
+          0.4283
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.4796,
+              0.9364
+            ]
+          ]
+        ],
+        [
+          "Q18(b)",
+          [
+            [
+              1,
+              0.5499,
+              0.5907
+            ],
+            [
+              2,
+              0.0513,
+              0.7094
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2446,6 +4597,30 @@
         "papers/biology/img/04A-Plant-Structure-045.jpg",
         "papers/biology/img/04A-Plant-Structure-046.jpg",
         "papers/biology/img/04A-Plant-Structure-047.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4492,
+          0.6325
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.5745,
+              0.6524
+            ],
+            [
+              1,
+              0.0513,
+              0.4387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2478,6 +4653,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q19a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6467,
+          0.9421
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.5745,
+              0.6524
+            ],
+            [
+              1,
+              0.0513,
+              0.4387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2509,6 +4708,30 @@
         "papers/biology/img/04A-Plant-Structure-045.jpg",
         "papers/biology/img/04A-Plant-Structure-046.jpg",
         "papers/biology/img/04A-Plant-Structure-047.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.4501
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.5745,
+              0.6524
+            ],
+            [
+              1,
+              0.0513,
+              0.4387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2543,6 +4766,35 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q19c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4634,
+          0.9288
+        ],
+        [
+          3,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.5745,
+              0.6524
+            ],
+            [
+              1,
+              0.0513,
+              0.4387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2572,6 +4824,25 @@
         "papers/biology/img/04A-Plant-Structure-047.jpg",
         "papers/biology/img/04A-Plant-Structure-048.jpg",
         "papers/biology/img/04A-Plant-Structure-049.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7284,
+          0.8794
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4406,
+              0.7179
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2605,6 +4876,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q20b.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9003,
+          0.9193
+        ],
+        [
+          1,
+          0.0541,
+          0.5575
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4406,
+              0.7179
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2635,6 +4930,35 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q20c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9079,
+          0.9269
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4406,
+              0.7179
+            ]
+          ]
+        ],
+        [
+          "Q20(c)",
+          [
+            [
+              1,
+              0.5783,
+              0.9031
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2663,6 +4987,35 @@
         "papers/biology/img/04A-Plant-Structure-047.jpg",
         "papers/biology/img/04A-Plant-Structure-048.jpg",
         "papers/biology/img/04A-Plant-Structure-049.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.2526
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4406,
+              0.7179
+            ]
+          ]
+        ],
+        [
+          "Q20(c)",
+          [
+            [
+              1,
+              0.5783,
+              0.9031
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2693,6 +5046,25 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q21a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6163,
+          0.6353
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3989,
+              0.6068
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2724,6 +5096,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q21b.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7056,
+          0.886
+        ],
+        [
+          1,
+          0.0513,
+          0.7664
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.3989,
+              0.6068
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2752,6 +5148,30 @@
         "papers/biology/img/04A-Plant-Structure-050.jpg",
         "papers/biology/img/04A-Plant-Structure-051.jpg",
         "papers/biology/img/04A-Plant-Structure-052.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3067,
+          0.6885
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.9136,
+              0.9326
+            ],
+            [
+              1,
+              0.0532,
+              0.2963
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2782,6 +5202,35 @@
         "papers/biology/img/04A-Plant-Structure-050.jpg",
         "papers/biology/img/04A-Plant-Structure-051.jpg",
         "papers/biology/img/04A-Plant-Structure-052.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7018,
+          0.9231
+        ],
+        [
+          2,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.9136,
+              0.9326
+            ],
+            [
+              1,
+              0.0532,
+              0.2963
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2809,6 +5258,25 @@
       "images": [
         "papers/biology/img/04A-Plant-Structure-052.jpg",
         "papers/biology/img/04A-Plant-Structure-053.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7198,
+          0.9269
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.4112,
+              0.7094
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2837,6 +5305,25 @@
       "images": [
         "papers/biology/img/04A-Plant-Structure-052.jpg",
         "papers/biology/img/04A-Plant-Structure-053.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2745
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.4112,
+              0.7094
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2864,6 +5351,35 @@
       "images": [
         "papers/biology/img/04A-Plant-Structure-052.jpg",
         "papers/biology/img/04A-Plant-Structure-053.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3096,
+          0.4093
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.4112,
+              0.7094
+            ]
+          ]
+        ],
+        [
+          "Q23(c)",
+          [
+            [
+              1,
+              0.2877,
+              0.3067
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2891,6 +5407,35 @@
       "images": [
         "papers/biology/img/04A-Plant-Structure-052.jpg",
         "papers/biology/img/04A-Plant-Structure-053.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4226,
+          0.6524
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.4112,
+              0.7094
+            ]
+          ]
+        ],
+        [
+          "Q23(c)",
+          [
+            [
+              1,
+              0.2877,
+              0.3067
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2919,6 +5464,30 @@
         "papers/biology/img/04A-Plant-Structure-053.jpg",
         "papers/biology/img/04A-Plant-Structure-054.jpg",
         "papers/biology/img/04A-Plant-Structure-055.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3352,
+          0.5565
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.849,
+              0.8965
+            ],
+            [
+              1,
+              0.0513,
+              0.3248
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2950,6 +5519,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q24a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5632,
+          0.6752
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.849,
+              0.8965
+            ],
+            [
+              1,
+              0.0513,
+              0.3248
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2981,6 +5574,45 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q24b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3324,
+          0.4463
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.849,
+              0.8965
+            ],
+            [
+              1,
+              0.0513,
+              0.3248
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              1,
+              0.6876,
+              0.7711
+            ],
+            [
+              2,
+              0.0655,
+              0.3153
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3010,6 +5642,45 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q24b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4606,
+          0.5726
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.849,
+              0.8965
+            ],
+            [
+              1,
+              0.0513,
+              0.3248
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              1,
+              0.6876,
+              0.7711
+            ],
+            [
+              2,
+              0.0655,
+              0.3153
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3041,6 +5712,45 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q24b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5783,
+          0.8661
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.849,
+              0.8965
+            ],
+            [
+              1,
+              0.0513,
+              0.3248
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              1,
+              0.6876,
+              0.7711
+            ],
+            [
+              2,
+              0.0655,
+              0.3153
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3069,6 +5779,25 @@
         "papers/biology/img/04A-Plant-Structure-056.jpg",
         "papers/biology/img/04A-Plant-Structure-057.jpg",
         "papers/biology/img/04A-Plant-Structure-058.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5802,
+          0.717
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.169,
+              0.5698
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3096,6 +5825,35 @@
         "papers/biology/img/04A-Plant-Structure-056.jpg",
         "papers/biology/img/04A-Plant-Structure-057.jpg",
         "papers/biology/img/04A-Plant-Structure-058.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8158,
+          0.9316
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.169,
+              0.5698
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              0,
+              0.7379,
+              0.8224
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3127,6 +5885,35 @@
         "papers/biology/img/04A-Plant-Structure-056.jpg",
         "papers/biology/img/04A-Plant-Structure-057.jpg",
         "papers/biology/img/04A-Plant-Structure-058.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.3552
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.169,
+              0.5698
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              0,
+              0.7379,
+              0.8224
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3159,6 +5946,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q25c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6714,
+          0.9297
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.169,
+              0.5698
+            ]
+          ]
+        ],
+        [
+          "Q25(c)",
+          [
+            [
+              1,
+              0.3685,
+              0.6686
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3192,6 +6013,35 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q25c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.075,
+          0.4501
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.169,
+              0.5698
+            ]
+          ]
+        ],
+        [
+          "Q25(c)",
+          [
+            [
+              1,
+              0.3685,
+              0.6686
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3222,6 +6072,40 @@
         "papers/biology/img/04A-Plant-Structure-058.jpg",
         "papers/biology/img/04A-Plant-Structure-059.jpg",
         "papers/biology/img/04A-Plant-Structure-060.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3352,
+          0.5024
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.5973,
+              0.6163
+            ]
+          ]
+        ],
+        [
+          "Q26(a)",
+          [
+            [
+              0,
+              0.6258,
+              0.6676
+            ],
+            [
+              1,
+              0.0513,
+              0.3314
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3250,6 +6134,40 @@
         "papers/biology/img/04A-Plant-Structure-058.jpg",
         "papers/biology/img/04A-Plant-Structure-059.jpg",
         "papers/biology/img/04A-Plant-Structure-060.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5081,
+          0.7075
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.5973,
+              0.6163
+            ]
+          ]
+        ],
+        [
+          "Q26(a)",
+          [
+            [
+              0,
+              0.6258,
+              0.6676
+            ],
+            [
+              1,
+              0.0513,
+              0.3314
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3278,6 +6196,35 @@
         "papers/biology/img/04A-Plant-Structure-058.jpg",
         "papers/biology/img/04A-Plant-Structure-059.jpg",
         "papers/biology/img/04A-Plant-Structure-060.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7578,
+          0.9345
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.5973,
+              0.6163
+            ]
+          ]
+        ],
+        [
+          "Q26(b)",
+          [
+            [
+              1,
+              0.7208,
+              0.755
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3308,6 +6255,35 @@
         "papers/biology/img/04A-Plant-Structure-058.jpg",
         "papers/biology/img/04A-Plant-Structure-059.jpg",
         "papers/biology/img/04A-Plant-Structure-060.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0674,
+          0.4435
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.5973,
+              0.6163
+            ]
+          ]
+        ],
+        [
+          "Q26(b)",
+          [
+            [
+              1,
+              0.7208,
+              0.755
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3339,6 +6315,25 @@
         "papers/biology/img/04A-Plant-Structure-061.jpg",
         "papers/biology/img/04A-Plant-Structure-062.jpg",
         "papers/biology/img/04A-Plant-Structure-063.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.377
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.5897,
+              0.9288
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3368,6 +6363,25 @@
         "papers/biology/img/04A-Plant-Structure-061.jpg",
         "papers/biology/img/04A-Plant-Structure-062.jpg",
         "papers/biology/img/04A-Plant-Structure-063.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3837,
+          0.5831
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.5897,
+              0.9288
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3401,6 +6415,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q27b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5081,
+          0.7949
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.5897,
+              0.9288
+            ]
+          ]
+        ],
+        [
+          "Q27(b)",
+          [
+            [
+              1,
+              0.5964,
+              0.6648
+            ],
+            [
+              2,
+              0.0513,
+              0.5052
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3431,6 +6479,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q27b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8015,
+          0.9278
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.5897,
+              0.9288
+            ]
+          ]
+        ],
+        [
+          "Q27(b)",
+          [
+            [
+              1,
+              0.5964,
+              0.6648
+            ],
+            [
+              2,
+              0.0513,
+              0.5052
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3464,6 +6546,30 @@
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q28a.jpg",
         "papers/biology/fig/04A-Plant-Structure-Q28a-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5821,
+          0.9392
+        ],
+        [
+          1,
+          0.0655,
+          0.5423
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.1861,
+              0.5717
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3496,6 +6602,35 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q28b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.4283
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.1861,
+              0.5717
+            ]
+          ]
+        ],
+        [
+          "Q28(b)",
+          [
+            [
+              1,
+              0.5556,
+              0.943
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3526,6 +6661,35 @@
         "papers/biology/img/04A-Plant-Structure-063.jpg",
         "papers/biology/img/04A-Plant-Structure-064.jpg",
         "papers/biology/img/04A-Plant-Structure-065.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.434,
+          0.736
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.1861,
+              0.5717
+            ]
+          ]
+        ],
+        [
+          "Q28(b)",
+          [
+            [
+              1,
+              0.5556,
+              0.943
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3556,6 +6720,30 @@
         "papers/biology/img/04A-Plant-Structure-066.jpg",
         "papers/biology/img/04A-Plant-Structure-067.jpg",
         "papers/biology/img/04A-Plant-Structure-068.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4406,
+          0.6477
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8832,
+              0.9468
+            ],
+            [
+              1,
+              0.0513,
+              0.4311
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3592,6 +6780,40 @@
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q29b.jpg",
         "papers/biology/fig/04A-Plant-Structure-Q29b-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.661,
+          0.717
+        ],
+        [
+          2,
+          0.0532,
+          0.924
+        ],
+        [
+          3,
+          0.0608,
+          0.4492
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.8832,
+              0.9468
+            ],
+            [
+              1,
+              0.0513,
+              0.4311
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3624,6 +6846,18 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q30a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6458,
+          0.7018
+        ],
+        [
+          1,
+          0.0532,
+          0.6923
+        ]
       ]
     },
     {
@@ -3652,6 +6886,13 @@
         "papers/biology/img/04A-Plant-Structure-068.jpg",
         "papers/biology/img/04A-Plant-Structure-069.jpg",
         "papers/biology/img/04A-Plant-Structure-070.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7056,
+          0.9041
+        ]
       ]
     },
     {
@@ -3679,6 +6920,18 @@
         "papers/biology/img/04A-Plant-Structure-068.jpg",
         "papers/biology/img/04A-Plant-Structure-069.jpg",
         "papers/biology/img/04A-Plant-Structure-070.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9183,
+          0.9373
+        ],
+        [
+          2,
+          0.0532,
+          0.2526
+        ]
       ]
     },
     {
@@ -3710,6 +6963,13 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q30c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2659,
+          0.7958
+        ]
       ]
     },
     {
@@ -3742,6 +7002,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q31a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8879,
+          0.9354
+        ],
+        [
+          2,
+          0.0513,
+          0.1054
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              1,
+              0.1016,
+              0.8405
+            ]
+          ]
+        ],
+        [
+          "Q31(a)",
+          [
+            [
+              1,
+              0.8509,
+              0.8841
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3775,6 +7069,35 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q31a.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1187,
+          0.3191
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              1,
+              0.1016,
+              0.8405
+            ]
+          ]
+        ],
+        [
+          "Q31(a)",
+          [
+            [
+              1,
+              0.8509,
+              0.8841
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3803,6 +7126,35 @@
         "papers/biology/img/04A-Plant-Structure-071.jpg",
         "papers/biology/img/04A-Plant-Structure-072.jpg",
         "papers/biology/img/04A-Plant-Structure-073.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3542,
+          0.4074
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              1,
+              0.1016,
+              0.8405
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              2,
+              0.3314,
+              0.3504
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3834,6 +7186,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q31b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4131,
+          0.9183
+        ],
+        [
+          3,
+          0.0513,
+          0.1216
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              1,
+              0.1016,
+              0.8405
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              2,
+              0.3314,
+              0.3504
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3862,6 +7248,35 @@
         "papers/biology/img/04A-Plant-Structure-071.jpg",
         "papers/biology/img/04A-Plant-Structure-072.jpg",
         "papers/biology/img/04A-Plant-Structure-073.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1358,
+          0.2479
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              1,
+              0.1016,
+              0.8405
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              2,
+              0.3314,
+              0.3504
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3891,6 +7306,25 @@
         "papers/biology/img/04A-Plant-Structure-071.jpg",
         "papers/biology/img/04A-Plant-Structure-072.jpg",
         "papers/biology/img/04A-Plant-Structure-073.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2612,
+          0.6515
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              1,
+              0.1016,
+              0.8405
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3922,6 +7356,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q32a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3989,
+          0.4179
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.8471,
+              0.8661
+            ]
+          ]
+        ],
+        [
+          "Q32(a)",
+          [
+            [
+              0,
+              0.8765,
+              0.8955
+            ],
+            [
+              1,
+              0.0522,
+              0.397
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3951,6 +7419,40 @@
         "papers/biology/img/04A-Plant-Structure-073.jpg",
         "papers/biology/img/04A-Plant-Structure-074.jpg",
         "papers/biology/img/04A-Plant-Structure-075.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4292,
+          0.6353
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.8471,
+              0.8661
+            ]
+          ]
+        ],
+        [
+          "Q32(a)",
+          [
+            [
+              0,
+              0.8765,
+              0.8955
+            ],
+            [
+              1,
+              0.0522,
+              0.397
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3978,6 +7480,35 @@
         "papers/biology/img/04A-Plant-Structure-073.jpg",
         "papers/biology/img/04A-Plant-Structure-074.jpg",
         "papers/biology/img/04A-Plant-Structure-075.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.679,
+          0.792
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.8471,
+              0.8661
+            ]
+          ]
+        ],
+        [
+          "Q32(b)",
+          [
+            [
+              1,
+              0.6572,
+              0.6762
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4007,6 +7538,40 @@
         "papers/biology/img/04A-Plant-Structure-073.jpg",
         "papers/biology/img/04A-Plant-Structure-074.jpg",
         "papers/biology/img/04A-Plant-Structure-075.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7977,
+          0.924
+        ],
+        [
+          2,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.8471,
+              0.8661
+            ]
+          ]
+        ],
+        [
+          "Q32(b)",
+          [
+            [
+              1,
+              0.6572,
+              0.6762
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4037,6 +7602,35 @@
         "papers/biology/img/04A-Plant-Structure-077.jpg",
         "papers/biology/img/04A-Plant-Structure-078.jpg",
         "papers/biology/img/04A-Plant-Structure-079.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8196,
+          0.9288
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.4112,
+              0.4302
+            ]
+          ]
+        ],
+        [
+          "Q33(a)",
+          [
+            [
+              0,
+              0.4406,
+              0.8091
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4068,6 +7662,35 @@
         "papers/biology/img/04A-Plant-Structure-077.jpg",
         "papers/biology/img/04A-Plant-Structure-078.jpg",
         "papers/biology/img/04A-Plant-Structure-079.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0674,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.4112,
+              0.4302
+            ]
+          ]
+        ],
+        [
+          "Q33(a)",
+          [
+            [
+              0,
+              0.4406,
+              0.8091
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4107,6 +7730,40 @@
         "papers/biology/fig/04A-Plant-Structure-Q33b.jpg",
         "papers/biology/fig/04A-Plant-Structure-Q33b-2.jpg",
         "papers/biology/fig/04A-Plant-Structure-Q33b-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3751,
+          0.4767
+        ],
+        [
+          2,
+          0.0513,
+          0.5859
+        ],
+        [
+          3,
+          0.0513,
+          0.9449
+        ],
+        [
+          4,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.4112,
+              0.4302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4140,6 +7797,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q34a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4397,
+          0.7635
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.2745,
+              0.6116
+            ],
+            [
+              1,
+              0.0513,
+              0.4302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4169,6 +7850,35 @@
         "papers/biology/img/04A-Plant-Structure-080.jpg",
         "papers/biology/img/04A-Plant-Structure-081.jpg",
         "papers/biology/img/04A-Plant-Structure-082.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7692,
+          0.9392
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.2745,
+              0.6116
+            ],
+            [
+              1,
+              0.0513,
+              0.4302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4200,6 +7910,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q34b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0817,
+          0.452
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.2745,
+              0.6116
+            ],
+            [
+              1,
+              0.0513,
+              0.4302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4233,6 +7967,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q34a.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4653,
+          0.7094
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.2745,
+              0.6116
+            ],
+            [
+              1,
+              0.0513,
+              0.4302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4264,6 +8022,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q34a.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7227,
+          0.886
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.2745,
+              0.6116
+            ],
+            [
+              1,
+              0.0513,
+              0.4302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4295,6 +8077,35 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q34a.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8993,
+          0.9183
+        ],
+        [
+          3,
+          0.0513,
+          0.1244
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.2745,
+              0.6116
+            ],
+            [
+              1,
+              0.0513,
+              0.4302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4322,6 +8133,25 @@
       "images": [
         "papers/biology/img/04A-Plant-Structure-082.jpg",
         "papers/biology/img/04A-Plant-Structure-083.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3998,
+          0.5081
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.3257,
+              0.3865
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4348,6 +8178,40 @@
       "images": [
         "papers/biology/img/04A-Plant-Structure-082.jpg",
         "papers/biology/img/04A-Plant-Structure-083.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8291,
+          0.9269
+        ],
+        [
+          1,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.3257,
+              0.3865
+            ]
+          ]
+        ],
+        [
+          "Q35(b)",
+          [
+            [
+              0,
+              0.5271,
+              0.8262
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4379,6 +8243,35 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q35b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1624,
+          0.8632
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.3257,
+              0.3865
+            ]
+          ]
+        ],
+        [
+          "Q35(b)",
+          [
+            [
+              0,
+              0.5271,
+              0.8262
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4409,6 +8302,35 @@
         "papers/biology/img/04A-Plant-Structure-086.jpg",
         "papers/biology/img/04A-Plant-Structure-087.jpg",
         "papers/biology/img/04A-Plant-Structure-088.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7104,
+          0.8224
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.169,
+              0.679
+            ]
+          ]
+        ],
+        [
+          "Q36(a)",
+          [
+            [
+              0,
+              0.6885,
+              0.7075
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4439,6 +8361,35 @@
         "papers/biology/img/04A-Plant-Structure-086.jpg",
         "papers/biology/img/04A-Plant-Structure-087.jpg",
         "papers/biology/img/04A-Plant-Structure-088.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8291,
+          0.9402
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.169,
+              0.679
+            ]
+          ]
+        ],
+        [
+          "Q36(a)",
+          [
+            [
+              0,
+              0.6885,
+              0.7075
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4469,6 +8420,35 @@
         "papers/biology/img/04A-Plant-Structure-086.jpg",
         "papers/biology/img/04A-Plant-Structure-087.jpg",
         "papers/biology/img/04A-Plant-Structure-088.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1975
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.169,
+              0.679
+            ]
+          ]
+        ],
+        [
+          "Q36(a)",
+          [
+            [
+              0,
+              0.6885,
+              0.7075
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4502,6 +8482,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q36b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.265,
+          0.4834
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.169,
+              0.679
+            ]
+          ]
+        ],
+        [
+          "Q36(b)",
+          [
+            [
+              1,
+              0.2184,
+              0.8519
+            ],
+            [
+              2,
+              0.0665,
+              0.2612
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4531,6 +8545,40 @@
         "papers/biology/img/04A-Plant-Structure-086.jpg",
         "papers/biology/img/04A-Plant-Structure-087.jpg",
         "papers/biology/img/04A-Plant-Structure-088.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4891,
+          0.6211
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.169,
+              0.679
+            ]
+          ]
+        ],
+        [
+          "Q36(b)",
+          [
+            [
+              1,
+              0.2184,
+              0.8519
+            ],
+            [
+              2,
+              0.0665,
+              0.2612
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4563,6 +8611,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q36c.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.3219,
+          0.4207
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.169,
+              0.679
+            ]
+          ]
+        ],
+        [
+          "Q36(c)",
+          [
+            [
+              2,
+              0.6391,
+              0.7104
+            ],
+            [
+              3,
+              0.0513,
+              0.3181
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4598,6 +8680,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q36c.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.4349,
+          0.5613
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.169,
+              0.679
+            ]
+          ]
+        ],
+        [
+          "Q36(c)",
+          [
+            [
+              2,
+              0.6391,
+              0.7104
+            ],
+            [
+              3,
+              0.0513,
+              0.3181
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4633,6 +8749,45 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q36c-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.5679,
+          0.9202
+        ],
+        [
+          4,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.169,
+              0.679
+            ]
+          ]
+        ],
+        [
+          "Q36(c)",
+          [
+            [
+              2,
+              0.6391,
+              0.7104
+            ],
+            [
+              3,
+              0.0513,
+              0.3181
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4664,6 +8819,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q37a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9012,
+          0.9202
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.4701,
+              0.8661
+            ]
+          ]
+        ],
+        [
+          "Q37(a)",
+          [
+            [
+              0,
+              0.8794,
+              0.8984
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4695,6 +8884,35 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q37a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.075,
+          0.1871
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.4701,
+              0.8661
+            ]
+          ]
+        ],
+        [
+          "Q37(a)",
+          [
+            [
+              0,
+              0.8794,
+              0.8984
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4726,6 +8944,25 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q37b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1994,
+          0.6144
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.4701,
+              0.8661
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4763,6 +9000,35 @@
         "papers/biology/fig/04A-Plant-Structure-Q37c.jpg",
         "papers/biology/fig/04A-Plant-Structure-Q37c-2.jpg",
         "papers/biology/fig/04A-Plant-Structure-Q37c-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6363,
+          0.6771
+        ],
+        [
+          2,
+          0.0513,
+          0.9468
+        ],
+        [
+          3,
+          0.0826,
+          0.7056
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.4701,
+              0.8661
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4793,6 +9059,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q38a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4236,
+          0.4425
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.8528,
+              0.8718
+            ],
+            [
+              1,
+              0.0522,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4823,6 +9113,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q38a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4606,
+          0.4796
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.8528,
+              0.8718
+            ],
+            [
+              1,
+              0.0522,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4855,6 +9169,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q38b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4976,
+          0.7569
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.8528,
+              0.8718
+            ],
+            [
+              1,
+              0.0522,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4886,6 +9224,35 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q38c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7778,
+          0.7968
+        ],
+        [
+          2,
+          0.0513,
+          0.3723
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.8528,
+              0.8718
+            ],
+            [
+              1,
+              0.0522,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4915,6 +9282,30 @@
         "papers/biology/img/04A-Plant-Structure-094.jpg",
         "papers/biology/img/04A-Plant-Structure-095.jpg",
         "papers/biology/img/04A-Plant-Structure-096.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8708,
+          0.9421
+        ],
+        [
+          1,
+          0.0513,
+          0.1054
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.5679,
+              0.8613
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4946,6 +9337,25 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q39a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1187,
+          0.2308
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.5679,
+              0.8613
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4977,6 +9387,30 @@
         "papers/biology/img/04A-Plant-Structure-094.jpg",
         "papers/biology/img/04A-Plant-Structure-095.jpg",
         "papers/biology/img/04A-Plant-Structure-096.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2441,
+          0.925
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.5679,
+              0.8613
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5009,6 +9443,30 @@
         "papers/biology/img/04A-Plant-Structure-094.jpg",
         "papers/biology/img/04A-Plant-Structure-095.jpg",
         "papers/biology/img/04A-Plant-Structure-096.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1406,
+          0.9316
+        ],
+        [
+          3,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.5679,
+              0.8613
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5042,6 +9500,25 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q40a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3238,
+          0.6021
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.2944,
+              0.3134
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5070,6 +9547,25 @@
         "papers/biology/img/04A-Plant-Structure-096.jpg",
         "papers/biology/img/04A-Plant-Structure-097.jpg",
         "papers/biology/img/04A-Plant-Structure-098.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6258,
+          0.8129
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.2944,
+              0.3134
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5100,6 +9596,40 @@
         "papers/biology/img/04A-Plant-Structure-096.jpg",
         "papers/biology/img/04A-Plant-Structure-097.jpg",
         "papers/biology/img/04A-Plant-Structure-098.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8566,
+          0.8756
+        ],
+        [
+          1,
+          0.0513,
+          0.4777
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.2944,
+              0.3134
+            ]
+          ]
+        ],
+        [
+          "Q40(c)",
+          [
+            [
+              0,
+              0.8338,
+              0.8528
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5133,6 +9663,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q40c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4891,
+          0.9373
+        ],
+        [
+          2,
+          0.0532,
+          0.6933
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.2944,
+              0.3134
+            ]
+          ]
+        ],
+        [
+          "Q40(c)",
+          [
+            [
+              0,
+              0.8338,
+              0.8528
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5164,6 +9728,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q41a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4036,
+          0.5546
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.8898,
+              0.9383
+            ],
+            [
+              1,
+              0.0522,
+              0.3894
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5195,6 +9783,45 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q41b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4625,
+          0.5157
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.8898,
+              0.9383
+            ],
+            [
+              1,
+              0.0522,
+              0.3894
+            ]
+          ]
+        ],
+        [
+          "Q41(b)",
+          [
+            [
+              1,
+              0.567,
+              0.5859
+            ],
+            [
+              2,
+              0.0513,
+              0.4577
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5226,6 +9853,45 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q41b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5214,
+          0.7217
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.8898,
+              0.9383
+            ],
+            [
+              1,
+              0.0522,
+              0.3894
+            ]
+          ]
+        ],
+        [
+          "Q41(b)",
+          [
+            [
+              1,
+              0.567,
+              0.5859
+            ],
+            [
+              2,
+              0.0513,
+              0.4577
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5254,6 +9920,45 @@
         "papers/biology/img/04A-Plant-Structure-099.jpg",
         "papers/biology/img/04A-Plant-Structure-100.jpg",
         "papers/biology/img/04A-Plant-Structure-101.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8984,
+          0.9468
+        ],
+        [
+          3,
+          0.0532,
+          0.1548
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.8898,
+              0.9383
+            ],
+            [
+              1,
+              0.0522,
+              0.3894
+            ]
+          ]
+        ],
+        [
+          "Q41(c)",
+          [
+            [
+              2,
+              0.7341,
+              0.8946
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5283,6 +9988,40 @@
         "papers/biology/img/04A-Plant-Structure-099.jpg",
         "papers/biology/img/04A-Plant-Structure-100.jpg",
         "papers/biology/img/04A-Plant-Structure-101.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1662,
+          0.6838
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.8898,
+              0.9383
+            ],
+            [
+              1,
+              0.0522,
+              0.3894
+            ]
+          ]
+        ],
+        [
+          "Q41(c)",
+          [
+            [
+              2,
+              0.7341,
+              0.8946
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5316,6 +10055,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q42a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8604,
+          0.8917
+        ],
+        [
+          1,
+          0.0513,
+          0.7274
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.831,
+              0.85
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5349,6 +10112,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q42b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5546,
+          0.7844
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.831,
+              0.85
+            ]
+          ]
+        ],
+        [
+          "Q42(b)",
+          [
+            [
+              1,
+              0.7407,
+              0.8262
+            ],
+            [
+              2,
+              0.0513,
+              0.5518
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5379,6 +10176,45 @@
         "papers/biology/img/04A-Plant-Structure-102.jpg",
         "papers/biology/img/04A-Plant-Structure-103.jpg",
         "papers/biology/img/04A-Plant-Structure-104.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7911,
+          0.9316
+        ],
+        [
+          3,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.831,
+              0.85
+            ]
+          ]
+        ],
+        [
+          "Q42(b)",
+          [
+            [
+              1,
+              0.7407,
+              0.8262
+            ],
+            [
+              2,
+              0.0513,
+              0.5518
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5411,6 +10247,25 @@
         "papers/biology/img/04A-Plant-Structure-106.jpg",
         "papers/biology/img/04A-Plant-Structure-107.jpg",
         "papers/biology/img/04A-Plant-Structure-108.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3238,
+          0.6477
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.2944,
+              0.3124
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5443,6 +10298,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q43b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3647,
+          0.4786
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.2944,
+              0.3124
+            ]
+          ]
+        ],
+        [
+          "Q43(b)",
+          [
+            [
+              0,
+              0.661,
+              0.68
+            ],
+            [
+              1,
+              0.0513,
+              0.3609
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5475,6 +10364,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q43b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4929,
+          0.604
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.2944,
+              0.3124
+            ]
+          ]
+        ],
+        [
+          "Q43(b)",
+          [
+            [
+              0,
+              0.661,
+              0.68
+            ],
+            [
+              1,
+              0.0513,
+              0.3609
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5509,6 +10432,40 @@
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q43b.jpg",
         "papers/biology/fig/04A-Plant-Structure-Q43b-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6106,
+          0.8186
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.2944,
+              0.3124
+            ]
+          ]
+        ],
+        [
+          "Q43(b)",
+          [
+            [
+              0,
+              0.661,
+              0.68
+            ],
+            [
+              1,
+              0.0513,
+              0.3609
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5539,6 +10496,40 @@
         "papers/biology/img/04A-Plant-Structure-106.jpg",
         "papers/biology/img/04A-Plant-Structure-107.jpg",
         "papers/biology/img/04A-Plant-Structure-108.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8519,
+          0.9193
+        ],
+        [
+          2,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.2944,
+              0.3124
+            ]
+          ]
+        ],
+        [
+          "Q43(c)",
+          [
+            [
+              1,
+              0.8291,
+              0.8481
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5576,6 +10567,45 @@
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q43c.jpg",
         "papers/biology/fig/04A-Plant-Structure-Q43c-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2802,
+          0.6885
+        ],
+        [
+          3,
+          0.0513,
+          0.943
+        ],
+        [
+          4,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.2944,
+              0.3124
+            ]
+          ]
+        ],
+        [
+          "Q43(c)",
+          [
+            [
+              1,
+              0.8291,
+              0.8481
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5608,6 +10638,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q44a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3922,
+          0.5954
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.4995,
+              0.7683
+            ]
+          ]
+        ],
+        [
+          "Q44(a)",
+          [
+            [
+              0,
+              0.7825,
+              0.8243
+            ],
+            [
+              1,
+              0.057,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5639,6 +10703,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q44a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6021,
+          0.7284
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.4995,
+              0.7683
+            ]
+          ]
+        ],
+        [
+          "Q44(a)",
+          [
+            [
+              0,
+              0.7825,
+              0.8243
+            ],
+            [
+              1,
+              0.057,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5672,6 +10770,45 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q44a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7341,
+          0.9202
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.4995,
+              0.7683
+            ]
+          ]
+        ],
+        [
+          "Q44(a)",
+          [
+            [
+              0,
+              0.7825,
+              0.8243
+            ],
+            [
+              1,
+              0.057,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5705,6 +10842,25 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q44b.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.17,
+          0.5318
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.4995,
+              0.7683
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5735,6 +10891,35 @@
         "papers/biology/img/04A-Plant-Structure-109.jpg",
         "papers/biology/img/04A-Plant-Structure-110.jpg",
         "papers/biology/img/04A-Plant-Structure-111.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7142,
+          0.8756
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.4995,
+              0.7683
+            ]
+          ]
+        ],
+        [
+          "Q44(c)",
+          [
+            [
+              2,
+              0.5527,
+              0.7094
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5767,6 +10952,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q44c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.887,
+          0.9183
+        ],
+        [
+          3,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.4995,
+              0.7683
+            ]
+          ]
+        ],
+        [
+          "Q44(c)",
+          [
+            [
+              2,
+              0.5527,
+              0.7094
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5798,6 +11017,30 @@
         "papers/biology/img/04A-Plant-Structure-112.jpg",
         "papers/biology/img/04A-Plant-Structure-113.jpg",
         "papers/biology/img/04A-Plant-Structure-114.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3523,
+          0.9288
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.3238,
+              0.3428
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5832,6 +11075,30 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q45b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.9183
+        ],
+        [
+          2,
+          0.0608,
+          0.4492
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.3238,
+              0.3428
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5862,6 +11129,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q45c.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.3077,
+          0.4198
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.3238,
+              0.3428
+            ]
+          ]
+        ],
+        [
+          "Q45(c)",
+          [
+            [
+              2,
+              0.4625,
+              0.8053
+            ],
+            [
+              3,
+              0.057,
+              0.2972
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5892,6 +11193,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q45c.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.4245,
+          0.5242
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.3238,
+              0.3428
+            ]
+          ]
+        ],
+        [
+          "Q45(c)",
+          [
+            [
+              2,
+              0.4625,
+              0.8053
+            ],
+            [
+              3,
+              0.057,
+              0.2972
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5925,6 +11260,40 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q45c.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.5385,
+          0.8262
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.3238,
+              0.3428
+            ]
+          ]
+        ],
+        [
+          "Q45(c)",
+          [
+            [
+              2,
+              0.4625,
+              0.8053
+            ],
+            [
+              3,
+              0.057,
+              0.2972
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5956,6 +11325,25 @@
         "papers/biology/img/04A-Plant-Structure-117.jpg",
         "papers/biology/img/04A-Plant-Structure-118.jpg",
         "papers/biology/img/04A-Plant-Structure-119.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4758,
+          0.6819
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.1396,
+              0.4653
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5988,6 +11376,30 @@
         "papers/biology/img/04A-Plant-Structure-117.jpg",
         "papers/biology/img/04A-Plant-Structure-118.jpg",
         "papers/biology/img/04A-Plant-Structure-119.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6885,
+          0.9316
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.1396,
+              0.4653
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6021,6 +11433,25 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q46b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1111,
+          0.5489
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.1396,
+              0.4653
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6054,6 +11485,45 @@
       ],
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q46c-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8091,
+          0.8575
+        ],
+        [
+          3,
+          0.0722,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.1396,
+              0.4653
+            ]
+          ]
+        ],
+        [
+          "Q46(c)",
+          [
+            [
+              1,
+              0.567,
+              0.8851
+            ],
+            [
+              2,
+              0.0589,
+              0.8025
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6091,6 +11561,45 @@
       "figures": [
         "papers/biology/fig/04A-Plant-Structure-Q46c.jpg",
         "papers/biology/fig/04A-Plant-Structure-Q46c-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.3694,
+          0.9354
+        ],
+        [
+          4,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.1396,
+              0.4653
+            ]
+          ]
+        ],
+        [
+          "Q46(c)",
+          [
+            [
+              1,
+              0.567,
+              0.8851
+            ],
+            [
+              2,
+              0.0589,
+              0.8025
+            ]
+          ]
+        ]
       ]
     }
   ]

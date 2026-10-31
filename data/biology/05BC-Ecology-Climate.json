@@ -32,6 +32,25 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5717,
+          0.5907
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.5622
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -60,6 +79,35 @@
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-001.jpg",
         "papers/biology/img/05BC-Ecology-Climate-002.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6372,
+          0.7493
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.5622
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.6154,
+              0.6344
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -88,6 +136,35 @@
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-001.jpg",
         "papers/biology/img/05BC-Ecology-Climate-002.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7559,
+          0.8575
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.5622
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.6154,
+              0.6344
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -116,6 +193,40 @@
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-001.jpg",
         "papers/biology/img/05BC-Ecology-Climate-002.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8689,
+          0.9145
+        ],
+        [
+          1,
+          0.1282,
+          0.1443
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.5622
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.6154,
+              0.6344
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -150,6 +261,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6847,
+          0.7037
+        ],
+        [
+          1,
+          0.0532,
+          0.6762
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.2906,
+              0.6714
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -183,6 +318,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q2-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4368,
+          0.812
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.2906,
+              0.6714
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.6828,
+              0.717
+            ],
+            [
+              2,
+              0.0513,
+              0.433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -218,6 +387,45 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q2-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8177,
+          0.9297
+        ],
+        [
+          3,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.2906,
+              0.6714
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.6828,
+              0.717
+            ],
+            [
+              2,
+              0.0513,
+              0.433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -251,6 +459,40 @@
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q3.jpg",
         "papers/biology/fig/05BC-Ecology-Climate-Q3-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6239,
+          0.8272
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.4995,
+              0.5185
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.528,
+              0.6781
+            ],
+            [
+              1,
+              0.0513,
+              0.6211
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -283,6 +525,45 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8348,
+          0.9316
+        ],
+        [
+          2,
+          0.0513,
+          0.0712
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.4995,
+              0.5185
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.528,
+              0.6781
+            ],
+            [
+              1,
+              0.0513,
+              0.6211
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -316,6 +597,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0845,
+          0.2991
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.4995,
+              0.5185
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.528,
+              0.6781
+            ],
+            [
+              1,
+              0.0513,
+              0.6211
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -347,6 +662,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q3-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7208,
+          0.8234
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.4995,
+              0.5185
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              2,
+              0.3124,
+              0.7189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -379,6 +723,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q3-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8338,
+          0.868
+        ],
+        [
+          3,
+          0.1586,
+          0.1738
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.4995,
+              0.5185
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              2,
+              0.3124,
+              0.7189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -409,6 +787,35 @@
         "papers/biology/img/05BC-Ecology-Climate-006.jpg",
         "papers/biology/img/05BC-Ecology-Climate-007.jpg",
         "papers/biology/img/05BC-Ecology-Climate-008.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1804,
+          0.4141
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.4995,
+              0.5185
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              2,
+              0.3124,
+              0.7189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -440,6 +847,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q3-3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.4198,
+          0.5461
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.4995,
+              0.5185
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              2,
+              0.3124,
+              0.7189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -472,6 +908,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5033,
+          0.773
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7426,
+              0.7616
+            ],
+            [
+              1,
+              0.0617,
+              0.49
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -501,6 +961,30 @@
         "papers/biology/img/05BC-Ecology-Climate-008.jpg",
         "papers/biology/img/05BC-Ecology-Climate-009.jpg",
         "papers/biology/img/05BC-Ecology-Climate-010.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7768,
+          0.886
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7426,
+              0.7616
+            ],
+            [
+              1,
+              0.0617,
+              0.49
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -530,6 +1014,35 @@
         "papers/biology/img/05BC-Ecology-Climate-008.jpg",
         "papers/biology/img/05BC-Ecology-Climate-009.jpg",
         "papers/biology/img/05BC-Ecology-Climate-010.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9041,
+          0.9231
+        ],
+        [
+          2,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7426,
+              0.7616
+            ],
+            [
+              1,
+              0.0617,
+              0.49
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -559,6 +1072,30 @@
         "papers/biology/img/05BC-Ecology-Climate-008.jpg",
         "papers/biology/img/05BC-Ecology-Climate-009.jpg",
         "papers/biology/img/05BC-Ecology-Climate-010.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2279,
+          0.5527
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7426,
+              0.7616
+            ],
+            [
+              1,
+              0.0617,
+              0.49
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -590,6 +1127,40 @@
         "papers/biology/img/05BC-Ecology-Climate-012.jpg",
         "papers/biology/img/05BC-Ecology-Climate-013.jpg",
         "papers/biology/img/05BC-Ecology-Climate-014.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4255,
+          0.717
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6999,
+              0.7189
+            ],
+            [
+              1,
+              0.0513,
+              0.3799
+            ]
+          ]
+        ],
+        [
+          "Q5(a)",
+          [
+            [
+              1,
+              0.3922,
+              0.4311
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -621,6 +1192,40 @@
         "papers/biology/img/05BC-Ecology-Climate-012.jpg",
         "papers/biology/img/05BC-Ecology-Climate-013.jpg",
         "papers/biology/img/05BC-Ecology-Climate-014.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7236,
+          0.8348
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6999,
+              0.7189
+            ],
+            [
+              1,
+              0.0513,
+              0.3799
+            ]
+          ]
+        ],
+        [
+          "Q5(a)",
+          [
+            [
+              1,
+              0.3922,
+              0.4311
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -657,6 +1262,45 @@
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q5.jpg",
         "papers/biology/fig/05BC-Ecology-Climate-Q5-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8481,
+          0.9392
+        ],
+        [
+          2,
+          0.0541,
+          0.548
+        ],
+        [
+          3,
+          0.0598,
+          0.9221
+        ],
+        [
+          4,
+          0.0608,
+          0.3324
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.6999,
+              0.7189
+            ],
+            [
+              1,
+              0.0513,
+              0.3799
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -685,6 +1329,25 @@
         "papers/biology/img/05BC-Ecology-Climate-014.jpg",
         "papers/biology/img/05BC-Ecology-Climate-015.jpg",
         "papers/biology/img/05BC-Ecology-Climate-016.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6572,
+          0.8632
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4796,
+              0.6534
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -714,6 +1377,30 @@
         "papers/biology/img/05BC-Ecology-Climate-014.jpg",
         "papers/biology/img/05BC-Ecology-Climate-015.jpg",
         "papers/biology/img/05BC-Ecology-Climate-016.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8765,
+          0.9088
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4796,
+              0.6534
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -743,6 +1430,25 @@
         "papers/biology/img/05BC-Ecology-Climate-014.jpg",
         "papers/biology/img/05BC-Ecology-Climate-015.jpg",
         "papers/biology/img/05BC-Ecology-Climate-016.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2279,
+          0.6258
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4796,
+              0.6534
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -772,6 +1478,30 @@
         "papers/biology/img/05BC-Ecology-Climate-014.jpg",
         "papers/biology/img/05BC-Ecology-Climate-015.jpg",
         "papers/biology/img/05BC-Ecology-Climate-016.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6391,
+          0.9193
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.4796,
+              0.6534
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -801,6 +1531,25 @@
         "papers/biology/img/05BC-Ecology-Climate-016.jpg",
         "papers/biology/img/05BC-Ecology-Climate-017.jpg",
         "papers/biology/img/05BC-Ecology-Climate-018.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3618,
+          0.4815
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3039,
+              0.3514
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -830,6 +1579,25 @@
         "papers/biology/img/05BC-Ecology-Climate-016.jpg",
         "papers/biology/img/05BC-Ecology-Climate-017.jpg",
         "papers/biology/img/05BC-Ecology-Climate-018.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4872,
+          0.6277
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3039,
+              0.3514
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -862,6 +1630,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.34
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3039,
+              0.3514
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              0,
+              0.641,
+              0.9288
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -893,6 +1690,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3457,
+          0.5793
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3039,
+              0.3514
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              0,
+              0.641,
+              0.9288
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -924,6 +1750,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5859,
+          0.7445
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3039,
+              0.3514
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              0,
+              0.641,
+              0.9288
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -957,6 +1812,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q7-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7578,
+          0.7768
+        ],
+        [
+          2,
+          0.0532,
+          0.8737
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.3039,
+              0.3514
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -991,6 +1870,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q8.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1795
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1425,
+              0.5157
+            ]
+          ]
+        ],
+        [
+          "Q8(a)",
+          [
+            [
+              0,
+              0.5252,
+              0.9449
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1024,6 +1932,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q8.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1852,
+          0.3143
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1425,
+              0.5157
+            ]
+          ]
+        ],
+        [
+          "Q8(a)",
+          [
+            [
+              0,
+              0.5252,
+              0.9449
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1059,6 +1996,35 @@
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q8.jpg",
         "papers/biology/fig/05BC-Ecology-Climate-Q8-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.32,
+          0.7009
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1425,
+              0.5157
+            ]
+          ]
+        ],
+        [
+          "Q8(a)",
+          [
+            [
+              0,
+              0.5252,
+              0.9449
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1092,6 +2058,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q8-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4065,
+          0.5793
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1425,
+              0.5157
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              1,
+              0.7863,
+              0.8424
+            ],
+            [
+              2,
+              0.0617,
+              0.4027
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1129,6 +2129,50 @@
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q8-3.jpg",
         "papers/biology/fig/05BC-Ecology-Climate-Q8-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5859,
+          0.6049
+        ],
+        [
+          3,
+          0.0513,
+          0.9278
+        ],
+        [
+          4,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1425,
+              0.5157
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              1,
+              0.7863,
+              0.8424
+            ],
+            [
+              2,
+              0.0617,
+              0.4027
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1159,6 +2203,40 @@
         "papers/biology/img/05BC-Ecology-Climate-024.jpg",
         "papers/biology/img/05BC-Ecology-Climate-025.jpg",
         "papers/biology/img/05BC-Ecology-Climate-026.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8348,
+          0.9221
+        ],
+        [
+          1,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4501,
+              0.4691
+            ]
+          ]
+        ],
+        [
+          "Q9(a)",
+          [
+            [
+              0,
+              0.4796,
+              0.8414
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1189,6 +2267,35 @@
         "papers/biology/img/05BC-Ecology-Climate-024.jpg",
         "papers/biology/img/05BC-Ecology-Climate-025.jpg",
         "papers/biology/img/05BC-Ecology-Climate-026.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2507,
+          0.4501
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4501,
+              0.4691
+            ]
+          ]
+        ],
+        [
+          "Q9(a)",
+          [
+            [
+              0,
+              0.4796,
+              0.8414
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1220,6 +2327,25 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q9.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4634,
+          0.925
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4501,
+              0.4691
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1253,6 +2379,25 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q9.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.4577
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4501,
+              0.4691
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1283,6 +2428,25 @@
         "papers/biology/img/05BC-Ecology-Climate-024.jpg",
         "papers/biology/img/05BC-Ecology-Climate-025.jpg",
         "papers/biology/img/05BC-Ecology-Climate-026.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4634,
+          0.7426
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4501,
+              0.4691
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1315,6 +2479,50 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7483,
+          0.7977
+        ],
+        [
+          3,
+          0.0513,
+          0.6553
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.4501,
+              0.4691
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.4634,
+              0.925
+            ],
+            [
+              2,
+              0.0532,
+              0.7977
+            ],
+            [
+              3,
+              0.0513,
+              0.6553
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1347,6 +2555,45 @@
         "papers/biology/img/05BC-Ecology-Climate-028.jpg",
         "papers/biology/img/05BC-Ecology-Climate-029.jpg",
         "papers/biology/img/05BC-Ecology-Climate-030.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.397,
+          0.5556
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8025,
+              0.8215
+            ],
+            [
+              1,
+              0.0513,
+              0.7322
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              1,
+              0.7417,
+              0.7977
+            ],
+            [
+              2,
+              0.0513,
+              0.3941
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1381,6 +2628,45 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q10.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5698,
+          0.7844
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8025,
+              0.8215
+            ],
+            [
+              1,
+              0.0513,
+              0.7322
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              1,
+              0.7417,
+              0.7977
+            ],
+            [
+              2,
+              0.0513,
+              0.3941
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1414,6 +2700,45 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q10-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.17,
+          0.3884
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8025,
+              0.8215
+            ],
+            [
+              1,
+              0.0513,
+              0.7322
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              2,
+              0.7977,
+              0.8955
+            ],
+            [
+              3,
+              0.0589,
+              0.1567
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1447,6 +2772,45 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q10-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.3951,
+          0.6097
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8025,
+              0.8215
+            ],
+            [
+              1,
+              0.0513,
+              0.7322
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              2,
+              0.7977,
+              0.8955
+            ],
+            [
+              3,
+              0.0589,
+              0.1567
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1478,6 +2842,45 @@
         "papers/biology/img/05BC-Ecology-Climate-028.jpg",
         "papers/biology/img/05BC-Ecology-Climate-029.jpg",
         "papers/biology/img/05BC-Ecology-Climate-030.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.6154,
+          0.83
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8025,
+              0.8215
+            ],
+            [
+              1,
+              0.0513,
+              0.7322
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              2,
+              0.7977,
+              0.8955
+            ],
+            [
+              3,
+              0.0589,
+              0.1567
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1511,6 +2914,35 @@
         "papers/biology/img/05BC-Ecology-Climate-028.jpg",
         "papers/biology/img/05BC-Ecology-Climate-029.jpg",
         "papers/biology/img/05BC-Ecology-Climate-030.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.8433,
+          0.9326
+        ],
+        [
+          4,
+          0.0608,
+          0.3913
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8025,
+              0.8215
+            ],
+            [
+              1,
+              0.0513,
+              0.7322
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1541,6 +2973,25 @@
         "papers/biology/img/05BC-Ecology-Climate-031.jpg",
         "papers/biology/img/05BC-Ecology-Climate-032.jpg",
         "papers/biology/img/05BC-Ecology-Climate-033.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.567,
+          0.6857
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.5375,
+              0.5565
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1573,6 +3024,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3751,
+          0.5081
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.5375,
+              0.5565
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              0,
+              0.699,
+              0.7854
+            ],
+            [
+              1,
+              0.0513,
+              0.3818
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1606,6 +3091,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5138,
+          0.7436
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.5375,
+              0.5565
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              0,
+              0.699,
+              0.7854
+            ],
+            [
+              1,
+              0.0513,
+              0.3818
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1639,6 +3158,45 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7493,
+          0.9345
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.5375,
+              0.5565
+            ]
+          ]
+        ],
+        [
+          "Q11(b)",
+          [
+            [
+              0,
+              0.699,
+              0.7854
+            ],
+            [
+              1,
+              0.0513,
+              0.3818
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1672,6 +3230,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q11-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.17,
+          0.9383
+        ],
+        [
+          3,
+          0.0608,
+          0.5375
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.5375,
+              0.5565
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1702,6 +3284,25 @@
         "papers/biology/img/05BC-Ecology-Climate-034.jpg",
         "papers/biology/img/05BC-Ecology-Climate-035.jpg",
         "papers/biology/img/05BC-Ecology-Climate-036.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7626,
+          0.9278
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.7331,
+              0.7493
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1732,6 +3333,35 @@
         "papers/biology/img/05BC-Ecology-Climate-034.jpg",
         "papers/biology/img/05BC-Ecology-Climate-035.jpg",
         "papers/biology/img/05BC-Ecology-Climate-036.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1197,
+          0.2194
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.7331,
+              0.7493
+            ]
+          ]
+        ],
+        [
+          "Q12(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.1225
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1763,6 +3393,35 @@
         "papers/biology/img/05BC-Ecology-Climate-034.jpg",
         "papers/biology/img/05BC-Ecology-Climate-035.jpg",
         "papers/biology/img/05BC-Ecology-Climate-036.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2336,
+          0.3324
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.7331,
+              0.7493
+            ]
+          ]
+        ],
+        [
+          "Q12(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.1225
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1794,6 +3453,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3466,
+          0.5764
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.7331,
+              0.7493
+            ]
+          ]
+        ],
+        [
+          "Q12(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.1225
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1829,6 +3517,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q12-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5802,
+          0.9335
+        ],
+        [
+          2,
+          0.0522,
+          0.9402
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.7331,
+              0.7493
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1862,6 +3574,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7835,
+          0.9231
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.2355,
+              0.3286
+            ],
+            [
+              1,
+              0.0513,
+              0.7645
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1895,6 +3631,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q13.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.1814
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.2355,
+              0.3286
+            ],
+            [
+              1,
+              0.0513,
+              0.7645
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1931,6 +3691,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q13.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1871,
+          0.7531
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.2355,
+              0.3286
+            ],
+            [
+              1,
+              0.0513,
+              0.7645
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1965,6 +3749,45 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q13-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.5404,
+          0.8272
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.2355,
+              0.3286
+            ],
+            [
+              1,
+              0.0513,
+              0.7645
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              2,
+              0.7664,
+              0.8224
+            ],
+            [
+              3,
+              0.0513,
+              0.5366
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2000,6 +3823,50 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q13-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.8329,
+          0.9449
+        ],
+        [
+          4,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.2355,
+              0.3286
+            ],
+            [
+              1,
+              0.0513,
+              0.7645
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              2,
+              0.7664,
+              0.8224
+            ],
+            [
+              3,
+              0.0513,
+              0.5366
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2032,6 +3899,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8557,
+          0.9383
+        ],
+        [
+          1,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4501,
+              0.8082
+            ]
+          ]
+        ],
+        [
+          "Q14(a)",
+          [
+            [
+              0,
+              0.8186,
+              0.849
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2064,6 +3965,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1624,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4501,
+              0.8082
+            ]
+          ]
+        ],
+        [
+          "Q14(a)",
+          [
+            [
+              0,
+              0.8186,
+              0.849
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2097,6 +4027,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3685,
+          0.5679
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4501,
+              0.8082
+            ]
+          ]
+        ],
+        [
+          "Q14(a)",
+          [
+            [
+              0,
+              0.8186,
+              0.849
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2130,6 +4089,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5736,
+          0.774
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4501,
+              0.8082
+            ]
+          ]
+        ],
+        [
+          "Q14(a)",
+          [
+            [
+              0,
+              0.8186,
+              0.849
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2160,6 +4148,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7863,
+          0.8053
+        ],
+        [
+          2,
+          0.0978,
+          0.114
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4501,
+              0.8082
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2191,6 +4203,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.849,
+          0.868
+        ],
+        [
+          1,
+          0.0617,
+          0.1994
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2612,
+              0.2944
+            ]
+          ]
+        ],
+        [
+          "Q15(a)",
+          [
+            [
+              0,
+              0.3048,
+              0.8462
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2220,6 +4266,35 @@
         "papers/biology/img/05BC-Ecology-Climate-042.jpg",
         "papers/biology/img/05BC-Ecology-Climate-043.jpg",
         "papers/biology/img/05BC-Ecology-Climate-044.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2023,
+          0.4017
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2612,
+              0.2944
+            ]
+          ]
+        ],
+        [
+          "Q15(a)",
+          [
+            [
+              0,
+              0.3048,
+              0.8462
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2249,6 +4324,40 @@
         "papers/biology/img/05BC-Ecology-Climate-042.jpg",
         "papers/biology/img/05BC-Ecology-Climate-043.jpg",
         "papers/biology/img/05BC-Ecology-Climate-044.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6923,
+          0.9212
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2612,
+              0.2944
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              1,
+              0.415,
+              0.6895
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2283,6 +4392,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q15-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.075,
+          0.6705
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2612,
+              0.2944
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              1,
+              0.415,
+              0.6895
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2316,6 +4454,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q16.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5337,
+          0.8253
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.8177,
+              0.8367
+            ],
+            [
+              1,
+              0.0513,
+              0.8329
+            ],
+            [
+              2,
+              0.0617,
+              0.5242
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2352,6 +4519,50 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q16.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8604,
+          0.9288
+        ],
+        [
+          3,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.8177,
+              0.8367
+            ],
+            [
+              1,
+              0.0513,
+              0.8329
+            ],
+            [
+              2,
+              0.0617,
+              0.5242
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              2,
+              0.8386,
+              0.8575
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2386,6 +4597,45 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q16.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2802,
+          0.641
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.8177,
+              0.8367
+            ],
+            [
+              1,
+              0.0513,
+              0.8329
+            ],
+            [
+              2,
+              0.0617,
+              0.5242
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              2,
+              0.8386,
+              0.8575
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2417,6 +4667,40 @@
         "papers/biology/img/05BC-Ecology-Climate-046.jpg",
         "papers/biology/img/05BC-Ecology-Climate-047.jpg",
         "papers/biology/img/05BC-Ecology-Climate-048.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.6543,
+          0.9193
+        ],
+        [
+          4,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.8177,
+              0.8367
+            ],
+            [
+              1,
+              0.0513,
+              0.8329
+            ],
+            [
+              2,
+              0.0617,
+              0.5242
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2447,6 +4731,40 @@
         "papers/biology/img/05BC-Ecology-Climate-049.jpg",
         "papers/biology/img/05BC-Ecology-Climate-050.jpg",
         "papers/biology/img/05BC-Ecology-Climate-051.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2944,
+          0.4748
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.3238,
+              0.7208
+            ]
+          ]
+        ],
+        [
+          "Q17(a)",
+          [
+            [
+              0,
+              0.7312,
+              0.7502
+            ],
+            [
+              1,
+              0.0532,
+              0.2963
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2480,6 +4798,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q17.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4805,
+          0.6847
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.3238,
+              0.7208
+            ]
+          ]
+        ],
+        [
+          "Q17(a)",
+          [
+            [
+              0,
+              0.7312,
+              0.7502
+            ],
+            [
+              1,
+              0.0532,
+              0.2963
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2510,6 +4862,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q17-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4986,
+          0.6743
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.3238,
+              0.7208
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              1,
+              0.6971,
+              0.754
+            ],
+            [
+              2,
+              0.0522,
+              0.4967
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2543,6 +4929,45 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q17-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.679,
+          0.9221
+        ],
+        [
+          3,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.3238,
+              0.7208
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              1,
+              0.6971,
+              0.754
+            ],
+            [
+              2,
+              0.0522,
+              0.4967
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2576,6 +5001,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q17-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1045,
+          0.3039
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.3238,
+              0.7208
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              1,
+              0.6971,
+              0.754
+            ],
+            [
+              2,
+              0.0522,
+              0.4967
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2606,6 +5065,25 @@
         "papers/biology/img/05BC-Ecology-Climate-052.jpg",
         "papers/biology/img/05BC-Ecology-Climate-053.jpg",
         "papers/biology/img/05BC-Ecology-Climate-054.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.529,
+          0.8177
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.4995,
+              0.5185
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2636,6 +5114,30 @@
         "papers/biology/img/05BC-Ecology-Climate-052.jpg",
         "papers/biology/img/05BC-Ecology-Climate-053.jpg",
         "papers/biology/img/05BC-Ecology-Climate-054.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8281,
+          0.9174
+        ],
+        [
+          1,
+          0.0608,
+          0.3324
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.4995,
+              0.5185
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2668,6 +5170,25 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3457,
+          0.6192
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.4995,
+              0.5185
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2703,6 +5224,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q18-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6296,
+          0.7009
+        ],
+        [
+          2,
+          0.0513,
+          0.9335
+        ],
+        [
+          3,
+          0.0608,
+          0.567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.4995,
+              0.5185
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2734,6 +5284,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2441,
+          0.3438
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19(a)",
+          [
+            [
+              0,
+              0.7626,
+              0.7816
+            ],
+            [
+              1,
+              0.0655,
+              0.2412
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2765,6 +5339,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3571,
+          0.4568
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19(a)",
+          [
+            [
+              0,
+              0.7626,
+              0.7816
+            ],
+            [
+              1,
+              0.0655,
+              0.2412
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2796,6 +5394,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.471,
+          0.5698
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19(a)",
+          [
+            [
+              0,
+              0.7626,
+              0.7816
+            ],
+            [
+              1,
+              0.0655,
+              0.2412
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2829,6 +5451,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.584,
+          0.6828
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19(a)",
+          [
+            [
+              0,
+              0.7626,
+              0.7816
+            ],
+            [
+              1,
+              0.0655,
+              0.2412
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2862,6 +5508,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q19-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4644,
+          0.566
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19(b)",
+          [
+            [
+              1,
+              0.7037,
+              0.735
+            ],
+            [
+              2,
+              0.0513,
+              0.4606
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2895,6 +5565,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q19-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5774,
+          0.8794
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19(b)",
+          [
+            [
+              1,
+              0.7037,
+              0.735
+            ],
+            [
+              2,
+              0.0513,
+              0.4606
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2927,6 +5621,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q19-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.886,
+          0.9392
+        ],
+        [
+          3,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19(b)",
+          [
+            [
+              1,
+              0.7037,
+              0.735
+            ],
+            [
+              2,
+              0.0513,
+              0.4606
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2960,6 +5683,30 @@
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q19-2.jpg",
         "papers/biology/fig/05BC-Ecology-Climate-Q19-3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1918,
+          0.8519
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19(b)",
+          [
+            [
+              1,
+              0.7037,
+              0.735
+            ],
+            [
+              2,
+              0.0513,
+              0.4606
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2988,6 +5735,25 @@
         "papers/biology/img/05BC-Ecology-Climate-058.jpg",
         "papers/biology/img/05BC-Ecology-Climate-059.jpg",
         "papers/biology/img/05BC-Ecology-Climate-060.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5802,
+          0.6401
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.1197,
+              0.5698
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3017,6 +5783,25 @@
         "papers/biology/img/05BC-Ecology-Climate-058.jpg",
         "papers/biology/img/05BC-Ecology-Climate-059.jpg",
         "papers/biology/img/05BC-Ecology-Climate-060.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6467,
+          0.8462
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.1197,
+              0.5698
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3047,6 +5832,30 @@
         "papers/biology/img/05BC-Ecology-Climate-058.jpg",
         "papers/biology/img/05BC-Ecology-Climate-059.jpg",
         "papers/biology/img/05BC-Ecology-Climate-060.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8594,
+          0.9345
+        ],
+        [
+          1,
+          0.0608,
+          0.5375
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.1197,
+              0.5698
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3076,6 +5885,30 @@
         "papers/biology/img/05BC-Ecology-Climate-058.jpg",
         "papers/biology/img/05BC-Ecology-Climate-059.jpg",
         "papers/biology/img/05BC-Ecology-Climate-060.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5508,
+          0.9335
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.1197,
+              0.5698
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3108,6 +5941,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8822,
+          0.9449
+        ],
+        [
+          1,
+          0.0513,
+          0.1368
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.2156,
+              0.8727
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3139,6 +5996,25 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1614,
+          0.3181
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.2156,
+              0.8727
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3170,6 +6046,25 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q21-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3457,
+          0.584
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.2156,
+              0.8727
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3199,6 +6094,35 @@
         "papers/biology/img/05BC-Ecology-Climate-060.jpg",
         "papers/biology/img/05BC-Ecology-Climate-061.jpg",
         "papers/biology/img/05BC-Ecology-Climate-062.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.623,
+          0.7227
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.2156,
+              0.8727
+            ]
+          ]
+        ],
+        [
+          "Q21(d)",
+          [
+            [
+              1,
+              0.6011,
+              0.6201
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3231,6 +6155,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.736,
+          0.9221
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.2156,
+              0.8727
+            ]
+          ]
+        ],
+        [
+          "Q21(d)",
+          [
+            [
+              1,
+              0.6011,
+              0.6201
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3262,6 +6220,25 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6553,
+          0.8613
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.3039,
+              0.6458
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3292,6 +6269,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.868,
+          0.9164
+        ],
+        [
+          1,
+          0.1282,
+          0.1443
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.3039,
+              0.6458
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3322,6 +6323,25 @@
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-062.jpg",
         "papers/biology/img/05BC-Ecology-Climate-063.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1567,
+          0.7901
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.3039,
+              0.6458
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3353,6 +6373,25 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5337,
+          0.812
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23(a)",
+          [
+            [
+              1,
+              0.0532,
+              0.5299
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3385,6 +6424,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8186,
+          0.9307
+        ],
+        [
+          2,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23(a)",
+          [
+            [
+              1,
+              0.0532,
+              0.5299
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3414,6 +6477,13 @@
         "papers/biology/img/05BC-Ecology-Climate-063.jpg",
         "papers/biology/img/05BC-Ecology-Climate-064.jpg",
         "papers/biology/img/05BC-Ecology-Climate-065.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2279,
+          0.5831
+        ]
       ]
     },
     {
@@ -3446,6 +6516,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q24.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3932,
+          0.868
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.7293,
+              0.7778
+            ],
+            [
+              1,
+              0.0513,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3479,6 +6573,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q24-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8813,
+          0.9221
+        ],
+        [
+          2,
+          0.0513,
+          0.5793
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.7293,
+              0.7778
+            ],
+            [
+              1,
+              0.0513,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3509,6 +6632,30 @@
         "papers/biology/img/05BC-Ecology-Climate-066.jpg",
         "papers/biology/img/05BC-Ecology-Climate-067.jpg",
         "papers/biology/img/05BC-Ecology-Climate-068.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5926,
+          0.9164
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.7293,
+              0.7778
+            ],
+            [
+              1,
+              0.0513,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3538,6 +6685,25 @@
         "papers/biology/img/05BC-Ecology-Climate-068.jpg",
         "papers/biology/img/05BC-Ecology-Climate-069.jpg",
         "papers/biology/img/05BC-Ecology-Climate-070.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6743,
+          0.8262
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.2137,
+              0.6638
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3569,6 +6735,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5261,
+          0.7322
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.2137,
+              0.6638
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              0,
+              0.8471,
+              0.8879
+            ],
+            [
+              1,
+              0.0513,
+              0.5223
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3601,6 +6801,45 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.735,
+          0.9202
+        ],
+        [
+          2,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.2137,
+              0.6638
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              0,
+              0.8471,
+              0.8879
+            ],
+            [
+              1,
+              0.0513,
+              0.5223
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3633,6 +6872,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8822,
+          0.9012
+        ],
+        [
+          1,
+          0.0513,
+          0.4777
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.4406,
+              0.8718
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3662,6 +6925,25 @@
         "papers/biology/img/05BC-Ecology-Climate-071.jpg",
         "papers/biology/img/05BC-Ecology-Climate-072.jpg",
         "papers/biology/img/05BC-Ecology-Climate-073.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.471,
+          0.529
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.4406,
+              0.8718
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3692,6 +6974,40 @@
         "papers/biology/img/05BC-Ecology-Climate-071.jpg",
         "papers/biology/img/05BC-Ecology-Climate-072.jpg",
         "papers/biology/img/05BC-Ecology-Climate-073.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8376,
+          0.9278
+        ],
+        [
+          2,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.4406,
+              0.8718
+            ]
+          ]
+        ],
+        [
+          "Q26(b)",
+          [
+            [
+              1,
+              0.5423,
+              0.8272
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3723,6 +7039,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q26-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2868,
+          0.9383
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.4406,
+              0.8718
+            ]
+          ]
+        ],
+        [
+          "Q26(b)",
+          [
+            [
+              1,
+              0.5423,
+              0.8272
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3756,6 +7101,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q26-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.0532,
+          0.3922
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.4406,
+              0.8718
+            ]
+          ]
+        ],
+        [
+          "Q26(b)",
+          [
+            [
+              1,
+              0.5423,
+              0.8272
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3784,6 +7158,25 @@
         "papers/biology/img/05BC-Ecology-Climate-073.jpg",
         "papers/biology/img/05BC-Ecology-Climate-074.jpg",
         "papers/biology/img/05BC-Ecology-Climate-075.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5689,
+          0.7749
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.5394,
+              0.5584
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3812,6 +7205,25 @@
         "papers/biology/img/05BC-Ecology-Climate-073.jpg",
         "papers/biology/img/05BC-Ecology-Climate-074.jpg",
         "papers/biology/img/05BC-Ecology-Climate-075.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7882,
+          0.8775
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.5394,
+              0.5584
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3841,6 +7253,30 @@
         "papers/biology/img/05BC-Ecology-Climate-073.jpg",
         "papers/biology/img/05BC-Ecology-Climate-074.jpg",
         "papers/biology/img/05BC-Ecology-Climate-075.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8841,
+          0.9373
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.5394,
+              0.5584
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3873,6 +7309,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1994,
+          0.9259
+        ],
+        [
+          2,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.5394,
+              0.5584
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3904,6 +7364,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7028,
+          0.944
+        ],
+        [
+          1,
+          0.0532,
+          0.2308
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.3618,
+              0.6923
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3933,6 +7417,35 @@
         "papers/biology/img/05BC-Ecology-Climate-075.jpg",
         "papers/biology/img/05BC-Ecology-Climate-076.jpg",
         "papers/biology/img/05BC-Ecology-Climate-077.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2963,
+          0.4701
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.3618,
+              0.6923
+            ]
+          ]
+        ],
+        [
+          "Q28(b)",
+          [
+            [
+              1,
+              0.2441,
+              0.2972
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3962,6 +7475,35 @@
         "papers/biology/img/05BC-Ecology-Climate-075.jpg",
         "papers/biology/img/05BC-Ecology-Climate-076.jpg",
         "papers/biology/img/05BC-Ecology-Climate-077.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4758,
+          0.8082
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.3618,
+              0.6923
+            ]
+          ]
+        ],
+        [
+          "Q28(b)",
+          [
+            [
+              1,
+              0.2441,
+              0.2972
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3994,6 +7536,40 @@
         "papers/biology/img/05BC-Ecology-Climate-075.jpg",
         "papers/biology/img/05BC-Ecology-Climate-076.jpg",
         "papers/biology/img/05BC-Ecology-Climate-077.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8148,
+          0.943
+        ],
+        [
+          2,
+          0.0608,
+          0.5375
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.3618,
+              0.6923
+            ]
+          ]
+        ],
+        [
+          "Q28(b)",
+          [
+            [
+              1,
+              0.2441,
+              0.2972
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4022,6 +7598,25 @@
         "papers/biology/img/05BC-Ecology-Climate-077.jpg",
         "papers/biology/img/05BC-Ecology-Climate-078.jpg",
         "papers/biology/img/05BC-Ecology-Climate-079.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7778,
+          0.887
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.7331,
+              0.7645
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4052,6 +7647,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3742,
+          0.6914
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.7331,
+              0.7645
+            ]
+          ]
+        ],
+        [
+          "Q29(b)",
+          [
+            [
+              0,
+              0.905,
+              0.9392
+            ],
+            [
+              1,
+              0.0532,
+              0.3723
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4084,6 +7713,45 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.698,
+          0.9269
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.7331,
+              0.7645
+            ]
+          ]
+        ],
+        [
+          "Q29(b)",
+          [
+            [
+              0,
+              0.905,
+              0.9392
+            ],
+            [
+              1,
+              0.0532,
+              0.3723
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4116,6 +7784,35 @@
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q29-2.jpg",
         "papers/biology/fig/05BC-Ecology-Climate-Q29-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4406,
+          0.6306
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.7331,
+              0.7645
+            ]
+          ]
+        ],
+        [
+          "Q29(c)",
+          [
+            [
+              2,
+              0.1111,
+              0.4368
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4147,6 +7844,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q29-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6372,
+          0.8367
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.7331,
+              0.7645
+            ]
+          ]
+        ],
+        [
+          "Q29(c)",
+          [
+            [
+              2,
+              0.1111,
+              0.4368
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4175,6 +7901,25 @@
         "papers/biology/img/05BC-Ecology-Climate-080.jpg",
         "papers/biology/img/05BC-Ecology-Climate-081.jpg",
         "papers/biology/img/05BC-Ecology-Climate-082.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2422,
+          0.4482
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.1538,
+              0.2317
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4206,6 +7951,25 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4615,
+          0.7787
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.1538,
+              0.2317
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4235,6 +7999,40 @@
         "papers/biology/img/05BC-Ecology-Climate-080.jpg",
         "papers/biology/img/05BC-Ecology-Climate-081.jpg",
         "papers/biology/img/05BC-Ecology-Climate-082.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2545,
+          0.4539
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.1538,
+              0.2317
+            ]
+          ]
+        ],
+        [
+          "Q30(c)",
+          [
+            [
+              0,
+              0.7816,
+              0.8376
+            ],
+            [
+              1,
+              0.0522,
+              0.2517
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4264,6 +8062,40 @@
         "papers/biology/img/05BC-Ecology-Climate-080.jpg",
         "papers/biology/img/05BC-Ecology-Climate-081.jpg",
         "papers/biology/img/05BC-Ecology-Climate-082.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4596,
+          0.7474
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.1538,
+              0.2317
+            ]
+          ]
+        ],
+        [
+          "Q30(c)",
+          [
+            [
+              0,
+              0.7816,
+              0.8376
+            ],
+            [
+              1,
+              0.0522,
+              0.2517
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4293,6 +8125,45 @@
         "papers/biology/img/05BC-Ecology-Climate-080.jpg",
         "papers/biology/img/05BC-Ecology-Climate-081.jpg",
         "papers/biology/img/05BC-Ecology-Climate-082.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7531,
+          0.9383
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.1538,
+              0.2317
+            ]
+          ]
+        ],
+        [
+          "Q30(c)",
+          [
+            [
+              0,
+              0.7816,
+              0.8376
+            ],
+            [
+              1,
+              0.0522,
+              0.2517
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4325,6 +8196,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q30-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.075,
+          0.2896
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.1538,
+              0.2317
+            ]
+          ]
+        ],
+        [
+          "Q30(c)",
+          [
+            [
+              0,
+              0.7816,
+              0.8376
+            ],
+            [
+              1,
+              0.0522,
+              0.2517
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4354,6 +8259,25 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5299,
+          0.7512
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.4853,
+              0.5195
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4383,6 +8307,25 @@
         "papers/biology/img/05BC-Ecology-Climate-082.jpg",
         "papers/biology/img/05BC-Ecology-Climate-083.jpg",
         "papers/biology/img/05BC-Ecology-Climate-084.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.755,
+          0.8889
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.4853,
+              0.5195
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4415,6 +8358,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q31-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4596,
+          0.7692
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.4853,
+              0.5195
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              0,
+              0.9022,
+              0.943
+            ],
+            [
+              1,
+              0.0532,
+              0.4492
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4446,6 +8423,45 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q31-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7825,
+          0.9297
+        ],
+        [
+          2,
+          0.151,
+          0.1662
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.4853,
+              0.5195
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              0,
+              0.9022,
+              0.943
+            ],
+            [
+              1,
+              0.0532,
+              0.4492
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4478,6 +8494,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7673,
+          0.9411
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.3134,
+              0.7227
+            ]
+          ]
+        ],
+        [
+          "Q32(a)",
+          [
+            [
+              0,
+              0.7341,
+              0.774
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4510,6 +8560,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.2887
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.3134,
+              0.7227
+            ]
+          ]
+        ],
+        [
+          "Q32(a)",
+          [
+            [
+              0,
+              0.7341,
+              0.774
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4542,6 +8621,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.302,
+          0.509
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.3134,
+              0.7227
+            ]
+          ]
+        ],
+        [
+          "Q32(a)",
+          [
+            [
+              0,
+              0.7341,
+              0.774
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4573,6 +8681,25 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5223,
+          0.8167
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.3134,
+              0.7227
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4602,6 +8729,30 @@
         "papers/biology/img/05BC-Ecology-Climate-084.jpg",
         "papers/biology/img/05BC-Ecology-Climate-085.jpg",
         "papers/biology/img/05BC-Ecology-Climate-086.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8291,
+          0.9345
+        ],
+        [
+          2,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.3134,
+              0.7227
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4634,6 +8785,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q33-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2659,
+          0.4093
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.4406,
+              0.7844
+            ]
+          ]
+        ],
+        [
+          "Q33(a)",
+          [
+            [
+              0,
+              0.7949,
+              0.8139
+            ],
+            [
+              1,
+              0.0513,
+              0.2631
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4667,6 +8852,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q33-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.415,
+          0.7028
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.4406,
+              0.7844
+            ]
+          ]
+        ],
+        [
+          "Q33(a)",
+          [
+            [
+              0,
+              0.7949,
+              0.8139
+            ],
+            [
+              1,
+              0.0513,
+              0.2631
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4698,6 +8917,25 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.716,
+          0.8224
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.4406,
+              0.7844
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4728,6 +8966,40 @@
         "papers/biology/img/05BC-Ecology-Climate-087.jpg",
         "papers/biology/img/05BC-Ecology-Climate-088.jpg",
         "papers/biology/img/05BC-Ecology-Climate-089.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9212,
+          0.944
+        ],
+        [
+          2,
+          0.0665,
+          0.1368
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.4406,
+              0.7844
+            ]
+          ]
+        ],
+        [
+          "Q33(c)",
+          [
+            [
+              1,
+              0.8433,
+              0.9278
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4763,6 +9035,40 @@
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q33-3.jpg",
         "papers/biology/fig/05BC-Ecology-Climate-Q33-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1586,
+          0.4492
+        ],
+        [
+          3,
+          0.0513,
+          0.849
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.4406,
+              0.7844
+            ]
+          ]
+        ],
+        [
+          "Q33(c)",
+          [
+            [
+              1,
+              0.8433,
+              0.9278
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4790,6 +9096,25 @@
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-090.jpg",
         "papers/biology/img/05BC-Ecology-Climate-091.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6334,
+          0.7987
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.2906,
+              0.623
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4818,6 +9143,30 @@
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-090.jpg",
         "papers/biology/img/05BC-Ecology-Climate-091.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.812,
+          0.9345
+        ],
+        [
+          1,
+          0.0513,
+          0.0741
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.2906,
+              0.623
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4846,6 +9195,35 @@
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-090.jpg",
         "papers/biology/img/05BC-Ecology-Climate-091.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1595,
+          0.2707
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.2906,
+              0.623
+            ]
+          ]
+        ],
+        [
+          "Q34(c)",
+          [
+            [
+              1,
+              0.0921,
+              0.1605
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4879,6 +9257,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2773,
+          0.8727
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.2906,
+              0.623
+            ]
+          ]
+        ],
+        [
+          "Q34(c)",
+          [
+            [
+              1,
+              0.0921,
+              0.1605
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4908,6 +9315,30 @@
         "papers/biology/img/05BC-Ecology-Climate-092.jpg",
         "papers/biology/img/05BC-Ecology-Climate-093.jpg",
         "papers/biology/img/05BC-Ecology-Climate-094.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7104,
+          0.9174
+        ],
+        [
+          1,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.169,
+              0.6999
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4940,6 +9371,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q35.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6173,
+          0.7312
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.169,
+              0.6999
+            ]
+          ]
+        ],
+        [
+          "Q35(b)",
+          [
+            [
+              1,
+              0.2574,
+              0.6154
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4971,6 +9431,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q35.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7455,
+          0.9449
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.169,
+              0.6999
+            ]
+          ]
+        ],
+        [
+          "Q35(b)",
+          [
+            [
+              1,
+              0.2574,
+              0.6154
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5003,6 +9492,25 @@
         "papers/biology/img/05BC-Ecology-Climate-092.jpg",
         "papers/biology/img/05BC-Ecology-Climate-093.jpg",
         "papers/biology/img/05BC-Ecology-Climate-094.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.6705
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.169,
+              0.6999
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5032,6 +9540,30 @@
         "papers/biology/img/05BC-Ecology-Climate-094.jpg",
         "papers/biology/img/05BC-Ecology-Climate-095.jpg",
         "papers/biology/img/05BC-Ecology-Climate-096.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8613,
+          0.9221
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.8177,
+              0.849
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5061,6 +9593,35 @@
         "papers/biology/img/05BC-Ecology-Climate-094.jpg",
         "papers/biology/img/05BC-Ecology-Climate-095.jpg",
         "papers/biology/img/05BC-Ecology-Climate-096.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2365,
+          0.4701
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.8177,
+              0.849
+            ]
+          ]
+        ],
+        [
+          "Q36(b)",
+          [
+            [
+              1,
+              0.1994,
+              0.2298
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5090,6 +9651,35 @@
         "papers/biology/img/05BC-Ecology-Climate-094.jpg",
         "papers/biology/img/05BC-Ecology-Climate-095.jpg",
         "papers/biology/img/05BC-Ecology-Climate-096.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4758,
+          0.7246
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.8177,
+              0.849
+            ]
+          ]
+        ],
+        [
+          "Q36(b)",
+          [
+            [
+              1,
+              0.1994,
+              0.2298
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5118,6 +9708,40 @@
         "papers/biology/img/05BC-Ecology-Climate-094.jpg",
         "papers/biology/img/05BC-Ecology-Climate-095.jpg",
         "papers/biology/img/05BC-Ecology-Climate-096.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7303,
+          0.7797
+        ],
+        [
+          2,
+          0.0674,
+          0.0836
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.8177,
+              0.849
+            ]
+          ]
+        ],
+        [
+          "Q36(b)",
+          [
+            [
+              1,
+              0.1994,
+              0.2298
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5148,6 +9772,25 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6809,
+          0.8936
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.2802,
+              0.6714
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5176,6 +9819,30 @@
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-096.jpg",
         "papers/biology/img/05BC-Ecology-Climate-097.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9069,
+          0.9259
+        ],
+        [
+          1,
+          0.0513,
+          0.1244
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.2802,
+              0.6714
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5204,6 +9871,35 @@
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-096.jpg",
         "papers/biology/img/05BC-Ecology-Climate-097.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1652,
+          0.3989
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.2802,
+              0.6714
+            ]
+          ]
+        ],
+        [
+          "Q37(c)",
+          [
+            [
+              1,
+              0.1434,
+              0.1624
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5234,6 +9930,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q37-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4046,
+          0.6059
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.2802,
+              0.6714
+            ]
+          ]
+        ],
+        [
+          "Q37(c)",
+          [
+            [
+              1,
+              0.1434,
+              0.1624
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5262,6 +9987,25 @@
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-096.jpg",
         "papers/biology/img/05BC-Ecology-Climate-097.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6087,
+          0.7436
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.2802,
+              0.6714
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5291,6 +10035,25 @@
         "papers/biology/img/05BC-Ecology-Climate-097.jpg",
         "papers/biology/img/05BC-Ecology-Climate-098.jpg",
         "papers/biology/img/05BC-Ecology-Climate-099.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4796,
+          0.6011
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              1,
+              0.0532,
+              0.4644
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5320,6 +10083,25 @@
         "papers/biology/img/05BC-Ecology-Climate-097.jpg",
         "papers/biology/img/05BC-Ecology-Climate-098.jpg",
         "papers/biology/img/05BC-Ecology-Climate-099.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.622,
+          0.7284
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              1,
+              0.0532,
+              0.4644
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5352,6 +10134,30 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q38.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7493,
+          0.9411
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              1,
+              0.0532,
+              0.4644
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5381,6 +10187,25 @@
         "papers/biology/img/05BC-Ecology-Climate-097.jpg",
         "papers/biology/img/05BC-Ecology-Climate-098.jpg",
         "papers/biology/img/05BC-Ecology-Climate-099.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0817,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              1,
+              0.0532,
+              0.4644
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5410,6 +10235,25 @@
         "papers/biology/img/05BC-Ecology-Climate-099.jpg",
         "papers/biology/img/05BC-Ecology-Climate-100.jpg",
         "papers/biology/img/05BC-Ecology-Climate-101.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5878,
+          0.7066
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.5584,
+              0.5774
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5439,6 +10283,25 @@
         "papers/biology/img/05BC-Ecology-Climate-099.jpg",
         "papers/biology/img/05BC-Ecology-Climate-100.jpg",
         "papers/biology/img/05BC-Ecology-Climate-101.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7198,
+          0.8291
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.5584,
+              0.5774
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5471,6 +10334,35 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8471,
+          0.9031
+        ],
+        [
+          1,
+          0.0513,
+          0.9335
+        ],
+        [
+          2,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.5584,
+              0.5774
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5501,6 +10393,25 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q40.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2032
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.3324,
+              0.9259
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5531,6 +10442,25 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q40-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2099,
+          0.6619
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.3324,
+              0.9259
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5564,6 +10494,30 @@
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q40.jpg",
         "papers/biology/fig/05BC-Ecology-Climate-Q40-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.679,
+          0.9373
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.3324,
+              0.9259
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5593,6 +10547,25 @@
         "papers/biology/img/05BC-Ecology-Climate-101.jpg",
         "papers/biology/img/05BC-Ecology-Climate-102.jpg",
         "papers/biology/img/05BC-Ecology-Climate-103.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0817,
+          0.3191
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.3324,
+              0.9259
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5625,6 +10598,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q41.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6011,
+          0.6505
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.4653,
+              0.7996
+            ]
+          ]
+        ],
+        [
+          "Q41(a)",
+          [
+            [
+              0,
+              0.8101,
+              0.8433
+            ],
+            [
+              1,
+              0.0636,
+              0.5973
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5657,6 +10664,45 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q41.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6619,
+          0.9345
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.4653,
+              0.7996
+            ]
+          ]
+        ],
+        [
+          "Q41(a)",
+          [
+            [
+              0,
+              0.8101,
+              0.8433
+            ],
+            [
+              1,
+              0.0636,
+              0.5973
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5691,6 +10737,45 @@
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q41.jpg",
         "papers/biology/fig/05BC-Ecology-Climate-Q41-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1111,
+          0.7654
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.4653,
+              0.7996
+            ]
+          ]
+        ],
+        [
+          "Q41(a)",
+          [
+            [
+              0,
+              0.8101,
+              0.8433
+            ],
+            [
+              1,
+              0.0636,
+              0.9345
+            ],
+            [
+              2,
+              0.0608,
+              0.0978
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5721,6 +10806,40 @@
         "papers/biology/img/05BC-Ecology-Climate-104.jpg",
         "papers/biology/img/05BC-Ecology-Climate-105.jpg",
         "papers/biology/img/05BC-Ecology-Climate-106.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.4577,
+          0.5404
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.4653,
+              0.7996
+            ]
+          ]
+        ],
+        [
+          "Q41(c)",
+          [
+            [
+              2,
+              0.7787,
+              0.9098
+            ],
+            [
+              3,
+              0.057,
+              0.4473
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5756,6 +10875,40 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q41-3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.5461,
+          0.6553
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.4653,
+              0.7996
+            ]
+          ]
+        ],
+        [
+          "Q41(c)",
+          [
+            [
+              2,
+              0.7787,
+              0.9098
+            ],
+            [
+              3,
+              0.057,
+              0.4473
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5785,6 +10938,30 @@
         "papers/biology/img/05BC-Ecology-Climate-107.jpg",
         "papers/biology/img/05BC-Ecology-Climate-108.jpg",
         "papers/biology/img/05BC-Ecology-Climate-109.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3951,
+          0.5299
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.8566,
+              0.9459
+            ],
+            [
+              1,
+              0.0532,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5815,6 +10992,30 @@
         "papers/biology/img/05BC-Ecology-Climate-107.jpg",
         "papers/biology/img/05BC-Ecology-Climate-108.jpg",
         "papers/biology/img/05BC-Ecology-Climate-109.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5366,
+          0.6353
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.8566,
+              0.9459
+            ],
+            [
+              1,
+              0.0532,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5848,6 +11049,45 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q42-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7009,
+          0.9345
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.8566,
+              0.9459
+            ],
+            [
+              1,
+              0.0532,
+              0.3837
+            ]
+          ]
+        ],
+        [
+          "Q42(b)",
+          [
+            [
+              1,
+              0.6562,
+              0.698
+            ],
+            [
+              2,
+              0.057,
+              0.7075
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5881,6 +11121,45 @@
       ],
       "figures": [
         "papers/biology/fig/05BC-Ecology-Climate-Q42.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.0532,
+          0.4577
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.8566,
+              0.9459
+            ],
+            [
+              1,
+              0.0532,
+              0.3837
+            ]
+          ]
+        ],
+        [
+          "Q42(b)",
+          [
+            [
+              1,
+              0.6562,
+              0.698
+            ],
+            [
+              2,
+              0.057,
+              0.7075
+            ]
+          ]
+        ]
       ]
     }
   ]

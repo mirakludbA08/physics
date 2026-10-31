@@ -30,6 +30,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-01.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-02.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.283,
+          0.3818
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1719,
+              0.2498
+            ]
+          ]
+        ],
+        [
+          "Q1(a)",
+          [
+            [
+              0,
+              0.2602,
+              0.2792
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -61,6 +90,35 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.396,
+          0.8253
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1719,
+              0.2498
+            ]
+          ]
+        ],
+        [
+          "Q1(a)",
+          [
+            [
+              0,
+              0.2602,
+              0.2792
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -92,6 +150,40 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q1-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8205,
+          0.8395
+        ],
+        [
+          1,
+          0.0589,
+          0.4672
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1719,
+              0.2498
+            ]
+          ]
+        ],
+        [
+          "Q1(a)",
+          [
+            [
+              0,
+              0.2602,
+              0.2792
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -121,6 +213,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-01.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-02.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5024,
+          0.717
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1719,
+              0.2498
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              1,
+              0.4805,
+              0.4995
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -150,6 +271,40 @@
         "papers/biology/img/01C-Cardiovascular-Health-01.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-02.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7227,
+          0.9231
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1719,
+              0.2498
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              1,
+              0.4805,
+              0.4995
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -179,6 +334,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-01.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-02.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-03.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.075,
+          0.3048
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1719,
+              0.2498
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              1,
+              0.4805,
+              0.4995
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -208,6 +392,25 @@
         "papers/biology/img/01C-Cardiovascular-Health-03.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-04.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4805,
+          0.7749
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.4511,
+              0.4701
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -239,6 +442,40 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1804,
+          0.5708
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.4511,
+              0.4701
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              0,
+              0.7882,
+              0.8443
+            ],
+            [
+              1,
+              0.0589,
+              0.1766
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -272,6 +509,40 @@
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q2.jpg",
         "papers/biology/fig/01C-Cardiovascular-Health-Q2-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5764,
+          0.9145
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.4511,
+              0.4701
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              0,
+              0.7882,
+              0.8443
+            ],
+            [
+              1,
+              0.0589,
+              0.1766
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -302,6 +573,45 @@
         "papers/biology/img/01C-Cardiovascular-Health-03.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-04.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-05.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9288,
+          0.9478
+        ],
+        [
+          2,
+          0.0532,
+          0.34
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.4511,
+              0.4701
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              0,
+              0.7882,
+              0.8443
+            ],
+            [
+              1,
+              0.0589,
+              0.1766
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -332,6 +642,30 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8632,
+          0.9392
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.4872,
+              0.8528
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -363,6 +697,25 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1918,
+          0.4065
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.4872,
+              0.8528
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -390,6 +743,25 @@
       "images": [
         "papers/biology/img/01C-Cardiovascular-Health-05.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-06.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4198,
+          0.5565
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.4872,
+              0.8528
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -417,6 +789,30 @@
         "papers/biology/img/01C-Cardiovascular-Health-06.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-07.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3922,
+          0.548
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7104,
+              0.7293
+            ],
+            [
+              1,
+              0.0513,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -448,6 +844,30 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5764,
+          0.7835
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7104,
+              0.7293
+            ],
+            [
+              1,
+              0.0513,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -480,6 +900,35 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7958,
+          0.9307
+        ],
+        [
+          2,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7104,
+              0.7293
+            ],
+            [
+              1,
+              0.0513,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -511,6 +960,30 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2279,
+          0.3039
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7104,
+              0.7293
+            ],
+            [
+              1,
+              0.0513,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -542,6 +1015,30 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3096,
+          0.4368
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7104,
+              0.7293
+            ],
+            [
+              1,
+              0.0513,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -574,6 +1071,30 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4425,
+          0.6572
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.7104,
+              0.7293
+            ],
+            [
+              1,
+              0.0513,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -602,6 +1123,30 @@
         "papers/biology/img/01C-Cardiovascular-Health-08.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-09.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8623,
+          0.9231
+        ],
+        [
+          1,
+          0.0532,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.8044,
+              0.8519
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -630,6 +1175,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-08.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-09.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1197,
+          0.2184
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.8044,
+              0.8519
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              1,
+              0.0817,
+              0.1235
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -662,6 +1236,35 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2327,
+          0.5062
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.8044,
+              0.8519
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              1,
+              0.0817,
+              0.1235
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -691,6 +1294,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-08.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-09.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5119,
+          0.7265
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.8044,
+              0.8519
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              1,
+              0.0817,
+              0.1235
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -722,6 +1354,40 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q5-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.792,
+          0.811
+        ],
+        [
+          2,
+          0.0646,
+          0.7189
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.8044,
+              0.8519
+            ]
+          ]
+        ],
+        [
+          "Q5(c)",
+          [
+            [
+              1,
+              0.7398,
+              0.793
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -750,6 +1416,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-08.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-09.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-10.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7246,
+          0.8803
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.8044,
+              0.8519
+            ]
+          ]
+        ],
+        [
+          "Q5(c)",
+          [
+            [
+              1,
+              0.7398,
+              0.793
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -781,6 +1476,25 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5508,
+          0.7569
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1425,
+              0.5413
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -809,6 +1523,40 @@
         "papers/biology/img/01C-Cardiovascular-Health-11.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-12.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.793,
+          0.9335
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1425,
+              0.5413
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              0,
+              0.7702,
+              0.7892
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -838,6 +1586,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-11.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-12.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1918,
+          0.4065
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1425,
+              0.5413
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              0,
+              0.7702,
+              0.7892
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -869,6 +1646,25 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4198,
+          0.6268
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1425,
+              0.5413
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -900,6 +1696,25 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6401,
+          0.774
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1425,
+              0.5413
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -928,6 +1743,30 @@
         "papers/biology/img/01C-Cardiovascular-Health-11.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-12.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7797,
+          0.9202
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1425,
+              0.5413
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -957,6 +1796,35 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.452,
+          0.5651
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.245,
+              0.2934
+            ]
+          ]
+        ],
+        [
+          "Q7(a)",
+          [
+            [
+              0,
+              0.3039,
+              0.4368
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -988,6 +1856,35 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5717,
+          0.7711
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.245,
+              0.2934
+            ]
+          ]
+        ],
+        [
+          "Q7(a)",
+          [
+            [
+              0,
+              0.3039,
+              0.4368
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1019,6 +1916,40 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.774,
+          0.9449
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.245,
+              0.2934
+            ]
+          ]
+        ],
+        [
+          "Q7(a)",
+          [
+            [
+              0,
+              0.3039,
+              0.4368
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1050,6 +1981,35 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q7-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.075,
+          0.5071
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.245,
+              0.2934
+            ]
+          ]
+        ],
+        [
+          "Q7(a)",
+          [
+            [
+              0,
+              0.3039,
+              0.4368
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1081,6 +2041,40 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q7-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2317,
+          0.4463
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.245,
+              0.2934
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              1,
+              0.5195,
+              0.8927
+            ],
+            [
+              2,
+              0.0636,
+              0.2213
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1112,6 +2106,40 @@
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q7-3.jpg",
         "papers/biology/fig/01C-Cardiovascular-Health-Q7-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.452,
+          0.8471
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.245,
+              0.2934
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              1,
+              0.5195,
+              0.8927
+            ],
+            [
+              2,
+              0.0636,
+              0.2213
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1144,6 +2172,25 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1833,
+          0.9335
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1538,
+              0.17
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1174,6 +2221,35 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q8-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4777,
+          0.6363
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1538,
+              0.17
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.4758
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1202,6 +2278,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-16.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-17.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.642,
+          0.754
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1538,
+              0.17
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.4758
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1230,6 +2335,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-16.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-17.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7607,
+          0.8623
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1538,
+              0.17
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.4758
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1257,6 +2391,40 @@
         "papers/biology/img/01C-Cardiovascular-Health-16.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-17.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8737,
+          0.9383
+        ],
+        [
+          2,
+          0.0513,
+          0.0912
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1538,
+              0.17
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.4758
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1286,6 +2454,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-16.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-17.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-18.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1016,
+          0.17
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1538,
+              0.17
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.4758
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1320,6 +2517,30 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3751,
+          0.925
+        ],
+        [
+          1,
+          0.0608,
+          0.5375
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.3172,
+              0.3656
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1352,6 +2573,40 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4283,
+          0.716
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.3172,
+              0.3656
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.5508,
+              0.6211
+            ],
+            [
+              2,
+              0.0522,
+              0.4264
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1384,6 +2639,45 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7217,
+          0.9364
+        ],
+        [
+          3,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.3172,
+              0.3656
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.5508,
+              0.6211
+            ],
+            [
+              2,
+              0.0522,
+              0.4264
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1418,6 +2712,25 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3039,
+          0.9202
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.2745,
+              0.2934
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1450,6 +2763,25 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q10-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.8481
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.2745,
+              0.2934
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1481,6 +2813,40 @@
         "papers/biology/img/01C-Cardiovascular-Health-23.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-24.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8832,
+          0.9364
+        ],
+        [
+          2,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.2745,
+              0.2934
+            ]
+          ]
+        ],
+        [
+          "Q10(c)",
+          [
+            [
+              1,
+              0.8613,
+              0.8803
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1511,6 +2877,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-23.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-24.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-25.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2802,
+          0.567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.2745,
+              0.2934
+            ]
+          ]
+        ],
+        [
+          "Q10(c)",
+          [
+            [
+              1,
+              0.8613,
+              0.8803
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1546,6 +2941,35 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q10-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5802,
+          0.6363
+        ],
+        [
+          3,
+          0.0513,
+          0.9383
+        ],
+        [
+          4,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.2745,
+              0.2934
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1574,6 +2998,25 @@
         "papers/biology/img/01C-Cardiovascular-Health-25.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-26.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4416,
+          0.6553
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.3238,
+              0.4283
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1605,6 +3048,30 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6762,
+          0.7075
+        ],
+        [
+          1,
+          0.0532,
+          0.7512
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.3238,
+              0.4283
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1635,6 +3102,30 @@
         "papers/biology/img/01C-Cardiovascular-Health-25.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-26.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7645,
+          0.9421
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.3238,
+              0.4283
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1663,6 +3154,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-25.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-26.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-27.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2374,
+          0.396
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.3238,
+              0.4283
+            ]
+          ]
+        ],
+        [
+          "Q11(d)",
+          [
+            [
+              2,
+              0.17,
+              0.2384
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1692,6 +3212,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-25.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-26.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-27.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4017,
+          0.792
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.3238,
+              0.4283
+            ]
+          ]
+        ],
+        [
+          "Q11(d)",
+          [
+            [
+              2,
+              0.17,
+              0.2384
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1721,6 +3270,25 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2222,
+          0.4292
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              1,
+              0.1928,
+              0.2118
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1750,6 +3318,25 @@
         "papers/biology/img/01C-Cardiovascular-Health-27.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-28.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4255,
+          0.5954
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              1,
+              0.1928,
+              0.2118
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1778,6 +3365,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-27.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-28.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6315,
+          0.9183
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              1,
+              0.1928,
+              0.2118
+            ]
+          ]
+        ],
+        [
+          "Q12(b)",
+          [
+            [
+              1,
+              0.6087,
+              0.6277
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1806,6 +3422,40 @@
         "papers/biology/img/01C-Cardiovascular-Health-27.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-28.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.924,
+          0.943
+        ],
+        [
+          2,
+          0.0674,
+          0.3552
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              1,
+              0.1928,
+              0.2118
+            ]
+          ]
+        ],
+        [
+          "Q12(b)",
+          [
+            [
+              1,
+              0.6087,
+              0.6277
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1835,6 +3485,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-27.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-28.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-29.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3609,
+          0.5613
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              1,
+              0.1928,
+              0.2118
+            ]
+          ]
+        ],
+        [
+          "Q12(b)",
+          [
+            [
+              1,
+              0.6087,
+              0.6277
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1867,6 +3546,40 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4948,
+          0.6942
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.7569,
+              0.7759
+            ]
+          ]
+        ],
+        [
+          "Q13(a)",
+          [
+            [
+              0,
+              0.7863,
+              0.8718
+            ],
+            [
+              1,
+              0.0513,
+              0.4919
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1898,6 +3611,45 @@
         "papers/biology/img/01C-Cardiovascular-Health-31.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6999,
+          0.9288
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.7569,
+              0.7759
+            ]
+          ]
+        ],
+        [
+          "Q13(a)",
+          [
+            [
+              0,
+              0.7863,
+              0.8718
+            ],
+            [
+              1,
+              0.0513,
+              0.4919
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1928,6 +3680,40 @@
         "papers/biology/img/01C-Cardiovascular-Health-31.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1045,
+          0.3913
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.7569,
+              0.7759
+            ]
+          ]
+        ],
+        [
+          "Q13(a)",
+          [
+            [
+              0,
+              0.7863,
+              0.8718
+            ],
+            [
+              1,
+              0.0513,
+              0.4919
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1963,6 +3749,40 @@
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q13-2.jpg",
         "papers/biology/fig/01C-Cardiovascular-Health-Q13-3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.4017,
+          0.6078
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.7569,
+              0.7759
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              2,
+              0.4046,
+              0.9126
+            ],
+            [
+              3,
+              0.0513,
+              0.3989
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1998,6 +3818,40 @@
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q13-2.jpg",
         "papers/biology/fig/01C-Cardiovascular-Health-Q13-3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.6135,
+          0.8281
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.7569,
+              0.7759
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              2,
+              0.4046,
+              0.9126
+            ],
+            [
+              3,
+              0.0513,
+              0.3989
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2028,6 +3882,40 @@
         "papers/biology/img/01C-Cardiovascular-Health-31.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.8338,
+          0.9364
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.7569,
+              0.7759
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              2,
+              0.4046,
+              0.9126
+            ],
+            [
+              3,
+              0.0513,
+              0.3989
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2063,6 +3951,40 @@
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q13-2.jpg",
         "papers/biology/fig/01C-Cardiovascular-Health-Q13-3.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.0674,
+          0.2678
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.7569,
+              0.7759
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              2,
+              0.4046,
+              0.9126
+            ],
+            [
+              3,
+              0.0513,
+              0.3989
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2093,6 +4015,25 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5081,
+          0.7047
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4634,
+              0.4976
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2124,6 +4065,25 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7113,
+          0.7939
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4634,
+              0.4976
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2155,6 +4115,40 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3875,
+          0.5299
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4634,
+              0.4976
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              0,
+              0.8072,
+              0.8481
+            ],
+            [
+              1,
+              0.0513,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2187,6 +4181,40 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5356,
+          0.7806
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4634,
+              0.4976
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              0,
+              0.8072,
+              0.8481
+            ],
+            [
+              1,
+              0.0513,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2218,6 +4246,45 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7863,
+          0.9421
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4634,
+              0.4976
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              0,
+              0.8072,
+              0.8481
+            ],
+            [
+              1,
+              0.0513,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2247,6 +4314,40 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1045,
+          0.3077
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4634,
+              0.4976
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              0,
+              0.8072,
+              0.8481
+            ],
+            [
+              1,
+              0.0513,
+              0.3837
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2275,6 +4376,25 @@
         "papers/biology/img/01C-Cardiovascular-Health-33.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.321,
+          0.6154
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4634,
+              0.4976
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2305,6 +4425,30 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3409,
+          0.4473
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.811,
+              0.9335
+            ],
+            [
+              1,
+              0.0655,
+              0.3162
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2339,6 +4483,35 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4682,
+          0.924
+        ],
+        [
+          2,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.811,
+              0.9335
+            ],
+            [
+              1,
+              0.0655,
+              0.3162
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2370,6 +4543,40 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q15.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2507,
+          0.4653
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.811,
+              0.9335
+            ],
+            [
+              1,
+              0.0655,
+              0.3162
+            ]
+          ]
+        ],
+        [
+          "Q15(c)",
+          [
+            [
+              2,
+              0.2279,
+              0.2469
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2401,6 +4608,40 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q15.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.471,
+          0.6705
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.811,
+              0.9335
+            ],
+            [
+              1,
+              0.0655,
+              0.3162
+            ]
+          ]
+        ],
+        [
+          "Q15(c)",
+          [
+            [
+              2,
+              0.2279,
+              0.2469
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2429,6 +4670,40 @@
         "papers/biology/img/01C-Cardiovascular-Health-35.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-36.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-37.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6771,
+          0.8765
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.811,
+              0.9335
+            ],
+            [
+              1,
+              0.0655,
+              0.3162
+            ]
+          ]
+        ],
+        [
+          "Q15(c)",
+          [
+            [
+              2,
+              0.2279,
+              0.2469
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2457,6 +4732,25 @@
         "papers/biology/img/01C-Cardiovascular-Health-38.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-39.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1861,
+          0.3219
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1425,
+              0.1757
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2486,6 +4780,25 @@
         "papers/biology/img/01C-Cardiovascular-Health-38.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-39.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3276,
+          0.5423
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1425,
+              0.1757
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2515,6 +4828,40 @@
         "papers/biology/img/01C-Cardiovascular-Health-38.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-39.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.812,
+          0.9231
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1425,
+              0.1757
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              0,
+              0.5556,
+              0.8158
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2543,6 +4890,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-38.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-39.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-40.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2213,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1425,
+              0.1757
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              0,
+              0.5556,
+              0.8158
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2575,6 +4951,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-38.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-39.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-40.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3694,
+          0.9345
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1425,
+              0.1757
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              0,
+              0.5556,
+              0.8158
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2607,6 +5012,25 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2156,
+          0.8452
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.1861,
+              0.2051
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2638,6 +5062,30 @@
         "papers/biology/img/01C-Cardiovascular-Health-41.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-42.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8585,
+          0.9193
+        ],
+        [
+          1,
+          0.0608,
+          0.3618
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.1861,
+              0.2051
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2675,6 +5123,35 @@
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q17-2.jpg",
         "papers/biology/fig/01C-Cardiovascular-Health-Q17-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3751,
+          0.7949
+        ],
+        [
+          2,
+          0.0513,
+          0.9459
+        ],
+        [
+          3,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.1861,
+              0.2051
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2704,6 +5181,25 @@
         "papers/biology/img/01C-Cardiovascular-Health-43.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-44.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5745,
+          0.8993
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.265,
+              0.5499
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2732,6 +5228,40 @@
         "papers/biology/img/01C-Cardiovascular-Health-43.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-44.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-45.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1282,
+          0.2422
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.265,
+              0.5499
+            ]
+          ]
+        ],
+        [
+          "Q18(b)",
+          [
+            [
+              0,
+              0.9126,
+              0.9459
+            ],
+            [
+              1,
+              0.0532,
+              0.132
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2764,6 +5294,40 @@
         "papers/biology/img/01C-Cardiovascular-Health-43.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-44.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-45.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2564,
+          0.8519
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.265,
+              0.5499
+            ]
+          ]
+        ],
+        [
+          "Q18(b)",
+          [
+            [
+              0,
+              0.9126,
+              0.9459
+            ],
+            [
+              1,
+              0.0532,
+              0.132
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2793,6 +5357,45 @@
         "papers/biology/img/01C-Cardiovascular-Health-43.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-44.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-45.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8575,
+          0.9402
+        ],
+        [
+          2,
+          0.0608,
+          0.3324
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.265,
+              0.5499
+            ]
+          ]
+        ],
+        [
+          "Q18(b)",
+          [
+            [
+              0,
+              0.9126,
+              0.9459
+            ],
+            [
+              1,
+              0.0532,
+              0.132
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2821,6 +5424,25 @@
         "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7597,
+          0.8129
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19(a)",
+          [
+            [
+              0,
+              0.7227,
+              0.7635
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2852,6 +5474,25 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q19-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8186,
+          0.9183
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19(a)",
+          [
+            [
+              0,
+              0.7227,
+              0.7635
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2881,6 +5522,25 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1823
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19(a)",
+          [
+            [
+              0,
+              0.7227,
+              0.7635
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2909,6 +5569,13 @@
         "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2032,
+          0.3077
+        ]
       ]
     },
     {
@@ -2940,6 +5607,25 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q19-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3428,
+          0.5223
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19(c)",
+          [
+            [
+              1,
+              0.321,
+              0.34
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2969,6 +5655,25 @@
         "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.529,
+          0.7436
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19(c)",
+          [
+            [
+              1,
+              0.321,
+              0.34
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2997,6 +5702,30 @@
         "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8091,
+          0.9202
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19(d)",
+          [
+            [
+              1,
+              0.7569,
+              0.8101
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3025,6 +5754,25 @@
         "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1339,
+          0.3039
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19(d)",
+          [
+            [
+              1,
+              0.7569,
+              0.8101
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3056,6 +5804,25 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5537,
+          0.9478
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4511,
+              0.5432
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3093,6 +5860,35 @@
         "papers/biology/fig/01C-Cardiovascular-Health-Q20-2.jpg",
         "papers/biology/fig/01C-Cardiovascular-Health-Q20-3.jpg",
         "papers/biology/fig/01C-Cardiovascular-Health-Q20-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.9221
+        ],
+        [
+          2,
+          0.0513,
+          0.9316
+        ],
+        [
+          3,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4511,
+              0.5432
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3121,6 +5917,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-48.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-49.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-50.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1339,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4511,
+              0.5432
+            ]
+          ]
+        ],
+        [
+          "Q20(c)",
+          [
+            [
+              3,
+              0.1111,
+              0.1301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3151,6 +5976,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-48.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-49.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-50.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2222,
+          0.6125
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4511,
+              0.5432
+            ]
+          ]
+        ],
+        [
+          "Q20(c)",
+          [
+            [
+              3,
+              0.1111,
+              0.1301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3181,6 +6035,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-48.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-49.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-50.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.6182,
+          0.8329
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.4511,
+              0.5432
+            ]
+          ]
+        ],
+        [
+          "Q20(c)",
+          [
+            [
+              3,
+              0.1111,
+              0.1301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3207,6 +6090,25 @@
       "images": [
         "papers/biology/img/01C-Cardiovascular-Health-51.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-52.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6211,
+          0.7274
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.1396,
+              0.6106
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3234,6 +6136,25 @@
       "images": [
         "papers/biology/img/01C-Cardiovascular-Health-51.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-52.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7417,
+          0.8433
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.1396,
+              0.6106
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3260,6 +6181,30 @@
       "images": [
         "papers/biology/img/01C-Cardiovascular-Health-51.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-52.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8547,
+          0.9364
+        ],
+        [
+          1,
+          0.0513,
+          0.0712
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.1396,
+              0.6106
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3287,6 +6232,25 @@
       "images": [
         "papers/biology/img/01C-Cardiovascular-Health-51.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-52.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0921,
+          0.4311
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.1396,
+              0.6106
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3315,6 +6279,25 @@
       "images": [
         "papers/biology/img/01C-Cardiovascular-Health-51.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-52.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4444,
+          0.7844
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.1396,
+              0.6106
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3346,6 +6329,25 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1605,
+          0.2887
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              1,
+              0.1016,
+              0.15
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3372,6 +6374,25 @@
       "images": [
         "papers/biology/img/01C-Cardiovascular-Health-52.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-53.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2953,
+          0.4017
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              1,
+              0.1016,
+              0.15
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3399,6 +6420,25 @@
       "images": [
         "papers/biology/img/01C-Cardiovascular-Health-52.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-53.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4226,
+          0.5128
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              1,
+              0.1016,
+              0.15
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3429,6 +6469,30 @@
         "papers/biology/img/01C-Cardiovascular-Health-55.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7179,
+          0.7892
+        ],
+        [
+          1,
+          0.0674,
+          0.0836
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.6591,
+              0.7075
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3459,6 +6523,25 @@
         "papers/biology/img/01C-Cardiovascular-Health-55.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0969,
+          0.2165
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.6591,
+              0.7075
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3487,6 +6570,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-55.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3875,
+          0.4995
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.6591,
+              0.7075
+            ]
+          ]
+        ],
+        [
+          "Q23(c)",
+          [
+            [
+              1,
+              0.2298,
+              0.3761
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3517,6 +6629,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-55.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5052,
+          0.8224
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.6591,
+              0.7075
+            ]
+          ]
+        ],
+        [
+          "Q23(c)",
+          [
+            [
+              1,
+              0.2298,
+              0.3761
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3547,6 +6688,40 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8291,
+          0.9183
+        ],
+        [
+          2,
+          0.2032,
+          0.2194
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.6591,
+              0.7075
+            ]
+          ]
+        ],
+        [
+          "Q23(c)",
+          [
+            [
+              1,
+              0.2298,
+              0.3761
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3578,6 +6753,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-55.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2251,
+          0.528
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.6591,
+              0.7075
+            ]
+          ]
+        ],
+        [
+          "Q23(c)",
+          [
+            [
+              1,
+              0.2298,
+              0.3761
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3612,6 +6816,45 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q23-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5337,
+          0.5527
+        ],
+        [
+          3,
+          0.0551,
+          0.9221
+        ],
+        [
+          4,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.6591,
+              0.7075
+            ]
+          ]
+        ],
+        [
+          "Q23(c)",
+          [
+            [
+              1,
+              0.2298,
+              0.3761
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3642,6 +6885,25 @@
         "papers/biology/img/01C-Cardiovascular-Health-58.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-59.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-60.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3181,
+          0.5252
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.245,
+              0.3086
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3674,6 +6936,35 @@
       ],
       "figures": [
         "papers/biology/fig/01C-Cardiovascular-Health-Q24-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5755,
+          0.7588
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.245,
+              0.3086
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              0,
+              0.5385,
+              0.5698
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3703,6 +6994,35 @@
         "papers/biology/img/01C-Cardiovascular-Health-58.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-59.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-60.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7654,
+          0.8936
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.245,
+              0.3086
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              0,
+              0.5385,
+              0.5698
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3733,6 +7053,40 @@
         "papers/biology/img/01C-Cardiovascular-Health-58.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-59.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-60.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1282,
+          0.3276
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.245,
+              0.3086
+            ]
+          ]
+        ],
+        [
+          "Q24(c)",
+          [
+            [
+              0,
+              0.9069,
+              0.9373
+            ],
+            [
+              1,
+              0.0532,
+              0.132
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3762,6 +7116,40 @@
         "papers/biology/img/01C-Cardiovascular-Health-58.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-59.jpg",
         "papers/biology/img/01C-Cardiovascular-Health-60.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3333,
+          0.4311
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.245,
+              0.3086
+            ]
+          ]
+        ],
+        [
+          "Q24(c)",
+          [
+            [
+              0,
+              0.9069,
+              0.9373
+            ],
+            [
+              1,
+              0.0532,
+              0.132
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3797,6 +7185,50 @@
         "papers/biology/fig/01C-Cardiovascular-Health-Q24.jpg",
         "papers/biology/fig/01C-Cardiovascular-Health-Q24-2.jpg",
         "papers/biology/fig/01C-Cardiovascular-Health-Q24-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4368,
+          0.4558
+        ],
+        [
+          2,
+          0.0513,
+          0.811
+        ],
+        [
+          3,
+          0.0522,
+          0.547
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.245,
+              0.3086
+            ]
+          ]
+        ],
+        [
+          "Q24(c)",
+          [
+            [
+              0,
+              0.9069,
+              0.9373
+            ],
+            [
+              1,
+              0.0532,
+              0.132
+            ]
+          ]
+        ]
       ]
     }
   ]

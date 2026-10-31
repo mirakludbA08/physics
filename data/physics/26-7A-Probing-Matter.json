@@ -34,6 +34,13 @@
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q1.jpg",
         "papers/physics/fig/26-7A-Probing-Matter-Q1-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1225,
+          0.4084
+        ]
       ]
     },
     {
@@ -61,6 +68,25 @@
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-01.jpg",
         "papers/physics/img/26-7A-Probing-Matter-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5954,
+          0.6857
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5518,
+              0.585
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -91,6 +117,30 @@
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-01.jpg",
         "papers/physics/img/26-7A-Probing-Matter-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.699,
+          0.9364
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.5518,
+              0.585
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -121,6 +171,13 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3618,
+          0.5328
+        ]
       ]
     },
     {
@@ -153,6 +210,18 @@
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q4.jpg",
         "papers/physics/fig/26-7A-Probing-Matter-Q4-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7436,
+          0.944
+        ],
+        [
+          1,
+          0.0532,
+          0.2365
+        ]
       ]
     },
     {
@@ -181,6 +250,25 @@
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-03.jpg",
         "papers/physics/img/26-7A-Probing-Matter-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4131,
+          0.6553
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.3818,
+              0.4198
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -208,6 +296,25 @@
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-03.jpg",
         "papers/physics/img/26-7A-Probing-Matter-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6676,
+          0.7578
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.3818,
+              0.4198
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -235,6 +342,13 @@
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-03.jpg",
         "papers/physics/img/26-7A-Probing-Matter-04.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.188
+        ]
       ]
     },
     {
@@ -267,6 +381,13 @@
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q7.jpg",
         "papers/physics/fig/26-7A-Probing-Matter-Q7-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3428,
+          0.6106
+        ]
       ]
     },
     {
@@ -298,6 +419,18 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8082,
+          0.8272
+        ],
+        [
+          1,
+          0.0522,
+          0.4492
+        ]
       ]
     },
     {
@@ -329,6 +462,30 @@
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-05.jpg",
         "papers/physics/img/26-7A-Probing-Matter-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6448,
+          0.9259
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.6002,
+              0.6344
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -357,6 +514,25 @@
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-05.jpg",
         "papers/physics/img/26-7A-Probing-Matter-06.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1994,
+          0.3476
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.6002,
+              0.6344
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -388,6 +564,13 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5432,
+          0.6819
+        ]
       ]
     },
     {
@@ -417,6 +600,18 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8832,
+          0.9307
+        ],
+        [
+          1,
+          0.0513,
+          0.3134
+        ]
       ]
     },
     {
@@ -448,6 +643,13 @@
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q12.jpg",
         "papers/physics/fig/26-7A-Probing-Matter-Q12-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5821,
+          0.7531
+        ]
       ]
     },
     {
@@ -477,6 +679,13 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1624
+        ]
       ]
     },
     {
@@ -506,6 +715,25 @@
         "papers/physics/img/26-7A-Probing-Matter-08.jpg",
         "papers/physics/img/26-7A-Probing-Matter-09.jpg",
         "papers/physics/img/26-7A-Probing-Matter-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3428,
+          0.5651
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3143,
+              0.3333
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -537,6 +765,40 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4169,
+          0.4359
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3143,
+              0.3333
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              0,
+              0.5783,
+              0.5973
+            ],
+            [
+              1,
+              0.0513,
+              0.3685
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -569,6 +831,40 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4463,
+          0.661
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3143,
+              0.3333
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              0,
+              0.5783,
+              0.5973
+            ],
+            [
+              1,
+              0.0513,
+              0.3685
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -601,6 +897,40 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6676,
+          0.9145
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.3143,
+              0.3333
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              0,
+              0.5783,
+              0.5973
+            ],
+            [
+              1,
+              0.0513,
+              0.3685
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -632,6 +962,13 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2137,
+          0.3077
+        ]
       ]
     },
     {
@@ -661,6 +998,13 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.509,
+          0.6296
+        ]
       ]
     },
     {
@@ -693,6 +1037,18 @@
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q17.jpg",
         "papers/physics/fig/26-7A-Probing-Matter-Q17-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.831,
+          0.8917
+        ],
+        [
+          1,
+          0.0646,
+          0.2118
+        ]
       ]
     },
     {
@@ -724,6 +1080,13 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4093,
+          0.5328
+        ]
       ]
     },
     {
@@ -754,6 +1117,13 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7341,
+          0.9098
+        ]
       ]
     },
     {
@@ -785,6 +1155,13 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2137,
+          0.3077
+        ]
       ]
     },
     {
@@ -816,6 +1193,13 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5328,
+          0.6258
+        ]
       ]
     },
     {
@@ -847,6 +1231,13 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8281,
+          0.9221
+        ]
       ]
     },
     {
@@ -877,6 +1268,13 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2526,
+          0.3884
+        ]
       ]
     },
     {
@@ -908,6 +1306,13 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6087,
+          0.7293
+        ]
       ]
     },
     {
@@ -938,6 +1343,13 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1443
+        ]
       ]
     },
     {
@@ -972,6 +1384,13 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2991,
+          0.9316
+        ]
       ]
     },
     {
@@ -1003,6 +1422,13 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2526,
+          0.3732
+        ]
       ]
     },
     {
@@ -1033,6 +1459,13 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6068,
+          0.6771
+        ]
       ]
     },
     {
@@ -1065,6 +1498,18 @@
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q29.jpg",
         "papers/physics/fig/26-7A-Probing-Matter-Q29-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8965,
+          0.925
+        ],
+        [
+          1,
+          0.0532,
+          0.1453
+        ]
       ]
     },
     {
@@ -1096,6 +1541,13 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3476,
+          0.5005
+        ]
       ]
     },
     {
@@ -1126,6 +1578,30 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8803,
+          0.9402
+        ],
+        [
+          1,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.6524,
+              0.8689
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1157,6 +1633,25 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.169,
+          0.4501
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.6524,
+              0.8689
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1187,6 +1682,13 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6629,
+          0.7835
+        ]
       ]
     },
     {
@@ -1217,6 +1719,13 @@
       ],
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1187,
+          0.4644
+        ]
       ]
     },
     {
@@ -1249,6 +1758,13 @@
       "figures": [
         "papers/physics/fig/26-7A-Probing-Matter-Q34.jpg",
         "papers/physics/fig/26-7A-Probing-Matter-Q34-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6885,
+          0.943
+        ]
       ]
     }
   ]

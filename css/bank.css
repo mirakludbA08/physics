@@ -327,21 +327,12 @@ body.bank {
 .pdf-render .pq-note { margin: 4px 0 0; color: #555; font-size: 13px; font-style: italic; }
 .pdf-render .katex { font-size: 1.12em; }
 
-/* The template for each question: question, the earlier parts' answers, then a
-   box holding whatever it needs from the paper. */
-.pdf-render .pq-prev {
-  margin: 0 0 10px;
-  padding: 6px 12px;
-  border: 1px solid #dde3e8;
-  border-radius: 6px;
-  background: #f5f7f9;
-  font-size: 14px;
-}
+/* A question as printed: slices of its paper page, one under the other. */
+.pdf-render .pq-shot { width: 100%; margin: 2px 0; }
+.pdf-render .pq-shot canvas { display: block; width: 100%; height: 100%; }
 
-.pdf-render .pq-prev p { margin: 2px 0; }
-.pdf-render .pq-prev-title { color: #445; font-size: 12px; font-weight: 700; letter-spacing: 0.03em; text-transform: uppercase; }
-.pdf-render .pq-prev-no { font-weight: 700; }
-
+/* Parts that could not be placed on their page: their text, then a box holding
+   whatever they need from the paper. */
 .pdf-render .pq-box {
   display: flex;
   flex-wrap: wrap;

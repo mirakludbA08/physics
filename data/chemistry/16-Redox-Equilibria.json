@@ -34,6 +34,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1719,
+          0.3713
+        ]
       ]
     },
     {
@@ -61,6 +68,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.567,
+          0.7635
+        ]
       ]
     },
     {
@@ -92,6 +106,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2137,
+          0.491
+        ]
       ]
     },
     {
@@ -124,6 +145,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8348,
+          0.8538
+        ],
+        [
+          1,
+          0.0513,
+          0.3381
+        ]
       ]
     },
     {
@@ -156,6 +189,18 @@
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q5.jpg",
         "papers/chemistry/fig/16-Redox-Equilibria-Q5-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5233,
+          0.9364
+        ],
+        [
+          1,
+          0.0513,
+          0.1244
+        ]
       ]
     },
     {
@@ -187,6 +232,25 @@
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q6.jpg",
         "papers/chemistry/fig/16-Redox-Equilibria-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.699,
+          0.9031
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.3257,
+              0.6895
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -219,6 +283,30 @@
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q6.jpg",
         "papers/chemistry/fig/16-Redox-Equilibria-Q6-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.906,
+          0.925
+        ],
+        [
+          1,
+          0.0513,
+          0.1244
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.3257,
+              0.6895
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -251,6 +339,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1434,
+          0.2821
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.3257,
+              0.6895
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -284,6 +391,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3001,
+          0.4084
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.3257,
+              0.6895
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -315,6 +441,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6106,
+          0.8965
+        ]
       ]
     },
     {
@@ -346,6 +479,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2764,
+          0.3989
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.2137,
+              0.2669
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -378,6 +530,25 @@
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q8.jpg",
         "papers/chemistry/fig/16-Redox-Equilibria-Q8-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4198,
+          0.6581
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.2137,
+              0.2669
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -409,6 +580,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q8-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.66,
+          0.9497
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.2137,
+              0.2669
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -440,6 +630,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4577,
+          0.6876
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1861,
+              0.4644
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -471,6 +680,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6809,
+          0.717
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1861,
+              0.4644
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -504,6 +732,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q9.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0674,
+          0.3998
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1861,
+              0.4644
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -533,6 +780,35 @@
         "papers/chemistry/img/16-Redox-Equilibria-07.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-08.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5394,
+          0.5926
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1861,
+              0.4644
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.4131,
+              0.5432
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -568,6 +844,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q9.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5983,
+          0.6629
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1861,
+              0.4644
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.4131,
+              0.5432
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -600,6 +905,40 @@
         "papers/chemistry/img/16-Redox-Equilibria-07.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-08.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8984,
+          0.9478
+        ],
+        [
+          2,
+          0.0532,
+          0.2821
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1861,
+              0.4644
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.4131,
+              0.5432
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -633,6 +972,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5147,
+          0.5337
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1861,
+              0.4644
+            ]
+          ]
+        ],
+        [
+          "Q9(c)",
+          [
+            [
+              2,
+              0.2953,
+              0.5128
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -665,6 +1033,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5451,
+          0.7455
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1861,
+              0.4644
+            ]
+          ]
+        ],
+        [
+          "Q9(c)",
+          [
+            [
+              2,
+              0.2953,
+              0.5128
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -694,6 +1091,25 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-09.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1159,
+          0.2488
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              1,
+              0.0513,
+              0.1054
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -723,6 +1139,25 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-09.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2422,
+          0.3846
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              1,
+              0.0513,
+              0.1054
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -751,6 +1186,13 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-10.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5878,
+          0.774
+        ]
       ]
     },
     {
@@ -779,6 +1221,13 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-10.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.2754
+        ]
       ]
     },
     {
@@ -809,6 +1258,13 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-11.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4834,
+          0.5774
+        ]
       ]
     },
     {
@@ -840,6 +1296,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7787,
+          0.9259
+        ]
       ]
     },
     {
@@ -869,6 +1332,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2355,
+          0.4473
+        ]
       ]
     },
     {
@@ -898,6 +1368,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6334,
+          0.8452
+        ]
       ]
     },
     {
@@ -930,6 +1407,25 @@
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q17.jpg",
         "papers/chemistry/fig/16-Redox-Equilibria-Q17-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2602,
+          0.6173
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.1538,
+              0.2479
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -990,6 +1486,25 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-13.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1481,
+          0.2574
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              1,
+              0.1187,
+              0.1377
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1019,6 +1534,25 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-13.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2754,
+          0.3998
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              1,
+              0.1187,
+              0.1377
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1052,6 +1586,30 @@
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q19.jpg",
         "papers/chemistry/fig/16-Redox-Equilibria-Q19-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2792,
+          0.3856
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.6182,
+              0.7398
+            ],
+            [
+              1,
+              0.0513,
+              0.2697
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1083,6 +1641,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q19-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4065,
+          0.5641
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.6182,
+              0.7398
+            ],
+            [
+              1,
+              0.0513,
+              0.2697
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1115,6 +1697,30 @@
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q19.jpg",
         "papers/chemistry/fig/16-Redox-Equilibria-Q19-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.567,
+          0.7388
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.6182,
+              0.7398
+            ],
+            [
+              1,
+              0.0513,
+              0.2697
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1145,6 +1751,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7322,
+          0.8405
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.6182,
+              0.7398
+            ],
+            [
+              1,
+              0.0513,
+              0.2697
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1178,6 +1808,35 @@
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q19.jpg",
         "papers/chemistry/fig/16-Redox-Equilibria-Q19-5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8613,
+          0.8984
+        ],
+        [
+          2,
+          0.0513,
+          0.1747
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.6182,
+              0.7398
+            ],
+            [
+              1,
+              0.0513,
+              0.2697
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1210,6 +1869,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5726,
+          0.6952
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.378,
+              0.5632
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1243,6 +1921,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7151,
+          0.8367
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.378,
+              0.5632
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1272,6 +1969,30 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-16.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8585,
+          0.9335
+        ],
+        [
+          1,
+          0.0513,
+          0.0883
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.378,
+              0.5632
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1301,6 +2022,25 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-17.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2716,
+          0.2906
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.2422,
+              0.2612
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1329,6 +2069,35 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-17.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5489,
+          0.603
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.2422,
+              0.2612
+            ]
+          ]
+        ],
+        [
+          "Q21(b)",
+          [
+            [
+              0,
+              0.4663,
+              0.5527
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1359,6 +2128,35 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-17.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8329,
+          0.8509
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.2422,
+              0.2612
+            ]
+          ]
+        ],
+        [
+          "Q21(b)",
+          [
+            [
+              0,
+              0.4663,
+              0.5527
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1387,6 +2185,25 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-18.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5651,
+          0.6591
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.5356,
+              0.5546
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1418,6 +2235,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6771,
+          0.8737
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.5356,
+              0.5546
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1448,6 +2284,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3248,
+          0.4729
+        ]
       ]
     },
     {
@@ -1477,6 +2320,13 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-19.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6591,
+          0.812
+        ]
       ]
     },
     {
@@ -1506,6 +2356,13 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-19.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-20.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2308,
+          0.3837
+        ]
       ]
     },
     {
@@ -1540,6 +2397,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6391,
+          0.9079
+        ]
       ]
     },
     {
@@ -1569,6 +2433,13 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-21.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5204,
+          0.6562
+        ]
       ]
     },
     {
@@ -1597,6 +2468,18 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-21.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8585,
+          0.943
+        ],
+        [
+          1,
+          0.0513,
+          0.1244
+        ]
       ]
     },
     {
@@ -1627,6 +2510,25 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-22.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3058,
+          0.34
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.2764,
+              0.2944
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1660,6 +2562,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.754,
+          0.9459
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.2764,
+              0.2944
+            ]
+          ]
+        ],
+        [
+          "Q29(b)",
+          [
+            [
+              0,
+              0.6657,
+              0.7493
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1692,6 +2628,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1339,
+          0.1662
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.2764,
+              0.2944
+            ]
+          ]
+        ],
+        [
+          "Q29(b)",
+          [
+            [
+              0,
+              0.6657,
+              0.7493
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1725,6 +2690,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q29-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4103,
+          0.5423
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.2764,
+              0.2944
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1754,6 +2738,13 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-24.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1538,
+          0.32
+        ]
       ]
     },
     {
@@ -1785,6 +2776,18 @@
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q31.jpg",
         "papers/chemistry/fig/16-Redox-Equilibria-Q31-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7018,
+          0.7825
+        ],
+        [
+          1,
+          0.0617,
+          0.2327
+        ]
       ]
     },
     {
@@ -1817,6 +2820,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4236,
+          0.6458
+        ]
       ]
     },
     {
@@ -1845,6 +2855,13 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-25.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8319,
+          0.925
+        ]
       ]
     },
     {
@@ -1876,6 +2893,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4141,
+          0.736
+        ]
       ]
     },
     {
@@ -1906,6 +2930,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9221,
+          0.9411
+        ],
+        [
+          1,
+          0.0532,
+          0.301
+        ]
       ]
     },
     {
@@ -1934,6 +2970,13 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-27.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4938,
+          0.5945
+        ]
       ]
     },
     {
@@ -1964,6 +3007,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0855,
+          0.2298
+        ]
       ]
     },
     {
@@ -1997,6 +3047,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.415,
+          0.7882
+        ]
       ]
     },
     {
@@ -2025,6 +3082,13 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-28.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.2222
+        ]
       ]
     },
     {
@@ -2052,6 +3116,13 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-29.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4264,
+          0.547
+        ]
       ]
     },
     {
@@ -2079,6 +3150,18 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-29.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9307,
+          0.9497
+        ],
+        [
+          1,
+          0.0522,
+          0.1738
+        ]
       ]
     },
     {
@@ -2107,6 +3190,13 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-30.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3286,
+          0.4976
+        ]
       ]
     },
     {
@@ -2135,6 +3225,25 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-30.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7274,
+          0.8367
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.6496,
+              0.7179
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2167,6 +3276,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8547,
+          0.8737
+        ],
+        [
+          1,
+          0.0655,
+          0.3552
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.6496,
+              0.7179
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2198,6 +3331,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q43-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3751,
+          0.4976
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.6496,
+              0.7179
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2227,6 +3379,25 @@
         "papers/chemistry/img/16-Redox-Equilibria-31.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-32.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6809,
+          0.7417
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.6524,
+              0.6686
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2260,6 +3431,40 @@
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q44.jpg",
         "papers/chemistry/fig/16-Redox-Equilibria-Q44-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4017,
+          0.4207
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.6524,
+              0.6686
+            ]
+          ]
+        ],
+        [
+          "Q44(b)",
+          [
+            [
+              0,
+              0.755,
+              0.774
+            ],
+            [
+              1,
+              0.0513,
+              0.3989
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2293,6 +3498,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q44.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5071,
+          0.6629
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.6524,
+              0.6686
+            ]
+          ]
+        ],
+        [
+          "Q44(b)",
+          [
+            [
+              0,
+              0.755,
+              0.774
+            ],
+            [
+              1,
+              0.0513,
+              0.3989
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2326,6 +3565,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q44-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6762,
+          0.944
+        ],
+        [
+          2,
+          0.0532,
+          0.34
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.6524,
+              0.6686
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2355,6 +3618,25 @@
         "papers/chemistry/img/16-Redox-Equilibria-31.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-32.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-33.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3533,
+          0.4872
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              0,
+              0.6524,
+              0.6686
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2381,6 +3663,13 @@
       ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6828,
+          0.7749
+        ]
       ]
     },
     {
@@ -2414,6 +3703,13 @@
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q46.jpg",
         "papers/chemistry/fig/16-Redox-Equilibria-Q46-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2365,
+          0.5565
+        ]
       ]
     },
     {
@@ -2445,6 +3741,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8167,
+          0.8357
+        ],
+        [
+          1,
+          0.0513,
+          0.1738
+        ]
       ]
     },
     {
@@ -2478,6 +3786,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q48.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3115,
+          0.8784
+        ]
       ]
     },
     {
@@ -2512,6 +3827,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q49.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1709,
+          0.2963
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2544,6 +3878,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q49-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3846,
+          0.887
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2573,6 +3926,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q49-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9003,
+          0.9193
+        ],
+        [
+          1,
+          0.0513,
+          0.114
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2601,6 +3978,35 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-36.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2593,
+          0.2925
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ],
+        [
+          "Q49(d)",
+          [
+            [
+              1,
+              0.1918,
+              0.2631
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2629,6 +4035,35 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-36.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3637,
+          0.4777
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ],
+        [
+          "Q49(d)",
+          [
+            [
+              1,
+              0.1918,
+              0.2631
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2659,6 +4094,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q49-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.471,
+          0.5793
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ],
+        [
+          "Q49(d)",
+          [
+            [
+              1,
+              0.1918,
+              0.2631
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2687,6 +4151,25 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-37.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-38.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1909
+        ]
+      ],
+      "ctx": [
+        [
+          "Q50",
+          [
+            [
+              0,
+              0.8585,
+              0.943
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2714,6 +4197,25 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-37.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-38.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1842,
+          0.2925
+        ]
+      ],
+      "ctx": [
+        [
+          "Q50",
+          [
+            [
+              0,
+              0.8585,
+              0.943
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2745,6 +4247,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7512,
+          0.906
+        ]
       ]
     },
     {
@@ -2774,6 +4283,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q52.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5261,
+          0.7236
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.4682,
+              0.5166
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2803,6 +4331,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q52-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.736,
+          0.8737
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.4682,
+              0.5166
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2833,6 +4380,25 @@
         "papers/chemistry/img/16-Redox-Equilibria-40.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-41.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5081,
+          0.642
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.1425,
+              0.4976
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2865,6 +4431,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q53.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6486,
+          0.7094
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.1425,
+              0.4976
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2897,6 +4482,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q53.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8737,
+          0.9117
+        ],
+        [
+          1,
+          0.1206,
+          0.1871
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.1425,
+              0.4976
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2926,6 +4535,35 @@
         "papers/chemistry/img/16-Redox-Equilibria-40.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-41.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-42.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4093,
+          0.491
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.1425,
+              0.4976
+            ]
+          ]
+        ],
+        [
+          "Q53(b)",
+          [
+            [
+              1,
+              0.2004,
+              0.4065
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2960,6 +4598,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q53-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4967,
+          0.5318
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.1425,
+              0.4976
+            ]
+          ]
+        ],
+        [
+          "Q53(b)",
+          [
+            [
+              1,
+              0.2004,
+              0.4065
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2991,6 +4658,35 @@
         "papers/chemistry/img/16-Redox-Equilibria-40.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-41.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-42.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7673,
+          0.8604
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.1425,
+              0.4976
+            ]
+          ]
+        ],
+        [
+          "Q53(b)",
+          [
+            [
+              1,
+              0.2004,
+              0.4065
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3019,6 +4715,25 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-42.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4444,
+          0.6296
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.4008,
+              0.4321
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3047,6 +4762,25 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-42.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6477,
+          0.7863
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.4008,
+              0.4321
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3075,6 +4809,13 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-42.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-43.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1168,
+          0.3181
+        ]
       ]
     },
     {
@@ -3107,6 +4848,30 @@
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q56.jpg",
         "papers/chemistry/fig/16-Redox-Equilibria-Q56-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8832,
+          0.9022
+        ],
+        [
+          1,
+          0.0636,
+          0.2384
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.585,
+              0.8727
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3138,6 +4903,25 @@
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q56.jpg",
         "papers/chemistry/fig/16-Redox-Equilibria-Q56-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2317,
+          0.4701
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.585,
+              0.8727
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3170,6 +4954,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q56.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4634,
+          0.5745
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.585,
+              0.8727
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3202,6 +5005,18 @@
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q57.jpg",
         "papers/chemistry/fig/16-Redox-Equilibria-Q57-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1538,
+          0.6116
+        ],
+        [
+          1,
+          0.0513,
+          0.4644
+        ]
       ]
     },
     {
@@ -3234,6 +5049,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q58.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.5983,
+              0.9231
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3264,6 +5098,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q58.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3685,
+          0.4511
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.5983,
+              0.9231
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3296,6 +5149,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q58.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4644,
+          0.6068
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.5983,
+              0.9231
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3328,6 +5200,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q58.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6002,
+          0.8395
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.5983,
+              0.9231
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3359,6 +5250,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q59.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1538,
+          0.2963
+        ]
       ]
     },
     {
@@ -3390,6 +5288,13 @@
         "papers/chemistry/img/16-Redox-Equilibria-48.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-49.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-50.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4976,
+          0.6182
+        ]
       ]
     },
     {
@@ -3421,6 +5326,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q61.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2574,
+          0.3476
+        ]
+      ],
+      "ctx": [
+        [
+          "Q61",
+          [
+            [
+              0,
+              0.773,
+              0.7911
+            ],
+            [
+              1,
+              0.0551,
+              0.2441
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3452,6 +5381,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q61.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3609,
+          0.3799
+        ]
+      ],
+      "ctx": [
+        [
+          "Q61",
+          [
+            [
+              0,
+              0.773,
+              0.7911
+            ],
+            [
+              1,
+              0.0551,
+              0.2441
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3484,6 +5437,30 @@
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q61.jpg",
         "papers/chemistry/fig/16-Redox-Equilibria-Q61-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4948,
+          0.5698
+        ]
+      ],
+      "ctx": [
+        [
+          "Q61",
+          [
+            [
+              0,
+              0.773,
+              0.7911
+            ],
+            [
+              1,
+              0.0551,
+              0.2441
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3517,6 +5494,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q61.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6781,
+          0.9297
+        ]
+      ],
+      "ctx": [
+        [
+          "Q61",
+          [
+            [
+              0,
+              0.773,
+              0.7911
+            ],
+            [
+              1,
+              0.0551,
+              0.2441
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3546,6 +5547,25 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-50.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3381,
+          0.4473
+        ]
+      ],
+      "ctx": [
+        [
+          "Q62",
+          [
+            [
+              0,
+              0.2346,
+              0.3286
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3578,6 +5598,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q62-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4653,
+          0.5726
+        ]
+      ],
+      "ctx": [
+        [
+          "Q62",
+          [
+            [
+              0,
+              0.2346,
+              0.3286
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3605,6 +5644,25 @@
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-50.jpg",
         "papers/chemistry/img/16-Redox-Equilibria-51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5926,
+          0.7142
+        ]
+      ],
+      "ctx": [
+        [
+          "Q62",
+          [
+            [
+              0,
+              0.2346,
+              0.3286
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3636,6 +5694,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/16-Redox-Equilibria-Q62.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.736,
+          0.9345
+        ]
+      ],
+      "ctx": [
+        [
+          "Q62",
+          [
+            [
+              0,
+              0.2346,
+              0.3286
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3663,6 +5740,13 @@
       ],
       "images": [
         "papers/chemistry/img/16-Redox-Equilibria-51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2355,
+          0.3295
+        ]
       ]
     }
   ]

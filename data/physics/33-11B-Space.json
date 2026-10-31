@@ -30,6 +30,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-01.jpg",
         "papers/physics/img/33-11B-Space-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.151,
+          0.3447
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1216,
+              0.1415
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -58,6 +77,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-01.jpg",
         "papers/physics/img/33-11B-Space-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.358,
+          0.5651
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1216,
+              0.1415
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -89,6 +127,30 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9012,
+          0.9202
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7123,
+              0.8889
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -118,6 +180,25 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1111,
+          0.2915
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7123,
+              0.8889
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -148,6 +229,25 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.302,
+          0.4796
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7123,
+              0.8889
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -179,6 +279,25 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4929,
+          0.7873
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7123,
+              0.8889
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -207,6 +326,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-02.jpg",
         "papers/physics/img/33-11B-Space-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0969,
+          0.3191
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -234,6 +372,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-02.jpg",
         "papers/physics/img/33-11B-Space-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3314,
+          0.5128
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -265,6 +422,30 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2982,
+          0.3172
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4(a)",
+          [
+            [
+              0,
+              0.6572,
+              0.7284
+            ],
+            [
+              1,
+              0.0551,
+              0.2963
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -300,6 +481,30 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3286,
+          0.7189
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4(a)",
+          [
+            [
+              0,
+              0.6572,
+              0.7284
+            ],
+            [
+              1,
+              0.0551,
+              0.2963
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -333,6 +538,30 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q4-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8139,
+          0.8329
+        ],
+        [
+          2,
+          0.0532,
+          0.7265
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4(b)",
+          [
+            [
+              1,
+              0.7322,
+              0.811
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -364,6 +593,30 @@
         "papers/physics/img/33-11B-Space-04.jpg",
         "papers/physics/img/33-11B-Space-05.jpg",
         "papers/physics/img/33-11B-Space-06.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7303,
+          0.9449
+        ],
+        [
+          3,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4(b)",
+          [
+            [
+              1,
+              0.7322,
+              0.811
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -392,6 +645,35 @@
       "images": [
         "papers/physics/img/33-11B-Space-06.jpg",
         "papers/physics/img/33-11B-Space-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5147,
+          0.6847
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.2156,
+              0.4824
+            ]
+          ]
+        ],
+        [
+          "Q5(a)",
+          [
+            [
+              0,
+              0.4919,
+              0.5109
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -420,6 +702,40 @@
       "images": [
         "papers/physics/img/33-11B-Space-06.jpg",
         "papers/physics/img/33-11B-Space-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6914,
+          0.9345
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.2156,
+              0.4824
+            ]
+          ]
+        ],
+        [
+          "Q5(a)",
+          [
+            [
+              0,
+              0.4919,
+              0.5109
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -451,6 +767,25 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1406,
+          0.6021
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.2156,
+              0.4824
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -479,6 +814,30 @@
       "images": [
         "papers/physics/img/33-11B-Space-07.jpg",
         "papers/physics/img/33-11B-Space-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.793,
+          0.9411
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.7483,
+              0.7825
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -507,6 +866,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-07.jpg",
         "papers/physics/img/33-11B-Space-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2279,
+          0.567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.7483,
+              0.7825
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -533,6 +911,13 @@
       ],
       "images": [
         "papers/physics/img/33-11B-Space-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7635,
+          0.8547
+        ]
       ]
     },
     {
@@ -561,6 +946,25 @@
         "papers/physics/img/33-11B-Space-09.jpg",
         "papers/physics/img/33-11B-Space-10.jpg",
         "papers/physics/img/33-11B-Space-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1643,
+          0.2545
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1197,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -591,6 +995,35 @@
         "papers/physics/img/33-11B-Space-09.jpg",
         "papers/physics/img/33-11B-Space-10.jpg",
         "papers/physics/img/33-11B-Space-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3457,
+          0.6078
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1197,
+              0.1538
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              0,
+              0.2669,
+              0.3523
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -620,6 +1053,35 @@
         "papers/physics/img/33-11B-Space-09.jpg",
         "papers/physics/img/33-11B-Space-10.jpg",
         "papers/physics/img/33-11B-Space-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6135,
+          0.8148
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1197,
+              0.1538
+            ]
+          ]
+        ],
+        [
+          "Q8(b)",
+          [
+            [
+              0,
+              0.2669,
+              0.3523
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -650,6 +1112,25 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q9.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3143,
+          0.5508
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              1,
+              0.075,
+              0.301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -683,6 +1164,30 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5632,
+          0.9164
+        ],
+        [
+          2,
+          0.0608,
+          0.3913
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              1,
+              0.075,
+              0.301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -710,6 +1215,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-11.jpg",
         "papers/physics/img/33-11B-Space-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.567,
+          0.6562
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.5375,
+              0.5565
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -737,6 +1261,35 @@
       "images": [
         "papers/physics/img/33-11B-Space-11.jpg",
         "papers/physics/img/33-11B-Space-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7056,
+          0.8917
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.5375,
+              0.5565
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              0,
+              0.6695,
+              0.7104
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -765,6 +1318,40 @@
       "images": [
         "papers/physics/img/33-11B-Space-11.jpg",
         "papers/physics/img/33-11B-Space-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8984,
+          0.9478
+        ],
+        [
+          1,
+          0.0522,
+          0.2972
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.5375,
+              0.5565
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              0,
+              0.6695,
+              0.7104
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -792,6 +1379,35 @@
       "images": [
         "papers/physics/img/33-11B-Space-11.jpg",
         "papers/physics/img/33-11B-Space-12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3029,
+          0.5328
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.5375,
+              0.5565
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              0,
+              0.6695,
+              0.7104
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -819,6 +1435,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-11.jpg",
         "papers/physics/img/33-11B-Space-12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5451,
+          0.8557
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.5375,
+              0.5565
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -848,6 +1483,13 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.169,
+          0.6676
+        ]
       ]
     },
     {
@@ -879,6 +1521,18 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8708,
+          0.9193
+        ],
+        [
+          1,
+          0.0551,
+          0.4919
+        ]
       ]
     },
     {
@@ -906,6 +1560,13 @@
       ],
       "images": [
         "papers/physics/img/33-11B-Space-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6467,
+          0.8272
+        ]
       ]
     },
     {
@@ -933,6 +1594,13 @@
       "images": [
         "papers/physics/img/33-11B-Space-15.jpg",
         "papers/physics/img/33-11B-Space-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.0902,
+          0.2403
+        ]
       ]
     },
     {
@@ -960,6 +1628,13 @@
       "images": [
         "papers/physics/img/33-11B-Space-15.jpg",
         "papers/physics/img/33-11B-Space-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3941,
+          0.5147
+        ]
       ]
     },
     {
@@ -987,6 +1662,13 @@
       "images": [
         "papers/physics/img/33-11B-Space-15.jpg",
         "papers/physics/img/33-11B-Space-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6695,
+          0.8082
+        ]
       ]
     },
     {
@@ -1016,6 +1698,13 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q17.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1244,
+          0.5736
+        ]
       ]
     },
     {
@@ -1048,6 +1737,30 @@
       "figures": [
         "papers/physics/fig/33-11B-Space-Q18.jpg",
         "papers/physics/fig/33-11B-Space-Q18-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4036,
+          0.5954
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.7132,
+              0.7607
+            ],
+            [
+              1,
+              0.0608,
+              0.3932
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1079,6 +1792,30 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6201,
+          0.7683
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.7132,
+              0.7607
+            ],
+            [
+              1,
+              0.0608,
+              0.3932
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1111,6 +1848,35 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q18-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7816,
+          0.9316
+        ],
+        [
+          2,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.7132,
+              0.7607
+            ],
+            [
+              1,
+              0.0608,
+              0.3932
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1138,6 +1904,13 @@
       "images": [
         "papers/physics/img/33-11B-Space-18.jpg",
         "papers/physics/img/33-11B-Space-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4112,
+          0.6078
+        ]
       ]
     },
     {
@@ -1166,6 +1939,18 @@
       "images": [
         "papers/physics/img/33-11B-Space-18.jpg",
         "papers/physics/img/33-11B-Space-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.811,
+          0.9326
+        ],
+        [
+          1,
+          0.0513,
+          0.0712
+        ]
       ]
     },
     {
@@ -1194,6 +1979,13 @@
       "images": [
         "papers/physics/img/33-11B-Space-19.jpg",
         "papers/physics/img/33-11B-Space-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2745,
+          0.4131
+        ]
       ]
     },
     {
@@ -1221,6 +2013,13 @@
       "images": [
         "papers/physics/img/33-11B-Space-19.jpg",
         "papers/physics/img/33-11B-Space-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5641,
+          0.7863
+        ]
       ]
     },
     {
@@ -1250,6 +2049,13 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.3362
+        ]
       ]
     },
     {
@@ -1331,6 +2137,30 @@
       "images": [
         "papers/physics/img/33-11B-Space-20.jpg",
         "papers/physics/img/33-11B-Space-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8841,
+          0.9402
+        ],
+        [
+          1,
+          0.0826,
+          0.1785
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.472,
+              0.68
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1360,6 +2190,25 @@
         "papers/physics/img/33-11B-Space-21.jpg",
         "papers/physics/img/33-11B-Space-22.jpg",
         "papers/physics/img/33-11B-Space-23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3704,
+          0.754
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.3257,
+              0.3599
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1389,6 +2238,30 @@
         "papers/physics/img/33-11B-Space-21.jpg",
         "papers/physics/img/33-11B-Space-22.jpg",
         "papers/physics/img/33-11B-Space-23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7673,
+          0.9307
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.3257,
+              0.3599
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1421,6 +2294,35 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5764,
+          0.5954
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.3257,
+              0.3599
+            ]
+          ]
+        ],
+        [
+          "Q25(c)",
+          [
+            [
+              1,
+              0.1406,
+              0.5745
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1454,6 +2356,35 @@
       "figures": [
         "papers/physics/fig/33-11B-Space-Q25.jpg",
         "papers/physics/fig/33-11B-Space-Q25-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6068,
+          0.8063
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.3257,
+              0.3599
+            ]
+          ]
+        ],
+        [
+          "Q25(c)",
+          [
+            [
+              1,
+              0.1406,
+              0.5745
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1487,6 +2418,40 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8234,
+          0.9364
+        ],
+        [
+          2,
+          0.0608,
+          0.4198
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.3257,
+              0.3599
+            ]
+          ]
+        ],
+        [
+          "Q25(c)",
+          [
+            [
+              1,
+              0.1406,
+              0.5745
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1515,6 +2480,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-23.jpg",
         "papers/physics/img/33-11B-Space-24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6106,
+          0.8803
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.567,
+              0.6011
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1543,6 +2527,30 @@
       "images": [
         "papers/physics/img/33-11B-Space-23.jpg",
         "papers/physics/img/33-11B-Space-24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8898,
+          0.9468
+        ],
+        [
+          1,
+          0.0532,
+          0.3257
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.567,
+              0.6011
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1569,6 +2577,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-23.jpg",
         "papers/physics/img/33-11B-Space-24.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.339,
+          0.4587
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.567,
+              0.6011
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1601,6 +2628,40 @@
       "figures": [
         "papers/physics/fig/33-11B-Space-Q27.jpg",
         "papers/physics/fig/33-11B-Space-Q27-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1178,
+          0.5423
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.6059,
+              0.8386
+            ]
+          ]
+        ],
+        [
+          "Q27(a)",
+          [
+            [
+              0,
+              0.849,
+              0.9354
+            ],
+            [
+              1,
+              0.0579,
+              0.1216
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1632,6 +2693,40 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q27-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5489,
+          0.9449
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.6059,
+              0.8386
+            ]
+          ]
+        ],
+        [
+          "Q27(a)",
+          [
+            [
+              0,
+              0.849,
+              0.9354
+            ],
+            [
+              1,
+              0.0579,
+              0.1216
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1661,6 +2756,25 @@
         "papers/physics/img/33-11B-Space-24.jpg",
         "papers/physics/img/33-11B-Space-25.jpg",
         "papers/physics/img/33-11B-Space-26.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.2602
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.6059,
+              0.8386
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1745,6 +2859,40 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q28.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.416,
+          0.5575
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.4074,
+              0.717
+            ]
+          ]
+        ],
+        [
+          "Q28(b)",
+          [
+            [
+              0,
+              0.9221,
+              0.9411
+            ],
+            [
+              1,
+              0.0522,
+              0.4141
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1773,6 +2921,40 @@
       "images": [
         "papers/physics/img/33-11B-Space-26.jpg",
         "papers/physics/img/33-11B-Space-27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5632,
+          0.8376
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.4074,
+              0.717
+            ]
+          ]
+        ],
+        [
+          "Q28(b)",
+          [
+            [
+              0,
+              0.9221,
+              0.9411
+            ],
+            [
+              1,
+              0.0522,
+              0.4141
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1804,6 +2986,13 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1054,
+          0.8272
+        ]
       ]
     },
     {
@@ -1832,6 +3021,13 @@
       "images": [
         "papers/physics/img/33-11B-Space-29.jpg",
         "papers/physics/img/33-11B-Space-30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.0902,
+          0.3704
+        ]
       ]
     },
     {
@@ -1862,6 +3058,30 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9088,
+          0.9278
+        ],
+        [
+          1,
+          0.0826,
+          0.2963
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.5166,
+              0.8984
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1890,6 +3110,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-29.jpg",
         "papers/physics/img/33-11B-Space-30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3096,
+          0.6344
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.5166,
+              0.8984
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1920,6 +3159,18 @@
       "images": [
         "papers/physics/img/33-11B-Space-30.jpg",
         "papers/physics/img/33-11B-Space-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7816,
+          0.9449
+        ],
+        [
+          1,
+          0.0608,
+          0.3913
+        ]
       ]
     },
     {
@@ -1952,6 +3203,18 @@
       "figures": [
         "papers/physics/fig/33-11B-Space-Q33.jpg",
         "papers/physics/fig/33-11B-Space-Q33-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5869,
+          0.9288
+        ],
+        [
+          1,
+          0.0522,
+          0.2127
+        ]
       ]
     },
     {
@@ -1979,6 +3242,13 @@
       ],
       "images": [
         "papers/physics/img/33-11B-Space-32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4084,
+          0.5033
+        ]
       ]
     },
     {
@@ -2005,6 +3275,13 @@
       ],
       "images": [
         "papers/physics/img/33-11B-Space-32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7047,
+          0.8281
+        ]
       ]
     },
     {
@@ -2033,6 +3310,13 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.265,
+          0.4425
+        ]
       ]
     },
     {
@@ -2060,6 +3344,13 @@
       "images": [
         "papers/physics/img/33-11B-Space-33.jpg",
         "papers/physics/img/33-11B-Space-34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6277,
+          0.7512
+        ]
       ]
     },
     {
@@ -2088,6 +3379,13 @@
       "images": [
         "papers/physics/img/33-11B-Space-33.jpg",
         "papers/physics/img/33-11B-Space-34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1766
+        ]
       ]
     },
     {
@@ -2118,6 +3416,13 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5337,
+          0.7179
+        ]
       ]
     },
     {
@@ -2145,6 +3450,30 @@
         "papers/physics/img/33-11B-Space-34.jpg",
         "papers/physics/img/33-11B-Space-35.jpg",
         "papers/physics/img/33-11B-Space-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9003,
+          0.9411
+        ],
+        [
+          1,
+          0.0826,
+          0.2089
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.8557,
+              0.8898
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2175,6 +3504,25 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q40.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2213,
+          0.7559
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.8557,
+              0.8898
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2203,6 +3551,30 @@
         "papers/physics/img/33-11B-Space-34.jpg",
         "papers/physics/img/33-11B-Space-35.jpg",
         "papers/physics/img/33-11B-Space-36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7664,
+          0.944
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.8557,
+              0.8898
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2229,6 +3601,25 @@
       ],
       "images": [
         "papers/physics/img/33-11B-Space-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2745,
+          0.4226
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.2156,
+              0.264
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2255,6 +3646,25 @@
       ],
       "images": [
         "papers/physics/img/33-11B-Space-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4349,
+          0.66
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.2156,
+              0.264
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2281,6 +3691,25 @@
       ],
       "images": [
         "papers/physics/img/33-11B-Space-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6705,
+          0.8917
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.2156,
+              0.264
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2308,6 +3737,35 @@
       "images": [
         "papers/physics/img/33-11B-Space-37.jpg",
         "papers/physics/img/33-11B-Space-38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2241,
+          0.3647
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.1425,
+              0.1757
+            ]
+          ]
+        ],
+        [
+          "Q42(a)",
+          [
+            [
+              0,
+              0.1861,
+              0.2175
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2336,6 +3794,35 @@
       "images": [
         "papers/physics/img/33-11B-Space-37.jpg",
         "papers/physics/img/33-11B-Space-38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3694,
+          0.6743
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.1425,
+              0.1757
+            ]
+          ]
+        ],
+        [
+          "Q42(a)",
+          [
+            [
+              0,
+              0.1861,
+              0.2175
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2365,6 +3852,30 @@
       "images": [
         "papers/physics/img/33-11B-Space-37.jpg",
         "papers/physics/img/33-11B-Space-38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6866,
+          0.925
+        ],
+        [
+          1,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.1425,
+              0.1757
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2393,6 +3904,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-38.jpg",
         "papers/physics/img/33-11B-Space-39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4653,
+          0.7882
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.3903,
+              0.4549
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2421,6 +3951,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-38.jpg",
         "papers/physics/img/33-11B-Space-39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7949,
+          0.9364
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.3903,
+              0.4549
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2448,6 +3997,35 @@
       "images": [
         "papers/physics/img/33-11B-Space-38.jpg",
         "papers/physics/img/33-11B-Space-39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0902,
+          0.1728
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.3903,
+              0.4549
+            ]
+          ]
+        ],
+        [
+          "Q43(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2476,6 +4054,35 @@
       "images": [
         "papers/physics/img/33-11B-Space-38.jpg",
         "papers/physics/img/33-11B-Space-39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1785,
+          0.4368
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.3903,
+              0.4549
+            ]
+          ]
+        ],
+        [
+          "Q43(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2505,6 +4112,18 @@
       "images": [
         "papers/physics/img/33-11B-Space-39.jpg",
         "papers/physics/img/33-11B-Space-40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5831,
+          0.9221
+        ],
+        [
+          1,
+          0.0608,
+          0.2441
+        ]
       ]
     },
     {
@@ -2533,6 +4152,13 @@
         "papers/physics/img/33-11B-Space-40.jpg",
         "papers/physics/img/33-11B-Space-41.jpg",
         "papers/physics/img/33-11B-Space-42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4406,
+          0.623
+        ]
       ]
     },
     {
@@ -2562,6 +4188,40 @@
         "papers/physics/img/33-11B-Space-40.jpg",
         "papers/physics/img/33-11B-Space-41.jpg",
         "papers/physics/img/33-11B-Space-42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8414,
+          0.9402
+        ],
+        [
+          1,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.7749,
+              0.7939
+            ]
+          ]
+        ],
+        [
+          "Q46(a)",
+          [
+            [
+              0,
+              0.8034,
+              0.8452
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2593,6 +4253,35 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q46.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2507,
+          0.6249
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.7749,
+              0.7939
+            ]
+          ]
+        ],
+        [
+          "Q46(a)",
+          [
+            [
+              0,
+              0.8034,
+              0.8452
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2621,6 +4310,35 @@
         "papers/physics/img/33-11B-Space-40.jpg",
         "papers/physics/img/33-11B-Space-41.jpg",
         "papers/physics/img/33-11B-Space-42.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6277,
+          0.7104
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.7749,
+              0.7939
+            ]
+          ]
+        ],
+        [
+          "Q46(a)",
+          [
+            [
+              0,
+              0.8034,
+              0.8452
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2651,6 +4369,30 @@
         "papers/physics/img/33-11B-Space-40.jpg",
         "papers/physics/img/33-11B-Space-41.jpg",
         "papers/physics/img/33-11B-Space-42.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7236,
+          0.9183
+        ],
+        [
+          2,
+          0.0608,
+          0.3647
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.7749,
+              0.7939
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2680,6 +4422,25 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8594,
+          0.8965
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.5081,
+              0.85
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2709,6 +4470,25 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9031,
+          0.9449
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.5081,
+              0.85
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2737,6 +4517,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-42.jpg",
         "papers/physics/img/33-11B-Space-43.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.075,
+          0.4587
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.5081,
+              0.85
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2763,6 +4562,13 @@
       ],
       "images": [
         "papers/physics/img/33-11B-Space-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6543,
+          0.8196
+        ]
       ]
     },
     {
@@ -2790,6 +4596,13 @@
       "images": [
         "papers/physics/img/33-11B-Space-44.jpg",
         "papers/physics/img/33-11B-Space-45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1396,
+          0.2887
+        ]
       ]
     },
     {
@@ -2817,6 +4630,13 @@
       "images": [
         "papers/physics/img/33-11B-Space-44.jpg",
         "papers/physics/img/33-11B-Space-45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4929,
+          0.6163
+        ]
       ]
     },
     {
@@ -2844,6 +4664,13 @@
       "images": [
         "papers/physics/img/33-11B-Space-44.jpg",
         "papers/physics/img/33-11B-Space-45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8177,
+          0.9402
+        ]
       ]
     },
     {
@@ -2874,6 +4701,25 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q52.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5233,
+          0.7303
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.2013,
+              0.5138
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2903,6 +4749,30 @@
       "images": [
         "papers/physics/img/33-11B-Space-45.jpg",
         "papers/physics/img/33-11B-Space-46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.736,
+          0.9373
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.2013,
+              0.5138
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2931,6 +4801,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-45.jpg",
         "papers/physics/img/33-11B-Space-46.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2279,
+          0.5242
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.2013,
+              0.5138
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2958,6 +4847,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-46.jpg",
         "papers/physics/img/33-11B-Space-47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7151,
+          0.8053
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.6714,
+              0.7028
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2987,6 +4895,30 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q53.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8186,
+          0.9193
+        ],
+        [
+          1,
+          0.0532,
+          0.5261
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.6714,
+              0.7028
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3013,6 +4945,13 @@
       ],
       "images": [
         "papers/physics/img/33-11B-Space-47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7217,
+          0.8424
+        ]
       ]
     },
     {
@@ -3044,6 +4983,13 @@
       "figures": [
         "papers/physics/fig/33-11B-Space-Q55.jpg",
         "papers/physics/fig/33-11B-Space-Q55-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1538,
+          0.5717
+        ]
       ]
     },
     {
@@ -3074,6 +5020,18 @@
       "figures": [
         "papers/physics/fig/33-11B-Space-Q56.jpg",
         "papers/physics/fig/33-11B-Space-Q56-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7569,
+          0.7911
+        ],
+        [
+          1,
+          0.0522,
+          0.5318
+        ]
       ]
     },
     {
@@ -3100,6 +5058,13 @@
       ],
       "images": [
         "papers/physics/img/33-11B-Space-49.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7331,
+          0.8718
+        ]
       ]
     },
     {
@@ -3127,6 +5092,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-50.jpg",
         "papers/physics/img/33-11B-Space-51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1709,
+          0.4387
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.1425,
+              0.1614
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3154,6 +5138,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-50.jpg",
         "papers/physics/img/33-11B-Space-51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4511,
+          0.7312
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.1425,
+              0.1614
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3181,6 +5184,30 @@
       "images": [
         "papers/physics/img/33-11B-Space-50.jpg",
         "papers/physics/img/33-11B-Space-51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7436,
+          0.9383
+        ],
+        [
+          1,
+          0.0608,
+          0.189
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.1425,
+              0.1614
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3209,6 +5236,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-51.jpg",
         "papers/physics/img/33-11B-Space-52.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.377,
+          0.6752
+        ]
+      ],
+      "ctx": [
+        [
+          "Q59",
+          [
+            [
+              0,
+              0.3324,
+              0.3637
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3237,6 +5283,30 @@
       "images": [
         "papers/physics/img/33-11B-Space-51.jpg",
         "papers/physics/img/33-11B-Space-52.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6857,
+          0.9221
+        ],
+        [
+          1,
+          0.0608,
+          0.1007
+        ]
+      ],
+      "ctx": [
+        [
+          "Q59",
+          [
+            [
+              0,
+              0.3324,
+              0.3637
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3265,6 +5335,13 @@
       "images": [
         "papers/physics/img/33-11B-Space-52.jpg",
         "papers/physics/img/33-11B-Space-53.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2441,
+          0.4815
+        ]
       ]
     },
     {
@@ -3294,6 +5371,18 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q61.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6277,
+          0.9411
+        ],
+        [
+          1,
+          0.0532,
+          0.2156
+        ]
       ]
     },
     {
@@ -3323,6 +5412,13 @@
         "papers/physics/img/33-11B-Space-53.jpg",
         "papers/physics/img/33-11B-Space-54.jpg",
         "papers/physics/img/33-11B-Space-55.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4112,
+          0.5347
+        ]
       ]
     },
     {
@@ -3354,6 +5450,30 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q63.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8927,
+          0.9126
+        ],
+        [
+          1,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q63",
+          [
+            [
+              0,
+              0.6866,
+              0.8689
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3387,6 +5507,25 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q63.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2792,
+          0.6724
+        ]
+      ],
+      "ctx": [
+        [
+          "Q63",
+          [
+            [
+              0,
+              0.6866,
+              0.8689
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3418,6 +5557,30 @@
         "papers/physics/img/33-11B-Space-53.jpg",
         "papers/physics/img/33-11B-Space-54.jpg",
         "papers/physics/img/33-11B-Space-55.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6857,
+          0.9373
+        ],
+        [
+          2,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q63",
+          [
+            [
+              0,
+              0.6866,
+              0.8689
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3444,6 +5607,13 @@
       ],
       "images": [
         "papers/physics/img/33-11B-Space-55.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4112,
+          0.5907
+        ]
       ]
     },
     {
@@ -3470,6 +5640,13 @@
       ],
       "images": [
         "papers/physics/img/33-11B-Space-55.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7939,
+          0.8879
+        ]
       ]
     },
     {
@@ -3500,6 +5677,13 @@
       "figures": [
         "papers/physics/fig/33-11B-Space-Q66.jpg",
         "papers/physics/fig/33-11B-Space-Q66-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1909,
+          0.4862
+        ]
       ]
     },
     {
@@ -3529,6 +5713,13 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q67.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6876,
+          0.9288
+        ]
       ]
     },
     {
@@ -3557,6 +5748,13 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q68.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2678,
+          0.5717
+        ]
       ]
     },
     {
@@ -3586,6 +5784,30 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q69.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7531,
+          0.9278
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q69",
+          [
+            [
+              0,
+              0.7236,
+              0.7426
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3613,6 +5835,35 @@
       "images": [
         "papers/physics/img/33-11B-Space-57.jpg",
         "papers/physics/img/33-11B-Space-58.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2213,
+          0.4368
+        ]
+      ],
+      "ctx": [
+        [
+          "Q69",
+          [
+            [
+              0,
+              0.7236,
+              0.7426
+            ]
+          ]
+        ],
+        [
+          "Q69(b)",
+          [
+            [
+              1,
+              0.1985,
+              0.2184
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3641,6 +5892,35 @@
       "images": [
         "papers/physics/img/33-11B-Space-57.jpg",
         "papers/physics/img/33-11B-Space-58.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4416,
+          0.7455
+        ]
+      ],
+      "ctx": [
+        [
+          "Q69",
+          [
+            [
+              0,
+              0.7236,
+              0.7426
+            ]
+          ]
+        ],
+        [
+          "Q69(b)",
+          [
+            [
+              1,
+              0.1985,
+              0.2184
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3670,6 +5950,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-58.jpg",
         "papers/physics/img/33-11B-Space-59.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.4663
+        ]
+      ],
+      "ctx": [
+        [
+          "Q70",
+          [
+            [
+              0,
+              0.8927,
+              0.924
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3697,6 +5996,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-58.jpg",
         "papers/physics/img/33-11B-Space-59.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4777,
+          0.716
+        ]
+      ],
+      "ctx": [
+        [
+          "Q70",
+          [
+            [
+              0,
+              0.8927,
+              0.924
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3725,6 +6043,13 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q71.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9288,
+          0.9478
+        ]
       ]
     },
     {
@@ -3755,6 +6080,30 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q72.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9174,
+          0.9364
+        ],
+        [
+          1,
+          0.0826,
+          0.1785
+        ]
+      ],
+      "ctx": [
+        [
+          "Q72",
+          [
+            [
+              0,
+              0.3827,
+              0.906
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3785,6 +6134,25 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q72.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1852,
+          0.3846
+        ]
+      ],
+      "ctx": [
+        [
+          "Q72",
+          [
+            [
+              0,
+              0.3827,
+              0.906
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3812,6 +6180,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-60.jpg",
         "papers/physics/img/33-11B-Space-61.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3979,
+          0.7075
+        ]
+      ],
+      "ctx": [
+        [
+          "Q72",
+          [
+            [
+              0,
+              0.3827,
+              0.906
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3839,6 +6226,30 @@
       "images": [
         "papers/physics/img/33-11B-Space-61.jpg",
         "papers/physics/img/33-11B-Space-62.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8832,
+          0.9373
+        ],
+        [
+          1,
+          0.0826,
+          0.2669
+        ]
+      ],
+      "ctx": [
+        [
+          "Q73",
+          [
+            [
+              0,
+              0.8547,
+              0.8737
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3867,6 +6278,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-61.jpg",
         "papers/physics/img/33-11B-Space-62.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2802,
+          0.6638
+        ]
+      ],
+      "ctx": [
+        [
+          "Q73",
+          [
+            [
+              0,
+              0.8547,
+              0.8737
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3897,6 +6327,18 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q74.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8765,
+          0.9221
+        ],
+        [
+          1,
+          0.0532,
+          0.3134
+        ]
       ]
     },
     {
@@ -3924,6 +6366,35 @@
         "papers/physics/img/33-11B-Space-63.jpg",
         "papers/physics/img/33-11B-Space-64.jpg",
         "papers/physics/img/33-11B-Space-65.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5014,
+          0.7009
+        ]
+      ],
+      "ctx": [
+        [
+          "Q75",
+          [
+            [
+              0,
+              0.4501,
+              0.4691
+            ]
+          ]
+        ],
+        [
+          "Q75(a)",
+          [
+            [
+              0,
+              0.4786,
+              0.4986
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3956,6 +6427,40 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q75.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7066,
+          0.7255
+        ],
+        [
+          1,
+          0.0522,
+          0.4093
+        ]
+      ],
+      "ctx": [
+        [
+          "Q75",
+          [
+            [
+              0,
+              0.4501,
+              0.4691
+            ]
+          ]
+        ],
+        [
+          "Q75(a)",
+          [
+            [
+              0,
+              0.4786,
+              0.4986
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3987,6 +6492,35 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q75.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4207,
+          0.4995
+        ]
+      ],
+      "ctx": [
+        [
+          "Q75",
+          [
+            [
+              0,
+              0.4501,
+              0.4691
+            ]
+          ]
+        ],
+        [
+          "Q75(a)",
+          [
+            [
+              0,
+              0.4786,
+              0.4986
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4018,6 +6552,30 @@
         "papers/physics/img/33-11B-Space-63.jpg",
         "papers/physics/img/33-11B-Space-64.jpg",
         "papers/physics/img/33-11B-Space-65.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5176,
+          0.9288
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q75",
+          [
+            [
+              0,
+              0.4501,
+              0.4691
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4048,6 +6606,25 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q76.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4055,
+          0.642
+        ]
+      ],
+      "ctx": [
+        [
+          "Q76",
+          [
+            [
+              0,
+              0.245,
+              0.3951
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4079,6 +6656,30 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q76-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6553,
+          0.9402
+        ],
+        [
+          1,
+          0.0532,
+          0.4872
+        ]
+      ],
+      "ctx": [
+        [
+          "Q76",
+          [
+            [
+              0,
+              0.245,
+              0.3951
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4111,6 +6712,30 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q77.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5271,
+          0.7654
+        ]
+      ],
+      "ctx": [
+        [
+          "Q77",
+          [
+            [
+              0,
+              0.6344,
+              0.6534
+            ],
+            [
+              1,
+              0.0513,
+              0.5166
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4139,6 +6764,35 @@
         "papers/physics/img/33-11B-Space-66.jpg",
         "papers/physics/img/33-11B-Space-67.jpg",
         "papers/physics/img/33-11B-Space-68.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7759,
+          0.9402
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q77",
+          [
+            [
+              0,
+              0.6344,
+              0.6534
+            ],
+            [
+              1,
+              0.0513,
+              0.5166
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4168,6 +6822,30 @@
         "papers/physics/img/33-11B-Space-66.jpg",
         "papers/physics/img/33-11B-Space-67.jpg",
         "papers/physics/img/33-11B-Space-68.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.17,
+          0.4217
+        ]
+      ],
+      "ctx": [
+        [
+          "Q77",
+          [
+            [
+              0,
+              0.6344,
+              0.6534
+            ],
+            [
+              1,
+              0.0513,
+              0.5166
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4196,6 +6874,30 @@
         "papers/physics/img/33-11B-Space-66.jpg",
         "papers/physics/img/33-11B-Space-67.jpg",
         "papers/physics/img/33-11B-Space-68.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4274,
+          0.51
+        ]
+      ],
+      "ctx": [
+        [
+          "Q77",
+          [
+            [
+              0,
+              0.6344,
+              0.6534
+            ],
+            [
+              1,
+              0.0513,
+              0.5166
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4224,6 +6926,25 @@
         "papers/physics/img/33-11B-Space-68.jpg",
         "papers/physics/img/33-11B-Space-69.jpg",
         "papers/physics/img/33-11B-Space-70.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6866,
+          0.7759
+        ]
+      ],
+      "ctx": [
+        [
+          "Q78",
+          [
+            [
+              0,
+              0.6572,
+              0.6762
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4257,6 +6978,40 @@
       "figures": [
         "papers/physics/fig/33-11B-Space-Q78.jpg",
         "papers/physics/fig/33-11B-Space-Q78-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4093,
+          0.8395
+        ]
+      ],
+      "ctx": [
+        [
+          "Q78",
+          [
+            [
+              0,
+              0.6572,
+              0.6762
+            ]
+          ]
+        ],
+        [
+          "Q78(b)",
+          [
+            [
+              0,
+              0.7892,
+              0.8424
+            ],
+            [
+              1,
+              0.0522,
+              0.4055
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4285,6 +7040,45 @@
         "papers/physics/img/33-11B-Space-68.jpg",
         "papers/physics/img/33-11B-Space-69.jpg",
         "papers/physics/img/33-11B-Space-70.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8443,
+          0.943
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q78",
+          [
+            [
+              0,
+              0.6572,
+              0.6762
+            ]
+          ]
+        ],
+        [
+          "Q78(b)",
+          [
+            [
+              0,
+              0.7892,
+              0.8424
+            ],
+            [
+              1,
+              0.0522,
+              0.4055
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4313,6 +7107,13 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q79.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3523,
+          0.5793
+        ]
       ]
     },
     {
@@ -4341,6 +7142,13 @@
       "images": [
         "papers/physics/img/33-11B-Space-70.jpg",
         "papers/physics/img/33-11B-Space-71.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7749,
+          0.9402
+        ]
       ]
     },
     {
@@ -4368,6 +7176,13 @@
       "images": [
         "papers/physics/img/33-11B-Space-71.jpg",
         "papers/physics/img/33-11B-Space-72.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2507,
+          0.3713
+        ]
       ]
     },
     {
@@ -4395,6 +7210,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-71.jpg",
         "papers/physics/img/33-11B-Space-72.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5556,
+          0.7474
+        ]
+      ],
+      "ctx": [
+        [
+          "Q82",
+          [
+            [
+              0,
+              0.5261,
+              0.5451
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4423,6 +7257,35 @@
       "images": [
         "papers/physics/img/33-11B-Space-71.jpg",
         "papers/physics/img/33-11B-Space-72.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7825,
+          0.8651
+        ]
+      ],
+      "ctx": [
+        [
+          "Q82",
+          [
+            [
+              0,
+              0.5261,
+              0.5451
+            ]
+          ]
+        ],
+        [
+          "Q82(b)",
+          [
+            [
+              0,
+              0.7607,
+              0.7797
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4450,6 +7313,40 @@
       "images": [
         "papers/physics/img/33-11B-Space-71.jpg",
         "papers/physics/img/33-11B-Space-72.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8718,
+          0.9402
+        ],
+        [
+          1,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q82",
+          [
+            [
+              0,
+              0.5261,
+              0.5451
+            ]
+          ]
+        ],
+        [
+          "Q82(b)",
+          [
+            [
+              0,
+              0.7607,
+              0.7797
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4476,6 +7373,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-72.jpg",
         "papers/physics/img/33-11B-Space-73.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4796,
+          0.716
+        ]
+      ],
+      "ctx": [
+        [
+          "Q83",
+          [
+            [
+              0,
+              0.4501,
+              0.4691
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4503,6 +7419,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-72.jpg",
         "papers/physics/img/33-11B-Space-73.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7217,
+          0.8946
+        ]
+      ],
+      "ctx": [
+        [
+          "Q83",
+          [
+            [
+              0,
+              0.4501,
+              0.4691
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4532,6 +7467,30 @@
       "images": [
         "papers/physics/img/33-11B-Space-72.jpg",
         "papers/physics/img/33-11B-Space-73.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.905,
+          0.9468
+        ],
+        [
+          1,
+          0.0532,
+          0.4881
+        ]
+      ],
+      "ctx": [
+        [
+          "Q83",
+          [
+            [
+              0,
+              0.4501,
+              0.4691
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4564,6 +7523,25 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q84.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7085,
+          0.8481
+        ]
+      ],
+      "ctx": [
+        [
+          "Q84",
+          [
+            [
+              0,
+              0.6344,
+              0.698
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4594,6 +7572,40 @@
         "papers/physics/img/33-11B-Space-73.jpg",
         "papers/physics/img/33-11B-Space-74.jpg",
         "papers/physics/img/33-11B-Space-75.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9041,
+          0.9383
+        ],
+        [
+          1,
+          0.0522,
+          0.3846
+        ]
+      ],
+      "ctx": [
+        [
+          "Q84",
+          [
+            [
+              0,
+              0.6344,
+              0.698
+            ]
+          ]
+        ],
+        [
+          "Q84(b)",
+          [
+            [
+              0,
+              0.8813,
+              0.9003
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4624,6 +7636,35 @@
         "papers/physics/img/33-11B-Space-73.jpg",
         "papers/physics/img/33-11B-Space-74.jpg",
         "papers/physics/img/33-11B-Space-75.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3903,
+          0.8405
+        ]
+      ],
+      "ctx": [
+        [
+          "Q84",
+          [
+            [
+              0,
+              0.6344,
+              0.698
+            ]
+          ]
+        ],
+        [
+          "Q84(b)",
+          [
+            [
+              0,
+              0.8813,
+              0.9003
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4652,6 +7693,40 @@
         "papers/physics/img/33-11B-Space-73.jpg",
         "papers/physics/img/33-11B-Space-74.jpg",
         "papers/physics/img/33-11B-Space-75.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8471,
+          0.9449
+        ],
+        [
+          2,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q84",
+          [
+            [
+              0,
+              0.6344,
+              0.698
+            ]
+          ]
+        ],
+        [
+          "Q84(b)",
+          [
+            [
+              0,
+              0.8813,
+              0.9003
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4680,6 +7755,25 @@
         "papers/physics/img/33-11B-Space-73.jpg",
         "papers/physics/img/33-11B-Space-74.jpg",
         "papers/physics/img/33-11B-Space-75.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1994,
+          0.377
+        ]
+      ],
+      "ctx": [
+        [
+          "Q84",
+          [
+            [
+              0,
+              0.6344,
+              0.698
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4707,6 +7801,13 @@
       "images": [
         "papers/physics/img/33-11B-Space-75.jpg",
         "papers/physics/img/33-11B-Space-76.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5907,
+          0.7407
+        ]
       ]
     },
     {
@@ -4736,6 +7837,13 @@
       "figures": [
         "papers/physics/fig/33-11B-Space-Q86.jpg",
         "papers/physics/fig/33-11B-Space-Q86-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0836,
+          0.5043
+        ]
       ]
     },
     {
@@ -4764,6 +7872,18 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q87.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7227,
+          0.8148
+        ],
+        [
+          1,
+          0.0627,
+          0.301
+        ]
       ]
     },
     {
@@ -4793,6 +7913,35 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q88.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9155,
+          0.9345
+        ]
+      ],
+      "ctx": [
+        [
+          "Q88",
+          [
+            [
+              0,
+              0.4425,
+              0.8794
+            ]
+          ]
+        ],
+        [
+          "Q88(a)",
+          [
+            [
+              0,
+              0.8936,
+              0.9126
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4823,6 +7972,35 @@
       ],
       "figures": [
         "papers/physics/fig/33-11B-Space-Q88.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.0864
+        ]
+      ],
+      "ctx": [
+        [
+          "Q88",
+          [
+            [
+              0,
+              0.4425,
+              0.8794
+            ]
+          ]
+        ],
+        [
+          "Q88(a)",
+          [
+            [
+              0,
+              0.8936,
+              0.9126
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4853,6 +8031,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-77.jpg",
         "papers/physics/img/33-11B-Space-78.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1054,
+          0.5755
+        ]
+      ],
+      "ctx": [
+        [
+          "Q88",
+          [
+            [
+              0,
+              0.4425,
+              0.8794
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4880,6 +8077,25 @@
       "images": [
         "papers/physics/img/33-11B-Space-77.jpg",
         "papers/physics/img/33-11B-Space-78.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5878,
+          0.7806
+        ]
+      ],
+      "ctx": [
+        [
+          "Q88",
+          [
+            [
+              0,
+              0.4425,
+              0.8794
+            ]
+          ]
+        ]
       ]
     }
   ]

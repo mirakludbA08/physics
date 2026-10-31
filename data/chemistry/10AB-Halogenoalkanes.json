@@ -29,6 +29,25 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-01.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1671,
+          0.227
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1567
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -55,6 +74,25 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-01.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2336,
+          0.2868
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1567
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -83,6 +121,25 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-01.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2925,
+          0.3267
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1567
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -111,6 +168,25 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-01.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6448,
+          0.7464
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1567
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -142,6 +218,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.416,
+          0.5252
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3561,
+              0.4065
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -175,6 +270,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5432,
+          0.7673
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3561,
+              0.4065
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -211,6 +325,30 @@
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q3.jpg",
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q3-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3096,
+          0.5537
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.9221,
+              0.9411
+            ],
+            [
+              1,
+              0.0532,
+              0.2991
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -240,6 +378,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5641,
+          0.6249
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.9221,
+              0.9411
+            ],
+            [
+              1,
+              0.0532,
+              0.2991
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -273,6 +435,30 @@
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q3.jpg",
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q3-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6382,
+          0.8651
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.9221,
+              0.9411
+            ],
+            [
+              1,
+              0.0532,
+              0.2991
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -309,6 +495,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q3-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5935,
+          0.7388
+        ],
+        [
+          3,
+          0.0655,
+          0.9231
+        ],
+        [
+          4,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.9221,
+              0.9411
+            ],
+            [
+              1,
+              0.0532,
+              0.2991
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -336,6 +556,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3818,
+          0.8281
+        ]
       ]
     },
     {
@@ -364,6 +591,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1538,
+          0.3067
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              1,
+              0.1244,
+              0.1434
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -392,6 +638,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q5-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3276,
+          0.5052
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              1,
+              0.1244,
+              0.1434
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -419,6 +684,25 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-07.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.754,
+          0.8613
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.7094,
+              0.7436
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -446,6 +730,30 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-07.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8813,
+          0.9392
+        ],
+        [
+          1,
+          0.0513,
+          0.1064
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.7094,
+              0.7436
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -473,6 +781,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3086,
+          0.7759
+        ]
       ]
     },
     {
@@ -501,6 +816,35 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-09.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-10.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2526,
+          0.3352
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1861,
+              0.2051
+            ]
+          ]
+        ],
+        [
+          "Q8(a)",
+          [
+            [
+              0,
+              0.2156,
+              0.2498
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -528,6 +872,35 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-09.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-10.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3419,
+          0.4976
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1861,
+              0.2051
+            ]
+          ]
+        ],
+        [
+          "Q8(a)",
+          [
+            [
+              0,
+              0.2156,
+              0.2498
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -557,6 +930,25 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-09.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-10.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5109,
+          0.5964
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1861,
+              0.2051
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -588,6 +980,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8395,
+          0.8585
+        ],
+        [
+          1,
+          0.0646,
+          0.5793
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1861,
+              0.2051
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -617,6 +1033,30 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-09.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-10.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5926,
+          0.6486
+        ],
+        [
+          2,
+          0.0665,
+          0.5033
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.1861,
+              0.2051
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -644,6 +1084,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6971,
+          0.716
+        ],
+        [
+          1,
+          0.0513,
+          0.6021
+        ]
       ]
     },
     {
@@ -675,6 +1127,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7958,
+          0.9421
+        ],
+        [
+          1,
+          0.0513,
+          0.1624
+        ]
       ]
     },
     {
@@ -703,6 +1167,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4606,
+          0.7028
+        ]
       ]
     },
     {
@@ -729,6 +1200,18 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-13.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9069,
+          0.9259
+        ],
+        [
+          1,
+          0.0532,
+          0.1462
+        ]
       ]
     },
     {
@@ -755,6 +1238,25 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-14.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3286,
+          0.3884
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.2991,
+              0.3153
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -784,6 +1286,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5679,
+          0.7094
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.2991,
+              0.3153
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              0,
+              0.4017,
+              0.5651
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -815,6 +1346,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q13-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7151,
+          0.9383
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.2991,
+              0.3153
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              0,
+              0.4017,
+              0.5651
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -843,6 +1403,25 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-14.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1282,
+          0.453
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.2991,
+              0.3153
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -870,6 +1449,13 @@
       ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6486,
+          0.7692
+        ]
       ]
     },
     {
@@ -898,6 +1484,13 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-16.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2669,
+          0.3875
+        ]
       ]
     },
     {
@@ -923,6 +1516,13 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-16.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5907,
+          0.6847
+        ]
       ]
     },
     {
@@ -951,6 +1551,18 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-16.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.886,
+          0.9487
+        ],
+        [
+          1,
+          0.0513,
+          0.1216
+        ]
       ]
     },
     {
@@ -979,6 +1591,13 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-18.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-19.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3257,
+          0.4473
+        ]
       ]
     },
     {
@@ -1008,6 +1627,25 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-18.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-19.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6306,
+          0.7673
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.6011,
+              0.6201
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1036,6 +1674,25 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-18.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-19.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7607,
+          0.9031
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.6011,
+              0.6201
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1068,6 +1725,45 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2108,
+          0.4292
+        ],
+        [
+          2,
+          0.0513,
+          0.6591
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.6011,
+              0.6201
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              0,
+              0.9164,
+              0.9354
+            ],
+            [
+              1,
+              0.0532,
+              0.2042
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1101,6 +1797,65 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q19.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6629,
+          0.7417
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.6011,
+              0.6201
+            ]
+          ]
+        ],
+        [
+          "Q19(a)",
+          [
+            [
+              0,
+              0.6306,
+              0.9031
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              0,
+              0.9164,
+              0.9354
+            ],
+            [
+              1,
+              0.0532,
+              0.2042
+            ]
+          ]
+        ],
+        [
+          "Q19(b)(i)",
+          [
+            [
+              1,
+              0.2108,
+              0.4292
+            ],
+            [
+              2,
+              0.0513,
+              0.6591
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1129,6 +1884,55 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-18.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-19.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8281,
+          0.9259
+        ],
+        [
+          3,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.6011,
+              0.6201
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              0,
+              0.9164,
+              0.9354
+            ],
+            [
+              1,
+              0.0532,
+              0.2042
+            ]
+          ]
+        ],
+        [
+          "Q19(b)(ii)",
+          [
+            [
+              2,
+              0.6629,
+              0.7417
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1156,6 +1960,35 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-18.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-19.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1918,
+          0.245
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.6011,
+              0.6201
+            ]
+          ]
+        ],
+        [
+          "Q19(c)",
+          [
+            [
+              3,
+              0.17,
+              0.189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1189,6 +2022,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q19-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2517,
+          0.4084
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.6011,
+              0.6201
+            ]
+          ]
+        ],
+        [
+          "Q19(c)",
+          [
+            [
+              3,
+              0.17,
+              0.189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1217,6 +2079,35 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-18.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-19.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-20.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.5546,
+          0.6819
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.6011,
+              0.6201
+            ]
+          ]
+        ],
+        [
+          "Q19(c)",
+          [
+            [
+              3,
+              0.17,
+              0.189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1247,6 +2138,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8775,
+          0.8946
+        ],
+        [
+          1,
+          0.0522,
+          0.3067
+        ]
       ]
     },
     {
@@ -1276,6 +2179,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8585,
+          0.9193
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.4577,
+              0.849
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1304,6 +2226,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.0722
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.4577,
+              0.849
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1335,6 +2276,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q21-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3647,
+          0.5935
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.4577,
+              0.849
+            ]
+          ]
+        ],
+        [
+          "Q21(c)",
+          [
+            [
+              1,
+              0.3229,
+              0.3713
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1368,6 +2338,35 @@
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q21.jpg",
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q21-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6714,
+          0.9411
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.4577,
+              0.849
+            ]
+          ]
+        ],
+        [
+          "Q21(c)",
+          [
+            [
+              1,
+              0.3229,
+              0.3713
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1400,6 +2399,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q21.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3001,
+          0.4122
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.4577,
+              0.849
+            ]
+          ]
+        ],
+        [
+          "Q21(d)",
+          [
+            [
+              2,
+              0.2783,
+              0.2972
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1430,6 +2458,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q21.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4179,
+          0.5888
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.4577,
+              0.849
+            ]
+          ]
+        ],
+        [
+          "Q21(d)",
+          [
+            [
+              2,
+              0.2783,
+              0.2972
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1458,6 +2515,30 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-24.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-25.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8974,
+          0.9288
+        ],
+        [
+          1,
+          0.0826,
+          0.0912
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.735,
+              0.887
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1485,6 +2566,35 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-24.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-25.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1557,
+          0.1899
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.735,
+              0.887
+            ]
+          ]
+        ],
+        [
+          "Q22(b)",
+          [
+            [
+              1,
+              0.1045,
+              0.1529
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1515,6 +2625,35 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-24.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-25.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4255,
+          0.472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.735,
+              0.887
+            ]
+          ]
+        ],
+        [
+          "Q22(b)",
+          [
+            [
+              1,
+              0.1045,
+              0.1529
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1545,6 +2684,40 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-24.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-25.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8604,
+          0.9288
+        ],
+        [
+          2,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.735,
+              0.887
+            ]
+          ]
+        ],
+        [
+          "Q22(c)",
+          [
+            [
+              1,
+              0.7939,
+              0.8528
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1575,6 +2748,35 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-24.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-25.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1909,
+          0.3153
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.735,
+              0.887
+            ]
+          ]
+        ],
+        [
+          "Q22(c)",
+          [
+            [
+              1,
+              0.7939,
+              0.8528
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1603,6 +2805,35 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-24.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-25.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6116,
+          0.812
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.735,
+              0.887
+            ]
+          ]
+        ],
+        [
+          "Q22(c)",
+          [
+            [
+              1,
+              0.7939,
+              0.8528
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1633,6 +2864,30 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-24.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-25.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8253,
+          0.9297
+        ],
+        [
+          3,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.735,
+              0.887
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1664,6 +2919,40 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-24.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-25.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-26.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1111,
+          0.2127
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.735,
+              0.887
+            ]
+          ]
+        ],
+        [
+          "Q22(d)",
+          [
+            [
+              2,
+              0.8253,
+              0.9297
+            ],
+            [
+              3,
+              0.0608,
+              0.0978
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1693,6 +2982,13 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-28.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5897,
+          0.7569
+        ]
       ]
     },
     {
@@ -1726,6 +3022,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q24.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4777,
+          0.5119
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.9088,
+              0.943
+            ],
+            [
+              1,
+              0.0532,
+              0.4672
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1758,6 +3078,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q24-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6876,
+          0.905
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.9088,
+              0.943
+            ],
+            [
+              1,
+              0.0532,
+              0.4672
+            ]
+          ]
+        ],
+        [
+          "Q24(a)",
+          [
+            [
+              1,
+              0.4777,
+              0.5119
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1789,6 +3143,45 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-28.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.075,
+          0.094
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.9088,
+              0.943
+            ],
+            [
+              1,
+              0.0532,
+              0.4672
+            ]
+          ]
+        ],
+        [
+          "Q24(c)",
+          [
+            [
+              1,
+              0.9183,
+              0.9373
+            ],
+            [
+              2,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1820,6 +3213,45 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-28.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2555,
+          0.5138
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.9088,
+              0.943
+            ],
+            [
+              1,
+              0.0532,
+              0.4672
+            ]
+          ]
+        ],
+        [
+          "Q24(c)",
+          [
+            [
+              1,
+              0.9183,
+              0.9373
+            ],
+            [
+              2,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1853,6 +3285,40 @@
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q24.jpg",
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q24-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5992,
+          0.7407
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.9088,
+              0.943
+            ],
+            [
+              1,
+              0.0532,
+              0.4672
+            ]
+          ]
+        ],
+        [
+          "Q24(d)",
+          [
+            [
+              2,
+              0.5261,
+              0.5964
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1885,6 +3351,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q24-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7464,
+          0.8879
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.9088,
+              0.943
+            ],
+            [
+              1,
+              0.0532,
+              0.4672
+            ]
+          ]
+        ],
+        [
+          "Q24(d)",
+          [
+            [
+              2,
+              0.5261,
+              0.5964
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1915,6 +3415,45 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-28.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8936,
+          0.9278
+        ],
+        [
+          3,
+          0.0532,
+          0.2308
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.9088,
+              0.943
+            ],
+            [
+              1,
+              0.0532,
+              0.4672
+            ]
+          ]
+        ],
+        [
+          "Q24(d)",
+          [
+            [
+              2,
+              0.5261,
+              0.5964
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1945,6 +3484,40 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-28.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2659,
+          0.2858
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.9088,
+              0.943
+            ],
+            [
+              1,
+              0.0532,
+              0.4672
+            ]
+          ]
+        ],
+        [
+          "Q24(e)",
+          [
+            [
+              3,
+              0.2431,
+              0.2631
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1980,6 +3553,60 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q24-4.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.3704,
+          0.9411
+        ],
+        [
+          4,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.9088,
+              0.943
+            ],
+            [
+              1,
+              0.0532,
+              0.4672
+            ]
+          ]
+        ],
+        [
+          "Q24(d)",
+          [
+            [
+              2,
+              0.5261,
+              0.9278
+            ],
+            [
+              3,
+              0.0532,
+              0.2308
+            ]
+          ]
+        ],
+        [
+          "Q24(e)",
+          [
+            [
+              3,
+              0.2431,
+              0.2631
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2011,6 +3638,30 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-28.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-29.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.0817,
+          0.1235
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.9088,
+              0.943
+            ],
+            [
+              1,
+              0.0532,
+              0.4672
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2036,6 +3687,13 @@
       ],
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4255,
+          0.5318
+        ]
       ]
     },
     {
@@ -2064,6 +3722,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6857,
+          0.8613
+        ]
       ]
     },
     {
@@ -2092,6 +3757,13 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-32.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-33.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.169,
+          0.2896
+        ]
       ]
     },
     {
@@ -2125,6 +3797,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q28.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0522,
+          0.0722
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.4444,
+              0.5954
+            ]
+          ]
+        ],
+        [
+          "Q28(a)",
+          [
+            [
+              0,
+              0.6059,
+              0.9487
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2154,6 +3855,45 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-32.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-33.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1425,
+          0.358
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.4444,
+              0.5954
+            ]
+          ]
+        ],
+        [
+          "Q28(a)",
+          [
+            [
+              0,
+              0.6059,
+              0.9487
+            ]
+          ]
+        ],
+        [
+          "Q28(a)(i)",
+          [
+            [
+              1,
+              0.0522,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2185,6 +3925,35 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-32.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-33.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3637,
+          0.4264
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.4444,
+              0.5954
+            ]
+          ]
+        ],
+        [
+          "Q28(a)",
+          [
+            [
+              0,
+              0.6059,
+              0.9487
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2218,6 +3987,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q28-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.793,
+          0.8613
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.4444,
+              0.5954
+            ]
+          ]
+        ],
+        [
+          "Q28(b)",
+          [
+            [
+              1,
+              0.5964,
+              0.7968
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2251,6 +4049,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q28-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.867,
+          0.9354
+        ],
+        [
+          2,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.4444,
+              0.5954
+            ]
+          ]
+        ],
+        [
+          "Q28(b)",
+          [
+            [
+              1,
+              0.5964,
+              0.7968
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2279,6 +4111,35 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-32.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-33.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2802,
+          0.3286
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.4444,
+              0.5954
+            ]
+          ]
+        ],
+        [
+          "Q28(b)",
+          [
+            [
+              1,
+              0.5964,
+              0.7968
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2310,6 +4171,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q28-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4226,
+          0.6933
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.4444,
+              0.5954
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2340,6 +4220,30 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-32.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-33.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7873,
+          0.8405
+        ],
+        [
+          3,
+          0.0532,
+          0.4872
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.4444,
+              0.5954
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2367,6 +4271,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7939,
+          0.8547
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.6334,
+              0.7844
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2393,6 +4316,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8604,
+          0.8917
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.6334,
+              0.7844
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2422,6 +4364,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0826,
+          0.2175
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.6334,
+              0.7844
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2450,6 +4411,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2241,
+          0.4672
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.6334,
+              0.7844
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2479,6 +4459,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4805,
+          0.6458
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.6334,
+              0.7844
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2506,6 +4505,25 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-34.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6524,
+          0.793
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.6334,
+              0.7844
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2532,6 +4550,25 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-35.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1481,
+          0.2545
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              1,
+              0.1187,
+              0.1377
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2561,6 +4598,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2754,
+          0.8642
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              1,
+              0.1187,
+              0.1377
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2588,6 +4644,35 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-37.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1709,
+          0.2688
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.1197,
+              0.1387
+            ]
+          ]
+        ],
+        [
+          "Q31(a)",
+          [
+            [
+              0,
+              0.1491,
+              0.1681
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2613,6 +4698,45 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-37.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2754,
+          0.358
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.1197,
+              0.1387
+            ]
+          ]
+        ],
+        [
+          "Q31(a)",
+          [
+            [
+              0,
+              0.1491,
+              0.1681
+            ]
+          ]
+        ],
+        [
+          "Q31(a)(i)",
+          [
+            [
+              0,
+              0.1709,
+              0.2688
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2640,6 +4764,25 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-37.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3704,
+          0.4758
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.1197,
+              0.1387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2671,6 +4814,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4815,
+          0.9069
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.1197,
+              0.1387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2699,6 +4861,40 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-37.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9088,
+          0.943
+        ],
+        [
+          1,
+          0.0532,
+          0.2526
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.1197,
+              0.1387
+            ]
+          ]
+        ],
+        [
+          "Q31(b)(ii)",
+          [
+            [
+              0,
+              0.4815,
+              0.9069
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2726,6 +4922,13 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-39.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4482,
+          0.5394
+        ]
       ]
     },
     {
@@ -2754,6 +4957,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8471,
+          0.9079
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.6942,
+              0.8376
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2781,6 +5003,35 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-39.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1064
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.6942,
+              0.8376
+            ]
+          ]
+        ],
+        [
+          "Q33(b)",
+          [
+            [
+              0,
+              0.9212,
+              0.9402
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2811,6 +5062,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1121,
+          0.3238
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.6942,
+              0.8376
+            ]
+          ]
+        ],
+        [
+          "Q33(b)",
+          [
+            [
+              0,
+              0.9212,
+              0.9402
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2843,6 +5123,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q33-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4796,
+          0.698
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.6942,
+              0.8376
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2874,6 +5173,30 @@
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q33.jpg",
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q33-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9193,
+          0.9383
+        ],
+        [
+          2,
+          0.0665,
+          0.3409
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.6942,
+              0.8376
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2902,6 +5225,55 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-38.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-39.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-40.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3542,
+          0.4463
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.6942,
+              0.8376
+            ]
+          ]
+        ],
+        [
+          "Q33(b)",
+          [
+            [
+              0,
+              0.9212,
+              0.9402
+            ],
+            [
+              1,
+              0.0532,
+              0.3238
+            ]
+          ]
+        ],
+        [
+          "Q33(c)",
+          [
+            [
+              1,
+              0.4796,
+              0.9383
+            ],
+            [
+              2,
+              0.0665,
+              0.3409
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2935,6 +5307,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6192,
+          0.7056
+        ],
+        [
+          1,
+          0.056,
+          0.5708
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.5897,
+              0.6087
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2968,6 +5364,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q34-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6363,
+          0.9459
+        ],
+        [
+          2,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.5897,
+              0.6087
+            ]
+          ]
+        ],
+        [
+          "Q34(b)",
+          [
+            [
+              1,
+              0.584,
+              0.6401
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2998,6 +5428,35 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-41.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-42.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-43.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2213,
+          0.4065
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.5897,
+              0.6087
+            ]
+          ]
+        ],
+        [
+          "Q34(b)",
+          [
+            [
+              1,
+              0.584,
+              0.6401
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3028,6 +5487,35 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-41.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-42.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-43.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4416,
+          0.5242
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.5897,
+              0.6087
+            ]
+          ]
+        ],
+        [
+          "Q34(c)",
+          [
+            [
+              2,
+              0.4198,
+              0.4387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3062,6 +5550,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10AB-Halogenoalkanes-Q34-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5309,
+          0.9307
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.5897,
+              0.6087
+            ]
+          ]
+        ],
+        [
+          "Q34(c)",
+          [
+            [
+              2,
+              0.4198,
+              0.4387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3091,6 +5608,35 @@
         "papers/chemistry/img/10AB-Halogenoalkanes-41.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-42.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-43.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.0532,
+          0.2089
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.5897,
+              0.6087
+            ]
+          ]
+        ],
+        [
+          "Q34(c)",
+          [
+            [
+              2,
+              0.4198,
+              0.4387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3118,6 +5664,25 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-43.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4492,
+          0.5736
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.4046,
+              0.4378
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3146,6 +5711,25 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-43.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5916,
+          0.716
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.4046,
+              0.4378
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3171,6 +5755,25 @@
       "images": [
         "papers/chemistry/img/10AB-Halogenoalkanes-43.jpg",
         "papers/chemistry/img/10AB-Halogenoalkanes-44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7341,
+          0.8433
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.4046,
+              0.4378
+            ]
+          ]
+        ]
       ]
     }
   ]

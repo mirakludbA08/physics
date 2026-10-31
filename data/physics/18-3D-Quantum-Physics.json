@@ -32,6 +32,13 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-01.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1225,
+          0.2764
+        ]
       ]
     },
     {
@@ -62,6 +69,18 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-01.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4283,
+          0.943
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
       ]
     },
     {
@@ -93,6 +112,13 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3324,
+          0.8965
+        ]
       ]
     },
     {
@@ -121,6 +147,25 @@
       ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3115,
+          0.5622
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.1643,
+              0.301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -150,6 +195,25 @@
       ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5755,
+          0.8272
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.1643,
+              0.301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -177,6 +241,13 @@
         "papers/physics/img/18-3D-Quantum-Physics-04.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-05.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.0902,
+          0.3989
+        ]
       ]
     },
     {
@@ -207,6 +278,13 @@
         "papers/physics/img/18-3D-Quantum-Physics-04.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-05.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.585,
+          0.679
+        ]
       ]
     },
     {
@@ -240,6 +318,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2279,
+          0.4349
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.831,
+              0.8623
+            ],
+            [
+              1,
+              0.0513,
+              0.2175
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -271,6 +373,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4482,
+          0.6866
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.831,
+              0.8623
+            ],
+            [
+              1,
+              0.0513,
+              0.2175
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -304,6 +430,35 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q7.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6971,
+          0.9221
+        ],
+        [
+          2,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.831,
+              0.8623
+            ],
+            [
+              1,
+              0.0513,
+              0.2175
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -333,6 +488,18 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3618,
+          0.4549
+        ],
+        [
+          1,
+          0.0513,
+          0.7056
+        ]
       ]
     },
     {
@@ -363,6 +530,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q9.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1225,
+          0.359
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.8414,
+              0.8898
+            ],
+            [
+              1,
+              0.0513,
+              0.113
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -390,6 +581,30 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-07.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3723,
+          0.4615
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.8414,
+              0.8898
+            ],
+            [
+              1,
+              0.0513,
+              0.113
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -417,6 +632,25 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-08.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7939,
+          0.8832
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.6087,
+              0.7835
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -447,6 +681,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8955,
+          0.9307
+        ],
+        [
+          1,
+          0.0532,
+          0.2526
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.6087,
+              0.7835
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -478,6 +736,35 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3029,
+          0.5613
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.6087,
+              0.7835
+            ]
+          ]
+        ],
+        [
+          "Q10(c)",
+          [
+            [
+              1,
+              0.2659,
+              0.3001
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -505,6 +792,35 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-08.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5679,
+          0.7388
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.6087,
+              0.7835
+            ]
+          ]
+        ],
+        [
+          "Q10(c)",
+          [
+            [
+              1,
+              0.2659,
+              0.3001
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -533,6 +849,18 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-09.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.886,
+          0.9326
+        ],
+        [
+          1,
+          0.0513,
+          0.1339
+        ]
       ]
     },
     {
@@ -563,6 +891,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q12-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9288,
+          0.9478
+        ],
+        [
+          1,
+          0.0826,
+          0.1785
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.2953,
+              0.9183
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -593,6 +945,25 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1918,
+          0.8281
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.2953,
+              0.9183
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -622,6 +993,35 @@
         "papers/physics/img/18-3D-Quantum-Physics-12.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-13.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1861,
+          0.3894
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.0902,
+              0.1092
+            ]
+          ]
+        ],
+        [
+          "Q13(a)",
+          [
+            [
+              0,
+              0.1197,
+              0.1899
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -651,6 +1051,35 @@
         "papers/physics/img/18-3D-Quantum-Physics-12.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-13.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3932,
+          0.5489
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.0902,
+              0.1092
+            ]
+          ]
+        ],
+        [
+          "Q13(a)",
+          [
+            [
+              0,
+              0.1197,
+              0.1899
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -680,6 +1109,25 @@
         "papers/physics/img/18-3D-Quantum-Physics-12.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-13.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5622,
+          0.7255
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.0902,
+              0.1092
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -714,6 +1162,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2498,
+          0.4862
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.8718,
+              0.9326
+            ],
+            [
+              1,
+              0.0532,
+              0.2365
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -748,6 +1220,35 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4986,
+          0.9221
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.8718,
+              0.9326
+            ],
+            [
+              1,
+              0.0532,
+              0.2365
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -776,6 +1277,13 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-14.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.245,
+          0.4482
+        ]
       ]
     },
     {
@@ -807,6 +1315,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0969,
+          0.245
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.6068,
+              0.925
+            ],
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -835,6 +1367,40 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-14.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2811,
+          0.585
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.6068,
+              0.925
+            ],
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.2574,
+              0.2773
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -863,6 +1429,40 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-14.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5888,
+          0.8338
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.6068,
+              0.925
+            ],
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.2574,
+              0.2773
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -891,6 +1491,25 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-16.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1339,
+          0.4008
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.0902,
+              0.1244
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -919,6 +1538,25 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-16.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4141,
+          0.7426
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.0902,
+              0.1244
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -950,6 +1588,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7531,
+          0.9487
+        ],
+        [
+          1,
+          0.0532,
+          0.2972
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.0902,
+              0.1244
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -981,6 +1643,25 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-17.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4881,
+          0.8851
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.4435,
+              0.4777
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1009,6 +1690,30 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-17.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8984,
+          0.9392
+        ],
+        [
+          1,
+          0.0826,
+          0.1785
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.4435,
+              0.4777
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1036,6 +1741,13 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-18.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3751,
+          0.6211
+        ]
       ]
     },
     {
@@ -1064,6 +1776,30 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-18.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8025,
+          0.9212
+        ],
+        [
+          1,
+          0.0608,
+          0.2754
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7588,
+              0.792
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1092,6 +1828,25 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-18.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2868,
+          0.5973
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7588,
+              0.792
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1122,6 +1877,18 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.793,
+          0.812
+        ],
+        [
+          1,
+          0.0513,
+          0.7341
+        ]
       ]
     },
     {
@@ -1153,6 +1920,13 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.6144
+        ]
       ]
     },
     {
@@ -1181,6 +1955,30 @@
         "papers/physics/img/18-3D-Quantum-Physics-21.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-22.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8291,
+          0.9193
+        ],
+        [
+          1,
+          0.0608,
+          0.2184
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.7692,
+              0.8186
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1210,6 +2008,25 @@
         "papers/physics/img/18-3D-Quantum-Physics-21.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-22.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2279,
+          0.4672
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.7692,
+              0.8186
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1239,6 +2056,35 @@
         "papers/physics/img/18-3D-Quantum-Physics-21.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-22.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5147,
+          0.6876
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.7692,
+              0.8186
+            ]
+          ]
+        ],
+        [
+          "Q23(c)",
+          [
+            [
+              1,
+              0.4777,
+              0.509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1268,6 +2114,35 @@
         "papers/physics/img/18-3D-Quantum-Physics-21.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-22.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6914,
+          0.8034
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.7692,
+              0.8186
+            ]
+          ]
+        ],
+        [
+          "Q23(c)",
+          [
+            [
+              1,
+              0.4777,
+              0.509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1297,6 +2172,30 @@
         "papers/physics/img/18-3D-Quantum-Physics-21.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-22.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8167,
+          0.9364
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.7692,
+              0.8186
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1328,6 +2227,13 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.245,
+          0.9126
+        ]
       ]
     },
     {
@@ -1356,6 +2262,13 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-24.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1643,
+          0.2877
+        ]
       ]
     },
     {
@@ -1384,6 +2297,13 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-24.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4245,
+          0.6173
+        ]
       ]
     },
     {
@@ -1409,6 +2329,18 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-24.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8186,
+          0.8661
+        ],
+        [
+          1,
+          0.0522,
+          0.2953
+        ]
       ]
     },
     {
@@ -1443,6 +2375,30 @@
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q28-2.jpg",
         "papers/physics/fig/18-3D-Quantum-Physics-Q28-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4454,
+          0.7835
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.4321,
+              0.9269
+            ],
+            [
+              1,
+              0.0532,
+              0.4321
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1475,6 +2431,35 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q28.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7968,
+          0.8462
+        ],
+        [
+          2,
+          0.0513,
+          0.5261
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.4321,
+              0.9269
+            ],
+            [
+              1,
+              0.0532,
+              0.4321
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1503,6 +2488,30 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-27.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.717,
+          0.9383
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.6724,
+              0.7066
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1535,6 +2544,25 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1111,
+          0.7911
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.6724,
+              0.7066
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1564,6 +2592,13 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.4349
+        ]
       ]
     },
     {
@@ -1593,6 +2628,18 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5888,
+          0.9278
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
       ]
     },
     {
@@ -1624,6 +2671,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6211,
+          0.9278
+        ],
+        [
+          1,
+          0.0608,
+          0.2469
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.3618,
+              0.6106
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1652,6 +2723,25 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-30.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2574,
+          0.4644
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.3618,
+              0.6106
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1680,6 +2770,25 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-30.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4777,
+          0.641
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.3618,
+              0.6106
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1708,6 +2817,25 @@
         "papers/physics/img/18-3D-Quantum-Physics-31.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-32.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8319,
+          0.9212
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.7873,
+              0.8186
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1742,6 +2870,25 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.5907
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.7873,
+              0.8186
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1774,6 +2921,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q33-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.604,
+          0.9468
+        ],
+        [
+          2,
+          0.0522,
+          0.3789
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.7873,
+              0.8186
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1804,6 +2975,13 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-33.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5261,
+          0.9373
+        ]
       ]
     },
     {
@@ -1832,6 +3010,13 @@
         "papers/physics/img/18-3D-Quantum-Physics-34.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-35.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2355,
+          0.4207
+        ]
       ]
     },
     {
@@ -1865,6 +3050,30 @@
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q36.jpg",
         "papers/physics/fig/18-3D-Quantum-Physics-Q36-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6125,
+          0.6581
+        ],
+        [
+          1,
+          0.0513,
+          0.7284
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.5831,
+              0.6021
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1894,6 +3103,30 @@
         "papers/physics/img/18-3D-Quantum-Physics-34.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-35.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7417,
+          0.9345
+        ],
+        [
+          2,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.5831,
+              0.6021
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1923,6 +3156,25 @@
         "papers/physics/img/18-3D-Quantum-Physics-34.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-35.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-36.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1994,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.5831,
+              0.6021
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1950,6 +3202,13 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-36.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5575,
+          0.8129
+        ]
       ]
     },
     {
@@ -1980,6 +3239,13 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q38.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1244,
+          0.4387
+        ]
       ]
     },
     {
@@ -2005,6 +3271,13 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-37.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6458,
+          0.9383
+        ]
       ]
     },
     {
@@ -2032,6 +3305,25 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-38.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2308,
+          0.453
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.1861,
+              0.2203
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2063,6 +3355,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4653,
+          0.9345
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.1861,
+              0.2203
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2096,6 +3412,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6429,
+          0.924
+        ],
+        [
+          1,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.2156,
+              0.6334
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2127,6 +3467,25 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q41-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.17,
+          0.547
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.2156,
+              0.6334
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2155,6 +3514,40 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-40.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7759,
+          0.9316
+        ],
+        [
+          1,
+          0.0608,
+          0.1595
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.6942,
+              0.7284
+            ]
+          ]
+        ],
+        [
+          "Q42(a)",
+          [
+            [
+              0,
+              0.7388,
+              0.7721
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2182,6 +3575,35 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-40.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-41.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1624,
+          0.3191
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.6942,
+              0.7284
+            ]
+          ]
+        ],
+        [
+          "Q42(a)",
+          [
+            [
+              0,
+              0.7388,
+              0.7721
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2209,6 +3631,35 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-40.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-41.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3542,
+          0.5537
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.6942,
+              0.7284
+            ]
+          ]
+        ],
+        [
+          "Q42(b)",
+          [
+            [
+              1,
+              0.3324,
+              0.3514
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2236,6 +3687,35 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-40.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-41.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5594,
+          0.7009
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.6942,
+              0.7284
+            ]
+          ]
+        ],
+        [
+          "Q42(b)",
+          [
+            [
+              1,
+              0.3324,
+              0.3514
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2263,6 +3743,18 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-41.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8471,
+          0.9221
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
       ]
     },
     {
@@ -2291,6 +3783,13 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3818,
+          0.8452
+        ]
       ]
     },
     {
@@ -2318,6 +3817,25 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-43.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1111,
+          0.2716
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45(a)",
+          [
+            [
+              0,
+              0.0902,
+              0.1092
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2349,6 +3867,25 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2745,
+          0.773
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45(a)",
+          [
+            [
+              0,
+              0.0902,
+              0.1092
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2377,6 +3914,18 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-43.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7854,
+          0.9345
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
       ]
     },
     {
@@ -2405,6 +3954,13 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-43.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-44.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1994,
+          0.4217
+        ]
       ]
     },
     {
@@ -2437,6 +3993,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q46-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8699,
+          0.9449
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.5689,
+              0.8604
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2469,6 +4049,25 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q46-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1994,
+          0.5128
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.5689,
+              0.8604
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2501,6 +4100,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q46.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5223,
+          0.9345
+        ],
+        [
+          2,
+          0.0532,
+          0.3143
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.5689,
+              0.8604
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2533,6 +4156,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7987,
+          0.9326
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.4577,
+              0.7882
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2562,6 +4209,35 @@
         "papers/physics/img/18-3D-Quantum-Physics-46.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-47.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-48.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1339,
+          0.3656
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.4577,
+              0.7882
+            ]
+          ]
+        ],
+        [
+          "Q47(b)",
+          [
+            [
+              1,
+              0.1111,
+              0.1301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2593,6 +4269,35 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q47.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3685,
+          0.51
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.4577,
+              0.7882
+            ]
+          ]
+        ],
+        [
+          "Q47(b)",
+          [
+            [
+              1,
+              0.1111,
+              0.1301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2621,6 +4326,35 @@
         "papers/physics/img/18-3D-Quantum-Physics-46.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-47.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-48.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5594,
+          0.7768
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.4577,
+              0.7882
+            ]
+          ]
+        ],
+        [
+          "Q47(c)",
+          [
+            [
+              1,
+              0.5214,
+              0.5613
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2650,6 +4384,40 @@
         "papers/physics/img/18-3D-Quantum-Physics-46.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-47.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-48.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7806,
+          0.9364
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.4577,
+              0.7882
+            ]
+          ]
+        ],
+        [
+          "Q47(c)",
+          [
+            [
+              1,
+              0.5214,
+              0.5613
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2678,6 +4446,13 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-48.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-49.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3238,
+          0.6201
+        ]
       ]
     },
     {
@@ -2703,6 +4478,18 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-48.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-49.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8234,
+          0.8718
+        ],
+        [
+          1,
+          0.0522,
+          0.2925
+        ]
       ]
     },
     {
@@ -2731,6 +4518,13 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-49.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-50.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4786,
+          0.5992
+        ]
       ]
     },
     {
@@ -2757,6 +4551,18 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-49.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-50.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8034,
+          0.8632
+        ],
+        [
+          1,
+          0.0522,
+          0.5907
+        ]
       ]
     },
     {
@@ -2785,6 +4591,18 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-50.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7768,
+          0.7958
+        ],
+        [
+          1,
+          0.0522,
+          0.3951
+        ]
       ]
     },
     {
@@ -2815,6 +4633,35 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q53.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7749,
+          0.9126
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.5499,
+              0.5812
+            ]
+          ]
+        ],
+        [
+          "Q53(a)",
+          [
+            [
+              0,
+              0.5945,
+              0.7645
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2848,6 +4695,40 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q53.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9231,
+          0.9421
+        ],
+        [
+          1,
+          0.0532,
+          0.4283
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.5499,
+              0.5812
+            ]
+          ]
+        ],
+        [
+          "Q53(a)",
+          [
+            [
+              0,
+              0.5945,
+              0.7645
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2876,6 +4757,35 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-51.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-52.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4777,
+          0.6933
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.5499,
+              0.5812
+            ]
+          ]
+        ],
+        [
+          "Q53(b)",
+          [
+            [
+              1,
+              0.4416,
+              0.472
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2903,6 +4813,35 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-51.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-52.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.698,
+          0.8718
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.5499,
+              0.5812
+            ]
+          ]
+        ],
+        [
+          "Q53(b)",
+          [
+            [
+              1,
+              0.4416,
+              0.472
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2931,6 +4870,25 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-53.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-54.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1937,
+          0.4008
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.1197,
+              0.1804
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2959,6 +4917,25 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-53.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-54.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4141,
+          0.5774
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.1197,
+              0.1804
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2987,6 +4964,25 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-53.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-54.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5907,
+          0.7692
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.1197,
+              0.1804
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3018,6 +5014,18 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q55.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9155,
+          0.9345
+        ],
+        [
+          1,
+          0.0532,
+          0.3998
+        ]
       ]
     },
     {
@@ -3050,6 +5058,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q56.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7939,
+          0.9278
+        ],
+        [
+          1,
+          0.0608,
+          0.1301
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.5461,
+              0.7835
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3084,6 +5116,25 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q56.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1406,
+          0.5546
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.5461,
+              0.7835
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3118,6 +5169,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q56-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5679,
+          0.9316
+        ],
+        [
+          2,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.5461,
+              0.7835
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3145,6 +5220,13 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-56.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-57.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4872,
+          0.6249
+        ]
       ]
     },
     {
@@ -3174,6 +5256,18 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q58.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8262,
+          0.8452
+        ],
+        [
+          1,
+          0.0513,
+          0.4511
+        ]
       ]
     },
     {
@@ -3201,6 +5295,13 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-57.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-58.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6686,
+          0.7635
+        ]
       ]
     },
     {
@@ -3228,6 +5329,13 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-57.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-58.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0855,
+          0.1795
+        ]
       ]
     },
     {
@@ -3253,6 +5361,13 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-58.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-59.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3789,
+          0.6724
+        ]
       ]
     },
     {
@@ -3283,6 +5398,18 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q62.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8756,
+          0.9468
+        ],
+        [
+          1,
+          0.0522,
+          0.5366
+        ]
       ]
     },
     {
@@ -3310,6 +5437,13 @@
       ],
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-59.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7246,
+          0.8158
+        ]
       ]
     },
     {
@@ -3338,6 +5472,25 @@
         "papers/physics/img/18-3D-Quantum-Physics-60.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-61.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-62.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1928,
+          0.3409
+        ]
+      ],
+      "ctx": [
+        [
+          "Q64",
+          [
+            [
+              0,
+              0.0902,
+              0.1823
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3366,6 +5519,25 @@
         "papers/physics/img/18-3D-Quantum-Physics-60.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-61.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-62.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3542,
+          0.5176
+        ]
+      ],
+      "ctx": [
+        [
+          "Q64",
+          [
+            [
+              0,
+              0.0902,
+              0.1823
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3396,6 +5568,25 @@
         "papers/physics/img/18-3D-Quantum-Physics-60.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-61.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-62.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5309,
+          0.7673
+        ]
+      ],
+      "ctx": [
+        [
+          "Q64",
+          [
+            [
+              0,
+              0.0902,
+              0.1823
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3428,6 +5619,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q64-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7806,
+          0.7996
+        ],
+        [
+          1,
+          0.0513,
+          0.5081
+        ]
+      ],
+      "ctx": [
+        [
+          "Q64",
+          [
+            [
+              0,
+              0.0902,
+              0.1823
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3460,6 +5675,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q64.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5185,
+          0.9354
+        ],
+        [
+          2,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q64",
+          [
+            [
+              0,
+              0.0902,
+              0.1823
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3490,6 +5729,13 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q65.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4577,
+          0.698
+        ]
       ]
     },
     {
@@ -3516,6 +5762,18 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-62.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-63.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9126,
+          0.944
+        ],
+        [
+          1,
+          0.0532,
+          0.3124
+        ]
       ]
     },
     {
@@ -3549,6 +5807,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q67-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7474,
+          0.925
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q67",
+          [
+            [
+              0,
+              0.4492,
+              0.7369
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3582,6 +5864,25 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q67-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1111,
+          0.7664
+        ]
+      ],
+      "ctx": [
+        [
+          "Q67",
+          [
+            [
+              0,
+              0.4492,
+              0.7369
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3614,6 +5915,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q67.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7797,
+          0.7987
+        ],
+        [
+          2,
+          0.0513,
+          0.6011
+        ]
+      ],
+      "ctx": [
+        [
+          "Q67",
+          [
+            [
+              0,
+              0.4492,
+              0.7369
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3641,6 +5966,18 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-65.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-66.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7977,
+          0.943
+        ],
+        [
+          1,
+          0.0513,
+          0.0883
+        ]
       ]
     },
     {
@@ -3671,6 +6008,13 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q69.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2915,
+          0.6752
+        ]
       ]
     },
     {
@@ -3698,6 +6042,18 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-66.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-67.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8281,
+          0.9335
+        ],
+        [
+          1,
+          0.0608,
+          0.1595
+        ]
       ]
     },
     {
@@ -3729,6 +6085,30 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q71.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6771,
+          0.6961
+        ],
+        [
+          1,
+          0.0627,
+          0.6401
+        ]
+      ],
+      "ctx": [
+        [
+          "Q71",
+          [
+            [
+              0,
+              0.3039,
+              0.6667
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3757,6 +6137,25 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-67.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-68.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6534,
+          0.8167
+        ]
+      ],
+      "ctx": [
+        [
+          "Q71",
+          [
+            [
+              0,
+              0.3039,
+              0.6667
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3789,6 +6188,25 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q72.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3932,
+          0.5413
+        ]
+      ],
+      "ctx": [
+        [
+          "Q72",
+          [
+            [
+              1,
+              0.075,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3821,6 +6239,35 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q72.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5755,
+          0.8348
+        ]
+      ],
+      "ctx": [
+        [
+          "Q72",
+          [
+            [
+              1,
+              0.075,
+              0.3827
+            ]
+          ]
+        ],
+        [
+          "Q72(b)",
+          [
+            [
+              1,
+              0.5546,
+              0.5736
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3853,6 +6300,40 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q72-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8405,
+          0.8746
+        ],
+        [
+          2,
+          0.0513,
+          0.5128
+        ]
+      ],
+      "ctx": [
+        [
+          "Q72",
+          [
+            [
+              1,
+              0.075,
+              0.3827
+            ]
+          ]
+        ],
+        [
+          "Q72(b)",
+          [
+            [
+              1,
+              0.5546,
+              0.5736
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3882,6 +6363,25 @@
         "papers/physics/img/18-3D-Quantum-Physics-70.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-71.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-72.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6885,
+          0.8965
+        ]
+      ],
+      "ctx": [
+        [
+          "Q73",
+          [
+            [
+              0,
+              0.6591,
+              0.6781
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3913,6 +6413,40 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q73.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4169,
+          0.6752
+        ]
+      ],
+      "ctx": [
+        [
+          "Q73",
+          [
+            [
+              0,
+              0.6591,
+              0.6781
+            ]
+          ]
+        ],
+        [
+          "Q73(b)",
+          [
+            [
+              0,
+              0.9098,
+              0.944
+            ],
+            [
+              1,
+              0.0532,
+              0.4207
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3942,6 +6476,45 @@
         "papers/physics/img/18-3D-Quantum-Physics-70.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-71.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-72.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6809,
+          0.925
+        ],
+        [
+          2,
+          0.0532,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q73",
+          [
+            [
+              0,
+              0.6591,
+              0.6781
+            ]
+          ]
+        ],
+        [
+          "Q73(b)",
+          [
+            [
+              0,
+              0.9098,
+              0.944
+            ],
+            [
+              1,
+              0.0532,
+              0.4207
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3971,6 +6544,25 @@
         "papers/physics/img/18-3D-Quantum-Physics-70.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-71.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-72.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0817,
+          0.245
+        ]
+      ],
+      "ctx": [
+        [
+          "Q73",
+          [
+            [
+              0,
+              0.6591,
+              0.6781
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4000,6 +6592,25 @@
         "papers/physics/img/18-3D-Quantum-Physics-70.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-71.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-72.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2583,
+          0.4217
+        ]
+      ],
+      "ctx": [
+        [
+          "Q73",
+          [
+            [
+              0,
+              0.6591,
+              0.6781
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4026,6 +6637,13 @@
       "images": [
         "papers/physics/img/18-3D-Quantum-Physics-72.jpg",
         "papers/physics/img/18-3D-Quantum-Physics-73.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6344,
+          0.8034
+        ]
       ]
     },
     {
@@ -4056,6 +6674,13 @@
       ],
       "figures": [
         "papers/physics/fig/18-3D-Quantum-Physics-Q75.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1415,
+          0.604
+        ]
       ]
     }
   ]

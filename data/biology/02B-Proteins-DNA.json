@@ -38,6 +38,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.603,
+          0.6401
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.246,
+              0.4739
+            ]
+          ]
+        ],
+        [
+          "Q1(a)",
+          [
+            [
+              0,
+              0.4862,
+              0.5926
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -73,6 +102,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6847,
+          0.9307
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.246,
+              0.4739
+            ]
+          ]
+        ],
+        [
+          "Q1(a)",
+          [
+            [
+              0,
+              0.4862,
+              0.5926
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -108,6 +166,30 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9468,
+          0.9592
+        ],
+        [
+          1,
+          0.0741,
+          0.3438
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.246,
+              0.4739
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -138,6 +220,35 @@
         "papers/biology/img/02B-Proteins-DNA-01.jpg",
         "papers/biology/img/02B-Proteins-DNA-02.jpg",
         "papers/biology/img/02B-Proteins-DNA-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3913,
+          0.5071
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.246,
+              0.4739
+            ]
+          ]
+        ],
+        [
+          "Q1(c)",
+          [
+            [
+              1,
+              0.359,
+              0.3789
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -169,6 +280,35 @@
         "papers/biology/img/02B-Proteins-DNA-01.jpg",
         "papers/biology/img/02B-Proteins-DNA-02.jpg",
         "papers/biology/img/02B-Proteins-DNA-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5223,
+          0.7683
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.246,
+              0.4739
+            ]
+          ]
+        ],
+        [
+          "Q1(c)",
+          [
+            [
+              1,
+              0.359,
+              0.3789
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -203,6 +343,30 @@
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q1.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q1-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7835,
+          0.8974
+        ],
+        [
+          2,
+          0.0446,
+          0.188
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.246,
+              0.4739
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -241,6 +405,30 @@
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q2.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q2-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8386,
+          0.8889
+        ],
+        [
+          1,
+          0.0446,
+          0.5347
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.4691,
+              0.8281
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -273,6 +461,35 @@
         "papers/biology/img/02B-Proteins-DNA-04.jpg",
         "papers/biology/img/02B-Proteins-DNA-05.jpg",
         "papers/biology/img/02B-Proteins-DNA-06.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6287,
+          0.7104
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.4691,
+              0.8281
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.547,
+              0.6154
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -307,6 +524,40 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7265,
+          0.7787
+        ],
+        [
+          2,
+          0.0446,
+          0.2137
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.4691,
+              0.8281
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.547,
+              0.6154
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -339,6 +590,35 @@
         "papers/biology/img/02B-Proteins-DNA-04.jpg",
         "papers/biology/img/02B-Proteins-DNA-05.jpg",
         "papers/biology/img/02B-Proteins-DNA-06.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2241,
+          0.6486
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.4691,
+              0.8281
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.547,
+              0.6154
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -371,6 +651,35 @@
         "papers/biology/img/02B-Proteins-DNA-04.jpg",
         "papers/biology/img/02B-Proteins-DNA-05.jpg",
         "papers/biology/img/02B-Proteins-DNA-06.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7626,
+          0.8452
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.4691,
+              0.8281
+            ]
+          ]
+        ],
+        [
+          "Q2(c)",
+          [
+            [
+              2,
+              0.6648,
+              0.7502
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -404,6 +713,40 @@
         "papers/biology/img/02B-Proteins-DNA-04.jpg",
         "papers/biology/img/02B-Proteins-DNA-05.jpg",
         "papers/biology/img/02B-Proteins-DNA-06.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8604,
+          0.9269
+        ],
+        [
+          3,
+          0.0741,
+          0.4084
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.4691,
+              0.8281
+            ]
+          ]
+        ],
+        [
+          "Q2(c)",
+          [
+            [
+              2,
+              0.6648,
+              0.7502
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -433,6 +776,25 @@
         "papers/biology/img/02B-Proteins-DNA-06.jpg",
         "papers/biology/img/02B-Proteins-DNA-07.jpg",
         "papers/biology/img/02B-Proteins-DNA-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6695,
+          0.9145
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.6201,
+              0.6534
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -463,6 +825,30 @@
         "papers/biology/img/02B-Proteins-DNA-06.jpg",
         "papers/biology/img/02B-Proteins-DNA-07.jpg",
         "papers/biology/img/02B-Proteins-DNA-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9316,
+          0.9506
+        ],
+        [
+          1,
+          0.0741,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.6201,
+              0.6534
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -494,6 +880,25 @@
         "papers/biology/img/02B-Proteins-DNA-06.jpg",
         "papers/biology/img/02B-Proteins-DNA-07.jpg",
         "papers/biology/img/02B-Proteins-DNA-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0978,
+          0.3438
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.6201,
+              0.6534
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -530,6 +935,30 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.359,
+          0.8936
+        ],
+        [
+          2,
+          0.0446,
+          0.2099
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.6201,
+              0.6534
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -563,6 +992,25 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4549,
+          0.6686
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.4226,
+              0.4387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -597,6 +1045,40 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q4-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0978,
+          0.2127
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.4226,
+              0.4387
+            ]
+          ]
+        ],
+        [
+          "Q4(b)",
+          [
+            [
+              0,
+              0.6809,
+              0.9516
+            ],
+            [
+              1,
+              0.0446,
+              0.0855
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -630,6 +1112,40 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q4-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2289,
+          0.8395
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.4226,
+              0.4387
+            ]
+          ]
+        ],
+        [
+          "Q4(b)",
+          [
+            [
+              0,
+              0.6809,
+              0.9516
+            ],
+            [
+              1,
+              0.0446,
+              0.0855
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -661,6 +1177,30 @@
         "papers/biology/img/02B-Proteins-DNA-08.jpg",
         "papers/biology/img/02B-Proteins-DNA-09.jpg",
         "papers/biology/img/02B-Proteins-DNA-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8547,
+          0.9535
+        ],
+        [
+          2,
+          0.0741,
+          0.3761
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.4226,
+              0.4387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -698,6 +1238,30 @@
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q5.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q5-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4967,
+          0.5793
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.5888,
+              0.7578
+            ],
+            [
+              1,
+              0.0446,
+              0.4843
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -731,6 +1295,40 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6439,
+          0.8898
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.5888,
+              0.7578
+            ],
+            [
+              1,
+              0.0446,
+              0.4843
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              1,
+              0.5945,
+              0.6315
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -767,6 +1365,45 @@
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q5.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q5-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.905,
+          0.9411
+        ],
+        [
+          2,
+          0.0446,
+          0.6049
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.5888,
+              0.7578
+            ],
+            [
+              1,
+              0.0446,
+              0.4843
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              1,
+              0.5945,
+              0.6315
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -798,6 +1435,30 @@
         "papers/biology/img/02B-Proteins-DNA-13.jpg",
         "papers/biology/img/02B-Proteins-DNA-14.jpg",
         "papers/biology/img/02B-Proteins-DNA-15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8813,
+          0.9012
+        ],
+        [
+          1,
+          0.0741,
+          0.2783
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8158,
+              0.8689
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -829,6 +1490,25 @@
         "papers/biology/img/02B-Proteins-DNA-13.jpg",
         "papers/biology/img/02B-Proteins-DNA-14.jpg",
         "papers/biology/img/02B-Proteins-DNA-15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2934,
+          0.4777
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8158,
+              0.8689
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -865,6 +1545,40 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6287,
+          0.6486
+        ],
+        [
+          2,
+          0.0684,
+          0.6771
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8158,
+              0.8689
+            ]
+          ]
+        ],
+        [
+          "Q6(c)",
+          [
+            [
+              1,
+              0.4919,
+              0.6182
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -898,6 +1612,40 @@
         "papers/biology/img/02B-Proteins-DNA-13.jpg",
         "papers/biology/img/02B-Proteins-DNA-14.jpg",
         "papers/biology/img/02B-Proteins-DNA-15.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6923,
+          0.9544
+        ],
+        [
+          3,
+          0.0446,
+          0.7702
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8158,
+              0.8689
+            ]
+          ]
+        ],
+        [
+          "Q6(c)",
+          [
+            [
+              1,
+              0.4919,
+              0.6182
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1082,6 +1830,30 @@
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q8.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q8-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5556,
+          0.7369
+        ],
+        [
+          1,
+          0.0446,
+          0.3542
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5233,
+              0.5432
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1113,6 +1885,25 @@
         "papers/biology/img/02B-Proteins-DNA-20.jpg",
         "papers/biology/img/02B-Proteins-DNA-21.jpg",
         "papers/biology/img/02B-Proteins-DNA-22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3656,
+          0.5508
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5233,
+              0.5432
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1150,6 +1941,30 @@
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q8-3.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q8-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5641,
+          0.8927
+        ],
+        [
+          2,
+          0.0446,
+          0.1852
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5233,
+              0.5432
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1187,6 +2002,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q8-5.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5736,
+          0.8196
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5233,
+              0.5432
+            ]
+          ]
+        ],
+        [
+          "Q8(c)",
+          [
+            [
+              2,
+              0.2023,
+              0.5622
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1224,6 +2068,40 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q8-5.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8348,
+          0.9345
+        ],
+        [
+          4,
+          0.0655,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5233,
+              0.5432
+            ]
+          ]
+        ],
+        [
+          "Q8(c)",
+          [
+            [
+              2,
+              0.2023,
+              0.5622
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1258,6 +2136,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7987,
+          0.8177
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.359,
+              0.4112
+            ]
+          ]
+        ],
+        [
+          "Q9(a)",
+          [
+            [
+              0,
+              0.4245,
+              0.7882
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1294,6 +2201,40 @@
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q9.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8642,
+          0.8832
+        ],
+        [
+          1,
+          0.0446,
+          0.169
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.359,
+              0.4112
+            ]
+          ]
+        ],
+        [
+          "Q9(a)",
+          [
+            [
+              0,
+              0.4245,
+              0.7882
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1329,6 +2270,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q9.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1861,
+          0.4017
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.359,
+              0.4112
+            ]
+          ]
+        ],
+        [
+          "Q9(a)",
+          [
+            [
+              0,
+              0.4245,
+              0.7882
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1366,6 +2336,40 @@
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q9-3.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q9-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1472,
+          0.4786
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.359,
+              0.4112
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.4169,
+              0.9345
+            ],
+            [
+              2,
+              0.0446,
+              0.1339
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1402,6 +2406,45 @@
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q9-5.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q9-6.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.49,
+          0.8993
+        ],
+        [
+          3,
+          0.057,
+          0.3447
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.359,
+              0.4112
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.4169,
+              0.9345
+            ],
+            [
+              2,
+              0.0446,
+              0.1339
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1437,6 +2480,18 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5527,
+          0.7189
+        ],
+        [
+          1,
+          0.0446,
+          0.3865
+        ]
       ]
     },
     {
@@ -1470,6 +2525,30 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q11-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6923,
+          0.9544
+        ],
+        [
+          1,
+          0.0446,
+          0.2165
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.66,
+              0.68
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1534,6 +2613,25 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2308,
+          0.7398
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.66,
+              0.68
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1568,6 +2666,25 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0655,
+          0.548
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              1,
+              0.0446,
+              0.0522
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1599,6 +2716,25 @@
         "papers/biology/img/02B-Proteins-DNA-27.jpg",
         "papers/biology/img/02B-Proteins-DNA-28.jpg",
         "papers/biology/img/02B-Proteins-DNA-29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5992,
+          0.943
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              1,
+              0.0446,
+              0.0522
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1632,6 +2768,40 @@
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q13.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q13-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8889,
+          0.9088
+        ],
+        [
+          1,
+          0.0446,
+          0.4739
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.3267,
+              0.3466
+            ]
+          ]
+        ],
+        [
+          "Q13(a)",
+          [
+            [
+              0,
+              0.3599,
+              0.8775
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1666,6 +2836,35 @@
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q13.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q13-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.491,
+          0.8367
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.3267,
+              0.3466
+            ]
+          ]
+        ],
+        [
+          "Q13(a)",
+          [
+            [
+              0,
+              0.3599,
+              0.8775
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1701,6 +2900,40 @@
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q13.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q13-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8481,
+          0.8974
+        ],
+        [
+          2,
+          0.0446,
+          0.2422
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.3267,
+              0.3466
+            ]
+          ]
+        ],
+        [
+          "Q13(a)",
+          [
+            [
+              0,
+              0.3599,
+              0.8775
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1736,6 +2969,35 @@
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q13-5.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q13-6.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3352,
+          0.8015
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.3267,
+              0.3466
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              2,
+              0.2526,
+              0.3134
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1764,6 +3026,35 @@
         "papers/biology/img/02B-Proteins-DNA-29.jpg",
         "papers/biology/img/02B-Proteins-DNA-30.jpg",
         "papers/biology/img/02B-Proteins-DNA-31.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8129,
+          0.8955
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.3267,
+              0.3466
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              2,
+              0.2526,
+              0.3134
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1795,6 +3086,35 @@
         "papers/biology/img/02B-Proteins-DNA-32.jpg",
         "papers/biology/img/02B-Proteins-DNA-33.jpg",
         "papers/biology/img/02B-Proteins-DNA-34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2934,
+          0.5394
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.1643,
+              0.2156
+            ]
+          ]
+        ],
+        [
+          "Q14(a)",
+          [
+            [
+              0,
+              0.2289,
+              0.2811
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1825,6 +3145,35 @@
         "papers/biology/img/02B-Proteins-DNA-32.jpg",
         "papers/biology/img/02B-Proteins-DNA-33.jpg",
         "papers/biology/img/02B-Proteins-DNA-34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5546,
+          0.7028
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.1643,
+              0.2156
+            ]
+          ]
+        ],
+        [
+          "Q14(a)",
+          [
+            [
+              0,
+              0.2289,
+              0.2811
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1854,6 +3203,35 @@
         "papers/biology/img/02B-Proteins-DNA-32.jpg",
         "papers/biology/img/02B-Proteins-DNA-33.jpg",
         "papers/biology/img/02B-Proteins-DNA-34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7179,
+          0.8329
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.1643,
+              0.2156
+            ]
+          ]
+        ],
+        [
+          "Q14(a)",
+          [
+            [
+              0,
+              0.2289,
+              0.2811
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1888,6 +3266,40 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8813,
+          0.9335
+        ],
+        [
+          1,
+          0.0446,
+          0.1633
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.1643,
+              0.2156
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              0,
+              0.849,
+              0.8689
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1924,6 +3336,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1738,
+          0.5176
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.1643,
+              0.2156
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              0,
+              0.849,
+              0.8689
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1957,6 +3398,40 @@
         "papers/biology/img/02B-Proteins-DNA-32.jpg",
         "papers/biology/img/02B-Proteins-DNA-33.jpg",
         "papers/biology/img/02B-Proteins-DNA-34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5337,
+          0.9582
+        ],
+        [
+          2,
+          0.0741,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.1643,
+              0.2156
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              0,
+              0.849,
+              0.8689
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1988,6 +3463,25 @@
         "papers/biology/img/02B-Proteins-DNA-35.jpg",
         "papers/biology/img/02B-Proteins-DNA-36.jpg",
         "papers/biology/img/02B-Proteins-DNA-37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4255,
+          0.6106
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.3599,
+              0.4122
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2022,6 +3516,25 @@
         "papers/biology/img/02B-Proteins-DNA-35.jpg",
         "papers/biology/img/02B-Proteins-DNA-36.jpg",
         "papers/biology/img/02B-Proteins-DNA-37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6239,
+          0.9506
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.3599,
+              0.4122
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2057,6 +3570,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q15-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6838,
+          0.831
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.3599,
+              0.4122
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              1,
+              0.0655,
+              0.6733
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2090,6 +3632,40 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8471,
+          0.867
+        ],
+        [
+          2,
+          0.0446,
+          0.7854
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.3599,
+              0.4122
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              1,
+              0.0655,
+              0.6733
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2123,6 +3699,40 @@
         "papers/biology/img/02B-Proteins-DNA-35.jpg",
         "papers/biology/img/02B-Proteins-DNA-36.jpg",
         "papers/biology/img/02B-Proteins-DNA-37.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8015,
+          0.9487
+        ],
+        [
+          3,
+          0.0741,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.3599,
+              0.4122
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              1,
+              0.0655,
+              0.6733
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2156,6 +3766,25 @@
         "papers/biology/img/02B-Proteins-DNA-35.jpg",
         "papers/biology/img/02B-Proteins-DNA-36.jpg",
         "papers/biology/img/02B-Proteins-DNA-37.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1643,
+          0.4739
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.3599,
+              0.4122
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2189,6 +3818,30 @@
         "papers/biology/img/02B-Proteins-DNA-37.jpg",
         "papers/biology/img/02B-Proteins-DNA-38.jpg",
         "papers/biology/img/02B-Proteins-DNA-39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7341,
+          0.9478
+        ],
+        [
+          1,
+          0.0741,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.6857,
+              0.7217
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2220,6 +3873,25 @@
         "papers/biology/img/02B-Proteins-DNA-37.jpg",
         "papers/biology/img/02B-Proteins-DNA-38.jpg",
         "papers/biology/img/02B-Proteins-DNA-39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1633,
+          0.3599
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.6857,
+              0.7217
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2257,6 +3929,40 @@
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q16.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8613,
+          0.9136
+        ],
+        [
+          2,
+          0.0741,
+          0.2127
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.6857,
+              0.7217
+            ]
+          ]
+        ],
+        [
+          "Q16(c)",
+          [
+            [
+              1,
+              0.3751,
+              0.8509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2289,6 +3995,35 @@
         "papers/biology/img/02B-Proteins-DNA-37.jpg",
         "papers/biology/img/02B-Proteins-DNA-38.jpg",
         "papers/biology/img/02B-Proteins-DNA-39.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2289,
+          0.6049
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.6857,
+              0.7217
+            ]
+          ]
+        ],
+        [
+          "Q16(c)",
+          [
+            [
+              1,
+              0.3751,
+              0.8509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2327,6 +4062,30 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8651,
+          0.9174
+        ],
+        [
+          1,
+          0.0446,
+          0.6125
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.8158,
+              0.8519
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2362,6 +4121,35 @@
         "papers/biology/img/02B-Proteins-DNA-41.jpg",
         "papers/biology/img/02B-Proteins-DNA-42.jpg",
         "papers/biology/img/02B-Proteins-DNA-43.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6771,
+          0.792
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.8158,
+              0.8519
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              1,
+              0.6258,
+              0.6629
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2395,6 +4183,35 @@
         "papers/biology/img/02B-Proteins-DNA-41.jpg",
         "papers/biology/img/02B-Proteins-DNA-42.jpg",
         "papers/biology/img/02B-Proteins-DNA-43.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8072,
+          0.925
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.8158,
+              0.8519
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              1,
+              0.6258,
+              0.6629
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2434,6 +4251,40 @@
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q17-2.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q17-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5413,
+          0.8718
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.8158,
+              0.8519
+            ]
+          ]
+        ],
+        [
+          "Q17(c)",
+          [
+            [
+              1,
+              0.9392,
+              0.9582
+            ],
+            [
+              2,
+              0.0446,
+              0.529
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2471,6 +4322,45 @@
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q17-4.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q17-5.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8832,
+          0.9354
+        ],
+        [
+          3,
+          0.0446,
+          0.6182
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.8158,
+              0.8519
+            ]
+          ]
+        ],
+        [
+          "Q17(c)",
+          [
+            [
+              1,
+              0.9392,
+              0.9582
+            ],
+            [
+              2,
+              0.0446,
+              0.529
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2508,6 +4398,45 @@
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q17-6.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q17-7.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.6287,
+          0.6809
+        ],
+        [
+          4,
+          0.0446,
+          0.6182
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.8158,
+              0.8519
+            ]
+          ]
+        ],
+        [
+          "Q17(c)",
+          [
+            [
+              1,
+              0.9392,
+              0.9582
+            ],
+            [
+              2,
+              0.0446,
+              0.529
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2539,6 +4468,30 @@
         "papers/biology/img/02B-Proteins-DNA-43.jpg",
         "papers/biology/img/02B-Proteins-DNA-44.jpg",
         "papers/biology/img/02B-Proteins-DNA-45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.924,
+          0.943
+        ],
+        [
+          1,
+          0.0646,
+          0.1852
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.8908,
+              0.9107
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2572,6 +4525,25 @@
         "papers/biology/img/02B-Proteins-DNA-43.jpg",
         "papers/biology/img/02B-Proteins-DNA-44.jpg",
         "papers/biology/img/02B-Proteins-DNA-45.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1985,
+          0.4435
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.8908,
+              0.9107
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2606,6 +4578,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7616,
+          0.8936
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.8908,
+              0.9107
+            ]
+          ]
+        ],
+        [
+          "Q18(c)",
+          [
+            [
+              1,
+              0.4596,
+              0.7483
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2639,6 +4640,40 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9088,
+          0.9288
+        ],
+        [
+          2,
+          0.0741,
+          0.1149
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.8908,
+              0.9107
+            ]
+          ]
+        ],
+        [
+          "Q18(c)",
+          [
+            [
+              1,
+              0.4596,
+              0.7483
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2672,6 +4707,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8395,
+          0.8832
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.3922,
+              0.4454
+            ]
+          ]
+        ],
+        [
+          "Q19(a)",
+          [
+            [
+              0,
+              0.4577,
+              0.8129
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2707,6 +4771,40 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q19-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9041,
+          0.9573
+        ],
+        [
+          1,
+          0.0636,
+          0.3675
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.3922,
+              0.4454
+            ]
+          ]
+        ],
+        [
+          "Q19(a)",
+          [
+            [
+              0,
+              0.4577,
+              0.8129
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2737,6 +4835,35 @@
         "papers/biology/img/02B-Proteins-DNA-46.jpg",
         "papers/biology/img/02B-Proteins-DNA-47.jpg",
         "papers/biology/img/02B-Proteins-DNA-48.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5252,
+          0.7711
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.3922,
+              0.4454
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              1,
+              0.378,
+              0.4796
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2774,6 +4901,40 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q19-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7863,
+          0.8196
+        ],
+        [
+          2,
+          0.0446,
+          0.189
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.3922,
+              0.4454
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              1,
+              0.378,
+              0.4796
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2805,6 +4966,35 @@
         "papers/biology/img/02B-Proteins-DNA-46.jpg",
         "papers/biology/img/02B-Proteins-DNA-47.jpg",
         "papers/biology/img/02B-Proteins-DNA-48.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.207,
+          0.452
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.3922,
+              0.4454
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              1,
+              0.378,
+              0.4796
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2839,6 +5029,35 @@
         "papers/biology/img/02B-Proteins-DNA-46.jpg",
         "papers/biology/img/02B-Proteins-DNA-47.jpg",
         "papers/biology/img/02B-Proteins-DNA-48.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4682,
+          0.6154
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.3922,
+              0.4454
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              1,
+              0.378,
+              0.4796
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2873,6 +5092,35 @@
         "papers/biology/img/02B-Proteins-DNA-46.jpg",
         "papers/biology/img/02B-Proteins-DNA-47.jpg",
         "papers/biology/img/02B-Proteins-DNA-48.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6809,
+          0.9259
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.3922,
+              0.4454
+            ]
+          ]
+        ],
+        [
+          "Q19(c)",
+          [
+            [
+              2,
+              0.6315,
+              0.6676
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2905,6 +5153,40 @@
         "papers/biology/img/02B-Proteins-DNA-46.jpg",
         "papers/biology/img/02B-Proteins-DNA-47.jpg",
         "papers/biology/img/02B-Proteins-DNA-48.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.9411,
+          0.9592
+        ],
+        [
+          3,
+          0.0741,
+          0.246
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.3922,
+              0.4454
+            ]
+          ]
+        ],
+        [
+          "Q19(c)",
+          [
+            [
+              2,
+              0.6315,
+              0.6676
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2937,6 +5219,25 @@
         "papers/biology/img/02B-Proteins-DNA-48.jpg",
         "papers/biology/img/02B-Proteins-DNA-49.jpg",
         "papers/biology/img/02B-Proteins-DNA-50.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5556,
+          0.8015
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.5233,
+              0.5432
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2971,6 +5272,30 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8177,
+          0.8367
+        ],
+        [
+          1,
+          0.0446,
+          0.4349
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.5233,
+              0.5432
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3005,6 +5330,25 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q20-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4501,
+          0.9297
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.5233,
+              0.5432
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3038,6 +5382,30 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q20-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9468,
+          0.9592
+        ],
+        [
+          2,
+          0.0446,
+          0.7474
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.5233,
+              0.5432
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3072,6 +5440,25 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0655,
+          0.5831
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              1,
+              0.0446,
+              0.0522
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3103,6 +5490,25 @@
         "papers/biology/img/02B-Proteins-DNA-50.jpg",
         "papers/biology/img/02B-Proteins-DNA-51.jpg",
         "papers/biology/img/02B-Proteins-DNA-52.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5954,
+          0.7759
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              1,
+              0.0446,
+              0.0522
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3134,6 +5540,30 @@
         "papers/biology/img/02B-Proteins-DNA-50.jpg",
         "papers/biology/img/02B-Proteins-DNA-51.jpg",
         "papers/biology/img/02B-Proteins-DNA-52.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.792,
+          0.9392
+        ],
+        [
+          2,
+          0.0741,
+          0.3105
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              1,
+              0.0446,
+              0.0522
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3169,6 +5599,30 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q22-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5708,
+          0.9592
+        ],
+        [
+          1,
+          0.0665,
+          0.3438
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.5223,
+              0.5556
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3201,6 +5655,30 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.359,
+          0.9544
+        ],
+        [
+          2,
+          0.0741,
+          0.2127
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.5223,
+              0.5556
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3236,6 +5714,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q22-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3989,
+          0.7426
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.5223,
+              0.5556
+            ]
+          ]
+        ],
+        [
+          "Q22(c)",
+          [
+            [
+              2,
+              0.2289,
+              0.3875
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3270,6 +5777,40 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q22-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7578,
+          0.9383
+        ],
+        [
+          3,
+          0.0741,
+          0.1149
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.5223,
+              0.5556
+            ]
+          ]
+        ],
+        [
+          "Q22(c)",
+          [
+            [
+              2,
+              0.2289,
+              0.3875
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3303,6 +5844,35 @@
         "papers/biology/img/02B-Proteins-DNA-53.jpg",
         "papers/biology/img/02B-Proteins-DNA-54.jpg",
         "papers/biology/img/02B-Proteins-DNA-55.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1301,
+          0.5071
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.5223,
+              0.5556
+            ]
+          ]
+        ],
+        [
+          "Q22(c)",
+          [
+            [
+              2,
+              0.2289,
+              0.3875
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3337,6 +5907,30 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q23-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7512,
+          0.9592
+        ],
+        [
+          1,
+          0.0446,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.7189,
+              0.735
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3371,6 +5965,25 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0978,
+          0.5527
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.7189,
+              0.735
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3406,6 +6019,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q24.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3305,
+          0.5138
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.8604,
+              0.9449
+            ]
+          ]
+        ],
+        [
+          "Q24(a)",
+          [
+            [
+              1,
+              0.0636,
+              0.32
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3445,6 +6087,35 @@
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q24.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q24-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.529,
+          0.7445
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.8604,
+              0.9449
+            ]
+          ]
+        ],
+        [
+          "Q24(a)",
+          [
+            [
+              1,
+              0.0636,
+              0.32
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3481,6 +6152,40 @@
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q24.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q24-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7559,
+          0.792
+        ],
+        [
+          2,
+          0.0446,
+          0.2042
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.8604,
+              0.9449
+            ]
+          ]
+        ],
+        [
+          "Q24(a)",
+          [
+            [
+              1,
+              0.0636,
+              0.32
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3516,6 +6221,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q24-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5062,
+          0.6201
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.8604,
+              0.9449
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              2,
+              0.2222,
+              0.4938
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3552,6 +6286,40 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q24-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6363,
+          0.9307
+        ],
+        [
+          3,
+          0.0446,
+          0.0522
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.8604,
+              0.9449
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              2,
+              0.2222,
+              0.4938
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3584,6 +6352,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4454,
+          0.4653
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.2631,
+              0.2821
+            ]
+          ]
+        ],
+        [
+          "Q25(a)",
+          [
+            [
+              0,
+              0.2944,
+              0.4349
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3616,6 +6413,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5109,
+          0.5935
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.2631,
+              0.2821
+            ]
+          ]
+        ],
+        [
+          "Q25(a)",
+          [
+            [
+              0,
+              0.2944,
+              0.4349
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3648,6 +6474,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6087,
+          0.6914
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.2631,
+              0.2821
+            ]
+          ]
+        ],
+        [
+          "Q25(a)",
+          [
+            [
+              0,
+              0.2944,
+              0.4349
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3680,6 +6535,30 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q25-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7066,
+          0.7265
+        ],
+        [
+          1,
+          0.0446,
+          0.6315
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.2631,
+              0.2821
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3709,6 +6588,30 @@
         "papers/biology/img/02B-Proteins-DNA-60.jpg",
         "papers/biology/img/02B-Proteins-DNA-61.jpg",
         "papers/biology/img/02B-Proteins-DNA-62.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8756,
+          0.9582
+        ],
+        [
+          1,
+          0.0741,
+          0.2783
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.8433,
+              0.8632
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3745,6 +6648,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6306,
+          0.7464
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.8433,
+              0.8632
+            ]
+          ]
+        ],
+        [
+          "Q26(b)",
+          [
+            [
+              1,
+              0.2934,
+              0.6192
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3775,6 +6707,40 @@
         "papers/biology/img/02B-Proteins-DNA-60.jpg",
         "papers/biology/img/02B-Proteins-DNA-61.jpg",
         "papers/biology/img/02B-Proteins-DNA-62.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7616,
+          0.9421
+        ],
+        [
+          2,
+          0.0741,
+          0.1804
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.8433,
+              0.8632
+            ]
+          ]
+        ],
+        [
+          "Q26(b)",
+          [
+            [
+              1,
+              0.2934,
+              0.6192
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3808,6 +6774,30 @@
         "papers/biology/img/02B-Proteins-DNA-63.jpg",
         "papers/biology/img/02B-Proteins-DNA-64.jpg",
         "papers/biology/img/02B-Proteins-DNA-65.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7559,
+          0.9354
+        ],
+        [
+          1,
+          0.0741,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.3922,
+              0.7426
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3837,6 +6827,25 @@
         "papers/biology/img/02B-Proteins-DNA-63.jpg",
         "papers/biology/img/02B-Proteins-DNA-64.jpg",
         "papers/biology/img/02B-Proteins-DNA-65.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0978,
+          0.246
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.3922,
+              0.7426
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3869,6 +6878,35 @@
         "papers/biology/img/02B-Proteins-DNA-63.jpg",
         "papers/biology/img/02B-Proteins-DNA-64.jpg",
         "papers/biology/img/02B-Proteins-DNA-65.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.567,
+          0.7835
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.3922,
+              0.7426
+            ]
+          ]
+        ],
+        [
+          "Q27(c)",
+          [
+            [
+              1,
+              0.2612,
+              0.5546
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3900,6 +6938,40 @@
         "papers/biology/img/02B-Proteins-DNA-63.jpg",
         "papers/biology/img/02B-Proteins-DNA-64.jpg",
         "papers/biology/img/02B-Proteins-DNA-65.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7987,
+          0.9459
+        ],
+        [
+          2,
+          0.0741,
+          0.1149
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.3922,
+              0.7426
+            ]
+          ]
+        ],
+        [
+          "Q27(c)",
+          [
+            [
+              1,
+              0.2612,
+              0.5546
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3932,6 +7004,35 @@
         "papers/biology/img/02B-Proteins-DNA-63.jpg",
         "papers/biology/img/02B-Proteins-DNA-64.jpg",
         "papers/biology/img/02B-Proteins-DNA-65.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1301,
+          0.4084
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.3922,
+              0.7426
+            ]
+          ]
+        ],
+        [
+          "Q27(c)",
+          [
+            [
+              1,
+              0.2612,
+              0.5546
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3970,6 +7071,40 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q27.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4245,
+          0.9459
+        ],
+        [
+          3,
+          0.0741,
+          0.1804
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.3922,
+              0.7426
+            ]
+          ]
+        ],
+        [
+          "Q27(c)",
+          [
+            [
+              1,
+              0.2612,
+              0.5546
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4001,6 +7136,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6999,
+          0.8832
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.3922,
+              0.4283
+            ]
+          ]
+        ],
+        [
+          "Q28(a)",
+          [
+            [
+              0,
+              0.4406,
+              0.6885
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4032,6 +7196,40 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8984,
+          0.9183
+        ],
+        [
+          1,
+          0.0446,
+          0.1804
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.3922,
+              0.4283
+            ]
+          ]
+        ],
+        [
+          "Q28(a)",
+          [
+            [
+              0,
+              0.4406,
+              0.6885
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4098,6 +7296,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q28.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.245,
+          0.49
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.3922,
+              0.4283
+            ]
+          ]
+        ],
+        [
+          "Q28(b)",
+          [
+            [
+              1,
+              0.1956,
+              0.2317
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4131,6 +7358,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q28.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5062,
+          0.849
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.3922,
+              0.4283
+            ]
+          ]
+        ],
+        [
+          "Q28(b)",
+          [
+            [
+              1,
+              0.1956,
+              0.2317
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4164,6 +7420,25 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-67.jpg",
         "papers/biology/img/02B-Proteins-DNA-68.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1472,
+          0.6866
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.114,
+              0.1339
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4195,6 +7470,30 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-67.jpg",
         "papers/biology/img/02B-Proteins-DNA-68.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7018,
+          0.9478
+        ],
+        [
+          1,
+          0.0741,
+          0.2127
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.114,
+              0.1339
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4222,6 +7521,25 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-68.jpg",
         "papers/biology/img/02B-Proteins-DNA-69.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4568,
+          0.6372
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.4245,
+              0.4444
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4252,6 +7570,25 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-68.jpg",
         "papers/biology/img/02B-Proteins-DNA-69.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6524,
+          0.8661
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.4245,
+              0.4444
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4281,6 +7618,30 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-68.jpg",
         "papers/biology/img/02B-Proteins-DNA-69.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8813,
+          0.9012
+        ],
+        [
+          1,
+          0.0741,
+          0.246
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.4245,
+              0.4444
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4311,6 +7672,25 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-68.jpg",
         "papers/biology/img/02B-Proteins-DNA-69.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2612,
+          0.4112
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.4245,
+              0.4444
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4346,6 +7726,30 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7189,
+          0.7873
+        ],
+        [
+          1,
+          0.0446,
+          0.2498
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.6201,
+              0.7056
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4379,6 +7783,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q31-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3932,
+          0.5613
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.6201,
+              0.7056
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              1,
+              0.2631,
+              0.3808
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4411,6 +7844,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q31-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6068,
+          0.8519
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.6201,
+              0.7056
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              1,
+              0.2631,
+              0.3808
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4443,6 +7905,40 @@
         "papers/biology/img/02B-Proteins-DNA-69.jpg",
         "papers/biology/img/02B-Proteins-DNA-70.jpg",
         "papers/biology/img/02B-Proteins-DNA-71.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9326,
+          0.9525
+        ],
+        [
+          2,
+          0.0446,
+          0.3761
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.6201,
+              0.7056
+            ]
+          ]
+        ],
+        [
+          "Q31(c)",
+          [
+            [
+              1,
+              0.868,
+              0.9174
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4474,6 +7970,35 @@
         "papers/biology/img/02B-Proteins-DNA-69.jpg",
         "papers/biology/img/02B-Proteins-DNA-70.jpg",
         "papers/biology/img/02B-Proteins-DNA-71.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3913,
+          0.6695
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.6201,
+              0.7056
+            ]
+          ]
+        ],
+        [
+          "Q31(c)",
+          [
+            [
+              1,
+              0.868,
+              0.9174
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4503,6 +8028,40 @@
         "papers/biology/img/02B-Proteins-DNA-71.jpg",
         "papers/biology/img/02B-Proteins-DNA-72.jpg",
         "papers/biology/img/02B-Proteins-DNA-73.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9468,
+          0.9592
+        ],
+        [
+          1,
+          0.0741,
+          0.246
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.8813,
+              0.9012
+            ]
+          ]
+        ],
+        [
+          "Q32(a)",
+          [
+            [
+              0,
+              0.9136,
+              0.9335
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4536,6 +8095,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2612,
+          0.4739
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.8813,
+              0.9012
+            ]
+          ]
+        ],
+        [
+          "Q32(a)",
+          [
+            [
+              0,
+              0.9136,
+              0.9335
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4569,6 +8157,25 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q32-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4862,
+          0.7217
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.8813,
+              0.9012
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4601,6 +8208,30 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q32-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7322,
+          0.7854
+        ],
+        [
+          2,
+          0.0446,
+          0.7645
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.8813,
+              0.9012
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4632,6 +8263,25 @@
         "papers/biology/img/02B-Proteins-DNA-73.jpg",
         "papers/biology/img/02B-Proteins-DNA-74.jpg",
         "papers/biology/img/02B-Proteins-DNA-75.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0655,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              1,
+              0.0446,
+              0.0522
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4662,6 +8312,25 @@
         "papers/biology/img/02B-Proteins-DNA-73.jpg",
         "papers/biology/img/02B-Proteins-DNA-74.jpg",
         "papers/biology/img/02B-Proteins-DNA-75.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1633,
+          0.5071
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              1,
+              0.0446,
+              0.0522
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4691,6 +8360,40 @@
         "papers/biology/img/02B-Proteins-DNA-73.jpg",
         "papers/biology/img/02B-Proteins-DNA-74.jpg",
         "papers/biology/img/02B-Proteins-DNA-75.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8025,
+          0.9592
+        ],
+        [
+          2,
+          0.0665,
+          0.0855
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              1,
+              0.0446,
+              0.0522
+            ]
+          ]
+        ],
+        [
+          "Q33(c)",
+          [
+            [
+              1,
+              0.5223,
+              0.7911
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4721,6 +8424,35 @@
         "papers/biology/img/02B-Proteins-DNA-73.jpg",
         "papers/biology/img/02B-Proteins-DNA-74.jpg",
         "papers/biology/img/02B-Proteins-DNA-75.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0978,
+          0.4416
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              1,
+              0.0446,
+              0.0522
+            ]
+          ]
+        ],
+        [
+          "Q33(c)",
+          [
+            [
+              1,
+              0.5223,
+              0.7911
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4755,6 +8487,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q33.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4568,
+          0.8167
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              1,
+              0.0446,
+              0.0522
+            ]
+          ]
+        ],
+        [
+          "Q33(c)",
+          [
+            [
+              1,
+              0.5223,
+              0.7911
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4787,6 +8548,25 @@
         "papers/biology/img/02B-Proteins-DNA-77.jpg",
         "papers/biology/img/02B-Proteins-DNA-78.jpg",
         "papers/biology/img/02B-Proteins-DNA-79.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.433,
+          0.8253
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.0978,
+              0.4217
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4820,6 +8600,30 @@
         "papers/biology/img/02B-Proteins-DNA-77.jpg",
         "papers/biology/img/02B-Proteins-DNA-78.jpg",
         "papers/biology/img/02B-Proteins-DNA-79.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8405,
+          0.9098
+        ],
+        [
+          1,
+          0.0741,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.0978,
+              0.4217
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4852,6 +8656,35 @@
         "papers/biology/img/02B-Proteins-DNA-77.jpg",
         "papers/biology/img/02B-Proteins-DNA-78.jpg",
         "papers/biology/img/02B-Proteins-DNA-79.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7341,
+          0.9468
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.0978,
+              0.4217
+            ]
+          ]
+        ],
+        [
+          "Q34(c)",
+          [
+            [
+              1,
+              0.1633,
+              0.7236
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4886,6 +8719,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q34-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0655,
+          0.2127
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.0978,
+              0.4217
+            ]
+          ]
+        ],
+        [
+          "Q34(c)",
+          [
+            [
+              1,
+              0.1633,
+              0.7236
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4922,6 +8784,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q34-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2289,
+          0.5556
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.0978,
+              0.4217
+            ]
+          ]
+        ],
+        [
+          "Q34(c)",
+          [
+            [
+              1,
+              0.1633,
+              0.7236
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4956,6 +8847,30 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q34.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5708,
+          0.7217
+        ],
+        [
+          3,
+          0.0446,
+          0.68
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.0978,
+              0.4217
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4987,6 +8902,30 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-79.jpg",
         "papers/biology/img/02B-Proteins-DNA-80.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.924,
+          0.944
+        ],
+        [
+          1,
+          0.0741,
+          0.246
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.8917,
+              0.9117
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5020,6 +8959,25 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-79.jpg",
         "papers/biology/img/02B-Proteins-DNA-80.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2612,
+          0.6049
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.8917,
+              0.9117
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5049,6 +9007,25 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-79.jpg",
         "papers/biology/img/02B-Proteins-DNA-80.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6201,
+          0.8661
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.8917,
+              0.9117
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5080,6 +9057,25 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-81.jpg",
         "papers/biology/img/02B-Proteins-DNA-82.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6657,
+          0.9107
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.1301,
+              0.6524
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5109,6 +9105,30 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-81.jpg",
         "papers/biology/img/02B-Proteins-DNA-82.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9259,
+          0.9459
+        ],
+        [
+          1,
+          0.0741,
+          0.246
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.1301,
+              0.6524
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5139,6 +9159,25 @@
       "images": [
         "papers/biology/img/02B-Proteins-DNA-81.jpg",
         "papers/biology/img/02B-Proteins-DNA-82.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2621,
+          0.5071
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.1301,
+              0.6524
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5173,6 +9212,30 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7673,
+          0.8025
+        ],
+        [
+          1,
+          0.0589,
+          0.6781
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.7189,
+              0.7531
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5205,6 +9268,40 @@
         "papers/biology/img/02B-Proteins-DNA-83.jpg",
         "papers/biology/img/02B-Proteins-DNA-84.jpg",
         "papers/biology/img/02B-Proteins-DNA-85.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.114,
+          0.2621
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.7189,
+              0.7531
+            ]
+          ]
+        ],
+        [
+          "Q37(b)",
+          [
+            [
+              1,
+              0.6942,
+              0.9478
+            ],
+            [
+              2,
+              0.0655,
+              0.0988
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5238,6 +9335,40 @@
         "papers/biology/img/02B-Proteins-DNA-83.jpg",
         "papers/biology/img/02B-Proteins-DNA-84.jpg",
         "papers/biology/img/02B-Proteins-DNA-85.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2783,
+          0.5556
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.7189,
+              0.7531
+            ]
+          ]
+        ],
+        [
+          "Q37(b)",
+          [
+            [
+              1,
+              0.6942,
+              0.9478
+            ],
+            [
+              2,
+              0.0655,
+              0.0988
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5270,6 +9401,35 @@
         "papers/biology/img/02B-Proteins-DNA-83.jpg",
         "papers/biology/img/02B-Proteins-DNA-84.jpg",
         "papers/biology/img/02B-Proteins-DNA-85.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6211,
+          0.8006
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.7189,
+              0.7531
+            ]
+          ]
+        ],
+        [
+          "Q37(c)",
+          [
+            [
+              2,
+              0.5708,
+              0.6049
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5300,6 +9460,40 @@
         "papers/biology/img/02B-Proteins-DNA-83.jpg",
         "papers/biology/img/02B-Proteins-DNA-84.jpg",
         "papers/biology/img/02B-Proteins-DNA-85.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8158,
+          0.9307
+        ],
+        [
+          3,
+          0.0741,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.7189,
+              0.7531
+            ]
+          ]
+        ],
+        [
+          "Q37(c)",
+          [
+            [
+              2,
+              0.5708,
+              0.6049
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5332,6 +9526,35 @@
         "papers/biology/img/02B-Proteins-DNA-83.jpg",
         "papers/biology/img/02B-Proteins-DNA-84.jpg",
         "papers/biology/img/02B-Proteins-DNA-85.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1633,
+          0.4416
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.7189,
+              0.7531
+            ]
+          ]
+        ],
+        [
+          "Q37(c)",
+          [
+            [
+              2,
+              0.5708,
+              0.6049
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5361,6 +9584,30 @@
         "papers/biology/img/02B-Proteins-DNA-85.jpg",
         "papers/biology/img/02B-Proteins-DNA-86.jpg",
         "papers/biology/img/02B-Proteins-DNA-87.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7018,
+          0.9478
+        ],
+        [
+          1,
+          0.0446,
+          0.2783
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.6524,
+              0.6885
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5429,6 +9676,30 @@
         "papers/biology/fig/02B-Proteins-DNA-Q38-2.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q38-3.jpg",
         "papers/biology/fig/02B-Proteins-DNA-Q38-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2915,
+          0.9003
+        ],
+        [
+          2,
+          0.0446,
+          0.7616
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.6524,
+              0.6885
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5461,6 +9732,25 @@
         "papers/biology/img/02B-Proteins-DNA-88.jpg",
         "papers/biology/img/02B-Proteins-DNA-89.jpg",
         "papers/biology/img/02B-Proteins-DNA-90.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4767,
+          0.755
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.4435,
+              0.4634
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5491,6 +9781,30 @@
         "papers/biology/img/02B-Proteins-DNA-88.jpg",
         "papers/biology/img/02B-Proteins-DNA-89.jpg",
         "papers/biology/img/02B-Proteins-DNA-90.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7702,
+          0.9506
+        ],
+        [
+          1,
+          0.0741,
+          0.2127
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.4435,
+              0.4634
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5525,6 +9839,35 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5897,
+          0.9164
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.4435,
+              0.4634
+            ]
+          ]
+        ],
+        [
+          "Q39(c)",
+          [
+            [
+              1,
+              0.2289,
+              0.5708
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5561,6 +9904,40 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9316,
+          0.9592
+        ],
+        [
+          2,
+          0.0446,
+          0.8329
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.4435,
+              0.4634
+            ]
+          ]
+        ],
+        [
+          "Q39(c)",
+          [
+            [
+              1,
+              0.2289,
+              0.5708
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5593,6 +9970,25 @@
         "papers/biology/img/02B-Proteins-DNA-92.jpg",
         "papers/biology/img/02B-Proteins-DNA-93.jpg",
         "papers/biology/img/02B-Proteins-DNA-94.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3751,
+          0.6695
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.0978,
+              0.3295
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5625,6 +10021,30 @@
         "papers/biology/img/02B-Proteins-DNA-92.jpg",
         "papers/biology/img/02B-Proteins-DNA-93.jpg",
         "papers/biology/img/02B-Proteins-DNA-94.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6857,
+          0.9478
+        ],
+        [
+          1,
+          0.0741,
+          0.1472
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.0978,
+              0.3295
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5656,6 +10076,25 @@
         "papers/biology/img/02B-Proteins-DNA-92.jpg",
         "papers/biology/img/02B-Proteins-DNA-93.jpg",
         "papers/biology/img/02B-Proteins-DNA-94.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1633,
+          0.4416
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.0978,
+              0.3295
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5687,6 +10126,25 @@
         "papers/biology/img/02B-Proteins-DNA-92.jpg",
         "papers/biology/img/02B-Proteins-DNA-93.jpg",
         "papers/biology/img/02B-Proteins-DNA-94.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4568,
+          0.7189
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.0978,
+              0.3295
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5720,6 +10178,40 @@
         "papers/biology/img/02B-Proteins-DNA-92.jpg",
         "papers/biology/img/02B-Proteins-DNA-93.jpg",
         "papers/biology/img/02B-Proteins-DNA-94.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7673,
+          0.9478
+        ],
+        [
+          2,
+          0.0741,
+          0.0826
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.0978,
+              0.3295
+            ]
+          ]
+        ],
+        [
+          "Q40(c)",
+          [
+            [
+              1,
+              0.7341,
+              0.754
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5754,6 +10246,35 @@
         "papers/biology/img/02B-Proteins-DNA-92.jpg",
         "papers/biology/img/02B-Proteins-DNA-93.jpg",
         "papers/biology/img/02B-Proteins-DNA-94.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0978,
+          0.246
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.0978,
+              0.3295
+            ]
+          ]
+        ],
+        [
+          "Q40(c)",
+          [
+            [
+              1,
+              0.7341,
+              0.754
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5791,6 +10312,25 @@
       ],
       "figures": [
         "papers/biology/fig/02B-Proteins-DNA-Q40.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2612,
+          0.8348
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.0978,
+              0.3295
+            ]
+          ]
+        ]
       ]
     }
   ]

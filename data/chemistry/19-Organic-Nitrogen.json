@@ -33,6 +33,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1709,
+          0.3979
+        ]
       ]
     },
     {
@@ -63,6 +70,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5992,
+          0.9117
+        ]
       ]
     },
     {
@@ -96,6 +110,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3713,
+          0.5128
+        ]
       ]
     },
     {
@@ -126,6 +147,13 @@
         "papers/chemistry/img/19-Organic-Nitrogen-04.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-05.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.699,
+          0.7911
+        ]
       ]
     },
     {
@@ -159,6 +187,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3314,
+          0.3818
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q5(a)",
+          [
+            [
+              1,
+              0.0807,
+              0.3295
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -190,6 +247,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.378,
+          0.4311
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q5(a)",
+          [
+            [
+              1,
+              0.0807,
+              0.3295
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -224,6 +310,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4378,
+          0.7236
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q5(a)",
+          [
+            [
+              1,
+              0.0807,
+              0.3295
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -257,6 +372,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q5-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.925,
+          0.944
+        ],
+        [
+          2,
+          0.0532,
+          0.3295
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              1,
+              0.9031,
+              0.9221
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -290,6 +439,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q5-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3314,
+          0.5347
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              1,
+              0.9031,
+              0.9221
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -325,6 +503,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q5-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5404,
+          0.9326
+        ],
+        [
+          3,
+          0.0608,
+          0.3913
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              1,
+              0.9031,
+              0.9221
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -358,6 +570,30 @@
         "papers/chemistry/img/19-Organic-Nitrogen-04.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-05.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-06.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.4036,
+          0.9202
+        ],
+        [
+          4,
+          0.0608,
+          0.3618
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -387,6 +623,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5869,
+          0.6059
+        ],
+        [
+          1,
+          0.0513,
+          0.528
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.5575,
+              0.5736
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -416,6 +676,25 @@
       "images": [
         "papers/chemistry/img/19-Organic-Nitrogen-06.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-07.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5299,
+          0.6515
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.5575,
+              0.5736
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -446,6 +725,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8557,
+          0.8746
+        ],
+        [
+          1,
+          0.0513,
+          0.3067
+        ]
       ]
     },
     {
@@ -476,6 +767,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5147,
+          0.5632
+        ],
+        [
+          1,
+          0.0513,
+          0.49
+        ]
       ]
     },
     {
@@ -505,6 +808,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6838,
+          0.9392
+        ],
+        [
+          1,
+          0.0513,
+          0.0741
+        ]
       ]
     },
     {
@@ -536,6 +851,18 @@
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q10.jpg",
         "papers/chemistry/fig/19-Organic-Nitrogen-Q10-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2821,
+          0.4862
+        ],
+        [
+          1,
+          0.0902,
+          0.6078
+        ]
       ]
     },
     {
@@ -564,6 +891,18 @@
       "images": [
         "papers/chemistry/img/19-Organic-Nitrogen-11.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8196,
+          0.9316
+        ],
+        [
+          1,
+          0.0513,
+          0.1054
+        ]
       ]
     },
     {
@@ -594,6 +933,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3134,
+          0.5527
+        ]
       ]
     },
     {
@@ -623,6 +969,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7398,
+          0.9506
+        ],
+        [
+          1,
+          0.0513,
+          0.1216
+        ]
       ]
     },
     {
@@ -653,6 +1011,13 @@
         "papers/chemistry/img/19-Organic-Nitrogen-13.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-14.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3257,
+          0.4672
+        ]
       ]
     },
     {
@@ -684,6 +1049,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6781,
+          0.7702
+        ]
       ]
     },
     {
@@ -712,6 +1084,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2346,
+          0.2953
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.924,
+              0.943
+            ],
+            [
+              1,
+              0.0513,
+              0.2241
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -745,6 +1141,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q16-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3077,
+          0.8006
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.924,
+              0.943
+            ],
+            [
+              1,
+              0.0513,
+              0.2241
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -778,6 +1198,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8139,
+          0.9145
+        ],
+        [
+          2,
+          0.1111,
+          0.4824
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.924,
+              0.943
+            ],
+            [
+              1,
+              0.0513,
+              0.2241
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -807,6 +1256,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.735,
+          0.7692
+        ],
+        [
+          1,
+          0.0513,
+          0.4919
+        ]
       ]
     },
     {
@@ -838,6 +1299,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8158,
+          0.8462
+        ],
+        [
+          1,
+          0.0513,
+          0.2925
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.7863,
+              0.8053
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -868,6 +1353,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q18-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6116,
+          0.7588
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.7863,
+              0.8053
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -898,6 +1402,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q18-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.867,
+          0.886
+        ],
+        [
+          2,
+          0.0513,
+          0.227
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.7863,
+              0.8053
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -929,6 +1457,18 @@
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q19.jpg",
         "papers/chemistry/fig/19-Organic-Nitrogen-Q19-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5774,
+          0.7759
+        ],
+        [
+          1,
+          0.0513,
+          0.3476
+        ]
       ]
     },
     {
@@ -960,6 +1500,30 @@
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q20.jpg",
         "papers/chemistry/fig/19-Organic-Nitrogen-Q20-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7142,
+          0.7331
+        ],
+        [
+          1,
+          0.0513,
+          0.603
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.5328,
+              0.7047
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -988,6 +1552,25 @@
       "images": [
         "papers/chemistry/img/19-Organic-Nitrogen-19.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-20.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6078,
+          0.7322
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.5328,
+              0.7047
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1016,6 +1599,13 @@
       "images": [
         "papers/chemistry/img/19-Organic-Nitrogen-20.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1899
+        ]
       ]
     },
     {
@@ -1047,6 +1637,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3922,
+          0.6059
+        ]
       ]
     },
     {
@@ -1075,6 +1672,13 @@
       "images": [
         "papers/chemistry/img/19-Organic-Nitrogen-21.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.2251
+        ]
       ]
     },
     {
@@ -1105,6 +1709,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5812,
+          0.6904
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.4264,
+              0.5708
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1136,6 +1759,30 @@
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q24.jpg",
         "papers/chemistry/fig/19-Organic-Nitrogen-Q24-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7085,
+          0.7274
+        ],
+        [
+          1,
+          0.0522,
+          0.3457
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.4264,
+              0.5708
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1167,6 +1814,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3685,
+          0.4758
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.7123,
+              0.7312
+            ],
+            [
+              1,
+              0.0522,
+              0.358
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1199,6 +1870,35 @@
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q25.jpg",
         "papers/chemistry/fig/19-Organic-Nitrogen-Q25-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4957,
+          0.5147
+        ],
+        [
+          2,
+          0.0636,
+          0.6049
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.7123,
+              0.7312
+            ],
+            [
+              1,
+              0.0522,
+              0.358
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1230,6 +1930,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4568,
+          0.5793
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              1,
+              0.1016,
+              0.4454
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1262,6 +1981,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5983,
+          0.7075
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              1,
+              0.1016,
+              0.4454
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1294,6 +2032,30 @@
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q26.jpg",
         "papers/chemistry/fig/19-Organic-Nitrogen-Q26-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7265,
+          0.7645
+        ],
+        [
+          2,
+          0.0551,
+          0.2602
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              1,
+              0.1016,
+              0.4454
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1325,6 +2087,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q26.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.264,
+          0.3856
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              1,
+              0.1016,
+              0.4454
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1357,6 +2138,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4596,
+          0.5499
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.7189,
+              0.7531
+            ],
+            [
+              1,
+              0.0522,
+              0.4501
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1389,6 +2194,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.585,
+          0.604
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.7189,
+              0.7531
+            ],
+            [
+              1,
+              0.0522,
+              0.4501
+            ]
+          ]
+        ],
+        [
+          "Q27(b)",
+          [
+            [
+              1,
+              0.5622,
+              0.5812
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1421,6 +2260,45 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6895,
+          0.9288
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.7189,
+              0.7531
+            ],
+            [
+              1,
+              0.0522,
+              0.4501
+            ]
+          ]
+        ],
+        [
+          "Q27(b)",
+          [
+            [
+              1,
+              0.5622,
+              0.5812
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1453,6 +2331,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q27.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1406,
+          0.1956
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.7189,
+              0.7531
+            ],
+            [
+              1,
+              0.0522,
+              0.4501
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1488,6 +2390,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q27-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7873,
+          0.8215
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.7189,
+              0.7531
+            ],
+            [
+              1,
+              0.0522,
+              0.4501
+            ]
+          ]
+        ],
+        [
+          "Q27(d)",
+          [
+            [
+              2,
+              0.3656,
+              0.7844
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1521,6 +2457,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q27-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2479,
+          0.2972
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.7189,
+              0.7531
+            ],
+            [
+              1,
+              0.0522,
+              0.4501
+            ]
+          ]
+        ],
+        [
+          "Q27(d)",
+          [
+            [
+              2,
+              0.3656,
+              0.7844
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1554,6 +2524,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q27-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.5337,
+          0.6163
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.7189,
+              0.7531
+            ],
+            [
+              1,
+              0.0522,
+              0.4501
+            ]
+          ]
+        ],
+        [
+          "Q27(d)",
+          [
+            [
+              2,
+              0.3656,
+              0.7844
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1587,6 +2591,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q27-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.622,
+          0.641
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.7189,
+              0.7531
+            ],
+            [
+              1,
+              0.0522,
+              0.4501
+            ]
+          ]
+        ],
+        [
+          "Q27(d)",
+          [
+            [
+              2,
+              0.3656,
+              0.7844
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1619,6 +2657,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q27-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.8025,
+          0.8557
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.7189,
+              0.7531
+            ],
+            [
+              1,
+              0.0522,
+              0.4501
+            ]
+          ]
+        ],
+        [
+          "Q27(d)",
+          [
+            [
+              2,
+              0.3656,
+              0.7844
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1651,6 +2723,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q27-3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.8689,
+          0.9098
+        ],
+        [
+          4,
+          0.0513,
+          0.2697
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.7189,
+              0.7531
+            ],
+            [
+              1,
+              0.0522,
+              0.4501
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1682,6 +2783,30 @@
         "papers/chemistry/img/19-Organic-Nitrogen-29.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-30.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-31.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.2792,
+          0.3504
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.7189,
+              0.7531
+            ],
+            [
+              1,
+              0.0522,
+              0.4501
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1711,6 +2836,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7018,
+          0.7645
+        ],
+        [
+          1,
+          0.0513,
+          0.4274
+        ]
       ]
     },
     {
@@ -1742,6 +2879,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8101,
+          0.8291
+        ],
+        [
+          1,
+          0.0513,
+          0.4179
+        ]
       ]
     },
     {
@@ -1771,6 +2920,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8575,
+          0.9069
+        ],
+        [
+          1,
+          0.0513,
+          0.5413
+        ]
       ]
     },
     {
@@ -1805,6 +2966,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.378,
+          0.5907
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              1,
+              0.0665,
+              0.3333
+            ]
+          ]
+        ],
+        [
+          "Q31(a)",
+          [
+            [
+              1,
+              0.3552,
+              0.3742
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1841,6 +3031,40 @@
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q31.jpg",
         "papers/chemistry/fig/19-Organic-Nitrogen-Q31-5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.584,
+          0.9411
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              1,
+              0.0665,
+              0.3333
+            ]
+          ]
+        ],
+        [
+          "Q31(a)",
+          [
+            [
+              1,
+              0.3552,
+              0.3742
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1873,6 +3097,35 @@
         "papers/chemistry/img/19-Organic-Nitrogen-37.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-38.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-39.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1918,
+          0.3922
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              1,
+              0.0665,
+              0.3333
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              2,
+              0.17,
+              0.189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1905,6 +3158,35 @@
         "papers/chemistry/img/19-Organic-Nitrogen-37.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-38.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-39.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3989,
+          0.5071
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              1,
+              0.0665,
+              0.3333
+            ]
+          ]
+        ],
+        [
+          "Q31(b)",
+          [
+            [
+              2,
+              0.17,
+              0.189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1936,6 +3218,25 @@
         "papers/chemistry/img/19-Organic-Nitrogen-37.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-38.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-39.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7502,
+          0.8367
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              1,
+              0.0665,
+              0.3333
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1971,6 +3272,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q31-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.188,
+          0.9402
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              1,
+              0.0665,
+              0.3333
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2007,6 +3327,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q31-3.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.1643,
+          0.1985
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              1,
+              0.0665,
+              0.3333
+            ]
+          ]
+        ],
+        [
+          "Q31(e)",
+          [
+            [
+              4,
+              0.0532,
+              0.1614
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2038,6 +3387,35 @@
         "papers/chemistry/img/19-Organic-Nitrogen-37.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-38.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-39.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.4349,
+          0.4881
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              1,
+              0.0665,
+              0.3333
+            ]
+          ]
+        ],
+        [
+          "Q31(e)",
+          [
+            [
+              4,
+              0.0532,
+              0.1614
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2074,6 +3452,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q31-4.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.585,
+          0.7217
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              1,
+              0.0665,
+              0.3333
+            ]
+          ]
+        ],
+        [
+          "Q31(f)",
+          [
+            [
+              4,
+              0.5014,
+              0.5821
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2107,6 +3514,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q31-4.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.7958,
+          0.8281
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              1,
+              0.0665,
+              0.3333
+            ]
+          ]
+        ],
+        [
+          "Q31(f)",
+          [
+            [
+              4,
+              0.5014,
+              0.5821
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2138,6 +3574,35 @@
         "papers/chemistry/img/19-Organic-Nitrogen-41.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-42.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.246,
+          0.2953
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ],
+        [
+          "Q32(a)",
+          [
+            [
+              0,
+              0.1937,
+              0.2488
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2169,6 +3634,35 @@
         "papers/chemistry/img/19-Organic-Nitrogen-41.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-42.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5204,
+          0.8091
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ],
+        [
+          "Q32(a)",
+          [
+            [
+              0,
+              0.1937,
+              0.2488
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2204,6 +3698,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8224,
+          0.8784
+        ],
+        [
+          1,
+          0.0513,
+          0.188
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2237,6 +3755,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q32-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7531,
+          0.9117
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ],
+        [
+          "Q32(c)",
+          [
+            [
+              1,
+              0.5147,
+              0.7493
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2270,6 +3817,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q32-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0826,
+          0.1016
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ],
+        [
+          "Q32(c)",
+          [
+            [
+              1,
+              0.5147,
+              0.7493
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2302,6 +3878,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q32-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3381,
+          0.3913
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ],
+        [
+          "Q32(c)",
+          [
+            [
+              1,
+              0.5147,
+              0.7493
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2335,6 +3940,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q32-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3979,
+          0.5518
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ],
+        [
+          "Q32(c)",
+          [
+            [
+              1,
+              0.5147,
+              0.7493
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2367,6 +4001,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q32-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5802,
+          0.6277
+        ],
+        [
+          3,
+          0.0522,
+          0.4834
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ],
+        [
+          "Q32(c)",
+          [
+            [
+              1,
+              0.5147,
+              0.7493
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2397,6 +4065,35 @@
         "papers/chemistry/img/19-Organic-Nitrogen-41.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-42.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-43.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.4853,
+          0.5651
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ],
+        [
+          "Q32(c)",
+          [
+            [
+              1,
+              0.5147,
+              0.7493
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2427,6 +4124,13 @@
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q33.jpg",
         "papers/chemistry/fig/19-Organic-Nitrogen-Q33-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2507,
+          0.8756
+        ]
       ]
     },
     {
@@ -2458,6 +4162,18 @@
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q34.jpg",
         "papers/chemistry/fig/19-Organic-Nitrogen-Q34-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3419,
+          0.5594
+        ],
+        [
+          1,
+          0.0513,
+          0.7436
+        ]
       ]
     },
     {
@@ -2484,6 +4200,13 @@
       "images": [
         "papers/chemistry/img/19-Organic-Nitrogen-45.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-46.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1472
+        ]
       ]
     },
     {
@@ -2514,6 +4237,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4995,
+          0.5413
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.2991,
+              0.4891
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2546,6 +4288,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6334,
+          0.6904
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.2991,
+              0.4891
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2577,6 +4338,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8813,
+          0.9041
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.2991,
+              0.4891
+            ]
+          ]
+        ],
+        [
+          "Q36(c)",
+          [
+            [
+              0,
+              0.8585,
+              0.8775
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2604,6 +4394,35 @@
         "papers/chemistry/img/19-Organic-Nitrogen-46.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-47.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-48.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1728,
+          0.3001
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.2991,
+              0.4891
+            ]
+          ]
+        ],
+        [
+          "Q36(c)",
+          [
+            [
+              0,
+              0.8585,
+              0.8775
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2634,6 +4453,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3058,
+          0.4179
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.2991,
+              0.4891
+            ]
+          ]
+        ],
+        [
+          "Q36(c)",
+          [
+            [
+              0,
+              0.8585,
+              0.8775
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2666,6 +4514,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q36-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4311,
+          0.4872
+        ],
+        [
+          2,
+          0.0513,
+          0.5033
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.2991,
+              0.4891
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2697,6 +4569,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q36-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5128,
+          0.792
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.2991,
+              0.4891
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2723,6 +4614,13 @@
       "images": [
         "papers/chemistry/img/19-Organic-Nitrogen-48.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-49.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1605
+        ]
       ]
     },
     {
@@ -2752,6 +4650,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4141,
+          0.8082
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.3143,
+              0.4027
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2781,6 +4698,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q38-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8272,
+          0.8462
+        ],
+        [
+          1,
+          0.0513,
+          0.4236
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.3143,
+              0.4027
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2809,6 +4750,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5594,
+          0.5783
+        ],
+        [
+          1,
+          0.0513,
+          0.5613
+        ]
       ]
     },
     {
@@ -2835,6 +4788,13 @@
       ],
       "images": [
         "papers/chemistry/img/19-Organic-Nitrogen-51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.699,
+          0.8205
+        ]
       ]
     },
     {
@@ -2864,6 +4824,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1852,
+          0.7028
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.1557,
+              0.1747
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2895,6 +4874,40 @@
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q41-2.jpg",
         "papers/chemistry/fig/19-Organic-Nitrogen-Q41-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8613,
+          0.8984
+        ],
+        [
+          1,
+          0.0513,
+          0.6743
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.1557,
+              0.1747
+            ]
+          ]
+        ],
+        [
+          "Q41(b)",
+          [
+            [
+              0,
+              0.7056,
+              0.8509
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2925,6 +4938,50 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q41-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6781,
+          0.7844
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.1557,
+              0.1747
+            ]
+          ]
+        ],
+        [
+          "Q41(b)",
+          [
+            [
+              0,
+              0.7056,
+              0.8509
+            ]
+          ]
+        ],
+        [
+          "Q41(b)(i)",
+          [
+            [
+              0,
+              0.8613,
+              0.8984
+            ],
+            [
+              1,
+              0.0513,
+              0.6743
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2954,6 +5011,25 @@
         "papers/chemistry/img/19-Organic-Nitrogen-53.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-54.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-55.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1111,
+          0.1671
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              1,
+              0.0532,
+              0.1007
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2982,6 +5058,25 @@
         "papers/chemistry/img/19-Organic-Nitrogen-53.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-54.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-55.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3362,
+          0.4074
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              1,
+              0.0532,
+              0.1007
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3010,6 +5105,25 @@
         "papers/chemistry/img/19-Organic-Nitrogen-53.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-54.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-55.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5755,
+          0.6163
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              1,
+              0.0532,
+              0.1007
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3039,6 +5153,30 @@
         "papers/chemistry/img/19-Organic-Nitrogen-53.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-54.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-55.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7844,
+          0.9335
+        ],
+        [
+          2,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              1,
+              0.0532,
+              0.1007
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3069,6 +5207,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3818,
+          0.472
+        ],
+        [
+          1,
+          0.0703,
+          0.5679
+        ]
       ]
     },
     {
@@ -3098,6 +5248,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q44.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.3248
+        ]
       ]
     },
     {
@@ -3127,6 +5284,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7835,
+          0.8025
+        ],
+        [
+          1,
+          0.0522,
+          0.3457
+        ]
       ]
     },
     {
@@ -3158,6 +5327,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8034,
+          0.8348
+        ],
+        [
+          1,
+          0.0513,
+          0.2887
+        ]
       ]
     },
     {
@@ -3187,6 +5368,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6543,
+          0.7635
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.509,
+              0.6448
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3217,6 +5417,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q47-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7816,
+          0.8006
+        ],
+        [
+          1,
+          0.0513,
+          0.5518
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.509,
+              0.6448
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3246,6 +5470,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q48.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.754,
+          0.8025
+        ],
+        [
+          1,
+          0.0513,
+          0.4815
+        ]
       ]
     },
     {
@@ -3274,6 +5510,30 @@
         "papers/chemistry/img/19-Organic-Nitrogen-61.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-62.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-63.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8509,
+          0.9392
+        ],
+        [
+          1,
+          0.0513,
+          0.0893
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.6838,
+              0.8386
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3305,6 +5565,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q49-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1092,
+          0.4644
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.6838,
+              0.8386
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3336,6 +5615,30 @@
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q49.jpg",
         "papers/chemistry/fig/19-Organic-Nitrogen-Q49-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4672,
+          0.5014
+        ],
+        [
+          2,
+          0.0513,
+          0.6562
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.6838,
+              0.8386
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3365,6 +5668,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q50.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8443,
+          0.8632
+        ],
+        [
+          1,
+          0.0646,
+          0.8803
+        ]
       ]
     },
     {
@@ -3394,6 +5709,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1909,
+          0.4207
+        ]
       ]
     },
     {
@@ -3423,6 +5745,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q52.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4558,
+          0.5622
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.622,
+              0.641
+            ],
+            [
+              1,
+              0.0513,
+              0.4435
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3454,6 +5800,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q52.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5831,
+          0.7047
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.622,
+              0.641
+            ],
+            [
+              1,
+              0.0513,
+              0.4435
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3484,6 +5854,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q53.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2241,
+          0.284
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.8594,
+              0.9202
+            ],
+            [
+              1,
+              0.0541,
+              0.2137
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3515,6 +5909,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q53-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7569,
+          0.8689
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.8594,
+              0.9202
+            ],
+            [
+              1,
+              0.0541,
+              0.2137
+            ]
+          ]
+        ],
+        [
+          "Q53(b)",
+          [
+            [
+              1,
+              0.3723,
+              0.754
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3548,6 +5976,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q53-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8746,
+          0.9088
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.8594,
+              0.9202
+            ],
+            [
+              1,
+              0.0541,
+              0.2137
+            ]
+          ]
+        ],
+        [
+          "Q53(b)",
+          [
+            [
+              1,
+              0.3723,
+              0.754
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3580,6 +6042,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q53-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2631,
+          0.3713
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.8594,
+              0.9202
+            ],
+            [
+              1,
+              0.0541,
+              0.2137
+            ]
+          ]
+        ],
+        [
+          "Q53(b)",
+          [
+            [
+              1,
+              0.3723,
+              0.754
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3611,6 +6107,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q53-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5176,
+          0.5708
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.8594,
+              0.9202
+            ],
+            [
+              1,
+              0.0541,
+              0.2137
+            ]
+          ]
+        ],
+        [
+          "Q53(b)",
+          [
+            [
+              1,
+              0.3723,
+              0.754
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3644,6 +6174,45 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q53.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7768,
+          0.9183
+        ],
+        [
+          3,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.8594,
+              0.9202
+            ],
+            [
+              1,
+              0.0541,
+              0.2137
+            ]
+          ]
+        ],
+        [
+          "Q53(c)",
+          [
+            [
+              2,
+              0.584,
+              0.774
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3675,6 +6244,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q53.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1045,
+          0.15
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.8594,
+              0.9202
+            ],
+            [
+              1,
+              0.0541,
+              0.2137
+            ]
+          ]
+        ],
+        [
+          "Q53(c)",
+          [
+            [
+              2,
+              0.584,
+              0.774
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3707,6 +6310,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q53.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.3143,
+          0.529
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.8594,
+              0.9202
+            ],
+            [
+              1,
+              0.0541,
+              0.2137
+            ]
+          ]
+        ],
+        [
+          "Q53(c)",
+          [
+            [
+              2,
+              0.584,
+              0.774
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3737,6 +6374,30 @@
         "papers/chemistry/img/19-Organic-Nitrogen-67.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-68.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-69.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.5423,
+          0.6439
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.8594,
+              0.9202
+            ],
+            [
+              1,
+              0.0541,
+              0.2137
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3767,6 +6428,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q54.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1909,
+          0.3951
+        ]
       ]
     },
     {
@@ -3797,6 +6465,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q54-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.415,
+          0.6629
+        ]
       ]
     },
     {
@@ -3826,6 +6501,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q55.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8661,
+          0.8851
+        ],
+        [
+          1,
+          0.0532,
+          0.5394
+        ]
       ]
     },
     {
@@ -3855,6 +6542,25 @@
         "papers/chemistry/img/19-Organic-Nitrogen-72.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-73.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-74.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7512,
+          0.7702
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.6923,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3882,6 +6588,25 @@
         "papers/chemistry/img/19-Organic-Nitrogen-72.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-73.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-74.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.849,
+          0.9022
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.6923,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3912,6 +6637,30 @@
         "papers/chemistry/img/19-Organic-Nitrogen-72.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-73.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-74.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9079,
+          0.9421
+        ],
+        [
+          1,
+          0.0532,
+          0.0722
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.6923,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3940,6 +6689,25 @@
         "papers/chemistry/img/19-Organic-Nitrogen-72.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-73.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-74.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1425,
+          0.1918
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.6923,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3969,6 +6737,25 @@
         "papers/chemistry/img/19-Organic-Nitrogen-72.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-73.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-74.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2707,
+          0.3713
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.6923,
+              0.7379
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4001,6 +6788,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q56.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3837,
+          0.5983
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.6923,
+              0.7379
+            ]
+          ]
+        ],
+        [
+          "Q56(c)",
+          [
+            [
+              1,
+              0.8699,
+              0.9411
+            ],
+            [
+              2,
+              0.057,
+              0.3751
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4032,6 +6853,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q56-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.604,
+          0.8898
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.6923,
+              0.7379
+            ]
+          ]
+        ],
+        [
+          "Q56(c)",
+          [
+            [
+              1,
+              0.8699,
+              0.9411
+            ],
+            [
+              2,
+              0.057,
+              0.3751
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4059,6 +6914,45 @@
         "papers/chemistry/img/19-Organic-Nitrogen-72.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-73.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-74.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.9297,
+          0.9487
+        ],
+        [
+          3,
+          0.0532,
+          0.1064
+        ]
+      ],
+      "ctx": [
+        [
+          "Q56",
+          [
+            [
+              0,
+              0.6923,
+              0.7379
+            ]
+          ]
+        ],
+        [
+          "Q56(c)",
+          [
+            [
+              1,
+              0.8699,
+              0.9411
+            ],
+            [
+              2,
+              0.057,
+              0.3751
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4087,6 +6981,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q57.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.302,
+          0.8452
+        ]
       ]
     },
     {
@@ -4117,6 +7018,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q58.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1538,
+          0.3675
+        ]
       ]
     },
     {
@@ -4144,6 +7052,13 @@
       "images": [
         "papers/chemistry/img/19-Organic-Nitrogen-75.jpg",
         "papers/chemistry/img/19-Organic-Nitrogen-76.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5717,
+          0.6657
+        ]
       ]
     },
     {
@@ -4173,6 +7088,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/19-Organic-Nitrogen-Q60.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8661,
+          0.8851
+        ],
+        [
+          1,
+          0.0522,
+          0.2403
+        ]
       ]
     }
   ]

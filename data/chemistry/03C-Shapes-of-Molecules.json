@@ -32,6 +32,25 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-01.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-02.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1519,
+          0.433
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -61,6 +80,25 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-01.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-02.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4463,
+          0.5328
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -90,6 +128,35 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-01.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-02.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1349,
+          0.1994
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ],
+        [
+          "Q1(c)",
+          [
+            [
+              1,
+              0.113,
+              0.132
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -122,6 +189,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/03C-Shapes-of-Molecules-Q1.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.661,
+          0.8357
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ],
+        [
+          "Q1(c)",
+          [
+            [
+              1,
+              0.113,
+              0.132
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -151,6 +247,40 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-01.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-02.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8927,
+          0.9459
+        ],
+        [
+          2,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ],
+        [
+          "Q1(d)",
+          [
+            [
+              1,
+              0.8557,
+              0.8898
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -180,6 +310,35 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-01.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-02.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-03.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2507,
+          0.6315
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ],
+        [
+          "Q1(d)",
+          [
+            [
+              1,
+              0.8557,
+              0.8898
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -208,6 +367,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/03C-Shapes-of-Molecules-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7787,
+          0.9145
+        ]
       ]
     },
     {
@@ -239,6 +405,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/03C-Shapes-of-Molecules-Q3-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2156,
+          0.3086
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.1937,
+              0.2127
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -267,6 +462,35 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-04.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-05.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3048,
+          0.5043
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ],
+        [
+          "Q3(a)",
+          [
+            [
+              0,
+              0.1937,
+              0.2127
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -297,6 +521,25 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-04.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-05.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5176,
+          0.9003
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -329,6 +572,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/03C-Shapes-of-Molecules-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2707
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ],
+        [
+          "Q3(c)",
+          [
+            [
+              0,
+              0.9136,
+              0.9326
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -357,6 +629,35 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-04.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-05.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2887,
+          0.416
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ],
+        [
+          "Q3(c)",
+          [
+            [
+              0,
+              0.9136,
+              0.9326
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -387,6 +688,25 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-04.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-05.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4283,
+          0.5005
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -416,6 +736,25 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-04.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-05.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7436,
+          0.83
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -442,6 +781,13 @@
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2953,
+          0.3875
+        ]
       ]
     },
     {
@@ -471,6 +817,13 @@
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5907,
+          0.6838
+        ]
       ]
     },
     {
@@ -499,6 +852,18 @@
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-06.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.886,
+          0.944
+        ],
+        [
+          1,
+          0.0513,
+          0.0893
+        ]
       ]
     },
     {
@@ -529,6 +894,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/03C-Shapes-of-Molecules-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2716,
+          0.6021
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.2422,
+              0.2612
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -557,6 +941,35 @@
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-07.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6543,
+          0.8538
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.2422,
+              0.2612
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              0,
+              0.5954,
+              0.6581
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -584,6 +997,35 @@
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-07.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8604,
+          0.9069
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.2422,
+              0.2612
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              0,
+              0.5954,
+              0.6581
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -610,6 +1052,35 @@
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-07.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2099,
+          0.3219
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.2422,
+              0.2612
+            ]
+          ]
+        ],
+        [
+          "Q7(c)",
+          [
+            [
+              1,
+              0.188,
+              0.207
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -639,6 +1110,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/03C-Shapes-of-Molecules-Q7-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3276,
+          0.5774
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.2422,
+              0.2612
+            ]
+          ]
+        ],
+        [
+          "Q7(c)",
+          [
+            [
+              1,
+              0.188,
+              0.207
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -666,6 +1166,25 @@
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-07.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6163,
+          0.7949
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.2422,
+              0.2612
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -692,6 +1211,25 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-09.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.2165
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -720,6 +1258,25 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-09.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2298,
+          0.2716
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -750,6 +1307,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/03C-Shapes-of-Molecules-Q8.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4397,
+          0.7844
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -784,6 +1360,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/03C-Shapes-of-Molecules-Q8.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7977,
+          0.9316
+        ],
+        [
+          2,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -814,6 +1414,25 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-09.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-10.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2574,
+          0.3143
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -844,6 +1463,25 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-08.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-09.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-10.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5575,
+          0.8519
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -871,6 +1509,25 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1491,
+          0.3124
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1197,
+              0.1387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -902,6 +1559,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/03C-Shapes-of-Molecules-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3257,
+          0.6068
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1197,
+              0.1387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -929,6 +1605,25 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7749,
+          0.8348
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1197,
+              0.1387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -959,6 +1654,40 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9145,
+          0.9459
+        ],
+        [
+          1,
+          0.2165,
+          0.226
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1197,
+              0.1387
+            ]
+          ]
+        ],
+        [
+          "Q9(d)",
+          [
+            [
+              0,
+              0.8481,
+              0.9098
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -991,6 +1720,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/03C-Shapes-of-Molecules-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2194,
+          0.2906
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1197,
+              0.1387
+            ]
+          ]
+        ],
+        [
+          "Q9(d)",
+          [
+            [
+              0,
+              0.8481,
+              0.9098
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1018,6 +1776,45 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5271,
+          0.6581
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1197,
+              0.1387
+            ]
+          ]
+        ],
+        [
+          "Q9(d)",
+          [
+            [
+              0,
+              0.8481,
+              0.9098
+            ]
+          ]
+        ],
+        [
+          "Q9(d)(ii)",
+          [
+            [
+              1,
+              0.2194,
+              0.2906
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1048,6 +1845,35 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6638,
+          0.7284
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1197,
+              0.1387
+            ]
+          ]
+        ],
+        [
+          "Q9(d)",
+          [
+            [
+              0,
+              0.8481,
+              0.9098
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1075,6 +1901,35 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3286,
+          0.3476
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1197,
+              0.1387
+            ]
+          ]
+        ],
+        [
+          "Q9(e)",
+          [
+            [
+              2,
+              0.1576,
+              0.3324
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1101,6 +1956,35 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.434,
+          0.453
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1197,
+              0.1387
+            ]
+          ]
+        ],
+        [
+          "Q9(e)",
+          [
+            [
+              2,
+              0.1576,
+              0.3324
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1127,6 +2011,35 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5394,
+          0.5575
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1197,
+              0.1387
+            ]
+          ]
+        ],
+        [
+          "Q9(e)",
+          [
+            [
+              2,
+              0.1576,
+              0.3324
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1154,6 +2067,45 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-11.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-12.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-13.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6439,
+          0.6629
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1197,
+              0.1387
+            ]
+          ]
+        ],
+        [
+          "Q9(e)",
+          [
+            [
+              2,
+              0.1576,
+              0.3324
+            ]
+          ]
+        ],
+        [
+          "Q9(e)(iii)",
+          [
+            [
+              2,
+              0.5394,
+              0.5575
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1180,6 +2132,35 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-14.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-15.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1415,
+          0.2536
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              1,
+              0.1045,
+              0.1358
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1206,6 +2187,35 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-14.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-15.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2593,
+          0.3419
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              1,
+              0.1045,
+              0.1358
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1235,6 +2245,35 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-14.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-15.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3476,
+          0.5328
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              1,
+              0.1045,
+              0.1358
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1261,6 +2300,35 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-14.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-15.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5689,
+          0.7094
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              1,
+              0.5461,
+              0.5651
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1291,6 +2359,35 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-14.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-15.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7142,
+          0.7645
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ],
+        [
+          "Q10(b)",
+          [
+            [
+              1,
+              0.5461,
+              0.5651
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1324,6 +2421,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/03C-Shapes-of-Molecules-Q10.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3637,
+          0.5774
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ],
+        [
+          "Q10(c)",
+          [
+            [
+              2,
+              0.0532,
+              0.3599
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1356,6 +2482,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/03C-Shapes-of-Molecules-Q10.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5802,
+          0.7825
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ],
+        [
+          "Q10(c)",
+          [
+            [
+              2,
+              0.0532,
+              0.3599
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1384,6 +2539,25 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-14.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-15.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7958,
+          0.8367
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1413,6 +2587,30 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-14.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-15.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.9231,
+          0.9421
+        ],
+        [
+          3,
+          0.0826,
+          0.2374
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1442,6 +2640,13 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-17.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.433,
+          0.5261
+        ]
       ]
     },
     {
@@ -1474,6 +2679,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/03C-Shapes-of-Molecules-Q12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8205,
+          0.9326
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.679,
+              0.6971
+            ]
+          ]
+        ],
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.7085,
+              0.8082
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1506,6 +2745,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/03C-Shapes-of-Molecules-Q12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1339,
+          0.4359
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.679,
+              0.6971
+            ]
+          ]
+        ],
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.7085,
+              0.8082
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1533,6 +2801,35 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-17.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.471,
+          0.49
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.679,
+              0.6971
+            ]
+          ]
+        ],
+        [
+          "Q12(b)",
+          [
+            [
+              1,
+              0.4492,
+              0.4682
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1560,6 +2857,35 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-17.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5613,
+          0.7607
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.679,
+              0.6971
+            ]
+          ]
+        ],
+        [
+          "Q12(b)",
+          [
+            [
+              1,
+              0.4492,
+              0.4682
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1586,6 +2912,35 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-17.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.811,
+          0.83
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.679,
+              0.6971
+            ]
+          ]
+        ],
+        [
+          "Q12(c)",
+          [
+            [
+              1,
+              0.774,
+              0.8148
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1615,6 +2970,35 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-17.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-18.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.113,
+          0.4292
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.679,
+              0.6971
+            ]
+          ]
+        ],
+        [
+          "Q12(c)",
+          [
+            [
+              1,
+              0.774,
+              0.8148
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1643,6 +3027,35 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-16.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-17.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-18.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4359,
+          0.7588
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.679,
+              0.6971
+            ]
+          ]
+        ],
+        [
+          "Q12(c)",
+          [
+            [
+              1,
+              0.774,
+              0.8148
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1670,6 +3083,13 @@
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-18.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1453
+        ]
       ]
     },
     {
@@ -1699,6 +3119,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/03C-Shapes-of-Molecules-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2991,
+          0.491
+        ]
       ]
     },
     {
@@ -1728,6 +3155,25 @@
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-19.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6572,
+          0.7436
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.6277,
+              0.6448
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1755,6 +3201,35 @@
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-19.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8594,
+          0.9041
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.6277,
+              0.6448
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              0,
+              0.8367,
+              0.8557
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1781,6 +3256,35 @@
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-19.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-20.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0826,
+          0.2536
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.6277,
+              0.6448
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              0,
+              0.8367,
+              0.8557
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1804,6 +3308,25 @@
       ],
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4786,
+          0.585
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4492,
+              0.4682
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1828,6 +3351,25 @@
       ],
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6059,
+          0.7123
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4492,
+              0.4682
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1854,6 +3396,25 @@
       ],
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7331,
+          0.8395
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.4492,
+              0.4682
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1878,6 +3439,25 @@
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-21.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1785,
+          0.2393
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.1054,
+              0.1681
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1905,6 +3485,25 @@
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-21.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.245,
+          0.4444
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.1054,
+              0.1681
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1933,6 +3532,25 @@
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-21.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4511,
+          0.7531
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.1054,
+              0.1681
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1961,6 +3579,35 @@
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-21.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8025,
+          0.867
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.1054,
+              0.1681
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              0,
+              0.7664,
+              0.8072
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1987,6 +3634,35 @@
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-21.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1425,
+          0.1766
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.1054,
+              0.1681
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              0,
+              0.7664,
+              0.8072
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2016,6 +3692,25 @@
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-21.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3447,
+          0.4311
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.1054,
+              0.1681
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2043,6 +3738,18 @@
       "images": [
         "papers/chemistry/img/03C-Shapes-of-Molecules-22.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8575,
+          0.9345
+        ],
+        [
+          1,
+          0.0513,
+          0.0741
+        ]
       ]
     },
     {
@@ -2076,6 +3783,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/03C-Shapes-of-Molecules-Q19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2745,
+          0.584
+        ]
       ]
     },
     {
@@ -2102,6 +3816,25 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-24.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-25.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8272,
+          0.8879
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7388,
+              0.8167
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2133,6 +3866,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/03C-Shapes-of-Molecules-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9003,
+          0.9421
+        ],
+        [
+          1,
+          0.0532,
+          0.3533
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7388,
+              0.8167
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2160,6 +3917,25 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-24.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-25.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3637,
+          0.397
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7388,
+              0.8167
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2193,6 +3969,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/03C-Shapes-of-Molecules-Q20-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5726,
+          0.6068
+        ],
+        [
+          2,
+          0.0655,
+          0.4454
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7388,
+              0.8167
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2223,6 +4023,25 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-24.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-25.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-26.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4558,
+          0.6334
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7388,
+              0.8167
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2253,6 +4072,30 @@
         "papers/chemistry/img/03C-Shapes-of-Molecules-24.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-25.jpg",
         "papers/chemistry/img/03C-Shapes-of-Molecules-26.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6467,
+          0.9269
+        ],
+        [
+          3,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7388,
+              0.8167
+            ]
+          ]
+        ]
       ]
     }
   ]

@@ -32,6 +32,13 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1719,
+          0.4758
+        ]
       ]
     },
     {
@@ -58,6 +65,25 @@
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-01.jpg",
         "papers/physics/img/14-2D-Stress-Strain-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.641,
+          0.7303
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.6116,
+              0.6306
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -84,6 +110,35 @@
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-01.jpg",
         "papers/physics/img/14-2D-Stress-Strain-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7911,
+          0.9373
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.6116,
+              0.6306
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              0,
+              0.7436,
+              0.7977
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -110,6 +165,35 @@
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-01.jpg",
         "papers/physics/img/14-2D-Stress-Strain-02.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1937
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.6116,
+              0.6306
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              0,
+              0.7436,
+              0.7977
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -140,6 +224,13 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3894,
+          0.6002
+        ]
       ]
     },
     {
@@ -169,6 +260,18 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7483,
+          0.7968
+        ],
+        [
+          1,
+          0.0627,
+          0.2013
+        ]
       ]
     },
     {
@@ -198,6 +301,13 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3523,
+          0.5375
+        ]
       ]
     },
     {
@@ -227,6 +337,18 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7483,
+          0.812
+        ],
+        [
+          1,
+          0.0513,
+          0.2127
+        ]
       ]
     },
     {
@@ -261,6 +383,18 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3495,
+          0.6866
+        ],
+        [
+          1,
+          0.0532,
+          0.8158
+        ]
       ]
     },
     {
@@ -291,6 +425,13 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q8.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1244,
+          0.434
+        ]
       ]
     },
     {
@@ -320,6 +461,35 @@
         "papers/physics/img/14-2D-Stress-Strain-06.jpg",
         "papers/physics/img/14-2D-Stress-Strain-07.jpg",
         "papers/physics/img/14-2D-Stress-Strain-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8462,
+          0.9288
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5708,
+              0.8148
+            ]
+          ]
+        ],
+        [
+          "Q9(a)",
+          [
+            [
+              0,
+              0.8243,
+              0.8433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -353,6 +523,35 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2972
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5708,
+              0.8148
+            ]
+          ]
+        ],
+        [
+          "Q9(a)",
+          [
+            [
+              0,
+              0.8243,
+              0.8433
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -384,6 +583,35 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q9.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7958,
+          0.9373
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5708,
+              0.8148
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.3096,
+              0.7901
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -412,6 +640,35 @@
         "papers/physics/img/14-2D-Stress-Strain-06.jpg",
         "papers/physics/img/14-2D-Stress-Strain-07.jpg",
         "papers/physics/img/14-2D-Stress-Strain-08.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.2393
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5708,
+              0.8148
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.3096,
+              0.7901
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -446,6 +703,35 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q9.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.245,
+          0.6648
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5708,
+              0.8148
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.3096,
+              0.7901
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -473,6 +759,18 @@
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-08.jpg",
         "papers/physics/img/14-2D-Stress-Strain-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8613,
+          0.9335
+        ],
+        [
+          1,
+          0.0513,
+          0.1083
+        ]
       ]
     },
     {
@@ -504,6 +802,30 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8708,
+          0.9269
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.2593,
+              0.8613
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -534,6 +856,25 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2213,
+          0.5698
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.2593,
+              0.8613
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -563,6 +904,25 @@
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-09.jpg",
         "papers/physics/img/14-2D-Stress-Strain-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5831,
+          0.8338
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.2593,
+              0.8613
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -593,6 +953,25 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5726,
+          0.7939
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.0902,
+              0.5632
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -623,6 +1002,30 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q12-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8072,
+          0.8262
+        ],
+        [
+          1,
+          0.0513,
+          0.8272
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.0902,
+              0.5632
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -653,6 +1056,40 @@
         "papers/physics/img/14-2D-Stress-Strain-11.jpg",
         "papers/physics/img/14-2D-Stress-Strain-12.jpg",
         "papers/physics/img/14-2D-Stress-Strain-13.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2498,
+          0.5518
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.0902,
+              0.5632
+            ]
+          ]
+        ],
+        [
+          "Q12(c)",
+          [
+            [
+              1,
+              0.8405,
+              0.924
+            ],
+            [
+              2,
+              0.0513,
+              0.2469
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -681,6 +1118,40 @@
         "papers/physics/img/14-2D-Stress-Strain-11.jpg",
         "papers/physics/img/14-2D-Stress-Strain-12.jpg",
         "papers/physics/img/14-2D-Stress-Strain-13.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5584,
+          0.699
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.0902,
+              0.5632
+            ]
+          ]
+        ],
+        [
+          "Q12(c)",
+          [
+            [
+              1,
+              0.8405,
+              0.924
+            ],
+            [
+              2,
+              0.0513,
+              0.2469
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -708,6 +1179,30 @@
         "papers/physics/img/14-2D-Stress-Strain-13.jpg",
         "papers/physics/img/14-2D-Stress-Strain-14.jpg",
         "papers/physics/img/14-2D-Stress-Strain-15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1776,
+          0.3257
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.8462,
+              0.8803
+            ],
+            [
+              1,
+              0.0513,
+              0.1681
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -737,6 +1232,45 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8538,
+          0.9373
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.8462,
+              0.8803
+            ],
+            [
+              1,
+              0.0513,
+              0.1681
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              1,
+              0.339,
+              0.8519
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -767,6 +1301,40 @@
         "papers/physics/img/14-2D-Stress-Strain-13.jpg",
         "papers/physics/img/14-2D-Stress-Strain-14.jpg",
         "papers/physics/img/14-2D-Stress-Strain-15.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1035,
+          0.4074
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.8462,
+              0.8803
+            ],
+            [
+              1,
+              0.0513,
+              0.1681
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              1,
+              0.339,
+              0.8519
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -803,6 +1371,40 @@
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q14.jpg",
         "papers/physics/fig/14-2D-Stress-Strain-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9269,
+          0.9459
+        ],
+        [
+          1,
+          0.0532,
+          0.3998
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.5546,
+              0.7949
+            ]
+          ]
+        ],
+        [
+          "Q14(a)",
+          [
+            [
+              0,
+              0.8063,
+              0.9288
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -836,6 +1438,35 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4055,
+          0.6059
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.5546,
+              0.7949
+            ]
+          ]
+        ],
+        [
+          "Q14(a)",
+          [
+            [
+              0,
+              0.8063,
+              0.9288
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -871,6 +1502,35 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q14-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6192,
+          0.6752
+        ],
+        [
+          2,
+          0.0513,
+          0.9459
+        ],
+        [
+          3,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.5546,
+              0.7949
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -896,6 +1556,25 @@
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-18.jpg",
         "papers/physics/img/14-2D-Stress-Strain-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5508,
+          0.6847
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2156,
+              0.5404
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -926,6 +1605,35 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7198,
+          0.8604
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2156,
+              0.5404
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              0,
+              0.6971,
+              0.716
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -955,6 +1663,40 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.867,
+          0.9126
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2156,
+              0.5404
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              0,
+              0.6971,
+              0.716
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -983,6 +1725,35 @@
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-18.jpg",
         "papers/physics/img/14-2D-Stress-Strain-19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2213,
+          0.5394
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2156,
+              0.5404
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              0,
+              0.6971,
+              0.716
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1013,6 +1784,25 @@
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-18.jpg",
         "papers/physics/img/14-2D-Stress-Strain-19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5527,
+          0.8927
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.2156,
+              0.5404
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1038,6 +1828,25 @@
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-20.jpg",
         "papers/physics/img/14-2D-Stress-Strain-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2602,
+          0.3495
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1425,
+              0.2469
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1066,6 +1875,35 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7455,
+          0.9202
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1425,
+              0.2469
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              0,
+              0.3628,
+              0.7521
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1096,6 +1934,40 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9259,
+          0.9449
+        ],
+        [
+          1,
+          0.0826,
+          0.2697
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1425,
+              0.2469
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              0,
+              0.3628,
+              0.7521
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1122,6 +1994,25 @@
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-20.jpg",
         "papers/physics/img/14-2D-Stress-Strain-21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2802,
+          0.5014
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1425,
+              0.2469
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1151,6 +2042,25 @@
         "papers/physics/img/14-2D-Stress-Strain-21.jpg",
         "papers/physics/img/14-2D-Stress-Strain-22.jpg",
         "papers/physics/img/14-2D-Stress-Strain-23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6771,
+          0.8405
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.6486,
+              0.6676
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1183,6 +2093,40 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q17-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2593,
+          0.5812
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.6486,
+              0.6676
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              0,
+              0.8538,
+              0.8727
+            ],
+            [
+              1,
+              0.0522,
+              0.2574
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1217,6 +2161,45 @@
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q17-2.jpg",
         "papers/physics/fig/14-2D-Stress-Strain-Q17.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.585,
+          0.9468
+        ],
+        [
+          2,
+          0.0826,
+          0.3542
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.6486,
+              0.6676
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              0,
+              0.8538,
+              0.8727
+            ],
+            [
+              1,
+              0.0522,
+              0.2574
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1245,6 +2228,30 @@
         "papers/physics/img/14-2D-Stress-Strain-23.jpg",
         "papers/physics/img/14-2D-Stress-Strain-24.jpg",
         "papers/physics/img/14-2D-Stress-Strain-25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1111,
+          0.2745
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5014,
+              0.9307
+            ],
+            [
+              1,
+              0.0532,
+              0.0978
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1272,6 +2279,30 @@
         "papers/physics/img/14-2D-Stress-Strain-23.jpg",
         "papers/physics/img/14-2D-Stress-Strain-24.jpg",
         "papers/physics/img/14-2D-Stress-Strain-25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2868,
+          0.4948
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5014,
+              0.9307
+            ],
+            [
+              1,
+              0.0532,
+              0.0978
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1303,6 +2334,30 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5005,
+          0.7464
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5014,
+              0.9307
+            ],
+            [
+              1,
+              0.0532,
+              0.0978
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1330,6 +2385,30 @@
         "papers/physics/img/14-2D-Stress-Strain-23.jpg",
         "papers/physics/img/14-2D-Stress-Strain-24.jpg",
         "papers/physics/img/14-2D-Stress-Strain-25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7502,
+          0.9231
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5014,
+              0.9307
+            ],
+            [
+              1,
+              0.0532,
+              0.0978
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1362,6 +2441,30 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q18.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5014,
+              0.9307
+            ],
+            [
+              1,
+              0.0532,
+              0.0978
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1392,6 +2495,13 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4122,
+          0.6876
+        ]
       ]
     },
     {
@@ -1421,6 +2531,18 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8803,
+          0.943
+        ],
+        [
+          1,
+          0.0532,
+          0.3913
+        ]
       ]
     },
     {
@@ -1451,6 +2573,13 @@
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q21.jpg",
         "papers/physics/fig/14-2D-Stress-Strain-Q21-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5945,
+          0.9411
+        ]
       ]
     },
     {
@@ -1481,6 +2610,13 @@
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q22.jpg",
         "papers/physics/fig/14-2D-Stress-Strain-Q22-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4473,
+          0.8908
+        ]
       ]
     },
     {
@@ -1514,6 +2650,18 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1425,
+          0.9231
+        ],
+        [
+          1,
+          0.0608,
+          0.6543
+        ]
       ]
     },
     {
@@ -1544,6 +2692,18 @@
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q24.jpg",
         "papers/physics/fig/14-2D-Stress-Strain-Q24-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.85,
+          0.8984
+        ],
+        [
+          1,
+          0.0513,
+          0.4653
+        ]
       ]
     },
     {
@@ -1574,6 +2734,18 @@
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q25.jpg",
         "papers/physics/fig/14-2D-Stress-Strain-Q25-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6505,
+          0.7132
+        ],
+        [
+          1,
+          0.0522,
+          0.4777
+        ]
       ]
     },
     {
@@ -1604,6 +2776,18 @@
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q26.jpg",
         "papers/physics/fig/14-2D-Stress-Strain-Q26-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6809,
+          0.6999
+        ],
+        [
+          1,
+          0.0513,
+          0.6116
+        ]
       ]
     },
     {
@@ -1635,6 +2819,18 @@
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q27.jpg",
         "papers/physics/fig/14-2D-Stress-Strain-Q27-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7977,
+          0.8167
+        ],
+        [
+          1,
+          0.0513,
+          0.416
+        ]
       ]
     },
     {
@@ -1665,6 +2861,18 @@
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q28.jpg",
         "papers/physics/fig/14-2D-Stress-Strain-Q28-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5717,
+          0.8148
+        ],
+        [
+          1,
+          0.0522,
+          0.2241
+        ]
       ]
     },
     {
@@ -1697,6 +2905,40 @@
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q29-2.jpg",
         "papers/physics/fig/14-2D-Stress-Strain-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.075,
+          0.3333
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.3685,
+              0.9107
+            ]
+          ]
+        ],
+        [
+          "Q29(a)",
+          [
+            [
+              0,
+              0.9202,
+              0.9392
+            ],
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1727,6 +2969,40 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.339,
+          0.642
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.3685,
+              0.9107
+            ]
+          ]
+        ],
+        [
+          "Q29(a)",
+          [
+            [
+              0,
+              0.9202,
+              0.9392
+            ],
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1756,6 +3032,25 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6543,
+          0.8177
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.3685,
+              0.9107
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1784,6 +3079,13 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.075,
+          0.2745
+        ]
       ]
     },
     {
@@ -1815,6 +3117,13 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4103,
+          0.6429
+        ]
       ]
     },
     {
@@ -1845,6 +3154,30 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4283,
+          0.5926
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.7863,
+              0.8348
+            ],
+            [
+              1,
+              0.0513,
+              0.416
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1872,6 +3205,30 @@
         "papers/physics/img/14-2D-Stress-Strain-36.jpg",
         "papers/physics/img/14-2D-Stress-Strain-37.jpg",
         "papers/physics/img/14-2D-Stress-Strain-38.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6059,
+          0.7835
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.7863,
+              0.8348
+            ],
+            [
+              1,
+              0.0513,
+              0.416
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1898,6 +3255,35 @@
         "papers/physics/img/14-2D-Stress-Strain-36.jpg",
         "papers/physics/img/14-2D-Stress-Strain-37.jpg",
         "papers/physics/img/14-2D-Stress-Strain-38.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7958,
+          0.9449
+        ],
+        [
+          2,
+          0.0532,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.7863,
+              0.8348
+            ],
+            [
+              1,
+              0.0513,
+              0.416
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1930,6 +3316,30 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q32.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0817,
+          0.3495
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.7863,
+              0.8348
+            ],
+            [
+              1,
+              0.0513,
+              0.416
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1959,6 +3369,40 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3827,
+          0.4653
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.5033,
+              0.7873
+            ],
+            [
+              1,
+              0.0513,
+              0.3514
+            ]
+          ]
+        ],
+        [
+          "Q33(a)",
+          [
+            [
+              1,
+              0.3609,
+              0.3799
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1989,6 +3433,40 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.472,
+          0.6125
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.5033,
+              0.7873
+            ],
+            [
+              1,
+              0.0513,
+              0.3514
+            ]
+          ]
+        ],
+        [
+          "Q33(a)",
+          [
+            [
+              1,
+              0.3609,
+              0.3799
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2019,6 +3497,40 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6192,
+          0.716
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.5033,
+              0.7873
+            ],
+            [
+              1,
+              0.0513,
+              0.3514
+            ]
+          ]
+        ],
+        [
+          "Q33(a)",
+          [
+            [
+              1,
+              0.3609,
+              0.3799
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2050,6 +3562,35 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q33-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7293,
+          0.7854
+        ],
+        [
+          2,
+          0.0532,
+          0.2754
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.5033,
+              0.7873
+            ],
+            [
+              1,
+              0.0513,
+              0.3514
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2079,6 +3620,30 @@
         "papers/physics/img/14-2D-Stress-Strain-38.jpg",
         "papers/physics/img/14-2D-Stress-Strain-39.jpg",
         "papers/physics/img/14-2D-Stress-Strain-40.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2849,
+          0.6923
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.5033,
+              0.7873
+            ],
+            [
+              1,
+              0.0513,
+              0.3514
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2109,6 +3674,18 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8879,
+          0.9364
+        ],
+        [
+          1,
+          0.0532,
+          0.4682
+        ]
       ]
     },
     {
@@ -2135,6 +3712,13 @@
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-41.jpg",
         "papers/physics/img/14-2D-Stress-Strain-42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6695,
+          0.7607
+        ]
       ]
     },
     {
@@ -2163,6 +3747,30 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4587,
+          0.548
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.9155,
+              0.9468
+            ],
+            [
+              1,
+              0.0532,
+              0.4492
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2194,6 +3802,30 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5613,
+          0.8167
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.9155,
+              0.9468
+            ],
+            [
+              1,
+              0.0532,
+              0.4492
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2223,6 +3855,13 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1244,
+          0.4777
+        ]
       ]
     },
     {
@@ -2249,6 +3888,13 @@
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-43.jpg",
         "papers/physics/img/14-2D-Stress-Strain-44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.679,
+          0.7702
+        ]
       ]
     },
     {
@@ -2276,6 +3922,13 @@
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-43.jpg",
         "papers/physics/img/14-2D-Stress-Strain-44.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.6306
+        ]
       ]
     },
     {
@@ -2302,6 +3955,18 @@
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-44.jpg",
         "papers/physics/img/14-2D-Stress-Strain-45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8481,
+          0.9373
+        ],
+        [
+          1,
+          0.0513,
+          0.0883
+        ]
       ]
     },
     {
@@ -2330,6 +3995,13 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2915,
+          0.5802
+        ]
       ]
     },
     {
@@ -2360,6 +4032,18 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7987,
+          0.8329
+        ],
+        [
+          1,
+          0.0522,
+          0.2327
+        ]
       ]
     },
     {
@@ -2387,6 +4071,25 @@
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-46.jpg",
         "papers/physics/img/14-2D-Stress-Strain-47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4729,
+          0.6952
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.3713,
+              0.4634
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2414,6 +4117,30 @@
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-46.jpg",
         "papers/physics/img/14-2D-Stress-Strain-47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7085,
+          0.9307
+        ],
+        [
+          1,
+          0.0608,
+          0.1301
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.3713,
+              0.4634
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2444,6 +4171,35 @@
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q43.jpg",
         "papers/physics/fig/14-2D-Stress-Strain-Q43-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2963,
+          0.5432
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.3713,
+              0.4634
+            ]
+          ]
+        ],
+        [
+          "Q43(c)",
+          [
+            [
+              1,
+              0.1406,
+              0.2934
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2475,6 +4231,35 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q43.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5537,
+          0.7987
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.3713,
+              0.4634
+            ]
+          ]
+        ],
+        [
+          "Q43(c)",
+          [
+            [
+              1,
+              0.1406,
+              0.2934
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2502,6 +4287,25 @@
         "papers/physics/img/14-2D-Stress-Strain-47.jpg",
         "papers/physics/img/14-2D-Stress-Strain-48.jpg",
         "papers/physics/img/14-2D-Stress-Strain-49.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1415,
+          0.3048
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              1,
+              0.0532,
+              0.1301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2533,6 +4337,40 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q44.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7217,
+          0.9364
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              1,
+              0.0532,
+              0.1301
+            ]
+          ]
+        ],
+        [
+          "Q44(b)",
+          [
+            [
+              1,
+              0.3181,
+              0.7189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2563,6 +4401,35 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q44.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1045,
+          0.3191
+        ]
+      ],
+      "ctx": [
+        [
+          "Q44",
+          [
+            [
+              1,
+              0.0532,
+              0.1301
+            ]
+          ]
+        ],
+        [
+          "Q44(b)",
+          [
+            [
+              1,
+              0.3181,
+              0.7189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2591,6 +4458,13 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5147,
+          0.8452
+        ]
       ]
     },
     {
@@ -2617,6 +4491,13 @@
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-50.jpg",
         "papers/physics/img/14-2D-Stress-Strain-51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1538,
+          0.2773
+        ]
       ]
     },
     {
@@ -2647,6 +4528,30 @@
       ],
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7854,
+          0.9335
+        ],
+        [
+          1,
+          0.0608,
+          0.1007
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.4292,
+              0.7711
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2671,6 +4576,25 @@
       "images": [
         "papers/physics/img/14-2D-Stress-Strain-50.jpg",
         "papers/physics/img/14-2D-Stress-Strain-51.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1111,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q47",
+          [
+            [
+              0,
+              0.4292,
+              0.7711
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2703,6 +4627,30 @@
       "figures": [
         "papers/physics/fig/14-2D-Stress-Strain-Q48.jpg",
         "papers/physics/fig/14-2D-Stress-Strain-Q48-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5622,
+          0.5812
+        ],
+        [
+          1,
+          0.056,
+          0.9278
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.3628,
+              0.5451
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2732,6 +4680,25 @@
         "papers/physics/img/14-2D-Stress-Strain-51.jpg",
         "papers/physics/img/14-2D-Stress-Strain-52.jpg",
         "papers/physics/img/14-2D-Stress-Strain-53.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.4245
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.3628,
+              0.5451
+            ]
+          ]
+        ]
       ]
     }
   ]

@@ -32,6 +32,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1225,
+          0.4055
+        ]
       ]
     },
     {
@@ -61,6 +68,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5992,
+          0.7626
+        ]
       ]
     },
     {
@@ -90,6 +104,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9145,
+          0.9335
+        ],
+        [
+          1,
+          0.0513,
+          0.2498
+        ]
       ]
     },
     {
@@ -120,6 +146,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4008,
+          0.6515
+        ]
       ]
     },
     {
@@ -151,6 +184,18 @@
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q5.jpg",
         "papers/chemistry/fig/05-Alkenes-A-Q5-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8129,
+          0.925
+        ],
+        [
+          1,
+          0.0532,
+          0.2298
+        ]
       ]
     },
     {
@@ -182,6 +227,18 @@
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q6.jpg",
         "papers/chemistry/fig/05-Alkenes-A-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4292,
+          0.5394
+        ],
+        [
+          1,
+          0.0513,
+          0.5223
+        ]
       ]
     },
     {
@@ -209,6 +266,13 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-04.jpg",
         "papers/chemistry/img/05-Alkenes-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6581,
+          0.8101
+        ]
       ]
     },
     {
@@ -236,6 +300,13 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-04.jpg",
         "papers/chemistry/img/05-Alkenes-05.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.075,
+          0.2279
+        ]
       ]
     },
     {
@@ -266,6 +337,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4292,
+          0.7616
+        ]
       ]
     },
     {
@@ -293,6 +371,25 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-05.jpg",
         "papers/chemistry/img/05-Alkenes-06.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.188
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -320,6 +417,25 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-05.jpg",
         "papers/chemistry/img/05-Alkenes-06.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2099,
+          0.3153
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -350,6 +466,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5195,
+          0.8072
+        ]
       ]
     },
     {
@@ -377,6 +500,13 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-07.jpg",
         "papers/chemistry/img/05-Alkenes-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2802,
+          0.4245
+        ]
       ]
     },
     {
@@ -408,6 +538,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q13a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6125,
+          0.6315
+        ],
+        [
+          1,
+          0.0513,
+          0.3637
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.584,
+              0.603
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -435,6 +589,25 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-07.jpg",
         "papers/chemistry/img/05-Alkenes-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3666,
+          0.4729
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.584,
+              0.603
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -463,6 +636,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6762,
+          0.8642
+        ]
       ]
     },
     {
@@ -492,6 +672,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.169,
+          0.7863
+        ]
       ]
     },
     {
@@ -521,6 +708,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1909,
+          0.3656
+        ]
       ]
     },
     {
@@ -550,6 +744,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5689,
+          0.623
+        ]
       ]
     },
     {
@@ -580,6 +781,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q18a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8813,
+          0.9003
+        ],
+        [
+          1,
+          0.0513,
+          0.5812
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.8471,
+              0.8718
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -607,6 +832,25 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-11.jpg",
         "papers/chemistry/img/05-Alkenes-12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.584,
+          0.6933
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.8471,
+              0.8718
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -637,6 +881,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8946,
+          0.9136
+        ],
+        [
+          1,
+          0.0522,
+          0.3058
+        ]
       ]
     },
     {
@@ -666,6 +922,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5024,
+          0.7607
+        ]
       ]
     },
     {
@@ -693,6 +956,13 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-14.jpg",
         "papers/chemistry/img/05-Alkenes-15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2517,
+          0.3428
+        ]
       ]
     },
     {
@@ -723,6 +993,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5461,
+          0.7702
+        ]
       ]
     },
     {
@@ -753,6 +1030,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1947,
+          0.301
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              1,
+              0.0855,
+              0.1842
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -783,6 +1079,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3219,
+          0.4729
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              1,
+              0.0855,
+              0.1842
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -813,6 +1128,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8594,
+          0.9335
+        ],
+        [
+          1,
+          0.0513,
+          0.0712
+        ]
       ]
     },
     {
@@ -840,6 +1167,13 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-16.jpg",
         "papers/chemistry/img/05-Alkenes-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.226,
+          0.3352
+        ]
       ]
     },
     {
@@ -870,6 +1204,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4862,
+          0.8139
+        ]
       ]
     },
     {
@@ -900,6 +1241,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.075,
+          0.2469
+        ]
       ]
     },
     {
@@ -927,6 +1275,25 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-17.jpg",
         "papers/chemistry/img/05-Alkenes-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5736,
+          0.6809
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.4653,
+              0.5632
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -956,6 +1323,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q28b.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7009,
+          0.7426
+        ],
+        [
+          1,
+          0.057,
+          0.547
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.4653,
+              0.5632
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -983,6 +1374,25 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-17.jpg",
         "papers/chemistry/img/05-Alkenes-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5717,
+          0.8015
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.4653,
+              0.5632
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1013,6 +1423,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1415,
+          0.4577
+        ]
       ]
     },
     {
@@ -1043,6 +1460,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7436,
+          0.8509
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.6429,
+              0.7331
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1073,6 +1509,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8708,
+          0.943
+        ],
+        [
+          1,
+          0.0513,
+          0.1064
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.6429,
+              0.7331
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1100,6 +1560,13 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-20.jpg",
         "papers/chemistry/img/05-Alkenes-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3086,
+          0.4008
+        ]
       ]
     },
     {
@@ -1127,6 +1594,25 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-20.jpg",
         "papers/chemistry/img/05-Alkenes-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6334,
+          0.7683
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.604,
+              0.623
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1154,6 +1640,25 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-20.jpg",
         "papers/chemistry/img/05-Alkenes-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7901,
+          0.925
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.604,
+              0.623
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1184,6 +1689,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2507,
+          0.528
+        ]
       ]
     },
     {
@@ -1213,6 +1725,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7312,
+          0.9373
+        ],
+        [
+          1,
+          0.0513,
+          0.0741
+        ]
       ]
     },
     {
@@ -1241,6 +1765,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2745,
+          0.6334
+        ]
       ]
     },
     {
@@ -1269,6 +1800,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8262,
+          0.8604
+        ]
       ]
     },
     {
@@ -1299,6 +1837,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8718,
+          0.8879
+        ],
+        [
+          1,
+          0.0522,
+          0.1966
+        ]
       ]
     },
     {
@@ -1329,6 +1879,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3989,
+          0.8386
+        ]
       ]
     },
     {
@@ -1357,6 +1914,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-A-Q39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1538,
+          0.6705
+        ]
       ]
     },
     {
@@ -1385,6 +1949,25 @@
         "papers/chemistry/img/05-Alkenes-26.jpg",
         "papers/chemistry/img/05-Alkenes-27.jpg",
         "papers/chemistry/img/05-Alkenes-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1519,
+          0.3305
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1413,6 +1996,35 @@
         "papers/chemistry/img/05-Alkenes-26.jpg",
         "papers/chemistry/img/05-Alkenes-27.jpg",
         "papers/chemistry/img/05-Alkenes-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3656,
+          0.4482
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.3428,
+              0.3618
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1441,6 +2053,35 @@
         "papers/chemistry/img/05-Alkenes-26.jpg",
         "papers/chemistry/img/05-Alkenes-27.jpg",
         "papers/chemistry/img/05-Alkenes-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4539,
+          0.5366
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ],
+        [
+          "Q1(b)",
+          [
+            [
+              0,
+              0.3428,
+              0.3618
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1469,6 +2110,25 @@
         "papers/chemistry/img/05-Alkenes-26.jpg",
         "papers/chemistry/img/05-Alkenes-27.jpg",
         "papers/chemistry/img/05-Alkenes-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5499,
+          0.5689
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1497,6 +2157,30 @@
         "papers/chemistry/img/05-Alkenes-26.jpg",
         "papers/chemistry/img/05-Alkenes-27.jpg",
         "papers/chemistry/img/05-Alkenes-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8186,
+          0.905
+        ],
+        [
+          1,
+          0.1206,
+          0.1586
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1528,6 +2212,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q1e.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1709,
+          0.7056
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1558,6 +2261,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q1f.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7189,
+          0.8414
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1586,6 +2308,25 @@
         "papers/chemistry/img/05-Alkenes-29.jpg",
         "papers/chemistry/img/05-Alkenes-30.jpg",
         "papers/chemistry/img/05-Alkenes-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4454,
+          0.5062
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.2612,
+              0.4359
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1618,6 +2359,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5195,
+          0.6676
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.2612,
+              0.4359
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1650,6 +2410,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6809,
+          0.7369
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.2612,
+              0.4359
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1681,6 +2460,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q2d.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5622,
+          0.5964
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.2612,
+              0.4359
+            ]
+          ]
+        ],
+        [
+          "Q2(d)",
+          [
+            [
+              1,
+              0.3229,
+              0.5594
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1713,6 +2521,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q2d.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6828,
+          0.7284
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.2612,
+              0.4359
+            ]
+          ]
+        ],
+        [
+          "Q2(d)",
+          [
+            [
+              1,
+              0.3229,
+              0.5594
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1744,6 +2581,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q2d.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7274,
+          0.7806
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.2612,
+              0.4359
+            ]
+          ]
+        ],
+        [
+          "Q2(d)",
+          [
+            [
+              1,
+              0.3229,
+              0.5594
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1776,6 +2642,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q2d.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7873,
+          0.9278
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.2612,
+              0.4359
+            ]
+          ]
+        ],
+        [
+          "Q2(d)",
+          [
+            [
+              1,
+              0.3229,
+              0.5594
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1808,6 +2708,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1406,
+          0.2887
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.2612,
+              0.4359
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1840,6 +2759,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q2f.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.0978,
+          0.2953
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.2612,
+              0.4359
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1868,6 +2806,25 @@
         "papers/chemistry/img/05-Alkenes-31.jpg",
         "papers/chemistry/img/05-Alkenes-32.jpg",
         "papers/chemistry/img/05-Alkenes-33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2593
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8974,
+              0.9459
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1896,6 +2853,25 @@
         "papers/chemistry/img/05-Alkenes-31.jpg",
         "papers/chemistry/img/05-Alkenes-32.jpg",
         "papers/chemistry/img/05-Alkenes-33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2659,
+          0.4653
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8974,
+              0.9459
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1924,6 +2900,35 @@
         "papers/chemistry/img/05-Alkenes-31.jpg",
         "papers/chemistry/img/05-Alkenes-32.jpg",
         "papers/chemistry/img/05-Alkenes-33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5005,
+          0.5537
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8974,
+              0.9459
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              1,
+              0.4786,
+              0.4976
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1952,6 +2957,35 @@
         "papers/chemistry/img/05-Alkenes-31.jpg",
         "papers/chemistry/img/05-Alkenes-32.jpg",
         "papers/chemistry/img/05-Alkenes-33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5594,
+          0.5935
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8974,
+              0.9459
+            ]
+          ]
+        ],
+        [
+          "Q3(b)",
+          [
+            [
+              1,
+              0.4786,
+              0.4976
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1980,6 +3014,35 @@
         "papers/chemistry/img/05-Alkenes-31.jpg",
         "papers/chemistry/img/05-Alkenes-32.jpg",
         "papers/chemistry/img/05-Alkenes-33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7844,
+          0.8376
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8974,
+              0.9459
+            ]
+          ]
+        ],
+        [
+          "Q3(c)",
+          [
+            [
+              1,
+              0.7616,
+              0.7806
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2008,6 +3071,40 @@
         "papers/chemistry/img/05-Alkenes-31.jpg",
         "papers/chemistry/img/05-Alkenes-32.jpg",
         "papers/chemistry/img/05-Alkenes-33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8433,
+          0.9259
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8974,
+              0.9459
+            ]
+          ]
+        ],
+        [
+          "Q3(c)",
+          [
+            [
+              1,
+              0.7616,
+              0.7806
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2036,6 +3133,35 @@
         "papers/chemistry/img/05-Alkenes-31.jpg",
         "papers/chemistry/img/05-Alkenes-32.jpg",
         "papers/chemistry/img/05-Alkenes-33.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1339,
+          0.1529
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8974,
+              0.9459
+            ]
+          ]
+        ],
+        [
+          "Q3(d)",
+          [
+            [
+              2,
+              0.1111,
+              0.1301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2064,6 +3190,35 @@
         "papers/chemistry/img/05-Alkenes-31.jpg",
         "papers/chemistry/img/05-Alkenes-32.jpg",
         "papers/chemistry/img/05-Alkenes-33.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3134,
+          0.5432
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8974,
+              0.9459
+            ]
+          ]
+        ],
+        [
+          "Q3(d)",
+          [
+            [
+              2,
+              0.1111,
+              0.1301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2092,6 +3247,35 @@
         "papers/chemistry/img/05-Alkenes-31.jpg",
         "papers/chemistry/img/05-Alkenes-32.jpg",
         "papers/chemistry/img/05-Alkenes-33.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5783,
+          0.661
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8974,
+              0.9459
+            ]
+          ]
+        ],
+        [
+          "Q3(e)",
+          [
+            [
+              2,
+              0.5565,
+              0.5755
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2120,6 +3304,35 @@
         "papers/chemistry/img/05-Alkenes-31.jpg",
         "papers/chemistry/img/05-Alkenes-32.jpg",
         "papers/chemistry/img/05-Alkenes-33.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6667,
+          0.8234
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.8974,
+              0.9459
+            ]
+          ]
+        ],
+        [
+          "Q3(e)",
+          [
+            [
+              2,
+              0.5565,
+              0.5755
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2150,6 +3363,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2251,
+          0.3267
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.0902,
+              0.2156
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2178,6 +3410,35 @@
         "papers/chemistry/img/05-Alkenes-34.jpg",
         "papers/chemistry/img/05-Alkenes-35.jpg",
         "papers/chemistry/img/05-Alkenes-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6667,
+          0.7208
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.0902,
+              0.2156
+            ]
+          ]
+        ],
+        [
+          "Q4(b)",
+          [
+            [
+              0,
+              0.6448,
+              0.6638
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2206,6 +3467,35 @@
         "papers/chemistry/img/05-Alkenes-34.jpg",
         "papers/chemistry/img/05-Alkenes-35.jpg",
         "papers/chemistry/img/05-Alkenes-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7265,
+          0.7749
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.0902,
+              0.2156
+            ]
+          ]
+        ],
+        [
+          "Q4(b)",
+          [
+            [
+              0,
+              0.6448,
+              0.6638
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2233,6 +3523,35 @@
         "papers/chemistry/img/05-Alkenes-34.jpg",
         "papers/chemistry/img/05-Alkenes-35.jpg",
         "papers/chemistry/img/05-Alkenes-36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3903,
+          0.4435
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.0902,
+              0.2156
+            ]
+          ]
+        ],
+        [
+          "Q4(c)",
+          [
+            [
+              1,
+              0.3533,
+              0.3875
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2261,6 +3580,35 @@
         "papers/chemistry/img/05-Alkenes-34.jpg",
         "papers/chemistry/img/05-Alkenes-35.jpg",
         "papers/chemistry/img/05-Alkenes-36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4482,
+          0.4957
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.0902,
+              0.2156
+            ]
+          ]
+        ],
+        [
+          "Q4(c)",
+          [
+            [
+              1,
+              0.3533,
+              0.3875
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2289,6 +3637,25 @@
         "papers/chemistry/img/05-Alkenes-34.jpg",
         "papers/chemistry/img/05-Alkenes-35.jpg",
         "papers/chemistry/img/05-Alkenes-36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7417,
+          0.8575
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.0902,
+              0.2156
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2317,6 +3684,35 @@
         "papers/chemistry/img/05-Alkenes-36.jpg",
         "papers/chemistry/img/05-Alkenes-37.jpg",
         "papers/chemistry/img/05-Alkenes-38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5537,
+          0.5726
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.3514,
+              0.3704
+            ]
+          ]
+        ],
+        [
+          "Q5(a)",
+          [
+            [
+              0,
+              0.3808,
+              0.5518
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2348,6 +3744,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q5a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7341,
+          0.8756
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.3514,
+              0.3704
+            ]
+          ]
+        ],
+        [
+          "Q5(a)",
+          [
+            [
+              0,
+              0.3808,
+              0.5518
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2376,6 +3801,40 @@
         "papers/chemistry/img/05-Alkenes-36.jpg",
         "papers/chemistry/img/05-Alkenes-37.jpg",
         "papers/chemistry/img/05-Alkenes-38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8813,
+          0.9345
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.3514,
+              0.3704
+            ]
+          ]
+        ],
+        [
+          "Q5(a)",
+          [
+            [
+              0,
+              0.3808,
+              0.5518
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2404,6 +3863,35 @@
         "papers/chemistry/img/05-Alkenes-36.jpg",
         "papers/chemistry/img/05-Alkenes-37.jpg",
         "papers/chemistry/img/05-Alkenes-38.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1045,
+          0.3039
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.3514,
+              0.3704
+            ]
+          ]
+        ],
+        [
+          "Q5(a)",
+          [
+            [
+              0,
+              0.3808,
+              0.5518
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2435,6 +3923,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q5b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4065,
+          0.5185
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.3514,
+              0.3704
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              1,
+              0.3172,
+              0.3694
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2458,6 +3975,35 @@
         "papers/chemistry/img/05-Alkenes-36.jpg",
         "papers/chemistry/img/05-Alkenes-37.jpg",
         "papers/chemistry/img/05-Alkenes-38.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5242,
+          0.5878
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.3514,
+              0.3704
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              1,
+              0.3172,
+              0.3694
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2486,6 +4032,40 @@
         "papers/chemistry/img/05-Alkenes-36.jpg",
         "papers/chemistry/img/05-Alkenes-37.jpg",
         "papers/chemistry/img/05-Alkenes-38.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8243,
+          0.9354
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.3514,
+              0.3704
+            ]
+          ]
+        ],
+        [
+          "Q5(b)",
+          [
+            [
+              1,
+              0.3172,
+              0.3694
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2514,6 +4094,25 @@
         "papers/chemistry/img/05-Alkenes-39.jpg",
         "papers/chemistry/img/05-Alkenes-40.jpg",
         "papers/chemistry/img/05-Alkenes-41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2745,
+          0.3124
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.245,
+              0.2631
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2543,6 +4142,35 @@
         "papers/chemistry/img/05-Alkenes-39.jpg",
         "papers/chemistry/img/05-Alkenes-40.jpg",
         "papers/chemistry/img/05-Alkenes-41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4311,
+          0.4501
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.245,
+              0.2631
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              0,
+              0.4084,
+              0.4274
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2572,6 +4200,40 @@
         "papers/chemistry/img/05-Alkenes-39.jpg",
         "papers/chemistry/img/05-Alkenes-40.jpg",
         "papers/chemistry/img/05-Alkenes-41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6106,
+          0.6296
+        ],
+        [
+          1,
+          0.0617,
+          0.4482
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.245,
+              0.2631
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              0,
+              0.4084,
+              0.4274
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2603,6 +4265,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q6c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7521,
+          0.7711
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.245,
+              0.2631
+            ]
+          ]
+        ],
+        [
+          "Q6(c)",
+          [
+            [
+              1,
+              0.4587,
+              0.7493
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2635,6 +4326,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q6c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1282,
+          0.2403
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.245,
+              0.2631
+            ]
+          ]
+        ],
+        [
+          "Q6(c)",
+          [
+            [
+              1,
+              0.4587,
+              0.7493
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2667,6 +4387,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q6d.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2536,
+          0.5499
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.245,
+              0.2631
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2698,6 +4437,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q6e.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6344,
+          0.811
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.245,
+              0.2631
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2727,6 +4485,25 @@
         "papers/chemistry/img/05-Alkenes-39.jpg",
         "papers/chemistry/img/05-Alkenes-40.jpg",
         "papers/chemistry/img/05-Alkenes-41.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8224,
+          0.925
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.245,
+              0.2631
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2755,6 +4532,25 @@
         "papers/chemistry/img/05-Alkenes-41.jpg",
         "papers/chemistry/img/05-Alkenes-42.jpg",
         "papers/chemistry/img/05-Alkenes-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6201,
+          0.6695
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.4862,
+              0.6097
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2783,6 +4579,30 @@
         "papers/chemistry/img/05-Alkenes-41.jpg",
         "papers/chemistry/img/05-Alkenes-42.jpg",
         "papers/chemistry/img/05-Alkenes-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7692,
+          0.9183
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.4862,
+              0.6097
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2811,6 +4631,25 @@
         "papers/chemistry/img/05-Alkenes-41.jpg",
         "papers/chemistry/img/05-Alkenes-42.jpg",
         "papers/chemistry/img/05-Alkenes-43.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1406,
+          0.1814
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.4862,
+              0.6097
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2842,6 +4681,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q7d.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3124,
+          0.3685
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.4862,
+              0.6097
+            ]
+          ]
+        ],
+        [
+          "Q7(d)",
+          [
+            [
+              1,
+              0.2745,
+              0.3058
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2870,6 +4738,35 @@
         "papers/chemistry/img/05-Alkenes-41.jpg",
         "papers/chemistry/img/05-Alkenes-42.jpg",
         "papers/chemistry/img/05-Alkenes-43.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3713,
+          0.4055
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.4862,
+              0.6097
+            ]
+          ]
+        ],
+        [
+          "Q7(d)",
+          [
+            [
+              1,
+              0.2745,
+              0.3058
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2901,6 +4798,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q7e.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8737,
+          0.9449
+        ],
+        [
+          2,
+          0.0655,
+          0.3989
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.4862,
+              0.6097
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2930,6 +4851,25 @@
         "papers/chemistry/img/05-Alkenes-44.jpg",
         "papers/chemistry/img/05-Alkenes-45.jpg",
         "papers/chemistry/img/05-Alkenes-46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6961,
+          0.7863
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5366,
+              0.6838
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2962,6 +4902,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7987,
+          0.8594
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5366,
+              0.6838
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2991,6 +4950,40 @@
         "papers/chemistry/img/05-Alkenes-44.jpg",
         "papers/chemistry/img/05-Alkenes-45.jpg",
         "papers/chemistry/img/05-Alkenes-46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.925,
+          0.944
+        ],
+        [
+          1,
+          0.0826,
+          0.0912
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5366,
+              0.6838
+            ]
+          ]
+        ],
+        [
+          "Q8(c)",
+          [
+            [
+              0,
+              0.8727,
+              0.9212
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3019,6 +5012,35 @@
         "papers/chemistry/img/05-Alkenes-44.jpg",
         "papers/chemistry/img/05-Alkenes-45.jpg",
         "papers/chemistry/img/05-Alkenes-46.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0969,
+          0.1311
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5366,
+              0.6838
+            ]
+          ]
+        ],
+        [
+          "Q8(c)",
+          [
+            [
+              0,
+              0.8727,
+              0.9212
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3048,6 +5070,35 @@
         "papers/chemistry/img/05-Alkenes-44.jpg",
         "papers/chemistry/img/05-Alkenes-45.jpg",
         "papers/chemistry/img/05-Alkenes-46.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3675,
+          0.4615
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5366,
+              0.6838
+            ]
+          ]
+        ],
+        [
+          "Q8(c)",
+          [
+            [
+              0,
+              0.8727,
+              0.9212
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3077,6 +5128,40 @@
         "papers/chemistry/img/05-Alkenes-44.jpg",
         "papers/chemistry/img/05-Alkenes-45.jpg",
         "papers/chemistry/img/05-Alkenes-46.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9231,
+          0.9421
+        ],
+        [
+          2,
+          0.0532,
+          0.0864
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5366,
+              0.6838
+            ]
+          ]
+        ],
+        [
+          "Q8(c)",
+          [
+            [
+              0,
+              0.8727,
+              0.9212
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3106,6 +5191,35 @@
         "papers/chemistry/img/05-Alkenes-44.jpg",
         "papers/chemistry/img/05-Alkenes-45.jpg",
         "papers/chemistry/img/05-Alkenes-46.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1956,
+          0.2555
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5366,
+              0.6838
+            ]
+          ]
+        ],
+        [
+          "Q8(d)",
+          [
+            [
+              2,
+              0.15,
+              0.2023
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3135,6 +5249,35 @@
         "papers/chemistry/img/05-Alkenes-44.jpg",
         "papers/chemistry/img/05-Alkenes-45.jpg",
         "papers/chemistry/img/05-Alkenes-46.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2602,
+          0.3105
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5366,
+              0.6838
+            ]
+          ]
+        ],
+        [
+          "Q8(d)",
+          [
+            [
+              2,
+              0.15,
+              0.2023
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3163,6 +5306,35 @@
         "papers/chemistry/img/05-Alkenes-44.jpg",
         "papers/chemistry/img/05-Alkenes-45.jpg",
         "papers/chemistry/img/05-Alkenes-46.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.397,
+          0.4758
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5366,
+              0.6838
+            ]
+          ]
+        ],
+        [
+          "Q8(d)",
+          [
+            [
+              2,
+              0.15,
+              0.2023
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3195,6 +5367,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q8e.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7787,
+          0.9345
+        ],
+        [
+          3,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5366,
+              0.6838
+            ]
+          ]
+        ],
+        [
+          "Q8(e)",
+          [
+            [
+              2,
+              0.6439,
+              0.7759
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3227,6 +5433,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q8e.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1045,
+          0.4255
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5366,
+              0.6838
+            ]
+          ]
+        ],
+        [
+          "Q8(e)",
+          [
+            [
+              2,
+              0.6439,
+              0.7759
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3256,6 +5491,35 @@
         "papers/chemistry/img/05-Alkenes-44.jpg",
         "papers/chemistry/img/05-Alkenes-45.jpg",
         "papers/chemistry/img/05-Alkenes-46.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.5052,
+          0.6173
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5366,
+              0.6838
+            ]
+          ]
+        ],
+        [
+          "Q8(f)",
+          [
+            [
+              3,
+              0.4387,
+              0.5014
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3285,6 +5549,35 @@
         "papers/chemistry/img/05-Alkenes-44.jpg",
         "papers/chemistry/img/05-Alkenes-45.jpg",
         "papers/chemistry/img/05-Alkenes-46.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.623,
+          0.6762
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5366,
+              0.6838
+            ]
+          ]
+        ],
+        [
+          "Q8(f)",
+          [
+            [
+              3,
+              0.4387,
+              0.5014
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3316,6 +5609,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q8f.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.6819,
+          0.8927
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5366,
+              0.6838
+            ]
+          ]
+        ],
+        [
+          "Q8(f)",
+          [
+            [
+              3,
+              0.4387,
+              0.5014
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3345,6 +5667,25 @@
         "papers/chemistry/img/05-Alkenes-48.jpg",
         "papers/chemistry/img/05-Alkenes-49.jpg",
         "papers/chemistry/img/05-Alkenes-50.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1709,
+          0.3191
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1425,
+              0.1586
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3374,6 +5715,25 @@
         "papers/chemistry/img/05-Alkenes-48.jpg",
         "papers/chemistry/img/05-Alkenes-49.jpg",
         "papers/chemistry/img/05-Alkenes-50.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3324,
+          0.3941
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1425,
+              0.1586
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3403,6 +5763,25 @@
         "papers/chemistry/img/05-Alkenes-48.jpg",
         "papers/chemistry/img/05-Alkenes-49.jpg",
         "papers/chemistry/img/05-Alkenes-50.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4141,
+          0.6382
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1425,
+              0.1586
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3435,6 +5814,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q9b.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6401,
+          0.6591
+        ],
+        [
+          1,
+          0.0513,
+          0.3628
+        ],
+        [
+          2,
+          0.0665,
+          0.5613
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1425,
+              0.1586
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3464,6 +5872,25 @@
         "papers/chemistry/img/05-Alkenes-48.jpg",
         "papers/chemistry/img/05-Alkenes-49.jpg",
         "papers/chemistry/img/05-Alkenes-50.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6334,
+          0.6524
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1425,
+              0.1586
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3493,6 +5920,30 @@
         "papers/chemistry/img/05-Alkenes-48.jpg",
         "papers/chemistry/img/05-Alkenes-49.jpg",
         "papers/chemistry/img/05-Alkenes-50.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8281,
+          0.9326
+        ],
+        [
+          3,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1425,
+              0.1586
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3522,6 +5973,25 @@
         "papers/chemistry/img/05-Alkenes-48.jpg",
         "papers/chemistry/img/05-Alkenes-49.jpg",
         "papers/chemistry/img/05-Alkenes-50.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1111,
+          0.226
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1425,
+              0.1586
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3551,6 +6021,25 @@
         "papers/chemistry/img/05-Alkenes-48.jpg",
         "papers/chemistry/img/05-Alkenes-49.jpg",
         "papers/chemistry/img/05-Alkenes-50.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.4634,
+          0.6629
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.1425,
+              0.1586
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3582,6 +6071,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q10b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2099,
+          0.2697
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8091,
+              0.8699
+            ],
+            [
+              1,
+              0.0826,
+              0.1994
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3610,6 +6123,30 @@
         "papers/chemistry/img/05-Alkenes-50.jpg",
         "papers/chemistry/img/05-Alkenes-51.jpg",
         "papers/chemistry/img/05-Alkenes-52.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.283,
+          0.3504
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8091,
+              0.8699
+            ],
+            [
+              1,
+              0.0826,
+              0.1994
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3641,6 +6178,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q10b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3438,
+          0.3846
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8091,
+              0.8699
+            ],
+            [
+              1,
+              0.0826,
+              0.1994
+            ]
+          ]
+        ],
+        [
+          "Q10(b)(i)",
+          [
+            [
+              1,
+              0.283,
+              0.3504
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3669,6 +6240,40 @@
         "papers/chemistry/img/05-Alkenes-50.jpg",
         "papers/chemistry/img/05-Alkenes-51.jpg",
         "papers/chemistry/img/05-Alkenes-52.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5451,
+          0.5983
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8091,
+              0.8699
+            ],
+            [
+              1,
+              0.0826,
+              0.1994
+            ]
+          ]
+        ],
+        [
+          "Q10(b)(i)",
+          [
+            [
+              1,
+              0.283,
+              0.3504
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3700,6 +6305,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q10c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6116,
+          0.8481
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8091,
+              0.8699
+            ],
+            [
+              1,
+              0.0826,
+              0.1994
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3728,6 +6357,30 @@
         "papers/chemistry/img/05-Alkenes-50.jpg",
         "papers/chemistry/img/05-Alkenes-51.jpg",
         "papers/chemistry/img/05-Alkenes-52.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1282,
+          0.2764
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8091,
+              0.8699
+            ],
+            [
+              1,
+              0.0826,
+              0.1994
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3756,6 +6409,40 @@
         "papers/chemistry/img/05-Alkenes-50.jpg",
         "papers/chemistry/img/05-Alkenes-51.jpg",
         "papers/chemistry/img/05-Alkenes-52.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3352,
+          0.5271
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8091,
+              0.8699
+            ],
+            [
+              1,
+              0.0826,
+              0.1994
+            ]
+          ]
+        ],
+        [
+          "Q10(e)",
+          [
+            [
+              2,
+              0.2887,
+              0.3419
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3783,6 +6470,40 @@
         "papers/chemistry/img/05-Alkenes-50.jpg",
         "papers/chemistry/img/05-Alkenes-51.jpg",
         "papers/chemistry/img/05-Alkenes-52.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5337,
+          0.5973
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8091,
+              0.8699
+            ],
+            [
+              1,
+              0.0826,
+              0.1994
+            ]
+          ]
+        ],
+        [
+          "Q10(e)",
+          [
+            [
+              2,
+              0.2887,
+              0.3419
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3814,6 +6535,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q11a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2849,
+          0.3381
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.8993,
+              0.9335
+            ]
+          ]
+        ],
+        [
+          "Q11(a)",
+          [
+            [
+              1,
+              0.0532,
+              0.2726
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3845,6 +6595,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q11a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3447,
+          0.4416
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.8993,
+              0.9335
+            ]
+          ]
+        ],
+        [
+          "Q11(a)",
+          [
+            [
+              1,
+              0.0532,
+              0.2726
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3876,6 +6655,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q11a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4473,
+          0.5271
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.8993,
+              0.9335
+            ]
+          ]
+        ],
+        [
+          "Q11(a)",
+          [
+            [
+              1,
+              0.0532,
+              0.2726
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3904,6 +6712,25 @@
         "papers/chemistry/img/05-Alkenes-52.jpg",
         "papers/chemistry/img/05-Alkenes-53.jpg",
         "papers/chemistry/img/05-Alkenes-54.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6952,
+          0.9022
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.8993,
+              0.9335
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3932,6 +6759,30 @@
         "papers/chemistry/img/05-Alkenes-52.jpg",
         "papers/chemistry/img/05-Alkenes-53.jpg",
         "papers/chemistry/img/05-Alkenes-54.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9155,
+          0.9345
+        ],
+        [
+          2,
+          0.0532,
+          0.1937
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.8993,
+              0.9335
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3963,6 +6814,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q12a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.529,
+          0.5821
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.3409,
+              0.3599
+            ]
+          ]
+        ],
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.3704,
+              0.5271
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3991,6 +6871,35 @@
         "papers/chemistry/img/05-Alkenes-54.jpg",
         "papers/chemistry/img/05-Alkenes-55.jpg",
         "papers/chemistry/img/05-Alkenes-56.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5878,
+          0.642
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.3409,
+              0.3599
+            ]
+          ]
+        ],
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.3704,
+              0.5271
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4019,6 +6928,35 @@
         "papers/chemistry/img/05-Alkenes-54.jpg",
         "papers/chemistry/img/05-Alkenes-55.jpg",
         "papers/chemistry/img/05-Alkenes-56.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6477,
+          0.7303
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.3409,
+              0.3599
+            ]
+          ]
+        ],
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.3704,
+              0.5271
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4050,6 +6988,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q12b.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7436,
+          0.9269
+        ],
+        [
+          1,
+          0.1358,
+          0.2915
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.3409,
+              0.3599
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4078,6 +7040,35 @@
         "papers/chemistry/img/05-Alkenes-54.jpg",
         "papers/chemistry/img/05-Alkenes-55.jpg",
         "papers/chemistry/img/05-Alkenes-56.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5556,
+          0.6049
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.3409,
+              0.3599
+            ]
+          ]
+        ],
+        [
+          "Q12(c)",
+          [
+            [
+              1,
+              0.5337,
+              0.5527
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4106,6 +7097,45 @@
         "papers/chemistry/img/05-Alkenes-54.jpg",
         "papers/chemistry/img/05-Alkenes-55.jpg",
         "papers/chemistry/img/05-Alkenes-56.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8414,
+          0.9231
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.3409,
+              0.3599
+            ]
+          ]
+        ],
+        [
+          "Q12(c)",
+          [
+            [
+              1,
+              0.5337,
+              0.5527
+            ]
+          ]
+        ],
+        [
+          "Q12(c)(i)",
+          [
+            [
+              1,
+              0.5556,
+              0.6049
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4134,6 +7164,35 @@
         "papers/chemistry/img/05-Alkenes-54.jpg",
         "papers/chemistry/img/05-Alkenes-55.jpg",
         "papers/chemistry/img/05-Alkenes-56.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.075,
+          0.1092
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.3409,
+              0.3599
+            ]
+          ]
+        ],
+        [
+          "Q12(d)",
+          [
+            [
+              2,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4162,6 +7221,35 @@
         "papers/chemistry/img/05-Alkenes-54.jpg",
         "papers/chemistry/img/05-Alkenes-55.jpg",
         "papers/chemistry/img/05-Alkenes-56.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2707,
+          0.3495
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.3409,
+              0.3599
+            ]
+          ]
+        ],
+        [
+          "Q12(d)",
+          [
+            [
+              2,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4189,6 +7277,55 @@
         "papers/chemistry/img/05-Alkenes-54.jpg",
         "papers/chemistry/img/05-Alkenes-55.jpg",
         "papers/chemistry/img/05-Alkenes-56.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.66,
+          0.679
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.3409,
+              0.3599
+            ]
+          ]
+        ],
+        [
+          "Q12(d)",
+          [
+            [
+              2,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q12(d)(i)",
+          [
+            [
+              2,
+              0.075,
+              0.1092
+            ]
+          ]
+        ],
+        [
+          "Q12(d)(ii)",
+          [
+            [
+              2,
+              0.2707,
+              0.3495
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4217,6 +7354,35 @@
         "papers/chemistry/img/05-Alkenes-57.jpg",
         "papers/chemistry/img/05-Alkenes-58.jpg",
         "papers/chemistry/img/05-Alkenes-59.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1415,
+          0.3561
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.0902,
+              0.1064
+            ]
+          ]
+        ],
+        [
+          "Q13(a)",
+          [
+            [
+              0,
+              0.1197,
+              0.1387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4245,6 +7411,35 @@
         "papers/chemistry/img/05-Alkenes-57.jpg",
         "papers/chemistry/img/05-Alkenes-58.jpg",
         "papers/chemistry/img/05-Alkenes-59.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3618,
+          0.6353
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.0902,
+              0.1064
+            ]
+          ]
+        ],
+        [
+          "Q13(a)",
+          [
+            [
+              0,
+              0.1197,
+              0.1387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4273,6 +7468,35 @@
         "papers/chemistry/img/05-Alkenes-57.jpg",
         "papers/chemistry/img/05-Alkenes-58.jpg",
         "papers/chemistry/img/05-Alkenes-59.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6705,
+          0.9288
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.0902,
+              0.1064
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              0,
+              0.6486,
+              0.6676
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4301,6 +7525,35 @@
         "papers/chemistry/img/05-Alkenes-57.jpg",
         "papers/chemistry/img/05-Alkenes-58.jpg",
         "papers/chemistry/img/05-Alkenes-59.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2526
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.0902,
+              0.1064
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              0,
+              0.6486,
+              0.6676
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4329,6 +7582,35 @@
         "papers/chemistry/img/05-Alkenes-57.jpg",
         "papers/chemistry/img/05-Alkenes-58.jpg",
         "papers/chemistry/img/05-Alkenes-59.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2583,
+          0.415
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.0902,
+              0.1064
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              0,
+              0.6486,
+              0.6676
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4360,6 +7642,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q13c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8148,
+          0.9421
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.0902,
+              0.1064
+            ]
+          ]
+        ],
+        [
+          "Q13(c)",
+          [
+            [
+              1,
+              0.4274,
+              0.812
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4388,6 +7704,35 @@
         "papers/chemistry/img/05-Alkenes-57.jpg",
         "papers/chemistry/img/05-Alkenes-58.jpg",
         "papers/chemistry/img/05-Alkenes-59.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.075,
+          0.2896
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.0902,
+              0.1064
+            ]
+          ]
+        ],
+        [
+          "Q13(c)",
+          [
+            [
+              1,
+              0.4274,
+              0.812
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4419,6 +7764,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q14a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4948,
+          0.6695
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4359,
+              0.4815
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4450,6 +7814,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q14b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4834,
+          0.5024
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4359,
+              0.4815
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              0,
+              0.754,
+              0.773
+            ],
+            [
+              1,
+              0.0513,
+              0.4815
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4481,6 +7879,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q14b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5138,
+          0.5632
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4359,
+              0.4815
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              0,
+              0.754,
+              0.773
+            ],
+            [
+              1,
+              0.0513,
+              0.4815
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4512,6 +7944,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q14c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.1064
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4359,
+              0.4815
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.8063,
+              0.9373
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4542,6 +8003,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q14c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1121,
+          0.2507
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4359,
+              0.4815
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.8063,
+              0.9373
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4572,6 +8062,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q14c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2545,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4359,
+              0.4815
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.8063,
+              0.9373
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4603,6 +8122,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q14c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.434,
+          0.7274
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.4359,
+              0.4815
+            ]
+          ]
+        ],
+        [
+          "Q14(c)",
+          [
+            [
+              1,
+              0.8063,
+              0.9373
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4635,6 +8183,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q15a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2289,
+          0.7512
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ],
+        [
+          "Q15(a)",
+          [
+            [
+              0,
+              0.1709,
+              0.226
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4667,6 +8244,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q15a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.754,
+          0.924
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ],
+        [
+          "Q15(a)",
+          [
+            [
+              0,
+              0.1709,
+              0.226
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4698,6 +8304,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q15b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1814,
+          0.2355
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.1785
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4730,6 +8365,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q15b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2412,
+          0.5005
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ],
+        [
+          "Q15(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.1785
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4758,6 +8422,35 @@
         "papers/chemistry/img/05-Alkenes-63.jpg",
         "papers/chemistry/img/05-Alkenes-64.jpg",
         "papers/chemistry/img/05-Alkenes-65.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5888,
+          0.6144
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ],
+        [
+          "Q15(c)",
+          [
+            [
+              1,
+              0.5128,
+              0.5954
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4786,6 +8479,35 @@
         "papers/chemistry/img/05-Alkenes-63.jpg",
         "papers/chemistry/img/05-Alkenes-64.jpg",
         "papers/chemistry/img/05-Alkenes-65.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7009,
+          0.7493
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ],
+        [
+          "Q15(c)",
+          [
+            [
+              1,
+              0.5128,
+              0.5954
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4814,6 +8536,55 @@
         "papers/chemistry/img/05-Alkenes-63.jpg",
         "papers/chemistry/img/05-Alkenes-64.jpg",
         "papers/chemistry/img/05-Alkenes-65.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9107,
+          0.9449
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ],
+        [
+          "Q15(c)",
+          [
+            [
+              1,
+              0.5128,
+              0.5954
+            ]
+          ]
+        ],
+        [
+          "Q15(c)(i)",
+          [
+            [
+              1,
+              0.5888,
+              0.6144
+            ]
+          ]
+        ],
+        [
+          "Q15(c)(ii)",
+          [
+            [
+              1,
+              0.7009,
+              0.7493
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4846,6 +8617,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q15d.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3077,
+          0.3267
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ],
+        [
+          "Q15(d)",
+          [
+            [
+              2,
+              0.15,
+              0.3039
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4877,6 +8677,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q15d.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4131,
+          0.4463
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ],
+        [
+          "Q15(d)",
+          [
+            [
+              2,
+              0.15,
+              0.3039
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4906,6 +8735,25 @@
         "papers/chemistry/img/05-Alkenes-63.jpg",
         "papers/chemistry/img/05-Alkenes-64.jpg",
         "papers/chemistry/img/05-Alkenes-65.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6904,
+          0.9117
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.1425,
+              0.1605
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4935,6 +8783,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q16a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5594,
+          0.6125
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ],
+        [
+          "Q16(a)",
+          [
+            [
+              0,
+              0.1937,
+              0.5575
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4965,6 +8842,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q16a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6182,
+          0.6724
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ],
+        [
+          "Q16(a)",
+          [
+            [
+              0,
+              0.1937,
+              0.5575
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4995,6 +8901,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q16a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6781,
+          0.7607
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ],
+        [
+          "Q16(a)",
+          [
+            [
+              0,
+              0.1937,
+              0.5575
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5025,6 +8960,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q16a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7664,
+          0.7854
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ],
+        [
+          "Q16(a)",
+          [
+            [
+              0,
+              0.1937,
+              0.5575
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5053,6 +9017,25 @@
         "papers/chemistry/img/05-Alkenes-65.jpg",
         "papers/chemistry/img/05-Alkenes-66.jpg",
         "papers/chemistry/img/05-Alkenes-67.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8784,
+          0.9202
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5081,6 +9064,25 @@
         "papers/chemistry/img/05-Alkenes-65.jpg",
         "papers/chemistry/img/05-Alkenes-66.jpg",
         "papers/chemistry/img/05-Alkenes-67.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2032,
+          0.4179
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5112,6 +9114,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q16c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.453,
+          0.8651
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ],
+        [
+          "Q16(c)",
+          [
+            [
+              1,
+              0.4311,
+              0.4501
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5140,6 +9171,35 @@
         "papers/chemistry/img/05-Alkenes-65.jpg",
         "papers/chemistry/img/05-Alkenes-66.jpg",
         "papers/chemistry/img/05-Alkenes-67.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2783,
+          0.4777
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.1643,
+              0.1833
+            ]
+          ]
+        ],
+        [
+          "Q16(c)",
+          [
+            [
+              1,
+              0.4311,
+              0.4501
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5169,6 +9229,25 @@
         "papers/chemistry/img/05-Alkenes-68.jpg",
         "papers/chemistry/img/05-Alkenes-69.jpg",
         "papers/chemistry/img/05-Alkenes-70.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2013
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.6239,
+              0.9487
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5201,6 +9280,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q17.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.207,
+          0.3476
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.6239,
+              0.9487
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5231,6 +9329,25 @@
         "papers/chemistry/img/05-Alkenes-68.jpg",
         "papers/chemistry/img/05-Alkenes-69.jpg",
         "papers/chemistry/img/05-Alkenes-70.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3609,
+          0.4625
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.6239,
+              0.9487
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5260,6 +9377,35 @@
         "papers/chemistry/img/05-Alkenes-68.jpg",
         "papers/chemistry/img/05-Alkenes-69.jpg",
         "papers/chemistry/img/05-Alkenes-70.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8034,
+          0.8224
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.6239,
+              0.9487
+            ]
+          ]
+        ],
+        [
+          "Q17(c)",
+          [
+            [
+              1,
+              0.7806,
+              0.7996
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5289,6 +9435,40 @@
         "papers/chemistry/img/05-Alkenes-68.jpg",
         "papers/chemistry/img/05-Alkenes-69.jpg",
         "papers/chemistry/img/05-Alkenes-70.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9079,
+          0.9392
+        ],
+        [
+          2,
+          0.0826,
+          0.2374
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.6239,
+              0.9487
+            ]
+          ]
+        ],
+        [
+          "Q17(c)",
+          [
+            [
+              1,
+              0.7806,
+              0.7996
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5318,6 +9498,35 @@
         "papers/chemistry/img/05-Alkenes-68.jpg",
         "papers/chemistry/img/05-Alkenes-69.jpg",
         "papers/chemistry/img/05-Alkenes-70.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2431,
+          0.3267
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.6239,
+              0.9487
+            ]
+          ]
+        ],
+        [
+          "Q17(c)",
+          [
+            [
+              1,
+              0.7806,
+              0.7996
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5347,6 +9556,35 @@
         "papers/chemistry/img/05-Alkenes-68.jpg",
         "papers/chemistry/img/05-Alkenes-69.jpg",
         "papers/chemistry/img/05-Alkenes-70.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3324,
+          0.3666
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.6239,
+              0.9487
+            ]
+          ]
+        ],
+        [
+          "Q17(c)",
+          [
+            [
+              1,
+              0.7806,
+              0.7996
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5376,6 +9614,35 @@
         "papers/chemistry/img/05-Alkenes-68.jpg",
         "papers/chemistry/img/05-Alkenes-69.jpg",
         "papers/chemistry/img/05-Alkenes-70.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5726,
+          0.6838
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.6239,
+              0.9487
+            ]
+          ]
+        ],
+        [
+          "Q17(d)",
+          [
+            [
+              2,
+              0.5347,
+              0.5689
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5405,6 +9672,35 @@
         "papers/chemistry/img/05-Alkenes-68.jpg",
         "papers/chemistry/img/05-Alkenes-69.jpg",
         "papers/chemistry/img/05-Alkenes-70.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6904,
+          0.7873
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.6239,
+              0.9487
+            ]
+          ]
+        ],
+        [
+          "Q17(d)",
+          [
+            [
+              2,
+              0.5347,
+              0.5689
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5437,6 +9733,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q17e.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8006,
+          0.8566
+        ],
+        [
+          3,
+          0.0513,
+          0.2469
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.6239,
+              0.9487
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5467,6 +9787,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q18a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5774,
+          0.7407
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5337,
+              0.567
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5498,6 +9837,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q18a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7502,
+          0.8101
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5337,
+              0.567
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5526,6 +9884,40 @@
         "papers/chemistry/img/05-Alkenes-70.jpg",
         "papers/chemistry/img/05-Alkenes-71.jpg",
         "papers/chemistry/img/05-Alkenes-72.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1975,
+          0.2517
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5337,
+              0.567
+            ]
+          ]
+        ],
+        [
+          "Q18(c)",
+          [
+            [
+              0,
+              0.8234,
+              0.8575
+            ],
+            [
+              1,
+              0.0513,
+              0.1956
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5557,6 +9949,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q18c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2574,
+          0.4463
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5337,
+              0.567
+            ]
+          ]
+        ],
+        [
+          "Q18(c)",
+          [
+            [
+              0,
+              0.8234,
+              0.8575
+            ],
+            [
+              1,
+              0.0513,
+              0.1956
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5588,6 +10014,55 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q18c-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5926,
+          0.9193
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5337,
+              0.567
+            ]
+          ]
+        ],
+        [
+          "Q18(c)",
+          [
+            [
+              0,
+              0.8234,
+              0.8575
+            ],
+            [
+              1,
+              0.0513,
+              0.1956
+            ]
+          ]
+        ],
+        [
+          "Q18(c)(ii)",
+          [
+            [
+              1,
+              0.2574,
+              0.4463
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5619,6 +10094,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q18d.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2146,
+          0.2678
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5337,
+              0.567
+            ]
+          ]
+        ],
+        [
+          "Q18(d)",
+          [
+            [
+              2,
+              0.0817,
+              0.2118
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5650,6 +10154,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q18d.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2735,
+          0.3229
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5337,
+              0.567
+            ]
+          ]
+        ],
+        [
+          "Q18(d)",
+          [
+            [
+              2,
+              0.0817,
+              0.2118
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5681,6 +10214,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q19a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.378,
+          0.5185
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.7749,
+              0.7911
+            ]
+          ]
+        ],
+        [
+          "Q19(a)",
+          [
+            [
+              0,
+              0.8044,
+              0.8234
+            ],
+            [
+              1,
+              0.0513,
+              0.3751
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5712,6 +10279,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q19a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5252,
+          0.5442
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.7749,
+              0.7911
+            ]
+          ]
+        ],
+        [
+          "Q19(a)",
+          [
+            [
+              0,
+              0.8044,
+              0.8234
+            ],
+            [
+              1,
+              0.0513,
+              0.3751
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5743,6 +10344,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q19a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6296,
+          0.6486
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.7749,
+              0.7911
+            ]
+          ]
+        ],
+        [
+          "Q19(a)",
+          [
+            [
+              0,
+              0.8044,
+              0.8234
+            ],
+            [
+              1,
+              0.0513,
+              0.3751
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5775,6 +10410,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q19b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.773,
+          0.7987
+        ],
+        [
+          2,
+          0.0513,
+          0.3903
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.7749,
+              0.7911
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              1,
+              0.7417,
+              0.7797
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5807,6 +10476,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q19b-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3932,
+          0.7312
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.7749,
+              0.7911
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              1,
+              0.7417,
+              0.7797
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5839,6 +10537,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q19c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7445,
+          0.8841
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.7749,
+              0.7911
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5871,6 +10588,30 @@
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q20a-2.jpg",
         "papers/chemistry/fig/05-Alkenes-B-Q20a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4938,
+          0.5954
+        ],
+        [
+          1,
+          0.0513,
+          0.5109
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.3666,
+              0.4843
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5899,6 +10640,35 @@
         "papers/chemistry/img/05-Alkenes-75.jpg",
         "papers/chemistry/img/05-Alkenes-76.jpg",
         "papers/chemistry/img/05-Alkenes-77.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5869,
+          0.6999
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.3666,
+              0.4843
+            ]
+          ]
+        ],
+        [
+          "Q20(b)",
+          [
+            [
+              1,
+              0.5204,
+              0.5821
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5927,6 +10697,45 @@
         "papers/chemistry/img/05-Alkenes-75.jpg",
         "papers/chemistry/img/05-Alkenes-76.jpg",
         "papers/chemistry/img/05-Alkenes-77.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7056,
+          0.8775
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.3666,
+              0.4843
+            ]
+          ]
+        ],
+        [
+          "Q20(b)",
+          [
+            [
+              1,
+              0.5204,
+              0.5821
+            ]
+          ]
+        ],
+        [
+          "Q20(b)(i)",
+          [
+            [
+              1,
+              0.5869,
+              0.6999
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5955,6 +10764,40 @@
         "papers/chemistry/img/05-Alkenes-75.jpg",
         "papers/chemistry/img/05-Alkenes-76.jpg",
         "papers/chemistry/img/05-Alkenes-77.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8832,
+          0.9364
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.3666,
+              0.4843
+            ]
+          ]
+        ],
+        [
+          "Q20(b)",
+          [
+            [
+              1,
+              0.5204,
+              0.5821
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5983,6 +10826,35 @@
         "papers/chemistry/img/05-Alkenes-75.jpg",
         "papers/chemistry/img/05-Alkenes-76.jpg",
         "papers/chemistry/img/05-Alkenes-77.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1624,
+          0.1966
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.3666,
+              0.4843
+            ]
+          ]
+        ],
+        [
+          "Q20(c)",
+          [
+            [
+              2,
+              0.1406,
+              0.1595
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6011,6 +10883,35 @@
         "papers/chemistry/img/05-Alkenes-75.jpg",
         "papers/chemistry/img/05-Alkenes-76.jpg",
         "papers/chemistry/img/05-Alkenes-77.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.358,
+          0.528
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.3666,
+              0.4843
+            ]
+          ]
+        ],
+        [
+          "Q20(c)",
+          [
+            [
+              2,
+              0.1406,
+              0.1595
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6041,6 +10942,25 @@
         "papers/chemistry/img/05-Alkenes-79.jpg",
         "papers/chemistry/img/05-Alkenes-80.jpg",
         "papers/chemistry/img/05-Alkenes-81.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7047,
+          0.8091
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.6752,
+              0.6942
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6071,6 +10991,30 @@
         "papers/chemistry/img/05-Alkenes-79.jpg",
         "papers/chemistry/img/05-Alkenes-80.jpg",
         "papers/chemistry/img/05-Alkenes-81.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8224,
+          0.9221
+        ],
+        [
+          1,
+          0.0598,
+          0.2488
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.6752,
+              0.6942
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6103,6 +11047,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q21b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2659,
+          0.2953
+        ],
+        [
+          2,
+          0.0912,
+          0.8044
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.6752,
+              0.6942
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6134,6 +11102,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q21b-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8272,
+          0.8462
+        ],
+        [
+          3,
+          0.0598,
+          0.2849
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.6752,
+              0.6942
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6167,6 +11159,25 @@
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q21b.jpg",
         "papers/chemistry/fig/05-Alkenes-B-Q21b-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.3704,
+          0.4387
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.6752,
+              0.6942
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6197,6 +11208,25 @@
         "papers/chemistry/img/05-Alkenes-79.jpg",
         "papers/chemistry/img/05-Alkenes-80.jpg",
         "papers/chemistry/img/05-Alkenes-81.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.452,
+          0.4834
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.6752,
+              0.6942
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6227,6 +11257,30 @@
         "papers/chemistry/img/05-Alkenes-79.jpg",
         "papers/chemistry/img/05-Alkenes-80.jpg",
         "papers/chemistry/img/05-Alkenes-81.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.8794,
+          0.8984
+        ],
+        [
+          4,
+          0.0532,
+          0.1358
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.6752,
+              0.6942
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6257,6 +11311,25 @@
         "papers/chemistry/img/05-Alkenes-79.jpg",
         "papers/chemistry/img/05-Alkenes-80.jpg",
         "papers/chemistry/img/05-Alkenes-81.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.1491,
+          0.6382
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.6752,
+              0.6942
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6285,6 +11358,25 @@
         "papers/chemistry/img/05-Alkenes-81.jpg",
         "papers/chemistry/img/05-Alkenes-82.jpg",
         "papers/chemistry/img/05-Alkenes-83.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8585,
+          0.9183
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.7844,
+              0.8471
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6313,6 +11405,30 @@
         "papers/chemistry/img/05-Alkenes-81.jpg",
         "papers/chemistry/img/05-Alkenes-82.jpg",
         "papers/chemistry/img/05-Alkenes-83.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5033,
+          0.9487
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.7844,
+              0.8471
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6340,6 +11456,25 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-83.jpg",
         "papers/chemistry/img/05-Alkenes-84.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3324,
+          0.9468
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.245,
+              0.3219
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6367,6 +11502,25 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-83.jpg",
         "papers/chemistry/img/05-Alkenes-84.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.3352
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.245,
+              0.3219
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6394,6 +11548,25 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-83.jpg",
         "papers/chemistry/img/05-Alkenes-84.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3485,
+          0.5261
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.245,
+              0.3219
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6424,6 +11597,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q24a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.113
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.6724,
+              0.9307
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6454,6 +11646,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q24a.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1197,
+          0.4217
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.6724,
+              0.9307
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6484,6 +11695,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q24.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4349,
+          0.8319
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.6724,
+              0.9307
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6514,6 +11744,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q25a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2317,
+          0.2915
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.0902,
+              0.1064
+            ]
+          ]
+        ],
+        [
+          "Q25(a)",
+          [
+            [
+              0,
+              0.1197,
+              0.2384
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6544,6 +11803,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q25a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2972,
+          0.3514
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.0902,
+              0.1064
+            ]
+          ]
+        ],
+        [
+          "Q25(a)",
+          [
+            [
+              0,
+              0.1197,
+              0.2384
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6574,6 +11862,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q25a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3571,
+          0.4103
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.0902,
+              0.1064
+            ]
+          ]
+        ],
+        [
+          "Q25(a)",
+          [
+            [
+              0,
+              0.1197,
+              0.2384
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6604,6 +11921,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/05-Alkenes-B-Q25a.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.416,
+          0.6021
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.0902,
+              0.1064
+            ]
+          ]
+        ],
+        [
+          "Q25(a)",
+          [
+            [
+              0,
+              0.1197,
+              0.2384
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6631,6 +11977,35 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-86.jpg",
         "papers/chemistry/img/05-Alkenes-87.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6372,
+          0.8367
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.0902,
+              0.1064
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              0,
+              0.6144,
+              0.6334
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6658,6 +12033,40 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-86.jpg",
         "papers/chemistry/img/05-Alkenes-87.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8424,
+          0.925
+        ],
+        [
+          1,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.0902,
+              0.1064
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              0,
+              0.6144,
+              0.6334
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6684,6 +12093,25 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-87.jpg",
         "papers/chemistry/img/05-Alkenes-88.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3476,
+          0.4027
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.3029,
+              0.3371
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6710,6 +12138,25 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-87.jpg",
         "papers/chemistry/img/05-Alkenes-88.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5651,
+          0.584
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.3029,
+              0.3371
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6737,6 +12184,25 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-87.jpg",
         "papers/chemistry/img/05-Alkenes-88.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6705,
+          0.7009
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.3029,
+              0.3371
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6763,6 +12229,25 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-87.jpg",
         "papers/chemistry/img/05-Alkenes-88.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8651,
+          0.8917
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.3029,
+              0.3371
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6790,6 +12275,30 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-87.jpg",
         "papers/chemistry/img/05-Alkenes-88.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9022,
+          0.9354
+        ],
+        [
+          1,
+          0.0532,
+          0.1795
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.3029,
+              0.3371
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6817,6 +12326,50 @@
       "images": [
         "papers/chemistry/img/05-Alkenes-87.jpg",
         "papers/chemistry/img/05-Alkenes-88.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1928,
+          0.227
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.3029,
+              0.3371
+            ]
+          ]
+        ],
+        [
+          "Q26(a)(iv)",
+          [
+            [
+              0,
+              0.8651,
+              0.8917
+            ]
+          ]
+        ],
+        [
+          "Q26(b)",
+          [
+            [
+              0,
+              0.9022,
+              0.9354
+            ],
+            [
+              1,
+              0.0532,
+              0.1795
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6845,6 +12398,25 @@
         "papers/chemistry/img/05-Alkenes-88.jpg",
         "papers/chemistry/img/05-Alkenes-89.jpg",
         "papers/chemistry/img/05-Alkenes-90.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6553,
+          0.9364
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.6106,
+              0.6448
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6873,6 +12445,25 @@
         "papers/chemistry/img/05-Alkenes-88.jpg",
         "papers/chemistry/img/05-Alkenes-89.jpg",
         "papers/chemistry/img/05-Alkenes-90.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2526
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.6106,
+              0.6448
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6901,6 +12492,25 @@
         "papers/chemistry/img/05-Alkenes-88.jpg",
         "papers/chemistry/img/05-Alkenes-89.jpg",
         "papers/chemistry/img/05-Alkenes-90.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2583,
+          0.5461
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.6106,
+              0.6448
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6929,6 +12539,35 @@
         "papers/chemistry/img/05-Alkenes-88.jpg",
         "papers/chemistry/img/05-Alkenes-89.jpg",
         "papers/chemistry/img/05-Alkenes-90.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5812,
+          0.6002
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.6106,
+              0.6448
+            ]
+          ]
+        ],
+        [
+          "Q27(b)",
+          [
+            [
+              1,
+              0.5594,
+              0.5783
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6957,6 +12596,40 @@
         "papers/chemistry/img/05-Alkenes-88.jpg",
         "papers/chemistry/img/05-Alkenes-89.jpg",
         "papers/chemistry/img/05-Alkenes-90.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8367,
+          0.9193
+        ],
+        [
+          2,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.6106,
+              0.6448
+            ]
+          ]
+        ],
+        [
+          "Q27(b)",
+          [
+            [
+              1,
+              0.5594,
+              0.5783
+            ]
+          ]
+        ]
       ]
     }
   ]

@@ -34,6 +34,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1519,
+          0.5252
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -66,6 +85,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5717,
+          0.7721
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -97,6 +135,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q1-5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7778,
+          0.8272
+        ],
+        [
+          1,
+          0.0959,
+          0.169
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -128,6 +190,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q1-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.321,
+          0.4511
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -160,6 +241,35 @@
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q1-2.jpg",
         "papers/chemistry/fig/10C-Alcohols-Q1-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4539,
+          0.5755
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ],
+        [
+          "Q1(b)(i)",
+          [
+            [
+              1,
+              0.321,
+              0.4511
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -188,6 +298,35 @@
         "papers/chemistry/img/10C-Alcohols-01.jpg",
         "papers/chemistry/img/10C-Alcohols-02.jpg",
         "papers/chemistry/img/10C-Alcohols-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7398,
+          0.925
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ],
+        [
+          "Q1(b)(ii)",
+          [
+            [
+              1,
+              0.4539,
+              0.5755
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -219,6 +358,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q1-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0741,
+          0.1757
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ],
+        [
+          "Q1(c)",
+          [
+            [
+              2,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -249,6 +417,35 @@
         "papers/chemistry/img/10C-Alcohols-01.jpg",
         "papers/chemistry/img/10C-Alcohols-02.jpg",
         "papers/chemistry/img/10C-Alcohols-03.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3542,
+          0.584
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ],
+        [
+          "Q1(c)",
+          [
+            [
+              2,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -278,6 +475,35 @@
         "papers/chemistry/img/10C-Alcohols-03.jpg",
         "papers/chemistry/img/10C-Alcohols-04.jpg",
         "papers/chemistry/img/10C-Alcohols-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8272,
+          0.8604
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7303,
+              0.7768
+            ]
+          ]
+        ],
+        [
+          "Q2(a)",
+          [
+            [
+              0,
+              0.7892,
+              0.831
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -305,6 +531,45 @@
         "papers/chemistry/img/10C-Alcohols-03.jpg",
         "papers/chemistry/img/10C-Alcohols-04.jpg",
         "papers/chemistry/img/10C-Alcohols-05.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1425,
+          0.1766
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7303,
+              0.7768
+            ]
+          ]
+        ],
+        [
+          "Q2(a)",
+          [
+            [
+              0,
+              0.7892,
+              0.831
+            ]
+          ]
+        ],
+        [
+          "Q2(a)(i)",
+          [
+            [
+              0,
+              0.8272,
+              0.8604
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -333,6 +598,35 @@
         "papers/chemistry/img/10C-Alcohols-03.jpg",
         "papers/chemistry/img/10C-Alcohols-04.jpg",
         "papers/chemistry/img/10C-Alcohols-05.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5024,
+          0.6002
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7303,
+              0.7768
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.4207,
+              0.5062
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -363,6 +657,35 @@
         "papers/chemistry/img/10C-Alcohols-03.jpg",
         "papers/chemistry/img/10C-Alcohols-04.jpg",
         "papers/chemistry/img/10C-Alcohols-05.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6059,
+          0.8642
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7303,
+              0.7768
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.4207,
+              0.5062
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -390,6 +713,30 @@
         "papers/chemistry/img/10C-Alcohols-03.jpg",
         "papers/chemistry/img/10C-Alcohols-04.jpg",
         "papers/chemistry/img/10C-Alcohols-05.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8775,
+          0.9183
+        ],
+        [
+          2,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7303,
+              0.7768
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -420,6 +767,13 @@
         "papers/chemistry/img/10C-Alcohols-06.jpg",
         "papers/chemistry/img/10C-Alcohols-07.jpg",
         "papers/chemistry/img/10C-Alcohols-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.245,
+          0.4245
+        ]
       ]
     },
     {
@@ -448,6 +802,25 @@
         "papers/chemistry/img/10C-Alcohols-06.jpg",
         "papers/chemistry/img/10C-Alcohols-07.jpg",
         "papers/chemistry/img/10C-Alcohols-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6239,
+          0.68
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.5793,
+              0.6135
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -481,6 +854,30 @@
         "papers/chemistry/img/10C-Alcohols-06.jpg",
         "papers/chemistry/img/10C-Alcohols-07.jpg",
         "papers/chemistry/img/10C-Alcohols-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.773,
+          0.9221
+        ],
+        [
+          1,
+          0.0608,
+          0.83
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.5793,
+              0.6135
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -510,6 +907,30 @@
         "papers/chemistry/img/10C-Alcohols-06.jpg",
         "papers/chemistry/img/10C-Alcohols-07.jpg",
         "papers/chemistry/img/10C-Alcohols-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8433,
+          0.9335
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.5793,
+              0.6135
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -538,6 +959,35 @@
         "papers/chemistry/img/10C-Alcohols-06.jpg",
         "papers/chemistry/img/10C-Alcohols-07.jpg",
         "papers/chemistry/img/10C-Alcohols-08.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.397,
+          0.4938
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.5793,
+              0.6135
+            ]
+          ]
+        ],
+        [
+          "Q4(d)",
+          [
+            [
+              2,
+              0.1406,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -571,6 +1021,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5005,
+          0.6999
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.5793,
+              0.6135
+            ]
+          ]
+        ],
+        [
+          "Q4(d)",
+          [
+            [
+              2,
+              0.1406,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -605,6 +1084,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7056,
+          0.7844
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.5793,
+              0.6135
+            ]
+          ]
+        ],
+        [
+          "Q4(d)",
+          [
+            [
+              2,
+              0.1406,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -636,6 +1144,45 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q4.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1282,
+          0.1614
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.5793,
+              0.6135
+            ]
+          ]
+        ],
+        [
+          "Q4(d)",
+          [
+            [
+              2,
+              0.1406,
+              0.3827
+            ]
+          ]
+        ],
+        [
+          "Q4(d)(iii)",
+          [
+            [
+              2,
+              0.7056,
+              0.7844
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -665,6 +1212,35 @@
         "papers/chemistry/img/10C-Alcohols-06.jpg",
         "papers/chemistry/img/10C-Alcohols-07.jpg",
         "papers/chemistry/img/10C-Alcohols-08.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.3979,
+          0.5252
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.5793,
+              0.6135
+            ]
+          ]
+        ],
+        [
+          "Q4(d)",
+          [
+            [
+              2,
+              0.1406,
+              0.3827
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -692,6 +1268,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7208,
+          0.9069
+        ]
       ]
     },
     {
@@ -721,6 +1304,18 @@
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q5.jpg",
         "papers/chemistry/fig/10C-Alcohols-Q5-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9278,
+          0.9468
+        ],
+        [
+          1,
+          0.0513,
+          0.2707
+        ]
       ]
     },
     {
@@ -750,6 +1345,13 @@
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q5.jpg",
         "papers/chemistry/fig/10C-Alcohols-Q5-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2887,
+          0.491
+        ]
       ]
     },
     {
@@ -778,6 +1380,25 @@
         "papers/chemistry/img/10C-Alcohols-09.jpg",
         "papers/chemistry/img/10C-Alcohols-10.jpg",
         "papers/chemistry/img/10C-Alcohols-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6724,
+          0.7768
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.6429,
+              0.6619
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -808,6 +1429,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3314,
+          0.3846
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.6429,
+              0.6619
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              0,
+              0.7901,
+              0.8091
+            ],
+            [
+              1,
+              0.0722,
+              0.3086
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -835,6 +1490,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3913,
+          0.4444
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.6429,
+              0.6619
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              0,
+              0.7901,
+              0.8091
+            ],
+            [
+              1,
+              0.0722,
+              0.3086
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -864,6 +1553,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4501,
+          0.5033
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.6429,
+              0.6619
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              0,
+              0.7901,
+              0.8091
+            ],
+            [
+              1,
+              0.0722,
+              0.3086
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -897,6 +1620,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.509,
+          0.8395
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.6429,
+              0.6619
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              0,
+              0.7901,
+              0.8091
+            ],
+            [
+              1,
+              0.0722,
+              0.3086
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -924,6 +1681,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4568,
+          0.5166
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.2469,
+              0.4463
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -951,6 +1727,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5233,
+          0.5764
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.2469,
+              0.4463
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -981,6 +1776,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5821,
+          0.6163
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.2469,
+              0.4463
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1012,6 +1826,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q7-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1339,
+          0.378
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.2469,
+              0.4463
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              0,
+              0.8594,
+              0.8908
+            ],
+            [
+              1,
+              0.0513,
+              0.132
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1044,6 +1892,40 @@
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q7-2.jpg",
         "papers/chemistry/fig/10C-Alcohols-Q7-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3837,
+          0.5983
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.2469,
+              0.4463
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              0,
+              0.8594,
+              0.8908
+            ],
+            [
+              1,
+              0.0513,
+              0.132
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1070,6 +1952,30 @@
       "images": [
         "papers/chemistry/img/10C-Alcohols-12.jpg",
         "papers/chemistry/img/10C-Alcohols-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8661,
+          0.9449
+        ],
+        [
+          1,
+          0.0513,
+          0.1026
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.8367,
+              0.8557
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1098,6 +2004,25 @@
       "images": [
         "papers/chemistry/img/10C-Alcohols-12.jpg",
         "papers/chemistry/img/10C-Alcohols-13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1301,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.8367,
+              0.8557
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1134,6 +2059,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.641,
+          0.6743
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5176,
+              0.6306
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1162,6 +2106,30 @@
       "images": [
         "papers/chemistry/img/10C-Alcohols-13.jpg",
         "papers/chemistry/img/10C-Alcohols-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6999,
+          0.924
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5176,
+              0.6306
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1189,6 +2157,35 @@
       "images": [
         "papers/chemistry/img/10C-Alcohols-13.jpg",
         "papers/chemistry/img/10C-Alcohols-14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1481,
+          0.1671
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5176,
+              0.6306
+            ]
+          ]
+        ],
+        [
+          "Q9(c)",
+          [
+            [
+              1,
+              0.1111,
+              0.1529
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1216,6 +2213,35 @@
       "images": [
         "papers/chemistry/img/10C-Alcohols-13.jpg",
         "papers/chemistry/img/10C-Alcohols-14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2241,
+          0.3951
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5176,
+              0.6306
+            ]
+          ]
+        ],
+        [
+          "Q9(c)",
+          [
+            [
+              1,
+              0.1111,
+              0.1529
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1247,6 +2273,30 @@
         "papers/chemistry/img/10C-Alcohols-15.jpg",
         "papers/chemistry/img/10C-Alcohols-16.jpg",
         "papers/chemistry/img/10C-Alcohols-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7778,
+          0.9269
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.5413,
+              0.7645
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1275,6 +2325,25 @@
         "papers/chemistry/img/10C-Alcohols-15.jpg",
         "papers/chemistry/img/10C-Alcohols-16.jpg",
         "papers/chemistry/img/10C-Alcohols-17.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.1719
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.5413,
+              0.7645
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1303,6 +2372,25 @@
         "papers/chemistry/img/10C-Alcohols-15.jpg",
         "papers/chemistry/img/10C-Alcohols-16.jpg",
         "papers/chemistry/img/10C-Alcohols-17.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1852,
+          0.2745
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.5413,
+              0.7645
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1331,6 +2419,35 @@
         "papers/chemistry/img/10C-Alcohols-15.jpg",
         "papers/chemistry/img/10C-Alcohols-16.jpg",
         "papers/chemistry/img/10C-Alcohols-17.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3096,
+          0.3922
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.5413,
+              0.7645
+            ]
+          ]
+        ],
+        [
+          "Q10(d)",
+          [
+            [
+              1,
+              0.2877,
+              0.3067
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1361,6 +2478,35 @@
         "papers/chemistry/img/10C-Alcohols-15.jpg",
         "papers/chemistry/img/10C-Alcohols-16.jpg",
         "papers/chemistry/img/10C-Alcohols-17.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3989,
+          0.4957
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.5413,
+              0.7645
+            ]
+          ]
+        ],
+        [
+          "Q10(d)",
+          [
+            [
+              1,
+              0.2877,
+              0.3067
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1397,6 +2543,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5603,
+          0.6097
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.5413,
+              0.7645
+            ]
+          ]
+        ],
+        [
+          "Q10(e)",
+          [
+            [
+              1,
+              0.509,
+              0.5575
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1431,6 +2606,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q10-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6201,
+          0.6667
+        ],
+        [
+          2,
+          0.0532,
+          0.5337
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.5413,
+              0.7645
+            ]
+          ]
+        ],
+        [
+          "Q10(e)",
+          [
+            [
+              1,
+              0.509,
+              0.5575
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1462,6 +2671,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q10-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8129,
+          0.925
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.5413,
+              0.7645
+            ]
+          ]
+        ],
+        [
+          "Q10(f)",
+          [
+            [
+              2,
+              0.547,
+              0.8072
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1492,6 +2730,35 @@
         "papers/chemistry/img/10C-Alcohols-15.jpg",
         "papers/chemistry/img/10C-Alcohols-16.jpg",
         "papers/chemistry/img/10C-Alcohols-17.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.0532,
+          0.283
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.5413,
+              0.7645
+            ]
+          ]
+        ],
+        [
+          "Q10(f)",
+          [
+            [
+              2,
+              0.547,
+              0.8072
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1518,6 +2785,13 @@
       "images": [
         "papers/chemistry/img/10C-Alcohols-17.jpg",
         "papers/chemistry/img/10C-Alcohols-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4777,
+          0.6515
+        ]
       ]
     },
     {
@@ -1546,6 +2820,18 @@
       "images": [
         "papers/chemistry/img/10C-Alcohols-17.jpg",
         "papers/chemistry/img/10C-Alcohols-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8594,
+          0.9231
+        ],
+        [
+          1,
+          0.0532,
+          0.1966
+        ]
       ]
     },
     {
@@ -1572,6 +2858,13 @@
       "images": [
         "papers/chemistry/img/10C-Alcohols-18.jpg",
         "papers/chemistry/img/10C-Alcohols-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4046,
+          0.4976
+        ]
       ]
     },
     {
@@ -1597,6 +2890,13 @@
       "images": [
         "papers/chemistry/img/10C-Alcohols-18.jpg",
         "papers/chemistry/img/10C-Alcohols-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6999,
+          0.7939
+        ]
       ]
     },
     {
@@ -1623,6 +2923,13 @@
       "images": [
         "papers/chemistry/img/10C-Alcohols-18.jpg",
         "papers/chemistry/img/10C-Alcohols-19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.208
+        ]
       ]
     },
     {
@@ -1652,6 +2959,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3922,
+          0.7265
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.3628,
+              0.3818
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1684,6 +3010,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7407,
+          0.9193
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.3628,
+              0.3818
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1712,6 +3062,35 @@
         "papers/chemistry/img/10C-Alcohols-19.jpg",
         "papers/chemistry/img/10C-Alcohols-20.jpg",
         "papers/chemistry/img/10C-Alcohols-21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2507,
+          0.377
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.3628,
+              0.3818
+            ]
+          ]
+        ],
+        [
+          "Q16(c)",
+          [
+            [
+              1,
+              0.1994,
+              0.246
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1745,6 +3124,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3837,
+          0.774
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.3628,
+              0.3818
+            ]
+          ]
+        ],
+        [
+          "Q16(c)",
+          [
+            [
+              1,
+              0.1994,
+              0.246
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1773,6 +3181,25 @@
         "papers/chemistry/img/10C-Alcohols-19.jpg",
         "papers/chemistry/img/10C-Alcohols-20.jpg",
         "papers/chemistry/img/10C-Alcohols-21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7835,
+          0.8927
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.3628,
+              0.3818
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1805,6 +3232,25 @@
         "papers/chemistry/img/10C-Alcohols-19.jpg",
         "papers/chemistry/img/10C-Alcohols-20.jpg",
         "papers/chemistry/img/10C-Alcohols-21.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3229,
+          0.471
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.3628,
+              0.3818
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1834,6 +3280,13 @@
         "papers/chemistry/img/10C-Alcohols-23.jpg",
         "papers/chemistry/img/10C-Alcohols-24.jpg",
         "papers/chemistry/img/10C-Alcohols-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6885,
+          0.7825
+        ]
       ]
     },
     {
@@ -1863,6 +3316,25 @@
         "papers/chemistry/img/10C-Alcohols-23.jpg",
         "papers/chemistry/img/10C-Alcohols-24.jpg",
         "papers/chemistry/img/10C-Alcohols-25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3172,
+          0.358
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              1,
+              0.0532,
+              0.3067
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1893,6 +3365,25 @@
         "papers/chemistry/img/10C-Alcohols-23.jpg",
         "papers/chemistry/img/10C-Alcohols-24.jpg",
         "papers/chemistry/img/10C-Alcohols-25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4444,
+          0.5708
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              1,
+              0.0532,
+              0.3067
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1922,6 +3413,25 @@
         "papers/chemistry/img/10C-Alcohols-23.jpg",
         "papers/chemistry/img/10C-Alcohols-24.jpg",
         "papers/chemistry/img/10C-Alcohols-25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.584,
+          0.7341
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              1,
+              0.0532,
+              0.3067
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1950,6 +3460,25 @@
         "papers/chemistry/img/10C-Alcohols-23.jpg",
         "papers/chemistry/img/10C-Alcohols-24.jpg",
         "papers/chemistry/img/10C-Alcohols-25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7474,
+          0.9421
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              1,
+              0.0532,
+              0.3067
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1980,6 +3509,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q18.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6097,
+          0.7379
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              1,
+              0.0532,
+              0.3067
+            ]
+          ]
+        ],
+        [
+          "Q18(d)",
+          [
+            [
+              2,
+              0.3001,
+              0.6078
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2010,6 +3568,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q18.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7436,
+          0.8708
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              1,
+              0.0532,
+              0.3067
+            ]
+          ]
+        ],
+        [
+          "Q18(d)",
+          [
+            [
+              2,
+              0.3001,
+              0.6078
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2040,6 +3627,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q18.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8775,
+          0.9411
+        ],
+        [
+          3,
+          0.0608,
+          0.0931
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              1,
+              0.0532,
+              0.3067
+            ]
+          ]
+        ],
+        [
+          "Q18(d)",
+          [
+            [
+              2,
+              0.3001,
+              0.6078
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2072,6 +3693,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q18.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1652,
+          0.2925
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              1,
+              0.0532,
+              0.3067
+            ]
+          ]
+        ],
+        [
+          "Q18(d)",
+          [
+            [
+              2,
+              0.3001,
+              0.6078
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2104,6 +3754,25 @@
         "papers/chemistry/img/10C-Alcohols-23.jpg",
         "papers/chemistry/img/10C-Alcohols-24.jpg",
         "papers/chemistry/img/10C-Alcohols-25.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.3058,
+          0.6125
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              1,
+              0.0532,
+              0.3067
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2136,6 +3805,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2355,
+          0.6059
+        ]
       ]
     },
     {
@@ -2170,6 +3846,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q20-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1937
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7588,
+              0.8072
+            ]
+          ]
+        ],
+        [
+          "Q20(a)",
+          [
+            [
+              0,
+              0.8177,
+              0.9326
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2205,6 +3910,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q20-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1994,
+          0.3561
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7588,
+              0.8072
+            ]
+          ]
+        ],
+        [
+          "Q20(a)",
+          [
+            [
+              0,
+              0.8177,
+              0.9326
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2238,6 +3972,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q20-4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3618,
+          0.3808
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7588,
+              0.8072
+            ]
+          ]
+        ],
+        [
+          "Q20(a)",
+          [
+            [
+              0,
+              0.8177,
+              0.9326
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2271,6 +4034,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q20-5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5726,
+          0.6553
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7588,
+              0.8072
+            ]
+          ]
+        ],
+        [
+          "Q20(b)",
+          [
+            [
+              1,
+              0.5043,
+              0.5698
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2304,6 +4096,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q20-5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.661,
+          0.7142
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7588,
+              0.8072
+            ]
+          ]
+        ],
+        [
+          "Q20(b)",
+          [
+            [
+              1,
+              0.5043,
+              0.5698
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2336,6 +4157,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q20-5.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7208,
+          0.7398
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7588,
+              0.8072
+            ]
+          ]
+        ],
+        [
+          "Q20(b)",
+          [
+            [
+              1,
+              0.5043,
+              0.5698
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2371,6 +4221,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q20-6.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8329,
+          0.943
+        ],
+        [
+          2,
+          0.0684,
+          0.3533
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7588,
+              0.8072
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2407,6 +4281,40 @@
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q20-6.jpg",
         "papers/chemistry/fig/10C-Alcohols-Q20.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4027,
+          0.452
+        ],
+        [
+          3,
+          0.0522,
+          0.7104
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7588,
+              0.8072
+            ]
+          ]
+        ],
+        [
+          "Q20(d)",
+          [
+            [
+              2,
+              0.3647,
+              0.4074
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2437,6 +4345,35 @@
         "papers/chemistry/img/10C-Alcohols-28.jpg",
         "papers/chemistry/img/10C-Alcohols-29.jpg",
         "papers/chemistry/img/10C-Alcohols-30.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.7123,
+          0.7949
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7588,
+              0.8072
+            ]
+          ]
+        ],
+        [
+          "Q20(d)",
+          [
+            [
+              2,
+              0.3647,
+              0.4074
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2470,6 +4407,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q20-7.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.8936,
+          0.9126
+        ],
+        [
+          4,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7588,
+              0.8072
+            ]
+          ]
+        ],
+        [
+          "Q20(e)",
+          [
+            [
+              3,
+              0.8082,
+              0.8908
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2503,6 +4474,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q20-7.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.1045,
+          0.1871
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7588,
+              0.8072
+            ]
+          ]
+        ],
+        [
+          "Q20(e)",
+          [
+            [
+              3,
+              0.8082,
+              0.8908
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2538,6 +4538,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q20-8.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.1994,
+          0.5138
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7588,
+              0.8072
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2573,6 +4592,40 @@
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q20-2.jpg",
         "papers/chemistry/fig/10C-Alcohols-Q20-3.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.812,
+          0.831
+        ],
+        [
+          5,
+          0.0513,
+          0.4141
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7588,
+              0.8072
+            ]
+          ]
+        ],
+        [
+          "Q20(g)",
+          [
+            [
+              4,
+              0.5271,
+              0.8034
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2607,6 +4660,40 @@
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q20-2.jpg",
         "papers/chemistry/fig/10C-Alcohols-Q20-3.jpg"
+      ],
+      "shot": [
+        [
+          5,
+          0.415,
+          0.4349
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7588,
+              0.8072
+            ]
+          ]
+        ],
+        [
+          "Q20(g)",
+          [
+            [
+              4,
+              0.5271,
+              0.831
+            ],
+            [
+              5,
+              0.0513,
+              0.4349
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2638,6 +4725,25 @@
         "papers/chemistry/img/10C-Alcohols-28.jpg",
         "papers/chemistry/img/10C-Alcohols-29.jpg",
         "papers/chemistry/img/10C-Alcohols-30.jpg"
+      ],
+      "shot": [
+        [
+          5,
+          0.528,
+          0.7502
+        ]
+      ],
+      "ctx": [
+        [
+          "Q20",
+          [
+            [
+              0,
+              0.7588,
+              0.8072
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2665,6 +4771,13 @@
       "images": [
         "papers/chemistry/img/10C-Alcohols-30.jpg",
         "papers/chemistry/img/10C-Alcohols-31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2175
+        ]
       ]
     },
     {
@@ -2694,6 +4807,30 @@
         "papers/chemistry/img/10C-Alcohols-32.jpg",
         "papers/chemistry/img/10C-Alcohols-33.jpg",
         "papers/chemistry/img/10C-Alcohols-34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4017,
+          0.7113
+        ],
+        [
+          1,
+          0.2963,
+          0.603
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.3723,
+              0.3903
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2717,6 +4854,35 @@
         "papers/chemistry/img/10C-Alcohols-32.jpg",
         "papers/chemistry/img/10C-Alcohols-33.jpg",
         "papers/chemistry/img/10C-Alcohols-34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6448,
+          0.698
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.3723,
+              0.3903
+            ]
+          ]
+        ],
+        [
+          "Q22(b)",
+          [
+            [
+              1,
+              0.623,
+              0.642
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2742,6 +4908,35 @@
         "papers/chemistry/img/10C-Alcohols-32.jpg",
         "papers/chemistry/img/10C-Alcohols-33.jpg",
         "papers/chemistry/img/10C-Alcohols-34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7047,
+          0.8746
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.3723,
+              0.3903
+            ]
+          ]
+        ],
+        [
+          "Q22(b)",
+          [
+            [
+              1,
+              0.623,
+              0.642
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2772,6 +4967,40 @@
         "papers/chemistry/img/10C-Alcohols-32.jpg",
         "papers/chemistry/img/10C-Alcohols-33.jpg",
         "papers/chemistry/img/10C-Alcohols-34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8803,
+          0.9145
+        ],
+        [
+          2,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.3723,
+              0.3903
+            ]
+          ]
+        ],
+        [
+          "Q22(b)",
+          [
+            [
+              1,
+              0.623,
+              0.642
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2804,6 +5033,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q22.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2868,
+          0.8594
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.3723,
+              0.3903
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2834,6 +5082,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5812,
+          0.642
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.2317,
+              0.5679
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2861,6 +5128,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6543,
+          0.7901
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.2317,
+              0.5679
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2889,6 +5175,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8034,
+          0.9221
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.2317,
+              0.5679
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2919,6 +5224,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1045,
+          0.1235
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.2317,
+              0.5679
+            ]
+          ]
+        ],
+        [
+          "Q23(d)",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2947,6 +5281,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1339,
+          0.3343
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.2317,
+              0.5679
+            ]
+          ]
+        ],
+        [
+          "Q23(d)",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2975,6 +5338,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.34,
+          0.5394
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.2317,
+              0.5679
+            ]
+          ]
+        ],
+        [
+          "Q23(d)",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3003,6 +5395,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5451,
+          0.8927
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.2317,
+              0.5679
+            ]
+          ]
+        ],
+        [
+          "Q23(d)",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3031,6 +5452,40 @@
         "papers/chemistry/img/10C-Alcohols-34.jpg",
         "papers/chemistry/img/10C-Alcohols-35.jpg",
         "papers/chemistry/img/10C-Alcohols-36.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0978,
+          0.1311
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.2317,
+              0.5679
+            ]
+          ]
+        ],
+        [
+          "Q23(e)",
+          [
+            [
+              1,
+              0.9031,
+              0.9373
+            ],
+            [
+              2,
+              0.0532,
+              0.1016
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3058,6 +5513,40 @@
         "papers/chemistry/img/10C-Alcohols-34.jpg",
         "papers/chemistry/img/10C-Alcohols-35.jpg",
         "papers/chemistry/img/10C-Alcohols-36.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2184,
+          0.3447
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.2317,
+              0.5679
+            ]
+          ]
+        ],
+        [
+          "Q23(e)",
+          [
+            [
+              1,
+              0.9031,
+              0.9373
+            ],
+            [
+              2,
+              0.0532,
+              0.1016
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3083,6 +5572,25 @@
       "images": [
         "papers/chemistry/img/10C-Alcohols-36.jpg",
         "papers/chemistry/img/10C-Alcohols-37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5698,
+          0.679
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.5404,
+              0.5594
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3108,6 +5616,25 @@
       "images": [
         "papers/chemistry/img/10C-Alcohols-36.jpg",
         "papers/chemistry/img/10C-Alcohols-37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6971,
+          0.8034
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.5404,
+              0.5594
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3134,6 +5661,25 @@
       "images": [
         "papers/chemistry/img/10C-Alcohols-36.jpg",
         "papers/chemistry/img/10C-Alcohols-37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1823,
+          0.2915
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              1,
+              0.1244,
+              0.1709
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3160,6 +5706,25 @@
       "images": [
         "papers/chemistry/img/10C-Alcohols-36.jpg",
         "papers/chemistry/img/10C-Alcohols-37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3096,
+          0.416
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              1,
+              0.1244,
+              0.1709
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3186,6 +5751,25 @@
       "images": [
         "papers/chemistry/img/10C-Alcohols-37.jpg",
         "papers/chemistry/img/10C-Alcohols-38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6657,
+          0.8281
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.5708,
+              0.6543
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3216,6 +5800,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8414,
+          0.8756
+        ],
+        [
+          1,
+          0.0513,
+          0.3799
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.5708,
+              0.6543
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3242,6 +5850,25 @@
       "images": [
         "papers/chemistry/img/10C-Alcohols-37.jpg",
         "papers/chemistry/img/10C-Alcohols-38.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3932,
+          0.5565
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.5708,
+              0.6543
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3271,6 +5898,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7028,
+          0.7369
+        ],
+        [
+          1,
+          0.0513,
+          0.4644
+        ]
       ]
     },
     {
@@ -3297,6 +5936,13 @@
       ],
       "images": [
         "papers/chemistry/img/10C-Alcohols-39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6524,
+          0.8832
+        ]
       ]
     },
     {
@@ -3326,6 +5972,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.208,
+          0.4055
+        ]
       ]
     },
     {
@@ -3355,6 +6008,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6068,
+          0.7502
+        ]
       ]
     },
     {
@@ -3382,6 +6042,13 @@
       "images": [
         "papers/chemistry/img/10C-Alcohols-40.jpg",
         "papers/chemistry/img/10C-Alcohols-41.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1918
+        ]
       ]
     },
     {
@@ -3411,6 +6078,13 @@
         "papers/chemistry/img/10C-Alcohols-42.jpg",
         "papers/chemistry/img/10C-Alcohols-43.jpg",
         "papers/chemistry/img/10C-Alcohols-44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3932,
+          0.5005
+        ]
       ]
     },
     {
@@ -3439,6 +6113,13 @@
         "papers/chemistry/img/10C-Alcohols-42.jpg",
         "papers/chemistry/img/10C-Alcohols-43.jpg",
         "papers/chemistry/img/10C-Alcohols-44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7028,
+          0.7949
+        ]
       ]
     },
     {
@@ -3470,6 +6151,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0969,
+          0.4435
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3500,6 +6200,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q34-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4691,
+          0.7436
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3533,6 +6252,45 @@
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q34.jpg",
         "papers/chemistry/fig/10C-Alcohols-Q34-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7569,
+          0.9354
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ],
+        [
+          "Q34(a)",
+          [
+            [
+              1,
+              0.0969,
+              0.4435
+            ]
+          ]
+        ],
+        [
+          "Q34(b)",
+          [
+            [
+              1,
+              0.4691,
+              0.7436
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3560,6 +6318,35 @@
         "papers/chemistry/img/10C-Alcohols-42.jpg",
         "papers/chemistry/img/10C-Alcohols-43.jpg",
         "papers/chemistry/img/10C-Alcohols-44.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0902,
+          0.1434
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ],
+        [
+          "Q34(d)",
+          [
+            [
+              2,
+              0.0532,
+              0.0836
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3590,6 +6377,35 @@
         "papers/chemistry/img/10C-Alcohols-42.jpg",
         "papers/chemistry/img/10C-Alcohols-43.jpg",
         "papers/chemistry/img/10C-Alcohols-44.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1491,
+          0.3086
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ],
+        [
+          "Q34(d)",
+          [
+            [
+              2,
+              0.0532,
+              0.0836
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3623,6 +6439,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q34-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.509,
+          0.679
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ],
+        [
+          "Q34(e)",
+          [
+            [
+              2,
+              0.3181,
+              0.5128
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3655,6 +6500,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q34-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6857,
+          0.7835
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ],
+        [
+          "Q34(e)",
+          [
+            [
+              2,
+              0.3181,
+              0.5128
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3690,6 +6564,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/10C-Alcohols-Q34-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7892,
+          0.9402
+        ],
+        [
+          3,
+          0.0608,
+          0.5954
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ],
+        [
+          "Q34(e)",
+          [
+            [
+              2,
+              0.3181,
+              0.5128
+            ]
+          ]
+        ]
       ]
     }
   ]

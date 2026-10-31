@@ -33,6 +33,13 @@
         "papers/chemistry/img/08B-Groups-1-and-2-01.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-02.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1225,
+          0.2317
+        ]
       ]
     },
     {
@@ -62,6 +69,35 @@
         "papers/chemistry/img/08B-Groups-1-and-2-01.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-02.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4805,
+          0.6068
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3837,
+              0.4027
+            ]
+          ]
+        ],
+        [
+          "Q2(a)",
+          [
+            [
+              0,
+              0.4131,
+              0.4843
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -93,6 +129,35 @@
         "papers/chemistry/img/08B-Groups-1-and-2-01.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-02.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6135,
+          0.6467
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3837,
+              0.4027
+            ]
+          ]
+        ],
+        [
+          "Q2(a)",
+          [
+            [
+              0,
+              0.4131,
+              0.4843
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -122,6 +187,35 @@
         "papers/chemistry/img/08B-Groups-1-and-2-01.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-02.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1054,
+          0.2754
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3837,
+              0.4027
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.0826,
+              0.1016
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -154,6 +248,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2811,
+          0.7113
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3837,
+              0.4027
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.0826,
+              0.1016
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -183,6 +306,35 @@
         "papers/chemistry/img/08B-Groups-1-and-2-01.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-02.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-03.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0674,
+          0.5309
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3837,
+              0.4027
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.0826,
+              0.1016
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -213,6 +365,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8224,
+          0.9288
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.6771,
+              0.812
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -243,6 +414,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0674,
+          0.1738
+        ]
+      ],
+      "ctx": [
+        [
+          "Q3",
+          [
+            [
+              0,
+              0.6771,
+              0.812
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -271,6 +461,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-04.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.358,
+          0.3989
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.3286,
+              0.3476
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -299,6 +508,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-04.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4777,
+          0.699
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.3286,
+              0.3476
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -326,6 +554,35 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-04.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7645,
+          0.7987
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.3286,
+              0.3476
+            ]
+          ]
+        ],
+        [
+          "Q4(c)",
+          [
+            [
+              0,
+              0.7123,
+              0.7683
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -354,6 +611,35 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-04.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8101,
+          0.8433
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.3286,
+              0.3476
+            ]
+          ]
+        ],
+        [
+          "Q4(c)",
+          [
+            [
+              0,
+              0.7123,
+              0.7683
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -383,6 +669,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-04.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-05.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1681
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.3286,
+              0.3476
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -412,6 +717,25 @@
       ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5888,
+          0.6961
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.5442,
+              0.5764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -439,6 +763,25 @@
       ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.717,
+          0.8538
+        ]
+      ],
+      "ctx": [
+        [
+          "Q5",
+          [
+            [
+              0,
+              0.5442,
+              0.5764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -473,6 +816,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1643,
+          0.3732
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1197,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -503,6 +865,25 @@
         "papers/chemistry/img/08B-Groups-1-and-2-07.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-08.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.377,
+          0.4302
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1197,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -535,6 +916,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8148,
+          0.8974
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1197,
+              0.1538
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              0,
+              0.4435,
+              0.8167
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -566,6 +976,35 @@
         "papers/chemistry/img/08B-Groups-1-and-2-07.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-08.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9031,
+          0.9449
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1197,
+              0.1538
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              0,
+              0.4435,
+              0.8167
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -595,6 +1034,45 @@
         "papers/chemistry/img/08B-Groups-1-and-2-07.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-08.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2184,
+          0.2745
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1197,
+              0.1538
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              0,
+              0.4435,
+              0.8167
+            ]
+          ]
+        ],
+        [
+          "Q6(b)(ii)",
+          [
+            [
+              0,
+              0.9031,
+              0.9449
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -626,6 +1104,35 @@
         "papers/chemistry/img/08B-Groups-1-and-2-07.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-08.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3523,
+          0.4169
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1197,
+              0.1538
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              0,
+              0.4435,
+              0.8167
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -658,6 +1165,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q6-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.585,
+          0.7179
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1197,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -688,6 +1214,25 @@
         "papers/chemistry/img/08B-Groups-1-and-2-07.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-08.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7892,
+          0.9459
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1197,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -719,6 +1264,25 @@
         "papers/chemistry/img/08B-Groups-1-and-2-07.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-08.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-09.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.2602
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1197,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -752,6 +1316,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q6-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2669,
+          0.6049
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1197,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -783,6 +1366,30 @@
         "papers/chemistry/img/08B-Groups-1-and-2-07.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-08.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-09.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6087,
+          0.9421
+        ],
+        [
+          3,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1197,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -811,6 +1418,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-09.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3523,
+          0.4454
+        ]
       ]
     },
     {
@@ -839,6 +1453,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-09.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6277,
+          0.6467
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5983,
+              0.6173
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -868,6 +1501,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-09.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7474,
+          0.8632
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5983,
+              0.6173
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -896,6 +1548,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-09.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2184,
+          0.396
+        ]
+      ],
+      "ctx": [
+        [
+          "Q8",
+          [
+            [
+              0,
+              0.5983,
+              0.6173
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -924,6 +1595,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-10.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6211,
+          0.7274
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5926,
+              0.6116
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -954,6 +1644,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7493,
+          0.7683
+        ],
+        [
+          1,
+          0.0617,
+          0.2289
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              0,
+              0.5926,
+              0.6116
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -983,6 +1697,13 @@
         "papers/chemistry/img/08B-Groups-1-and-2-11.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-12.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4245,
+          0.585
+        ]
       ]
     },
     {
@@ -1012,6 +1733,25 @@
         "papers/chemistry/img/08B-Groups-1-and-2-11.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-12.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1481,
+          0.2013
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              1,
+              0.075,
+              0.1387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1041,6 +1781,25 @@
         "papers/chemistry/img/08B-Groups-1-and-2-11.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-12.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4482,
+          0.7578
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              1,
+              0.075,
+              0.1387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1070,6 +1829,30 @@
         "papers/chemistry/img/08B-Groups-1-and-2-11.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-12.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-13.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7711,
+          0.9202
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              1,
+              0.075,
+              0.1387
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1099,6 +1882,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-13.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.265,
+          0.4302
+        ]
       ]
     },
     {
@@ -1127,6 +1917,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-13.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4511,
+          0.6173
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.265,
+              0.4302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1156,6 +1965,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-13.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6382,
+          0.7996
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12(b)",
+          [
+            [
+              0,
+              0.4511,
+              0.6173
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1184,6 +2012,13 @@
       ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2507,
+          0.4511
+        ]
       ]
     },
     {
@@ -1211,6 +2046,13 @@
       ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6619,
+          0.8196
+        ]
       ]
     },
     {
@@ -1239,6 +2081,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-15.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1197,
+          0.2972
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.0902,
+              0.1073
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1269,6 +2130,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-15.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3105,
+          0.4274
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.0902,
+              0.1073
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1301,6 +2181,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6705,
+          0.7388
+        ],
+        [
+          1,
+          0.0513,
+          0.5214
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.0902,
+              0.1073
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1329,6 +2233,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-15.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5413,
+          0.6116
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.0902,
+              0.1073
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1358,6 +2281,35 @@
         "papers/chemistry/img/08B-Groups-1-and-2-16.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-17.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0902,
+          0.1092
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.9145,
+              0.9335
+            ]
+          ]
+        ],
+        [
+          "Q16(a)",
+          [
+            [
+              1,
+              0.0532,
+              0.0836
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1388,6 +2340,35 @@
         "papers/chemistry/img/08B-Groups-1-and-2-16.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-17.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2707,
+          0.5147
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.9145,
+              0.9335
+            ]
+          ]
+        ],
+        [
+          "Q16(a)",
+          [
+            [
+              1,
+              0.0532,
+              0.0836
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1416,6 +2397,35 @@
         "papers/chemistry/img/08B-Groups-1-and-2-16.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-17.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5204,
+          0.5888
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.9145,
+              0.9335
+            ]
+          ]
+        ],
+        [
+          "Q16(a)",
+          [
+            [
+              1,
+              0.0532,
+              0.0836
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1446,6 +2456,40 @@
         "papers/chemistry/img/08B-Groups-1-and-2-16.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-17.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9297,
+          0.9487
+        ],
+        [
+          2,
+          0.0532,
+          0.0988
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.9145,
+              0.9335
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.6021,
+              0.9269
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1479,6 +2523,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q16.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0978,
+          0.1168
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.9145,
+              0.9335
+            ]
+          ]
+        ],
+        [
+          "Q16(b)",
+          [
+            [
+              1,
+              0.6021,
+              0.9269
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1508,6 +2581,25 @@
         "papers/chemistry/img/08B-Groups-1-and-2-16.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-17.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-18.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5109,
+          0.7626
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.9145,
+              0.9335
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1537,6 +2629,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-18.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0522,
+          0.2175
+        ]
       ]
     },
     {
@@ -1564,6 +2663,13 @@
       ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4217,
+          0.661
+        ]
       ]
     },
     {
@@ -1591,6 +2697,13 @@
       ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8632,
+          0.9402
+        ]
       ]
     },
     {
@@ -1618,6 +2731,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-20.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.433,
+          0.5546
+        ]
       ]
     },
     {
@@ -1649,6 +2769,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7094,
+          0.9383
+        ],
+        [
+          1,
+          0.0532,
+          0.1443
+        ]
       ]
     },
     {
@@ -1678,6 +2810,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-21.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3476,
+          0.4425
+        ]
       ]
     },
     {
@@ -1709,6 +2848,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7474,
+          0.8405
+        ],
+        [
+          1,
+          0.0636,
+          0.2165
+        ]
       ]
     },
     {
@@ -1738,6 +2889,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.434,
+          0.5385
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.3599,
+              0.4236
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1769,6 +2939,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5442,
+          0.5907
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.3599,
+              0.4236
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1797,6 +2986,30 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-22.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9117,
+          0.943
+        ],
+        [
+          1,
+          0.0532,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.3599,
+              0.4236
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1828,6 +3041,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5584,
+          0.7018
+        ]
       ]
     },
     {
@@ -1856,6 +3076,18 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-23.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.887,
+          0.9459
+        ],
+        [
+          1,
+          0.0513,
+          0.0912
+        ]
       ]
     },
     {
@@ -1884,6 +3116,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-24.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.321,
+          0.4292
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.2915,
+              0.3077
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1913,6 +3164,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4482,
+          0.6496
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.2915,
+              0.3077
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1943,6 +3213,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8433,
+          0.906
+        ],
+        [
+          1,
+          0.0636,
+          0.2165
+        ]
       ]
     },
     {
@@ -1973,6 +3255,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4093,
+          0.5945
+        ]
       ]
     },
     {
@@ -2001,6 +3290,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-25.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8319,
+          0.9411
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.7882,
+              0.8215
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2033,6 +3341,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0674,
+          0.34
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.7882,
+              0.8215
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2061,6 +3388,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-25.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3533,
+          0.5195
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.7882,
+              0.8215
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2088,6 +3434,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-26.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7398,
+          0.8898
+        ]
       ]
     },
     {
@@ -2116,6 +3469,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-27.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2137,
+          0.3666
+        ]
       ]
     },
     {
@@ -2144,6 +3504,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-27.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5679,
+          0.7331
+        ]
       ]
     },
     {
@@ -2172,6 +3539,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-27.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-28.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1909
+        ]
       ]
     },
     {
@@ -2200,6 +3574,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-28.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6771,
+          0.7692
+        ]
       ]
     },
     {
@@ -2230,6 +3611,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0855,
+          0.226
+        ]
       ]
     },
     {
@@ -2257,6 +3645,13 @@
       ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4122,
+          0.6524
+        ]
       ]
     },
     {
@@ -2288,6 +3683,13 @@
       ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1054,
+          0.2906
+        ]
       ]
     },
     {
@@ -2316,6 +3718,13 @@
       ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4834,
+          0.5764
+        ]
       ]
     },
     {
@@ -2343,6 +3752,13 @@
       ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7293,
+          0.8386
+        ]
       ]
     },
     {
@@ -2371,6 +3787,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-31.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1054,
+          0.226
+        ]
       ]
     },
     {
@@ -2399,6 +3822,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-31.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3808,
+          0.49
+        ]
       ]
     },
     {
@@ -2426,6 +3856,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-31.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7436,
+          0.8158
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.642,
+              0.7341
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2454,6 +3903,30 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-31.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9088,
+          0.9421
+        ],
+        [
+          1,
+          0.0532,
+          0.1092
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.642,
+              0.7341
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2485,6 +3958,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-31.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2764,
+          0.8946
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.642,
+              0.7341
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2513,6 +4005,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-33.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1425,
+          0.2669
+        ]
       ]
     },
     {
@@ -2542,6 +4041,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-33.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4179,
+          0.5423
+        ]
       ]
     },
     {
@@ -2570,6 +4076,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-33.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7607,
+          0.8955
+        ]
       ]
     },
     {
@@ -2599,6 +4112,13 @@
         "papers/chemistry/img/08B-Groups-1-and-2-34.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-35.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2308,
+          0.3248
+        ]
       ]
     },
     {
@@ -2628,6 +4148,35 @@
         "papers/chemistry/img/08B-Groups-1-and-2-34.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-35.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5575,
+          0.5907
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.4767,
+              0.5223
+            ]
+          ]
+        ],
+        [
+          "Q48(a)",
+          [
+            [
+              0,
+              0.5347,
+              0.5537
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2658,6 +4207,35 @@
         "papers/chemistry/img/08B-Groups-1-and-2-34.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-35.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6477,
+          0.7882
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.4767,
+              0.5223
+            ]
+          ]
+        ],
+        [
+          "Q48(a)",
+          [
+            [
+              0,
+              0.5347,
+              0.5537
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2687,6 +4265,30 @@
         "papers/chemistry/img/08B-Groups-1-and-2-34.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-35.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8015,
+          0.9364
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.4767,
+              0.5223
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2719,6 +4321,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q48c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5461,
+          0.5802
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.4767,
+              0.5223
+            ]
+          ]
+        ],
+        [
+          "Q48(c)",
+          [
+            [
+              1,
+              0.0817,
+              0.5432
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2752,6 +4383,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q48c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6363,
+          0.7483
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.4767,
+              0.5223
+            ]
+          ]
+        ],
+        [
+          "Q48(c)",
+          [
+            [
+              1,
+              0.0817,
+              0.5432
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2784,6 +4444,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q48c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.754,
+          0.8661
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.4767,
+              0.5223
+            ]
+          ]
+        ],
+        [
+          "Q48(c)",
+          [
+            [
+              1,
+              0.0817,
+              0.5432
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2813,6 +4502,40 @@
         "papers/chemistry/img/08B-Groups-1-and-2-34.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-35.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-36.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0674,
+          0.0864
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.4767,
+              0.5223
+            ]
+          ]
+        ],
+        [
+          "Q48(d)",
+          [
+            [
+              1,
+              0.8784,
+              0.9354
+            ],
+            [
+              2,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2842,6 +4565,40 @@
         "papers/chemistry/img/08B-Groups-1-and-2-34.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-35.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-36.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1576,
+          0.2403
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.4767,
+              0.5223
+            ]
+          ]
+        ],
+        [
+          "Q48(d)",
+          [
+            [
+              1,
+              0.8784,
+              0.9354
+            ],
+            [
+              2,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2874,6 +4631,25 @@
         "papers/chemistry/img/08B-Groups-1-and-2-34.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-35.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-36.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2536,
+          0.3865
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              0,
+              0.4767,
+              0.5223
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2903,6 +4679,35 @@
         "papers/chemistry/img/08B-Groups-1-and-2-37.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-38.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.679,
+          0.7901
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.5375,
+              0.6011
+            ]
+          ]
+        ],
+        [
+          "Q49(a)",
+          [
+            [
+              0,
+              0.6116,
+              0.6828
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2933,6 +4738,35 @@
         "papers/chemistry/img/08B-Groups-1-and-2-37.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-38.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7968,
+          0.831
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.5375,
+              0.6011
+            ]
+          ]
+        ],
+        [
+          "Q49(a)",
+          [
+            [
+              0,
+              0.6116,
+              0.6828
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2967,6 +4801,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q49.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2697,
+          0.547
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.5375,
+              0.6011
+            ]
+          ]
+        ],
+        [
+          "Q49(b)",
+          [
+            [
+              1,
+              0.188,
+              0.2659
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3000,6 +4863,40 @@
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q49-2.jpg",
         "papers/chemistry/fig/08B-Groups-1-and-2-Q49-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8585,
+          0.9402
+        ],
+        [
+          2,
+          0.0731,
+          0.2934
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.5375,
+              0.6011
+            ]
+          ]
+        ],
+        [
+          "Q49(b)",
+          [
+            [
+              1,
+              0.188,
+              0.2659
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3033,6 +4930,45 @@
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q49-2.jpg",
         "papers/chemistry/fig/08B-Groups-1-and-2-Q49-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2953,
+          0.3295
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.5375,
+              0.6011
+            ]
+          ]
+        ],
+        [
+          "Q49(b)",
+          [
+            [
+              1,
+              0.188,
+              0.2659
+            ]
+          ]
+        ],
+        [
+          "Q49(b)(i)",
+          [
+            [
+              1,
+              0.2697,
+              0.547
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3062,6 +4998,35 @@
         "papers/chemistry/img/08B-Groups-1-and-2-37.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-38.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-39.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5954,
+          0.6268
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.5375,
+              0.6011
+            ]
+          ]
+        ],
+        [
+          "Q49(c)",
+          [
+            [
+              2,
+              0.5736,
+              0.5926
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3092,6 +5057,40 @@
         "papers/chemistry/img/08B-Groups-1-and-2-37.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-38.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-39.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7151,
+          0.9174
+        ],
+        [
+          3,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.5375,
+              0.6011
+            ]
+          ]
+        ],
+        [
+          "Q49(c)",
+          [
+            [
+              2,
+              0.5736,
+              0.5926
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3120,6 +5119,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-39.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2944,
+          0.4179
+        ]
       ]
     },
     {
@@ -3149,6 +5155,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-39.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6629,
+          0.7873
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.6173,
+              0.6524
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3177,6 +5202,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-39.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8044,
+          0.9269
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.6173,
+              0.6524
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3208,6 +5252,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q51.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0674,
+          0.3561
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.6173,
+              0.6524
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3237,6 +5300,13 @@
         "papers/chemistry/img/08B-Groups-1-and-2-40.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-41.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5736,
+          0.7388
+        ]
       ]
     },
     {
@@ -3264,6 +5334,30 @@
         "papers/chemistry/img/08B-Groups-1-and-2-40.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-41.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9221,
+          0.9411
+        ],
+        [
+          1,
+          0.0541,
+          0.113
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.8927,
+              0.9117
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3292,6 +5386,35 @@
         "papers/chemistry/img/08B-Groups-1-and-2-40.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-41.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-42.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1776,
+          0.377
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.8927,
+              0.9117
+            ]
+          ]
+        ],
+        [
+          "Q53(b)",
+          [
+            [
+              1,
+              0.1263,
+              0.1747
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3327,6 +5450,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q53b.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3837,
+          0.5973
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.8927,
+              0.9117
+            ]
+          ]
+        ],
+        [
+          "Q53(b)",
+          [
+            [
+              1,
+              0.1263,
+              0.1747
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3353,6 +5505,35 @@
         "papers/chemistry/img/08B-Groups-1-and-2-40.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-41.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-42.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6002,
+          0.6534
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.8927,
+              0.9117
+            ]
+          ]
+        ],
+        [
+          "Q53(b)",
+          [
+            [
+              1,
+              0.1263,
+              0.1747
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3385,6 +5566,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q53c.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8651,
+          0.9183
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.8927,
+              0.9117
+            ]
+          ]
+        ],
+        [
+          "Q53(c)",
+          [
+            [
+              1,
+              0.6667,
+              0.8623
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3417,6 +5632,50 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q53c.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1339,
+          0.3485
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.8927,
+              0.9117
+            ]
+          ]
+        ],
+        [
+          "Q53(c)",
+          [
+            [
+              1,
+              0.6667,
+              0.8623
+            ]
+          ]
+        ],
+        [
+          "Q53(c)(i)",
+          [
+            [
+              1,
+              0.8651,
+              0.9183
+            ],
+            [
+              2,
+              0.0608,
+              0.1273
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3449,6 +5708,25 @@
         "papers/chemistry/img/08B-Groups-1-and-2-40.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-41.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-42.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3609,
+          0.4321
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              0,
+              0.8927,
+              0.9117
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3476,6 +5754,13 @@
       ],
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6334,
+          0.754
+        ]
       ]
     },
     {
@@ -3504,6 +5789,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-43.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.169,
+          0.2754
+        ]
       ]
     },
     {
@@ -3532,6 +5824,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-43.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4967,
+          0.5907
+        ]
       ]
     },
     {
@@ -3563,6 +5862,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q57.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.792,
+          0.811
+        ],
+        [
+          1,
+          0.0684,
+          0.2991
+        ]
       ]
     },
     {
@@ -3591,6 +5902,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-44.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5005,
+          0.6068
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.4549,
+              0.4872
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3618,6 +5948,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-44.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-45.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6277,
+          0.7493
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.4549,
+              0.4872
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3649,6 +5998,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/08B-Groups-1-and-2-Q59.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.5318
+        ]
       ]
     },
     {
@@ -3677,6 +6033,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-45.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6866,
+          0.7778
+        ]
       ]
     },
     {
@@ -3706,6 +6069,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-45.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-46.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0522,
+          0.2175
+        ]
       ]
     },
     {
@@ -3732,6 +6102,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-46.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3723,
+          0.4663
+        ]
       ]
     },
     {
@@ -3760,6 +6137,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-46.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7056,
+          0.8272
+        ]
+      ],
+      "ctx": [
+        [
+          "Q63",
+          [
+            [
+              0,
+              0.6182,
+              0.6961
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3787,6 +6183,30 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-46.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.849,
+          0.9354
+        ],
+        [
+          1,
+          0.0513,
+          0.0883
+        ]
+      ],
+      "ctx": [
+        [
+          "Q63",
+          [
+            [
+              0,
+              0.6182,
+              0.6961
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3815,6 +6235,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-47.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-48.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2422,
+          0.378
+        ]
       ]
     },
     {
@@ -3843,6 +6270,13 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-47.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-48.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5318,
+          0.7132
+        ]
       ]
     },
     {
@@ -3871,6 +6305,18 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-47.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-48.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.867,
+          0.9449
+        ],
+        [
+          1,
+          0.0513,
+          0.1216
+        ]
       ]
     },
     {
@@ -3900,6 +6346,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-48.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-49.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3856,
+          0.5394
+        ]
+      ],
+      "ctx": [
+        [
+          "Q67",
+          [
+            [
+              0,
+              0.3248,
+              0.3751
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3927,6 +6392,25 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-48.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-49.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5575,
+          0.679
+        ]
+      ],
+      "ctx": [
+        [
+          "Q67",
+          [
+            [
+              0,
+              0.3248,
+              0.3751
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3955,6 +6439,18 @@
       "images": [
         "papers/chemistry/img/08B-Groups-1-and-2-48.jpg",
         "papers/chemistry/img/08B-Groups-1-and-2-49.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8832,
+          0.943
+        ],
+        [
+          1,
+          0.0513,
+          0.0883
+        ]
       ]
     }
   ]

@@ -31,6 +31,25 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-01.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1519,
+          0.3153
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -60,6 +79,25 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-01.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3286,
+          0.6534
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -89,6 +127,30 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-01.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6667,
+          0.9335
+        ],
+        [
+          1,
+          0.0532,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1415
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -117,6 +179,13 @@
       ],
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.265,
+          0.4378
+        ]
       ]
     },
     {
@@ -148,6 +217,13 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6458,
+          0.8462
+        ]
       ]
     },
     {
@@ -180,6 +256,13 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1197,
+          0.4169
+        ]
       ]
     },
     {
@@ -212,6 +295,13 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q5.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5632,
+          0.7398
+        ]
       ]
     },
     {
@@ -239,6 +329,30 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-03.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-04.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0969,
+          0.1576
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.9012,
+              0.9345
+            ],
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -268,6 +382,30 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-03.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-04.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1709,
+          0.4093
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.9012,
+              0.9345
+            ],
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -302,6 +440,18 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5537,
+          0.9297
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
       ]
     },
     {
@@ -331,6 +481,13 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-05.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3618,
+          0.7312
+        ]
       ]
     },
     {
@@ -362,6 +519,18 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9269,
+          0.943
+        ],
+        [
+          1,
+          0.0532,
+          0.1947
+        ]
       ]
     },
     {
@@ -392,6 +561,30 @@
         "papers/physics/img/28-7C-Particle-Zoo-06.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-07.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7607,
+          0.9383
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3466,
+              0.7493
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -424,6 +617,25 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.2915
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3466,
+              0.7493
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -457,6 +669,35 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3238,
+          0.5385
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3466,
+              0.7493
+            ]
+          ]
+        ],
+        [
+          "Q10(c)",
+          [
+            [
+              1,
+              0.302,
+              0.321
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -489,6 +730,35 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5451,
+          0.8215
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3466,
+              0.7493
+            ]
+          ]
+        ],
+        [
+          "Q10(c)",
+          [
+            [
+              1,
+              0.302,
+              0.321
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -519,6 +789,30 @@
         "papers/physics/img/28-7C-Particle-Zoo-06.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-07.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.831,
+          0.9373
+        ],
+        [
+          2,
+          0.0608,
+          0.2764
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.3466,
+              0.7493
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -547,6 +841,25 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-08.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4501,
+          0.5983
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.4207,
+              0.4397
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -578,6 +891,30 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6116,
+          0.9307
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.4207,
+              0.4397
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -608,6 +945,25 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-09.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5242,
+          0.9212
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.3324,
+              0.5138
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -636,6 +992,25 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-09.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.245
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.3324,
+              0.5138
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -670,6 +1045,30 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6771,
+          0.9278
+        ],
+        [
+          1,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.3922,
+              0.6676
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -699,6 +1098,25 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-10.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1994,
+          0.5271
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              0,
+              0.3922,
+              0.6676
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -729,6 +1147,13 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7208,
+          0.8737
+        ]
       ]
     },
     {
@@ -762,6 +1187,13 @@
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q15.jpg",
         "papers/physics/fig/28-7C-Particle-Zoo-Q15-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1909,
+          0.4748
+        ]
       ]
     },
     {
@@ -794,6 +1226,25 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1719
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.6116,
+              0.9297
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -826,6 +1277,25 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1852,
+          0.3913
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.6116,
+              0.9297
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -857,6 +1327,25 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4046,
+          0.4653
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.6116,
+              0.9297
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -885,6 +1374,25 @@
         "papers/physics/img/28-7C-Particle-Zoo-12.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4777,
+          0.7151
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.6116,
+              0.9297
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -913,6 +1421,35 @@
         "papers/physics/img/28-7C-Particle-Zoo-12.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7502,
+          0.8034
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.6116,
+              0.9297
+            ]
+          ]
+        ],
+        [
+          "Q16(e)",
+          [
+            [
+              1,
+              0.7284,
+              0.7474
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -947,6 +1484,40 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8101,
+          0.886
+        ],
+        [
+          2,
+          0.0522,
+          0.603
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.6116,
+              0.9297
+            ]
+          ]
+        ],
+        [
+          "Q16(e)",
+          [
+            [
+              1,
+              0.7284,
+              0.7474
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -980,6 +1551,30 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7787,
+          0.9459
+        ],
+        [
+          1,
+          0.0532,
+          0.3115
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.7502,
+              0.7664
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1009,6 +1604,35 @@
         "papers/physics/img/28-7C-Particle-Zoo-14.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-15.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3609,
+          0.6344
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.7502,
+              0.7664
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              1,
+              0.3238,
+              0.358
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1039,6 +1663,35 @@
         "papers/physics/img/28-7C-Particle-Zoo-14.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-15.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6401,
+          0.8718
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.7502,
+              0.7664
+            ]
+          ]
+        ],
+        [
+          "Q17(b)",
+          [
+            [
+              1,
+              0.3238,
+              0.358
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1069,6 +1722,30 @@
         "papers/physics/img/28-7C-Particle-Zoo-14.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-15.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8822,
+          0.9383
+        ],
+        [
+          2,
+          0.0826,
+          0.2374
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17",
+          [
+            [
+              0,
+              0.7502,
+              0.7664
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1100,6 +1777,13 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3837,
+          0.6733
+        ]
       ]
     },
     {
@@ -1128,6 +1812,18 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-16.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8594,
+          0.9335
+        ],
+        [
+          1,
+          0.0513,
+          0.0712
+        ]
       ]
     },
     {
@@ -1155,6 +1851,13 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-17.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2745,
+          0.3656
+        ]
       ]
     },
     {
@@ -1186,6 +1889,25 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9145,
+          0.9335
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.5204,
+              0.905
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1213,6 +1935,35 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-17.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0959,
+          0.2972
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.5204,
+              0.905
+            ]
+          ]
+        ],
+        [
+          "Q21(b)",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1242,6 +1993,35 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-17.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3039,
+          0.49
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.5204,
+              0.905
+            ]
+          ]
+        ],
+        [
+          "Q21(b)",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1270,6 +2050,25 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-17.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5024,
+          0.755
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.5204,
+              0.905
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1302,6 +2101,30 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3371,
+          0.7597
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.9012,
+              0.9354
+            ],
+            [
+              1,
+              0.0532,
+              0.3267
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1332,6 +2155,45 @@
         "papers/physics/img/28-7C-Particle-Zoo-18.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-19.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-20.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7911,
+          0.9326
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.9012,
+              0.9354
+            ],
+            [
+              1,
+              0.0532,
+              0.3267
+            ]
+          ]
+        ],
+        [
+          "Q22(b)",
+          [
+            [
+              1,
+              0.7531,
+              0.7882
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1361,6 +2223,40 @@
         "papers/physics/img/28-7C-Particle-Zoo-18.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-19.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-20.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1624,
+          0.3362
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.9012,
+              0.9354
+            ],
+            [
+              1,
+              0.0532,
+              0.3267
+            ]
+          ]
+        ],
+        [
+          "Q22(b)",
+          [
+            [
+              1,
+              0.7531,
+              0.7882
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1388,6 +2284,25 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-20.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.641,
+          0.7892
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.4796,
+              0.6315
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1415,6 +2330,30 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-20.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8025,
+          0.9212
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.4796,
+              0.6315
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1446,6 +2385,25 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.075,
+          0.1434
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.4796,
+              0.6315
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1474,6 +2432,25 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-20.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1491,
+          0.32
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.4796,
+              0.6315
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1505,6 +2482,25 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-20.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3324,
+          0.7303
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.4796,
+              0.6315
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1533,6 +2529,30 @@
         "papers/physics/img/28-7C-Particle-Zoo-21.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-22.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9212,
+          0.9402
+        ],
+        [
+          1,
+          0.0532,
+          0.1937
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.8765,
+              0.9079
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1565,6 +2585,25 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q24.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.207,
+          0.3713
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.8765,
+              0.9079
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1594,6 +2633,25 @@
         "papers/physics/img/28-7C-Particle-Zoo-21.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-22.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3837,
+          0.6211
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.8765,
+              0.9079
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1624,6 +2682,35 @@
         "papers/physics/img/28-7C-Particle-Zoo-21.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-22.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7018,
+          0.8424
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.8765,
+              0.9079
+            ]
+          ]
+        ],
+        [
+          "Q24(d)",
+          [
+            [
+              1,
+              0.6344,
+              0.7028
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1653,6 +2740,40 @@
         "papers/physics/img/28-7C-Particle-Zoo-21.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-22.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.849,
+          0.9316
+        ],
+        [
+          2,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.8765,
+              0.9079
+            ]
+          ]
+        ],
+        [
+          "Q24(d)",
+          [
+            [
+              1,
+              0.6344,
+              0.7028
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1682,6 +2803,35 @@
         "papers/physics/img/28-7C-Particle-Zoo-21.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-22.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-23.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1918,
+          0.3485
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.8765,
+              0.9079
+            ]
+          ]
+        ],
+        [
+          "Q24(d)",
+          [
+            [
+              1,
+              0.6344,
+              0.7028
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1715,6 +2865,30 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4558,
+          0.7075
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.4948,
+              0.5878
+            ],
+            [
+              1,
+              0.0522,
+              0.4454
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1746,6 +2920,30 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7198,
+          0.8689
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.4948,
+              0.5878
+            ],
+            [
+              1,
+              0.0522,
+              0.4454
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1778,6 +2976,35 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q25-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8813,
+          0.9126
+        ],
+        [
+          2,
+          0.0522,
+          0.3229
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.4948,
+              0.5878
+            ],
+            [
+              1,
+              0.0522,
+              0.4454
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1807,6 +3034,30 @@
         "papers/physics/img/28-7C-Particle-Zoo-23.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-24.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-25.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3324,
+          0.5404
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.4948,
+              0.5878
+            ],
+            [
+              1,
+              0.0522,
+              0.4454
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1839,6 +3090,30 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8547,
+          0.9307
+        ],
+        [
+          1,
+          0.0608,
+          0.3618
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.6866,
+              0.8443
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1868,6 +3143,25 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-25.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3751,
+          0.6268
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.6866,
+              0.8443
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1899,6 +3193,18 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8224,
+          0.9003
+        ],
+        [
+          1,
+          0.0522,
+          0.2165
+        ]
       ]
     },
     {
@@ -1925,6 +3231,13 @@
       ],
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4103,
+          0.5014
+        ]
       ]
     },
     {
@@ -1987,6 +3300,13 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1396,
+          0.3219
+        ]
       ]
     },
     {
@@ -2019,6 +3339,13 @@
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q31.jpg",
         "papers/physics/fig/28-7C-Particle-Zoo-Q31-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5176,
+          0.8186
+        ]
       ]
     },
     {
@@ -2045,6 +3372,13 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-28.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.075,
+          0.15
+        ]
       ]
     },
     {
@@ -2072,6 +3406,13 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-28.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-29.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1633,
+          0.2688
+        ]
       ]
     },
     {
@@ -2104,6 +3445,13 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2811,
+          0.6059
+        ]
       ]
     },
     {
@@ -2132,6 +3480,30 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-29.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8006,
+          0.9354
+        ],
+        [
+          1,
+          0.0608,
+          0.1785
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.7512,
+              0.7911
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2160,6 +3532,25 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-29.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1719,
+          0.3951
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.7512,
+              0.7911
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2188,6 +3579,25 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-29.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4084,
+          0.5869
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.7512,
+              0.7911
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2219,6 +3629,18 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7825,
+          0.8015
+        ],
+        [
+          1,
+          0.0646,
+          0.2241
+        ]
       ]
     },
     {
@@ -2247,6 +3669,25 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-31.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5916,
+          0.8566
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.3609,
+              0.5812
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2275,6 +3716,30 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-31.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8699,
+          0.9383
+        ],
+        [
+          1,
+          0.0826,
+          0.1785
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.3609,
+              0.5812
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2307,6 +3772,25 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5565,
+          0.7626
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.3257,
+              0.5461
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2335,6 +3819,25 @@
         "papers/physics/img/28-7C-Particle-Zoo-32.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-33.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7692,
+          0.8813
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.3257,
+              0.5461
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2365,6 +3868,40 @@
         "papers/physics/img/28-7C-Particle-Zoo-32.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-33.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0826,
+          0.3409
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.3257,
+              0.5461
+            ]
+          ]
+        ],
+        [
+          "Q36(b)",
+          [
+            [
+              0,
+              0.8946,
+              0.9288
+            ],
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2394,6 +3931,40 @@
         "papers/physics/img/28-7C-Particle-Zoo-32.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-33.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3466,
+          0.6087
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.3257,
+              0.5461
+            ]
+          ]
+        ],
+        [
+          "Q36(b)",
+          [
+            [
+              0,
+              0.8946,
+              0.9288
+            ],
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2424,6 +3995,40 @@
         "papers/physics/img/28-7C-Particle-Zoo-32.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-33.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6106,
+          0.8851
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.3257,
+              0.5461
+            ]
+          ]
+        ],
+        [
+          "Q36(b)",
+          [
+            [
+              0,
+              0.8946,
+              0.9288
+            ],
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2454,6 +4059,30 @@
         "papers/physics/img/28-7C-Particle-Zoo-32.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-33.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8974,
+          0.9326
+        ],
+        [
+          2,
+          0.0532,
+          0.2241
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.3257,
+              0.5461
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2482,6 +4111,25 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-34.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.415,
+          0.6724
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.3704,
+              0.4046
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2511,6 +4159,30 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-34.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6857,
+          0.9373
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q37",
+          [
+            [
+              0,
+              0.3704,
+              0.4046
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2544,6 +4216,18 @@
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q38.jpg",
         "papers/physics/fig/28-7C-Particle-Zoo-Q38-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2745,
+          0.9307
+        ],
+        [
+          1,
+          0.0532,
+          0.0722
+        ]
       ]
     },
     {
@@ -2572,6 +4256,25 @@
         "papers/physics/img/28-7C-Particle-Zoo-36.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2602,
+          0.3495
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.2156,
+              0.2488
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2604,6 +4307,25 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3628,
+          0.6173
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.2156,
+              0.2488
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2637,6 +4359,30 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q40.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4302,
+          0.6515
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.7635,
+              0.8338
+            ],
+            [
+              1,
+              0.0513,
+              0.4198
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2669,6 +4415,40 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q40.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6857,
+          0.9012
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.7635,
+              0.8338
+            ],
+            [
+              1,
+              0.0513,
+              0.4198
+            ]
+          ]
+        ],
+        [
+          "Q40(b)",
+          [
+            [
+              1,
+              0.6648,
+              0.6838
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2701,6 +4481,45 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q40.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9136,
+          0.9335
+        ],
+        [
+          2,
+          0.0532,
+          0.4435
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.7635,
+              0.8338
+            ],
+            [
+              1,
+              0.0513,
+              0.4198
+            ]
+          ]
+        ],
+        [
+          "Q40(b)",
+          [
+            [
+              1,
+              0.6648,
+              0.6838
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2734,6 +4553,40 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q40.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4501,
+          0.7749
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.7635,
+              0.8338
+            ],
+            [
+              1,
+              0.0513,
+              0.4198
+            ]
+          ]
+        ],
+        [
+          "Q40(b)",
+          [
+            [
+              1,
+              0.6648,
+              0.6838
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2761,6 +4614,13 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-38.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0855,
+          0.1766
+        ]
       ]
     },
     {
@@ -2792,6 +4652,13 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3789,
+          0.6714
+        ]
       ]
     },
     {
@@ -2823,6 +4690,18 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8575,
+          0.8765
+        ],
+        [
+          1,
+          0.0513,
+          0.1757
+        ]
       ]
     },
     {
@@ -2856,6 +4735,13 @@
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q44.jpg",
         "papers/physics/fig/28-7C-Particle-Zoo-Q44-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3609,
+          0.754
+        ]
       ]
     },
     {
@@ -2884,6 +4770,25 @@
         "papers/physics/img/28-7C-Particle-Zoo-40.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-41.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-42.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1425
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.8908,
+              0.925
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2913,6 +4818,25 @@
         "papers/physics/img/28-7C-Particle-Zoo-40.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-41.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-42.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1557,
+          0.4853
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.8908,
+              0.925
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2942,6 +4866,25 @@
         "papers/physics/img/28-7C-Particle-Zoo-40.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-41.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-42.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4976,
+          0.6781
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.8908,
+              0.925
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2971,6 +4914,25 @@
         "papers/physics/img/28-7C-Particle-Zoo-40.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-41.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-42.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6885,
+          0.8965
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.8908,
+              0.925
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3003,6 +4965,25 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q46-4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4084,
+          0.5859
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.1643,
+              0.3979
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3031,6 +5012,35 @@
         "papers/physics/img/28-7C-Particle-Zoo-42.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-43.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6505,
+          0.7189
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.1643,
+              0.3979
+            ]
+          ]
+        ],
+        [
+          "Q46(b)",
+          [
+            [
+              0,
+              0.5992,
+              0.6477
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3064,6 +5074,40 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q46-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7255,
+          0.9402
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.1643,
+              0.3979
+            ]
+          ]
+        ],
+        [
+          "Q46(b)",
+          [
+            [
+              0,
+              0.5992,
+              0.6477
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3098,6 +5142,35 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q46-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1045,
+          0.8091
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.1643,
+              0.3979
+            ]
+          ]
+        ],
+        [
+          "Q46(b)",
+          [
+            [
+              0,
+              0.5992,
+              0.6477
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3132,6 +5205,40 @@
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q46-4.jpg",
         "papers/physics/fig/28-7C-Particle-Zoo-Q46-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8148,
+          0.8338
+        ],
+        [
+          2,
+          0.0969,
+          0.3134
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.1643,
+              0.3979
+            ]
+          ]
+        ],
+        [
+          "Q46(b)",
+          [
+            [
+              0,
+              0.5992,
+              0.6477
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3162,6 +5269,13 @@
         "papers/physics/img/28-7C-Particle-Zoo-45.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-46.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4653,
+          0.8044
+        ]
       ]
     },
     {
@@ -3194,6 +5308,35 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q48.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1491,
+          0.5081
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ],
+        [
+          "Q48(a)",
+          [
+            [
+              1,
+              0.0969,
+              0.1434
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3224,6 +5367,35 @@
         "papers/physics/img/28-7C-Particle-Zoo-45.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-46.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5128,
+          0.7312
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ],
+        [
+          "Q48(a)",
+          [
+            [
+              1,
+              0.0969,
+              0.1434
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3258,6 +5430,40 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q48-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2697,
+          0.66
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ],
+        [
+          "Q48(b)",
+          [
+            [
+              1,
+              0.7417,
+              0.7607
+            ],
+            [
+              2,
+              0.0513,
+              0.2678
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3288,6 +5494,45 @@
         "papers/physics/img/28-7C-Particle-Zoo-45.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-46.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6667,
+          0.9402
+        ],
+        [
+          3,
+          0.0532,
+          0.0722
+        ]
+      ],
+      "ctx": [
+        [
+          "Q48",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ],
+        [
+          "Q48(b)",
+          [
+            [
+              1,
+              0.7417,
+              0.7607
+            ],
+            [
+              2,
+              0.0513,
+              0.2678
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3317,6 +5562,13 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q49.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2821,
+          0.4748
+        ]
       ]
     },
     {
@@ -3347,6 +5599,13 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q50.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.661,
+          0.8348
+        ]
       ]
     },
     {
@@ -3375,6 +5634,25 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-48.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-49.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2232,
+          0.4444
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.1054,
+              0.2127
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3409,6 +5687,30 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4577,
+          0.9459
+        ],
+        [
+          1,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.1054,
+              0.2127
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3438,6 +5740,25 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-48.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-49.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2574,
+          0.4644
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.1054,
+              0.2127
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3468,6 +5789,25 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q52-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8063,
+          0.8955
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.6116,
+              0.7854
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3500,6 +5840,35 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q52.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.3998
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.6116,
+              0.7854
+            ]
+          ]
+        ],
+        [
+          "Q52(b)",
+          [
+            [
+              0,
+              0.9088,
+              0.943
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3528,6 +5897,35 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-49.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-50.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4055,
+          0.68
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.6116,
+              0.7854
+            ]
+          ]
+        ],
+        [
+          "Q52(b)",
+          [
+            [
+              0,
+              0.9088,
+              0.943
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3555,6 +5953,35 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-49.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-50.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6866,
+          0.7835
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.6116,
+              0.7854
+            ]
+          ]
+        ],
+        [
+          "Q52(b)",
+          [
+            [
+              0,
+              0.9088,
+              0.943
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3585,6 +6012,25 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q53.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0969,
+          0.1899
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3613,6 +6059,25 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-50.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-51.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2004,
+          0.3932
+        ]
+      ],
+      "ctx": [
+        [
+          "Q53",
+          [
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3645,6 +6110,18 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q54.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6059,
+          0.7132
+        ],
+        [
+          1,
+          0.0513,
+          0.2944
+        ]
       ]
     },
     {
@@ -3671,6 +6148,25 @@
       ],
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-52.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.491,
+          0.6543
+        ]
+      ],
+      "ctx": [
+        [
+          "Q55",
+          [
+            [
+              0,
+              0.4321,
+              0.4805
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3699,6 +6195,25 @@
       ],
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-52.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6676,
+          0.8889
+        ]
+      ],
+      "ctx": [
+        [
+          "Q55",
+          [
+            [
+              0,
+              0.4321,
+              0.4805
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3730,6 +6245,13 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q56.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1909,
+          0.4131
+        ]
       ]
     },
     {
@@ -3758,6 +6280,13 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-53.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-54.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6144,
+          0.735
+        ]
       ]
     },
     {
@@ -3786,6 +6315,13 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-53.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-54.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2051
+        ]
       ]
     },
     {
@@ -3814,6 +6350,13 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-54.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-55.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3571,
+          0.6657
+        ]
       ]
     },
     {
@@ -3842,6 +6385,18 @@
       "images": [
         "papers/physics/img/28-7C-Particle-Zoo-54.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-55.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8794,
+          0.9269
+        ],
+        [
+          1,
+          0.0513,
+          0.1216
+        ]
       ]
     },
     {
@@ -3874,6 +6429,13 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q61.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3428,
+          0.5081
+        ]
       ]
     },
     {
@@ -3901,6 +6463,25 @@
         "papers/physics/img/28-7C-Particle-Zoo-55.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-56.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-57.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7654,
+          0.8547
+        ]
+      ],
+      "ctx": [
+        [
+          "Q62",
+          [
+            [
+              0,
+              0.6619,
+              0.7521
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3930,6 +6511,30 @@
         "papers/physics/img/28-7C-Particle-Zoo-55.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-56.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-57.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8604,
+          0.9288
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q62",
+          [
+            [
+              0,
+              0.6619,
+              0.7521
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3959,6 +6564,25 @@
         "papers/physics/img/28-7C-Particle-Zoo-55.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-56.jpg",
         "papers/physics/img/28-7C-Particle-Zoo-57.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1396,
+          0.3799
+        ]
+      ],
+      "ctx": [
+        [
+          "Q62",
+          [
+            [
+              0,
+              0.6619,
+              0.7521
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3992,6 +6616,30 @@
       ],
       "figures": [
         "papers/physics/fig/28-7C-Particle-Zoo-Q62.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3903,
+          0.9411
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q62",
+          [
+            [
+              0,
+              0.6619,
+              0.7521
+            ]
+          ]
+        ]
       ]
     }
   ]

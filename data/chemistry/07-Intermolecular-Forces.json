@@ -32,6 +32,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1719,
+          0.6781
+        ]
       ]
     },
     {
@@ -61,6 +68,25 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-02.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1681,
+          0.2745
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.1396,
+              0.1586
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -92,6 +118,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2953,
+          0.3143
+        ],
+        [
+          1,
+          0.0513,
+          0.7797
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.1396,
+              0.1586
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -122,6 +172,18 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-03.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.924,
+          0.943
+        ],
+        [
+          1,
+          0.0665,
+          0.1368
+        ]
       ]
     },
     {
@@ -152,6 +214,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q4.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3409,
+          0.5679
+        ]
       ]
     },
     {
@@ -180,6 +249,13 @@
       ],
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7702,
+          0.8642
+        ]
       ]
     },
     {
@@ -212,6 +288,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3561,
+          0.5679
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1197,
+              0.3457
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -244,6 +339,25 @@
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q6.jpg",
         "papers/chemistry/fig/07-Intermolecular-Forces-Q6-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5698,
+          0.6192
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1197,
+              0.3457
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -277,6 +391,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q6-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3846,
+          0.6325
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1197,
+              0.3457
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.3913
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -309,6 +452,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q6-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6258,
+          0.8424
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1197,
+              0.3457
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.3913
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -343,6 +515,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q6-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.849,
+          0.9117
+        ],
+        [
+          2,
+          0.0608,
+          0.3029
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.1197,
+              0.3457
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.0532,
+              0.3913
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -374,6 +580,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4995,
+          0.8063
+        ],
+        [
+          1,
+          0.0513,
+          0.5451
+        ]
       ]
     },
     {
@@ -402,6 +620,13 @@
       ],
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7379,
+          0.8822
+        ]
       ]
     },
     {
@@ -431,6 +656,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q9.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1909,
+          0.68
+        ]
       ]
     },
     {
@@ -461,6 +693,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8585,
+          0.8775
+        ],
+        [
+          1,
+          0.0636,
+          0.2241
+        ]
       ]
     },
     {
@@ -489,6 +733,13 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-10.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4103,
+          0.5527
+        ]
       ]
     },
     {
@@ -518,6 +769,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7626,
+          0.7816
+        ],
+        [
+          1,
+          0.0513,
+          0.3571
+        ]
       ]
     },
     {
@@ -545,6 +808,13 @@
       ],
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7388,
+          0.831
+        ]
       ]
     },
     {
@@ -573,6 +843,13 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-12.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1709,
+          0.265
+        ]
       ]
     },
     {
@@ -602,6 +879,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4834,
+          0.6211
+        ]
       ]
     },
     {
@@ -631,6 +915,13 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-12.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8224,
+          0.9145
+        ]
       ]
     },
     {
@@ -659,6 +950,13 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-13.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2355,
+          0.3295
+        ]
       ]
     },
     {
@@ -687,6 +985,13 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-13.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5309,
+          0.6619
+        ]
       ]
     },
     {
@@ -715,6 +1020,25 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-13.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.1909
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              1,
+              0.0532,
+              0.0712
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -746,6 +1070,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2099,
+          0.5309
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              1,
+              0.0532,
+              0.0712
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -777,6 +1120,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.716,
+          0.9069
+        ]
       ]
     },
     {
@@ -809,6 +1159,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4577,
+          0.8167
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.1643,
+              0.3162
+            ]
+          ]
+        ],
+        [
+          "Q21(a)",
+          [
+            [
+              0,
+              0.3267,
+              0.4558
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -836,6 +1215,40 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-15.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8101,
+          0.924
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.1643,
+              0.3162
+            ]
+          ]
+        ],
+        [
+          "Q21(a)",
+          [
+            [
+              0,
+              0.3267,
+              0.4558
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -864,6 +1277,35 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-15.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1045,
+          0.1937
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.1643,
+              0.3162
+            ]
+          ]
+        ],
+        [
+          "Q21(a)",
+          [
+            [
+              0,
+              0.3267,
+              0.4558
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -892,6 +1334,35 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-15.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4406,
+          0.5812
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.1643,
+              0.3162
+            ]
+          ]
+        ],
+        [
+          "Q21(a)",
+          [
+            [
+              0,
+              0.3267,
+              0.4558
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -924,6 +1395,25 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-15.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5945,
+          0.6657
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.1643,
+              0.3162
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -953,6 +1443,18 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-16.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.867,
+          0.9364
+        ],
+        [
+          1,
+          0.0513,
+          0.1083
+        ]
       ]
     },
     {
@@ -984,6 +1486,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4881,
+          0.5366
+        ],
+        [
+          1,
+          0.0513,
+          0.5328
+        ]
       ]
     },
     {
@@ -1014,6 +1528,13 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-18.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0855,
+          0.1795
+        ]
       ]
     },
     {
@@ -1043,6 +1564,13 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-19.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3799,
+          0.472
+        ]
       ]
     },
     {
@@ -1072,6 +1600,13 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-19.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8547,
+          0.9459
+        ]
       ]
     },
     {
@@ -1101,6 +1636,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2507,
+          0.3894
+        ]
       ]
     },
     {
@@ -1134,6 +1676,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q28.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5755,
+          0.8974
+        ]
       ]
     },
     {
@@ -1163,6 +1712,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4188,
+          0.811
+        ]
       ]
     },
     {
@@ -1191,6 +1747,13 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-21.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.075,
+          0.1814
+        ]
       ]
     },
     {
@@ -1220,6 +1783,13 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-22.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3856,
+          0.4796
+        ]
       ]
     },
     {
@@ -1249,6 +1819,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7094,
+          0.7284
+        ],
+        [
+          1,
+          0.0522,
+          0.3381
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.68,
+              0.699
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1278,6 +1872,25 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-22.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3409,
+          0.4473
+        ]
+      ],
+      "ctx": [
+        [
+          "Q32",
+          [
+            [
+              0,
+              0.68,
+              0.699
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1307,6 +1920,13 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-23.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6686,
+          0.7626
+        ]
       ]
     },
     {
@@ -1336,6 +1956,13 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-23.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-24.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0855,
+          0.1766
+        ]
       ]
     },
     {
@@ -1365,6 +1992,13 @@
       ],
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.471,
+          0.5916
+        ]
       ]
     },
     {
@@ -1394,6 +2028,13 @@
       ],
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7949,
+          0.8889
+        ]
       ]
     },
     {
@@ -1420,6 +2061,13 @@
       ],
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1909,
+          0.283
+        ]
       ]
     },
     {
@@ -1447,6 +2095,13 @@
       ],
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4862,
+          0.5926
+        ]
       ]
     },
     {
@@ -1476,6 +2131,13 @@
       ],
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7474,
+          0.8386
+        ]
       ]
     },
     {
@@ -1505,6 +2167,25 @@
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-26.jpg",
         "papers/chemistry/img/07-Intermolecular-Forces-27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1339,
+          0.1757
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.1054,
+              0.1244
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1537,6 +2218,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3438,
+          0.7664
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.1054,
+              0.1244
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1570,6 +2270,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q41.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2251,
+          0.3314
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.9136,
+              0.9326
+            ],
+            [
+              1,
+              0.0655,
+              0.2146
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1602,6 +2326,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/07-Intermolecular-Forces-Q41.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3523,
+          0.4587
+        ]
+      ],
+      "ctx": [
+        [
+          "Q41",
+          [
+            [
+              0,
+              0.9136,
+              0.9326
+            ],
+            [
+              1,
+              0.0655,
+              0.2146
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1629,6 +2377,13 @@
       ],
       "images": [
         "papers/chemistry/img/07-Intermolecular-Forces-27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6619,
+          0.7569
+        ]
       ]
     }
   ]

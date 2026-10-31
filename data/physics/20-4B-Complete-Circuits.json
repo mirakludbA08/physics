@@ -36,6 +36,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4729,
+          0.8699
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.4596
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -70,6 +89,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q1-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8832,
+          0.9145
+        ],
+        [
+          1,
+          0.0522,
+          0.6116
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.4596
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -103,6 +146,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3267,
+          0.4672
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7559,
+              0.8053
+            ],
+            [
+              1,
+              0.0513,
+              0.3162
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -136,6 +203,35 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q2-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7198,
+          0.7588
+        ],
+        [
+          2,
+          0.0513,
+          0.6961
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7559,
+              0.8053
+            ],
+            [
+              1,
+              0.0513,
+              0.3162
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -170,6 +266,35 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q2-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7094,
+          0.7654
+        ],
+        [
+          3,
+          0.0513,
+          0.6686
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.7559,
+              0.8053
+            ],
+            [
+              1,
+              0.0513,
+              0.3162
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -200,6 +325,18 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8158,
+          0.9088
+        ],
+        [
+          1,
+          0.0513,
+          0.2194
+        ]
       ]
     },
     {
@@ -226,6 +363,13 @@
       "images": [
         "papers/physics/img/20-4B-Complete-Circuits-06.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4046,
+          0.4957
+        ]
       ]
     },
     {
@@ -254,6 +398,18 @@
       "images": [
         "papers/physics/img/20-4B-Complete-Circuits-06.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6505,
+          0.9259
+        ],
+        [
+          1,
+          0.0513,
+          0.1216
+        ]
       ]
     },
     {
@@ -283,6 +439,13 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2764,
+          0.9307
+        ]
       ]
     },
     {
@@ -311,6 +474,25 @@
         "papers/physics/img/20-4B-Complete-Circuits-08.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-09.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2156,
+          0.4226
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.1861,
+              0.2023
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -342,6 +524,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4359,
+          0.9383
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.1861,
+              0.2023
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -373,6 +574,35 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q7-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4188,
+          0.6486
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.1861,
+              0.2023
+            ]
+          ]
+        ],
+        [
+          "Q7(c)",
+          [
+            [
+              1,
+              0.0532,
+              0.415
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -406,6 +636,40 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q7-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6543,
+          0.9278
+        ],
+        [
+          2,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.1861,
+              0.2023
+            ]
+          ]
+        ],
+        [
+          "Q7(c)",
+          [
+            [
+              1,
+              0.0532,
+              0.415
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -438,6 +702,13 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4406,
+          0.9421
+        ]
       ]
     },
     {
@@ -469,6 +740,13 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q9.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2013,
+          0.6629
+        ]
       ]
     },
     {
@@ -497,6 +775,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3039,
+          0.4843
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8158,
+              0.8348
+            ],
+            [
+              1,
+              0.0513,
+              0.2944
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -526,6 +828,40 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4948,
+          0.7901
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8158,
+              0.8348
+            ],
+            [
+              1,
+              0.0513,
+              0.2944
+            ]
+          ]
+        ],
+        [
+          "Q10(a)",
+          [
+            [
+              1,
+              0.3039,
+              0.4843
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -553,6 +889,13 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2678
+        ]
       ]
     },
     {
@@ -578,6 +921,25 @@
       "images": [
         "papers/physics/img/20-4B-Complete-Circuits-13.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4558,
+          0.5451
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.4112,
+              0.4454
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -607,6 +969,40 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9297,
+          0.9487
+        ],
+        [
+          1,
+          0.0826,
+          0.1785
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.4112,
+              0.4454
+            ]
+          ]
+        ],
+        [
+          "Q12(b)",
+          [
+            [
+              0,
+              0.5584,
+              0.9335
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -639,6 +1035,35 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1852,
+          0.4292
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.4112,
+              0.4454
+            ]
+          ]
+        ],
+        [
+          "Q12(b)",
+          [
+            [
+              0,
+              0.5584,
+              0.9335
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -668,6 +1093,25 @@
       "images": [
         "papers/physics/img/20-4B-Complete-Circuits-13.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4425,
+          0.7977
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.4112,
+              0.4454
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -697,6 +1141,25 @@
         "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5745,
+          0.8272
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              1,
+              0.0532,
+              0.5622
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -724,6 +1187,35 @@
         "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.1966
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              1,
+              0.0532,
+              0.5622
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              1,
+              0.8405,
+              0.9411
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -751,6 +1243,35 @@
         "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1994,
+          0.3428
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              1,
+              0.0532,
+              0.5622
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              1,
+              0.8405,
+              0.9411
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -781,6 +1302,35 @@
         "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3466,
+          0.5176
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              1,
+              0.0532,
+              0.5622
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              1,
+              0.8405,
+              0.9411
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -809,6 +1359,35 @@
         "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5223,
+          0.6211
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              1,
+              0.0532,
+              0.5622
+            ]
+          ]
+        ],
+        [
+          "Q13(b)",
+          [
+            [
+              1,
+              0.8405,
+              0.9411
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -840,6 +1419,40 @@
         "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6714,
+          0.9297
+        ],
+        [
+          3,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              1,
+              0.0532,
+              0.5622
+            ]
+          ]
+        ],
+        [
+          "Q13(c)",
+          [
+            [
+              2,
+              0.6344,
+              0.6648
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -866,6 +1479,35 @@
         "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.075,
+          0.2013
+        ]
+      ],
+      "ctx": [
+        [
+          "Q13",
+          [
+            [
+              1,
+              0.0532,
+              0.5622
+            ]
+          ]
+        ],
+        [
+          "Q13(c)",
+          [
+            [
+              2,
+              0.6344,
+              0.6648
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -895,6 +1537,13 @@
         "papers/physics/img/20-4B-Complete-Circuits-17.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-18.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3979,
+          0.5385
+        ]
       ]
     },
     {
@@ -928,6 +1577,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3694,
+          0.7673
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.7009,
+              0.7189
+            ],
+            [
+              1,
+              0.0513,
+              0.359
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -958,6 +1631,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q15.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7806,
+          0.944
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.7009,
+              0.7189
+            ],
+            [
+              1,
+              0.0513,
+              0.359
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -988,6 +1685,40 @@
         "papers/physics/img/20-4B-Complete-Circuits-17.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-18.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-19.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.7009,
+              0.7189
+            ],
+            [
+              1,
+              0.0513,
+              0.359
+            ]
+          ]
+        ],
+        [
+          "Q15(a)",
+          [
+            [
+              1,
+              0.3694,
+              0.7673
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1020,6 +1751,30 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q16.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q16-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3571,
+          0.6667
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.51,
+              0.7816
+            ],
+            [
+              1,
+              0.0513,
+              0.3438
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1052,6 +1807,35 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.68,
+          0.9459
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q16",
+          [
+            [
+              0,
+              0.51,
+              0.7816
+            ],
+            [
+              1,
+              0.0513,
+              0.3438
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1079,6 +1863,13 @@
       "images": [
         "papers/physics/img/20-4B-Complete-Circuits-21.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2156,
+          0.4378
+        ]
       ]
     },
     {
@@ -1109,6 +1900,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6686,
+          0.868
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17(b)",
+          [
+            [
+              0,
+              0.4511,
+              0.6667
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1138,6 +1948,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8746,
+          0.9383
+        ],
+        [
+          1,
+          0.0826,
+          0.1785
+        ]
+      ],
+      "ctx": [
+        [
+          "Q17(b)",
+          [
+            [
+              0,
+              0.4511,
+              0.6667
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1166,6 +2000,13 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q18.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q18-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3248,
+          0.8462
+        ]
       ]
     },
     {
@@ -1194,6 +2035,13 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q19.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q19-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1054,
+          0.5062
+        ]
       ]
     },
     {
@@ -1225,6 +2073,18 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.641,
+          0.9373
+        ],
+        [
+          1,
+          0.0513,
+          0.1244
+        ]
       ]
     },
     {
@@ -1255,6 +2115,13 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q21.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q21-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3257,
+          0.905
+        ]
       ]
     },
     {
@@ -1286,6 +2153,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4425,
+          0.6496
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.1425,
+              0.4321
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1316,6 +2202,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q22.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6629,
+          0.9288
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.1425,
+              0.4321
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1345,6 +2255,35 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1045,
+          0.3343
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.1425,
+              0.4321
+            ]
+          ]
+        ],
+        [
+          "Q22(c)",
+          [
+            [
+              1,
+              0.0817,
+              0.1007
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1374,6 +2313,35 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.34,
+          0.5546
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.1425,
+              0.4321
+            ]
+          ]
+        ],
+        [
+          "Q22(c)",
+          [
+            [
+              1,
+              0.0817,
+              0.1007
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1402,6 +2370,30 @@
       "images": [
         "papers/physics/img/20-4B-Complete-Circuits-26.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7455,
+          0.9231
+        ],
+        [
+          1,
+          0.0608,
+          0.1301
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.7009,
+              0.735
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1432,6 +2424,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1406,
+          0.5992
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.7009,
+              0.735
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1460,6 +2471,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q24.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.34,
+          0.5176
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.7455,
+              0.7939
+            ],
+            [
+              1,
+              0.0674,
+              0.3305
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1489,6 +2524,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q24.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5309,
+          0.754
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.7455,
+              0.7939
+            ],
+            [
+              1,
+              0.0674,
+              0.3305
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1519,6 +2578,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q25.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.208
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.9012,
+              0.9316
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1551,6 +2629,40 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q25-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8148,
+          0.9411
+        ],
+        [
+          2,
+          0.0608,
+          0.2184
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.9012,
+              0.9316
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              1,
+              0.2925,
+              0.811
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1581,6 +2693,35 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q25-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2213,
+          0.4387
+        ]
+      ],
+      "ctx": [
+        [
+          "Q25",
+          [
+            [
+              0,
+              0.9012,
+              0.9316
+            ]
+          ]
+        ],
+        [
+          "Q25(b)",
+          [
+            [
+              1,
+              0.2925,
+              0.811
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1612,6 +2753,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q26-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8272,
+          0.9459
+        ],
+        [
+          1,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.5831,
+              0.8167
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1642,6 +2807,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q26-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2868,
+          0.4501
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.5831,
+              0.8167
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1673,6 +2857,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4634,
+          0.9354
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q26",
+          [
+            [
+              0,
+              0.5831,
+              0.8167
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1702,6 +2910,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4986,
+          0.7056
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.2156,
+              0.4881
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1730,6 +2957,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q27.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7189,
+          0.9278
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.2156,
+              0.4881
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1758,6 +3004,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2184
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.2156,
+              0.4881
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1790,6 +3055,30 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q28.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q28-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5945,
+          0.8917
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.3628,
+              0.6714
+            ],
+            [
+              1,
+              0.0513,
+              0.585
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1820,6 +3109,35 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q28.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9022,
+          0.9364
+        ],
+        [
+          2,
+          0.0826,
+          0.1785
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.3628,
+              0.6714
+            ],
+            [
+              1,
+              0.0513,
+              0.585
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1850,6 +3168,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q28.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1852,
+          0.3409
+        ]
+      ],
+      "ctx": [
+        [
+          "Q28",
+          [
+            [
+              0,
+              0.3628,
+              0.6714
+            ],
+            [
+              1,
+              0.0513,
+              0.585
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1876,6 +3218,25 @@
       "images": [
         "papers/physics/img/20-4B-Complete-Circuits-35.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5318,
+          0.5508
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.4881,
+              0.5214
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1906,6 +3267,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7265,
+          0.7578
+        ],
+        [
+          1,
+          0.0522,
+          0.4815
+        ]
+      ],
+      "ctx": [
+        [
+          "Q29",
+          [
+            [
+              0,
+              0.4881,
+              0.5214
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1937,6 +3322,18 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q30.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6771,
+          0.9326
+        ],
+        [
+          1,
+          0.0513,
+          0.1064
+        ]
       ]
     },
     {
@@ -1967,6 +3364,13 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3086,
+          0.735
+        ]
       ]
     },
     {
@@ -1996,6 +3400,13 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q32.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.3685
+        ]
       ]
     },
     {
@@ -2025,6 +3436,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8063,
+          0.9259
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.5233,
+              0.7968
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2056,6 +3486,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.3115
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.5233,
+              0.7968
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2085,6 +3534,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3238,
+          0.5024
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.5233,
+              0.7968
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2111,6 +3579,25 @@
       "images": [
         "papers/physics/img/20-4B-Complete-Circuits-38.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5147,
+          0.7673
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.5233,
+              0.7968
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2145,6 +3632,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2222,
+          0.6192
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.9145,
+              0.9449
+            ],
+            [
+              1,
+              0.0617,
+              0.2127
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2173,6 +3684,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q34.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6325,
+          0.8689
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.9145,
+              0.9449
+            ],
+            [
+              1,
+              0.0617,
+              0.2127
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2203,6 +3738,35 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q34-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8623,
+          0.8955
+        ],
+        [
+          2,
+          0.0513,
+          0.453
+        ]
+      ],
+      "ctx": [
+        [
+          "Q34",
+          [
+            [
+              0,
+              0.9145,
+              0.9449
+            ],
+            [
+              1,
+              0.0617,
+              0.2127
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2232,6 +3796,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q35.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8642,
+          0.9402
+        ],
+        [
+          1,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.5992,
+              0.8547
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2259,6 +3847,35 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q35.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2792,
+          0.4207
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.5992,
+              0.8547
+            ]
+          ]
+        ],
+        [
+          "Q35(b)",
+          [
+            [
+              1,
+              0.2574,
+              0.2764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2286,6 +3903,35 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q35.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4274,
+          0.5859
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.5992,
+              0.8547
+            ]
+          ]
+        ],
+        [
+          "Q35(b)",
+          [
+            [
+              1,
+              0.2574,
+              0.2764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2315,6 +3961,35 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q35.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5888,
+          0.7626
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.5992,
+              0.8547
+            ]
+          ]
+        ],
+        [
+          "Q35(b)",
+          [
+            [
+              1,
+              0.2574,
+              0.2764
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2346,6 +4021,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2479,
+          0.6591
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.9069,
+              0.9231
+            ],
+            [
+              1,
+              0.0513,
+              0.2384
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2378,6 +4077,35 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q36-2.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q36-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6724,
+          0.9003
+        ],
+        [
+          2,
+          0.0617,
+          0.3894
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.9069,
+              0.9231
+            ],
+            [
+              1,
+              0.0513,
+              0.2384
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2407,6 +4135,18 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q37.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q37-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.585,
+          0.9098
+        ],
+        [
+          1,
+          0.0636,
+          0.2118
+        ]
       ]
     },
     {
@@ -2436,6 +4176,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q38.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7056,
+          0.9269
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.3599,
+              0.6952
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2463,6 +4222,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q38.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2526
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.3599,
+              0.6952
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2493,6 +4271,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q38.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2659,
+          0.5613
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.3599,
+              0.6952
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2525,6 +4322,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q39.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3124,
+          0.5375
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.7075,
+              0.7683
+            ],
+            [
+              1,
+              0.0522,
+              0.3029
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2555,6 +4376,45 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q39-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8158,
+          0.9421
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.7075,
+              0.7683
+            ],
+            [
+              1,
+              0.0522,
+              0.3029
+            ]
+          ]
+        ],
+        [
+          "Q39(b)",
+          [
+            [
+              1,
+              0.548,
+              0.812
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2584,6 +4444,40 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q39-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1339,
+          0.2783
+        ]
+      ],
+      "ctx": [
+        [
+          "Q39",
+          [
+            [
+              0,
+              0.7075,
+              0.7683
+            ],
+            [
+              1,
+              0.0522,
+              0.3029
+            ]
+          ]
+        ],
+        [
+          "Q39(b)",
+          [
+            [
+              1,
+              0.548,
+              0.812
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2612,6 +4506,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5318,
+          0.7379
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.4226,
+              0.5214
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2640,6 +4553,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q40.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7512,
+          0.944
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.4226,
+              0.5214
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2671,6 +4603,13 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q41.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q41-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.246,
+          0.6952
+        ]
       ]
     },
     {
@@ -2704,6 +4643,35 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q42.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q42-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9031,
+          0.944
+        ],
+        [
+          2,
+          0.0826,
+          0.4131
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.8433,
+              0.8623
+            ],
+            [
+              1,
+              0.0513,
+              0.8927
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2732,6 +4700,30 @@
         "papers/physics/img/20-4B-Complete-Circuits-49.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-50.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-51.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4264,
+          0.5745
+        ]
+      ],
+      "ctx": [
+        [
+          "Q42",
+          [
+            [
+              0,
+              0.8433,
+              0.8623
+            ],
+            [
+              1,
+              0.0513,
+              0.8927
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2764,6 +4756,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q43.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5461,
+          0.9288
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.7208,
+              0.7692
+            ],
+            [
+              1,
+              0.0513,
+              0.5356
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2794,6 +4810,40 @@
         "papers/physics/img/20-4B-Complete-Circuits-52.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-53.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-54.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0902,
+          0.3048
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.7208,
+              0.7692
+            ],
+            [
+              1,
+              0.0513,
+              0.5356
+            ]
+          ]
+        ],
+        [
+          "Q43(b)",
+          [
+            [
+              2,
+              0.0532,
+              0.0836
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2826,6 +4876,40 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q43.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3105,
+          0.6581
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.7208,
+              0.7692
+            ],
+            [
+              1,
+              0.0513,
+              0.5356
+            ]
+          ]
+        ],
+        [
+          "Q43(b)",
+          [
+            [
+              2,
+              0.0532,
+              0.0836
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2855,6 +4939,35 @@
         "papers/physics/img/20-4B-Complete-Circuits-52.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-53.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-54.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6714,
+          0.9383
+        ],
+        [
+          3,
+          0.0608,
+          0.1301
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.7208,
+              0.7692
+            ],
+            [
+              1,
+              0.0513,
+              0.5356
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2885,6 +4998,13 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q44.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2745,
+          0.7873
+        ]
       ]
     },
     {
@@ -2917,6 +5037,25 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q45.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q45-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7028,
+          0.9392
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              1,
+              0.0532,
+              0.6933
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2948,6 +5087,25 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q45.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q45-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0532,
+          0.246
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              1,
+              0.0532,
+              0.6933
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2979,6 +5137,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6952,
+          0.8452
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.3932,
+              0.7009
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3009,6 +5186,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q46-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8575,
+          0.9221
+        ],
+        [
+          1,
+          0.0513,
+          0.5802
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.3932,
+              0.7009
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3039,6 +5240,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q46.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5935,
+          0.8452
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.3932,
+              0.7009
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3069,6 +5289,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q46-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8585,
+          0.905
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.3932,
+              0.7009
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3099,6 +5338,13 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q47.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1643,
+          0.7977
+        ]
       ]
     },
     {
@@ -3127,6 +5373,13 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q48.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.5138
+        ]
       ]
     },
     {
@@ -3157,6 +5410,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q49.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4131,
+          0.5764
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.6496,
+              0.6838
+            ],
+            [
+              1,
+              0.0513,
+              0.4036
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3189,6 +5466,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q49.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5897,
+          0.9003
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.6496,
+              0.6838
+            ],
+            [
+              1,
+              0.0513,
+              0.4036
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3215,6 +5516,35 @@
         "papers/physics/img/20-4B-Complete-Circuits-59.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-60.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-61.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9136,
+          0.9326
+        ],
+        [
+          2,
+          0.0532,
+          0.226
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.6496,
+              0.6838
+            ],
+            [
+              1,
+              0.0513,
+              0.4036
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3243,6 +5573,13 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q50.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q50-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4359,
+          0.8727
+        ]
       ]
     },
     {
@@ -3273,6 +5610,13 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q51.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q51-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1861,
+          0.641
+        ]
       ]
     },
     {
@@ -3300,6 +5644,30 @@
         "papers/physics/img/20-4B-Complete-Circuits-62.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-63.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-64.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8177,
+          0.9373
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.7892,
+              0.8082
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3327,6 +5695,25 @@
         "papers/physics/img/20-4B-Complete-Circuits-62.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-63.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-64.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1111,
+          0.1671
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.7892,
+              0.8082
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3358,6 +5745,40 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q52.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8889,
+          0.9421
+        ],
+        [
+          2,
+          0.0608,
+          0.1861
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.7892,
+              0.8082
+            ]
+          ]
+        ],
+        [
+          "Q52(c)",
+          [
+            [
+              1,
+              0.4112,
+              0.887
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3388,6 +5809,35 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q52.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1918,
+          0.3333
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.7892,
+              0.8082
+            ]
+          ]
+        ],
+        [
+          "Q52(c)",
+          [
+            [
+              1,
+              0.4112,
+              0.887
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3419,6 +5869,13 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q53.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4796,
+          0.9183
+        ]
       ]
     },
     {
@@ -3445,6 +5902,35 @@
         "papers/physics/img/20-4B-Complete-Circuits-65.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-66.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-67.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.49,
+          0.5726
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.1861,
+              0.4577
+            ]
+          ]
+        ],
+        [
+          "Q54(a)",
+          [
+            [
+              0,
+              0.4672,
+              0.4862
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3477,6 +5963,35 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q54-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5783,
+          0.8509
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.1861,
+              0.4577
+            ]
+          ]
+        ],
+        [
+          "Q54(a)",
+          [
+            [
+              0,
+              0.4672,
+              0.4862
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3507,6 +6022,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q54-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8642,
+          0.9402
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.1861,
+              0.4577
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3537,6 +6076,25 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q54-2.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q54-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1406,
+          0.5062
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.1861,
+              0.4577
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3569,6 +6127,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q54.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5195,
+          0.9316
+        ],
+        [
+          2,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q54",
+          [
+            [
+              0,
+              0.1861,
+              0.4577
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3600,6 +6182,40 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q55-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2783,
+          0.4198
+        ]
+      ],
+      "ctx": [
+        [
+          "Q55",
+          [
+            [
+              0,
+              0.4207,
+              0.8604
+            ]
+          ]
+        ],
+        [
+          "Q55(a)",
+          [
+            [
+              0,
+              0.8699,
+              0.9041
+            ],
+            [
+              1,
+              0.0513,
+              0.283
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3632,6 +6248,40 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q55.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q55-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4264,
+          0.7132
+        ]
+      ],
+      "ctx": [
+        [
+          "Q55",
+          [
+            [
+              0,
+              0.4207,
+              0.8604
+            ]
+          ]
+        ],
+        [
+          "Q55(a)",
+          [
+            [
+              0,
+              0.8699,
+              0.9041
+            ],
+            [
+              1,
+              0.0513,
+              0.283
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3659,6 +6309,25 @@
         "papers/physics/img/20-4B-Complete-Circuits-67.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-68.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-69.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7265,
+          0.8746
+        ]
+      ],
+      "ctx": [
+        [
+          "Q55",
+          [
+            [
+              0,
+              0.4207,
+              0.8604
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3691,6 +6360,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q55.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8813,
+          0.9297
+        ],
+        [
+          2,
+          0.0608,
+          0.3324
+        ]
+      ],
+      "ctx": [
+        [
+          "Q55",
+          [
+            [
+              0,
+              0.4207,
+              0.8604
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3720,6 +6413,18 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q56.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q56-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5451,
+          0.7626
+        ],
+        [
+          1,
+          0.0522,
+          0.2925
+        ]
       ]
     },
     {
@@ -3747,6 +6452,25 @@
         "papers/physics/img/20-4B-Complete-Circuits-70.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-71.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-72.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5328,
+          0.6809
+        ]
+      ],
+      "ctx": [
+        [
+          "Q57",
+          [
+            [
+              0,
+              0.4292,
+              0.5223
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3773,6 +6497,25 @@
         "papers/physics/img/20-4B-Complete-Circuits-70.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-71.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-72.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6933,
+          0.8566
+        ]
+      ],
+      "ctx": [
+        [
+          "Q57",
+          [
+            [
+              0,
+              0.4292,
+              0.5223
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3799,6 +6542,30 @@
         "papers/physics/img/20-4B-Complete-Circuits-70.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-71.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-72.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8699,
+          0.9259
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q57",
+          [
+            [
+              0,
+              0.4292,
+              0.5223
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3829,6 +6596,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q57-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2279,
+          0.7132
+        ]
+      ],
+      "ctx": [
+        [
+          "Q57",
+          [
+            [
+              0,
+              0.4292,
+              0.5223
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3861,6 +6647,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q57.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7236,
+          0.7578
+        ],
+        [
+          2,
+          0.0513,
+          0.6306
+        ]
+      ],
+      "ctx": [
+        [
+          "Q57",
+          [
+            [
+              0,
+              0.4292,
+              0.5223
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3889,6 +6699,18 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q58.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q58-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8262,
+          0.8424
+        ],
+        [
+          1,
+          0.0513,
+          0.5005
+        ]
       ]
     },
     {
@@ -3918,6 +6740,18 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q59.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q59-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7037,
+          0.8642
+        ],
+        [
+          1,
+          0.0522,
+          0.3295
+        ]
       ]
     },
     {
@@ -3948,6 +6782,18 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q60.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q60-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5318,
+          0.8177
+        ],
+        [
+          1,
+          0.0522,
+          0.2279
+        ]
       ]
     },
     {
@@ -3977,6 +6823,13 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q61.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q61-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4302,
+          0.9487
+        ]
       ]
     },
     {
@@ -4006,6 +6859,13 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q62.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2355,
+          0.5907
+        ]
       ]
     },
     {
@@ -4035,6 +6895,18 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q63.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q63-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7949,
+          0.811
+        ],
+        [
+          1,
+          0.0617,
+          0.8015
+        ]
       ]
     },
     {
@@ -4063,6 +6935,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q64.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3818,
+          0.5451
+        ]
+      ],
+      "ctx": [
+        [
+          "Q64",
+          [
+            [
+              0,
+              0.1197,
+              0.3723
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4091,6 +6982,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q64.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5575,
+          0.8253
+        ]
+      ],
+      "ctx": [
+        [
+          "Q64",
+          [
+            [
+              0,
+              0.1197,
+              0.3723
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4120,6 +7030,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q65.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4397,
+          0.5878
+        ]
+      ],
+      "ctx": [
+        [
+          "Q65",
+          [
+            [
+              0,
+              0.0902,
+              0.4302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4151,6 +7080,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q65.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6011,
+          0.9411
+        ]
+      ],
+      "ctx": [
+        [
+          "Q65",
+          [
+            [
+              0,
+              0.0902,
+              0.4302
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4178,6 +7126,35 @@
         "papers/physics/img/20-4B-Complete-Circuits-79.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-80.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-81.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0902,
+          0.2612
+        ]
+      ],
+      "ctx": [
+        [
+          "Q65",
+          [
+            [
+              0,
+              0.0902,
+              0.4302
+            ]
+          ]
+        ],
+        [
+          "Q65(c)",
+          [
+            [
+              1,
+              0.0532,
+              0.0836
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4209,6 +7186,40 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q65-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2669,
+          0.9297
+        ],
+        [
+          2,
+          0.0608,
+          0.1301
+        ]
+      ],
+      "ctx": [
+        [
+          "Q65",
+          [
+            [
+              0,
+              0.0902,
+              0.4302
+            ]
+          ]
+        ],
+        [
+          "Q65(c)",
+          [
+            [
+              1,
+              0.0532,
+              0.0836
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4235,6 +7246,25 @@
       "images": [
         "papers/physics/img/20-4B-Complete-Circuits-81.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-82.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6477,
+          0.6667
+        ]
+      ],
+      "ctx": [
+        [
+          "Q66",
+          [
+            [
+              0,
+              0.2745,
+              0.6372
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4263,6 +7293,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q66.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9174,
+          0.9364
+        ],
+        [
+          1,
+          0.0826,
+          0.2374
+        ]
+      ],
+      "ctx": [
+        [
+          "Q66",
+          [
+            [
+              0,
+              0.2745,
+              0.6372
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4291,6 +7345,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q66.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2507,
+          0.4141
+        ]
+      ],
+      "ctx": [
+        [
+          "Q66",
+          [
+            [
+              0,
+              0.2745,
+              0.6372
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4316,6 +7389,25 @@
       "images": [
         "papers/physics/img/20-4B-Complete-Circuits-82.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-83.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2925
+        ]
+      ],
+      "ctx": [
+        [
+          "Q67",
+          [
+            [
+              0,
+              0.5603,
+              0.9278
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4341,6 +7433,25 @@
       "images": [
         "papers/physics/img/20-4B-Complete-Circuits-82.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-83.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.302,
+          0.4815
+        ]
+      ],
+      "ctx": [
+        [
+          "Q67",
+          [
+            [
+              0,
+              0.5603,
+              0.9278
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4369,6 +7480,25 @@
       "images": [
         "papers/physics/img/20-4B-Complete-Circuits-82.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-83.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4938,
+          0.8642
+        ]
+      ],
+      "ctx": [
+        [
+          "Q67",
+          [
+            [
+              0,
+              0.5603,
+              0.9278
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4398,6 +7528,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q68.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3685,
+          0.5926
+        ]
+      ],
+      "ctx": [
+        [
+          "Q68",
+          [
+            [
+              0,
+              0.1197,
+              0.358
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4429,6 +7578,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q68.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.603,
+          0.9288
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q68",
+          [
+            [
+              0,
+              0.1197,
+              0.358
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4460,6 +7633,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q68-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1406,
+          0.7388
+        ]
+      ],
+      "ctx": [
+        [
+          "Q68",
+          [
+            [
+              0,
+              0.1197,
+              0.358
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4486,6 +7678,30 @@
       "images": [
         "papers/physics/img/20-4B-Complete-Circuits-85.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-86.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9297,
+          0.9487
+        ],
+        [
+          1,
+          0.0826,
+          0.2374
+        ]
+      ],
+      "ctx": [
+        [
+          "Q69",
+          [
+            [
+              0,
+              0.886,
+              0.9193
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4512,6 +7728,25 @@
       "images": [
         "papers/physics/img/20-4B-Complete-Circuits-85.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-86.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2507,
+          0.5204
+        ]
+      ],
+      "ctx": [
+        [
+          "Q69",
+          [
+            [
+              0,
+              0.886,
+              0.9193
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4544,6 +7779,25 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q70.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q70-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.6781
+        ]
+      ],
+      "ctx": [
+        [
+          "Q70",
+          [
+            [
+              0,
+              0.6638,
+              0.9364
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4575,6 +7829,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q70.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6914,
+          0.9164
+        ]
+      ],
+      "ctx": [
+        [
+          "Q70",
+          [
+            [
+              0,
+              0.6638,
+              0.9364
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4605,6 +7878,13 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q71.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q71-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2137,
+          0.7711
+        ]
       ]
     },
     {
@@ -4628,6 +7908,30 @@
       "images": [
         "papers/physics/img/20-4B-Complete-Circuits-88.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-89.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2222,
+          0.3115
+        ]
+      ],
+      "ctx": [
+        [
+          "Q72",
+          [
+            [
+              0,
+              0.924,
+              0.9402
+            ],
+            [
+              1,
+              0.0513,
+              0.2118
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4660,6 +7964,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q72.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3248,
+          0.7217
+        ]
+      ],
+      "ctx": [
+        [
+          "Q72",
+          [
+            [
+              0,
+              0.924,
+              0.9402
+            ],
+            [
+              1,
+              0.0513,
+              0.2118
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4689,6 +8017,18 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q73.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q73-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9183,
+          0.9373
+        ],
+        [
+          1,
+          0.0551,
+          0.4615
+        ]
       ]
     },
     {
@@ -4717,6 +8057,18 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q74.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q74-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6477,
+          0.9221
+        ],
+        [
+          1,
+          0.0532,
+          0.2583
+        ]
       ]
     },
     {
@@ -4740,6 +8092,25 @@
         "papers/physics/img/20-4B-Complete-Circuits-91.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-92.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-93.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7768,
+          0.867
+        ]
+      ],
+      "ctx": [
+        [
+          "Q75",
+          [
+            [
+              0,
+              0.4093,
+              0.7673
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4769,6 +8140,40 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q75.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9022,
+          0.9212
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q75",
+          [
+            [
+              0,
+              0.4093,
+              0.7673
+            ]
+          ]
+        ],
+        [
+          "Q75(b)",
+          [
+            [
+              0,
+              0.8803,
+              0.8993
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4798,6 +8203,35 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q75.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2213,
+          0.4207
+        ]
+      ],
+      "ctx": [
+        [
+          "Q75",
+          [
+            [
+              0,
+              0.4093,
+              0.7673
+            ]
+          ]
+        ],
+        [
+          "Q75(b)",
+          [
+            [
+              0,
+              0.8803,
+              0.8993
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4827,6 +8261,35 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q75.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4274,
+          0.5973
+        ]
+      ],
+      "ctx": [
+        [
+          "Q75",
+          [
+            [
+              0,
+              0.4093,
+              0.7673
+            ]
+          ]
+        ],
+        [
+          "Q75(b)",
+          [
+            [
+              0,
+              0.8803,
+              0.8993
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4857,6 +8320,25 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q75.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q75-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6106,
+          0.9117
+        ]
+      ],
+      "ctx": [
+        [
+          "Q75",
+          [
+            [
+              0,
+              0.4093,
+              0.7673
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4886,6 +8368,13 @@
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q76.jpg",
         "papers/physics/fig/20-4B-Complete-Circuits-Q76-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2308,
+          0.793
+        ]
       ]
     },
     {
@@ -4914,6 +8403,25 @@
         "papers/physics/img/20-4B-Complete-Circuits-93.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-94.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-95.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.2906
+        ]
+      ],
+      "ctx": [
+        [
+          "Q77",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4944,6 +8452,40 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q77.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7047,
+          0.9335
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q77",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q77(b)",
+          [
+            [
+              1,
+              0.3039,
+              0.7085
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4971,6 +8513,35 @@
         "papers/physics/img/20-4B-Complete-Circuits-93.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-94.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-95.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.075,
+          0.3485
+        ]
+      ],
+      "ctx": [
+        [
+          "Q77",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ],
+        [
+          "Q77(b)",
+          [
+            [
+              1,
+              0.3039,
+              0.7085
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4998,6 +8569,25 @@
         "papers/physics/img/20-4B-Complete-Circuits-93.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-94.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-95.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3609,
+          0.5242
+        ]
+      ],
+      "ctx": [
+        [
+          "Q77",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5027,6 +8617,25 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q77.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5375,
+          0.7009
+        ]
+      ],
+      "ctx": [
+        [
+          "Q77",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5056,6 +8665,30 @@
       ],
       "figures": [
         "papers/physics/fig/20-4B-Complete-Circuits-Q78.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3941,
+          0.8272
+        ]
+      ],
+      "ctx": [
+        [
+          "Q78",
+          [
+            [
+              0,
+              0.8471,
+              0.8661
+            ],
+            [
+              1,
+              0.0807,
+              0.3818
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5085,6 +8718,35 @@
         "papers/physics/img/20-4B-Complete-Circuits-95.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-96.jpg",
         "papers/physics/img/20-4B-Complete-Circuits-97.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8405,
+          0.9307
+        ],
+        [
+          2,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q78",
+          [
+            [
+              0,
+              0.8471,
+              0.8661
+            ],
+            [
+              1,
+              0.0807,
+              0.3818
+            ]
+          ]
+        ]
       ]
     }
   ]

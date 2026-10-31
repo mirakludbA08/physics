@@ -34,6 +34,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q1.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1519,
+          0.6515
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1406
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -66,6 +85,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q1-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6648,
+          0.7749
+        ],
+        [
+          1,
+          0.3514,
+          0.3637
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1406
+            ]
+          ]
+        ],
+        [
+          "Q1(a)",
+          [
+            [
+              0,
+              0.1519,
+              0.6515
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -99,6 +152,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q1-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3571,
+          0.5527
+        ]
+      ],
+      "ctx": [
+        [
+          "Q1",
+          [
+            [
+              0,
+              0.1225,
+              0.1406
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -126,6 +198,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-03.jpg",
         "papers/chemistry/img/17-Transition-Metals-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2507,
+          0.3419
+        ]
       ]
     },
     {
@@ -154,6 +233,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-03.jpg",
         "papers/chemistry/img/17-Transition-Metals-04.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5451,
+          0.7996
+        ]
       ]
     },
     {
@@ -185,6 +271,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1244,
+          0.452
+        ]
       ]
     },
     {
@@ -212,6 +305,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-04.jpg",
         "papers/chemistry/img/17-Transition-Metals-05.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8101,
+          0.9316
+        ]
       ]
     },
     {
@@ -241,6 +341,25 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-05.jpg",
         "papers/chemistry/img/17-Transition-Metals-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2298,
+          0.302
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.2013,
+              0.2203
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -273,6 +392,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7702,
+          0.7892
+        ],
+        [
+          1,
+          0.0513,
+          0.2963
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.2013,
+              0.2203
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -300,6 +443,18 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-06.jpg",
         "papers/chemistry/img/17-Transition-Metals-07.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8936,
+          0.9354
+        ],
+        [
+          1,
+          0.0541,
+          0.113
+        ]
       ]
     },
     {
@@ -333,6 +488,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q8.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3143,
+          0.6173
+        ]
       ]
     },
     {
@@ -366,6 +528,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5337,
+          0.755
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              1,
+              0.0513,
+              0.5242
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -395,6 +576,35 @@
         "papers/chemistry/img/17-Transition-Metals-09.jpg",
         "papers/chemistry/img/17-Transition-Metals-10.jpg",
         "papers/chemistry/img/17-Transition-Metals-11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7911,
+          0.8243
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              1,
+              0.0513,
+              0.5242
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.7673,
+              0.7873
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -426,6 +636,40 @@
         "papers/chemistry/img/17-Transition-Metals-09.jpg",
         "papers/chemistry/img/17-Transition-Metals-10.jpg",
         "papers/chemistry/img/17-Transition-Metals-11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9107,
+          0.9449
+        ],
+        [
+          2,
+          0.0826,
+          0.3257
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              1,
+              0.0513,
+              0.5242
+            ]
+          ]
+        ],
+        [
+          "Q9(b)",
+          [
+            [
+              1,
+              0.7673,
+              0.7873
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -461,6 +705,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3381,
+          0.6629
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              1,
+              0.0513,
+              0.5242
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -496,6 +759,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q9.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.3542,
+          0.4008
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              1,
+              0.0513,
+              0.5242
+            ]
+          ]
+        ],
+        [
+          "Q9(d)",
+          [
+            [
+              2,
+              0.6762,
+              0.8129
+            ],
+            [
+              3,
+              0.0513,
+              0.3561
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -529,6 +826,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.5651,
+          0.7208
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              1,
+              0.0513,
+              0.5242
+            ]
+          ]
+        ],
+        [
+          "Q9(d)",
+          [
+            [
+              2,
+              0.6762,
+              0.8129
+            ],
+            [
+              3,
+              0.0513,
+              0.3561
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -560,6 +891,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.8034,
+          0.9145
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              1,
+              0.0513,
+              0.5242
+            ]
+          ]
+        ],
+        [
+          "Q9(e)",
+          [
+            [
+              3,
+              0.7341,
+              0.8072
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -590,6 +950,40 @@
         "papers/chemistry/img/17-Transition-Metals-09.jpg",
         "papers/chemistry/img/17-Transition-Metals-10.jpg",
         "papers/chemistry/img/17-Transition-Metals-11.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.9212,
+          0.9402
+        ],
+        [
+          4,
+          0.0532,
+          0.0722
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              1,
+              0.0513,
+              0.5242
+            ]
+          ]
+        ],
+        [
+          "Q9(e)",
+          [
+            [
+              3,
+              0.7341,
+              0.8072
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -619,6 +1013,35 @@
         "papers/chemistry/img/17-Transition-Metals-09.jpg",
         "papers/chemistry/img/17-Transition-Metals-10.jpg",
         "papers/chemistry/img/17-Transition-Metals-11.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.1576,
+          0.2697
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              1,
+              0.0513,
+              0.5242
+            ]
+          ]
+        ],
+        [
+          "Q9(e)",
+          [
+            [
+              3,
+              0.7341,
+              0.8072
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -651,6 +1074,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.283,
+          0.4169
+        ]
+      ],
+      "ctx": [
+        [
+          "Q9",
+          [
+            [
+              1,
+              0.0513,
+              0.5242
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -679,6 +1121,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6125,
+          0.8889
+        ]
       ]
     },
     {
@@ -712,6 +1161,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2849,
+          0.4691
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.1425,
+              0.2745
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -746,6 +1214,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4815,
+          0.5157
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.1425,
+              0.2745
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -778,6 +1265,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6163,
+          0.6505
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.1425,
+              0.2745
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -806,6 +1312,25 @@
         "papers/chemistry/img/17-Transition-Metals-14.jpg",
         "papers/chemistry/img/17-Transition-Metals-15.jpg",
         "papers/chemistry/img/17-Transition-Metals-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1045,
+          0.2241
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -837,6 +1362,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6125,
+          0.8272
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ],
+        [
+          "Q12(b)",
+          [
+            [
+              1,
+              0.2374,
+              0.603
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -871,6 +1425,40 @@
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q12.jpg",
         "papers/chemistry/fig/17-Transition-Metals-Q12-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8329,
+          0.867
+        ],
+        [
+          2,
+          0.0655,
+          0.32
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ],
+        [
+          "Q12(b)",
+          [
+            [
+              1,
+              0.2374,
+              0.603
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -903,6 +1491,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q12-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7721,
+          0.8186
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ],
+        [
+          "Q12(c)",
+          [
+            [
+              2,
+              0.4805,
+              0.7768
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -938,6 +1555,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q12-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.8177,
+          0.8661
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ],
+        [
+          "Q12(c)",
+          [
+            [
+              2,
+              0.4805,
+              0.7768
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -971,6 +1617,45 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q12-3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.4435,
+          0.7721
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ],
+        [
+          "Q12(c)",
+          [
+            [
+              2,
+              0.4805,
+              0.7768
+            ]
+          ]
+        ],
+        [
+          "Q12(c)(ii)",
+          [
+            [
+              2,
+              0.8177,
+              0.8661
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1002,6 +1687,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q12-3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.7654,
+          0.7863
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ],
+        [
+          "Q12(c)",
+          [
+            [
+              2,
+              0.4805,
+              0.7768
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1033,6 +1747,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q12-4.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.8718,
+          0.925
+        ],
+        [
+          4,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ],
+        [
+          "Q12(c)",
+          [
+            [
+              2,
+              0.4805,
+              0.7768
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1069,6 +1817,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q12-4.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.1045,
+          0.2688
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              1,
+              0.075,
+              0.094
+            ]
+          ]
+        ],
+        [
+          "Q12(c)",
+          [
+            [
+              2,
+              0.4805,
+              0.7768
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1098,6 +1875,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4758,
+          0.7198
+        ]
       ]
     },
     {
@@ -1127,6 +1911,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9117,
+          0.9459
+        ],
+        [
+          1,
+          0.0532,
+          0.2991
+        ]
       ]
     },
     {
@@ -1156,6 +1952,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-17.jpg",
         "papers/chemistry/img/17-Transition-Metals-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.491,
+          0.6325
+        ]
       ]
     },
     {
@@ -1185,6 +1988,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8414,
+          0.944
+        ],
+        [
+          1,
+          0.0513,
+          0.1709
+        ]
       ]
     },
     {
@@ -1212,6 +2027,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-18.jpg",
         "papers/chemistry/img/17-Transition-Metals-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.358,
+          0.452
+        ]
       ]
     },
     {
@@ -1238,6 +2060,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-18.jpg",
         "papers/chemistry/img/17-Transition-Metals-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6524,
+          0.9022
+        ]
       ]
     },
     {
@@ -1268,6 +2097,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-19.jpg",
         "papers/chemistry/img/17-Transition-Metals-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1643,
+          0.2431
+        ]
       ]
     },
     {
@@ -1295,6 +2131,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-19.jpg",
         "papers/chemistry/img/17-Transition-Metals-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4834,
+          0.6135
+        ]
       ]
     },
     {
@@ -1321,6 +2164,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-19.jpg",
         "papers/chemistry/img/17-Transition-Metals-20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8148,
+          0.9212
+        ]
       ]
     },
     {
@@ -1348,6 +2198,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-20.jpg",
         "papers/chemistry/img/17-Transition-Metals-21.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2355,
+          0.4093
+        ]
       ]
     },
     {
@@ -1377,6 +2234,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6638,
+          0.7806
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.6173,
+              0.6524
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1405,6 +2281,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q23.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7987,
+          0.9145
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.6173,
+              0.6524
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1438,6 +2333,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4967,
+          0.7474
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.1861,
+              0.4862
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1467,6 +2381,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7825,
+          0.8357
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.1861,
+              0.4862
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              0,
+              0.7607,
+              0.7797
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1498,6 +2441,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8414,
+          0.9392
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.1861,
+              0.4862
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              0,
+              0.7607,
+              0.7797
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1528,6 +2505,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q24.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2213,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.1861,
+              0.4862
+            ]
+          ]
+        ],
+        [
+          "Q24(b)",
+          [
+            [
+              0,
+              0.7607,
+              0.7797
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1554,6 +2560,35 @@
         "papers/chemistry/img/17-Transition-Metals-21.jpg",
         "papers/chemistry/img/17-Transition-Metals-22.jpg",
         "papers/chemistry/img/17-Transition-Metals-23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3979,
+          0.4321
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.1861,
+              0.4862
+            ]
+          ]
+        ],
+        [
+          "Q24(c)",
+          [
+            [
+              1,
+              0.3751,
+              0.3941
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1582,6 +2617,45 @@
         "papers/chemistry/img/17-Transition-Metals-21.jpg",
         "papers/chemistry/img/17-Transition-Metals-22.jpg",
         "papers/chemistry/img/17-Transition-Metals-23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4881,
+          0.622
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.1861,
+              0.4862
+            ]
+          ]
+        ],
+        [
+          "Q24(c)",
+          [
+            [
+              1,
+              0.3751,
+              0.3941
+            ]
+          ]
+        ],
+        [
+          "Q24(c)(i)",
+          [
+            [
+              1,
+              0.3979,
+              0.4321
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1615,6 +2689,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q24-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6154,
+          0.812
+        ]
+      ],
+      "ctx": [
+        [
+          "Q24",
+          [
+            [
+              0,
+              0.1861,
+              0.4862
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1641,6 +2734,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-23.jpg",
         "papers/chemistry/img/17-Transition-Metals-24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3561,
+          0.4995
+        ]
       ]
     },
     {
@@ -1669,6 +2769,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7075,
+          0.9449
+        ]
       ]
     },
     {
@@ -1696,6 +2803,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-24.jpg",
         "papers/chemistry/img/17-Transition-Metals-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2355,
+          0.3742
+        ]
       ]
     },
     {
@@ -1722,6 +2836,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-24.jpg",
         "papers/chemistry/img/17-Transition-Metals-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5745,
+          0.7189
+        ]
       ]
     },
     {
@@ -1748,6 +2869,18 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-24.jpg",
         "papers/chemistry/img/17-Transition-Metals-25.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9269,
+          0.943
+        ],
+        [
+          1,
+          0.0513,
+          0.1643
+        ]
       ]
     },
     {
@@ -1775,6 +2908,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-25.jpg",
         "papers/chemistry/img/17-Transition-Metals-26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3761,
+          0.4995
+        ]
       ]
     },
     {
@@ -1806,6 +2946,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7293,
+          0.7483
+        ],
+        [
+          1,
+          0.0646,
+          0.4321
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.6999,
+              0.7189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1831,6 +2995,40 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-25.jpg",
         "papers/chemistry/img/17-Transition-Metals-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.453,
+          0.5622
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.6999,
+              0.7189
+            ]
+          ]
+        ],
+        [
+          "Q31(a)",
+          [
+            [
+              0,
+              0.7293,
+              0.7483
+            ],
+            [
+              1,
+              0.0646,
+              0.4321
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1855,6 +3053,25 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-25.jpg",
         "papers/chemistry/img/17-Transition-Metals-26.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5802,
+          0.6866
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.6999,
+              0.7189
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1882,6 +3099,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q32.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8898,
+          0.9098
+        ]
       ]
     },
     {
@@ -1916,6 +3140,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8509,
+          0.8955
+        ],
+        [
+          1,
+          0.2317,
+          0.2412
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.396,
+              0.6733
+            ]
+          ]
+        ],
+        [
+          "Q33(a)",
+          [
+            [
+              0,
+              0.6885,
+              0.8547
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1949,6 +3207,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q33-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2346,
+          0.6971
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.396,
+              0.6733
+            ]
+          ]
+        ],
+        [
+          "Q33(a)",
+          [
+            [
+              0,
+              0.6885,
+              0.8547
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1979,6 +3266,30 @@
         "papers/chemistry/img/17-Transition-Metals-28.jpg",
         "papers/chemistry/img/17-Transition-Metals-29.jpg",
         "papers/chemistry/img/17-Transition-Metals-30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7094,
+          0.9183
+        ],
+        [
+          2,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.396,
+              0.6733
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2010,6 +3321,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q33.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2868,
+          0.4938
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.396,
+              0.6733
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2040,6 +3370,35 @@
         "papers/chemistry/img/17-Transition-Metals-28.jpg",
         "papers/chemistry/img/17-Transition-Metals-29.jpg",
         "papers/chemistry/img/17-Transition-Metals-30.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.529,
+          0.5603
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.396,
+              0.6733
+            ]
+          ]
+        ],
+        [
+          "Q33(d)",
+          [
+            [
+              2,
+              0.5071,
+              0.5261
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2073,6 +3432,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q33-3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.0674,
+          0.2422
+        ]
+      ],
+      "ctx": [
+        [
+          "Q33",
+          [
+            [
+              0,
+              0.396,
+              0.6733
+            ]
+          ]
+        ],
+        [
+          "Q33(d)",
+          [
+            [
+              2,
+              0.5071,
+              0.5261
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2103,6 +3491,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7607,
+          0.7768
+        ],
+        [
+          1,
+          0.0655,
+          0.3542
+        ]
       ]
     },
     {
@@ -2128,6 +3528,13 @@
       ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5584,
+          0.6524
+        ]
       ]
     },
     {
@@ -2158,6 +3565,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q36.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1358,
+          0.2089
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.1054,
+              0.1425
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2182,6 +3608,35 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-32.jpg",
         "papers/chemistry/img/17-Transition-Metals-33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6553,
+          0.7236
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.1054,
+              0.1425
+            ]
+          ]
+        ],
+        [
+          "Q36(b)",
+          [
+            [
+              0,
+              0.603,
+              0.6515
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2208,6 +3663,35 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-32.jpg",
         "papers/chemistry/img/17-Transition-Metals-33.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7293,
+          0.7787
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.1054,
+              0.1425
+            ]
+          ]
+        ],
+        [
+          "Q36(b)",
+          [
+            [
+              0,
+              0.603,
+              0.6515
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2235,6 +3719,35 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-32.jpg",
         "papers/chemistry/img/17-Transition-Metals-33.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2526
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.1054,
+              0.1425
+            ]
+          ]
+        ],
+        [
+          "Q36(b)",
+          [
+            [
+              0,
+              0.603,
+              0.6515
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2264,6 +3777,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-33.jpg",
         "papers/chemistry/img/17-Transition-Metals-34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3989,
+          0.4777
+        ]
       ]
     },
     {
@@ -2291,6 +3811,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-33.jpg",
         "papers/chemistry/img/17-Transition-Metals-34.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6705,
+          0.8756
+        ]
       ]
     },
     {
@@ -2319,6 +3846,13 @@
         "papers/chemistry/img/17-Transition-Metals-35.jpg",
         "papers/chemistry/img/17-Transition-Metals-36.jpg",
         "papers/chemistry/img/17-Transition-Metals-37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.416,
+          0.5252
+        ]
       ]
     },
     {
@@ -2347,6 +3881,25 @@
         "papers/chemistry/img/17-Transition-Metals-35.jpg",
         "papers/chemistry/img/17-Transition-Metals-36.jpg",
         "papers/chemistry/img/17-Transition-Metals-37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.3628
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.6771,
+              0.9259
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2380,6 +3933,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q40.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4131,
+          0.8015
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.6771,
+              0.9259
+            ]
+          ]
+        ],
+        [
+          "Q40(b)",
+          [
+            [
+              1,
+              0.3751,
+              0.4093
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2413,6 +3995,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q40.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8063,
+          0.9345
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.6771,
+              0.9259
+            ]
+          ]
+        ],
+        [
+          "Q40(b)",
+          [
+            [
+              1,
+              0.3751,
+              0.4093
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2443,6 +4059,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q40-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4615,
+          0.5147
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.6771,
+              0.9259
+            ]
+          ]
+        ],
+        [
+          "Q40(c)",
+          [
+            [
+              2,
+              0.1406,
+              0.4653
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2476,6 +4121,35 @@
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q40.jpg",
         "papers/chemistry/fig/17-Transition-Metals-Q40-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5195,
+          0.7208
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.6771,
+              0.9259
+            ]
+          ]
+        ],
+        [
+          "Q40(c)",
+          [
+            [
+              2,
+              0.1406,
+              0.4653
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2511,6 +4185,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q40-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7265,
+          0.7455
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.6771,
+              0.9259
+            ]
+          ]
+        ],
+        [
+          "Q40(c)",
+          [
+            [
+              2,
+              0.1406,
+              0.4653
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2539,6 +4242,25 @@
         "papers/chemistry/img/17-Transition-Metals-35.jpg",
         "papers/chemistry/img/17-Transition-Metals-36.jpg",
         "papers/chemistry/img/17-Transition-Metals-37.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1728,
+          0.2887
+        ]
+      ],
+      "ctx": [
+        [
+          "Q40",
+          [
+            [
+              0,
+              0.6771,
+              0.9259
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2567,6 +4289,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6391,
+          0.9449
+        ],
+        [
+          1,
+          0.0513,
+          0.0741
+        ]
       ]
     },
     {
@@ -2594,6 +4328,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2745,
+          0.8443
+        ]
       ]
     },
     {
@@ -2623,6 +4364,13 @@
         "papers/chemistry/img/17-Transition-Metals-40.jpg",
         "papers/chemistry/img/17-Transition-Metals-41.jpg",
         "papers/chemistry/img/17-Transition-Metals-42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1396,
+          0.3077
+        ]
       ]
     },
     {
@@ -2651,6 +4399,13 @@
         "papers/chemistry/img/17-Transition-Metals-40.jpg",
         "papers/chemistry/img/17-Transition-Metals-41.jpg",
         "papers/chemistry/img/17-Transition-Metals-42.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.509,
+          0.603
+        ]
       ]
     },
     {
@@ -2681,6 +4436,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q45-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1026,
+          0.169
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.755,
+              0.774
+            ]
+          ]
+        ],
+        [
+          "Q45(a)",
+          [
+            [
+              0,
+              0.7835,
+              0.9449
+            ],
+            [
+              1,
+              0.0532,
+              0.0997
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2710,6 +4499,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q45-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1681,
+          0.2507
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.755,
+              0.774
+            ]
+          ]
+        ],
+        [
+          "Q45(a)",
+          [
+            [
+              0,
+              0.7835,
+              0.9449
+            ],
+            [
+              1,
+              0.0532,
+              0.0997
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2743,6 +4566,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q45-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2564,
+          0.2754
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.755,
+              0.774
+            ]
+          ]
+        ],
+        [
+          "Q45(a)",
+          [
+            [
+              0,
+              0.7835,
+              0.9449
+            ],
+            [
+              1,
+              0.0532,
+              0.0997
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2774,6 +4631,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q45-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6695,
+          0.9392
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.755,
+              0.774
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2806,6 +4687,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q45.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2137,
+          0.5062
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.755,
+              0.774
+            ]
+          ]
+        ],
+        [
+          "Q45(c)",
+          [
+            [
+              2,
+              0.1406,
+              0.2146
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2834,6 +4744,35 @@
         "papers/chemistry/img/17-Transition-Metals-40.jpg",
         "papers/chemistry/img/17-Transition-Metals-41.jpg",
         "papers/chemistry/img/17-Transition-Metals-42.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5128,
+          0.7132
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.755,
+              0.774
+            ]
+          ]
+        ],
+        [
+          "Q45(c)",
+          [
+            [
+              2,
+              0.1406,
+              0.2146
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2865,6 +4804,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q45-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7255,
+          0.9345
+        ],
+        [
+          3,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q45",
+          [
+            [
+              0,
+              0.755,
+              0.774
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2891,6 +4854,25 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-42.jpg",
         "papers/chemistry/img/17-Transition-Metals-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3542,
+          0.4644
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.3115,
+              0.3305
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2916,6 +4898,25 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-42.jpg",
         "papers/chemistry/img/17-Transition-Metals-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4824,
+          0.5916
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.3115,
+              0.3305
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2942,6 +4943,25 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-42.jpg",
         "papers/chemistry/img/17-Transition-Metals-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6106,
+          0.7189
+        ]
+      ],
+      "ctx": [
+        [
+          "Q46",
+          [
+            [
+              0,
+              0.3115,
+              0.3305
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2969,6 +4989,18 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-42.jpg",
         "papers/chemistry/img/17-Transition-Metals-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9202,
+          0.9364
+        ],
+        [
+          1,
+          0.0513,
+          0.1244
+        ]
       ]
     },
     {
@@ -2998,6 +5030,13 @@
         "papers/chemistry/img/17-Transition-Metals-44.jpg",
         "papers/chemistry/img/17-Transition-Metals-45.jpg",
         "papers/chemistry/img/17-Transition-Metals-46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5052,
+          0.5992
+        ]
       ]
     },
     {
@@ -3023,6 +5062,25 @@
         "papers/chemistry/img/17-Transition-Metals-44.jpg",
         "papers/chemistry/img/17-Transition-Metals-45.jpg",
         "papers/chemistry/img/17-Transition-Metals-46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7806,
+          0.8405
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.7512,
+              0.7692
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3051,6 +5109,30 @@
         "papers/chemistry/img/17-Transition-Metals-44.jpg",
         "papers/chemistry/img/17-Transition-Metals-45.jpg",
         "papers/chemistry/img/17-Transition-Metals-46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8528,
+          0.9297
+        ],
+        [
+          1,
+          0.0608,
+          0.2735
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.7512,
+              0.7692
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3081,6 +5163,40 @@
         "papers/chemistry/img/17-Transition-Metals-44.jpg",
         "papers/chemistry/img/17-Transition-Metals-45.jpg",
         "papers/chemistry/img/17-Transition-Metals-46.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2868,
+          0.3637
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.7512,
+              0.7692
+            ]
+          ]
+        ],
+        [
+          "Q49(b)",
+          [
+            [
+              0,
+              0.8528,
+              0.9297
+            ],
+            [
+              1,
+              0.0608,
+              0.2735
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3109,6 +5225,35 @@
         "papers/chemistry/img/17-Transition-Metals-44.jpg",
         "papers/chemistry/img/17-Transition-Metals-45.jpg",
         "papers/chemistry/img/17-Transition-Metals-46.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6914,
+          0.7426
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.7512,
+              0.7692
+            ]
+          ]
+        ],
+        [
+          "Q49(d)",
+          [
+            [
+              1,
+              0.6068,
+              0.698
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3138,6 +5283,35 @@
         "papers/chemistry/img/17-Transition-Metals-44.jpg",
         "papers/chemistry/img/17-Transition-Metals-45.jpg",
         "papers/chemistry/img/17-Transition-Metals-46.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0978,
+          0.3248
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.7512,
+              0.7692
+            ]
+          ]
+        ],
+        [
+          "Q49(d)",
+          [
+            [
+              1,
+              0.6068,
+              0.698
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3173,6 +5347,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q49.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3181,
+          0.943
+        ],
+        [
+          3,
+          0.0608,
+          0.567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q49",
+          [
+            [
+              0,
+              0.7512,
+              0.7692
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3198,6 +5396,13 @@
       ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7626,
+          0.8566
+        ]
       ]
     },
     {
@@ -3226,6 +5431,13 @@
         "papers/chemistry/img/17-Transition-Metals-49.jpg",
         "papers/chemistry/img/17-Transition-Metals-50.jpg",
         "papers/chemistry/img/17-Transition-Metals-51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.169,
+          0.2783
+        ]
       ]
     },
     {
@@ -3257,6 +5469,25 @@
         "papers/chemistry/img/17-Transition-Metals-49.jpg",
         "papers/chemistry/img/17-Transition-Metals-50.jpg",
         "papers/chemistry/img/17-Transition-Metals-51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5176,
+          0.7398
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.4302,
+              0.5081
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3286,6 +5517,40 @@
         "papers/chemistry/img/17-Transition-Metals-49.jpg",
         "papers/chemistry/img/17-Transition-Metals-50.jpg",
         "papers/chemistry/img/17-Transition-Metals-51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8196,
+          0.9307
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.4302,
+              0.5081
+            ]
+          ]
+        ],
+        [
+          "Q52(b)",
+          [
+            [
+              0,
+              0.7531,
+              0.8158
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3315,6 +5580,35 @@
         "papers/chemistry/img/17-Transition-Metals-49.jpg",
         "papers/chemistry/img/17-Transition-Metals-50.jpg",
         "papers/chemistry/img/17-Transition-Metals-51.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1045,
+          0.1387
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.4302,
+              0.5081
+            ]
+          ]
+        ],
+        [
+          "Q52(b)",
+          [
+            [
+              0,
+              0.7531,
+              0.8158
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3345,6 +5639,35 @@
         "papers/chemistry/img/17-Transition-Metals-49.jpg",
         "papers/chemistry/img/17-Transition-Metals-50.jpg",
         "papers/chemistry/img/17-Transition-Metals-51.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3742,
+          0.4311
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.4302,
+              0.5081
+            ]
+          ]
+        ],
+        [
+          "Q52(b)",
+          [
+            [
+              0,
+              0.7531,
+              0.8158
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3375,6 +5698,35 @@
         "papers/chemistry/img/17-Transition-Metals-49.jpg",
         "papers/chemistry/img/17-Transition-Metals-50.jpg",
         "papers/chemistry/img/17-Transition-Metals-51.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4634,
+          0.5423
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.4302,
+              0.5081
+            ]
+          ]
+        ],
+        [
+          "Q52(c)",
+          [
+            [
+              1,
+              0.4406,
+              0.4596
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3406,6 +5758,35 @@
         "papers/chemistry/img/17-Transition-Metals-49.jpg",
         "papers/chemistry/img/17-Transition-Metals-50.jpg",
         "papers/chemistry/img/17-Transition-Metals-51.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7037,
+          0.7816
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.4302,
+              0.5081
+            ]
+          ]
+        ],
+        [
+          "Q52(c)",
+          [
+            [
+              1,
+              0.4406,
+              0.4596
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3438,6 +5819,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q52.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6695,
+          0.7806
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.4302,
+              0.5081
+            ]
+          ]
+        ],
+        [
+          "Q52(d)",
+          [
+            [
+              2,
+              0.2184,
+              0.6705
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3471,6 +5881,40 @@
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q52.jpg",
         "papers/chemistry/fig/17-Transition-Metals-Q52-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7863,
+          0.8186
+        ],
+        [
+          3,
+          0.0522,
+          0.4349
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.4302,
+              0.5081
+            ]
+          ]
+        ],
+        [
+          "Q52(d)",
+          [
+            [
+              2,
+              0.2184,
+              0.6705
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3503,6 +5947,35 @@
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q52.jpg",
         "papers/chemistry/fig/17-Transition-Metals-Q52-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.5964,
+          0.6154
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.4302,
+              0.5081
+            ]
+          ]
+        ],
+        [
+          "Q52(d)",
+          [
+            [
+              2,
+              0.2184,
+              0.6705
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3537,6 +6010,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q52-3.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.7768,
+          0.8072
+        ],
+        [
+          4,
+          0.0513,
+          0.4274
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.4302,
+              0.5081
+            ]
+          ]
+        ],
+        [
+          "Q52(d)",
+          [
+            [
+              2,
+              0.2184,
+              0.6705
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3569,6 +6076,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q52.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.434,
+          0.5897
+        ]
+      ],
+      "ctx": [
+        [
+          "Q52",
+          [
+            [
+              0,
+              0.4302,
+              0.5081
+            ]
+          ]
+        ],
+        [
+          "Q52(d)",
+          [
+            [
+              2,
+              0.2184,
+              0.6705
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3595,6 +6131,13 @@
       ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-51.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7854,
+          0.8803
+        ]
       ]
     },
     {
@@ -3623,6 +6166,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q54.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1909,
+          0.3799
+        ]
       ]
     },
     {
@@ -3648,6 +6198,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q55.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7142,
+          0.8557
+        ]
       ]
     },
     {
@@ -3677,6 +6234,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q56.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1538,
+          0.5157
+        ]
       ]
     },
     {
@@ -3702,6 +6266,18 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-53.jpg",
         "papers/chemistry/img/17-Transition-Metals-54.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8993,
+          0.9326
+        ],
+        [
+          1,
+          0.0513,
+          0.1216
+        ]
       ]
     },
     {
@@ -3728,6 +6304,25 @@
         "papers/chemistry/img/17-Transition-Metals-54.jpg",
         "papers/chemistry/img/17-Transition-Metals-55.jpg",
         "papers/chemistry/img/17-Transition-Metals-56.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3058,
+          0.3476
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.2764,
+              0.2953
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3755,6 +6350,35 @@
         "papers/chemistry/img/17-Transition-Metals-54.jpg",
         "papers/chemistry/img/17-Transition-Metals-55.jpg",
         "papers/chemistry/img/17-Transition-Metals-56.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5859,
+          0.6686
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.2764,
+              0.2953
+            ]
+          ]
+        ],
+        [
+          "Q58(b)",
+          [
+            [
+              0,
+              0.5157,
+              0.5831
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3781,6 +6405,35 @@
         "papers/chemistry/img/17-Transition-Metals-54.jpg",
         "papers/chemistry/img/17-Transition-Metals-55.jpg",
         "papers/chemistry/img/17-Transition-Metals-56.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6743,
+          0.7094
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.2764,
+              0.2953
+            ]
+          ]
+        ],
+        [
+          "Q58(b)",
+          [
+            [
+              0,
+              0.5157,
+              0.5831
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3808,6 +6461,40 @@
         "papers/chemistry/img/17-Transition-Metals-54.jpg",
         "papers/chemistry/img/17-Transition-Metals-55.jpg",
         "papers/chemistry/img/17-Transition-Metals-56.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8993,
+          0.9183
+        ],
+        [
+          1,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.2764,
+              0.2953
+            ]
+          ]
+        ],
+        [
+          "Q58(c)",
+          [
+            [
+              0,
+              0.8765,
+              0.8965
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3835,6 +6522,35 @@
         "papers/chemistry/img/17-Transition-Metals-54.jpg",
         "papers/chemistry/img/17-Transition-Metals-55.jpg",
         "papers/chemistry/img/17-Transition-Metals-56.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2203,
+          0.4207
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.2764,
+              0.2953
+            ]
+          ]
+        ],
+        [
+          "Q58(c)",
+          [
+            [
+              0,
+              0.8765,
+              0.8965
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3865,6 +6581,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q58.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.434,
+          0.8443
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.2764,
+              0.2953
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3895,6 +6630,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q58-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8575,
+          0.9316
+        ],
+        [
+          2,
+          0.0608,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.2764,
+              0.2953
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3928,6 +6687,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q58-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2279,
+          0.3989
+        ]
+      ],
+      "ctx": [
+        [
+          "Q58",
+          [
+            [
+              0,
+              0.2764,
+              0.2953
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3954,6 +6732,30 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-56.jpg",
         "papers/chemistry/img/17-Transition-Metals-57.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9297,
+          0.9487
+        ],
+        [
+          1,
+          0.0665,
+          0.1368
+        ]
+      ],
+      "ctx": [
+        [
+          "Q59",
+          [
+            [
+              0,
+              0.9003,
+              0.9193
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3980,6 +6782,25 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-56.jpg",
         "papers/chemistry/img/17-Transition-Metals-57.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1434,
+          0.2498
+        ]
+      ],
+      "ctx": [
+        [
+          "Q59",
+          [
+            [
+              0,
+              0.9003,
+              0.9193
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4005,6 +6826,25 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-57.jpg",
         "papers/chemistry/img/17-Transition-Metals-58.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5375,
+          0.6467
+        ]
+      ],
+      "ctx": [
+        [
+          "Q60",
+          [
+            [
+              0,
+              0.5081,
+              0.5271
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4029,6 +6869,25 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-57.jpg",
         "papers/chemistry/img/17-Transition-Metals-58.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6648,
+          0.774
+        ]
+      ],
+      "ctx": [
+        [
+          "Q60",
+          [
+            [
+              0,
+              0.5081,
+              0.5271
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4054,6 +6913,25 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-57.jpg",
         "papers/chemistry/img/17-Transition-Metals-58.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.792,
+          0.9012
+        ]
+      ],
+      "ctx": [
+        [
+          "Q60",
+          [
+            [
+              0,
+              0.5081,
+              0.5271
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4080,6 +6958,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-58.jpg",
         "papers/chemistry/img/17-Transition-Metals-59.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2137,
+          0.3077
+        ]
       ]
     },
     {
@@ -4111,6 +6996,18 @@
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q62.jpg",
         "papers/chemistry/fig/17-Transition-Metals-Q62-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.509,
+          0.85
+        ],
+        [
+          1,
+          0.0513,
+          0.5157
+        ]
       ]
     },
     {
@@ -4139,6 +7036,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q63.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7075,
+          0.9335
+        ]
       ]
     },
     {
@@ -4167,6 +7071,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q64.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2355,
+          0.4663
+        ]
       ]
     },
     {
@@ -4194,6 +7105,18 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-60.jpg",
         "papers/chemistry/img/17-Transition-Metals-61.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6695,
+          0.9259
+        ],
+        [
+          1,
+          0.0513,
+          0.1216
+        ]
       ]
     },
     {
@@ -4222,6 +7145,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q66.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3248,
+          0.4976
+        ]
       ]
     },
     {
@@ -4250,6 +7180,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q67.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6828,
+          0.8234
+        ]
       ]
     },
     {
@@ -4276,6 +7213,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-61.jpg",
         "papers/chemistry/img/17-Transition-Metals-62.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1244,
+          0.2156
+        ]
       ]
     },
     {
@@ -4306,6 +7250,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q69.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4198,
+          0.5622
+        ]
       ]
     },
     {
@@ -4336,6 +7287,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q70.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1529,
+          0.2944
+        ]
+      ],
+      "ctx": [
+        [
+          "Q70",
+          [
+            [
+              0,
+              0.868,
+              0.9364
+            ],
+            [
+              1,
+              0.0503,
+              0.1197
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4367,6 +7342,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q70.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3077,
+          0.4501
+        ]
+      ],
+      "ctx": [
+        [
+          "Q70",
+          [
+            [
+              0,
+              0.868,
+              0.9364
+            ],
+            [
+              1,
+              0.0503,
+              0.1197
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4401,6 +7400,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q70-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4634,
+          0.6667
+        ]
+      ],
+      "ctx": [
+        [
+          "Q70",
+          [
+            [
+              0,
+              0.868,
+              0.9364
+            ],
+            [
+              1,
+              0.0503,
+              0.1197
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4432,6 +7455,30 @@
         "papers/chemistry/img/17-Transition-Metals-63.jpg",
         "papers/chemistry/img/17-Transition-Metals-64.jpg",
         "papers/chemistry/img/17-Transition-Metals-65.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2991,
+          0.7493
+        ]
+      ],
+      "ctx": [
+        [
+          "Q70",
+          [
+            [
+              0,
+              0.868,
+              0.9364
+            ],
+            [
+              1,
+              0.0503,
+              0.1197
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4460,6 +7507,35 @@
         "papers/chemistry/img/17-Transition-Metals-63.jpg",
         "papers/chemistry/img/17-Transition-Metals-64.jpg",
         "papers/chemistry/img/17-Transition-Metals-65.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7626,
+          0.9345
+        ],
+        [
+          3,
+          0.0617,
+          0.1311
+        ]
+      ],
+      "ctx": [
+        [
+          "Q70",
+          [
+            [
+              0,
+              0.868,
+              0.9364
+            ],
+            [
+              1,
+              0.0503,
+              0.1197
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4491,6 +7567,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q70.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.1453,
+          0.301
+        ]
+      ],
+      "ctx": [
+        [
+          "Q70",
+          [
+            [
+              0,
+              0.868,
+              0.9364
+            ],
+            [
+              1,
+              0.0503,
+              0.1197
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4517,6 +7617,13 @@
         "papers/chemistry/img/17-Transition-Metals-65.jpg",
         "papers/chemistry/img/17-Transition-Metals-66.jpg",
         "papers/chemistry/img/17-Transition-Metals-67.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4577,
+          0.567
+        ]
       ]
     },
     {
@@ -4544,6 +7651,30 @@
         "papers/chemistry/img/17-Transition-Metals-65.jpg",
         "papers/chemistry/img/17-Transition-Metals-66.jpg",
         "papers/chemistry/img/17-Transition-Metals-67.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8575,
+          0.9221
+        ],
+        [
+          1,
+          0.0617,
+          0.1928
+        ]
+      ],
+      "ctx": [
+        [
+          "Q72",
+          [
+            [
+              0,
+              0.7331,
+              0.8471
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4570,6 +7701,25 @@
         "papers/chemistry/img/17-Transition-Metals-65.jpg",
         "papers/chemistry/img/17-Transition-Metals-66.jpg",
         "papers/chemistry/img/17-Transition-Metals-67.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1994,
+          0.4093
+        ]
+      ],
+      "ctx": [
+        [
+          "Q72",
+          [
+            [
+              0,
+              0.7331,
+              0.8471
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4601,6 +7751,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q72.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4625,
+          0.7398
+        ]
+      ],
+      "ctx": [
+        [
+          "Q72",
+          [
+            [
+              0,
+              0.7331,
+              0.8471
+            ]
+          ]
+        ],
+        [
+          "Q72(b)",
+          [
+            [
+              1,
+              0.4226,
+              0.4587
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4629,6 +7808,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q72.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7436,
+          0.7635
+        ]
+      ],
+      "ctx": [
+        [
+          "Q72",
+          [
+            [
+              0,
+              0.7331,
+              0.8471
+            ]
+          ]
+        ],
+        [
+          "Q72(b)",
+          [
+            [
+              1,
+              0.4226,
+              0.4587
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4659,6 +7867,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q72-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0693,
+          0.207
+        ]
+      ],
+      "ctx": [
+        [
+          "Q72",
+          [
+            [
+              0,
+              0.7331,
+              0.8471
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4688,6 +7915,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q73.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4843,
+          0.6277
+        ]
       ]
     },
     {
@@ -4716,6 +7950,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q74.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8243,
+          0.8443
+        ],
+        [
+          1,
+          0.0522,
+          0.4663
+        ]
+      ],
+      "ctx": [
+        [
+          "Q74",
+          [
+            [
+              0,
+              0.793,
+              0.8129
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4742,6 +8000,25 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-67.jpg",
         "papers/chemistry/img/17-Transition-Metals-68.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4891,
+          0.6676
+        ]
+      ],
+      "ctx": [
+        [
+          "Q74",
+          [
+            [
+              0,
+              0.793,
+              0.8129
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4771,6 +8048,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q75.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.831,
+          0.9003
+        ],
+        [
+          1,
+          0.0513,
+          0.4805
+        ]
       ]
     },
     {
@@ -4798,6 +8087,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-69.jpg",
         "papers/chemistry/img/17-Transition-Metals-70.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6334,
+          0.7436
+        ]
       ]
     },
     {
@@ -4827,6 +8123,18 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-69.jpg",
         "papers/chemistry/img/17-Transition-Metals-70.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9088,
+          0.9449
+        ],
+        [
+          1,
+          0.0532,
+          0.1557
+        ]
       ]
     },
     {
@@ -4856,6 +8164,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q78.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.377,
+          0.6401
+        ]
       ]
     },
     {
@@ -4884,6 +8199,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q79.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8623,
+          0.944
+        ],
+        [
+          1,
+          0.0532,
+          0.1491
+        ]
       ]
     },
     {
@@ -4910,6 +8237,25 @@
         "papers/chemistry/img/17-Transition-Metals-71.jpg",
         "papers/chemistry/img/17-Transition-Metals-72.jpg",
         "papers/chemistry/img/17-Transition-Metals-73.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3732,
+          0.4539
+        ]
+      ],
+      "ctx": [
+        [
+          "Q80",
+          [
+            [
+              0,
+              0.3124,
+              0.3628
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4934,6 +8280,25 @@
         "papers/chemistry/img/17-Transition-Metals-71.jpg",
         "papers/chemistry/img/17-Transition-Metals-72.jpg",
         "papers/chemistry/img/17-Transition-Metals-73.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4606,
+          0.5337
+        ]
+      ],
+      "ctx": [
+        [
+          "Q80",
+          [
+            [
+              0,
+              0.3124,
+              0.3628
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4960,6 +8325,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q80.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8196,
+          0.9069
+        ]
+      ],
+      "ctx": [
+        [
+          "Q80",
+          [
+            [
+              0,
+              0.3124,
+              0.3628
+            ]
+          ]
+        ],
+        [
+          "Q80(b)",
+          [
+            [
+              0,
+              0.547,
+              0.8148
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -4990,6 +8384,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q80.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9136,
+          0.9335
+        ],
+        [
+          1,
+          0.0532,
+          0.2023
+        ]
+      ],
+      "ctx": [
+        [
+          "Q80",
+          [
+            [
+              0,
+              0.3124,
+              0.3628
+            ]
+          ]
+        ],
+        [
+          "Q80(b)",
+          [
+            [
+              0,
+              0.547,
+              0.8148
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5016,6 +8444,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q80.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.208,
+          0.4872
+        ]
+      ],
+      "ctx": [
+        [
+          "Q80",
+          [
+            [
+              0,
+              0.3124,
+              0.3628
+            ]
+          ]
+        ],
+        [
+          "Q80(b)",
+          [
+            [
+              0,
+              0.547,
+              0.8148
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5045,6 +8502,25 @@
         "papers/chemistry/img/17-Transition-Metals-71.jpg",
         "papers/chemistry/img/17-Transition-Metals-72.jpg",
         "papers/chemistry/img/17-Transition-Metals-73.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4805,
+          0.8405
+        ]
+      ],
+      "ctx": [
+        [
+          "Q80",
+          [
+            [
+              0,
+              0.3124,
+              0.3628
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5071,6 +8547,25 @@
         "papers/chemistry/img/17-Transition-Metals-71.jpg",
         "papers/chemistry/img/17-Transition-Metals-72.jpg",
         "papers/chemistry/img/17-Transition-Metals-73.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8471,
+          0.9041
+        ]
+      ],
+      "ctx": [
+        [
+          "Q80",
+          [
+            [
+              0,
+              0.3124,
+              0.3628
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5100,6 +8595,30 @@
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q81.jpg",
         "papers/chemistry/fig/17-Transition-Metals-Q81-3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7873,
+          0.8072
+        ],
+        [
+          1,
+          0.0617,
+          0.2232
+        ]
+      ],
+      "ctx": [
+        [
+          "Q81",
+          [
+            [
+              0,
+              0.2393,
+              0.7778
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5129,6 +8648,25 @@
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q81-2.jpg",
         "papers/chemistry/fig/17-Transition-Metals-Q81-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.227,
+          0.4378
+        ]
+      ],
+      "ctx": [
+        [
+          "Q81",
+          [
+            [
+              0,
+              0.2393,
+              0.7778
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5159,6 +8697,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q81-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4416,
+          0.5508
+        ]
+      ],
+      "ctx": [
+        [
+          "Q81",
+          [
+            [
+              0,
+              0.2393,
+              0.7778
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5189,6 +8746,40 @@
         "papers/chemistry/img/17-Transition-Metals-76.jpg",
         "papers/chemistry/img/17-Transition-Metals-77.jpg",
         "papers/chemistry/img/17-Transition-Metals-78.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7702,
+          0.9193
+        ],
+        [
+          1,
+          0.0617,
+          0.1928
+        ]
+      ],
+      "ctx": [
+        [
+          "Q82",
+          [
+            [
+              0,
+              0.717,
+              0.7369
+            ]
+          ]
+        ],
+        [
+          "Q82(a)",
+          [
+            [
+              0,
+              0.7464,
+              0.7673
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5218,6 +8809,35 @@
         "papers/chemistry/img/17-Transition-Metals-76.jpg",
         "papers/chemistry/img/17-Transition-Metals-77.jpg",
         "papers/chemistry/img/17-Transition-Metals-78.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1994,
+          0.3476
+        ]
+      ],
+      "ctx": [
+        [
+          "Q82",
+          [
+            [
+              0,
+              0.717,
+              0.7369
+            ]
+          ]
+        ],
+        [
+          "Q82(a)",
+          [
+            [
+              0,
+              0.7464,
+              0.7673
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5250,6 +8870,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q82.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3846,
+          0.8386
+        ]
+      ],
+      "ctx": [
+        [
+          "Q82",
+          [
+            [
+              0,
+              0.717,
+              0.7369
+            ]
+          ]
+        ],
+        [
+          "Q82(b)",
+          [
+            [
+              1,
+              0.3618,
+              0.3818
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5281,6 +8930,40 @@
         "papers/chemistry/img/17-Transition-Metals-76.jpg",
         "papers/chemistry/img/17-Transition-Metals-77.jpg",
         "papers/chemistry/img/17-Transition-Metals-78.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8414,
+          0.9278
+        ],
+        [
+          2,
+          0.1111,
+          0.2422
+        ]
+      ],
+      "ctx": [
+        [
+          "Q82",
+          [
+            [
+              0,
+              0.717,
+              0.7369
+            ]
+          ]
+        ],
+        [
+          "Q82(b)",
+          [
+            [
+              1,
+              0.3618,
+              0.3818
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5313,6 +8996,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q82-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.416,
+          0.4359
+        ],
+        [
+          3,
+          0.0608,
+          0.6705
+        ]
+      ],
+      "ctx": [
+        [
+          "Q82",
+          [
+            [
+              0,
+              0.717,
+              0.7369
+            ]
+          ]
+        ],
+        [
+          "Q82(c)",
+          [
+            [
+              2,
+              0.2555,
+              0.4122
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5344,6 +9061,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q82-2.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.6819,
+          0.7844
+        ]
+      ],
+      "ctx": [
+        [
+          "Q82",
+          [
+            [
+              0,
+              0.717,
+              0.7369
+            ]
+          ]
+        ],
+        [
+          "Q82(c)",
+          [
+            [
+              2,
+              0.2555,
+              0.4122
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5376,6 +9122,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q82-2.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.0693,
+          0.2042
+        ]
+      ],
+      "ctx": [
+        [
+          "Q82",
+          [
+            [
+              0,
+              0.717,
+              0.7369
+            ]
+          ]
+        ],
+        [
+          "Q82(c)",
+          [
+            [
+              2,
+              0.2555,
+              0.4122
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5408,6 +9183,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q82-3.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.3048,
+          0.4084
+        ]
+      ],
+      "ctx": [
+        [
+          "Q82",
+          [
+            [
+              0,
+              0.717,
+              0.7369
+            ]
+          ]
+        ],
+        [
+          "Q82(d)",
+          [
+            [
+              4,
+              0.2175,
+              0.301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5437,6 +9241,35 @@
         "papers/chemistry/img/17-Transition-Metals-76.jpg",
         "papers/chemistry/img/17-Transition-Metals-77.jpg",
         "papers/chemistry/img/17-Transition-Metals-78.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.415,
+          0.5641
+        ]
+      ],
+      "ctx": [
+        [
+          "Q82",
+          [
+            [
+              0,
+              0.717,
+              0.7369
+            ]
+          ]
+        ],
+        [
+          "Q82(d)",
+          [
+            [
+              4,
+              0.2175,
+              0.301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5466,6 +9299,35 @@
         "papers/chemistry/img/17-Transition-Metals-76.jpg",
         "papers/chemistry/img/17-Transition-Metals-77.jpg",
         "papers/chemistry/img/17-Transition-Metals-78.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.5698,
+          0.8889
+        ]
+      ],
+      "ctx": [
+        [
+          "Q82",
+          [
+            [
+              0,
+              0.717,
+              0.7369
+            ]
+          ]
+        ],
+        [
+          "Q82(d)",
+          [
+            [
+              4,
+              0.2175,
+              0.301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5489,6 +9351,13 @@
       ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-79.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2165,
+          0.3124
+        ]
       ]
     },
     {
@@ -5518,6 +9387,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q84.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5423,
+          0.7018
+        ]
       ]
     },
     {
@@ -5547,6 +9423,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q85.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9145,
+          0.9345
+        ]
       ]
     },
     {
@@ -5573,6 +9456,18 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-80.jpg",
         "papers/chemistry/img/17-Transition-Metals-81.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8784,
+          0.9288
+        ],
+        [
+          1,
+          0.0513,
+          0.1254
+        ]
       ]
     },
     {
@@ -5600,6 +9495,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q87.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3561,
+          0.5128
+        ]
       ]
     },
     {
@@ -5624,6 +9526,13 @@
       ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-81.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7426,
+          0.8386
+        ]
       ]
     },
     {
@@ -5649,6 +9558,25 @@
       ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-82.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2821,
+          0.3913
+        ]
+      ],
+      "ctx": [
+        [
+          "Q89",
+          [
+            [
+              0,
+              0.1766,
+              0.2716
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5674,6 +9602,25 @@
       ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-82.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4141,
+          0.5271
+        ]
+      ],
+      "ctx": [
+        [
+          "Q89",
+          [
+            [
+              0,
+              0.1766,
+              0.2716
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5698,6 +9645,13 @@
       ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-82.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7569,
+          0.85
+        ]
       ]
     },
     {
@@ -5731,6 +9685,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q91-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3295,
+          0.6315
+        ]
+      ],
+      "ctx": [
+        [
+          "Q91",
+          [
+            [
+              0,
+              0.1254,
+              0.1947
+            ]
+          ]
+        ],
+        [
+          "Q91(a)",
+          [
+            [
+              0,
+              0.2061,
+              0.3343
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5765,6 +9748,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q91-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6382,
+          0.9421
+        ],
+        [
+          1,
+          0.0617,
+          0.4074
+        ]
+      ],
+      "ctx": [
+        [
+          "Q91",
+          [
+            [
+              0,
+              0.1254,
+              0.1947
+            ]
+          ]
+        ],
+        [
+          "Q91(a)",
+          [
+            [
+              0,
+              0.2061,
+              0.3343
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5798,6 +9815,40 @@
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q91-3.jpg",
         "papers/chemistry/fig/17-Transition-Metals-Q91-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.5385,
+          0.5745
+        ]
+      ],
+      "ctx": [
+        [
+          "Q91",
+          [
+            [
+              0,
+              0.1254,
+              0.1947
+            ]
+          ]
+        ],
+        [
+          "Q91(b)",
+          [
+            [
+              1,
+              0.4207,
+              0.6952
+            ],
+            [
+              2,
+              0.0513,
+              0.5423
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5829,6 +9880,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q91-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6695,
+          0.7873
+        ]
+      ],
+      "ctx": [
+        [
+          "Q91",
+          [
+            [
+              0,
+              0.1254,
+              0.1947
+            ]
+          ]
+        ],
+        [
+          "Q91(b)",
+          [
+            [
+              1,
+              0.4207,
+              0.6952
+            ],
+            [
+              2,
+              0.0513,
+              0.5423
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5862,6 +9947,45 @@
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q91-3.jpg",
         "papers/chemistry/fig/17-Transition-Metals-Q91-4.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.7939,
+          0.9288
+        ],
+        [
+          3,
+          0.0617,
+          0.1311
+        ]
+      ],
+      "ctx": [
+        [
+          "Q91",
+          [
+            [
+              0,
+              0.1254,
+              0.1947
+            ]
+          ]
+        ],
+        [
+          "Q91(b)",
+          [
+            [
+              1,
+              0.4207,
+              0.6952
+            ],
+            [
+              2,
+              0.0513,
+              0.5423
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5892,6 +10016,35 @@
         "papers/chemistry/img/17-Transition-Metals-85.jpg",
         "papers/chemistry/img/17-Transition-Metals-86.jpg",
         "papers/chemistry/img/17-Transition-Metals-87.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.2013,
+          0.2374
+        ]
+      ],
+      "ctx": [
+        [
+          "Q91",
+          [
+            [
+              0,
+              0.1254,
+              0.1947
+            ]
+          ]
+        ],
+        [
+          "Q91(c)",
+          [
+            [
+              3,
+              0.1453,
+              0.2051
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5920,6 +10073,35 @@
         "papers/chemistry/img/17-Transition-Metals-85.jpg",
         "papers/chemistry/img/17-Transition-Metals-86.jpg",
         "papers/chemistry/img/17-Transition-Metals-87.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.4967,
+          0.5166
+        ]
+      ],
+      "ctx": [
+        [
+          "Q91",
+          [
+            [
+              0,
+              0.1254,
+              0.1947
+            ]
+          ]
+        ],
+        [
+          "Q91(c)",
+          [
+            [
+              3,
+              0.1453,
+              0.2051
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5949,6 +10131,30 @@
         "papers/chemistry/img/17-Transition-Metals-85.jpg",
         "papers/chemistry/img/17-Transition-Metals-86.jpg",
         "papers/chemistry/img/17-Transition-Metals-87.jpg"
+      ],
+      "shot": [
+        [
+          3,
+          0.7825,
+          0.9383
+        ],
+        [
+          4,
+          0.0617,
+          0.0703
+        ]
+      ],
+      "ctx": [
+        [
+          "Q91",
+          [
+            [
+              0,
+              0.1254,
+              0.1947
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -5980,6 +10186,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q91.jpg"
+      ],
+      "shot": [
+        [
+          4,
+          0.0769,
+          0.264
+        ]
+      ],
+      "ctx": [
+        [
+          "Q91",
+          [
+            [
+              0,
+              0.1254,
+              0.1947
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6010,6 +10235,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q92-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5935,
+          0.6885
+        ]
+      ],
+      "ctx": [
+        [
+          "Q92",
+          [
+            [
+              0,
+              0.4995,
+              0.5831
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6040,6 +10284,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q92.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3609,
+          0.5442
+        ]
+      ],
+      "ctx": [
+        [
+          "Q92",
+          [
+            [
+              0,
+              0.4995,
+              0.5831
+            ]
+          ]
+        ],
+        [
+          "Q92(b)",
+          [
+            [
+              0,
+              0.7569,
+              0.8167
+            ],
+            [
+              1,
+              0.0513,
+              0.359
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6071,6 +10349,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q92.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5565,
+          0.7426
+        ]
+      ],
+      "ctx": [
+        [
+          "Q92",
+          [
+            [
+              0,
+              0.4995,
+              0.5831
+            ]
+          ]
+        ],
+        [
+          "Q92(b)",
+          [
+            [
+              0,
+              0.7569,
+              0.8167
+            ],
+            [
+              1,
+              0.0513,
+              0.359
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6099,6 +10411,40 @@
         "papers/chemistry/img/17-Transition-Metals-87.jpg",
         "papers/chemistry/img/17-Transition-Metals-88.jpg",
         "papers/chemistry/img/17-Transition-Metals-89.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7483,
+          0.8186
+        ]
+      ],
+      "ctx": [
+        [
+          "Q92",
+          [
+            [
+              0,
+              0.4995,
+              0.5831
+            ]
+          ]
+        ],
+        [
+          "Q92(b)",
+          [
+            [
+              0,
+              0.7569,
+              0.8167
+            ],
+            [
+              1,
+              0.0513,
+              0.359
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6126,6 +10472,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-89.jpg",
         "papers/chemistry/img/17-Transition-Metals-90.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4103,
+          0.5043
+        ]
       ]
     },
     {
@@ -6155,6 +10508,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q94.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.736,
+          0.9202
+        ]
       ]
     },
     {
@@ -6182,6 +10542,13 @@
         "papers/chemistry/img/17-Transition-Metals-90.jpg",
         "papers/chemistry/img/17-Transition-Metals-91.jpg",
         "papers/chemistry/img/17-Transition-Metals-92.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2792,
+          0.3732
+        ]
       ]
     },
     {
@@ -6211,6 +10578,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q96.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5698,
+          0.7806
+        ]
+      ],
+      "ctx": [
+        [
+          "Q96",
+          [
+            [
+              0,
+              0.5385,
+              0.5584
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6240,6 +10626,40 @@
         "papers/chemistry/img/17-Transition-Metals-90.jpg",
         "papers/chemistry/img/17-Transition-Metals-91.jpg",
         "papers/chemistry/img/17-Transition-Metals-92.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7835,
+          0.9345
+        ],
+        [
+          1,
+          0.0617,
+          0.1007
+        ]
+      ],
+      "ctx": [
+        [
+          "Q96",
+          [
+            [
+              0,
+              0.5385,
+              0.5584
+            ]
+          ]
+        ],
+        [
+          "Q96(a)(i)",
+          [
+            [
+              0,
+              0.5698,
+              0.7806
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6272,6 +10692,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q96-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.114,
+          0.3219
+        ]
+      ],
+      "ctx": [
+        [
+          "Q96",
+          [
+            [
+              0,
+              0.5385,
+              0.5584
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6299,6 +10738,25 @@
         "papers/chemistry/img/17-Transition-Metals-90.jpg",
         "papers/chemistry/img/17-Transition-Metals-91.jpg",
         "papers/chemistry/img/17-Transition-Metals-92.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1187,
+          0.3048
+        ]
+      ],
+      "ctx": [
+        [
+          "Q96",
+          [
+            [
+              0,
+              0.5385,
+              0.5584
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6327,6 +10785,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q97.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.529,
+          0.6999
+        ]
       ]
     },
     {
@@ -6353,6 +10818,18 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-92.jpg",
         "papers/chemistry/img/17-Transition-Metals-93.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9288,
+          0.9487
+        ],
+        [
+          1,
+          0.0532,
+          0.1766
+        ]
       ]
     },
     {
@@ -6384,6 +10861,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q99.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4093,
+          0.5062
+        ]
       ]
     },
     {
@@ -6415,6 +10899,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q100.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.0893
+        ]
+      ],
+      "ctx": [
+        [
+          "Q100",
+          [
+            [
+              0,
+              0.6695,
+              0.6895
+            ]
+          ]
+        ],
+        [
+          "Q100(a)",
+          [
+            [
+              0,
+              0.6999,
+              0.9269
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6448,6 +10961,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q100.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1833,
+          0.3552
+        ]
+      ],
+      "ctx": [
+        [
+          "Q100",
+          [
+            [
+              0,
+              0.6695,
+              0.6895
+            ]
+          ]
+        ],
+        [
+          "Q100(a)",
+          [
+            [
+              0,
+              0.6999,
+              0.9269
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6479,6 +11021,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q100.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3618,
+          0.4653
+        ]
+      ],
+      "ctx": [
+        [
+          "Q100",
+          [
+            [
+              0,
+              0.6695,
+              0.6895
+            ]
+          ]
+        ],
+        [
+          "Q100(a)",
+          [
+            [
+              0,
+              0.6999,
+              0.9269
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6509,6 +11080,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q100.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.472,
+          0.6068
+        ]
+      ],
+      "ctx": [
+        [
+          "Q100",
+          [
+            [
+              0,
+              0.6695,
+              0.6895
+            ]
+          ]
+        ],
+        [
+          "Q100(a)",
+          [
+            [
+              0,
+              0.6999,
+              0.9269
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6537,6 +11137,35 @@
         "papers/chemistry/img/17-Transition-Metals-94.jpg",
         "papers/chemistry/img/17-Transition-Metals-95.jpg",
         "papers/chemistry/img/17-Transition-Metals-96.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6439,
+          0.7009
+        ]
+      ],
+      "ctx": [
+        [
+          "Q100",
+          [
+            [
+              0,
+              0.6695,
+              0.6895
+            ]
+          ]
+        ],
+        [
+          "Q100(b)",
+          [
+            [
+              1,
+              0.6192,
+              0.6401
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6566,6 +11195,35 @@
         "papers/chemistry/img/17-Transition-Metals-94.jpg",
         "papers/chemistry/img/17-Transition-Metals-95.jpg",
         "papers/chemistry/img/17-Transition-Metals-96.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7066,
+          0.7892
+        ]
+      ],
+      "ctx": [
+        [
+          "Q100",
+          [
+            [
+              0,
+              0.6695,
+              0.6895
+            ]
+          ]
+        ],
+        [
+          "Q100(b)",
+          [
+            [
+              1,
+              0.6192,
+              0.6401
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6595,6 +11253,35 @@
         "papers/chemistry/img/17-Transition-Metals-94.jpg",
         "papers/chemistry/img/17-Transition-Metals-95.jpg",
         "papers/chemistry/img/17-Transition-Metals-96.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4198,
+          0.4568
+        ]
+      ],
+      "ctx": [
+        [
+          "Q100",
+          [
+            [
+              0,
+              0.6695,
+              0.6895
+            ]
+          ]
+        ],
+        [
+          "Q100(c)",
+          [
+            [
+              2,
+              0.3305,
+              0.4217
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6627,6 +11314,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q100-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6325,
+          0.9126
+        ],
+        [
+          3,
+          0.0617,
+          0.1624
+        ]
+      ],
+      "ctx": [
+        [
+          "Q100",
+          [
+            [
+              0,
+              0.6695,
+              0.6895
+            ]
+          ]
+        ],
+        [
+          "Q100(c)",
+          [
+            [
+              2,
+              0.3305,
+              0.4217
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6654,6 +11375,13 @@
       ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-96.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3856,
+          0.4986
+        ]
       ]
     },
     {
@@ -6680,6 +11408,13 @@
       ],
       "images": [
         "papers/chemistry/img/17-Transition-Metals-96.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7284,
+          0.8243
+        ]
       ]
     },
     {
@@ -6704,6 +11439,25 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-97.jpg",
         "papers/chemistry/img/17-Transition-Metals-98.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1396,
+          0.2042
+        ]
+      ],
+      "ctx": [
+        [
+          "Q103",
+          [
+            [
+              0,
+              0.1092,
+              0.1292
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6730,6 +11484,25 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-97.jpg",
         "papers/chemistry/img/17-Transition-Metals-98.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2175,
+          0.2374
+        ]
+      ],
+      "ctx": [
+        [
+          "Q103",
+          [
+            [
+              0,
+              0.1092,
+              0.1292
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6757,6 +11530,25 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-97.jpg",
         "papers/chemistry/img/17-Transition-Metals-98.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3466,
+          0.5356
+        ]
+      ],
+      "ctx": [
+        [
+          "Q103",
+          [
+            [
+              0,
+              0.1092,
+              0.1292
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6785,6 +11577,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q103.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8557,
+          0.9288
+        ]
+      ],
+      "ctx": [
+        [
+          "Q103",
+          [
+            [
+              0,
+              0.1092,
+              0.1292
+            ]
+          ]
+        ],
+        [
+          "Q103(d)",
+          [
+            [
+              0,
+              0.5489,
+              0.8481
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6811,6 +11632,35 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-97.jpg",
         "papers/chemistry/img/17-Transition-Metals-98.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.2792
+        ]
+      ],
+      "ctx": [
+        [
+          "Q103",
+          [
+            [
+              0,
+              0.1092,
+              0.1292
+            ]
+          ]
+        ],
+        [
+          "Q103(d)",
+          [
+            [
+              0,
+              0.5489,
+              0.8481
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -6836,6 +11686,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-98.jpg",
         "papers/chemistry/img/17-Transition-Metals-99.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5024,
+          0.5992
+        ]
       ]
     },
     {
@@ -6861,6 +11718,13 @@
       "images": [
         "papers/chemistry/img/17-Transition-Metals-98.jpg",
         "papers/chemistry/img/17-Transition-Metals-99.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8281,
+          0.9259
+        ]
       ]
     },
     {
@@ -6891,6 +11755,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/17-Transition-Metals-Q106.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1956,
+          0.4653
+        ]
       ]
     }
   ]

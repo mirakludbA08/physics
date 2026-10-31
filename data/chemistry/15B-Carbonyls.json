@@ -33,6 +33,13 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-01.jpg",
         "papers/chemistry/img/15B-Carbonyls-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1225,
+          0.2013
+        ]
       ]
     },
     {
@@ -62,6 +69,25 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-01.jpg",
         "papers/chemistry/img/15B-Carbonyls-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5708,
+          0.6923
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3941,
+              0.5451
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -89,6 +115,25 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-01.jpg",
         "papers/chemistry/img/15B-Carbonyls-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7132,
+          0.8338
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3941,
+              0.5451
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -118,6 +163,30 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-01.jpg",
         "papers/chemistry/img/15B-Carbonyls-02.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8557,
+          0.943
+        ],
+        [
+          1,
+          0.0513,
+          0.0883
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.3941,
+              0.5451
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -149,6 +218,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/15B-Carbonyls-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2915,
+          0.8974
+        ]
       ]
     },
     {
@@ -175,6 +251,13 @@
       ],
       "images": [
         "papers/chemistry/img/15B-Carbonyls-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4311,
+          0.5385
+        ]
       ]
     },
     {
@@ -201,6 +284,13 @@
       ],
       "images": [
         "papers/chemistry/img/15B-Carbonyls-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7407,
+          0.85
+        ]
       ]
     },
     {
@@ -232,6 +322,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/15B-Carbonyls-Q6.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.169,
+          0.416
+        ]
       ]
     },
     {
@@ -261,6 +358,13 @@
       ],
       "figures": [
         "papers/chemistry/fig/15B-Carbonyls-Q7.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6021,
+          0.8946
+        ]
       ]
     },
     {
@@ -290,6 +394,13 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-05.jpg",
         "papers/chemistry/img/15B-Carbonyls-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1909,
+          0.2858
+        ]
       ]
     },
     {
@@ -318,6 +429,13 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-05.jpg",
         "papers/chemistry/img/15B-Carbonyls-06.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5033,
+          0.5973
+        ]
       ]
     },
     {
@@ -348,6 +466,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/15B-Carbonyls-Q10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8452,
+          0.8822
+        ],
+        [
+          1,
+          0.0646,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8158,
+              0.8319
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -377,6 +519,25 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-05.jpg",
         "papers/chemistry/img/15B-Carbonyls-06.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.227,
+          0.4226
+        ]
+      ],
+      "ctx": [
+        [
+          "Q10",
+          [
+            [
+              0,
+              0.8158,
+              0.8319
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -502,6 +663,30 @@
         "papers/chemistry/img/15B-Carbonyls-06.jpg",
         "papers/chemistry/img/15B-Carbonyls-07.jpg",
         "papers/chemistry/img/15B-Carbonyls-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8471,
+          0.9003
+        ]
+      ],
+      "ctx": [
+        [
+          "Q11",
+          [
+            [
+              0,
+              0.5774,
+              0.6562
+            ],
+            [
+              1,
+              0.0513,
+              0.4103
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -532,6 +717,13 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-08.jpg",
         "papers/chemistry/img/15B-Carbonyls-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5812,
+          0.6876
+        ]
       ]
     },
     {
@@ -558,6 +750,18 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-08.jpg",
         "papers/chemistry/img/15B-Carbonyls-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9079,
+          0.9269
+        ],
+        [
+          1,
+          0.0513,
+          0.1216
+        ]
       ]
     },
     {
@@ -585,6 +789,13 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-09.jpg",
         "papers/chemistry/img/15B-Carbonyls-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3257,
+          0.4644
+        ]
       ]
     },
     {
@@ -614,6 +825,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/15B-Carbonyls-Q15.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.66,
+          0.9117
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.6163,
+              0.6477
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -640,6 +870,25 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-09.jpg",
         "papers/chemistry/img/15B-Carbonyls-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.1425
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.6163,
+              0.6477
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -667,6 +916,35 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-09.jpg",
         "papers/chemistry/img/15B-Carbonyls-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2222,
+          0.2754
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.6163,
+              0.6477
+            ]
+          ]
+        ],
+        [
+          "Q15(c)",
+          [
+            [
+              1,
+              0.1852,
+              0.2156
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -693,6 +971,35 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-09.jpg",
         "papers/chemistry/img/15B-Carbonyls-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2811,
+          0.3001
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.6163,
+              0.6477
+            ]
+          ]
+        ],
+        [
+          "Q15(c)",
+          [
+            [
+              1,
+              0.1852,
+              0.2156
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -718,6 +1025,25 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-09.jpg",
         "papers/chemistry/img/15B-Carbonyls-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3476,
+          0.4236
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.6163,
+              0.6477
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -746,6 +1072,25 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-09.jpg",
         "papers/chemistry/img/15B-Carbonyls-10.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4587,
+          0.6733
+        ]
+      ],
+      "ctx": [
+        [
+          "Q15",
+          [
+            [
+              0,
+              0.6163,
+              0.6477
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -773,6 +1118,18 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-10.jpg",
         "papers/chemistry/img/15B-Carbonyls-11.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8689,
+          0.9326
+        ],
+        [
+          1,
+          0.0513,
+          0.1244
+        ]
       ]
     },
     {
@@ -802,6 +1159,13 @@
         "papers/chemistry/img/15B-Carbonyls-11.jpg",
         "papers/chemistry/img/15B-Carbonyls-12.jpg",
         "papers/chemistry/img/15B-Carbonyls-13.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2764,
+          0.3989
+        ]
       ]
     },
     {
@@ -835,6 +1199,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/15B-Carbonyls-Q18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6486,
+          0.6819
+        ],
+        [
+          1,
+          0.0513,
+          0.3618
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5527,
+              0.5717
+            ]
+          ]
+        ],
+        [
+          "Q18(a)",
+          [
+            [
+              0,
+              0.5821,
+              0.6524
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -868,6 +1266,35 @@
       ],
       "figures": [
         "papers/chemistry/fig/15B-Carbonyls-Q18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3656,
+          0.5214
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5527,
+              0.5717
+            ]
+          ]
+        ],
+        [
+          "Q18(a)",
+          [
+            [
+              0,
+              0.5821,
+              0.6524
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -899,6 +1326,40 @@
       ],
       "figures": [
         "papers/chemistry/fig/15B-Carbonyls-Q18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5347,
+          0.5537
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5527,
+              0.5717
+            ]
+          ]
+        ],
+        [
+          "Q18(a)(i)",
+          [
+            [
+              0,
+              0.6486,
+              0.6819
+            ],
+            [
+              1,
+              0.0513,
+              0.3618
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -931,6 +1392,30 @@
       ],
       "figures": [
         "papers/chemistry/fig/15B-Carbonyls-Q18-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5793,
+          0.5983
+        ],
+        [
+          2,
+          0.0522,
+          0.4198
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5527,
+              0.5717
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -964,6 +1449,25 @@
         "papers/chemistry/img/15B-Carbonyls-11.jpg",
         "papers/chemistry/img/15B-Carbonyls-12.jpg",
         "papers/chemistry/img/15B-Carbonyls-13.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.4302,
+          0.5641
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.5527,
+              0.5717
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -992,6 +1496,13 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-13.jpg",
         "papers/chemistry/img/15B-Carbonyls-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7645,
+          0.9041
+        ]
       ]
     },
     {
@@ -1022,6 +1533,18 @@
       ],
       "figures": [
         "papers/chemistry/fig/15B-Carbonyls-Q19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9221,
+          0.9411
+        ],
+        [
+          1,
+          0.0532,
+          0.4444
+        ]
       ]
     },
     {
@@ -1051,6 +1574,13 @@
         "papers/chemistry/img/15B-Carbonyls-14.jpg",
         "papers/chemistry/img/15B-Carbonyls-15.jpg",
         "papers/chemistry/img/15B-Carbonyls-16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7284,
+          0.7854
+        ]
       ]
     },
     {
@@ -1086,6 +1616,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/15B-Carbonyls-Q21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.3124
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1115,6 +1664,25 @@
         "papers/chemistry/img/15B-Carbonyls-14.jpg",
         "papers/chemistry/img/15B-Carbonyls-15.jpg",
         "papers/chemistry/img/15B-Carbonyls-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3324,
+          0.5537
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1145,6 +1713,25 @@
         "papers/chemistry/img/15B-Carbonyls-14.jpg",
         "papers/chemistry/img/15B-Carbonyls-15.jpg",
         "papers/chemistry/img/15B-Carbonyls-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.567,
+          0.6382
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1175,6 +1762,30 @@
         "papers/chemistry/img/15B-Carbonyls-14.jpg",
         "papers/chemistry/img/15B-Carbonyls-15.jpg",
         "papers/chemistry/img/15B-Carbonyls-16.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8063,
+          0.9411
+        ],
+        [
+          2,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1208,6 +1819,25 @@
       ],
       "figures": [
         "papers/chemistry/fig/15B-Carbonyls-Q21-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2574,
+          0.7047
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              1,
+              0.0532,
+              0.0722
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1235,6 +1865,30 @@
         "papers/chemistry/img/15B-Carbonyls-16.jpg",
         "papers/chemistry/img/15B-Carbonyls-17.jpg",
         "papers/chemistry/img/15B-Carbonyls-18.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8775,
+          0.9383
+        ],
+        [
+          1,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.849,
+              0.868
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1263,6 +1917,25 @@
         "papers/chemistry/img/15B-Carbonyls-16.jpg",
         "papers/chemistry/img/15B-Carbonyls-17.jpg",
         "papers/chemistry/img/15B-Carbonyls-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1406,
+          0.3191
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.849,
+              0.868
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1291,6 +1964,25 @@
         "papers/chemistry/img/15B-Carbonyls-16.jpg",
         "papers/chemistry/img/15B-Carbonyls-17.jpg",
         "papers/chemistry/img/15B-Carbonyls-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3324,
+          0.51
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.849,
+              0.868
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1321,6 +2013,25 @@
         "papers/chemistry/img/15B-Carbonyls-16.jpg",
         "papers/chemistry/img/15B-Carbonyls-17.jpg",
         "papers/chemistry/img/15B-Carbonyls-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5233,
+          0.8338
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.849,
+              0.868
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1351,6 +2062,30 @@
         "papers/chemistry/img/15B-Carbonyls-16.jpg",
         "papers/chemistry/img/15B-Carbonyls-17.jpg",
         "papers/chemistry/img/15B-Carbonyls-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8471,
+          0.9155
+        ],
+        [
+          2,
+          0.0608,
+          0.3324
+        ]
+      ],
+      "ctx": [
+        [
+          "Q22",
+          [
+            [
+              0,
+              0.849,
+              0.868
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1377,6 +2112,25 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-18.jpg",
         "papers/chemistry/img/15B-Carbonyls-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5575,
+          0.6809
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.528,
+              0.547
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1405,6 +2159,25 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-18.jpg",
         "papers/chemistry/img/15B-Carbonyls-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6999,
+          0.8243
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.528,
+              0.547
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1431,6 +2204,40 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-18.jpg",
         "papers/chemistry/img/15B-Carbonyls-19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8424,
+          0.9345
+        ],
+        [
+          1,
+          0.0513,
+          0.0741
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.528,
+              0.547
+            ]
+          ]
+        ],
+        [
+          "Q23(a)",
+          [
+            [
+              0,
+              0.5575,
+              0.6809
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1459,6 +2266,25 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-18.jpg",
         "papers/chemistry/img/15B-Carbonyls-19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0921,
+          0.2165
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.528,
+              0.547
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1486,6 +2312,35 @@
       "images": [
         "papers/chemistry/img/15B-Carbonyls-18.jpg",
         "papers/chemistry/img/15B-Carbonyls-19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2346,
+          0.3419
+        ]
+      ],
+      "ctx": [
+        [
+          "Q23",
+          [
+            [
+              0,
+              0.528,
+              0.547
+            ]
+          ]
+        ],
+        [
+          "Q23(d)",
+          [
+            [
+              1,
+              0.0921,
+              0.2165
+            ]
+          ]
+        ]
       ]
     }
   ]

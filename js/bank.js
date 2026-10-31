@@ -567,19 +567,73 @@
 
   const fmt = (text) => window.QFormat.format(text, subject);
 
-  // One question: the question, the answers to its earlier parts, then the diagram,
-  // graph or table it needs, cut from the paper (never the whole page).
-  function pdfQuestion(q) {
-    let html = '<p class="pq-text">' + fmt(q.question) + '</p>';
-    const prev = partsBefore(q).filter((x) => x.status !== 'pending');
-    if (prev.length) {
-      html += '<div class="pq-prev"><p class="pq-prev-title">Answers to the earlier parts</p>' +
-        prev.map((x) => '<p><span class="pq-prev-no">' + esc(x.no) + ':</span> ' + fmt(x.answer) + '</p>').join('') + '</div>';
+  // A slice of a paper page: the printed column between top and bottom (fractions of
+  // the page height). It is only a sized placeholder here; drawShots fills it from the
+  // page image just before its PDF page is drawn, so a long list never holds every page
+  // image at once. Pages are A4, so the height follows from the fractions alone.
+  const SHOT_X = [0.03, 0.97];
+  const BODY_W = 682; // .pdf-page-body width
+  function shotSlice(q, [i, t, b]) {
+    const h = Math.round(BODY_W * (b - t) * (297 / 210) / (SHOT_X[1] - SHOT_X[0]));
+    return '<div class="pq-shot" style="height:' + h + 'px" data-src="' + esc(q.images[i]) +
+      '" data-t="' + t + '" data-b="' + b + '"></div>';
+  }
+
+  // One question, as it is printed on the paper: the part itself, after whatever it
+  // needs from earlier in the question (the opening text and diagrams, the lead-in of its
+  // lettered part, an earlier part it refers back to). Context already printed for the
+  // part just before it in the list is not repeated. A part that could not be placed on
+  // its page falls back to its text and the diagram it needs.
+  function pdfQuestion(q, shown) {
+    if (q.shot && q.shot.length) {
+      const base = q.paper.code + '|';
+      let html = '';
+      (q.ctx || []).forEach(([key, segs]) => {
+        if (shown.has(base + key)) return;
+        shown.add(base + key);
+        html += segs.map((s) => shotSlice(q, s)).join('');
+      });
+      shown.add(base + q.no);
+      return html + q.shot.map((s) => shotSlice(q, s)).join('');
     }
+    let html = '<p class="pq-text">' + fmt(q.question) + '</p>';
     if (q.figures && q.figures.length) {
       html += '<div class="pq-box' + (q.figures.length > 1 ? ' many' : '') + '">' + q.figures.map((src) => '<img src="' + esc(src) + '" alt="">').join('') + '</div>';
     }
     return html;
+  }
+
+  // The last few page images, kept while consecutive PDF pages use the same ones.
+  const pageImages = new Map();
+  function pageImage(src) {
+    if (!pageImages.has(src)) {
+      if (pageImages.size >= 8) pageImages.delete(pageImages.keys().next().value);
+      pageImages.set(src, new Promise((res) => {
+        const img = new Image();
+        img.onload = () => res(img);
+        img.onerror = () => res(null);
+        img.src = src;
+      }));
+    }
+    return pageImages.get(src);
+  }
+
+  async function drawShots(page) {
+    for (const slot of page.querySelectorAll('.pq-shot')) {
+      const img = await pageImage(slot.dataset.src);
+      if (!img) continue;
+      const t = +slot.dataset.t, b = +slot.dataset.b;
+      const w = img.naturalWidth, h = img.naturalHeight;
+      const c = el('canvas');
+      c.width = Math.round(w * (SHOT_X[1] - SHOT_X[0]));
+      c.height = Math.max(1, Math.round(h * (b - t)));
+      c.getContext('2d').drawImage(img, w * SHOT_X[0], h * t, c.width, c.height, 0, 0, c.width, c.height);
+      slot.appendChild(c);
+    }
+  }
+
+  function clearShots(page) {
+    page.querySelectorAll('.pq-shot canvas').forEach((c) => { c.width = c.height = 0; c.remove(); });
   }
 
   function pdfAnswer(q) {
@@ -651,24 +705,33 @@
     return page;
   }
 
-  // Moves the blocks onto A4 pages, starting a new page whenever one would overflow.
-  // A block taller than a whole page gets a tall page of its own, shrunk to fit later.
+  // Moves the blocks onto A4 pages, starting a new page whenever one would overflow. A
+  // question too tall for a whole page carries on onto the next page between two of its
+  // slices; one slice taller than a page gets a tall page, shrunk to fit later.
   function paginate(root, blocks) {
     const pages = [newPdfPage(root)];
-    blocks.forEach((block) => {
+    const fits = (body) => body.scrollHeight <= body.clientHeight;
+    const queue = blocks.slice();
+    while (queue.length) {
+      const block = queue.shift();
       let page = pages[pages.length - 1];
       let body = page.firstChild;
       body.appendChild(block);
-      if (body.scrollHeight <= body.clientHeight || body.childElementCount === 1) {
-        if (body.scrollHeight > body.clientHeight) page.classList.add('tall');
-        return;
+      if (fits(body)) continue;
+      if (body.childElementCount > 1) {
+        page = newPdfPage(root);
+        pages.push(page);
+        body = page.firstChild;
+        body.appendChild(block);
+        if (fits(body)) continue;
       }
-      page = newPdfPage(root);
-      pages.push(page);
-      body = page.firstChild;
-      body.appendChild(block);
-      if (body.scrollHeight > body.clientHeight) page.classList.add('tall');
-    });
+      // Keep the heading and at least one slice here; the rest goes on the next page.
+      const rest = block.cloneNode(false);
+      while (!fits(body) && block.children.length > 2) rest.insertBefore(block.lastElementChild, rest.firstChild);
+      if (rest.children.length) queue.unshift(rest);
+      else page.classList.add('tall');
+      if (!fits(body)) page.classList.add('tall');
+    }
     return pages;
   }
 
@@ -698,11 +761,16 @@
 
       const head = el('header', 'pdf-head');
       head.innerHTML = '<h1>' + esc(title) + '</h1><p>' + esc(scope) + ' · IALqBank</p>';
+      // Context printed for one part is not repeated for the next part of the same
+      // question; a new question starts afresh.
+      let shown = new Set(), lastQ = '';
       const blocks = [head, ...qs.map((q, n) => {
+        const thisQ = q.paper.code + '|' + (/^Q\d+/.exec(q.no) || [q.no])[0];
+        if (thisQ !== lastQ) { shown = new Set(); lastQ = thisQ; }
         const s = el('section', 'pq');
         s.innerHTML = '<div class="pq-head"><span class="pq-num">' + (n + 1) + '</span><span class="pq-code">' + esc(q.paper.code + ' · ' + q.no) + '</span>' +
           '<span class="pq-marks">' + q.marks + (q.marks === 1 ? ' mark' : ' marks') + '</span></div>' +
-          (kind === 'answers' ? pdfAnswer(q) : pdfQuestion(q));
+          (kind === 'answers' ? pdfAnswer(q) : pdfQuestion(q, shown));
         return s;
       })];
 
@@ -732,6 +800,7 @@
       const doc = new window.jspdf.jsPDF({ unit: 'mm', format: 'a4', compress: true });
       for (let i = 0; i < pages.length; i++) {
         say('Making your PDF: page ' + (i + 1) + ' of ' + pages.length + '…');
+        await drawShots(pages[i]);
         const h = pages[i].offsetHeight;
         // Phones refuse very large canvases, so a tall page is drawn at a lower scale.
         const scale = Math.min(2, Math.sqrt(14e6 / (PAGE_W * h)));
@@ -740,6 +809,7 @@
         });
         const jpeg = canvas.toDataURL('image/jpeg', 0.8);
         canvas.width = canvas.height = 0;
+        clearShots(pages[i]);
         if (i) doc.addPage();
         const w = h > PAGE_H ? 210 * PAGE_H / h : 210;
         doc.addImage(jpeg, 'JPEG', (210 - w) / 2, 0, w, 297);

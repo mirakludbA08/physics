@@ -30,6 +30,13 @@
         "papers/physics/img/31-10-Oscillations-01.jpg",
         "papers/physics/img/31-10-Oscillations-02.jpg",
         "papers/physics/img/31-10-Oscillations-03.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1719,
+          0.3314
+        ]
       ]
     },
     {
@@ -62,6 +69,30 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5337,
+          0.9288
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.49,
+              0.5242
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -92,6 +123,35 @@
         "papers/physics/img/31-10-Oscillations-01.jpg",
         "papers/physics/img/31-10-Oscillations-02.jpg",
         "papers/physics/img/31-10-Oscillations-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1339,
+          0.3333
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.49,
+              0.5242
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.1111,
+              0.1301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -122,6 +182,35 @@
         "papers/physics/img/31-10-Oscillations-01.jpg",
         "papers/physics/img/31-10-Oscillations-02.jpg",
         "papers/physics/img/31-10-Oscillations-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.339,
+          0.4957
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.49,
+              0.5242
+            ]
+          ]
+        ],
+        [
+          "Q2(b)",
+          [
+            [
+              1,
+              0.1111,
+              0.1301
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -152,6 +241,35 @@
         "papers/physics/img/31-10-Oscillations-01.jpg",
         "papers/physics/img/31-10-Oscillations-02.jpg",
         "papers/physics/img/31-10-Oscillations-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5755,
+          0.8196
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.49,
+              0.5242
+            ]
+          ]
+        ],
+        [
+          "Q2(c)",
+          [
+            [
+              1,
+              0.5081,
+              0.5793
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -182,6 +300,40 @@
         "papers/physics/img/31-10-Oscillations-01.jpg",
         "papers/physics/img/31-10-Oscillations-02.jpg",
         "papers/physics/img/31-10-Oscillations-03.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8253,
+          0.924
+        ],
+        [
+          2,
+          0.0608,
+          0.2441
+        ]
+      ],
+      "ctx": [
+        [
+          "Q2",
+          [
+            [
+              0,
+              0.49,
+              0.5242
+            ]
+          ]
+        ],
+        [
+          "Q2(c)",
+          [
+            [
+              1,
+              0.5081,
+              0.5793
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -216,6 +368,13 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q3.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4406,
+          0.7398
+        ]
       ]
     },
     {
@@ -249,6 +408,30 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q4-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3457,
+          0.4938
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.8841,
+              0.9174
+            ],
+            [
+              1,
+              0.0513,
+              0.3324
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -283,6 +466,30 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q4-3.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5071,
+          0.7749
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.8841,
+              0.9174
+            ],
+            [
+              1,
+              0.0513,
+              0.3324
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -316,6 +523,35 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q4.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7854,
+          0.8044
+        ],
+        [
+          2,
+          0.0532,
+          0.3713
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.8841,
+              0.9174
+            ],
+            [
+              1,
+              0.0513,
+              0.3324
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -350,6 +586,35 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q4-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.6144,
+          0.9411
+        ],
+        [
+          3,
+          0.0532,
+          0.2821
+        ]
+      ],
+      "ctx": [
+        [
+          "Q4",
+          [
+            [
+              0,
+              0.8841,
+              0.9174
+            ],
+            [
+              1,
+              0.0513,
+              0.3324
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -380,6 +645,13 @@
         "papers/physics/img/31-10-Oscillations-06.jpg",
         "papers/physics/img/31-10-Oscillations-07.jpg",
         "papers/physics/img/31-10-Oscillations-08.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4777,
+          0.7075
+        ]
       ]
     },
     {
@@ -408,6 +680,30 @@
         "papers/physics/img/31-10-Oscillations-06.jpg",
         "papers/physics/img/31-10-Oscillations-07.jpg",
         "papers/physics/img/31-10-Oscillations-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2526,
+          0.4017
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8689,
+              0.8879
+            ],
+            [
+              1,
+              0.0617,
+              0.2431
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -438,6 +734,40 @@
         "papers/physics/img/31-10-Oscillations-06.jpg",
         "papers/physics/img/31-10-Oscillations-07.jpg",
         "papers/physics/img/31-10-Oscillations-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.452,
+          0.6515
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8689,
+              0.8879
+            ],
+            [
+              1,
+              0.0617,
+              0.2431
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.4141,
+              0.4454
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -467,6 +797,40 @@
         "papers/physics/img/31-10-Oscillations-06.jpg",
         "papers/physics/img/31-10-Oscillations-07.jpg",
         "papers/physics/img/31-10-Oscillations-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6572,
+          0.83
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8689,
+              0.8879
+            ],
+            [
+              1,
+              0.0617,
+              0.2431
+            ]
+          ]
+        ],
+        [
+          "Q6(b)",
+          [
+            [
+              1,
+              0.4141,
+              0.4454
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -495,6 +859,45 @@
         "papers/physics/img/31-10-Oscillations-06.jpg",
         "papers/physics/img/31-10-Oscillations-07.jpg",
         "papers/physics/img/31-10-Oscillations-08.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8775,
+          0.9307
+        ],
+        [
+          2,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8689,
+              0.8879
+            ],
+            [
+              1,
+              0.0617,
+              0.2431
+            ]
+          ]
+        ],
+        [
+          "Q6(c)",
+          [
+            [
+              1,
+              0.8405,
+              0.8746
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -524,6 +927,40 @@
         "papers/physics/img/31-10-Oscillations-06.jpg",
         "papers/physics/img/31-10-Oscillations-07.jpg",
         "papers/physics/img/31-10-Oscillations-08.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.075,
+          0.2745
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8689,
+              0.8879
+            ],
+            [
+              1,
+              0.0617,
+              0.2431
+            ]
+          ]
+        ],
+        [
+          "Q6(c)",
+          [
+            [
+              1,
+              0.8405,
+              0.8746
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -554,6 +991,40 @@
         "papers/physics/img/31-10-Oscillations-06.jpg",
         "papers/physics/img/31-10-Oscillations-07.jpg",
         "papers/physics/img/31-10-Oscillations-08.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2811,
+          0.51
+        ]
+      ],
+      "ctx": [
+        [
+          "Q6",
+          [
+            [
+              0,
+              0.8689,
+              0.8879
+            ],
+            [
+              1,
+              0.0617,
+              0.2431
+            ]
+          ]
+        ],
+        [
+          "Q6(c)",
+          [
+            [
+              1,
+              0.8405,
+              0.8746
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -581,6 +1052,25 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-08.jpg",
         "papers/physics/img/31-10-Oscillations-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7009,
+          0.7616
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6572,
+              0.6914
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -609,6 +1099,40 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-08.jpg",
         "papers/physics/img/31-10-Oscillations-09.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8424,
+          0.9392
+        ],
+        [
+          1,
+          0.0608,
+          0.1301
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6572,
+              0.6914
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              0,
+              0.7749,
+              0.8357
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -637,6 +1161,35 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-08.jpg",
         "papers/physics/img/31-10-Oscillations-09.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1339,
+          0.2156
+        ]
+      ],
+      "ctx": [
+        [
+          "Q7",
+          [
+            [
+              0,
+              0.6572,
+              0.6914
+            ]
+          ]
+        ],
+        [
+          "Q7(b)",
+          [
+            [
+              0,
+              0.7749,
+              0.8357
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -665,6 +1218,13 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-09.jpg",
         "papers/physics/img/31-10-Oscillations-10.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3628,
+          0.6059
+        ]
       ]
     },
     {
@@ -695,6 +1255,18 @@
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q9.jpg",
         "papers/physics/fig/31-10-Oscillations-Q9-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7417,
+          0.9183
+        ],
+        [
+          1,
+          0.057,
+          0.2507
+        ]
       ]
     },
     {
@@ -726,6 +1298,13 @@
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q10.jpg",
         "papers/physics/fig/31-10-Oscillations-Q10-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4055,
+          0.7901
+        ]
       ]
     },
     {
@@ -757,6 +1336,13 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q11.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.3504
+        ]
       ]
     },
     {
@@ -787,6 +1373,35 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8262,
+          0.8575
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.4881,
+              0.5223
+            ]
+          ]
+        ],
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.5328,
+              0.8234
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -817,6 +1432,40 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q12.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8708,
+          0.925
+        ],
+        [
+          1,
+          0.0608,
+          0.189
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.4881,
+              0.5223
+            ]
+          ]
+        ],
+        [
+          "Q12(a)",
+          [
+            [
+              0,
+              0.5328,
+              0.8234
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -846,6 +1495,25 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-11.jpg",
         "papers/physics/img/31-10-Oscillations-12.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1994,
+          0.377
+        ]
+      ],
+      "ctx": [
+        [
+          "Q12",
+          [
+            [
+              0,
+              0.4881,
+              0.5223
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -876,6 +1544,13 @@
         "papers/physics/img/31-10-Oscillations-12.jpg",
         "papers/physics/img/31-10-Oscillations-13.jpg",
         "papers/physics/img/31-10-Oscillations-14.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5736,
+          0.6971
+        ]
       ]
     },
     {
@@ -908,6 +1583,30 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3903,
+          0.5385
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.849,
+              0.8822
+            ],
+            [
+              1,
+              0.0513,
+              0.3799
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -941,6 +1640,40 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q14-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.604,
+          0.7445
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.849,
+              0.8822
+            ],
+            [
+              1,
+              0.0513,
+              0.3799
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              1,
+              0.5518,
+              0.5992
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -975,6 +1708,45 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q14.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7502,
+          0.7844
+        ],
+        [
+          2,
+          0.0513,
+          0.7654
+        ]
+      ],
+      "ctx": [
+        [
+          "Q14",
+          [
+            [
+              0,
+              0.849,
+              0.8822
+            ],
+            [
+              1,
+              0.0513,
+              0.3799
+            ]
+          ]
+        ],
+        [
+          "Q14(b)",
+          [
+            [
+              1,
+              0.5518,
+              0.5992
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1006,6 +1778,13 @@
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q15.jpg",
         "papers/physics/fig/31-10-Oscillations-Q15-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0855,
+          0.6334
+        ]
       ]
     },
     {
@@ -1037,6 +1816,18 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q16.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7711,
+          0.8348
+        ],
+        [
+          1,
+          0.0522,
+          0.2317
+        ]
       ]
     },
     {
@@ -1068,6 +1859,13 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q17.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4169,
+          0.6591
+        ]
       ]
     },
     {
@@ -1102,6 +1900,30 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2289,
+          0.4805
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.7958,
+              0.8452
+            ],
+            [
+              1,
+              0.0513,
+              0.2194
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1132,6 +1954,40 @@
         "papers/physics/img/31-10-Oscillations-16.jpg",
         "papers/physics/img/31-10-Oscillations-17.jpg",
         "papers/physics/img/31-10-Oscillations-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5603,
+          0.7341
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.7958,
+              0.8452
+            ],
+            [
+              1,
+              0.0513,
+              0.2194
+            ]
+          ]
+        ],
+        [
+          "Q18(b)",
+          [
+            [
+              1,
+              0.4938,
+              0.5613
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1159,6 +2015,40 @@
         "papers/physics/img/31-10-Oscillations-16.jpg",
         "papers/physics/img/31-10-Oscillations-17.jpg",
         "papers/physics/img/31-10-Oscillations-18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.7369,
+          0.8196
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.7958,
+              0.8452
+            ],
+            [
+              1,
+              0.0513,
+              0.2194
+            ]
+          ]
+        ],
+        [
+          "Q18(b)",
+          [
+            [
+              1,
+              0.4938,
+              0.5613
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1189,6 +2079,35 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q18.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.8329,
+          0.9373
+        ],
+        [
+          2,
+          0.0608,
+          0.1273
+        ]
+      ],
+      "ctx": [
+        [
+          "Q18",
+          [
+            [
+              0,
+              0.7958,
+              0.8452
+            ],
+            [
+              1,
+              0.0513,
+              0.2194
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1220,6 +2139,25 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.6667,
+          0.8452
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.2745,
+              0.6572
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1252,6 +2190,40 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q19.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.9098,
+          0.944
+        ],
+        [
+          1,
+          0.0826,
+          0.1785
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.2745,
+              0.6572
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              0,
+              0.8575,
+              0.9145
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1281,6 +2253,35 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-18.jpg",
         "papers/physics/img/31-10-Oscillations-19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1852,
+          0.4169
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.2745,
+              0.6572
+            ]
+          ]
+        ],
+        [
+          "Q19(b)",
+          [
+            [
+              0,
+              0.8575,
+              0.9145
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1310,6 +2311,25 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-18.jpg",
         "papers/physics/img/31-10-Oscillations-19.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4274,
+          0.6933
+        ]
+      ],
+      "ctx": [
+        [
+          "Q19",
+          [
+            [
+              0,
+              0.2745,
+              0.6572
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1343,6 +2363,18 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q20.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8395,
+          0.8737
+        ],
+        [
+          1,
+          0.0522,
+          0.7578
+        ]
       ]
     },
     {
@@ -1375,6 +2407,30 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q21.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4292,
+          0.6363
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.9041,
+              0.9354
+            ],
+            [
+              1,
+              0.0532,
+              0.4188
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1405,6 +2461,30 @@
         "papers/physics/img/31-10-Oscillations-20.jpg",
         "papers/physics/img/31-10-Oscillations-21.jpg",
         "papers/physics/img/31-10-Oscillations-22.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6486,
+          0.9155
+        ]
+      ],
+      "ctx": [
+        [
+          "Q21",
+          [
+            [
+              0,
+              0.9041,
+              0.9354
+            ],
+            [
+              1,
+              0.0532,
+              0.4188
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1437,6 +2517,13 @@
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q22.jpg",
         "papers/physics/fig/31-10-Oscillations-Q22-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2137,
+          0.7369
+        ]
       ]
     },
     {
@@ -1465,6 +2552,13 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-22.jpg",
         "papers/physics/img/31-10-Oscillations-23.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0532,
+          0.188
+        ]
       ]
     },
     {
@@ -1497,6 +2591,13 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3922,
+          0.698
+        ]
       ]
     },
     {
@@ -1525,6 +2626,18 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-23.jpg",
         "papers/physics/img/31-10-Oscillations-24.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8841,
+          0.9326
+        ],
+        [
+          1,
+          0.0513,
+          0.1244
+        ]
       ]
     },
     {
@@ -1557,6 +2670,13 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q26.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3257,
+          0.6372
+        ]
       ]
     },
     {
@@ -1589,6 +2709,30 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q27-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2564,
+          0.4046
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.774,
+              0.8224
+            ],
+            [
+              1,
+              0.0513,
+              0.246
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1623,6 +2767,40 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q27.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4549,
+          0.7958
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.774,
+              0.8224
+            ],
+            [
+              1,
+              0.0513,
+              0.246
+            ]
+          ]
+        ],
+        [
+          "Q27(b)",
+          [
+            [
+              1,
+              0.4179,
+              0.452
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1654,6 +2832,45 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q27-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.9003,
+          0.9193
+        ],
+        [
+          2,
+          0.0608,
+          0.1567
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.774,
+              0.8224
+            ],
+            [
+              1,
+              0.0513,
+              0.246
+            ]
+          ]
+        ],
+        [
+          "Q27(b)",
+          [
+            [
+              1,
+              0.4179,
+              0.452
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1687,6 +2904,40 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q27-2.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1624,
+          0.2602
+        ]
+      ],
+      "ctx": [
+        [
+          "Q27",
+          [
+            [
+              0,
+              0.774,
+              0.8224
+            ],
+            [
+              1,
+              0.0513,
+              0.246
+            ]
+          ]
+        ],
+        [
+          "Q27(b)",
+          [
+            [
+              1,
+              0.4179,
+              0.452
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1718,6 +2969,18 @@
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q28.jpg",
         "papers/physics/fig/31-10-Oscillations-Q28-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4074,
+          0.9354
+        ],
+        [
+          1,
+          0.0522,
+          0.1842
+        ]
       ]
     },
     {
@@ -1748,6 +3011,13 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q29.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4577,
+          0.7151
+        ]
       ]
     },
     {
@@ -1778,6 +3048,30 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4663,
+          0.4986
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.8519,
+              0.944
+            ],
+            [
+              1,
+              0.0513,
+              0.4568
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1810,6 +3104,30 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q30.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5252,
+          0.7616
+        ]
+      ],
+      "ctx": [
+        [
+          "Q30",
+          [
+            [
+              0,
+              0.8519,
+              0.944
+            ],
+            [
+              1,
+              0.0513,
+              0.4568
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1842,6 +3160,30 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.3637,
+          0.5119
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.9079,
+              0.9392
+            ],
+            [
+              1,
+              0.0532,
+              0.3542
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1876,6 +3218,35 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q31.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.5252,
+          0.924
+        ],
+        [
+          2,
+          0.0532,
+          0.0712
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.9079,
+              0.9392
+            ],
+            [
+              1,
+              0.0532,
+              0.3542
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1906,6 +3277,30 @@
         "papers/physics/img/31-10-Oscillations-28.jpg",
         "papers/physics/img/31-10-Oscillations-29.jpg",
         "papers/physics/img/31-10-Oscillations-30.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0817,
+          0.2593
+        ]
+      ],
+      "ctx": [
+        [
+          "Q31",
+          [
+            [
+              0,
+              0.9079,
+              0.9392
+            ],
+            [
+              1,
+              0.0532,
+              0.3542
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -1933,6 +3328,13 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-30.jpg",
         "papers/physics/img/31-10-Oscillations-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4558,
+          0.5793
+        ]
       ]
     },
     {
@@ -1961,6 +3363,13 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-30.jpg",
         "papers/physics/img/31-10-Oscillations-31.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7797,
+          0.9183
+        ]
       ]
     },
     {
@@ -1991,6 +3400,13 @@
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q34.jpg",
         "papers/physics/fig/31-10-Oscillations-Q34-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2355,
+          0.4596
+        ]
       ]
     },
     {
@@ -2025,6 +3441,30 @@
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q35.jpg",
         "papers/physics/fig/31-10-Oscillations-Q35-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2659,
+          0.6866
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.8148,
+              0.8338
+            ],
+            [
+              1,
+              0.0513,
+              0.2555
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2058,6 +3498,45 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q35-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.0826,
+          0.283
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.8148,
+              0.8338
+            ],
+            [
+              1,
+              0.0513,
+              0.2555
+            ]
+          ]
+        ],
+        [
+          "Q35(b)",
+          [
+            [
+              1,
+              0.699,
+              0.944
+            ],
+            [
+              2,
+              0.0532,
+              0.0836
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2090,6 +3569,45 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q35-3.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.2887,
+          0.5328
+        ]
+      ],
+      "ctx": [
+        [
+          "Q35",
+          [
+            [
+              0,
+              0.8148,
+              0.8338
+            ],
+            [
+              1,
+              0.0513,
+              0.2555
+            ]
+          ]
+        ],
+        [
+          "Q35(b)",
+          [
+            [
+              1,
+              0.699,
+              0.944
+            ],
+            [
+              2,
+              0.0532,
+              0.0836
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2121,6 +3639,30 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0969,
+          0.245
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.68,
+              0.9345
+            ],
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2153,6 +3695,30 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q36.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2583,
+          0.6144
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.68,
+              0.9345
+            ],
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2181,6 +3747,30 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-34.jpg",
         "papers/physics/img/31-10-Oscillations-35.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6249,
+          0.831
+        ]
+      ],
+      "ctx": [
+        [
+          "Q36",
+          [
+            [
+              0,
+              0.68,
+              0.9345
+            ],
+            [
+              1,
+              0.0532,
+              0.0864
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2210,6 +3800,13 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1396,
+          0.3979
+        ]
       ]
     },
     {
@@ -2239,6 +3836,30 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-36.jpg",
         "papers/physics/img/31-10-Oscillations-37.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5632,
+          0.9183
+        ],
+        [
+          1,
+          0.0608,
+          0.0978
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.5337,
+              0.5527
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2265,6 +3886,25 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-36.jpg",
         "papers/physics/img/31-10-Oscillations-37.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1111,
+          0.2745
+        ]
+      ],
+      "ctx": [
+        [
+          "Q38",
+          [
+            [
+              0,
+              0.5337,
+              0.5527
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2295,6 +3935,13 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.471,
+          0.717
+        ]
       ]
     },
     {
@@ -2326,6 +3973,18 @@
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q40.jpg",
         "papers/physics/fig/31-10-Oscillations-Q40-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.905,
+          0.9364
+        ],
+        [
+          1,
+          0.0513,
+          0.83
+        ]
       ]
     },
     {
@@ -2355,6 +4014,13 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1709,
+          0.5043
+        ]
       ]
     },
     {
@@ -2383,6 +4049,13 @@
       ],
       "images": [
         "papers/physics/img/31-10-Oscillations-39.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7255,
+          0.849
+        ]
       ]
     },
     {
@@ -2412,6 +4085,25 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-40.jpg",
         "papers/physics/img/31-10-Oscillations-41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1643,
+          0.3428
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.1197,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2441,6 +4133,25 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-40.jpg",
         "papers/physics/img/31-10-Oscillations-41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3561,
+          0.7692
+        ]
+      ],
+      "ctx": [
+        [
+          "Q43",
+          [
+            [
+              0,
+              0.1197,
+              0.1538
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2470,6 +4181,13 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q44.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.1016,
+          0.3428
+        ]
       ]
     },
     {
@@ -2497,6 +4215,13 @@
       ],
       "images": [
         "papers/physics/img/31-10-Oscillations-41.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.529,
+          0.6524
+        ]
       ]
     },
     {
@@ -2527,6 +4252,13 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8538,
+          0.9174
+        ]
       ]
     },
     {
@@ -2555,6 +4287,13 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-42.jpg",
         "papers/physics/img/31-10-Oscillations-43.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4416,
+          0.5907
+        ]
       ]
     },
     {
@@ -2586,6 +4325,18 @@
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q48.jpg",
         "papers/physics/fig/31-10-Oscillations-Q48-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7949,
+          0.906
+        ],
+        [
+          1,
+          0.0532,
+          0.2982
+        ]
       ]
     },
     {
@@ -2615,6 +4366,13 @@
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q49.jpg",
         "papers/physics/fig/31-10-Oscillations-Q49-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5024,
+          0.8443
+        ]
       ]
     },
     {
@@ -2643,6 +4401,13 @@
         "papers/physics/img/31-10-Oscillations-44.jpg",
         "papers/physics/img/31-10-Oscillations-45.jpg",
         "papers/physics/img/31-10-Oscillations-46.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.169,
+          0.3077
+        ]
       ]
     },
     {
@@ -2671,6 +4436,30 @@
         "papers/physics/img/31-10-Oscillations-44.jpg",
         "papers/physics/img/31-10-Oscillations-45.jpg",
         "papers/physics/img/31-10-Oscillations-46.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.2963,
+          0.4739
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.4596,
+              0.9117
+            ],
+            [
+              1,
+              0.0513,
+              0.2868
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2700,6 +4489,40 @@
         "papers/physics/img/31-10-Oscillations-44.jpg",
         "papers/physics/img/31-10-Oscillations-45.jpg",
         "papers/physics/img/31-10-Oscillations-46.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.509,
+          0.68
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.4596,
+              0.9117
+            ],
+            [
+              1,
+              0.0513,
+              0.2868
+            ]
+          ]
+        ],
+        [
+          "Q51(b)",
+          [
+            [
+              1,
+              0.4872,
+              0.5062
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2733,6 +4556,45 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q51.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6857,
+          0.9449
+        ],
+        [
+          2,
+          0.0608,
+          0.1301
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.4596,
+              0.9117
+            ],
+            [
+              1,
+              0.0513,
+              0.2868
+            ]
+          ]
+        ],
+        [
+          "Q51(b)",
+          [
+            [
+              1,
+              0.4872,
+              0.5062
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2765,6 +4627,40 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q51.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.1339,
+          0.3191
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.4596,
+              0.9117
+            ],
+            [
+              1,
+              0.0513,
+              0.2868
+            ]
+          ]
+        ],
+        [
+          "Q51(b)",
+          [
+            [
+              1,
+              0.4872,
+              0.5062
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2798,6 +4694,30 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q51.jpg"
+      ],
+      "shot": [
+        [
+          2,
+          0.3324,
+          0.5242
+        ]
+      ],
+      "ctx": [
+        [
+          "Q51",
+          [
+            [
+              0,
+              0.4596,
+              0.9117
+            ],
+            [
+              1,
+              0.0513,
+              0.2868
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2827,6 +4747,13 @@
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q52.jpg",
         "papers/physics/fig/31-10-Oscillations-Q52-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7379,
+          0.9193
+        ]
       ]
     },
     {
@@ -2857,6 +4784,13 @@
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q53.jpg",
         "papers/physics/fig/31-10-Oscillations-Q53-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4539,
+          0.8262
+        ]
       ]
     },
     {
@@ -2888,6 +4822,13 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q54.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.0902,
+          0.8936
+        ]
       ]
     },
     {
@@ -2916,6 +4857,30 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q55.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.8082,
+          0.9269
+        ],
+        [
+          1,
+          0.0608,
+          0.0693
+        ]
+      ],
+      "ctx": [
+        [
+          "Q55",
+          [
+            [
+              0,
+              0.1425,
+              0.7968
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2948,6 +4913,25 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q55.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.0817,
+          0.4236
+        ]
+      ],
+      "ctx": [
+        [
+          "Q55",
+          [
+            [
+              0,
+              0.1425,
+              0.7968
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -2978,6 +4962,25 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q55-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.4274,
+          0.6914
+        ]
+      ],
+      "ctx": [
+        [
+          "Q55",
+          [
+            [
+              0,
+              0.1425,
+              0.7968
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3011,6 +5014,13 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q56.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.1197,
+          0.9335
+        ]
       ]
     },
     {
@@ -3039,6 +5049,13 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-52.jpg",
         "papers/physics/img/31-10-Oscillations-53.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.2355,
+          0.3742
+        ]
       ]
     },
     {
@@ -3071,6 +5088,18 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q58.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5745,
+          0.9316
+        ],
+        [
+          1,
+          0.0532,
+          0.1766
+        ]
       ]
     },
     {
@@ -3100,6 +5129,13 @@
       "images": [
         "papers/physics/img/31-10-Oscillations-53.jpg",
         "papers/physics/img/31-10-Oscillations-54.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3286,
+          0.5935
+        ]
       ]
     },
     {
@@ -3133,6 +5169,18 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q60.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7398,
+          0.774
+        ],
+        [
+          1,
+          0.057,
+          0.8015
+        ]
       ]
     },
     {
@@ -3190,6 +5238,18 @@
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q62.jpg",
         "papers/physics/fig/31-10-Oscillations-Q62-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.4606,
+          0.9288
+        ],
+        [
+          1,
+          0.0532,
+          0.1443
+        ]
       ]
     },
     {
@@ -3220,6 +5280,13 @@
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q63.jpg",
         "papers/physics/fig/31-10-Oscillations-Q63-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.3647,
+          0.943
+        ]
       ]
     },
     {
@@ -3252,6 +5319,25 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q64-2.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.5518,
+          0.6999
+        ]
+      ],
+      "ctx": [
+        [
+          "Q64",
+          [
+            [
+              0,
+              0.2013,
+              0.5413
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3283,6 +5369,30 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q64.jpg"
+      ],
+      "shot": [
+        [
+          0,
+          0.7132,
+          0.7322
+        ],
+        [
+          1,
+          0.0617,
+          0.6534
+        ]
+      ],
+      "ctx": [
+        [
+          "Q64",
+          [
+            [
+              0,
+              0.2013,
+              0.5413
+            ]
+          ]
+        ]
       ]
     },
     {
@@ -3314,6 +5424,25 @@
       ],
       "figures": [
         "papers/physics/fig/31-10-Oscillations-Q64-2.jpg"
+      ],
+      "shot": [
+        [
+          1,
+          0.6629,
+          0.8699
+        ]
+      ],
+      "ctx": [
+        [
+          "Q64",
+          [
+            [
+              0,
+              0.2013,
+              0.5413
+            ]
+          ]
+        ]
       ]
     }
   ]
