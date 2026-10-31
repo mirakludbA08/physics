@@ -19,13 +19,19 @@
         "location"
       ],
       "question": "In which part of the kidney are structures W and X on the nephron diagram located (options: cortex, inner medulla, outer medulla, renal pelvis)?",
-      "status": "pending",
-      "answer": "Pending: the labelled nephron diagram (structures W and X) is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: cortex",
+      "steps": [
+        "W is the glomerulus inside the Bowman capsule and X is the proximal convoluted tubule.",
+        "Both lie in the kidney cortex, so the answer is A; the loop of Henle and collecting duct dip into the medulla."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-01.jpg",
         "papers/biology/img/07C-Internal-Environment-02.jpg",
         "papers/biology/img/07C-Internal-Environment-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q1.jpg"
       ]
     },
     {
@@ -42,13 +48,19 @@
         "structure"
       ],
       "question": "In which labelled structure of the nephron diagram does ultrafiltration take place (options W, X, Y, Z)?",
-      "status": "pending",
-      "answer": "Pending: the labelled nephron diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: W",
+      "steps": [
+        "Ultrafiltration happens where blood in the glomerulus capillaries is under high pressure inside the Bowman capsule.",
+        "This is structure W (glomerulus and capsule); X is the proximal tubule (reabsorption), Y the loop of Henle and Z the collecting duct."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-01.jpg",
         "papers/biology/img/07C-Internal-Environment-02.jpg",
         "papers/biology/img/07C-Internal-Environment-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q1.jpg"
       ]
     },
     {
@@ -64,13 +76,19 @@
         "countercurrent"
       ],
       "question": "Which labelled structures on the nephron diagram form part of the loop of Henle (options: X only, X and Y, Y only, Y and Z)?",
-      "status": "pending",
-      "answer": "Pending: the labelled nephron diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Y only",
+      "steps": [
+        "Y is the long hairpin descending into the medulla, which is the loop of Henle.",
+        "X is the proximal convoluted tubule and Z is the collecting duct, which are not part of the loop."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-01.jpg",
         "papers/biology/img/07C-Internal-Environment-02.jpg",
         "papers/biology/img/07C-Internal-Environment-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q1.jpg"
       ]
     },
     {
@@ -117,13 +135,21 @@
         "table"
       ],
       "question": "Deduce why the kangaroo rat is more successful than the brown rat at living in desert habitats, using the table of kidney adaptations.",
-      "status": "pending",
-      "answer": "Pending: the table comparing the two small mammals is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The kangaroo rat makes much more concentrated urine, so it loses less water: its thick ascending limb has more mitochondria, so it pumps more Na+ out and builds a steeper concentration gradient in the medulla.",
+      "steps": [
+        "Urine concentration is 5500 mOsmol dm^-3 in the kangaroo rat compared with 2900 in the brown rat, so it loses less water for the same solute excretion.",
+        "Its thick ascending limb has more mitochondria (5.5 against 3.6), so more ATP is available for active transport of Na+ and Cl- out of the ascending limb.",
+        "Medulla sodium concentration is 95 mmol dm^-3 against 45, so water potential in the medulla is much lower.",
+        "A steeper water potential gradient means more water leaves the collecting duct by osmosis and is reabsorbed, which conserves water in a desert."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-01.jpg",
         "papers/biology/img/07C-Internal-Environment-02.jpg",
         "papers/biology/img/07C-Internal-Environment-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q1-2.jpg"
       ]
     },
     {
@@ -168,13 +194,19 @@
         "pinprick"
       ],
       "question": "Which pathway shows a reflex arc (options AW, BX, CY, DZ)?",
-      "status": "pending",
-      "answer": "Pending: the pathway options AW, BX, CY, DZ are not described in the text, so the diagram is needed.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: receptor -> spinal cord -> muscle",
+      "steps": [
+        "A reflex arc runs from receptor, along a sensory neurone to the CNS (here the spinal cord), then along a motor neurone to the effector, which is a muscle.",
+        "Options A and B start at the muscle, and D skips the receptor and goes through the brain, so only C is a reflex arc."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-03.jpg",
         "papers/biology/img/07C-Internal-Environment-04.jpg",
         "papers/biology/img/07C-Internal-Environment-05.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q2.jpg"
       ]
     },
     {
@@ -204,6 +236,9 @@
         "papers/biology/img/07C-Internal-Environment-03.jpg",
         "papers/biology/img/07C-Internal-Environment-04.jpg",
         "papers/biology/img/07C-Internal-Environment-05.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q2-2.jpg"
       ]
     },
     {
@@ -233,6 +268,9 @@
         "papers/biology/img/07C-Internal-Environment-03.jpg",
         "papers/biology/img/07C-Internal-Environment-04.jpg",
         "papers/biology/img/07C-Internal-Environment-05.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q2-2.jpg"
       ]
     },
     {
@@ -262,6 +300,9 @@
         "papers/biology/img/07C-Internal-Environment-03.jpg",
         "papers/biology/img/07C-Internal-Environment-04.jpg",
         "papers/biology/img/07C-Internal-Environment-05.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q2-2.jpg"
       ]
     },
     {
@@ -306,12 +347,20 @@
         "features"
       ],
       "question": "Explain how the features of slow twitch fibres, shown in the table, benefit an Olympic marathon runner.",
-      "status": "pending",
-      "answer": "Pending: the table listing the features of slow and fast twitch fibres is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Many mitochondria, much myoglobin and a large capillary network allow sustained aerobic respiration, and slow sustained contraction suits long-distance running without fatigue.",
+      "steps": [
+        "Many mitochondria give a high rate of aerobic respiration, producing plenty of ATP for sustained contraction over the whole race.",
+        "Many myoglobin molecules store oxygen in the fibre and release it to the mitochondria, so aerobic respiration can continue.",
+        "A larger capillary network brings more oxygen and glucose and removes CO2 and lactate, so fatigue is delayed.",
+        "Slow, sustained contraction means the muscle can keep working for long periods, which is needed in a marathon."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-06.jpg",
         "papers/biology/img/07C-Internal-Environment-07.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q3.jpg"
       ]
     },
     {
@@ -329,12 +378,19 @@
         "thermoregulation"
       ],
       "question": "Comment on the rate of heat loss during exercise, using the graph of heat loss at rest and during exercise.",
-      "status": "pending",
-      "answer": "Pending: the graph of the rate of heat loss at rest and during exercise is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Heat loss rises sharply soon after exercise starts, then levels off at a plateau well above the resting rate (roughly 5 times higher on the graph).",
+      "steps": [
+        "The rate of heat loss is constant at rest, then increases rapidly once exercise starts and slows as it approaches a plateau.",
+        "Contracting muscles respire faster and release much more heat, so the body must lose heat faster (more sweating and skin vasodilation) to stop the core temperature rising.",
+        "The plateau shows heat loss now matches heat production, so a steady, raised body temperature is maintained (negative feedback)."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-06.jpg",
         "papers/biology/img/07C-Internal-Environment-07.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q3-2.jpg"
       ]
     },
     {
@@ -439,9 +495,13 @@
         "3 significant figures"
       ],
       "question": "Calculate the GFR of a person who excreted 1960 mg of creatinine in urine over 15 hours (3 s.f.).",
-      "status": "pending",
-      "answer": "Pending: GFR needs the plasma creatinine concentration as well as the urine data, and this value is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "131 mg h^-1",
+      "steps": [
+        "The rate at which creatinine is filtered equals the rate at which it appears in urine, as creatinine is not reabsorbed or secreted.",
+        "Rate = amount / time = 1960 / 15 = 130.67 mg h^-1.",
+        "To 3 significant figures this is 131 mg h^-1."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-07.jpg",
         "papers/biology/img/07C-Internal-Environment-08.jpg",
@@ -465,14 +525,22 @@
         "results"
       ],
       "question": "Comment on the results of the clinical trial of surgery on glucose uptake in the presence of insulin.",
-      "status": "pending",
-      "answer": "Pending: the trial results (graph or table of glucose uptake for each group) are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Surgery increased glucose uptake in all three groups, with the largest rise in the diabetic groups; after surgery the pre-diabetic and type II means are similar to the non-diabetic mean before surgery, but the large standard deviations overlap.",
+      "steps": [
+        "Mean uptake was higher after surgery in every group: non-diabetic 1.07 to 1.39, pre-diabetic 0.55 to 1.30 and type II 0.40 to 1.10 a.u.",
+        "The increase was proportionally biggest in the type II group (0.70 a.u., about 175%) and pre-diabetic group, but only about 30% in the non-diabetic group.",
+        "After surgery, pre-diabetic (1.30) and type II (1.10) uptake is close to the non-diabetic value before surgery (1.07), so the body cells respond to insulin better.",
+        "However the standard deviations after surgery (0.58 to 0.88) are large and overlap with the before values, and no sample size is given, so the improvement may not be significant."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-07.jpg",
         "papers/biology/img/07C-Internal-Environment-08.jpg",
         "papers/biology/img/07C-Internal-Environment-09.jpg",
         "papers/biology/img/07C-Internal-Environment-10.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q4.jpg"
       ]
     },
     {
@@ -490,14 +558,21 @@
         "calculation"
       ],
       "question": "Calculate the difference that surgery makes to the mean glucose uptake in the non-diabetic group and the type II diabetic group.",
-      "status": "pending",
-      "answer": "Pending: the mean glucose uptake values from the trial data are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Non-diabetic: 0.32 a.u. increase; type II diabetic: 0.70 a.u. increase",
+      "steps": [
+        "Non-diabetic: 1.39 - 1.07 = 0.32 a.u.",
+        "Type II diabetic: 1.10 - 0.40 = 0.70 a.u.",
+        "Surgery therefore makes more than twice as much difference in the type II group."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-07.jpg",
         "papers/biology/img/07C-Internal-Environment-08.jpg",
         "papers/biology/img/07C-Internal-Environment-09.jpg",
         "papers/biology/img/07C-Internal-Environment-10.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q4.jpg"
       ]
     },
     {
@@ -682,14 +757,20 @@
         "nephron"
       ],
       "question": "Draw an arrow on the diagram of part of a human kidney to show the location of a single Bowman capsule.",
-      "status": "pending",
-      "answer": "Pending: the kidney diagram is not in the text, so the arrow cannot be placed.",
-      "steps": [],
+      "status": "ready",
+      "answer": "An arrow drawn to point at a spot in the cortex, the lighter outer region of the kidney between the dark outer layer and the medulla pyramids.",
+      "steps": [
+        "Bowman's capsules (with their glomeruli) are microscopic and lie only in the cortex.",
+        "So the arrow's head must end in the cortex region, not in the medulla (the darker striped pyramids) or the pelvis."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-12.jpg",
         "papers/biology/img/07C-Internal-Environment-13.jpg",
         "papers/biology/img/07C-Internal-Environment-14.jpg",
         "papers/biology/img/07C-Internal-Environment-15.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q6.jpg"
       ]
     },
     {
@@ -736,14 +817,20 @@
         "table of rows"
       ],
       "question": "Which row shows the correct pathway taken by a water molecule through the kidney nephron?",
-      "status": "pending",
-      "answer": "Pending: the table of pathways is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: glomerulus, proximal tubule, distal tubule, collecting duct",
+      "steps": [
+        "Filtrate forms first at the glomerulus, then flows through the proximal convoluted tubule and, after the loop of Henle, the distal convoluted tubule.",
+        "It finishes in the collecting duct, so B is the only row with this order."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-12.jpg",
         "papers/biology/img/07C-Internal-Environment-13.jpg",
         "papers/biology/img/07C-Internal-Environment-14.jpg",
         "papers/biology/img/07C-Internal-Environment-15.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q6-2.jpg"
       ]
     },
     {
@@ -853,14 +940,21 @@
         "day"
       ],
       "question": "Calculate the difference in the volume of water used in a day by a buffalo and a camel, in dm3 (2 s.f.).",
-      "status": "pending",
-      "answer": "Pending: the table of daily water use for the five species is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "56 dm^3",
+      "steps": [
+        "Buffalo: 150 x 697 = 104 550 cm^3 per day = 104.55 dm^3.",
+        "Camel: 57 x 850 = 48 450 cm^3 per day = 48.45 dm^3.",
+        "Difference = 104.55 - 48.45 = 56.1 = 56 dm^3 (2 s.f.)."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-15.jpg",
         "papers/biology/img/07C-Internal-Environment-16.jpg",
         "papers/biology/img/07C-Internal-Environment-17.jpg",
         "papers/biology/img/07C-Internal-Environment-18.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q7.jpg"
       ]
     },
     {
@@ -877,14 +971,21 @@
         "reasons"
       ],
       "question": "Suggest two reasons why there is no correlation between water use and mean mass for the species in the table.",
-      "status": "pending",
-      "answer": "Pending: the table of water use and mean mass for the five species is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Any two: the species live in different habitats and are adapted differently (camel conserves water, buffalo does not); metabolic rate, diet or surface area to volume ratio differ between species; small sample of only five species.",
+      "steps": [
+        "Water use is already given per kg, so it depends on adaptations, not on body size alone.",
+        "Camels are desert animals with a long loop of Henle and concentrated urine, so they use far less water than buffalo despite both being large.",
+        "Species also differ in diet, metabolic rate and surface area to volume ratio, and only five species are compared, so no overall pattern shows."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-15.jpg",
         "papers/biology/img/07C-Internal-Environment-16.jpg",
         "papers/biology/img/07C-Internal-Environment-17.jpg",
         "papers/biology/img/07C-Internal-Environment-18.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q7.jpg"
       ]
     },
     {
@@ -902,14 +1003,22 @@
         "graph"
       ],
       "question": "Determine the effect of the type of water given on the mean mass of kangaroo rats, using the graph.",
-      "status": "pending",
-      "answer": "Pending: the graph of mean body mass over 16 days for each water treatment is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Mean mass falls steadily without water (120 g to 115 g in 16 days), but rises with fresh water (to about 121 g); sea water first lowers the mass slightly, then it rises to about 120.5 g.",
+      "steps": [
+        "No water: mass falls steadily with time, losing about 5 g by day 16, because water is lost in urine and breathing and not replaced.",
+        "Fresh water: mass dips slightly at first (119.8 g at day 2) then rises to about 121 g, a net gain of about 1 g.",
+        "Sea water: mass falls to about 119.2 g at day 4, then recovers to about 120.5 g by day 14 to 16, so it is less effective than fresh water but much better than none.",
+        "So giving either water type prevents the loss of mass, and the kangaroo rat copes with salty water by producing very concentrated urine."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-15.jpg",
         "papers/biology/img/07C-Internal-Environment-16.jpg",
         "papers/biology/img/07C-Internal-Environment-17.jpg",
         "papers/biology/img/07C-Internal-Environment-18.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q7-2.jpg"
       ]
     },
     {
@@ -954,12 +1063,20 @@
         "afferent arteriole"
       ],
       "question": "Complete the diagram of the Bowman capsule showing its blood supply and label two structures.",
-      "status": "pending",
-      "answer": "Pending: the partially drawn Bowman capsule diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A cup-shaped Bowman's capsule drawn round the glomerulus, with its wall labelled and the glomerulus, efferent arteriole or proximal tubule labelled.",
+      "steps": [
+        "Draw a double-walled cup enclosing the capillary knot (glomerulus), with a gap (capsule space) between the capillaries and the outer wall.",
+        "Show the capsule wall continuing into the proximal convoluted tubule at one side.",
+        "Draw the efferent arteriole leaving the glomerulus (narrower than the labelled afferent arteriole).",
+        "Label two of: Bowman's capsule, glomerulus, efferent arteriole, proximal convoluted tubule, podocytes."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-18.jpg",
         "papers/biology/img/07C-Internal-Environment-19.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q8.jpg"
       ]
     },
     {
@@ -1002,12 +1119,18 @@
         "table"
       ],
       "question": "Which row shows the route taken by a water molecule through a nephron in the kidney?",
-      "status": "pending",
-      "answer": "Pending: the table of routes is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: proximal tubule, loop of Henle, distal tubule, collecting duct",
+      "steps": [
+        "After the glomerulus, filtrate passes through the proximal convoluted tubule, then down and up the loop of Henle, then the distal convoluted tubule, and finally the collecting duct.",
+        "Only row D has this order."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-18.jpg",
         "papers/biology/img/07C-Internal-Environment-19.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q8-2.jpg"
       ]
     },
     {
@@ -1075,13 +1198,20 @@
         "antagonistic muscles"
       ],
       "question": "Which row in the table shows the energy use in muscle contraction?",
-      "status": "pending",
-      "answer": "Pending: the table with rows of energy use is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: ticks for breaking the cross bridge and removing calcium ions; cross for release of ADP and Pi",
+      "steps": [
+        "ATP binds to the myosin head to break the actin-myosin cross bridge.",
+        "ATP provides energy for the calcium pump that actively moves Ca2+ back out of the sarcoplasm.",
+        "Release of ADP and Pi is the result of ATP hydrolysis, not a use of the energy, so that column is a cross."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-20.jpg",
         "papers/biology/img/07C-Internal-Environment-21.jpg",
         "papers/biology/img/07C-Internal-Environment-22.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q9.jpg"
       ]
     },
     {
@@ -1128,13 +1258,19 @@
         "conclusions"
       ],
       "question": "State two conclusions about the mean masses of the three ostrich muscles shown in the table.",
-      "status": "pending",
-      "answer": "Pending: the table of mean muscle masses for the two ostrich types is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Zimbabwean Blue ostriches have larger mean mass of each muscle than South African Black ostriches; in both types the muscles rank T > G > F in mass.",
+      "steps": [
+        "For all three muscles the Zimbabwean Blue mean is higher (T 0.88 against 0.69 kg, G 0.74 against 0.59 kg, F 0.50 against 0.40 kg).",
+        "Within each type, muscle T has the greatest mean mass, then G, then F, the smallest."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-20.jpg",
         "papers/biology/img/07C-Internal-Environment-21.jpg",
         "papers/biology/img/07C-Internal-Environment-22.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q9-2.jpg"
       ]
     },
     {
@@ -1151,13 +1287,20 @@
         "data"
       ],
       "question": "Comment on the validity of conclusions drawn from the data for the two ostrich groups.",
-      "status": "pending",
-      "answer": "Pending: the data for the two ostrich groups (table) is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The conclusions are not very valid because only 2 Zimbabwean Blue ostriches were measured, against 34 South African Black, so the Blue sample is not representative.",
+      "steps": [
+        "n = 2 is far too small to give a reliable mean or to show a real difference, and the unequal sample sizes make comparison weak.",
+        "Standard deviations overlap for muscle T (0.69 +/- 0.10 and 0.88 +/- 0.11), so a real difference is not certain there.",
+        "Age, sex, diet and rearing conditions are not given or controlled, and no statistical test was done."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-20.jpg",
         "papers/biology/img/07C-Internal-Environment-21.jpg",
         "papers/biology/img/07C-Internal-Environment-22.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q9-2.jpg"
       ]
     },
     {
@@ -1174,13 +1317,20 @@
         "Zimbabwean Blue"
       ],
       "question": "Calculate the percentage difference in the mean mass of muscle G between the South African Black and Zimbabwean Blue ostriches (2 d.p.).",
-      "status": "pending",
-      "answer": "Pending: the mean mass values for muscle G and the full equation are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "22.56 % (muscle G is larger in the Zimbabwean Blue ostriches)",
+      "steps": [
+        "Use a = 0.59 and b = 0.74, so a - b = -0.15 and the mean of a and b = (0.59 + 0.74)/2 = 0.665.",
+        "Percentage difference = -0.15 / 0.665 x 100 = -22.56 %.",
+        "The size of the difference is 22.56 % (2 d.p.)."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-20.jpg",
         "papers/biology/img/07C-Internal-Environment-21.jpg",
         "papers/biology/img/07C-Internal-Environment-22.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q9-2.jpg"
       ]
     },
     {
@@ -1337,14 +1487,21 @@
         "graph"
       ],
       "question": "Calculate the ratio of mean urine production rate for females in the nothing, water and salt solution groups (1 s.f.).",
-      "status": "pending",
-      "answer": "Pending: the mean urine production rates for females in each group are read from the graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1 : 8 : 4",
+      "steps": [
+        "Read the female bars: nothing about 100, water about 840 and salt solution about 440 cm^3 per hour.",
+        "To 1 s.f. these are 100 : 800 : 400.",
+        "Dividing by 100 gives 1 : 8 : 4."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-22.jpg",
         "papers/biology/img/07C-Internal-Environment-23.jpg",
         "papers/biology/img/07C-Internal-Environment-24.jpg",
         "papers/biology/img/07C-Internal-Environment-25.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q10.jpg"
       ]
     },
     {
@@ -1362,14 +1519,21 @@
         "graph"
       ],
       "question": "Describe two conclusions from the results of the urine production investigation.",
-      "status": "pending",
-      "answer": "Pending: the graph of mean urine production for males and females in each group is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Drinking water gives the highest urine production in both sexes; salt solution gives more urine than nothing but far less than water; with water or salt solution, females produce more urine than males.",
+      "steps": [
+        "Urine production rate was greatest after drinking water (males about 580 and females about 840 cm^3 per hour) and lowest with nothing to drink (about 120 and 100).",
+        "Salt solution gave an intermediate rate (males about 210 and females about 440 cm^3 per hour), so the type of drink affects the volume of urine made.",
+        "With nothing to drink males made slightly more urine than females, but after water or salt solution females made more, so the response differs between sexes."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-22.jpg",
         "papers/biology/img/07C-Internal-Environment-23.jpg",
         "papers/biology/img/07C-Internal-Environment-24.jpg",
         "papers/biology/img/07C-Internal-Environment-25.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q10.jpg"
       ]
     },
     {
@@ -1399,6 +1563,9 @@
         "papers/biology/img/07C-Internal-Environment-23.jpg",
         "papers/biology/img/07C-Internal-Environment-24.jpg",
         "papers/biology/img/07C-Internal-Environment-25.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q10.jpg"
       ]
     },
     {
@@ -1664,14 +1831,20 @@
         "table"
       ],
       "question": "Calculate the percentage decrease in the rate of urine production 10 minutes after the injection (2 d.p.).",
-      "status": "pending",
-      "answer": "Pending: the table of urine production rates after the injection is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "91.43 %",
+      "steps": [
+        "Rate at 0 min = 7.0 cm^3 min^-1 and at 10 min = 0.6 cm^3 min^-1, so the decrease is 7.0 - 0.6 = 6.4.",
+        "Percentage decrease = 6.4 / 7.0 x 100 = 91.43 % (2 d.p.)."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-27.jpg",
         "papers/biology/img/07C-Internal-Environment-28.jpg",
         "papers/biology/img/07C-Internal-Environment-29.jpg",
         "papers/biology/img/07C-Internal-Environment-30.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q12.jpg"
       ]
     },
     {
@@ -1688,14 +1861,20 @@
         "minutes"
       ],
       "question": "At what times should more measurements be taken to find the lowest rate of urine production (options A to D)?",
-      "status": "pending",
-      "answer": "Pending: the table of urine production results is needed to choose the correct interval.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: at 1-minute intervals between 5 minutes and 15 minutes",
+      "steps": [
+        "The lowest measured rate is 0.6 at 10 min, but the readings at 5 min (1.1) and 15 min (1.0) are both higher, so the true minimum could lie anywhere between 5 and 15 min.",
+        "Extra readings must cover this whole range, so B is correct; A and C cover only half of it and D takes repeats at the same times."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-27.jpg",
         "papers/biology/img/07C-Internal-Environment-28.jpg",
         "papers/biology/img/07C-Internal-Environment-29.jpg",
         "papers/biology/img/07C-Internal-Environment-30.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q12.jpg"
       ]
     },
     {
@@ -1713,14 +1892,22 @@
         "explanation"
       ],
       "question": "Explain the results of the investigation in which salt solution was injected into the carotid artery, using the table.",
-      "status": "pending",
-      "answer": "Pending: the answer must be supported by the results table, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The salt solution lowers the water potential of the blood, so more ADH is released and the kidney reabsorbs more water, cutting urine production; as the blood returns to normal, ADH falls and urine production recovers.",
+      "steps": [
+        "Injected salt raises the blood solute concentration, so osmoreceptors in the hypothalamus detect the lower water potential.",
+        "The posterior pituitary releases more ADH, which makes the collecting duct more permeable to water, so more water is reabsorbed and a small volume of concentrated urine forms: the rate fell from 7.0 to 0.6 cm^3 min^-1 by 10 min.",
+        "Water reabsorption restores blood water potential, so ADH release falls (negative feedback) and urine production rises again, to 2.4 cm^3 min^-1 by 30 min.",
+        "Rate is still below the starting value at 30 min, so the blood concentration has not yet fully returned to normal."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-27.jpg",
         "papers/biology/img/07C-Internal-Environment-28.jpg",
         "papers/biology/img/07C-Internal-Environment-29.jpg",
         "papers/biology/img/07C-Internal-Environment-30.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q12.jpg"
       ]
     },
     {
@@ -1737,13 +1924,20 @@
         "image size"
       ],
       "question": "Calculate the magnification of the photograph of the Bowman capsule, given the diameter from X to Y (standard form).",
-      "status": "pending",
-      "answer": "Pending: the length of the X to Y line on the photograph (image size) is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 7.4 x 10^5 (x 740 000), using a measured length XY of about 52 mm",
+      "steps": [
+        "Measure the line X to Y on the photograph: about 52 mm (this depends on the measurement, accept about 50 to 54 mm).",
+        "Convert to the same unit as the real size: 52 mm = 52 x 10^6 nm = 5.2 x 10^7 nm.",
+        "Magnification = image size / real size = 5.2 x 10^7 / 70 = 7.4 x 10^5."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-30.jpg",
         "papers/biology/img/07C-Internal-Environment-31.jpg",
         "papers/biology/img/07C-Internal-Environment-32.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q13.jpg"
       ]
     },
     {
@@ -1985,14 +2179,21 @@
         "diagram"
       ],
       "question": "Calculate the difference in urine produced over seven days by the kangaroo rat and the human, in standard form.",
-      "status": "pending",
-      "answer": "Pending: the daily water balance values in the diagram are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1.05 x 10^4 cm^3 (10 497 cm^3) more urine in the human",
+      "steps": [
+        "Kangaroo rat urine = 0.45 cm^3 per day x 7 = 3.15 cm^3.",
+        "Human urine = 1500 cm^3 per day x 7 = 10 500 cm^3.",
+        "Difference = 10 500 - 3.15 = 10 496.85 cm^3 = 1.05 x 10^4 cm^3 in standard form."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-32.jpg",
         "papers/biology/img/07C-Internal-Environment-33.jpg",
         "papers/biology/img/07C-Internal-Environment-34.jpg",
         "papers/biology/img/07C-Internal-Environment-35.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q14.jpg"
       ]
     },
     {
@@ -2011,14 +2212,23 @@
         "sweat"
       ],
       "question": "Comment on the differences in water gain and water loss between the kangaroo rat and the human, using the diagram.",
-      "status": "pending",
-      "answer": "Pending: the water balance diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The kangaroo rat gains water mainly from metabolism and loses very little in urine, while the human drinks most of its water and loses much more in urine; this fits the rat's adaptation to dry conditions.",
+      "steps": [
+        "Gain: the kangaroo rat gets 1.8 of its 2 cm^3 (90 %) from metabolism, from respiring dry seeds, and takes in no drinking water; the human gets 1500 of 2500 cm^3 (60 %) from drinking and only 10 % from metabolism.",
+        "Loss in urine: only 0.45 of 2 cm^3 (about 23 %) in the rat but 1500 of 2500 cm^3 (60 %) in the human, because the rat has long loops of Henle and makes very concentrated urine.",
+        "Faeces are small in both (0.09 and 100 cm^3), as the rat's faeces are very dry, so little water is lost there.",
+        "Evaporation is 73 % of the rat's loss (1.46 cm^3) against 36 % in the human, as a small animal has a large surface area to volume ratio, but its total loss is still tiny and it balances its gain.",
+        "Total water gained equals total lost in each (2 and 2500 cm^3 per day), showing water balance."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-32.jpg",
         "papers/biology/img/07C-Internal-Environment-33.jpg",
         "papers/biology/img/07C-Internal-Environment-34.jpg",
         "papers/biology/img/07C-Internal-Environment-35.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q14.jpg"
       ]
     },
     {
@@ -2034,15 +2244,21 @@
         "labelled structure"
       ],
       "question": "Which labelled structure on the nephron and blood supply diagram transports blood to the renal vein (options Q, R, S, U)?",
-      "status": "pending",
-      "answer": "Pending: the labelled kidney tubule and blood supply diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: Q",
+      "steps": [
+        "R is the afferent arteriole bringing blood to the glomerulus, S is the proximal tubule and U is the collecting duct.",
+        "Q is the blood vessel (vasa recta) that runs alongside the loop of Henle and carries blood on to the venule and renal vein."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-35.jpg",
         "papers/biology/img/07C-Internal-Environment-36.jpg",
         "papers/biology/img/07C-Internal-Environment-37.jpg",
         "papers/biology/img/07C-Internal-Environment-38.jpg",
         "papers/biology/img/07C-Internal-Environment-39.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q15.jpg"
       ]
     },
     {
@@ -2059,15 +2275,22 @@
         "diagram"
       ],
       "question": "Which labelled structures would be found in the medulla region of the kidney?",
-      "status": "pending",
-      "answer": "Pending: the labelled diagram of the kidney tubule and blood supply is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: P, Q and U",
+      "steps": [
+        "P is the loop of Henle, Q the vasa recta and U the collecting duct, and all three extend down into the medulla.",
+        "R, S and T (afferent arteriole, proximal and distal convoluted tubules) lie in the cortex."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-35.jpg",
         "papers/biology/img/07C-Internal-Environment-36.jpg",
         "papers/biology/img/07C-Internal-Environment-37.jpg",
         "papers/biology/img/07C-Internal-Environment-38.jpg",
         "papers/biology/img/07C-Internal-Environment-39.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q15.jpg",
+        "papers/biology/fig/07C-Internal-Environment-Q15-2.jpg"
       ]
     },
     {
@@ -2084,15 +2307,22 @@
         "structures A and B"
       ],
       "question": "Explain how structures A and B and their locations in the proximal convoluted tubule enable reabsorption of solutes, using the micrograph.",
-      "status": "pending",
-      "answer": "Pending: the electron micrograph with labelled structures A and B is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A (microvilli) give a large surface area on the lumen side for absorption, and B (mitochondria) beside the base of the cell supply ATP for active transport of solutes into the blood.",
+      "steps": [
+        "Structure A is the microvilli (brush border) on the side facing the lumen, which greatly increases surface area in contact with the filtrate, so more glucose, amino acids and ions are reabsorbed quickly.",
+        "Structure B is the many mitochondria, which make ATP by aerobic respiration.",
+        "They lie near the base of the cell, next to the capillaries, supplying ATP for the Na+/K+ pump that keeps the sodium gradient driving co-transport, so solutes are moved efficiently into the blood."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-35.jpg",
         "papers/biology/img/07C-Internal-Environment-36.jpg",
         "papers/biology/img/07C-Internal-Environment-37.jpg",
         "papers/biology/img/07C-Internal-Environment-38.jpg",
         "papers/biology/img/07C-Internal-Environment-39.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q15-3.jpg"
       ]
     },
     {
@@ -2110,15 +2340,23 @@
         "dilute urine"
       ],
       "question": "Comment on the results of the investigation in which individuals drank 1000 cm3 of water, using the table and graph.",
-      "status": "pending",
-      "answer": "Pending: the table and graph of urine volume and composition are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Drinking water raises urine volume and lowers its ion concentration to a peak/trough at 60 minutes, then both return to the starting values by 150 minutes, showing osmoregulation by negative feedback.",
+      "steps": [
+        "Urine volume rose from 100 cm^3 at 0 min to a maximum of 325 cm^3 at 60 min, then fell back to 100 cm^3 by 150 min.",
+        "Ion concentration fell from 6.0 to a minimum of 1.8 a.u. at 60 min then rose back to 6.0, so the urine was most dilute when the volume was greatest; total ions (volume x concentration) stayed about 590 to 600, so only water excretion changed.",
+        "Mass of urea also peaked at 60 min (about 6.4 a.u., up from 2.0) and then fell back to 2.0 a.u. at 150 min.",
+        "Explanation: the extra water lowered the blood solute concentration, so osmoreceptors cut ADH release, collecting duct permeability fell and less water was reabsorbed; as blood concentration returned to normal, ADH rose again and urine returned to its original state."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-35.jpg",
         "papers/biology/img/07C-Internal-Environment-36.jpg",
         "papers/biology/img/07C-Internal-Environment-37.jpg",
         "papers/biology/img/07C-Internal-Environment-38.jpg",
         "papers/biology/img/07C-Internal-Environment-39.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q15-4.jpg"
       ]
     },
     {
@@ -2149,6 +2387,9 @@
         "papers/biology/img/07C-Internal-Environment-37.jpg",
         "papers/biology/img/07C-Internal-Environment-38.jpg",
         "papers/biology/img/07C-Internal-Environment-39.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q15-5.jpg"
       ]
     },
     {
@@ -2216,13 +2457,20 @@
         "one day"
       ],
       "question": "Calculate the volume of urine produced in one day with an ADH concentration of 75%, assuming ADH stays constant (standard form).",
-      "status": "pending",
-      "answer": "Pending: the urine production rate at 75% ADH is in the table, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "2.16 x 10^3 cm^3",
+      "steps": [
+        "From the table, at 75 % of maximum ADH the rate of urine production is 1.5 cm^3 min^-1.",
+        "One day = 24 x 60 = 1440 min, so volume = 1.5 x 1440 = 2160 cm^3.",
+        "In standard form this is 2.16 x 10^3 cm^3."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-39.jpg",
         "papers/biology/img/07C-Internal-Environment-40.jpg",
         "papers/biology/img/07C-Internal-Environment-41.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q16.jpg"
       ]
     },
     {
@@ -2250,6 +2498,9 @@
         "papers/biology/img/07C-Internal-Environment-39.jpg",
         "papers/biology/img/07C-Internal-Environment-40.jpg",
         "papers/biology/img/07C-Internal-Environment-41.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q16.jpg"
       ]
     },
     {
@@ -2293,12 +2544,19 @@
         "molecules formed"
       ],
       "question": "Complete the diagram to show the molecule formed when the two amino acids join together (dipeptide).",
-      "status": "pending",
-      "answer": "Pending: the diagram of the two amino acids is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A dipeptide HO-C(=O)-C(R)(H)-N(H)-C(=O)-C(R)(H)-N(H)-H with a peptide bond between the left N and the right C(=O), plus a water molecule H2O.",
+      "steps": [
+        "Remove the OH from the carboxyl group of the right-hand amino acid and one H from the amino group of the left-hand amino acid.",
+        "Join the C of the right molecule's carboxyl to the N of the left molecule with a new C-N peptide bond: ...C(R)(H)-N(H)-C(=O)-C(R)(H)-N(H)-H, keeping the free HO-C(=O) at the far left.",
+        "Draw the removed OH and H as the second product, water (H2O)."
+      ],
       "images": [
         "papers/biology/img/07C-Internal-Environment-41.jpg",
         "papers/biology/img/07C-Internal-Environment-42.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/07C-Internal-Environment-Q17.jpg"
       ]
     },
     {

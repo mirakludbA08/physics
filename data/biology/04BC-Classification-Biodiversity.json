@@ -2254,6 +2254,9 @@
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-045.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-046.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q19.jpg"
       ]
     },
     {
@@ -2412,13 +2415,19 @@
         "behavioural"
       ],
       "question": "Complete the table showing the type of each of the tortoise's adaptations (long neck, arched shell).",
-      "status": "pending",
-      "answer": "Pending: the table to complete is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Long neck: anatomical; shell that arches above neck: anatomical; making themselves look as large as possible: behavioural.",
+      "steps": [
+        "A long neck and a raised shell are structural features of the body, so they are anatomical adaptations.",
+        "Making themselves look big during a dispute is something the animal does (stretching the neck and raising the body), so it is a behavioural adaptation."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-049.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-050.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-051.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q21b.jpg"
       ]
     },
     {
@@ -2463,13 +2472,20 @@
         "tortoise"
       ],
       "question": "Using the diagram of offspring and fathers, calculate the percentage of female 10's offspring that were fathered by male B.",
-      "status": "pending",
-      "answer": "Pending: the breeding diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "66.7% (about 67%)",
+      "steps": [
+        "Female 10 has 27 offspring in total (the height of the bar).",
+        "Father A (dark part) fathered 9 of them, and father B (grey part) fathered the rest, 27 - 9 = 18 (there is no part for male C).",
+        "Percentage fathered by B = 18 / 27 x 100 = 66.7%."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-049.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-050.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-051.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q21c.jpg"
       ]
     },
     {
@@ -2586,6 +2602,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-055.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-056.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-057.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q22a.jpg"
       ]
     },
     {
@@ -2602,9 +2621,13 @@
         "yellowstone"
       ],
       "question": "Using the graph, describe the relationship between elk density and mean beaver lifespan.",
-      "status": "pending",
-      "answer": "Pending: the graph of mean beaver lifespan against elk per km2 is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "There is a negative relationship: as the number of elk per km^2 increases, the mean beaver lifespan falls, steeply from 30 to 60 elk km^-2, and levels off at about 20 years above 80 elk km^-2.",
+      "steps": [
+        "Negative correlation: the mean beaver lifespan is highest (about 76 years) at the lowest elk density shown (30 elk per km^2) and falls as the number of elk rises.",
+        "The fall is steep at first (about 76 at 30, 45 at 40, 37 at 50 and 28 at 60 elk per km^2), and then more gradual (22 at 70 elk per km^2).",
+        "Above about 80 elk per km^2 the lifespan stays constant at about 20 years, so more elk beyond this density has no further effect."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-051.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-052.jpg",
@@ -2613,6 +2636,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-055.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-056.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-057.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q22b.jpg"
       ]
     },
     {
@@ -2693,9 +2719,15 @@
         "yellowstone"
       ],
       "question": "Discuss the effect of the introduction of wolves on the biodiversity of Yellowstone, using all the information in the question and its graphs.",
-      "status": "pending",
-      "answer": "Pending: depends on the wolf, elk, beaver and cottonwood graphs, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Wolves reduced the number of elk, so young shoots survived and grew into trees, which supported more beaver colonies that created ponds; so biodiversity increased (a trophic cascade).",
+      "steps": [
+        "After wolves (predators of elk) were introduced in 1995, the number of wolves rose to about 100 (2003) and the number of elk fell from about 17 000 to about 6 000, and the percentage of young shoots eaten fell from 100% to 19% in the forest and 2% in the riverside habitat.",
+        "With less grazing, young cottonwood shoots over 5 cm tall rose from 0 (before 2004) to about 160 in 2010, so more trees grew, giving more food, shelter and nesting sites for other organisms (birds and insects) and stabilising the river banks.",
+        "Beavers use trees to build dams, and the number of beaver colonies rose from about 1 (to 1999) to about 12 in 2009; beaver lifespan is longer when elk density is lower, which also helps.",
+        "Beaver dams create new habitats such as ponds, which support more species (fish, amphibians, invertebrates, water birds), and wolf kills feed scavengers, so overall the species richness and biodiversity increase.",
+        "The wolves act as a keystone predator, so the effects pass through the food web; but the data show correlations only, there are time lags (cottonwood after 2003), and other factors such as climate or hunting may also contribute."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-051.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-052.jpg",
@@ -2704,6 +2736,12 @@
         "papers/biology/img/04BC-Classification-Biodiversity-055.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-056.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-057.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q22a.jpg",
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q22b.jpg",
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q22d.jpg",
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q22d-2.jpg"
       ]
     },
     {
@@ -2720,9 +2758,13 @@
         "chromatids"
       ],
       "question": "Draw one body cell of a female Indian muntjac showing the arrangement of chromosomes in anaphase of mitosis.",
-      "status": "pending",
-      "answer": "Pending: requires a drawing, which cannot be given as text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Draw a cell with a spindle and 6 V-shaped chromosomes at each pole (12 in all), with the centromeres nearest the poles and the arms trailing towards the equator.",
+      "steps": [
+        "The female Indian muntjac has 3 pairs (6 chromosomes), so after DNA replication it has 6 chromosomes, each of 2 chromatids.",
+        "In anaphase the centromeres divide and the sister chromatids are pulled apart to opposite poles, so draw 6 single chromatids moving to each end of the cell (12 in total).",
+        "Draw each chromatid as a V (or J) shape with the centromere leading towards the pole, spindle fibres from the poles to the centromeres, and a cell outline (with no nucleus visible and the cell perhaps starting to elongate)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-057.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-058.jpg",
@@ -2744,14 +2786,21 @@
         "proportion"
       ],
       "question": "Calculate the angle representing anaphase on the pie chart, given interphase lasts 9 hours and anaphase 20 minutes.",
-      "status": "pending",
-      "answer": "Pending: the pie chart shows the other cell cycle phases, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "10 degrees",
+      "steps": [
+        "Interphase takes 9 hours and is shown as 270 degrees on the pie chart, so 1 hour is 30 degrees.",
+        "Anaphase lasts 20 minutes = 1/3 hour.",
+        "Angle = 1/3 x 30 = 10 degrees."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-057.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-058.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-059.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-060.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q23a.jpg"
       ]
     },
     {
@@ -2855,12 +2904,19 @@
         "eukarya"
       ],
       "question": "Complete the plant cell diagram by drawing and labelling an amyloplast, a chloroplast and the tonoplast.",
-      "status": "pending",
-      "answer": "Pending: requires the incomplete plant cell diagram and a drawing.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Draw a small oval chloroplast near the cell wall, a similar-sized amyloplast (with starch granules) near the wall, and a large vacuole in the centre with a line around it (the tonoplast); label all three.",
+      "steps": [
+        "Tonoplast: draw a large rounded outline taking up most of the middle of the cell (the permanent vacuole) and label the line around it as tonoplast (the single membrane around the vacuole), leaving a thin cytoplasm layer and the nucleus at the edge.",
+        "Chloroplast: draw one or more small oval organelles (smaller than the nucleus, about a quarter of its diameter) in the cytoplasm near the cell wall, with internal grana, and label chloroplast.",
+        "Amyloplast: draw a small round or oval organelle of a similar size, with dots (starch granules) inside, in the cytoplasm and label amyloplast; all three should be inside the cell wall and have label lines."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-060.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-061.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q24a.jpg"
       ]
     },
     {
@@ -2877,12 +2933,18 @@
         "identification"
       ],
       "question": "State the function of the organelle shown in the electron micrograph of a plant cell.",
-      "status": "pending",
-      "answer": "Pending: the organelle must be identified from the micrograph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The organelle is the Golgi apparatus; it modifies and packages proteins (and lipids) into vesicles for secretion or use in the cell.",
+      "steps": [
+        "The electron micrograph shows a stack of flattened, curved membrane-bound sacs with vesicles at the edges, which is the Golgi apparatus.",
+        "Its function is to modify proteins (for example by adding carbohydrate to make glycoproteins), and package them in vesicles that are carried to the cell surface membrane for secretion; in plants it also makes cell wall materials."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-060.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-061.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q24b.jpg"
       ]
     },
     {
@@ -2899,12 +2961,20 @@
         "domains"
       ],
       "question": "Complete the table showing in which domains (Archaea, Bacteria, Eukarya) given structures would be found.",
-      "status": "pending",
-      "answer": "Pending: the structures table is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Cell membrane: more than one domain; nucleolus: Eukarya only; cell wall: more than one domain; 70S ribosome: more than one domain.",
+      "steps": [
+        "A cell surface membrane is found in all cells, so it is in more than one domain.",
+        "The nucleolus is found in the nucleus, so only in Eukarya.",
+        "Cell walls are found in Bacteria (peptidoglycan), Archaea and in plants and fungi (Eukarya), so more than one domain.",
+        "70S ribosomes are found in Archaea and Bacteria (and in mitochondria and chloroplasts), whereas the cytoplasm of Eukarya has 80S ribosomes, so more than one domain."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-060.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-061.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q24c.jpg"
       ]
     },
     {
@@ -2949,13 +3019,19 @@
         "drawing"
       ],
       "question": "Complete the diagram of a prokaryotic cell by drawing and labelling a flagellum and a plasmid.",
-      "status": "pending",
-      "answer": "Pending: requires the partly drawn diagram and a drawing.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Draw and label a long curved flagellum attached to the cell surface, and a small circle (plasmid) in the cytoplasm.",
+      "steps": [
+        "Flagellum: draw a long, wavy or spiral thread that starts at the cell surface, passes through the cell wall and extends well out of the cell (longer than the pili), and label it flagellum.",
+        "Plasmid: draw a small separate ring (circle) inside the cell, in the cytoplasm and away from the main chromosome, and label it plasmid."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-061.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-062.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-063.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q25b.jpg"
       ]
     },
     {
@@ -3112,13 +3188,22 @@
         "table"
       ],
       "question": "Explain how the Hawaii amakihi and palila honeycreepers could have evolved from the same common ancestor, using the table.",
-      "status": "pending",
-      "answer": "Pending: depends on the table of the two species, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "An ancestral honeycreeper population reached the islands and split into populations in different habitats with different foods; natural selection acted differently on each, so they diverged until they could no longer interbreed, forming separate species.",
+      "steps": [
+        "The two species share a common ancestor: a population of ancestral honeycreepers colonised the Hawaiian islands and spread, so some populations became separated on different islands and in different habitats (geographical isolation and ecological isolation).",
+        "The table shows differences in selection pressure: amakihi live in lowland and mountainous forest and shrubland on 3 islands and eat nectar, tree sap, spiders and insects, whereas palila live only in mountainous forest on 1 island and eat seeds and berries.",
+        "Random mutations produced different alleles (for example for bill shape and size); individuals whose alleles suited the local food (for example a strong bill for seeds) survived and reproduced more, so those alleles increased in frequency (natural selection) and each population became adapted to its own habitat and food.",
+        "Different habitats and the small size of the palila population (fewer than 1000 birds) also mean allele frequencies changed by genetic drift and the founder effect.",
+        "After many generations the gene pools were so different that the birds could no longer interbreed to produce fertile offspring (reproductive isolation), so they are now different species (allopatric speciation, with possibly some sympatric divergence in food)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-063.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-064.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-065.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q26b.jpg"
       ]
     },
     {
@@ -3209,6 +3294,10 @@
         "papers/biology/img/04BC-Classification-Biodiversity-067.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-068.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-069.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q27b.jpg",
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q27b-2.jpg"
       ]
     },
     {
@@ -3225,15 +3314,23 @@
         "biodiversity"
       ],
       "question": "Using the table and formula, determine which crater lake has the higher cichlid biodiversity, given D = 2.8 for Lake Xiloa.",
-      "status": "pending",
-      "answer": "Pending: needs the Lake Apoyo data table, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Lake Apoyo has the higher cichlid biodiversity: D = 3.1 compared with 2.8 for Lake Xiloa (D = 3.05).",
+      "steps": [
+        "Fill in the missing value for A. zaliosus: n(n - 1) = 12 x 11 = 132.",
+        "Sum of n(n - 1) = 24 180 + 1980 + 6006 + 56 + 272 + 132 = 32 626, and N(N - 1) = 316 x 315 = 99 540.",
+        "D = 99 540 / 32 626 = 3.05, so D is about 3.1 for Lake Apoyo.",
+        "A higher index of diversity means higher biodiversity, so Lake Apoyo (3.1) is more diverse than Lake Xiloa (2.8)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-065.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-066.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-067.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-068.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-069.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q27c.jpg"
       ]
     },
     {
@@ -3264,6 +3361,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-067.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-068.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-069.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q27d.jpg"
       ]
     },
     {
@@ -3471,6 +3571,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-074.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-075.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-076.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q29a.jpg"
       ]
     },
     {
@@ -3501,6 +3604,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-074.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-075.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-076.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q29a.jpg"
       ]
     },
     {
@@ -3577,15 +3683,23 @@
         "results"
       ],
       "question": "Using the graph of pain relief duration for tetrodotoxin and the current drug, comment on the results.",
-      "status": "pending",
-      "answer": "Pending: the graph of pain relief duration is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Tetrodotoxin gives pain relief for much longer than the current drug: it works for up to about 450 hours (a few patients), while the current drug stops working by about 20 to 30 hours; most patients get less than 50 hours of relief with either drug.",
+      "steps": [
+        "Both curves fall steeply: most patients have a short period of pain relief (for most, the number of patients with long relief is very low).",
+        "The current drug (dashed line) falls to zero by about 25 to 30 hours, so nobody has relief for longer than about a day.",
+        "Tetrodotoxin (solid line) has a long tail: a small number of patients still have pain relief at 100 hours, 200 hours and up to about 450 hours, which is more than 15 times as long as for the current drug.",
+        "So tetrodotoxin appears to be more effective at providing long-lasting relief; but the graph does not give the number of patients, the dose, side effects or the average, and there is no statistical test, so a large phase III trial is needed."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-072.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-073.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-074.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-075.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-076.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q29c.jpg"
       ]
     },
     {
@@ -3602,14 +3716,21 @@
         "tonnes"
       ],
       "question": "Calculate the expected mass of eggplants imported by France in 2023, given the 2020 mass in the table and a 1.6 % annual increase.",
-      "status": "pending",
-      "answer": "Pending: the 2020 import table is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "55 472 tonnes",
+      "steps": [
+        "France imported 52 892 tonnes in 2020, and the increase of 1.6% per year is compounded, so multiply by 1.016 each year.",
+        "From 2020 to 2023 is 3 years: 52 892 x 1.016^3 = 52 892 x 1.0487 = 55 471.65.",
+        "To the nearest whole number the mass is 55 472 tonnes."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-076.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-077.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-078.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-079.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q30a.jpg"
       ]
     },
     {
@@ -3626,14 +3747,21 @@
         "table"
       ],
       "question": "How many of the eggplant varieties tested were categorised as susceptible to R. solanacearum? A none B one C two D three.",
-      "status": "pending",
-      "answer": "Pending: depends on the disease index table, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: two",
+      "steps": [
+        "Susceptible means a disease index (DI) of more than 50.",
+        "Variety B has DI 61.3 and variety C has DI 89.2, so these are susceptible; A (45.8) is moderately susceptible and D (9.2) is resistant.",
+        "So two varieties are susceptible."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-076.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-077.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-078.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-079.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q30b.jpg"
       ]
     },
     {
@@ -3692,6 +3820,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-077.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-078.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-079.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q30b.jpg"
       ]
     },
     {
@@ -3720,6 +3851,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-079.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-080.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-081.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q31a.jpg"
       ]
     },
     {
@@ -3736,13 +3870,20 @@
         "micrograph"
       ],
       "question": "Calculate the magnification of the chloroplast shown in photograph B, to two significant figures.",
-      "status": "pending",
-      "answer": "Pending: needs the image and actual size measurements from photograph B, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "x17 000 (1.7 x 10^4)",
+      "steps": [
+        "Magnification = length of scale bar in the image / actual length it represents.",
+        "The 1.5 um bar measures about 25 mm on the printed page (88 px at 745 px per 210 mm = 24.8 mm); a ruler should give 24 mm to 26 mm.",
+        "Convert: 25 mm = 25 000 um, so magnification = 25 000 / 1.5 = 16 667, which is x17 000 to 2 significant figures (16 537 using 24.8 mm)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-079.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-080.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-081.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q31b.jpg"
       ]
     },
     {
@@ -3771,6 +3912,10 @@
         "papers/biology/img/04BC-Classification-Biodiversity-079.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-080.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-081.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q31a.jpg",
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q31b.jpg"
       ]
     },
     {
@@ -3815,13 +3960,19 @@
         "centriole"
       ],
       "question": "Name and give the function of the animal-cell structure shown in the photograph of algal cells.",
-      "status": "pending",
-      "answer": "Pending: the structure must be identified from the photograph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Centriole (a ring of nine triplets of microtubules); it makes the spindle fibres (organises microtubules) for nuclear division.",
+      "steps": [
+        "The photograph shows a small cylinder seen end-on, made of a ring of nine triplets of microtubules with no membrane, which is a centriole.",
+        "Centrioles organise the microtubules that form the spindle during mitosis and meiosis, so that chromosomes or chromatids are pulled apart (in some algae and animal cells they also form the base of cilia and flagella)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-079.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-080.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-081.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q31c.jpg"
       ]
     },
     {
@@ -3896,14 +4047,20 @@
         "relationship"
       ],
       "question": "State the relationship shown in the graph between mean sperm length and swimming speed of 30 cichlid species.",
-      "status": "pending",
-      "answer": "Pending: the graph of sperm length against swimming speed is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Positive correlation: the longer the sperm cell, the faster it swims.",
+      "steps": [
+        "The points rise from about 50 um s^-1 at about 14.5 um length to about 70 to 90 um s^-1 at lengths of 24 to 32 um.",
+        "So as the mean sperm length increases the mean swimming speed increases (a positive correlation), although the points are scattered and the relationship is stronger at short lengths than at long ones."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-081.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-082.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-083.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-084.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q32b.jpg"
       ]
     },
     {
@@ -3933,6 +4090,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-082.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-083.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-084.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q32b.jpg"
       ]
     },
     {
@@ -3978,14 +4138,21 @@
         "identification"
       ],
       "question": "Which labelled structure (W, X, Y or Z) in the diagram of a sperm cell is the acrosome?",
-      "status": "pending",
-      "answer": "Pending: the labelled sperm cell diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: W",
+      "steps": [
+        "The acrosome is a membrane-bound sac (a specialised lysosome) that caps the front of the sperm head, over the nucleus, and contains hydrolytic enzymes.",
+        "W points to the clear sac-like cap at the front of the head, which is the acrosome.",
+        "X points to the cell surface membrane and cytoplasm at the outside of the head, Y is the nucleus and Z is the mid-piece containing mitochondria."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-081.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-082.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-083.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-084.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q32c.jpg"
       ]
     },
     {
@@ -4002,14 +4169,21 @@
         "scale"
       ],
       "question": "Calculate the magnification of the sperm cell shown in the diagram, to two significant figures.",
-      "status": "pending",
-      "answer": "Pending: needs the diagram measurements, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "x750 (7.5 x 10^2)",
+      "steps": [
+        "Magnification = length of scale bar in the image / actual length it represents.",
+        "The 60 um scale bar measures about 45 mm on the printed page (159 px at 745 px per 210 mm = 44.8 mm); a ruler should give 44 mm to 46 mm.",
+        "Convert: 45 mm = 45 000 um, so magnification = 45 000 / 60 = 750 (x750 to 2 s.f.)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-081.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-082.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-083.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-084.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q32c.jpg"
       ]
     },
     {
@@ -4039,6 +4213,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-082.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-083.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-084.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q32c.jpg"
       ]
     },
     {
@@ -4171,14 +4348,21 @@
         "graph"
       ],
       "question": "Explain the results for bacteria A and B shown in the graph of growth rate against oxygen concentration.",
-      "status": "pending",
-      "answer": "Pending: depends on the growth rate graph for bacteria A and B, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Bacteria A grows best at low oxygen (about 1%), and growth falls to zero by about 3.3% because higher oxygen is harmful (microaerophile); bacteria B grows faster as oxygen rises up to about 1.5% and then stays at the maximum, so it needs oxygen (obligate aerobe).",
+      "steps": [
+        "Bacteria B: growth rate is almost zero with no oxygen, rises steeply as oxygen increases to about 1.5%, and then levels off (a plateau) up to 5%; it needs oxygen for aerobic respiration to make ATP, and growth is then limited by other factors.",
+        "Bacteria A: growth rate is highest at 0 to 1.5% oxygen (growth occurs with little oxygen), and falls sharply above about 1.5% to 2% to zero at about 3.3%; so it needs only a little oxygen and is damaged by higher concentrations (a microaerophile, or oxygen produces toxic free radicals).",
+        "So the two types differ in their tolerance of oxygen: B is an aerobe, A is intolerant of high concentrations of oxygen; the scatter in A's points at about 1.5% shows variation between repeats."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-084.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-085.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-086.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-087.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q33c.jpg"
       ]
     },
     {
@@ -4209,6 +4393,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-089.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-090.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-091.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q34a.jpg"
       ]
     },
     {
@@ -4239,6 +4426,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-089.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-090.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-091.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q34d.jpg"
       ]
     },
     {
@@ -4255,15 +4445,22 @@
         "calculation"
       ],
       "question": "Calculate the percentage decrease in the number of wild snow leopards from 2002 to 2022, using the graph, to one decimal place.",
-      "status": "pending",
-      "answer": "Pending: the population values are read from the graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "83.1%",
+      "steps": [
+        "Read the graph: about 7100 snow leopards in 2002 and about 1200 in 2022.",
+        "Decrease = 7100 - 1200 = 5900.",
+        "Percentage decrease = 5900 / 7100 x 100 = 83.1%."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-087.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-088.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-089.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-090.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-091.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q34c.jpg"
       ]
     },
     {
@@ -4310,15 +4507,22 @@
         "subspecies"
       ],
       "question": "Using the map scale, calculate the width of the desert region shown by line X, in km, in standard form.",
-      "status": "pending",
-      "answer": "Pending: needs the map scale and length of line X, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 3 x 10^2 km (about 320 km)",
+      "steps": [
+        "The scale bar shows that 1000 km is about 86 px on this page (0 to 1000), and line X is about 27 to 28 px long.",
+        "Width = 27.5 / 86 x 1000 = about 320 km (for a ruler measurement, compare X with the 1000 km bar).",
+        "In standard form this is about 3.2 x 10^2 km (3 x 10^2 km to 1 significant figure)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-087.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-088.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-089.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-090.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-091.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q34d.jpg"
       ]
     },
     {
@@ -4351,6 +4555,10 @@
         "papers/biology/img/04BC-Classification-Biodiversity-089.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-090.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-091.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q34d.jpg",
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q34d-2.jpg"
       ]
     },
     {
@@ -4397,13 +4605,20 @@
         "table"
       ],
       "question": "Which row of the table describes the markings, poisons and body inflation of Canthigaster valenti?",
-      "status": "pending",
-      "answer": "Pending: the table rows are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: anatomical, physiological, behavioural",
+      "steps": [
+        "The markings on the skin (the colour and pattern) are a structural feature, so they are anatomical.",
+        "Production of poison is a biochemical process in the body, so it is physiological.",
+        "Inflating the body is the way the fish acts when threatened, so it is behavioural: row B."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-091.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-092.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-093.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q35a.jpg"
       ]
     },
     {
@@ -4432,6 +4647,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-091.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-092.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-093.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q35b.jpg"
       ]
     },
     {
@@ -4646,14 +4864,23 @@
         "changes"
       ],
       "question": "Describe the changes in biodiversity along the Rideau River, using the graph of biodiversity index values.",
-      "status": "pending",
-      "answer": "Pending: depends on the biodiversity index graph for four river sections, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Overall biodiversity falls downstream: Section 4 is poorest (birds moderate, mussels poor at 0.4, plants moderate at 0.5), while fish stay highest in every section (2.5 to 2.9) and mussels fall steadily from 1.4 to 0.4.",
+      "steps": [
+        "Birds: the index is 1.6 in Section 1 and 1.5 in Sections 2 and 3 (good biodiversity), but falls to 1.0 in Section 4, which is only moderate biodiversity.",
+        "Fish: the index is the highest of any group in every section (2.5, 2.9, 2.6 and 2.5), with a peak in Section 2 where it is good; in the other sections it is moderate (a high value does not mean good biodiversity because the categories differ between groups).",
+        "Mussels: biodiversity decreases along the river, from 1.4 (good) in Section 1 to 0.7 (moderate) in Sections 2 and 3 and 0.4 (poor) in Section 4, which is the only poor category.",
+        "Aquatic plants: 0.9 in Section 1 and 1.0 in Section 2 (good), no data in Section 3, and 0.5 (moderate) in Section 4, so the biodiversity of plants is also lower at the end.",
+        "So Section 1 has the best overall biodiversity (3 good and 1 moderate) and Section 4 the worst (no good, 3 moderate and 1 poor); the cause could be pollution or human activity increasing downstream, but the graph alone does not show this."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-095.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-096.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-097.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-098.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q37b.jpg"
       ]
     },
     {
@@ -4683,6 +4910,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-096.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-097.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-098.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q37b.jpg"
       ]
     },
     {
@@ -4699,14 +4929,20 @@
         "data"
       ],
       "question": "Complete the student's table of data for aquatic plants in Section 3.",
-      "status": "pending",
-      "answer": "Pending: the student's table and the index equation are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "(n - 1): 7, 5, 2, 1, 8, 1, 1, 5, 4, 1, 2; n(n - 1): 56, 30, 6, 2, 72, 2, 2, 30, 20, 2, 6.",
+      "steps": [
+        "For each species (n = 8, 6, 3, 2, 9, 2, 2, 6, 5, 2, 3 in the order of the table), subtract 1 to get (n - 1): 7, 5, 2, 1, 8, 1, 1, 5, 4, 1, 2.",
+        "Multiply n by (n - 1) to get n(n - 1): 56, 30, 6, 2, 72, 2, 2, 30, 20, 2, 6."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-095.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-096.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-097.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-098.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q37d.jpg"
       ]
     },
     {
@@ -4723,14 +4959,21 @@
         "data"
       ],
       "question": "Calculate the biodiversity index value for aquatic plants in Section 3 of the river using the student's table.",
-      "status": "pending",
-      "answer": "Pending: needs the student's data table and the index equation, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "9.9",
+      "steps": [
+        "N = total number of plants = 8 + 6 + 3 + 2 + 9 + 2 + 2 + 6 + 5 + 2 + 3 = 48, so N(N - 1) = 48 x 47 = 2256.",
+        "Sum of n(n - 1) = 56 + 30 + 6 + 2 + 72 + 2 + 2 + 30 + 20 + 2 + 6 = 228.",
+        "D = N(N - 1) / sum of n(n - 1) = 2256 / 228 = 9.89, so D = 9.9."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-095.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-096.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-097.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-098.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q37d.jpg"
       ]
     },
     {
@@ -4831,13 +5074,21 @@
         "viability"
       ],
       "question": "Describe how each of the effects of freezing on the tapir sperm, listed in the table, could be determined.",
-      "status": "pending",
-      "answer": "Pending: the table of effects of freezing is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Moving: observe a sample under a light microscope and count the percentage that move; straight-line swimming: record the paths of sperm (video or time-lapse) and measure how straight they are; acrosome: stain the sperm and count the percentage with an intact acrosome under a microscope.",
+      "steps": [
+        "Percentage of sperm capable of moving: put a drop of sperm on a slide and observe under a light microscope, counting moving and non-moving sperm in a number of fields of view, then calculate the percentage that move.",
+        "Ability to swim in a straight line: video or time-lapse photograph the swimming sperm and trace their paths, then measure how straight the paths are (for example the straight-line distance compared with the path length), and take the mean for many sperm.",
+        "Percentage with an undamaged acrosome: stain the sperm so that the acrosome can be seen (or use a stain or antibody specific to it), view with a microscope and count the number with a complete acrosome out of the total.",
+        "Compare freshly collected and frozen then thawed samples, using the same number of sperm and repeats."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-099.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-100.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-101.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q38c.jpg"
       ]
     },
     {
@@ -4866,6 +5117,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-099.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-100.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-101.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q38c.jpg"
       ]
     },
     {
@@ -4882,15 +5136,22 @@
         "human egg"
       ],
       "question": "State the letter that shows the zona pellucida on the student's diagram of a human egg cell.",
-      "status": "pending",
-      "answer": "Pending: the labelled egg cell diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Z",
+      "steps": [
+        "The zona pellucida is the layer of glycoproteins that surrounds the egg cell membrane and lies inside the layer of follicle cells.",
+        "W points to one of the outer follicle cells (corona radiata), X points to the egg cytoplasm and Y points to the nucleus.",
+        "Z points to the pale outer layer between the follicle cells and the cell, which is the zona pellucida."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-101.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-102.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-103.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-104.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-105.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q39a.jpg"
       ]
     },
     {
@@ -4921,6 +5182,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-103.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-104.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-105.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q39a.jpg"
       ]
     },
     {
@@ -4967,15 +5231,22 @@
         "calculation"
       ],
       "question": "Calculate the acrosome to nucleus ratio for the reed bunting sperm cell shown in the table.",
-      "status": "pending",
-      "answer": "Pending: the table of acrosome and nucleus sizes is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 4.4 : 1 (4.3 to 4.4)",
+      "steps": [
+        "Measure the acrosome and the nucleus on the reed bunting drawing (the two lines on the right): the acrosome is about 115 mm and the nucleus about 26 mm on the printed page (409 px and 94 px).",
+        "Ratio = acrosome length / nucleus length = 409 / 94 = 4.35.",
+        "So the acrosome to nucleus ratio is about 4.4 : 1 (a ruler measurement should give about 4.3 to 4.4)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-101.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-102.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-103.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-104.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-105.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q39b.jpg"
       ]
     },
     {
@@ -4992,15 +5263,24 @@
         "birds"
       ],
       "question": "Explain how the acrosome to nucleus ratio and helical membrane width are related to the reproductive behaviour of these birds, using the table and graph.",
-      "status": "pending",
-      "answer": "Pending: depends on the bird table and the helical membrane graph, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The reed bunting female mates with several males, so sperm compete; its sperm have a larger acrosome to nucleus ratio (about 4.4 against 0.7) and a wider helical membrane, which make them swim faster and more likely to fertilise the egg first, whereas the nuthatch has one partner so there is no sperm competition.",
+      "steps": [
+        "The nuthatch female has one male partner, so there is no sperm competition; the nuthatch sperm has a narrow helical membrane and a small acrosome to nucleus ratio (about 0.7).",
+        "The reed bunting female mates with several males in a short time, so the sperm of different males compete to fertilise the egg; its sperm have a wide helical membrane and a large acrosome to nucleus ratio (about 4.4).",
+        "The graph shows that as the width of the helical membrane increases the swimming speed increases from about 70 to about 115 um s^-1 (about 64% faster), levelling off at the widest membranes; the ratio of acrosome to nucleus also increases speed.",
+        "Faster sperm are more likely to reach and fertilise the egg first, so males with these sperm have greater reproductive success and pass on the alleles for them (sexual selection), so sperm competition has selected for these adaptations in the reed bunting."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-101.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-102.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-103.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-104.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-105.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q39b.jpg",
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q39b-2.jpg"
       ]
     },
     {
@@ -5047,15 +5327,22 @@
         "genotype"
       ],
       "question": "Complete the table showing how many of 100 cats would be homozygous dominant and how many heterozygous, using p^2 + 2pq + q^2 = 1.",
-      "status": "pending",
-      "answer": "Pending: the population table with allele frequency values is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "BB: 36 cats; Bb: 48 cats",
+      "steps": [
+        "bb = q^2 = 16 / 100 = 0.16, so q = square root of 0.16 = 0.4.",
+        "p = 1 - q = 0.6, so p^2 = 0.36 (BB) and 2pq = 2 x 0.6 x 0.4 = 0.48 (Bb).",
+        "Number of cats: BB = 0.36 x 100 = 36 and Bb = 0.48 x 100 = 48 (check: 36 + 48 + 16 = 100)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-101.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-102.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-103.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-104.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-105.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q39d.jpg"
       ]
     },
     {
@@ -5100,13 +5387,20 @@
         "diagram"
       ],
       "question": "Draw three labelled features on the outline diagram of a bacterial cell that may be found in a prokaryotic cell.",
-      "status": "pending",
-      "answer": "Pending: requires the outline diagram and drawn labels.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Any three of: flagellum, plasmid (small ring of DNA), capsule, pili, ribosomes (70S), circular DNA (nucleoid), each drawn inside or on the cell and labelled.",
+      "steps": [
+        "Plasmid: draw a small separate ring (circle) in the cytoplasm and label it plasmid.",
+        "Circular DNA (nucleoid): draw a larger coiled loop of DNA free in the cytoplasm, with no membrane around it, and label it circular DNA or nucleoid.",
+        "Flagellum: draw a long wavy thread attached to the surface passing out through the cell wall, labelled flagellum; or capsule: a slime layer outside the cell wall; or pili: short thin hairs on the surface; or small dots labelled ribosomes (70S) in the cytoplasm."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-105.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-106.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-107.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q40a.jpg"
       ]
     },
     {
@@ -5123,13 +5417,23 @@
         "gut"
       ],
       "question": "Explain the distribution of bacteria in the human digestive system, using the organ diagram and table of conditions.",
-      "status": "pending",
-      "answer": "Pending: depends on the digestive system diagram and conditions table, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Numbers rise from the stomach (10^3 per cm^3) to the colon (10^12 per cm^3) because pH becomes less acidic, oxygen falls and food stays for longer; each type of bacterium is found where the pH and oxygen suit it.",
+      "steps": [
+        "Stomach: the pH is 1 to 3 (very acidic), which denatures the enzymes of most bacteria and kills them, and the oxygen content is high, so only 10^3 bacteria per cm^3 and acid-tolerant types such as Lactobacillus and Helicobacter survive.",
+        "Duodenum: the pH is 6 to 7 (close to neutral), but food moves through quickly and enzymes and bile are secreted, so the number is still low (10^3); Lactobacillus and Streptococcus can tolerate the oxygen present.",
+        "Ileum: pH 6 to 8 is close to the optimum for many enzymes, and oxygen is lower, so numbers are much higher (10^7), with a wider range of types, including anaerobes such as Clostridium and Bacteroides that cannot grow with a lot of oxygen.",
+        "Colon: oxygen is lowest, so strict anaerobes (Clostridium, Bacteroides) grow best, the pH of 5 to 7 is suitable, and food stays a long time (with undigested material to feed on), so the number is the highest (10^12 per cm^3).",
+        "So the pH and oxygen content (together with nutrients and food transit time) determine which species can grow and how many there are in each organ."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-105.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-106.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-107.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q40b.jpg",
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q40b-2.jpg"
       ]
     },
     {
@@ -5159,6 +5463,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-108.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-109.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-110.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q41a.jpg"
       ]
     },
     {
@@ -5218,6 +5525,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-108.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-109.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-110.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q41b.jpg"
       ]
     },
     {
@@ -5262,13 +5572,20 @@
         "photograph"
       ],
       "question": "Which organelle is labelled X in the photograph of part of a cell? A chloroplast B endoplasmic reticulum C Golgi apparatus D plasmodesmata.",
-      "status": "pending",
-      "answer": "Pending: the labelled cell photograph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: endoplasmic reticulum",
+      "steps": [
+        "X points to stacks of long, parallel membranes (flattened sacs) packed closely around the outside of the nucleus.",
+        "This is the endoplasmic reticulum (rough ER, connected with the nuclear envelope and studded with ribosomes).",
+        "A chloroplast has grana and a double membrane, the Golgi apparatus is a stack of curved sacs with vesicles, and plasmodesmata are channels through the cell wall, so only B fits."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-110.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-111.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-112.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q42b.jpg"
       ]
     },
     {
@@ -5297,6 +5614,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-110.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-111.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-112.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q42b.jpg"
       ]
     },
     {
@@ -5353,6 +5673,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-110.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-111.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-112.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q42b.jpg"
       ]
     },
     {
@@ -5499,6 +5822,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-114.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-115.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-116.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q43c-0.jpg"
       ]
     },
     {
@@ -5515,15 +5841,22 @@
         "allele"
       ],
       "question": "Complete the table showing how many of 400 Caspian horses are heterozygous and how many are homozygous recessive for one gene, using p^2 + 2pq + q^2 = 1.",
-      "status": "pending",
-      "answer": "Pending: the table of allele frequency for the Caspian population is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Heterozygous: 179 horses; two copies of the recessive allele: 175 horses.",
+      "steps": [
+        "p^2 = 46 / 400 = 0.115, so p = square root of 0.115 = 0.339.",
+        "q = 1 - p = 0.661, so q^2 = 0.437 and 2pq = 2 x 0.339 x 0.661 = 0.448.",
+        "Number heterozygous = 0.448 x 400 = 179 and number homozygous recessive = 0.437 x 400 = 175 (check: 46 + 179 + 175 = 400)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-112.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-113.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-114.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-115.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-116.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q43c.jpg"
       ]
     },
     {
@@ -5540,15 +5873,24 @@
         "caspian"
       ],
       "question": "Discuss the advantages and disadvantages of using frozen sperm in breeding programmes for the Akhal-Teke and Caspian breeds, using the table and graph.",
-      "status": "pending",
-      "answer": "Pending: depends on the sperm sample table and the motility-pregnancy graph, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Frozen sperm keeps the genes of dead males and can keep genetic diversity in the breeding programmes, but fewer frozen sperm can swim and survive for less time, so fewer pregnancies result.",
+      "steps": [
+        "Advantage: sperm from males that have died can still be used, so their alleles are kept in the population and the genetic diversity is higher (reducing inbreeding in small populations such as the Akhal-Teke); sperm can be stored for a long time and moved without moving the animals.",
+        "Disadvantage: freezing and thawing lowers the percentage of sperm that can swim (from 50.7% to 26.9%, 47% fewer), sperm survival time (from 117.7 to 48.5 hours, 59% less) and increases the percentage with damaged DNA (28.7% to 39.3%), which may cause mutations or failed development.",
+        "The graph shows a strong positive correlation (r = +0.90) between the percentage of sperm that can swim and the percentage of successful pregnancies (about 0% at 10% swimming to 80 to 100% at 40 to 50%), so the lower swimming ability of frozen sperm (27%) means fewer successful pregnancies (about 40% from the line, against nearly 100% at 50%).",
+        "Correlation does not prove cause, and the data are for a limited number of samples (the graph has only about 15 points), so the exact figures for the horse breeds are uncertain; to overcome the problem more frozen sperm or artificial insemination could be used, and for rare breeds with small populations a lower pregnancy rate may still be better than no breeding."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-112.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-113.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-114.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-115.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-116.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q43d.jpg",
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q43d-2.jpg"
       ]
     },
     {
@@ -5674,13 +6016,20 @@
         "measurement"
       ],
       "question": "Using a graticule where 100 divisions is 0.1 mm, which is the length of the pollen grain? A 2.3 mm B 23 micrometres C 230 micrometres D 2300 nm.",
-      "status": "pending",
-      "answer": "Pending: needs the number of graticule divisions spanned by the pollen grain, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 23 micrometres",
+      "steps": [
+        "Read the pollen grain on the eyepiece graticule: it extends from about 28 to about 51 divisions, a length of about 23 divisions.",
+        "100 divisions = 0.1 mm = 100 um, so 1 division = 1 um.",
+        "Length = 23 divisions x 1 um = 23 um (B)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-117.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-118.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-119.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q45b.jpg"
       ]
     },
     {
@@ -5737,6 +6086,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-117.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-118.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-119.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q45c.jpg"
       ]
     },
     {
@@ -5783,15 +6135,23 @@
         "graph"
       ],
       "question": "Using the graph of percentage loss in mass of wood blocks for species A and B, comment on the results.",
-      "status": "pending",
-      "answer": "Pending: the graph of percentage mass loss for species A and B is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Species A breaks down wood much faster than species B: the mass loss increases with time for both, reaching about 83% for A but only about 16% for B at 16 weeks.",
+      "steps": [
+        "Both species cause a greater loss in mass of the wood as time increases, so both break it down.",
+        "Species A: about 15% at 4 weeks, 41% at 8 weeks, 52% at 12 weeks and 83% at 16 weeks, so more than 5 times that of B at the end.",
+        "Species B: about 3% at 4 weeks, 11% at 8 weeks, 15% at 12 weeks and 16% at 16 weeks, so B slows down and almost levels off after 12 weeks.",
+        "The error bars for the two species do not overlap at any time (for example at 8 weeks A has 24 to 55 and B has 6 to 15), so the difference is probably significant, although the error bars for A are large at 8 and 12 weeks, so there is much variation between blocks."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-119.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-120.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-121.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-122.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-123.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q46b.jpg"
       ]
     },
     {
@@ -5822,6 +6182,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-121.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-122.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-123.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q46b.jpg"
       ]
     },
     {
@@ -5838,15 +6201,22 @@
         "formula"
       ],
       "question": "Using the table of data for habitat two and the index of diversity formula, calculate the index of diversity for habitat two.",
-      "status": "pending",
-      "answer": "Pending: the habitat two data table is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "3.1",
+      "steps": [
+        "Fill in the missing value for species C: n(n - 1) = 27 x 26 = 702.",
+        "N = 34 + 6 + 27 + 4 + 9 + 31 + 120 = 231, so N(N - 1) = 231 x 230 = 53 130; sum of n(n - 1) = 1122 + 30 + 702 + 12 + 72 + 930 + 14 280 = 17 148.",
+        "D = 53 130 / 17 148 = 3.10, so D = 3.1."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-119.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-120.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-121.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-122.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-123.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q46c.jpg"
       ]
     },
     {
@@ -5863,15 +6233,21 @@
         "higher"
       ],
       "question": "State which habitat has the higher biodiversity, giving a reason.",
-      "status": "pending",
-      "answer": "Pending: needs the habitat two index value, which depends on the table not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Habitat one, because its index of diversity (4.2) is higher than that of habitat two (3.1).",
+      "steps": [
+        "A higher index of diversity means that there are more species and that the individuals are more evenly spread among them.",
+        "Habitat one has D = 4.2 and habitat two has D = 3.1, so habitat one has the higher biodiversity (habitat two is dominated by species G with 120 of 231 individuals)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-119.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-120.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-121.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-122.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-123.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q46c.jpg"
       ]
     },
     {
@@ -5902,6 +6278,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-121.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-122.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-123.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q46c.jpg"
       ]
     },
     {
@@ -5960,6 +6339,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-124.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-125.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-126.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q47a.jpg"
       ]
     },
     {
@@ -5989,6 +6371,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-124.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-125.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-126.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q47a.jpg"
       ]
     },
     {
@@ -6005,14 +6390,21 @@
         "population"
       ],
       "question": "Calculate the percentage decrease in the Santa Cruz fox population from 1994 to 2002, using the graph.",
-      "status": "pending",
-      "answer": "Pending: the population values are read from the graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 95% (94.7%)",
+      "steps": [
+        "Santa Cruz is the dashed line: about 1500 foxes in 1994 and about 80 in 2002.",
+        "Decrease = 1500 - 80 = 1420.",
+        "Percentage decrease = 1420 / 1500 x 100 = 94.7%, about 95%."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-123.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-124.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-125.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-126.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q47b.jpg"
       ]
     },
     {
@@ -6042,6 +6434,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-124.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-125.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-126.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q47b.jpg"
       ]
     },
     {
@@ -6071,6 +6466,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-124.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-125.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-126.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q47b.jpg"
       ]
     },
     {
@@ -6117,15 +6515,21 @@
         "formula"
       ],
       "question": "Which equation can be used to calculate the heterozygosity index? Options are not included in the text.",
-      "status": "pending",
-      "answer": "Pending: the answer options for this equation question are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: heterozygosity index = number of heterozygotes / number of individuals in the population",
+      "steps": [
+        "The heterozygosity index is the proportion of individuals in the population that are heterozygous for a gene.",
+        "So it is the number of heterozygotes divided by the number of individuals in the population, which is A (the others use the number of species or are the wrong way up)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-126.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-127.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-128.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-129.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-130.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q48b.jpg"
       ]
     },
     {
@@ -6172,15 +6576,21 @@
         "current"
       ],
       "question": "Give one similarity between the current and earlier distribution of the Malayan tapir shown in the map.",
-      "status": "pending",
-      "answer": "Pending: the distribution maps are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The current distribution lies inside the earlier distribution: it is in the same regions (Thailand, the Malay peninsula and Sumatra) and is a narrow strip running along the same direction.",
+      "steps": [
+        "Every area of current distribution (dark grey) lies within the area of the earlier distribution (light grey), so the tapirs are found in the same general areas as before.",
+        "In both cases the distribution is found in Thailand, the Malay peninsula and Sumatra but not in Cambodia or Vietnam."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-126.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-127.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-128.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-129.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-130.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q48c.jpg"
       ]
     },
     {
@@ -6211,6 +6621,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-128.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-129.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-130.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q48c.jpg"
       ]
     },
     {
@@ -6241,6 +6654,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-128.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-129.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-130.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q48c.jpg"
       ]
     },
     {
@@ -6315,14 +6731,21 @@
         "graph"
       ],
       "question": "Explain the effect of increased glyphosate herbicide use on Monarch butterfly populations and their genetic diversity after 2010, using the graph of milkweed fields.",
-      "status": "pending",
-      "answer": "Pending: depends on the graph of percentage of fields with milkweed, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Milkweed is the only food of the caterpillars, and the graph shows its fields fell from 100% in 1999 to about 18% in 2010, so fewer monarchs survive and breed; the population falls and loses genetic diversity.",
+      "steps": [
+        "Female monarchs lay their eggs on milkweed, and the caterpillars feed on it, so the glyphosate that kills milkweed removes food and egg-laying sites.",
+        "The graph shows the percentage of fields containing milkweed fell from 100% (1999) to about 40% (2005) and about 18% (2010), a fall of more than 80%, so after 2010 even fewer caterpillars would survive to adulthood and the monarch population would continue to decline.",
+        "A smaller population means a smaller gene pool: alleles are lost by genetic drift (a genetic bottleneck), there is more inbreeding and so the genetic diversity (the heterozygosity index) falls, which reduces the ability to adapt to disease or change and could lead to extinction."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-130.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-131.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-132.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-133.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q49b.jpg"
       ]
     },
     {
@@ -6368,14 +6791,20 @@
         "normal distribution"
       ],
       "question": "Sketch a labelled graph showing the expected egg-laying rate for a population of hens.",
-      "status": "pending",
-      "answer": "Pending: requires a sketched labelled graph, which cannot be given as text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A bell-shaped (normal distribution) curve with egg-laying rate (e.g. eggs per year) on the x axis and the number of hens on the y axis, with the peak at the mean.",
+      "steps": [
+        "Label the x axis \"egg-laying rate (eggs per year)\" and the y axis \"number of hens\" (frequency).",
+        "Draw a smooth, symmetrical bell-shaped curve with the peak at the mean egg-laying rate, tailing off at both ends without touching the axes, because polygenic traits show continuous variation."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-130.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-131.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-132.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-133.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q49c.jpg"
       ]
     },
     {
@@ -6392,13 +6821,19 @@
         "microscope"
       ],
       "question": "Give the name and function of the organelle shown in the photograph of a plant cell.",
-      "status": "pending",
-      "answer": "Pending: the organelle must be identified from the photograph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Chloroplast; it carries out photosynthesis (absorbs light and makes glucose from carbon dioxide and water).",
+      "steps": [
+        "The organelle has a double membrane and contains stacks of thylakoid membranes (grana) joined by lamellae, so it is a chloroplast.",
+        "Its function is photosynthesis: the light-dependent reactions occur on the thylakoid membranes and the Calvin cycle in the stroma, making sugars."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-133.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-134.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-135.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q50a.jpg"
       ]
     },
     {
@@ -6415,13 +6850,19 @@
         "reason"
       ],
       "question": "Name the type of microscope used for the photograph and give one reason.",
-      "status": "pending",
-      "answer": "Pending: depends on the appearance of the photograph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Transmission electron microscope (TEM); it shows the internal structure (grana and membranes) in great detail because of its high resolution and magnification.",
+      "steps": [
+        "The image is a flat, thin slice through the organelle, showing its internal membranes (the grana) in detail, which is typical of a transmission electron microscope.",
+        "The thylakoid membranes are only about 10 nm thick and a light microscope (resolution about 200 nm) could not show them, so an electron microscope was used (higher resolution)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-133.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-134.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-135.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q50a.jpg"
       ]
     },
     {
@@ -6466,13 +6907,20 @@
         "formula"
       ],
       "question": "Using the table of individuals of each species in the lake before the pygmy weed appeared, calculate the index of diversity to two decimal places.",
-      "status": "pending",
-      "answer": "Pending: the table of species counts is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "3.85",
+      "steps": [
+        "Fill in the missing values: B: (n - 1) = 11 and n(n - 1) = 132; E: n(n - 1) = 42 (given); F: n(n - 1) = 46 x 45 = 2070.",
+        "N = 54 + 12 + 3 + 31 + 7 + 46 = 153, so N(N - 1) = 153 x 152 = 23 256; sum of n(n - 1) = 2862 + 132 + 6 + 930 + 42 + 2070 = 6042.",
+        "D = 23 256 / 6042 = 3.85 (to 2 decimal places)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-133.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-134.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-135.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q50b.jpg"
       ]
     },
     {
@@ -6501,6 +6949,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-133.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-134.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-135.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q50b.jpg"
       ]
     },
     {
@@ -6633,14 +7084,21 @@
         "fields"
       ],
       "question": "Give two conclusions that can be made from the graph of the mean number of pods per soybean plant with and without added magnesium ions.",
-      "status": "pending",
-      "answer": "Pending: the graph of pods per soybean plant is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Adding magnesium ions increased the mean number of pods per plant in both years, but the difference is only clearly significant in 2019; and the pods per plant were higher in 2020 in both fields.",
+      "steps": [
+        "With magnesium the mean number of pods is higher than without in 2019 (about 98 against 87.5, 12% more) and in 2020 (about 115.5 against 106.5, 8% more), so magnesium increases the yield, as it is needed for chlorophyll and enzyme activation.",
+        "In 2019 the error bars do not overlap (about 94 to 102 against 84 to 90.5), so the difference is probably significant, but in 2020 they overlap (108 to 122 against 105 to 109), so the difference may be due to chance.",
+        "The mean number of pods was higher in 2020 than in 2019 in both fields (about 20 more), so another factor (such as the weather) also affected the number of pods."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-136.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-137.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-138.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-139.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q51c.jpg"
       ]
     },
     {
@@ -6657,14 +7115,22 @@
         "comment"
       ],
       "question": "Comment on the results of the graph showing the effect of magnesium ions on the mass of soybeans and maize grains.",
-      "status": "pending",
-      "answer": "Pending: the graph of crop grain mass is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Magnesium ions increased the mass of 100 soybeans (about 8%) and 100 maize grains (about 4%), but the effect is clear only for soybean because the error bars for maize overlap; maize grains are about twice as heavy as soybeans.",
+      "steps": [
+        "Soybean: the mass of 100 beans is about 15.5 g without magnesium and about 16.8 g with it (+8%); the error bars do not overlap (about 15 to 16.2 against 16.7 to 16.9), so the increase is probably significant.",
+        "Maize: the mass of 100 grains is about 31.2 g without and 32.5 g with magnesium (+4%); the error bars overlap (30.6 to 31.8 against 31.5 to 33.4), so the difference is not clearly significant.",
+        "Magnesium is needed to make chlorophyll (more photosynthesis, so more sugar and starch to store in the seeds) and to activate enzymes, so seeds are heavier, but the increase is small in both.",
+        "The effect may differ because the two crops differ; for both, more repeats or a larger sample size would give more reliable conclusions."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-136.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-137.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-138.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-139.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q51d.jpg"
       ]
     },
     {
@@ -6762,14 +7228,21 @@
         "identification"
       ],
       "question": "Which labelled structure (W, X, Y or Z) in the micrograph of plant tissues is a xylem vessel?",
-      "status": "pending",
-      "answer": "Pending: the labelled micrograph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Y",
+      "steps": [
+        "Xylem vessels are large cells with thick, lignified walls and wide empty lumens.",
+        "Y points to the group of larger, darker thick-walled cells in the lower half of the vascular bundle, which is the xylem.",
+        "V is the sclerenchyma cap of small thick-walled cells, W is the phloem, X is the layer of cambium and Z is parenchyma."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-141.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-142.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-143.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-144.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q53a.jpg"
       ]
     },
     {
@@ -6786,14 +7259,21 @@
         "identification"
       ],
       "question": "Which labelled structure (V, W, X or Y) in the micrograph contains sieve plates?",
-      "status": "pending",
-      "answer": "Pending: the labelled micrograph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: W",
+      "steps": [
+        "Sieve plates are found in the sieve tube elements of the phloem.",
+        "W points to the group of small, thin-walled cells (sieve tubes and companion cells) next to the sclerenchyma cap, which is the phloem.",
+        "V is sclerenchyma, X is the cambium and Y is xylem, so none of these contains sieve plates."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-141.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-142.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-143.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-144.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q53a.jpg"
       ]
     },
     {
@@ -6912,6 +7392,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-142.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-143.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-144.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q53c.jpg"
       ]
     },
     {
@@ -6928,14 +7411,22 @@
         "gametes"
       ],
       "question": "Complete a graph showing how DNA content per cell changes when a cell with 2 a.u. of DNA undergoes meiosis to produce gametes.",
-      "status": "pending",
-      "answer": "Pending: requires a completed graph drawing, which cannot be given as text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Draw a line: 2 a.u., then a rise to 4 a.u. (DNA replication), a level section at 4, a fall to 2 (end of meiosis I), a level section at 2, and a fall to 1 a.u. (end of meiosis II) at the end.",
+      "steps": [
+        "Start at 2 a.u. (the line already drawn), then DNA replication in interphase doubles the content, so the line rises to 4 a.u. and stays level through the first stages of meiosis (prophase I to anaphase I).",
+        "At the end of meiosis I (when the homologous chromosomes are separated and the cell divides) the DNA content per cell halves in one vertical drop from 4 to 2 a.u., and it stays at 2 a.u. through meiosis II up to anaphase II.",
+        "At the end of meiosis II the chromatids separate and the cells divide, so the content halves again from 2 to 1 a.u., giving gametes with 1 a.u. (a haploid cell has half the DNA of the original diploid cell).",
+        "Use vertical (or steep) lines for the increases and decreases, and plateaus between them."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-144.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-145.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-146.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-147.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q54a.jpg"
       ]
     },
     {
@@ -6952,14 +7443,21 @@
         "photograph"
       ],
       "question": "The actual length of the pollen grain between X and Y is 24 micrometres. Calculate the magnification of the photograph, to two significant figures.",
-      "status": "pending",
-      "answer": "Pending: needs the length of the pollen grain measured on the photograph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About x680 (6.8 x 10^2)",
+      "steps": [
+        "Magnification = length of the image / actual length.",
+        "The line XY measures about 16 mm on the printed page (about 58 px at 745 px per 210 mm); a ruler measurement of 16 mm to 17 mm gives x670 to x710.",
+        "Convert: 16.3 mm = 16 300 um, so magnification = 16 300 / 24 = 680 (6.8 x 10^2)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-144.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-145.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-146.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-147.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q54b.jpg"
       ]
     },
     {
@@ -7006,14 +7504,20 @@
         "table"
       ],
       "question": "How many of the 418 peony plants are heterozygous for gene PS105? A 15 B 60 C 340 D 350.",
-      "status": "pending",
-      "answer": "Pending: depends on the heterozygosity table for the four genes, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 15",
+      "steps": [
+        "The heterozygosity index of PS105 is 0.036 = number of heterozygotes / number of individuals.",
+        "Number of heterozygotes = 0.036 x 418 = 15.05, which is 15 (A)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-144.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-145.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-146.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-147.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q54d.jpg"
       ]
     },
     {
@@ -7030,14 +7534,21 @@
         "genes"
       ],
       "question": "The width of peony leaves is an example of polygenic inheritance. Which row of the table is correct for leaf width?",
-      "status": "pending",
-      "answer": "Pending: the table rows are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: not one gene; determined by multiple alleles of several genes; continuous variation",
+      "steps": [
+        "Polygenic inheritance means that a characteristic is controlled by several genes, so \"one gene determines leaf width\" is wrong (x).",
+        "Leaf width is determined by multiple alleles of several genes (tick), and polygenic characteristics show continuous variation (tick).",
+        "So the row is x, tick, tick: C."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-144.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-145.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-146.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-147.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q54d.jpg"
       ]
     },
     {
@@ -7204,15 +7715,22 @@
         "formula"
       ],
       "question": "Using the table of data for habitat 1 and the index of diversity formula, calculate the index of diversity to two decimal places.",
-      "status": "pending",
-      "answer": "Pending: the habitat 1 data table is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1.44",
+      "steps": [
+        "Fill in the missing value for species E: n(n - 1) = 63 x 62 = 3906.",
+        "Sum of n(n - 1) = 557 262 + 56 + 5550 + 132 + 3906 = 566 906, and N(N - 1) = 905 x 904 = 818 120.",
+        "D = 818 120 / 566 906 = 1.44 (to 2 decimal places)."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-147.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-148.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-149.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-150.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-151.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q55c.jpg"
       ]
     },
     {
@@ -7229,15 +7747,21 @@
         "comparison"
       ],
       "question": "Habitat 2 has an index of diversity of 2.80. A student says habitat 2 has higher biodiversity. State whether you agree and give a reason.",
-      "status": "pending",
-      "answer": "Pending: needs the habitat 1 index value from the table, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Agree: habitat 2 has the higher biodiversity because its index of diversity (2.80) is higher than that of habitat 1 (1.44).",
+      "steps": [
+        "A higher index of diversity means more species and a more even spread of individuals among them.",
+        "Habitat 1 has D = 1.44 and is dominated by species A (747 of the 905 individuals), whereas habitat 2 has D = 2.80, so habitat 2 has the greater biodiversity."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-147.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-148.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-149.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-150.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-151.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q55c.jpg"
       ]
     },
     {
@@ -7298,6 +7822,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-153.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-154.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-155.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q56b.jpg"
       ]
     },
     {
@@ -7328,6 +7855,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-153.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-154.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-155.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q56b.jpg"
       ]
     },
     {
@@ -7358,6 +7888,10 @@
         "papers/biology/img/04BC-Classification-Biodiversity-153.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-154.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-155.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q56c.jpg",
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q56c-2.jpg"
       ]
     },
     {
@@ -7390,6 +7924,10 @@
         "papers/biology/img/04BC-Classification-Biodiversity-153.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-154.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-155.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q56c.jpg",
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q56c-2.jpg"
       ]
     },
     {
@@ -7570,14 +8108,21 @@
         "diagram"
       ],
       "question": "Which row gives the name and function of structure Z in the diagram of a prokaryotic cell?",
-      "status": "pending",
-      "answer": "Pending: the diagram and table rows are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: cell membrane; controls what enters and leaves the cell",
+      "steps": [
+        "Z points to the thin membrane just inside the cell wall (and capsule), enclosing the cytoplasm, which is the cell surface (plasma) membrane.",
+        "The cell membrane is partially permeable and controls the movement of substances into and out of the cell.",
+        "A capsule would be the outermost layer, and protein synthesis happens on ribosomes, so the row is D."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-156.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-157.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-158.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-159.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q58b.jpg"
       ]
     },
     {
@@ -7594,14 +8139,20 @@
         "diagram"
       ],
       "question": "Give the name and function of structure X and structure Y in the diagram of a prokaryotic cell.",
-      "status": "pending",
-      "answer": "Pending: the labelled prokaryotic cell diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "X is a flagellum, used for movement (swimming); Y is a pilus (pili), used to attach to surfaces or other cells (and for conjugation).",
+      "steps": [
+        "X is a long, wavy thread attached to the end of the cell, so it is a flagellum, and its rotation propels the cell, so it is used for movement.",
+        "Y is a group of short, thin, straight projections from the cell surface, which are pili (singular pilus); they allow the bacterium to attach to surfaces such as host cells, and to other bacteria during conjugation."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-156.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-157.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-158.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-159.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q58b.jpg"
       ]
     },
     {
@@ -7631,6 +8182,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-157.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-158.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-159.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q58b.jpg"
       ]
     },
     {
@@ -7660,6 +8214,9 @@
         "papers/biology/img/04BC-Classification-Biodiversity-157.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-158.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-159.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q58c.jpg"
       ]
     },
     {
@@ -7676,14 +8233,21 @@
         "calculation"
       ],
       "question": "Cell P has a diameter of 0.60 (units as in the question) and the volume formula is given in the question. Calculate its volume to two decimal places.",
-      "status": "pending",
-      "answer": "Pending: the volume formula and the unit of diameter are not clear in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "0.11 um^3",
+      "steps": [
+        "The diameter is 0.60 um, so the radius is r = 0.30 um.",
+        "V = 4/3 x pi x r^3 = 4/3 x pi x 0.30^3 = 4/3 x pi x 0.027.",
+        "V = 0.1131 um^3, which is 0.11 um^3 to two decimal places."
+      ],
       "images": [
         "papers/biology/img/04BC-Classification-Biodiversity-156.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-157.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-158.jpg",
         "papers/biology/img/04BC-Classification-Biodiversity-159.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/04BC-Classification-Biodiversity-Q58c.jpg"
       ]
     }
   ]

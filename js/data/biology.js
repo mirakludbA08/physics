@@ -38659,7 +38659,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-045.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-046.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q19.jpg"
+     ]
     },
     {
      "id": "4BC-Q20a",
@@ -38822,15 +38824,20 @@ window.BANK.biology = {
       "behavioural"
      ],
      "question": "Complete the table showing the type of each of the tortoise's adaptations (long neck, arched shell).",
-     "status": "pending",
-     "answer": "Pending: the table to complete is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Long neck: anatomical; shell that arches above neck: anatomical; making themselves look as large as possible: behavioural.",
+     "steps": [
+      "A long neck and a raised shell are structural features of the body, so they are anatomical adaptations.",
+      "Making themselves look big during a dispute is something the animal does (stretching the neck and raising the body), so it is a behavioural adaptation."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-049.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-050.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-051.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q21b.jpg"
+     ]
     },
     {
      "id": "4BC-Q21b(ii)",
@@ -38875,15 +38882,21 @@ window.BANK.biology = {
       "tortoise"
      ],
      "question": "Using the diagram of offspring and fathers, calculate the percentage of female 10's offspring that were fathered by male B.",
-     "status": "pending",
-     "answer": "Pending: the breeding diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "66.7% (about 67%)",
+     "steps": [
+      "Female 10 has 27 offspring in total (the height of the bar).",
+      "Father A (dark part) fathered 9 of them, and father B (grey part) fathered the rest, 27 - 9 = 18 (there is no part for male C).",
+      "Percentage fathered by B = 18 / 27 x 100 = 66.7%."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-049.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-050.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-051.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q21c.jpg"
+     ]
     },
     {
      "id": "4BC-Q21c(ii)",
@@ -39003,7 +39016,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-056.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-057.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q22a.jpg"
+     ]
     },
     {
      "id": "4BC-Q22b",
@@ -39019,9 +39034,13 @@ window.BANK.biology = {
       "yellowstone"
      ],
      "question": "Using the graph, describe the relationship between elk density and mean beaver lifespan.",
-     "status": "pending",
-     "answer": "Pending: the graph of mean beaver lifespan against elk per km2 is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "There is a negative relationship: as the number of elk per km^2 increases, the mean beaver lifespan falls, steeply from 30 to 60 elk km^-2, and levels off at about 20 years above 80 elk km^-2.",
+     "steps": [
+      "Negative correlation: the mean beaver lifespan is highest (about 76 years) at the lowest elk density shown (30 elk per km^2) and falls as the number of elk rises.",
+      "The fall is steep at first (about 76 at 30, 45 at 40, 37 at 50 and 28 at 60 elk per km^2), and then more gradual (22 at 70 elk per km^2).",
+      "Above about 80 elk per km^2 the lifespan stays constant at about 20 years, so more elk beyond this density has no further effect."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-051.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-052.jpg",
@@ -39031,7 +39050,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-056.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-057.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q22b.jpg"
+     ]
     },
     {
      "id": "4BC-Q22c(i)",
@@ -39113,9 +39134,15 @@ window.BANK.biology = {
       "yellowstone"
      ],
      "question": "Discuss the effect of the introduction of wolves on the biodiversity of Yellowstone, using all the information in the question and its graphs.",
-     "status": "pending",
-     "answer": "Pending: depends on the wolf, elk, beaver and cottonwood graphs, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Wolves reduced the number of elk, so young shoots survived and grew into trees, which supported more beaver colonies that created ponds; so biodiversity increased (a trophic cascade).",
+     "steps": [
+      "After wolves (predators of elk) were introduced in 1995, the number of wolves rose to about 100 (2003) and the number of elk fell from about 17 000 to about 6 000, and the percentage of young shoots eaten fell from 100% to 19% in the forest and 2% in the riverside habitat.",
+      "With less grazing, young cottonwood shoots over 5 cm tall rose from 0 (before 2004) to about 160 in 2010, so more trees grew, giving more food, shelter and nesting sites for other organisms (birds and insects) and stabilising the river banks.",
+      "Beavers use trees to build dams, and the number of beaver colonies rose from about 1 (to 1999) to about 12 in 2009; beaver lifespan is longer when elk density is lower, which also helps.",
+      "Beaver dams create new habitats such as ponds, which support more species (fish, amphibians, invertebrates, water birds), and wolf kills feed scavengers, so overall the species richness and biodiversity increase.",
+      "The wolves act as a keystone predator, so the effects pass through the food web; but the data show correlations only, there are time lags (cottonwood after 2003), and other factors such as climate or hunting may also contribute."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-051.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-052.jpg",
@@ -39125,7 +39152,12 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-056.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-057.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q22a.jpg",
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q22b.jpg",
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q22d.jpg",
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q22d-2.jpg"
+     ]
     },
     {
      "id": "4BC-Q23a(i)",
@@ -39141,9 +39173,13 @@ window.BANK.biology = {
       "chromatids"
      ],
      "question": "Draw one body cell of a female Indian muntjac showing the arrangement of chromosomes in anaphase of mitosis.",
-     "status": "pending",
-     "answer": "Pending: requires a drawing, which cannot be given as text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw a cell with a spindle and 6 V-shaped chromosomes at each pole (12 in all), with the centromeres nearest the poles and the arms trailing towards the equator.",
+     "steps": [
+      "The female Indian muntjac has 3 pairs (6 chromosomes), so after DNA replication it has 6 chromosomes, each of 2 chromatids.",
+      "In anaphase the centromeres divide and the sister chromatids are pulled apart to opposite poles, so draw 6 single chromatids moving to each end of the cell (12 in total).",
+      "Draw each chromatid as a V (or J) shape with the centromere leading towards the pole, spindle fibres from the poles to the centromeres, and a cell outline (with no nucleus visible and the cell perhaps starting to elongate)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-057.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-058.jpg",
@@ -39166,16 +39202,22 @@ window.BANK.biology = {
       "proportion"
      ],
      "question": "Calculate the angle representing anaphase on the pie chart, given interphase lasts 9 hours and anaphase 20 minutes.",
-     "status": "pending",
-     "answer": "Pending: the pie chart shows the other cell cycle phases, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "10 degrees",
+     "steps": [
+      "Interphase takes 9 hours and is shown as 270 degrees on the pie chart, so 1 hour is 30 degrees.",
+      "Anaphase lasts 20 minutes = 1/3 hour.",
+      "Angle = 1/3 x 30 = 10 degrees."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-057.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-058.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-059.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-060.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q23a.jpg"
+     ]
     },
     {
      "id": "4BC-Q23b(i)",
@@ -39281,14 +39323,20 @@ window.BANK.biology = {
       "eukarya"
      ],
      "question": "Complete the plant cell diagram by drawing and labelling an amyloplast, a chloroplast and the tonoplast.",
-     "status": "pending",
-     "answer": "Pending: requires the incomplete plant cell diagram and a drawing.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw a small oval chloroplast near the cell wall, a similar-sized amyloplast (with starch granules) near the wall, and a large vacuole in the centre with a line around it (the tonoplast); label all three.",
+     "steps": [
+      "Tonoplast: draw a large rounded outline taking up most of the middle of the cell (the permanent vacuole) and label the line around it as tonoplast (the single membrane around the vacuole), leaving a thin cytoplasm layer and the nucleus at the edge.",
+      "Chloroplast: draw one or more small oval organelles (smaller than the nucleus, about a quarter of its diameter) in the cytoplasm near the cell wall, with internal grana, and label chloroplast.",
+      "Amyloplast: draw a small round or oval organelle of a similar size, with dots (starch granules) inside, in the cytoplasm and label amyloplast; all three should be inside the cell wall and have label lines."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-060.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-061.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q24a.jpg"
+     ]
     },
     {
      "id": "4BC-Q24b",
@@ -39304,14 +39352,19 @@ window.BANK.biology = {
       "identification"
      ],
      "question": "State the function of the organelle shown in the electron micrograph of a plant cell.",
-     "status": "pending",
-     "answer": "Pending: the organelle must be identified from the micrograph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The organelle is the Golgi apparatus; it modifies and packages proteins (and lipids) into vesicles for secretion or use in the cell.",
+     "steps": [
+      "The electron micrograph shows a stack of flattened, curved membrane-bound sacs with vesicles at the edges, which is the Golgi apparatus.",
+      "Its function is to modify proteins (for example by adding carbohydrate to make glycoproteins), and package them in vesicles that are carried to the cell surface membrane for secretion; in plants it also makes cell wall materials."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-060.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-061.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q24b.jpg"
+     ]
     },
     {
      "id": "4BC-Q24c",
@@ -39327,14 +39380,21 @@ window.BANK.biology = {
       "domains"
      ],
      "question": "Complete the table showing in which domains (Archaea, Bacteria, Eukarya) given structures would be found.",
-     "status": "pending",
-     "answer": "Pending: the structures table is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Cell membrane: more than one domain; nucleolus: Eukarya only; cell wall: more than one domain; 70S ribosome: more than one domain.",
+     "steps": [
+      "A cell surface membrane is found in all cells, so it is in more than one domain.",
+      "The nucleolus is found in the nucleus, so only in Eukarya.",
+      "Cell walls are found in Bacteria (peptidoglycan), Archaea and in plants and fungi (Eukarya), so more than one domain.",
+      "70S ribosomes are found in Archaea and Bacteria (and in mitochondria and chloroplasts), whereas the cytoplasm of Eukarya has 80S ribosomes, so more than one domain."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-060.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-061.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q24c.jpg"
+     ]
     },
     {
      "id": "4BC-Q25a",
@@ -39379,15 +39439,20 @@ window.BANK.biology = {
       "drawing"
      ],
      "question": "Complete the diagram of a prokaryotic cell by drawing and labelling a flagellum and a plasmid.",
-     "status": "pending",
-     "answer": "Pending: requires the partly drawn diagram and a drawing.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw and label a long curved flagellum attached to the cell surface, and a small circle (plasmid) in the cytoplasm.",
+     "steps": [
+      "Flagellum: draw a long, wavy or spiral thread that starts at the cell surface, passes through the cell wall and extends well out of the cell (longer than the pili), and label it flagellum.",
+      "Plasmid: draw a small separate ring (circle) inside the cell, in the cytoplasm and away from the main chromosome, and label it plasmid."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-061.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-062.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-063.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q25b.jpg"
+     ]
     },
     {
      "id": "4BC-Q25b(ii)",
@@ -39548,15 +39613,23 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Explain how the Hawaii amakihi and palila honeycreepers could have evolved from the same common ancestor, using the table.",
-     "status": "pending",
-     "answer": "Pending: depends on the table of the two species, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "An ancestral honeycreeper population reached the islands and split into populations in different habitats with different foods; natural selection acted differently on each, so they diverged until they could no longer interbreed, forming separate species.",
+     "steps": [
+      "The two species share a common ancestor: a population of ancestral honeycreepers colonised the Hawaiian islands and spread, so some populations became separated on different islands and in different habitats (geographical isolation and ecological isolation).",
+      "The table shows differences in selection pressure: amakihi live in lowland and mountainous forest and shrubland on 3 islands and eat nectar, tree sap, spiders and insects, whereas palila live only in mountainous forest on 1 island and eat seeds and berries.",
+      "Random mutations produced different alleles (for example for bill shape and size); individuals whose alleles suited the local food (for example a strong bill for seeds) survived and reproduced more, so those alleles increased in frequency (natural selection) and each population became adapted to its own habitat and food.",
+      "Different habitats and the small size of the palila population (fewer than 1000 birds) also mean allele frequencies changed by genetic drift and the founder effect.",
+      "After many generations the gene pools were so different that the birds could no longer interbreed to produce fertile offspring (reproductive isolation), so they are now different species (allopatric speciation, with possibly some sympatric divergence in food)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-063.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-064.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-065.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q26b.jpg"
+     ]
     },
     {
      "id": "4BC-Q26c",
@@ -39649,7 +39722,10 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-068.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-069.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q27b.jpg",
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q27b-2.jpg"
+     ]
     },
     {
      "id": "4BC-Q27c",
@@ -39665,9 +39741,14 @@ window.BANK.biology = {
       "biodiversity"
      ],
      "question": "Using the table and formula, determine which crater lake has the higher cichlid biodiversity, given D = 2.8 for Lake Xiloa.",
-     "status": "pending",
-     "answer": "Pending: needs the Lake Apoyo data table, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Lake Apoyo has the higher cichlid biodiversity: D = 3.1 compared with 2.8 for Lake Xiloa (D = 3.05).",
+     "steps": [
+      "Fill in the missing value for A. zaliosus: n(n - 1) = 12 x 11 = 132.",
+      "Sum of n(n - 1) = 24 180 + 1980 + 6006 + 56 + 272 + 132 = 32 626, and N(N - 1) = 316 x 315 = 99 540.",
+      "D = 99 540 / 32 626 = 3.05, so D is about 3.1 for Lake Apoyo.",
+      "A higher index of diversity means higher biodiversity, so Lake Apoyo (3.1) is more diverse than Lake Xiloa (2.8)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-065.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-066.jpg",
@@ -39675,7 +39756,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-068.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-069.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q27c.jpg"
+     ]
     },
     {
      "id": "4BC-Q27d",
@@ -39706,7 +39789,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-068.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-069.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q27d.jpg"
+     ]
     },
     {
      "id": "4BC-Q28a",
@@ -39920,7 +40005,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-075.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-076.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q29a.jpg"
+     ]
     },
     {
      "id": "4BC-Q29a(iii)",
@@ -39951,7 +40038,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-075.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-076.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q29a.jpg"
+     ]
     },
     {
      "id": "4BC-Q29b(i)",
@@ -40029,9 +40118,14 @@ window.BANK.biology = {
       "results"
      ],
      "question": "Using the graph of pain relief duration for tetrodotoxin and the current drug, comment on the results.",
-     "status": "pending",
-     "answer": "Pending: the graph of pain relief duration is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Tetrodotoxin gives pain relief for much longer than the current drug: it works for up to about 450 hours (a few patients), while the current drug stops working by about 20 to 30 hours; most patients get less than 50 hours of relief with either drug.",
+     "steps": [
+      "Both curves fall steeply: most patients have a short period of pain relief (for most, the number of patients with long relief is very low).",
+      "The current drug (dashed line) falls to zero by about 25 to 30 hours, so nobody has relief for longer than about a day.",
+      "Tetrodotoxin (solid line) has a long tail: a small number of patients still have pain relief at 100 hours, 200 hours and up to about 450 hours, which is more than 15 times as long as for the current drug.",
+      "So tetrodotoxin appears to be more effective at providing long-lasting relief; but the graph does not give the number of patients, the dose, side effects or the average, and there is no statistical test, so a large phase III trial is needed."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-072.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-073.jpg",
@@ -40039,7 +40133,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-075.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-076.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q29c.jpg"
+     ]
     },
     {
      "id": "4BC-Q30a",
@@ -40055,16 +40151,22 @@ window.BANK.biology = {
       "tonnes"
      ],
      "question": "Calculate the expected mass of eggplants imported by France in 2023, given the 2020 mass in the table and a 1.6 % annual increase.",
-     "status": "pending",
-     "answer": "Pending: the 2020 import table is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "55 472 tonnes",
+     "steps": [
+      "France imported 52 892 tonnes in 2020, and the increase of 1.6% per year is compounded, so multiply by 1.016 each year.",
+      "From 2020 to 2023 is 3 years: 52 892 x 1.016^3 = 52 892 x 1.0487 = 55 471.65.",
+      "To the nearest whole number the mass is 55 472 tonnes."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-076.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-077.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-078.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-079.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q30a.jpg"
+     ]
     },
     {
      "id": "4BC-Q30b(i)",
@@ -40080,16 +40182,22 @@ window.BANK.biology = {
       "table"
      ],
      "question": "How many of the eggplant varieties tested were categorised as susceptible to R. solanacearum? A none B one C two D three.",
-     "status": "pending",
-     "answer": "Pending: depends on the disease index table, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: two",
+     "steps": [
+      "Susceptible means a disease index (DI) of more than 50.",
+      "Variety B has DI 61.3 and variety C has DI 89.2, so these are susceptible; A (45.8) is moderately susceptible and D (9.2) is resistant.",
+      "So two varieties are susceptible."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-076.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-077.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-078.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-079.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q30b.jpg"
+     ]
     },
     {
      "id": "4BC-Q30b(ii)",
@@ -40149,7 +40257,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-078.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-079.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q30b.jpg"
+     ]
     },
     {
      "id": "4BC-Q31a",
@@ -40178,7 +40288,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-080.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-081.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q31a.jpg"
+     ]
     },
     {
      "id": "4BC-Q31b(i)",
@@ -40194,15 +40306,21 @@ window.BANK.biology = {
       "micrograph"
      ],
      "question": "Calculate the magnification of the chloroplast shown in photograph B, to two significant figures.",
-     "status": "pending",
-     "answer": "Pending: needs the image and actual size measurements from photograph B, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "x17 000 (1.7 x 10^4)",
+     "steps": [
+      "Magnification = length of scale bar in the image / actual length it represents.",
+      "The 1.5 um bar measures about 25 mm on the printed page (88 px at 745 px per 210 mm = 24.8 mm); a ruler should give 24 mm to 26 mm.",
+      "Convert: 25 mm = 25 000 um, so magnification = 25 000 / 1.5 = 16 667, which is x17 000 to 2 significant figures (16 537 using 24.8 mm)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-079.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-080.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-081.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q31b.jpg"
+     ]
     },
     {
      "id": "4BC-Q31b(ii)",
@@ -40231,7 +40349,10 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-080.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-081.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q31a.jpg",
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q31b.jpg"
+     ]
     },
     {
      "id": "4BC-Q31b(iii)",
@@ -40276,15 +40397,20 @@ window.BANK.biology = {
       "centriole"
      ],
      "question": "Name and give the function of the animal-cell structure shown in the photograph of algal cells.",
-     "status": "pending",
-     "answer": "Pending: the structure must be identified from the photograph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Centriole (a ring of nine triplets of microtubules); it makes the spindle fibres (organises microtubules) for nuclear division.",
+     "steps": [
+      "The photograph shows a small cylinder seen end-on, made of a ring of nine triplets of microtubules with no membrane, which is a centriole.",
+      "Centrioles organise the microtubules that form the spindle during mitosis and meiosis, so that chromosomes or chromatids are pulled apart (in some algae and animal cells they also form the base of cilia and flagella)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-079.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-080.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-081.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q31c.jpg"
+     ]
     },
     {
      "id": "4BC-Q32a(i)",
@@ -40360,16 +40486,21 @@ window.BANK.biology = {
       "relationship"
      ],
      "question": "State the relationship shown in the graph between mean sperm length and swimming speed of 30 cichlid species.",
-     "status": "pending",
-     "answer": "Pending: the graph of sperm length against swimming speed is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Positive correlation: the longer the sperm cell, the faster it swims.",
+     "steps": [
+      "The points rise from about 50 um s^-1 at about 14.5 um length to about 70 to 90 um s^-1 at lengths of 24 to 32 um.",
+      "So as the mean sperm length increases the mean swimming speed increases (a positive correlation), although the points are scattered and the relationship is stronger at short lengths than at long ones."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-081.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-082.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-083.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-084.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q32b.jpg"
+     ]
     },
     {
      "id": "4BC-Q32b(ii)",
@@ -40399,7 +40530,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-083.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-084.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q32b.jpg"
+     ]
     },
     {
      "id": "4BC-Q32b(iii)",
@@ -40445,16 +40578,22 @@ window.BANK.biology = {
       "identification"
      ],
      "question": "Which labelled structure (W, X, Y or Z) in the diagram of a sperm cell is the acrosome?",
-     "status": "pending",
-     "answer": "Pending: the labelled sperm cell diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: W",
+     "steps": [
+      "The acrosome is a membrane-bound sac (a specialised lysosome) that caps the front of the sperm head, over the nucleus, and contains hydrolytic enzymes.",
+      "W points to the clear sac-like cap at the front of the head, which is the acrosome.",
+      "X points to the cell surface membrane and cytoplasm at the outside of the head, Y is the nucleus and Z is the mid-piece containing mitochondria."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-081.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-082.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-083.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-084.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q32c.jpg"
+     ]
     },
     {
      "id": "4BC-Q32c(ii)",
@@ -40470,16 +40609,22 @@ window.BANK.biology = {
       "scale"
      ],
      "question": "Calculate the magnification of the sperm cell shown in the diagram, to two significant figures.",
-     "status": "pending",
-     "answer": "Pending: needs the diagram measurements, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "x750 (7.5 x 10^2)",
+     "steps": [
+      "Magnification = length of scale bar in the image / actual length it represents.",
+      "The 60 um scale bar measures about 45 mm on the printed page (159 px at 745 px per 210 mm = 44.8 mm); a ruler should give 44 mm to 46 mm.",
+      "Convert: 45 mm = 45 000 um, so magnification = 45 000 / 60 = 750 (x750 to 2 s.f.)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-081.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-082.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-083.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-084.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q32c.jpg"
+     ]
     },
     {
      "id": "4BC-Q32c(iii)",
@@ -40509,7 +40654,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-083.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-084.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q32c.jpg"
+     ]
     },
     {
      "id": "4BC-Q33a(i)",
@@ -40645,16 +40792,22 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Explain the results for bacteria A and B shown in the graph of growth rate against oxygen concentration.",
-     "status": "pending",
-     "answer": "Pending: depends on the growth rate graph for bacteria A and B, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Bacteria A grows best at low oxygen (about 1%), and growth falls to zero by about 3.3% because higher oxygen is harmful (microaerophile); bacteria B grows faster as oxygen rises up to about 1.5% and then stays at the maximum, so it needs oxygen (obligate aerobe).",
+     "steps": [
+      "Bacteria B: growth rate is almost zero with no oxygen, rises steeply as oxygen increases to about 1.5%, and then levels off (a plateau) up to 5%; it needs oxygen for aerobic respiration to make ATP, and growth is then limited by other factors.",
+      "Bacteria A: growth rate is highest at 0 to 1.5% oxygen (growth occurs with little oxygen), and falls sharply above about 1.5% to 2% to zero at about 3.3%; so it needs only a little oxygen and is damaged by higher concentrations (a microaerophile, or oxygen produces toxic free radicals).",
+      "So the two types differ in their tolerance of oxygen: B is an aerobe, A is intolerant of high concentrations of oxygen; the scatter in A's points at about 1.5% shows variation between repeats."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-084.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-085.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-086.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-087.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q33c.jpg"
+     ]
     },
     {
      "id": "4BC-Q34a",
@@ -40685,7 +40838,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-090.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-091.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q34a.jpg"
+     ]
     },
     {
      "id": "4BC-Q34b",
@@ -40716,7 +40871,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-090.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-091.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q34d.jpg"
+     ]
     },
     {
      "id": "4BC-Q34c(i)",
@@ -40732,9 +40889,13 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the percentage decrease in the number of wild snow leopards from 2002 to 2022, using the graph, to one decimal place.",
-     "status": "pending",
-     "answer": "Pending: the population values are read from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "83.1%",
+     "steps": [
+      "Read the graph: about 7100 snow leopards in 2002 and about 1200 in 2022.",
+      "Decrease = 7100 - 1200 = 5900.",
+      "Percentage decrease = 5900 / 7100 x 100 = 83.1%."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-087.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-088.jpg",
@@ -40742,7 +40903,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-090.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-091.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q34c.jpg"
+     ]
     },
     {
      "id": "4BC-Q34c(ii)",
@@ -40789,9 +40952,13 @@ window.BANK.biology = {
       "subspecies"
      ],
      "question": "Using the map scale, calculate the width of the desert region shown by line X, in km, in standard form.",
-     "status": "pending",
-     "answer": "Pending: needs the map scale and length of line X, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 3 x 10^2 km (about 320 km)",
+     "steps": [
+      "The scale bar shows that 1000 km is about 86 px on this page (0 to 1000), and line X is about 27 to 28 px long.",
+      "Width = 27.5 / 86 x 1000 = about 320 km (for a ruler measurement, compare X with the 1000 km bar).",
+      "In standard form this is about 3.2 x 10^2 km (3 x 10^2 km to 1 significant figure)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-087.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-088.jpg",
@@ -40799,7 +40966,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-090.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-091.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q34d.jpg"
+     ]
     },
     {
      "id": "4BC-Q34d(ii)",
@@ -40832,7 +41001,10 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-090.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-091.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q34d.jpg",
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q34d-2.jpg"
+     ]
     },
     {
      "id": "4BC-Q34d(iii)",
@@ -40879,15 +41051,21 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Which row of the table describes the markings, poisons and body inflation of Canthigaster valenti?",
-     "status": "pending",
-     "answer": "Pending: the table rows are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: anatomical, physiological, behavioural",
+     "steps": [
+      "The markings on the skin (the colour and pattern) are a structural feature, so they are anatomical.",
+      "Production of poison is a biochemical process in the body, so it is physiological.",
+      "Inflating the body is the way the fish acts when threatened, so it is behavioural: row B."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-091.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-092.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-093.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q35a.jpg"
+     ]
     },
     {
      "id": "4BC-Q35b",
@@ -40916,7 +41094,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-092.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-093.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q35b.jpg"
+     ]
     },
     {
      "id": "4BC-Q35c",
@@ -41137,16 +41317,24 @@ window.BANK.biology = {
       "changes"
      ],
      "question": "Describe the changes in biodiversity along the Rideau River, using the graph of biodiversity index values.",
-     "status": "pending",
-     "answer": "Pending: depends on the biodiversity index graph for four river sections, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Overall biodiversity falls downstream: Section 4 is poorest (birds moderate, mussels poor at 0.4, plants moderate at 0.5), while fish stay highest in every section (2.5 to 2.9) and mussels fall steadily from 1.4 to 0.4.",
+     "steps": [
+      "Birds: the index is 1.6 in Section 1 and 1.5 in Sections 2 and 3 (good biodiversity), but falls to 1.0 in Section 4, which is only moderate biodiversity.",
+      "Fish: the index is the highest of any group in every section (2.5, 2.9, 2.6 and 2.5), with a peak in Section 2 where it is good; in the other sections it is moderate (a high value does not mean good biodiversity because the categories differ between groups).",
+      "Mussels: biodiversity decreases along the river, from 1.4 (good) in Section 1 to 0.7 (moderate) in Sections 2 and 3 and 0.4 (poor) in Section 4, which is the only poor category.",
+      "Aquatic plants: 0.9 in Section 1 and 1.0 in Section 2 (good), no data in Section 3, and 0.5 (moderate) in Section 4, so the biodiversity of plants is also lower at the end.",
+      "So Section 1 has the best overall biodiversity (3 good and 1 moderate) and Section 4 the worst (no good, 3 moderate and 1 poor); the cause could be pollution or human activity increasing downstream, but the graph alone does not show this."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-095.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-096.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-097.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-098.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q37b.jpg"
+     ]
     },
     {
      "id": "4BC-Q37c",
@@ -41176,7 +41364,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-097.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-098.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q37b.jpg"
+     ]
     },
     {
      "id": "4BC-Q37d(i)",
@@ -41192,16 +41382,21 @@ window.BANK.biology = {
       "data"
      ],
      "question": "Complete the student's table of data for aquatic plants in Section 3.",
-     "status": "pending",
-     "answer": "Pending: the student's table and the index equation are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "(n - 1): 7, 5, 2, 1, 8, 1, 1, 5, 4, 1, 2; n(n - 1): 56, 30, 6, 2, 72, 2, 2, 30, 20, 2, 6.",
+     "steps": [
+      "For each species (n = 8, 6, 3, 2, 9, 2, 2, 6, 5, 2, 3 in the order of the table), subtract 1 to get (n - 1): 7, 5, 2, 1, 8, 1, 1, 5, 4, 1, 2.",
+      "Multiply n by (n - 1) to get n(n - 1): 56, 30, 6, 2, 72, 2, 2, 30, 20, 2, 6."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-095.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-096.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-097.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-098.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q37d.jpg"
+     ]
     },
     {
      "id": "4BC-Q37d(ii)",
@@ -41217,16 +41412,22 @@ window.BANK.biology = {
       "data"
      ],
      "question": "Calculate the biodiversity index value for aquatic plants in Section 3 of the river using the student's table.",
-     "status": "pending",
-     "answer": "Pending: needs the student's data table and the index equation, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "9.9",
+     "steps": [
+      "N = total number of plants = 8 + 6 + 3 + 2 + 9 + 2 + 2 + 6 + 5 + 2 + 3 = 48, so N(N - 1) = 48 x 47 = 2256.",
+      "Sum of n(n - 1) = 56 + 30 + 6 + 2 + 72 + 2 + 2 + 30 + 20 + 2 + 6 = 228.",
+      "D = N(N - 1) / sum of n(n - 1) = 2256 / 228 = 9.89, so D = 9.9."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-095.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-096.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-097.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-098.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q37d.jpg"
+     ]
     },
     {
      "id": "4BC-Q38a",
@@ -41329,15 +41530,22 @@ window.BANK.biology = {
       "viability"
      ],
      "question": "Describe how each of the effects of freezing on the tapir sperm, listed in the table, could be determined.",
-     "status": "pending",
-     "answer": "Pending: the table of effects of freezing is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Moving: observe a sample under a light microscope and count the percentage that move; straight-line swimming: record the paths of sperm (video or time-lapse) and measure how straight they are; acrosome: stain the sperm and count the percentage with an intact acrosome under a microscope.",
+     "steps": [
+      "Percentage of sperm capable of moving: put a drop of sperm on a slide and observe under a light microscope, counting moving and non-moving sperm in a number of fields of view, then calculate the percentage that move.",
+      "Ability to swim in a straight line: video or time-lapse photograph the swimming sperm and trace their paths, then measure how straight the paths are (for example the straight-line distance compared with the path length), and take the mean for many sperm.",
+      "Percentage with an undamaged acrosome: stain the sperm so that the acrosome can be seen (or use a stain or antibody specific to it), view with a microscope and count the number with a complete acrosome out of the total.",
+      "Compare freshly collected and frozen then thawed samples, using the same number of sperm and repeats."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-099.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-100.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-101.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q38c.jpg"
+     ]
     },
     {
      "id": "4BC-Q38c(ii)",
@@ -41366,7 +41574,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-100.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-101.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q38c.jpg"
+     ]
     },
     {
      "id": "4BC-Q39a(i)",
@@ -41382,9 +41592,13 @@ window.BANK.biology = {
       "human egg"
      ],
      "question": "State the letter that shows the zona pellucida on the student's diagram of a human egg cell.",
-     "status": "pending",
-     "answer": "Pending: the labelled egg cell diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Z",
+     "steps": [
+      "The zona pellucida is the layer of glycoproteins that surrounds the egg cell membrane and lies inside the layer of follicle cells.",
+      "W points to one of the outer follicle cells (corona radiata), X points to the egg cytoplasm and Y points to the nucleus.",
+      "Z points to the pale outer layer between the follicle cells and the cell, which is the zona pellucida."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-101.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-102.jpg",
@@ -41392,7 +41606,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-104.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-105.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q39a.jpg"
+     ]
     },
     {
      "id": "4BC-Q39a(ii)",
@@ -41423,7 +41639,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-104.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-105.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q39a.jpg"
+     ]
     },
     {
      "id": "4BC-Q39b(i)",
@@ -41470,9 +41688,13 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the acrosome to nucleus ratio for the reed bunting sperm cell shown in the table.",
-     "status": "pending",
-     "answer": "Pending: the table of acrosome and nucleus sizes is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 4.4 : 1 (4.3 to 4.4)",
+     "steps": [
+      "Measure the acrosome and the nucleus on the reed bunting drawing (the two lines on the right): the acrosome is about 115 mm and the nucleus about 26 mm on the printed page (409 px and 94 px).",
+      "Ratio = acrosome length / nucleus length = 409 / 94 = 4.35.",
+      "So the acrosome to nucleus ratio is about 4.4 : 1 (a ruler measurement should give about 4.3 to 4.4)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-101.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-102.jpg",
@@ -41480,7 +41702,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-104.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-105.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q39b.jpg"
+     ]
     },
     {
      "id": "4BC-Q39b(iii)",
@@ -41496,9 +41720,14 @@ window.BANK.biology = {
       "birds"
      ],
      "question": "Explain how the acrosome to nucleus ratio and helical membrane width are related to the reproductive behaviour of these birds, using the table and graph.",
-     "status": "pending",
-     "answer": "Pending: depends on the bird table and the helical membrane graph, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The reed bunting female mates with several males, so sperm compete; its sperm have a larger acrosome to nucleus ratio (about 4.4 against 0.7) and a wider helical membrane, which make them swim faster and more likely to fertilise the egg first, whereas the nuthatch has one partner so there is no sperm competition.",
+     "steps": [
+      "The nuthatch female has one male partner, so there is no sperm competition; the nuthatch sperm has a narrow helical membrane and a small acrosome to nucleus ratio (about 0.7).",
+      "The reed bunting female mates with several males in a short time, so the sperm of different males compete to fertilise the egg; its sperm have a wide helical membrane and a large acrosome to nucleus ratio (about 4.4).",
+      "The graph shows that as the width of the helical membrane increases the swimming speed increases from about 70 to about 115 um s^-1 (about 64% faster), levelling off at the widest membranes; the ratio of acrosome to nucleus also increases speed.",
+      "Faster sperm are more likely to reach and fertilise the egg first, so males with these sperm have greater reproductive success and pass on the alleles for them (sexual selection), so sperm competition has selected for these adaptations in the reed bunting."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-101.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-102.jpg",
@@ -41506,7 +41735,10 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-104.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-105.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q39b.jpg",
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q39b-2.jpg"
+     ]
     },
     {
      "id": "4BC-Q39c",
@@ -41553,9 +41785,13 @@ window.BANK.biology = {
       "genotype"
      ],
      "question": "Complete the table showing how many of 100 cats would be homozygous dominant and how many heterozygous, using p^2 + 2pq + q^2 = 1.",
-     "status": "pending",
-     "answer": "Pending: the population table with allele frequency values is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "BB: 36 cats; Bb: 48 cats",
+     "steps": [
+      "bb = q^2 = 16 / 100 = 0.16, so q = square root of 0.16 = 0.4.",
+      "p = 1 - q = 0.6, so p^2 = 0.36 (BB) and 2pq = 2 x 0.6 x 0.4 = 0.48 (Bb).",
+      "Number of cats: BB = 0.36 x 100 = 36 and Bb = 0.48 x 100 = 48 (check: 36 + 48 + 16 = 100)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-101.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-102.jpg",
@@ -41563,7 +41799,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-104.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-105.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q39d.jpg"
+     ]
     },
     {
      "id": "4BC-Q40a(i)",
@@ -41608,15 +41846,21 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Draw three labelled features on the outline diagram of a bacterial cell that may be found in a prokaryotic cell.",
-     "status": "pending",
-     "answer": "Pending: requires the outline diagram and drawn labels.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Any three of: flagellum, plasmid (small ring of DNA), capsule, pili, ribosomes (70S), circular DNA (nucleoid), each drawn inside or on the cell and labelled.",
+     "steps": [
+      "Plasmid: draw a small separate ring (circle) in the cytoplasm and label it plasmid.",
+      "Circular DNA (nucleoid): draw a larger coiled loop of DNA free in the cytoplasm, with no membrane around it, and label it circular DNA or nucleoid.",
+      "Flagellum: draw a long wavy thread attached to the surface passing out through the cell wall, labelled flagellum; or capsule: a slime layer outside the cell wall; or pili: short thin hairs on the surface; or small dots labelled ribosomes (70S) in the cytoplasm."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-105.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-106.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-107.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q40a.jpg"
+     ]
     },
     {
      "id": "4BC-Q40b",
@@ -41632,15 +41876,24 @@ window.BANK.biology = {
       "gut"
      ],
      "question": "Explain the distribution of bacteria in the human digestive system, using the organ diagram and table of conditions.",
-     "status": "pending",
-     "answer": "Pending: depends on the digestive system diagram and conditions table, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Numbers rise from the stomach (10^3 per cm^3) to the colon (10^12 per cm^3) because pH becomes less acidic, oxygen falls and food stays for longer; each type of bacterium is found where the pH and oxygen suit it.",
+     "steps": [
+      "Stomach: the pH is 1 to 3 (very acidic), which denatures the enzymes of most bacteria and kills them, and the oxygen content is high, so only 10^3 bacteria per cm^3 and acid-tolerant types such as Lactobacillus and Helicobacter survive.",
+      "Duodenum: the pH is 6 to 7 (close to neutral), but food moves through quickly and enzymes and bile are secreted, so the number is still low (10^3); Lactobacillus and Streptococcus can tolerate the oxygen present.",
+      "Ileum: pH 6 to 8 is close to the optimum for many enzymes, and oxygen is lower, so numbers are much higher (10^7), with a wider range of types, including anaerobes such as Clostridium and Bacteroides that cannot grow with a lot of oxygen.",
+      "Colon: oxygen is lowest, so strict anaerobes (Clostridium, Bacteroides) grow best, the pH of 5 to 7 is suitable, and food stays a long time (with undigested material to feed on), so the number is the highest (10^12 per cm^3).",
+      "So the pH and oxygen content (together with nutrients and food transit time) determine which species can grow and how many there are in each organ."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-105.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-106.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-107.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q40b.jpg",
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q40b-2.jpg"
+     ]
     },
     {
      "id": "4BC-Q41a",
@@ -41670,7 +41923,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-109.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-110.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q41a.jpg"
+     ]
     },
     {
      "id": "4BC-Q41b(i)",
@@ -41731,7 +41986,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-109.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-110.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q41b.jpg"
+     ]
     },
     {
      "id": "4BC-Q42a",
@@ -41776,15 +42033,21 @@ window.BANK.biology = {
       "photograph"
      ],
      "question": "Which organelle is labelled X in the photograph of part of a cell? A chloroplast B endoplasmic reticulum C Golgi apparatus D plasmodesmata.",
-     "status": "pending",
-     "answer": "Pending: the labelled cell photograph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: endoplasmic reticulum",
+     "steps": [
+      "X points to stacks of long, parallel membranes (flattened sacs) packed closely around the outside of the nucleus.",
+      "This is the endoplasmic reticulum (rough ER, connected with the nuclear envelope and studded with ribosomes).",
+      "A chloroplast has grana and a double membrane, the Golgi apparatus is a stack of curved sacs with vesicles, and plasmodesmata are channels through the cell wall, so only B fits."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-110.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-111.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-112.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q42b.jpg"
+     ]
     },
     {
      "id": "4BC-Q42b(ii)",
@@ -41813,7 +42076,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-111.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-112.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q42b.jpg"
+     ]
     },
     {
      "id": "4BC-Q42b(iii)",
@@ -41871,7 +42136,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-111.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-112.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q42b.jpg"
+     ]
     },
     {
      "id": "4BC-Q42c(i)",
@@ -42022,7 +42289,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-115.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-116.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q43c-0.jpg"
+     ]
     },
     {
      "id": "4BC-Q43c(ii)",
@@ -42038,9 +42307,13 @@ window.BANK.biology = {
       "allele"
      ],
      "question": "Complete the table showing how many of 400 Caspian horses are heterozygous and how many are homozygous recessive for one gene, using p^2 + 2pq + q^2 = 1.",
-     "status": "pending",
-     "answer": "Pending: the table of allele frequency for the Caspian population is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Heterozygous: 179 horses; two copies of the recessive allele: 175 horses.",
+     "steps": [
+      "p^2 = 46 / 400 = 0.115, so p = square root of 0.115 = 0.339.",
+      "q = 1 - p = 0.661, so q^2 = 0.437 and 2pq = 2 x 0.339 x 0.661 = 0.448.",
+      "Number heterozygous = 0.448 x 400 = 179 and number homozygous recessive = 0.437 x 400 = 175 (check: 46 + 179 + 175 = 400)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-112.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-113.jpg",
@@ -42048,7 +42321,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-115.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-116.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q43c.jpg"
+     ]
     },
     {
      "id": "4BC-Q43d",
@@ -42064,9 +42339,14 @@ window.BANK.biology = {
       "caspian"
      ],
      "question": "Discuss the advantages and disadvantages of using frozen sperm in breeding programmes for the Akhal-Teke and Caspian breeds, using the table and graph.",
-     "status": "pending",
-     "answer": "Pending: depends on the sperm sample table and the motility-pregnancy graph, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Frozen sperm keeps the genes of dead males and can keep genetic diversity in the breeding programmes, but fewer frozen sperm can swim and survive for less time, so fewer pregnancies result.",
+     "steps": [
+      "Advantage: sperm from males that have died can still be used, so their alleles are kept in the population and the genetic diversity is higher (reducing inbreeding in small populations such as the Akhal-Teke); sperm can be stored for a long time and moved without moving the animals.",
+      "Disadvantage: freezing and thawing lowers the percentage of sperm that can swim (from 50.7% to 26.9%, 47% fewer), sperm survival time (from 117.7 to 48.5 hours, 59% less) and increases the percentage with damaged DNA (28.7% to 39.3%), which may cause mutations or failed development.",
+      "The graph shows a strong positive correlation (r = +0.90) between the percentage of sperm that can swim and the percentage of successful pregnancies (about 0% at 10% swimming to 80 to 100% at 40 to 50%), so the lower swimming ability of frozen sperm (27%) means fewer successful pregnancies (about 40% from the line, against nearly 100% at 50%).",
+      "Correlation does not prove cause, and the data are for a limited number of samples (the graph has only about 15 points), so the exact figures for the horse breeds are uncertain; to overcome the problem more frozen sperm or artificial insemination could be used, and for rare breeds with small populations a lower pregnancy rate may still be better than no breeding."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-112.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-113.jpg",
@@ -42074,7 +42354,10 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-115.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-116.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q43d.jpg",
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q43d-2.jpg"
+     ]
     },
     {
      "id": "4BC-Q44a(i)",
@@ -42203,15 +42486,21 @@ window.BANK.biology = {
       "measurement"
      ],
      "question": "Using a graticule where 100 divisions is 0.1 mm, which is the length of the pollen grain? A 2.3 mm B 23 micrometres C 230 micrometres D 2300 nm.",
-     "status": "pending",
-     "answer": "Pending: needs the number of graticule divisions spanned by the pollen grain, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 23 micrometres",
+     "steps": [
+      "Read the pollen grain on the eyepiece graticule: it extends from about 28 to about 51 divisions, a length of about 23 divisions.",
+      "100 divisions = 0.1 mm = 100 um, so 1 division = 1 um.",
+      "Length = 23 divisions x 1 um = 23 um (B)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-117.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-118.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-119.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q45b.jpg"
+     ]
     },
     {
      "id": "4BC-Q45b(ii)",
@@ -42269,7 +42558,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-118.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-119.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q45c.jpg"
+     ]
     },
     {
      "id": "4BC-Q46a",
@@ -42316,9 +42607,14 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Using the graph of percentage loss in mass of wood blocks for species A and B, comment on the results.",
-     "status": "pending",
-     "answer": "Pending: the graph of percentage mass loss for species A and B is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Species A breaks down wood much faster than species B: the mass loss increases with time for both, reaching about 83% for A but only about 16% for B at 16 weeks.",
+     "steps": [
+      "Both species cause a greater loss in mass of the wood as time increases, so both break it down.",
+      "Species A: about 15% at 4 weeks, 41% at 8 weeks, 52% at 12 weeks and 83% at 16 weeks, so more than 5 times that of B at the end.",
+      "Species B: about 3% at 4 weeks, 11% at 8 weeks, 15% at 12 weeks and 16% at 16 weeks, so B slows down and almost levels off after 12 weeks.",
+      "The error bars for the two species do not overlap at any time (for example at 8 weeks A has 24 to 55 and B has 6 to 15), so the difference is probably significant, although the error bars for A are large at 8 and 12 weeks, so there is much variation between blocks."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-119.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-120.jpg",
@@ -42326,7 +42622,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-122.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-123.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q46b.jpg"
+     ]
     },
     {
      "id": "4BC-Q46b(ii)",
@@ -42357,7 +42655,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-122.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-123.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q46b.jpg"
+     ]
     },
     {
      "id": "4BC-Q46c(i)",
@@ -42373,9 +42673,13 @@ window.BANK.biology = {
       "formula"
      ],
      "question": "Using the table of data for habitat two and the index of diversity formula, calculate the index of diversity for habitat two.",
-     "status": "pending",
-     "answer": "Pending: the habitat two data table is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "3.1",
+     "steps": [
+      "Fill in the missing value for species C: n(n - 1) = 27 x 26 = 702.",
+      "N = 34 + 6 + 27 + 4 + 9 + 31 + 120 = 231, so N(N - 1) = 231 x 230 = 53 130; sum of n(n - 1) = 1122 + 30 + 702 + 12 + 72 + 930 + 14 280 = 17 148.",
+      "D = 53 130 / 17 148 = 3.10, so D = 3.1."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-119.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-120.jpg",
@@ -42383,7 +42687,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-122.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-123.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q46c.jpg"
+     ]
     },
     {
      "id": "4BC-Q46c(ii)",
@@ -42399,9 +42705,12 @@ window.BANK.biology = {
       "higher"
      ],
      "question": "State which habitat has the higher biodiversity, giving a reason.",
-     "status": "pending",
-     "answer": "Pending: needs the habitat two index value, which depends on the table not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Habitat one, because its index of diversity (4.2) is higher than that of habitat two (3.1).",
+     "steps": [
+      "A higher index of diversity means that there are more species and that the individuals are more evenly spread among them.",
+      "Habitat one has D = 4.2 and habitat two has D = 3.1, so habitat one has the higher biodiversity (habitat two is dominated by species G with 120 of 231 individuals)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-119.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-120.jpg",
@@ -42409,7 +42718,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-122.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-123.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q46c.jpg"
+     ]
     },
     {
      "id": "4BC-Q46c(iii)",
@@ -42440,7 +42751,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-122.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-123.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q46c.jpg"
+     ]
     },
     {
      "id": "4BC-Q47a(i)",
@@ -42500,7 +42813,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-125.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-126.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q47a.jpg"
+     ]
     },
     {
      "id": "4BC-Q47a(iii)",
@@ -42530,7 +42845,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-125.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-126.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q47a.jpg"
+     ]
     },
     {
      "id": "4BC-Q47b(i)",
@@ -42546,16 +42863,22 @@ window.BANK.biology = {
       "population"
      ],
      "question": "Calculate the percentage decrease in the Santa Cruz fox population from 1994 to 2002, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the population values are read from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 95% (94.7%)",
+     "steps": [
+      "Santa Cruz is the dashed line: about 1500 foxes in 1994 and about 80 in 2002.",
+      "Decrease = 1500 - 80 = 1420.",
+      "Percentage decrease = 1420 / 1500 x 100 = 94.7%, about 95%."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-123.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-124.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-125.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-126.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q47b.jpg"
+     ]
     },
     {
      "id": "4BC-Q47b(ii)",
@@ -42585,7 +42908,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-125.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-126.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q47b.jpg"
+     ]
     },
     {
      "id": "4BC-Q47b(iii)",
@@ -42615,7 +42940,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-125.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-126.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q47b.jpg"
+     ]
     },
     {
      "id": "4BC-Q48a",
@@ -42662,9 +42989,12 @@ window.BANK.biology = {
       "formula"
      ],
      "question": "Which equation can be used to calculate the heterozygosity index? Options are not included in the text.",
-     "status": "pending",
-     "answer": "Pending: the answer options for this equation question are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: heterozygosity index = number of heterozygotes / number of individuals in the population",
+     "steps": [
+      "The heterozygosity index is the proportion of individuals in the population that are heterozygous for a gene.",
+      "So it is the number of heterozygotes divided by the number of individuals in the population, which is A (the others use the number of species or are the wrong way up)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-126.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-127.jpg",
@@ -42672,7 +43002,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-129.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-130.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q48b.jpg"
+     ]
     },
     {
      "id": "4BC-Q48b(ii)",
@@ -42719,9 +43051,12 @@ window.BANK.biology = {
       "current"
      ],
      "question": "Give one similarity between the current and earlier distribution of the Malayan tapir shown in the map.",
-     "status": "pending",
-     "answer": "Pending: the distribution maps are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The current distribution lies inside the earlier distribution: it is in the same regions (Thailand, the Malay peninsula and Sumatra) and is a narrow strip running along the same direction.",
+     "steps": [
+      "Every area of current distribution (dark grey) lies within the area of the earlier distribution (light grey), so the tapirs are found in the same general areas as before.",
+      "In both cases the distribution is found in Thailand, the Malay peninsula and Sumatra but not in Cambodia or Vietnam."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-126.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-127.jpg",
@@ -42729,7 +43064,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-129.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-130.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q48c.jpg"
+     ]
     },
     {
      "id": "4BC-Q48c(ii)",
@@ -42760,7 +43097,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-129.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-130.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q48c.jpg"
+     ]
     },
     {
      "id": "4BC-Q48c(iii)",
@@ -42791,7 +43130,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-129.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-130.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q48c.jpg"
+     ]
     },
     {
      "id": "4BC-Q49a(i)",
@@ -42867,16 +43208,22 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Explain the effect of increased glyphosate herbicide use on Monarch butterfly populations and their genetic diversity after 2010, using the graph of milkweed fields.",
-     "status": "pending",
-     "answer": "Pending: depends on the graph of percentage of fields with milkweed, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Milkweed is the only food of the caterpillars, and the graph shows its fields fell from 100% in 1999 to about 18% in 2010, so fewer monarchs survive and breed; the population falls and loses genetic diversity.",
+     "steps": [
+      "Female monarchs lay their eggs on milkweed, and the caterpillars feed on it, so the glyphosate that kills milkweed removes food and egg-laying sites.",
+      "The graph shows the percentage of fields containing milkweed fell from 100% (1999) to about 40% (2005) and about 18% (2010), a fall of more than 80%, so after 2010 even fewer caterpillars would survive to adulthood and the monarch population would continue to decline.",
+      "A smaller population means a smaller gene pool: alleles are lost by genetic drift (a genetic bottleneck), there is more inbreeding and so the genetic diversity (the heterozygosity index) falls, which reduces the ability to adapt to disease or change and could lead to extinction."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-130.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-131.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-132.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-133.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q49b.jpg"
+     ]
     },
     {
      "id": "4BC-Q49c(i)",
@@ -42922,16 +43269,21 @@ window.BANK.biology = {
       "normal distribution"
      ],
      "question": "Sketch a labelled graph showing the expected egg-laying rate for a population of hens.",
-     "status": "pending",
-     "answer": "Pending: requires a sketched labelled graph, which cannot be given as text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A bell-shaped (normal distribution) curve with egg-laying rate (e.g. eggs per year) on the x axis and the number of hens on the y axis, with the peak at the mean.",
+     "steps": [
+      "Label the x axis \"egg-laying rate (eggs per year)\" and the y axis \"number of hens\" (frequency).",
+      "Draw a smooth, symmetrical bell-shaped curve with the peak at the mean egg-laying rate, tailing off at both ends without touching the axes, because polygenic traits show continuous variation."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-130.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-131.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-132.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-133.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q49c.jpg"
+     ]
     },
     {
      "id": "4BC-Q50a(i)",
@@ -42947,15 +43299,20 @@ window.BANK.biology = {
       "microscope"
      ],
      "question": "Give the name and function of the organelle shown in the photograph of a plant cell.",
-     "status": "pending",
-     "answer": "Pending: the organelle must be identified from the photograph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Chloroplast; it carries out photosynthesis (absorbs light and makes glucose from carbon dioxide and water).",
+     "steps": [
+      "The organelle has a double membrane and contains stacks of thylakoid membranes (grana) joined by lamellae, so it is a chloroplast.",
+      "Its function is photosynthesis: the light-dependent reactions occur on the thylakoid membranes and the Calvin cycle in the stroma, making sugars."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-133.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-134.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-135.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q50a.jpg"
+     ]
     },
     {
      "id": "4BC-Q50a(ii)",
@@ -42971,15 +43328,20 @@ window.BANK.biology = {
       "reason"
      ],
      "question": "Name the type of microscope used for the photograph and give one reason.",
-     "status": "pending",
-     "answer": "Pending: depends on the appearance of the photograph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Transmission electron microscope (TEM); it shows the internal structure (grana and membranes) in great detail because of its high resolution and magnification.",
+     "steps": [
+      "The image is a flat, thin slice through the organelle, showing its internal membranes (the grana) in detail, which is typical of a transmission electron microscope.",
+      "The thylakoid membranes are only about 10 nm thick and a light microscope (resolution about 200 nm) could not show them, so an electron microscope was used (higher resolution)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-133.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-134.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-135.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q50a.jpg"
+     ]
     },
     {
      "id": "4BC-Q50b(i)",
@@ -43024,15 +43386,21 @@ window.BANK.biology = {
       "formula"
      ],
      "question": "Using the table of individuals of each species in the lake before the pygmy weed appeared, calculate the index of diversity to two decimal places.",
-     "status": "pending",
-     "answer": "Pending: the table of species counts is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "3.85",
+     "steps": [
+      "Fill in the missing values: B: (n - 1) = 11 and n(n - 1) = 132; E: n(n - 1) = 42 (given); F: n(n - 1) = 46 x 45 = 2070.",
+      "N = 54 + 12 + 3 + 31 + 7 + 46 = 153, so N(N - 1) = 153 x 152 = 23 256; sum of n(n - 1) = 2862 + 132 + 6 + 930 + 42 + 2070 = 6042.",
+      "D = 23 256 / 6042 = 3.85 (to 2 decimal places)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-133.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-134.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-135.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q50b.jpg"
+     ]
     },
     {
      "id": "4BC-Q50b(iii)",
@@ -43061,7 +43429,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-134.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-135.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q50b.jpg"
+     ]
     },
     {
      "id": "4BC-Q51a(i)",
@@ -43197,16 +43567,22 @@ window.BANK.biology = {
       "fields"
      ],
      "question": "Give two conclusions that can be made from the graph of the mean number of pods per soybean plant with and without added magnesium ions.",
-     "status": "pending",
-     "answer": "Pending: the graph of pods per soybean plant is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Adding magnesium ions increased the mean number of pods per plant in both years, but the difference is only clearly significant in 2019; and the pods per plant were higher in 2020 in both fields.",
+     "steps": [
+      "With magnesium the mean number of pods is higher than without in 2019 (about 98 against 87.5, 12% more) and in 2020 (about 115.5 against 106.5, 8% more), so magnesium increases the yield, as it is needed for chlorophyll and enzyme activation.",
+      "In 2019 the error bars do not overlap (about 94 to 102 against 84 to 90.5), so the difference is probably significant, but in 2020 they overlap (108 to 122 against 105 to 109), so the difference may be due to chance.",
+      "The mean number of pods was higher in 2020 than in 2019 in both fields (about 20 more), so another factor (such as the weather) also affected the number of pods."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-136.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-137.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-138.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-139.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q51c.jpg"
+     ]
     },
     {
      "id": "4BC-Q51d",
@@ -43222,16 +43598,23 @@ window.BANK.biology = {
       "comment"
      ],
      "question": "Comment on the results of the graph showing the effect of magnesium ions on the mass of soybeans and maize grains.",
-     "status": "pending",
-     "answer": "Pending: the graph of crop grain mass is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Magnesium ions increased the mass of 100 soybeans (about 8%) and 100 maize grains (about 4%), but the effect is clear only for soybean because the error bars for maize overlap; maize grains are about twice as heavy as soybeans.",
+     "steps": [
+      "Soybean: the mass of 100 beans is about 15.5 g without magnesium and about 16.8 g with it (+8%); the error bars do not overlap (about 15 to 16.2 against 16.7 to 16.9), so the increase is probably significant.",
+      "Maize: the mass of 100 grains is about 31.2 g without and 32.5 g with magnesium (+4%); the error bars overlap (30.6 to 31.8 against 31.5 to 33.4), so the difference is not clearly significant.",
+      "Magnesium is needed to make chlorophyll (more photosynthesis, so more sugar and starch to store in the seeds) and to activate enzymes, so seeds are heavier, but the increase is small in both.",
+      "The effect may differ because the two crops differ; for both, more repeats or a larger sample size would give more reliable conclusions."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-136.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-137.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-138.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-139.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q51d.jpg"
+     ]
     },
     {
      "id": "4BC-Q52a(i)",
@@ -43331,16 +43714,22 @@ window.BANK.biology = {
       "identification"
      ],
      "question": "Which labelled structure (W, X, Y or Z) in the micrograph of plant tissues is a xylem vessel?",
-     "status": "pending",
-     "answer": "Pending: the labelled micrograph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Y",
+     "steps": [
+      "Xylem vessels are large cells with thick, lignified walls and wide empty lumens.",
+      "Y points to the group of larger, darker thick-walled cells in the lower half of the vascular bundle, which is the xylem.",
+      "V is the sclerenchyma cap of small thick-walled cells, W is the phloem, X is the layer of cambium and Z is parenchyma."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-141.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-142.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-143.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-144.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q53a.jpg"
+     ]
     },
     {
      "id": "4BC-Q53a(ii)",
@@ -43356,16 +43745,22 @@ window.BANK.biology = {
       "identification"
      ],
      "question": "Which labelled structure (V, W, X or Y) in the micrograph contains sieve plates?",
-     "status": "pending",
-     "answer": "Pending: the labelled micrograph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: W",
+     "steps": [
+      "Sieve plates are found in the sieve tube elements of the phloem.",
+      "W points to the group of small, thin-walled cells (sieve tubes and companion cells) next to the sclerenchyma cap, which is the phloem.",
+      "V is sclerenchyma, X is the cambium and Y is xylem, so none of these contains sieve plates."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-141.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-142.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-143.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-144.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q53a.jpg"
+     ]
     },
     {
      "id": "4BC-Q53a(iii)",
@@ -43487,7 +43882,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-143.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-144.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q53c.jpg"
+     ]
     },
     {
      "id": "4BC-Q54a",
@@ -43503,16 +43900,23 @@ window.BANK.biology = {
       "gametes"
      ],
      "question": "Complete a graph showing how DNA content per cell changes when a cell with 2 a.u. of DNA undergoes meiosis to produce gametes.",
-     "status": "pending",
-     "answer": "Pending: requires a completed graph drawing, which cannot be given as text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw a line: 2 a.u., then a rise to 4 a.u. (DNA replication), a level section at 4, a fall to 2 (end of meiosis I), a level section at 2, and a fall to 1 a.u. (end of meiosis II) at the end.",
+     "steps": [
+      "Start at 2 a.u. (the line already drawn), then DNA replication in interphase doubles the content, so the line rises to 4 a.u. and stays level through the first stages of meiosis (prophase I to anaphase I).",
+      "At the end of meiosis I (when the homologous chromosomes are separated and the cell divides) the DNA content per cell halves in one vertical drop from 4 to 2 a.u., and it stays at 2 a.u. through meiosis II up to anaphase II.",
+      "At the end of meiosis II the chromatids separate and the cells divide, so the content halves again from 2 to 1 a.u., giving gametes with 1 a.u. (a haploid cell has half the DNA of the original diploid cell).",
+      "Use vertical (or steep) lines for the increases and decreases, and plateaus between them."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-144.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-145.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-146.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-147.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q54a.jpg"
+     ]
     },
     {
      "id": "4BC-Q54b",
@@ -43528,16 +43932,22 @@ window.BANK.biology = {
       "photograph"
      ],
      "question": "The actual length of the pollen grain between X and Y is 24 micrometres. Calculate the magnification of the photograph, to two significant figures.",
-     "status": "pending",
-     "answer": "Pending: needs the length of the pollen grain measured on the photograph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About x680 (6.8 x 10^2)",
+     "steps": [
+      "Magnification = length of the image / actual length.",
+      "The line XY measures about 16 mm on the printed page (about 58 px at 745 px per 210 mm); a ruler measurement of 16 mm to 17 mm gives x670 to x710.",
+      "Convert: 16.3 mm = 16 300 um, so magnification = 16 300 / 24 = 680 (6.8 x 10^2)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-144.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-145.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-146.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-147.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q54b.jpg"
+     ]
     },
     {
      "id": "4BC-Q54c",
@@ -43584,16 +43994,21 @@ window.BANK.biology = {
       "table"
      ],
      "question": "How many of the 418 peony plants are heterozygous for gene PS105? A 15 B 60 C 340 D 350.",
-     "status": "pending",
-     "answer": "Pending: depends on the heterozygosity table for the four genes, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 15",
+     "steps": [
+      "The heterozygosity index of PS105 is 0.036 = number of heterozygotes / number of individuals.",
+      "Number of heterozygotes = 0.036 x 418 = 15.05, which is 15 (A)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-144.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-145.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-146.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-147.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q54d.jpg"
+     ]
     },
     {
      "id": "4BC-Q54d(ii)",
@@ -43609,16 +44024,22 @@ window.BANK.biology = {
       "genes"
      ],
      "question": "The width of peony leaves is an example of polygenic inheritance. Which row of the table is correct for leaf width?",
-     "status": "pending",
-     "answer": "Pending: the table rows are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: not one gene; determined by multiple alleles of several genes; continuous variation",
+     "steps": [
+      "Polygenic inheritance means that a characteristic is controlled by several genes, so \"one gene determines leaf width\" is wrong (x).",
+      "Leaf width is determined by multiple alleles of several genes (tick), and polygenic characteristics show continuous variation (tick).",
+      "So the row is x, tick, tick: C."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-144.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-145.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-146.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-147.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q54d.jpg"
+     ]
     },
     {
      "id": "4BC-Q55a(i)",
@@ -43789,9 +44210,13 @@ window.BANK.biology = {
       "formula"
      ],
      "question": "Using the table of data for habitat 1 and the index of diversity formula, calculate the index of diversity to two decimal places.",
-     "status": "pending",
-     "answer": "Pending: the habitat 1 data table is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1.44",
+     "steps": [
+      "Fill in the missing value for species E: n(n - 1) = 63 x 62 = 3906.",
+      "Sum of n(n - 1) = 557 262 + 56 + 5550 + 132 + 3906 = 566 906, and N(N - 1) = 905 x 904 = 818 120.",
+      "D = 818 120 / 566 906 = 1.44 (to 2 decimal places)."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-147.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-148.jpg",
@@ -43799,7 +44224,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-150.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-151.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q55c.jpg"
+     ]
     },
     {
      "id": "4BC-Q55c(ii)",
@@ -43815,9 +44242,12 @@ window.BANK.biology = {
       "comparison"
      ],
      "question": "Habitat 2 has an index of diversity of 2.80. A student says habitat 2 has higher biodiversity. State whether you agree and give a reason.",
-     "status": "pending",
-     "answer": "Pending: needs the habitat 1 index value from the table, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Agree: habitat 2 has the higher biodiversity because its index of diversity (2.80) is higher than that of habitat 1 (1.44).",
+     "steps": [
+      "A higher index of diversity means more species and a more even spread of individuals among them.",
+      "Habitat 1 has D = 1.44 and is dominated by species A (747 of the 905 individuals), whereas habitat 2 has D = 2.80, so habitat 2 has the greater biodiversity."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-147.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-148.jpg",
@@ -43825,7 +44255,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-150.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-151.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q55c.jpg"
+     ]
     },
     {
      "id": "4BC-Q56a",
@@ -43887,7 +44319,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-154.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-155.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q56b.jpg"
+     ]
     },
     {
      "id": "4BC-Q56b(ii)",
@@ -43918,7 +44352,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-154.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-155.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q56b.jpg"
+     ]
     },
     {
      "id": "4BC-Q56c(i)",
@@ -43949,7 +44385,10 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-154.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-155.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q56c.jpg",
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q56c-2.jpg"
+     ]
     },
     {
      "id": "4BC-Q56c(ii)",
@@ -43982,7 +44421,10 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-154.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-155.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q56c.jpg",
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q56c-2.jpg"
+     ]
     },
     {
      "id": "4BC-Q57a",
@@ -44168,16 +44610,22 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Which row gives the name and function of structure Z in the diagram of a prokaryotic cell?",
-     "status": "pending",
-     "answer": "Pending: the diagram and table rows are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: cell membrane; controls what enters and leaves the cell",
+     "steps": [
+      "Z points to the thin membrane just inside the cell wall (and capsule), enclosing the cytoplasm, which is the cell surface (plasma) membrane.",
+      "The cell membrane is partially permeable and controls the movement of substances into and out of the cell.",
+      "A capsule would be the outermost layer, and protein synthesis happens on ribosomes, so the row is D."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-156.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-157.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-158.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-159.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q58b.jpg"
+     ]
     },
     {
      "id": "4BC-Q58b(ii)",
@@ -44193,16 +44641,21 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Give the name and function of structure X and structure Y in the diagram of a prokaryotic cell.",
-     "status": "pending",
-     "answer": "Pending: the labelled prokaryotic cell diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "X is a flagellum, used for movement (swimming); Y is a pilus (pili), used to attach to surfaces or other cells (and for conjugation).",
+     "steps": [
+      "X is a long, wavy thread attached to the end of the cell, so it is a flagellum, and its rotation propels the cell, so it is used for movement.",
+      "Y is a group of short, thin, straight projections from the cell surface, which are pili (singular pilus); they allow the bacterium to attach to surfaces such as host cells, and to other bacteria during conjugation."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-156.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-157.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-158.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-159.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q58b.jpg"
+     ]
     },
     {
      "id": "4BC-Q58b(iii)",
@@ -44232,7 +44685,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-158.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-159.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q58b.jpg"
+     ]
     },
     {
      "id": "4BC-Q58c(i)",
@@ -44262,7 +44717,9 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-158.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-159.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q58c.jpg"
+     ]
     },
     {
      "id": "4BC-Q58c(ii)",
@@ -44278,16 +44735,22 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Cell P has a diameter of 0.60 (units as in the question) and the volume formula is given in the question. Calculate its volume to two decimal places.",
-     "status": "pending",
-     "answer": "Pending: the volume formula and the unit of diameter are not clear in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.11 um^3",
+     "steps": [
+      "The diameter is 0.60 um, so the radius is r = 0.30 um.",
+      "V = 4/3 x pi x r^3 = 4/3 x pi x 0.30^3 = 4/3 x pi x 0.027.",
+      "V = 0.1131 um^3, which is 0.11 um^3 to two decimal places."
+     ],
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-156.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-157.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-158.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-159.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/04BC-Classification-Biodiversity-Q58c.jpg"
+     ]
     }
    ]
   },
@@ -51850,7 +52313,9 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-093.jpg",
       "papers/biology/img/05BC-Ecology-Climate-094.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q35.jpg"
+     ]
     },
     {
      "id": "5BC-Q35bii",
@@ -51867,15 +52332,21 @@ window.BANK.biology = {
       "comparison"
      ],
      "question": "Describe two conclusions that can be made from the graph of spleen volumes of the Saluan and Bajau people.",
-     "status": "pending",
-     "answer": "Missing: the graph of spleen volumes for the Saluan and Bajau people is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The Bajau have larger spleens: their median volume (about 170 cm^3) is about 1.5 times that of the Saluan (about 110 cm^3), and their volumes are more variable (about 40 to 283 cm^3 against about 40 to 170 cm^3).",
+     "steps": [
+      "The median spleen volume of the Bajau (about 170 cm^3) is higher than that of the Saluan (about 110 cm^3), so the Bajau have larger spleens on average.",
+      "The Bajau data are more spread out: the interquartile range is about 135 to 230 cm^3 (95 cm^3) against about 86 to 140 cm^3 (54 cm^3) for the Saluan, and the largest Bajau spleen is about 283 cm^3 against about 170 cm^3.",
+      "The two ranges overlap, with the same lowest value (about 40 cm^3), so some Bajau have spleens no larger than Saluan spleens."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-092.jpg",
       "papers/biology/img/05BC-Ecology-Climate-093.jpg",
       "papers/biology/img/05BC-Ecology-Climate-094.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q35.jpg"
+     ]
     },
     {
      "id": "5BC-Q35c",
@@ -52044,14 +52515,20 @@ window.BANK.biology = {
       "productivity"
      ],
      "question": "Which row of the table identifies the box representing NPP, the box representing GPP and the box representing respiration in the productivity diagram?",
-     "status": "pending",
-     "answer": "Missing: the productivity diagram and the table of boxes are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Box J is GPP, Box K is respiration (R) and Box L is NPP.",
+     "steps": [
+      "Box J receives the input from photosynthesis, so it is gross primary productivity (GPP).",
+      "Part of the GPP is lost as respiration (box K) and the rest is net primary productivity (box L), since NPP = GPP - R.",
+      "The biomass distribution to leaves, wood and roots comes from box L, the NPP."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-096.jpg",
       "papers/biology/img/05BC-Ecology-Climate-097.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q37.jpg"
+     ]
     },
     {
      "id": "5BC-Q37b",
@@ -52126,14 +52603,20 @@ window.BANK.biology = {
       "proteins"
      ],
      "question": "Which row of the table shows what can be found in the biomass of the leaves and roots of trees?",
-     "status": "pending",
-     "answer": "Missing: the table rows are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: leaves contain chlorophyll and starch, and roots contain starch and protein.",
+     "steps": [
+      "Leaves have chloroplasts with chlorophyll and make and store starch.",
+      "Roots contain no chlorophyll, but store starch and contain protein (e.g. enzymes and membrane proteins).",
+      "Glycogen is an animal and fungal storage molecule and is not found in plants, so rows B and D are wrong; row A is wrong because roots have no chlorophyll."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-096.jpg",
       "papers/biology/img/05BC-Ecology-Climate-097.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q37-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q37d",
@@ -52359,15 +52842,22 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Explain the changes in the numbers of alder, spruce and hemlock with time after the glacier has retreated, using the graph.",
-     "status": "pending",
-     "answer": "Missing: the graph of plant numbers against time after glacier retreat is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Alder, the pioneer, rises first and then disappears by 130 years; hemlock and spruce increase later and replace it, with spruce peaking at 110 years and then falling while hemlock stays at 18 per km^2, as in primary succession.",
+     "steps": [
+      "Alder (pioneer) appears first (5 per km^2 at 20 years) and reaches 19 per km^2 at about 80 years; it fixes nitrogen, so adds nitrates and organic matter to the bare soil.",
+      "The improved soil allows hemlock (from 20 years, 18 per km^2 by 80 years) and spruce (rising to 20 per km^2 at 110 years) to establish.",
+      "Alder falls from about 80 years and reaches zero at 130 years because spruce and hemlock grow taller and shade it, so it loses the competition for light.",
+      "Spruce then falls from 20 to 9 per km^2 by 200 years, while hemlock remains steady at 18, because hemlock is better adapted to the shaded conditions and outcompetes spruce, giving a stable climax community."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-099.jpg",
       "papers/biology/img/05BC-Ecology-Climate-100.jpg",
       "papers/biology/img/05BC-Ecology-Climate-101.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q39.jpg"
+     ]
     },
     {
      "id": "5BC-Q40ai",
@@ -52384,15 +52874,20 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "In 1863 there were 150 000 hares. Calculate how many times more hares there were than lynx.",
-     "status": "pending",
-     "answer": "Missing: the number of lynx in 1863 is read from graph 1, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 7 times (150 000 / 22 000 = 6.8).",
+     "steps": [
+      "Read the graph for 1863: the number of lynx is about 22 x 10^3 = 22 000.",
+      "Number of times more hares = 150 000 / 22 000 = 6.8, so about 7."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-101.jpg",
       "papers/biology/img/05BC-Ecology-Climate-102.jpg",
       "papers/biology/img/05BC-Ecology-Climate-103.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q40.jpg"
+     ]
     },
     {
      "id": "5BC-Q40aii",
@@ -52408,15 +52903,21 @@ window.BANK.biology = {
       "population change"
      ],
      "question": "Sketch a line on graph 2 to show the likely changes in the numbers of hares from 1855 to 1880.",
-     "status": "pending",
-     "answer": "Missing: graph 2 and the drawn sketch cannot be shown in text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A cyclic line with the same 10-year cycle as the lynx, with each peak and trough about 1 to 2 years before the lynx peak and trough, and always above the lynx line.",
+     "steps": [
+      "Draw a wavy line on graph 2 from 1855 to 1880 with peaks at about 1865 and 1875, about 1 to 2 years before the lynx peaks (about 1866 and 1876).",
+      "The hare minima should be at about 1860 and 1870, just before the lynx minima (about 1861 and 1871).",
+      "The hare line must be above the lynx line throughout, because hares are more numerous than lynx, and its peaks should be higher."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-101.jpg",
       "papers/biology/img/05BC-Ecology-Climate-102.jpg",
       "papers/biology/img/05BC-Ecology-Climate-103.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q40-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q40aiii",
@@ -52446,7 +52947,10 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-102.jpg",
       "papers/biology/img/05BC-Ecology-Climate-103.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q40.jpg",
+      "papers/biology/fig/05BC-Ecology-Climate-Q40-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q40b",
@@ -52493,16 +52997,22 @@ window.BANK.biology = {
       "label"
      ],
      "question": "Label the Tpiv for turtles on the graph (the temperature at which equal numbers of males and females are produced).",
-     "status": "pending",
-     "answer": "Missing: the graph must be labelled and a drawn label cannot be given in text; Tpiv is where the turtle curve crosses 50% males.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Tpiv is labelled on the x-axis at the temperature where the turtle curve passes through 50% males.",
+     "steps": [
+      "Find the point halfway between 0 and 100% males (50%) on the y-axis.",
+      "Draw a horizontal line across to the turtle curve and a vertical line down to the temperature axis.",
+      "Label the point on the temperature axis where the line meets it as Tpiv."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-103.jpg",
       "papers/biology/img/05BC-Ecology-Climate-104.jpg",
       "papers/biology/img/05BC-Ecology-Climate-105.jpg",
       "papers/biology/img/05BC-Ecology-Climate-106.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q41.jpg"
+     ]
     },
     {
      "id": "5BC-Q41aii",
@@ -52519,16 +53029,22 @@ window.BANK.biology = {
       "sex ratio"
      ],
      "question": "Describe the effect of the temperature of the sand on the percentage of males produced in these three reptiles.",
-     "status": "pending",
-     "answer": "Missing: the graphs of percentage of males against sand temperature for the three reptiles are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Turtles: % males falls from 100% to 0% as sand temperature rises; tuatara: % males rises from 0% to about 100% as it rises; crocodiles: % males is high only in a middle range of temperature, and low at both low and high temperatures.",
+     "steps": [
+      "Turtle: low temperatures give 100% males, and the percentage of males falls steeply over a narrow range (around the pivotal temperature) to 0% at high temperatures, so high temperature gives females.",
+      "Tuatara: the opposite, with about 0% males at low temperature rising to almost 100% males at high temperature.",
+      "Crocodile: males about 0% at low temperature, rising to nearly 100% at an intermediate range of temperatures, then falling to 0% again at high temperature, so females are produced at both extremes."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-103.jpg",
       "papers/biology/img/05BC-Ecology-Climate-104.jpg",
       "papers/biology/img/05BC-Ecology-Climate-105.jpg",
       "papers/biology/img/05BC-Ecology-Climate-106.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q41.jpg"
+     ]
     },
     {
      "id": "5BC-Q41b",
@@ -52545,16 +53061,24 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Explain how temperature determines the sex of turtles, using the graph in part (a) and the diagram.",
-     "status": "pending",
-     "answer": "Missing: the diagram of sex determination and the temperature graph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Temperature switches on one of two gene expression pathways: at lower temperatures the genes for DMRT1, Sox9 and AMH are expressed and the embryo develops male organs, whereas at higher temperatures CIRP and aromatase are expressed and it develops female organs.",
+     "steps": [
+      "The graph shows that for turtles a low sand temperature gives about 100% males and a high temperature gives about 0% males, with a pivotal temperature between at which equal numbers are produced.",
+      "The diagram shows that temperature acts at the stage of development where the pathway divides, so it determines which genes are transcribed and translated.",
+      "At the male-producing temperatures the genes for the three proteins DMRT1, Sox9 and AMH are expressed, so the embryo develops male sex organs.",
+      "At the female-producing temperatures the genes for CIRP and aromatase are expressed instead, so female sex organs develop."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-103.jpg",
       "papers/biology/img/05BC-Ecology-Climate-104.jpg",
       "papers/biology/img/05BC-Ecology-Climate-105.jpg",
       "papers/biology/img/05BC-Ecology-Climate-106.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q41.jpg",
+      "papers/biology/fig/05BC-Ecology-Climate-Q41-2.jpg"
+     ]
     },
     {
      "id": "5BC-Q41ci",
@@ -52603,16 +53127,24 @@ window.BANK.biology = {
       "green sea turtle"
      ],
      "question": "Discuss whether scientists should be concerned that microplastics could be endangering turtles, using all the information including the graph and table.",
-     "status": "pending",
-     "answer": "Missing: the graph of temperature differences and the table of mean sand temperatures are not in the text (the Tpiv values are in the question).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Yes, there is some cause for concern: sand with microplastic is warmer (30.294 and 30.473 C against 30.047 C), and as the control is already above the pivotal temperatures it would produce even more females, but the rise is small compared with the variation, so more evidence is needed.",
+     "steps": [
+      "Microplastic raises the mean sand temperature by 0.25 C (25%) and 0.43 C (30%), and the graph shows the difference is positive on most days, so more microplastic gives more warming.",
+      "The control mean (30.047 C) is already above the pivotal temperatures for flatback (29.4 C) and green turtles (30.0 C), so mostly females are produced; microplastic increases the temperature further, towards the 31.1 C at which all are female (a 0.43 C rise is about 13% of the 3.4 C range from 27.7 to 31.1 C), so the sex ratio would be even more female-biased.",
+      "Too few males would reduce breeding success and genetic diversity, so populations could fall and turtles (already endangered) would be more at risk.",
+      "Against this: the standard deviations (about 3 C) are much larger than the differences (0.25 to 0.43 C), so the effect may not be significant; the tubs are small and short term, not natural beaches, and 25 to 30% microplastic is probably higher than on most beaches.",
+      "Conclusion: scientists should be concerned and should investigate natural beaches and use statistics, because even a small rise could change the sex ratio."
+     ],
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-103.jpg",
       "papers/biology/img/05BC-Ecology-Climate-104.jpg",
       "papers/biology/img/05BC-Ecology-Climate-105.jpg",
       "papers/biology/img/05BC-Ecology-Climate-106.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/05BC-Ecology-Climate-Q41-3.jpg"
+     ]
     },
     {
      "id": "5BC-Q42ai",
@@ -52858,15 +53390,22 @@ window.BANK.biology = {
       "antibiotic resistance"
      ],
      "question": "Explain the changes in the numbers of Mycobacterium and phages after phage therapy started, using the graph.",
-     "status": "pending",
-     "answer": "The graph of bacteria and phage numbers is not in the text, so the answer cannot be given.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Phages infect and destroy the bacteria, so bacteria fall after each phage peak, then phages fall as hosts become scarce, giving repeating, falling peaks until both reach zero.",
+     "steps": [
+      "After therapy starts, the number of phages rises as they infect Mycobacterium and replicate inside them, reaching a peak shortly after the first bacterial peak.",
+      "When phage numbers are high the bacteria are lysed, so the bacterial number falls from its first peak; the phages then also fall because fewer host bacteria are left for them to reproduce in.",
+      "Bacteria that survive (for example because they are not infected) multiply, so a second and a third peak of bacteria occur, each followed by a peak of phages, in a repeating cycle similar to predator and prey; the phage peak always lags the bacterial peak.",
+      "The peaks get smaller each time, so the phages (and the patient's immune system) are reducing the infection, and finally the number of bacteria falls to zero, followed by the phages as they have no hosts left."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-001.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-002.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-003.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q1.jpg"
+     ]
     },
     {
      "id": "6AB-Q2a",
@@ -52885,15 +53424,21 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Tick the correct boxes in a table of statements about artificial immunity (artificial active and passive).",
-     "status": "pending",
-     "answer": "The table of statements and cross boxes is not in the text, so the answer cannot be given.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Antibodies injected: passive only; B cells differentiate into plasma cells: active only; memory cells are formed: active only.",
+     "steps": [
+      "Injecting antibodies gives artificial passive immunity: the antibodies are ready-made, so the person's own B cells are not involved.",
+      "A vaccine (artificial active immunity) stimulates the person's own immune response, so B cells differentiate into plasma cells.",
+      "Memory cells are formed only when the person's own lymphocytes respond, so only in active immunity, not passive."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-003.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-004.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-005.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q2.jpg"
+     ]
     },
     {
      "id": "6AB-Q2b(i)",
@@ -53109,9 +53654,13 @@ window.BANK.biology = {
       "bacteria"
      ],
      "question": "Explain why an antimicrobial substance that affects E. coli only was included in the assay (row H).",
-     "status": "pending",
-     "answer": "Needs the results diagram (what row H shows and which bacteria are affected); not fully in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "It is a positive control: a substance known to affect E. coli shows that the E. coli can be inhibited and that the method works, and allows the other substances to be compared with it.",
+     "steps": [
+      "The row H substance is known to kill or stop the growth of E. coli, so it acts as a positive control.",
+      "If no growth is seen in its low-concentration wells (columns 1 to 5), this shows that the E. coli is sensitive, the method and incubation worked, and any growth in other wells is due to a lack of effect of the substances and not a fault.",
+      "It also provides a standard against which the effectiveness of the other seven antimicrobial substances (rows A to G) can be compared."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-005.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-006.jpg",
@@ -53119,7 +53668,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q3.jpg"
+     ]
     },
     {
      "id": "6AB-Q3c(ii)",
@@ -53153,7 +53704,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q3.jpg"
+     ]
     },
     {
      "id": "6AB-Q3c(iii)",
@@ -53187,7 +53740,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q3.jpg"
+     ]
     },
     {
      "id": "6AB-Q3c(iv)",
@@ -53206,9 +53761,14 @@ window.BANK.biology = {
       "times more effective"
      ],
      "question": "Calculate how many times more effective the antimicrobial in one row is than the antimicrobial in row E, using their MIC columns.",
-     "status": "pending",
-     "answer": "The rows and MIC column numbers are shown only in the diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "32 times",
+     "steps": [
+      "Row E: growth starts in column 5, so its MIC is in column 4.",
+      "Row G: no growth up to column 9, so its MIC is in column 9.",
+      "Each column is a 1 in 2 dilution, so the concentration is halved 5 times from column 4 to column 9: 2^5 = 32.",
+      "The substance in row G is effective at 1/32 of the concentration of that in row E, so it is 32 times more effective."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-005.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-006.jpg",
@@ -53216,7 +53776,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q3.jpg"
+     ]
     },
     {
      "id": "6AB-Q4a",
@@ -53329,15 +53891,21 @@ window.BANK.biology = {
       "growth conditions"
      ],
      "question": "How many of four listed changes (decrease/increase pH, decrease/increase temperature) could result in faster growth?",
-     "status": "pending",
-     "answer": "Depends on whether the student's conditions were above or below the optimum, which is not stated in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 2",
+     "steps": [
+      "The bacteria are not at their optimum, so each factor has only one direction of change that would speed growth up.",
+      "One of the two pH changes (decrease or increase) would move the pH towards the optimum, and one of the two temperature changes would do the same.",
+      "So 2 of the 4 changes would give faster growth."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-010.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-011.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q4.jpg"
+     ]
     },
     {
      "id": "6AB-Q4c(iii)",
@@ -53356,15 +53924,21 @@ window.BANK.biology = {
       "decimal places"
      ],
      "question": "Calculate the growth rate constant (k) of these bacteria between 4 and 10 hours, to two decimal places.",
-     "status": "pending",
-     "answer": "Needs population values read from the growth curve graph and the equation, which are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "2.49 (per hour)",
+     "steps": [
+      "From the graph, log10 N at 4 hours = 2.0 (N0) and at 10 hours = 6.5 (Nt), so t = 10 - 4 = 6 hours.",
+      "k = (6.5 - 2.0) / (0.301 x 6) = 4.5 / 1.806.",
+      "k = 2.49 generations per hour (2 decimal places)."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-010.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-011.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q4.jpg"
+     ]
     },
     {
      "id": "6AB-Q5a",
@@ -53474,16 +54048,22 @@ window.BANK.biology = {
       "optical method"
      ],
      "question": "Complete the table to show the increase in cell number between 4 and 6 hours of culture.",
-     "status": "pending",
-     "answer": "Needs the table values and calibration curve, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 8.4 x 10^5 (accept about 8.0 to 8.5 x 10^5) cells per cm^3.",
+     "steps": [
+      "Use the calibration graph: number of bacteria is proportional to turbidity, about 1.6 x 10^6 per a.u. (1.45 x 10^6 at 0.9).",
+      "Turbidity at 4 h = 0.04 gives about 6.5 x 10^4 cells per cm^3; at 6 h = 0.56 gives about 9.0 x 10^5.",
+      "Increase = 9.0 x 10^5 - 6.5 x 10^4 = about 8.4 x 10^5 (0.52 a.u. x 1.6 x 10^6)."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-012.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-013.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-014.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-015.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q6.jpg"
+     ]
     },
     {
      "id": "6AB-Q6b",
@@ -53502,16 +54082,22 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Explain the changes in cell number during the first six hours of the culture.",
-     "status": "pending",
-     "answer": "Depends on the table values and calibration data for the first six hours, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "There is no growth for the first 2 hours (lag), a small increase to 4 hours, then very rapid growth between 4 and 6 hours (exponential phase).",
+     "steps": [
+      "0 to 2 hours: turbidity stays at 0.01 and the increase is 0, because the bacteria are adapting to the medium (lag phase) and making enzymes, so are not yet dividing.",
+      "2 to 4 hours: turbidity rises only to 0.04 (an increase of 5.0 x 10^4), because only a few cells have begun to divide.",
+      "4 to 6 hours: turbidity rises to 0.56 (an increase of about 8.4 x 10^5), because the bacteria are dividing by binary fission at the maximum rate (exponential phase), with plentiful nutrients, so the cell number rapidly doubles each generation."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-012.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-013.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-014.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-015.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q6.jpg"
+     ]
     },
     {
      "id": "6AB-Q6c(i)",
@@ -53577,7 +54163,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-014.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-015.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q6-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q7a",
@@ -53687,14 +54275,20 @@ window.BANK.biology = {
       "species"
      ],
      "question": "Describe the effects of this antibiotic on the bacteria present in the throat, using charts before and after treatment.",
-     "status": "pending",
-     "answer": "The before and after charts of bacterial proportions are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Types J and K are eliminated by the antibiotic, whereas L, M, N and O survive, so their proportions rise or stay the same (M from about 15% to 26%, N from 22% to 34%).",
+     "steps": [
+      "Before treatment there were six types (J about 17%, K about 6%, L about 26%, M about 15%, N about 22%, O about 13%).",
+      "After treatment types J and K are no longer present, so the antibiotic kills these types (they are sensitive to it).",
+      "Types L, M, N and O remain, so are not affected (resistant); their proportion increases, with M from about 15% to 26% and N from about 22% to 34%, while L (about 27%) and O (about 12%) are about the same, and the charts show proportions, not the total numbers."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-015.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-016.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q7.jpg"
+     ]
     },
     {
      "id": "6AB-Q8a",
@@ -53776,15 +54370,21 @@ window.BANK.biology = {
       "antibiotic"
      ],
      "question": "Which option identifies the antibiotic in the diagram and the method used?",
-     "status": "pending",
-     "answer": "The chromatogram diagram and the Rf table are not in the text, so the option cannot be checked.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: tetracycline using method 2.",
+     "steps": [
+      "Rf = distance moved by the spot from the origin / distance moved by the solvent front from the origin.",
+      "On the chromatogram the spot is about 151 mm from the origin and the solvent front is about 205 mm from the origin.",
+      "Rf = 151 / 205 = 0.74, which is closest to 0.75, the Rf of tetracycline using method 2."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-016.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-017.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-018.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q8.jpg"
+     ]
     },
     {
      "id": "6AB-Q8b(iii)",
@@ -53816,7 +54416,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-017.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-018.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q8.jpg"
+     ]
     },
     {
      "id": "6AB-Q9a",
@@ -54058,15 +54660,21 @@ window.BANK.biology = {
       "plasmid"
      ],
      "question": "Put one cross in each row to show whether genes are found in each structure of bacteria and fungi.",
-     "status": "pending",
-     "answer": "The table of structures and rows is not in the text, so the answer cannot be given.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Mitochondria: fungi only; nuclei: fungi only; 70S ribosomes: neither (they contain rRNA and protein, not genes).",
+     "steps": [
+      "Mitochondria contain their own DNA (genes) and are found only in eukaryotes, so only in the fungi: fungi only.",
+      "The nucleus contains the chromosomes (genes) and is found only in eukaryotes, so only in the fungi: fungi only.",
+      "70S ribosomes are made of rRNA and protein and do not contain genes (the genes for rRNA are in the DNA), so as written the answer is neither; if the question meant which organisms have 70S ribosomes, it would be both, because bacteria have 70S ribosomes and fungal mitochondria also have them."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-020.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-021.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-022.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q10.jpg"
+     ]
     },
     {
      "id": "6AB-Q10c(i)",
@@ -54085,15 +54693,21 @@ window.BANK.biology = {
       "escherichia"
      ],
      "question": "Which sequence shows the succession of bacteria during development of a giant panda (options A to D)?",
-     "status": "pending",
-     "answer": "Depends on the graph of relative abundance, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Escherichia and Shigella, then Streptococcus, then Clostridium (the order in which each group peaks, from cubs to adults).",
+     "steps": [
+      "The graph has three groups of bars: one highest in cubs and falling with age, one highest in young animals, and one rising to be highest in adults, which gives the order of succession.",
+      "Escherichia and Shigella are early colonisers of the gut and are most abundant in cubs.",
+      "Clostridium (anaerobic bacteria that digest cellulose) increases as the panda starts eating bamboo, so is most abundant in adults, with Streptococcus in between; the group names are not shown on the page, so this order is based on this biology, giving option C."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-020.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-021.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-022.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q10-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q10c(ii)",
@@ -54271,9 +54885,13 @@ window.BANK.biology = {
       "source"
      ],
      "question": "Explain why this drug could be produced only from B memory cells taken from a person who did not have Alzheimer's disease.",
-     "status": "pending",
-     "answer": "Needs the mark scheme reasoning for why B cells from an affected person would not give a suitable antibody; the text does not state this clearly.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A person with Alzheimer's disease has not made effective antibodies against beta-amyloid, so only a person without the disease has B memory cells with the gene for an antibody that clears beta-amyloid.",
+     "steps": [
+      "The drug is an antibody specific to beta-amyloid, so the B memory cells used must make an effective antibody for it.",
+      "In a person with Alzheimer's disease the beta-amyloid has built up into plaques, showing that their immune system has not made antibodies that destroy it.",
+      "B memory cells from a person without the disease make antibodies that remove beta-amyloid and prevent plaques, so these cells provide the gene for the effective antibody."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-022.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-023.jpg",
@@ -54518,16 +55136,21 @@ window.BANK.biology = {
       "linear"
      ],
      "question": "Name the type of scale used on the y-axis of the survival time graph for fish.",
-     "status": "pending",
-     "answer": "The graph is not in the text, so the scale type (presumably logarithmic) cannot be confirmed.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A logarithmic scale (log10).",
+     "steps": [
+      "The y-axis values 10, 100, 1000 and 10000 are equal distances apart, so each step is a 10-fold increase.",
+      "This is a logarithmic (log10) scale, not a linear one."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-026.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q13.jpg"
+     ]
     },
     {
      "id": "6AB-Q13b(ii)",
@@ -54612,16 +55235,22 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Calculate the Q10 for this enzyme stored for 3 hours, using the formula and initial rate at 20 C.",
-     "status": "pending",
-     "answer": "Needs the formula (missing from the text) and the initial rates from the graph.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1.6",
+     "steps": [
+      "Read the graph for the enzyme stored for 3 hours: the rate at 20 C (R_t) = 2.7 a.u.",
+      "The rate at 30 C (R_t+10) = 4.3 a.u.",
+      "Q10 = 4.3 / 2.7 = 1.6."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-026.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q13-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q13c(ii)",
@@ -54639,16 +55268,22 @@ window.BANK.biology = {
       "initial rate"
      ],
      "question": "Explain why the optimum temperature for this enzyme is affected by storage time.",
-     "status": "pending",
-     "answer": "Depends on the direction of the shift shown in the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "With longer storage some enzyme molecules denature, so the rate falls and the optimum shifts to a lower temperature (about 45 C after 3 h, about 38 C after 10 h, about 33 C after 26 h).",
+     "steps": [
+      "During storage the enzyme molecules gradually lose their tertiary structure (bonds such as hydrogen bonds break), so the active site changes shape and fewer enzyme molecules can bind substrate, giving a lower maximum rate.",
+      "The enzyme molecules that are left are partly unfolded and less stable, so they are denatured by heat at a lower temperature than fresh enzyme.",
+      "So the optimum temperature falls as storage time increases (from about 41 to 49 C for 3 hours to about 38 C for 10 hours and about 33 C for 26 hours)."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-026.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q13-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q14a(i)",
@@ -54762,16 +55397,22 @@ window.BANK.biology = {
       "decomposition"
      ],
      "question": "Calculate the rate of change in mass between day 5 and day 15 of decomposition, in kg per hour to two decimal places.",
-     "status": "pending",
-     "answer": "Needs the mass values read from the graph, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.08 kg per hour (a decrease in mass).",
+     "steps": [
+      "From the graph, the mass at day 5 is 22 kg and at day 15 it is 3 kg.",
+      "Change in mass = 3 - 22 = -19 kg over 10 days, which is 10 x 24 = 240 hours.",
+      "Rate = 19 / 240 = 0.079 = 0.08 kg per hour (loss)."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-029.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q14.jpg"
+     ]
     },
     {
      "id": "6AB-Q14b(iii)",
@@ -54790,16 +55431,23 @@ window.BANK.biology = {
       "decomposers"
      ],
      "question": "Explain the changes in mass of the mammal during decomposition.",
-     "status": "pending",
-     "answer": "Depends on the shape of the mass-time graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Mass is almost constant when fresh, falls fastest during the active stage when maggots and microorganisms break down soft tissue, then falls slowly to about 1 kg of remains (hair, bone and dry skin).",
+     "steps": [
+      "Fresh and bloated stages (0 to 5 days): mass falls only slightly (from 23 to 22 kg) because the body is still intact, with only a small loss of fluid and gas from bacterial action.",
+      "Active stage (5 to 10 days): mass falls rapidly (from 22 to about 9 kg) as the body ruptures, fly larvae (maggots) feed on the soft tissue, and bacteria and fungi decompose proteins and fats; liquids drain away and gases are lost.",
+      "Advanced stage (10 to 15 days): mass falls more slowly (to about 3 kg) as little soft tissue is left to feed on.",
+      "Remains stage: mass becomes steady at about 1 kg because only tough materials such as bone, hair and dry skin remain, which decompose very slowly."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-029.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q14.jpg"
+     ]
     },
     {
      "id": "6AB-Q14b(iv)",
@@ -54850,16 +55498,23 @@ window.BANK.biology = {
       "forensic"
      ],
      "question": "Explain how the data in the table illustrate succession.",
-     "status": "pending",
-     "answer": "The table of insects collected is not in the text, so the answer cannot be checked.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Different insect species dominate at different stages: Lucilia first (100% when fresh), then Cochliomyia (68.4% in the active stage), then Ophyra (30.9% advanced and 83.9% in the remains).",
+     "steps": [
+      "Lucilia are the first colonisers: 100% of insects when fresh and 61.4% when bloated, but only 1.8% in the active stage.",
+      "Cochliomyia replaces them, peaking at 68.4% in the active stage and then falling to 35.1% (advanced) and 0% (remains).",
+      "Ophyra appears later (0.6% active, 30.9% advanced) and dominates the remains (83.9%), and Fannia only appears in the advanced stage (0.1%).",
+      "Each species is replaced as the body changes (conditions change from fresh tissue to dry remains), which is succession."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-029.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q14-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q15a(i)",
@@ -54877,15 +55532,20 @@ window.BANK.biology = {
       "q r s t"
      ],
      "question": "Which labelled structure of the HIV diagram is RNA (options A to D: R, Q, S, T)?",
-     "status": "pending",
-     "answer": "The labelled HIV diagram is not in the text, so the structure cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Q",
+     "steps": [
+      "The RNA is the genetic material inside the capsid; it is the long thread-like strand in the centre of the virus.",
+      "R, S and T are the glycoprotein, matrix and capsid, which are made of protein, so only Q is RNA."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q15.jpg"
+     ]
     },
     {
      "id": "6AB-Q15a(ii)",
@@ -54903,15 +55563,21 @@ window.BANK.biology = {
       "virus structure"
      ],
      "question": "How many of structures Q, R and S of the HIV diagram contain protein (options A to D)?",
-     "status": "pending",
-     "answer": "The labelled HIV diagram is not in the text, so the count cannot be checked.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 2",
+     "steps": [
+      "R is a glycoprotein spike in the envelope, so it contains protein.",
+      "S is the matrix or capsid layer, which is made of protein.",
+      "Q is the RNA, which is not protein, so only R and S (2 structures) contain protein."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q15.jpg"
+     ]
     },
     {
      "id": "6AB-Q15a(iii)",
@@ -54929,15 +55595,21 @@ window.BANK.biology = {
       "options"
      ],
      "question": "Which virus has structure P and contains RNA (options A to D)?",
-     "status": "pending",
-     "answer": "Needs the labelled HIV diagram to know which structure is P.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: Ebola virus only.",
+     "steps": [
+      "P is the lipid envelope that surrounds the capsid in HIV.",
+      "Ebola virus has a lipid envelope and RNA, so it has structure P.",
+      "Tobacco mosaic virus has only a helical capsid and RNA, and has no envelope."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q15.jpg"
+     ]
     },
     {
      "id": "6AB-Q15a(iv)",
@@ -54955,15 +55627,21 @@ window.BANK.biology = {
       "standard form"
      ],
      "question": "The diameter of HIV is 120 nm. Which is the approximate magnification of the drawing (options A to D)?",
-     "status": "pending",
-     "answer": "The size of the drawing on the page is needed, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: x 500 000",
+     "steps": [
+      "Magnification = image size / actual size.",
+      "The diameter of the drawing (envelope) is about 5.4 cm on the page, which is 5.4 x 10^7 nm.",
+      "Magnification = 5.4 x 10^7 / 120 = 4.5 x 10^5, about x 500 000."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q15.jpg"
+     ]
     },
     {
      "id": "6AB-Q15b(i)",
@@ -54994,7 +55672,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q15-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q15b(ii)",
@@ -55011,15 +55691,21 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the mean rate of increase in the number of people infected with HIV from 2005 to 2010, in standard form.",
-     "status": "pending",
-     "answer": "Needs the number of infections read from the graph in 2005 and 2010, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 2 x 10^5 people per year (accept about 2 to 3 x 10^5).",
+     "steps": [
+      "Read the graph: the number of people infected is about 3.1 (x10 = 31 million) in 2005 and about 3.2 (x10 = 32 million) in 2010; the graph values are divided by 10.",
+      "Increase = 32 million - 31 million = 1 x 10^6 over 5 years.",
+      "Mean rate = 1 x 10^6 / 5 = 2 x 10^5 people per year (reading to 3.07 and 3.20 gives 2.6 x 10^5)."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q15-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q15b(iii)",
@@ -55050,7 +55736,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q15-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q15b(iv)",
@@ -55081,7 +55769,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q15-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q15b(v)",
@@ -55131,16 +55821,22 @@ window.BANK.biology = {
       "macrophages"
      ],
      "question": "Which row of the table shows the cells that present antigens to T helper and T killer cells?",
-     "status": "pending",
-     "answer": "The table of cell types and rows is not in the text, so the row cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: macrophages present antigens to T helper cells, and host-infected cells present antigens to T killer cells.",
+     "steps": [
+      "Macrophages engulf pathogens and present the antigens on their surface to T helper cells.",
+      "T killer cells recognise antigens displayed on the surface of host cells that are infected (or cancerous), which they then destroy.",
+      "Only row C has macrophages for T helper cells and host-infected cells for T killer cells."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-034.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-035.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q16.jpg"
+     ]
     },
     {
      "id": "6AB-Q16b(i)",
@@ -55174,7 +55870,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q16-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q16b(ii)",
@@ -55207,7 +55905,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q16-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q16b(iii)",
@@ -55240,7 +55940,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q16-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q16b(iv)",
@@ -55273,7 +55975,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q16-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q16b(v)",
@@ -55480,15 +56184,22 @@ window.BANK.biology = {
       "birth"
      ],
      "question": "Describe the changes in classes of antibody in a fetus before birth and in a child after birth, using the graph.",
-     "status": "pending",
-     "answer": "The graph of IgA and IgG concentrations is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Maternal IgG appears about 6 months before birth, rises to about 1100 mg per 100 cm^3 at birth, then falls to near zero by about 10 months, while the child's own IgG starts at birth and rises to about 600 by 12 months, and IgA stays very low.",
+     "steps": [
+      "Before birth: IgG from the mother first appears at about 6 months before birth and rises steeply to a peak of about 1100 mg per 100 cm^3 at birth (it crosses the placenta).",
+      "After birth: IgG from the mother falls rapidly to about 200 at 2 months, about 50 at 4 months and about 0 by 9 to 10 months, because it is broken down and not replaced.",
+      "The child makes its own IgG from birth, rising slowly then to about 200 at 2 months, 350 at 4 months and about 600 at 12 months.",
+      "IgA from the mother is at a very low concentration, rising only slightly after birth to about 80 at 12 months."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-038.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-039.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-040.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q18.jpg"
+     ]
     },
     {
      "id": "6AB-Q18b(ii)",
@@ -55519,7 +56230,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-039.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-040.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q18.jpg"
+     ]
     },
     {
      "id": "6AB-Q18b(iii)",
@@ -55551,7 +56264,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-039.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-040.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q18.jpg"
+     ]
     },
     {
      "id": "6AB-Q19a(i)",
@@ -55569,15 +56284,20 @@ window.BANK.biology = {
       "inflammatory"
      ],
      "question": "Give one piece of evidence, shown in the photographs, that rheumatoid arthritis is an inflammatory condition.",
-     "status": "pending",
-     "answer": "The photographs of the hands are not in the text, so the visible sign cannot be confirmed (likely swelling of the joints).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Swelling of the joints (knuckles and fingers) in the hand with rheumatoid arthritis compared with the normal hand.",
+     "steps": [
+      "The photograph of the affected hand shows swollen, enlarged finger joints (knuckles) that make the hand and fingers look distorted.",
+      "Swelling is a sign of inflammation, and it is not present in the normal hand."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-040.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-041.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-042.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q19.jpg"
+     ]
     },
     {
      "id": "6AB-Q19a(ii)",
@@ -55608,7 +56328,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-041.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-042.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q19.jpg"
+     ]
     },
     {
      "id": "6AB-Q19b(i)",
@@ -55640,7 +56362,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-041.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-042.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q19-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q19b(ii)",
@@ -55672,7 +56396,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-041.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-042.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q19-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q19b(iii)",
@@ -55783,14 +56509,20 @@ window.BANK.biology = {
       "treatment effect"
      ],
      "question": "Compare and contrast the effect of treating inflammation with curcumin extract and drug A, using the graph.",
-     "status": "pending",
-     "answer": "The graph of the effects of curcumin and drug A is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both treatments reduce inflammation below the untreated level and both reduce it more over the 6 days, but curcumin extract is more effective than drug A on every day, especially on days 1 and 2.",
+     "steps": [
+      "Similarity: with both curcumin extract and drug A inflammation is below the level with no treatment (the dashed line), and it generally falls as the days go by (day 6 lowest for both).",
+      "Difference: curcumin extract gives lower inflammation than drug A on all six days, e.g. on day 1 it is about half of drug A, and on day 2 about 40%.",
+      "Difference: with drug A inflammation is highest on day 2 and then falls, whereas curcumin has a smaller fall over the first 3 days and then falls to its lowest level at day 6; the gap between them is greatest on day 2 and smaller by day 6."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-043.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-044.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q20.jpg"
+     ]
     },
     {
      "id": "6AB-Q20b(ii)",
@@ -56027,9 +56759,13 @@ window.BANK.biology = {
       "needed"
      ],
      "question": "Explain the use of antibiotics to treat the medical conditions shown in the table.",
-     "status": "pending",
-     "answer": "The table of conditions and whether antibiotics are needed is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Antibiotics kill or stop the growth of bacteria, so they are needed for the bacterial infections (impetigo, whooping cough) and only sometimes for ear and sinus infections, which can be caused by bacteria or viruses, and not for multiple sclerosis or rheumatoid arthritis, which are not infections.",
+     "steps": [
+      "Impetigo and whooping cough are caused by bacteria, so antibiotics are needed.",
+      "Middle ear and sinus infections are sometimes caused by bacteria (antibiotics needed) and sometimes by viruses (antibiotics do not work on viruses), so antibiotics are needed only sometimes.",
+      "Multiple sclerosis and rheumatoid arthritis are autoimmune diseases, not caused by pathogens, so antibiotics are not needed."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-046.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-047.jpg",
@@ -56037,7 +56773,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q22.jpg"
+     ]
     },
     {
      "id": "6AB-Q22b",
@@ -56055,9 +56793,13 @@ window.BANK.biology = {
       "effect"
      ],
      "question": "Which row of the table describes each of drugs J, K and L from the graph?",
-     "status": "pending",
-     "answer": "The graph and table of drug descriptions are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: drug J is not an antibiotic, drug K is a bacteriostatic antibiotic and drug L is a bactericidal antibiotic.",
+     "steps": [
+      "With drug J the number of bacteria rises quickly, so it has no antibacterial effect (not an antibiotic).",
+      "With drug K the number of bacteria rises only very slightly, so growth is stopped but the bacteria are not killed: bacteriostatic.",
+      "With drug L the number of bacteria falls steadily, so the bacteria are being killed: bactericidal."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-046.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-047.jpg",
@@ -56065,7 +56807,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q22-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q22c(i)",
@@ -56150,9 +56894,13 @@ window.BANK.biology = {
       "6 000 000"
      ],
      "question": "The number of type A bacteria in gut flora without antibiotics is 6 000 000. Estimate the number of type B, in standard form.",
-     "status": "pending",
-     "answer": "The relative proportions of types A and B are shown only in the diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 1 x 10^7",
+     "steps": [
+      "On the 'no antibiotic' pie chart, the sector for type A is about 63 degrees and the sector for type B is about 106 degrees.",
+      "Ratio B : A = 106 / 63 = 1.7.",
+      "Number of type B = 1.7 x 6 000 000 = 1.0 x 10^7 (about 1 x 10^7)."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-046.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-047.jpg",
@@ -56160,7 +56908,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q22-3.jpg"
+     ]
     },
     {
      "id": "6AB-Q22c(iv)",
@@ -56179,9 +56929,13 @@ window.BANK.biology = {
       "types of bacteria"
      ],
      "question": "Deduce the effects of antibiotics P, Q and R on gut flora, using the diagrams.",
-     "status": "pending",
-     "answer": "The diagrams showing the effects of P, Q and R are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "P and Q greatly reduce the diversity of gut flora, leaving mainly one type, whereas R has little effect on the types and proportions.",
+     "steps": [
+      "Antibiotic P: only three types remain (one type makes up about 75%), so most types are killed and diversity is much reduced.",
+      "Antibiotic Q: more types remain than with P but they are in very small proportions and one type is about 75% of the total, so diversity is also greatly reduced.",
+      "Antibiotic R: the types and proportions are almost the same as with no antibiotic, so R has little or no effect on gut flora (it may be narrow-spectrum); the charts show proportions, not the total number of bacteria."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-046.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-047.jpg",
@@ -56189,7 +56943,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q22-3.jpg"
+     ]
     },
     {
      "id": "6AB-Q23a",
@@ -56334,15 +57090,21 @@ window.BANK.biology = {
       "results"
      ],
      "question": "Determine the effect that Castaneroxy A has on the mean size of skin infections, using the graph.",
-     "status": "pending",
-     "answer": "The graph of mean infection size for each treatment is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Castaneroxy A reduces the mean size of the skin infection at both concentrations, and 50 ug per cm^3 reduces it much more than 10 ug per cm^3 (peak about 0.05 cm^2 against about 0.57 cm^2, compared with 1.13 cm^2 with solvent only).",
+     "steps": [
+      "With solvent only, the mean size of infection rises to a peak of about 1.13 cm^2 at 6 days and falls to about 0.28 cm^2 by 14 days.",
+      "With 10 ug per cm^3 Castaneroxy A the peak is about 0.57 cm^2 at 6 days (about 50% lower than the control), falling to about 0.05 cm^2 at 14 days (about 80% lower).",
+      "With 50 ug per cm^3 the infection stays very small, below about 0.07 cm^2 at all times, a reduction of about 95% at the peak and about 100% by 12 to 14 days, so a higher concentration is much more effective; the error bars do not overlap with the control after day 3, so the differences are probably significant."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-050.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-051.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-052.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q23.jpg"
+     ]
     },
     {
      "id": "6AB-Q23d(iii)",
@@ -56485,15 +57247,21 @@ window.BANK.biology = {
       "plasma"
      ],
      "question": "Compare and contrast the changes in antibody concentration in the blood plasma after the first infection and the second infection, using the graph.",
-     "status": "pending",
-     "answer": "The graph of antibody concentrations for the first and second infections is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both show a rise in antibody concentration and then a fall, but after the second infection the rise starts sooner, is much faster and reaches a much higher peak (about 2.5 times higher) than after the first infection.",
+     "steps": [
+      "Similarity: after both infections the antibody concentration rises to a peak and then falls.",
+      "Difference: after the first infection there is a lag before the concentration rises slowly, to a lower peak; after the second infection the rise starts immediately and is very steep, reaching a much higher peak.",
+      "Reason: memory B cells formed after the first infection respond rapidly to the same antigen, so plasma cells make a lot of antibody quickly (the secondary response)."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-052.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-053.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-054.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q24.jpg"
+     ]
     },
     {
      "id": "6AB-Q25a",
@@ -56511,15 +57279,21 @@ window.BANK.biology = {
       "nutritional components"
      ],
      "question": "Estimate the percentage composition of oligosaccharides in colostrum from the charts.",
-     "status": "pending",
-     "answer": "The charts of nutritional components are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 60%",
+     "steps": [
+      "The pie chart for colostrum has three sectors: oligosaccharides (the largest), protein and fat.",
+      "Measuring the angle for oligosaccharides gives about 216 degrees, since fat is about 80 degrees and protein about 58 degrees.",
+      "Percentage = 216 / 360 x 100 = 60% (accept about 55 to 65%)."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-054.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-055.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-056.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q25.jpg"
+     ]
     },
     {
      "id": "6AB-Q25b(i)",
@@ -56537,15 +57311,21 @@ window.BANK.biology = {
       "milk source"
      ],
      "question": "Describe two conclusions about the gut flora of babies fed breast milk or another milk, from the graph.",
-     "status": "pending",
-     "answer": "The bar chart of bacterial proportions is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Babies fed breast milk have a higher proportion of Bifidobacterium and Bacteroides, and a lower proportion of Enterococcus, Streptococcus and Veillonella, than those fed another milk.",
+     "steps": [
+      "Conclusion 1: Bifidobacterium is the most common type in both groups, but the proportion is higher in the breast milk group (about 1.4 times as high).",
+      "Conclusion 2: Bacteroides is much more common in breast-fed babies (about 8 times as high), whereas Enterococcus, Streptococcus and Veillonella are less common in breast-fed babies than in the other group.",
+      "So breast milk (probably the oligosaccharides) changes the types of gut flora."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-054.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-055.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-056.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q25-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q25b(ii)",
@@ -56946,16 +57726,22 @@ window.BANK.biology = {
       "changes"
      ],
      "question": "Describe three conclusions that could be made from the graph of bacteria groups on the skin of men of different ages.",
-     "status": "pending",
-     "answer": "The graph of bacterial groups on men of different ages is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Teenagers have the most Firmicutes (about 21%) and Actinobacteria (about 30%), whereas middle-aged and elderly men are dominated by Proteobacteria (about 87-88%); middle-aged and elderly men are very similar.",
+     "steps": [
+      "Conclusion 1: Proteobacteria are the largest group in all three age groups, but make up only about 46% in teenagers compared with about 88% in the middle aged and about 86% in the elderly.",
+      "Conclusion 2: Firmicutes fall from about 21% in teenagers to about 2% in the middle aged and elderly, and Actinobacteria fall from about 30% to about 9-11%.",
+      "Conclusion 3: Middle-aged and elderly men have almost the same skin flora, with the elderly having slightly more Actinobacteria (about 11% against 9%) and slightly less Proteobacteria; the 'others' group is a small percentage (about 1 to 3%) at every age, so most change occurs between teenage years and middle age."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-060.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-061.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-062.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-063.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q28.jpg"
+     ]
     },
     {
      "id": "6AB-Q28b(ii)",
@@ -56987,7 +57773,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-062.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-063.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q28.jpg"
+     ]
     },
     {
      "id": "6AB-Q28c(i)",
@@ -57163,15 +57951,21 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Complete the diagram to show the base sequence of the positive RNA strand complementary to the given negative strand.",
-     "status": "pending",
-     "answer": "The base sequence is shown only in the diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "U G G U U C C G C",
+     "steps": [
+      "The positive strand is complementary to the negative strand, using RNA base pairing.",
+      "A pairs with U (there is no thymine in RNA), C with G, G with C.",
+      "Negative A C C A A G G C G gives positive U G G U U C C G C."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-063.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q29.jpg"
+     ]
     },
     {
      "id": "6AB-Q29b(ii)",
@@ -57203,7 +57997,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q29.jpg"
+     ]
     },
     {
      "id": "6AB-Q29c",
@@ -57268,7 +58064,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q30.jpg"
+     ]
     },
     {
      "id": "6AB-Q30b",
@@ -57286,9 +58084,13 @@ window.BANK.biology = {
       "photometer"
      ],
      "question": "Calculate how many times more bacterial cells there are than yeast cells if both samples have an optical density of 1.0 a.u.",
-     "status": "pending",
-     "answer": "Needs the calibration curve values for bacteria and yeast at 1.0 a.u., which are shown in a graph not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 30 times (12.5 x 10^6 / 0.4 x 10^6 = 31).",
+     "steps": [
+      "On the graph, at an optical density of 1.0 a.u., the bacterial cells number about 12.5 x 10^6 per cm^3.",
+      "The yeast cells at an optical density of 1.0 a.u. number about 0.4 x 10^6 per cm^3.",
+      "Ratio = 12.5 / 0.4 = 31, so about 30 times more bacterial cells."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-065.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-066.jpg",
@@ -57296,7 +58098,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q30.jpg"
+     ]
     },
     {
      "id": "6AB-Q30c(i)",
@@ -57328,7 +58132,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q30.jpg"
+     ]
     },
     {
      "id": "6AB-Q30c(ii)",
@@ -57362,7 +58168,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q30-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q30d",
@@ -57431,7 +58239,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q30.jpg"
+     ]
     },
     {
      "id": "6AB-Q31a",
@@ -57481,15 +58291,20 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "How much more antibiotic is in part B3 than in part B2 of the mast ring (options A to D)?",
-     "status": "pending",
-     "answer": "Needs the mass values for parts B2 and B3 from the table, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 50.0 times.",
+     "steps": [
+      "Part B3 has 0.5 mg = 500 ug of antibiotic B; part B2 has 10 ug of antibiotic B.",
+      "500 / 10 = 50, so B3 has 50.0 times as much."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-069.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-070.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-071.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q31.jpg"
+     ]
     },
     {
      "id": "6AB-Q31c",
@@ -57521,7 +58336,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-070.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-071.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q31.jpg"
+     ]
     },
     {
      "id": "6AB-Q32a(i)",
@@ -57710,7 +58527,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q33-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q33b(i)",
@@ -57741,7 +58560,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q33.jpg"
+     ]
     },
     {
      "id": "6AB-Q33b(ii)",
@@ -57772,7 +58593,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q33.jpg"
+     ]
     },
     {
      "id": "6AB-Q33b(iii)",
@@ -57789,15 +58612,21 @@ window.BANK.biology = {
       "explain"
      ],
      "question": "Explain how antibiotic P could affect M. tuberculosis, using the table of antibiotics.",
-     "status": "pending",
-     "answer": "The table giving the details of antibiotic P is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "P prevents synthesis of fatty acids, so the bacteria cannot make mycolic acids for their cell wall, which makes them more vulnerable to lysozyme, dehydration and polar antibiotics, and slows growth.",
+     "steps": [
+      "Antibiotic P activates an enzyme that inhibits the synthesis of fatty acids, and mycolic acids are long-chain fatty acids, so fewer mycolic acids are made.",
+      "Without mycolic acid the cell wall is weaker and less protective, so the bacteria are more easily damaged by lysozyme, by dehydration and by polar (hydrophilic) antibiotics.",
+      "New cell walls and membranes cannot be made for new cells, so the bacteria cannot divide or grow properly, and so they are killed or their number falls."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-073.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q33.jpg"
+     ]
     },
     {
      "id": "6AB-Q33b(iv)",
@@ -57814,15 +58643,21 @@ window.BANK.biology = {
       "explain"
      ],
      "question": "Explain how antibiotic R could affect M. tuberculosis, using the table of antibiotics.",
-     "status": "pending",
-     "answer": "The table giving the details of antibiotic R is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "R binds to the active site of RNA polymerase, so transcription stops, and no mRNA, enzymes or other proteins are made, so the bacteria cannot grow or divide.",
+     "steps": [
+      "Antibiotic R is a competitive inhibitor: it binds to the active site of RNA polymerase, so the enzyme cannot bind to the DNA template and make mRNA.",
+      "Without mRNA there is no translation, so the bacteria cannot make new proteins such as enzymes (for example for cell wall synthesis, DNA replication and respiration).",
+      "So the bacteria cannot grow, repair themselves or divide, and the bacterial population falls; it acts on the bacterial RNA polymerase and so has little effect on human cells."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-073.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q33.jpg"
+     ]
     },
     {
      "id": "6AB-Q33b(v)",
@@ -58069,15 +58904,20 @@ window.BANK.biology = {
       "labelled"
      ],
      "question": "How many of the organelles labelled in the fungal cell diagram have membranes (options A to D)?",
-     "status": "pending",
-     "answer": "The labelled fungal diagram is not in the text, so the number of membrane-bound organelles cannot be counted.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 3",
+     "steps": [
+      "The membrane-bound organelles labelled are the nuclei (double membrane), the mitochondria (double membrane) and the Golgi apparatus (single membrane): 3.",
+      "The cell wall, ribosomes, glycogen granules and cytoplasm have no membrane, and the cell membrane is not an organelle."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-078.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-079.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-080.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q35.jpg"
+     ]
     },
     {
      "id": "6AB-Q35a(ii)",
@@ -58109,7 +58949,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-079.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-080.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q35.jpg"
+     ]
     },
     {
      "id": "6AB-Q35b",
@@ -58127,15 +58969,22 @@ window.BANK.biology = {
       "natural selection"
      ],
      "question": "Explain the relationship between the number of aminopenicillin prescriptions and the percentage of E. coli resistant to aminopenicillin, using the graph.",
-     "status": "pending",
-     "answer": "The graph of prescriptions and percentage resistance is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "There is a positive correlation with a time lag: resistance peaks in March to April, about 1 to 2 months after the peak of prescriptions in January to February, and both fall to a minimum in July to September, then rise again.",
+     "steps": [
+      "When many prescriptions are issued (January to February), antibiotic use gives selection pressure: sensitive bacteria are killed but resistant E. coli survive and reproduce, so the percentage resistant rises, to a peak in March to April.",
+      "When the number of prescriptions falls (to the lowest in July), there is less selection pressure, so non-resistant bacteria are no longer killed and increase, so the percentage of resistant E. coli falls (to a minimum from July to September).",
+      "The change in resistance lags behind the change in prescriptions by about 1 to 2 months, because it takes time for the bacteria to reproduce and for the proportions to change, and for the resistance alleles to spread (including by horizontal transfer of plasmids).",
+      "When prescriptions rise again from July, resistance rises about two months later, so the two curves follow the same pattern."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-078.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-079.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-080.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q35-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q35c",
@@ -58153,15 +59002,21 @@ window.BANK.biology = {
       "misuse"
      ],
      "question": "Explain why the results of this survey are a cause for concern.",
-     "status": "pending",
-     "answer": "The survey diagram is not in the text, so the results cannot be checked.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Misuse of antibiotics (to satisfy patient pressure and without knowing if needed) increases selection for antibiotic-resistant bacteria, so infections become harder to treat and fewer antibiotics are left that work.",
+     "steps": [
+      "Prescribing antibiotics for viral infections (the 70% unsure and 49% not knowing if necessary) is a waste because antibiotics have no effect on viruses.",
+      "Unnecessary use puts selection pressure on bacteria, so resistant strains such as MRSA survive, reproduce and pass on the resistance alleles, and resistance spreads in the population.",
+      "Then fewer infections can be treated, so illness and deaths and costs rise; 90% felt under pressure and 44% prescribed to get a patient to leave, which means decisions are not made on medical need."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-078.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-079.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-080.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q35-3.jpg"
+     ]
     },
     {
      "id": "6AB-Q36a",
@@ -58211,15 +59066,21 @@ window.BANK.biology = {
       "attitudes"
      ],
      "question": "Identify three conclusions from the results of the vaccine attitude survey, using the graph.",
-     "status": "pending",
-     "answer": "The survey graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "In every income group trust in scientists is highest in those who agree that vaccines are safe and lowest in those who disagree; trust falls as income rises, and the gap between the agree and disagree groups is bigger in high-income groups.",
+     "steps": [
+      "Conclusion 1: in all four income groups, people who agree vaccines are safe have the highest trust in scientists, and those who disagree have the lowest, with 'neither' in between.",
+      "Conclusion 2: trust in scientists is lower as income rises for all three groups, for example 'agree' falls from about 238 to 217 on the vertical scale, and 'disagree' from about 187 to 142.",
+      "Conclusion 3: the difference between those who agree and those who disagree is greater in the high-income group (about 35% lower) than in the low-income group (about 21% lower)."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-080.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-081.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-082.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q36.jpg"
+     ]
     },
     {
      "id": "6AB-Q36b(ii)",
@@ -58250,7 +59111,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-081.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-082.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q36.jpg"
+     ]
     },
     {
      "id": "6AB-Q36c",
@@ -58425,14 +59288,20 @@ window.BANK.biology = {
       "structure"
      ],
      "question": "For each structure (nucleic acid type, capsid arrangement, envelope, enzymes), put one cross in the appropriate box to show which viruses have that structure.",
-     "status": "pending",
-     "answer": "The table of viruses and structures is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "DNA: neither Ebola nor HIV; helical capsid: Ebola only; envelope: both Ebola and HIV.",
+     "steps": [
+      "Ebola virus and HIV both have RNA as their genetic material, so neither contains DNA.",
+      "Ebola virus has a helical (filamentous) capsid, whereas HIV has a conical (icosahedral) capsid, so only Ebola has a helical capsid.",
+      "Both Ebola virus and HIV are surrounded by a lipid envelope taken from the host cell membrane, so both have an envelope."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-084.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-085.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q38.jpg"
+     ]
     },
     {
      "id": "6AB-Q38b(i)",
@@ -58570,15 +59439,21 @@ window.BANK.biology = {
       "exponential"
      ],
      "question": "Calculate the growth rate constant (k) of these bacteria between 2 and 6 hours of culture, using log10 counts from the graph.",
-     "status": "pending",
-     "answer": "Needs the bacterial counts at 2 and 6 hours read from the growth curve graph, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "2.66 per hour (accept 2.5 to 2.8).",
+     "steps": [
+      "From the graph, at 2 hours log10 N0 = 2.0 and at 6 hours log10 Nt = 5.2 (both students' curves are the same until 8 hours).",
+      "Time t = 6 - 2 = 4 hours.",
+      "k = (5.2 - 2.0) / (0.301 x 4) = 3.2 / 1.204 = 2.66 per hour."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-085.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-086.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-087.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q39.jpg"
+     ]
     },
     {
      "id": "6AB-Q39c(i)",
@@ -58609,7 +59484,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-086.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-087.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q39.jpg"
+     ]
     },
     {
      "id": "6AB-Q39c(ii)",
@@ -58640,7 +59517,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-086.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-087.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q39.jpg"
+     ]
     },
     {
      "id": "6AB-Q40a",
@@ -58845,16 +59724,21 @@ window.BANK.biology = {
       "vaccination"
      ],
      "question": "For each statement in the table, tick whether it is true for artificial active or artificial passive immunity.",
-     "status": "pending",
-     "answer": "The table of statements and tick boxes is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Antigens are injected into the person: active only; immunity is long term: active only.",
+     "steps": [
+      "Artificial active immunity is given by injecting antigens (a vaccine), whereas artificial passive immunity is given by injecting ready-made antibodies.",
+      "Active immunity is long term because the person's own B cells make memory cells, whereas the injected antibodies of passive immunity are broken down within weeks or months."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-089.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q41.jpg"
+     ]
     },
     {
      "id": "6AB-Q41b",
@@ -58918,7 +59802,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q41-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q41c(ii)",
@@ -58936,16 +59822,22 @@ window.BANK.biology = {
       "times greater"
      ],
      "question": "In group 1, Vac 2 increased antibody levels more than Vac 1. Calculate how many times greater this increase was.",
-     "status": "pending",
-     "answer": "Needs the antibody level values for Vac 1 and Vac 2 from the graph, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 20 times (19.9).",
+     "steps": [
+      "The axis is log10 antibody levels: group 1 is about 3.1 after Vac 1 and 4.4 after Vac 2.",
+      "The difference in log10 values = 4.4 - 3.1 = 1.3.",
+      "Antibody level ratio = 10^1.3 = 19.9, so about 20 times greater."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-089.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q41-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q41c(iii)",
@@ -58977,7 +59869,9 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q41-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q41c(iv)",
@@ -58996,16 +59890,24 @@ window.BANK.biology = {
       "explain results"
      ],
      "question": "Explain the results of this investigation (groups 1 and 2 after Vac 1 and Vac 2).",
-     "status": "pending",
-     "answer": "Needs the detailed graphs of antibody levels for both groups, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Group 1 shows a primary response after Vac 1 and a faster, larger secondary response after Vac 2 (memory cells), while group 2 already had memory cells from infection, so responded strongly to Vac 1 and did not rise more after Vac 2.",
+     "steps": [
+      "Group 1 (never infected): after Vac 1 antibody level is fairly low (log10 about 3.1) because this is the primary response, which is slow as few B cells recognise the antigen and the clones must be selected, plasma cells and memory cells produced.",
+      "After Vac 2 the level is much higher (log10 about 4.4, about 20 times more) because memory B cells made after Vac 1 divide rapidly and become plasma cells that make antibody quickly (secondary response).",
+      "Group 2 (previously infected): there is already a level of antibody before vaccination (log10 3.0) as the earlier infection produced memory cells, so Vac 1 produces a secondary response straight away, giving a high level (about 4.7), higher than group 1 after Vac 1.",
+      "After Vac 2 there is no further rise (about 4.7), perhaps because the maximum response has been reached or the existing antibodies destroyed the antigen before more memory cells were activated.",
+      "So the number of exposures to the antigen (infection or vaccine) determines the antibody level."
+     ],
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-089.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/06AB-Microbiology-Immunity-Q41-2.jpg"
+     ]
     },
     {
      "id": "6AB-Q42a",
@@ -64961,10 +65863,10 @@ window.BANK.biology = {
      ],
      "question": "Describe two conclusions about the decomposition of sugar maple leaves compared with white oak leaves.",
      "status": "ready",
-     "answer": "Sugar maple leaves decompose faster and further than white oak (about 8% of dry mass left after 120 days against about 60%), and most of the loss happens late, between 60 and 90 days.",
+     "answer": "Sugar maple leaves decompose faster and further than white oak (about 8% of dry mass left after 120 days against about 60%), with a very large loss between 60 and 90 days.",
      "steps": [
-      "By 120 days only about 8% of the sugar maple dry mass remains, but about 60% of white oak remains, so sugar maple decomposes more quickly and completely.",
-      "Sugar maple fell to about 63% within 30 days, then rose slightly to about 67% at 60 days, before dropping sharply to about 14% at 90 days; white oak decreased slowly and steadily from 100% to about 70% by 30 days and then stayed at about 70% to 90% before falling to about 60%."
+      "By 120 days only about 8% of the sugar maple dry mass remains, but about 60% of white oak remains, so sugar maple decomposes more quickly and more completely.",
+      "Sugar maple fell to about 63% within 30 days, rose slightly to about 67% at 60 days, and then dropped sharply to about 14% at 90 days; white oak decreased more slowly, falling to about 70% by 30 days, staying at about 70% until 60 days, and then falling slowly to about 60% at 120 days."
      ],
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-65.jpg",
@@ -67205,15 +68107,20 @@ window.BANK.biology = {
       "bpm"
      ],
      "question": "Describe the relationship between exercise intensity and heart rate, using the table of data for swimmers.",
-     "status": "pending",
-     "answer": "Pending: the table of heart rate against exercise intensity is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Positive correlation: heart rate rises as exercise intensity increases, from 118 bpm at intensity 4 to 160 bpm at intensity 14.",
+     "steps": [
+      "Heart rate increases as the intensity of exercise increases (positive relationship): 118 bpm at 4 a.u. to 160 bpm at 14 a.u., a rise of 42 bpm.",
+      "The rise is not steady: only 2 bpm from 4 to 6, a steep rise of 18 bpm from 6 to 8, then a slower rise (about 5 bpm per 2 a.u.) from 10 to 14, so the rate of increase becomes smaller."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-01.jpg",
       "papers/biology/img/07B-Muscles-Heart-02.jpg",
       "papers/biology/img/07B-Muscles-Heart-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q1.jpg"
+     ]
     },
     {
      "id": "7B-Q1b",
@@ -67230,15 +68137,21 @@ window.BANK.biology = {
       "difference"
      ],
      "question": "Using the table of resting cardiac output and stroke volume for swimmers and a control group, calculate the difference in resting heart rate (2 d.p., with units).",
-     "status": "pending",
-     "answer": "Pending: the table of mean resting cardiac output and stroke volume values is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "12.55 bpm lower in swimmers (59.54 bpm against 72.09 bpm)",
+     "steps": [
+      "Heart rate = cardiac output / stroke volume, so convert cardiac output to cm^3: 4.43 dm^3 min^-1 = 4430 cm^3 min^-1 and 4.21 dm^3 min^-1 = 4210 cm^3 min^-1.",
+      "Swimmers: 4430 / 74.40 = 59.54 bpm; control: 4210 / 58.40 = 72.09 bpm.",
+      "Difference = 72.09 - 59.54 = 12.55 beats per minute (bpm), with swimmers lower."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-01.jpg",
       "papers/biology/img/07B-Muscles-Heart-02.jpg",
       "papers/biology/img/07B-Muscles-Heart-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q1-2.jpg"
+     ]
     },
     {
      "id": "7B-Q1c",
@@ -67255,15 +68168,24 @@ window.BANK.biology = {
       "tables"
      ],
      "question": "Explain the role of the heart in responding to regular exercise, using both tables and own knowledge.",
-     "status": "pending",
-     "answer": "Pending: the answer must use the two data tables, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The heart increases cardiac output in exercise by raising heart rate and stroke volume; regular exercise gives a larger stroke volume (74.40 against 58.40 cm^3), so the resting heart rate is lower (about 59.5 against 72.1 bpm) for a similar resting cardiac output.",
+     "steps": [
+      "During exercise, muscles respire faster, so more CO2 is produced; chemoreceptors detect the higher CO2 (lower pH) and the medulla increases sympathetic stimulation of the SAN (with adrenaline), so heart rate rises, from 118 to 160 bpm as intensity increases from 4 to 14 a.u.",
+      "A higher heart rate and a greater force of contraction increase cardiac output, delivering more oxygen and glucose to muscles and removing CO2 and lactate.",
+      "In regular swimmers the cardiac muscle of the ventricle walls becomes thicker and stronger, so each beat pumps more blood: resting stroke volume is 74.40 cm^3 compared with 58.40 cm^3, an increase of about 27%.",
+      "Resting cardiac output is similar (4.43 against 4.21 dm^3 min^-1, about 5% higher), so with a larger stroke volume the swimmers' heart can beat more slowly at rest (59.5 against 72.1 bpm), which is more efficient and gives the heart more time to fill during diastole.",
+      "The trained heart has a greater reserve, so its maximum cardiac output is greater and it can supply more oxygen during exercise and recover faster."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-01.jpg",
       "papers/biology/img/07B-Muscles-Heart-02.jpg",
       "papers/biology/img/07B-Muscles-Heart-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q1.jpg",
+      "papers/biology/fig/07B-Muscles-Heart-Q1-2.jpg"
+     ]
     },
     {
      "id": "7B-Q2a(i)",
@@ -67280,16 +68202,21 @@ window.BANK.biology = {
       "structure X"
      ],
      "question": "Identify the protein that forms the structure labelled X in the sarcomere diagram (options: actin, myosin, tropomyosin, troponin).",
-     "status": "pending",
-     "answer": "Pending: the labelled sarcomere diagram (structure X) is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: myosin",
+     "steps": [
+      "X points to the long filaments in the middle of the sarcomere that are not attached to the Z lines (the thick filaments).",
+      "Thick filaments are made of the protein myosin; the thin filaments joined to the Z lines are actin."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-03.jpg",
       "papers/biology/img/07B-Muscles-Heart-04.jpg",
       "papers/biology/img/07B-Muscles-Heart-05.jpg",
       "papers/biology/img/07B-Muscles-Heart-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q2.jpg"
+     ]
     },
     {
      "id": "7B-Q2a(ii)",
@@ -67306,16 +68233,22 @@ window.BANK.biology = {
       "A band"
      ],
      "question": "State which labelled part of the sarcomere diagram becomes shorter when the muscle contracts (options W, X, Y, Z).",
-     "status": "pending",
-     "answer": "Pending: the labelled sarcomere diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Z (the H zone)",
+     "steps": [
+      "Z is the gap between the ends of the thin (actin) filaments, where only thick (myosin) filaments are present: the H zone.",
+      "When the muscle contracts, the thin filaments slide towards the centre, so the gap Z gets shorter.",
+      "W is the zone where thick and thin filaments overlap, which gets longer, and X and Y (filament lengths) do not change."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-03.jpg",
       "papers/biology/img/07B-Muscles-Heart-04.jpg",
       "papers/biology/img/07B-Muscles-Heart-05.jpg",
       "papers/biology/img/07B-Muscles-Heart-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q2.jpg"
+     ]
     },
     {
      "id": "7B-Q2a(iii)",
@@ -67393,16 +68326,25 @@ window.BANK.biology = {
       "TMPD"
      ],
      "question": "Using the oxygen consumption results for healthy and mitochondrial disease samples treated with different substrates, comment on the defects in the electron transport chain.",
-     "status": "pending",
-     "answer": "Pending: the table of oxygen consumption results for each sample is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Individual 1 has a defect at or after cytochrome c (complex IV); individual 2 shows no defect; individual 3 has a defect in the first complex (entry of NAD electrons); individual 4 has a defect between the two entry points and cytochrome c (complex III).",
+     "steps": [
+      "Healthy ranges (mean +/- SD): pyruvate and malate 16.0 to 26.0, succinate 9.0 to 18.0, reduced TMPD 43.0 to 83.0 pmol O2 min^-1 mg^-1; pyruvate and malate feed electrons in through reduced NAD, succinate through reduced FAD, and reduced TMPD donates to cytochrome c, bypassing the earlier complexes.",
+      "Individual 1: all three values (3.0, 3.5, 13.0) are far below normal, so electron transfer is blocked at or after cytochrome c (cytochrome oxidase, complex IV), a step that all electrons pass through.",
+      "Individual 2: 18.0, 10.0 and 60.0 are all within the healthy ranges, so there is no detectable defect in the electron transport chain.",
+      "Individual 3: only pyruvate and malate is low (6.5), while succinate (14.0) and TMPD (51.0) are normal, so the defect is in the first complex that accepts electrons from reduced NAD.",
+      "Individual 4: pyruvate and malate (7.5) and succinate (6.0) are low, but TMPD (40.0) is nearly normal, so the defect lies after the two entry points but before cytochrome c (complex III, which both reduced NAD and reduced FAD pathways share).",
+      "Oxygen consumption is lower where the chain is blocked, since less oxygen is used as the final acceptor, so less ATP is made."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-03.jpg",
       "papers/biology/img/07B-Muscles-Heart-04.jpg",
       "papers/biology/img/07B-Muscles-Heart-05.jpg",
       "papers/biology/img/07B-Muscles-Heart-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q2-2.jpg"
+     ]
     },
     {
      "id": "7B-Q3a",
@@ -67419,15 +68361,21 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Calculate the difference in percentage decrease in heart rate between the unfit and fit person 120 seconds after exercise (unfit person decreased by 16%).",
-     "status": "pending",
-     "answer": "Pending: the fit person percentage decrease at 120 s must be read from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "31 percentage points (47.1 - 16 = 31.1)",
+     "steps": [
+      "Fit person: heart rate falls from 170 bpm at 0 s to 90 bpm at 120 s.",
+      "Percentage decrease = (170 - 90) / 170 x 100 = 47.1%.",
+      "Difference = 47.1 - 16 = 31.1, which is 31 percentage points (to the same precision as the 16% given)."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-06.jpg",
       "papers/biology/img/07B-Muscles-Heart-07.jpg",
       "papers/biology/img/07B-Muscles-Heart-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q3.jpg"
+     ]
     },
     {
      "id": "7B-Q3b",
@@ -67444,15 +68392,21 @@ window.BANK.biology = {
       "5 minutes"
      ],
      "question": "Calculate the heart rate of the unfit person at 5 minutes using a straight-line equation fitted to the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph values needed for the gradient and intercept are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 109 bpm (accept about 105 to 112)",
+     "steps": [
+      "Take two points on the unfit person's line: (0 s, 190 bpm) and (240 s, 125 bpm).",
+      "Gradient m = (125 - 190) / (240 - 0) = -0.271 bpm per second, and the intercept c = 190 bpm.",
+      "5 minutes = 300 s, so y = -0.271 x 300 + 190 = 190 - 81.3 = 108.7, about 109 bpm."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-06.jpg",
       "papers/biology/img/07B-Muscles-Heart-07.jpg",
       "papers/biology/img/07B-Muscles-Heart-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q3.jpg"
+     ]
     },
     {
      "id": "7B-Q3c",
@@ -67469,15 +68423,21 @@ window.BANK.biology = {
       "cardiac output"
      ],
      "question": "Explain the difference in the time the fit and unfit person take to recover from exercise, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the answer depends on the graph showing which person recovers faster and by how much.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The fit person recovers much faster: heart rate is back to about 70 bpm in 210 s, whereas the unfit person is still at 125 bpm after 240 s and would take over twice as long.",
+     "steps": [
+      "Fit person: heart rate falls from 170 to 90 bpm in 120 s and levels at about 70 bpm by 210 s; the unfit person falls from 190 to only 160 bpm in 120 s and is still falling at 125 bpm after 240 s.",
+      "Extending the unfit line (about 0.27 bpm per second) it would reach 70 bpm after about 440 s (over 7 minutes), roughly twice the time for the fit person.",
+      "A fit person has a larger stroke volume and a stronger heart, so more oxygen is delivered per beat, and more capillaries and mitochondria in muscles, so the oxygen debt and lactate are cleared faster and the blood CO2 returns to normal sooner, so the heart rate falls back quicker."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-06.jpg",
       "papers/biology/img/07B-Muscles-Heart-07.jpg",
       "papers/biology/img/07B-Muscles-Heart-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q3.jpg"
+     ]
     },
     {
      "id": "7B-Q3d",
@@ -67528,15 +68488,21 @@ window.BANK.biology = {
       "12.5 minutes"
      ],
      "question": "Calculate the percentage difference in the change in heart rate when using drug B between 5 and 12.5 minutes.",
-     "status": "pending",
-     "answer": "Pending: the mean heart rate values for drug B at 5 and 12.5 minutes must be read from the graph.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 93% (increase from about 30 bpm to about 58 bpm)",
+     "steps": [
+      "Read the drug B line: the change in heart rate is about 30 bpm at 5 minutes and about 58 bpm at 12.5 minutes.",
+      "Difference = 58 - 30 = 28 bpm.",
+      "Percentage difference = 28 / 30 x 100 = 93% (accept about 90 to 96%)."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-08.jpg",
       "papers/biology/img/07B-Muscles-Heart-09.jpg",
       "papers/biology/img/07B-Muscles-Heart-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q4.jpg"
+     ]
     },
     {
      "id": "7B-Q4b",
@@ -67554,15 +68520,21 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Compare and contrast the effects of drug A and drug B on heart rate during the investigation, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the answer depends on the graph of mean heart rate for each drug.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both drugs reduce the rise in heart rate compared with the salt solution, but drug A gives a fast rise that levels off at about 95 bpm, while drug B gives a slow steady rise to only about 62 bpm.",
+     "steps": [
+      "Similarity: both drugs keep the increase in heart rate below that of the salt solution (control), which reaches about 100 to 115 bpm.",
+      "Drug A: heart rate rises rapidly in the first 3 minutes (to about 80 bpm), then slowly levels off at about 95 bpm from about 8 minutes, only slightly below the control.",
+      "Drug B: heart rate rises slowly and steadily throughout and has not levelled off, reaching only about 62 bpm at 15 minutes, so drug B reduces the increase much more than drug A (about 62 against 92 bpm)."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-08.jpg",
       "papers/biology/img/07B-Muscles-Heart-09.jpg",
       "papers/biology/img/07B-Muscles-Heart-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q4.jpg"
+     ]
     },
     {
      "id": "7B-Q4c",
@@ -67579,15 +68551,21 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Explain the effect of drugs A and B on the control of heart rate.",
-     "status": "pending",
-     "answer": "Pending: which drug raises or lowers heart rate must be read from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both drugs reduce the effect of stress (adrenaline and sympathetic stimulation) on the SAN, so heart rate rises less; drug B has the stronger effect, probably by blocking more receptors.",
+     "steps": [
+      "Stress releases adrenaline and increases sympathetic stimulation, which bind to receptors on the SAN and increase its rate of firing, so heart rate rises, as seen with the salt solution.",
+      "The drugs probably act as blockers: they bind to the receptors for adrenaline/noradrenaline on the SAN and heart muscle, so the hormone cannot bind and heart rate increases less.",
+      "Drug A reduces the rise only slightly (about 95 against about 100 to 115 bpm), whereas drug B blocks much more (about 62 bpm), and slows the rate of increase, so it is more effective or acts on more receptors."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-08.jpg",
       "papers/biology/img/07B-Muscles-Heart-09.jpg",
       "papers/biology/img/07B-Muscles-Heart-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q4.jpg"
+     ]
     },
     {
      "id": "7B-Q5a",
@@ -67664,15 +68642,20 @@ window.BANK.biology = {
       "labelled S"
      ],
      "question": "Name the structures labelled S on the electron micrograph of a proximal tubule.",
-     "status": "pending",
-     "answer": "Pending: the labelled electron micrograph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Microvilli",
+     "steps": [
+      "S marks the finger-like projections on the cell surface facing the lumen of the proximal tubule: the microvilli (brush border).",
+      "They increase the surface area for the reabsorption of glucose, amino acids and ions."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-10.jpg",
       "papers/biology/img/07B-Muscles-Heart-11.jpg",
       "papers/biology/img/07B-Muscles-Heart-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q5.jpg"
+     ]
     },
     {
      "id": "7B-Q5c(i)",
@@ -67746,15 +68729,21 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Explain the concentrations of glucose and urea in urine, using the table of plasma, filtrate and urine concentrations.",
-     "status": "pending",
-     "answer": "Pending: the table of glucose and urea concentrations in plasma, filtrate and urine is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Glucose is filtered but then all reabsorbed, so none is in the urine; urea is filtered and left behind while water is reabsorbed, so its concentration is much higher in urine (21.00 against 0.30 g dm^-3).",
+     "steps": [
+      "Glucose has the same concentration in the filtrate as in plasma (1.50 g dm^-3), because it is a small molecule that passes through the basement membrane in ultrafiltration.",
+      "It is 0.00 in urine, because all the glucose is reabsorbed in the proximal tubule by active transport (co-transport with sodium ions), so none remains.",
+      "Urea is also filtered (0.30 g dm^-3), but it is not actively reabsorbed (only a little diffuses back), while water is reabsorbed by osmosis, so urea is concentrated about 70 times (21.00 / 0.30) in the urine."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-10.jpg",
       "papers/biology/img/07B-Muscles-Heart-11.jpg",
       "papers/biology/img/07B-Muscles-Heart-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q5-2.jpg"
+     ]
     },
     {
      "id": "7B-Q5e",
@@ -67860,16 +68849,22 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Complete the table to show the units for cardiac index, the cardiac index for individual A, and the cardiac output for individual B.",
-     "status": "pending",
-     "answer": "Pending: the data table with body surface area and cardiac index values is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Cardiac index units: dm^3 min^-1 m^-2; individual A cardiac index = 3.5; individual B cardiac output = 4.2 dm^3 min^-1.",
+     "steps": [
+      "Cardiac index = cardiac output / body surface area, so the unit is dm^3 min^-1 divided by m^2 = dm^3 min^-1 m^-2.",
+      "Individual A: 6.7 / 1.92 = 3.49, so about 3.5 dm^3 min^-1 m^-2.",
+      "Individual B: cardiac output = cardiac index x body surface area = 2.8 x 1.49 = 4.17, so about 4.2 dm^3 min^-1."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-13.jpg",
       "papers/biology/img/07B-Muscles-Heart-14.jpg",
       "papers/biology/img/07B-Muscles-Heart-15.jpg",
       "papers/biology/img/07B-Muscles-Heart-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q6.jpg"
+     ]
     },
     {
      "id": "7B-Q6b(iii)",
@@ -67887,16 +68882,26 @@ window.BANK.biology = {
       "graphs"
      ],
      "question": "Discuss the effect of ageing on the response of the heart to adrenaline, using the two graphs.",
-     "status": "pending",
-     "answer": "Pending: the answer must use the two graphs of heart response to adrenaline, which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "With age the heart responds less effectively to adrenaline: older people show a larger rise in heart rate but a smaller rise in cardiac index and in blood pressure, so their stroke volume and contractility must be lower.",
+     "steps": [
+      "Heart rate: both groups increase heart rate as adrenaline increases, but older people have the greater heart rate at every dose (about 18 bpm against 15 bpm at 120 ng kg^-1 min^-1).",
+      "Cardiac index: it is almost the same at low doses (about 5 and 11 a.u. at 20 and 40), but is lower in older people at high doses (about 15.5 against 17 at 80, and 18.5 against 21 at 120), despite their higher heart rate.",
+      "Since cardiac output = heart rate x stroke volume, a lower cardiac index with a higher heart rate means that the stroke volume of older people is lower: their heart muscle contracts less forcefully or fills less, so they compensate with a faster heart rate.",
+      "Blood pressure: the rise is much smaller in older people (about +9 against +21 mmHg at 120) and at low doses it falls (-4 to -5 mmHg); error bars do not overlap at 120, suggesting a real difference, so the circulation responds less.",
+      "Reasons: with age the heart and arteries become stiffer and have fewer or less sensitive adrenaline receptors (beta-receptors), so the response to adrenaline is reduced and less blood is pumped.",
+      "Limitations: only 4 doses were used, error bars overlap at low doses, and sample sizes are not given."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-13.jpg",
       "papers/biology/img/07B-Muscles-Heart-14.jpg",
       "papers/biology/img/07B-Muscles-Heart-15.jpg",
       "papers/biology/img/07B-Muscles-Heart-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q6-2.jpg",
+      "papers/biology/fig/07B-Muscles-Heart-Q6-3.jpg"
+     ]
     },
     {
      "id": "7B-Q7a",
@@ -67912,15 +68917,21 @@ window.BANK.biology = {
       "A to B"
      ],
      "question": "Calculate the magnification of the mitochondrion shown in the diagram, where the actual length between A and B is 0.75 (units as printed).",
-     "status": "pending",
-     "answer": "Pending: the length of A to B measured on the diagram is not in the text; the actual length unit also appears garbled (m).",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 1.4 x 10^5 (accept 1.3 to 1.5 x 10^5)",
+     "steps": [
+      "Measure the length of the mitochondrion between A and B on the diagram: about 107 mm.",
+      "Convert the actual length to the same unit: 0.75 micrometres = 0.75 x 10^-3 mm.",
+      "Magnification = 107 / (0.75 x 10^-3) = 1.43 x 10^5, about 1.4 x 10^5."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-16.jpg",
       "papers/biology/img/07B-Muscles-Heart-17.jpg",
       "papers/biology/img/07B-Muscles-Heart-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q7.jpg"
+     ]
     },
     {
      "id": "7B-Q7b(i)",
@@ -67936,15 +68947,20 @@ window.BANK.biology = {
       "sample 1"
      ],
      "question": "State the approximate rate of CO2 production in sample 1 (pyruvate only), from the four options given.",
-     "status": "pending",
-     "answer": "Pending: the results table giving the CO2 production rate for each sample is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 3 nmol mg^-1 min^-1",
+     "steps": [
+      "Sample 1 produced 62.6 nmol of CO2 per mg of mitochondria in 20 minutes.",
+      "Rate = 62.6 / 20 = 3.13, so about 3 nmol mg^-1 min^-1 (option C; options A and B have the wrong units)."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-16.jpg",
       "papers/biology/img/07B-Muscles-Heart-17.jpg",
       "papers/biology/img/07B-Muscles-Heart-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q7-2.jpg"
+     ]
     },
     {
      "id": "7B-Q7b(ii)",
@@ -67961,15 +68977,22 @@ window.BANK.biology = {
       "rate"
      ],
      "question": "Explain the results of the mitochondria investigation using the table and knowledge of the Krebs cycle.",
-     "status": "pending",
-     "answer": "Pending: the results table for samples 1 to 3 is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "CO2 comes from the link reaction and Krebs cycle: ADP increases the rate (85.0 against 62.6) as it allows ATP synthesis and reoxidation of reduced NAD, and the transport inhibitor reduces it (11.6) because pyruvate cannot enter the matrix.",
+     "steps": [
+      "In sample 1, pyruvate enters the mitochondria and is decarboxylated in the link reaction and Krebs cycle, releasing CO2 (62.6 nmol per mg in 20 minutes).",
+      "In sample 2, ADP is added, so ATP synthase can make ATP and the electron transport chain runs faster; reduced NAD and FAD are reoxidised, so more NAD is available for the dehydrogenase steps of the Krebs cycle, so more CO2 is made (85.0, about 36% higher).",
+      "In sample 3, the inhibitor stops pyruvate entering the mitochondrial matrix, where the link reaction and Krebs cycle occur, so very little CO2 is produced (11.6, about 81% lower than sample 1).",
+      "The small amount of CO2 still produced in sample 3 probably comes from other respiratory substrates already in the mitochondria."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-16.jpg",
       "papers/biology/img/07B-Muscles-Heart-17.jpg",
       "papers/biology/img/07B-Muscles-Heart-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q7-2.jpg"
+     ]
     },
     {
      "id": "7B-Q7c(i)",
@@ -68163,15 +69186,22 @@ window.BANK.biology = {
       "anaerobic"
      ],
      "question": "Comment on the results of the investigation showing heart rate and blood lactate at seven running speeds, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph of heart rate and lactate concentration against running speed is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Heart rate rises with speed and then levels off at about 193 bpm, while lactate stays low up to about 12 km h^-1 and then rises steeply, reaching about 29 mmol dm^-3 at 20 km h^-1.",
+     "steps": [
+      "Heart rate increases from about 158 bpm at 8 km h^-1 to about 190 bpm at 16, then plateaus at about 193 bpm at 18 and 20 km h^-1, so it is probably at its maximum.",
+      "Lactate concentration is low and almost constant (about 7 mmol dm^-3) at 8 to 10 km h^-1, then increases slowly and above about 14 km h^-1 rises steeply (about 11 to 29 mmol dm^-3 from 14 to 20), a 2.6-fold increase.",
+      "The rise in lactate shows that more anaerobic respiration happens at higher speeds, because oxygen supply cannot meet demand; as heart rate (and so cardiac output) cannot increase further at high speed, the extra energy is supplied anaerobically.",
+      "Only one athlete was tested, so the results may not apply to others."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-19.jpg",
       "papers/biology/img/07B-Muscles-Heart-20.jpg",
       "papers/biology/img/07B-Muscles-Heart-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q8.jpg"
+     ]
     },
     {
      "id": "7B-Q9a(i)",
@@ -68187,15 +69217,21 @@ window.BANK.biology = {
       "lifespan"
      ],
      "question": "Describe the relationship between resting heart rate and mean life expectancy shown in the table.",
-     "status": "pending",
-     "answer": "Pending: the table of resting heart rate and life expectancy for each species is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Species with a higher resting heart rate tend to have a smaller mass and a shorter life expectancy: the elephant (30 bpm) has 5780 kg and 80 years, the hummingbird (1260 bpm) has 0.02 kg and 7 years.",
+     "steps": [
+      "Resting heart rate falls as mean mass rises (negative correlation): 1260 bpm for the 0.02 kg hummingbird, 420 bpm for the 2 kg rat, 72 bpm for the 110 kg human, 30 bpm for the 5780 kg elephant.",
+      "Resting heart rate also tends to fall as life expectancy rises (elephant 30 bpm and 80 years, horse 38 bpm and 30 years, rabbit 205 bpm and 12 years, rat 420 bpm and 1.8 years), but there are anomalies: the human lives 78 years at 72 bpm, and the hummingbird (7 years at 1260 bpm) outlives the rat.",
+      "In this table the listed metabolic rate also falls as heart rate rises (1400 for the elephant against 0.012 for the hummingbird)."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-22.jpg",
       "papers/biology/img/07B-Muscles-Heart-23.jpg",
       "papers/biology/img/07B-Muscles-Heart-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q9.jpg"
+     ]
     },
     {
      "id": "7B-Q9a(ii)",
@@ -68212,15 +69248,21 @@ window.BANK.biology = {
       "oxygen consumption"
      ],
      "question": "Calculate the volume of oxygen produced each hour by a resting 4500 kg elephant, in standard form.",
-     "status": "pending",
-     "answer": "Pending: the rate (per kg per hour) data from the table is needed and is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "6.3 x 10^6 dm^3 per hour",
+     "steps": [
+      "The table gives the elephant's mean resting metabolic rate as 1400 dm^3 O2 kg^-1 hr^-1.",
+      "Volume per hour = rate per kg x mass = 1400 x 4500 = 6 300 000 dm^3 hr^-1.",
+      "In standard form this is 6.3 x 10^6 dm^3 of oxygen per hour (the oxygen used, not produced)."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-22.jpg",
       "papers/biology/img/07B-Muscles-Heart-23.jpg",
       "papers/biology/img/07B-Muscles-Heart-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q9.jpg"
+     ]
     },
     {
      "id": "7B-Q9b(i)",
@@ -68469,15 +69511,21 @@ window.BANK.biology = {
       "relationship"
      ],
      "question": "Comment on the relationship between mean resting ventilation rate and body mass, using the table of five species.",
-     "status": "pending",
-     "answer": "Pending: the table of mean resting ventilation rate and body mass for five species is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "There is a negative relationship: larger animals breathe more slowly (0.54 breaths per second at 1.3 kg to 0.12 at 2210 kg), but the decrease is not proportional to the increase in mass.",
+     "steps": [
+      "As body mass increases, the resting ventilation rate decreases overall: from 0.54 breaths per second for the 1.3 kg monkey to 0.12 for the 2210 kg hippopotamus.",
+      "The relationship is not proportional: mass rises about 1700 times but the ventilation rate falls only about 4.5 times (0.54 / 0.12).",
+      "Some differences are not significant because the standard deviations overlap, for example the monkey (0.54 +/- 0.09) and lemur (0.53 +/- 0.04), and the porcupine (0.30 +/- 0.03) and tiger (0.27 +/- 0.06); only five species are given, so the trend is a correlation and not necessarily caused by mass."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-26.jpg",
       "papers/biology/img/07B-Muscles-Heart-27.jpg",
       "papers/biology/img/07B-Muscles-Heart-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q11.jpg"
+     ]
     },
     {
      "id": "7B-Q11b(ii)",
@@ -68493,15 +69541,21 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the respiratory minute ventilation (dm3, 2 s.f.) for a resting talapoin monkey with tidal volume 40 cm3.",
-     "status": "pending",
-     "answer": "Pending: the resting breathing rate (breaths per minute) for the talapoin monkey is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1.3 dm^3 per minute",
+     "steps": [
+      "Read the talapoin monkey's resting ventilation rate: 0.54 breaths per second, which is 0.54 x 60 = 32.4 breaths per minute.",
+      "Minute ventilation = tidal volume x breathing rate = 40 cm^3 x 32.4 = 1296 cm^3 min^-1.",
+      "Convert to dm^3: 1296 / 1000 = 1.296 = 1.3 dm^3 (2 s.f.)."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-26.jpg",
       "papers/biology/img/07B-Muscles-Heart-27.jpg",
       "papers/biology/img/07B-Muscles-Heart-28.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q11.jpg"
+     ]
     },
     {
      "id": "7B-Q11c",
@@ -68577,15 +69631,24 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Discuss how the distribution and concentrations of ions shown in the graph contribute to their biological roles.",
-     "status": "pending",
-     "answer": "Pending: the graph of ion concentrations in intracellular fluid, tissue fluid and plasma is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Na+ and Cl- are high outside cells and K+ is high inside, which sets up the gradients used for the resting potential, nerve impulses, transport and osmotic balance; HCO3- buffers the blood.",
+     "steps": [
+      "Distribution: sodium (about 15 inside, 140 outside) and chloride (about 5 inside, 103 to 120 outside) are mainly extracellular, whereas potassium (about 150 inside, about 4 outside) is mainly intracellular; these gradients are kept by the sodium-potassium pump (active transport using ATP), which moves 3 Na+ out and 2 K+ in.",
+      "The ion gradients produce the resting membrane potential and, when Na+ channels open and then K+ channels open, the action potentials in neurones and muscle fibres.",
+      "The sodium gradient provides energy for co-transport of glucose and amino acids into cells (for example in the small intestine and kidney tubule).",
+      "Na+ and Cl- are the main solutes in plasma and tissue fluid, so they help control the water potential and the movement of water by osmosis between blood, tissue fluid and cells; the concentrations in plasma and tissue fluid are similar because ions move freely out of capillaries.",
+      "Hydrogencarbonate (about 24 to 28 mmol dm^-3 outside cells) carries most carbon dioxide in plasma and acts as a buffer to keep blood pH stable; K+ inside cells is also needed for enzymes and protein synthesis.",
+      "Concentrations differ between compartments only for ions that cells actively pump or that cannot cross membranes freely, so the differences between inside and outside are essential for these roles."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-28.jpg",
       "papers/biology/img/07B-Muscles-Heart-29.jpg",
       "papers/biology/img/07B-Muscles-Heart-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q12.jpg"
+     ]
     },
     {
      "id": "7B-Q13a",
@@ -68601,16 +69664,23 @@ window.BANK.biology = {
       "muscle fibres"
      ],
      "question": "Explain the importance of slow twitch muscle fibres in the types of athlete shown in the table.",
-     "status": "pending",
-     "answer": "Pending: the table comparing percentage of slow twitch fibres in each athlete type is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Slow twitch fibres contract slowly and resist fatigue because they respire aerobically, so athletes in long events have a high percentage (60 to 95%) while sprinters have few (12 to 30%).",
+     "steps": [
+      "Slow twitch fibres have many mitochondria, much myoglobin and many capillaries, so they respire aerobically and can supply ATP for a long time without producing much lactate.",
+      "The 10 000 m and marathon runners have the highest percentage (60 to 95%) because these events need endurance, with sustained contraction over a long period and resistance to fatigue.",
+      "The 100 m runner has the lowest percentage (12 to 30%) because a sprint needs rapid powerful contraction from fast twitch fibres using anaerobic respiration, and is over before fatigue matters.",
+      "The 1500 m runner (30 to 65%) needs a mix of endurance and speed."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-30.jpg",
       "papers/biology/img/07B-Muscles-Heart-31.jpg",
       "papers/biology/img/07B-Muscles-Heart-32.jpg",
       "papers/biology/img/07B-Muscles-Heart-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q13.jpg"
+     ]
     },
     {
      "id": "7B-Q13b",
@@ -68682,16 +69752,22 @@ window.BANK.biology = {
       "dm3 min-1 m-2"
      ],
      "question": "Using the table of data for two patients, which is the correct cardiac index for patient B (options 1.24, 2.48, 2.92, 5.21)?",
-     "status": "pending",
-     "answer": "Pending: the table of cardiac output and body surface area for patients A and B is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 2.48",
+     "steps": [
+      "Cardiac index = (stroke volume x heart rate) / body surface area.",
+      "Patient B: (0.075 dm^3 x 79 bpm) / 2.39 m^2 = 5.925 / 2.39 = 2.48 dm^3 min^-1 m^-2.",
+      "Check with patient A: (0.057 x 79) / 1.54 = 2.92, which matches the value given."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-30.jpg",
       "papers/biology/img/07B-Muscles-Heart-31.jpg",
       "papers/biology/img/07B-Muscles-Heart-32.jpg",
       "papers/biology/img/07B-Muscles-Heart-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q13-2.jpg"
+     ]
     },
     {
      "id": "7B-Q13c(iii)",
@@ -68707,16 +69783,21 @@ window.BANK.biology = {
       "cardiac index"
      ],
      "question": "State the ratio of body surface area of patient A to patient B, using the table.",
-     "status": "pending",
-     "answer": "Pending: the body surface area values for patients A and B are in a table that is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1.54 : 2.39, which is about 0.64 : 1 (or 1 : 1.55)",
+     "steps": [
+      "Body surface area of patient A = 1.54 m^2 and of patient B = 2.39 m^2.",
+      "Ratio A : B = 1.54 : 2.39 = 0.64 : 1 (dividing both by 2.39), or 1 : 1.55 (dividing both by 1.54)."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-30.jpg",
       "papers/biology/img/07B-Muscles-Heart-31.jpg",
       "papers/biology/img/07B-Muscles-Heart-32.jpg",
       "papers/biology/img/07B-Muscles-Heart-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q13-2.jpg"
+     ]
     },
     {
      "id": "7B-Q13d(i)",
@@ -68732,16 +69813,21 @@ window.BANK.biology = {
       "exercise"
      ],
      "question": "Comment on the effect of running speed on cardiac output, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph of cardiac output against running speed is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Cardiac output increases with running speed, from about 0.8 dm^3 min^-1 at 2 miles per hour to about 5.7 dm^3 min^-1 at 11 miles per hour, then falls slightly to 5.5 at 12 miles per hour.",
+     "steps": [
+      "There is a positive relationship: cardiac output rises steadily from about 0.8 dm^3 min^-1 at 2 mph to about 5.7 dm^3 min^-1 at 11 mph (about seven times higher).",
+      "The rise is fairly constant up to about 8 mph then slows, and at 12 mph cardiac output falls slightly (5.7 to 5.5), suggesting that the maximum has been reached."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-30.jpg",
       "papers/biology/img/07B-Muscles-Heart-31.jpg",
       "papers/biology/img/07B-Muscles-Heart-32.jpg",
       "papers/biology/img/07B-Muscles-Heart-33.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q13-3.jpg"
+     ]
     },
     {
      "id": "7B-Q13d(ii)",
@@ -68819,16 +69905,21 @@ window.BANK.biology = {
       "correlation"
      ],
      "question": "Describe two conclusions from the table of mean resting heart rate and mean lifespan for seven mammals.",
-     "status": "pending",
-     "answer": "Pending: the table of resting heart rate and lifespan for seven mammals is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "In general, the higher the resting heart rate, the shorter the lifespan; the human is an exception, living 80 years with a heart rate of 72 bpm.",
+     "steps": [
+      "Negative correlation: mammals with a high resting heart rate have short lifespans (mouse 595 bpm and 1 year, monkey 275 bpm and 15 years) and those with a low heart rate live longer (whale 15 bpm and 29 years).",
+      "Humans are an anomaly: at 72 bpm they live 80 years, much longer than the giraffe (82 bpm and 19 years) or the elephant (41 bpm and 23 years), so heart rate alone does not determine lifespan."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-33.jpg",
       "papers/biology/img/07B-Muscles-Heart-34.jpg",
       "papers/biology/img/07B-Muscles-Heart-35.jpg",
       "papers/biology/img/07B-Muscles-Heart-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q14.jpg"
+     ]
     },
     {
      "id": "7B-Q14b(i)",
@@ -68844,16 +69935,21 @@ window.BANK.biology = {
       "rhythm"
      ],
      "question": "Which heart rate (6, 48, 60 or 75 bpm) is shown in trace A of the ECG?",
-     "status": "pending",
-     "answer": "Pending: the ECG trace A is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 48 bpm",
+     "steps": [
+      "Use the 1.0 s scale bar to find the time between successive QRS spikes in trace A: about 1.24 s.",
+      "Heart rate = 60 / 1.24 = 48 beats per minute (the five spikes are spaced about 1.24 s apart, so 6.2 s for 5 beats)."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-33.jpg",
       "papers/biology/img/07B-Muscles-Heart-34.jpg",
       "papers/biology/img/07B-Muscles-Heart-35.jpg",
       "papers/biology/img/07B-Muscles-Heart-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q14-2.jpg"
+     ]
     },
     {
      "id": "7B-Q14b(ii)",
@@ -68869,16 +69965,22 @@ window.BANK.biology = {
       "differences"
      ],
      "question": "Describe two differences between normal trace A and abnormal trace B on the ECG.",
-     "status": "pending",
-     "answer": "Pending: the ECG traces A and B are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Trace B has a wider and taller QRS complex with a notched top, and has an inverted T wave after it, whereas trace A has a narrow, sharp QRS complex and an upright T wave.",
+     "steps": [
+      "QRS complex: in trace A it is a narrow single spike; in trace B it is wider (longer) and taller with a double-peaked top, showing slower or abnormal ventricular depolarisation.",
+      "T wave: in trace A it is a small upright bump after the QRS; in trace B the trace dips below the baseline after the QRS (inverted T wave or ST depression).",
+      "The rate of the two traces is similar (about 48 bpm), so the difference is in the shape of the waves, not in the heart rate."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-33.jpg",
       "papers/biology/img/07B-Muscles-Heart-34.jpg",
       "papers/biology/img/07B-Muscles-Heart-35.jpg",
       "papers/biology/img/07B-Muscles-Heart-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q14-2.jpg"
+     ]
     },
     {
      "id": "7B-Q14c(i)",
@@ -69014,16 +70116,22 @@ window.BANK.biology = {
       "length"
      ],
      "question": "Which pair of letters on the electron micrograph represents the length of one sarcomere (options P to T, P to U, Q to T, R to S)?",
-     "status": "pending",
-     "answer": "Pending: the electron micrograph with labels P, Q, R, S, T and U is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: P to U",
+     "steps": [
+      "One sarcomere extends from one Z line to the next Z line.",
+      "P and U are the two dark Z lines on either side of the sarcomere in the lower row of the micrograph, and Q to T mark the A band (the dark band of the thick filaments).",
+      "So the sarcomere is P to U."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-36.jpg",
       "papers/biology/img/07B-Muscles-Heart-37.jpg",
       "papers/biology/img/07B-Muscles-Heart-38.jpg",
       "papers/biology/img/07B-Muscles-Heart-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q15.jpg"
+     ]
     },
     {
      "id": "7B-Q15b(ii)",
@@ -69039,16 +70147,22 @@ window.BANK.biology = {
       "sarcomere"
      ],
      "question": "Calculate the magnification of the electron micrograph of a skeletal muscle fibre, in standard form.",
-     "status": "pending",
-     "answer": "Pending: the measured image size and actual size from the micrograph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 1.6 x 10^4 (accept 1.5 to 1.7 x 10^4)",
+     "steps": [
+      "Measure the scale bar on the micrograph, which represents 1 micrometre: about 16 mm long.",
+      "Convert 1 micrometre to millimetres: 1 x 10^-3 mm.",
+      "Magnification = image length / actual length = 16 / (1 x 10^-3) = 1.6 x 10^4."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-36.jpg",
       "papers/biology/img/07B-Muscles-Heart-37.jpg",
       "papers/biology/img/07B-Muscles-Heart-38.jpg",
       "papers/biology/img/07B-Muscles-Heart-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q15.jpg"
+     ]
     },
     {
      "id": "7B-Q15b(iii)",
@@ -69111,7 +70225,9 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-38.jpg",
       "papers/biology/img/07B-Muscles-Heart-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q15-2.jpg"
+     ]
     },
     {
      "id": "7B-Q16a(i)",
@@ -69155,14 +70271,19 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "What is the function of the part of the elbow joint labelled W (options: extensor, flexor, ligament, tendon)?",
-     "status": "pending",
-     "answer": "Pending: the labelled elbow joint diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: it acts as an extensor",
+     "steps": [
+      "W is the muscle on the back of the upper arm (triceps), on the opposite side of the humerus from the biceps.",
+      "When the triceps contracts it straightens (extends) the elbow, so it acts as an extensor; the biceps is the flexor."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-39.jpg",
       "papers/biology/img/07B-Muscles-Heart-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q16.jpg"
+     ]
     },
     {
      "id": "7B-Q16b(i)",
@@ -69189,7 +70310,9 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-39.jpg",
       "papers/biology/img/07B-Muscles-Heart-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q16.jpg"
+     ]
     },
     {
      "id": "7B-Q16b(ii)",
@@ -69216,7 +70339,9 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-39.jpg",
       "papers/biology/img/07B-Muscles-Heart-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q16.jpg"
+     ]
     },
     {
      "id": "7B-Q17a",
@@ -69261,16 +70386,21 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Using oxygen uptake of 2.20 dm3/min at 60 minutes and the respiratory quotient from the graph, find the CO2 production rate.",
-     "status": "pending",
-     "answer": "Pending: the respiratory quotient at 60 minutes must be read from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 1.94 dm^3 min^-1",
+     "steps": [
+      "Read the graph: the respiratory quotient at 60 minutes is 0.88.",
+      "RQ = CO2 produced / O2 consumed, so CO2 produced = RQ x O2 uptake = 0.88 x 2.20 = 1.94 dm^3 min^-1."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-40.jpg",
       "papers/biology/img/07B-Muscles-Heart-41.jpg",
       "papers/biology/img/07B-Muscles-Heart-42.jpg",
       "papers/biology/img/07B-Muscles-Heart-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q17.jpg"
+     ]
     },
     {
      "id": "7B-Q17b(ii)",
@@ -69287,16 +70417,21 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Explain the changes in respiratory quotient during the exercise period, using the table and the graph.",
-     "status": "pending",
-     "answer": "Pending: the RQ graph over time and the RQ table for fats and carbohydrates are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "RQ falls from 0.90 at 30 minutes to 0.88 at 60 and 0.86 at 90 minutes, showing a gradual shift from carbohydrate (RQ 1.0) towards fat (RQ 0.7) as the respiratory substrate.",
+     "steps": [
+      "The RQ is between 0.7 (fat) and 1.0 (carbohydrate), so a mixture of fat and carbohydrate is being respired throughout.",
+      "The RQ falls as the exercise continues, so the proportion of fat respired increases and carbohydrate (glycogen) used decreases, because the glycogen stores in the muscles are being used up (about 67% carbohydrate at 30 minutes and about 53% at 90 minutes)."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-40.jpg",
       "papers/biology/img/07B-Muscles-Heart-41.jpg",
       "papers/biology/img/07B-Muscles-Heart-42.jpg",
       "papers/biology/img/07B-Muscles-Heart-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q17.jpg"
+     ]
     },
     {
      "id": "7B-Q17c(i)",
@@ -69313,16 +70448,22 @@ window.BANK.biology = {
       "population"
      ],
      "question": "Calculate the total number of 80-year-old people with lung cancer who are non-smoking with COPD, in standard form.",
-     "status": "pending",
-     "answer": "Pending: the incidence percentages from the graph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 2.0 x 10^4 people (1.98 x 10^4)",
+     "steps": [
+      "Total number of people aged 80 = 105 500 + 158 600 = 264 100.",
+      "Read the graph: the incidence of lung cancer in non-smokers with COPD at age 80 is about 7.5%.",
+      "Number = 264 100 x 7.5 / 100 = 19 808, which is 1.98 x 10^4 (about 2.0 x 10^4 to 2 s.f.)."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-40.jpg",
       "papers/biology/img/07B-Muscles-Heart-41.jpg",
       "papers/biology/img/07B-Muscles-Heart-42.jpg",
       "papers/biology/img/07B-Muscles-Heart-43.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q17-2.jpg"
+     ]
     },
     {
      "id": "7B-Q17c(ii)",
@@ -69371,15 +70512,20 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Which row of the table shows the sensor and location involved in control of ventilation?",
-     "status": "pending",
-     "answer": "Pending: the table of sensors and locations is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: chemoreceptor, medulla oblongata",
+     "steps": [
+      "Ventilation is controlled by the detection of changes in blood CO2 and pH, which is done by chemoreceptors (not baroreceptors, which detect blood pressure).",
+      "The ventilation centre and the chemoreceptors that detect the pH of the blood are in the medulla oblongata of the brain (the hypothalamus is not involved), giving row D."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-43.jpg",
       "papers/biology/img/07B-Muscles-Heart-44.jpg",
       "papers/biology/img/07B-Muscles-Heart-45.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q18.jpg"
+     ]
     },
     {
      "id": "7B-Q18a(ii)",
@@ -69396,15 +70542,22 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Explain why control of ventilation rate is an example of negative feedback, using the diagram.",
-     "status": "pending",
-     "answer": "Pending: the answer must refer to the negative feedback diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A change from the optimum (rise in blood CO2 and fall in pH) is detected by sensors, the information is relayed to effectors, which change the condition back towards the optimum, so the change is reversed.",
+     "steps": [
+      "Optimum conditions: blood CO2 concentration and pH are held within narrow limits.",
+      "Deviation from optimum: during exercise respiration increases CO2, which lowers the pH of the blood, so the CO2 concentration rises above the optimum.",
+      "Sensor: chemoreceptors in the medulla (and in the carotid and aortic bodies) detect the change, and the information is relayed as nerve impulses to the effectors, the intercostal muscles and diaphragm.",
+      "Effector: the breathing rate and depth increase, removing more CO2 from the blood in the lungs, so the CO2 concentration falls and pH rises back to the optimum, the stimulus is removed, and the response reduces (the change is reversed), which is negative feedback."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-43.jpg",
       "papers/biology/img/07B-Muscles-Heart-44.jpg",
       "papers/biology/img/07B-Muscles-Heart-45.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q18-2.jpg"
+     ]
     },
     {
      "id": "7B-Q18b",
@@ -69420,15 +70573,21 @@ window.BANK.biology = {
       "homeostasis"
      ],
      "question": "Complete the diagram to show positive feedback in the ripening of apples, where ripe apples release ethene.",
-     "status": "pending",
-     "answer": "Pending: the incomplete feedback diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Box 2: the ripe apple releases ethene; box 4: ethene from the ripe neighbours (the ethene concentration rises); box 5: even more apples ripen (and release more ethene), feeding back to box 4.",
+     "steps": [
+      "Second box (after one apple ripens): the ripe apple releases ethene gas.",
+      "Fourth box (after neighbouring apples ripen): the neighbouring apples release (more) ethene, so the ethene concentration in the air increases.",
+      "Fifth box: more apples ripen (apples further away ripen), and the arrow back to the fourth box shows that this causes still more ethene to be released, so the change is amplified (positive feedback)."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-43.jpg",
       "papers/biology/img/07B-Muscles-Heart-44.jpg",
       "papers/biology/img/07B-Muscles-Heart-45.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q18-3.jpg"
+     ]
     },
     {
      "id": "7B-Q19a",
@@ -69444,15 +70603,21 @@ window.BANK.biology = {
       "muscles"
      ],
      "question": "Which row of the table describes tendons and ligaments?",
-     "status": "pending",
-     "answer": "Pending: the table is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: tendons are flexible, non-elastic tissue connecting muscle to bone; ligaments are flexible tissue connecting bone to bone.",
+     "steps": [
+      "Tendons join muscle to bone and are non-elastic, so the pull of the muscle is transmitted to the bone without wasting energy.",
+      "Ligaments join bone to bone at joints and are flexible and slightly elastic, so they hold the joint together.",
+      "Only row B has these descriptions the right way round."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-46.jpg",
       "papers/biology/img/07B-Muscles-Heart-47.jpg",
       "papers/biology/img/07B-Muscles-Heart-48.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q19.jpg"
+     ]
     },
     {
      "id": "7B-Q19b(i)",
@@ -69469,15 +70634,20 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Which pair of letters on the muscle fibre diagram represents one sarcomere (options P to T, Q to U, R to V, S to W)?",
-     "status": "pending",
-     "answer": "Pending: the diagram of a skeletal muscle fibre is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: P to T",
+     "steps": [
+      "A sarcomere is the region between two Z lines.",
+      "P and T are the Z lines (the zig-zag lines where the thin filaments are attached) at the two ends of the first sarcomere, with the thick filaments (Q to S region) lying between them."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-46.jpg",
       "papers/biology/img/07B-Muscles-Heart-47.jpg",
       "papers/biology/img/07B-Muscles-Heart-48.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q19-2.jpg"
+     ]
     },
     {
      "id": "7B-Q19b(ii)",
@@ -69524,15 +70694,24 @@ window.BANK.biology = {
       "muscle"
      ],
      "question": "Explain the relationship between power output and speed of contraction for the two muscle types, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph of power output against speed of contraction for the two muscle types is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Muscles with more than 50% fast twitch fibres give more power at every speed and the power keeps rising to 10 a.u., but muscles with less than 50% peak at 200 (6.5 a.u.) and then fall.",
+     "steps": [
+      "Power output = force x speed. For muscles with more than 50% fast twitch fibres it rises from 4.6 a.u. at a speed of 50 to 7.6 at 100 and then more slowly to 10.0 at 300; there is no fall.",
+      "For muscles with less than 50% fast twitch fibres, the power rises from 3.8 at 50 to a maximum of about 6.5 at 200, then falls to about 5.6 at 300.",
+      "At each speed the muscle with more fast twitch fibres has the higher power: about 1.5 times more at 100 (7.6 against 5.0), and about 1.8 times at 300 (10.0 against 5.6).",
+      "Fast twitch fibres have myosin that hydrolyses ATP and forms cross bridges more quickly, and a fast supply of ATP from anaerobic respiration and stored glycogen and creatine phosphate, so they keep producing force even at high speed.",
+      "Slow twitch fibres contract more slowly and get ATP from slower aerobic respiration; as speed increases the force falls because fewer cross bridges can form, so power (force x speed) first rises and then falls, giving a peak.",
+      "At low speeds, the power of both rises because speed rises while force is still high."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-46.jpg",
       "papers/biology/img/07B-Muscles-Heart-47.jpg",
       "papers/biology/img/07B-Muscles-Heart-48.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q19-3.jpg"
+     ]
     },
     {
      "id": "7B-Q20a(i)",
@@ -69549,16 +70728,21 @@ window.BANK.biology = {
       "row"
      ],
      "question": "Which row shows the molecules in the diagram of what happens to lactate following exercise?",
-     "status": "pending",
-     "answer": "Pending: the diagram and its answer rows are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: W is oxidised NAD, Y is reduced NAD and Z is pyruvate.",
+     "steps": [
+      "Lactate is converted back to pyruvate (Z) by lactate dehydrogenase; this is oxidation of lactate (removal of hydrogen).",
+      "The hydrogen is accepted by oxidised NAD (W), which becomes reduced NAD (Y), so the row is oxidised NAD, reduced NAD, pyruvate."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-48.jpg",
       "papers/biology/img/07B-Muscles-Heart-49.jpg",
       "papers/biology/img/07B-Muscles-Heart-50.jpg",
       "papers/biology/img/07B-Muscles-Heart-51.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q20.jpg"
+     ]
     },
     {
      "id": "7B-Q20a(ii)",
@@ -69576,16 +70760,24 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Explain the results of the investigation on lactate and stroke volume, using the table, the graph and own knowledge.",
-     "status": "pending",
-     "answer": "Pending: the results table and stroke volume graph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The athlete has lower lactate at every intensity because a larger stroke volume gives a greater cardiac output and oxygen supply, so more aerobic respiration and less anaerobic respiration; the non-athlete's stroke volume stays almost constant.",
+     "steps": [
+      "Lactate is made by anaerobic respiration when the oxygen supply cannot meet the energy demand of muscles; the table shows the non-athlete has higher lactate at every intensity (for example 6.2 against 3.2 mmol dm^-3 at 180 a.u., and 10.0 against 6.4 at 240 a.u.).",
+      "The lactate rises sharply for the athlete only above 120 a.u. (1.4 to 3.2 to 6.4) whereas for the non-athlete it rises steadily from 60 a.u. (2.2), so the athlete can work harder before using much anaerobic respiration.",
+      "Graph: the athlete's stroke volume increases from about 136 cm^3 at 90 bpm to about 192 cm^3 at 200 bpm, while the non-athlete's stays at about 121 to 130 cm^3.",
+      "Cardiac output = heart rate x stroke volume, so at 200 bpm the athlete's cardiac output is about 38 dm^3 min^-1 compared with about 26 dm^3 min^-1, so more oxygen is delivered to the muscles and they respire aerobically for longer.",
+      "The athlete's heart has stronger, larger ventricle walls and fills more fully, and athletes also have more capillaries, mitochondria and myoglobin in muscles, and lactate is removed faster (converted back to pyruvate and oxidised or converted to glucose in the liver)."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-48.jpg",
       "papers/biology/img/07B-Muscles-Heart-49.jpg",
       "papers/biology/img/07B-Muscles-Heart-50.jpg",
       "papers/biology/img/07B-Muscles-Heart-51.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q20-2.jpg"
+     ]
     },
     {
      "id": "7B-Q20b",
@@ -69722,16 +70914,21 @@ window.BANK.biology = {
       "60 minutes"
      ],
      "question": "Explain the effect on lactate concentration from 15 minutes to 60 minutes on the graph.",
-     "status": "pending",
-     "answer": "Pending: the blood lactate graph for the time trial is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Lactate rises from about 0.9 mmol dm^-3 to about 1.6 at 15 minutes and then stays high (1.6 to 1.8) until 60 minutes, because anaerobic respiration is making lactate while the muscles are working, balanced by its removal.",
+     "steps": [
+      "During exercise the muscles need more ATP than aerobic respiration supplies at first, so some ATP is made by anaerobic respiration, producing lactate (about 1.6 mmol dm^-3 at 15 minutes).",
+      "From 15 to 60 minutes the concentration stays between about 1.6 and 1.8 mmol dm^-3 (a plateau) because lactate production is balanced by removal as heart and breathing rates increase the oxygen supply, and lactate is taken to the liver or used for aerobic respiration."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-51.jpg",
       "papers/biology/img/07B-Muscles-Heart-52.jpg",
       "papers/biology/img/07B-Muscles-Heart-53.jpg",
       "papers/biology/img/07B-Muscles-Heart-54.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q21.jpg"
+     ]
     },
     {
      "id": "7B-Q21c(ii)",
@@ -69759,7 +70956,9 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-53.jpg",
       "papers/biology/img/07B-Muscles-Heart-54.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q21.jpg"
+     ]
     },
     {
      "id": "7B-Q21c(iii)",
@@ -69788,7 +70987,9 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-53.jpg",
       "papers/biology/img/07B-Muscles-Heart-54.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q21.jpg"
+     ]
     },
     {
      "id": "7B-Q22a(i)",
@@ -69804,15 +71005,21 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Which regions of the relaxed sarcomere diagram would shorten when it contracts (options: P only, R only, P and R, Q and R)?",
-     "status": "pending",
-     "answer": "Pending: the labelled sarcomere diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: regions P and R",
+     "steps": [
+      "P is the region at each end of the sarcomere containing only thin filaments (the I band) and R is the gap between the ends of thin filaments (the H zone).",
+      "When the sarcomere contracts the thin filaments slide towards the centre, so P and R both get shorter.",
+      "Q is where thick and thin filaments overlap and this region gets longer, and the thick filaments do not change length."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-54.jpg",
       "papers/biology/img/07B-Muscles-Heart-55.jpg",
       "papers/biology/img/07B-Muscles-Heart-56.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q22.jpg"
+     ]
     },
     {
      "id": "7B-Q22a(ii)",
@@ -69828,15 +71035,21 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Give the ratio of the length of the relaxed sarcomere to the contracted sarcomere (contracted length 50 mm, same scale).",
-     "status": "pending",
-     "answer": "Pending: the relaxed sarcomere length on the diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 2.2 : 1",
+     "steps": [
+      "Measure the relaxed sarcomere on the diagram (from Z line to Z line): about 112 mm.",
+      "The contracted sarcomere is 50 mm on the same scale.",
+      "Ratio = 112 : 50 = 2.2 : 1."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-54.jpg",
       "papers/biology/img/07B-Muscles-Heart-55.jpg",
       "papers/biology/img/07B-Muscles-Heart-56.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q22.jpg"
+     ]
     },
     {
      "id": "7B-Q22a(iii)",
@@ -69852,15 +71065,20 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Name the major protein component that forms structure S in the sarcomere diagram.",
-     "status": "pending",
-     "answer": "Pending: the labelled sarcomere diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Myosin",
+     "steps": [
+      "Structure S is one of the thick filaments in the centre of the sarcomere, which are made mainly of the protein myosin.",
+      "The thin lines joined to the Z lines are made of actin."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-54.jpg",
       "papers/biology/img/07B-Muscles-Heart-55.jpg",
       "papers/biology/img/07B-Muscles-Heart-56.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q22.jpg"
+     ]
     },
     {
      "id": "7B-Q22b",
@@ -69906,15 +71124,21 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Add an appropriate scale to the incomplete graph and draw a line of best fit for ATP concentration against peak muscle tension.",
-     "status": "pending",
-     "answer": "Pending: the results table and incomplete graph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "y-axis 0 to 60 N in steps of 10 N; x-axis 0 to 400% in steps of 100%; best-fit straight line from about (110, 28) to (360, 52).",
+     "steps": [
+      "Scale on the y-axis (peak muscle tension / N): the 7 points range from 26 to 52 N, and the axis has 6 big squares, so label 0, 10, 20, 30, 40, 50 and 60 N at the big gridlines.",
+      "Scale on the x-axis (ATP concentration / %): the points range from 110 to 360, and the axis has 4 big squares, so label 0, 100, 200, 300 and 400 at the big gridlines.",
+      "Draw a single straight line of best fit with a ruler, through the middle of the points with similar numbers above and below it: it passes through about (110, 28) and (360, 52)."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-54.jpg",
       "papers/biology/img/07B-Muscles-Heart-55.jpg",
       "papers/biology/img/07B-Muscles-Heart-56.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q22-2.jpg"
+     ]
     },
     {
      "id": "7B-Q22c(ii)",
@@ -69929,15 +71153,21 @@ window.BANK.biology = {
       "N per percentage increase"
      ],
      "question": "Calculate the gradient of the line of best fit, in N per percentage increase in ATP.",
-     "status": "pending",
-     "answer": "Pending: the results table data needed for the gradient is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 0.10 N per percentage increase (accept 0.09 to 0.11)",
+     "steps": [
+      "Choose two points on the line of best fit that are far apart: for example (110%, 28 N) and (360%, 52 N).",
+      "Gradient = change in tension / change in ATP concentration = (52 - 28) / (360 - 110) = 24 / 250.",
+      "= 0.096, about 0.10 N per percentage increase in ATP concentration."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-54.jpg",
       "papers/biology/img/07B-Muscles-Heart-55.jpg",
       "papers/biology/img/07B-Muscles-Heart-56.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q22-2.jpg"
+     ]
     },
     {
      "id": "7B-Q23a(i)",
@@ -69953,15 +71183,21 @@ window.BANK.biology = {
       "recovery"
      ],
      "question": "Describe three conclusions from the graph of mean heart rate and blood pressure during and after exercise.",
-     "status": "pending",
-     "answer": "Pending: the graph of heart rate and blood pressure against time is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Heart rate and systolic blood pressure both rise during exercise to a peak at 8 minutes and then fall after exercise, while diastolic blood pressure stays almost constant.",
+     "steps": [
+      "Heart rate increases during exercise from about 72 bpm at the start to a peak of about 121 bpm at 8 minutes (with a dip at 4 minutes), then falls very quickly to about 78 bpm at 10 minutes and stays at about 77 to 79 bpm after exercise (still slightly above the starting value).",
+      "Systolic blood pressure rises during exercise from about 15 kPa to a maximum of about 19 kPa at 8 minutes, then falls back more slowly, to about 15.5 kPa at 14 minutes.",
+      "Diastolic blood pressure stays almost constant at about 10 to 10.5 kPa throughout, so exercise does not change it."
+     ],
      "images": [
       "papers/biology/img/07B-Muscles-Heart-56.jpg",
       "papers/biology/img/07B-Muscles-Heart-57.jpg",
       "papers/biology/img/07B-Muscles-Heart-58.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07B-Muscles-Heart-Q23.jpg"
+     ]
     },
     {
      "id": "7B-Q23a(ii)",
@@ -70045,15 +71281,20 @@ window.BANK.biology = {
       "location"
      ],
      "question": "In which part of the kidney are structures W and X on the nephron diagram located (options: cortex, inner medulla, outer medulla, renal pelvis)?",
-     "status": "pending",
-     "answer": "Pending: the labelled nephron diagram (structures W and X) is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: cortex",
+     "steps": [
+      "W is the glomerulus inside the Bowman capsule and X is the proximal convoluted tubule.",
+      "Both lie in the kidney cortex, so the answer is A; the loop of Henle and collecting duct dip into the medulla."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-01.jpg",
       "papers/biology/img/07C-Internal-Environment-02.jpg",
       "papers/biology/img/07C-Internal-Environment-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q1.jpg"
+     ]
     },
     {
      "id": "7C-Q1a(ii)",
@@ -70069,15 +71310,20 @@ window.BANK.biology = {
       "structure"
      ],
      "question": "In which labelled structure of the nephron diagram does ultrafiltration take place (options W, X, Y, Z)?",
-     "status": "pending",
-     "answer": "Pending: the labelled nephron diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: W",
+     "steps": [
+      "Ultrafiltration happens where blood in the glomerulus capillaries is under high pressure inside the Bowman capsule.",
+      "This is structure W (glomerulus and capsule); X is the proximal tubule (reabsorption), Y the loop of Henle and Z the collecting duct."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-01.jpg",
       "papers/biology/img/07C-Internal-Environment-02.jpg",
       "papers/biology/img/07C-Internal-Environment-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q1.jpg"
+     ]
     },
     {
      "id": "7C-Q1a(iii)",
@@ -70092,15 +71338,20 @@ window.BANK.biology = {
       "countercurrent"
      ],
      "question": "Which labelled structures on the nephron diagram form part of the loop of Henle (options: X only, X and Y, Y only, Y and Z)?",
-     "status": "pending",
-     "answer": "Pending: the labelled nephron diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Y only",
+     "steps": [
+      "Y is the long hairpin descending into the medulla, which is the loop of Henle.",
+      "X is the proximal convoluted tubule and Z is the collecting duct, which are not part of the loop."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-01.jpg",
       "papers/biology/img/07C-Internal-Environment-02.jpg",
       "papers/biology/img/07C-Internal-Environment-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q1.jpg"
+     ]
     },
     {
      "id": "7C-Q1b",
@@ -70147,15 +71398,22 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Deduce why the kangaroo rat is more successful than the brown rat at living in desert habitats, using the table of kidney adaptations.",
-     "status": "pending",
-     "answer": "Pending: the table comparing the two small mammals is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The kangaroo rat makes much more concentrated urine, so it loses less water: its thick ascending limb has more mitochondria, so it pumps more Na+ out and builds a steeper concentration gradient in the medulla.",
+     "steps": [
+      "Urine concentration is 5500 mOsmol dm^-3 in the kangaroo rat compared with 2900 in the brown rat, so it loses less water for the same solute excretion.",
+      "Its thick ascending limb has more mitochondria (5.5 against 3.6), so more ATP is available for active transport of Na+ and Cl- out of the ascending limb.",
+      "Medulla sodium concentration is 95 mmol dm^-3 against 45, so water potential in the medulla is much lower.",
+      "A steeper water potential gradient means more water leaves the collecting duct by osmosis and is reabsorbed, which conserves water in a desert."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-01.jpg",
       "papers/biology/img/07C-Internal-Environment-02.jpg",
       "papers/biology/img/07C-Internal-Environment-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q1-2.jpg"
+     ]
     },
     {
      "id": "7C-Q2a(i)",
@@ -70200,15 +71458,20 @@ window.BANK.biology = {
       "pinprick"
      ],
      "question": "Which pathway shows a reflex arc (options AW, BX, CY, DZ)?",
-     "status": "pending",
-     "answer": "Pending: the pathway options AW, BX, CY, DZ are not described in the text, so the diagram is needed.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: receptor -> spinal cord -> muscle",
+     "steps": [
+      "A reflex arc runs from receptor, along a sensory neurone to the CNS (here the spinal cord), then along a motor neurone to the effector, which is a muscle.",
+      "Options A and B start at the muscle, and D skips the receptor and goes through the brain, so only C is a reflex arc."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-03.jpg",
       "papers/biology/img/07C-Internal-Environment-04.jpg",
       "papers/biology/img/07C-Internal-Environment-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q2.jpg"
+     ]
     },
     {
      "id": "7C-Q2b(i)",
@@ -70238,7 +71501,9 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-04.jpg",
       "papers/biology/img/07C-Internal-Environment-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q2-2.jpg"
+     ]
     },
     {
      "id": "7C-Q2b(ii)",
@@ -70268,7 +71533,9 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-04.jpg",
       "papers/biology/img/07C-Internal-Environment-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q2-2.jpg"
+     ]
     },
     {
      "id": "7C-Q2b(iii)",
@@ -70298,7 +71565,9 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-04.jpg",
       "papers/biology/img/07C-Internal-Environment-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q2-2.jpg"
+     ]
     },
     {
      "id": "7C-Q3a",
@@ -70343,14 +71612,21 @@ window.BANK.biology = {
       "features"
      ],
      "question": "Explain how the features of slow twitch fibres, shown in the table, benefit an Olympic marathon runner.",
-     "status": "pending",
-     "answer": "Pending: the table listing the features of slow and fast twitch fibres is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Many mitochondria, much myoglobin and a large capillary network allow sustained aerobic respiration, and slow sustained contraction suits long-distance running without fatigue.",
+     "steps": [
+      "Many mitochondria give a high rate of aerobic respiration, producing plenty of ATP for sustained contraction over the whole race.",
+      "Many myoglobin molecules store oxygen in the fibre and release it to the mitochondria, so aerobic respiration can continue.",
+      "A larger capillary network brings more oxygen and glucose and removes CO2 and lactate, so fatigue is delayed.",
+      "Slow, sustained contraction means the muscle can keep working for long periods, which is needed in a marathon."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-06.jpg",
       "papers/biology/img/07C-Internal-Environment-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q3.jpg"
+     ]
     },
     {
      "id": "7C-Q3c",
@@ -70367,14 +71643,20 @@ window.BANK.biology = {
       "thermoregulation"
      ],
      "question": "Comment on the rate of heat loss during exercise, using the graph of heat loss at rest and during exercise.",
-     "status": "pending",
-     "answer": "Pending: the graph of the rate of heat loss at rest and during exercise is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Heat loss rises sharply soon after exercise starts, then levels off at a plateau well above the resting rate (roughly 5 times higher on the graph).",
+     "steps": [
+      "The rate of heat loss is constant at rest, then increases rapidly once exercise starts and slows as it approaches a plateau.",
+      "Contracting muscles respire faster and release much more heat, so the body must lose heat faster (more sweating and skin vasodilation) to stop the core temperature rising.",
+      "The plateau shows heat loss now matches heat production, so a steady, raised body temperature is maintained (negative feedback)."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-06.jpg",
       "papers/biology/img/07C-Internal-Environment-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q3-2.jpg"
+     ]
     },
     {
      "id": "7C-Q4a",
@@ -70481,9 +71763,13 @@ window.BANK.biology = {
       "3 significant figures"
      ],
      "question": "Calculate the GFR of a person who excreted 1960 mg of creatinine in urine over 15 hours (3 s.f.).",
-     "status": "pending",
-     "answer": "Pending: GFR needs the plasma creatinine concentration as well as the urine data, and this value is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "131 mg h^-1",
+     "steps": [
+      "The rate at which creatinine is filtered equals the rate at which it appears in urine, as creatinine is not reabsorbed or secreted.",
+      "Rate = amount / time = 1960 / 15 = 130.67 mg h^-1.",
+      "To 3 significant figures this is 131 mg h^-1."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-07.jpg",
       "papers/biology/img/07C-Internal-Environment-08.jpg",
@@ -70508,16 +71794,23 @@ window.BANK.biology = {
       "results"
      ],
      "question": "Comment on the results of the clinical trial of surgery on glucose uptake in the presence of insulin.",
-     "status": "pending",
-     "answer": "Pending: the trial results (graph or table of glucose uptake for each group) are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Surgery increased glucose uptake in all three groups, with the largest rise in the diabetic groups; after surgery the pre-diabetic and type II means are similar to the non-diabetic mean before surgery, but the large standard deviations overlap.",
+     "steps": [
+      "Mean uptake was higher after surgery in every group: non-diabetic 1.07 to 1.39, pre-diabetic 0.55 to 1.30 and type II 0.40 to 1.10 a.u.",
+      "The increase was proportionally biggest in the type II group (0.70 a.u., about 175%) and pre-diabetic group, but only about 30% in the non-diabetic group.",
+      "After surgery, pre-diabetic (1.30) and type II (1.10) uptake is close to the non-diabetic value before surgery (1.07), so the body cells respond to insulin better.",
+      "However the standard deviations after surgery (0.58 to 0.88) are large and overlap with the before values, and no sample size is given, so the improvement may not be significant."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-07.jpg",
       "papers/biology/img/07C-Internal-Environment-08.jpg",
       "papers/biology/img/07C-Internal-Environment-09.jpg",
       "papers/biology/img/07C-Internal-Environment-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q4.jpg"
+     ]
     },
     {
      "id": "7C-Q4d(ii)",
@@ -70534,16 +71827,22 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the difference that surgery makes to the mean glucose uptake in the non-diabetic group and the type II diabetic group.",
-     "status": "pending",
-     "answer": "Pending: the mean glucose uptake values from the trial data are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Non-diabetic: 0.32 a.u. increase; type II diabetic: 0.70 a.u. increase",
+     "steps": [
+      "Non-diabetic: 1.39 - 1.07 = 0.32 a.u.",
+      "Type II diabetic: 1.10 - 0.40 = 0.70 a.u.",
+      "Surgery therefore makes more than twice as much difference in the type II group."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-07.jpg",
       "papers/biology/img/07C-Internal-Environment-08.jpg",
       "papers/biology/img/07C-Internal-Environment-09.jpg",
       "papers/biology/img/07C-Internal-Environment-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q4.jpg"
+     ]
     },
     {
      "id": "7C-Q5a(i)",
@@ -70733,16 +72032,21 @@ window.BANK.biology = {
       "nephron"
      ],
      "question": "Draw an arrow on the diagram of part of a human kidney to show the location of a single Bowman capsule.",
-     "status": "pending",
-     "answer": "Pending: the kidney diagram is not in the text, so the arrow cannot be placed.",
-     "steps": [],
+     "status": "ready",
+     "answer": "An arrow drawn to point at a spot in the cortex, the lighter outer region of the kidney between the dark outer layer and the medulla pyramids.",
+     "steps": [
+      "Bowman's capsules (with their glomeruli) are microscopic and lie only in the cortex.",
+      "So the arrow's head must end in the cortex region, not in the medulla (the darker striped pyramids) or the pelvis."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-12.jpg",
       "papers/biology/img/07C-Internal-Environment-13.jpg",
       "papers/biology/img/07C-Internal-Environment-14.jpg",
       "papers/biology/img/07C-Internal-Environment-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q6.jpg"
+     ]
     },
     {
      "id": "7C-Q6a(ii)",
@@ -70789,16 +72093,21 @@ window.BANK.biology = {
       "table of rows"
      ],
      "question": "Which row shows the correct pathway taken by a water molecule through the kidney nephron?",
-     "status": "pending",
-     "answer": "Pending: the table of pathways is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: glomerulus, proximal tubule, distal tubule, collecting duct",
+     "steps": [
+      "Filtrate forms first at the glomerulus, then flows through the proximal convoluted tubule and, after the loop of Henle, the distal convoluted tubule.",
+      "It finishes in the collecting duct, so B is the only row with this order."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-12.jpg",
       "papers/biology/img/07C-Internal-Environment-13.jpg",
       "papers/biology/img/07C-Internal-Environment-14.jpg",
       "papers/biology/img/07C-Internal-Environment-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q6-2.jpg"
+     ]
     },
     {
      "id": "7C-Q6b",
@@ -70910,16 +72219,22 @@ window.BANK.biology = {
       "day"
      ],
      "question": "Calculate the difference in the volume of water used in a day by a buffalo and a camel, in dm3 (2 s.f.).",
-     "status": "pending",
-     "answer": "Pending: the table of daily water use for the five species is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "56 dm^3",
+     "steps": [
+      "Buffalo: 150 x 697 = 104 550 cm^3 per day = 104.55 dm^3.",
+      "Camel: 57 x 850 = 48 450 cm^3 per day = 48.45 dm^3.",
+      "Difference = 104.55 - 48.45 = 56.1 = 56 dm^3 (2 s.f.)."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-15.jpg",
       "papers/biology/img/07C-Internal-Environment-16.jpg",
       "papers/biology/img/07C-Internal-Environment-17.jpg",
       "papers/biology/img/07C-Internal-Environment-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q7.jpg"
+     ]
     },
     {
      "id": "7C-Q7b(ii)",
@@ -70935,16 +72250,22 @@ window.BANK.biology = {
       "reasons"
      ],
      "question": "Suggest two reasons why there is no correlation between water use and mean mass for the species in the table.",
-     "status": "pending",
-     "answer": "Pending: the table of water use and mean mass for the five species is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Any two: the species live in different habitats and are adapted differently (camel conserves water, buffalo does not); metabolic rate, diet or surface area to volume ratio differ between species; small sample of only five species.",
+     "steps": [
+      "Water use is already given per kg, so it depends on adaptations, not on body size alone.",
+      "Camels are desert animals with a long loop of Henle and concentrated urine, so they use far less water than buffalo despite both being large.",
+      "Species also differ in diet, metabolic rate and surface area to volume ratio, and only five species are compared, so no overall pattern shows."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-15.jpg",
       "papers/biology/img/07C-Internal-Environment-16.jpg",
       "papers/biology/img/07C-Internal-Environment-17.jpg",
       "papers/biology/img/07C-Internal-Environment-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q7.jpg"
+     ]
     },
     {
      "id": "7C-Q7c",
@@ -70961,16 +72282,23 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Determine the effect of the type of water given on the mean mass of kangaroo rats, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph of mean body mass over 16 days for each water treatment is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Mean mass falls steadily without water (120 g to 115 g in 16 days), but rises with fresh water (to about 121 g); sea water first lowers the mass slightly, then it rises to about 120.5 g.",
+     "steps": [
+      "No water: mass falls steadily with time, losing about 5 g by day 16, because water is lost in urine and breathing and not replaced.",
+      "Fresh water: mass dips slightly at first (119.8 g at day 2) then rises to about 121 g, a net gain of about 1 g.",
+      "Sea water: mass falls to about 119.2 g at day 4, then recovers to about 120.5 g by day 14 to 16, so it is less effective than fresh water but much better than none.",
+      "So giving either water type prevents the loss of mass, and the kangaroo rat copes with salty water by producing very concentrated urine."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-15.jpg",
       "papers/biology/img/07C-Internal-Environment-16.jpg",
       "papers/biology/img/07C-Internal-Environment-17.jpg",
       "papers/biology/img/07C-Internal-Environment-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q7-2.jpg"
+     ]
     },
     {
      "id": "7C-Q7d",
@@ -71015,14 +72343,21 @@ window.BANK.biology = {
       "afferent arteriole"
      ],
      "question": "Complete the diagram of the Bowman capsule showing its blood supply and label two structures.",
-     "status": "pending",
-     "answer": "Pending: the partially drawn Bowman capsule diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A cup-shaped Bowman's capsule drawn round the glomerulus, with its wall labelled and the glomerulus, efferent arteriole or proximal tubule labelled.",
+     "steps": [
+      "Draw a double-walled cup enclosing the capillary knot (glomerulus), with a gap (capsule space) between the capillaries and the outer wall.",
+      "Show the capsule wall continuing into the proximal convoluted tubule at one side.",
+      "Draw the efferent arteriole leaving the glomerulus (narrower than the labelled afferent arteriole).",
+      "Label two of: Bowman's capsule, glomerulus, efferent arteriole, proximal convoluted tubule, podocytes."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-18.jpg",
       "papers/biology/img/07C-Internal-Environment-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q8.jpg"
+     ]
     },
     {
      "id": "7C-Q8a(ii)",
@@ -71065,14 +72400,19 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Which row shows the route taken by a water molecule through a nephron in the kidney?",
-     "status": "pending",
-     "answer": "Pending: the table of routes is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: proximal tubule, loop of Henle, distal tubule, collecting duct",
+     "steps": [
+      "After the glomerulus, filtrate passes through the proximal convoluted tubule, then down and up the loop of Henle, then the distal convoluted tubule, and finally the collecting duct.",
+      "Only row D has this order."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-18.jpg",
       "papers/biology/img/07C-Internal-Environment-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q8-2.jpg"
+     ]
     },
     {
      "id": "7C-Q8b",
@@ -71141,15 +72481,21 @@ window.BANK.biology = {
       "antagonistic muscles"
      ],
      "question": "Which row in the table shows the energy use in muscle contraction?",
-     "status": "pending",
-     "answer": "Pending: the table with rows of energy use is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: ticks for breaking the cross bridge and removing calcium ions; cross for release of ADP and Pi",
+     "steps": [
+      "ATP binds to the myosin head to break the actin-myosin cross bridge.",
+      "ATP provides energy for the calcium pump that actively moves Ca2+ back out of the sarcoplasm.",
+      "Release of ADP and Pi is the result of ATP hydrolysis, not a use of the energy, so that column is a cross."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-20.jpg",
       "papers/biology/img/07C-Internal-Environment-21.jpg",
       "papers/biology/img/07C-Internal-Environment-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q9.jpg"
+     ]
     },
     {
      "id": "7C-Q9a(ii)",
@@ -71196,15 +72542,20 @@ window.BANK.biology = {
       "conclusions"
      ],
      "question": "State two conclusions about the mean masses of the three ostrich muscles shown in the table.",
-     "status": "pending",
-     "answer": "Pending: the table of mean muscle masses for the two ostrich types is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Zimbabwean Blue ostriches have larger mean mass of each muscle than South African Black ostriches; in both types the muscles rank T > G > F in mass.",
+     "steps": [
+      "For all three muscles the Zimbabwean Blue mean is higher (T 0.88 against 0.69 kg, G 0.74 against 0.59 kg, F 0.50 against 0.40 kg).",
+      "Within each type, muscle T has the greatest mean mass, then G, then F, the smallest."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-20.jpg",
       "papers/biology/img/07C-Internal-Environment-21.jpg",
       "papers/biology/img/07C-Internal-Environment-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q9-2.jpg"
+     ]
     },
     {
      "id": "7C-Q9b(ii)",
@@ -71220,15 +72571,21 @@ window.BANK.biology = {
       "data"
      ],
      "question": "Comment on the validity of conclusions drawn from the data for the two ostrich groups.",
-     "status": "pending",
-     "answer": "Pending: the data for the two ostrich groups (table) is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The conclusions are not very valid because only 2 Zimbabwean Blue ostriches were measured, against 34 South African Black, so the Blue sample is not representative.",
+     "steps": [
+      "n = 2 is far too small to give a reliable mean or to show a real difference, and the unequal sample sizes make comparison weak.",
+      "Standard deviations overlap for muscle T (0.69 +/- 0.10 and 0.88 +/- 0.11), so a real difference is not certain there.",
+      "Age, sex, diet and rearing conditions are not given or controlled, and no statistical test was done."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-20.jpg",
       "papers/biology/img/07C-Internal-Environment-21.jpg",
       "papers/biology/img/07C-Internal-Environment-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q9-2.jpg"
+     ]
     },
     {
      "id": "7C-Q9b(iii)",
@@ -71244,15 +72601,21 @@ window.BANK.biology = {
       "Zimbabwean Blue"
      ],
      "question": "Calculate the percentage difference in the mean mass of muscle G between the South African Black and Zimbabwean Blue ostriches (2 d.p.).",
-     "status": "pending",
-     "answer": "Pending: the mean mass values for muscle G and the full equation are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "22.56 % (muscle G is larger in the Zimbabwean Blue ostriches)",
+     "steps": [
+      "Use a = 0.59 and b = 0.74, so a - b = -0.15 and the mean of a and b = (0.59 + 0.74)/2 = 0.665.",
+      "Percentage difference = -0.15 / 0.665 x 100 = -22.56 %.",
+      "The size of the difference is 22.56 % (2 d.p.)."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-20.jpg",
       "papers/biology/img/07C-Internal-Environment-21.jpg",
       "papers/biology/img/07C-Internal-Environment-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q9-2.jpg"
+     ]
     },
     {
      "id": "7C-Q9c",
@@ -71413,16 +72776,22 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Calculate the ratio of mean urine production rate for females in the nothing, water and salt solution groups (1 s.f.).",
-     "status": "pending",
-     "answer": "Pending: the mean urine production rates for females in each group are read from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1 : 8 : 4",
+     "steps": [
+      "Read the female bars: nothing about 100, water about 840 and salt solution about 440 cm^3 per hour.",
+      "To 1 s.f. these are 100 : 800 : 400.",
+      "Dividing by 100 gives 1 : 8 : 4."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-22.jpg",
       "papers/biology/img/07C-Internal-Environment-23.jpg",
       "papers/biology/img/07C-Internal-Environment-24.jpg",
       "papers/biology/img/07C-Internal-Environment-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q10.jpg"
+     ]
     },
     {
      "id": "7C-Q10c(ii)",
@@ -71439,16 +72808,22 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Describe two conclusions from the results of the urine production investigation.",
-     "status": "pending",
-     "answer": "Pending: the graph of mean urine production for males and females in each group is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Drinking water gives the highest urine production in both sexes; salt solution gives more urine than nothing but far less than water; with water or salt solution, females produce more urine than males.",
+     "steps": [
+      "Urine production rate was greatest after drinking water (males about 580 and females about 840 cm^3 per hour) and lowest with nothing to drink (about 120 and 100).",
+      "Salt solution gave an intermediate rate (males about 210 and females about 440 cm^3 per hour), so the type of drink affects the volume of urine made.",
+      "With nothing to drink males made slightly more urine than females, but after water or salt solution females made more, so the response differs between sexes."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-22.jpg",
       "papers/biology/img/07C-Internal-Environment-23.jpg",
       "papers/biology/img/07C-Internal-Environment-24.jpg",
       "papers/biology/img/07C-Internal-Environment-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q10.jpg"
+     ]
     },
     {
      "id": "7C-Q10c(iii)",
@@ -71478,7 +72853,9 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-24.jpg",
       "papers/biology/img/07C-Internal-Environment-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q10.jpg"
+     ]
     },
     {
      "id": "7C-Q11a(i)",
@@ -71752,16 +73129,21 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Calculate the percentage decrease in the rate of urine production 10 minutes after the injection (2 d.p.).",
-     "status": "pending",
-     "answer": "Pending: the table of urine production rates after the injection is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "91.43 %",
+     "steps": [
+      "Rate at 0 min = 7.0 cm^3 min^-1 and at 10 min = 0.6 cm^3 min^-1, so the decrease is 7.0 - 0.6 = 6.4.",
+      "Percentage decrease = 6.4 / 7.0 x 100 = 91.43 % (2 d.p.)."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-27.jpg",
       "papers/biology/img/07C-Internal-Environment-28.jpg",
       "papers/biology/img/07C-Internal-Environment-29.jpg",
       "papers/biology/img/07C-Internal-Environment-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q12.jpg"
+     ]
     },
     {
      "id": "7C-Q12b(ii)",
@@ -71777,16 +73159,21 @@ window.BANK.biology = {
       "minutes"
      ],
      "question": "At what times should more measurements be taken to find the lowest rate of urine production (options A to D)?",
-     "status": "pending",
-     "answer": "Pending: the table of urine production results is needed to choose the correct interval.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: at 1-minute intervals between 5 minutes and 15 minutes",
+     "steps": [
+      "The lowest measured rate is 0.6 at 10 min, but the readings at 5 min (1.1) and 15 min (1.0) are both higher, so the true minimum could lie anywhere between 5 and 15 min.",
+      "Extra readings must cover this whole range, so B is correct; A and C cover only half of it and D takes repeats at the same times."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-27.jpg",
       "papers/biology/img/07C-Internal-Environment-28.jpg",
       "papers/biology/img/07C-Internal-Environment-29.jpg",
       "papers/biology/img/07C-Internal-Environment-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q12.jpg"
+     ]
     },
     {
      "id": "7C-Q12b(iii)",
@@ -71803,16 +73190,23 @@ window.BANK.biology = {
       "explanation"
      ],
      "question": "Explain the results of the investigation in which salt solution was injected into the carotid artery, using the table.",
-     "status": "pending",
-     "answer": "Pending: the answer must be supported by the results table, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The salt solution lowers the water potential of the blood, so more ADH is released and the kidney reabsorbs more water, cutting urine production; as the blood returns to normal, ADH falls and urine production recovers.",
+     "steps": [
+      "Injected salt raises the blood solute concentration, so osmoreceptors in the hypothalamus detect the lower water potential.",
+      "The posterior pituitary releases more ADH, which makes the collecting duct more permeable to water, so more water is reabsorbed and a small volume of concentrated urine forms: the rate fell from 7.0 to 0.6 cm^3 min^-1 by 10 min.",
+      "Water reabsorption restores blood water potential, so ADH release falls (negative feedback) and urine production rises again, to 2.4 cm^3 min^-1 by 30 min.",
+      "Rate is still below the starting value at 30 min, so the blood concentration has not yet fully returned to normal."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-27.jpg",
       "papers/biology/img/07C-Internal-Environment-28.jpg",
       "papers/biology/img/07C-Internal-Environment-29.jpg",
       "papers/biology/img/07C-Internal-Environment-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q12.jpg"
+     ]
     },
     {
      "id": "7C-Q13a(i)",
@@ -71828,15 +73222,21 @@ window.BANK.biology = {
       "image size"
      ],
      "question": "Calculate the magnification of the photograph of the Bowman capsule, given the diameter from X to Y (standard form).",
-     "status": "pending",
-     "answer": "Pending: the length of the X to Y line on the photograph (image size) is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 7.4 x 10^5 (x 740 000), using a measured length XY of about 52 mm",
+     "steps": [
+      "Measure the line X to Y on the photograph: about 52 mm (this depends on the measurement, accept about 50 to 54 mm).",
+      "Convert to the same unit as the real size: 52 mm = 52 x 10^6 nm = 5.2 x 10^7 nm.",
+      "Magnification = image size / real size = 5.2 x 10^7 / 70 = 7.4 x 10^5."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-30.jpg",
       "papers/biology/img/07C-Internal-Environment-31.jpg",
       "papers/biology/img/07C-Internal-Environment-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q13.jpg"
+     ]
     },
     {
      "id": "7C-Q13a(ii)",
@@ -72085,16 +73485,22 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Calculate the difference in urine produced over seven days by the kangaroo rat and the human, in standard form.",
-     "status": "pending",
-     "answer": "Pending: the daily water balance values in the diagram are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1.05 x 10^4 cm^3 (10 497 cm^3) more urine in the human",
+     "steps": [
+      "Kangaroo rat urine = 0.45 cm^3 per day x 7 = 3.15 cm^3.",
+      "Human urine = 1500 cm^3 per day x 7 = 10 500 cm^3.",
+      "Difference = 10 500 - 3.15 = 10 496.85 cm^3 = 1.05 x 10^4 cm^3 in standard form."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-32.jpg",
       "papers/biology/img/07C-Internal-Environment-33.jpg",
       "papers/biology/img/07C-Internal-Environment-34.jpg",
       "papers/biology/img/07C-Internal-Environment-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q14.jpg"
+     ]
     },
     {
      "id": "7C-Q14c(ii)",
@@ -72112,16 +73518,24 @@ window.BANK.biology = {
       "sweat"
      ],
      "question": "Comment on the differences in water gain and water loss between the kangaroo rat and the human, using the diagram.",
-     "status": "pending",
-     "answer": "Pending: the water balance diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The kangaroo rat gains water mainly from metabolism and loses very little in urine, while the human drinks most of its water and loses much more in urine; this fits the rat's adaptation to dry conditions.",
+     "steps": [
+      "Gain: the kangaroo rat gets 1.8 of its 2 cm^3 (90 %) from metabolism, from respiring dry seeds, and takes in no drinking water; the human gets 1500 of 2500 cm^3 (60 %) from drinking and only 10 % from metabolism.",
+      "Loss in urine: only 0.45 of 2 cm^3 (about 23 %) in the rat but 1500 of 2500 cm^3 (60 %) in the human, because the rat has long loops of Henle and makes very concentrated urine.",
+      "Faeces are small in both (0.09 and 100 cm^3), as the rat's faeces are very dry, so little water is lost there.",
+      "Evaporation is 73 % of the rat's loss (1.46 cm^3) against 36 % in the human, as a small animal has a large surface area to volume ratio, but its total loss is still tiny and it balances its gain.",
+      "Total water gained equals total lost in each (2 and 2500 cm^3 per day), showing water balance."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-32.jpg",
       "papers/biology/img/07C-Internal-Environment-33.jpg",
       "papers/biology/img/07C-Internal-Environment-34.jpg",
       "papers/biology/img/07C-Internal-Environment-35.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q14.jpg"
+     ]
     },
     {
      "id": "7C-Q15a(i)",
@@ -72136,9 +73550,12 @@ window.BANK.biology = {
       "labelled structure"
      ],
      "question": "Which labelled structure on the nephron and blood supply diagram transports blood to the renal vein (options Q, R, S, U)?",
-     "status": "pending",
-     "answer": "Pending: the labelled kidney tubule and blood supply diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: Q",
+     "steps": [
+      "R is the afferent arteriole bringing blood to the glomerulus, S is the proximal tubule and U is the collecting duct.",
+      "Q is the blood vessel (vasa recta) that runs alongside the loop of Henle and carries blood on to the venule and renal vein."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-35.jpg",
       "papers/biology/img/07C-Internal-Environment-36.jpg",
@@ -72146,7 +73563,9 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-38.jpg",
       "papers/biology/img/07C-Internal-Environment-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q15.jpg"
+     ]
     },
     {
      "id": "7C-Q15a(ii)",
@@ -72162,9 +73581,12 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Which labelled structures would be found in the medulla region of the kidney?",
-     "status": "pending",
-     "answer": "Pending: the labelled diagram of the kidney tubule and blood supply is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: P, Q and U",
+     "steps": [
+      "P is the loop of Henle, Q the vasa recta and U the collecting duct, and all three extend down into the medulla.",
+      "R, S and T (afferent arteriole, proximal and distal convoluted tubules) lie in the cortex."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-35.jpg",
       "papers/biology/img/07C-Internal-Environment-36.jpg",
@@ -72172,7 +73594,10 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-38.jpg",
       "papers/biology/img/07C-Internal-Environment-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q15.jpg",
+      "papers/biology/fig/07C-Internal-Environment-Q15-2.jpg"
+     ]
     },
     {
      "id": "7C-Q15a(iii)",
@@ -72188,9 +73613,13 @@ window.BANK.biology = {
       "structures A and B"
      ],
      "question": "Explain how structures A and B and their locations in the proximal convoluted tubule enable reabsorption of solutes, using the micrograph.",
-     "status": "pending",
-     "answer": "Pending: the electron micrograph with labelled structures A and B is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A (microvilli) give a large surface area on the lumen side for absorption, and B (mitochondria) beside the base of the cell supply ATP for active transport of solutes into the blood.",
+     "steps": [
+      "Structure A is the microvilli (brush border) on the side facing the lumen, which greatly increases surface area in contact with the filtrate, so more glucose, amino acids and ions are reabsorbed quickly.",
+      "Structure B is the many mitochondria, which make ATP by aerobic respiration.",
+      "They lie near the base of the cell, next to the capillaries, supplying ATP for the Na+/K+ pump that keeps the sodium gradient driving co-transport, so solutes are moved efficiently into the blood."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-35.jpg",
       "papers/biology/img/07C-Internal-Environment-36.jpg",
@@ -72198,7 +73627,9 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-38.jpg",
       "papers/biology/img/07C-Internal-Environment-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q15-3.jpg"
+     ]
     },
     {
      "id": "7C-Q15b",
@@ -72215,9 +73646,14 @@ window.BANK.biology = {
       "dilute urine"
      ],
      "question": "Comment on the results of the investigation in which individuals drank 1000 cm3 of water, using the table and graph.",
-     "status": "pending",
-     "answer": "Pending: the table and graph of urine volume and composition are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Drinking water raises urine volume and lowers its ion concentration to a peak/trough at 60 minutes, then both return to the starting values by 150 minutes, showing osmoregulation by negative feedback.",
+     "steps": [
+      "Urine volume rose from 100 cm^3 at 0 min to a maximum of 325 cm^3 at 60 min, then fell back to 100 cm^3 by 150 min.",
+      "Ion concentration fell from 6.0 to a minimum of 1.8 a.u. at 60 min then rose back to 6.0, so the urine was most dilute when the volume was greatest; total ions (volume x concentration) stayed about 590 to 600, so only water excretion changed.",
+      "Mass of urea also peaked at 60 min (about 6.4 a.u., up from 2.0) and then fell back to 2.0 a.u. at 150 min.",
+      "Explanation: the extra water lowered the blood solute concentration, so osmoreceptors cut ADH release, collecting duct permeability fell and less water was reabsorbed; as blood concentration returned to normal, ADH rose again and urine returned to its original state."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-35.jpg",
       "papers/biology/img/07C-Internal-Environment-36.jpg",
@@ -72225,7 +73661,9 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-38.jpg",
       "papers/biology/img/07C-Internal-Environment-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q15-4.jpg"
+     ]
     },
     {
      "id": "7C-Q15c",
@@ -72256,7 +73694,9 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-38.jpg",
       "papers/biology/img/07C-Internal-Environment-39.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q15-5.jpg"
+     ]
     },
     {
      "id": "7C-Q16a(i)",
@@ -72325,15 +73765,21 @@ window.BANK.biology = {
       "one day"
      ],
      "question": "Calculate the volume of urine produced in one day with an ADH concentration of 75%, assuming ADH stays constant (standard form).",
-     "status": "pending",
-     "answer": "Pending: the urine production rate at 75% ADH is in the table, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "2.16 x 10^3 cm^3",
+     "steps": [
+      "From the table, at 75 % of maximum ADH the rate of urine production is 1.5 cm^3 min^-1.",
+      "One day = 24 x 60 = 1440 min, so volume = 1.5 x 1440 = 2160 cm^3.",
+      "In standard form this is 2.16 x 10^3 cm^3."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-39.jpg",
       "papers/biology/img/07C-Internal-Environment-40.jpg",
       "papers/biology/img/07C-Internal-Environment-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q16.jpg"
+     ]
     },
     {
      "id": "7C-Q16b(ii)",
@@ -72361,7 +73807,9 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-40.jpg",
       "papers/biology/img/07C-Internal-Environment-41.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q16.jpg"
+     ]
     },
     {
      "id": "7C-Q16c",
@@ -72405,14 +73853,20 @@ window.BANK.biology = {
       "molecules formed"
      ],
      "question": "Complete the diagram to show the molecule formed when the two amino acids join together (dipeptide).",
-     "status": "pending",
-     "answer": "Pending: the diagram of the two amino acids is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A dipeptide HO-C(=O)-C(R)(H)-N(H)-C(=O)-C(R)(H)-N(H)-H with a peptide bond between the left N and the right C(=O), plus a water molecule H2O.",
+     "steps": [
+      "Remove the OH from the carboxyl group of the right-hand amino acid and one H from the amino group of the left-hand amino acid.",
+      "Join the C of the right molecule's carboxyl to the N of the left molecule with a new C-N peptide bond: ...C(R)(H)-N(H)-C(=O)-C(R)(H)-N(H)-H, keeping the free HO-C(=O) at the far left.",
+      "Draw the removed OH and H as the second product, water (H2O)."
+     ],
      "images": [
       "papers/biology/img/07C-Internal-Environment-41.jpg",
       "papers/biology/img/07C-Internal-Environment-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/07C-Internal-Environment-Q17.jpg"
+     ]
     },
     {
      "id": "7C-Q17a(ii)",
@@ -72520,14 +73974,20 @@ window.BANK.biology = {
       "impulse"
      ],
      "question": "Which row of a table correctly compares impulse conduction along a myelinated neurone with a non-myelinated neurone?",
-     "status": "pending",
-     "answer": "Pending: the table of rows (options) is not in the text, so the correct row cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: faster; because depolarisation only takes place at the nodes of Ranvier",
+     "steps": [
+      "Myelin insulates the axon, so ion movement and depolarisation can occur only at the gaps (nodes of Ranvier).",
+      "The impulse jumps from node to node (saltatory conduction), so conduction is faster than in a non-myelinated neurone.",
+      "So the row is 'faster' and 'at nodes of Ranvier', which is A."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-001.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-002.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q1.jpg"
+     ]
     },
     {
      "id": "8AB-Q1b",
@@ -72573,14 +74033,20 @@ window.BANK.biology = {
       "inhibition"
      ],
      "question": "Using the graph of the effect of TTX on the nerve impulse in an axon, deduce how TTX inhibits nerve impulses (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the graph of the nerve impulse with and without TTX is not in the text, so the deduction cannot be checked.",
-     "steps": [],
+     "status": "ready",
+     "answer": "TTX blocks voltage-gated sodium channels, so too little Na+ enters, the membrane does not depolarise to threshold and no action potential forms.",
+     "steps": [
+      "In the untreated axon the membrane depolarises from -70 mV to about +50 mV, but in the TTX-treated axon it only reaches about -45 mV, never positive.",
+      "Depolarisation is caused by Na+ entering through voltage-gated sodium channels, so a much smaller rise means TTX has stopped most of these channels from opening.",
+      "Without full depolarisation the threshold is not passed, so no action potential is produced and the impulse cannot be conducted along the axon."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-001.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-002.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q1-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q2a",
@@ -72660,9 +74126,12 @@ window.BANK.biology = {
       "paragraph 10"
      ],
      "question": "Explain why a CT scan was used to show that Judy Perkins was free of tumours (paragraph 10 and Figure 1) (2 marks).",
-     "status": "pending",
-     "answer": "Pending: Figure 1 and paragraph 10 of the source article are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A CT scan gives detailed cross-sectional images of the body's internal organs, so it can show deep tumours and show that none remain.",
+     "steps": [
+      "Tumours in the liver, lungs or other organs cannot be seen from outside, and a CT scan uses X-rays to build 3D images of soft tissue deep inside the body without surgery.",
+      "Scans before and after treatment can be compared to show that the tumours have shrunk or disappeared, and the whole body can be checked for any new tumours."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-002.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
@@ -72811,15 +74280,20 @@ window.BANK.biology = {
       "estimate"
      ],
      "question": "From the graph, estimate how long the MDMA concentration in the blood takes to become 0.0 g dm-3 (1 mark).",
-     "status": "pending",
-     "answer": "Pending: the graph of MDMA and ADH concentrations is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 12 hours",
+     "steps": [
+      "After its peak the MDMA concentration falls roughly linearly: 46 at 4 h, 36 at 6 h, 23 at 8 h, about 6 units per hour.",
+      "Extending this line to 0 gives 8 + 23/6 = about 12 h (accept 11 to 13 hours)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-005.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-006.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-007.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q3.jpg"
+     ]
     },
     {
      "id": "8AB-Q3a(ii)",
@@ -72836,15 +74310,21 @@ window.BANK.biology = {
       "4 to 8 hours"
      ],
      "question": "Calculate the rate of removal of ADH from the blood between 4 and 8 hours, from the graph (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the ADH concentration values from the graph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 0.33 pmol dm^-3 per hour (decrease)",
+     "steps": [
+      "Read the ADH curve on the right-hand axis: about 2.8 pmol dm^-3 at 4 h and 1.5 pmol dm^-3 at 8 h.",
+      "Change = 2.8 - 1.5 = 1.3 pmol dm^-3 over 8 - 4 = 4 h.",
+      "Rate = 1.3 / 4 = 0.33 pmol dm^-3 h^-1 (accept 0.30 to 0.35)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-005.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-006.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-007.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q3.jpg"
+     ]
     },
     {
      "id": "8AB-Q3b",
@@ -72862,15 +74342,24 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Comment on the role of ADH in MDMA-induced brain swelling, using the graph and the laboratory results table (6 marks).",
-     "status": "pending",
-     "answer": "Pending: the laboratory results table and the graph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "MDMA raises ADH, which makes the kidneys reabsorb too much water, lowering blood sodium concentration, so water moves into brain cells by osmosis and the brain swells.",
+     "steps": [
+      "Graph: ADH rises from 1.5 to about 4.0 pmol dm^-3 within 2 h as MDMA peaks (about 47 ug dm^-3), then falls back to 1.5 by 8 h as MDMA is removed, so MDMA stimulates ADH release.",
+      "Table: at 9 h ADH is 4.5 pmol dm^-3, three times the normal 1.5 value, whereas at 96 h it is back to 1.2 pmol dm^-3.",
+      "High ADH makes the collecting duct more permeable to water, so too much water is reabsorbed and the blood is diluted: sodium concentration is only 112 mmol dm^-3 at 9 h, against 131 at 96 h and a normal 135 to 145.",
+      "Thirst also leads to drinking a lot, adding to the dilution; the blood has a higher water potential than the brain cells, so water enters them by osmosis and the brain swells (CT swollen at 9 h, normal at 96 h).",
+      "Only one case is given, and a link is not proof of cause, but the changes in ADH, sodium and swelling all go together."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-005.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-006.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-007.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q3.jpg",
+      "papers/biology/fig/08AB-Nervous-Coordination-Q3-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q4a(i)",
@@ -72886,16 +74375,21 @@ window.BANK.biology = {
       "iris"
      ],
      "question": "Describe the relationship between light intensity and pupil diameter, using the table of results (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the table of pupil diameters at different light intensities is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Pupil diameter decreases as light intensity increases for both lights, and the decrease is greater for LED light.",
+     "steps": [
+      "Incandescent light: diameter falls from 25.5 mm at 0 a.u. per m^2 to 16.0 mm at 1400 a.u. per m^2, a fall of 9.5 mm, with no change between 75 and 150.",
+      "LED light: diameter falls from 25.5 mm to 9.5 mm, a fall of 16.0 mm, and is smaller than incandescent at every intensity above zero (e.g. 12.0 against 17.5 mm at 650)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-007.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-008.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-009.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-010.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q4.jpg"
+     ]
     },
     {
      "id": "8AB-Q4a(ii)",
@@ -72912,16 +74406,22 @@ window.BANK.biology = {
       "area of circle"
      ],
      "question": "Calculate the amount of incandescent light passing through the pupil at 1400 a.u. per m2, using pi = 3.14 (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the pupil diameter at this intensity comes from the table, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.28 a.u. (0.281)",
+     "steps": [
+      "At 1400 a.u. per m^2 the incandescent pupil diameter is 16.0 mm, so the radius is 8.0 mm = 0.0080 m.",
+      "Area of pupil = pi r^2 = 3.14 x 0.0080^2 = 2.01 x 10^-4 m^2.",
+      "Amount of light = intensity x area = 1400 x 2.01 x 10^-4 = 0.28 a.u."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-007.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-008.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-009.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-010.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q4.jpg"
+     ]
     },
     {
      "id": "8AB-Q4a(iii)",
@@ -73014,7 +74514,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-009.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-010.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q4-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q5a(i)",
@@ -73093,15 +74595,24 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Comment on the effect of red and far-red light on germination of plantain seeds and the processes in their cells, using the table of results (6 marks).",
-     "status": "pending",
-     "answer": "Pending: the table of germination percentages for the red and far-red light periods is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Red light promotes germination and far-red light reverses it, because red light converts phytochrome Pr to active Pfr and far-red converts Pfr back to Pr.",
+     "steps": [
+      "With only 1 s of far-red, germination is 92 to 100 % after every red exposure, so red light stimulates germination.",
+      "Increasing far-red exposure to 5 to 30 s sharply reduces germination (after 32 min red: 100 % to 20 % at 5 s and 4 % at 30 s), so far-red inhibits germination and cancels the red effect.",
+      "In the cells, phytochrome exists as Pr, which absorbs red light and changes to the active form Pfr; Pfr absorbs far-red and changes back to Pr, so the last light received sets the Pfr:Pr ratio.",
+      "Pfr switches on genes (for example for gibberellin and amylase production) that start germination, and low Pfr stops these genes being expressed.",
+      "Exposure matters: at 5 s far-red, germination was 20 % after 32 min of red but 67 % after 4 min, and at 960 s far-red only the 4 min group (92 %) recovered, which is anomalous.",
+      "Each result is a single value with no repeats or statistics, so the trends should be treated with caution."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-010.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-011.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-012.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q5.jpg"
+     ]
     },
     {
      "id": "8AB-Q6a(i)",
@@ -73179,15 +74690,21 @@ window.BANK.biology = {
       "comment"
      ],
      "question": "Comment on the results of the fiddler crab predator experiment, using the two graphs (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the two graphs of percentage of crabs running home are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Female crabs run home less often as encounters increase (about 90 % to about 70 %), showing habituation, whereas males stay high (70 to 100 %) with no clear decline.",
+     "steps": [
+      "Females: the percentage running home falls from about 90 % at the 1st encounter to about 70 % at the 20th, with fluctuations and a low of about 35 % at the 19th, so they become habituated to the repeated, harmless approach.",
+      "Males: the percentage stays between about 70 and 100 % throughout and shows no clear downward trend, so there is little or no habituation.",
+      "Males ran home more than females at almost every encounter (about 90 % average against 65 to 70 %), so the sexes respond differently to the predator, perhaps because of differing risk."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-012.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-013.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-014.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q6.jpg"
+     ]
     },
     {
      "id": "8AB-Q6b(ii)",
@@ -73294,15 +74811,20 @@ window.BANK.biology = {
       "sample size"
      ],
      "question": "Comment on the validity of a student's conclusion that myelin quantity is related to whether a person has dementia, using the table of results (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the table of mean myelin quantities for the dementia groups and the control group is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The conclusion is partly valid: all three dementia groups have less myelin than the control, but the data cannot show cause, and sample sizes and other variables are not given.",
+     "steps": [
+      "Supporting the conclusion: control 52 a.u. against 25 (vascular), 32 (Alzheimer's) and 42 (Lewy body), and the standard deviations do not overlap those of the control (e.g. 52 - 3.2 = 48.8 against 42 + 5.0 = 47), so the differences look real.",
+      "Limitations: a link does not prove that low myelin causes dementia (it could be a result), the sample sizes are not stated, and the amount differs between the dementia types, so 'dementia' as a whole is not a single cause; age, sex and the brain region sampled are not controlled, and no statistical test was done."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-014.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-015.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-016.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q7.jpg"
+     ]
     },
     {
      "id": "8AB-Q8a(i)",
@@ -73319,16 +74841,22 @@ window.BANK.biology = {
       "AVN"
      ],
      "question": "Using the labelled heart diagram (P, Q, R), which statement correctly identifies the SAN, AVN and Purkinje fibres? (1 mark)",
-     "status": "pending",
-     "answer": "Pending: the heart diagram with labels P, Q and R is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Q is the sinoatrial node (SAN) and P is the atrioventricular node (AVN)",
+     "steps": [
+      "Q is in the wall of the right atrium near the vena cava, where the SAN (pacemaker) is found.",
+      "P is at the junction of the atria and ventricles, the position of the AVN, and R is at the base of the septum where the Purkinje fibres begin, so only B fits."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-016.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q8.jpg",
+      "papers/biology/fig/08AB-Nervous-Coordination-Q8-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q8a(ii)",
@@ -73406,16 +74934,21 @@ window.BANK.biology = {
       "football player"
      ],
      "question": "Calculate the stroke volume of the football player after training, using the table of cardiac output and resting heart rate (1 mark).",
-     "status": "pending",
-     "answer": "Pending: the table of cardiac output and resting heart rate is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "88.2 cm^3 (per beat)",
+     "steps": [
+      "Stroke volume = cardiac output / heart rate.",
+      "After training: 4500 cm^3 min^-1 / 51 beats min^-1 = 88.2 cm^3."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-016.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q8-3.jpg"
+     ]
     },
     {
      "id": "8AB-Q8b(iii)",
@@ -73431,16 +74964,21 @@ window.BANK.biology = {
       "footballer"
      ],
      "question": "Using the ECG trace in the diagram, calculate the footballer's heart rate (1 mark).",
-     "status": "pending",
-     "answer": "Pending: the ECG trace diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 155 beats per minute (accept 150 to 160)",
+     "steps": [
+      "Count the QRS spikes in the 7 s trace: 18 beats.",
+      "Heart rate = 18 x 60 / 7 = 154 bpm; equivalently the time between spikes is about 0.38 s, giving 60 / 0.38 = about 156 bpm."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-016.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q8-4.jpg"
+     ]
     },
     {
      "id": "8AB-Q8b(iv)",
@@ -73457,16 +74995,23 @@ window.BANK.biology = {
       "exercise"
      ],
      "question": "Comment on the changes in heart activity shown by two ECG traces recorded two hours apart (3 marks).",
-     "status": "pending",
-     "answer": "Pending: the two ECG traces are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The heart rate has fallen from about 155 to about 69 beats per minute, so the cardiac cycle is much longer and the heart is returning towards its resting state.",
+     "steps": [
+      "In the first ECG there are 18 beats in 7 s (about 155 bpm), with a gap of about 0.38 s between beats; the second shows 8 beats (spikes at about 0.8, 1.7, 2.6 s, etc.), a gap of about 0.87 s, so about 69 bpm.",
+      "The cardiac cycle has lengthened, especially diastole, so the P wave, QRS complex and T wave are well separated in the second trace but overlap in the first.",
+      "The beat spacing is regular in both, so the rhythm is steady; the rate is still above the resting 51 bpm, consistent with recovery after exercise as sympathetic stimulation and adrenaline fall."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-016.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q8-4.jpg",
+      "papers/biology/fig/08AB-Nervous-Coordination-Q8-5.jpg"
+     ]
     },
     {
      "id": "8AB-Q9a(i)",
@@ -73513,15 +75058,20 @@ window.BANK.biology = {
       "effects"
      ],
      "question": "Which row of the table shows the effects of light absorption on cells in the retina?",
-     "status": "pending",
-     "answer": "Pending: the table of rows is not in the text, so the correct row cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: rod cell hyperpolarised, bipolar neurone depolarised",
+     "steps": [
+      "Light splits rhodopsin, which closes Na+ channels in the rod cell, so the cell becomes hyperpolarised.",
+      "The hyperpolarised rod releases less inhibitory neurotransmitter, so the bipolar neurone is no longer inhibited and becomes depolarised."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q9.jpg"
+     ]
     },
     {
      "id": "8AB-Q9b(i)",
@@ -73537,15 +75087,20 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Describe the effect of light intensity on the mean potential difference of bipolar neurones, using the table of results (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the table of mean potential differences at each light intensity is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Mean potential difference increases as light intensity increases, rapidly at first, then levels off at 20 mV from 12 a.u.",
+     "steps": [
+      "It rises from 11 mV at 2 a.u. to 17 mV at 4 a.u. and 19 mV at 8 a.u., the steepest rise being at low intensities.",
+      "From 12 a.u. up to 20 a.u. the value stays at 20 mV, a plateau, so higher intensity gives no further change (maximum response)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q9-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q9b(ii)",
@@ -73561,15 +75116,20 @@ window.BANK.biology = {
       "bipolar neurones"
      ],
      "question": "Calculate the percentage change in mean potential difference when light intensity increases from 4 to 12 a.u. (2 marks).",
-     "status": "pending",
-     "answer": "Pending: the mean potential difference values at 4 and 12 a.u. are in the table, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "17.6 % increase",
+     "steps": [
+      "Potential difference at 4 a.u. = 17 mV and at 12 a.u. = 20 mV, so the change is 20 - 17 = 3 mV.",
+      "Percentage change = 3 / 17 x 100 = 17.6 % (17.65)."
+     ],
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q9-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q9b(iii)",
@@ -73599,7 +75159,9 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/biology/fig/08AB-Nervous-Coordination-Q9-2.jpg"
+     ]
     },
     {
      "id": "8AB-Q9c",

@@ -48150,10 +48150,14 @@ window.BANK.physics = {
       "concentration of mass",
       "multiple choice"
      ],
-     "question": "Which of the following could not be concluded from high-speed alpha particle scattering experiments?",
-     "status": "pending",
-     "answer": "Pending: as printed, all four options (empty space, positive nucleus, concentration of charge, concentration of mass) are valid conclusions from alpha scattering, so the intended key cannot be determined from the page.",
-     "steps": [],
+     "question": "Alpha particles were fired at high speed at thin metal foils. Which of the following could not be concluded from these experiments? A Most of the atom is empty space. B The nucleus of the atom is positively charged. C There is a concentration of charge in the atom. D There is a concentration of mass in the atom.",
+     "status": "ready",
+     "answer": "B: The nucleus of the atom is positively charged.",
+     "steps": [
+      "Most alpha particles pass straight through, so most of the atom is empty space (A can be concluded).",
+      "A few are deflected through large angles, so the charge and the mass must be concentrated in a tiny region (C and D can be concluded).",
+      "The pattern of scattering depends on the product of the two charges squared, so an attractive (negative) centre would give the same pattern. The experiment does not show the sign of the nuclear charge, so B is the one that could not be concluded."
+     ],
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-03.jpg",
       "papers/physics/img/26-7A-Probing-Matter-04.jpg"
@@ -49311,7 +49315,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-04.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q2.jpg"
+     ]
     },
     {
      "id": "7B-Q2b(i)",
@@ -49343,7 +49349,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-04.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q2-2.jpg"
+     ]
     },
     {
      "id": "7B-Q2b(ii)",
@@ -49374,7 +49382,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-04.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q2-2.jpg"
+     ]
     },
     {
      "id": "7B-Q2c",
@@ -49439,7 +49449,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-04.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q2-3.jpg"
+     ]
     },
     {
      "id": "7B-Q3a",
@@ -49469,7 +49481,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-07.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q3.jpg"
+     ]
     },
     {
      "id": "7B-Q3b(i)",
@@ -49488,12 +49502,12 @@ window.BANK.physics = {
      ],
      "question": "Complete the nuclear equations for radon decaying by alpha emission to polonium, which decays by alpha emission to lead.",
      "status": "ready",
-     "answer": "222/86 Rn -> 218/84 Po + 4/2 He, then 218/84 Po -> 214/82 Pb + 4/2 He",
+     "answer": "220/86 Rn -> 216/84 Po + 4/2 He, then 216/84 Po -> 212/82 Pb + 4/2 He; overall 220/86 Rn -> 212/82 Pb + 2 (4/2 He), so the lead has nucleon number 212 and 2 alpha particles are emitted.",
      "steps": [
-      "Alpha particles are helium nuclei, 4/2 He, so each decay reduces the mass number by 4 and the proton number by 2.",
-      "Radon-222 (proton number 86) gives polonium with mass number 218 and proton number 84, plus an alpha particle.",
-      "Polonium-218 gives lead with mass number 214 and proton number 82, plus an alpha particle.",
-      "Radon-222 is the standard isotope for this chain; the mass numbers are checked by conservation."
+      "Each alpha particle is 4/2 He, so each decay reduces the nucleon number by 4 and the proton number by 2.",
+      "First decay: radon-220 (proton number 86) gives polonium with nucleon number 216 and proton number 84.",
+      "Second decay: polonium-216 gives lead with nucleon number 212 and proton number 82 (matching the 82 printed on the page).",
+      "Overall: 220 = 212 + 2 x 4 and 86 = 82 + 2 x 2, so the missing numbers are 212 for lead and 2 alpha particles (4/2 alpha)."
      ],
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-05.jpg",
@@ -49501,7 +49515,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-07.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q3-2.jpg"
+     ]
     },
     {
      "id": "7B-Q3b(ii)",
@@ -49519,9 +49535,14 @@ window.BANK.physics = {
       "radon"
      ],
      "question": "Sketch a vector diagram showing the momenta of the two alpha particles and the lead ion after radon decay, with the tracks at 60 degrees.",
-     "status": "pending",
-     "answer": "Pending: the answer is a sketch, which cannot be given in text. The lead momentum vector must equal the negative of the vector sum of the two alpha momenta.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A closed triangle of three momentum vectors drawn head to tail: p(alpha 1) = 1.16 x 10^-19 N s, then p(alpha 2) = 1.20 x 10^-19 N s drawn 60 degrees from the first, and the lead ion vector (about 2.0 x 10^-19 N s, the longest side) closing the triangle back to the start.",
+     "steps": [
+      "The radon atom was stationary, so total momentum is zero before and after: p1 + p2 + p(Pb) = 0, so the three vectors form a closed triangle.",
+      "Draw p1 (first alpha) as an arrow, then draw p2 from the tip of p1 in a direction 60 degrees from p1 (the tracks are 60 degrees apart); p2 is only slightly longer than p1 (speeds 1.74 and 1.81 x 10^7 m s^-1, same mass), so draw them nearly equal in length.",
+      "Draw the third arrow from the tip of p2 back to the tail of p1: this is the lead ion momentum, pointing opposite to p1 + p2, and it is the longest side (about 1.8 times an alpha vector).",
+      "Label the three arrows and put the arrowheads head to tail round the triangle; the angle inside the triangle between the two alpha vectors is 120 degrees."
+     ],
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-05.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-06.jpg",
@@ -49579,16 +49600,23 @@ window.BANK.physics = {
       "deduce"
      ],
      "question": "A photograph shows another pair of alpha tracks after radon decay. Deduce which track belongs to the first alpha particle emitted.",
-     "status": "pending",
-     "answer": "Pending: needs the photograph of the two tracks, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The shorter, thicker, almost vertical track is the first alpha particle (from radon); the longer thin diagonal track is the second (from polonium).",
+     "steps": [
+      "The first alpha comes from radon (speed 1.74 x 10^7 m s^-1) and the second from polonium (speed 1.81 x 10^7 m s^-1).",
+      "The same mass but a higher speed means the polonium alpha has more kinetic energy (1/2 m v^2).",
+      "The more energetic particle ionises vapour for longer before it stops, so its track is longer; the less energetic radon alpha has the shorter track.",
+      "In the photograph the long thin track running up to the left is the longer, so it is the polonium alpha; the shorter, thicker, almost vertical track is the first alpha particle emitted."
+     ],
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-05.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-06.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-07.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q3-3.jpg"
+     ]
     },
     {
      "id": "7B-Q4",
@@ -49634,14 +49662,21 @@ window.BANK.physics = {
       "diagram"
      ],
      "question": "A positron and a muon travel at the same speed through a uniform magnetic field directed into the page. Which diagram shows their motion?",
-     "status": "pending",
-     "answer": "Pending: the answer is chosen from A-D diagrams that are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: positron curves to the left in a tight circle, muon curves to the right in a larger circle.",
+     "steps": [
+      "Both particles travel up the page in a field into the page. For a positive charge the force qvB points to the left (left-hand rule), so the positron bends left; the muon is negative, so it bends to the right (opposite direction).",
+      "The radius is r = m v / (B q). Speed v, field B and the size of the charge are the same, so r is proportional to mass.",
+      "The muon is about 200 times heavier than the positron, so its radius is much larger; the positron has the tight, small-radius curve.",
+      "Only diagram C has the positron curving left with small radius and the muon curving right with large radius."
+     ],
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-08.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q5.jpg"
+     ]
     },
     {
      "id": "7B-Q6",
@@ -49777,15 +49812,21 @@ window.BANK.physics = {
       "oxygen ions"
      ],
      "question": "Calculate the p.d. between the anode and cathode of an ion accelerator, given the electric field strength is 7.5 x 10^5 V m^-1.",
-     "status": "pending",
-     "answer": "Pending: needs the anode-cathode separation d, which appears only on the diagram; V = E x d.",
-     "steps": [],
+     "status": "ready",
+     "answer": "V = 4.5 x 10^4 V (45 kV)",
+     "steps": [
+      "From the diagram the anode-cathode separation is d = 6.0 cm = 0.060 m.",
+      "For a uniform field E = V / d, so V = E d.",
+      "V = 7.5 x 10^5 x 0.060 = 4.5 x 10^4 V."
+     ],
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-11.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-12.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q10-2.jpg"
+     ]
     },
     {
      "id": "7B-Q10a(ii)",
@@ -49803,15 +49844,22 @@ window.BANK.physics = {
       "5 x 10^5 m s^-1"
      ],
      "question": "A stationary oxygen ion is formed half-way between anode and cathode. Show that its speed at the cathode hole is about 5 x 10^5 m s^-1, given m = 2.7 x 10^-26 kg and q = 1.6 x 10^-19 C.",
-     "status": "pending",
-     "answer": "Pending: needs the anode-cathode separation d (from the diagram) to find the p.d. across half the gap.",
-     "steps": [],
+     "status": "ready",
+     "answer": "v = 5.2 x 10^5 m s^-1, which is about 5 x 10^5 m s^-1.",
+     "steps": [
+      "The ion starts half-way, so it crosses half the gap (0.030 m) at the cathode: p.d. = E x 0.030 = 7.5 x 10^5 x 0.030 = 2.25 x 10^4 V (half of 4.5 x 10^4 V).",
+      "Work done on the ion = q V = 1.6 x 10^-19 x 2.25 x 10^4 = 3.6 x 10^-15 J, which becomes kinetic energy since it starts at rest.",
+      "1/2 m v^2 = 3.6 x 10^-15, so v = sqrt(2 x 3.6 x 10^-15 / 2.7 x 10^-26) = sqrt(2.67 x 10^11).",
+      "v = 5.2 x 10^5 m s^-1, about 5 x 10^5 m s^-1."
+     ],
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-11.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-12.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q10-2.jpg"
+     ]
     },
     {
      "id": "7B-Q10b(i)",
@@ -49829,15 +49877,21 @@ window.BANK.physics = {
       "plates P Q"
      ],
      "question": "In a velocity selector with plate P positive and Q negative, explain the direction of the magnetic field so that the magnetic force on the ion is opposite to the electric force.",
-     "status": "pending",
-     "answer": "Pending: the direction depends on the beam direction and plate orientation shown in the diagram, which is missing.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The magnetic field must point into the page (perpendicular to the plane of the diagram).",
+     "steps": [
+      "The oxygen ion is positive, so the electric force on it is towards the negative plate Q (downwards in the diagram).",
+      "For the ion to travel straight the magnetic force must be the opposite way, upwards towards P.",
+      "The ion moves to the right, so it is like a conventional current to the right; with the force up, Fleming's left-hand rule (first finger field, second finger velocity, thumb force) gives a field directed into the page."
+     ],
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-11.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-12.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q10-3.jpg"
+     ]
     },
     {
      "id": "7B-Q10b(ii)",
@@ -49898,7 +49952,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-12.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q10.jpg"
+     ]
     },
     {
      "id": "7B-Q11",
@@ -49916,14 +49972,20 @@ window.BANK.physics = {
       "conclusion"
      ],
      "question": "A particle detector shows tracks of two particles X and Y produced by the decay of a kaon at O. Which conclusion can be drawn from the tracks? A: field into page; B: X positive; C: Y is an electron; D: X and Y opposite charge.",
-     "status": "pending",
-     "answer": "Pending: the track curvature is shown only in the diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: X and Y have opposite charge.",
+     "steps": [
+      "Both particles start from O in the same magnetic field. X curves one way (to the left) and Y curves the other way (to the right).",
+      "A field bends opposite charges in opposite senses (F = B q v), so X and Y have opposite charges.",
+      "A, B and C cannot be concluded: the direction of the field is not given, so the sign of X cannot be found, and the track alone does not show that Y is an electron."
+     ],
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-13.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q11.jpg"
+     ]
     },
     {
      "id": "7B-Q12a(i)",
@@ -49954,7 +50016,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-15.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q12.jpg"
+     ]
     },
     {
      "id": "7B-Q12a(ii)",
@@ -50046,7 +50110,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-15.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q12-2.jpg"
+     ]
     },
     {
      "id": "7B-Q13a",
@@ -50077,7 +50143,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-16.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q13.jpg"
+     ]
     },
     {
      "id": "7B-Q13b",
@@ -50106,7 +50174,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-16.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q13-2.jpg"
+     ]
     },
     {
      "id": "7B-Q14",
@@ -50154,14 +50224,22 @@ window.BANK.physics = {
       "5 x 10^-20 N s"
      ],
      "question": "An alpha particle with momentum 1.26 x 10^-19 N s collides with a stationary proton and has momentum 8.06 x 10^-20 N s after. Show that the proton momentum is about 5 x 10^-20 N s at an angle of about 20 degrees.",
-     "status": "pending",
-     "answer": "Pending: needs the alpha particle's scattering angle, which is shown only in the diagram and is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "p = 4.9 x 10^-20 N s at theta = 17 degrees, which is about 5 x 10^-20 N s at about 20 degrees (1 s.f.).",
+     "steps": [
+      "Momentum is conserved in two perpendicular directions: x along the original direction of the alpha, y perpendicular to it.",
+      "x: 1.26 x 10^-19 = 8.06 x 10^-20 cos 10.2 + p cos(theta), so p cos(theta) = 1.26 x 10^-19 - 7.93 x 10^-20 = 4.67 x 10^-20 N s.",
+      "y: 0 = 8.06 x 10^-20 sin 10.2 - p sin(theta), so p sin(theta) = 1.43 x 10^-20 N s.",
+      "p = sqrt((4.67 x 10^-20)^2 + (1.43 x 10^-20)^2) = 4.9 x 10^-20 N s, about 5 x 10^-20 N s.",
+      "tan(theta) = 1.43 / 4.67, so theta = 17 degrees, about 20 degrees to 1 significant figure."
+     ],
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-18.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q15.jpg"
+     ]
     },
     {
      "id": "7B-Q15b",
@@ -50192,7 +50270,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-18.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-19.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q15.jpg"
+     ]
     },
     {
      "id": "7B-Q16",
@@ -50210,14 +50290,21 @@ window.BANK.physics = {
       "properties"
      ],
      "question": "Two charged particles X and Y move at the same speed in a uniform magnetic field along the paths shown. Which row of the table describes Y compared with X?",
-     "status": "pending",
-     "answer": "Pending: the table of options and the path diagram are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: mass of Y less than X, charge of Y greater than X.",
+     "steps": [
+      "In a magnetic field the radius is r = m v / (B q). The two particles have the same speed and are in the same field, so r is proportional to m/q.",
+      "Y moves in a much smaller circle than X, so Y has the smaller value of m/q.",
+      "Row B (smaller mass, larger charge) gives a smaller m/q. A, C and D each give a larger m/q (greater mass or smaller charge), which would make Y's radius larger."
+     ],
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-19.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q16.jpg",
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q16-2.jpg"
+     ]
     },
     {
      "id": "7B-Q17",
@@ -50264,14 +50351,21 @@ window.BANK.physics = {
       "into page"
      ],
      "question": "The track of a charged particle in a magnetic field directed into the page is shown. Which particle could create it? A: muon X to Y; B: positron Y to X; C: positive particle X to Y; D: electron Y to X.",
-     "status": "pending",
-     "answer": "Pending: the track curvature and the direction of travel are shown only in the diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: an electron travelling from Y to X.",
+     "steps": [
+      "The track spirals inwards from Y to X with the radius getting smaller: the particle is losing speed (r = m v / (B q)), so it travels from Y to X, not X to Y. This rules out A and C.",
+      "Following the track from Y to X, the particle goes round clockwise.",
+      "With the field into the page, a positive particle goes round anticlockwise and a negative particle clockwise (F = B q v).",
+      "Clockwise motion means a negative particle, so it is the electron travelling from Y to X (a positron would go anticlockwise)."
+     ],
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-20.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q18.jpg"
+     ]
     },
     {
      "id": "7B-Q19",
@@ -50351,16 +50445,15 @@ window.BANK.physics = {
       "wavelength 220 m",
       "interference"
      ],
-     "question": "An electron of speed 1650 km s^-1 moves perpendicular to B = 48 T and emits radio waves at its rotation frequency. Calculate the radius and deduce whether this would interfere with a 220 m radio station.",
+     "question": "An electron of speed 1650 km s^-1 moves perpendicular to a magnetic field of flux density 48 x 10^-6 T (48 microtesla) and emits radio waves at its rotation frequency. Calculate the radius and deduce whether this would interfere with a radio station broadcasting at 220 m.",
      "status": "ready",
-     "answer": "Radius = 2.0 x 10^-7 m; emitted frequency = 1.3 x 10^12 Hz, far from the 1.4 x 10^6 Hz of the station, so no interference.",
+     "answer": "Radius = 0.20 m. Emitted frequency = 1.3 x 10^6 Hz (wavelength about 220 m), which matches the station (about 1.4 x 10^6 Hz), so it would interfere.",
      "steps": [
-      "Radius from B q v = m v^2 / r: r = m v / (B q).",
-      "r = (9.11 x 10^-31 x 1.65 x 10^6) / (48 x 1.6 x 10^-19) = 2.0 x 10^-7 m.",
-      "Rotation frequency: f = v / (2 pi r) = B q / (2 pi m).",
-      "f = (48 x 1.6 x 10^-19) / (2 pi x 9.11 x 10^-31) = 1.3 x 10^12 Hz.",
-      "Station frequency: f = c / lambda = 3.0 x 10^8 / 220 = 1.4 x 10^6 Hz.",
-      "The frequencies differ by about six orders of magnitude, so there is no interference."
+      "The magnetic force provides the centripetal force: B e v = m v^2 / r, so r = m v / (B e).",
+      "r = (9.11 x 10^-31 x 1.65 x 10^6) / (48 x 10^-6 x 1.6 x 10^-19) = 0.20 m.",
+      "Frequency of rotation f = v / (2 pi r) = 1.65 x 10^6 / (2 pi x 0.196) = 1.3 x 10^6 Hz.",
+      "Station frequency f = c / wavelength = 3.0 x 10^8 / 220 = 1.4 x 10^6 Hz.",
+      "The two frequencies are almost equal (the emitted wavelength is about 224 m), so the radio waves from the electron would interfere with the station signal."
      ],
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-21.jpg",
@@ -50385,14 +50478,21 @@ window.BANK.physics = {
       "evidence"
      ],
      "question": "A bubble chamber photograph shows tracks in which a charged particle interacts with a stationary proton at P, producing two neutral particles that each decay. Explain the evidence in the diagram for this description.",
-     "status": "pending",
-     "answer": "Pending: needs the bubble chamber photograph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "One track ends at P (charged particle in); no track leaves P (neutral particles produced); two separate V-shaped pairs of tracks start away from P (each neutral particle decays into a pair of oppositely charged particles).",
+     "steps": [
+      "A single track runs up to P and stops there: a charged particle ionises the liquid and leaves a track, and it interacts with a proton at P.",
+      "No tracks leave P: the two particles produced there are neutral and do not ionise, so they leave no trail.",
+      "Two V-shaped pairs of tracks each begin at a point some distance from P with nothing joining them to P: each neutral particle travelled unseen and then decayed there into two charged particles.",
+      "The two tracks of each V curve in opposite directions, as expected for a neutral particle decaying into a positive and a negative particle (charge conserved: 0 -> + and -)."
+     ],
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-23.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-24.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q21.jpg"
+     ]
     },
     {
      "id": "7B-Q22",
@@ -50454,7 +50554,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-26.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q23.jpg"
+     ]
     },
     {
      "id": "7B-Q23a(ii)",
@@ -50485,7 +50587,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-26.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q23.jpg"
+     ]
     },
     {
      "id": "7B-Q23a(iii)",
@@ -50518,7 +50622,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-26.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q23.jpg"
+     ]
     },
     {
      "id": "7B-Q23b(i)",
@@ -50536,16 +50642,22 @@ window.BANK.physics = {
       "accelerating gap"
      ],
      "question": "The shaded section between X and Y in the model corresponds to a linac drift tube. Give one similarity and two differences between this section of the model and a drift tube in a linac.",
-     "status": "pending",
-     "answer": "Pending: the shaded section X to Y is shown only in the diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Similarity: no accelerating force, so the speed is constant in the section, as in a drift tube. Differences: the model uses constant d.c. potentials and the ball is charged and discharged, but a linac uses an alternating p.d. and the particle keeps constant charge; the ball touches strips in air, while the particle travels inside a tube in a vacuum.",
+     "steps": [
+      "Similarity: after the ball discharges on the 0 V strip it moves at constant speed through the shaded section, just as a particle drifts at constant speed inside a linac tube where there is no electric field.",
+      "Difference 1: in the model the strips are at fixed d.c. potentials (1800 V and 0 V) and the ball picks up and loses charge on the strips; in a linac the particle's charge stays the same and the tubes are connected to an alternating supply.",
+      "Difference 2: the ball rolls on a track in contact with the strips and in air (friction acts); the particle in a linac travels without contact through the inside of a tube, in a vacuum."
+     ],
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-24.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-25.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-26.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q23-2.jpg"
+     ]
     },
     {
      "id": "7B-Q23b(ii)",
@@ -50655,9 +50767,13 @@ window.BANK.physics = {
       "circular path"
      ],
      "question": "An alpha particle moving in a straight line with the same speed v enters the same magnetic field as the proton of Q25 and follows a circular path. Which is its initial radius? (Options A-D are not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the options A-D are missing from the text. Physics gives r = m v / (B q), so the alpha radius is about twice the proton radius (mass about 4 times, charge 2 times).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 2r",
+     "steps": [
+      "In the field the radius is r = m v / (B q), so for the proton r = m(p) v / (B e).",
+      "An alpha particle has about 4 times the proton mass and 2 times its charge: m = 4 m(p), q = 2e.",
+      "Same v and B, so r(alpha) = 4 m(p) v / (B x 2e) = 2 x (m(p) v / (B e)) = 2r."
+     ],
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-28.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-29.jpg",
@@ -50712,15 +50828,22 @@ window.BANK.physics = {
       "semicircles"
      ],
      "question": "Add to the diagram the path of protons that gain energy in a cyclotron with the magnetic field into the page.",
-     "status": "pending",
-     "answer": "Pending: the answer is a drawn spiral path on the diagram, which cannot be given in text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "An anticlockwise spiral starting at the source: the protons first curve upwards in the right-hand dee, cross the gap above the source heading left, curve downwards in the left-hand dee, and so on with the radius of each semicircle larger than the last.",
+     "steps": [
+      "The protons start at the source moving to the right into the right-hand dee. For a positive charge the force is v x B: moving right with the field into the page gives a force upwards, so the path bends upwards (anticlockwise).",
+      "Inside a dee the path is a semicircle, which returns to the gap above the source (crossing the gap at right angles), now moving left into the left-hand dee.",
+      "In the left dee the force is now downwards, so the path continues anticlockwise as a larger semicircle and re-crosses the gap below the source.",
+      "Each crossing of the gap gives the protons extra energy and speed, so each semicircle has a larger radius: the path is an outward spiral, drawn with semicircles joined across the gap."
+     ],
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-28.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-29.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-30.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q28.jpg"
+     ]
     },
     {
      "id": "7B-Q28b",
@@ -50802,14 +50925,21 @@ window.BANK.physics = {
       "valid"
      ],
      "question": "A bubble chamber shows a particle track. Which is a valid conclusion? A: negatively charged; B: moving from X to Y; C: speed increasing; D: experiences a centripetal force.",
-     "status": "pending",
-     "answer": "Pending: the particle track shown in the bubble chamber diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: the particle experiences a centripetal force.",
+     "steps": [
+      "The track is curved, so the velocity is changing direction; this needs a resultant force towards the centre of the curve (a centripetal force, here the magnetic force).",
+      "A cannot be concluded: the sign of the charge depends on the field direction, which is not given.",
+      "B cannot be concluded: a track alone does not show which way the particle moved without knowing the sign of its charge and the field direction.",
+      "C is not shown: the magnetic force does no work, and nothing in the track indicates the speed is increasing (particles in a bubble chamber lose energy)."
+     ],
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-30.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q29.jpg"
+     ]
     },
     {
      "id": "7B-Q30",
@@ -50870,7 +51000,9 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-31.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-32.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/27-7B-Accelerators-Detectors-Q31.jpg"
+     ]
     },
     {
      "id": "7B-Q31b(i)",
@@ -51105,14 +51237,21 @@ window.BANK.physics = {
       "mass kg"
      ],
      "question": "A gamma photon of energy 18 MeV produces a particle and its antiparticle. Which gives the maximum possible mass of the particle in kg? (Options are not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the text. Physics: maximum mass is when the pair shares the energy equally, so each has mc^2 = 9 MeV, giving m = 1.6 x 10^-29 kg.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: (9 x 10^6 x 1.6 x 10^-19) / (3 x 10^8)^2",
+     "steps": [
+      "The photon energy 18 MeV becomes the rest energy of the particle plus the antiparticle (greatest mass when they are produced at rest), so each has E = 9 MeV.",
+      "Convert to joules: 9 x 10^6 x 1.6 x 10^-19 J.",
+      "Use E = m c^2, so m = E / c^2 = (9 x 10^6 x 1.6 x 10^-19) / (3 x 10^8)^2 = 1.6 x 10^-29 kg.",
+      "Option D has the factor 10^6 (MeV to eV), the 1.6 x 10^-19 (eV to J) and c squared; A and C omit the 10^6, and A and B divide by c instead of c^2."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-03.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q4.jpg"
+     ]
     },
     {
      "id": "7C-Q5",
@@ -51218,14 +51357,23 @@ window.BANK.physics = {
       "description"
      ],
      "question": "Describe how the underlined particles in a passage about the history of particle physics fit into the standard model. (The passage is not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the passage with the underlined particles is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Electron and muon are fundamental leptons; proton and neutron are baryons made of three quarks; a meson is a quark-antiquark pair.",
+     "steps": [
+      "Electron: a fundamental particle, a charged lepton (first generation), paired with the electron neutrino.",
+      "Muon: also a fundamental charged lepton (second generation), like a much heavier electron (about 200 times the mass) that is unstable; it is not a meson, which is why it was a surprise.",
+      "Proton: not fundamental; a baryon (a hadron) made of three quarks, u u d, charge +1.",
+      "Neutron: not fundamental; a baryon (a hadron) made of three quarks, u d d, charge 0.",
+      "Meson: not fundamental; a hadron made of one quark and one antiquark (for example a pion, u d-bar).",
+      "So in the standard model only the leptons (and quarks) are fundamental; the particles thought to be fundamental in 1932 were only partly right (the electron is, the proton and neutron are not)."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-04.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q7.jpg"
+     ]
     },
     {
      "id": "7C-Q8",
@@ -51273,14 +51421,20 @@ window.BANK.physics = {
       "lepton number"
      ],
      "question": "Neutrinos can interact with protons to create neutrons. Which equation shows this process? (Options are not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the equation options are missing from the text. Expected form: antineutrino + p -> n + e^+.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: anti-electron-neutrino + p -> e+ + n",
+     "steps": [
+      "Charge: the proton has +1, so the products must total +1: n (0) + e+ (+1) works; n + e- would be -1 and fails (rules out B and D).",
+      "Lepton number: the left side must equal the right side. With e+ (lepton number -1) on the right, the left must have -1, so the incoming particle is an antineutrino (lepton number -1).",
+      "Baryon number: p (1) -> n (1) is fine, so C conserves charge, lepton number and baryon number; A has a neutrino (+1) on the left and e+ (-1) on the right, so it fails."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-05.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q9.jpg"
+     ]
     },
     {
      "id": "7C-Q10a",
@@ -51329,15 +51483,21 @@ window.BANK.physics = {
       "deduce"
      ],
      "question": "The photograph shows the curved track of a positron in a magnetic field perpendicular to the page. Deduce the direction of the magnetic field.",
-     "status": "pending",
-     "answer": "Pending: the direction depends on the sense of curvature and direction of travel shown in the photograph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The magnetic field is directed into the page.",
+     "steps": [
+      "The track is more tightly curved above the lead plate than below it: the positron lost energy in the plate, so it was travelling upwards through the plate.",
+      "Above the plate the positron moves up the page and curves to the left, so the magnetic force on it points to the left (towards the centre of its circle).",
+      "A positron is positive, so conventional current is up the page; with force to the left, Fleming's left-hand rule (thumb force, second finger current, first finger field) gives a field into the page."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-06.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-07.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q10.jpg"
+     ]
     },
     {
      "id": "7C-Q10c1",
@@ -51476,14 +51636,20 @@ window.BANK.physics = {
       "antineutrino"
      ],
      "question": "Explain how the anti-neutron decay equation shows that the decay obeys three conservation laws. (The equation is not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the decay equation is not in the text, so the charge, baryon and lepton numbers cannot be checked.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The equation n-bar -> p-bar + e+ + neutrino obeys conservation of charge, baryon number and lepton number.",
+     "steps": [
+      "Charge: before = 0 (anti-neutron); after = (-1) + (+1) + 0 = 0, so charge is conserved.",
+      "Baryon number: the anti-neutron has baryon number -1; the anti-proton has -1 and the positron and neutrino have 0, so -1 = -1 and baryon number is conserved (nucleon number 1 on both sides).",
+      "Lepton number: before = 0; after = positron (antilepton, -1) + electron neutrino (lepton, +1) = 0, so lepton number is conserved."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-08.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q11.jpg"
+     ]
     },
     {
      "id": "7C-Q12a",
@@ -51622,14 +51788,20 @@ window.BANK.physics = {
       "multiple choice",
       "hyperon"
      ],
-     "question": "Which of the following is the quark structure of a sigma particle? (Options are not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the text.",
-     "steps": [],
+     "question": "Which of the following is the quark structure for a pi-minus (pi^-) particle? A: d d d; B: anti-u anti-u anti-d; C: anti-u d; D: u d.",
+     "status": "ready",
+     "answer": "C: anti-u d (a down quark and an anti-up quark)",
+     "steps": [
+      "A pion is a meson, so it is made of one quark and one antiquark.",
+      "Charge of pi^-: d (-1/3) + anti-u (-2/3) = -1, which matches pi^-.",
+      "A (ddd) is three quarks, so a baryon; B (anti-u anti-u anti-d) is three antiquarks, an antibaryon; D (u d) has no antiquark and a charge of +1/3."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q14.jpg"
+     ]
     },
     {
      "id": "7C-Q15",
@@ -51647,15 +51819,22 @@ window.BANK.physics = {
       "row"
      ],
      "question": "A pentaquark is made of five quarks and can form a baryon-meson combination. Which row of the table shows a possible arrangement? (The table is not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the table of quark arrangements is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: baryon d u u, meson c c-bar",
+     "steps": [
+      "The five quarks are c, c-bar, d, u, u. A baryon is three quarks (no antiquark); a meson is a quark plus an antiquark.",
+      "Row A: baryon d u u (three quarks) and meson c c-bar (quark + antiquark) use exactly the five quarks given.",
+      "B has an antiquark in the baryon and a two-quark 'meson' of d and c (no antiquark); C and D give baryons with only two quarks, so they cannot be correct."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-12.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q15.jpg",
+      "papers/physics/fig/28-7C-Particle-Zoo-Q15-2.jpg"
+     ]
     },
     {
      "id": "7C-Q16a",
@@ -51673,15 +51852,21 @@ window.BANK.physics = {
       "evidence"
      ],
      "question": "State two ways the detector diagram shows that the anti-muon from a positive pion decay at X must have a positive charge.",
-     "status": "pending",
-     "answer": "Pending: the track diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "(1) The anti-muon's track curves the same way (clockwise) as the positive pion's track in the same field, so it has the same sign of charge. (2) The only visible track leaving X is the anti-muon's; the neutrino is neutral, so charge conservation means the anti-muon carries the pion's +e.",
+     "steps": [
+      "The anti-muon leaves a visible track, so it is charged; the neutrino produced at X leaves none because it is neutral.",
+      "The positive pion arrives at X curving clockwise and the anti-muon continues curving clockwise in the same field, so it has the same sign of charge: positive.",
+      "Charge is conserved: pion +1 -> anti-muon + neutrino (0), so the anti-muon must be +1."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-12.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q16.jpg"
+     ]
     },
     {
      "id": "7C-Q16b",
@@ -51699,15 +51884,21 @@ window.BANK.physics = {
       "explain"
      ],
      "question": "Explain how the diagram shows that the anti-muon travels in a clockwise path.",
-     "status": "pending",
-     "answer": "Pending: the track diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The anti-muon loses energy, so its radius shrinks and the path spirals inwards; following the spiral inwards from X the path goes round clockwise.",
+     "steps": [
+      "The track from X is a spiral whose radius gets smaller: the anti-muon loses energy by ionising the detector, so its speed and momentum fall and r = p / (B q) decreases.",
+      "So the particle must be moving inwards along the spiral, away from X towards the centre (not outwards).",
+      "Following the spiral inwards from X: down the right-hand side, along the bottom, up the left-hand side and over the top, which is the clockwise sense."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-12.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q16.jpg"
+     ]
     },
     {
      "id": "7C-Q16c",
@@ -51725,15 +51916,20 @@ window.BANK.physics = {
       "state"
      ],
      "question": "State the direction of the magnetic field acting in the detector, given the clockwise path of the anti-muon.",
-     "status": "pending",
-     "answer": "Pending: the direction depends on the diagram showing the track and the positive charge, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Out of the page.",
+     "steps": [
+      "The anti-muon is positive and moves clockwise, so at the top of its circle it moves to the right and the magnetic force must point down towards the centre.",
+      "Fleming's left-hand rule: second finger (current) to the right, thumb (force) down, so the first finger (field) points out of the page."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-12.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q16.jpg"
+     ]
     },
     {
      "id": "7C-Q16d",
@@ -51823,7 +52019,9 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q16-2.jpg"
+     ]
     },
     {
      "id": "7C-Q17a",
@@ -51964,14 +52162,20 @@ window.BANK.physics = {
       "calculate"
      ],
      "question": "A particle has a mass of 3.17 x 10^-27 kg. Which gives the mass in GeV/c^2? (Options are not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the options are missing. Physics: m c^2 = 3.17 x 10^-27 x 9.00 x 10^16 = 2.85 x 10^-10 J = 1.78 GeV, so the mass is 1.78 GeV/c^2.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: (3.17 x 10^-27 x (3.00 x 10^8)^2) / (10^9 x 1.6 x 10^-19) = 1.78 GeV/c^2",
+     "steps": [
+      "Rest energy: E = m c^2 = 3.17 x 10^-27 x (3.00 x 10^8)^2 = 2.85 x 10^-10 J.",
+      "Convert to eV by dividing by 1.6 x 10^-19, then to GeV by dividing by 10^9.",
+      "So the mass is 3.17 x 10^-27 x (3.00 x 10^8)^2 / (10^9 x 1.6 x 10^-19) = 1.78 GeV/c^2, which is option D; A and B multiply by 10^9 instead of dividing, and C misses the 10^9."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-16.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q18.jpg"
+     ]
     },
     {
      "id": "7C-Q19",
@@ -52046,14 +52250,20 @@ window.BANK.physics = {
       "plates"
      ],
      "question": "Sketch lines to represent the electric field between the parallel plates of a spark chamber with a p.d. of 10.5 kV across two adjacent plates.",
-     "status": "pending",
-     "answer": "Pending: a sketch of field lines cannot be given in text. Expected: parallel, evenly spaced field lines perpendicular to the plates.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Straight, parallel, evenly spaced field lines drawn from the top (+10.5 kV) plate down to the bottom (0 V) plate, at right angles to both plates, with arrows pointing downwards.",
+     "steps": [
+      "Between parallel plates the field is uniform: draw equally spaced, parallel, straight vertical lines.",
+      "Lines must meet each plate at 90 degrees (field lines are perpendicular to a conductor's surface).",
+      "The arrows point from the higher potential (+10.5 kV) to the lower potential (0 V), so downwards."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-17.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q21.jpg"
+     ]
     },
     {
      "id": "7C-Q21b1",
@@ -52098,14 +52308,14 @@ window.BANK.physics = {
       "0.2 m",
       "energy"
      ],
-     "question": "The ionised atom travels 0.2 m perpendicular to the plates before colliding with another atom. Deduce whether the collision could cause further ionisation, given ionisation energy 3.9 x 10^-19 J.",
+     "question": "The ionised atom travels 0.2 micrometres (0.2 x 10^-6 m) perpendicular to the plates before colliding with another atom. Deduce whether the collision could cause further ionisation, given ionisation energy 3.9 x 10^-19 J.",
      "status": "ready",
-     "answer": "Yes: the work done by the field over 0.2 m is about 5 x 10^-14 J, far more than the ionisation energy of 3.9 x 10^-19 J.",
+     "answer": "No: the work done by the field over 0.2 micrometres is only about 5 x 10^-20 J, less than the ionisation energy of 3.9 x 10^-19 J.",
      "steps": [
-      "Work done by the field: W = F s = 2.6 x 10^-13 x 0.2 = 5.2 x 10^-14 J.",
-      "This energy far exceeds the ionisation energy 3.9 x 10^-19 J.",
-      "Even over the 6.40 mm gap the work done is 1.7 x 10^-15 J, still far above 3.9 x 10^-19 J.",
-      "So the atom has enough energy to ionise another atom in the collision."
+      "Force on the ion F = 2.6 x 10^-13 N (from part (b)(i)).",
+      "Work done by the field over 0.2 x 10^-6 m: W = F s = 2.6 x 10^-13 x 0.2 x 10^-6 = 5.2 x 10^-20 J.",
+      "This is the kinetic energy the ion gains before the collision, and 5.2 x 10^-20 J is less than the ionisation energy 3.9 x 10^-19 J (about 13 percent of it).",
+      "So the collision cannot ionise another atom."
      ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-17.jpg",
@@ -52305,14 +52515,20 @@ window.BANK.physics = {
       "state"
      ],
      "question": "A magnetic field acts in the detector. State its direction. (Direction is shown on the track diagram, which is not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the direction depends on the track curvature in the diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Into the page.",
+     "steps": [
+      "The K+ (positive) leaves the collision moving to the right and curving upwards, so the force on it is upwards.",
+      "For a positive charge moving right with the force up, Fleming's left-hand rule (thumb up, second finger right) gives a field into the page.",
+      "Check: the negative omega curves downwards, and the rule with a negative charge also gives a field into the page."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-20.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-21.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q23.jpg"
+     ]
     },
     {
      "id": "7C-Q23b3",
@@ -52420,15 +52636,21 @@ window.BANK.physics = {
       "production"
      ],
      "question": "A muon can be produced by a decay shown in a nuclear equation. State the names of the two other particles involved. (The equation is not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the decay equation is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The negative pion (pi-minus) is the decaying particle, and the other product is a muon anti-neutrino.",
+     "steps": [
+      "The particle on the left of the arrow, pi^-, is a negative pion (a meson).",
+      "The particle with the bar over it, anti-nu with subscript mu, is a muon anti-neutrino.",
+      "The mu^- is the muon itself, so these are the two other particles involved."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-21.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-22.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q24.jpg"
+     ]
     },
     {
      "id": "7C-Q24c",
@@ -52567,15 +52789,22 @@ window.BANK.physics = {
       "kaon decay"
      ],
      "question": "Determine the momentum of the negative pion produced in the detector, with magnetic flux density 7.0 T. (The track diagram drawn to scale is not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the radius of the pion track must be measured from the scaled diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "p = about 2.1 x 10^-19 N s (radius read from the scale diagram about 19 cm)",
+     "steps": [
+      "The pi^- track is the arc leaving Y with the label pi^-; it is part of a circle, and fitting a circle to it on the diagram gives radius about 1.9 cm.",
+      "The scale is 1 cm on the diagram = 10 cm in the detector, so r = 1.9 x 10 = 19 cm = 0.19 m (accept about 0.18 to 0.20 m).",
+      "In a magnetic field r = p / (B q), so p = B q r = 7.0 x 1.6 x 10^-19 x 0.19.",
+      "p = 2.1 x 10^-19 N s (about 2.0 to 2.2 x 10^-19 N s depending on the radius read)."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-23.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-24.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q25.jpg"
+     ]
     },
     {
      "id": "7C-Q25b",
@@ -52593,15 +52822,20 @@ window.BANK.physics = {
       "two ways"
      ],
      "question": "State two ways the diagram shows that the kaon is neutral.",
-     "status": "pending",
-     "answer": "Pending: the track diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "There is no track between X and Y, and the two pions at Y curve in opposite directions (opposite charges).",
+     "steps": [
+      "A neutral particle does not ionise the detector, so it leaves no track: the kaon makes no track between X (where it is produced) and Y (where it decays).",
+      "The pi+ and pi- tracks that start at Y curve in opposite directions in the field, so the two charges are opposite and cancel: the total charge before decay was zero, so the kaon was neutral."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-23.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-24.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q25.jpg"
+     ]
     },
     {
      "id": "7C-Q25c",
@@ -52631,7 +52865,9 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-24.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q25-2.jpg"
+     ]
     },
     {
      "id": "7C-Q25d",
@@ -52739,14 +52975,20 @@ window.BANK.physics = {
       "compare"
      ],
      "question": "Which row of the table describes the lifetime and mass of a high speed muon compared with a stationary muon? (The table is not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the table of options is missing from the text. Physics: lifetime increases (time dilation); rest mass stays the same.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: longer lifetime, larger mass",
+     "steps": [
+      "At speeds close to the speed of light the muon's lifetime measured in the detector is longer than at rest (time dilation).",
+      "Its mass (energy) is also larger because the muon has a very large kinetic energy at that speed.",
+      "Only row D (longer, larger) has both the lifetime and the mass increasing."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-26.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-27.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q27.jpg"
+     ]
     },
     {
      "id": "7C-Q28",
@@ -52820,14 +53062,20 @@ window.BANK.physics = {
       "identify"
      ],
      "question": "Which row of the table describes the mass and charge of an antiproton? (The table is not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the table of options is missing. Physics: mass equal to the proton, charge -e.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: mass 1.67 x 10^-27 kg, charge -1.6 x 10^-19 C",
+     "steps": [
+      "An antiparticle has the same mass as its particle: the proton mass is 1.67 x 10^-27 kg, so the mass is positive 1.67 x 10^-27 kg.",
+      "The charge is opposite to the proton's +1.6 x 10^-19 C, so -1.6 x 10^-19 C.",
+      "Mass cannot be negative, which rules out C and D; A has the wrong charge."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-28.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q30.jpg"
+     ]
     },
     {
      "id": "7C-Q31",
@@ -52845,14 +53093,21 @@ window.BANK.physics = {
       "uuu"
      ],
      "question": "The table shows relative charges on up and down quarks. Which could be the quark composition for a baryon with charge +2e? (The table of options is not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the table of quark compositions is missing. Physics: three up quarks (uuu) give +2e.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: u u u",
+     "steps": [
+      "A baryon is made of three quarks (no antiquark); B and C are two-quark combinations, so they are not baryons.",
+      "uuu has charge 3 x (+2/3) e = +2e.",
+      "ddd has charge 3 x (-1/3) e = -e, so it is not +2e."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-28.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q31.jpg",
+      "papers/physics/fig/28-7C-Particle-Zoo-Q31-2.jpg"
+     ]
     },
     {
      "id": "7C-Q32a",
@@ -52924,15 +53179,22 @@ window.BANK.physics = {
       "student",
       "check"
      ],
-     "question": "Charged pions decay into a muon and another particle X. A student suggests X is an anti-neutrino. Deduce whether the student is correct. (The decay equation signs are lost in the text.)",
-     "status": "pending",
-     "answer": "Pending: the charges on the pion and muon in the decay equation are lost in the text. If the decay is pi^- -> mu^- + anti-neutrino the student is correct; if pi^+ -> mu^+ + neutrino the student is wrong.",
-     "steps": [],
+     "question": "Charged pions decay into a muon and another particle X, e.g. pi^- -> mu^- + X. A student suggests X is an anti-neutrino because of particle conservation laws. Deduce whether the student is correct.",
+     "status": "ready",
+     "answer": "Yes: X must be neutral, with baryon number 0 and lepton number -1, which is an anti-neutrino (a muon anti-neutrino).",
+     "steps": [
+      "Charge: the pi^- has -1 and the mu^- has -1, so X has charge 0 (neutral).",
+      "Baryon number: pion 0 and muon 0, so X has baryon number 0.",
+      "Lepton number: pion 0, mu^- has lepton number +1, so X must have lepton number -1, an antilepton.",
+      "A neutral particle with lepton number -1 is an anti-neutrino, so the student is correct."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-28.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-29.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q32.jpg"
+     ]
     },
     {
      "id": "7C-Q33a",
@@ -53037,14 +53299,20 @@ window.BANK.physics = {
       "proton"
      ],
      "question": "Which row in the table gives the charge and mass of an antiproton? (The table is not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the table of options is missing. Physics: charge -e, mass equal to the proton.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: charge -1.6 x 10^-19 C, mass 1.67 x 10^-27 kg",
+     "steps": [
+      "The antiproton has the same mass as the proton: 1.67 x 10^-27 kg (positive).",
+      "Its charge is opposite to the proton's, so -1.6 x 10^-19 C.",
+      "A and B give the mass of an electron or a negative mass, and C has a negative mass, so only D is right."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-30.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-31.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q34.jpg"
+     ]
     },
     {
      "id": "7C-Q35a",
@@ -53361,14 +53629,22 @@ window.BANK.physics = {
       "five quarks"
      ],
      "question": "A pentaquark of five quarks is made of a meson and a baryon with equal and opposite charges. Determine the quark combination and charge of a meson and of a baryon that could make up the pentaquark. (The quark table and the five quarks are not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the quark charge table and the five quarks in the pentaquark are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "For example: meson c-bar d (charge -1) and baryon u c s (charge +1). (Meson c-bar s with baryon u c d also works.)",
+     "steps": [
+      "The five quarks are c, c-bar, d, s, u. A baryon needs three quarks (no antiquark), so the only antiquark, c-bar, must be in the meson, paired with one other quark.",
+      "Meson c-bar d: charge = -2/3 + (-1/3) = -1.",
+      "Baryon from the remaining quarks u, c, s: charge = +2/3 + 2/3 - 1/3 = +1, equal and opposite to the meson's charge.",
+      "So meson = c-bar d with charge -1, baryon = u c s with charge +1 (equal and opposite)."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-35.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-36.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q38.jpg",
+      "papers/physics/fig/28-7C-Particle-Zoo-Q38-2.jpg"
+     ]
     },
     {
      "id": "7C-Q39a",
@@ -53415,15 +53691,21 @@ window.BANK.physics = {
       "decay"
      ],
      "question": "Explain whether a given muon decay would be possible, considering conservation of charge and lepton number. (The decay equation is not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the decay equation is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Possible: mu^- -> e^- + nu(e) + anti-nu(mu) conserves charge and lepton number.",
+     "steps": [
+      "Charge: left = -1 (mu^-); right = -1 (e^-) + 0 + 0 = -1, so charge is conserved.",
+      "Lepton number: left = +1 (mu^- is a lepton); right = +1 (e^-) + 1 (neutrino) + (-1) (anti-neutrino) = +1, so lepton number is conserved.",
+      "Both laws are obeyed (treating lepton number as one total number), so the decay is possible."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-36.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q39.jpg"
+     ]
     },
     {
      "id": "7C-Q40a",
@@ -53591,14 +53873,20 @@ window.BANK.physics = {
       "mass"
      ],
      "question": "A particle has mass 6.5 MeV/c^2. Which gives its mass in kg? (Options are not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the options are missing. Physics: m = 6.5 x 10^6 x 1.6 x 10^-19 / (3.00 x 10^8)^2 = 1.2 x 10^-30 kg.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: (6.5 x 1.6 x 10^-13) / (3 x 10^8)^2 kg",
+     "steps": [
+      "6.5 MeV = 6.5 x 10^6 eV x 1.6 x 10^-19 J per eV = 6.5 x 1.6 x 10^-13 J.",
+      "m = E / c^2 = 6.5 x 1.6 x 10^-13 / (3 x 10^8)^2 = 1.2 x 10^-29 kg.",
+      "B has the 10^-13 (MeV to J) and divides by c^2; A uses 10^-19 (eV, not MeV)."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-39.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q42.jpg"
+     ]
     },
     {
      "id": "7C-Q43",
@@ -53616,14 +53904,20 @@ window.BANK.physics = {
       "options"
      ],
      "question": "Which of the following shows the beta-minus decay of a nucleon? (Options are not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the answer options are missing from the text. Expected: n -> p + e^- + antineutrino.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: n -> p + beta^- + anti-electron-neutrino",
+     "steps": [
+      "Beta-minus decay of a nucleon is a neutron turning into a proton, emitting an electron (beta-minus) and an anti-neutrino.",
+      "Check: charge 0 -> +1 - 1 + 0; lepton number 0 -> +1 (electron) - 1 (antineutrino) = 0, so the bar is needed.",
+      "A has a neutrino (lepton number would be +2), and C and D have a proton decaying (not the beta-minus process)."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-39.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-40.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q43.jpg"
+     ]
     },
     {
      "id": "7C-Q44",
@@ -53641,15 +53935,22 @@ window.BANK.physics = {
       "uud udd"
      ],
      "question": "The table shows the charges on up and down quarks. Which row shows the quark structure of protons and neutrons? (The table is not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the table of rows is missing. Physics: proton uud, neutron udd.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: proton d u u, neutron d d u",
+     "steps": [
+      "Proton (charge +1): u u d gives 2/3 + 2/3 - 1/3 = +1.",
+      "Neutron (charge 0): u d d gives 2/3 - 1/3 - 1/3 = 0.",
+      "Row C lists proton duu (= uud) and neutron ddu (= udd); B has these swapped between the two particles' names."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-40.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-41.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-42.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q44.jpg",
+      "papers/physics/fig/28-7C-Particle-Zoo-Q44-2.jpg"
+     ]
     },
     {
      "id": "7C-Q45a",
@@ -53845,15 +54146,22 @@ window.BANK.physics = {
       "conservation laws"
      ],
      "question": "Deduce whether conservation of charge and conservation of lepton number apply to the decay of the positive particle shown. (The decay equation symbols are lost in the text.)",
-     "status": "pending",
-     "answer": "Pending: the decay equation symbols are lost in the text, so charge and lepton number cannot be checked.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both apply: charge +1 -> +1 + 0 is conserved and lepton number 0 -> 0 + 0 is conserved.",
+     "steps": [
+      "Decay: Sigma+ -> pi+ + n.",
+      "Charge: left = +1; right = (+1) + 0 = +1, so charge is conserved.",
+      "Lepton number: the sigma, the pion and the neutron are not leptons, so left = 0 and right = 0 + 0, so lepton number is conserved (as it must be).",
+      "So both conservation laws apply to this decay."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-42.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-43.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q46-2.jpg"
+     ]
     },
     {
      "id": "7C-Q46biii",
@@ -53871,15 +54179,23 @@ window.BANK.physics = {
       "1.07 x 10^-19"
      ],
      "question": "The positive particle (momentum 3.67 x 10^-19 kg m s^-1) decays and one product has momentum 1.07 x 10^-19 kg m s^-1. Determine the magnitude and direction of the neutron momentum. (The direction diagram is not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the directions of the three particles are shown only on the diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Magnitude 3.4 x 10^-19 kg m s^-1 (3.36 x 10^-19), at about 17 degrees to the direction of the sigma on the opposite side to the pion.",
+     "steps": [
+      "Momentum is conserved along and across the line of the sigma. Along: 3.67 x 10^-19 = 1.07 x 10^-19 cos 65 + p cos(theta).",
+      "So p cos(theta) = 3.67 x 10^-19 - 4.52 x 10^-20 = 3.22 x 10^-19.",
+      "Across: p sin(theta) = 1.07 x 10^-19 sin 65 = 9.7 x 10^-20.",
+      "p = sqrt((3.22 x 10^-19)^2 + (9.7 x 10^-20)^2) = 3.4 x 10^-19 kg m s^-1.",
+      "tan(theta) = 9.7 x 10^-20 / 3.22 x 10^-19, so theta = 17 degrees, measured from the original direction of the sigma (the dashed line), to the left in the diagram, opposite to the pi+."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-42.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-43.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q46-3.jpg"
+     ]
     },
     {
      "id": "7C-Q46biv",
@@ -53897,15 +54213,23 @@ window.BANK.physics = {
       "label"
      ],
      "question": "Add to the bubble chamber diagram all the tracks visible after the decay at X, and label the diagram.",
-     "status": "pending",
-     "answer": "Pending: the answer is a drawn and labelled diagram, which cannot be given in text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw one new track: a pi+ track leaving X at 65 degrees from the sigma's direction (to the right), curving the same way as the sigma's track but more tightly, labelled pi+. No track for the neutron.",
+     "steps": [
+      "The sigma track ends at X, where the decay happens.",
+      "The pi+ is charged, so it leaves a track from X, heading 65 degrees to the right of the sigma's direction, and it curves in the same sense as the sigma (both positive, same field).",
+      "The pi+ has less momentum (1.07 x 10^-19 compared with 3.67 x 10^-19 kg m s^-1) so r = p / (B q) is smaller (about 0.58 m against 1.99 m): the curve is tighter.",
+      "The neutron is neutral, so it leaves no visible track (it moves off at about 17 degrees to the left unseen); label the new track pi+ and the point X."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-42.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-43.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-44.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q46-4.jpg",
+      "papers/physics/fig/28-7C-Particle-Zoo-Q46-3.jpg"
+     ]
     },
     {
      "id": "7C-Q47",
@@ -54078,13 +54402,18 @@ window.BANK.physics = {
       "identify"
      ],
      "question": "Which row of the table shows a fundamental particle and a non-fundamental particle? (The table is not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the table of rows is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: lepton (fundamental), meson (non-fundamental)",
+     "steps": [
+      "Leptons are fundamental; mesons are made of a quark and an antiquark, so they are not.",
+      "A: both alpha particle and neutron are made of other particles; C: the proton is not fundamental and the electron is, the wrong way round; D: the muon is a fundamental lepton, so it is not non-fundamental."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q49.jpg"
+     ]
     },
     {
      "id": "7C-Q50",
@@ -54102,13 +54431,19 @@ window.BANK.physics = {
       "conservation"
      ],
      "question": "A pion can decay into two leptons. Which of the following decays is possible? (Options are not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the options are missing from the text. A valid decay must conserve charge and lepton number (e.g. pi^- -> e^- + anti-neutrino).",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: pi+ -> e+ + electron neutrino",
+     "steps": [
+      "A pion has lepton number 0, so the two leptons must have total lepton number 0: a lepton plus an antilepton.",
+      "Charge must also be conserved. D: charge +1 -> (+1) + 0; lepton number 0 -> -1 (e+) + 1 (neutrino) = 0, so both are conserved.",
+      "A has lepton number +2; B and C have charge 0 on the left but -1 or +1 on the right."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q50.jpg"
+     ]
     },
     {
      "id": "7C-Q51a",
@@ -54245,14 +54580,21 @@ window.BANK.physics = {
       "working"
      ],
      "question": "A leptoquark has charge +5e/3 and decays to a quark and a lepton. Determine its baryon number and lepton number, including the suggested quark and lepton in your working. (The suggested quark and lepton are not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the quark and lepton suggested in the question are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Baryon number +1/3 and lepton number -1 (e.g. an up quark and a positron: +2/3 + 1 = +5/3).",
+     "steps": [
+      "The leptoquark decays to a quark and a lepton, so its charge is the sum of theirs: +5/3 = quark charge + lepton charge.",
+      "The only possibility is a quark of charge +2/3 (up, charm or top) plus an antilepton of charge +1 (a positron, anti-muon or anti-tau): +2/3 + 1 = +5/3. Suggest an up quark and a positron.",
+      "Baryon number of the leptoquark = baryon number of the quark = +1/3.",
+      "Lepton number = lepton number of the positron (an antilepton) = -1."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-49.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-50.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q52.jpg"
+     ]
     },
     {
      "id": "7C-Q52bii",
@@ -54384,14 +54726,21 @@ window.BANK.physics = {
       "options"
      ],
      "question": "A proton and an antiproton, each of energy 450 GeV, annihilate to create a particle-antiparticle pair. Which expression gives the maximum mass of each particle in kg? (Options are not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the expressions are missing from the text. Physics: total energy 900 GeV, so each particle has mass at most 900 GeV / (2 c^2) in kg.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: (450 x 10^9 x 1.6 x 10^-19) / (3.00 x 10^8)^2",
+     "steps": [
+      "The total energy of the colliding pair is 450 + 450 = 900 GeV, which becomes the energy of the new particle and antiparticle; for the maximum mass they share it equally, 450 GeV each.",
+      "450 GeV = 450 x 10^9 eV = 450 x 10^9 x 1.6 x 10^-19 J.",
+      "Mass of each = E / c^2 = 450 x 10^9 x 1.6 x 10^-19 / (3.00 x 10^8)^2 = 8.0 x 10^-25 kg.",
+      "A and B use MeV (10^6) instead of GeV and D uses the total 900 GeV for each particle."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-51.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-52.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q54.jpg"
+     ]
     },
     {
      "id": "7C-Q55a",
@@ -54465,14 +54814,20 @@ window.BANK.physics = {
       "row"
      ],
      "question": "The positron is the antiparticle of the electron. Which row of the table gives a similarity and a difference between a positron and an electron? (The table is not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the table of rows is missing. Expected: same mass, opposite charge.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: same mass, different lepton number",
+     "steps": [
+      "The positron and electron have the same mass (and the same size of charge) but opposite charge.",
+      "The electron has lepton number +1 and the positron (an antilepton) has -1, so the lepton number differs.",
+      "Neither has a baryon number (both 0), so 'different baryon number' is false, and the lepton numbers are not the same, which rules out A and B."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-53.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-54.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q56.jpg"
+     ]
     },
     {
      "id": "7C-Q57",
@@ -54606,15 +54961,21 @@ window.BANK.physics = {
       "options"
      ],
      "question": "Muons produced in the upper atmosphere have an average lifetime greater than stationary muons, because they move at speed v. Which gives the reason for this increase in lifetime? (Options A-D are garbled in the text.)",
-     "status": "pending",
-     "answer": "Pending: the options are garbled in the text. The reason is time dilation at a speed close to c.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: v is approximately equal to c",
+     "steps": [
+      "At speeds close to the speed of light time dilation is large, so the moving muons' lifetime measured on Earth is much longer than at rest.",
+      "Nothing with mass can reach v = c (B) or go faster than c (A); for v much less than c (D) the time dilation is negligible.",
+      "So the muons must be moving at a speed close to c."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-55.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-56.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-57.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q61.jpg"
+     ]
     },
     {
      "id": "7C-Q62ai",
@@ -54720,15 +55081,22 @@ window.BANK.physics = {
       "bubble chamber"
      ],
      "question": "The photograph shows the tracks of K^+ and Omega^- produced when a K^- collided with a stationary proton. Explain how evidence from the photograph shows a K^0 was also formed. (The photograph is not in the text.)",
-     "status": "pending",
-     "answer": "Pending: the photograph is not in the text. Expected: a neutral K0 leaves no track but its momentum is needed to balance the visible tracks, or it decays to visible charged tracks.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Only the K+ and Omega- tracks leave the collision point and charge is already balanced (0 before, 0 after), so the third product is neutral: it leaves no track, and the visible tracks do not balance momentum sideways, so an unseen neutral K0 must have carried it away.",
+     "steps": [
+      "The photograph shows the incoming K- and the K+ and Omega- tracks; no third track starts at the collision point.",
+      "Charge before = (-1) + (+1) = 0; charge of Omega- + K+ = (-1) + (+1) = 0, so any other product must have no charge.",
+      "A neutral particle does not ionise the detector, so it leaves no track.",
+      "The Omega- track leaves at an angle to the incoming K- line while the K+ track continues almost straight on, so the sideways momentum is not balanced by the visible tracks: an unseen neutral particle (the K0) must carry the missing momentum."
+     ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-55.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-56.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-57.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/physics/fig/28-7C-Particle-Zoo-Q62.jpg"
+     ]
     }
    ]
   },

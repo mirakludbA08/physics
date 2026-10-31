@@ -3548,10 +3548,10 @@
       ],
       "question": "Describe two conclusions about the decomposition of sugar maple leaves compared with white oak leaves.",
       "status": "ready",
-      "answer": "Sugar maple leaves decompose faster and further than white oak (about 8% of dry mass left after 120 days against about 60%), and most of the loss happens late, between 60 and 90 days.",
+      "answer": "Sugar maple leaves decompose faster and further than white oak (about 8% of dry mass left after 120 days against about 60%), with a very large loss between 60 and 90 days.",
       "steps": [
-        "By 120 days only about 8% of the sugar maple dry mass remains, but about 60% of white oak remains, so sugar maple decomposes more quickly and completely.",
-        "Sugar maple fell to about 63% within 30 days, then rose slightly to about 67% at 60 days, before dropping sharply to about 14% at 90 days; white oak decreased slowly and steadily from 100% to about 70% by 30 days and then stayed at about 70% to 90% before falling to about 60%."
+        "By 120 days only about 8% of the sugar maple dry mass remains, but about 60% of white oak remains, so sugar maple decomposes more quickly and more completely.",
+        "Sugar maple fell to about 63% within 30 days, rose slightly to about 67% at 60 days, and then dropped sharply to about 14% at 90 days; white oak decreased more slowly, falling to about 70% by 30 days, staying at about 70% until 60 days, and then falling slowly to about 60% at 120 days."
       ],
       "images": [
         "papers/biology/img/06C-Decomposition-Forensics-65.jpg",

@@ -263,12 +263,19 @@
         "compounds 1-4"
       ],
       "question": "Which of four C5 compounds (options A-D, compounds 1-4), when mixed with water, gives the solution with lowest pH?",
-      "status": "pending",
-      "answer": "Pending: structures of compounds 1-4 are missing from the text (diagrams not extracted)",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: compound 1 (the acyl chloride)",
+      "steps": [
+        "Compound 1 is pentanoyl chloride, an acyl chloride. It reacts rapidly with water: CH3CH2CH2CH2COCl + H2O -> CH3CH2CH2CH2COOH + HCl.",
+        "The HCl produced is a strong acid and the carboxylic acid is also acidic, so the solution has a low pH.",
+        "The aldehyde (2), ketone (3) and amide (4) give essentially neutral solutions."
+      ],
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-04.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-05.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q3.jpg"
       ]
     },
     {
@@ -285,12 +292,19 @@
         "compounds 1-4"
       ],
       "question": "Which of compounds 1-4 (options A-D) reacts with ethylamine, CH3CH2NH2, to form an N-substituted amide?",
-      "status": "pending",
-      "answer": "Pending: structures of compounds 1-4 are missing from the text (diagrams not extracted)",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: compound 1 (the acyl chloride)",
+      "steps": [
+        "An N-substituted amide is formed when a primary amine attacks an acyl chloride in a nucleophilic addition-elimination reaction.",
+        "CH3CH2CH2CH2COCl + 2CH3CH2NH2 -> CH3CH2CH2CH2CONHCH2CH3 + CH3CH2NH3+ Cl-.",
+        "The aldehyde, ketone and amide do not react with ethylamine in this way."
+      ],
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-04.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-05.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q3.jpg"
       ]
     },
     {
@@ -307,12 +321,19 @@
         "compounds 1-4"
       ],
       "question": "Which of compounds 1-4 (options A-D) reacts with iodine and sodium hydroxide to give a pale yellow precipitate?",
-      "status": "pending",
-      "answer": "Pending: structures of compounds 1-4 are missing from the text (diagrams not extracted)",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: compound 3 (pentan-2-one)",
+      "steps": [
+        "The iodoform reaction (I2 with NaOH, giving pale yellow CHI3) needs a CH3C=O group (or CH3CH(OH)-).",
+        "Compound 3 is CH3COCH2CH2CH3, pentan-2-one, a methyl ketone, so it gives the pale yellow precipitate of triiodomethane.",
+        "Pentanal (2), the acyl chloride (1) and the amide (4) have no CH3C=O group."
+      ],
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-04.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-05.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q3.jpg"
       ]
     },
     {
@@ -357,12 +378,19 @@
         "not formed"
       ],
       "question": "Which of the following could not be formed when methylamine is added to ethanoyl chloride? (Options A-D)",
-      "status": "pending",
-      "answer": "Pending: answer options A-D are missing from the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: CH3CONH2",
+      "steps": [
+        "Methylamine reacts with ethanoyl chloride by nucleophilic addition-elimination: CH3COCl + CH3NH2 -> CH3CONHCH3 + HCl, so D and A form.",
+        "The HCl formed reacts with more methylamine: CH3NH2 + HCl -> CH3NH3+ Cl-, so B forms.",
+        "CH3CONH2 (ethanamide) would need ammonia, not methylamine, so it cannot form."
+      ],
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-05.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q5.jpg"
       ]
     },
     {
@@ -406,11 +434,18 @@
         "laboratory conditions"
       ],
       "question": "What speeds up the slow formation and hydrolysis of esters under normal laboratory conditions? (Options A-D)",
-      "status": "pending",
-      "answer": "Pending: answer options A-D are missing from the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: acids only for esterification; acids and bases for hydrolysis",
+      "steps": [
+        "Esterification of a carboxylic acid with an alcohol needs an acid catalyst (concentrated H2SO4). A base would convert the carboxylic acid to its salt, which does not esterify.",
+        "Hydrolysis of an ester is speeded up by dilute acid (a catalyst) and also by alkali such as NaOH (hydroxide ions attack the ester, giving the carboxylate salt and the alcohol).",
+        "So esterification: acids only; hydrolysis: acids and bases, which is B."
+      ],
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q7.jpg"
       ]
     },
     {
@@ -453,12 +488,21 @@
         "biodegradable polymer"
       ],
       "question": "Which structure is the repeat unit of PHBV, a polymer formed from 3-hydroxybutanoic acid and 3-hydroxypentanoic acid?",
-      "status": "pending",
-      "answer": "Pending: repeat-unit options A-D are structure diagrams, not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "B",
+      "steps": [
+        "PHBV is a polyester, so the monomers join by ester links formed between the OH of one hydroxyacid and the COOH of the next, losing water.",
+        "The repeat unit must contain one unit from each monomer: -O-CH(CH3)-CH2-C(=O)- (from 3-hydroxybutanoic acid) and -O-CH(CH2CH3)-CH2-C(=O)- (from 3-hydroxypentanoic acid).",
+        "It must begin at an O and end at a C=O so that the repeating unit can join end to end with an ester link, giving B.",
+        "A ends in -O- as well as starting with -O-, which would give O-O links; C has no O at the start; D is not made from these monomers."
+      ],
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-07.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q9.jpg",
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q9-2.jpg"
       ]
     },
     {
@@ -528,12 +572,20 @@
         "structure"
       ],
       "question": "Terylene is made from ethane-1,2-diol and terephthalic acid. Which structure is its repeat unit? (Options A-D)",
-      "status": "pending",
-      "answer": "Pending: repeat-unit options are structure diagrams, not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A",
+      "steps": [
+        "Terylene is made by condensation polymerisation of benzene-1,4-dicarboxylic acid with ethane-1,2-diol, forming ester links -C(=O)-O-CH2CH2-O-C(=O)-.",
+        "The repeat unit is -O-C(=O)-C6H4-C(=O)-O-CH2CH2- with the carbonyl carbons attached to the benzene ring.",
+        "In B, two CH2CH2 groups would be joined when repeated, giving a chain of four carbons. C and D have the O atoms attached to the ring, which is not what comes from the acid. A is correct."
+      ],
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-08.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q11.jpg",
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q11-2.jpg"
       ]
     },
     {
@@ -635,12 +687,19 @@
         "ester synthesis"
       ],
       "question": "Name the carboxylic acid, alcohol and catalyst used in Reaction 1 for making an ester that smells of raspberries.",
-      "status": "pending",
-      "answer": "Pending: Reaction 1 and Reaction 2 are shown as diagrams/reagents not present in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Carboxylic acid: methanoic acid; alcohol: 2-methylpropan-1-ol; catalyst: concentrated sulfuric acid",
+      "steps": [
+        "HCOOH is methanoic acid.",
+        "(CH3)2CHCH2OH is 2-methylpropan-1-ol.",
+        "The catalyst for esterification is a strong acid, concentrated sulfuric acid."
+      ],
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-10.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q13.jpg"
       ]
     },
     {
@@ -658,12 +717,20 @@
         "acyl chloride"
       ],
       "question": "Explain one advantage and one disadvantage of Reaction 2 compared with Reaction 1 for making the raspberry ester.",
-      "status": "pending",
-      "answer": "Pending: Reaction 1 and Reaction 2 are shown as diagrams/reagents not present in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Advantage: Reaction 2 goes to completion (irreversible), giving a higher yield. Disadvantage: methanoyl chloride is hazardous (it reacts violently with water and releases corrosive HCl gas) and more costly.",
+      "steps": [
+        "Advantage: Reaction 1 is reversible and reaches equilibrium with only part of the reactants converted, whereas Reaction 2 is not reversible, so all of the reactants can be converted and the yield of ester is higher.",
+        "Another advantage: the acyl chloride reacts rapidly at room temperature without a catalyst or heating.",
+        "Disadvantage: methanoyl chloride is corrosive and reacts violently with water (moisture), so it must be handled under dry conditions.",
+        "The reaction also gives off HCl, a toxic, corrosive gas, and the acyl chloride must itself be made from the acid, which is an extra step and costs more."
+      ],
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-10.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-11.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q13.jpg"
       ]
     },
     {
@@ -791,12 +858,19 @@
         "terylene"
       ],
       "question": "Which is produced after the polyester shown is hydrolysed with excess NaOH? Options: A benzene-1,4-dicarboxylic acid, B ethane-1,2-diol, C sodium ethanedioate, D water.",
-      "status": "pending",
-      "answer": "Pending: the polyester structure shown is a diagram and is not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: ethane-1,2-diol",
+      "steps": [
+        "The polyester is poly(ethylene terephthalate), joined by ester links -C(=O)-O-CH2CH2-O-.",
+        "Hot aqueous NaOH hydrolyses every ester link, giving the sodium salt of the dicarboxylic acid and the diol: ethane-1,2-diol.",
+        "Excess NaOH keeps the acid as its sodium salt, so A is not formed. Sodium ethanedioate (C) has the wrong carbon chain, and water is not a product of ester hydrolysis."
+      ],
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-13.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q18.jpg"
       ]
     },
     {
@@ -813,12 +887,20 @@
         "proton transfer"
       ],
       "question": "How many curly arrows are needed to complete the mechanism of ethanoyl chloride with concentrated aqueous ammonia? Options: A 4, B 5, C 6, D 8.",
-      "status": "pending",
-      "answer": "Pending: the partial mechanism diagram is not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 6",
+      "steps": [
+        "Step 1 needs 2 arrows: the N lone pair to the C, and the C=O pi bond to O (making O-).",
+        "Step 2 needs 2 arrows: a lone pair on O- back to the carbon to reform C=O, and the C-Cl bond to Cl (leaving as Cl-).",
+        "Step 3 needs 2 arrows: the lone pair on a second NH3 to the H of N+-H, and the N-H bond to the N (making the neutral amide and NH4+).",
+        "Total 2 + 2 + 2 = 6 curly arrows."
+      ],
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-13.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q19.jpg"
       ]
     },
     {
@@ -845,6 +927,9 @@
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-13.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q19.jpg"
       ]
     },
     {
@@ -861,13 +946,21 @@
         "structure"
       ],
       "question": "Two monomers react to form a polymer. Which structure is a repeat unit of the polymer? (Options A-D)",
-      "status": "pending",
-      "answer": "Pending: monomer structures and repeat-unit options are diagrams, not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A",
+      "steps": [
+        "Monomer 1 is a diol with two OH groups and monomer 2 is a dicarboxylic acid, HOOC-C(CH3)2-COOH, so they make a polyester by condensation.",
+        "The repeat unit contains the full diol residue -O-CH2CH2-C(CH2CH3)2-CH2-O- joined by ester links to -C(=O)-C(CH3)2-C(=O)-.",
+        "B has a CH2OH group in place of an ethyl group, so it is not the same diol. C and D have ether links and a wrong structure."
+      ],
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-14.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-15.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q20.jpg",
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q20-2.jpg"
       ]
     },
     {
@@ -884,12 +977,19 @@
         "methylbutanol"
       ],
       "question": "The structure of an ester is shown. Which two compounds react to form it? Options: A butanoyl chloride and 2-methylbutan-2-ol, B butanoyl chloride and 3-methylbutan-2-ol, C propanoyl chloride and 2-methylbutan-2-ol, D propanoyl chloride and 3-methylbutan-2-ol.",
-      "status": "pending",
-      "answer": "Pending: the ester structure is a diagram and is not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: butanoyl chloride and 3-methylbutan-2-ol",
+      "steps": [
+        "The ester is CH3CH2CH2COOCH(CH3)CH(CH3)2. The acyl part, CH3CH2CH2C(=O)-, has four carbons, so it comes from butanoyl chloride.",
+        "The alkyl part, -CH(CH3)CH(CH3)2, comes from the alcohol (CH3)2CHCH(OH)CH3, with OH on carbon 2 and a methyl on carbon 3: 3-methylbutan-2-ol.",
+        "So butanoyl chloride and 3-methylbutan-2-ol react: B."
+      ],
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-16.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q21.jpg"
       ]
     },
     {
@@ -1079,10 +1179,15 @@
         "equilibrium constant",
         "hydrolysis"
       ],
-      "question": "Deduce the effect of increasing temperature on the total entropy change and on Kc for the hydrolysis of ethyl propanoate. Assume the enthalpy change does not change with temperature.",
-      "status": "pending",
-      "answer": "Pending: the sign of the enthalpy change is not stated in the text (only that it is close to zero), so the effect cannot be deduced from the text alone",
-      "steps": [],
+      "question": "Deduce the effect of increasing temperature on the total entropy change and on Kc for the hydrolysis of ethyl propanoate. Assume the entropy change of the system does not change with temperature.",
+      "status": "ready",
+      "answer": "Delta S total stays almost the same, and Kc stays almost the same, because Delta H is close to zero",
+      "steps": [
+        "Delta S total = Delta S system + Delta S surroundings, and Delta S surroundings = -Delta H / T.",
+        "Delta H is close to zero, so Delta S surroundings is close to zero at every temperature. Raising T makes it smaller still.",
+        "Delta S system is assumed constant, so Delta S total is essentially unchanged by increasing the temperature.",
+        "Since R ln K = Delta S total, Kc is also (almost) unchanged, so the equilibrium position hardly shifts."
+      ],
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-18.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-19.jpg",
@@ -1278,12 +1383,19 @@
         "polymer"
       ],
       "question": "Which monomer could form a condensation polymer without needing a second type of monomer? (Options A-D)",
-      "status": "pending",
-      "answer": "Pending: monomer options are structure diagrams, not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: HO(CH2)4COCl",
+      "steps": [
+        "A condensation polymer from one monomer needs two different functional groups on the same molecule that can react together.",
+        "HO(CH2)4COCl has an OH group and a COCl (acyl chloride) group, so it can form ester links with itself (polyester), losing HCl.",
+        "A has two OH groups, C has OH and C=C, D has OH and an alkyl chloride; none of these has a pair of groups that react to give a condensation link."
+      ],
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-21.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q27.jpg"
       ]
     },
     {
@@ -1301,12 +1413,21 @@
         "electron pairs"
       ],
       "question": "Ethanoyl chloride reacts with ammonia to form ethanamide. Which diagram shows the electron-pair movement when ethanamide forms from the tetrahedral intermediate?",
-      "status": "pending",
-      "answer": "Pending: the mechanism diagram options are not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "A",
+      "steps": [
+        "To form the amide, a lone pair on O- moves back to form the C=O: the arrow starts at the oxygen lone pair and points to the C-O bond.",
+        "The C-Cl bond breaks heterolytically: the arrow starts at the C-Cl bond and points to Cl, which leaves as Cl-.",
+        "The N+-H bond breaks, so the arrow starts at the N-H bond and points to the N, leaving H+ and a neutral N.",
+        "Only A has all three arrows in these directions. B has the C-Cl arrow reversed, C has the N-H arrow reversed and D has the O arrow reversed."
+      ],
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-22.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q28.jpg",
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q28-2.jpg"
       ]
     },
     {
@@ -1350,12 +1471,19 @@
         "reactant pair"
       ],
       "question": "An ester has the structure shown (diagram). Which pair of reactants forms it? Options: A butanoic acid and propan-2-ol, B butanoyl chloride and propan-1-ol, C propanoic acid and butan-1-ol, D propanoyl chloride and butan-2-ol.",
-      "status": "pending",
-      "answer": "Pending: the ester structure shown is a diagram and is not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: butanoyl chloride and propan-1-ol",
+      "steps": [
+        "The acyl part, CH3CH2CH2C(=O)-, has four carbons, so the acid component is butanoic acid or butanoyl chloride.",
+        "The alkyl part on oxygen is CH2CH2CH3, a straight propyl chain attached through its end carbon, so the alcohol is propan-1-ol.",
+        "A would give the propan-2-yl ester. Options C and D use propanoyl (3 carbons) as the acyl part and so do not match."
+      ],
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-24.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-25.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q30.jpg"
       ]
     },
     {
@@ -1372,12 +1500,19 @@
         "dilute hydrochloric acid"
       ],
       "question": "An ester is hydrolysed in excess dilute HCl to form ethanol and propanedioic acid. What is the skeletal formula of this ester? (Options shown as diagrams)",
-      "status": "pending",
-      "answer": "Pending: the skeletal formula options are diagrams not in the extracted text (expected diethyl propanedioate, CH2(COOC2H5)2)",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: diethyl propanedioate, CH3CH2OOC-CH2-COOCH2CH3",
+      "steps": [
+        "Hydrolysis of the ester gives propanedioic acid, HOOCCH2COOH, plus ethanol, so the ester has two COO groups on a CH2, each joined to an ethyl group.",
+        "The ester is CH2(COOCH2CH3)2: the diester made of the dicarboxylic acid and two ethanol molecules.",
+        "B is propyl ethanoate, C is ethyl propanoate, and D is a diester of ethane-1,2-diol, which would give a different diol on hydrolysis."
+      ],
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-24.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-25.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q31.jpg"
       ]
     },
     {
@@ -1421,12 +1556,19 @@
         "structure"
       ],
       "question": "A polyester is made from pentane-1,5-diol and pentanedioic acid. Which is the repeat unit of this polyester? (Options shown as diagrams)",
-      "status": "pending",
-      "answer": "Pending: repeat-unit options are structure diagrams, not in the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "C",
+      "steps": [
+        "Pentanedioic acid is HOOC-(CH2)3-COOH, so the acid part of the repeat unit is -C(=O)-(CH2)3-C(=O)-; pentane-1,5-diol is HO-(CH2)5-OH, giving -O-(CH2)5-O-.",
+        "The repeat unit must start with C=O and end with O so that it joins end to end with an ester link without O-O bonds: -C(=O)-(CH2)3-C(=O)-O-(CH2)5-O-.",
+        "A and B start with O and end with O, which would give O-O links when repeated; B and D use (CH2)5 in the acid part, which is wrong. C is correct."
+      ],
       "images": [
         "papers/chemistry/img/15D-Acid-Derivatives-25.jpg",
         "papers/chemistry/img/15D-Acid-Derivatives-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15D-Acid-Derivatives-Q33.jpg"
       ]
     },
     {

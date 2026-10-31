@@ -48,11 +48,18 @@
         "structure"
       ],
       "question": "An organic compound, shown as a structure in the original paper, reacts with excess sodium hydroxide solution. What is the organic product?",
-      "status": "pending",
-      "answer": "Pending: the compound's structure is missing from the text (diagram needed).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: NaOOCCH=CHCOONa",
+      "steps": [
+        "The compound is HOOCCH=CHCOOH (butenedioic acid), a dicarboxylic acid with two acidic COOH groups.",
+        "Excess NaOH neutralises both COOH groups: HOOCCH=CHCOOH + 2NaOH -> NaOOCCH=CHCOONa + 2H2O.",
+        "The C=C bond is not affected by NaOH, so B (only one COOH neutralised), C (C=C changed) and D (COOH reduced to CHO) are wrong."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-01.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q2.jpg"
       ]
     },
     {
@@ -111,6 +118,9 @@
         "papers/chemistry/img/15C-Carboxylic-Acids-02.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-03.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q4.jpg"
       ]
     },
     {
@@ -141,6 +151,9 @@
         "papers/chemistry/img/15C-Carboxylic-Acids-02.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-03.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q4.jpg"
       ]
     },
     {
@@ -159,13 +172,22 @@
         "conditions"
       ],
       "question": "Complete the table summarising Step 2, the hydrolysis of the hydroxynitrile to lactic acid. State symbols are not needed.",
-      "status": "pending",
-      "answer": "Pending: the summary table is not in the text (only blank rows are shown).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Reaction type: hydrolysis. Reagent: dilute hydrochloric acid. Conditions: heat under reflux. Equation: CH3CH(OH)CN + 2H2O + HCl -> CH3CH(OH)COOH + NH4Cl",
+      "steps": [
+        "Reaction type: hydrolysis (acid hydrolysis of a nitrile group, -CN, to a carboxylic acid group, -COOH).",
+        "Reagent: dilute hydrochloric acid (or dilute sulfuric acid).",
+        "Conditions: heat under reflux.",
+        "Equation: CH3CH(OH)CN + 2H2O + HCl -> CH3CH(OH)COOH + NH4Cl, or in ionic form CH3CH(OH)CN + 2H2O + H+ -> CH3CH(OH)COOH + NH4+."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-02.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-03.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q4.jpg",
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q4-2.jpg"
       ]
     },
     {
@@ -214,13 +236,20 @@
         "buffer solution"
       ],
       "question": "Using the two buffer equilibria (not reproduced in the text), explain how the blood buffer keeps pH nearly constant when a small increase in H+ occurs.",
-      "status": "pending",
-      "answer": "Pending: the two equilibria the question refers to are not shown in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Extra H3O+ is removed by HCO3- (Equilibrium 1 shifts right), and the H2CO3 formed breaks down to CO2 and H2O (Equilibrium 2 shifts right), so [H3O+] and pH stay nearly constant.",
+      "steps": [
+        "When the concentration of H3O+ increases, Equilibrium 1 (HCO3- + H3O+ <=> H2CO3 + H2O) shifts to the right.",
+        "The large reservoir of HCO3- reacts with the added H+, so most of it is removed and [H3O+] and the pH change very little.",
+        "The H2CO3 formed decomposes (Equilibrium 2 shifts right) to CO2 and H2O; the CO2 is lost by breathing out, so H2CO3 does not build up and Equilibrium 1 can keep removing H+."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-02.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-03.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q4-3.jpg"
       ]
     },
     {
@@ -239,13 +268,20 @@
         "ph 7.41"
       ],
       "question": "A blood sample has pH 7.41. Calculate the ratio of concentrations of the two buffer species.",
-      "status": "pending",
-      "answer": "Pending: the species in the ratio are garbled or missing from the text, and the pKa needed is not given.",
-      "steps": [],
+      "status": "ready",
+      "answer": "[HCO3-] : [H2CO3] = 11.6 : 1 (ratio about 11.6)",
+      "steps": [
+        "Ka = [HCO3-][H3O+] / [H2CO3], so [HCO3-]/[H2CO3] = Ka / [H3O+].",
+        "[H3O+] = 10^-7.41 = 3.89 x 10^-8 mol dm^-3.",
+        "Ratio = 4.50 x 10^-7 / 3.89 x 10^-8 = 11.6."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-02.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-03.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q4-4.jpg"
       ]
     },
     {
@@ -295,14 +331,22 @@
         "stereocentre"
       ],
       "question": "Complete the 3D diagrams of the two enantiomers of lactic acid.",
-      "status": "pending",
-      "answer": "Pending: the 3D diagrams to be completed are not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Complete both tetrahedral drawings with the same four groups in mirror-image positions, e.g. left: COOH up, CH3 lower-left, OH on the wedge, H on the dash; right: COOH up, CH3 lower-right, OH on the wedge (lower-left), H on the dash (left).",
+      "steps": [
+        "Lactic acid, CH3CH(OH)COOH, has a chiral carbon bonded to four different groups: CH3, OH, COOH and H.",
+        "Left-hand diagram: write COOH on the vertical bond, CH3 on the plain lower-left bond, OH on the solid wedge and H on the dashed bond.",
+        "Right-hand diagram: the reflection of the left across the dashed mirror line, so COOH on the vertical bond, CH3 on the plain lower-right bond, OH on the solid wedge (lower-left) and H on the dashed bond (left).",
+        "The two drawings are mirror images that cannot be superimposed, so they are a pair of enantiomers."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-04.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-05.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-06.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q5.jpg"
       ]
     },
     {
@@ -365,6 +409,9 @@
         "papers/chemistry/img/15C-Carboxylic-Acids-05.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-06.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q5-2.jpg"
       ]
     },
     {
@@ -445,14 +492,22 @@
         "concentration"
       ],
       "question": "Calculate the mass of lactic acid, HA (Mr 90.0, pKa 3.86), needed to make 1.00 dm3 of aqueous solution with pH 3.00. The list of assumptions is missing from the text.",
-      "status": "pending",
-      "answer": "Pending: the Assume list is missing from the text. With [H+] = [A-] and [HA] = c - [H+], the mass is about 0.742 g.",
-      "steps": [],
+      "status": "ready",
+      "answer": "0.652 g",
+      "steps": [
+        "pH 3.00, so [H+] = 10^-3.00 = 1.00 x 10^-3 mol dm^-3, and [A-] = [H+] = 1.00 x 10^-3 mol dm^-3.",
+        "Ka = 10^-3.86 = 1.38 x 10^-4 mol dm^-3.",
+        "Ka = [H+][A-]/[HA], so [HA] = (1.00 x 10^-3)^2 / 1.38 x 10^-4 = 7.24 x 10^-3 mol dm^-3 (taking [HA]initial = [HA]equilibrium).",
+        "Mass = 7.24 x 10^-3 mol x 90.0 g mol^-1 = 0.652 g in 1.00 dm^3."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-04.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-05.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-06.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q5-3.jpg"
       ]
     },
     {
@@ -515,6 +570,9 @@
         "papers/chemistry/img/15C-Carboxylic-Acids-05.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-06.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q5-4.jpg"
       ]
     },
     {
@@ -563,13 +621,21 @@
         "0.150 mol dm-3"
       ],
       "question": "Using your equation and the titration curve, calculate the concentration of the potassium hydroxide solution. 25.00 cm3 of 0.150 mol dm-3 methanoic acid was used.",
-      "status": "pending",
-      "answer": "Pending: the equivalence volume must be read from the titration curve, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "0.170 mol dm^-3",
+      "steps": [
+        "The equivalence point is at the middle of the steep vertical section of the curve, at 22.0 cm^3 of KOH.",
+        "Moles of HCOOH = 0.150 x 25.00 / 1000 = 3.75 x 10^-3 mol.",
+        "HCOOH + KOH -> HCOOK + H2O is 1:1, so moles of KOH = 3.75 x 10^-3 mol.",
+        "[KOH] = 3.75 x 10^-3 / 0.0220 = 0.170 mol dm^-3."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-07.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-08.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q6.jpg"
       ]
     },
     {
@@ -588,13 +654,20 @@
         "graph"
       ],
       "question": "Use the titration curve to determine the acid dissociation constant, Ka, of methanoic acid.",
-      "status": "pending",
-      "answer": "Pending: the titration curve is not in the text, so the half-equivalence pH cannot be read.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Ka = about 1.6 x 10^-4 mol dm^-3",
+      "steps": [
+        "Half-equivalence is at 22.0 / 2 = 11.0 cm^3 of KOH, where half the acid has been neutralised so [HCOOH] = [HCOO-].",
+        "At this point Ka = [H+], so pH = pKa. The curve reads pH = 3.8 at 11.0 cm^3.",
+        "Ka = 10^-3.8 = 1.6 x 10^-4 mol dm^-3 (about 1.4 to 1.7 x 10^-4 allowing for reading the graph)."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-07.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-08.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q6.jpg"
       ]
     },
     {
@@ -673,12 +746,20 @@
         "diagram"
       ],
       "question": "Which acid is produced by hydrolysis of the molecule shown? Options: A 2-hydroxy-3-methylbutanoic acid, B 3-hydroxy-2-methylbutanoic acid, C 3-hydroxy-2,3-dimethylpropanoic acid, D 4-hydroxypentanoic acid.",
-      "status": "pending",
-      "answer": "Pending: the molecule to be hydrolysed is shown as a diagram that is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 3-hydroxy-2-methylbutanoic acid",
+      "steps": [
+        "The molecule is CH3CH(OH)CH(CH3)C#N, a hydroxynitrile.",
+        "Hydrolysis turns the nitrile carbon, -CN, into -COOH, which becomes carbon 1 of the acid.",
+        "Numbering from COOH: C2 carries the CH3 group, C3 carries the OH group and C4 is the terminal CH3.",
+        "The acid is CH3CH(OH)CH(CH3)COOH, 3-hydroxy-2-methylbutanoic acid."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-09.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q8.jpg"
       ]
     },
     {
@@ -697,13 +778,22 @@
         "neutralisation"
       ],
       "question": "Which is the titration curve when sodium hydroxide is added to maleic acid?",
-      "status": "pending",
-      "answer": "Pending: the titration curve graphs (options) are not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A",
+      "steps": [
+        "Maleic acid is a dicarboxylic acid, so each molecule can lose two H+ and the titration with NaOH has two equivalence points.",
+        "The pH starts low (about 2) and rises to about 12 as NaOH is added, so B (pH falling) is wrong.",
+        "A shows two steep rises, at about 25 and 50 cm^3. The second volume is twice the first, as expected for a diprotic acid.",
+        "C has only one steep rise (a monoprotic acid) and D has three steep rises, so neither fits."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-10.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-11.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q9.jpg",
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q9-2.jpg"
       ]
     },
     {
@@ -734,6 +824,9 @@
         "papers/chemistry/img/15C-Carboxylic-Acids-10.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-11.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q9-2.jpg"
       ]
     },
     {
@@ -752,12 +845,18 @@
         "options"
       ],
       "question": "How do the boiling temperature and the solubility in water of butanoic acid compare with those of hexane?",
-      "status": "pending",
-      "answer": "Pending: the answer options A to D are not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: higher boiling temperature and higher solubility in water",
+      "steps": [
+        "Butanoic acid molecules form hydrogen bonds with each other through COOH groups (as well as London and permanent dipole forces), whereas hexane has only London forces, so butanoic acid has the higher boiling temperature.",
+        "The COOH group of butanoic acid can also form hydrogen bonds with water, so it is more soluble than non-polar hexane, which cannot."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-12.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-13.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q10.jpg"
       ]
     },
     {
@@ -805,11 +904,18 @@
         "options"
       ],
       "question": "LiAlH4 is used to reduce the compound shown. Which is the product? Options: A a saturated alcohol, B a saturated carboxylic acid, C an unsaturated alcohol, D an unsaturated ketone.",
-      "status": "pending",
-      "answer": "Pending: the compound shown in the question is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: an unsaturated alcohol",
+      "steps": [
+        "The compound is but-3-enoic acid, CH2=CHCH2COOH.",
+        "LiAlH4 reduces the carboxylic acid group to a primary alcohol group (CH2OH).",
+        "LiAlH4 does not reduce an isolated C=C bond, so the product is but-3-en-1-ol, CH2=CHCH2CH2OH, an unsaturated alcohol."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-13.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q12.jpg"
       ]
     },
     {
@@ -828,11 +934,18 @@
         "options"
       ],
       "question": "But-2-ene-1,4-diol is converted into 2-oxobutanedioic acid in two steps via intermediate W. Identify W and the reagent for Step 2.",
-      "status": "pending",
-      "answer": "Pending: the answer options for W and the Step 2 reagent are not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: W is HOCH2CH(OH)CH2CH2OH and the Step 2 reagent is hot acidified K2Cr2O7",
+      "steps": [
+        "Step 1 adds water across the C=C of HOCH2CH=CHCH2OH, giving the triol W = HOCH2CH(OH)CH2CH2OH.",
+        "Step 2 must oxidise: both primary alcohol groups become COOH and the secondary alcohol group becomes C=O, giving HOOCCOCH2COOH (2-oxobutanedioic acid).",
+        "The oxidising agent is hot acidified potassium dichromate(VI), so D is correct. LiAlH4 (A, B) is a reducing agent, and C is not formed by one step from the diol."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-13.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q13.jpg"
       ]
     },
     {
@@ -851,12 +964,18 @@
         "diagram"
       ],
       "question": "Name the two structural isomers of C4H6O2 acids shown in the question.",
-      "status": "pending",
-      "answer": "Pending: the two isomer structures shown in the original question are diagrams not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "But-3-enoic acid (left) and 2-methylpropenoic acid, i.e. 2-methylprop-2-enoic acid (right)",
+      "steps": [
+        "Left isomer: CH2=CHCH2COOH, a four-carbon chain with the C=C between carbons 3 and 4, so but-3-enoic acid.",
+        "Right isomer: CH2=C(CH3)COOH, a three-carbon chain with a methyl group on carbon 2, so 2-methylpropenoic acid (2-methylprop-2-enoic acid)."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-14.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q14.jpg"
       ]
     },
     {
@@ -886,6 +1005,9 @@
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-14.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q14.jpg"
       ]
     },
     {
@@ -904,12 +1026,19 @@
         "diagram"
       ],
       "question": "Draw the fourth structural isomer of C4H6O2 carboxylic acids.",
-      "status": "pending",
-      "answer": "Pending: which isomer is the fourth depends on the diagrams in part (i), which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Cyclopropanecarboxylic acid: a three-membered carbon ring (cyclopropane) with a COOH group attached to one ring carbon",
+      "steps": [
+        "The four structural isomers are but-3-enoic acid, 2-methylpropenoic acid, but-2-enoic acid (which has the E and Z stereoisomers) and one more.",
+        "The remaining isomer has C4H6O2 with one ring in place of the C=C: cyclopropane carbon ring with COOH attached, C3H5-COOH.",
+        "Draw a triangle of three carbon atoms with a -C(=O)OH group on one corner."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-14.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q14.jpg"
       ]
     },
     {
@@ -928,12 +1057,19 @@
         "diagram"
       ],
       "question": "Give the reagents and conditions for Reaction 1 of 3-hydroxy-3-methylbutanoic acid.",
-      "status": "pending",
-      "answer": "Pending: the reaction scheme showing Reaction 1 is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Acidified potassium dichromate(VI), heated under reflux",
+      "steps": [
+        "Reaction 1 converts the primary alcohol group CH2OH into COOH, so it is oxidation.",
+        "Reagent: acidified potassium dichromate(VI), K2Cr2O7 with dilute sulfuric acid.",
+        "Condition: heat under reflux. The tertiary alcohol group is not oxidised."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-14.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q14-2.jpg"
       ]
     },
     {
@@ -952,12 +1088,19 @@
         "butanoic acid"
       ],
       "question": "Write the equation for Reaction 2 of 3-hydroxy-3-methylbutanoic acid. State symbols are not required.",
-      "status": "pending",
-      "answer": "Pending: the reaction scheme showing Reaction 2 is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "(CH3)2C(OH)CH2CN + 2H2O + HCl -> (CH3)2C(OH)CH2COOH + NH4Cl",
+      "steps": [
+        "Reaction 2 is acid hydrolysis of the nitrile group, -CN, to the carboxylic acid group, -COOH.",
+        "Two molecules of water are needed, and the nitrogen ends up as ammonium chloride with the HCl.",
+        "Equation: (CH3)2C(OH)CH2CN + 2H2O + HCl -> (CH3)2C(OH)CH2COOH + NH4Cl. Atoms and charges balance."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-14.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q14-2.jpg"
       ]
     },
     {
@@ -976,12 +1119,19 @@
         "reagent"
       ],
       "question": "Give the structure of the organic product formed in Reaction 3 of 3-hydroxy-3-methylbutanoic acid.",
-      "status": "pending",
-      "answer": "Pending: the reaction scheme showing Reaction 3 is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "(CH3)2CClCH2COCl, 3-chloro-3-methylbutanoyl chloride",
+      "steps": [
+        "PCl5 replaces an -OH group by -Cl, and it reacts with both the carboxylic acid OH and the alcohol OH.",
+        "Excess PCl5 therefore converts COOH to COCl and the tertiary C-OH to C-Cl.",
+        "The product is (CH3)2C(Cl)CH2C(=O)Cl; HCl and POCl3 are also formed."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-14.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q14-2.jpg"
       ]
     },
     {
@@ -1000,12 +1150,18 @@
         "carboxylic acid"
       ],
       "question": "Give the structure of the organic product formed in Reaction 4 of 3-hydroxy-3-methylbutanoic acid.",
-      "status": "pending",
-      "answer": "Pending: the reaction scheme showing Reaction 4 is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Ammonium 3-hydroxy-3-methylbutanoate, (CH3)2C(OH)CH2COO- NH4+",
+      "steps": [
+        "Aqueous ammonia is a weak base, so it reacts with the carboxylic acid group by neutralisation.",
+        "The product is the ammonium salt (CH3)2C(OH)CH2COO- NH4+."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-14.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q14-2.jpg"
       ]
     },
     {
@@ -1064,6 +1220,9 @@
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-16.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q16.jpg"
       ]
     },
     {
@@ -1082,12 +1241,20 @@
         "diagram"
       ],
       "question": "What is the organic product formed when the compound shown reacts with excess LiAlH4?",
-      "status": "pending",
-      "answer": "Pending: the compound shown in the question is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: the unsaturated primary alcohol pent-4-en-1-ol, CH2=CHCH2CH2CH2OH",
+      "steps": [
+        "The compound is pent-4-enoic acid, CH2=CHCH2CH2COOH.",
+        "Excess LiAlH4 reduces the COOH group all the way to a primary alcohol, CH2OH; it does not stop at the aldehyde, so A and C are wrong.",
+        "LiAlH4 does not reduce the C=C bond, so the double bond remains and the product is pent-4-en-1-ol (option D, not the saturated alcohol B)."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-16.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q16.jpg",
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q16-2.jpg"
       ]
     },
     {
@@ -1135,12 +1302,19 @@
         "carboxylic acid"
       ],
       "question": "Which test distinguishes between the first pair of compounds shown? Options: A Tollens' reagent, B sodium carbonate solution, C warm with iodine under alkaline conditions, D phosphorus(V) chloride.",
-      "status": "pending",
-      "answer": "Pending: the pairs of compounds are shown as diagrams that are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: add sodium carbonate solution to each compound",
+      "steps": [
+        "The pair is butan-1-ol and butanoic acid.",
+        "Butanoic acid is a carboxylic acid and reacts with sodium carbonate to give a salt, water and CO2, so there is effervescence; butan-1-ol does not react.",
+        "Tollens reagent and alkaline iodine do not react with either compound, and PCl5 reacts with both (steamy fumes of HCl)."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-17.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q18.jpg"
       ]
     },
     {
@@ -1159,12 +1333,19 @@
         "carboxylic acid"
       ],
       "question": "Which test distinguishes between the second pair of compounds shown? Options: A Tollens' reagent, B sodium carbonate solution, C warm with iodine under alkaline conditions, D phosphorus(V) chloride.",
-      "status": "pending",
-      "answer": "Pending: the second pair of compounds is shown as a diagram that is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: warm each compound with iodine under alkaline conditions",
+      "steps": [
+        "The pair is butan-1-ol and butan-2-ol.",
+        "Butan-2-ol contains the CH3CH(OH)- group, so it gives a pale yellow precipitate of CHI3 (triiodomethane) with iodine and alkali; butan-1-ol does not.",
+        "Tollens reagent and sodium carbonate do not react with either, and PCl5 reacts with both alcohols."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-17.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q18-2.jpg"
       ]
     },
     {
@@ -1183,12 +1364,19 @@
         "carboxylic acid"
       ],
       "question": "Which test distinguishes between the third pair of compounds shown? Options: A Tollens' reagent, B sodium carbonate solution, C warm with iodine under alkaline conditions, D phosphorus(V) chloride.",
-      "status": "pending",
-      "answer": "Pending: the third pair of compounds is shown as a diagram that is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: warm each compound with Tollens reagent",
+      "steps": [
+        "The pair is pentan-3-one (a ketone) and butanal (an aldehyde).",
+        "Aldehydes are oxidised by Tollens reagent, giving a silver mirror, while ketones are not oxidised, so only butanal gives a silver mirror.",
+        "Neither compound reacts with sodium carbonate or PCl5, and neither contains the CH3C=O group needed for the iodoform reaction."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-17.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q18-3.jpg"
       ]
     },
     {
@@ -1267,13 +1455,20 @@
         "carboxylic acid"
       ],
       "question": "Identify the reagent and conditions for Reaction A in the scheme involving butanoic acid.",
-      "status": "pending",
-      "answer": "Pending: the reaction scheme for butanoic acid is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "LiAlH4 (lithium tetrahydridoaluminate(III)) in dry ether",
+      "steps": [
+        "Reaction A reduces the carboxylic acid group COOH to a primary alcohol, CH2OH.",
+        "The reagent is LiAlH4 (lithium tetrahydridoaluminate(III)).",
+        "The solvent must be dry ether, because LiAlH4 reacts with water."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-18.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-19.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q21.jpg"
       ]
     },
     {
@@ -1292,13 +1487,19 @@
         "carboxylic acid"
       ],
       "question": "Name the type of reaction taking place in Reaction B of the butanoic acid scheme.",
-      "status": "pending",
-      "answer": "Pending: the reaction scheme for butanoic acid is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Hydrolysis (acid hydrolysis of a nitrile)",
+      "steps": [
+        "In Reaction B the nitrile group, -CN, of CH3CH2CH2CN is converted to the carboxylic acid group, -COOH, by reaction with water and acid.",
+        "This is hydrolysis."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-18.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-19.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q21.jpg"
       ]
     },
     {
@@ -1317,13 +1518,19 @@
         "carboxylic acid"
       ],
       "question": "Give the structural formula and name of Substance C in the butanoic acid scheme.",
-      "status": "pending",
-      "answer": "Pending: the reaction scheme identifying Substance C is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "CH3CH2CH2COOCH3, methyl butanoate",
+      "steps": [
+        "Butanoic acid reacts with methanol in the presence of concentrated H2SO4 as a catalyst to form an ester (esterification).",
+        "The ester is CH3CH2CH2COOCH3, named from the alcohol (methyl) and the acid (butanoate): methyl butanoate."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-18.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-19.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q21.jpg"
       ]
     },
     {
@@ -1342,13 +1549,20 @@
         "carboxylic acid"
       ],
       "question": "Identify the reagent for Reaction D in the butanoic acid scheme, and give one observation.",
-      "status": "pending",
-      "answer": "Pending: the reaction scheme for Reaction D is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Reagent: phosphorus(V) chloride, PCl5. Observation: steamy (misty) white fumes of hydrogen chloride",
+      "steps": [
+        "Reaction D replaces the OH of the COOH group by Cl, forming the acyl chloride CH3CH2CH2COCl.",
+        "Reagent: phosphorus(V) chloride, PCl5 (SOCl2 is also acceptable).",
+        "Observation: steamy white fumes of HCl are given off."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-18.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-19.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q21.jpg"
       ]
     },
     {
@@ -1367,13 +1581,20 @@
         "carboxylic acid"
       ],
       "question": "Write the full equation for the formation of Substance E in the butanoic acid scheme. State symbols are not required.",
-      "status": "pending",
-      "answer": "Pending: the reaction scheme identifying Substance E is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "CH3CH2CH2COOH + NaHCO3 -> CH3CH2CH2COONa + H2O + CO2",
+      "steps": [
+        "Butanoic acid is a stronger acid than carbonic acid, so it reacts with sodium hydrogencarbonate in an acid-base reaction.",
+        "Substance E is the salt sodium butanoate; water and carbon dioxide are also formed.",
+        "CH3CH2CH2COOH + NaHCO3 -> CH3CH2CH2COONa + H2O + CO2 is balanced."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-18.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-19.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q21.jpg"
       ]
     },
     {
@@ -1392,13 +1613,21 @@
         "diagram"
       ],
       "question": "Complete the diagram by adding one water molecule to show the strong intermolecular force between butanoic acid and water, including dipoles and lone pairs, and label the force.",
-      "status": "pending",
-      "answer": "Pending: the diagram to be completed is not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Hydrogen bond between the delta+ H of the acid O-H (or of water) and a lone pair on the oxygen of the other molecule, drawn as a dotted line labelled hydrogen bond.",
+      "steps": [
+        "Draw one water molecule, H-O-H, close to the carboxyl group.",
+        "Mark the dipoles: delta+ on the H of the acid O-H group and on the H atoms of water, delta- on the oxygen atoms.",
+        "Draw a lone pair on the oxygen of the water molecule (or on the C=O oxygen of the acid) pointing to the delta+ hydrogen of the other molecule.",
+        "Join the lone pair on one oxygen to the delta+ H on the other with a dotted line, and label it hydrogen bond."
+      ],
       "images": [
         "papers/chemistry/img/15C-Carboxylic-Acids-18.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-19.jpg",
         "papers/chemistry/img/15C-Carboxylic-Acids-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15C-Carboxylic-Acids-Q21-2.jpg"
       ]
     }
   ]

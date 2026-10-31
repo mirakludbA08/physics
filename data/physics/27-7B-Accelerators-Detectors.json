@@ -153,6 +153,9 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-03.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-04.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-05.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q2.jpg"
       ]
     },
     {
@@ -184,6 +187,9 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-03.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-04.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-05.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q2-2.jpg"
       ]
     },
     {
@@ -214,6 +220,9 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-03.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-04.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-05.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q2-2.jpg"
       ]
     },
     {
@@ -277,6 +286,9 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-03.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-04.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-05.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q2-3.jpg"
       ]
     },
     {
@@ -306,6 +318,9 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-06.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-07.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q3.jpg"
       ]
     },
     {
@@ -325,18 +340,21 @@
       ],
       "question": "Complete the nuclear equations for radon decaying by alpha emission to polonium, which decays by alpha emission to lead.",
       "status": "ready",
-      "answer": "222/86 Rn -> 218/84 Po + 4/2 He, then 218/84 Po -> 214/82 Pb + 4/2 He",
+      "answer": "220/86 Rn -> 216/84 Po + 4/2 He, then 216/84 Po -> 212/82 Pb + 4/2 He; overall 220/86 Rn -> 212/82 Pb + 2 (4/2 He), so the lead has nucleon number 212 and 2 alpha particles are emitted.",
       "steps": [
-        "Alpha particles are helium nuclei, 4/2 He, so each decay reduces the mass number by 4 and the proton number by 2.",
-        "Radon-222 (proton number 86) gives polonium with mass number 218 and proton number 84, plus an alpha particle.",
-        "Polonium-218 gives lead with mass number 214 and proton number 82, plus an alpha particle.",
-        "Radon-222 is the standard isotope for this chain; the mass numbers are checked by conservation."
+        "Each alpha particle is 4/2 He, so each decay reduces the nucleon number by 4 and the proton number by 2.",
+        "First decay: radon-220 (proton number 86) gives polonium with nucleon number 216 and proton number 84.",
+        "Second decay: polonium-216 gives lead with nucleon number 212 and proton number 82 (matching the 82 printed on the page).",
+        "Overall: 220 = 212 + 2 x 4 and 86 = 82 + 2 x 2, so the missing numbers are 212 for lead and 2 alpha particles (4/2 alpha)."
       ],
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-05.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-06.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-07.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q3-2.jpg"
       ]
     },
     {
@@ -355,9 +373,14 @@
         "radon"
       ],
       "question": "Sketch a vector diagram showing the momenta of the two alpha particles and the lead ion after radon decay, with the tracks at 60 degrees.",
-      "status": "pending",
-      "answer": "Pending: the answer is a sketch, which cannot be given in text. The lead momentum vector must equal the negative of the vector sum of the two alpha momenta.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A closed triangle of three momentum vectors drawn head to tail: p(alpha 1) = 1.16 x 10^-19 N s, then p(alpha 2) = 1.20 x 10^-19 N s drawn 60 degrees from the first, and the lead ion vector (about 2.0 x 10^-19 N s, the longest side) closing the triangle back to the start.",
+      "steps": [
+        "The radon atom was stationary, so total momentum is zero before and after: p1 + p2 + p(Pb) = 0, so the three vectors form a closed triangle.",
+        "Draw p1 (first alpha) as an arrow, then draw p2 from the tip of p1 in a direction 60 degrees from p1 (the tracks are 60 degrees apart); p2 is only slightly longer than p1 (speeds 1.74 and 1.81 x 10^7 m s^-1, same mass), so draw them nearly equal in length.",
+        "Draw the third arrow from the tip of p2 back to the tail of p1: this is the lead ion momentum, pointing opposite to p1 + p2, and it is the longest side (about 1.8 times an alpha vector).",
+        "Label the three arrows and put the arrowheads head to tail round the triangle; the angle inside the triangle between the two alpha vectors is 120 degrees."
+      ],
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-05.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-06.jpg",
@@ -413,14 +436,22 @@
         "deduce"
       ],
       "question": "A photograph shows another pair of alpha tracks after radon decay. Deduce which track belongs to the first alpha particle emitted.",
-      "status": "pending",
-      "answer": "Pending: needs the photograph of the two tracks, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The shorter, thicker, almost vertical track is the first alpha particle (from radon); the longer thin diagonal track is the second (from polonium).",
+      "steps": [
+        "The first alpha comes from radon (speed 1.74 x 10^7 m s^-1) and the second from polonium (speed 1.81 x 10^7 m s^-1).",
+        "The same mass but a higher speed means the polonium alpha has more kinetic energy (1/2 m v^2).",
+        "The more energetic particle ionises vapour for longer before it stops, so its track is longer; the less energetic radon alpha has the shorter track.",
+        "In the photograph the long thin track running up to the left is the longer, so it is the polonium alpha; the shorter, thicker, almost vertical track is the first alpha particle emitted."
+      ],
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-05.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-06.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-07.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q3-3.jpg"
       ]
     },
     {
@@ -466,12 +497,20 @@
         "diagram"
       ],
       "question": "A positron and a muon travel at the same speed through a uniform magnetic field directed into the page. Which diagram shows their motion?",
-      "status": "pending",
-      "answer": "Pending: the answer is chosen from A-D diagrams that are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: positron curves to the left in a tight circle, muon curves to the right in a larger circle.",
+      "steps": [
+        "Both particles travel up the page in a field into the page. For a positive charge the force qvB points to the left (left-hand rule), so the positron bends left; the muon is negative, so it bends to the right (opposite direction).",
+        "The radius is r = m v / (B q). Speed v, field B and the size of the charge are the same, so r is proportional to mass.",
+        "The muon is about 200 times heavier than the positron, so its radius is much larger; the positron has the tight, small-radius curve.",
+        "Only diagram C has the positron curving left with small radius and the muon curving right with large radius."
+      ],
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-08.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-09.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q5.jpg"
       ]
     },
     {
@@ -604,13 +643,20 @@
         "oxygen ions"
       ],
       "question": "Calculate the p.d. between the anode and cathode of an ion accelerator, given the electric field strength is 7.5 x 10^5 V m^-1.",
-      "status": "pending",
-      "answer": "Pending: needs the anode-cathode separation d, which appears only on the diagram; V = E x d.",
-      "steps": [],
+      "status": "ready",
+      "answer": "V = 4.5 x 10^4 V (45 kV)",
+      "steps": [
+        "From the diagram the anode-cathode separation is d = 6.0 cm = 0.060 m.",
+        "For a uniform field E = V / d, so V = E d.",
+        "V = 7.5 x 10^5 x 0.060 = 4.5 x 10^4 V."
+      ],
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-11.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-12.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-13.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q10-2.jpg"
       ]
     },
     {
@@ -629,13 +675,21 @@
         "5 x 10^5 m s^-1"
       ],
       "question": "A stationary oxygen ion is formed half-way between anode and cathode. Show that its speed at the cathode hole is about 5 x 10^5 m s^-1, given m = 2.7 x 10^-26 kg and q = 1.6 x 10^-19 C.",
-      "status": "pending",
-      "answer": "Pending: needs the anode-cathode separation d (from the diagram) to find the p.d. across half the gap.",
-      "steps": [],
+      "status": "ready",
+      "answer": "v = 5.2 x 10^5 m s^-1, which is about 5 x 10^5 m s^-1.",
+      "steps": [
+        "The ion starts half-way, so it crosses half the gap (0.030 m) at the cathode: p.d. = E x 0.030 = 7.5 x 10^5 x 0.030 = 2.25 x 10^4 V (half of 4.5 x 10^4 V).",
+        "Work done on the ion = q V = 1.6 x 10^-19 x 2.25 x 10^4 = 3.6 x 10^-15 J, which becomes kinetic energy since it starts at rest.",
+        "1/2 m v^2 = 3.6 x 10^-15, so v = sqrt(2 x 3.6 x 10^-15 / 2.7 x 10^-26) = sqrt(2.67 x 10^11).",
+        "v = 5.2 x 10^5 m s^-1, about 5 x 10^5 m s^-1."
+      ],
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-11.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-12.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-13.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q10-2.jpg"
       ]
     },
     {
@@ -654,13 +708,20 @@
         "plates P Q"
       ],
       "question": "In a velocity selector with plate P positive and Q negative, explain the direction of the magnetic field so that the magnetic force on the ion is opposite to the electric force.",
-      "status": "pending",
-      "answer": "Pending: the direction depends on the beam direction and plate orientation shown in the diagram, which is missing.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The magnetic field must point into the page (perpendicular to the plane of the diagram).",
+      "steps": [
+        "The oxygen ion is positive, so the electric force on it is towards the negative plate Q (downwards in the diagram).",
+        "For the ion to travel straight the magnetic force must be the opposite way, upwards towards P.",
+        "The ion moves to the right, so it is like a conventional current to the right; with the force up, Fleming's left-hand rule (first finger field, second finger velocity, thumb force) gives a field directed into the page."
+      ],
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-11.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-12.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-13.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q10-3.jpg"
       ]
     },
     {
@@ -720,6 +781,9 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-11.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-12.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-13.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q10.jpg"
       ]
     },
     {
@@ -738,12 +802,19 @@
         "conclusion"
       ],
       "question": "A particle detector shows tracks of two particles X and Y produced by the decay of a kaon at O. Which conclusion can be drawn from the tracks? A: field into page; B: X positive; C: Y is an electron; D: X and Y opposite charge.",
-      "status": "pending",
-      "answer": "Pending: the track curvature is shown only in the diagram, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: X and Y have opposite charge.",
+      "steps": [
+        "Both particles start from O in the same magnetic field. X curves one way (to the left) and Y curves the other way (to the right).",
+        "A field bends opposite charges in opposite senses (F = B q v), so X and Y have opposite charges.",
+        "A, B and C cannot be concluded: the direction of the field is not given, so the sign of X cannot be found, and the track alone does not show that Y is an electron."
+      ],
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-13.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-14.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q11.jpg"
       ]
     },
     {
@@ -774,6 +845,9 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-14.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-15.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-16.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q12.jpg"
       ]
     },
     {
@@ -863,6 +937,9 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-14.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-15.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-16.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q12-2.jpg"
       ]
     },
     {
@@ -893,6 +970,9 @@
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-16.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-17.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q13.jpg"
       ]
     },
     {
@@ -921,6 +1001,9 @@
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-16.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-17.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q13-2.jpg"
       ]
     },
     {
@@ -968,12 +1051,21 @@
         "5 x 10^-20 N s"
       ],
       "question": "An alpha particle with momentum 1.26 x 10^-19 N s collides with a stationary proton and has momentum 8.06 x 10^-20 N s after. Show that the proton momentum is about 5 x 10^-20 N s at an angle of about 20 degrees.",
-      "status": "pending",
-      "answer": "Pending: needs the alpha particle's scattering angle, which is shown only in the diagram and is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "p = 4.9 x 10^-20 N s at theta = 17 degrees, which is about 5 x 10^-20 N s at about 20 degrees (1 s.f.).",
+      "steps": [
+        "Momentum is conserved in two perpendicular directions: x along the original direction of the alpha, y perpendicular to it.",
+        "x: 1.26 x 10^-19 = 8.06 x 10^-20 cos 10.2 + p cos(theta), so p cos(theta) = 1.26 x 10^-19 - 7.93 x 10^-20 = 4.67 x 10^-20 N s.",
+        "y: 0 = 8.06 x 10^-20 sin 10.2 - p sin(theta), so p sin(theta) = 1.43 x 10^-20 N s.",
+        "p = sqrt((4.67 x 10^-20)^2 + (1.43 x 10^-20)^2) = 4.9 x 10^-20 N s, about 5 x 10^-20 N s.",
+        "tan(theta) = 1.43 / 4.67, so theta = 17 degrees, about 20 degrees to 1 significant figure."
+      ],
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-18.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-19.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q15.jpg"
       ]
     },
     {
@@ -1004,6 +1096,9 @@
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-18.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-19.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q15.jpg"
       ]
     },
     {
@@ -1022,12 +1117,20 @@
         "properties"
       ],
       "question": "Two charged particles X and Y move at the same speed in a uniform magnetic field along the paths shown. Which row of the table describes Y compared with X?",
-      "status": "pending",
-      "answer": "Pending: the table of options and the path diagram are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: mass of Y less than X, charge of Y greater than X.",
+      "steps": [
+        "In a magnetic field the radius is r = m v / (B q). The two particles have the same speed and are in the same field, so r is proportional to m/q.",
+        "Y moves in a much smaller circle than X, so Y has the smaller value of m/q.",
+        "Row B (smaller mass, larger charge) gives a smaller m/q. A, C and D each give a larger m/q (greater mass or smaller charge), which would make Y's radius larger."
+      ],
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-19.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-20.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q16.jpg",
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q16-2.jpg"
       ]
     },
     {
@@ -1074,12 +1177,20 @@
         "into page"
       ],
       "question": "The track of a charged particle in a magnetic field directed into the page is shown. Which particle could create it? A: muon X to Y; B: positron Y to X; C: positive particle X to Y; D: electron Y to X.",
-      "status": "pending",
-      "answer": "Pending: the track curvature and the direction of travel are shown only in the diagram, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: an electron travelling from Y to X.",
+      "steps": [
+        "The track spirals inwards from Y to X with the radius getting smaller: the particle is losing speed (r = m v / (B q)), so it travels from Y to X, not X to Y. This rules out A and C.",
+        "Following the track from Y to X, the particle goes round clockwise.",
+        "With the field into the page, a positive particle goes round anticlockwise and a negative particle clockwise (F = B q v).",
+        "Clockwise motion means a negative particle, so it is the electron travelling from Y to X (a positron would go anticlockwise)."
+      ],
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-20.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-21.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q18.jpg"
       ]
     },
     {
@@ -1158,16 +1269,15 @@
         "wavelength 220 m",
         "interference"
       ],
-      "question": "An electron of speed 1650 km s^-1 moves perpendicular to B = 48 T and emits radio waves at its rotation frequency. Calculate the radius and deduce whether this would interfere with a 220 m radio station.",
+      "question": "An electron of speed 1650 km s^-1 moves perpendicular to a magnetic field of flux density 48 x 10^-6 T (48 microtesla) and emits radio waves at its rotation frequency. Calculate the radius and deduce whether this would interfere with a radio station broadcasting at 220 m.",
       "status": "ready",
-      "answer": "Radius = 2.0 x 10^-7 m; emitted frequency = 1.3 x 10^12 Hz, far from the 1.4 x 10^6 Hz of the station, so no interference.",
+      "answer": "Radius = 0.20 m. Emitted frequency = 1.3 x 10^6 Hz (wavelength about 220 m), which matches the station (about 1.4 x 10^6 Hz), so it would interfere.",
       "steps": [
-        "Radius from B q v = m v^2 / r: r = m v / (B q).",
-        "r = (9.11 x 10^-31 x 1.65 x 10^6) / (48 x 1.6 x 10^-19) = 2.0 x 10^-7 m.",
-        "Rotation frequency: f = v / (2 pi r) = B q / (2 pi m).",
-        "f = (48 x 1.6 x 10^-19) / (2 pi x 9.11 x 10^-31) = 1.3 x 10^12 Hz.",
-        "Station frequency: f = c / lambda = 3.0 x 10^8 / 220 = 1.4 x 10^6 Hz.",
-        "The frequencies differ by about six orders of magnitude, so there is no interference."
+        "The magnetic force provides the centripetal force: B e v = m v^2 / r, so r = m v / (B e).",
+        "r = (9.11 x 10^-31 x 1.65 x 10^6) / (48 x 10^-6 x 1.6 x 10^-19) = 0.20 m.",
+        "Frequency of rotation f = v / (2 pi r) = 1.65 x 10^6 / (2 pi x 0.196) = 1.3 x 10^6 Hz.",
+        "Station frequency f = c / wavelength = 3.0 x 10^8 / 220 = 1.4 x 10^6 Hz.",
+        "The two frequencies are almost equal (the emitted wavelength is about 224 m), so the radio waves from the electron would interfere with the station signal."
       ],
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-21.jpg",
@@ -1191,12 +1301,20 @@
         "evidence"
       ],
       "question": "A bubble chamber photograph shows tracks in which a charged particle interacts with a stationary proton at P, producing two neutral particles that each decay. Explain the evidence in the diagram for this description.",
-      "status": "pending",
-      "answer": "Pending: needs the bubble chamber photograph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "One track ends at P (charged particle in); no track leaves P (neutral particles produced); two separate V-shaped pairs of tracks start away from P (each neutral particle decays into a pair of oppositely charged particles).",
+      "steps": [
+        "A single track runs up to P and stops there: a charged particle ionises the liquid and leaves a track, and it interacts with a proton at P.",
+        "No tracks leave P: the two particles produced there are neutral and do not ionise, so they leave no trail.",
+        "Two V-shaped pairs of tracks each begin at a point some distance from P with nothing joining them to P: each neutral particle travelled unseen and then decayed there into two charged particles.",
+        "The two tracks of each V curve in opposite directions, as expected for a neutral particle decaying into a positive and a negative particle (charge conserved: 0 -> + and -)."
+      ],
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-23.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-24.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q21.jpg"
       ]
     },
     {
@@ -1257,6 +1375,9 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-25.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-26.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q23.jpg"
       ]
     },
     {
@@ -1287,6 +1408,9 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-25.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-26.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q23.jpg"
       ]
     },
     {
@@ -1319,6 +1443,9 @@
         "papers/physics/img/27-7B-Accelerators-Detectors-25.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-26.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q23.jpg"
       ]
     },
     {
@@ -1337,14 +1464,21 @@
         "accelerating gap"
       ],
       "question": "The shaded section between X and Y in the model corresponds to a linac drift tube. Give one similarity and two differences between this section of the model and a drift tube in a linac.",
-      "status": "pending",
-      "answer": "Pending: the shaded section X to Y is shown only in the diagram, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Similarity: no accelerating force, so the speed is constant in the section, as in a drift tube. Differences: the model uses constant d.c. potentials and the ball is charged and discharged, but a linac uses an alternating p.d. and the particle keeps constant charge; the ball touches strips in air, while the particle travels inside a tube in a vacuum.",
+      "steps": [
+        "Similarity: after the ball discharges on the 0 V strip it moves at constant speed through the shaded section, just as a particle drifts at constant speed inside a linac tube where there is no electric field.",
+        "Difference 1: in the model the strips are at fixed d.c. potentials (1800 V and 0 V) and the ball picks up and loses charge on the strips; in a linac the particle's charge stays the same and the tubes are connected to an alternating supply.",
+        "Difference 2: the ball rolls on a track in contact with the strips and in air (friction acts); the particle in a linac travels without contact through the inside of a tube, in a vacuum."
+      ],
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-24.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-25.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-26.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q23-2.jpg"
       ]
     },
     {
@@ -1452,9 +1586,13 @@
         "circular path"
       ],
       "question": "An alpha particle moving in a straight line with the same speed v enters the same magnetic field as the proton of Q25 and follows a circular path. Which is its initial radius? (Options A-D are not in the text.)",
-      "status": "pending",
-      "answer": "Pending: the options A-D are missing from the text. Physics gives r = m v / (B q), so the alpha radius is about twice the proton radius (mass about 4 times, charge 2 times).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 2r",
+      "steps": [
+        "In the field the radius is r = m v / (B q), so for the proton r = m(p) v / (B e).",
+        "An alpha particle has about 4 times the proton mass and 2 times its charge: m = 4 m(p), q = 2e.",
+        "Same v and B, so r(alpha) = 4 m(p) v / (B x 2e) = 2 x (m(p) v / (B e)) = 2r."
+      ],
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-28.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-29.jpg",
@@ -1507,13 +1645,21 @@
         "semicircles"
       ],
       "question": "Add to the diagram the path of protons that gain energy in a cyclotron with the magnetic field into the page.",
-      "status": "pending",
-      "answer": "Pending: the answer is a drawn spiral path on the diagram, which cannot be given in text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "An anticlockwise spiral starting at the source: the protons first curve upwards in the right-hand dee, cross the gap above the source heading left, curve downwards in the left-hand dee, and so on with the radius of each semicircle larger than the last.",
+      "steps": [
+        "The protons start at the source moving to the right into the right-hand dee. For a positive charge the force is v x B: moving right with the field into the page gives a force upwards, so the path bends upwards (anticlockwise).",
+        "Inside a dee the path is a semicircle, which returns to the gap above the source (crossing the gap at right angles), now moving left into the left-hand dee.",
+        "In the left dee the force is now downwards, so the path continues anticlockwise as a larger semicircle and re-crosses the gap below the source.",
+        "Each crossing of the gap gives the protons extra energy and speed, so each semicircle has a larger radius: the path is an outward spiral, drawn with semicircles joined across the gap."
+      ],
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-28.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-29.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-30.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q28.jpg"
       ]
     },
     {
@@ -1594,12 +1740,20 @@
         "valid"
       ],
       "question": "A bubble chamber shows a particle track. Which is a valid conclusion? A: negatively charged; B: moving from X to Y; C: speed increasing; D: experiences a centripetal force.",
-      "status": "pending",
-      "answer": "Pending: the particle track shown in the bubble chamber diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: the particle experiences a centripetal force.",
+      "steps": [
+        "The track is curved, so the velocity is changing direction; this needs a resultant force towards the centre of the curve (a centripetal force, here the magnetic force).",
+        "A cannot be concluded: the sign of the charge depends on the field direction, which is not given.",
+        "B cannot be concluded: a track alone does not show which way the particle moved without knowing the sign of its charge and the field direction.",
+        "C is not shown: the magnetic force does no work, and nothing in the track indicates the speed is increasing (particles in a bubble chamber lose energy)."
+      ],
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-30.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-31.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q29.jpg"
       ]
     },
     {
@@ -1659,6 +1813,9 @@
       "images": [
         "papers/physics/img/27-7B-Accelerators-Detectors-31.jpg",
         "papers/physics/img/27-7B-Accelerators-Detectors-32.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/27-7B-Accelerators-Detectors-Q31.jpg"
       ]
     },
     {

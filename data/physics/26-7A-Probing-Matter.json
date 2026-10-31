@@ -221,10 +221,14 @@
         "concentration of mass",
         "multiple choice"
       ],
-      "question": "Which of the following could not be concluded from high-speed alpha particle scattering experiments?",
-      "status": "pending",
-      "answer": "Pending: as printed, all four options (empty space, positive nucleus, concentration of charge, concentration of mass) are valid conclusions from alpha scattering, so the intended key cannot be determined from the page.",
-      "steps": [],
+      "question": "Alpha particles were fired at high speed at thin metal foils. Which of the following could not be concluded from these experiments? A Most of the atom is empty space. B The nucleus of the atom is positively charged. C There is a concentration of charge in the atom. D There is a concentration of mass in the atom.",
+      "status": "ready",
+      "answer": "B: The nucleus of the atom is positively charged.",
+      "steps": [
+        "Most alpha particles pass straight through, so most of the atom is empty space (A can be concluded).",
+        "A few are deflected through large angles, so the charge and the mass must be concentrated in a tiny region (C and D can be concluded).",
+        "The pattern of scattering depends on the product of the two charges squared, so an attractive (negative) centre would give the same pattern. The experiment does not show the sign of the nuclear charge, so B is the one that could not be concluded."
+      ],
       "images": [
         "papers/physics/img/26-7A-Probing-Matter-03.jpg",
         "papers/physics/img/26-7A-Probing-Matter-04.jpg"

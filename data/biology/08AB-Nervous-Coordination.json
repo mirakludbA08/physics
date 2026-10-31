@@ -46,12 +46,19 @@
         "impulse"
       ],
       "question": "Which row of a table correctly compares impulse conduction along a myelinated neurone with a non-myelinated neurone?",
-      "status": "pending",
-      "answer": "Pending: the table of rows (options) is not in the text, so the correct row cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: faster; because depolarisation only takes place at the nodes of Ranvier",
+      "steps": [
+        "Myelin insulates the axon, so ion movement and depolarisation can occur only at the gaps (nodes of Ranvier).",
+        "The impulse jumps from node to node (saltatory conduction), so conduction is faster than in a non-myelinated neurone.",
+        "So the row is 'faster' and 'at nodes of Ranvier', which is A."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-001.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-002.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q1.jpg"
       ]
     },
     {
@@ -97,12 +104,19 @@
         "inhibition"
       ],
       "question": "Using the graph of the effect of TTX on the nerve impulse in an axon, deduce how TTX inhibits nerve impulses (3 marks).",
-      "status": "pending",
-      "answer": "Pending: the graph of the nerve impulse with and without TTX is not in the text, so the deduction cannot be checked.",
-      "steps": [],
+      "status": "ready",
+      "answer": "TTX blocks voltage-gated sodium channels, so too little Na+ enters, the membrane does not depolarise to threshold and no action potential forms.",
+      "steps": [
+        "In the untreated axon the membrane depolarises from -70 mV to about +50 mV, but in the TTX-treated axon it only reaches about -45 mV, never positive.",
+        "Depolarisation is caused by Na+ entering through voltage-gated sodium channels, so a much smaller rise means TTX has stopped most of these channels from opening.",
+        "Without full depolarisation the threshold is not passed, so no action potential is produced and the impulse cannot be conducted along the axon."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-001.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-002.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q1-2.jpg"
       ]
     },
     {
@@ -181,9 +195,12 @@
         "paragraph 10"
       ],
       "question": "Explain why a CT scan was used to show that Judy Perkins was free of tumours (paragraph 10 and Figure 1) (2 marks).",
-      "status": "pending",
-      "answer": "Pending: Figure 1 and paragraph 10 of the source article are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A CT scan gives detailed cross-sectional images of the body's internal organs, so it can show deep tumours and show that none remain.",
+      "steps": [
+        "Tumours in the liver, lungs or other organs cannot be seen from outside, and a CT scan uses X-rays to build 3D images of soft tissue deep inside the body without surgery.",
+        "Scans before and after treatment can be compared to show that the tumours have shrunk or disappeared, and the whole body can be checked for any new tumours."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-002.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
@@ -327,13 +344,19 @@
         "estimate"
       ],
       "question": "From the graph, estimate how long the MDMA concentration in the blood takes to become 0.0 g dm-3 (1 mark).",
-      "status": "pending",
-      "answer": "Pending: the graph of MDMA and ADH concentrations is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 12 hours",
+      "steps": [
+        "After its peak the MDMA concentration falls roughly linearly: 46 at 4 h, 36 at 6 h, 23 at 8 h, about 6 units per hour.",
+        "Extending this line to 0 gives 8 + 23/6 = about 12 h (accept 11 to 13 hours)."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-005.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-006.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-007.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q3.jpg"
       ]
     },
     {
@@ -351,13 +374,20 @@
         "4 to 8 hours"
       ],
       "question": "Calculate the rate of removal of ADH from the blood between 4 and 8 hours, from the graph (2 marks).",
-      "status": "pending",
-      "answer": "Pending: the ADH concentration values from the graph are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 0.33 pmol dm^-3 per hour (decrease)",
+      "steps": [
+        "Read the ADH curve on the right-hand axis: about 2.8 pmol dm^-3 at 4 h and 1.5 pmol dm^-3 at 8 h.",
+        "Change = 2.8 - 1.5 = 1.3 pmol dm^-3 over 8 - 4 = 4 h.",
+        "Rate = 1.3 / 4 = 0.33 pmol dm^-3 h^-1 (accept 0.30 to 0.35)."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-005.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-006.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-007.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q3.jpg"
       ]
     },
     {
@@ -376,13 +406,23 @@
         "graph"
       ],
       "question": "Comment on the role of ADH in MDMA-induced brain swelling, using the graph and the laboratory results table (6 marks).",
-      "status": "pending",
-      "answer": "Pending: the laboratory results table and the graph are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "MDMA raises ADH, which makes the kidneys reabsorb too much water, lowering blood sodium concentration, so water moves into brain cells by osmosis and the brain swells.",
+      "steps": [
+        "Graph: ADH rises from 1.5 to about 4.0 pmol dm^-3 within 2 h as MDMA peaks (about 47 ug dm^-3), then falls back to 1.5 by 8 h as MDMA is removed, so MDMA stimulates ADH release.",
+        "Table: at 9 h ADH is 4.5 pmol dm^-3, three times the normal 1.5 value, whereas at 96 h it is back to 1.2 pmol dm^-3.",
+        "High ADH makes the collecting duct more permeable to water, so too much water is reabsorbed and the blood is diluted: sodium concentration is only 112 mmol dm^-3 at 9 h, against 131 at 96 h and a normal 135 to 145.",
+        "Thirst also leads to drinking a lot, adding to the dilution; the blood has a higher water potential than the brain cells, so water enters them by osmosis and the brain swells (CT swollen at 9 h, normal at 96 h).",
+        "Only one case is given, and a link is not proof of cause, but the changes in ADH, sodium and swelling all go together."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-005.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-006.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-007.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q3.jpg",
+        "papers/biology/fig/08AB-Nervous-Coordination-Q3-2.jpg"
       ]
     },
     {
@@ -399,14 +439,20 @@
         "iris"
       ],
       "question": "Describe the relationship between light intensity and pupil diameter, using the table of results (2 marks).",
-      "status": "pending",
-      "answer": "Pending: the table of pupil diameters at different light intensities is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Pupil diameter decreases as light intensity increases for both lights, and the decrease is greater for LED light.",
+      "steps": [
+        "Incandescent light: diameter falls from 25.5 mm at 0 a.u. per m^2 to 16.0 mm at 1400 a.u. per m^2, a fall of 9.5 mm, with no change between 75 and 150.",
+        "LED light: diameter falls from 25.5 mm to 9.5 mm, a fall of 16.0 mm, and is smaller than incandescent at every intensity above zero (e.g. 12.0 against 17.5 mm at 650)."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-007.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-008.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-009.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-010.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q4.jpg"
       ]
     },
     {
@@ -424,14 +470,21 @@
         "area of circle"
       ],
       "question": "Calculate the amount of incandescent light passing through the pupil at 1400 a.u. per m2, using pi = 3.14 (3 marks).",
-      "status": "pending",
-      "answer": "Pending: the pupil diameter at this intensity comes from the table, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "0.28 a.u. (0.281)",
+      "steps": [
+        "At 1400 a.u. per m^2 the incandescent pupil diameter is 16.0 mm, so the radius is 8.0 mm = 0.0080 m.",
+        "Area of pupil = pi r^2 = 3.14 x 0.0080^2 = 2.01 x 10^-4 m^2.",
+        "Amount of light = intensity x area = 1400 x 2.01 x 10^-4 = 0.28 a.u."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-007.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-008.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-009.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-010.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q4.jpg"
       ]
     },
     {
@@ -522,6 +575,9 @@
         "papers/biology/img/08AB-Nervous-Coordination-008.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-009.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-010.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q4-2.jpg"
       ]
     },
     {
@@ -599,13 +655,23 @@
         "table"
       ],
       "question": "Comment on the effect of red and far-red light on germination of plantain seeds and the processes in their cells, using the table of results (6 marks).",
-      "status": "pending",
-      "answer": "Pending: the table of germination percentages for the red and far-red light periods is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Red light promotes germination and far-red light reverses it, because red light converts phytochrome Pr to active Pfr and far-red converts Pfr back to Pr.",
+      "steps": [
+        "With only 1 s of far-red, germination is 92 to 100 % after every red exposure, so red light stimulates germination.",
+        "Increasing far-red exposure to 5 to 30 s sharply reduces germination (after 32 min red: 100 % to 20 % at 5 s and 4 % at 30 s), so far-red inhibits germination and cancels the red effect.",
+        "In the cells, phytochrome exists as Pr, which absorbs red light and changes to the active form Pfr; Pfr absorbs far-red and changes back to Pr, so the last light received sets the Pfr:Pr ratio.",
+        "Pfr switches on genes (for example for gibberellin and amylase production) that start germination, and low Pfr stops these genes being expressed.",
+        "Exposure matters: at 5 s far-red, germination was 20 % after 32 min of red but 67 % after 4 min, and at 960 s far-red only the 4 min group (92 %) recovered, which is anomalous.",
+        "Each result is a single value with no repeats or statistics, so the trends should be treated with caution."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-010.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-011.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-012.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q5.jpg"
       ]
     },
     {
@@ -682,13 +748,20 @@
         "comment"
       ],
       "question": "Comment on the results of the fiddler crab predator experiment, using the two graphs (3 marks).",
-      "status": "pending",
-      "answer": "Pending: the two graphs of percentage of crabs running home are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Female crabs run home less often as encounters increase (about 90 % to about 70 %), showing habituation, whereas males stay high (70 to 100 %) with no clear decline.",
+      "steps": [
+        "Females: the percentage running home falls from about 90 % at the 1st encounter to about 70 % at the 20th, with fluctuations and a low of about 35 % at the 19th, so they become habituated to the repeated, harmless approach.",
+        "Males: the percentage stays between about 70 and 100 % throughout and shows no clear downward trend, so there is little or no habituation.",
+        "Males ran home more than females at almost every encounter (about 90 % average against 65 to 70 %), so the sexes respond differently to the predator, perhaps because of differing risk."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-012.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-013.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-014.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q6.jpg"
       ]
     },
     {
@@ -793,13 +866,19 @@
         "sample size"
       ],
       "question": "Comment on the validity of a student's conclusion that myelin quantity is related to whether a person has dementia, using the table of results (2 marks).",
-      "status": "pending",
-      "answer": "Pending: the table of mean myelin quantities for the dementia groups and the control group is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The conclusion is partly valid: all three dementia groups have less myelin than the control, but the data cannot show cause, and sample sizes and other variables are not given.",
+      "steps": [
+        "Supporting the conclusion: control 52 a.u. against 25 (vascular), 32 (Alzheimer's) and 42 (Lewy body), and the standard deviations do not overlap those of the control (e.g. 52 - 3.2 = 48.8 against 42 + 5.0 = 47), so the differences look real.",
+        "Limitations: a link does not prove that low myelin causes dementia (it could be a result), the sample sizes are not stated, and the amount differs between the dementia types, so 'dementia' as a whole is not a single cause; age, sex and the brain region sampled are not controlled, and no statistical test was done."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-014.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-015.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-016.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q7.jpg"
       ]
     },
     {
@@ -817,14 +896,21 @@
         "AVN"
       ],
       "question": "Using the labelled heart diagram (P, Q, R), which statement correctly identifies the SAN, AVN and Purkinje fibres? (1 mark)",
-      "status": "pending",
-      "answer": "Pending: the heart diagram with labels P, Q and R is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Q is the sinoatrial node (SAN) and P is the atrioventricular node (AVN)",
+      "steps": [
+        "Q is in the wall of the right atrium near the vena cava, where the SAN (pacemaker) is found.",
+        "P is at the junction of the atria and ventricles, the position of the AVN, and R is at the base of the septum where the Purkinje fibres begin, so only B fits."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-016.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q8.jpg",
+        "papers/biology/fig/08AB-Nervous-Coordination-Q8-2.jpg"
       ]
     },
     {
@@ -901,14 +987,20 @@
         "football player"
       ],
       "question": "Calculate the stroke volume of the football player after training, using the table of cardiac output and resting heart rate (1 mark).",
-      "status": "pending",
-      "answer": "Pending: the table of cardiac output and resting heart rate is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "88.2 cm^3 (per beat)",
+      "steps": [
+        "Stroke volume = cardiac output / heart rate.",
+        "After training: 4500 cm^3 min^-1 / 51 beats min^-1 = 88.2 cm^3."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-016.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q8-3.jpg"
       ]
     },
     {
@@ -925,14 +1017,20 @@
         "footballer"
       ],
       "question": "Using the ECG trace in the diagram, calculate the footballer's heart rate (1 mark).",
-      "status": "pending",
-      "answer": "Pending: the ECG trace diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 155 beats per minute (accept 150 to 160)",
+      "steps": [
+        "Count the QRS spikes in the 7 s trace: 18 beats.",
+        "Heart rate = 18 x 60 / 7 = 154 bpm; equivalently the time between spikes is about 0.38 s, giving 60 / 0.38 = about 156 bpm."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-016.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q8-4.jpg"
       ]
     },
     {
@@ -950,14 +1048,22 @@
         "exercise"
       ],
       "question": "Comment on the changes in heart activity shown by two ECG traces recorded two hours apart (3 marks).",
-      "status": "pending",
-      "answer": "Pending: the two ECG traces are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The heart rate has fallen from about 155 to about 69 beats per minute, so the cardiac cycle is much longer and the heart is returning towards its resting state.",
+      "steps": [
+        "In the first ECG there are 18 beats in 7 s (about 155 bpm), with a gap of about 0.38 s between beats; the second shows 8 beats (spikes at about 0.8, 1.7, 2.6 s, etc.), a gap of about 0.87 s, so about 69 bpm.",
+        "The cardiac cycle has lengthened, especially diastole, so the P wave, QRS complex and T wave are well separated in the second trace but overlap in the first.",
+        "The beat spacing is regular in both, so the rhythm is steady; the rate is still above the resting 51 bpm, consistent with recovery after exercise as sympathetic stimulation and adrenaline fall."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-016.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q8-4.jpg",
+        "papers/biology/fig/08AB-Nervous-Coordination-Q8-5.jpg"
       ]
     },
     {
@@ -1004,13 +1110,19 @@
         "effects"
       ],
       "question": "Which row of the table shows the effects of light absorption on cells in the retina?",
-      "status": "pending",
-      "answer": "Pending: the table of rows is not in the text, so the correct row cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: rod cell hyperpolarised, bipolar neurone depolarised",
+      "steps": [
+        "Light splits rhodopsin, which closes Na+ channels in the rod cell, so the cell becomes hyperpolarised.",
+        "The hyperpolarised rod releases less inhibitory neurotransmitter, so the bipolar neurone is no longer inhibited and becomes depolarised."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q9.jpg"
       ]
     },
     {
@@ -1027,13 +1139,19 @@
         "table"
       ],
       "question": "Describe the effect of light intensity on the mean potential difference of bipolar neurones, using the table of results (2 marks).",
-      "status": "pending",
-      "answer": "Pending: the table of mean potential differences at each light intensity is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Mean potential difference increases as light intensity increases, rapidly at first, then levels off at 20 mV from 12 a.u.",
+      "steps": [
+        "It rises from 11 mV at 2 a.u. to 17 mV at 4 a.u. and 19 mV at 8 a.u., the steepest rise being at low intensities.",
+        "From 12 a.u. up to 20 a.u. the value stays at 20 mV, a plateau, so higher intensity gives no further change (maximum response)."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q9-2.jpg"
       ]
     },
     {
@@ -1050,13 +1168,19 @@
         "bipolar neurones"
       ],
       "question": "Calculate the percentage change in mean potential difference when light intensity increases from 4 to 12 a.u. (2 marks).",
-      "status": "pending",
-      "answer": "Pending: the mean potential difference values at 4 and 12 a.u. are in the table, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "17.6 % increase",
+      "steps": [
+        "Potential difference at 4 a.u. = 17 mV and at 12 a.u. = 20 mV, so the change is 20 - 17 = 3 mV.",
+        "Percentage change = 3 / 17 x 100 = 17.6 % (17.65)."
+      ],
       "images": [
         "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q9-2.jpg"
       ]
     },
     {
@@ -1086,6 +1210,9 @@
         "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
         "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/08AB-Nervous-Coordination-Q9-2.jpg"
       ]
     },
     {

@@ -114,13 +114,21 @@
         "antibiotic resistance"
       ],
       "question": "Explain the changes in the numbers of Mycobacterium and phages after phage therapy started, using the graph.",
-      "status": "pending",
-      "answer": "The graph of bacteria and phage numbers is not in the text, so the answer cannot be given.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Phages infect and destroy the bacteria, so bacteria fall after each phage peak, then phages fall as hosts become scarce, giving repeating, falling peaks until both reach zero.",
+      "steps": [
+        "After therapy starts, the number of phages rises as they infect Mycobacterium and replicate inside them, reaching a peak shortly after the first bacterial peak.",
+        "When phage numbers are high the bacteria are lysed, so the bacterial number falls from its first peak; the phages then also fall because fewer host bacteria are left for them to reproduce in.",
+        "Bacteria that survive (for example because they are not infected) multiply, so a second and a third peak of bacteria occur, each followed by a peak of phages, in a repeating cycle similar to predator and prey; the phage peak always lags the bacterial peak.",
+        "The peaks get smaller each time, so the phages (and the patient's immune system) are reducing the infection, and finally the number of bacteria falls to zero, followed by the phages as they have no hosts left."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-001.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-002.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-003.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q1.jpg"
       ]
     },
     {
@@ -140,13 +148,20 @@
         "table"
       ],
       "question": "Tick the correct boxes in a table of statements about artificial immunity (artificial active and passive).",
-      "status": "pending",
-      "answer": "The table of statements and cross boxes is not in the text, so the answer cannot be given.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Antibodies injected: passive only; B cells differentiate into plasma cells: active only; memory cells are formed: active only.",
+      "steps": [
+        "Injecting antibodies gives artificial passive immunity: the antibodies are ready-made, so the person's own B cells are not involved.",
+        "A vaccine (artificial active immunity) stimulates the person's own immune response, so B cells differentiate into plasma cells.",
+        "Memory cells are formed only when the person's own lymphocytes respond, so only in active immunity, not passive."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-003.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-004.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-005.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q2.jpg"
       ]
     },
     {
@@ -357,15 +372,22 @@
         "bacteria"
       ],
       "question": "Explain why an antimicrobial substance that affects E. coli only was included in the assay (row H).",
-      "status": "pending",
-      "answer": "Needs the results diagram (what row H shows and which bacteria are affected); not fully in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "It is a positive control: a substance known to affect E. coli shows that the E. coli can be inhibited and that the method works, and allows the other substances to be compared with it.",
+      "steps": [
+        "The row H substance is known to kill or stop the growth of E. coli, so it acts as a positive control.",
+        "If no growth is seen in its low-concentration wells (columns 1 to 5), this shows that the E. coli is sensitive, the method and incubation worked, and any growth in other wells is due to a lack of effect of the substances and not a fault.",
+        "It also provides a standard against which the effectiveness of the other seven antimicrobial substances (rows A to G) can be compared."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-005.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-006.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q3.jpg"
       ]
     },
     {
@@ -399,6 +421,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q3.jpg"
       ]
     },
     {
@@ -432,6 +457,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q3.jpg"
       ]
     },
     {
@@ -451,15 +479,23 @@
         "times more effective"
       ],
       "question": "Calculate how many times more effective the antimicrobial in one row is than the antimicrobial in row E, using their MIC columns.",
-      "status": "pending",
-      "answer": "The rows and MIC column numbers are shown only in the diagram, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "32 times",
+      "steps": [
+        "Row E: growth starts in column 5, so its MIC is in column 4.",
+        "Row G: no growth up to column 9, so its MIC is in column 9.",
+        "Each column is a 1 in 2 dilution, so the concentration is halved 5 times from column 4 to column 9: 2^5 = 32.",
+        "The substance in row G is effective at 1/32 of the concentration of that in row E, so it is 32 times more effective."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-005.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-006.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q3.jpg"
       ]
     },
     {
@@ -570,13 +606,20 @@
         "growth conditions"
       ],
       "question": "How many of four listed changes (decrease/increase pH, decrease/increase temperature) could result in faster growth?",
-      "status": "pending",
-      "answer": "Depends on whether the student's conditions were above or below the optimum, which is not stated in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 2",
+      "steps": [
+        "The bacteria are not at their optimum, so each factor has only one direction of change that would speed growth up.",
+        "One of the two pH changes (decrease or increase) would move the pH towards the optimum, and one of the two temperature changes would do the same.",
+        "So 2 of the 4 changes would give faster growth."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-009.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-010.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-011.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q4.jpg"
       ]
     },
     {
@@ -596,13 +639,20 @@
         "decimal places"
       ],
       "question": "Calculate the growth rate constant (k) of these bacteria between 4 and 10 hours, to two decimal places.",
-      "status": "pending",
-      "answer": "Needs population values read from the growth curve graph and the equation, which are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "2.49 (per hour)",
+      "steps": [
+        "From the graph, log10 N at 4 hours = 2.0 (N0) and at 10 hours = 6.5 (Nt), so t = 10 - 4 = 6 hours.",
+        "k = (6.5 - 2.0) / (0.301 x 6) = 4.5 / 1.806.",
+        "k = 2.49 generations per hour (2 decimal places)."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-009.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-010.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-011.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q4.jpg"
       ]
     },
     {
@@ -710,14 +760,21 @@
         "optical method"
       ],
       "question": "Complete the table to show the increase in cell number between 4 and 6 hours of culture.",
-      "status": "pending",
-      "answer": "Needs the table values and calibration curve, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 8.4 x 10^5 (accept about 8.0 to 8.5 x 10^5) cells per cm^3.",
+      "steps": [
+        "Use the calibration graph: number of bacteria is proportional to turbidity, about 1.6 x 10^6 per a.u. (1.45 x 10^6 at 0.9).",
+        "Turbidity at 4 h = 0.04 gives about 6.5 x 10^4 cells per cm^3; at 6 h = 0.56 gives about 9.0 x 10^5.",
+        "Increase = 9.0 x 10^5 - 6.5 x 10^4 = about 8.4 x 10^5 (0.52 a.u. x 1.6 x 10^6)."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-012.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-013.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-014.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-015.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q6.jpg"
       ]
     },
     {
@@ -737,14 +794,21 @@
         "table"
       ],
       "question": "Explain the changes in cell number during the first six hours of the culture.",
-      "status": "pending",
-      "answer": "Depends on the table values and calibration data for the first six hours, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "There is no growth for the first 2 hours (lag), a small increase to 4 hours, then very rapid growth between 4 and 6 hours (exponential phase).",
+      "steps": [
+        "0 to 2 hours: turbidity stays at 0.01 and the increase is 0, because the bacteria are adapting to the medium (lag phase) and making enzymes, so are not yet dividing.",
+        "2 to 4 hours: turbidity rises only to 0.04 (an increase of 5.0 x 10^4), because only a few cells have begun to divide.",
+        "4 to 6 hours: turbidity rises to 0.56 (an increase of about 8.4 x 10^5), because the bacteria are dividing by binary fission at the maximum rate (exponential phase), with plentiful nutrients, so the cell number rapidly doubles each generation."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-012.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-013.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-014.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-015.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q6.jpg"
       ]
     },
     {
@@ -809,6 +873,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-013.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-014.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-015.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q6-2.jpg"
       ]
     },
     {
@@ -916,12 +983,19 @@
         "species"
       ],
       "question": "Describe the effects of this antibiotic on the bacteria present in the throat, using charts before and after treatment.",
-      "status": "pending",
-      "answer": "The before and after charts of bacterial proportions are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Types J and K are eliminated by the antibiotic, whereas L, M, N and O survive, so their proportions rise or stay the same (M from about 15% to 26%, N from 22% to 34%).",
+      "steps": [
+        "Before treatment there were six types (J about 17%, K about 6%, L about 26%, M about 15%, N about 22%, O about 13%).",
+        "After treatment types J and K are no longer present, so the antibiotic kills these types (they are sensitive to it).",
+        "Types L, M, N and O remain, so are not affected (resistant); their proportion increases, with M from about 15% to 26% and N from about 22% to 34%, while L (about 27%) and O (about 12%) are about the same, and the charts show proportions, not the total numbers."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-015.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-016.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q7.jpg"
       ]
     },
     {
@@ -1002,13 +1076,20 @@
         "antibiotic"
       ],
       "question": "Which option identifies the antibiotic in the diagram and the method used?",
-      "status": "pending",
-      "answer": "The chromatogram diagram and the Rf table are not in the text, so the option cannot be checked.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: tetracycline using method 2.",
+      "steps": [
+        "Rf = distance moved by the spot from the origin / distance moved by the solvent front from the origin.",
+        "On the chromatogram the spot is about 151 mm from the origin and the solvent front is about 205 mm from the origin.",
+        "Rf = 151 / 205 = 0.74, which is closest to 0.75, the Rf of tetracycline using method 2."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-016.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-017.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-018.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q8.jpg"
       ]
     },
     {
@@ -1040,6 +1121,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-016.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-017.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-018.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q8.jpg"
       ]
     },
     {
@@ -1275,13 +1359,20 @@
         "plasmid"
       ],
       "question": "Put one cross in each row to show whether genes are found in each structure of bacteria and fungi.",
-      "status": "pending",
-      "answer": "The table of structures and rows is not in the text, so the answer cannot be given.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Mitochondria: fungi only; nuclei: fungi only; 70S ribosomes: neither (they contain rRNA and protein, not genes).",
+      "steps": [
+        "Mitochondria contain their own DNA (genes) and are found only in eukaryotes, so only in the fungi: fungi only.",
+        "The nucleus contains the chromosomes (genes) and is found only in eukaryotes, so only in the fungi: fungi only.",
+        "70S ribosomes are made of rRNA and protein and do not contain genes (the genes for rRNA are in the DNA), so as written the answer is neither; if the question meant which organisms have 70S ribosomes, it would be both, because bacteria have 70S ribosomes and fungal mitochondria also have them."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-020.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-021.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-022.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q10.jpg"
       ]
     },
     {
@@ -1301,13 +1392,20 @@
         "escherichia"
       ],
       "question": "Which sequence shows the succession of bacteria during development of a giant panda (options A to D)?",
-      "status": "pending",
-      "answer": "Depends on the graph of relative abundance, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Escherichia and Shigella, then Streptococcus, then Clostridium (the order in which each group peaks, from cubs to adults).",
+      "steps": [
+        "The graph has three groups of bars: one highest in cubs and falling with age, one highest in young animals, and one rising to be highest in adults, which gives the order of succession.",
+        "Escherichia and Shigella are early colonisers of the gut and are most abundant in cubs.",
+        "Clostridium (anaerobic bacteria that digest cellulose) increases as the panda starts eating bamboo, so is most abundant in adults, with Streptococcus in between; the group names are not shown on the page, so this order is based on this biology, giving option C."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-020.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-021.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-022.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q10-2.jpg"
       ]
     },
     {
@@ -1481,9 +1579,13 @@
         "source"
       ],
       "question": "Explain why this drug could be produced only from B memory cells taken from a person who did not have Alzheimer's disease.",
-      "status": "pending",
-      "answer": "Needs the mark scheme reasoning for why B cells from an affected person would not give a suitable antibody; the text does not state this clearly.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A person with Alzheimer's disease has not made effective antibodies against beta-amyloid, so only a person without the disease has B memory cells with the gene for an antibody that clears beta-amyloid.",
+      "steps": [
+        "The drug is an antibody specific to beta-amyloid, so the B memory cells used must make an effective antibody for it.",
+        "In a person with Alzheimer's disease the beta-amyloid has built up into plaques, showing that their immune system has not made antibodies that destroy it.",
+        "B memory cells from a person without the disease make antibodies that remove beta-amyloid and prevent plaques, so these cells provide the gene for the effective antibody."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-022.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-023.jpg",
@@ -1720,14 +1822,20 @@
         "linear"
       ],
       "question": "Name the type of scale used on the y-axis of the survival time graph for fish.",
-      "status": "pending",
-      "answer": "The graph is not in the text, so the scale type (presumably logarithmic) cannot be confirmed.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A logarithmic scale (log10).",
+      "steps": [
+        "The y-axis values 10, 100, 1000 and 10000 are equal distances apart, so each step is a 10-fold increase.",
+        "This is a logarithmic (log10) scale, not a linear one."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-026.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q13.jpg"
       ]
     },
     {
@@ -1811,14 +1919,21 @@
         "graph"
       ],
       "question": "Calculate the Q10 for this enzyme stored for 3 hours, using the formula and initial rate at 20 C.",
-      "status": "pending",
-      "answer": "Needs the formula (missing from the text) and the initial rates from the graph.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1.6",
+      "steps": [
+        "Read the graph for the enzyme stored for 3 hours: the rate at 20 C (R_t) = 2.7 a.u.",
+        "The rate at 30 C (R_t+10) = 4.3 a.u.",
+        "Q10 = 4.3 / 2.7 = 1.6."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-026.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q13-2.jpg"
       ]
     },
     {
@@ -1837,14 +1952,21 @@
         "initial rate"
       ],
       "question": "Explain why the optimum temperature for this enzyme is affected by storage time.",
-      "status": "pending",
-      "answer": "Depends on the direction of the shift shown in the graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "With longer storage some enzyme molecules denature, so the rate falls and the optimum shifts to a lower temperature (about 45 C after 3 h, about 38 C after 10 h, about 33 C after 26 h).",
+      "steps": [
+        "During storage the enzyme molecules gradually lose their tertiary structure (bonds such as hydrogen bonds break), so the active site changes shape and fewer enzyme molecules can bind substrate, giving a lower maximum rate.",
+        "The enzyme molecules that are left are partly unfolded and less stable, so they are denatured by heat at a lower temperature than fresh enzyme.",
+        "So the optimum temperature falls as storage time increases (from about 41 to 49 C for 3 hours to about 38 C for 10 hours and about 33 C for 26 hours)."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-026.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q13-2.jpg"
       ]
     },
     {
@@ -1956,14 +2078,21 @@
         "decomposition"
       ],
       "question": "Calculate the rate of change in mass between day 5 and day 15 of decomposition, in kg per hour to two decimal places.",
-      "status": "pending",
-      "answer": "Needs the mass values read from the graph, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "0.08 kg per hour (a decrease in mass).",
+      "steps": [
+        "From the graph, the mass at day 5 is 22 kg and at day 15 it is 3 kg.",
+        "Change in mass = 3 - 22 = -19 kg over 10 days, which is 10 x 24 = 240 hours.",
+        "Rate = 19 / 240 = 0.079 = 0.08 kg per hour (loss)."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-029.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q14.jpg"
       ]
     },
     {
@@ -1983,14 +2112,22 @@
         "decomposers"
       ],
       "question": "Explain the changes in mass of the mammal during decomposition.",
-      "status": "pending",
-      "answer": "Depends on the shape of the mass-time graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Mass is almost constant when fresh, falls fastest during the active stage when maggots and microorganisms break down soft tissue, then falls slowly to about 1 kg of remains (hair, bone and dry skin).",
+      "steps": [
+        "Fresh and bloated stages (0 to 5 days): mass falls only slightly (from 23 to 22 kg) because the body is still intact, with only a small loss of fluid and gas from bacterial action.",
+        "Active stage (5 to 10 days): mass falls rapidly (from 22 to about 9 kg) as the body ruptures, fly larvae (maggots) feed on the soft tissue, and bacteria and fungi decompose proteins and fats; liquids drain away and gases are lost.",
+        "Advanced stage (10 to 15 days): mass falls more slowly (to about 3 kg) as little soft tissue is left to feed on.",
+        "Remains stage: mass becomes steady at about 1 kg because only tough materials such as bone, hair and dry skin remain, which decompose very slowly."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-029.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q14.jpg"
       ]
     },
     {
@@ -2041,14 +2178,22 @@
         "forensic"
       ],
       "question": "Explain how the data in the table illustrate succession.",
-      "status": "pending",
-      "answer": "The table of insects collected is not in the text, so the answer cannot be checked.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Different insect species dominate at different stages: Lucilia first (100% when fresh), then Cochliomyia (68.4% in the active stage), then Ophyra (30.9% advanced and 83.9% in the remains).",
+      "steps": [
+        "Lucilia are the first colonisers: 100% of insects when fresh and 61.4% when bloated, but only 1.8% in the active stage.",
+        "Cochliomyia replaces them, peaking at 68.4% in the active stage and then falling to 35.1% (advanced) and 0% (remains).",
+        "Ophyra appears later (0.6% active, 30.9% advanced) and dominates the remains (83.9%), and Fannia only appears in the advanced stage (0.1%).",
+        "Each species is replaced as the body changes (conditions change from fresh tissue to dry remains), which is succession."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-029.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q14-2.jpg"
       ]
     },
     {
@@ -2067,13 +2212,19 @@
         "q r s t"
       ],
       "question": "Which labelled structure of the HIV diagram is RNA (options A to D: R, Q, S, T)?",
-      "status": "pending",
-      "answer": "The labelled HIV diagram is not in the text, so the structure cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Q",
+      "steps": [
+        "The RNA is the genetic material inside the capsid; it is the long thread-like strand in the centre of the virus.",
+        "R, S and T are the glycoprotein, matrix and capsid, which are made of protein, so only Q is RNA."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q15.jpg"
       ]
     },
     {
@@ -2092,13 +2243,20 @@
         "virus structure"
       ],
       "question": "How many of structures Q, R and S of the HIV diagram contain protein (options A to D)?",
-      "status": "pending",
-      "answer": "The labelled HIV diagram is not in the text, so the count cannot be checked.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 2",
+      "steps": [
+        "R is a glycoprotein spike in the envelope, so it contains protein.",
+        "S is the matrix or capsid layer, which is made of protein.",
+        "Q is the RNA, which is not protein, so only R and S (2 structures) contain protein."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q15.jpg"
       ]
     },
     {
@@ -2117,13 +2275,20 @@
         "options"
       ],
       "question": "Which virus has structure P and contains RNA (options A to D)?",
-      "status": "pending",
-      "answer": "Needs the labelled HIV diagram to know which structure is P.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: Ebola virus only.",
+      "steps": [
+        "P is the lipid envelope that surrounds the capsid in HIV.",
+        "Ebola virus has a lipid envelope and RNA, so it has structure P.",
+        "Tobacco mosaic virus has only a helical capsid and RNA, and has no envelope."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q15.jpg"
       ]
     },
     {
@@ -2142,13 +2307,20 @@
         "standard form"
       ],
       "question": "The diameter of HIV is 120 nm. Which is the approximate magnification of the drawing (options A to D)?",
-      "status": "pending",
-      "answer": "The size of the drawing on the page is needed, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: x 500 000",
+      "steps": [
+        "Magnification = image size / actual size.",
+        "The diameter of the drawing (envelope) is about 5.4 cm on the page, which is 5.4 x 10^7 nm.",
+        "Magnification = 5.4 x 10^7 / 120 = 4.5 x 10^5, about x 500 000."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q15.jpg"
       ]
     },
     {
@@ -2179,6 +2351,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q15-2.jpg"
       ]
     },
     {
@@ -2196,13 +2371,20 @@
         "calculation"
       ],
       "question": "Calculate the mean rate of increase in the number of people infected with HIV from 2005 to 2010, in standard form.",
-      "status": "pending",
-      "answer": "Needs the number of infections read from the graph in 2005 and 2010, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 2 x 10^5 people per year (accept about 2 to 3 x 10^5).",
+      "steps": [
+        "Read the graph: the number of people infected is about 3.1 (x10 = 31 million) in 2005 and about 3.2 (x10 = 32 million) in 2010; the graph values are divided by 10.",
+        "Increase = 32 million - 31 million = 1 x 10^6 over 5 years.",
+        "Mean rate = 1 x 10^6 / 5 = 2 x 10^5 people per year (reading to 3.07 and 3.20 gives 2.6 x 10^5)."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q15-2.jpg"
       ]
     },
     {
@@ -2233,6 +2415,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q15-2.jpg"
       ]
     },
     {
@@ -2263,6 +2448,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q15-2.jpg"
       ]
     },
     {
@@ -2312,14 +2500,21 @@
         "macrophages"
       ],
       "question": "Which row of the table shows the cells that present antigens to T helper and T killer cells?",
-      "status": "pending",
-      "answer": "The table of cell types and rows is not in the text, so the row cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: macrophages present antigens to T helper cells, and host-infected cells present antigens to T killer cells.",
+      "steps": [
+        "Macrophages engulf pathogens and present the antigens on their surface to T helper cells.",
+        "T killer cells recognise antigens displayed on the surface of host cells that are infected (or cancerous), which they then destroy.",
+        "Only row C has macrophages for T helper cells and host-infected cells for T killer cells."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-034.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-035.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q16.jpg"
       ]
     },
     {
@@ -2353,6 +2548,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-035.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q16-2.jpg"
       ]
     },
     {
@@ -2385,6 +2583,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-035.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q16-2.jpg"
       ]
     },
     {
@@ -2417,6 +2618,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-035.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q16-2.jpg"
       ]
     },
     {
@@ -2449,6 +2653,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-035.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q16-2.jpg"
       ]
     },
     {
@@ -2650,13 +2857,21 @@
         "birth"
       ],
       "question": "Describe the changes in classes of antibody in a fetus before birth and in a child after birth, using the graph.",
-      "status": "pending",
-      "answer": "The graph of IgA and IgG concentrations is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Maternal IgG appears about 6 months before birth, rises to about 1100 mg per 100 cm^3 at birth, then falls to near zero by about 10 months, while the child's own IgG starts at birth and rises to about 600 by 12 months, and IgA stays very low.",
+      "steps": [
+        "Before birth: IgG from the mother first appears at about 6 months before birth and rises steeply to a peak of about 1100 mg per 100 cm^3 at birth (it crosses the placenta).",
+        "After birth: IgG from the mother falls rapidly to about 200 at 2 months, about 50 at 4 months and about 0 by 9 to 10 months, because it is broken down and not replaced.",
+        "The child makes its own IgG from birth, rising slowly then to about 200 at 2 months, 350 at 4 months and about 600 at 12 months.",
+        "IgA from the mother is at a very low concentration, rising only slightly after birth to about 80 at 12 months."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-038.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-039.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-040.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q18.jpg"
       ]
     },
     {
@@ -2687,6 +2902,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-038.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-039.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-040.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q18.jpg"
       ]
     },
     {
@@ -2718,6 +2936,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-038.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-039.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-040.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q18.jpg"
       ]
     },
     {
@@ -2736,13 +2957,19 @@
         "inflammatory"
       ],
       "question": "Give one piece of evidence, shown in the photographs, that rheumatoid arthritis is an inflammatory condition.",
-      "status": "pending",
-      "answer": "The photographs of the hands are not in the text, so the visible sign cannot be confirmed (likely swelling of the joints).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Swelling of the joints (knuckles and fingers) in the hand with rheumatoid arthritis compared with the normal hand.",
+      "steps": [
+        "The photograph of the affected hand shows swollen, enlarged finger joints (knuckles) that make the hand and fingers look distorted.",
+        "Swelling is a sign of inflammation, and it is not present in the normal hand."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-040.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-041.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-042.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q19.jpg"
       ]
     },
     {
@@ -2773,6 +3000,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-040.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-041.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-042.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q19.jpg"
       ]
     },
     {
@@ -2804,6 +3034,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-040.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-041.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-042.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q19-2.jpg"
       ]
     },
     {
@@ -2835,6 +3068,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-040.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-041.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-042.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q19-2.jpg"
       ]
     },
     {
@@ -2943,12 +3179,19 @@
         "treatment effect"
       ],
       "question": "Compare and contrast the effect of treating inflammation with curcumin extract and drug A, using the graph.",
-      "status": "pending",
-      "answer": "The graph of the effects of curcumin and drug A is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Both treatments reduce inflammation below the untreated level and both reduce it more over the 6 days, but curcumin extract is more effective than drug A on every day, especially on days 1 and 2.",
+      "steps": [
+        "Similarity: with both curcumin extract and drug A inflammation is below the level with no treatment (the dashed line), and it generally falls as the days go by (day 6 lowest for both).",
+        "Difference: curcumin extract gives lower inflammation than drug A on all six days, e.g. on day 1 it is about half of drug A, and on day 2 about 40%.",
+        "Difference: with drug A inflammation is highest on day 2 and then falls, whereas curcumin has a smaller fall over the first 3 days and then falls to its lowest level at day 6; the gap between them is greatest on day 2 and smaller by day 6."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-043.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-044.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q20.jpg"
       ]
     },
     {
@@ -3179,15 +3422,22 @@
         "needed"
       ],
       "question": "Explain the use of antibiotics to treat the medical conditions shown in the table.",
-      "status": "pending",
-      "answer": "The table of conditions and whether antibiotics are needed is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Antibiotics kill or stop the growth of bacteria, so they are needed for the bacterial infections (impetigo, whooping cough) and only sometimes for ear and sinus infections, which can be caused by bacteria or viruses, and not for multiple sclerosis or rheumatoid arthritis, which are not infections.",
+      "steps": [
+        "Impetigo and whooping cough are caused by bacteria, so antibiotics are needed.",
+        "Middle ear and sinus infections are sometimes caused by bacteria (antibiotics needed) and sometimes by viruses (antibiotics do not work on viruses), so antibiotics are needed only sometimes.",
+        "Multiple sclerosis and rheumatoid arthritis are autoimmune diseases, not caused by pathogens, so antibiotics are not needed."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-046.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-047.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-048.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q22.jpg"
       ]
     },
     {
@@ -3206,15 +3456,22 @@
         "effect"
       ],
       "question": "Which row of the table describes each of drugs J, K and L from the graph?",
-      "status": "pending",
-      "answer": "The graph and table of drug descriptions are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: drug J is not an antibiotic, drug K is a bacteriostatic antibiotic and drug L is a bactericidal antibiotic.",
+      "steps": [
+        "With drug J the number of bacteria rises quickly, so it has no antibacterial effect (not an antibiotic).",
+        "With drug K the number of bacteria rises only very slightly, so growth is stopped but the bacteria are not killed: bacteriostatic.",
+        "With drug L the number of bacteria falls steadily, so the bacteria are being killed: bactericidal."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-046.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-047.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-048.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q22-2.jpg"
       ]
     },
     {
@@ -3298,15 +3555,22 @@
         "6 000 000"
       ],
       "question": "The number of type A bacteria in gut flora without antibiotics is 6 000 000. Estimate the number of type B, in standard form.",
-      "status": "pending",
-      "answer": "The relative proportions of types A and B are shown only in the diagram, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 1 x 10^7",
+      "steps": [
+        "On the 'no antibiotic' pie chart, the sector for type A is about 63 degrees and the sector for type B is about 106 degrees.",
+        "Ratio B : A = 106 / 63 = 1.7.",
+        "Number of type B = 1.7 x 6 000 000 = 1.0 x 10^7 (about 1 x 10^7)."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-046.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-047.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-048.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q22-3.jpg"
       ]
     },
     {
@@ -3326,15 +3590,22 @@
         "types of bacteria"
       ],
       "question": "Deduce the effects of antibiotics P, Q and R on gut flora, using the diagrams.",
-      "status": "pending",
-      "answer": "The diagrams showing the effects of P, Q and R are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "P and Q greatly reduce the diversity of gut flora, leaving mainly one type, whereas R has little effect on the types and proportions.",
+      "steps": [
+        "Antibiotic P: only three types remain (one type makes up about 75%), so most types are killed and diversity is much reduced.",
+        "Antibiotic Q: more types remain than with P but they are in very small proportions and one type is about 75% of the total, so diversity is also greatly reduced.",
+        "Antibiotic R: the types and proportions are almost the same as with no antibiotic, so R has little or no effect on gut flora (it may be narrow-spectrum); the charts show proportions, not the total number of bacteria."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-046.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-047.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-048.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q22-3.jpg"
       ]
     },
     {
@@ -3476,13 +3747,20 @@
         "results"
       ],
       "question": "Determine the effect that Castaneroxy A has on the mean size of skin infections, using the graph.",
-      "status": "pending",
-      "answer": "The graph of mean infection size for each treatment is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Castaneroxy A reduces the mean size of the skin infection at both concentrations, and 50 ug per cm^3 reduces it much more than 10 ug per cm^3 (peak about 0.05 cm^2 against about 0.57 cm^2, compared with 1.13 cm^2 with solvent only).",
+      "steps": [
+        "With solvent only, the mean size of infection rises to a peak of about 1.13 cm^2 at 6 days and falls to about 0.28 cm^2 by 14 days.",
+        "With 10 ug per cm^3 Castaneroxy A the peak is about 0.57 cm^2 at 6 days (about 50% lower than the control), falling to about 0.05 cm^2 at 14 days (about 80% lower).",
+        "With 50 ug per cm^3 the infection stays very small, below about 0.07 cm^2 at all times, a reduction of about 95% at the peak and about 100% by 12 to 14 days, so a higher concentration is much more effective; the error bars do not overlap with the control after day 3, so the differences are probably significant."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-050.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-051.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-052.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q23.jpg"
       ]
     },
     {
@@ -3622,13 +3900,20 @@
         "plasma"
       ],
       "question": "Compare and contrast the changes in antibody concentration in the blood plasma after the first infection and the second infection, using the graph.",
-      "status": "pending",
-      "answer": "The graph of antibody concentrations for the first and second infections is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Both show a rise in antibody concentration and then a fall, but after the second infection the rise starts sooner, is much faster and reaches a much higher peak (about 2.5 times higher) than after the first infection.",
+      "steps": [
+        "Similarity: after both infections the antibody concentration rises to a peak and then falls.",
+        "Difference: after the first infection there is a lag before the concentration rises slowly, to a lower peak; after the second infection the rise starts immediately and is very steep, reaching a much higher peak.",
+        "Reason: memory B cells formed after the first infection respond rapidly to the same antigen, so plasma cells make a lot of antibody quickly (the secondary response)."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-052.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-053.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-054.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q24.jpg"
       ]
     },
     {
@@ -3647,13 +3932,20 @@
         "nutritional components"
       ],
       "question": "Estimate the percentage composition of oligosaccharides in colostrum from the charts.",
-      "status": "pending",
-      "answer": "The charts of nutritional components are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 60%",
+      "steps": [
+        "The pie chart for colostrum has three sectors: oligosaccharides (the largest), protein and fat.",
+        "Measuring the angle for oligosaccharides gives about 216 degrees, since fat is about 80 degrees and protein about 58 degrees.",
+        "Percentage = 216 / 360 x 100 = 60% (accept about 55 to 65%)."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-054.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-055.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-056.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q25.jpg"
       ]
     },
     {
@@ -3672,13 +3964,20 @@
         "milk source"
       ],
       "question": "Describe two conclusions about the gut flora of babies fed breast milk or another milk, from the graph.",
-      "status": "pending",
-      "answer": "The bar chart of bacterial proportions is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Babies fed breast milk have a higher proportion of Bifidobacterium and Bacteroides, and a lower proportion of Enterococcus, Streptococcus and Veillonella, than those fed another milk.",
+      "steps": [
+        "Conclusion 1: Bifidobacterium is the most common type in both groups, but the proportion is higher in the breast milk group (about 1.4 times as high).",
+        "Conclusion 2: Bacteroides is much more common in breast-fed babies (about 8 times as high), whereas Enterococcus, Streptococcus and Veillonella are less common in breast-fed babies than in the other group.",
+        "So breast milk (probably the oligosaccharides) changes the types of gut flora."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-054.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-055.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-056.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q25-2.jpg"
       ]
     },
     {
@@ -4068,14 +4367,21 @@
         "changes"
       ],
       "question": "Describe three conclusions that could be made from the graph of bacteria groups on the skin of men of different ages.",
-      "status": "pending",
-      "answer": "The graph of bacterial groups on men of different ages is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Teenagers have the most Firmicutes (about 21%) and Actinobacteria (about 30%), whereas middle-aged and elderly men are dominated by Proteobacteria (about 87-88%); middle-aged and elderly men are very similar.",
+      "steps": [
+        "Conclusion 1: Proteobacteria are the largest group in all three age groups, but make up only about 46% in teenagers compared with about 88% in the middle aged and about 86% in the elderly.",
+        "Conclusion 2: Firmicutes fall from about 21% in teenagers to about 2% in the middle aged and elderly, and Actinobacteria fall from about 30% to about 9-11%.",
+        "Conclusion 3: Middle-aged and elderly men have almost the same skin flora, with the elderly having slightly more Actinobacteria (about 11% against 9%) and slightly less Proteobacteria; the 'others' group is a small percentage (about 1 to 3%) at every age, so most change occurs between teenage years and middle age."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-060.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-061.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-062.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-063.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q28.jpg"
       ]
     },
     {
@@ -4107,6 +4413,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-061.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-062.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-063.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q28.jpg"
       ]
     },
     {
@@ -4278,13 +4587,20 @@
         "diagram"
       ],
       "question": "Complete the diagram to show the base sequence of the positive RNA strand complementary to the given negative strand.",
-      "status": "pending",
-      "answer": "The base sequence is shown only in the diagram, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "U G G U U C C G C",
+      "steps": [
+        "The positive strand is complementary to the negative strand, using RNA base pairing.",
+        "A pairs with U (there is no thymine in RNA), C with G, G with C.",
+        "Negative A C C A A G G C G gives positive U G G U U C C G C."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-063.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q29.jpg"
       ]
     },
     {
@@ -4316,6 +4632,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-063.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q29.jpg"
       ]
     },
     {
@@ -4379,6 +4698,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-067.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q30.jpg"
       ]
     },
     {
@@ -4397,15 +4719,22 @@
         "photometer"
       ],
       "question": "Calculate how many times more bacterial cells there are than yeast cells if both samples have an optical density of 1.0 a.u.",
-      "status": "pending",
-      "answer": "Needs the calibration curve values for bacteria and yeast at 1.0 a.u., which are shown in a graph not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 30 times (12.5 x 10^6 / 0.4 x 10^6 = 31).",
+      "steps": [
+        "On the graph, at an optical density of 1.0 a.u., the bacterial cells number about 12.5 x 10^6 per cm^3.",
+        "The yeast cells at an optical density of 1.0 a.u. number about 0.4 x 10^6 per cm^3.",
+        "Ratio = 12.5 / 0.4 = 31, so about 30 times more bacterial cells."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-065.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-066.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-067.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q30.jpg"
       ]
     },
     {
@@ -4437,6 +4766,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-067.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q30.jpg"
       ]
     },
     {
@@ -4470,6 +4802,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-067.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q30-2.jpg"
       ]
     },
     {
@@ -4537,6 +4872,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-067.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q30.jpg"
       ]
     },
     {
@@ -4586,13 +4924,19 @@
         "calculation"
       ],
       "question": "How much more antibiotic is in part B3 than in part B2 of the mast ring (options A to D)?",
-      "status": "pending",
-      "answer": "Needs the mass values for parts B2 and B3 from the table, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 50.0 times.",
+      "steps": [
+        "Part B3 has 0.5 mg = 500 ug of antibiotic B; part B2 has 10 ug of antibiotic B.",
+        "500 / 10 = 50, so B3 has 50.0 times as much."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-069.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-070.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-071.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q31.jpg"
       ]
     },
     {
@@ -4624,6 +4968,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-069.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-070.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-071.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q31.jpg"
       ]
     },
     {
@@ -4807,6 +5154,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-073.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q33-2.jpg"
       ]
     },
     {
@@ -4837,6 +5187,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-073.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q33.jpg"
       ]
     },
     {
@@ -4867,6 +5220,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-073.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q33.jpg"
       ]
     },
     {
@@ -4884,13 +5240,20 @@
         "explain"
       ],
       "question": "Explain how antibiotic P could affect M. tuberculosis, using the table of antibiotics.",
-      "status": "pending",
-      "answer": "The table giving the details of antibiotic P is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "P prevents synthesis of fatty acids, so the bacteria cannot make mycolic acids for their cell wall, which makes them more vulnerable to lysozyme, dehydration and polar antibiotics, and slows growth.",
+      "steps": [
+        "Antibiotic P activates an enzyme that inhibits the synthesis of fatty acids, and mycolic acids are long-chain fatty acids, so fewer mycolic acids are made.",
+        "Without mycolic acid the cell wall is weaker and less protective, so the bacteria are more easily damaged by lysozyme, by dehydration and by polar (hydrophilic) antibiotics.",
+        "New cell walls and membranes cannot be made for new cells, so the bacteria cannot divide or grow properly, and so they are killed or their number falls."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-073.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q33.jpg"
       ]
     },
     {
@@ -4908,13 +5271,20 @@
         "explain"
       ],
       "question": "Explain how antibiotic R could affect M. tuberculosis, using the table of antibiotics.",
-      "status": "pending",
-      "answer": "The table giving the details of antibiotic R is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "R binds to the active site of RNA polymerase, so transcription stops, and no mRNA, enzymes or other proteins are made, so the bacteria cannot grow or divide.",
+      "steps": [
+        "Antibiotic R is a competitive inhibitor: it binds to the active site of RNA polymerase, so the enzyme cannot bind to the DNA template and make mRNA.",
+        "Without mRNA there is no translation, so the bacteria cannot make new proteins such as enzymes (for example for cell wall synthesis, DNA replication and respiration).",
+        "So the bacteria cannot grow, repair themselves or divide, and the bacterial population falls; it acts on the bacterial RNA polymerase and so has little effect on human cells."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-073.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q33.jpg"
       ]
     },
     {
@@ -5155,13 +5525,19 @@
         "labelled"
       ],
       "question": "How many of the organelles labelled in the fungal cell diagram have membranes (options A to D)?",
-      "status": "pending",
-      "answer": "The labelled fungal diagram is not in the text, so the number of membrane-bound organelles cannot be counted.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 3",
+      "steps": [
+        "The membrane-bound organelles labelled are the nuclei (double membrane), the mitochondria (double membrane) and the Golgi apparatus (single membrane): 3.",
+        "The cell wall, ribosomes, glycogen granules and cytoplasm have no membrane, and the cell membrane is not an organelle."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-078.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-079.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-080.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q35.jpg"
       ]
     },
     {
@@ -5193,6 +5569,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-078.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-079.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-080.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q35.jpg"
       ]
     },
     {
@@ -5211,13 +5590,21 @@
         "natural selection"
       ],
       "question": "Explain the relationship between the number of aminopenicillin prescriptions and the percentage of E. coli resistant to aminopenicillin, using the graph.",
-      "status": "pending",
-      "answer": "The graph of prescriptions and percentage resistance is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "There is a positive correlation with a time lag: resistance peaks in March to April, about 1 to 2 months after the peak of prescriptions in January to February, and both fall to a minimum in July to September, then rise again.",
+      "steps": [
+        "When many prescriptions are issued (January to February), antibiotic use gives selection pressure: sensitive bacteria are killed but resistant E. coli survive and reproduce, so the percentage resistant rises, to a peak in March to April.",
+        "When the number of prescriptions falls (to the lowest in July), there is less selection pressure, so non-resistant bacteria are no longer killed and increase, so the percentage of resistant E. coli falls (to a minimum from July to September).",
+        "The change in resistance lags behind the change in prescriptions by about 1 to 2 months, because it takes time for the bacteria to reproduce and for the proportions to change, and for the resistance alleles to spread (including by horizontal transfer of plasmids).",
+        "When prescriptions rise again from July, resistance rises about two months later, so the two curves follow the same pattern."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-078.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-079.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-080.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q35-2.jpg"
       ]
     },
     {
@@ -5236,13 +5623,20 @@
         "misuse"
       ],
       "question": "Explain why the results of this survey are a cause for concern.",
-      "status": "pending",
-      "answer": "The survey diagram is not in the text, so the results cannot be checked.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Misuse of antibiotics (to satisfy patient pressure and without knowing if needed) increases selection for antibiotic-resistant bacteria, so infections become harder to treat and fewer antibiotics are left that work.",
+      "steps": [
+        "Prescribing antibiotics for viral infections (the 70% unsure and 49% not knowing if necessary) is a waste because antibiotics have no effect on viruses.",
+        "Unnecessary use puts selection pressure on bacteria, so resistant strains such as MRSA survive, reproduce and pass on the resistance alleles, and resistance spreads in the population.",
+        "Then fewer infections can be treated, so illness and deaths and costs rise; 90% felt under pressure and 44% prescribed to get a patient to leave, which means decisions are not made on medical need."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-078.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-079.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-080.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q35-3.jpg"
       ]
     },
     {
@@ -5292,13 +5686,20 @@
         "attitudes"
       ],
       "question": "Identify three conclusions from the results of the vaccine attitude survey, using the graph.",
-      "status": "pending",
-      "answer": "The survey graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "In every income group trust in scientists is highest in those who agree that vaccines are safe and lowest in those who disagree; trust falls as income rises, and the gap between the agree and disagree groups is bigger in high-income groups.",
+      "steps": [
+        "Conclusion 1: in all four income groups, people who agree vaccines are safe have the highest trust in scientists, and those who disagree have the lowest, with 'neither' in between.",
+        "Conclusion 2: trust in scientists is lower as income rises for all three groups, for example 'agree' falls from about 238 to 217 on the vertical scale, and 'disagree' from about 187 to 142.",
+        "Conclusion 3: the difference between those who agree and those who disagree is greater in the high-income group (about 35% lower) than in the low-income group (about 21% lower)."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-080.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-081.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-082.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q36.jpg"
       ]
     },
     {
@@ -5329,6 +5730,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-080.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-081.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-082.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q36.jpg"
       ]
     },
     {
@@ -5499,12 +5903,19 @@
         "structure"
       ],
       "question": "For each structure (nucleic acid type, capsid arrangement, envelope, enzymes), put one cross in the appropriate box to show which viruses have that structure.",
-      "status": "pending",
-      "answer": "The table of viruses and structures is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "DNA: neither Ebola nor HIV; helical capsid: Ebola only; envelope: both Ebola and HIV.",
+      "steps": [
+        "Ebola virus and HIV both have RNA as their genetic material, so neither contains DNA.",
+        "Ebola virus has a helical (filamentous) capsid, whereas HIV has a conical (icosahedral) capsid, so only Ebola has a helical capsid.",
+        "Both Ebola virus and HIV are surrounded by a lipid envelope taken from the host cell membrane, so both have an envelope."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-084.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-085.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q38.jpg"
       ]
     },
     {
@@ -5639,13 +6050,20 @@
         "exponential"
       ],
       "question": "Calculate the growth rate constant (k) of these bacteria between 2 and 6 hours of culture, using log10 counts from the graph.",
-      "status": "pending",
-      "answer": "Needs the bacterial counts at 2 and 6 hours read from the growth curve graph, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "2.66 per hour (accept 2.5 to 2.8).",
+      "steps": [
+        "From the graph, at 2 hours log10 N0 = 2.0 and at 6 hours log10 Nt = 5.2 (both students' curves are the same until 8 hours).",
+        "Time t = 6 - 2 = 4 hours.",
+        "k = (5.2 - 2.0) / (0.301 x 4) = 3.2 / 1.204 = 2.66 per hour."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-085.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-086.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-087.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q39.jpg"
       ]
     },
     {
@@ -5676,6 +6094,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-085.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-086.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-087.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q39.jpg"
       ]
     },
     {
@@ -5706,6 +6127,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-085.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-086.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-087.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q39.jpg"
       ]
     },
     {
@@ -5905,14 +6329,20 @@
         "vaccination"
       ],
       "question": "For each statement in the table, tick whether it is true for artificial active or artificial passive immunity.",
-      "status": "pending",
-      "answer": "The table of statements and tick boxes is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Antigens are injected into the person: active only; immunity is long term: active only.",
+      "steps": [
+        "Artificial active immunity is given by injecting antigens (a vaccine), whereas artificial passive immunity is given by injecting ready-made antibodies.",
+        "Active immunity is long term because the person's own B cells make memory cells, whereas the injected antibodies of passive immunity are broken down within weeks or months."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-089.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q41.jpg"
       ]
     },
     {
@@ -5975,6 +6405,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q41-2.jpg"
       ]
     },
     {
@@ -5993,14 +6426,21 @@
         "times greater"
       ],
       "question": "In group 1, Vac 2 increased antibody levels more than Vac 1. Calculate how many times greater this increase was.",
-      "status": "pending",
-      "answer": "Needs the antibody level values for Vac 1 and Vac 2 from the graph, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 20 times (19.9).",
+      "steps": [
+        "The axis is log10 antibody levels: group 1 is about 3.1 after Vac 1 and 4.4 after Vac 2.",
+        "The difference in log10 values = 4.4 - 3.1 = 1.3.",
+        "Antibody level ratio = 10^1.3 = 19.9, so about 20 times greater."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-089.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q41-2.jpg"
       ]
     },
     {
@@ -6032,6 +6472,9 @@
         "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q41-2.jpg"
       ]
     },
     {
@@ -6051,14 +6494,23 @@
         "explain results"
       ],
       "question": "Explain the results of this investigation (groups 1 and 2 after Vac 1 and Vac 2).",
-      "status": "pending",
-      "answer": "Needs the detailed graphs of antibody levels for both groups, which are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Group 1 shows a primary response after Vac 1 and a faster, larger secondary response after Vac 2 (memory cells), while group 2 already had memory cells from infection, so responded strongly to Vac 1 and did not rise more after Vac 2.",
+      "steps": [
+        "Group 1 (never infected): after Vac 1 antibody level is fairly low (log10 about 3.1) because this is the primary response, which is slow as few B cells recognise the antigen and the clones must be selected, plasma cells and memory cells produced.",
+        "After Vac 2 the level is much higher (log10 about 4.4, about 20 times more) because memory B cells made after Vac 1 divide rapidly and become plasma cells that make antibody quickly (secondary response).",
+        "Group 2 (previously infected): there is already a level of antibody before vaccination (log10 3.0) as the earlier infection produced memory cells, so Vac 1 produces a secondary response straight away, giving a high level (about 4.7), higher than group 1 after Vac 1.",
+        "After Vac 2 there is no further rise (about 4.7), perhaps because the maximum response has been reached or the existing antibodies destroyed the antigen before more memory cells were activated.",
+        "So the number of exposures to the antigen (infection or vaccine) determines the antibody level."
+      ],
       "images": [
         "papers/biology/img/06AB-Microbiology-Immunity-089.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
         "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/06AB-Microbiology-Immunity-Q41-2.jpg"
       ]
     },
     {

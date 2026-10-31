@@ -135,12 +135,20 @@
         "diagram"
       ],
       "question": "Which diagram (A-D) shows the first step of the mechanism for nucleophilic addition of propanone with KCN?",
-      "status": "pending",
-      "answer": "Pending: the diagram options A-D are not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A",
+      "steps": [
+        "In propanone the C=O carbon is delta+ and the oxygen is delta-, so the nucleophile :CN- attacks the delta+ carbon.",
+        "A curly arrow must start at the lone pair on CN- and end at the carbon, and a second arrow must start at the C=O pi bond and end at the oxygen, giving O-.",
+        "A has the correct dipoles (O delta-, C delta+) and both arrows in the correct direction.",
+        "B has both arrows reversed, C has the delta+ and delta- labels the wrong way round, and in D the arrow from CN- points away from the carbon."
+      ],
       "images": [
         "papers/chemistry/img/15B-Carbonyls-02.jpg",
         "papers/chemistry/img/15B-Carbonyls-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15B-Carbonyls-Q3.jpg"
       ]
     },
     {
@@ -211,11 +219,19 @@
         "hydrogen bonding"
       ],
       "question": "Explain which intermolecular forces of ethanal are mainly responsible for its higher boiling temperature than propane and its miscibility with water.",
-      "status": "pending",
-      "answer": "Pending: the answer options A-D are not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: permanent dipole forces (boiling temperature) and hydrogen bonds (solubility in water)",
+      "steps": [
+        "Ethanal has a polar C=O bond, so its molecules attract each other by permanent dipole-permanent dipole forces, which are stronger than the London forces between propane molecules.",
+        "Ethanal has no H atom bonded to O, N or F, so it cannot form hydrogen bonds with other ethanal molecules; this rules out A and C.",
+        "In water, the O atom of ethanal has a lone pair that forms hydrogen bonds with the O-H hydrogens of water, so ethanal is miscible with water.",
+        "Therefore boiling temperature is due to permanent dipole forces and solubility to hydrogen bonds: D."
+      ],
       "images": [
         "papers/chemistry/img/15B-Carbonyls-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15B-Carbonyls-Q6.jpg"
       ]
     },
     {
@@ -233,11 +249,18 @@
         "options"
       ],
       "question": "Compound X (C5H10O) gives an orange precipitate with 2,4-DNPH and a silver mirror with Tollens' reagent. Which of the structures shown could NOT be X?",
-      "status": "pending",
-      "answer": "Pending: the structures or options for the 'could not be X' choice are not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D",
+      "steps": [
+        "X gives an orange precipitate with 2,4-DNPH, so it contains C=O; a silver mirror with Tollens reagent means it is an aldehyde, not a ketone.",
+        "A (3-methylbutanal), B (2-methylbutanal) and C (2,2-dimethylpropanal) are all aldehydes with formula C5H10O.",
+        "D is 3-methylbutan-2-one, a ketone. It reacts with 2,4-DNPH but gives no silver mirror, so it could not be X."
+      ],
       "images": [
         "papers/chemistry/img/15B-Carbonyls-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15B-Carbonyls-Q7.jpg"
       ]
     },
     {
@@ -312,12 +335,19 @@
         "options"
       ],
       "question": "State the products of propanone reacting with iodine in both acidic and alkaline conditions (multiple choice A-D).",
-      "status": "pending",
-      "answer": "Pending: the answer options A-D for part (a) are not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: CH3COCH2I in acid and CHI3 in alkali",
+      "steps": [
+        "In acidic conditions propanone is iodinated once at a CH3 group: CH3COCH3 + I2 -> CH3COCH2I + HI.",
+        "In alkaline conditions all three H atoms of a CH3 group are replaced, then the C-C bond is cleaved to give yellow triiodomethane, CHI3, and the ethanoate ion CH3COO-.",
+        "Only row D has CH3COCH2I for acid and CHI3 for alkali."
+      ],
       "images": [
         "papers/chemistry/img/15B-Carbonyls-05.jpg",
         "papers/chemistry/img/15B-Carbonyls-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15B-Carbonyls-Q10.jpg"
       ]
     },
     {
@@ -365,13 +395,22 @@
         "nucleophilic addition"
       ],
       "question": "Complete the mechanism for propanal with HCN catalysed by KCN by adding curly arrows, lone pairs and dipoles to Steps 1 and 2.",
-      "status": "pending",
-      "answer": "Pending: the mechanism diagram with curly arrows, lone pairs and dipoles is not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Step 1: curly arrows from the lone pair on the C of CN- to the C=O carbon and from the C=O bond to O (giving O-); Step 2: from the O- lone pair to the H of HCN and from the H-C bond to the C of HCN (giving CN- and the hydroxynitrile).",
+      "steps": [
+        "Mark the dipoles on propanal: delta+ on the carbonyl carbon, delta- on the oxygen.",
+        "Step 1: draw a lone pair on the carbon of -:C#N, and a curly arrow from this lone pair to the delta+ carbonyl carbon.",
+        "Step 1: draw a second curly arrow from the C=O pi bond to the oxygen, forming the intermediate with :O- (with lone pairs on O).",
+        "Step 2: mark H delta+ and C delta- on H-C#N; draw a curly arrow from a lone pair on O- of the intermediate to the H of HCN, and a curly arrow from the H-C bond to the carbon of HCN.",
+        "The products are CH3CH2CH(OH)CN and a CN- ion, which is regenerated."
+      ],
       "images": [
         "papers/chemistry/img/15B-Carbonyls-06.jpg",
         "papers/chemistry/img/15B-Carbonyls-07.jpg",
         "papers/chemistry/img/15B-Carbonyls-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15B-Carbonyls-Q11.jpg"
       ]
     },
     {
@@ -431,6 +470,9 @@
         "papers/chemistry/img/15B-Carbonyls-06.jpg",
         "papers/chemistry/img/15B-Carbonyls-07.jpg",
         "papers/chemistry/img/15B-Carbonyls-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15B-Carbonyls-Q11.jpg"
       ]
     },
     {
@@ -448,9 +490,14 @@
         "mirror image"
       ],
       "question": "Draw the three-dimensional structures of the two enantiomers formed from propanal and HCN.",
-      "status": "pending",
-      "answer": "Pending: the answer is two 3D drawings (mirror images of CH3CH2CH(OH)CN), which cannot be shown in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Two non-superimposable mirror-image tetrahedral drawings of CH3CH2CH(OH)CN: C2H5 and CN in the plane, with OH on a wedge and H on a dash in one, and OH and H swapped in the other.",
+      "steps": [
+        "The product is 2-hydroxybutanenitrile, CH3CH2CH(OH)CN. Its central carbon is bonded to four different groups (H, OH, CN, CH2CH3), so it is a chiral centre.",
+        "Enantiomer 1: central C with CH3CH2 (left) and CN (right) in the plane of the paper, OH on a solid wedge and H on a dashed bond.",
+        "Enantiomer 2: the mirror image, drawn the same way but with OH on a dashed bond and H on a solid wedge (or the first drawing reflected in a vertical mirror line).",
+        "CN- can attack the planar C=O from either side with equal probability, so equal amounts of both enantiomers form (a racemic mixture)."
+      ],
       "images": [
         "papers/chemistry/img/15B-Carbonyls-06.jpg",
         "papers/chemistry/img/15B-Carbonyls-07.jpg",
@@ -554,12 +601,19 @@
         "reagents"
       ],
       "question": "Complete the table for hexane-2,5-dione by naming the organic product formed if a reaction takes place.",
-      "status": "pending",
-      "answer": "Pending: the table for hexane-2,5-dione is not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Acidified dichromate: no reaction (cross, no product). Excess LiAlH4 in dry ether: reaction (tick), hexane-2,5-diol.",
+      "steps": [
+        "Hexane-2,5-dione has two ketone (C=O) groups and no aldehyde group.",
+        "Ketones are not oxidised by acidified potassium dichromate(VI), even on reflux, so there is no reaction and no product.",
+        "LiAlH4 in dry ether reduces each C=O to a secondary alcohol group, so the product is CH3CH(OH)CH2CH2CH(OH)CH3, hexane-2,5-diol."
+      ],
       "images": [
         "papers/chemistry/img/15B-Carbonyls-09.jpg",
         "papers/chemistry/img/15B-Carbonyls-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15B-Carbonyls-Q15.jpg"
       ]
     },
     {
@@ -766,13 +820,21 @@
         "dipoles"
       ],
       "question": "Complete the mechanism for the reaction of ethanal with HCN (with a small amount of NaOH), including curly arrows, the intermediate and lone pairs and dipoles.",
-      "status": "pending",
-      "answer": "Pending: the mechanism diagram with curly arrows, intermediate and lone pairs is not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Slow step: curly arrow from the lone pair on the C of CN- to the C=O carbon and from the C=O bond to O, giving the intermediate CH3CH(O-)CN; fast step: O- takes H+ from HCN (arrows O- lone pair to H, and H-C bond to C) giving CH3CH(OH)CN and CN-.",
+      "steps": [
+        "Draw the dipoles on ethanal: C delta+ and O delta-.",
+        "Slow step: a lone pair on the carbon of :CN-, with a curly arrow from it to the delta+ carbonyl carbon.",
+        "A second curly arrow from the C=O pi bond to the oxygen. The intermediate is CH3CH(O-)CN, drawn with O- carrying lone pairs.",
+        "Fast step: dipoles on H-CN (H delta+, C delta-); a curly arrow from a lone pair on O- to the H of HCN and a curly arrow from the H-C bond to the carbon of HCN, producing CH3CH(OH)CN and CN-."
+      ],
       "images": [
         "papers/chemistry/img/15B-Carbonyls-11.jpg",
         "papers/chemistry/img/15B-Carbonyls-12.jpg",
         "papers/chemistry/img/15B-Carbonyls-13.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15B-Carbonyls-Q18.jpg"
       ]
     },
     {
@@ -803,6 +865,9 @@
         "papers/chemistry/img/15B-Carbonyls-11.jpg",
         "papers/chemistry/img/15B-Carbonyls-12.jpg",
         "papers/chemistry/img/15B-Carbonyls-13.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15B-Carbonyls-Q18.jpg"
       ]
     },
     {
@@ -831,6 +896,9 @@
         "papers/chemistry/img/15B-Carbonyls-11.jpg",
         "papers/chemistry/img/15B-Carbonyls-12.jpg",
         "papers/chemistry/img/15B-Carbonyls-13.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15B-Carbonyls-Q18.jpg"
       ]
     },
     {
@@ -849,13 +917,20 @@
         "origin"
       ],
       "question": "Sketch a line on the axes to show how the concentration of ethanal affects the rate of this reaction.",
-      "status": "pending",
-      "answer": "Pending: the graph axes are not present in the text. The expected line is a straight line through the origin (first order in ethanal).",
-      "steps": [],
+      "status": "ready",
+      "answer": "A straight line through the origin with a positive gradient",
+      "steps": [
+        "The slow step involves ethanal and CN-, so rate = k[CH3CHO][CN-]; the reaction is first order in ethanal.",
+        "With [CN-] kept constant, rate is directly proportional to [CH3CHO].",
+        "Sketch a straight line starting at the origin (0,0) and rising upwards, not curved and not horizontal."
+      ],
       "images": [
         "papers/chemistry/img/15B-Carbonyls-11.jpg",
         "papers/chemistry/img/15B-Carbonyls-12.jpg",
         "papers/chemistry/img/15B-Carbonyls-13.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15B-Carbonyls-Q18-2.jpg"
       ]
     },
     {
@@ -934,12 +1009,19 @@
         "C=O"
       ],
       "question": "Compound Y does not react with acidified dichromate. Using the infrared spectrum of Y (not in the text), which compound is most likely Y? Options: A 2-methylpropan-2-ol, B pentane, C propanal, D propanone.",
-      "status": "pending",
-      "answer": "Pending: the infrared spectrum of Y is not present in the text, so the choice between A and D cannot be made.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: propanone",
+      "steps": [
+        "The spectrum has a strong, sharp absorption at about 1700 cm^-1, the C=O stretch of a carbonyl compound.",
+        "There is no broad absorption at about 3200-3600 cm^-1, so no O-H group; this rules out 2-methylpropan-2-ol (A). Pentane (B) has no C=O peak.",
+        "Y does not react with acidified dichromate, so it cannot be the aldehyde propanal (C), which would be oxidised. The ketone propanone (D) fits."
+      ],
       "images": [
         "papers/chemistry/img/15B-Carbonyls-13.jpg",
         "papers/chemistry/img/15B-Carbonyls-14.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15B-Carbonyls-Q19.jpg"
       ]
     },
     {
@@ -988,13 +1070,22 @@
         "secondary"
       ],
       "question": "Complete the table about the reactions of propanal and propanone with lithium tetrahydridoaluminate(III).",
-      "status": "pending",
-      "answer": "Pending: the table to complete is not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "LiAlH4; dry ether (no water); reduction (nucleophilic addition of hydride); propan-1-ol with propanal; propan-2-ol with propanone",
+      "steps": [
+        "Formula of lithium tetrahydridoaluminate(III): LiAlH4.",
+        "Essential condition: dry (anhydrous) ether as the solvent, because LiAlH4 reacts violently with water.",
+        "Type of reaction: reduction (the hydride ion H- adds to the C=O as a nucleophile).",
+        "Propanal, an aldehyde, is reduced to the primary alcohol propan-1-ol, CH3CH2CH2OH.",
+        "Propanone, a ketone, is reduced to the secondary alcohol propan-2-ol, CH3CH(OH)CH3."
+      ],
       "images": [
         "papers/chemistry/img/15B-Carbonyls-14.jpg",
         "papers/chemistry/img/15B-Carbonyls-15.jpg",
         "papers/chemistry/img/15B-Carbonyls-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15B-Carbonyls-Q21.jpg"
       ]
     },
     {
@@ -1101,13 +1192,22 @@
         "mechanism"
       ],
       "question": "Add curly arrows to complete the mechanism for the first stage of the reaction of propanone with hydroxylamine, NH2OH, under mildly acidic conditions.",
-      "status": "pending",
-      "answer": "Pending: the mechanism diagram with curly arrows is not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Arrows for N lone pair to the C=O carbon and C=O bond to O (first stage); then proton transfers (O- takes H+, N+-H loses H+), protonation of O, loss of water and loss of H+ to give the oxime.",
+      "steps": [
+        "Stage 1: a curly arrow from the lone pair on the nitrogen of NH2OH to the carbonyl carbon (delta+), and a curly arrow from the C=O pi bond to the oxygen, forming the N+ / O- intermediate.",
+        "Next: a curly arrow from a lone pair on O- to H+, and a curly arrow from the N+-H bond to the N+ (loss of H+), giving the neutral C(OH)-NH-OH intermediate.",
+        "Then: a curly arrow from a lone pair on the OH oxygen to a second H+, giving the O+(H)2 group (protonated OH).",
+        "Loss of water: a curly arrow from the nitrogen lone pair to the C-N bond (forming C=N+), and a curly arrow from the C-O+ bond to the oxygen (leaving as H2O).",
+        "Finally: a curly arrow from the N+-H bond to the N (loss of H+) gives the oxime (CH3)2C=NOH."
+      ],
       "images": [
         "papers/chemistry/img/15B-Carbonyls-14.jpg",
         "papers/chemistry/img/15B-Carbonyls-15.jpg",
         "papers/chemistry/img/15B-Carbonyls-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/15B-Carbonyls-Q21-2.jpg"
       ]
     },
     {

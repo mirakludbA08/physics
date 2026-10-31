@@ -62277,14 +62277,21 @@ window.BANK.chemistry = {
       "diagram"
      ],
      "question": "Which diagram (A-D) shows the first step of the mechanism for nucleophilic addition of propanone with KCN?",
-     "status": "pending",
-     "answer": "Pending: the diagram options A-D are not present in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A",
+     "steps": [
+      "In propanone the C=O carbon is delta+ and the oxygen is delta-, so the nucleophile :CN- attacks the delta+ carbon.",
+      "A curly arrow must start at the lone pair on CN- and end at the carbon, and a second arrow must start at the C=O pi bond and end at the oxygen, giving O-.",
+      "A has the correct dipoles (O delta-, C delta+) and both arrows in the correct direction.",
+      "B has both arrows reversed, C has the delta+ and delta- labels the wrong way round, and in D the arrow from CN- points away from the carbon."
+     ],
      "images": [
       "papers/chemistry/img/15B-Carbonyls-02.jpg",
       "papers/chemistry/img/15B-Carbonyls-03.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15B-Carbonyls-Q3.jpg"
+     ]
     },
     {
      "id": "Ch15B-Q4",
@@ -62356,13 +62363,20 @@ window.BANK.chemistry = {
       "hydrogen bonding"
      ],
      "question": "Explain which intermolecular forces of ethanal are mainly responsible for its higher boiling temperature than propane and its miscibility with water.",
-     "status": "pending",
-     "answer": "Pending: the answer options A-D are not present in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: permanent dipole forces (boiling temperature) and hydrogen bonds (solubility in water)",
+     "steps": [
+      "Ethanal has a polar C=O bond, so its molecules attract each other by permanent dipole-permanent dipole forces, which are stronger than the London forces between propane molecules.",
+      "Ethanal has no H atom bonded to O, N or F, so it cannot form hydrogen bonds with other ethanal molecules; this rules out A and C.",
+      "In water, the O atom of ethanal has a lone pair that forms hydrogen bonds with the O-H hydrogens of water, so ethanal is miscible with water.",
+      "Therefore boiling temperature is due to permanent dipole forces and solubility to hydrogen bonds: D."
+     ],
      "images": [
       "papers/chemistry/img/15B-Carbonyls-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15B-Carbonyls-Q6.jpg"
+     ]
     },
     {
      "id": "Ch15B-Q7",
@@ -62379,13 +62393,19 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "Compound X (C5H10O) gives an orange precipitate with 2,4-DNPH and a silver mirror with Tollens' reagent. Which of the structures shown could NOT be X?",
-     "status": "pending",
-     "answer": "Pending: the structures or options for the 'could not be X' choice are not present in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D",
+     "steps": [
+      "X gives an orange precipitate with 2,4-DNPH, so it contains C=O; a silver mirror with Tollens reagent means it is an aldehyde, not a ketone.",
+      "A (3-methylbutanal), B (2-methylbutanal) and C (2,2-dimethylpropanal) are all aldehydes with formula C5H10O.",
+      "D is 3-methylbutan-2-one, a ketone. It reacts with 2,4-DNPH but gives no silver mirror, so it could not be X."
+     ],
      "images": [
       "papers/chemistry/img/15B-Carbonyls-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15B-Carbonyls-Q7.jpg"
+     ]
     },
     {
      "id": "Ch15B-Q8",
@@ -62461,14 +62481,20 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "State the products of propanone reacting with iodine in both acidic and alkaline conditions (multiple choice A-D).",
-     "status": "pending",
-     "answer": "Pending: the answer options A-D for part (a) are not present in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: CH3COCH2I in acid and CHI3 in alkali",
+     "steps": [
+      "In acidic conditions propanone is iodinated once at a CH3 group: CH3COCH3 + I2 -> CH3COCH2I + HI.",
+      "In alkaline conditions all three H atoms of a CH3 group are replaced, then the C-C bond is cleaved to give yellow triiodomethane, CHI3, and the ethanoate ion CH3COO-.",
+      "Only row D has CH3COCH2I for acid and CHI3 for alkali."
+     ],
      "images": [
       "papers/chemistry/img/15B-Carbonyls-05.jpg",
       "papers/chemistry/img/15B-Carbonyls-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15B-Carbonyls-Q10.jpg"
+     ]
     },
     {
      "id": "Ch15B-Q10b",
@@ -62516,15 +62542,23 @@ window.BANK.chemistry = {
       "nucleophilic addition"
      ],
      "question": "Complete the mechanism for propanal with HCN catalysed by KCN by adding curly arrows, lone pairs and dipoles to Steps 1 and 2.",
-     "status": "pending",
-     "answer": "Pending: the mechanism diagram with curly arrows, lone pairs and dipoles is not present in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Step 1: curly arrows from the lone pair on the C of CN- to the C=O carbon and from the C=O bond to O (giving O-); Step 2: from the O- lone pair to the H of HCN and from the H-C bond to the C of HCN (giving CN- and the hydroxynitrile).",
+     "steps": [
+      "Mark the dipoles on propanal: delta+ on the carbonyl carbon, delta- on the oxygen.",
+      "Step 1: draw a lone pair on the carbon of -:C#N, and a curly arrow from this lone pair to the delta+ carbonyl carbon.",
+      "Step 1: draw a second curly arrow from the C=O pi bond to the oxygen, forming the intermediate with :O- (with lone pairs on O).",
+      "Step 2: mark H delta+ and C delta- on H-C#N; draw a curly arrow from a lone pair on O- of the intermediate to the H of HCN, and a curly arrow from the H-C bond to the carbon of HCN.",
+      "The products are CH3CH2CH(OH)CN and a CN- ion, which is regenerated."
+     ],
      "images": [
       "papers/chemistry/img/15B-Carbonyls-06.jpg",
       "papers/chemistry/img/15B-Carbonyls-07.jpg",
       "papers/chemistry/img/15B-Carbonyls-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15B-Carbonyls-Q11.jpg"
+     ]
     },
     {
      "id": "Ch15B-Q11a(ii)",
@@ -62585,7 +62619,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15B-Carbonyls-07.jpg",
       "papers/chemistry/img/15B-Carbonyls-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15B-Carbonyls-Q11.jpg"
+     ]
     },
     {
      "id": "Ch15B-Q11b",
@@ -62602,9 +62638,14 @@ window.BANK.chemistry = {
       "mirror image"
      ],
      "question": "Draw the three-dimensional structures of the two enantiomers formed from propanal and HCN.",
-     "status": "pending",
-     "answer": "Pending: the answer is two 3D drawings (mirror images of CH3CH2CH(OH)CN), which cannot be shown in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Two non-superimposable mirror-image tetrahedral drawings of CH3CH2CH(OH)CN: C2H5 and CN in the plane, with OH on a wedge and H on a dash in one, and OH and H swapped in the other.",
+     "steps": [
+      "The product is 2-hydroxybutanenitrile, CH3CH2CH(OH)CN. Its central carbon is bonded to four different groups (H, OH, CN, CH2CH3), so it is a chiral centre.",
+      "Enantiomer 1: central C with CH3CH2 (left) and CN (right) in the plane of the paper, OH on a solid wedge and H on a dashed bond.",
+      "Enantiomer 2: the mirror image, drawn the same way but with OH on a dashed bond and H on a solid wedge (or the first drawing reflected in a vertical mirror line).",
+      "CN- can attack the planar C=O from either side with equal probability, so equal amounts of both enantiomers form (a racemic mixture)."
+     ],
      "images": [
       "papers/chemistry/img/15B-Carbonyls-06.jpg",
       "papers/chemistry/img/15B-Carbonyls-07.jpg",
@@ -62712,14 +62753,20 @@ window.BANK.chemistry = {
       "reagents"
      ],
      "question": "Complete the table for hexane-2,5-dione by naming the organic product formed if a reaction takes place.",
-     "status": "pending",
-     "answer": "Pending: the table for hexane-2,5-dione is not present in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Acidified dichromate: no reaction (cross, no product). Excess LiAlH4 in dry ether: reaction (tick), hexane-2,5-diol.",
+     "steps": [
+      "Hexane-2,5-dione has two ketone (C=O) groups and no aldehyde group.",
+      "Ketones are not oxidised by acidified potassium dichromate(VI), even on reflux, so there is no reaction and no product.",
+      "LiAlH4 in dry ether reduces each C=O to a secondary alcohol group, so the product is CH3CH(OH)CH2CH2CH(OH)CH3, hexane-2,5-diol."
+     ],
      "images": [
       "papers/chemistry/img/15B-Carbonyls-09.jpg",
       "papers/chemistry/img/15B-Carbonyls-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15B-Carbonyls-Q15.jpg"
+     ]
     },
     {
      "id": "Ch15B-Q15b",
@@ -62932,15 +62979,22 @@ window.BANK.chemistry = {
       "dipoles"
      ],
      "question": "Complete the mechanism for the reaction of ethanal with HCN (with a small amount of NaOH), including curly arrows, the intermediate and lone pairs and dipoles.",
-     "status": "pending",
-     "answer": "Pending: the mechanism diagram with curly arrows, intermediate and lone pairs is not present in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Slow step: curly arrow from the lone pair on the C of CN- to the C=O carbon and from the C=O bond to O, giving the intermediate CH3CH(O-)CN; fast step: O- takes H+ from HCN (arrows O- lone pair to H, and H-C bond to C) giving CH3CH(OH)CN and CN-.",
+     "steps": [
+      "Draw the dipoles on ethanal: C delta+ and O delta-.",
+      "Slow step: a lone pair on the carbon of :CN-, with a curly arrow from it to the delta+ carbonyl carbon.",
+      "A second curly arrow from the C=O pi bond to the oxygen. The intermediate is CH3CH(O-)CN, drawn with O- carrying lone pairs.",
+      "Fast step: dipoles on H-CN (H delta+, C delta-); a curly arrow from a lone pair on O- to the H of HCN and a curly arrow from the H-C bond to the carbon of HCN, producing CH3CH(OH)CN and CN-."
+     ],
      "images": [
       "papers/chemistry/img/15B-Carbonyls-11.jpg",
       "papers/chemistry/img/15B-Carbonyls-12.jpg",
       "papers/chemistry/img/15B-Carbonyls-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15B-Carbonyls-Q18.jpg"
+     ]
     },
     {
      "id": "Ch15B-Q18a(ii)",
@@ -62971,7 +63025,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15B-Carbonyls-12.jpg",
       "papers/chemistry/img/15B-Carbonyls-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15B-Carbonyls-Q18.jpg"
+     ]
     },
     {
      "id": "Ch15B-Q18b",
@@ -63000,7 +63056,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15B-Carbonyls-12.jpg",
       "papers/chemistry/img/15B-Carbonyls-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15B-Carbonyls-Q18.jpg"
+     ]
     },
     {
      "id": "Ch15B-Q18c",
@@ -63018,15 +63076,21 @@ window.BANK.chemistry = {
       "origin"
      ],
      "question": "Sketch a line on the axes to show how the concentration of ethanal affects the rate of this reaction.",
-     "status": "pending",
-     "answer": "Pending: the graph axes are not present in the text. The expected line is a straight line through the origin (first order in ethanal).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A straight line through the origin with a positive gradient",
+     "steps": [
+      "The slow step involves ethanal and CN-, so rate = k[CH3CHO][CN-]; the reaction is first order in ethanal.",
+      "With [CN-] kept constant, rate is directly proportional to [CH3CHO].",
+      "Sketch a straight line starting at the origin (0,0) and rising upwards, not curved and not horizontal."
+     ],
      "images": [
       "papers/chemistry/img/15B-Carbonyls-11.jpg",
       "papers/chemistry/img/15B-Carbonyls-12.jpg",
       "papers/chemistry/img/15B-Carbonyls-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15B-Carbonyls-Q18-2.jpg"
+     ]
     },
     {
      "id": "Ch15B-Q18d",
@@ -63106,14 +63170,20 @@ window.BANK.chemistry = {
       "C=O"
      ],
      "question": "Compound Y does not react with acidified dichromate. Using the infrared spectrum of Y (not in the text), which compound is most likely Y? Options: A 2-methylpropan-2-ol, B pentane, C propanal, D propanone.",
-     "status": "pending",
-     "answer": "Pending: the infrared spectrum of Y is not present in the text, so the choice between A and D cannot be made.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: propanone",
+     "steps": [
+      "The spectrum has a strong, sharp absorption at about 1700 cm^-1, the C=O stretch of a carbonyl compound.",
+      "There is no broad absorption at about 3200-3600 cm^-1, so no O-H group; this rules out 2-methylpropan-2-ol (A). Pentane (B) has no C=O peak.",
+      "Y does not react with acidified dichromate, so it cannot be the aldehyde propanal (C), which would be oxidised. The ketone propanone (D) fits."
+     ],
      "images": [
       "papers/chemistry/img/15B-Carbonyls-13.jpg",
       "papers/chemistry/img/15B-Carbonyls-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15B-Carbonyls-Q19.jpg"
+     ]
     },
     {
      "id": "Ch15B-Q20",
@@ -63162,15 +63232,23 @@ window.BANK.chemistry = {
       "secondary"
      ],
      "question": "Complete the table about the reactions of propanal and propanone with lithium tetrahydridoaluminate(III).",
-     "status": "pending",
-     "answer": "Pending: the table to complete is not present in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "LiAlH4; dry ether (no water); reduction (nucleophilic addition of hydride); propan-1-ol with propanal; propan-2-ol with propanone",
+     "steps": [
+      "Formula of lithium tetrahydridoaluminate(III): LiAlH4.",
+      "Essential condition: dry (anhydrous) ether as the solvent, because LiAlH4 reacts violently with water.",
+      "Type of reaction: reduction (the hydride ion H- adds to the C=O as a nucleophile).",
+      "Propanal, an aldehyde, is reduced to the primary alcohol propan-1-ol, CH3CH2CH2OH.",
+      "Propanone, a ketone, is reduced to the secondary alcohol propan-2-ol, CH3CH(OH)CH3."
+     ],
      "images": [
       "papers/chemistry/img/15B-Carbonyls-14.jpg",
       "papers/chemistry/img/15B-Carbonyls-15.jpg",
       "papers/chemistry/img/15B-Carbonyls-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15B-Carbonyls-Q21.jpg"
+     ]
     },
     {
      "id": "Ch15B-Q21b",
@@ -63279,15 +63357,23 @@ window.BANK.chemistry = {
       "mechanism"
      ],
      "question": "Add curly arrows to complete the mechanism for the first stage of the reaction of propanone with hydroxylamine, NH2OH, under mildly acidic conditions.",
-     "status": "pending",
-     "answer": "Pending: the mechanism diagram with curly arrows is not present in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Arrows for N lone pair to the C=O carbon and C=O bond to O (first stage); then proton transfers (O- takes H+, N+-H loses H+), protonation of O, loss of water and loss of H+ to give the oxime.",
+     "steps": [
+      "Stage 1: a curly arrow from the lone pair on the nitrogen of NH2OH to the carbonyl carbon (delta+), and a curly arrow from the C=O pi bond to the oxygen, forming the N+ / O- intermediate.",
+      "Next: a curly arrow from a lone pair on O- to H+, and a curly arrow from the N+-H bond to the N+ (loss of H+), giving the neutral C(OH)-NH-OH intermediate.",
+      "Then: a curly arrow from a lone pair on the OH oxygen to a second H+, giving the O+(H)2 group (protonated OH).",
+      "Loss of water: a curly arrow from the nitrogen lone pair to the C-N bond (forming C=N+), and a curly arrow from the C-O+ bond to the oxygen (leaving as H2O).",
+      "Finally: a curly arrow from the N+-H bond to the N (loss of H+) gives the oxime (CH3)2C=NOH."
+     ],
      "images": [
       "papers/chemistry/img/15B-Carbonyls-14.jpg",
       "papers/chemistry/img/15B-Carbonyls-15.jpg",
       "papers/chemistry/img/15B-Carbonyls-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15B-Carbonyls-Q21-2.jpg"
+     ]
     },
     {
      "id": "Ch15B-Q22a",
@@ -63630,13 +63716,19 @@ window.BANK.chemistry = {
       "structure"
      ],
      "question": "An organic compound, shown as a structure in the original paper, reacts with excess sodium hydroxide solution. What is the organic product?",
-     "status": "pending",
-     "answer": "Pending: the compound's structure is missing from the text (diagram needed).",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: NaOOCCH=CHCOONa",
+     "steps": [
+      "The compound is HOOCCH=CHCOOH (butenedioic acid), a dicarboxylic acid with two acidic COOH groups.",
+      "Excess NaOH neutralises both COOH groups: HOOCCH=CHCOOH + 2NaOH -> NaOOCCH=CHCOONa + 2H2O.",
+      "The C=C bond is not affected by NaOH, so B (only one COOH neutralised), C (C=C changed) and D (COOH reduced to CHO) are wrong."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-01.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q2.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q3",
@@ -63696,7 +63788,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15C-Carboxylic-Acids-03.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q4.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q4a(ii)",
@@ -63727,7 +63821,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15C-Carboxylic-Acids-03.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q4.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q4a(iii)",
@@ -63745,15 +63841,23 @@ window.BANK.chemistry = {
       "conditions"
      ],
      "question": "Complete the table summarising Step 2, the hydrolysis of the hydroxynitrile to lactic acid. State symbols are not needed.",
-     "status": "pending",
-     "answer": "Pending: the summary table is not in the text (only blank rows are shown).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Reaction type: hydrolysis. Reagent: dilute hydrochloric acid. Conditions: heat under reflux. Equation: CH3CH(OH)CN + 2H2O + HCl -> CH3CH(OH)COOH + NH4Cl",
+     "steps": [
+      "Reaction type: hydrolysis (acid hydrolysis of a nitrile group, -CN, to a carboxylic acid group, -COOH).",
+      "Reagent: dilute hydrochloric acid (or dilute sulfuric acid).",
+      "Conditions: heat under reflux.",
+      "Equation: CH3CH(OH)CN + 2H2O + HCl -> CH3CH(OH)COOH + NH4Cl, or in ionic form CH3CH(OH)CN + 2H2O + H+ -> CH3CH(OH)COOH + NH4+."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-02.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-03.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q4.jpg",
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q4-2.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q4b",
@@ -63802,15 +63906,21 @@ window.BANK.chemistry = {
       "buffer solution"
      ],
      "question": "Using the two buffer equilibria (not reproduced in the text), explain how the blood buffer keeps pH nearly constant when a small increase in H+ occurs.",
-     "status": "pending",
-     "answer": "Pending: the two equilibria the question refers to are not shown in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Extra H3O+ is removed by HCO3- (Equilibrium 1 shifts right), and the H2CO3 formed breaks down to CO2 and H2O (Equilibrium 2 shifts right), so [H3O+] and pH stay nearly constant.",
+     "steps": [
+      "When the concentration of H3O+ increases, Equilibrium 1 (HCO3- + H3O+ <=> H2CO3 + H2O) shifts to the right.",
+      "The large reservoir of HCO3- reacts with the added H+, so most of it is removed and [H3O+] and the pH change very little.",
+      "The H2CO3 formed decomposes (Equilibrium 2 shifts right) to CO2 and H2O; the CO2 is lost by breathing out, so H2CO3 does not build up and Equilibrium 1 can keep removing H+."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-02.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-03.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q4-3.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q4c(ii)",
@@ -63828,15 +63938,21 @@ window.BANK.chemistry = {
       "ph 7.41"
      ],
      "question": "A blood sample has pH 7.41. Calculate the ratio of concentrations of the two buffer species.",
-     "status": "pending",
-     "answer": "Pending: the species in the ratio are garbled or missing from the text, and the pKa needed is not given.",
-     "steps": [],
+     "status": "ready",
+     "answer": "[HCO3-] : [H2CO3] = 11.6 : 1 (ratio about 11.6)",
+     "steps": [
+      "Ka = [HCO3-][H3O+] / [H2CO3], so [HCO3-]/[H2CO3] = Ka / [H3O+].",
+      "[H3O+] = 10^-7.41 = 3.89 x 10^-8 mol dm^-3.",
+      "Ratio = 4.50 x 10^-7 / 3.89 x 10^-8 = 11.6."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-02.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-03.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-04.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q4-4.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q5a",
@@ -63886,16 +64002,23 @@ window.BANK.chemistry = {
       "stereocentre"
      ],
      "question": "Complete the 3D diagrams of the two enantiomers of lactic acid.",
-     "status": "pending",
-     "answer": "Pending: the 3D diagrams to be completed are not present in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Complete both tetrahedral drawings with the same four groups in mirror-image positions, e.g. left: COOH up, CH3 lower-left, OH on the wedge, H on the dash; right: COOH up, CH3 lower-right, OH on the wedge (lower-left), H on the dash (left).",
+     "steps": [
+      "Lactic acid, CH3CH(OH)COOH, has a chiral carbon bonded to four different groups: CH3, OH, COOH and H.",
+      "Left-hand diagram: write COOH on the vertical bond, CH3 on the plain lower-left bond, OH on the solid wedge and H on the dashed bond.",
+      "Right-hand diagram: the reflection of the left across the dashed mirror line, so COOH on the vertical bond, CH3 on the plain lower-right bond, OH on the solid wedge (lower-left) and H on the dashed bond (left).",
+      "The two drawings are mirror images that cannot be superimposed, so they are a pair of enantiomers."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-04.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-05.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-06.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q5.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q5c(i)",
@@ -63959,7 +64082,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15C-Carboxylic-Acids-06.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q5-2.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q5c(iii)",
@@ -64041,16 +64166,23 @@ window.BANK.chemistry = {
       "concentration"
      ],
      "question": "Calculate the mass of lactic acid, HA (Mr 90.0, pKa 3.86), needed to make 1.00 dm3 of aqueous solution with pH 3.00. The list of assumptions is missing from the text.",
-     "status": "pending",
-     "answer": "Pending: the Assume list is missing from the text. With [H+] = [A-] and [HA] = c - [H+], the mass is about 0.742 g.",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.652 g",
+     "steps": [
+      "pH 3.00, so [H+] = 10^-3.00 = 1.00 x 10^-3 mol dm^-3, and [A-] = [H+] = 1.00 x 10^-3 mol dm^-3.",
+      "Ka = 10^-3.86 = 1.38 x 10^-4 mol dm^-3.",
+      "Ka = [H+][A-]/[HA], so [HA] = (1.00 x 10^-3)^2 / 1.38 x 10^-4 = 7.24 x 10^-3 mol dm^-3 (taking [HA]initial = [HA]equilibrium).",
+      "Mass = 7.24 x 10^-3 mol x 90.0 g mol^-1 = 0.652 g in 1.00 dm^3."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-04.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-05.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-06.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q5-3.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q5d(ii)",
@@ -64114,7 +64246,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15C-Carboxylic-Acids-06.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-07.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q5-4.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q6a(i)",
@@ -64163,15 +64297,22 @@ window.BANK.chemistry = {
       "0.150 mol dm-3"
      ],
      "question": "Using your equation and the titration curve, calculate the concentration of the potassium hydroxide solution. 25.00 cm3 of 0.150 mol dm-3 methanoic acid was used.",
-     "status": "pending",
-     "answer": "Pending: the equivalence volume must be read from the titration curve, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.170 mol dm^-3",
+     "steps": [
+      "The equivalence point is at the middle of the steep vertical section of the curve, at 22.0 cm^3 of KOH.",
+      "Moles of HCOOH = 0.150 x 25.00 / 1000 = 3.75 x 10^-3 mol.",
+      "HCOOH + KOH -> HCOOK + H2O is 1:1, so moles of KOH = 3.75 x 10^-3 mol.",
+      "[KOH] = 3.75 x 10^-3 / 0.0220 = 0.170 mol dm^-3."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-07.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-08.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q6.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q6a(iii)",
@@ -64189,15 +64330,21 @@ window.BANK.chemistry = {
       "graph"
      ],
      "question": "Use the titration curve to determine the acid dissociation constant, Ka, of methanoic acid.",
-     "status": "pending",
-     "answer": "Pending: the titration curve is not in the text, so the half-equivalence pH cannot be read.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Ka = about 1.6 x 10^-4 mol dm^-3",
+     "steps": [
+      "Half-equivalence is at 22.0 / 2 = 11.0 cm^3 of KOH, where half the acid has been neutralised so [HCOOH] = [HCOO-].",
+      "At this point Ka = [H+], so pH = pKa. The curve reads pH = 3.8 at 11.0 cm^3.",
+      "Ka = 10^-3.8 = 1.6 x 10^-4 mol dm^-3 (about 1.4 to 1.7 x 10^-4 allowing for reading the graph)."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-07.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-08.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q6.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q6b",
@@ -64277,14 +64424,21 @@ window.BANK.chemistry = {
       "diagram"
      ],
      "question": "Which acid is produced by hydrolysis of the molecule shown? Options: A 2-hydroxy-3-methylbutanoic acid, B 3-hydroxy-2-methylbutanoic acid, C 3-hydroxy-2,3-dimethylpropanoic acid, D 4-hydroxypentanoic acid.",
-     "status": "pending",
-     "answer": "Pending: the molecule to be hydrolysed is shown as a diagram that is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 3-hydroxy-2-methylbutanoic acid",
+     "steps": [
+      "The molecule is CH3CH(OH)CH(CH3)C#N, a hydroxynitrile.",
+      "Hydrolysis turns the nitrile carbon, -CN, into -COOH, which becomes carbon 1 of the acid.",
+      "Numbering from COOH: C2 carries the CH3 group, C3 carries the OH group and C4 is the terminal CH3.",
+      "The acid is CH3CH(OH)CH(CH3)COOH, 3-hydroxy-2-methylbutanoic acid."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-09.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-10.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q8.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q9a",
@@ -64302,15 +64456,23 @@ window.BANK.chemistry = {
       "neutralisation"
      ],
      "question": "Which is the titration curve when sodium hydroxide is added to maleic acid?",
-     "status": "pending",
-     "answer": "Pending: the titration curve graphs (options) are not present in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A",
+     "steps": [
+      "Maleic acid is a dicarboxylic acid, so each molecule can lose two H+ and the titration with NaOH has two equivalence points.",
+      "The pH starts low (about 2) and rises to about 12 as NaOH is added, so B (pH falling) is wrong.",
+      "A shows two steep rises, at about 25 and 50 cm^3. The second volume is twice the first, as expected for a diprotic acid.",
+      "C has only one steep rise (a monoprotic acid) and D has three steep rises, so neither fits."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-10.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-11.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q9.jpg",
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q9-2.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q9b",
@@ -64341,7 +64503,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15C-Carboxylic-Acids-11.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-12.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q9-2.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q10",
@@ -64359,14 +64523,19 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "How do the boiling temperature and the solubility in water of butanoic acid compare with those of hexane?",
-     "status": "pending",
-     "answer": "Pending: the answer options A to D are not present in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: higher boiling temperature and higher solubility in water",
+     "steps": [
+      "Butanoic acid molecules form hydrogen bonds with each other through COOH groups (as well as London and permanent dipole forces), whereas hexane has only London forces, so butanoic acid has the higher boiling temperature.",
+      "The COOH group of butanoic acid can also form hydrogen bonds with water, so it is more soluble than non-polar hexane, which cannot."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-12.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q10.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q11",
@@ -64414,13 +64583,19 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "LiAlH4 is used to reduce the compound shown. Which is the product? Options: A a saturated alcohol, B a saturated carboxylic acid, C an unsaturated alcohol, D an unsaturated ketone.",
-     "status": "pending",
-     "answer": "Pending: the compound shown in the question is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: an unsaturated alcohol",
+     "steps": [
+      "The compound is but-3-enoic acid, CH2=CHCH2COOH.",
+      "LiAlH4 reduces the carboxylic acid group to a primary alcohol group (CH2OH).",
+      "LiAlH4 does not reduce an isolated C=C bond, so the product is but-3-en-1-ol, CH2=CHCH2CH2OH, an unsaturated alcohol."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q12.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q13",
@@ -64438,13 +64613,19 @@ window.BANK.chemistry = {
       "options"
      ],
      "question": "But-2-ene-1,4-diol is converted into 2-oxobutanedioic acid in two steps via intermediate W. Identify W and the reagent for Step 2.",
-     "status": "pending",
-     "answer": "Pending: the answer options for W and the Step 2 reagent are not present in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: W is HOCH2CH(OH)CH2CH2OH and the Step 2 reagent is hot acidified K2Cr2O7",
+     "steps": [
+      "Step 1 adds water across the C=C of HOCH2CH=CHCH2OH, giving the triol W = HOCH2CH(OH)CH2CH2OH.",
+      "Step 2 must oxidise: both primary alcohol groups become COOH and the secondary alcohol group becomes C=O, giving HOOCCOCH2COOH (2-oxobutanedioic acid).",
+      "The oxidising agent is hot acidified potassium dichromate(VI), so D is correct. LiAlH4 (A, B) is a reducing agent, and C is not formed by one step from the diol."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-13.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q13.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q14a(i)",
@@ -64462,14 +64643,19 @@ window.BANK.chemistry = {
       "diagram"
      ],
      "question": "Name the two structural isomers of C4H6O2 acids shown in the question.",
-     "status": "pending",
-     "answer": "Pending: the two isomer structures shown in the original question are diagrams not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "But-3-enoic acid (left) and 2-methylpropenoic acid, i.e. 2-methylprop-2-enoic acid (right)",
+     "steps": [
+      "Left isomer: CH2=CHCH2COOH, a four-carbon chain with the C=C between carbons 3 and 4, so but-3-enoic acid.",
+      "Right isomer: CH2=C(CH3)COOH, a three-carbon chain with a methyl group on carbon 2, so 2-methylpropenoic acid (2-methylprop-2-enoic acid)."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-14.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q14.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q14a(ii)",
@@ -64499,7 +64685,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15C-Carboxylic-Acids-14.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q14.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q14a(iii)",
@@ -64517,14 +64705,20 @@ window.BANK.chemistry = {
       "diagram"
      ],
      "question": "Draw the fourth structural isomer of C4H6O2 carboxylic acids.",
-     "status": "pending",
-     "answer": "Pending: which isomer is the fourth depends on the diagrams in part (i), which are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Cyclopropanecarboxylic acid: a three-membered carbon ring (cyclopropane) with a COOH group attached to one ring carbon",
+     "steps": [
+      "The four structural isomers are but-3-enoic acid, 2-methylpropenoic acid, but-2-enoic acid (which has the E and Z stereoisomers) and one more.",
+      "The remaining isomer has C4H6O2 with one ring in place of the C=C: cyclopropane carbon ring with COOH attached, C3H5-COOH.",
+      "Draw a triangle of three carbon atoms with a -C(=O)OH group on one corner."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-14.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q14.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q14b(i)",
@@ -64542,14 +64736,20 @@ window.BANK.chemistry = {
       "diagram"
      ],
      "question": "Give the reagents and conditions for Reaction 1 of 3-hydroxy-3-methylbutanoic acid.",
-     "status": "pending",
-     "answer": "Pending: the reaction scheme showing Reaction 1 is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Acidified potassium dichromate(VI), heated under reflux",
+     "steps": [
+      "Reaction 1 converts the primary alcohol group CH2OH into COOH, so it is oxidation.",
+      "Reagent: acidified potassium dichromate(VI), K2Cr2O7 with dilute sulfuric acid.",
+      "Condition: heat under reflux. The tertiary alcohol group is not oxidised."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-14.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q14-2.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q14b(ii)",
@@ -64567,14 +64767,20 @@ window.BANK.chemistry = {
       "butanoic acid"
      ],
      "question": "Write the equation for Reaction 2 of 3-hydroxy-3-methylbutanoic acid. State symbols are not required.",
-     "status": "pending",
-     "answer": "Pending: the reaction scheme showing Reaction 2 is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "(CH3)2C(OH)CH2CN + 2H2O + HCl -> (CH3)2C(OH)CH2COOH + NH4Cl",
+     "steps": [
+      "Reaction 2 is acid hydrolysis of the nitrile group, -CN, to the carboxylic acid group, -COOH.",
+      "Two molecules of water are needed, and the nitrogen ends up as ammonium chloride with the HCl.",
+      "Equation: (CH3)2C(OH)CH2CN + 2H2O + HCl -> (CH3)2C(OH)CH2COOH + NH4Cl. Atoms and charges balance."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-14.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q14-2.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q14b(iii)",
@@ -64592,14 +64798,20 @@ window.BANK.chemistry = {
       "reagent"
      ],
      "question": "Give the structure of the organic product formed in Reaction 3 of 3-hydroxy-3-methylbutanoic acid.",
-     "status": "pending",
-     "answer": "Pending: the reaction scheme showing Reaction 3 is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "(CH3)2CClCH2COCl, 3-chloro-3-methylbutanoyl chloride",
+     "steps": [
+      "PCl5 replaces an -OH group by -Cl, and it reacts with both the carboxylic acid OH and the alcohol OH.",
+      "Excess PCl5 therefore converts COOH to COCl and the tertiary C-OH to C-Cl.",
+      "The product is (CH3)2C(Cl)CH2C(=O)Cl; HCl and POCl3 are also formed."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-14.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q14-2.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q14b(iv)",
@@ -64617,14 +64829,19 @@ window.BANK.chemistry = {
       "carboxylic acid"
      ],
      "question": "Give the structure of the organic product formed in Reaction 4 of 3-hydroxy-3-methylbutanoic acid.",
-     "status": "pending",
-     "answer": "Pending: the reaction scheme showing Reaction 4 is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Ammonium 3-hydroxy-3-methylbutanoate, (CH3)2C(OH)CH2COO- NH4+",
+     "steps": [
+      "Aqueous ammonia is a weak base, so it reacts with the carboxylic acid group by neutralisation.",
+      "The product is the ammonium salt (CH3)2C(OH)CH2COO- NH4+."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-14.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-15.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q14-2.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q15",
@@ -64684,7 +64901,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15C-Carboxylic-Acids-16.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q16.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q16b",
@@ -64702,14 +64921,21 @@ window.BANK.chemistry = {
       "diagram"
      ],
      "question": "What is the organic product formed when the compound shown reacts with excess LiAlH4?",
-     "status": "pending",
-     "answer": "Pending: the compound shown in the question is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: the unsaturated primary alcohol pent-4-en-1-ol, CH2=CHCH2CH2CH2OH",
+     "steps": [
+      "The compound is pent-4-enoic acid, CH2=CHCH2CH2COOH.",
+      "Excess LiAlH4 reduces the COOH group all the way to a primary alcohol, CH2OH; it does not stop at the aldehyde, so A and C are wrong.",
+      "LiAlH4 does not reduce the C=C bond, so the double bond remains and the product is pent-4-en-1-ol (option D, not the saturated alcohol B)."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-16.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q16.jpg",
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q16-2.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q17",
@@ -64757,14 +64983,20 @@ window.BANK.chemistry = {
       "carboxylic acid"
      ],
      "question": "Which test distinguishes between the first pair of compounds shown? Options: A Tollens' reagent, B sodium carbonate solution, C warm with iodine under alkaline conditions, D phosphorus(V) chloride.",
-     "status": "pending",
-     "answer": "Pending: the pairs of compounds are shown as diagrams that are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: add sodium carbonate solution to each compound",
+     "steps": [
+      "The pair is butan-1-ol and butanoic acid.",
+      "Butanoic acid is a carboxylic acid and reacts with sodium carbonate to give a salt, water and CO2, so there is effervescence; butan-1-ol does not react.",
+      "Tollens reagent and alkaline iodine do not react with either compound, and PCl5 reacts with both (steamy fumes of HCl)."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-17.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q18.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q18b",
@@ -64782,14 +65014,20 @@ window.BANK.chemistry = {
       "carboxylic acid"
      ],
      "question": "Which test distinguishes between the second pair of compounds shown? Options: A Tollens' reagent, B sodium carbonate solution, C warm with iodine under alkaline conditions, D phosphorus(V) chloride.",
-     "status": "pending",
-     "answer": "Pending: the second pair of compounds is shown as a diagram that is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: warm each compound with iodine under alkaline conditions",
+     "steps": [
+      "The pair is butan-1-ol and butan-2-ol.",
+      "Butan-2-ol contains the CH3CH(OH)- group, so it gives a pale yellow precipitate of CHI3 (triiodomethane) with iodine and alkali; butan-1-ol does not.",
+      "Tollens reagent and sodium carbonate do not react with either, and PCl5 reacts with both alcohols."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-17.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q18-2.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q18c",
@@ -64807,14 +65045,20 @@ window.BANK.chemistry = {
       "carboxylic acid"
      ],
      "question": "Which test distinguishes between the third pair of compounds shown? Options: A Tollens' reagent, B sodium carbonate solution, C warm with iodine under alkaline conditions, D phosphorus(V) chloride.",
-     "status": "pending",
-     "answer": "Pending: the third pair of compounds is shown as a diagram that is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: warm each compound with Tollens reagent",
+     "steps": [
+      "The pair is pentan-3-one (a ketone) and butanal (an aldehyde).",
+      "Aldehydes are oxidised by Tollens reagent, giving a silver mirror, while ketones are not oxidised, so only butanal gives a silver mirror.",
+      "Neither compound reacts with sodium carbonate or PCl5, and neither contains the CH3C=O group needed for the iodoform reaction."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-17.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-18.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q18-3.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q19",
@@ -64894,15 +65138,21 @@ window.BANK.chemistry = {
       "carboxylic acid"
      ],
      "question": "Identify the reagent and conditions for Reaction A in the scheme involving butanoic acid.",
-     "status": "pending",
-     "answer": "Pending: the reaction scheme for butanoic acid is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "LiAlH4 (lithium tetrahydridoaluminate(III)) in dry ether",
+     "steps": [
+      "Reaction A reduces the carboxylic acid group COOH to a primary alcohol, CH2OH.",
+      "The reagent is LiAlH4 (lithium tetrahydridoaluminate(III)).",
+      "The solvent must be dry ether, because LiAlH4 reacts with water."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-18.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-19.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q21.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q21a(ii)",
@@ -64920,15 +65170,20 @@ window.BANK.chemistry = {
       "carboxylic acid"
      ],
      "question": "Name the type of reaction taking place in Reaction B of the butanoic acid scheme.",
-     "status": "pending",
-     "answer": "Pending: the reaction scheme for butanoic acid is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Hydrolysis (acid hydrolysis of a nitrile)",
+     "steps": [
+      "In Reaction B the nitrile group, -CN, of CH3CH2CH2CN is converted to the carboxylic acid group, -COOH, by reaction with water and acid.",
+      "This is hydrolysis."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-18.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-19.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q21.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q21a(iii)",
@@ -64946,15 +65201,20 @@ window.BANK.chemistry = {
       "carboxylic acid"
      ],
      "question": "Give the structural formula and name of Substance C in the butanoic acid scheme.",
-     "status": "pending",
-     "answer": "Pending: the reaction scheme identifying Substance C is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "CH3CH2CH2COOCH3, methyl butanoate",
+     "steps": [
+      "Butanoic acid reacts with methanol in the presence of concentrated H2SO4 as a catalyst to form an ester (esterification).",
+      "The ester is CH3CH2CH2COOCH3, named from the alcohol (methyl) and the acid (butanoate): methyl butanoate."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-18.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-19.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q21.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q21a(iv)",
@@ -64972,15 +65232,21 @@ window.BANK.chemistry = {
       "carboxylic acid"
      ],
      "question": "Identify the reagent for Reaction D in the butanoic acid scheme, and give one observation.",
-     "status": "pending",
-     "answer": "Pending: the reaction scheme for Reaction D is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Reagent: phosphorus(V) chloride, PCl5. Observation: steamy (misty) white fumes of hydrogen chloride",
+     "steps": [
+      "Reaction D replaces the OH of the COOH group by Cl, forming the acyl chloride CH3CH2CH2COCl.",
+      "Reagent: phosphorus(V) chloride, PCl5 (SOCl2 is also acceptable).",
+      "Observation: steamy white fumes of HCl are given off."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-18.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-19.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q21.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q21a(v)",
@@ -64998,15 +65264,21 @@ window.BANK.chemistry = {
       "carboxylic acid"
      ],
      "question": "Write the full equation for the formation of Substance E in the butanoic acid scheme. State symbols are not required.",
-     "status": "pending",
-     "answer": "Pending: the reaction scheme identifying Substance E is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "CH3CH2CH2COOH + NaHCO3 -> CH3CH2CH2COONa + H2O + CO2",
+     "steps": [
+      "Butanoic acid is a stronger acid than carbonic acid, so it reacts with sodium hydrogencarbonate in an acid-base reaction.",
+      "Substance E is the salt sodium butanoate; water and carbon dioxide are also formed.",
+      "CH3CH2CH2COOH + NaHCO3 -> CH3CH2CH2COONa + H2O + CO2 is balanced."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-18.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-19.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q21.jpg"
+     ]
     },
     {
      "id": "Ch15C-Q21b",
@@ -65024,15 +65296,22 @@ window.BANK.chemistry = {
       "diagram"
      ],
      "question": "Complete the diagram by adding one water molecule to show the strong intermolecular force between butanoic acid and water, including dipoles and lone pairs, and label the force.",
-     "status": "pending",
-     "answer": "Pending: the diagram to be completed is not present in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Hydrogen bond between the delta+ H of the acid O-H (or of water) and a lone pair on the oxygen of the other molecule, drawn as a dotted line labelled hydrogen bond.",
+     "steps": [
+      "Draw one water molecule, H-O-H, close to the carboxyl group.",
+      "Mark the dipoles: delta+ on the H of the acid O-H group and on the H atoms of water, delta- on the oxygen atoms.",
+      "Draw a lone pair on the oxygen of the water molecule (or on the C=O oxygen of the acid) pointing to the delta+ hydrogen of the other molecule.",
+      "Join the lone pair on one oxygen to the delta+ H on the other with a dotted line, and label it hydrogen bond."
+     ],
      "images": [
       "papers/chemistry/img/15C-Carboxylic-Acids-18.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-19.jpg",
       "papers/chemistry/img/15C-Carboxylic-Acids-20.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15C-Carboxylic-Acids-Q21-2.jpg"
+     ]
     }
    ]
   },
@@ -65309,14 +65588,20 @@ window.BANK.chemistry = {
       "compounds 1-4"
      ],
      "question": "Which of four C5 compounds (options A-D, compounds 1-4), when mixed with water, gives the solution with lowest pH?",
-     "status": "pending",
-     "answer": "Pending: structures of compounds 1-4 are missing from the text (diagrams not extracted)",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: compound 1 (the acyl chloride)",
+     "steps": [
+      "Compound 1 is pentanoyl chloride, an acyl chloride. It reacts rapidly with water: CH3CH2CH2CH2COCl + H2O -> CH3CH2CH2CH2COOH + HCl.",
+      "The HCl produced is a strong acid and the carboxylic acid is also acidic, so the solution has a low pH.",
+      "The aldehyde (2), ketone (3) and amide (4) give essentially neutral solutions."
+     ],
      "images": [
       "papers/chemistry/img/15D-Acid-Derivatives-04.jpg",
       "papers/chemistry/img/15D-Acid-Derivatives-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q3.jpg"
+     ]
     },
     {
      "id": "Ch15D-Q3b",
@@ -65332,14 +65617,20 @@ window.BANK.chemistry = {
       "compounds 1-4"
      ],
      "question": "Which of compounds 1-4 (options A-D) reacts with ethylamine, CH3CH2NH2, to form an N-substituted amide?",
-     "status": "pending",
-     "answer": "Pending: structures of compounds 1-4 are missing from the text (diagrams not extracted)",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: compound 1 (the acyl chloride)",
+     "steps": [
+      "An N-substituted amide is formed when a primary amine attacks an acyl chloride in a nucleophilic addition-elimination reaction.",
+      "CH3CH2CH2CH2COCl + 2CH3CH2NH2 -> CH3CH2CH2CH2CONHCH2CH3 + CH3CH2NH3+ Cl-.",
+      "The aldehyde, ketone and amide do not react with ethylamine in this way."
+     ],
      "images": [
       "papers/chemistry/img/15D-Acid-Derivatives-04.jpg",
       "papers/chemistry/img/15D-Acid-Derivatives-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q3.jpg"
+     ]
     },
     {
      "id": "Ch15D-Q3c",
@@ -65355,14 +65646,20 @@ window.BANK.chemistry = {
       "compounds 1-4"
      ],
      "question": "Which of compounds 1-4 (options A-D) reacts with iodine and sodium hydroxide to give a pale yellow precipitate?",
-     "status": "pending",
-     "answer": "Pending: structures of compounds 1-4 are missing from the text (diagrams not extracted)",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: compound 3 (pentan-2-one)",
+     "steps": [
+      "The iodoform reaction (I2 with NaOH, giving pale yellow CHI3) needs a CH3C=O group (or CH3CH(OH)-).",
+      "Compound 3 is CH3COCH2CH2CH3, pentan-2-one, a methyl ketone, so it gives the pale yellow precipitate of triiodomethane.",
+      "Pentanal (2), the acyl chloride (1) and the amide (4) have no CH3C=O group."
+     ],
      "images": [
       "papers/chemistry/img/15D-Acid-Derivatives-04.jpg",
       "papers/chemistry/img/15D-Acid-Derivatives-05.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q3.jpg"
+     ]
     },
     {
      "id": "Ch15D-Q4",
@@ -65407,14 +65704,20 @@ window.BANK.chemistry = {
       "not formed"
      ],
      "question": "Which of the following could not be formed when methylamine is added to ethanoyl chloride? (Options A-D)",
-     "status": "pending",
-     "answer": "Pending: answer options A-D are missing from the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: CH3CONH2",
+     "steps": [
+      "Methylamine reacts with ethanoyl chloride by nucleophilic addition-elimination: CH3COCl + CH3NH2 -> CH3CONHCH3 + HCl, so D and A form.",
+      "The HCl formed reacts with more methylamine: CH3NH2 + HCl -> CH3NH3+ Cl-, so B forms.",
+      "CH3CONH2 (ethanamide) would need ammonia, not methylamine, so it cannot form."
+     ],
      "images": [
       "papers/chemistry/img/15D-Acid-Derivatives-05.jpg",
       "papers/chemistry/img/15D-Acid-Derivatives-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q5.jpg"
+     ]
     },
     {
      "id": "Ch15D-Q6",
@@ -65458,13 +65761,19 @@ window.BANK.chemistry = {
       "laboratory conditions"
      ],
      "question": "What speeds up the slow formation and hydrolysis of esters under normal laboratory conditions? (Options A-D)",
-     "status": "pending",
-     "answer": "Pending: answer options A-D are missing from the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: acids only for esterification; acids and bases for hydrolysis",
+     "steps": [
+      "Esterification of a carboxylic acid with an alcohol needs an acid catalyst (concentrated H2SO4). A base would convert the carboxylic acid to its salt, which does not esterify.",
+      "Hydrolysis of an ester is speeded up by dilute acid (a catalyst) and also by alkali such as NaOH (hydroxide ions attack the ester, giving the carboxylate salt and the alcohol).",
+      "So esterification: acids only; hydrolysis: acids and bases, which is B."
+     ],
      "images": [
       "papers/chemistry/img/15D-Acid-Derivatives-06.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q7.jpg"
+     ]
     },
     {
      "id": "Ch15D-Q8",
@@ -65507,14 +65816,22 @@ window.BANK.chemistry = {
       "biodegradable polymer"
      ],
      "question": "Which structure is the repeat unit of PHBV, a polymer formed from 3-hydroxybutanoic acid and 3-hydroxypentanoic acid?",
-     "status": "pending",
-     "answer": "Pending: repeat-unit options A-D are structure diagrams, not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "PHBV is a polyester, so the monomers join by ester links formed between the OH of one hydroxyacid and the COOH of the next, losing water.",
+      "The repeat unit must contain one unit from each monomer: -O-CH(CH3)-CH2-C(=O)- (from 3-hydroxybutanoic acid) and -O-CH(CH2CH3)-CH2-C(=O)- (from 3-hydroxypentanoic acid).",
+      "It must begin at an O and end at a C=O so that the repeating unit can join end to end with an ester link, giving B.",
+      "A ends in -O- as well as starting with -O-, which would give O-O links; C has no O at the start; D is not made from these monomers."
+     ],
      "images": [
       "papers/chemistry/img/15D-Acid-Derivatives-07.jpg",
       "papers/chemistry/img/15D-Acid-Derivatives-08.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q9.jpg",
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q9-2.jpg"
+     ]
     },
     {
      "id": "Ch15D-Q9b",
@@ -65585,14 +65902,21 @@ window.BANK.chemistry = {
       "structure"
      ],
      "question": "Terylene is made from ethane-1,2-diol and terephthalic acid. Which structure is its repeat unit? (Options A-D)",
-     "status": "pending",
-     "answer": "Pending: repeat-unit options are structure diagrams, not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A",
+     "steps": [
+      "Terylene is made by condensation polymerisation of benzene-1,4-dicarboxylic acid with ethane-1,2-diol, forming ester links -C(=O)-O-CH2CH2-O-C(=O)-.",
+      "The repeat unit is -O-C(=O)-C6H4-C(=O)-O-CH2CH2- with the carbonyl carbons attached to the benzene ring.",
+      "In B, two CH2CH2 groups would be joined when repeated, giving a chain of four carbons. C and D have the O atoms attached to the ring, which is not what comes from the acid. A is correct."
+     ],
      "images": [
       "papers/chemistry/img/15D-Acid-Derivatives-08.jpg",
       "papers/chemistry/img/15D-Acid-Derivatives-09.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q11.jpg",
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q11-2.jpg"
+     ]
     },
     {
      "id": "Ch15D-Q12",
@@ -65696,14 +66020,20 @@ window.BANK.chemistry = {
       "ester synthesis"
      ],
      "question": "Name the carboxylic acid, alcohol and catalyst used in Reaction 1 for making an ester that smells of raspberries.",
-     "status": "pending",
-     "answer": "Pending: Reaction 1 and Reaction 2 are shown as diagrams/reagents not present in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Carboxylic acid: methanoic acid; alcohol: 2-methylpropan-1-ol; catalyst: concentrated sulfuric acid",
+     "steps": [
+      "HCOOH is methanoic acid.",
+      "(CH3)2CHCH2OH is 2-methylpropan-1-ol.",
+      "The catalyst for esterification is a strong acid, concentrated sulfuric acid."
+     ],
      "images": [
       "papers/chemistry/img/15D-Acid-Derivatives-10.jpg",
       "papers/chemistry/img/15D-Acid-Derivatives-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q13.jpg"
+     ]
     },
     {
      "id": "Ch15D-Q13b(ii)",
@@ -65720,14 +66050,21 @@ window.BANK.chemistry = {
       "acyl chloride"
      ],
      "question": "Explain one advantage and one disadvantage of Reaction 2 compared with Reaction 1 for making the raspberry ester.",
-     "status": "pending",
-     "answer": "Pending: Reaction 1 and Reaction 2 are shown as diagrams/reagents not present in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Advantage: Reaction 2 goes to completion (irreversible), giving a higher yield. Disadvantage: methanoyl chloride is hazardous (it reacts violently with water and releases corrosive HCl gas) and more costly.",
+     "steps": [
+      "Advantage: Reaction 1 is reversible and reaches equilibrium with only part of the reactants converted, whereas Reaction 2 is not reversible, so all of the reactants can be converted and the yield of ester is higher.",
+      "Another advantage: the acyl chloride reacts rapidly at room temperature without a catalyst or heating.",
+      "Disadvantage: methanoyl chloride is corrosive and reacts violently with water (moisture), so it must be handled under dry conditions.",
+      "The reaction also gives off HCl, a toxic, corrosive gas, and the acyl chloride must itself be made from the acid, which is an extra step and costs more."
+     ],
      "images": [
       "papers/chemistry/img/15D-Acid-Derivatives-10.jpg",
       "papers/chemistry/img/15D-Acid-Derivatives-11.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q13.jpg"
+     ]
     },
     {
      "id": "Ch15D-Q14",
@@ -65858,14 +66195,20 @@ window.BANK.chemistry = {
       "terylene"
      ],
      "question": "Which is produced after the polyester shown is hydrolysed with excess NaOH? Options: A benzene-1,4-dicarboxylic acid, B ethane-1,2-diol, C sodium ethanedioate, D water.",
-     "status": "pending",
-     "answer": "Pending: the polyester structure shown is a diagram and is not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: ethane-1,2-diol",
+     "steps": [
+      "The polyester is poly(ethylene terephthalate), joined by ester links -C(=O)-O-CH2CH2-O-.",
+      "Hot aqueous NaOH hydrolyses every ester link, giving the sodium salt of the dicarboxylic acid and the diol: ethane-1,2-diol.",
+      "Excess NaOH keeps the acid as its sodium salt, so A is not formed. Sodium ethanedioate (C) has the wrong carbon chain, and water is not a product of ester hydrolysis."
+     ],
      "images": [
       "papers/chemistry/img/15D-Acid-Derivatives-13.jpg",
       "papers/chemistry/img/15D-Acid-Derivatives-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q18.jpg"
+     ]
     },
     {
      "id": "Ch15D-Q19a",
@@ -65881,14 +66224,21 @@ window.BANK.chemistry = {
       "proton transfer"
      ],
      "question": "How many curly arrows are needed to complete the mechanism of ethanoyl chloride with concentrated aqueous ammonia? Options: A 4, B 5, C 6, D 8.",
-     "status": "pending",
-     "answer": "Pending: the partial mechanism diagram is not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 6",
+     "steps": [
+      "Step 1 needs 2 arrows: the N lone pair to the C, and the C=O pi bond to O (making O-).",
+      "Step 2 needs 2 arrows: a lone pair on O- back to the carbon to reform C=O, and the C-Cl bond to Cl (leaving as Cl-).",
+      "Step 3 needs 2 arrows: the lone pair on a second NH3 to the H of N+-H, and the N-H bond to the N (making the neutral amide and NH4+).",
+      "Total 2 + 2 + 2 = 6 curly arrows."
+     ],
      "images": [
       "papers/chemistry/img/15D-Acid-Derivatives-13.jpg",
       "papers/chemistry/img/15D-Acid-Derivatives-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q19.jpg"
+     ]
     },
     {
      "id": "Ch15D-Q19b",
@@ -65915,7 +66265,9 @@ window.BANK.chemistry = {
       "papers/chemistry/img/15D-Acid-Derivatives-13.jpg",
       "papers/chemistry/img/15D-Acid-Derivatives-14.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q19.jpg"
+     ]
     },
     {
      "id": "Ch15D-Q20",
@@ -65931,15 +66283,22 @@ window.BANK.chemistry = {
       "structure"
      ],
      "question": "Two monomers react to form a polymer. Which structure is a repeat unit of the polymer? (Options A-D)",
-     "status": "pending",
-     "answer": "Pending: monomer structures and repeat-unit options are diagrams, not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A",
+     "steps": [
+      "Monomer 1 is a diol with two OH groups and monomer 2 is a dicarboxylic acid, HOOC-C(CH3)2-COOH, so they make a polyester by condensation.",
+      "The repeat unit contains the full diol residue -O-CH2CH2-C(CH2CH3)2-CH2-O- joined by ester links to -C(=O)-C(CH3)2-C(=O)-.",
+      "B has a CH2OH group in place of an ethyl group, so it is not the same diol. C and D have ether links and a wrong structure."
+     ],
      "images": [
       "papers/chemistry/img/15D-Acid-Derivatives-14.jpg",
       "papers/chemistry/img/15D-Acid-Derivatives-15.jpg",
       "papers/chemistry/img/15D-Acid-Derivatives-16.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q20.jpg",
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q20-2.jpg"
+     ]
     },
     {
      "id": "Ch15D-Q21",
@@ -65955,14 +66314,20 @@ window.BANK.chemistry = {
       "methylbutanol"
      ],
      "question": "The structure of an ester is shown. Which two compounds react to form it? Options: A butanoyl chloride and 2-methylbutan-2-ol, B butanoyl chloride and 3-methylbutan-2-ol, C propanoyl chloride and 2-methylbutan-2-ol, D propanoyl chloride and 3-methylbutan-2-ol.",
-     "status": "pending",
-     "answer": "Pending: the ester structure is a diagram and is not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: butanoyl chloride and 3-methylbutan-2-ol",
+     "steps": [
+      "The ester is CH3CH2CH2COOCH(CH3)CH(CH3)2. The acyl part, CH3CH2CH2C(=O)-, has four carbons, so it comes from butanoyl chloride.",
+      "The alkyl part, -CH(CH3)CH(CH3)2, comes from the alcohol (CH3)2CHCH(OH)CH3, with OH on carbon 2 and a methyl on carbon 3: 3-methylbutan-2-ol.",
+      "So butanoyl chloride and 3-methylbutan-2-ol react: B."
+     ],
      "images": [
       "papers/chemistry/img/15D-Acid-Derivatives-16.jpg",
       "papers/chemistry/img/15D-Acid-Derivatives-17.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q21.jpg"
+     ]
     },
     {
      "id": "Ch15D-Q22",
@@ -66157,10 +66522,15 @@ window.BANK.chemistry = {
       "equilibrium constant",
       "hydrolysis"
      ],
-     "question": "Deduce the effect of increasing temperature on the total entropy change and on Kc for the hydrolysis of ethyl propanoate. Assume the enthalpy change does not change with temperature.",
-     "status": "pending",
-     "answer": "Pending: the sign of the enthalpy change is not stated in the text (only that it is close to zero), so the effect cannot be deduced from the text alone",
-     "steps": [],
+     "question": "Deduce the effect of increasing temperature on the total entropy change and on Kc for the hydrolysis of ethyl propanoate. Assume the entropy change of the system does not change with temperature.",
+     "status": "ready",
+     "answer": "Delta S total stays almost the same, and Kc stays almost the same, because Delta H is close to zero",
+     "steps": [
+      "Delta S total = Delta S system + Delta S surroundings, and Delta S surroundings = -Delta H / T.",
+      "Delta H is close to zero, so Delta S surroundings is close to zero at every temperature. Raising T makes it smaller still.",
+      "Delta S system is assumed constant, so Delta S total is essentially unchanged by increasing the temperature.",
+      "Since R ln K = Delta S total, Kc is also (almost) unchanged, so the equilibrium position hardly shifts."
+     ],
      "images": [
       "papers/chemistry/img/15D-Acid-Derivatives-18.jpg",
       "papers/chemistry/img/15D-Acid-Derivatives-19.jpg",
@@ -66363,14 +66733,20 @@ window.BANK.chemistry = {
       "polymer"
      ],
      "question": "Which monomer could form a condensation polymer without needing a second type of monomer? (Options A-D)",
-     "status": "pending",
-     "answer": "Pending: monomer options are structure diagrams, not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: HO(CH2)4COCl",
+     "steps": [
+      "A condensation polymer from one monomer needs two different functional groups on the same molecule that can react together.",
+      "HO(CH2)4COCl has an OH group and a COCl (acyl chloride) group, so it can form ester links with itself (polyester), losing HCl.",
+      "A has two OH groups, C has OH and C=C, D has OH and an alkyl chloride; none of these has a pair of groups that react to give a condensation link."
+     ],
      "images": [
       "papers/chemistry/img/15D-Acid-Derivatives-21.jpg",
       "papers/chemistry/img/15D-Acid-Derivatives-22.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q27.jpg"
+     ]
     },
     {
      "id": "Ch15D-Q28",
@@ -66387,14 +66763,22 @@ window.BANK.chemistry = {
       "electron pairs"
      ],
      "question": "Ethanoyl chloride reacts with ammonia to form ethanamide. Which diagram shows the electron-pair movement when ethanamide forms from the tetrahedral intermediate?",
-     "status": "pending",
-     "answer": "Pending: the mechanism diagram options are not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "A",
+     "steps": [
+      "To form the amide, a lone pair on O- moves back to form the C=O: the arrow starts at the oxygen lone pair and points to the C-O bond.",
+      "The C-Cl bond breaks heterolytically: the arrow starts at the C-Cl bond and points to Cl, which leaves as Cl-.",
+      "The N+-H bond breaks, so the arrow starts at the N-H bond and points to the N, leaving H+ and a neutral N.",
+      "Only A has all three arrows in these directions. B has the C-Cl arrow reversed, C has the N-H arrow reversed and D has the O arrow reversed."
+     ],
      "images": [
       "papers/chemistry/img/15D-Acid-Derivatives-22.jpg",
       "papers/chemistry/img/15D-Acid-Derivatives-23.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q28.jpg",
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q28-2.jpg"
+     ]
     },
     {
      "id": "Ch15D-Q29",
@@ -66438,14 +66822,20 @@ window.BANK.chemistry = {
       "reactant pair"
      ],
      "question": "An ester has the structure shown (diagram). Which pair of reactants forms it? Options: A butanoic acid and propan-2-ol, B butanoyl chloride and propan-1-ol, C propanoic acid and butan-1-ol, D propanoyl chloride and butan-2-ol.",
-     "status": "pending",
-     "answer": "Pending: the ester structure shown is a diagram and is not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: butanoyl chloride and propan-1-ol",
+     "steps": [
+      "The acyl part, CH3CH2CH2C(=O)-, has four carbons, so the acid component is butanoic acid or butanoyl chloride.",
+      "The alkyl part on oxygen is CH2CH2CH3, a straight propyl chain attached through its end carbon, so the alcohol is propan-1-ol.",
+      "A would give the propan-2-yl ester. Options C and D use propanoyl (3 carbons) as the acyl part and so do not match."
+     ],
      "images": [
       "papers/chemistry/img/15D-Acid-Derivatives-24.jpg",
       "papers/chemistry/img/15D-Acid-Derivatives-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q30.jpg"
+     ]
     },
     {
      "id": "Ch15D-Q31",
@@ -66461,14 +66851,20 @@ window.BANK.chemistry = {
       "dilute hydrochloric acid"
      ],
      "question": "An ester is hydrolysed in excess dilute HCl to form ethanol and propanedioic acid. What is the skeletal formula of this ester? (Options shown as diagrams)",
-     "status": "pending",
-     "answer": "Pending: the skeletal formula options are diagrams not in the extracted text (expected diethyl propanedioate, CH2(COOC2H5)2)",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: diethyl propanedioate, CH3CH2OOC-CH2-COOCH2CH3",
+     "steps": [
+      "Hydrolysis of the ester gives propanedioic acid, HOOCCH2COOH, plus ethanol, so the ester has two COO groups on a CH2, each joined to an ethyl group.",
+      "The ester is CH2(COOCH2CH3)2: the diester made of the dicarboxylic acid and two ethanol molecules.",
+      "B is propyl ethanoate, C is ethyl propanoate, and D is a diester of ethane-1,2-diol, which would give a different diol on hydrolysis."
+     ],
      "images": [
       "papers/chemistry/img/15D-Acid-Derivatives-24.jpg",
       "papers/chemistry/img/15D-Acid-Derivatives-25.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q31.jpg"
+     ]
     },
     {
      "id": "Ch15D-Q32",
@@ -66512,14 +66908,20 @@ window.BANK.chemistry = {
       "structure"
      ],
      "question": "A polyester is made from pentane-1,5-diol and pentanedioic acid. Which is the repeat unit of this polyester? (Options shown as diagrams)",
-     "status": "pending",
-     "answer": "Pending: repeat-unit options are structure diagrams, not in the extracted text",
-     "steps": [],
+     "status": "ready",
+     "answer": "C",
+     "steps": [
+      "Pentanedioic acid is HOOC-(CH2)3-COOH, so the acid part of the repeat unit is -C(=O)-(CH2)3-C(=O)-; pentane-1,5-diol is HO-(CH2)5-OH, giving -O-(CH2)5-O-.",
+      "The repeat unit must start with C=O and end with O so that it joins end to end with an ester link without O-O bonds: -C(=O)-(CH2)3-C(=O)-O-(CH2)5-O-.",
+      "A and B start with O and end with O, which would give O-O links when repeated; B and D use (CH2)5 in the acid part, which is wrong. C is correct."
+     ],
      "images": [
       "papers/chemistry/img/15D-Acid-Derivatives-25.jpg",
       "papers/chemistry/img/15D-Acid-Derivatives-26.jpg"
      ],
-     "figures": []
+     "figures": [
+      "papers/chemistry/fig/15D-Acid-Derivatives-Q33.jpg"
+     ]
     },
     {
      "id": "Ch15D-Q34",

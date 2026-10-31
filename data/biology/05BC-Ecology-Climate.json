@@ -4913,6 +4913,9 @@
         "papers/biology/img/05BC-Ecology-Climate-092.jpg",
         "papers/biology/img/05BC-Ecology-Climate-093.jpg",
         "papers/biology/img/05BC-Ecology-Climate-094.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q35.jpg"
       ]
     },
     {
@@ -4930,13 +4933,20 @@
         "comparison"
       ],
       "question": "Describe two conclusions that can be made from the graph of spleen volumes of the Saluan and Bajau people.",
-      "status": "pending",
-      "answer": "Missing: the graph of spleen volumes for the Saluan and Bajau people is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The Bajau have larger spleens: their median volume (about 170 cm^3) is about 1.5 times that of the Saluan (about 110 cm^3), and their volumes are more variable (about 40 to 283 cm^3 against about 40 to 170 cm^3).",
+      "steps": [
+        "The median spleen volume of the Bajau (about 170 cm^3) is higher than that of the Saluan (about 110 cm^3), so the Bajau have larger spleens on average.",
+        "The Bajau data are more spread out: the interquartile range is about 135 to 230 cm^3 (95 cm^3) against about 86 to 140 cm^3 (54 cm^3) for the Saluan, and the largest Bajau spleen is about 283 cm^3 against about 170 cm^3.",
+        "The two ranges overlap, with the same lowest value (about 40 cm^3), so some Bajau have spleens no larger than Saluan spleens."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-092.jpg",
         "papers/biology/img/05BC-Ecology-Climate-093.jpg",
         "papers/biology/img/05BC-Ecology-Climate-094.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q35.jpg"
       ]
     },
     {
@@ -5101,12 +5111,19 @@
         "productivity"
       ],
       "question": "Which row of the table identifies the box representing NPP, the box representing GPP and the box representing respiration in the productivity diagram?",
-      "status": "pending",
-      "answer": "Missing: the productivity diagram and the table of boxes are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Box J is GPP, Box K is respiration (R) and Box L is NPP.",
+      "steps": [
+        "Box J receives the input from photosynthesis, so it is gross primary productivity (GPP).",
+        "Part of the GPP is lost as respiration (box K) and the rest is net primary productivity (box L), since NPP = GPP - R.",
+        "The biomass distribution to leaves, wood and roots comes from box L, the NPP."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-096.jpg",
         "papers/biology/img/05BC-Ecology-Climate-097.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q37.jpg"
       ]
     },
     {
@@ -5180,12 +5197,19 @@
         "proteins"
       ],
       "question": "Which row of the table shows what can be found in the biomass of the leaves and roots of trees?",
-      "status": "pending",
-      "answer": "Missing: the table rows are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: leaves contain chlorophyll and starch, and roots contain starch and protein.",
+      "steps": [
+        "Leaves have chloroplasts with chlorophyll and make and store starch.",
+        "Roots contain no chlorophyll, but store starch and contain protein (e.g. enzymes and membrane proteins).",
+        "Glycogen is an animal and fungal storage molecule and is not found in plants, so rows B and D are wrong; row A is wrong because roots have no chlorophyll."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-096.jpg",
         "papers/biology/img/05BC-Ecology-Climate-097.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q37-2.jpg"
       ]
     },
     {
@@ -5405,13 +5429,21 @@
         "graph"
       ],
       "question": "Explain the changes in the numbers of alder, spruce and hemlock with time after the glacier has retreated, using the graph.",
-      "status": "pending",
-      "answer": "Missing: the graph of plant numbers against time after glacier retreat is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Alder, the pioneer, rises first and then disappears by 130 years; hemlock and spruce increase later and replace it, with spruce peaking at 110 years and then falling while hemlock stays at 18 per km^2, as in primary succession.",
+      "steps": [
+        "Alder (pioneer) appears first (5 per km^2 at 20 years) and reaches 19 per km^2 at about 80 years; it fixes nitrogen, so adds nitrates and organic matter to the bare soil.",
+        "The improved soil allows hemlock (from 20 years, 18 per km^2 by 80 years) and spruce (rising to 20 per km^2 at 110 years) to establish.",
+        "Alder falls from about 80 years and reaches zero at 130 years because spruce and hemlock grow taller and shade it, so it loses the competition for light.",
+        "Spruce then falls from 20 to 9 per km^2 by 200 years, while hemlock remains steady at 18, because hemlock is better adapted to the shaded conditions and outcompetes spruce, giving a stable climax community."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-099.jpg",
         "papers/biology/img/05BC-Ecology-Climate-100.jpg",
         "papers/biology/img/05BC-Ecology-Climate-101.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q39.jpg"
       ]
     },
     {
@@ -5429,13 +5461,19 @@
         "calculation"
       ],
       "question": "In 1863 there were 150 000 hares. Calculate how many times more hares there were than lynx.",
-      "status": "pending",
-      "answer": "Missing: the number of lynx in 1863 is read from graph 1, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 7 times (150 000 / 22 000 = 6.8).",
+      "steps": [
+        "Read the graph for 1863: the number of lynx is about 22 x 10^3 = 22 000.",
+        "Number of times more hares = 150 000 / 22 000 = 6.8, so about 7."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-101.jpg",
         "papers/biology/img/05BC-Ecology-Climate-102.jpg",
         "papers/biology/img/05BC-Ecology-Climate-103.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q40.jpg"
       ]
     },
     {
@@ -5452,13 +5490,20 @@
         "population change"
       ],
       "question": "Sketch a line on graph 2 to show the likely changes in the numbers of hares from 1855 to 1880.",
-      "status": "pending",
-      "answer": "Missing: graph 2 and the drawn sketch cannot be shown in text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A cyclic line with the same 10-year cycle as the lynx, with each peak and trough about 1 to 2 years before the lynx peak and trough, and always above the lynx line.",
+      "steps": [
+        "Draw a wavy line on graph 2 from 1855 to 1880 with peaks at about 1865 and 1875, about 1 to 2 years before the lynx peaks (about 1866 and 1876).",
+        "The hare minima should be at about 1860 and 1870, just before the lynx minima (about 1861 and 1871).",
+        "The hare line must be above the lynx line throughout, because hares are more numerous than lynx, and its peaks should be higher."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-101.jpg",
         "papers/biology/img/05BC-Ecology-Climate-102.jpg",
         "papers/biology/img/05BC-Ecology-Climate-103.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q40-2.jpg"
       ]
     },
     {
@@ -5488,6 +5533,10 @@
         "papers/biology/img/05BC-Ecology-Climate-101.jpg",
         "papers/biology/img/05BC-Ecology-Climate-102.jpg",
         "papers/biology/img/05BC-Ecology-Climate-103.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q40.jpg",
+        "papers/biology/fig/05BC-Ecology-Climate-Q40-2.jpg"
       ]
     },
     {
@@ -5534,14 +5583,21 @@
         "label"
       ],
       "question": "Label the Tpiv for turtles on the graph (the temperature at which equal numbers of males and females are produced).",
-      "status": "pending",
-      "answer": "Missing: the graph must be labelled and a drawn label cannot be given in text; Tpiv is where the turtle curve crosses 50% males.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Tpiv is labelled on the x-axis at the temperature where the turtle curve passes through 50% males.",
+      "steps": [
+        "Find the point halfway between 0 and 100% males (50%) on the y-axis.",
+        "Draw a horizontal line across to the turtle curve and a vertical line down to the temperature axis.",
+        "Label the point on the temperature axis where the line meets it as Tpiv."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-103.jpg",
         "papers/biology/img/05BC-Ecology-Climate-104.jpg",
         "papers/biology/img/05BC-Ecology-Climate-105.jpg",
         "papers/biology/img/05BC-Ecology-Climate-106.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q41.jpg"
       ]
     },
     {
@@ -5559,14 +5615,21 @@
         "sex ratio"
       ],
       "question": "Describe the effect of the temperature of the sand on the percentage of males produced in these three reptiles.",
-      "status": "pending",
-      "answer": "Missing: the graphs of percentage of males against sand temperature for the three reptiles are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Turtles: % males falls from 100% to 0% as sand temperature rises; tuatara: % males rises from 0% to about 100% as it rises; crocodiles: % males is high only in a middle range of temperature, and low at both low and high temperatures.",
+      "steps": [
+        "Turtle: low temperatures give 100% males, and the percentage of males falls steeply over a narrow range (around the pivotal temperature) to 0% at high temperatures, so high temperature gives females.",
+        "Tuatara: the opposite, with about 0% males at low temperature rising to almost 100% males at high temperature.",
+        "Crocodile: males about 0% at low temperature, rising to nearly 100% at an intermediate range of temperatures, then falling to 0% again at high temperature, so females are produced at both extremes."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-103.jpg",
         "papers/biology/img/05BC-Ecology-Climate-104.jpg",
         "papers/biology/img/05BC-Ecology-Climate-105.jpg",
         "papers/biology/img/05BC-Ecology-Climate-106.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q41.jpg"
       ]
     },
     {
@@ -5584,14 +5647,23 @@
         "graph"
       ],
       "question": "Explain how temperature determines the sex of turtles, using the graph in part (a) and the diagram.",
-      "status": "pending",
-      "answer": "Missing: the diagram of sex determination and the temperature graph are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Temperature switches on one of two gene expression pathways: at lower temperatures the genes for DMRT1, Sox9 and AMH are expressed and the embryo develops male organs, whereas at higher temperatures CIRP and aromatase are expressed and it develops female organs.",
+      "steps": [
+        "The graph shows that for turtles a low sand temperature gives about 100% males and a high temperature gives about 0% males, with a pivotal temperature between at which equal numbers are produced.",
+        "The diagram shows that temperature acts at the stage of development where the pathway divides, so it determines which genes are transcribed and translated.",
+        "At the male-producing temperatures the genes for the three proteins DMRT1, Sox9 and AMH are expressed, so the embryo develops male sex organs.",
+        "At the female-producing temperatures the genes for CIRP and aromatase are expressed instead, so female sex organs develop."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-103.jpg",
         "papers/biology/img/05BC-Ecology-Climate-104.jpg",
         "papers/biology/img/05BC-Ecology-Climate-105.jpg",
         "papers/biology/img/05BC-Ecology-Climate-106.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q41.jpg",
+        "papers/biology/fig/05BC-Ecology-Climate-Q41-2.jpg"
       ]
     },
     {
@@ -5640,14 +5712,23 @@
         "green sea turtle"
       ],
       "question": "Discuss whether scientists should be concerned that microplastics could be endangering turtles, using all the information including the graph and table.",
-      "status": "pending",
-      "answer": "Missing: the graph of temperature differences and the table of mean sand temperatures are not in the text (the Tpiv values are in the question).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Yes, there is some cause for concern: sand with microplastic is warmer (30.294 and 30.473 C against 30.047 C), and as the control is already above the pivotal temperatures it would produce even more females, but the rise is small compared with the variation, so more evidence is needed.",
+      "steps": [
+        "Microplastic raises the mean sand temperature by 0.25 C (25%) and 0.43 C (30%), and the graph shows the difference is positive on most days, so more microplastic gives more warming.",
+        "The control mean (30.047 C) is already above the pivotal temperatures for flatback (29.4 C) and green turtles (30.0 C), so mostly females are produced; microplastic increases the temperature further, towards the 31.1 C at which all are female (a 0.43 C rise is about 13% of the 3.4 C range from 27.7 to 31.1 C), so the sex ratio would be even more female-biased.",
+        "Too few males would reduce breeding success and genetic diversity, so populations could fall and turtles (already endangered) would be more at risk.",
+        "Against this: the standard deviations (about 3 C) are much larger than the differences (0.25 to 0.43 C), so the effect may not be significant; the tubs are small and short term, not natural beaches, and 25 to 30% microplastic is probably higher than on most beaches.",
+        "Conclusion: scientists should be concerned and should investigate natural beaches and use statistics, because even a small rise could change the sex ratio."
+      ],
       "images": [
         "papers/biology/img/05BC-Ecology-Climate-103.jpg",
         "papers/biology/img/05BC-Ecology-Climate-104.jpg",
         "papers/biology/img/05BC-Ecology-Climate-105.jpg",
         "papers/biology/img/05BC-Ecology-Climate-106.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/05BC-Ecology-Climate-Q41-3.jpg"
       ]
     },
     {
