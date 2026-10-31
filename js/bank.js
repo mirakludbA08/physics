@@ -470,9 +470,10 @@
   }
 
   /* ---------- Download as PDF ----------
-     Writes the questions on screen (or their answers) into a printable page in a
-     new tab and opens the print dialog, where "Save as PDF" downloads it. Both
-     PDFs number the questions the same way, so answers match questions. */
+     Builds a print-only copy of the questions on screen (or their answers) in this
+     page and opens the print dialog, where "Save as PDF" downloads it. No pop-up is
+     used, because pop-up blockers and phones often stop them. Both PDFs number the
+     questions the same way, so answers match questions. */
   const PDF_WARN_AT = 300;
 
   function esc(s) {
@@ -507,8 +508,6 @@
     const qs = currentQuestions();
     if (!qs.length) { window.alert('There are no questions in this list to download.'); return; }
     if (qs.length > PDF_WARN_AT && !window.confirm(qs.length + ' questions make a very long PDF. Press Cancel and pick a topic to make it shorter, or OK to carry on.')) return;
-    const win = window.open('', '_blank');
-    if (!win) { window.alert('Your browser blocked the new tab. Allow pop-ups for this site, then try again.'); return; }
 
     const name = SUBJECTS[subject].title.replace(' question bank', '');
     const title = name + (kind === 'answers' ? ' answers' : ' questions');
@@ -527,21 +526,34 @@
       '<span class="pq-marks">' + q.marks + (q.marks === 1 ? ' mark' : ' marks') + '</span></div>' +
       (kind === 'answers' ? pdfAnswer(q) : pdfQuestion(q, withPages, printed)) + '</section>').join('');
 
-    win.document.open();
-    win.document.write('<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">' +
-      '<meta name="viewport" content="width=device-width, initial-scale=1.0">' +
-      '<base href="' + esc(location.href) + '">' +
-      '<title>' + esc(title) + ' · IALqBank</title>' +
-      '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">' +
-      '<link rel="stylesheet" href="css/print.css"></head><body>' +
-      '<div class="pdf-bar"><p>In the print window, choose <strong>Save as PDF</strong> to download this.</p>' +
-      '<button type="button" onclick="print()">Save as PDF</button></div>' +
-      '<header class="pdf-head"><h1>' + esc(title) + '</h1><p>' + esc(scope) + ' · IALqBank</p></header>' +
-      body +
-      // Print once the pages and maths fonts have loaded.
-      '<script>addEventListener("load", function () { (document.fonts ? document.fonts.ready : Promise.resolve()).then(function () { setTimeout(print, 300); }); });</script>' +
-      '</body></html>');
-    win.document.close();
+    document.querySelectorAll('.print-area, .pdf-wait').forEach((n) => n.remove());
+    const area = el('div', 'print-area');
+    area.innerHTML = '<header class="pdf-head"><h1>' + esc(title) + '</h1><p>' + esc(scope) + ' · IALqBank</p></header>' + body;
+    document.body.appendChild(area);
+
+    // Wait for the paper pages and the maths fonts, so nothing prints half-loaded.
+    const note = el('div', 'pdf-wait', 'Preparing your PDF…');
+    document.body.appendChild(note);
+    const imgs = Array.from(area.querySelectorAll('img'));
+    let loaded = 0;
+    const tick = () => { note.textContent = 'Preparing your PDF: loading page ' + loaded + ' of ' + imgs.length + '…'; };
+    if (imgs.length) tick();
+    Promise.all(imgs.map((img) => (img.complete ? Promise.resolve() : new Promise((res) => {
+      img.onload = img.onerror = () => { loaded++; tick(); res(); };
+    }))))
+      .then(() => (document.fonts ? document.fonts.ready : null))
+      .then(() => {
+        note.remove();
+        // The saved PDF is named after the page title.
+        const pageTitle = document.title;
+        document.title = title + ' · IALqBank';
+        document.body.classList.add('printing');
+        window.addEventListener('afterprint', () => {
+          document.body.classList.remove('printing');
+          document.title = pageTitle;
+        }, { once: true });
+        window.print();
+      });
   }
 
   document.querySelectorAll('.pdf-btn').forEach((b) => {

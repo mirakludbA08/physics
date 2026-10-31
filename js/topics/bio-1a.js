@@ -298,4 +298,87 @@
       ];
     }
   });
+  /* ======================================================================
+     Building a triglyceride: glycerol + three fatty acids by condensation
+     ====================================================================== */
+  // A fatty acid tail as a zigzag; an unsaturated (cis) one bends at its C=C.
+  function tail(ctx, x, y, unsat, col) {
+    const L = 15, n = 14;
+    let dir = 0, px = x, py = y;
+    const pts = [[px, py]];
+    for (let i = 0; i < n; i++) {
+      if (unsat && i === 7) dir += 0.7;
+      px += Math.cos(dir) * L;
+      py += Math.sin(dir) * L;
+      const off = (i % 2 ? -6 : 6);
+      pts.push([px - Math.sin(dir) * off, py + Math.cos(dir) * off]);
+    }
+    Sim.polyline(ctx, pts, { color: col, width: 2.2 });
+    if (unsat) {
+      const a = pts[7], b = pts[8];
+      Sim.line(ctx, a[0] + 4, a[1] - 4, b[0] + 4, b[1] - 4, { color: C.red, width: 2 });
+      Sim.text(ctx, 'C=C', (a[0] + b[0]) / 2 + 6, (a[1] + b[1]) / 2 - 12, { size: 10.5, bold: true, color: C.red });
+    }
+    return pts[pts.length - 1];
+  }
+
+  Sim.create('#sim-bio-1a-lipid', {
+    title: 'Building a triglyceride',
+    height: 320,
+    controls: [
+      { key: 'a', type: 'select', label: 'Fatty acid 1', options: [['sat', 'saturated'], ['unsat', 'unsaturated']], value: 'sat' },
+      { key: 'b', type: 'select', label: 'Fatty acid 2', options: [['sat', 'saturated'], ['unsat', 'unsaturated']], value: 'sat' },
+      { key: 'c', type: 'select', label: 'Fatty acid 3', options: [['sat', 'saturated'], ['unsat', 'unsaturated']], value: 'unsat' },
+      { key: 'joined', label: 'Ester bonds formed', min: 0, max: 3, step: 1, value: 3, format: (v) => v.toFixed(0) }
+    ],
+    draw(s) {
+      const { ctx, w, h, p } = s;
+      const kinds = [p.a, p.b, p.c];
+      const gx = 26, rows = [70, 150, 230];
+      // glycerol backbone
+      for (let i = 0; i < 2; i++) Sim.line(ctx, gx + 21, rows[i] + 10, gx + 21, rows[i + 1] - 10, { color: C.ink, width: 2.2 });
+      Sim.text(ctx, 'glycerol', gx + 4, rows[2] + 34, { size: 12, bold: true, color: C.navy });
+      rows.forEach((y, i) => {
+        const joined = i < p.joined;
+        Sim.text(ctx, 'C', gx + 16, y, { size: 14, bold: true, color: C.ink });
+        const fx = joined ? gx + 50 : gx + 110;
+        if (joined) {
+          Sim.text(ctx, '–O–C', gx + 30, y, { size: 14, bold: true, color: C.red });
+          Sim.text(ctx, 'O', gx + 74, y - 22, { size: 13, bold: true, color: C.red });
+          Sim.line(ctx, gx + 78, y - 15, gx + 78, y - 7, { color: C.red, width: 2 });
+          Sim.line(ctx, gx + 82, y - 15, gx + 82, y - 7, { color: C.red, width: 2 });
+          tail(ctx, gx + 90, y, kinds[i] === 'unsat', kinds[i] === 'unsat' ? C.orange : C.blue);
+        } else {
+          Sim.text(ctx, '–OH', gx + 30, y, { size: 14, bold: true, color: C.ink });
+          Sim.text(ctx, 'HO–C', fx, y, { size: 14, bold: true, color: C.ink });
+          Sim.text(ctx, 'O', fx + 30, y - 22, { size: 13, bold: true, color: C.ink });
+          Sim.line(ctx, fx + 34, y - 15, fx + 34, y - 7, { color: C.ink, width: 2 });
+          Sim.line(ctx, fx + 38, y - 15, fx + 38, y - 7, { color: C.ink, width: 2 });
+          tail(ctx, fx + 48, y, kinds[i] === 'unsat', kinds[i] === 'unsat' ? C.orange : C.blue);
+        }
+      });
+      // water released
+      const wx = w - 120;
+      Sim.text(ctx, 'water released', wx, 34, { size: 12, bold: true, color: C.navy });
+      for (let i = 0; i < p.joined; i++) {
+        Sim.circle(ctx, wx + 18 + i * 34, 64, 13, { fill: '#a5d8ff', stroke: '#4dabf7', width: 1 });
+        Sim.text(ctx, 'H₂O', wx + 18 + i * 34, 65, { size: 10, bold: true, color: C.navy, align: 'center' });
+      }
+      const unsat = kinds.filter((k) => k === 'unsat').length;
+      const state = p.joined < 3 ? '' : unsat === 0 ? 'tails pack closely: a solid fat' : 'kinked tails cannot pack closely: a liquid oil';
+      if (state) Sim.text(ctx, state, w - 20, h - 18, { size: 12.5, bold: true, color: unsat ? C.orange : C.blue, align: 'right' });
+    },
+    readout(s) {
+      const p = s.p;
+      const kinds = [p.a, p.b, p.c];
+      const unsat = kinds.filter((k) => k === 'unsat').length;
+      return [
+        ['Reaction', 'condensation: each ester bond releases one H₂O', true],
+        ['So far', p.joined + ' ester bond' + (p.joined === 1 ? '' : 's') + ', ' + p.joined + ' H₂O released'],
+        ['At room temperature', p.joined < 3 ? 'not yet a triglyceride' : unsat === 0 ? 'saturated: straight tails pack closely, so it is a solid (a fat)' : unsat + ' unsaturated tail' + (unsat > 1 ? 's' : '') + ': cis C=C bends stop close packing, so weaker forces and a liquid (an oil)'],
+        ['Hydrolysis', 'adding 3 H₂O back (with lipase) breaks the ester bonds again']
+      ];
+    }
+  });
+
 })();

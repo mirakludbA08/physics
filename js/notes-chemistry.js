@@ -34,25 +34,25 @@ window.NOTES_SITE = [
     pages: [
       ['11-kinetics.html', 'Kinetics', 'Rate equations, orders, mechanisms, activation energy'],
       ['12-entropy-energetics.html', 'Entropy and energetics', 'Lattice energy, Born–Haber cycles, entropy, Gibbs energy'],
-      // NOT WRITTEN YET: ['13-chemical-equilibria.html', 'Chemical equilibria', 'Kc, Kp, effect of conditions on K'],
-      // NOT WRITTEN YET: ['14-acid-base.html', 'Acid-base equilibria', 'pH, Ka, Kw, buffers, titration curves, indicators'],
-      // NOT WRITTEN YET: ['15-carbonyls-acids-chirality.html', 'Carbonyls, carboxylic acids and chirality', 'Optical isomers, aldehydes, ketones, acids, esters, NMR, chromatography'],
+      ['13-chemical-equilibria.html', 'Chemical equilibria', 'Kc, Kp, effect of conditions on K'],
+      ['14-acid-base.html', 'Acid-base equilibria', 'pH, Ka, Kw, buffers, titration curves, indicators'],
+      ['15-carbonyls-acids-chirality.html', 'Carbonyls, carboxylic acids and chirality', 'Optical isomers, aldehydes, ketones, acids, esters, NMR, chromatography'],
     ]
   },
   {
     level: 'A2', unit: 'Unit 5', code: 'WCH15', name: 'Transition Metals and Organic Nitrogen Chemistry',
     pages: [
-      // NOT WRITTEN YET: ['16-redox-equilibria.html', 'Redox equilibria', 'Electrode potentials, cells, redox titrations, fuel cells'],
-      // NOT WRITTEN YET: ['17-transition-metals.html', 'Transition metals and their chemistry', 'Complex ions, colour, ligand exchange, catalysis'],
-      // NOT WRITTEN YET: ['18-arenes.html', 'Arenes', 'Benzene structure, electrophilic substitution, phenol'],
-      // NOT WRITTEN YET: ['19-organic-nitrogen.html', 'Organic nitrogen compounds', 'Amines, amides, amino acids, proteins, polymers'],
-      // NOT WRITTEN YET: ['20-organic-synthesis.html', 'Organic synthesis', 'Synthetic routes, Grignard reagents, practical techniques'],
+      ['16-redox-equilibria.html', 'Redox equilibria', 'Electrode potentials, cells, redox titrations, fuel cells'],
+      ['17-transition-metals.html', 'Transition metals and their chemistry', 'Complex ions, colour, ligand exchange, catalysis'],
+      ['18-arenes.html', 'Arenes', 'Benzene structure, electrophilic substitution, phenol'],
+      ['19-organic-nitrogen.html', 'Organic nitrogen compounds', 'Amines, amides, amino acids, proteins, polymers'],
+      ['20-organic-synthesis.html', 'Organic synthesis', 'Synthetic routes, Grignard reagents, practical techniques'],
     ]
   },
   {
     level: 'AS + A2', unit: 'Units 3 & 6', code: 'WCH13 / WCH16', name: 'Practical Skills',
     pages: [
-      // NOT WRITTEN YET: ['practical-skills.html', 'Core practicals and skills', 'Every core practical, techniques, errors and uncertainties'],
+      ['practical-skills.html', 'Core practicals and skills', 'Every core practical, techniques, errors and uncertainties'],
     ]
   }
 ];

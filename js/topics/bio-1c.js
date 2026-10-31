@@ -144,4 +144,62 @@
       return out;
     }
   });
+  /* ======================================================================
+     Atherosclerosis: an atheroma narrowing an artery, and thrombosis
+     ====================================================================== */
+  Sim.create('#sim-bio-1c-artery', {
+    title: 'Atherosclerosis in an artery',
+    height: (w) => (w >= 640 ? 300 : 480),
+    controls: [
+      { key: 'plaque', label: 'Thickness of the atheroma', min: 0, max: 85, step: 1, value: 35, unit: '% of the lumen width', format: (v) => v.toFixed(0) },
+      { key: 'clot', type: 'check', label: 'The atheroma ruptures and a thrombus forms', value: false }
+    ],
+    draw(s) {
+      const { ctx, w, h, p } = s;
+      const wide = w >= 640;
+      const cx = wide ? w * 0.28 : w / 2, cy = wide ? h / 2 : 150, R = Math.min(110, h * 0.36);
+      const r0 = R * 0.62;                       // healthy lumen radius
+      const r = r0 * (1 - p.plaque / 100);      // narrowed lumen
+      // artery wall
+      Sim.circle(ctx, cx, cy, R, { fill: '#f3b6b6', stroke: '#c92a2a', width: 2 });
+      Sim.circle(ctx, cx, cy, r0 + 4, { fill: '#ffe3e3' });
+      // the atheroma fills the space between the healthy lumen and the narrowed one, on one side
+      Sim.circle(ctx, cx, cy, r0, { fill: '#ffd43b', stroke: '#f08c00', width: 1.5 });
+      const off = r0 - r;
+      Sim.circle(ctx, cx + off * 0.9, cy, r, { fill: p.clot ? '#7a1010' : '#e03131', stroke: '#c92a2a', width: 1 });
+      if (p.clot && p.plaque < 60) {
+        Sim.circle(ctx, cx + off * 0.9, cy, r * 0.75, { fill: '#e03131' });
+        Sim.text(ctx, 'thrombus', cx + off * 0.9, cy + r * 0.85 + 14, { size: 11.5, bold: true, color: '#7a1010', align: 'center' });
+      }
+      if (p.plaque > 15) Sim.text(ctx, 'atheroma', cx + off * 0.9 - r - 6, cy + 4, { size: 11.5, bold: true, color: '#8a5a00', align: 'right' });
+      Sim.text(ctx, 'artery wall', cx, cy - R - 10, { size: 11.5, color: C.muted, align: 'center' });
+      // lumen area bar and what happens
+      const blocked = p.clot && p.plaque >= 60;
+      const area = blocked ? 0 : (p.clot ? 0.5625 : 1) * Math.pow(r / r0, 2);
+      const bx = wide ? w * 0.56 : 30, by = wide ? 60 : 320, bw = wide ? w * 0.36 : w - 90;
+      Sim.text(ctx, 'Lumen area compared with a healthy artery', bx, by - 10, { size: 12, bold: true, color: C.navy });
+      Sim.rect(ctx, bx, by, bw, 18, { fill: C.light, r: 4 });
+      Sim.rect(ctx, bx, by, Math.max(2, bw * area), 18, { fill: blocked ? '#7a1010' : '#e03131', r: 4 });
+      Sim.text(ctx, (area * 100).toFixed(0) + '%', bx + bw + 6, by + 10, { size: 12, bold: true, color: C.ink });
+      const lines = blocked
+        ? ['Blood flow stops beyond the clot.', 'Cells there are starved of oxygen:', 'in a coronary artery, a heart attack;', 'in the brain, a stroke.']
+        : p.clot
+          ? ['A thrombus has formed on the ruptured', 'atheroma, narrowing the lumen further.', 'If it grows, or breaks off and lodges in a', 'smaller artery, it can block blood flow.']
+        : p.plaque > 50
+          ? ['Much narrower lumen: blood pressure rises,', 'which damages more endothelium, so more', 'atheromas form: positive feedback.', 'A rupture could trigger a thrombus.']
+          : p.plaque > 5
+            ? ['Endothelium damaged; white blood cells and', 'cholesterol build up under it as an atheroma.', 'The artery wall also becomes less elastic.']
+            : ['A healthy artery: smooth endothelium,', 'wide lumen, elastic wall.'];
+      lines.forEach((t, i) => Sim.text(ctx, t, bx, by + 50 + i * 20, { size: 12, color: C.ink }));
+    },
+    readout(s) {
+      const p = s.p;
+      const blocked = p.clot && p.plaque >= 60;
+      return [
+        ['Stage', blocked ? 'complete blockage by a thrombus' : p.clot ? 'thrombus partly blocking the narrowed lumen' : p.plaque > 5 ? 'atheroma narrowing the lumen' : 'healthy', true],
+        ['Why a clot forms', 'a ruptured atheroma exposes collagen; platelets stick and release thromboplastin, starting the clotting cascade']
+      ];
+    }
+  });
+
 })();
