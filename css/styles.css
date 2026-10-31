@@ -28,6 +28,9 @@
   --key-bg: #edf2ff;
   --blue-soft: #9fc0ff;
   --blue-scroll: #2a56b0;
+  --line-strong: #c7d2e3;
+  --surface-2: #eef2f8;
+  --ink-2: #3d4652;
   --tint-1: #eef3ff;
   --tint-2: #e3ebfb;
   --tint-3: #fbfcff;
@@ -38,8 +41,8 @@ body {
     font-family: bryant-web, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f8f9fa;
-    color: #333;
+    background-color: var(--bg);
+    color: var(--ink);
 }
 .sidebar {
   width: 250px;
@@ -191,7 +194,7 @@ body {
   margin-left: 250px;
   padding: 40px;
   min-height: 100vh;
-  background-color: #f8f9fa;
+  background-color: var(--bg);
   box-sizing: border-box;
 }
 .page {
@@ -261,7 +264,7 @@ body {
    Headings & text
    ========================================================================== */
 .section-title {
-  color: var(--navy);
+  color: var(--navy-text, var(--navy));
   font-size: 1.65rem;
   margin: 56px 0 18px;
   padding-bottom: 8px;
@@ -305,14 +308,14 @@ mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; padding: 2
   padding: 5px 12px;
   border-radius: 999px;
   background: var(--tint-2);
-  color: var(--navy);
+  color: var(--navy-text, var(--navy));
 }
 .chip.level-as { background: var(--blue); color: #fff; }
 .chip.level-a2 { background: var(--navy); color: #fff; }
 
 /* On-this-page list */
 .toc {
-  background: #fff;
+  background: var(--card);
   border-radius: 12px;
   box-shadow: var(--shadow-soft);
   padding: 14px 18px;
@@ -340,7 +343,7 @@ mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; padding: 2
 .toc a {
   display: inline-block;
   text-decoration: none;
-  color: var(--navy);
+  color: var(--navy-text, var(--navy));
   background: var(--tint-1);
   padding: 6px 12px;
   border-radius: 999px;
@@ -352,7 +355,7 @@ mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; padding: 2
    Cards, equations, callouts
    ========================================================================== */
 .card {
-  background: #fff;
+  background: var(--card);
   border-radius: 12px;
   box-shadow: var(--shadow-soft);
   padding: 18px 22px;
@@ -368,7 +371,7 @@ mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; padding: 2
 
 .eq-card {
   position: relative;
-  background: #fff;
+  background: var(--card);
   border-left: 6px solid var(--blue);
   border-radius: 12px;
   box-shadow: var(--shadow-soft);
@@ -378,7 +381,7 @@ mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; padding: 2
 .eq-card .eq { font-size: 1.15em; }
 .eq-card .eq-name {
   font-weight: bold;
-  color: var(--navy);
+  color: var(--navy-text, var(--navy));
   margin: 0 0 4px;
   font-size: 17px;
 }
@@ -419,7 +422,7 @@ mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; padding: 2
 }
 .callout > :first-child { margin-top: 0; }
 .callout > :last-child { margin-bottom: 0; }
-.callout h4 { margin: 0 0 6px; font-size: 18px; color: var(--navy); }
+.callout h4 { margin: 0 0 6px; font-size: 18px; color: var(--navy-text, var(--navy)); }
 .callout.tip { background: var(--tip-bg); border-left-color: var(--tip); }
 .callout.tip::before { content: "Exam tip"; background: var(--tip); }
 .callout.warn { background: var(--warn-bg); border-left-color: var(--warn); }
@@ -454,18 +457,18 @@ mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; padding: 2
   letter-spacing: 0.05em;
   text-transform: uppercase;
   background: var(--tint-2);
-  color: var(--navy);
+  color: var(--navy-text, var(--navy));
   white-space: nowrap;
 }
 .tag.offspec { background: var(--offspec); color: #fff; }
 .tag.sheet { background: var(--tip-bg); color: var(--blue-hover); }
 .tag.req { background: var(--navy); color: #fff; }
-.tag.use { background: #e9ecef; color: #495057; }
+.tag.use { background: var(--surface-2); color: var(--ink-2); }
 .tag.core { background: #6741d9; color: #fff; }
 
 /* Diagrams (static SVG / images) */
 .diagram {
-  background: #fff;
+  background: var(--card);
   border-radius: 12px;
   box-shadow: var(--shadow);
   padding: 16px;
@@ -494,7 +497,7 @@ mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; padding: 2
 table.data {
   border-collapse: collapse;
   width: 100%;
-  background: #fff;
+  background: var(--card);
   border-radius: 12px;
   overflow: hidden;
   box-shadow: var(--shadow-soft);
@@ -533,7 +536,7 @@ table.data tr:nth-child(even) td { background: var(--tint-4); }
 }
 .btn:hover { background: var(--blue-hover); border-color: var(--blue-hover); transform: scale(1.05) rotate(-2deg); }
 .btn:focus-visible { outline: 3px solid var(--blue-soft); outline-offset: 2px; }
-.btn.ghost { background: #fff; color: var(--blue); }
+.btn.ghost { background: var(--card); color: var(--blue); }
 .btn.ghost:hover { background: var(--blue); color: #fff; }
 .btn:disabled { opacity: 0.5; cursor: default; transform: none; }
 
@@ -541,7 +544,7 @@ table.data tr:nth-child(even) td { background: var(--tint-4); }
    Interactive diagrams (built by js/sim.js)
    ========================================================================== */
 .sim {
-  background: #fff;
+  background: var(--card);
   border-radius: 12px;
   box-shadow: var(--shadow);
   margin: 30px 0;
@@ -568,7 +571,7 @@ table.data tr:nth-child(even) td { background: var(--tint-4); }
 }
 .sim-stage {
   position: relative;
-  background: #fff;
+  background: var(--card);
   border-bottom: 1px solid var(--line);
 }
 .sim-stage canvas { display: block; width: 100%; }
@@ -596,7 +599,7 @@ table.data tr:nth-child(even) td { background: var(--tint-4); }
 }
 .ctrl-label output {
   font-weight: bold;
-  color: var(--navy);
+  color: var(--navy-text, var(--navy));
   font-variant-numeric: tabular-nums;
 }
 .ctrl input[type="range"] { width: 100%; accent-color: var(--blue); margin: 4px 0; }
@@ -605,9 +608,9 @@ table.data tr:nth-child(even) td { background: var(--tint-4); }
   font-size: 15px;
   padding: 6px 8px;
   border-radius: 8px;
-  border: 1px solid #c5d0e0;
-  background: #fff;
-  color: #333;
+  border: 1px solid var(--line-strong);
+  background: var(--card);
+  color: var(--ink);
 }
 .ctrl.check {
   flex: 0 1 auto;
@@ -616,7 +619,7 @@ table.data tr:nth-child(even) td { background: var(--tint-4); }
   align-items: center;
   gap: 8px;
   font-size: 15px;
-  color: #333;
+  color: var(--ink);
   padding-bottom: 6px;
 }
 .ctrl.check input { width: 18px; height: 18px; accent-color: var(--blue); margin: 0; }
@@ -640,7 +643,7 @@ table.data tr:nth-child(even) td { background: var(--tint-4); }
   font-size: 15px;
   font-variant-numeric: tabular-nums;
 }
-.ro b { color: var(--navy); }
+.ro b { color: var(--navy-text, var(--navy)); }
 .ro.hl { background: var(--blue); color: #fff; }
 .ro.hl b { color: #fff; }
 .sim figcaption {
@@ -659,7 +662,7 @@ table.data tr:nth-child(even) td { background: var(--tint-4); }
    Step-by-step derivations (built by script.js)
    ========================================================================== */
 .derive {
-  background: #fff;
+  background: var(--card);
   border-radius: 12px;
   box-shadow: var(--shadow-soft);
   border-top: 5px solid var(--navy);
@@ -673,7 +676,7 @@ table.data tr:nth-child(even) td { background: var(--tint-4); }
   gap: 8px 12px;
   margin-bottom: 8px;
 }
-.derive-title { font-weight: bold; font-size: 18px; color: var(--navy); }
+.derive-title { font-weight: bold; font-size: 18px; color: var(--navy-text, var(--navy)); }
 .derive-head .tag { white-space: normal; max-width: 100%; }
 .derive-steps { counter-reset: step; }
 .derive .step {
@@ -719,7 +722,7 @@ table.data tr:nth-child(even) td { background: var(--tint-4); }
    Quick-check questions and worked examples
    ========================================================================== */
 .mcq {
-  background: #fff;
+  background: var(--card);
   border-radius: 12px;
   box-shadow: var(--shadow-soft);
   border-left: 6px solid var(--blue);
@@ -746,7 +749,7 @@ table.data tr:nth-child(even) td { background: var(--tint-4); }
   cursor: pointer;
   padding: 10px 14px;
   border-radius: 8px;
-  border: 2px solid #d5deec;
+  border: 2px solid var(--line-strong);
   background: var(--tint-3);
   font-size: 17px;
   line-height: 1.45;
@@ -769,7 +772,7 @@ table.data tr:nth-child(even) td { background: var(--tint-4); }
 }
 
 .question-card {
-  background: #fff;
+  background: var(--card);
   border-radius: 12px;
   box-shadow: var(--shadow-soft);
   padding: 16px 22px;
@@ -833,7 +836,7 @@ details.solution[open] > summary { background: var(--blue); color: #fff; margin-
   margin: 20px 0 40px;
 }
 .unit-card {
-  background: #fff;
+  background: var(--card);
   border-radius: 12px;
   box-shadow: var(--shadow);
   overflow: hidden;
@@ -860,13 +863,13 @@ details.solution[open] > summary { background: var(--blue); color: #fff; margin-
 .unit-card li a {
   display: block;
   text-decoration: none;
-  color: #333;
+  color: var(--ink);
   padding: 8px 10px;
   border-radius: 8px;
   transition: background-color 0.3s ease, transform 0.35s var(--ease);
 }
 .unit-card li a:hover { background: var(--tint-1); transform: translateX(4px); }
-.unit-card li a strong { color: var(--navy); display: block; }
+.unit-card li a strong { color: var(--navy-text, var(--navy)); display: block; }
 .unit-card li a span { color: var(--muted); font-size: 14.5px; line-height: 1.4; }
 
 /* Prev / next */
@@ -881,11 +884,11 @@ details.solution[open] > summary { background: var(--blue); color: #fff; margin-
 }
 .page-nav a {
   text-decoration: none;
-  background: #fff;
+  background: var(--card);
   border-radius: 12px;
   box-shadow: var(--shadow-soft);
   padding: 12px 18px;
-  color: var(--navy);
+  color: var(--navy-text, var(--navy));
   flex: 1 1 240px;
   max-width: 420px;
   transition: transform 0.35s var(--ease), background-color 0.3s;
@@ -963,4 +966,149 @@ html[data-subject="chemistry"] {
   --tint-3: #fbfdfc;
   --tint-4: #f5faf8;
   --shadow-soft: 0 4px 14px rgba(5, 60, 48, 0.10);
+}
+
+/* ---------- Dark mode ----------
+   js/theme.js sets data-theme="dark" on <html>, from the reader's choice or the
+   device setting. Surfaces and text swap; coloured bars keep their colour.
+   Diagrams and interactive figures sit on white panels so their lines show. */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #0e131d;
+  --card: #161d2a;
+  --ink: #e2e7ef;
+  --ink-2: #c5cedb;
+  --muted: #9aa6b8;
+  --line: #273246;
+  --line-strong: #34405a;
+  --surface-2: #1d2636;
+  --shadow: 0 8px 8px rgba(0, 0, 0, 0.5);
+  --shadow-soft: 0 4px 14px rgba(0, 0, 0, 0.45);
+  --navy-text: #a9c2ff;
+  --key: #a9c2ff;
+  --key-bg: #171f3a;
+  --tip-bg: #13233d;
+  --offspec-bg: #33210f;
+  --warn-bg: #351717;
+  --define-bg: #132b19;
+  --tint-1: #1a2436;
+  --tint-2: #1f2a40;
+  --tint-3: #182030;
+  --tint-4: #192131;
+}
+
+:root[data-theme="dark"][data-subject="biology"] {
+  --navy-text: #b5e3b1;
+  --key: #b5e3b1;
+  --key-bg: #142a16;
+  --tip-bg: #132b16;
+}
+
+:root[data-theme="dark"][data-subject="chemistry"] {
+  --navy-text: #a3e3d2;
+  --key: #a3e3d2;
+  --key-bg: #0f2a24;
+  --tip-bg: #0f2a24;
+}
+
+:root[data-theme="dark"] .page svg[viewBox],
+:root[data-theme="dark"] .page canvas {
+  background: #fff;
+  border-radius: 6px;
+}
+
+:root[data-theme="dark"] .callout.core { background: #211a3d; }
+:root[data-theme="dark"] .mcq-options button.correct { background: #132b19; }
+:root[data-theme="dark"] .mcq-options button.wrong { background: #351717; }
+
+/* The light/dark switch, added to every page by js/theme.js. */
+.theme-toggle {
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  z-index: 45;
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 1px solid var(--line-strong);
+  border-radius: 50%;
+  background: var(--card);
+  color: var(--ink);
+  box-shadow: var(--shadow-soft);
+  cursor: pointer;
+}
+
+.theme-toggle:hover { border-color: var(--muted); }
+
+.theme-toggle svg {
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
+}
+
+@media print {
+  .theme-toggle { display: none; }
+}
+
+/* Sub-headings, links and sheet tags use the dark hover colour as text in light mode. */
+:root[data-theme="dark"] .sub-title,
+:root[data-theme="dark"] .content a,
+:root[data-theme="dark"] .tag.sheet { color: var(--navy-text); }
+
+/* This page's sections, as a drop-down under its link in the sidebar (js/script.js). */
+.nav-links li.has-sections { position: relative; }
+.nav-links li.has-sections > a.nav-link { padding-right: 40px; }
+
+.nav-sections-toggle {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  top: 3px;
+  right: 3px;
+  display: grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 6px;
+  color: #fff;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.nav-sections-toggle span { transition: transform 0.3s var(--ease); }
+.has-sections.open > .nav-sections-toggle span { transform: rotate(90deg); }
+.nav-sections-toggle:hover { background-color: rgba(255, 255, 255, 0.14); }
+.nav-sections-toggle:focus-visible { outline: 2px solid #8fb6ff; }
+
+.nav-sections {
+  display: none;
+  margin: 6px 0 4px 12px;
+  padding: 0 0 0 8px;
+  border-left: 1px solid rgba(255, 255, 255, 0.25);
+  list-style: none;
+}
+
+.has-sections.open > .nav-sections { display: block; }
+.nav-links .nav-sections li { margin-bottom: 2px; }
+
+.nav-links .nav-sections a {
+  padding: 5px 8px;
+  color: rgba(255, 255, 255, 0.82);
+  font-size: 13.5px;
+}
+
+.nav-links .nav-sections a:hover { transform: translateX(3px); }
+
+.nav-links .nav-sections a.current {
+  background-color: rgba(255, 255, 255, 0.13);
+  color: #fff;
+  font-weight: 600;
+}
+
+.nav-links .nav-sections .nav-sections-note {
+  padding: 5px 8px;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 13px;
 }

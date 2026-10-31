@@ -119,7 +119,9 @@
     return s;
   }
 
-  function format(text, subject) {
+  // The plain formatter: Unicode signs, <sup> and <sub>. Used for prose, for chemistry
+  // and biology, and as the fallback when KaTeX is missing or cannot read a run.
+  function plain(text, subject) {
     let s = escapeHtml(String(text == null ? '' : text));
 
     // Signs. Equilibrium first so "<=>" does not become "≤>".
@@ -154,7 +156,22 @@
     return s;
   }
 
-  const api = { format };
+  // Maths and physics: runs of maths are typeset by KaTeX (js/mathtex.js finds them
+  // and writes the TeX); the prose between them goes through the plain formatter.
+  function format(text, subject) {
+    const katex = typeof window !== 'undefined' && window.katex;
+    if (!katex || !window.MathTex || (subject !== 'maths' && subject !== 'physics')) return plain(text, subject);
+    return window.MathTex.segments(text, subject).map((seg) => {
+      if (seg.tex == null) return plain(seg.text, subject);
+      try {
+        return katex.renderToString(seg.tex, { throwOnError: true, strict: 'ignore' });
+      } catch (e) {
+        return plain(seg.text, subject);
+      }
+    }).join('');
+  }
+
+  const api = { format, plain };
   if (typeof window !== 'undefined') window.QFormat = api;
   if (typeof module !== 'undefined') module.exports = api;
 })();

@@ -8,8 +8,8 @@ body.bank {
   --accent-tint: #e7f1ff;
   --card-line: #dfe5ee;
   font-family: bryant-web, system-ui, sans-serif;
-  background: #f8f9fa;
-  color: #333;
+  background: var(--bg);
+  color: var(--ink);
   margin: 0;
 }
 
@@ -55,7 +55,7 @@ body.bank {
   align-items: center;
   gap: 20px;
   padding: 14px 24px;
-  background: var(--accent-deep);
+  background: var(--accent-bar, var(--accent-deep));
   color: #fff;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
 }
@@ -84,7 +84,7 @@ body.bank {
 }
 
 .subject-tab.active {
-  background: #fff;
+  background: var(--card);
   color: var(--accent-deep);
   font-weight: 600;
 }
@@ -121,11 +121,11 @@ body.bank {
 .bank-intro p {
   margin: 0 0 22px;
   line-height: 1.55;
-  color: #5b6573;
+  color: var(--muted);
 }
 
 .search-panel {
-  background: #fff;
+  background: var(--card);
   border: 1px solid var(--card-line);
   border-radius: 14px;
   padding: 18px 20px;
@@ -144,7 +144,7 @@ body.bank {
   width: 100%;
   box-sizing: border-box;
   padding: 12px 14px;
-  border: 1px solid #c7d2e3;
+  border: 1px solid var(--line-strong);
   border-radius: 10px;
   font-size: 16px;
 }
@@ -162,13 +162,13 @@ body.bank {
 }
 
 .filter-chip {
-  border: 1px solid #c7d2e3;
-  background: #fff;
+  border: 1px solid var(--line-strong);
+  background: var(--card);
   border-radius: 999px;
   padding: 6px 12px;
   font-size: 14px;
   cursor: pointer;
-  color: #333;
+  color: var(--ink);
 }
 
 .filter-chip.active {
@@ -179,7 +179,56 @@ body.bank {
 
 .result-count {
   margin: 12px 0 0;
-  color: #5b6573;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+/* Download as PDF: the questions on screen, or their answers. */
+.pdf-tools {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 12px;
+  margin-top: 12px;
+  padding-top: 14px;
+  border-top: 1px solid var(--card-line);
+}
+
+.pdf-label {
+  color: var(--accent-deep);
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.pdf-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.pdf-btn {
+  padding: 7px 14px;
+  border: 1.5px solid var(--accent-strong);
+  border-radius: 999px;
+  background: var(--card);
+  color: var(--accent-strong);
+  font: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.pdf-btn:hover {
+  background: var(--accent-strong);
+  color: #fff;
+}
+
+.pdf-pages {
+  display: flex;
+  flex-basis: 100%;
+  gap: 8px;
+  align-items: center;
+  color: var(--muted);
   font-size: 14px;
 }
 
@@ -197,7 +246,7 @@ body.bank {
 }
 
 .q-card {
-  background: #fff;
+  background: var(--card);
   border: 1px solid var(--card-line);
   border-radius: 12px;
   padding: 18px 20px;
@@ -206,7 +255,7 @@ body.bank {
 }
 
 .q-card.pending {
-  background: #fafbfc;
+  background: var(--surface-2);
 }
 
 .q-head {
@@ -219,7 +268,7 @@ body.bank {
 }
 
 .q-code {
-  background: var(--accent-deep);
+  background: var(--accent-bar, var(--accent-deep));
   color: #fff;
   padding: 3px 9px;
   border-radius: 6px;
@@ -233,7 +282,7 @@ body.bank {
   border-radius: 6px;
 }
 
-.q-marks { color: #5b6573; }
+.q-marks { color: var(--muted); }
 
 .q-text {
   margin: 0 0 14px;
@@ -243,12 +292,12 @@ body.bank {
 
 .q-pending {
   margin: 0;
-  color: #5b6573;
+  color: var(--muted);
   font-style: italic;
 }
 
 .reveal-btn {
-  background: #fff;
+  background: var(--card);
   color: var(--accent-strong);
   border: 1.5px solid var(--accent-strong);
   border-radius: 8px;
@@ -285,7 +334,7 @@ body.bank {
 .steps li { margin-bottom: 6px; }
 
 .empty {
-  color: #5b6573;
+  color: var(--muted);
   padding: 24px 0;
 }
 
@@ -296,7 +345,7 @@ body.bank {
   right: 0;
   height: 100vh;
   width: min(380px, 92vw);
-  background: var(--accent-deep);
+  background: var(--accent-bar, var(--accent-deep));
   color: #fff;
   transform: translateX(100%);
   transition: transform 0.35s cubic-bezier(.2, .9, .2, 1);
@@ -393,9 +442,9 @@ body.bank {
 }
 
 .topic-group {
-  border: 1px solid #c7d2e3;
+  border: 1px solid var(--line-strong);
   border-radius: 10px;
-  background: #fff;
+  background: var(--card);
   overflow: hidden;
 }
 
@@ -419,7 +468,7 @@ body.bank {
   background: transparent;
   padding: 9px 12px;
   font-size: 14px;
-  color: #333;
+  color: var(--ink);
   text-align: left;
   cursor: pointer;
 }
@@ -441,11 +490,23 @@ body.bank {
   color: #fff;
 }
 
+/* Some, not all, of this topic's subtopics are picked. */
+.topic-pick.partial {
+  background: var(--accent-tint);
+  color: var(--accent-deep);
+  font-weight: 600;
+}
+
+.topic-pick.partial .topic-count {
+  background: var(--accent-strong);
+  color: #fff;
+}
+
 .topic-count {
   flex: none;
   font-size: 12px;
-  color: #5b6573;
-  background: #eef2f8;
+  color: var(--muted);
+  background: var(--surface-2);
   border-radius: 999px;
   padding: 2px 8px;
 }
@@ -454,7 +515,7 @@ body.bank {
   flex: none;
   width: 40px;
   border: 0;
-  border-left: 1px solid #c7d2e3;
+  border-left: 1px solid var(--line-strong);
   background: transparent;
   color: var(--accent-strong);
   font-size: 20px;
@@ -473,15 +534,15 @@ body.bank {
 .sub-list {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  border-top: 1px solid #c7d2e3;
+  border-top: 1px solid var(--line-strong);
 }
 
 .sub-chip {
-  border-top: 1px solid #eef2f8;
+  border-top: 1px solid var(--surface-2);
 }
 
 .topic-group.open .sub-list .sub-chip:nth-child(odd) {
-  border-right: 1px solid #eef2f8;
+  border-right: 1px solid var(--surface-2);
 }
 
 /* ---------- View bar, done and review controls ---------- */
@@ -494,7 +555,7 @@ body.bank {
 
 .view-tab {
   border: 1.5px solid var(--accent-strong);
-  background: #fff;
+  background: var(--card);
   color: var(--accent-strong);
   border-radius: 999px;
   padding: 7px 14px;
@@ -509,8 +570,8 @@ body.bank {
 
 .view-tab-end {
   margin-left: auto;
-  border-color: #5b6573;
-  color: #3d4652;
+  border-color: var(--muted);
+  color: var(--ink-2);
 }
 
 .view-tab-end.active {
@@ -527,9 +588,9 @@ body.bank {
 }
 
 .action-btn {
-  background: #fff;
-  color: #3d4652;
-  border: 1px solid #aab4c4;
+  background: var(--card);
+  color: var(--ink-2);
+  border: 1px solid var(--line-strong);
   border-radius: 8px;
   padding: 6px 12px;
   font-size: 13px;
@@ -537,11 +598,11 @@ body.bank {
 }
 
 .action-btn:hover {
-  background: #eef2f8;
+  background: var(--surface-2);
 }
 
 .action-btn.on {
-  background: #eef2f8;
+  background: var(--surface-2);
   border-color: var(--accent-strong);
   color: var(--accent-strong);
 }
@@ -560,9 +621,9 @@ body.bank {
 /* ---------- Question image drop-down ---------- */
 .q-image {
   margin: 0 0 12px;
-  border: 1px solid #c7d2e3;
+  border: 1px solid var(--line-strong);
   border-radius: 10px;
-  background: #fafbfd;
+  background: var(--surface-2);
 }
 
 .q-image summary {
@@ -574,7 +635,7 @@ body.bank {
 }
 
 .q-image[open] summary {
-  border-bottom: 1px solid #c7d2e3;
+  border-bottom: 1px solid var(--line-strong);
 }
 
 .q-image-page {
@@ -583,7 +644,7 @@ body.bank {
   height: auto;
   margin: 10px auto;
   max-width: 720px;
-  background: #fff;
+  background: var(--card);
 }
 
 /* ---------- Landing page ---------- */
@@ -605,7 +666,7 @@ body.bank {
   max-width: 640px;
   font-size: 18px;
   line-height: 1.55;
-  color: #4a5361;
+  color: var(--ink-2);
 }
 
 .subject-grid {
@@ -620,7 +681,7 @@ body.bank {
 .subject-card {
   display: flex;
   flex-direction: column;
-  background: #fff;
+  background: var(--card);
   border: 1px solid var(--card-line);
   border-radius: 14px;
   overflow: hidden;
@@ -628,7 +689,7 @@ body.bank {
 }
 
 .subject-card header {
-  background: var(--accent-deep);
+  background: var(--accent-bar, var(--accent-deep));
   color: #fff;
   padding: 18px 18px 16px;
 }
@@ -681,7 +742,7 @@ body.bank {
   margin: 0 auto;
   padding: 0 20px 50px;
   font-size: 13px;
-  color: #5b6573;
+  color: var(--muted);
   line-height: 1.5;
 }
 
@@ -703,6 +764,19 @@ body.bank {
   margin-left: 1px;
 }
 
+/* Maths and physics are typeset by KaTeX (js/mathtex.js, js/format.js). The serif
+   maths runs a little larger than the sans-serif text around it so the two read
+   at the same size, and lines get room for stacked fractions. */
+.q-card .katex {
+  font-size: 1.12em;
+}
+
+.q-card .q-text,
+.q-card .steps,
+.q-card .final-answer {
+  line-height: 1.75;
+}
+
 /* ---------- Show more ---------- */
 .show-more {
   display: block;
@@ -711,7 +785,7 @@ body.bank {
   padding: 12px;
   border: 1.5px dashed var(--accent-strong);
   border-radius: 12px;
-  background: #fff;
+  background: var(--card);
   color: var(--accent-strong);
   font-size: 15px;
   font-weight: 600;
@@ -728,3 +802,52 @@ body.bank {
   color: var(--accent-strong);
   font-weight: 600;
 }
+
+/* ---------- Dark mode (the shared dark colours are in styles.css) ----------
+   --accent-deep turns light because it is mostly used for text; the header,
+   badges and drawer keep a dark bar colour through --accent-bar. */
+:root[data-theme="dark"] .bank {
+  --card-line: #273246;
+  --accent-deep: #b4cdff;
+  --accent-bar: #002b80;
+  --accent-tint: #18263f;
+}
+
+:root[data-theme="dark"] [data-subject="physics"] {
+  --accent: #4c8dff;
+  --accent-strong: #3b7ff0;
+  --accent-deep: #b4cdff;
+  --accent-bar: #002b80;
+  --accent-hover: #2f6fd6;
+  --accent-tint: #18263f;
+}
+
+:root[data-theme="dark"] [data-subject="chemistry"] {
+  --accent: #1fb38c;
+  --accent-strong: #14936f;
+  --accent-deep: #a6ebd7;
+  --accent-bar: #063f33;
+  --accent-hover: #0f7a5c;
+  --accent-tint: #0f2c26;
+}
+
+:root[data-theme="dark"] [data-subject="biology"] {
+  --accent: #4cae4c;
+  --accent-strong: #3c943c;
+  --accent-deep: #bfe8bf;
+  --accent-bar: #173d17;
+  --accent-hover: #2f7a2f;
+  --accent-tint: #162d18;
+}
+
+:root[data-theme="dark"] [data-subject="maths"] {
+  --accent: #9672ec;
+  --accent-strong: #8358e6;
+  --accent-deep: #d8c8ff;
+  --accent-bar: #2e1a5c;
+  --accent-hover: #6d43cf;
+  --accent-tint: #251b40;
+}
+
+/* Pages from the paper are scans on white; keep them as they are. */
+:root[data-theme="dark"] .q-image-page { background: #fff; }

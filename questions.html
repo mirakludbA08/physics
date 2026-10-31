@@ -6,8 +6,10 @@
     <title>Question bank · IALqBank</title>
     <meta name="description" content="Past-paper questions for Pearson Edexcel International AS and A Level Physics, Chemistry, Biology and Maths, with hidden answers, step-by-step explanations and keyword search.">
     <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/bank.css">
+    <script src="js/theme.js"></script>
 </head>
 <body class="bank" data-subject="physics">
     <header class="bank-top">
@@ -34,6 +36,14 @@
             <input id="q-search" class="search-input" type="search" placeholder="A topic, or any word from a question" autocomplete="off">
             <div class="filter-row" id="topic-filters" role="group" aria-label="Filter by topic"></div>
             <p class="result-count" id="result-count" aria-live="polite"></p>
+            <div class="pdf-tools" role="group" aria-labelledby="pdf-label">
+                <span class="pdf-label" id="pdf-label">Download this list as a PDF</span>
+                <div class="pdf-buttons">
+                    <button class="pdf-btn" type="button" data-kind="questions">Questions PDF</button>
+                    <button class="pdf-btn" type="button" data-kind="answers">Answers PDF</button>
+                </div>
+                <label class="pdf-pages"><input type="checkbox" id="pdf-pages" checked> Include the pages from the paper (diagrams)</label>
+            </div>
         </section>
 
         <section class="question-list" id="question-list" aria-label="Questions"></section>
@@ -48,6 +58,8 @@
     </aside>
     <div class="drawer-scrim" id="drawer-scrim" hidden></div>
 
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js" crossorigin="anonymous"></script>
+    <script src="js/mathtex.js"></script>
     <script src="js/format.js"></script>
     <script src="js/taxonomy.js"></script>
     <script src="js/bank.js"></script>

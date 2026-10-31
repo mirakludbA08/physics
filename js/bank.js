@@ -37,14 +37,16 @@
 
   let all = [];
   let data = { papers: [], notes: [] };
-  let activeBroad = '';   // broad topic picked in the filter panel, '' for all
-  let activeSub = '';     // subtopic picked under that broad topic, '' for all
+  // Topics picked in the filter panel; any number can be on at once, none means all.
+  const pickedBroad = new Set();  // whole broad topics
+  const pickedSub = new Set();    // single subtopics, keyed subKey(broad, sub)
+  const subKey = (broad, sub) => broad + '\u0000' + sub;
   const expanded = new Set(); // broad topics whose subtopic list is open
   let TAXONOMY_FOR_SUBJECT = []; // broad topics and subtopics for this subject
 
-  // Views: 'all' is the whole bank, 'review' is the saved review list.
+  // Views: 'all' is every question not yet done, 'review' is the saved review
+  // list (also without done questions), and 'done' shows only done questions.
   let view = 'all';
-  let showDone = false;
   let done = new Set();    // question keys marked done
   let review = new Set();  // question keys saved for review
 
@@ -123,13 +125,13 @@
   }
 
   /* ---------- Which questions are in the current view ---------- */
-  // The view decides the pool (all questions, or only the review list). Done
-  // questions are left out unless "Show done" is on.
+  // Done questions appear only in the Done view; every other view leaves them out.
   function pool() {
     return all.filter((q) => {
       const k = keyOf(q);
-      if (view === 'review' && !review.has(k)) return false;
-      if (!showDone && done.has(k)) return false;
+      if (view === 'done') return done.has(k);
+      if (done.has(k)) return false;
+      if (view === 'review') return review.has(k);
       return true;
     });
   }
@@ -137,8 +139,7 @@
   /* ---------- Search ---------- */
   // Split the query into words so "ball table" matches a question containing both.
   function matches(q, terms) {
-    if (activeBroad && q.broad !== activeBroad) return false;
-    if (activeSub && q.sub !== activeSub) return false;
+    if ((pickedBroad.size || pickedSub.size) && !pickedBroad.has(q.broad) && !pickedSub.has(subKey(q.broad, q.sub))) return false;
     if (!terms.length) return true;
     const haystack = [q.topic, q.paper.code, q.paper.title, q.no, q.question, q.answer, q.keywords.join(' ')]
       .join(' ')
@@ -146,7 +147,14 @@
     return terms.every((t) => haystack.includes(t));
   }
 
-  /* ---------- Topic panel: broad topics, each with an arrow to its subtopics ---------- */
+  /* ---------- Topic panel: broad topics, each with an arrow to its subtopics ----------
+     Topics and subtopics switch on and off independently, so several can be
+     combined; "All topics" clears them. */
+  function pickChanged() {
+    renderFilters();
+    rerender();
+  }
+
   function renderFilters() {
     const base = pool();
     // Count questions per broad topic and per subtopic, keeping taxonomy order.
@@ -154,22 +162,22 @@
     const subCounts = {};
     base.forEach((q) => {
       broadCounts[q.broad] = (broadCounts[q.broad] || 0) + 1;
-      const key = q.broad + '\u0000' + q.sub;
+      const key = subKey(q.broad, q.sub);
       subCounts[key] = (subCounts[key] || 0) + 1;
     });
     const order = (TAXONOMY_FOR_SUBJECT || []).map((b) => b.broad).concat(['Other']);
     const broads = order.filter((b) => broadCounts[b]);
+    const none = !pickedBroad.size && !pickedSub.size;
 
     filters.innerHTML = '';
 
-    const allBtn = el('button', 'filter-chip' + (!activeBroad ? ' active' : ''), 'All topics (' + base.length + ')');
+    const allBtn = el('button', 'filter-chip' + (none ? ' active' : ''), 'All topics (' + base.length + ')');
     allBtn.type = 'button';
-    allBtn.setAttribute('aria-pressed', String(!activeBroad));
+    allBtn.setAttribute('aria-pressed', String(none));
     allBtn.addEventListener('click', () => {
-      activeBroad = '';
-      activeSub = '';
-      renderFilters();
-      rerender();
+      pickedBroad.clear();
+      pickedSub.clear();
+      pickChanged();
     });
     filters.appendChild(allBtn);
 
@@ -177,23 +185,26 @@
       const group = el('div', 'topic-group' + (expanded.has(broad) ? ' open' : ''));
       const row = el('div', 'topic-row');
 
-      const pick = el('button', 'topic-pick' + (activeBroad === broad && !activeSub ? ' active' : ''));
-      pick.type = 'button';
-      pick.appendChild(el('span', 'topic-name', broad));
-      pick.appendChild(el('span', 'topic-count', String(broadCounts[broad])));
-      pick.setAttribute('aria-pressed', String(activeBroad === broad && !activeSub));
-      pick.addEventListener('click', () => {
-        activeBroad = broad;
-        activeSub = '';
-        renderFilters();
-        rerender();
-      });
-      row.appendChild(pick);
-
       const subs = (TAXONOMY_FOR_SUBJECT || []).find((b) => b.broad === broad);
       const names = subs ? subs.subs.map((s) => s.name) : [];
       if (broad === 'Other') names.push('General');
-      const visible = names.filter((n) => subCounts[broad + '\u0000' + n]);
+      const visible = names.filter((n) => subCounts[subKey(broad, n)]);
+      const whole = pickedBroad.has(broad);
+      const some = !whole && visible.some((n) => pickedSub.has(subKey(broad, n)));
+
+      const pick = el('button', 'topic-pick' + (whole ? ' active' : '') + (some ? ' partial' : ''));
+      pick.type = 'button';
+      pick.appendChild(el('span', 'topic-name', broad));
+      pick.appendChild(el('span', 'topic-count', String(broadCounts[broad])));
+      pick.setAttribute('aria-pressed', whole ? 'true' : some ? 'mixed' : 'false');
+      pick.addEventListener('click', () => {
+        // Picking a whole topic replaces any of its subtopics picked one by one.
+        visible.forEach((n) => pickedSub.delete(subKey(broad, n)));
+        if (whole) pickedBroad.delete(broad);
+        else pickedBroad.add(broad);
+        pickChanged();
+      });
+      row.appendChild(pick);
       if (visible.length) {
         const arrow = el('button', 'topic-arrow', '›');
         arrow.type = 'button';
@@ -211,16 +222,21 @@
       if (visible.length && expanded.has(broad)) {
         const list2 = el('div', 'sub-list');
         visible.forEach((name) => {
-          const s = el('button', 'sub-chip' + (activeBroad === broad && activeSub === name ? ' active' : ''));
+          const key = subKey(broad, name);
+          const on = whole || pickedSub.has(key);
+          const s = el('button', 'sub-chip' + (on ? ' active' : ''));
           s.type = 'button';
           s.appendChild(el('span', 'topic-name', name));
-          s.appendChild(el('span', 'topic-count', String(subCounts[broad + '\u0000' + name])));
-          s.setAttribute('aria-pressed', String(activeBroad === broad && activeSub === name));
+          s.appendChild(el('span', 'topic-count', String(subCounts[key])));
+          s.setAttribute('aria-pressed', String(on));
           s.addEventListener('click', () => {
-            activeBroad = broad;
-            activeSub = name;
-            renderFilters();
-            rerender();
+            if (whole) {
+              // Unpicking one part of a whole topic keeps the rest of it picked.
+              pickedBroad.delete(broad);
+              visible.forEach((n) => { if (n !== name) pickedSub.add(subKey(broad, n)); });
+            } else if (on) pickedSub.delete(key);
+            else pickedSub.add(key);
+            pickChanged();
           });
           list2.appendChild(s);
         });
@@ -230,37 +246,31 @@
     });
   }
 
-  /* ---------- View bar: all questions, review list, show done ---------- */
+  /* ---------- View bar: questions to do, review list, done list ---------- */
   function renderViewBar() {
     viewBar.innerHTML = '';
-    const reviewCount = all.filter((q) => review.has(keyOf(q))).length;
     const doneCount = all.filter((q) => done.has(keyOf(q))).length;
+    const todoCount = all.length - doneCount;
+    const reviewCount = all.filter((q) => review.has(keyOf(q)) && !done.has(keyOf(q))).length;
 
-    [['all', 'All questions'], ['review', 'Review later (' + reviewCount + ')']].forEach(([id, label]) => {
-      const b = el('button', 'view-tab' + (view === id ? ' active' : ''), label);
+    [
+      ['all', 'All questions (' + todoCount + ')', ''],
+      ['review', 'Review later (' + reviewCount + ')', ''],
+      ['done', 'Done (' + doneCount + ')', ' view-tab-end']
+    ].forEach(([id, label, extra]) => {
+      const b = el('button', 'view-tab' + extra + (view === id ? ' active' : ''), label);
       b.type = 'button';
       b.setAttribute('aria-pressed', String(view === id));
       b.addEventListener('click', () => {
         view = id;
-        activeBroad = '';
-        activeSub = '';
+        pickedBroad.clear();
+        pickedSub.clear();
         renderViewBar();
         renderFilters();
         rerender();
       });
       viewBar.appendChild(b);
     });
-
-    const doneToggle = el('button', 'view-tab view-tab-end' + (showDone ? ' active' : ''), 'Show done (' + doneCount + ')');
-    doneToggle.type = 'button';
-    doneToggle.setAttribute('aria-pressed', String(showDone));
-    doneToggle.addEventListener('click', () => {
-      showDone = !showDone;
-      renderViewBar();
-      renderFilters();
-      rerender();
-    });
-    viewBar.appendChild(doneToggle);
   }
 
   /* ---------- Question cards ---------- */
@@ -392,15 +402,24 @@
   const PAGE_SIZE = 40;
   let limit = PAGE_SIZE;
 
+  const searchTerms = () => search.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+
+  // The questions on screen: the view, topic and search together.
+  function currentQuestions() {
+    const terms = searchTerms();
+    return pool().filter((q) => matches(q, terms));
+  }
+
   function render() {
-    const terms = search.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
-    const shown = pool().filter((q) => matches(q, terms));
+    const terms = searchTerms();
+    const shown = currentQuestions();
     list.innerHTML = '';
 
     if (!shown.length) {
       let text = 'No questions match. Try a shorter word, such as "projectile" or "ball".';
-      if (view === 'review' && !review.size) text = 'Nothing saved for review yet. Use "Review later" on any question to add it here.';
-      else if (!pool().length && !showDone && done.size) text = 'Every question here is marked done. Use "Show done" to see them again.';
+      if (view === 'done' && !pool().length) text = 'No questions are marked done yet. Use "Mark done" on a question and it moves here.';
+      else if (view === 'review' && !pool().length) text = 'Nothing saved for review yet. Use "Review later" on any question to add it here.';
+      else if (view === 'all' && !pool().length && done.size) text = 'Every question here is marked done. Open the Done tab to see them.';
       list.appendChild(el('p', 'empty', text));
     } else {
       // Group by paper so the list still reads as past papers.
@@ -449,6 +468,85 @@
     renderFilters();
     render();
   }
+
+  /* ---------- Download as PDF ----------
+     Writes the questions on screen (or their answers) into a printable page in a
+     new tab and opens the print dialog, where "Save as PDF" downloads it. Both
+     PDFs number the questions the same way, so answers match questions. */
+  const PDF_WARN_AT = 300;
+
+  function esc(s) {
+    return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  function pdfQuestion(q, withPages, printed) {
+    let html = '<p class="pq-text">' + window.QFormat.format(q.question, subject) + '</p>';
+    if (withPages && q.images && q.images.length) {
+      // Several parts often share a page: print each page once, with the first part on it.
+      const fresh = q.images.filter((src) => !printed.has(src));
+      fresh.forEach((src) => printed.add(src));
+      html += fresh.length
+        ? fresh.map((src) => '<img class="pq-page" src="' + esc(src) + '" alt="Page from the ' + esc(q.paper.code) + ' paper">').join('')
+        : '<p class="pq-note">This part is on the page printed above.</p>';
+    } else if (q.status === 'pending' || optionsOnlyInImage(q)) {
+      html += '<p class="pq-note">This question needs its page from the paper: tick "Include the pages from the paper".</p>';
+    }
+    return html;
+  }
+
+  function pdfAnswer(q) {
+    if (q.status === 'pending') return '<p class="pq-note">' + window.QFormat.format(q.answer, subject) + '</p>';
+    let html = '<p class="pq-answer"><strong>Answer:</strong> ' + window.QFormat.format(q.answer, subject) + '</p>';
+    if (q.steps && q.steps.length) {
+      html += '<ol class="pq-steps">' + q.steps.map((s) => '<li>' + window.QFormat.format(s, subject) + '</li>').join('') + '</ol>';
+    }
+    return html;
+  }
+
+  function makePdf(kind, withPages) {
+    const qs = currentQuestions();
+    if (!qs.length) { window.alert('There are no questions in this list to download.'); return; }
+    if (qs.length > PDF_WARN_AT && !window.confirm(qs.length + ' questions make a very long PDF. Press Cancel and pick a topic to make it shorter, or OK to carry on.')) return;
+    const win = window.open('', '_blank');
+    if (!win) { window.alert('Your browser blocked the new tab. Allow pop-ups for this site, then try again.'); return; }
+
+    const name = SUBJECTS[subject].title.replace(' question bank', '');
+    const title = name + (kind === 'answers' ? ' answers' : ' questions');
+    const terms = search.value.trim();
+    const picks = [...pickedBroad, ...[...pickedSub].map((k) => k.split('\u0000')[1])];
+    const scope = [
+      !picks.length ? 'All topics' : picks.length > 4 ? picks.length + ' topics' : picks.join(', '),
+      { all: '', review: 'Review list', done: 'Done list' }[view],
+      terms ? 'matching "' + terms + '"' : '',
+      qs.length + (qs.length === 1 ? ' question' : ' questions')
+    ].filter(Boolean).join(' · ');
+
+    const printed = new Set();
+    const body = qs.map((q, n) => '<section class="pq' + (withPages && kind !== 'answers' ? ' has-pages' : '') + '">' +
+      '<div class="pq-head"><span class="pq-num">' + (n + 1) + '</span><span class="pq-code">' + esc(q.paper.code + ' · ' + q.no) + '</span>' +
+      '<span class="pq-marks">' + q.marks + (q.marks === 1 ? ' mark' : ' marks') + '</span></div>' +
+      (kind === 'answers' ? pdfAnswer(q) : pdfQuestion(q, withPages, printed)) + '</section>').join('');
+
+    win.document.open();
+    win.document.write('<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">' +
+      '<meta name="viewport" content="width=device-width, initial-scale=1.0">' +
+      '<base href="' + esc(location.href) + '">' +
+      '<title>' + esc(title) + ' · IALqBank</title>' +
+      '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">' +
+      '<link rel="stylesheet" href="css/print.css"></head><body>' +
+      '<div class="pdf-bar"><p>In the print window, choose <strong>Save as PDF</strong> to download this.</p>' +
+      '<button type="button" onclick="print()">Save as PDF</button></div>' +
+      '<header class="pdf-head"><h1>' + esc(title) + '</h1><p>' + esc(scope) + ' · IALqBank</p></header>' +
+      body +
+      // Print once the pages and maths fonts have loaded.
+      '<script>addEventListener("load", function () { (document.fonts ? document.fonts.ready : Promise.resolve()).then(function () { setTimeout(print, 300); }); });</script>' +
+      '</body></html>');
+    win.document.close();
+  }
+
+  document.querySelectorAll('.pdf-btn').forEach((b) => {
+    b.addEventListener('click', () => makePdf(b.dataset.kind, document.getElementById('pdf-pages').checked));
+  });
 
   /* ---------- Notes drawer ----------
      Built from the subject's notes config (js/notes-<subject>.js), the same list

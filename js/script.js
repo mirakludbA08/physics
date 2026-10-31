@@ -76,6 +76,7 @@
         a.href = href(file);
         if (file === here) a.setAttribute('aria-current', 'page');
         li.appendChild(a);
+        addSectionToggle(li, file, title);
         list.appendChild(li);
       });
       group.append(head, list);
@@ -103,7 +104,103 @@
     if (active) nav.scrollTop = Math.max(0, active.offsetTop - nav.clientHeight / 2);
   }
 
-  /* ---------- Topic chips, contents list, prev/next ---------- */
+  /* ---------- Each page's sections, as a drop-down in the sidebar ----------
+     Every page link gets an arrow that opens a list of that page's sections, so
+     you can jump straight to one. Other pages are fetched the first time their
+     arrow is opened; the current page's list starts open and highlights the
+     section being read. */
+
+  // A page's sections as [id, title], with ids given the same way as
+  // buildTopicChrome gives them, so links from other pages land on the right heading.
+  function sectionsOf(doc) {
+    const page = doc.querySelector('.content .page') || doc.querySelector('.content');
+    if (!page) return [];
+    const used = new Set();
+    return Array.from(page.querySelectorAll('h2.section-title')).map((h) => {
+      let id = h.id;
+      if (!id) {
+        id = slug(h.textContent);
+        while (used.has(id) || doc.getElementById(id)) id += '-x';
+      }
+      used.add(id);
+      return [id, h.textContent.trim()];
+    });
+  }
+
+  function fillSections(sub, base, list) {
+    sub.innerHTML = '';
+    if (!list.length) {
+      sub.appendChild(el('li', 'nav-sections-note', 'No sections on this page.'));
+      return;
+    }
+    list.forEach(([id, title]) => {
+      const item = el('li');
+      const a = el('a', null);
+      a.textContent = title;
+      a.href = base + '#' + id;
+      item.appendChild(a);
+      sub.appendChild(item);
+    });
+  }
+
+  function loadSections(file, sub) {
+    sub.innerHTML = '';
+    sub.appendChild(el('li', 'nav-sections-note', 'Loading…'));
+    fetch(href(file))
+      .then((r) => { if (!r.ok) throw new Error(r.status); return r.text(); })
+      .then((html) => fillSections(sub, href(file), sectionsOf(new DOMParser().parseFromString(html, 'text/html'))))
+      .catch(() => {
+        sub.innerHTML = '';
+        sub.appendChild(el('li', 'nav-sections-note', 'Could not load the sections. Open the page instead.'));
+      });
+  }
+
+  function addSectionToggle(li, file, title) {
+    li.classList.add('has-sections');
+    const sub = el('ol', 'nav-sections');
+    sub.id = 'nav-sections-' + slug(file);
+    const btn = el('button', 'nav-sections-toggle', '<span aria-hidden="true">›</span>');
+    btn.type = 'button';
+    btn.setAttribute('aria-label', 'Sections of ' + title);
+    btn.setAttribute('aria-controls', sub.id);
+    btn.setAttribute('aria-expanded', 'false');
+    btn.addEventListener('click', () => {
+      const open = li.classList.toggle('open');
+      btn.setAttribute('aria-expanded', String(open));
+      if (open && !li.dataset.loaded) {
+        li.dataset.loaded = '1';
+        loadSections(file, sub);
+      }
+    });
+    li.append(btn, sub);
+  }
+
+  function buildSectionMenu(heads) {
+    const active = document.querySelector('nav.sidebar a.nav-link.active');
+    const li = active && active.parentElement;
+    if (!li || !li.classList.contains('has-sections')) return;
+    const sub = li.querySelector('.nav-sections');
+    fillSections(sub, '', heads.map((h) => [h.id, h.textContent.trim()]));
+    li.dataset.loaded = '1';
+    li.classList.add('open');
+    li.querySelector('.nav-sections-toggle').setAttribute('aria-expanded', 'true');
+    if (!heads.length) return;
+
+    const links = Array.from(sub.querySelectorAll('a'));
+    let ticking = false;
+    const mark = () => {
+      ticking = false;
+      let at = 0;
+      heads.forEach((h, i) => { if (h.getBoundingClientRect().top < 140) at = i; });
+      links.forEach((a, i) => a.classList.toggle('current', i === at));
+    };
+    window.addEventListener('scroll', () => {
+      if (!ticking) { ticking = true; requestAnimationFrame(mark); }
+    }, { passive: true });
+    mark();
+  }
+
+  /* ---------- Topic chips, prev/next ---------- */
   function slug(text) {
     return text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 60) || 'section';
   }
@@ -131,17 +228,11 @@
       }
       used.add(h.id);
     });
-    let toc = page.querySelector('nav.toc');
-    if (!toc && heads.length > 2) {
-      toc = el('nav', 'toc');
-      const intro = page.querySelector('.IntroductionText');
-      (intro || title || page.firstChild).after(toc);
-    }
-    if (toc && heads.length > 0) {
-      toc.setAttribute('aria-label', 'On this page');
-      const items = heads.map((h) => '<li><a href="#' + h.id + '">' + h.textContent.trim() + '</a></li>').join('');
-      toc.innerHTML = '<span class="toc-label">On this page</span><ol>' + items + '</ol>';
-    }
+    // The page's sections live in the sidebar now (buildSectionMenu), so drop any
+    // contents box written into the page itself.
+    const oldToc = page.querySelector('nav.toc');
+    if (oldToc) oldToc.remove();
+    buildSectionMenu(heads);
 
     const i = flat.indexOf(current);
     const prev = flat[i - 1];

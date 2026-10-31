@@ -1,0 +1,132 @@
+/* IALqBank — the printable page behind "Download as PDF" in the question bank
+   (makePdf in js/bank.js). Always light: it is meant for paper. */
+@page {
+  size: A4;
+  margin: 16mm 15mm;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 24px 24px;
+  font: 15px/1.7 "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif;
+  color: #111;
+  background: #fff;
+}
+
+.pdf-bar {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 -24px 20px;
+  padding: 10px 24px;
+  background: #002b80;
+  color: #fff;
+}
+
+.pdf-bar p {
+  margin: 0;
+  font-size: 14px;
+}
+
+.pdf-bar button {
+  padding: 8px 18px;
+  border: 0;
+  border-radius: 8px;
+  background: #fff;
+  color: #002b80;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.pdf-head {
+  margin-bottom: 8px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #111;
+}
+
+.pdf-head h1 {
+  margin: 0 0 2px;
+  font-size: 24px;
+  line-height: 1.3;
+}
+
+.pdf-head p {
+  margin: 0;
+  color: #444;
+  font-size: 13px;
+}
+
+.pq {
+  padding: 12px 0 14px;
+  border-bottom: 1px solid #ccc;
+  break-inside: avoid;
+}
+
+/* A question with full paper pages may need to run across a page break. */
+.pq.has-pages { break-inside: auto; }
+
+.pq-head {
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  margin-bottom: 2px;
+  color: #444;
+  font-size: 13px;
+  break-after: avoid;
+}
+
+.pq-num {
+  min-width: 1.8em;
+  color: #111;
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.pq-code { font-weight: 600; }
+.pq-marks { margin-left: auto; }
+
+.pq-text,
+.pq-answer { margin: 0 0 6px; }
+
+.pq-steps {
+  margin: 4px 0 0;
+  padding-left: 22px;
+}
+
+.pq-steps li { margin-bottom: 3px; }
+
+.pq-note {
+  margin: 4px 0 0;
+  color: #555;
+  font-size: 13px;
+  font-style: italic;
+}
+
+.pq-page {
+  display: block;
+  max-width: 100%;
+  max-height: 250mm;
+  margin: 10px auto 0;
+  border: 1px solid #ddd;
+  break-inside: avoid;
+}
+
+.katex { font-size: 1.15em; }
+
+@media print {
+  body {
+    max-width: none;
+    padding: 0;
+  }
+
+  .pdf-bar { display: none; }
+}
