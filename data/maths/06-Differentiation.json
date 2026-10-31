@@ -682,12 +682,19 @@
         "pending"
       ],
       "question": "Figure 1 shows part of the curve C with equation 2x - 4xy + y^2 = 13, y >= 0. The point P lies on C and has x coordinate 2. (The instruction for part (a) is not visible on the scan.)",
-      "status": "pending",
-      "answer": "Pending: the instruction for part (a) is missing from the scan; the page gives only that P lies on C with x coordinate 2 (2 marks).",
-      "steps": [],
+      "status": "ready",
+      "answer": "y coordinate of P is 9, so P = (2, 9) (the instruction line is missing on the page; the task is to find y at x = 2)",
+      "steps": [
+        "Substitute x = 2 into the equation of C: 2(2) - 4(2)y + y^2 = 13.",
+        "Rearrange: y^2 - 8y - 9 = 0, so (y - 9)(y + 1) = 0.",
+        "y >= 0 rejects y = -1, so y = 9 and P = (2, 9)."
+      ],
       "images": [
         "papers/maths/img/P4-06-Differentiation-10.jpg",
         "papers/maths/img/P4-06-Differentiation-11.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/06-Differentiation-Q13.jpg"
       ]
     },
     {
@@ -711,11 +718,15 @@
       "steps": [
         "Differentiate: 2 - 4y - 4x dy/dx + 2y dy/dx = 0 (product rule on 4xy).",
         "Collect terms: dy/dx (2y - 4x) = 4y - 2.",
-        "Divide by 2 top and bottom: dy/dx = (2y - 1)/(y - 2x)."
+        "Divide by 2 top and bottom: dy/dx = (2y - 1)/(y - 2x).",
+        "Note: if the curve is really 2^x - 4xy + y^2 = 13 (the page prints \"2x\", the superscript may have been lost), the same method gives dy/dx = (4y - 2^x ln 2)/(2y - 4x)."
       ],
       "images": [
         "papers/maths/img/P4-06-Differentiation-10.jpg",
         "papers/maths/img/P4-06-Differentiation-11.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/06-Differentiation-Q13.jpg"
       ]
     },
     {
@@ -734,12 +745,22 @@
         "pending"
       ],
       "question": "The tangent to C at P crosses the x-axis at the point Q. Find the x coordinate of Q, giving your answer in the form (a ln 2 + b)/(c ln 2 + d), where a, b, c and d are integers.",
-      "status": "pending",
-      "answer": "Pending: the printed curve gives a rational x coordinate for Q (x = -11/17 with P = (2, 9)), which does not fit the requested ln 2 form. Check the curve equation on the source paper.",
-      "steps": [],
+      "status": "ready",
+      "answer": "x = (4 ln 2 + 9)/(2 ln 2 - 18) = -0.709 (a = 4, b = 9, c = 2, d = -18); this uses the intended curve 2^x - 4xy + y^2 = 13",
+      "steps": [
+        "The required ln 2 form only arises if the curve is 2^x - 4xy + y^2 = 13 (the page prints \"2x\", the superscript x seems lost). At x = 2 both forms give y = 9, so P = (2, 9).",
+        "Differentiate: 2^x ln 2 - 4y - 4x dy/dx + 2y dy/dx = 0, so dy/dx = (4y - 2^x ln 2)/(2y - 4x).",
+        "At P(2, 9): dy/dx = (36 - 4 ln 2)/10 = (18 - 2 ln 2)/5.",
+        "Tangent: y - 9 = m(x - 2). Put y = 0: x = 2 - 9/m = 2 - 45/(18 - 2 ln 2).",
+        "x = (2(18 - 2 ln 2) - 45)/(18 - 2 ln 2) = (-4 ln 2 - 9)/(18 - 2 ln 2) = (4 ln 2 + 9)/(2 ln 2 - 18).",
+        "Check: if the curve were really 2x - 4xy + y^2 = 13, the same method would give Q at x = -11/17, which has no ln 2 form."
+      ],
       "images": [
         "papers/maths/img/P4-06-Differentiation-10.jpg",
         "papers/maths/img/P4-06-Differentiation-11.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/06-Differentiation-Q13.jpg"
       ]
     },
     {

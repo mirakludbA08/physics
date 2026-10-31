@@ -22,12 +22,20 @@ window.BANK.biology = {
       "number of sugars"
      ],
      "question": "Which table row gives the correct number of monosaccharides and disaccharides shown in the sweetness graph?",
-     "status": "pending",
-     "answer": "Pending: the sweetness graph and the answer table rows are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 2 monosaccharides and 3 disaccharides.",
+     "steps": [
+      "The graph shows five sugars: lactose, maltose, glucose, sucrose and fructose.",
+      "Monosaccharides are single sugar units: glucose and fructose, so there are 2.",
+      "Disaccharides are two units joined together: lactose, maltose and sucrose, so there are 3.",
+      "Row B (2 and 3) is therefore correct."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-01.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q1.jpg"
      ]
     },
     {
@@ -55,7 +63,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-01.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q1a(iii)",
@@ -71,12 +80,20 @@ window.BANK.biology = {
       "conclusion"
      ],
      "question": "State two conclusions about the relative sweetness of monosaccharides and of disaccharides from the graph.",
-     "status": "pending",
-     "answer": "Pending: the values on the sweetness graph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Fructose is the sweetest sugar (1.75); monosaccharides are not all sweeter than disaccharides, e.g. sucrose (1.0) is sweeter than glucose (0.74).",
+     "steps": [
+      "Read the bars: lactose 0.16, maltose 0.33, glucose 0.74, sucrose 1.0, fructose 1.75 (relative sweetness).",
+      "Conclusion 1: fructose, a monosaccharide, is the sweetest sugar shown, about 1.75 times as sweet as sucrose.",
+      "Conclusion 2: disaccharides vary widely in sweetness (0.16 to 1.0) and sucrose is sweeter than glucose, so being a monosaccharide does not guarantee more sweetness.",
+      "Alternative acceptable point: lactose is the least sweet sugar, and the two monosaccharides are on average sweeter than the three disaccharides."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-01.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q1.jpg"
      ]
     },
     {
@@ -106,6 +123,9 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-01.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q1.jpg"
      ]
     },
     {
@@ -134,7 +154,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-01.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q2a(i)",
@@ -162,7 +183,8 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-03.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q2a(ii)",
@@ -190,7 +212,8 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-03.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q2b(i)",
@@ -206,13 +229,20 @@ window.BANK.biology = {
       "identify"
      ],
      "question": "Identify the carbohydrate described in part (i) of the diagram.",
-     "status": "pending",
-     "answer": "Pending: the diagram describing each carbohydrate is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: lactose.",
+     "steps": [
+      "Lactose is the disaccharide found in cow's milk (glucose + galactose).",
+      "Amylose is a polysaccharide and galactose is a monosaccharide, so A and B are wrong.",
+      "Sucrose is a disaccharide but is the sugar found in plants such as sugar cane, not milk."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-03.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q2.jpg"
      ]
     },
     {
@@ -229,13 +259,20 @@ window.BANK.biology = {
       "identify"
      ],
      "question": "Identify the carbohydrate described in part (ii) of the diagram.",
-     "status": "pending",
-     "answer": "Pending: the diagram describing each carbohydrate is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: maltose.",
+     "steps": [
+      "The question sits on the disaccharide branch, so the answer must be a disaccharide.",
+      "Maltose is two alpha glucose units joined by a 1-4 glycosidic bond, so it contains only glucose.",
+      "Sucrose contains fructose, galactose is a monosaccharide, and amylopectin is a polysaccharide."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-03.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q2.jpg"
      ]
     },
     {
@@ -252,13 +289,19 @@ window.BANK.biology = {
       "identify"
      ],
      "question": "Identify the carbohydrate described in part (iii) of the diagram.",
-     "status": "pending",
-     "answer": "Pending: the diagram describing each carbohydrate is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: glycogen.",
+     "steps": [
+      "Glycogen is the polysaccharide used as the energy store in animals.",
+      "Amylose is the plant store, and fructose and sucrose are not polysaccharides."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-03.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q2.jpg"
      ]
     },
     {
@@ -275,13 +318,19 @@ window.BANK.biology = {
       "identify"
      ],
      "question": "Identify the carbohydrate described in part (iv) of the diagram.",
-     "status": "pending",
-     "answer": "Pending: the diagram describing each carbohydrate is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: amylopectin.",
+     "steps": [
+      "Amylopectin is a branched polysaccharide, with 1-6 glycosidic bonds at the branch points.",
+      "Amylose has only 1-4 bonds, and fructose and maltose are not polysaccharides."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-03.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q2.jpg"
      ]
     },
     {
@@ -310,7 +359,8 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-05.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q3b(i)",
@@ -326,13 +376,21 @@ window.BANK.biology = {
       "effect of temperature"
      ],
      "question": "Describe the effect of temperature on the solubility of salts F, G and H from the graph.",
-     "status": "pending",
-     "answer": "Pending: the solubility graph for salts F, G and H is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "F: solubility rises steadily with temperature; G: rises sharply to 30 C then falls slowly; H: unaffected (constant at 30 g per 100 g water).",
+     "steps": [
+      "Salt F: solubility increases in a straight line, from about 6 g at 0 C to about 78 g per 100 g water at 80 C.",
+      "Salt G: solubility increases steeply (curved) from about 5 g at 0 C to a maximum of 50 g at 30 C.",
+      "Salt G: above 30 C solubility decreases gradually, to about 40 g at 80 C.",
+      "Salt H: solubility stays constant at 30 g per 100 g water at all temperatures, so temperature has no effect."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-05.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q3.jpg"
      ]
     },
     {
@@ -349,13 +407,20 @@ window.BANK.biology = {
       "ratio"
      ],
      "question": "How many times more soluble is salt G than salt H at 30 C? Options: A 15.00, B 1.67, C 1.50, D 0.60.",
-     "status": "pending",
-     "answer": "Pending: the solubility values read from the graph at 30 C are needed, and the graph is missing.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: 1.67",
+     "steps": [
+      "At 30 C salt G has a solubility of 50 g per 100 g water (its peak).",
+      "At 30 C salt H has a solubility of 30 g per 100 g water.",
+      "Ratio = 50 / 30 = 1.67, so salt G is 1.67 times more soluble than H."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-05.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q3.jpg"
      ]
     },
     {
@@ -372,13 +437,21 @@ window.BANK.biology = {
       "compare contrast"
      ],
      "question": "Compare and contrast the effect of temperature on the solubility of sodium chloride and glucose in water, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the solubility-temperature graph for sodium chloride and glucose is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both are more soluble at higher temperature, but glucose is far more soluble and its solubility increases much more steeply than that of NaCl.",
+     "steps": [
+      "Similarity: the solubility of both sodium chloride and glucose increases as temperature rises from 10 C to 60 C.",
+      "Difference: glucose rises from about 75 to about 300 g per 100 cm^3 (an increase of about 225), whereas NaCl rises only from about 45 to about 55 g (about 10).",
+      "Difference: the glucose curve gets steeper with temperature (non-linear), while NaCl is almost a flat straight line.",
+      "Glucose is more soluble than NaCl at every temperature shown."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-07.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-08.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q4.jpg"
      ]
     },
     {
@@ -395,13 +468,22 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Using the table, calculate the molecular mass of glucose, given that the formula mass of sodium chloride is 58.44.",
-     "status": "pending",
-     "answer": "Pending: the table giving the glucose data is not in the text (glucose, C6H12O6, is 180).",
-     "steps": [],
+     "status": "ready",
+     "answer": "180",
+     "steps": [
+      "Glucose is C6H12O6.",
+      "Carbon: 6 x 12 = 72.",
+      "Hydrogen: 12 x 1 = 12.",
+      "Oxygen: 6 x 16 = 96.",
+      "Molecular mass = 72 + 12 + 96 = 180."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-07.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-08.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q4-2.jpg"
      ]
     },
     {
@@ -418,13 +500,20 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate how many times greater the molecular mass of glucose is than the formula mass of sodium chloride.",
-     "status": "pending",
-     "answer": "Pending: depends on the glucose molecular mass read from the missing table in part (ii). If 180 is used, the answer is about 3.08.",
-     "steps": [],
+     "status": "ready",
+     "answer": "3.08 (3 significant figures)",
+     "steps": [
+      "Ratio = molecular mass of glucose / formula mass of NaCl.",
+      "180 / 58.44 = 3.0801...",
+      "So glucose is 3.08 times greater (3 s.f.)."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-07.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-08.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q4-2.jpg"
      ]
     },
     {
@@ -442,13 +531,21 @@ window.BANK.biology = {
       "water"
      ],
      "question": "Suggest why sodium chloride and glucose differ in solubility in water.",
-     "status": "pending",
-     "answer": "Pending: the answer depends on which solute is more soluble from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Glucose is more soluble because its many -OH groups hydrogen bond with water; NaCl is ionic and dissolves only as its ions are attracted to the charged ends of water molecules.",
+     "steps": [
+      "Water is polar (O delta-, H delta+), so it can dissolve both polar molecules and ions.",
+      "Glucose has several polar -OH groups, which form many hydrogen bonds with water molecules, so large amounts dissolve.",
+      "NaCl is an ionic lattice: Na+ and Cl- have to be pulled out of the lattice by ion-dipole attraction to water, and the graph shows much less NaCl dissolves.",
+      "The difference in the type and number of attractions to water explains the difference in solubility."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-07.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-08.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q4.jpg"
      ]
     },
     {
@@ -478,7 +575,8 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-07.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q5",
@@ -509,7 +607,8 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-09.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-10.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q6a",
@@ -538,7 +637,8 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-09.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-10.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q6b(i)",
@@ -567,7 +667,8 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-09.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-10.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q6b(ii)",
@@ -595,7 +696,8 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-09.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-10.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q6b(iii)",
@@ -623,7 +725,8 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-09.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-10.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q7a(i)",
@@ -640,13 +743,21 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Complete the diagram to show a 1-2 glycosidic bond between glucose carbon 1 and fructose carbon 2.",
-     "status": "pending",
-     "answer": "Pending: the glucose and fructose diagram to complete is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw an oxygen atom as a bridge between C1 of glucose and C2 of fructose (C1-O-C2), with the OH groups on those carbons removed.",
+     "steps": [
+      "A glycosidic bond is a C-O-C link between the two sugar rings.",
+      "Remove the OH from carbon 1 of glucose and the OH from carbon 2 of fructose (they leave as water).",
+      "Draw one oxygen atom bonded to carbon 1 of glucose and to carbon 2 of fructose.",
+      "Each C-O line must be a single bond joining the two ring structures."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-12.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q7.jpg"
      ]
     },
     {
@@ -676,7 +787,8 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-12.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q7b(i)",
@@ -704,6 +816,9 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-12.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q7-2.jpg"
      ]
     },
     {
@@ -732,6 +847,9 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-12.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q7-2.jpg"
      ]
     },
     {
@@ -748,13 +866,20 @@ window.BANK.biology = {
       "reagent"
      ],
      "question": "State why the concentration of maltose and lactose cannot be measured using the sucrose test.",
-     "status": "pending",
-     "answer": "Pending: the steps of the sucrose test chart are missing, so the specific reason cannot be confirmed from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Maltose and lactose contain no fructose, so no coloured product forms with the chemical that binds fructose (and the enzyme is specific to sucrose).",
+     "steps": [
+      "The test breaks sucrose into glucose and fructose, then adds a chemical that binds to fructose and changes colour.",
+      "Maltose is glucose + glucose and lactose is glucose + galactose, so neither releases any fructose.",
+      "Without fructose there is no colour change, so colour intensity cannot be used to measure their concentration."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-12.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q7-2.jpg"
      ]
     },
     {
@@ -772,14 +897,21 @@ window.BANK.biology = {
       "starch"
      ],
      "question": "Put one cross in each row of a table to show whether each bond is present in amylose and amylopectin.",
-     "status": "pending",
-     "answer": "Pending: the bonds table with the tick boxes is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Glycosidic bonds: both amylose and amylopectin; 1-6 alpha bonds: amylopectin only; hydrogen bonds: both amylose and amylopectin.",
+     "steps": [
+      "Both are polymers of alpha glucose joined by glycosidic bonds, so tick \"both\" in row 1.",
+      "1-6 alpha bonds form the branches, which only amylopectin has (amylose is unbranched with 1-4 bonds only), so tick \"amylopectin only\" in row 2.",
+      "Hydrogen bonds stabilise the coiled helix of amylose and the folded, branched structure of amylopectin, so tick \"both\" in row 3."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-14.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-15.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-16.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q8.jpg"
      ]
     },
     {
@@ -796,14 +928,22 @@ window.BANK.biology = {
       "conclusion"
      ],
      "question": "Describe two conclusions about the effect of temperature and source of starch on the loss of amylose, from the graph.",
-     "status": "pending",
-     "answer": "Pending: the amylose loss graph for the four starch sources at three temperatures is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1: more amylose is lost as temperature rises (e.g. cassava 9% at 60 C to 94% at 80 C). 2: the source matters, cassava loses the most amylose and potato the least.",
+     "steps": [
+      "Read the bars (% amylose lost at 60 / 70 / 80 C): potato 4 / 6 / 24; cassava 9 / 60 / 94; sweet potato 8 / 15 / 64; maize 8 / 25 / 58.",
+      "Effect of temperature: for every source, the higher the temperature the greater the % amylose lost, with the largest rise between 70 and 80 C.",
+      "Effect of source: at 70 C and 80 C cassava loses the most amylose (60% and 94%) and potato the least (6% and 24%).",
+      "At 60 C all four sources lose little amylose (4 to 9%), so the differences between sources are small."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-14.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-15.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-16.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q8-2.jpg"
      ]
     },
     {
@@ -821,14 +961,22 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Compare and contrast the effects of temperature on the loss of amylose and amylopectin from rice, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the rice cooking temperature graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both rise with temperature to a peak at 85 C then fall; amylopectin is lost from 20 C (amylose from 40 C), and above about 65 C more amylopectin than amylose is lost.",
+     "steps": [
+      "Similarity: the concentration of both in the liquid increases as temperature rises, reaches a maximum at 85 C (amylopectin about 10.4 a.u., amylose about 5.2 a.u.) and then falls at 90 C.",
+      "Difference: amylopectin is detected from 20 C (about 0.6 a.u.), but no amylose is lost until 40 C (0 a.u.).",
+      "Difference: from about 45 to 65 C slightly more amylose than amylopectin is lost, but above about 65 C the loss of amylopectin is greater.",
+      "Difference: between 60 and 85 C amylopectin rises much more steeply (1.8 to 10.4 a.u.) than amylose (2.8 to 5.2 a.u.)."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-14.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-15.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-16.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q8-3.jpg"
      ]
     },
     {
@@ -845,14 +993,22 @@ window.BANK.biology = {
       "cooking"
      ],
      "question": "Comment on the effect of the replacement liquids on the hardness and stickiness of cooked rice, using the table.",
-     "status": "pending",
-     "answer": "Pending: the results table for hardness and stickiness of rice is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Amylose in the liquid makes rice harder (19.42 to 27.63) with almost no change in stickiness (1.19 to 1.21); amylopectin makes it stickier (1.19 to 1.71) with little change in hardness (19.42 to 20.43).",
+     "steps": [
+      "Compare with the water control (hardness 19.42, stickiness 1.19).",
+      "Amylose: hardness increases by about 8.2 a.u. (to 27.63) but stickiness is almost unchanged (1.21), so amylose mainly increases hardness.",
+      "Amylopectin: stickiness increases by 0.52 (to 1.71) but hardness changes only slightly (20.43), so amylopectin mainly increases stickiness.",
+      "Both together give hardness 27.65 and stickiness 1.70, almost the same as amylose alone for hardness and amylopectin alone for stickiness, so the effects appear independent."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-14.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-15.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-16.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q8-4.jpg"
      ]
     },
     {
@@ -870,14 +1026,21 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Suggest why rice should be cooked in a measured volume of water, with the lid on, until all the liquid is absorbed, using the table.",
-     "status": "pending",
-     "answer": "Pending: the table of cooking results is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "So the amylose and amylopectin lost into the cooking liquid are reabsorbed and not poured away; liquid containing them gives harder and stickier rice (27.65 and 1.70) than water alone (19.42 and 1.19).",
+     "steps": [
+      "Cooking releases amylose and amylopectin from the rice into the cooking water.",
+      "If all the liquid is absorbed (lid on, measured volume), these starch molecules go back into the rice rather than being lost.",
+      "The table shows liquid containing both increases hardness (19.42 to 27.65) and stickiness (1.19 to 1.70), so the rice keeps its intended texture."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-14.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-15.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-16.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q8-4.jpg"
      ]
     },
     {
@@ -906,7 +1069,8 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-17.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-18.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q9b",
@@ -922,13 +1086,20 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Match each statement about carbohydrates to the correct carbohydrate by putting one cross in each row of a table.",
-     "status": "pending",
-     "answer": "Pending: the statements table with the tick boxes is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Row 1 (general formula CnH2nOn): monosaccharides only. Row 2 (glycosidic bonds): polysaccharides only. Row 3 (little effect on water potential): polysaccharides only.",
+     "steps": [
+      "Monosaccharides have the formula CnH2nOn; polysaccharides are made by condensation and lose water, so they do not fit this formula. Tick \"monosaccharides only\".",
+      "Glycosidic bonds join monosaccharide units together, so they occur in polysaccharides and not in single monosaccharides. Tick \"polysaccharides only\".",
+      "Polysaccharides are large and insoluble, so they have little effect on water potential; soluble monosaccharides lower it. Tick \"polysaccharides only\"."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-17.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-18.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q9.jpg"
      ]
     },
     {
@@ -957,7 +1128,8 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-17.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-18.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q10a(ii)",
@@ -986,7 +1158,8 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-17.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-18.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q10b",
@@ -1015,7 +1188,8 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-17.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-18.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q10c(i)",
@@ -1043,7 +1217,8 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-17.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-18.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q10c(ii)",
@@ -1072,7 +1247,8 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-17.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-18.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q11a",
@@ -1100,7 +1276,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q11b",
@@ -1116,12 +1293,19 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Which row of the table describes how two amino acids are joined together in an enzyme molecule?",
-     "status": "pending",
-     "answer": "Pending: the table with the rows describing the bonding is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: peptide, condensation.",
+     "steps": [
+      "Amino acids are joined by a peptide bond (CO-NH), so A and B (ester) are wrong.",
+      "The bond forms when a molecule of water is removed, which is a condensation reaction, not hydrolysis.",
+      "Row C (peptide, condensation) is correct."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-20.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q11.jpg"
      ]
     },
     {
@@ -1150,7 +1334,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q12a",
@@ -1177,7 +1362,8 @@ window.BANK.biology = {
      ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q12b",
@@ -1194,11 +1380,18 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Using the table, state which type of bonding is true for the secondary and tertiary structures of a protein.",
-     "status": "pending",
-     "answer": "Pending: the table of bond types for secondary and tertiary structure is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Secondary structure: hydrogen bonds only. Three-dimensional structure: both hydrogen and ionic bonds.",
+     "steps": [
+      "The secondary structure (alpha helix or beta pleated sheet) is held by hydrogen bonds between backbone C=O and N-H groups only.",
+      "The three-dimensional (tertiary) structure is held by hydrogen bonds and ionic bonds between R groups (as well as disulfide bridges and hydrophobic interactions).",
+      "So tick \"hydrogen bonds only\" for secondary and \"both hydrogen and ionic bonds\" for 3-D structure."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-20.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q12.jpg"
      ]
     },
     {
@@ -1227,7 +1420,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-21.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q13a(ii)",
@@ -1255,6 +1449,9 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-21.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-22.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q13.jpg"
      ]
     },
     {
@@ -1282,7 +1479,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-21.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q13b(ii)",
@@ -1299,12 +1497,20 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Explain the results of the investigation into the effect of two temperatures on the lengths of the primary and secondary structures of a polypeptide, using the table.",
-     "status": "pending",
-     "answer": "Pending: the results table of primary and secondary structure lengths at two temperatures is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The primary structure stays 505 nm because strong peptide bonds are not broken at 55 C; the secondary structure lengthens (48 to 70 nm) because heat breaks its weak hydrogen bonds.",
+     "steps": [
+      "Primary structure length is 505 nm at both 25 C and 55 C: it is held by strong covalent peptide bonds, which are not broken at 55 C.",
+      "Secondary structure increases from 48 nm to 70 nm (an increase of 22 nm, about 46%).",
+      "It is held by weak hydrogen bonds, which are broken or stretched as the molecules gain kinetic energy and vibrate more at 55 C.",
+      "The helix or pleated sheet therefore partly unwinds, so the structure becomes longer."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-21.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-22.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q13-2.jpg"
      ]
     },
     {
@@ -1332,7 +1538,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-22.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q14b",
@@ -1348,12 +1555,19 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Put one cross in each row of a table to show whether each structure is present in amylose and amylopectin.",
-     "status": "pending",
-     "answer": "Pending: the structure table with the tick boxes is missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Glycosidic bonds: both; 1-4 alpha bonds: both; branched side chains: amylopectin only.",
+     "steps": [
+      "Both amylose and amylopectin are alpha glucose polymers joined by glycosidic bonds, so tick \"both\".",
+      "1-4 alpha glycosidic bonds form the main chains in both molecules, so tick \"both\".",
+      "Branched side chains (from 1-6 bonds) occur only in amylopectin; amylose is unbranched, so tick \"amylopectin only\"."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-22.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-23.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q14.jpg"
      ]
     },
     {
@@ -1381,6 +1595,9 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-22.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-23.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q14-2.jpg"
      ]
     },
     {
@@ -1412,7 +1629,8 @@ window.BANK.biology = {
       "papers/biology/img/01A-Chemistry-for-Biologists-25.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-26.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q15b(i)",
@@ -1429,15 +1647,24 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Which row of the table describes the solubility of alanine, aspartate and tryptophan in a non-polar organic solvent, given their R groups in a diagram?",
-     "status": "pending",
-     "answer": "Pending: the R group diagram and the solubility table are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: alanine, tryptophan, aspartate (most to least soluble).",
+     "steps": [
+      "A non-polar solvent dissolves non-polar R groups best and charged R groups worst.",
+      "Alanine (CH3) is small and non-polar, so it is the most soluble.",
+      "Tryptophan has a large ring and hydrocarbon group that is mostly non-polar, so it is moderately soluble.",
+      "Aspartate has a charged carboxylate group (COO-), so it is the least soluble; this matches row B."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-23.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-24.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-25.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-26.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-27.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q15.jpg",
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q15-2.jpg"
      ]
     },
     {
@@ -1455,16 +1682,21 @@ window.BANK.biology = {
       "solvent"
      ],
      "question": "Calculate how many times more soluble histidine (43.5 g per dm3) is than leucine, given the mass of leucine that dissolves in 250 cm3 of the same solvent.",
-     "status": "pending",
-     "answer": "Pending: the mass of leucine dissolving in 250 cm3 is garbled by a watermark in the text and cannot be read reliably.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1.98 (about 2 times)",
+     "steps": [
+      "Convert leucine to g per dm^3: 5.5 g in 250 cm^3 = 5.5 x (1000 / 250) = 22 g dm^-3.",
+      "Histidine is 43.5 g dm^-3.",
+      "Ratio = 43.5 / 22 = 1.977..., so histidine is 1.98 times more soluble (3 s.f.)."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-23.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-24.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-25.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-26.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q15c",
@@ -1482,15 +1714,26 @@ window.BANK.biology = {
       "graphs"
      ],
      "question": "Explain the results showing protein and amino acid concentrations in healthy leaf tissue, leaf tissue with galls and galls, using both graphs and the table of five amino acids.",
-     "status": "pending",
-     "answer": "Pending: the two concentration graphs and the table of five amino acid abundances are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Galls contain far more protein (24 vs 5 mg per g) and amino acids (39 vs 21 mg per g) than healthy leaf, because the insect saliva enzymes change the plant tissue so nutrients build up in the galls to feed the larva.",
+     "steps": [
+      "Protein: 5 mg per g in healthy leaf, 13 in leaf with galls and 24 in galls, so galls have about 5 times more protein than healthy tissue.",
+      "Amino acids: 21 in healthy leaf, 24 in leaf with galls and 39 in galls, so galls have about 1.9 times more amino acids; amino acids are the monomers used to build the extra protein.",
+      "Saliva enzymes change the nutrients in the leaf and cause the plant to concentrate or synthesise protein and amino acids in the galls, giving the developing insect a rich food supply.",
+      "Table: histidine is absent from healthy and galled leaf tissue but abundant (++) in galls, so it is made or accumulated only in the galls.",
+      "Arginine (and alanine) fall in leaf with galls but are most abundant in galls, suggesting they are transported from the rest of the leaf into the galls.",
+      "Leucine stays the same (+) everywhere and tryptophan is absent everywhere, so not all amino acids are affected; the effect is selective."
+     ],
      "images": [
       "papers/biology/img/01A-Chemistry-for-Biologists-23.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-24.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-25.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-26.jpg",
       "papers/biology/img/01A-Chemistry-for-Biologists-27.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q15-3.jpg",
+      "papers/biology/fig/01A-Chemistry-for-Biologists-Q15-4.jpg"
      ]
     }
    ]
@@ -1528,6 +1771,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-01.jpg",
       "papers/biology/img/01B-Mammalian-Transport-02.jpg",
       "papers/biology/img/01B-Mammalian-Transport-03.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q1.jpg"
      ]
     },
     {
@@ -1545,13 +1791,20 @@ window.BANK.biology = {
       "valves"
      ],
      "question": "Explain which stage of the cardiac cycle is shown in the internal diagram of the mammalian heart.",
-     "status": "pending",
-     "answer": "Pending: the labelled heart diagram showing which valves and chambers are open or closed is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Diastole (atrial systole): the AV valves are open and the ventricles are relaxed and filling, so blood flows from the atria into the ventricles.",
+     "steps": [
+      "The valve flaps between the atria and ventricles hang down into the ventricles, so the atrioventricular (AV) valves are open.",
+      "The ventricle walls are relaxed with wide cavities, not squeezed shut as in ventricular systole.",
+      "Blood is therefore moving from the atria into the ventricles, which happens in diastole / atrial systole (the ventricles have not yet contracted)."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-01.jpg",
       "papers/biology/img/01B-Mammalian-Transport-02.jpg",
       "papers/biology/img/01B-Mammalian-Transport-03.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q1-2.jpg"
      ]
     },
     {
@@ -1570,13 +1823,21 @@ window.BANK.biology = {
       "ventricle"
      ],
      "question": "Draw arrows on the heart diagram to show the flow of blood through the left side of the heart and into the aorta.",
-     "status": "pending",
-     "answer": "Pending: the heart diagram to draw arrows on is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Arrows: pulmonary veins -> left atrium -> through the left AV (bicuspid) valve -> left ventricle -> up through the aortic valve -> aorta.",
+     "steps": [
+      "Draw an arrow entering the left atrium from the pulmonary vein (on the right-hand side of the diagram).",
+      "Draw an arrow from the left atrium, through the AV valve, down into the left ventricle.",
+      "Draw an arrow from the left ventricle, up through the aortic (semilunar) valve and into the aorta.",
+      "The arrows should lie inside the chambers and vessels and show a continuous path."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-01.jpg",
       "papers/biology/img/01B-Mammalian-Transport-02.jpg",
       "papers/biology/img/01B-Mammalian-Transport-03.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q1-2.jpg"
      ]
     },
     {
@@ -1594,13 +1855,21 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Explain the changes in the internal diameter of the aorta shown on the graph over two cardiac cycles.",
-     "status": "pending",
-     "answer": "Pending: the graph of aorta diameter over two cardiac cycles is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The diameter rises quickly (about 12.8 to 13.7 mm) when the ventricle forces blood in and stretches the elastic wall, then falls slowly as the wall recoils during diastole.",
+     "steps": [
+      "Ventricular systole forces blood into the aorta at high pressure, so the diameter rises sharply from about 12.8 mm to a peak of about 13.7 mm as the elastic wall stretches.",
+      "During diastole the ventricle relaxes and the aortic valve closes, so pressure falls and the diameter decreases slowly back to about 12.8 mm.",
+      "This fall is the elastic recoil of the aorta wall, which squeezes the blood onward and keeps blood flowing smoothly between beats.",
+      "The pattern repeats in the second cardiac cycle."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-01.jpg",
       "papers/biology/img/01B-Mammalian-Transport-02.jpg",
       "papers/biology/img/01B-Mammalian-Transport-03.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q1-3.jpg"
      ]
     },
     {
@@ -1617,15 +1886,23 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Using the graph point indicated on the x-axis, determine whether the person is healthy, given that pulse pressure should be at least 25% of systolic pressure.",
-     "status": "pending",
-     "answer": "Pending: the systolic and diastolic values from the blood pressure graph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Yes, healthy: pulse pressure is about 5.2 kPa, which is about 35% of the systolic pressure (15.0 kPa) and above 25%.",
+     "steps": [
+      "At the arrow (start of the elastic arteries) systolic pressure is about 15.0 kPa and diastolic pressure is about 9.8 kPa.",
+      "Pulse pressure = 15.0 - 9.8 = 5.2 kPa.",
+      "25% of systolic pressure = 0.25 x 15.0 = 3.75 kPa.",
+      "Pulse pressure (5.2 kPa, about 35% of 15.0) is greater than 3.75 kPa, so the person is healthy."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-03.jpg",
       "papers/biology/img/01B-Mammalian-Transport-04.jpg",
       "papers/biology/img/01B-Mammalian-Transport-05.jpg",
       "papers/biology/img/01B-Mammalian-Transport-06.jpg",
       "papers/biology/img/01B-Mammalian-Transport-07.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q2.jpg"
      ]
     },
     {
@@ -1643,15 +1920,23 @@ window.BANK.biology = {
       "elastic arteries"
      ],
      "question": "Estimate the mean arterial pressure (MAP) in the elastic arteries for this person, using the approximation formula and the graph values.",
-     "status": "pending",
-     "answer": "Pending: the MAP formula image and the systolic and diastolic values from the graph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "11.5 kPa (about 11.5 to 11.6)",
+     "steps": [
+      "Systolic pressure about 15.0 kPa and diastolic pressure about 9.8 kPa at the elastic arteries.",
+      "MAP = diastolic + (systolic - diastolic) / 3.",
+      "MAP = 9.8 + (15.0 - 9.8) / 3 = 9.8 + 1.73 = 11.5 kPa."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-03.jpg",
       "papers/biology/img/01B-Mammalian-Transport-04.jpg",
       "papers/biology/img/01B-Mammalian-Transport-05.jpg",
       "papers/biology/img/01B-Mammalian-Transport-06.jpg",
       "papers/biology/img/01B-Mammalian-Transport-07.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q2.jpg",
+      "papers/biology/fig/01B-Mammalian-Transport-Q2-2.jpg"
      ]
     },
     {
@@ -1683,7 +1968,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-05.jpg",
       "papers/biology/img/01B-Mammalian-Transport-06.jpg",
       "papers/biology/img/01B-Mammalian-Transport-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q2b(i)",
@@ -1700,15 +1986,23 @@ window.BANK.biology = {
       "length"
      ],
      "question": "Which formula can be used to calculate resistance to blood flow?",
-     "status": "pending",
-     "answer": "Pending: the formula images for blood flow and resistance are missing from the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 8 eta lambda / (pi r^4)",
+     "steps": [
+      "Blood flow = pi x deltaP x r^4 / (8 x eta x lambda), and also blood flow = deltaP / resistance.",
+      "Equate them: deltaP / resistance = pi deltaP r^4 / (8 eta lambda).",
+      "Rearranging gives resistance = 8 eta lambda / (pi r^4), which is option D."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-03.jpg",
       "papers/biology/img/01B-Mammalian-Transport-04.jpg",
       "papers/biology/img/01B-Mammalian-Transport-05.jpg",
       "papers/biology/img/01B-Mammalian-Transport-06.jpg",
       "papers/biology/img/01B-Mammalian-Transport-07.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q2-3.jpg",
+      "papers/biology/fig/01B-Mammalian-Transport-Q2-4.jpg"
      ]
     },
     {
@@ -1740,7 +2034,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-05.jpg",
       "papers/biology/img/01B-Mammalian-Transport-06.jpg",
       "papers/biology/img/01B-Mammalian-Transport-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q2b(iii)",
@@ -1772,7 +2067,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-05.jpg",
       "papers/biology/img/01B-Mammalian-Transport-06.jpg",
       "papers/biology/img/01B-Mammalian-Transport-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q2c(i)",
@@ -1803,7 +2099,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-05.jpg",
       "papers/biology/img/01B-Mammalian-Transport-06.jpg",
       "papers/biology/img/01B-Mammalian-Transport-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q2c(ii)",
@@ -1834,7 +2131,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-05.jpg",
       "papers/biology/img/01B-Mammalian-Transport-06.jpg",
       "papers/biology/img/01B-Mammalian-Transport-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q3a(i)",
@@ -1850,12 +2148,19 @@ window.BANK.biology = {
       "state of chambers"
      ],
      "question": "Which row of the table describes the atria and ventricles during atrial systole?",
-     "status": "pending",
-     "answer": "Pending: the table of cardiac cycle rows and the cardiac cycle diagram are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: atria contracted, ventricles relaxed.",
+     "steps": [
+      "Atrial systole is the contraction of the atria, which pushes the last blood into the ventricles.",
+      "The ventricles are still relaxed and filling at this point, so row B is correct."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-07.jpg",
       "papers/biology/img/01B-Mammalian-Transport-08.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q3.jpg",
+      "papers/biology/fig/01B-Mammalian-Transport-Q3-2.jpg"
      ]
     },
     {
@@ -1884,7 +2189,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-07.jpg",
       "papers/biology/img/01B-Mammalian-Transport-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q3a(iii)",
@@ -1900,12 +2206,20 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "Using the information in the diagram, calculate the duration of ventricular systole in milliseconds, expressed in standard form.",
-     "status": "pending",
-     "answer": "Pending: the time values for the stages from the cardiac cycle diagram are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "3.2 x 10^2 ms (322.5 ms before rounding)",
+     "steps": [
+      "The inner ring is divided into 8 equal segments, so each segment is 1/8 of the 0.86 s cycle.",
+      "Ventricular systole (dark grey segment of the outer ring) spans 3 of these segments, i.e. 135 degrees or 3/8 of the cycle.",
+      "Time = 3/8 x 0.86 s = 0.3225 s = 322.5 ms.",
+      "In standard form (2 s.f.) this is 3.2 x 10^2 ms."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-07.jpg",
       "papers/biology/img/01B-Mammalian-Transport-08.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q3.jpg"
      ]
     },
     {
@@ -1921,12 +2235,19 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "State what proportion of the cardiac cycle is spent in ventricular diastole.",
-     "status": "pending",
-     "answer": "Pending: the stage durations from the cardiac cycle diagram are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "5/8 of the cycle (0.625 or 62.5%)",
+     "steps": [
+      "Ventricular diastole is the black part of the outer ring.",
+      "Ventricular systole is 3/8 of the cycle, so diastole is 1 - 3/8 = 5/8.",
+      "5/8 = 0.625 = 62.5% of the cardiac cycle."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-07.jpg",
       "papers/biology/img/01B-Mammalian-Transport-08.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q3.jpg"
      ]
     },
     {
@@ -1955,7 +2276,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-07.jpg",
       "papers/biology/img/01B-Mammalian-Transport-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q4a",
@@ -1971,12 +2293,19 @@ window.BANK.biology = {
       "deoxygenated"
      ],
      "question": "Which diagram shows the direction of blood flow through the vena cava?",
-     "status": "pending",
-     "answer": "Pending: the diagrams of blood flow direction are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A",
+     "steps": [
+      "Blood from the body enters the right atrium through the vena cava, so the arrow must point into the heart.",
+      "Diagram A has an arrow pointing down into the top of the vena cava towards the heart.",
+      "Diagram C shows the arrow pointing away from the heart, and B and D show arrows at the pulmonary vein and pulmonary artery."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-09.jpg",
       "papers/biology/img/01B-Mammalian-Transport-10.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q4.jpg"
      ]
     },
     {
@@ -1993,12 +2322,19 @@ window.BANK.biology = {
       "heart"
      ],
      "question": "Which row in the table describes the blood flow through the pulmonary vein?",
-     "status": "pending",
-     "answer": "Pending: the table of blood flow rows is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: pulmonary artery carries deoxygenated blood away from the heart; pulmonary vein carries oxygenated blood towards the heart.",
+     "steps": [
+      "The pulmonary artery takes deoxygenated blood from the right ventricle to the lungs, so away from the heart.",
+      "The pulmonary vein brings oxygenated blood from the lungs back to the left atrium, so towards the heart.",
+      "Only row A matches both."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-09.jpg",
       "papers/biology/img/01B-Mammalian-Transport-10.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q4-2.jpg"
      ]
     },
     {
@@ -2016,12 +2352,19 @@ window.BANK.biology = {
       "closed"
      ],
      "question": "Which description of the atrioventricular (AV) valves and semilunar (SL) valves is true for each stage of the cardiac cycle?",
-     "status": "pending",
-     "answer": "Pending: the table describing AV and SL valve states for each stage is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Atrial systole: AV open, SL closed. Ventricular systole: AV closed, SL open. Diastole: AV open, SL closed.",
+     "steps": [
+      "Atrial systole: blood is pushed into the ventricles through open AV valves while the semilunar valves stay closed (second column).",
+      "Ventricular systole: high ventricular pressure shuts the AV valves and forces open the semilunar valves so blood leaves the heart (third column).",
+      "Diastole: pressure in the arteries closes the semilunar valves while blood flows into the relaxed chambers through open AV valves (second column)."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-09.jpg",
       "papers/biology/img/01B-Mammalian-Transport-10.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q4-3.jpg"
      ]
     },
     {
@@ -2050,7 +2393,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-09.jpg",
       "papers/biology/img/01B-Mammalian-Transport-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q5a",
@@ -2078,7 +2422,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-10.jpg",
       "papers/biology/img/01B-Mammalian-Transport-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q5b",
@@ -2106,7 +2451,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-10.jpg",
       "papers/biology/img/01B-Mammalian-Transport-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q5c",
@@ -2123,12 +2469,20 @@ window.BANK.biology = {
       "structure"
      ],
      "question": "Complete and label the diagram of a vein to show the structures present in a vein.",
-     "status": "pending",
-     "answer": "Pending: the outline diagram of the vein to complete and label is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Add pocket (semilunar) valves in the lumen that open in the direction of flow, a thin middle layer of muscle and elastic fibres, and an inner endothelium lining a wide lumen; label them.",
+     "steps": [
+      "Draw a valve: pocket-shaped flaps on the inner wall that point in the direction of blood flow (up the page), labelled \"valve\".",
+      "Add a thin middle layer (tunica media, a little smooth muscle and elastic fibre) just inside the outer layer, and label it.",
+      "Draw a smooth, thin inner lining of endothelium round a large lumen, and label it.",
+      "The wall should be thinner and the lumen wider than in an artery."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-10.jpg",
       "papers/biology/img/01B-Mammalian-Transport-11.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q5.jpg"
      ]
     },
     {
@@ -2146,12 +2500,20 @@ window.BANK.biology = {
       "labels"
      ],
      "question": "Label the diagram of the human heart with the names of the four major blood vessels.",
-     "status": "pending",
-     "answer": "Pending: the heart diagram to label is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Top right label: aorta. Middle label: pulmonary artery. Lower right label: pulmonary vein. Left label: vena cava.",
+     "steps": [
+      "The top label line goes to the large arch at the top of the heart, which is the aorta.",
+      "The second label line goes to the vessel leaving the right ventricle in front of the aorta, which is the pulmonary artery.",
+      "The label line to the small vessel entering the left atrium on the right is the pulmonary vein.",
+      "The label on the left goes to the vertical vessel entering the right atrium, which is the vena cava."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-12.jpg",
       "papers/biology/img/01B-Mammalian-Transport-13.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q6.jpg"
      ]
     },
     {
@@ -2169,12 +2531,19 @@ window.BANK.biology = {
       "valves"
      ],
      "question": "Put a cross in each row of a table to show which blood vessel types contain each listed structure.",
-     "status": "pending",
-     "answer": "Pending: the table of structures and vessel types with tick boxes is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Lining of endothelial cells: arteries, capillaries and veins. Valves along the length: veins only. Wall one cell thick: capillaries only.",
+     "steps": [
+      "All blood vessels have an endothelial lining, so tick the last column in row 1.",
+      "Valves along the length prevent backflow at low pressure, so they occur in veins only.",
+      "Capillaries have a wall that is a single endothelial cell thick, so tick \"capillaries only\" in row 3."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-12.jpg",
       "papers/biology/img/01B-Mammalian-Transport-13.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q6-2.jpg"
      ]
     },
     {
@@ -2203,6 +2572,9 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-12.jpg",
       "papers/biology/img/01B-Mammalian-Transport-13.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q6-3.jpg"
      ]
     },
     {
@@ -2220,13 +2592,20 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "What is the name of blood vessel Q on the diagram of the heart showing impulse travel times? Options: A aorta, B pulmonary artery, C pulmonary vein, D vena cava.",
-     "status": "pending",
-     "answer": "Pending: the labelled diagram showing impulse times and vessel Q is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: vena cava",
+     "steps": [
+      "The arrow on blood vessel Q points down into the right atrium, so blood flows into the heart.",
+      "The vena cava returns deoxygenated blood from the body to the right atrium.",
+      "The aorta and pulmonary artery carry blood away from the heart, and the pulmonary vein enters the left atrium."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-13.jpg",
       "papers/biology/img/01B-Mammalian-Transport-14.jpg",
       "papers/biology/img/01B-Mammalian-Transport-15.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q7.jpg"
      ]
     },
     {
@@ -2255,7 +2634,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-13.jpg",
       "papers/biology/img/01B-Mammalian-Transport-14.jpg",
       "papers/biology/img/01B-Mammalian-Transport-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q7b(ii)",
@@ -2272,13 +2652,20 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "The duration of ventricular systole is the time for the impulse to pass between E and F on the diagram. Calculate the proportion of time the ventricles contract in one heartbeat if the heart beats 73 times per minute.",
-     "status": "pending",
-     "answer": "Pending: the time taken for the impulse between E and F is read from the diagram, which is not in the text. (Cycle length at 73 beats per minute is 60 / 73 = 0.822 s.)",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.061 (about 6.1% of the cardiac cycle)",
+     "steps": [
+      "Ventricular systole = time for the impulse from E to F = 0.05 s (read from the diagram).",
+      "Time for one beat at 73 beats per minute = 60 / 73 = 0.822 s.",
+      "Proportion = 0.05 / 0.822 = 0.061, so the ventricles contract for about 6% of each heartbeat."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-13.jpg",
       "papers/biology/img/01B-Mammalian-Transport-14.jpg",
       "papers/biology/img/01B-Mammalian-Transport-15.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q7.jpg"
      ]
     },
     {
@@ -2296,13 +2683,20 @@ window.BANK.biology = {
       "B and D"
      ],
      "question": "The distance between B and D is 12.5 mm. Calculate the speed of the impulse between B and D.",
-     "status": "pending",
-     "answer": "Pending: the time for the impulse to travel between B and D is read from the diagram, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "104 mm s^-1",
+     "steps": [
+      "The time for the impulse from B to D is 0.12 s on the diagram.",
+      "Speed = distance / time = 12.5 mm / 0.12 s = 104.2 mm s^-1.",
+      "To 3 s.f. the speed is 104 mm s^-1."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-13.jpg",
       "papers/biology/img/01B-Mammalian-Transport-14.jpg",
       "papers/biology/img/01B-Mammalian-Transport-15.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q7.jpg"
      ]
     },
     {
@@ -2332,6 +2726,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-13.jpg",
       "papers/biology/img/01B-Mammalian-Transport-14.jpg",
       "papers/biology/img/01B-Mammalian-Transport-15.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q7.jpg"
      ]
     },
     {
@@ -2349,13 +2746,19 @@ window.BANK.biology = {
       "vena cava"
      ],
      "question": "Name the blood vessel labelled G on the diagram of the heart in stage F. Options: A aorta, B pulmonary artery, C pulmonary vein, D vena cava.",
-     "status": "pending",
-     "answer": "Pending: the labelled heart diagram for stage F is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: pulmonary artery",
+     "steps": [
+      "G labels the vessel that leaves the top of the right ventricle in front of the aorta and carries blood to the lungs.",
+      "This is the pulmonary artery, not the aorta (which arches over the top), the pulmonary vein or the vena cava."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-15.jpg",
       "papers/biology/img/01B-Mammalian-Transport-16.jpg",
       "papers/biology/img/01B-Mammalian-Transport-17.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q8.jpg"
      ]
     },
     {
@@ -2372,13 +2775,21 @@ window.BANK.biology = {
       "stages"
      ],
      "question": "Which row of the table identifies the stages before and after stage F in the cardiac cycle?",
-     "status": "pending",
-     "answer": "Pending: the table of stages before and after stage F is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: atrial systole before, cardiac diastole after.",
+     "steps": [
+      "In the diagram the ventricle walls are thick with small cavities and the AV valves are shut, so stage F is ventricular systole.",
+      "The cycle runs atrial systole, then ventricular systole, then diastole.",
+      "So the stage before F is atrial systole and the stage after is cardiac diastole (row A)."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-15.jpg",
       "papers/biology/img/01B-Mammalian-Transport-16.jpg",
       "papers/biology/img/01B-Mammalian-Transport-17.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q8.jpg",
+      "papers/biology/fig/01B-Mammalian-Transport-Q8-2.jpg"
      ]
     },
     {
@@ -2396,13 +2807,20 @@ window.BANK.biology = {
       "beats per minute"
      ],
      "question": "Calculate the heart rate from the left ventricle pressure graph, giving the answer to 3 significant figures.",
-     "status": "pending",
-     "answer": "Pending: the cardiac cycle duration read from the left ventricle pressure graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "75.0 beats min^-1",
+     "steps": [
+      "Take the same point in two cycles on the pressure graph, for example the start of the atrial bump at 0.0 s and 0.8 s.",
+      "Time for one cycle = 0.80 s.",
+      "Heart rate = 60 / 0.80 = 75.0 beats per minute (3 s.f.)."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-15.jpg",
       "papers/biology/img/01B-Mammalian-Transport-16.jpg",
       "papers/biology/img/01B-Mammalian-Transport-17.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q8-3.jpg"
      ]
     },
     {
@@ -2432,6 +2850,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-15.jpg",
       "papers/biology/img/01B-Mammalian-Transport-16.jpg",
       "papers/biology/img/01B-Mammalian-Transport-17.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q8-3.jpg"
      ]
     },
     {
@@ -2449,13 +2870,21 @@ window.BANK.biology = {
       "dog"
      ],
      "question": "Complete the table of blood vessel dimensions in a dog, using the formula surface area = 2 x radius x length.",
-     "status": "pending",
-     "answer": "Pending: the table values for radius and length of the dog blood vessels are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Large veins total surface area = 1.5 x 10^3 cm^2; vena cava length = about 41 cm (40.7).",
+     "steps": [
+      "Large veins: radius = 0.6 / 2 = 0.3 cm, so one vein has area 2 x pi x 0.3 x 20.0 = 37.7 cm^2.",
+      "There are 40 large veins, so total area = 40 x 37.7 = 1508 cm^2 = 1.5 x 10^3 cm^2.",
+      "Vena cava: radius = 1.25 / 2 = 0.625 cm and area = 1.6 x 10^2 cm^2.",
+      "Length = area / (2 x pi x r) = 160 / (2 x pi x 0.625) = 40.7 cm, about 41 cm (a length of 40 cm gives the same 1.6 x 10^2 to 2 s.f.)."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-17.jpg",
       "papers/biology/img/01B-Mammalian-Transport-18.jpg",
       "papers/biology/img/01B-Mammalian-Transport-19.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q9.jpg"
      ]
     },
     {
@@ -2485,6 +2914,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-17.jpg",
       "papers/biology/img/01B-Mammalian-Transport-18.jpg",
       "papers/biology/img/01B-Mammalian-Transport-19.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q9.jpg"
      ]
     },
     {
@@ -2514,6 +2946,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-17.jpg",
       "papers/biology/img/01B-Mammalian-Transport-18.jpg",
       "papers/biology/img/01B-Mammalian-Transport-19.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q9.jpg"
      ]
     },
     {
@@ -2530,13 +2965,20 @@ window.BANK.biology = {
       "smooth muscle"
      ],
      "question": "Which diagram shows the relative proportions of components in the wall of a large artery?",
-     "status": "pending",
-     "answer": "Pending: the diagrams of blood vessel wall components are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A",
+     "steps": [
+      "A large artery has a thin endothelial layer, the highest proportion of elastic fibres, and also smooth muscle and collagen fibres.",
+      "Diagram A shows exactly this, with the elastic fibre bar longest.",
+      "B has little elastic tissue or muscle (a vein), C has no endothelial layer, and D has no collagen."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-17.jpg",
       "papers/biology/img/01B-Mammalian-Transport-18.jpg",
       "papers/biology/img/01B-Mammalian-Transport-19.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q9-2.jpg"
      ]
     },
     {
@@ -2553,13 +2995,21 @@ window.BANK.biology = {
       "style"
      ],
      "question": "Draw a diagram, in the style of the previous diagrams, to represent the wall of a capillary.",
-     "status": "pending",
-     "answer": "Pending: the reference diagrams that set the drawing style are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw only the endothelial cell layer (white bar) and no bars for elastic fibres, smooth muscle or collagen.",
+     "steps": [
+      "A capillary wall is a single layer of endothelial cells.",
+      "On the grid, draw one bar for the endothelial layer, shaded white to match the key.",
+      "Leave out the elastic fibre, smooth muscle and collagen bars because a capillary wall has none of them."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-17.jpg",
       "papers/biology/img/01B-Mammalian-Transport-18.jpg",
       "papers/biology/img/01B-Mammalian-Transport-19.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q9-2.jpg",
+      "papers/biology/fig/01B-Mammalian-Transport-Q9-3.jpg"
      ]
     },
     {
@@ -2589,7 +3039,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-19.jpg",
       "papers/biology/img/01B-Mammalian-Transport-20.jpg",
       "papers/biology/img/01B-Mammalian-Transport-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q10b",
@@ -2618,7 +3069,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-19.jpg",
       "papers/biology/img/01B-Mammalian-Transport-20.jpg",
       "papers/biology/img/01B-Mammalian-Transport-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q10c",
@@ -2647,7 +3099,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-19.jpg",
       "papers/biology/img/01B-Mammalian-Transport-20.jpg",
       "papers/biology/img/01B-Mammalian-Transport-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q10d",
@@ -2676,7 +3129,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-19.jpg",
       "papers/biology/img/01B-Mammalian-Transport-20.jpg",
       "papers/biology/img/01B-Mammalian-Transport-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q11a",
@@ -2705,6 +3159,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-21.jpg",
       "papers/biology/img/01B-Mammalian-Transport-22.jpg",
       "papers/biology/img/01B-Mammalian-Transport-23.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q11.jpg"
      ]
     },
     {
@@ -2722,13 +3179,21 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "800 patients had stent A and 400 had stent B. Calculate the difference in the number of patients who developed stent thrombosis three years after insertion, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the incidence values read from the stent thrombosis graph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "8 patients",
+     "steps": [
+      "At 3 years stent A has an incidence of 1.5% and stent B has an incidence of 1.0%.",
+      "Stent A: 800 x 1.5 / 100 = 12 patients.",
+      "Stent B: 400 x 1.0 / 100 = 4 patients.",
+      "Difference = 12 - 4 = 8 patients."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-21.jpg",
       "papers/biology/img/01B-Mammalian-Transport-22.jpg",
       "papers/biology/img/01B-Mammalian-Transport-23.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q11-2.jpg"
      ]
     },
     {
@@ -2758,7 +3223,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-21.jpg",
       "papers/biology/img/01B-Mammalian-Transport-22.jpg",
       "papers/biology/img/01B-Mammalian-Transport-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q11b(iii)",
@@ -2787,7 +3253,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-21.jpg",
       "papers/biology/img/01B-Mammalian-Transport-22.jpg",
       "papers/biology/img/01B-Mammalian-Transport-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q11b(iv)",
@@ -2815,7 +3282,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-21.jpg",
       "papers/biology/img/01B-Mammalian-Transport-22.jpg",
       "papers/biology/img/01B-Mammalian-Transport-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q11b(v)",
@@ -2844,7 +3312,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-21.jpg",
       "papers/biology/img/01B-Mammalian-Transport-22.jpg",
       "papers/biology/img/01B-Mammalian-Transport-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q12a",
@@ -2874,7 +3343,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-24.jpg",
       "papers/biology/img/01B-Mammalian-Transport-25.jpg",
       "papers/biology/img/01B-Mammalian-Transport-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q12b",
@@ -2904,7 +3374,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-24.jpg",
       "papers/biology/img/01B-Mammalian-Transport-25.jpg",
       "papers/biology/img/01B-Mammalian-Transport-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q12c(i)",
@@ -2921,14 +3392,21 @@ window.BANK.biology = {
       "volume"
      ],
      "question": "Give the volume of a yak red blood cell in cm3, using 1 fl = 1.0 x 10^-15 dm3 and the yak volume from the table, in standard form.",
-     "status": "pending",
-     "answer": "Pending: the yak red blood cell volume from the table is not in the text. (Conversion: 1 fl = 1.0 x 10^-12 cm3.)",
-     "steps": [],
+     "status": "ready",
+     "answer": "4.3 x 10^-11 cm^3",
+     "steps": [
+      "The volume of a yak red blood cell is 43 fl.",
+      "1 fl = 1.0 x 10^-15 dm^3, so 43 fl = 4.3 x 10^-14 dm^3.",
+      "1 dm^3 = 1000 cm^3, so 4.3 x 10^-14 dm^3 = 4.3 x 10^-11 cm^3."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-23.jpg",
       "papers/biology/img/01B-Mammalian-Transport-24.jpg",
       "papers/biology/img/01B-Mammalian-Transport-25.jpg",
       "papers/biology/img/01B-Mammalian-Transport-26.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q12.jpg"
      ]
     },
     {
@@ -2946,14 +3424,21 @@ window.BANK.biology = {
       "mm2"
      ],
      "question": "Calculate the surface area to volume ratio of sphere B, which has a surface area of 768 mm2, using the formula given.",
-     "status": "pending",
-     "answer": "Pending: the formula image and the volume of sphere B from the diagram are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1 : 2.67 (surface area : volume, i.e. 0.375 : 1)",
+     "steps": [
+      "Sphere B has diameter 16 mm, so radius r = 8 mm.",
+      "Volume = 4/3 x 3.0 x 8^3 = 4 x 512 = 2048 mm^3.",
+      "Surface area = 768 mm^2, so surface area : volume = 768 : 2048 = 1 : 2.67."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-23.jpg",
       "papers/biology/img/01B-Mammalian-Transport-24.jpg",
       "papers/biology/img/01B-Mammalian-Transport-25.jpg",
       "papers/biology/img/01B-Mammalian-Transport-26.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q12-2.jpg"
      ]
     },
     {
@@ -2972,14 +3457,24 @@ window.BANK.biology = {
       "oxygen"
      ],
      "question": "Discuss why the blood of yaks enables these animals to live at high altitudes, using all the information in the question, including the blood table.",
-     "status": "pending",
-     "answer": "Pending: the table of yak and human blood characteristics is not in the text, so the comparison cannot be fully supported.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Yak blood carries much more oxygen: far more red blood cells and haemoglobin per dm^3, smaller cells with a larger surface area to volume ratio, and fetal haemoglobin that binds oxygen more readily at the low partial pressure at altitude.",
+     "steps": [
+      "Yaks have a much higher concentration of red blood cells (1.0 x 10^13 cells dm^-3, against 4.0 x 10^6 to 6.0 x 10^6 as printed for humans) and of haemoglobin (136 g dm^-3 against 12 to 18), so the blood carries far more oxygen per dm^3.",
+      "Yak red blood cells are smaller (43 fl against 90 fl, about half the volume), so they have a larger surface area to volume ratio (small sphere A is 1 : 1.3, larger sphere B is 1 : 2.67), giving faster oxygen diffusion and a short diffusion path to the haemoglobin.",
+      "Fetal haemoglobin has a higher affinity for oxygen than adult haemoglobin, so the yak loads oxygen in the lungs even where the partial pressure of oxygen is low at high altitude.",
+      "Together these allow enough oxygen to be delivered for aerobic respiration to release energy for warmth and movement in thin air.",
+      "Possible drawback: more cells make blood more viscous so more resistance, but the large heart helps to pump it."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-23.jpg",
       "papers/biology/img/01B-Mammalian-Transport-24.jpg",
       "papers/biology/img/01B-Mammalian-Transport-25.jpg",
       "papers/biology/img/01B-Mammalian-Transport-26.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q12.jpg",
+      "papers/biology/fig/01B-Mammalian-Transport-Q12-2.jpg"
      ]
     },
     {
@@ -2996,14 +3491,20 @@ window.BANK.biology = {
       "systemic"
      ],
      "question": "Which blood vessel takes blood from the heart to the body? Options are labelled A, B, C and D on the diagram of a human heart.",
-     "status": "pending",
-     "answer": "Pending: the labelled heart diagram with letters A to D is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A",
+     "steps": [
+      "The vessel that carries blood from the left ventricle to the body is the aorta.",
+      "A is the large, thick-walled vessel arching from the heart, so it is the aorta."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-26.jpg",
       "papers/biology/img/01B-Mammalian-Transport-27.jpg",
       "papers/biology/img/01B-Mammalian-Transport-28.jpg",
       "papers/biology/img/01B-Mammalian-Transport-29.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q13.jpg"
      ]
     },
     {
@@ -3020,14 +3521,20 @@ window.BANK.biology = {
       "vessel"
      ],
      "question": "Which blood vessel has semilunar valves and contains blood with the highest concentration of carbon dioxide? Options are labelled A to D on the diagram.",
-     "status": "pending",
-     "answer": "Pending: the labelled heart diagram with letters A to D is not in the text. The vessel is the pulmonary artery, which has semilunar valves and carries deoxygenated blood.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C",
+     "steps": [
+      "The pulmonary artery has semilunar valves at its base and carries the most carbon dioxide (deoxygenated blood from the right ventricle).",
+      "C is the vessel that curves across the front of the heart and branches towards the lungs, so it is the pulmonary artery."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-26.jpg",
       "papers/biology/img/01B-Mammalian-Transport-27.jpg",
       "papers/biology/img/01B-Mammalian-Transport-28.jpg",
       "papers/biology/img/01B-Mammalian-Transport-29.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q13.jpg"
      ]
     },
     {
@@ -3044,14 +3551,21 @@ window.BANK.biology = {
       "cardiac cycle"
      ],
      "question": "When is the heart in ventricular systole on the left ventricle volume graph? Options: A 0.1 s, B 0.4 s, C 0.6 s, D 0.8 s.",
-     "status": "pending",
-     "answer": "Pending: the left ventricle volume graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: at 0.4 seconds",
+     "steps": [
+      "Ventricular systole is when the left ventricle contracts and its volume falls as blood is ejected.",
+      "The volume falls steeply between about 0.23 s and 0.5 s, so at 0.4 s the ventricle is in systole.",
+      "At 0.1 s the volume is rising and at 0.6 s and 0.8 s the ventricle is filling."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-26.jpg",
       "papers/biology/img/01B-Mammalian-Transport-27.jpg",
       "papers/biology/img/01B-Mammalian-Transport-28.jpg",
       "papers/biology/img/01B-Mammalian-Transport-29.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q13-2.jpg"
      ]
     },
     {
@@ -3069,14 +3583,21 @@ window.BANK.biology = {
       "heart rate"
      ],
      "question": "Calculate the volume of blood in dm3 pumped out by the left ventricle each minute, using the volume graph.",
-     "status": "pending",
-     "answer": "Pending: the end-diastolic and end-systolic volumes and the heart rate are read from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 4.2 dm^3 per minute (4.2 to 4.4 depending on the end-diastolic volume read)",
+     "steps": [
+      "Volume at the start of ventricular systole is about 106 cm^3 and the minimum volume is about 50 cm^3, so stroke volume = 106 - 50 = 56 cm^3 (59 cm^3 if the 109 cm^3 peak is used).",
+      "One cardiac cycle takes 0.8 s (peak to peak from 0.14 s to 0.94 s), so heart rate = 60 / 0.8 = 75 beats per minute.",
+      "Output = 56 x 75 = 4200 cm^3 per minute = 4.2 dm^3 (using 59 cm^3 gives 4425 cm^3 = 4.4 dm^3)."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-26.jpg",
       "papers/biology/img/01B-Mammalian-Transport-27.jpg",
       "papers/biology/img/01B-Mammalian-Transport-28.jpg",
       "papers/biology/img/01B-Mammalian-Transport-29.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q13-2.jpg"
      ]
     },
     {
@@ -3107,6 +3628,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-27.jpg",
       "papers/biology/img/01B-Mammalian-Transport-28.jpg",
       "papers/biology/img/01B-Mammalian-Transport-29.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q13-3.jpg"
      ]
     },
     {
@@ -3123,13 +3647,20 @@ window.BANK.biology = {
       "letter"
      ],
      "question": "Which letter (P, Q, R or S) on the left ventricle pressure graph indicates when the atrioventricular (mitral) valves close?",
-     "status": "pending",
-     "answer": "Pending: the pressure and volume graphs with letters P, Q, R and S are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: R",
+     "steps": [
+      "The AV (mitral) valves shut when ventricular pressure first rises above the atrial pressure, at the start of ventricular systole.",
+      "R is at the minimum point just before the steep rise in pressure, so R marks the AV valves closing.",
+      "P and Q show the aortic valve opening and closing, and S shows the pressure falling away at the end of systole."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-29.jpg",
       "papers/biology/img/01B-Mammalian-Transport-30.jpg",
       "papers/biology/img/01B-Mammalian-Transport-31.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q14.jpg"
      ]
     },
     {
@@ -3146,13 +3677,20 @@ window.BANK.biology = {
       "duration"
      ],
      "question": "Calculate the time for one cardiac cycle from the graphs of pressure and volume in the left ventricle.",
-     "status": "pending",
-     "answer": "Pending: the time values read from the left ventricle graphs are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 0.73 s",
+     "steps": [
+      "Measure the time between the same point on two successive cycles, e.g. the start of the rapid pressure rise at about 0.16 s and 0.89 s.",
+      "The time for one cardiac cycle = 0.89 - 0.16 = 0.73 s.",
+      "The volume graph gives the same value (peaks at about 0.13 s and 0.86 s)."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-29.jpg",
       "papers/biology/img/01B-Mammalian-Transport-30.jpg",
       "papers/biology/img/01B-Mammalian-Transport-31.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q14.jpg"
      ]
     },
     {
@@ -3183,6 +3721,9 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-29.jpg",
       "papers/biology/img/01B-Mammalian-Transport-30.jpg",
       "papers/biology/img/01B-Mammalian-Transport-31.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/01B-Mammalian-Transport-Q14.jpg"
      ]
     },
     {
@@ -3200,15 +3741,20 @@ window.BANK.biology = {
       "count"
      ],
      "question": "How many of the three statements are correct for blood vessel P on the diagram of the heart? Options: A 0, B 1, C 2, D 3.",
-     "status": "pending",
-     "answer": "Pending: the labelled internal heart diagram identifying vessel P is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: all 3 statements are correct.",
+     "steps": [
+      "Blood vessel P is the vena cava, which is a vein and carries blood to the heart.",
+      "Veins have valves along their length to stop backflow.",
+      "All blood vessels have an endothelial lining, so all three statements are correct."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-31.jpg",
       "papers/biology/img/01B-Mammalian-Transport-32.jpg",
       "papers/biology/img/01B-Mammalian-Transport-33.jpg",
       "papers/biology/img/01B-Mammalian-Transport-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q15a(ii)",
@@ -3237,7 +3783,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-32.jpg",
       "papers/biology/img/01B-Mammalian-Transport-33.jpg",
       "papers/biology/img/01B-Mammalian-Transport-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q15a(iii)",
@@ -3252,15 +3799,19 @@ window.BANK.biology = {
       "vessel P Q R S"
      ],
      "question": "Which blood vessel (P, Q, R or S) does the coronary artery branch from?",
-     "status": "pending",
-     "answer": "Pending: the labelled heart diagram with vessels P, Q, R and S is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: R (the aorta)",
+     "steps": [
+      "The coronary arteries branch off the aorta just above the aortic valve.",
+      "R labels the aorta (the arch at the top of the heart)."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-31.jpg",
       "papers/biology/img/01B-Mammalian-Transport-32.jpg",
       "papers/biology/img/01B-Mammalian-Transport-33.jpg",
       "papers/biology/img/01B-Mammalian-Transport-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q15a(iv)",
@@ -3277,15 +3828,20 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "When in the cardiac cycle is valve T open? Options: A atrial systole and cardiac diastole, B atrial systole only, C cardiac diastole and ventricular systole, D ventricular systole only.",
-     "status": "pending",
-     "answer": "Pending: the diagram showing where valve T is located is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: atrial systole and cardiac diastole",
+     "steps": [
+      "Valve T is the left atrioventricular (bicuspid) valve between the left atrium and left ventricle.",
+      "It is open when blood flows from the atrium into the ventricle, which is during diastole and atrial systole.",
+      "It is closed during ventricular systole so that blood cannot flow back into the atrium."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-31.jpg",
       "papers/biology/img/01B-Mammalian-Transport-32.jpg",
       "papers/biology/img/01B-Mammalian-Transport-33.jpg",
       "papers/biology/img/01B-Mammalian-Transport-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q15b(i)",
@@ -3302,15 +3858,20 @@ window.BANK.biology = {
       "beats per minute"
      ],
      "question": "Calculate the change in mean heart rate for group 2 after 8 days, from the graph.",
-     "status": "pending",
-     "answer": "Pending: the mean heart rate values for group 2 from the graph are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "+32 beats min^-1 (an increase of about 32)",
+     "steps": [
+      "Group 2 starts with no drug at a mean heart rate of about 62 beats per minute.",
+      "On day 8 the mean heart rate of group 2 is about 94 beats per minute.",
+      "Change = 94 - 62 = +32 beats per minute."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-31.jpg",
       "papers/biology/img/01B-Mammalian-Transport-32.jpg",
       "papers/biology/img/01B-Mammalian-Transport-33.jpg",
       "papers/biology/img/01B-Mammalian-Transport-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q15b(ii)",
@@ -3327,15 +3888,19 @@ window.BANK.biology = {
       "heart rate"
      ],
      "question": "Calculate the mean length of the cardiac cycle for group 2 on day 4, from the graph.",
-     "status": "pending",
-     "answer": "Pending: the mean heart rate for group 2 on day 4 from the graph is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.54 s",
+     "steps": [
+      "Group 2 on day 4 has a mean heart rate of about 111 beats per minute.",
+      "Cycle length = 60 / 111 = 0.54 s."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-31.jpg",
       "papers/biology/img/01B-Mammalian-Transport-32.jpg",
       "papers/biology/img/01B-Mammalian-Transport-33.jpg",
       "papers/biology/img/01B-Mammalian-Transport-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q15b(iii)",
@@ -3352,15 +3917,22 @@ window.BANK.biology = {
       "drugs"
      ],
      "question": "Comment on the conclusions that can be drawn from the investigation into atropine and propranolol on heart rate.",
-     "status": "pending",
-     "answer": "Pending: the heart rate results for both groups over eight days are needed from the graph, which is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Atropine increases heart rate and propranolol decreases it; the second drug reverses the first so that both groups end at similar rates, but the order does not give identical effects and the overlap in error bars means some differences may not be significant.",
+     "steps": [
+      "Atropine raises heart rate: group 2 rises from about 62 to 111 beats per minute and group 1 rises from about 50 to 97 after switching to atropine.",
+      "Propranolol lowers heart rate: group 1 falls from about 60 to 50 and group 2 falls from 111 to 94 beats per minute after switching to propranolol.",
+      "The effect of atropine (an increase of about 50) is much larger than that of propranolol (a decrease of about 10), suggesting it blocks the slowing effect of the nervous system on the heart.",
+      "By days 7 and 8 the two groups are at similar rates (about 94 to 97) and the error bars overlap, so the order of the drugs makes no clear difference.",
+      "The group 2 rate does not fall back to 62 on propranolol, suggesting a lasting effect of atropine, and the small sample or limited days mean the conclusions are limited."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-31.jpg",
       "papers/biology/img/01B-Mammalian-Transport-32.jpg",
       "papers/biology/img/01B-Mammalian-Transport-33.jpg",
       "papers/biology/img/01B-Mammalian-Transport-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q16a(i)",
@@ -3388,7 +3960,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-34.jpg",
       "papers/biology/img/01B-Mammalian-Transport-35.jpg",
       "papers/biology/img/01B-Mammalian-Transport-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q16a(ii)",
@@ -3417,7 +3990,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-34.jpg",
       "papers/biology/img/01B-Mammalian-Transport-35.jpg",
       "papers/biology/img/01B-Mammalian-Transport-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q16b",
@@ -3446,7 +4020,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-34.jpg",
       "papers/biology/img/01B-Mammalian-Transport-35.jpg",
       "papers/biology/img/01B-Mammalian-Transport-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q16c",
@@ -3463,14 +4038,20 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Explain why the percentages of components in the tunica media differ between arteries of different sizes, using the table.",
-     "status": "pending",
-     "answer": "Pending: the table of percentages of components in the tunica media of different arteries is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Large arteries need elastin and collagen to stretch, recoil and resist high pressure; small arteries need smooth muscle to control blood flow by constriction.",
+     "steps": [
+      "Large arteries (24.5% elastin, 37.0% collagen) are nearest the heart, where pressure surges are high, so elastin stretches and recoils to smooth the flow and collagen gives strength to prevent bursting.",
+      "Small arteries have only 1.5% elastin and 12.0% collagen because the pressure pulse has been damped by the time blood reaches them.",
+      "Small arteries have the highest proportion of smooth muscle (60.5% against 33.5% in large arteries), which contracts and relaxes to narrow or widen the lumen.",
+      "This vasoconstriction and vasodilation controls how much blood reaches each tissue; medium-sized arteries show intermediate proportions."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-34.jpg",
       "papers/biology/img/01B-Mammalian-Transport-35.jpg",
       "papers/biology/img/01B-Mammalian-Transport-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q16d(i)",
@@ -3487,14 +4068,18 @@ window.BANK.biology = {
       "comparison"
      ],
      "question": "Which graph shows the diameter of the blood vessels? Options: A graph 1, B graph 3, C graph 4, D graph 6.",
-     "status": "pending",
-     "answer": "Pending: the graphs 1 to 6 showing vessel features are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: graph 3",
+     "steps": [
+      "Diameter is large in large arteries, falls to the smallest in capillaries, then rises again in veins.",
+      "Graph 3 has this U shape: high at large arteries, lowest at capillaries and small veins, rising at large veins."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-34.jpg",
       "papers/biology/img/01B-Mammalian-Transport-35.jpg",
       "papers/biology/img/01B-Mammalian-Transport-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q16d(ii)",
@@ -3511,14 +4096,18 @@ window.BANK.biology = {
       "comparison"
      ],
      "question": "Which graph shows the permeability of the blood vessels? Options: A graph 1, B graph 2, C graph 3, D graph 6.",
-     "status": "pending",
-     "answer": "Pending: the graphs 1 to 6 showing vessel features are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: graph 2",
+     "steps": [
+      "Capillaries are the most permeable vessels because their thin walls have gaps for exchange.",
+      "Graph 2 shows a sharp peak at capillaries only and is low elsewhere."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-34.jpg",
       "papers/biology/img/01B-Mammalian-Transport-35.jpg",
       "papers/biology/img/01B-Mammalian-Transport-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q17a(i)",
@@ -3534,15 +4123,20 @@ window.BANK.biology = {
       "wall thickness"
      ],
      "question": "How many times greater is the diameter of the aorta lumen than the diameter of the capillary lumen, using the table? Options: A 17 800, B 17 900, C 178 000, D 179 000.",
-     "status": "pending",
-     "answer": "Pending: the lumen diameters of the aorta and capillary in the table are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 179 000",
+     "steps": [
+      "Convert to the same unit: 2.5 cm = 25 mm = 25 000 micrometres.",
+      "Ratio = 25 000 / 0.14 = 178 571.",
+      "To 3 s.f. this is 179 000, so option D."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-36.jpg",
       "papers/biology/img/01B-Mammalian-Transport-37.jpg",
       "papers/biology/img/01B-Mammalian-Transport-38.jpg",
       "papers/biology/img/01B-Mammalian-Transport-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q17a(ii)",
@@ -3572,7 +4166,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-37.jpg",
       "papers/biology/img/01B-Mammalian-Transport-38.jpg",
       "papers/biology/img/01B-Mammalian-Transport-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q17b",
@@ -3588,15 +4183,20 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Using the table of durations of ventricular diastole and systole at two heart rates, determine the relationship between heart rate and the durations.",
-     "status": "pending",
-     "answer": "Pending: the table of ventricular diastole and systole durations at two heart rates is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "As heart rate rises both durations shorten, but diastole shortens much more than systole.",
+     "steps": [
+      "From 75 to 200 beats per minute the duration of ventricular diastole falls from 0.53 s to 0.14 s (a fall of 0.39 s, about 74%).",
+      "The duration of ventricular systole falls from 0.27 s to 0.16 s (a fall of 0.11 s, about 41%).",
+      "So the proportion of each cycle spent in diastole falls from about 66% to about 47%, and at 200 beats per minute systole is longer than diastole."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-36.jpg",
       "papers/biology/img/01B-Mammalian-Transport-37.jpg",
       "papers/biology/img/01B-Mammalian-Transport-38.jpg",
       "papers/biology/img/01B-Mammalian-Transport-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q17c",
@@ -3613,15 +4213,21 @@ window.BANK.biology = {
       "pulsatile"
      ],
      "question": "Explain the changes in rate and direction of blood flow through the aorta with increasing distance from the heart, using the graph.",
-     "status": "pending",
-     "answer": "Pending: the graph of blood flow rate against distance from the heart in the aorta of a dog is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Forward flow peaks with each heartbeat but the peaks fall with distance from the heart (about 160 to 40 cm s^-1) because the elastic wall stretches and recoils and friction damps the pulse, and small backward flow appears.",
+     "steps": [
+      "Each peak is a surge of blood when the ventricle contracts and forces blood forwards, at the highest rate (about 160 cm s^-1) nearest the heart.",
+      "The peak flow falls with distance (about 115, 95, 88 and 40 cm s^-1) because the elastic aorta wall stretches to absorb energy, and friction and branching reduce the pulse.",
+      "Between peaks flow is close to zero as the heart relaxes, and the wall recoils to keep blood moving.",
+      "Small backward flows (below zero, up to about 10 cm s^-1) occur further along as the elastic walls recoil and pressure waves rebound, and as the aortic valve closes."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-36.jpg",
       "papers/biology/img/01B-Mammalian-Transport-37.jpg",
       "papers/biology/img/01B-Mammalian-Transport-38.jpg",
       "papers/biology/img/01B-Mammalian-Transport-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q18",
@@ -3651,7 +4257,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-39.jpg",
       "papers/biology/img/01B-Mammalian-Transport-40.jpg",
       "papers/biology/img/01B-Mammalian-Transport-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q19a",
@@ -3668,14 +4275,20 @@ window.BANK.biology = {
       "endothelium"
      ],
      "question": "Complete the diagram of a cross-section of an artery and label two of its features.",
-     "status": "pending",
-     "answer": "Pending: the partly drawn artery cross-section diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Draw concentric layers round the lumen: thin endothelium inside, thick middle layer of smooth muscle and elastic fibres, outer layer of collagen; label any two.",
+     "steps": [
+      "Draw a thin line round the lumen to represent the endothelium (a single layer of flat cells) and label it.",
+      "Draw a thick middle layer (tunica media) between the lumen and the outer circle, containing elastic fibres and smooth muscle, and label it.",
+      "The outer circle is the outer layer (tunica externa) made of collagen fibres.",
+      "The wall should be thick compared with the lumen, which is narrow."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-39.jpg",
       "papers/biology/img/01B-Mammalian-Transport-40.jpg",
       "papers/biology/img/01B-Mammalian-Transport-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q19b(i)",
@@ -3691,14 +4304,19 @@ window.BANK.biology = {
       "veins"
      ],
      "question": "Which is the ratio of the diameter of the lumen to the thickness of the wall in the vena cava? Options: A 0.06 : 1.00, B 1.00 : 0.02, C 1.00 : 16.67, D 60.00 : 1.00.",
-     "status": "pending",
-     "answer": "Pending: the table of vein dimensions is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 60.00 : 1.00",
+     "steps": [
+      "The lumen diameter is 30 mm and the wall thickness is 500 micrometres = 0.5 mm.",
+      "Ratio = 30 : 0.5 = 60 : 1.",
+      "This is option D."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-39.jpg",
       "papers/biology/img/01B-Mammalian-Transport-40.jpg",
       "papers/biology/img/01B-Mammalian-Transport-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q19b(ii)",
@@ -3715,14 +4333,19 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Calculate the cross-sectional area of the lumen of the small vein, using area = pi r^2 and giving a whole number.",
-     "status": "pending",
-     "answer": "Pending: the radius of the small vein lumen from the table is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1134 micrometres^2",
+     "steps": [
+      "The wall is on both sides of the vein, so lumen diameter = 46 - (2 x 4) = 38 micrometres.",
+      "Radius = 19 micrometres.",
+      "Area = pi x r^2 = pi x 19^2 = pi x 361 = 1134 micrometres^2 (whole number)."
+     ],
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-39.jpg",
       "papers/biology/img/01B-Mammalian-Transport-40.jpg",
       "papers/biology/img/01B-Mammalian-Transport-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q20a(i)",
@@ -3751,7 +4374,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-41.jpg",
       "papers/biology/img/01B-Mammalian-Transport-42.jpg",
       "papers/biology/img/01B-Mammalian-Transport-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q20a(ii)",
@@ -3780,7 +4404,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-41.jpg",
       "papers/biology/img/01B-Mammalian-Transport-42.jpg",
       "papers/biology/img/01B-Mammalian-Transport-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q20a(iii)",
@@ -3809,7 +4434,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-41.jpg",
       "papers/biology/img/01B-Mammalian-Transport-42.jpg",
       "papers/biology/img/01B-Mammalian-Transport-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q20b",
@@ -3838,7 +4464,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-41.jpg",
       "papers/biology/img/01B-Mammalian-Transport-42.jpg",
       "papers/biology/img/01B-Mammalian-Transport-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q20c",
@@ -3867,7 +4494,8 @@ window.BANK.biology = {
       "papers/biology/img/01B-Mammalian-Transport-41.jpg",
       "papers/biology/img/01B-Mammalian-Transport-42.jpg",
       "papers/biology/img/01B-Mammalian-Transport-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q21a",
@@ -3895,7 +4523,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-43.jpg",
       "papers/biology/img/01B-Mammalian-Transport-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q21b",
@@ -3922,7 +4551,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-43.jpg",
       "papers/biology/img/01B-Mammalian-Transport-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q21c",
@@ -3949,7 +4579,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-43.jpg",
       "papers/biology/img/01B-Mammalian-Transport-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q22a(i)",
@@ -3976,7 +4607,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-43.jpg",
       "papers/biology/img/01B-Mammalian-Transport-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q22a(ii)",
@@ -4005,7 +4637,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-43.jpg",
       "papers/biology/img/01B-Mammalian-Transport-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q22b",
@@ -4034,7 +4667,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01B-Mammalian-Transport-43.jpg",
       "papers/biology/img/01B-Mammalian-Transport-44.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -4070,7 +4704,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-01.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-02.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q1a(ii)",
@@ -4093,7 +4728,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-01.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-02.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q1a(iii)",
@@ -4117,7 +4753,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-01.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-02.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q1b(i)",
@@ -4146,7 +4783,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-01.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-02.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q1b(ii)",
@@ -4175,7 +4813,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-01.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-02.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q1b(iii)",
@@ -4204,7 +4843,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-01.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-02.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q2a",
@@ -4233,7 +4873,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-03.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-04.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q2b(i)",
@@ -4256,7 +4897,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-03.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-04.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q2b(ii)",
@@ -4285,7 +4927,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-03.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-04.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q2b(iii)",
@@ -4315,7 +4958,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-03.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-04.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q3a(i)",
@@ -4337,7 +4981,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-05.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q3a(ii)",
@@ -4360,7 +5005,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-05.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q3b",
@@ -4387,7 +5033,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-05.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q4a",
@@ -4414,7 +5061,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-06.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-07.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q4b",
@@ -4442,7 +5090,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-06.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-07.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q4c",
@@ -4471,7 +5120,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-06.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-07.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q4d(i)",
@@ -4499,7 +5149,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-06.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-07.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q4d(ii)",
@@ -4527,7 +5178,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-06.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-07.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q4d(iii)",
@@ -4556,7 +5208,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-06.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-07.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q5a",
@@ -4584,7 +5237,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-08.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-09.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q5b(i)",
@@ -4612,7 +5266,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-08.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-09.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q5b(ii)",
@@ -4641,7 +5296,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-08.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-09.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q5b(iii)",
@@ -4670,7 +5326,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-08.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-09.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q5c(i)",
@@ -4693,7 +5350,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-08.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-09.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q5c(ii)",
@@ -4721,7 +5379,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-08.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-09.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q6a",
@@ -4744,7 +5403,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-11.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-12.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q6b(i)",
@@ -4772,7 +5432,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-11.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-12.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q6b(ii)",
@@ -4801,7 +5462,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-11.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-12.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q6c",
@@ -4829,7 +5491,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-11.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-12.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q6d(i)",
@@ -4857,7 +5520,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-11.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-12.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q6d(ii)",
@@ -4885,7 +5549,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-11.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-12.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q7a(i)",
@@ -4908,7 +5573,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-13.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-14.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q7a(ii)",
@@ -4932,7 +5598,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-13.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-14.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q7a(iii)",
@@ -4955,7 +5622,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-13.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-14.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q7a(iv)",
@@ -4983,7 +5651,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-13.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-14.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q7b(i)",
@@ -5011,7 +5680,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-13.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-14.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q7b(ii)",
@@ -5034,7 +5704,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-13.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-14.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q8a",
@@ -5063,7 +5734,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-16.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-17.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q8b(i)",
@@ -5086,7 +5758,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-16.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-17.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q8b(ii)",
@@ -5114,7 +5787,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-16.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-17.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q8b(iii)",
@@ -5142,7 +5816,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-16.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-17.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q8b(iv)",
@@ -5169,7 +5844,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-16.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-17.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q8b(v)",
@@ -5198,7 +5874,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-16.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-17.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q9a",
@@ -5223,7 +5900,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-19.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-20.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q9b(i)",
@@ -5247,7 +5925,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-19.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-20.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q9b(ii)",
@@ -5276,7 +5955,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-19.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-20.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q10a",
@@ -5307,7 +5987,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-23.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-24.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q10b",
@@ -5332,7 +6013,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-23.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-24.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q10c(i)",
@@ -5363,7 +6045,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-23.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-24.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q10c(ii)",
@@ -5393,7 +6076,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-23.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-24.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q10d",
@@ -5425,7 +6109,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-23.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-24.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q11a",
@@ -5453,7 +6138,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-25.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-26.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q11b",
@@ -5477,7 +6163,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-25.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-26.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q11c",
@@ -5507,7 +6194,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-25.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-26.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q11d(i)",
@@ -5535,7 +6223,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-25.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-26.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q11d(ii)",
@@ -5564,7 +6253,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-25.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-26.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q12a(i)",
@@ -5586,7 +6276,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-27.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-28.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q12a(ii)",
@@ -5615,7 +6306,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-27.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-28.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q12b(i)",
@@ -5643,7 +6335,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-27.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-28.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q12b(ii)",
@@ -5671,7 +6364,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-27.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-28.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q12b(iii)",
@@ -5700,7 +6394,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-27.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-28.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q13a(i)",
@@ -5725,7 +6420,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-31.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q13a(ii)",
@@ -5756,7 +6452,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-31.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q13a(iii)",
@@ -5786,7 +6483,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-31.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q13b(i)",
@@ -5812,7 +6510,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-31.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q13b(ii)",
@@ -5838,7 +6537,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-31.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q13b(iii)",
@@ -5868,7 +6568,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-31.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q13b(iv)",
@@ -5899,7 +6600,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-31.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-32.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q14a(i)",
@@ -5922,7 +6624,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-33.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q14a(ii)",
@@ -5950,7 +6653,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-33.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q14b(i)",
@@ -5978,7 +6682,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-33.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q14b(ii)",
@@ -6007,7 +6712,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-33.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q14b(iii)",
@@ -6035,7 +6741,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-33.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q14b(iv)",
@@ -6058,7 +6765,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-33.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q14c",
@@ -6086,7 +6794,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-33.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-34.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q15a",
@@ -6109,7 +6818,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-35.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-36.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q15b",
@@ -6140,7 +6850,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-35.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-36.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q15c(i)",
@@ -6168,7 +6879,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-35.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-36.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q15c(ii)",
@@ -6196,7 +6908,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-35.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-36.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q15c(iii)",
@@ -6224,7 +6937,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-35.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-36.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q16a(i)",
@@ -6252,7 +6966,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-38.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-39.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q16a(ii)",
@@ -6281,7 +6996,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-38.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-39.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q16b(i)",
@@ -6310,7 +7026,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-38.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-39.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q16b(ii)",
@@ -6338,7 +7055,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-38.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-39.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q16b(iii)",
@@ -6370,7 +7088,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-38.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-39.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q17a",
@@ -6394,7 +7113,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-41.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-42.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q17b",
@@ -6425,7 +7145,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-41.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-42.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q17c",
@@ -6451,7 +7172,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-41.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-42.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q18a",
@@ -6480,7 +7202,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-43.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-44.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q18b(i)",
@@ -6508,7 +7231,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-43.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-44.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q18b(ii)",
@@ -6540,7 +7264,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-43.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-44.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q18b(iii)",
@@ -6569,7 +7294,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-43.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-44.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q19a(i)",
@@ -6597,7 +7323,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q19a(ii)",
@@ -6625,7 +7352,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q19a(iii)",
@@ -6648,7 +7376,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q19b",
@@ -6676,7 +7405,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q19c(i)",
@@ -6700,7 +7430,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q19c(ii)",
@@ -6729,7 +7460,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q19d(i)",
@@ -6757,7 +7489,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q19d(ii)",
@@ -6785,7 +7518,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-45.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-46.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q20a",
@@ -6809,7 +7543,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-48.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-49.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q20b",
@@ -6834,7 +7569,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-48.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-49.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q20c(i)",
@@ -6862,7 +7598,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-48.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-49.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q20c(ii)",
@@ -6892,7 +7629,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-48.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-49.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q20c(iii)",
@@ -6922,7 +7660,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-48.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-49.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q21a(i)",
@@ -6948,7 +7687,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-51.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q21a(ii)",
@@ -6975,7 +7715,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-51.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q21a(iii)",
@@ -7001,7 +7742,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-51.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q21b",
@@ -7028,7 +7770,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-51.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q21c",
@@ -7056,7 +7799,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-51.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q22a",
@@ -7084,7 +7828,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-52.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q22b",
@@ -7110,7 +7855,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-52.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q22c",
@@ -7137,7 +7883,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/01C-Cardiovascular-Health-52.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q23a",
@@ -7167,7 +7914,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-55.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q23b",
@@ -7197,7 +7945,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-55.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q23c(i)",
@@ -7225,7 +7974,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-55.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q23c(ii)",
@@ -7255,7 +8005,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-55.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q23c(iii)",
@@ -7279,7 +8030,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-55.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q23c(iv)",
@@ -7310,7 +8062,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-55.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q23c(v)",
@@ -7336,7 +8089,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-55.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-56.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q24a",
@@ -7366,7 +8120,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-58.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-59.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-60.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q24b(i)",
@@ -7395,7 +8150,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-58.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-59.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-60.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q24b(ii)",
@@ -7424,7 +8180,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-58.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-59.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-60.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q24c(i)",
@@ -7454,7 +8211,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-58.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-59.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-60.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q24c(ii)",
@@ -7483,7 +8241,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-58.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-59.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-60.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q24c(iii)",
@@ -7508,7 +8267,8 @@ window.BANK.biology = {
       "papers/biology/img/01C-Cardiovascular-Health-58.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-59.jpg",
       "papers/biology/img/01C-Cardiovascular-Health-60.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -7533,13 +8293,21 @@ window.BANK.biology = {
       "scale"
      ],
      "question": "Estimate the length of the neck of the adult giraffe from the shoulders, using the information in the photograph.",
-     "status": "pending",
-     "answer": "Missing: the photograph of the giraffe with its scale reference is not in the text, so the neck length cannot be estimated.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 1.9 m (accept about 1.8 to 2.0 m).",
+     "steps": [
+      "Scale: the arrow from the ground to the dashed shoulder line stands for 3.0 m.",
+      "Measure the neck from the shoulders to the top of the head: it is about 0.65 times the length of the 3.0 m arrow.",
+      "Neck length = 0.65 x 3.0 m = about 1.9 m.",
+      "Any sensible estimate obtained by measuring the photograph and scaling against the 3.0 m arrow is acceptable."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-01.jpg",
       "papers/biology/img/02A-Membranes-Transport-02.jpg",
       "papers/biology/img/02A-Membranes-Transport-03.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q1.jpg"
      ]
     },
     {
@@ -7570,7 +8338,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-01.jpg",
       "papers/biology/img/02A-Membranes-Transport-02.jpg",
       "papers/biology/img/02A-Membranes-Transport-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q1c(i)",
@@ -7600,7 +8369,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-01.jpg",
       "papers/biology/img/02A-Membranes-Transport-02.jpg",
       "papers/biology/img/02A-Membranes-Transport-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q1c(ii)",
@@ -7630,7 +8400,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-01.jpg",
       "papers/biology/img/02A-Membranes-Transport-02.jpg",
       "papers/biology/img/02A-Membranes-Transport-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q1d(i)",
@@ -7660,7 +8431,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-01.jpg",
       "papers/biology/img/02A-Membranes-Transport-02.jpg",
       "papers/biology/img/02A-Membranes-Transport-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q1d(ii)",
@@ -7690,7 +8462,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-01.jpg",
       "papers/biology/img/02A-Membranes-Transport-02.jpg",
       "papers/biology/img/02A-Membranes-Transport-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q2a",
@@ -7707,13 +8480,20 @@ window.BANK.biology = {
       "ATP"
      ],
      "question": "From a table of features of transport mechanisms, identify the feature that is true for active transport only, facilitated diffusion only, both, or neither.",
-     "status": "pending",
-     "answer": "Missing: the table of transport mechanism features is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Passive process: facilitated diffusion only. Membrane proteins involved: both active transport and facilitated diffusion. Can be up the concentration gradient: active transport only.",
+     "steps": [
+      "Passive process: facilitated diffusion needs no ATP and goes down the gradient, whereas active transport needs ATP, so tick \"facilitated diffusion only\".",
+      "Membrane proteins: facilitated diffusion uses channel or carrier proteins and active transport uses carrier proteins (pumps), so tick \"both\".",
+      "Direction: only active transport can move a substance up (against) its concentration gradient, so tick \"active transport only\"."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-03.jpg",
       "papers/biology/img/02A-Membranes-Transport-04.jpg",
       "papers/biology/img/02A-Membranes-Transport-05.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q2.jpg"
      ]
     },
     {
@@ -7731,13 +8511,21 @@ window.BANK.biology = {
       "cytoplasm"
      ],
      "question": "Explain the differences in the uptake of substance K and substance L into an amoeba at 18 C, shown on the graph.",
-     "status": "pending",
-     "answer": "Missing: the graph of uptake of substances K and L is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "K is taken up at a steady rate that carries on for the whole 5 hours, whereas L is taken up more slowly and levels off at about 11.5 ug cm-3 after about 3.8 hours.",
+     "steps": [
+      "K rises steadily from about 0.7 to about 18.5 ug cm-3 (about 3.6 ug cm-3 per hour) with no levelling off, so its uptake is not stopped by the gradient disappearing: it is active transport using ATP, moving K up its concentration gradient.",
+      "L rises more slowly (about 2.5 ug cm-3 per hour, starting at about 2 ug cm-3), then stays flat at about 11.5 ug cm-3 from about 3.8 hours.",
+      "The plateau for L means no net uptake: it moves passively (facilitated diffusion) down its gradient, so uptake stops once the concentration in the cytoplasm equals that outside, or when all the carrier/channel proteins are saturated.",
+      "So K needs energy and can keep accumulating, whereas L is passive and limited by the gradient or the number of transport proteins."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-03.jpg",
       "papers/biology/img/02A-Membranes-Transport-04.jpg",
       "papers/biology/img/02A-Membranes-Transport-05.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q2-2.jpg"
      ]
     },
     {
@@ -7755,13 +8543,21 @@ window.BANK.biology = {
       "line"
      ],
      "question": "On the graph, draw a line to show the uptake of substance L at 10 C.",
-     "status": "pending",
-     "answer": "Missing: the graph to be annotated is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A straight line starting at about 2 ug cm-3 at 0 hours, with a smaller gradient than the 18 C line for L, so it lies below it and reaches any plateau later (it may still be rising at 5 hours).",
+     "steps": [
+      "At 10 C the molecules and carrier proteins have less kinetic energy and the membrane is less fluid, so uptake is slower than at 18 C.",
+      "Start the line at the same point as the 18 C line (about 2 ug cm-3 at 0 hours) because nothing has happened yet.",
+      "Draw a straight line with a shallower slope than the 18 C line (less than about 2.5 ug cm-3 per hour, for example reaching about 8 to 9 ug cm-3 at 3.8 hours).",
+      "Any plateau should occur later than 3.8 hours and, if equilibrium sets the limit, at the same concentration of about 11.5 ug cm-3."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-03.jpg",
       "papers/biology/img/02A-Membranes-Transport-04.jpg",
       "papers/biology/img/02A-Membranes-Transport-05.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q2-2.jpg"
      ]
     },
     {
@@ -7791,7 +8587,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-03.jpg",
       "papers/biology/img/02A-Membranes-Transport-04.jpg",
       "papers/biology/img/02A-Membranes-Transport-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q2c(ii)",
@@ -7820,7 +8617,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-03.jpg",
       "papers/biology/img/02A-Membranes-Transport-04.jpg",
       "papers/biology/img/02A-Membranes-Transport-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q3a(i)",
@@ -7838,14 +8636,21 @@ window.BANK.biology = {
       "formula"
      ],
      "question": "Calculate the volume of the liposome shown in the diagram, using the formula given in the question.",
-     "status": "pending",
-     "answer": "Missing: the diagram giving the liposome dimensions and the formula image are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "5.2 x 10^5 nm^3 (523 599 nm^3).",
+     "steps": [
+      "The 100 nm arrow is the diameter, so r = 100 / 2 = 50 nm.",
+      "V = 4/3 x pi x r^3 = 4/3 x pi x 50^3 = 4/3 x pi x 125 000.",
+      "V = 523 599 nm^3 = 5.2 x 10^5 nm^3 (2 s.f.); the unit is nm^3."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-05.jpg",
       "papers/biology/img/02A-Membranes-Transport-06.jpg",
       "papers/biology/img/02A-Membranes-Transport-07.jpg",
       "papers/biology/img/02A-Membranes-Transport-08.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q3.jpg"
      ]
     },
     {
@@ -7876,6 +8681,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-06.jpg",
       "papers/biology/img/02A-Membranes-Transport-07.jpg",
       "papers/biology/img/02A-Membranes-Transport-08.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q3.jpg"
      ]
     },
     {
@@ -7906,7 +8714,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-06.jpg",
       "papers/biology/img/02A-Membranes-Transport-07.jpg",
       "papers/biology/img/02A-Membranes-Transport-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q3b(ii)",
@@ -7924,14 +8733,22 @@ window.BANK.biology = {
       "50%"
      ],
      "question": "Describe the effects of cholesterol and temperature on membrane permeability to glycerol, as shown in the graph.",
-     "status": "pending",
-     "answer": "Missing: the graph of glycerol permeability against temperature for each cholesterol level is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Permeability to glycerol increases as temperature rises in all three liposomes, and at any temperature it decreases as the proportion of cholesterol increases.",
+     "steps": [
+      "Temperature: permeability rises with temperature for every liposome, and the curves get steeper at higher temperature; with no cholesterol it rises from about 10 a.u. at 1 C to about 280 a.u. at 30 C.",
+      "Cholesterol: at each temperature the permeability is highest with no cholesterol, lower with 20% and lowest with 50% cholesterol; at 30 C it is about 280, 155 and 85 a.u. respectively.",
+      "At 20 C the values are about 150, 75 and 25 a.u., so 50% cholesterol cuts the permeability to about a sixth.",
+      "With 50% cholesterol the permeability is about zero below about 13 C, and its curve is the flattest, so cholesterol also reduces the effect of temperature."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-05.jpg",
       "papers/biology/img/02A-Membranes-Transport-06.jpg",
       "papers/biology/img/02A-Membranes-Transport-07.jpg",
       "papers/biology/img/02A-Membranes-Transport-08.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q3-2.jpg"
      ]
     },
     {
@@ -7962,7 +8779,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-06.jpg",
       "papers/biology/img/02A-Membranes-Transport-07.jpg",
       "papers/biology/img/02A-Membranes-Transport-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q4a",
@@ -7979,13 +8797,21 @@ window.BANK.biology = {
       "times taller"
      ],
      "question": "The mouse is 3 cm tall. Using the white line on the elephant photograph, calculate how many times taller the elephant is than the mouse.",
-     "status": "pending",
-     "answer": "Missing: the elephant photograph with the white line measurement is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 80 times taller (about 82).",
+     "steps": [
+      "Measure the white line on the elephant photograph: it is about 4.9 cm long.",
+      "Actual height = image size / magnification = 4.9 / 0.02 = about 245 cm.",
+      "Ratio = 245 cm / 3 cm = about 82, so the elephant is about 80 times taller than the mouse.",
+      "The exact value depends on the measured length (a 5.0 cm line gives 250 cm and a ratio of 83)."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-08.jpg",
       "papers/biology/img/02A-Membranes-Transport-09.jpg",
       "papers/biology/img/02A-Membranes-Transport-10.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q4.jpg"
      ]
     },
     {
@@ -8016,7 +8842,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-08.jpg",
       "papers/biology/img/02A-Membranes-Transport-09.jpg",
       "papers/biology/img/02A-Membranes-Transport-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q4c",
@@ -8034,13 +8861,23 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Explain the difference in the oxygen dissociation curves of haemoglobin for a mouse and an elephant, using both graphs.",
-     "status": "pending",
-     "answer": "Missing: Graph 1 (oxygen dissociation curves) and Graph 2 (mass-specific metabolic rate) are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The mouse haemoglobin has a lower affinity for oxygen (its curve is to the right) than the elephant haemoglobin, because the mouse has a much higher mass-specific metabolic rate and needs oxygen unloaded more readily to its tissues.",
+     "steps": [
+      "Graph 1: at the same partial pressure of oxygen the elephant haemoglobin is more saturated (for example about 75-80% against about 30% at 4 kPa), so the elephant curve lies to the left and has the higher affinity.",
+      "Graph 2: the mouse has a mass-specific metabolic rate of about 5 cm3 oxygen g-1 hr-1 compared with about 0.2 for the elephant, so its tissues use about 25 times more oxygen per gram.",
+      "The mouse therefore needs a haemoglobin that releases (unloads) oxygen readily at the tissues, even at fairly high partial pressures; a lower affinity does this, and it still loads fully in the lungs at high partial pressure.",
+      "The elephant respires much more slowly per gram, so it needs less oxygen delivered per gram and its higher-affinity haemoglobin loads easily and unloads less readily.",
+      "The mouse has a large surface area to volume ratio and loses heat quickly, which explains its high metabolic rate."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-08.jpg",
       "papers/biology/img/02A-Membranes-Transport-09.jpg",
       "papers/biology/img/02A-Membranes-Transport-10.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q4-2.jpg",
+      "papers/biology/fig/02A-Membranes-Transport-Q4-3.jpg"
      ]
     },
     {
@@ -8072,7 +8909,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-11.jpg",
       "papers/biology/img/02A-Membranes-Transport-12.jpg",
       "papers/biology/img/02A-Membranes-Transport-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q5b",
@@ -8103,7 +8941,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-11.jpg",
       "papers/biology/img/02A-Membranes-Transport-12.jpg",
       "papers/biology/img/02A-Membranes-Transport-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q5c(i)",
@@ -8121,14 +8960,21 @@ window.BANK.biology = {
       "table"
      ],
      "question": "Complete the table by calculating the volume of LDL (diameters 19 to 24 nm) and the ratio of LDL volume to cholesterol volume, using the formula given.",
-     "status": "pending",
-     "answer": "Missing: the table of LDL and cholesterol data and the formula image are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Volume of LDL = 7240 nm^3 (7238 nm^3); ratio of LDL volume to cholesterol volume = 14 : 1.",
+     "steps": [
+      "Diameter 24 nm, so r = 12 nm.",
+      "V = 4/3 x pi x 12^3 = 4/3 x pi x 1728 = 7238 nm^3 (about 7240 nm^3).",
+      "Ratio = 7238 / 523 = 13.8, which is 14 : 1 (written as in the 19 nm row, 3590 / 523 = 7 : 1)."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-10.jpg",
       "papers/biology/img/02A-Membranes-Transport-11.jpg",
       "papers/biology/img/02A-Membranes-Transport-12.jpg",
       "papers/biology/img/02A-Membranes-Transport-13.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q5.jpg"
      ]
     },
     {
@@ -8147,14 +8993,23 @@ window.BANK.biology = {
       "atherosclerosis"
      ],
      "question": "Explain why measuring only the level of LDL in the blood is not a reliable predictor of cardiovascular disease, using the graph of LDL and HDL against risk.",
-     "status": "pending",
-     "answer": "Missing: the graph relating LDL and HDL to CVD risk is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The risk of CVD depends on the level of HDL as well as LDL: with high HDL the risk stays low even when LDL is high, whereas with low HDL the risk is higher and rises steeply with LDL, so LDL alone is not a reliable predictor.",
+     "steps": [
+      "Graph: with HDL 0.65 and 1.16 a.u. the risk of CVD rises clearly as LDL rises (the 1.16 line rises steeply at high LDL), but with HDL 1.68 and 2.20 a.u. the lines are low and almost flat, so a high LDL level adds little risk.",
+      "At any given LDL the risk falls as HDL rises; even the lowest LDL with HDL 0.65 a.u. gives a higher risk than the highest LDL with HDL 2.20 a.u., so a person with high LDL and high HDL may be at lower risk than someone with moderate LDL and low HDL.",
+      "Own knowledge: LDL carries cholesterol to tissues and can deposit it in artery walls (atheroma and atherosclerosis), whereas HDL carries cholesterol away from the tissues to the liver, protecting against CVD; the HDL : LDL ratio matters.",
+      "From the question: LDLs cause damage after being absorbed by endothelial cells and broken down by free radicals, so the damage depends on other factors as well as the amount of LDL.",
+      "Other risk factors (smoking, high blood pressure, diet, genes, age, inactivity) also affect CVD, so LDL alone is only a partial predictor."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-10.jpg",
       "papers/biology/img/02A-Membranes-Transport-11.jpg",
       "papers/biology/img/02A-Membranes-Transport-12.jpg",
       "papers/biology/img/02A-Membranes-Transport-13.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q5-2.jpg"
      ]
     },
     {
@@ -8184,7 +9039,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-14.jpg",
       "papers/biology/img/02A-Membranes-Transport-15.jpg",
       "papers/biology/img/02A-Membranes-Transport-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q6a(ii)",
@@ -8215,6 +9071,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-14.jpg",
       "papers/biology/img/02A-Membranes-Transport-15.jpg",
       "papers/biology/img/02A-Membranes-Transport-16.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q6.jpg"
      ]
     },
     {
@@ -8246,6 +9105,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-14.jpg",
       "papers/biology/img/02A-Membranes-Transport-15.jpg",
       "papers/biology/img/02A-Membranes-Transport-16.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q6-2.jpg"
      ]
     },
     {
@@ -8277,6 +9139,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-14.jpg",
       "papers/biology/img/02A-Membranes-Transport-15.jpg",
       "papers/biology/img/02A-Membranes-Transport-16.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q6-2.jpg"
      ]
     },
     {
@@ -8293,14 +9158,22 @@ window.BANK.biology = {
       "graph"
      ],
      "question": "Using the point X on the graph and the oxygen dissociation curve, determine the percentage saturation of haemoglobin in blood leaving the lungs of the person at high altitude.",
-     "status": "pending",
-     "answer": "Missing: the graph and the point X are not in the text, so the percentage saturation cannot be read.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 83% (accept 80 to 85%).",
+     "steps": [
+      "Point X marks the partial pressure of oxygen in the alveoli at high altitude: about 6.3 kPa.",
+      "Blood leaving the lungs is in equilibrium with alveolar air, so its partial pressure of oxygen is also about 6.3 kPa.",
+      "Reading from the dissociation curve at 6.3 kPa gives a percentage saturation of about 83%."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-13.jpg",
       "papers/biology/img/02A-Membranes-Transport-14.jpg",
       "papers/biology/img/02A-Membranes-Transport-15.jpg",
       "papers/biology/img/02A-Membranes-Transport-16.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q6.jpg",
+      "papers/biology/fig/02A-Membranes-Transport-Q6-2.jpg"
      ]
     },
     {
@@ -8332,6 +9205,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-14.jpg",
       "papers/biology/img/02A-Membranes-Transport-15.jpg",
       "papers/biology/img/02A-Membranes-Transport-16.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q6-2.jpg"
      ]
     },
     {
@@ -8362,7 +9238,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-17.jpg",
       "papers/biology/img/02A-Membranes-Transport-18.jpg",
       "papers/biology/img/02A-Membranes-Transport-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q7a(ii)",
@@ -8393,7 +9270,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-17.jpg",
       "papers/biology/img/02A-Membranes-Transport-18.jpg",
       "papers/biology/img/02A-Membranes-Transport-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q7b",
@@ -8411,14 +9289,24 @@ window.BANK.biology = {
       "investigation"
      ],
      "question": "Explain the results of an investigation in which paramecia in pond water, solution A and solution B had the number of contractile vacuole pumps counted in 30-second intervals, using the graphs.",
-     "status": "pending",
-     "answer": "Missing: the graphs of contractile vacuole pumping for pond water, solution A and solution B are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The pumping rate matches the rate at which water enters by osmosis: it stays at 2 per 30 s in pond water, falls to 1 in solution A (less water enters) and rises to 4 in solution B (more water enters).",
+     "steps": [
+      "Pond water: 2 pumps per 30 s all the time, so water enters and is pumped out at a steady rate and the cell volume stays constant.",
+      "Solution A: starts at 2 but falls to 1 from 1 minute and stays at 1; A has a lower water potential (more concentrated) than pond water, so the water potential gradient into the cell is smaller, less water enters by osmosis and the vacuole needs to pump less often.",
+      "Solution B: rises from 2 at 0.5 minutes to 3 at 1 minute and 4 from 1.5 minutes; B has a higher water potential (more dilute) than pond water, so a steeper gradient means more water enters by osmosis and the vacuole must pump twice as often as in pond water.",
+      "The delay of 0.5 to 1.5 minutes before the rate changes shows the time the paramecia take to adjust before they reach a new steady rate.",
+      "Pumping water out uses ATP, so more energy is used in B than in pond water or A; the vacuole stops the cell swelling and bursting."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-16.jpg",
       "papers/biology/img/02A-Membranes-Transport-17.jpg",
       "papers/biology/img/02A-Membranes-Transport-18.jpg",
       "papers/biology/img/02A-Membranes-Transport-19.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q7.jpg",
+      "papers/biology/fig/02A-Membranes-Transport-Q7-2.jpg"
      ]
     },
     {
@@ -8436,13 +9324,19 @@ window.BANK.biology = {
       "sucrose"
      ],
      "question": "From a table of sugars, identify the row that shows which sugars are monosaccharides and which are disaccharides.",
-     "status": "pending",
-     "answer": "Missing: the table of sugars and the row options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: fructose and glucose are the monosaccharides; sucrose only is the disaccharide.",
+     "steps": [
+      "Glucose and fructose are single sugar units, so they are monosaccharides.",
+      "Sucrose is made of one glucose and one fructose joined together, so it is a disaccharide."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-19.jpg",
       "papers/biology/img/02A-Membranes-Transport-20.jpg",
       "papers/biology/img/02A-Membranes-Transport-21.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q8.jpg"
      ]
     },
     {
@@ -8472,7 +9366,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-19.jpg",
       "papers/biology/img/02A-Membranes-Transport-20.jpg",
       "papers/biology/img/02A-Membranes-Transport-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q8b(i)",
@@ -8488,13 +9383,19 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "Calculate the mean concentration of glucose in three pineapples, giving the answer in g dm-3, using the table of sugar concentrations.",
-     "status": "pending",
-     "answer": "Missing: the table of sugar concentrations in the three pineapples is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1080 g dm-3 (1.08 g cm-3).",
+     "steps": [
+      "Mean = (1.22 + 1.02 + 1.00) / 3 = 3.24 / 3 = 1.08 g cm-3.",
+      "1 dm3 = 1000 cm3, so multiply by 1000: 1.08 x 1000 = 1080 g dm-3 (1.08 x 10^3)."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-19.jpg",
       "papers/biology/img/02A-Membranes-Transport-20.jpg",
       "papers/biology/img/02A-Membranes-Transport-21.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q8-2.jpg"
      ]
     },
     {
@@ -8513,13 +9414,22 @@ window.BANK.biology = {
       "preserve"
      ],
      "question": "Explain what the solution of sugars should contain to preserve pineapples by osmotic dehydration, using the table of sugar concentrations.",
-     "status": "pending",
-     "answer": "Missing: the table of sugar concentrations in the pineapples is not in the text, so the sugar composition needed cannot be justified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The solution should contain all three sugars (fructose, glucose and sucrose) in about the same proportions as in the pineapple, but with a higher overall concentration (lower water potential) than the pineapple cells.",
+     "steps": [
+      "Water must leave the pineapple by osmosis through its partially permeable membranes, so the solution needs a lower water potential (a higher total sugar concentration) than the pineapple tissue; this reduces the water content.",
+      "If a sugar were missing from the solution it would diffuse out of the pineapple down its concentration gradient, so the pineapple would lose that sugar and its taste would change; so fructose, glucose and sucrose must all be present.",
+      "Each sugar should be about the same concentration as in the pineapple (mean of about 1.5 g cm-3 fructose, 1.1 g cm-3 glucose and 8.6 g cm-3 sucrose) so there is little net diffusion of any sugar.",
+      "The proportions should stay as in the pineapple: sucrose is by far the main sugar (about 8 times glucose), with fructose slightly more than glucose (about 1.4 times).",
+      "Keeping the sugar concentrations in the pineapple unchanged keeps its sweet taste, while water loss preserves it."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-19.jpg",
       "papers/biology/img/02A-Membranes-Transport-20.jpg",
       "papers/biology/img/02A-Membranes-Transport-21.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q8-2.jpg"
      ]
     },
     {
@@ -8550,6 +9460,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-21.jpg",
       "papers/biology/img/02A-Membranes-Transport-22.jpg",
       "papers/biology/img/02A-Membranes-Transport-23.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q9.jpg"
      ]
     },
     {
@@ -8580,6 +9493,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-21.jpg",
       "papers/biology/img/02A-Membranes-Transport-22.jpg",
       "papers/biology/img/02A-Membranes-Transport-23.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q9-2.jpg"
      ]
     },
     {
@@ -8610,7 +9526,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-21.jpg",
       "papers/biology/img/02A-Membranes-Transport-22.jpg",
       "papers/biology/img/02A-Membranes-Transport-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q9c(ii)",
@@ -8641,6 +9558,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-21.jpg",
       "papers/biology/img/02A-Membranes-Transport-22.jpg",
       "papers/biology/img/02A-Membranes-Transport-23.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q9-3.jpg"
      ]
     },
     {
@@ -8658,14 +9578,22 @@ window.BANK.biology = {
       "positive correlation"
      ],
      "question": "Explain how the graph shows a correlation between smoking and death rate from lung cancer in men.",
-     "status": "pending",
-     "answer": "Missing: the graph of smoking against death rate from lung cancer is not in the text, so the trend cannot be described.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Both the number of cigarettes smoked and the death rate rise and then fall, with the death rate following the smoking pattern about 15 years later, which is a positive correlation.",
+     "steps": [
+      "Cigarettes smoked rise from 1945 to a peak at about 1980 and then fall.",
+      "The death rate from lung cancer rises from about 1960 to a peak at about 1995 and then falls, so the two curves have the same shape and move in the same direction.",
+      "The death rate lags about 15 years behind smoking, consistent with the time cancer takes to develop.",
+      "The graph shows a correlation only; it does not prove that smoking causes the deaths."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-23.jpg",
       "papers/biology/img/02A-Membranes-Transport-24.jpg",
       "papers/biology/img/02A-Membranes-Transport-25.jpg",
       "papers/biology/img/02A-Membranes-Transport-26.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q10.jpg"
      ]
     },
     {
@@ -8696,7 +9624,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-24.jpg",
       "papers/biology/img/02A-Membranes-Transport-25.jpg",
       "papers/biology/img/02A-Membranes-Transport-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q10b",
@@ -8728,6 +9657,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-24.jpg",
       "papers/biology/img/02A-Membranes-Transport-25.jpg",
       "papers/biology/img/02A-Membranes-Transport-26.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q10-2.jpg"
      ]
     },
     {
@@ -8759,6 +9691,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-27.jpg",
       "papers/biology/img/02A-Membranes-Transport-28.jpg",
       "papers/biology/img/02A-Membranes-Transport-29.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q11.jpg"
      ]
     },
     {
@@ -8777,14 +9712,21 @@ window.BANK.biology = {
       "membrane diagram"
      ],
      "question": "Which structures in the membrane diagram contain a phosphate group? Options: A Q and R, B Q and T, C R and S, D S and T.",
-     "status": "pending",
-     "answer": "Missing: the labelled membrane diagram (structures Q, R, S, T) is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Q and T.",
+     "steps": [
+      "Q is the head of a phospholipid, which contains the phosphate group.",
+      "T is a whole phospholipid molecule (head plus fatty acid tails), so it contains a phosphate group too.",
+      "R is a fatty acid tail and S is cholesterol, and neither contains phosphate, so options A, C and D are wrong."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-26.jpg",
       "papers/biology/img/02A-Membranes-Transport-27.jpg",
       "papers/biology/img/02A-Membranes-Transport-28.jpg",
       "papers/biology/img/02A-Membranes-Transport-29.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q11.jpg"
      ]
     },
     {
@@ -8805,14 +9747,20 @@ window.BANK.biology = {
       "T"
      ],
      "question": "Which ratio of structures in the membrane diagram affects the fluidity of the membrane? Options: A Q:T, B R:Q, C R:T, D S:T.",
-     "status": "pending",
-     "answer": "Missing: the labelled membrane diagram (structures Q, R, S, T) is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: S : T.",
+     "steps": [
+      "S is cholesterol and T is a phospholipid.",
+      "The ratio of cholesterol to phospholipid sets how much cholesterol restricts the movement of the phospholipids, so it affects fluidity."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-26.jpg",
       "papers/biology/img/02A-Membranes-Transport-27.jpg",
       "papers/biology/img/02A-Membranes-Transport-28.jpg",
       "papers/biology/img/02A-Membranes-Transport-29.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q11.jpg"
      ]
     },
     {
@@ -8843,6 +9791,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-27.jpg",
       "papers/biology/img/02A-Membranes-Transport-28.jpg",
       "papers/biology/img/02A-Membranes-Transport-29.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q11.jpg"
      ]
     },
     {
@@ -8861,14 +9812,22 @@ window.BANK.biology = {
       "membrane diagram"
      ],
      "question": "Explain why each of the molecules in a table and diagram of molecules inside and outside a cell enters the cell by a different mechanism.",
-     "status": "pending",
-     "answer": "Missing: the table of molecules and the diagram are not in the text, so each molecule's mechanism cannot be matched.",
-     "steps": [],
+     "status": "ready",
+     "answer": "E (water) enters by osmosis, F (large polar) by facilitated diffusion, G (non-polar) by simple diffusion through the bilayer and H (small polar) by active transport.",
+     "steps": [
+      "E is water: it is small and dipolar, and the numbers are similar inside and outside (about 5 each side), so it enters by osmosis through the bilayer or aquaporins, depending on water potential.",
+      "F is large and polar, so it cannot cross the hydrophobic core; there are more outside than inside (about 5 outside and 2 inside), so it enters by facilitated diffusion down its gradient through a channel or carrier protein, with no ATP.",
+      "G is non-polar, so it dissolves in the hydrophobic core of the phospholipid bilayer; it is more concentrated outside (about 4 against 1), so it enters by simple diffusion down its concentration gradient with no protein or ATP.",
+      "H is small and polar, so it cannot diffuse through the bilayer; it is more concentrated inside (about 12 inside against 3 outside), so it must enter against its concentration gradient by active transport using a carrier protein and ATP."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-26.jpg",
       "papers/biology/img/02A-Membranes-Transport-27.jpg",
       "papers/biology/img/02A-Membranes-Transport-28.jpg",
       "papers/biology/img/02A-Membranes-Transport-29.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q11-2.jpg"
      ]
     },
     {
@@ -8886,12 +9845,19 @@ window.BANK.biology = {
       "structure"
      ],
      "question": "Using the shapes showing the components of a phospholipid, draw a diagram to show its structure.",
-     "status": "pending",
-     "answer": "Missing: the shapes representing the phospholipid components are shown only as an image, not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A phosphate circle joined by a bond (line) to a glycerol square, with two fatty acid rectangles each joined to the glycerol by a bond.",
+     "steps": [
+      "Draw the circle (phosphate group) at the top and join it with a line (covalent bond) to the square (glycerol) below it.",
+      "Join two long rectangles (fatty acids) to the glycerol square, each with its own line, so that they hang parallel to each other away from the head.",
+      "The glycerol must have three attachments in total: one phosphate and two fatty acids (not three fatty acids)."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-29.jpg",
       "papers/biology/img/02A-Membranes-Transport-30.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q12.jpg"
      ]
     },
     {
@@ -8920,7 +9886,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02A-Membranes-Transport-29.jpg",
       "papers/biology/img/02A-Membranes-Transport-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q12b(i)",
@@ -8948,7 +9915,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02A-Membranes-Transport-29.jpg",
       "papers/biology/img/02A-Membranes-Transport-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q12b(ii)",
@@ -8976,7 +9944,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02A-Membranes-Transport-29.jpg",
       "papers/biology/img/02A-Membranes-Transport-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q13a(i)",
@@ -8993,15 +9962,22 @@ window.BANK.biology = {
       "bilayer"
      ],
      "question": "Using the table showing one way the components of phospholipids can be drawn, draw a diagram of a phospholipid.",
-     "status": "pending",
-     "answer": "Missing: the table of phospholipid components is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A glycerol bar with the phosphate circle joined to it by a bond on one side, and two fatty acid rectangles each joined to the glycerol by a bond on the other side.",
+     "steps": [
+      "Draw the tall hatched rectangle (glycerol) in the centre.",
+      "Join the circle (phosphate group) to the glycerol with a short line (bond).",
+      "Join two of the long rectangles (fatty acids) to the glycerol, each with its own bond line, parallel to each other and pointing away from the phosphate."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-30.jpg",
       "papers/biology/img/02A-Membranes-Transport-31.jpg",
       "papers/biology/img/02A-Membranes-Transport-32.jpg",
       "papers/biology/img/02A-Membranes-Transport-33.jpg",
       "papers/biology/img/02A-Membranes-Transport-34.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q13.jpg"
      ]
     },
     {
@@ -9017,15 +9993,21 @@ window.BANK.biology = {
       "choose diagram"
      ],
      "question": "Which of the diagrams shows an ester bond, one of the bonds present in phospholipids?",
-     "status": "pending",
-     "answer": "Missing: the diagrams of bonds are not in the text, so the correct diagram cannot be selected.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: -C-O-C(=O)-.",
+     "steps": [
+      "An ester bond is C-O-C with a C=O on the second carbon (the carbonyl), formed when a fatty acid joins to the glycerol hydroxyl group.",
+      "A and D contain nitrogen (peptide-type or N-O links), and B has no oxygen link between the carbons, so only C shows an ester bond."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-30.jpg",
       "papers/biology/img/02A-Membranes-Transport-31.jpg",
       "papers/biology/img/02A-Membranes-Transport-32.jpg",
       "papers/biology/img/02A-Membranes-Transport-33.jpg",
       "papers/biology/img/02A-Membranes-Transport-34.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q13-2.jpg"
      ]
     },
     {
@@ -9057,7 +10039,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-32.jpg",
       "papers/biology/img/02A-Membranes-Transport-33.jpg",
       "papers/biology/img/02A-Membranes-Transport-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q13b(ii)",
@@ -9073,15 +10056,21 @@ window.BANK.biology = {
       "comparison"
      ],
      "question": "Which row of the table describes an unsaturated fatty acid compared with a saturated fatty acid with the same number of carbon atoms?",
-     "status": "pending",
-     "answer": "Missing: the table with the rows describing fatty acids is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: has double bonds between two carbons, with fewer hydrogens than the saturated fatty acid.",
+     "steps": [
+      "An unsaturated fatty acid has at least one C=C double bond, so \"yes\" for double bonds.",
+      "Each double bond means two fewer hydrogen atoms for the same number of carbons, so it has fewer hydrogens than the saturated one."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-30.jpg",
       "papers/biology/img/02A-Membranes-Transport-31.jpg",
       "papers/biology/img/02A-Membranes-Transport-32.jpg",
       "papers/biology/img/02A-Membranes-Transport-33.jpg",
       "papers/biology/img/02A-Membranes-Transport-34.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q13-3.jpg"
      ]
     },
     {
@@ -9113,7 +10102,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-32.jpg",
       "papers/biology/img/02A-Membranes-Transport-33.jpg",
       "papers/biology/img/02A-Membranes-Transport-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q13b(iv)",
@@ -9143,7 +10133,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-32.jpg",
       "papers/biology/img/02A-Membranes-Transport-33.jpg",
       "papers/biology/img/02A-Membranes-Transport-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q13c(i)",
@@ -9174,7 +10165,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-32.jpg",
       "papers/biology/img/02A-Membranes-Transport-33.jpg",
       "papers/biology/img/02A-Membranes-Transport-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q13c(ii)",
@@ -9205,7 +10197,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-32.jpg",
       "papers/biology/img/02A-Membranes-Transport-33.jpg",
       "papers/biology/img/02A-Membranes-Transport-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q14a",
@@ -9222,14 +10215,22 @@ window.BANK.biology = {
       "interpretation"
      ],
      "question": "Describe the evidence for and against a relationship between blood cholesterol levels and heart disease, from the graph of a 10-year study.",
-     "status": "pending",
-     "answer": "Missing: the graph of blood cholesterol and heart disease over 10 years is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "For: the group that developed heart disease has its peak at a higher cholesterol level, and more of them have high levels. Against: the two distributions overlap greatly, so many people with high cholesterol did not develop heart disease and many with low cholesterol did.",
+     "steps": [
+      "Evidence for: the peak of the dashed line (developed heart disease) is at a higher blood cholesterol level than the peak of the solid line, and at the highest levels the dashed line is above the solid line.",
+      "Evidence for: at low cholesterol levels the solid line (did not develop disease) is higher than the dashed line.",
+      "Evidence against: the two curves overlap over almost the whole range and have similar shapes and heights, so many people in both groups had the same cholesterol level.",
+      "Evidence against: the difference between the two peaks is small, and there is no cholesterol level that separates the groups, so cholesterol is not the only factor."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-34.jpg",
       "papers/biology/img/02A-Membranes-Transport-35.jpg",
       "papers/biology/img/02A-Membranes-Transport-36.jpg",
       "papers/biology/img/02A-Membranes-Transport-37.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q14.jpg"
      ]
     },
     {
@@ -9247,14 +10248,21 @@ window.BANK.biology = {
       "conclusions"
      ],
      "question": "Describe the evidence in the graph of HDL and LDL levels and CVD incidence that supports three given conclusions.",
-     "status": "pending",
-     "answer": "Missing: the graph of HDL and LDL levels against incidence of CVD is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Incidence of CVD rises with LDL level, falls with HDL level, and is highest when HDL is low and LDL is high.",
+     "steps": [
+      "LDL: for every HDL group the bars get taller as the LDL level goes from <100 to >=160 mg dm-3, for example at HDL <40 from about 2 a.u. to the tallest bar (about 7 a.u.).",
+      "HDL: for every LDL group the bars get shorter as the HDL level goes from <40 to >=60 mg dm-3.",
+      "Ratio: the tallest bars (above about 6 a.u.) are at low HDL and high LDL, the lowest ratio of HDL to LDL, whereas the shortest bars (below about 1 a.u.) are at HDL >=60 and LDL <100, the highest ratio."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-34.jpg",
       "papers/biology/img/02A-Membranes-Transport-35.jpg",
       "papers/biology/img/02A-Membranes-Transport-36.jpg",
       "papers/biology/img/02A-Membranes-Transport-37.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q14-2.jpg"
      ]
     },
     {
@@ -9286,6 +10294,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-35.jpg",
       "papers/biology/img/02A-Membranes-Transport-36.jpg",
       "papers/biology/img/02A-Membranes-Transport-37.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q14-3.jpg"
      ]
     },
     {
@@ -9317,7 +10328,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-35.jpg",
       "papers/biology/img/02A-Membranes-Transport-36.jpg",
       "papers/biology/img/02A-Membranes-Transport-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q14c(iii)",
@@ -9347,7 +10359,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-35.jpg",
       "papers/biology/img/02A-Membranes-Transport-36.jpg",
       "papers/biology/img/02A-Membranes-Transport-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q15a(i)",
@@ -9363,14 +10376,20 @@ window.BANK.biology = {
       "parts II III IV VII"
      ],
      "question": "In a Venn diagram comparing diffusion, facilitated diffusion and active transport, which part would contain the statement 'uses proteins'? Options: A II, B III, C IV, D VII.",
-     "status": "pending",
-     "answer": "Missing: the numbered Venn diagram is not in the text, so the part numbers cannot be matched to the statement.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Part VII.",
+     "steps": [
+      "Simple diffusion does not use proteins, but facilitated diffusion (channel and carrier proteins) and active transport (carrier pumps) do.",
+      "The part shared by active transport and facilitated diffusion only (outside the diffusion circle) is Part VII."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-37.jpg",
       "papers/biology/img/02A-Membranes-Transport-38.jpg",
       "papers/biology/img/02A-Membranes-Transport-39.jpg",
       "papers/biology/img/02A-Membranes-Transport-40.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q15.jpg"
      ]
     },
     {
@@ -9387,14 +10406,20 @@ window.BANK.biology = {
       "diffusion"
      ],
      "question": "In the Venn diagram, which part would contain the statement 'needs energy in the form of ATP'? Options: A II, B V, C VI, D VII.",
-     "status": "pending",
-     "answer": "Missing: the numbered Venn diagram is not in the text, so the part number cannot be confirmed.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Part V.",
+     "steps": [
+      "Only active transport needs ATP; diffusion and facilitated diffusion are passive.",
+      "The part that belongs to the active transport circle only is Part V."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-37.jpg",
       "papers/biology/img/02A-Membranes-Transport-38.jpg",
       "papers/biology/img/02A-Membranes-Transport-39.jpg",
       "papers/biology/img/02A-Membranes-Transport-40.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q15.jpg"
      ]
     },
     {
@@ -9411,14 +10436,20 @@ window.BANK.biology = {
       "parts"
      ],
      "question": "In the Venn diagram, which part would contain the statement 'solutes can only move down a concentration gradient'? Options: A II, B III, C V, D VII.",
-     "status": "pending",
-     "answer": "Missing: the numbered Venn diagram is not in the text, so the part number cannot be confirmed.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Part III.",
+     "steps": [
+      "Solutes move only down a concentration gradient in diffusion and in facilitated diffusion, but active transport can move them against it.",
+      "The part shared by diffusion and facilitated diffusion only (not active transport) is Part III."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-37.jpg",
       "papers/biology/img/02A-Membranes-Transport-38.jpg",
       "papers/biology/img/02A-Membranes-Transport-39.jpg",
       "papers/biology/img/02A-Membranes-Transport-40.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q15.jpg"
      ]
     },
     {
@@ -9448,7 +10479,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-38.jpg",
       "papers/biology/img/02A-Membranes-Transport-39.jpg",
       "papers/biology/img/02A-Membranes-Transport-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q15c",
@@ -9466,14 +10498,23 @@ window.BANK.biology = {
       "osmoregulation"
      ],
      "question": "Explain the changes in water content and amino acid content in the muscle cells of mitten crabs moved from fresh water into sea water, using the graph.",
-     "status": "pending",
-     "answer": "Missing: the graph of water content and amino acid content over 15 days is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Sea water has a lower water potential than the crab cells, so water leaves the muscle cells by osmosis and the water content falls; the cells then raise their amino acid content, lowering their own water potential, so water re-enters and the water content recovers.",
+     "steps": [
+      "Water content falls quickly from about 76% to about 74% in the first day, reaching a minimum of about 73.8% at about 4.5 days, because the sea water has a higher salt concentration (lower water potential) than the muscle cells, so water leaves them by osmosis.",
+      "Amino acid content rises from about 228 a.u. to about 335 a.u. over the 15 days, steeply at first then more slowly, so the crab increases the solute concentration inside its cells (amino acids are made or released by protein breakdown).",
+      "More solutes lower the water potential of the cell contents, reducing the water potential gradient between the cell and the sea water.",
+      "This lets water move back into the cells by osmosis, so water content slowly rises again to about 75% by 15 days.",
+      "The crab is osmoregulating (becoming an osmoconformer), so the cell solute concentration approaches that of the sea water and the rate of change slows as equilibrium is approached."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-37.jpg",
       "papers/biology/img/02A-Membranes-Transport-38.jpg",
       "papers/biology/img/02A-Membranes-Transport-39.jpg",
       "papers/biology/img/02A-Membranes-Transport-40.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q15-2.jpg"
      ]
     },
     {
@@ -9491,12 +10532,19 @@ window.BANK.biology = {
       "standard form"
      ],
      "question": "A hydra has a body length of 1.8 mm and diameter of 1 mm. Which is the magnification of the drawing? Options: A 3.75 x 10^-2, B 3.75 x 10^-1, C 2.67 x 10^0, D 2.67 x 10^1.",
-     "status": "pending",
-     "answer": "Missing: the length of the hydra in the drawing is not in the text, so the magnification cannot be calculated.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 2.67 x 10^1 (about 27 times).",
+     "steps": [
+      "Measure the length of the body on the drawing: it is about 5 cm (50 mm) from the bracket.",
+      "Magnification = drawing length / actual length = 50 mm / 1.8 mm = about 28, which matches 2.67 x 10^1 (that is, 48 mm / 1.8 mm).",
+      "The other options are far too small: for example 2.67 would make the 1.8 mm body only about 5 mm long on the drawing, and 0.0375 and 0.375 would make the drawing smaller than the animal."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-40.jpg",
       "papers/biology/img/02A-Membranes-Transport-41.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q16.jpg"
      ]
     },
     {
@@ -9526,7 +10574,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02A-Membranes-Transport-40.jpg",
       "papers/biology/img/02A-Membranes-Transport-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q16a(iii)",
@@ -9554,7 +10603,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02A-Membranes-Transport-40.jpg",
       "papers/biology/img/02A-Membranes-Transport-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q16b",
@@ -9582,7 +10632,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02A-Membranes-Transport-40.jpg",
       "papers/biology/img/02A-Membranes-Transport-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q17a",
@@ -9611,7 +10662,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-42.jpg",
       "papers/biology/img/02A-Membranes-Transport-43.jpg",
       "papers/biology/img/02A-Membranes-Transport-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q17b",
@@ -9639,7 +10691,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-42.jpg",
       "papers/biology/img/02A-Membranes-Transport-43.jpg",
       "papers/biology/img/02A-Membranes-Transport-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q17c",
@@ -9669,7 +10722,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-42.jpg",
       "papers/biology/img/02A-Membranes-Transport-43.jpg",
       "papers/biology/img/02A-Membranes-Transport-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q17d",
@@ -9687,13 +10741,23 @@ window.BANK.biology = {
       "adaptation"
      ],
      "question": "Discuss how the structure and behaviour of the hellbender salamander are adapted for gas exchange, using the graph of body rocking frequency, blood pO2 and percentage saturation of the water.",
-     "status": "pending",
-     "answer": "Missing: the graph of body rocking frequency against blood pO2 and water oxygen saturation is not in the text, so the data cannot be used to support the discussion.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The hellbender has skin folds and thin skin that give a large surface area for gas exchange, and it rocks its body to bring fresh oxygenated water over the skin, rocking most when the water has only 25% oxygen saturation.",
+     "steps": [
+      "Structure: the skin folds greatly increase the surface area, and a thin skin with many capillaries gives a short diffusion distance; it also has lungs, so it uses two gas exchange surfaces.",
+      "Behaviour: body rocking and swaying moves water over the skin, replacing the water next to the skin that has lost its oxygen and so keeping the oxygen concentration gradient steep for diffusion.",
+      "Data: blood pO2 rises sharply from about 0.8 kPa at 0% water saturation to about 3.5 kPa at 25%, then increases only slightly to about 3.9 kPa at 100%.",
+      "Rocking frequency rises from about 5 per minute at 0% to a maximum of about 8.5 per minute at 25% saturation, then falls to about 4 per minute at 75 to 100% saturation, because when the water holds plenty of oxygen less rocking is needed.",
+      "At 0% saturation rocking is lower than at 25%, since there is little oxygen to obtain; the hellbender also lives in shallow, fast-flowing, well-oxygenated streams, which helps its skin gas exchange."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-42.jpg",
       "papers/biology/img/02A-Membranes-Transport-43.jpg",
       "papers/biology/img/02A-Membranes-Transport-44.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q17.jpg",
+      "papers/biology/fig/02A-Membranes-Transport-Q17-2.jpg"
      ]
     },
     {
@@ -9712,14 +10776,22 @@ window.BANK.biology = {
       "table"
      ],
      "question": "From the graph of solute concentration of cells of marine animals P, Q and R, which row of the table identifies them?",
-     "status": "pending",
-     "answer": "Missing: the graph and the table of row options are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: P partial osmoconformer, Q strict osmoconformer, R osmoregulator.",
+     "steps": [
+      "R is a flat line: the cell solute concentration stays constant whatever the sea water concentration, so it is an osmoregulator.",
+      "Q is a steep straight line rising with sea water concentration, so the cell solute concentration matches that of the sea water: a strict osmoconformer.",
+      "P rises only slightly at first and then follows the sea water at higher concentrations, so its cell concentration varies with the sea water only partly: a partial osmoconformer."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-44.jpg",
       "papers/biology/img/02A-Membranes-Transport-45.jpg",
       "papers/biology/img/02A-Membranes-Transport-46.jpg",
       "papers/biology/img/02A-Membranes-Transport-47.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q18.jpg",
+      "papers/biology/fig/02A-Membranes-Transport-Q18-2.jpg"
      ]
     },
     {
@@ -9750,7 +10822,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-45.jpg",
       "papers/biology/img/02A-Membranes-Transport-46.jpg",
       "papers/biology/img/02A-Membranes-Transport-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q18b(i)",
@@ -9767,14 +10840,20 @@ window.BANK.biology = {
       "a.u."
      ],
      "question": "Estimate the chloride ion concentration of the cells of a jellyfish from the table of ion concentrations in sea water and in osmoconformers.",
-     "status": "pending",
-     "answer": "Missing: the table of ion concentrations is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 557 a.u. (accept about 550 to 558 a.u.).",
+     "steps": [
+      "The jellyfish is an osmoconformer, so its ion concentrations are close to those in the sea water (chloride 558).",
+      "Its other ions are about the same as the sea water and the sea urchin (chloride 557), so chloride should be about 557 a.u."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-44.jpg",
       "papers/biology/img/02A-Membranes-Transport-45.jpg",
       "papers/biology/img/02A-Membranes-Transport-46.jpg",
       "papers/biology/img/02A-Membranes-Transport-47.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q18-3.jpg"
      ]
     },
     {
@@ -9791,14 +10870,21 @@ window.BANK.biology = {
       "two decimal places"
      ],
      "question": "Calculate the percentage difference in the concentration of magnesium ions in the lobster compared with the sea urchin, to two decimal places.",
-     "status": "pending",
-     "answer": "Missing: the table of magnesium ion concentrations in the lobster and sea urchin is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "83.33% lower (-83.33%).",
+     "steps": [
+      "Magnesium: lobster = 9 a.u. and sea urchin = 54 a.u.",
+      "Difference = 9 - 54 = -45 a.u.",
+      "Percentage difference compared with the sea urchin = -45 / 54 x 100 = -83.33%, that is 83.33% lower in the lobster."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-44.jpg",
       "papers/biology/img/02A-Membranes-Transport-45.jpg",
       "papers/biology/img/02A-Membranes-Transport-46.jpg",
       "papers/biology/img/02A-Membranes-Transport-47.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q18-3.jpg"
      ]
     },
     {
@@ -9828,6 +10914,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-45.jpg",
       "papers/biology/img/02A-Membranes-Transport-46.jpg",
       "papers/biology/img/02A-Membranes-Transport-47.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q18-3.jpg"
      ]
     },
     {
@@ -9857,6 +10946,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-45.jpg",
       "papers/biology/img/02A-Membranes-Transport-46.jpg",
       "papers/biology/img/02A-Membranes-Transport-47.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q18-3.jpg"
      ]
     },
     {
@@ -9887,7 +10979,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-45.jpg",
       "papers/biology/img/02A-Membranes-Transport-46.jpg",
       "papers/biology/img/02A-Membranes-Transport-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q19a(i)",
@@ -9915,7 +11008,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-47.jpg",
       "papers/biology/img/02A-Membranes-Transport-48.jpg",
       "papers/biology/img/02A-Membranes-Transport-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q19a(ii)",
@@ -9944,7 +11038,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-47.jpg",
       "papers/biology/img/02A-Membranes-Transport-48.jpg",
       "papers/biology/img/02A-Membranes-Transport-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q19b(i)",
@@ -9974,7 +11069,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-47.jpg",
       "papers/biology/img/02A-Membranes-Transport-48.jpg",
       "papers/biology/img/02A-Membranes-Transport-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q19b(ii)",
@@ -10003,7 +11099,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-47.jpg",
       "papers/biology/img/02A-Membranes-Transport-48.jpg",
       "papers/biology/img/02A-Membranes-Transport-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q19b(iii)",
@@ -10033,7 +11130,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-47.jpg",
       "papers/biology/img/02A-Membranes-Transport-48.jpg",
       "papers/biology/img/02A-Membranes-Transport-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q20a(i)",
@@ -10061,7 +11159,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-49.jpg",
       "papers/biology/img/02A-Membranes-Transport-50.jpg",
       "papers/biology/img/02A-Membranes-Transport-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q20a(ii)",
@@ -10078,13 +11177,19 @@ window.BANK.biology = {
       "carbohydrate chain"
      ],
      "question": "From the diagram of part of a cell membrane, which letter (P, Q, R or S) represents a membrane glycoprotein?",
-     "status": "pending",
-     "answer": "Missing: the labelled membrane diagram is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Q.",
+     "steps": [
+      "A glycoprotein is a protein with a carbohydrate chain attached.",
+      "Q is the large protein with a branched carbohydrate chain attached, while P has the carbohydrate chain attached to a phospholipid head, so P is a glycolipid."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-49.jpg",
       "papers/biology/img/02A-Membranes-Transport-50.jpg",
       "papers/biology/img/02A-Membranes-Transport-51.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q20.jpg"
      ]
     },
     {
@@ -10113,7 +11218,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-49.jpg",
       "papers/biology/img/02A-Membranes-Transport-50.jpg",
       "papers/biology/img/02A-Membranes-Transport-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q20c",
@@ -10142,7 +11248,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-49.jpg",
       "papers/biology/img/02A-Membranes-Transport-50.jpg",
       "papers/biology/img/02A-Membranes-Transport-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q20d",
@@ -10171,7 +11278,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-49.jpg",
       "papers/biology/img/02A-Membranes-Transport-50.jpg",
       "papers/biology/img/02A-Membranes-Transport-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q21a",
@@ -10199,7 +11307,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02A-Membranes-Transport-51.jpg",
       "papers/biology/img/02A-Membranes-Transport-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q21b(i)",
@@ -10226,7 +11335,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02A-Membranes-Transport-51.jpg",
       "papers/biology/img/02A-Membranes-Transport-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q21b(ii)",
@@ -10255,7 +11365,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02A-Membranes-Transport-51.jpg",
       "papers/biology/img/02A-Membranes-Transport-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q21b(iii)",
@@ -10284,7 +11395,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02A-Membranes-Transport-51.jpg",
       "papers/biology/img/02A-Membranes-Transport-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q22a",
@@ -10312,7 +11424,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02A-Membranes-Transport-52.jpg",
       "papers/biology/img/02A-Membranes-Transport-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q22b(i)",
@@ -10330,12 +11443,19 @@ window.BANK.biology = {
       "calculation"
      ],
      "question": "The amoeba in Shape 1 is roughly spherical. Using surface area of a sphere = 4 pi r^2, which is its surface area? Options: A 90 000 m2, B 90 000 m3, C 360 000 m2, D 360 000 m3.",
-     "status": "pending",
-     "answer": "Missing: the radius of the amoeba in Shape 1 is shown only in the diagram, which is not in the text, so the surface area cannot be calculated to confirm the option.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: 90 000 pi um^2.",
+     "steps": [
+      "The diameter of Shape 1 is 300 um, so r = 150 um.",
+      "Surface area = 4 x pi x 150^2 = 4 x pi x 22 500 = 90 000 pi um^2.",
+      "An area is in um^2, so B and D (um^3) are wrong, and C (360 000 pi) comes from using the diameter instead of the radius."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-52.jpg",
       "papers/biology/img/02A-Membranes-Transport-53.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q22.jpg"
      ]
     },
     {
@@ -10353,12 +11473,18 @@ window.BANK.biology = {
       "row"
      ],
      "question": "The mass of the amoeba stays the same when it changes from Shape 1 to Shape 2. Which row of the table shows what happens to its surface area and volume?",
-     "status": "pending",
-     "answer": "Missing: the table of surface area and volume changes is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: surface area increases, volume stays the same.",
+     "steps": [
+      "The mass of the amoeba is unchanged, so its volume stays the same.",
+      "Shape 2 has long thin projections, so its surface area is larger than that of a sphere of the same volume."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-52.jpg",
       "papers/biology/img/02A-Membranes-Transport-53.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q22.jpg"
      ]
     },
     {
@@ -10387,7 +11513,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02A-Membranes-Transport-52.jpg",
       "papers/biology/img/02A-Membranes-Transport-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q23a",
@@ -10417,7 +11544,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-54.jpg",
       "papers/biology/img/02A-Membranes-Transport-55.jpg",
       "papers/biology/img/02A-Membranes-Transport-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q23b",
@@ -10446,7 +11574,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-54.jpg",
       "papers/biology/img/02A-Membranes-Transport-55.jpg",
       "papers/biology/img/02A-Membranes-Transport-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q23c",
@@ -10475,7 +11604,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-54.jpg",
       "papers/biology/img/02A-Membranes-Transport-55.jpg",
       "papers/biology/img/02A-Membranes-Transport-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q23d",
@@ -10503,7 +11633,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-54.jpg",
       "papers/biology/img/02A-Membranes-Transport-55.jpg",
       "papers/biology/img/02A-Membranes-Transport-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q23e",
@@ -10520,14 +11651,20 @@ window.BANK.biology = {
       "hydrophilic"
      ],
      "question": "Which row of the table describes the charge on the R groups on the amino acids of a channel protein used in facilitated diffusion?",
-     "status": "pending",
-     "answer": "Missing: the table of R group charges is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: polar R groups face inside the channel and non-polar R groups face the rest of the membrane.",
+     "steps": [
+      "The channel contains water and ions, so the R groups lining it are polar (hydrophilic) and attract them.",
+      "The rest of the protein is in contact with the hydrophobic fatty acid tails, so those R groups are non-polar (hydrophobic)."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-53.jpg",
       "papers/biology/img/02A-Membranes-Transport-54.jpg",
       "papers/biology/img/02A-Membranes-Transport-55.jpg",
       "papers/biology/img/02A-Membranes-Transport-56.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q23.jpg"
      ]
     },
     {
@@ -10545,14 +11682,22 @@ window.BANK.biology = {
       "investigation"
      ],
      "question": "Explain the results of an investigation in which pieces of sweet potato were placed in four coloured dye solutions and their mass change was measured.",
-     "status": "pending",
-     "answer": "Missing: the method diagram and the graph of mass change for the four solutions are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The sweet potato lost mass in purple and orange, gained mass in red and did not change in blue, because of the water potential of each solution compared with the sweet potato cells.",
+     "steps": [
+      "Orange: mass falls from about 1.12 g to about 0.50 g (about 55% loss): the solution has the lowest water potential, so water leaves the cells by osmosis from a large gradient.",
+      "Purple: mass falls from 1.00 g to about 0.87 g (about 13% loss): the solution has a lower water potential than the cells, but the gradient is smaller, so less water leaves by osmosis.",
+      "Red: mass rises from 1.00 g to about 1.39 g (about 39% gain): the solution has a higher water potential than the cell contents, so water enters by osmosis.",
+      "Blue: mass stays at 1.00 g: the water potential of the solution equals that of the cells, so there is no net movement of water."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-53.jpg",
       "papers/biology/img/02A-Membranes-Transport-54.jpg",
       "papers/biology/img/02A-Membranes-Transport-55.jpg",
       "papers/biology/img/02A-Membranes-Transport-56.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q23-2.jpg"
      ]
     },
     {
@@ -10570,13 +11715,20 @@ window.BANK.biology = {
       "diagram"
      ],
      "question": "From the diagram of a human heart with vessels labelled P, Q, R and S, which pair transports blood to and from the lungs? Options: A P and Q, B Q and S, C R and P, D S and R.",
-     "status": "pending",
-     "answer": "Missing: the labelled heart diagram is not in the text, so the letters cannot be matched to the pulmonary vessels.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: Q and S.",
+     "steps": [
+      "Q is the pulmonary artery, taking deoxygenated blood from the heart to the lungs.",
+      "S is the pulmonary vein, bringing oxygenated blood from the lungs back to the heart.",
+      "P is the vena cava and R is the aorta, so they do not go to the lungs."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-56.jpg",
       "papers/biology/img/02A-Membranes-Transport-57.jpg",
       "papers/biology/img/02A-Membranes-Transport-58.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q24.jpg"
      ]
     },
     {
@@ -10593,13 +11745,19 @@ window.BANK.biology = {
       "options"
      ],
      "question": "From the labelled heart diagram (P, Q, R, S), which pair of vessels is chosen from options A P, B P and R, C Q, D Q and R?",
-     "status": "pending",
-     "answer": "Missing: the labelled heart diagram is not in the text, so the vessels cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: P.",
+     "steps": [
+      "Veins have valves along their length to stop the backflow of blood, and P is the vena cava, a vein.",
+      "Q (pulmonary artery) and R (aorta) have valves only at their origin at the heart, not along their length."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-56.jpg",
       "papers/biology/img/02A-Membranes-Transport-57.jpg",
       "papers/biology/img/02A-Membranes-Transport-58.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q24.jpg"
      ]
     },
     {
@@ -10617,13 +11775,19 @@ window.BANK.biology = {
       "P Q R S"
      ],
      "question": "From the labelled heart diagram (options AP, BQ, CR, DS), which blood vessel does the coronary artery branch from?",
-     "status": "pending",
-     "answer": "Missing: the labelled heart diagram is not in the text, so the vessel cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: R.",
+     "steps": [
+      "The coronary arteries supply the heart muscle and branch from the aorta just above the aortic valve.",
+      "The aorta is vessel R."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-56.jpg",
       "papers/biology/img/02A-Membranes-Transport-57.jpg",
       "papers/biology/img/02A-Membranes-Transport-58.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q24.jpg"
      ]
     },
     {
@@ -10653,7 +11817,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-56.jpg",
       "papers/biology/img/02A-Membranes-Transport-57.jpg",
       "papers/biology/img/02A-Membranes-Transport-58.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q24b(ii)",
@@ -10680,7 +11845,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-56.jpg",
       "papers/biology/img/02A-Membranes-Transport-57.jpg",
       "papers/biology/img/02A-Membranes-Transport-58.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q24c(i)",
@@ -10696,13 +11862,20 @@ window.BANK.biology = {
       "capillaries"
      ],
      "question": "Complete the table showing the time taken for a molecule to diffuse over different diffusion distances.",
-     "status": "pending",
-     "answer": "Missing: the table of diffusion distances and times, with the missing values, is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "100 um row: 5000 ms; 1 mm row: 1000 um and 498 000 ms (about 5 x 10^5 ms).",
+     "steps": [
+      "100 um takes 5.0 seconds, which is 5.0 x 1000 = 5000 milliseconds.",
+      "1 mm = 1000 um.",
+      "8.3 minutes = 8.3 x 60 = 498 seconds = 498 000 milliseconds (about 5 x 10^5 ms)."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-56.jpg",
       "papers/biology/img/02A-Membranes-Transport-57.jpg",
       "papers/biology/img/02A-Membranes-Transport-58.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q24-2.jpg"
      ]
     },
     {
@@ -10733,6 +11906,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-56.jpg",
       "papers/biology/img/02A-Membranes-Transport-57.jpg",
       "papers/biology/img/02A-Membranes-Transport-58.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q24-2.jpg"
      ]
     },
     {
@@ -10763,7 +11939,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-59.jpg",
       "papers/biology/img/02A-Membranes-Transport-60.jpg",
       "papers/biology/img/02A-Membranes-Transport-61.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q25b",
@@ -10793,7 +11970,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-59.jpg",
       "papers/biology/img/02A-Membranes-Transport-60.jpg",
       "papers/biology/img/02A-Membranes-Transport-61.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q25c",
@@ -10824,7 +12002,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-59.jpg",
       "papers/biology/img/02A-Membranes-Transport-60.jpg",
       "papers/biology/img/02A-Membranes-Transport-61.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q25d",
@@ -10855,7 +12034,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-59.jpg",
       "papers/biology/img/02A-Membranes-Transport-60.jpg",
       "papers/biology/img/02A-Membranes-Transport-61.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q25e",
@@ -10872,14 +12052,22 @@ window.BANK.biology = {
       "two significant figures"
      ],
      "question": "The thickness of the cell membranes between X and Y in the photograph is 22.8 nm. Calculate the magnification of the photograph, to two significant figures.",
-     "status": "pending",
-     "answer": "Missing: the measured image distance between X and Y on the photograph is not in the text, so the magnification cannot be calculated.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 2.6 x 10^5 (about 260 000 times).",
+     "steps": [
+      "Measure the length of the line between X and Y on the photograph: about 6 mm.",
+      "Convert to nm: 6 mm = 6 x 10^6 nm.",
+      "Magnification = image size / actual size = 6 x 10^6 / 22.8 = 2.6 x 10^5 (2 s.f.).",
+      "The result depends on the measured length: 5.5 to 6.5 mm gives 2.4 x 10^5 to 2.9 x 10^5."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-58.jpg",
       "papers/biology/img/02A-Membranes-Transport-59.jpg",
       "papers/biology/img/02A-Membranes-Transport-60.jpg",
       "papers/biology/img/02A-Membranes-Transport-61.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q25.jpg"
      ]
     },
     {
@@ -10911,7 +12099,8 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-59.jpg",
       "papers/biology/img/02A-Membranes-Transport-60.jpg",
       "papers/biology/img/02A-Membranes-Transport-61.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q26a",
@@ -10943,6 +12132,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-63.jpg",
       "papers/biology/img/02A-Membranes-Transport-64.jpg",
       "papers/biology/img/02A-Membranes-Transport-65.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q26.jpg"
      ]
     },
     {
@@ -10975,6 +12167,9 @@ window.BANK.biology = {
       "papers/biology/img/02A-Membranes-Transport-63.jpg",
       "papers/biology/img/02A-Membranes-Transport-64.jpg",
       "papers/biology/img/02A-Membranes-Transport-65.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q26-2.jpg"
      ]
     },
     {
@@ -10994,15 +12189,24 @@ window.BANK.biology = {
       "double circulation"
      ],
      "question": "Explain how the circulatory system and the gas exchange surfaces of an adult frog meet the oxygen needs of its cells, using the percentage blood flow diagram.",
-     "status": "pending",
-     "answer": "Missing: the diagram showing the percentages of blood flow through the frog's circulatory system is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The adult frog meets its oxygen needs by passing blood through two gas exchange surfaces (lungs and skin) and returning it to the heart, where it is pumped on at higher pressure, with little mixing of oxygenated and deoxygenated blood in the single ventricle.",
+     "steps": [
+      "Gas exchange surfaces: 39% of the blood goes to the lungs and 17% to the skin, so 56% of the output passes through gas exchange surfaces; the lungs have a large surface area, and the thin moist skin has a short diffusion distance, so oxygen is taken up by two surfaces.",
+      "Double circulation: blood goes back to the heart after the lungs (39%) and the skin (61% returns in total), so it is pumped again at higher pressure to the tissues, giving faster flow to the cells than it would after passing through the capillaries only once.",
+      "Separation of the blood: of the 44% going to the cells, 35 parts come from the oxygenated blood returning from the lungs and only 9 from the right atrium; of the 56% going to the lungs and skin, 52 parts come from the right atrium and only 4 from the lung blood.",
+      "So the ventricle gives mostly oxygenated blood to the cells (about 80% of that blood comes from the lungs) and mostly deoxygenated blood to the lungs and skin, so the blood supply to the cells is rich in oxygen.",
+      "The skin also gives extra oxygen while the frog is in water, and its returning blood (17%) is oxygenated."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-61.jpg",
       "papers/biology/img/02A-Membranes-Transport-62.jpg",
       "papers/biology/img/02A-Membranes-Transport-63.jpg",
       "papers/biology/img/02A-Membranes-Transport-64.jpg",
       "papers/biology/img/02A-Membranes-Transport-65.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q26-3.jpg"
      ]
     },
     {
@@ -11021,14 +12225,21 @@ window.BANK.biology = {
       "V"
      ],
      "question": "From the diagram of structures in part of a cell membrane (options AQ, BR, CT, DV), which structure prevents large polar molecules from diffusing through the membrane?",
-     "status": "pending",
-     "answer": "Missing: the labelled membrane diagram is not in the text, so the structure cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: R.",
+     "steps": [
+      "R is the fatty acid tails, which form the hydrophobic core of the bilayer.",
+      "Large polar molecules cannot dissolve in this hydrophobic core, so they cannot diffuse through it.",
+      "Q is a phosphate head, T a glycoprotein and V a carrier protein, none of which acts as the barrier."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-65.jpg",
       "papers/biology/img/02A-Membranes-Transport-66.jpg",
       "papers/biology/img/02A-Membranes-Transport-67.jpg",
       "papers/biology/img/02A-Membranes-Transport-68.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q27.jpg"
      ]
     },
     {
@@ -11047,14 +12258,20 @@ window.BANK.biology = {
       "U"
      ],
      "question": "From the membrane diagram (options AP, BS, CT, DU), which structure allows ions to diffuse through the membrane?",
-     "status": "pending",
-     "answer": "Missing: the labelled membrane diagram is not in the text, so the structure cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: U.",
+     "steps": [
+      "U is a protein that spans the whole membrane and forms a water-filled pore, so it is a channel protein.",
+      "Ions are charged, so they cannot cross the hydrophobic core and diffuse through channel proteins such as U."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-65.jpg",
       "papers/biology/img/02A-Membranes-Transport-66.jpg",
       "papers/biology/img/02A-Membranes-Transport-67.jpg",
       "papers/biology/img/02A-Membranes-Transport-68.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q27.jpg"
      ]
     },
     {
@@ -11074,14 +12291,20 @@ window.BANK.biology = {
       "U"
      ],
      "question": "From the membrane diagram (options AP, BQ, CS, DU), which structure allows the membrane to be fluid?",
-     "status": "pending",
-     "answer": "Missing: the labelled membrane diagram is not in the text, so the structure cannot be identified.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: S.",
+     "steps": [
+      "S is a phospholipid molecule.",
+      "The phospholipids can move sideways past each other, which makes the membrane fluid."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-65.jpg",
       "papers/biology/img/02A-Membranes-Transport-66.jpg",
       "papers/biology/img/02A-Membranes-Transport-67.jpg",
       "papers/biology/img/02A-Membranes-Transport-68.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q27.jpg"
      ]
     },
     {
@@ -11098,14 +12321,20 @@ window.BANK.biology = {
       "hydroxyl group"
      ],
      "question": "Which diagram shows the correct position of a cholesterol molecule in the membrane?",
-     "status": "pending",
-     "answer": "Missing: the diagrams of cholesterol positions are not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B.",
+     "steps": [
+      "Cholesterol sits between the phospholipids, in line with the fatty acid tails, with its small polar -OH group next to the hydrophilic phosphate heads.",
+      "In B, the polar -OH end is at the heads and the hydrophobic rings lie among the tails; in A the -OH group faces the middle of the bilayer, in C the molecule lies flat in the middle of the bilayer, and in D the -OH group is in the middle of the bilayer, away from the heads."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-65.jpg",
       "papers/biology/img/02A-Membranes-Transport-66.jpg",
       "papers/biology/img/02A-Membranes-Transport-67.jpg",
       "papers/biology/img/02A-Membranes-Transport-68.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q27-2.jpg"
      ]
     },
     {
@@ -11122,14 +12351,22 @@ window.BANK.biology = {
       "describe"
      ],
      "question": "Describe the effect of temperature and cholesterol on membrane fluidity, shown in the graph.",
-     "status": "pending",
-     "answer": "Missing: the graph of the effect of temperature and cholesterol on membrane fluidity is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Membrane fluidity increases with temperature in both cases; cholesterol makes fluidity change gradually with temperature, raising it at low temperature and lowering it at high temperature.",
+     "steps": [
+      "Without cholesterol the fluidity is very low at low temperature, then rises steeply in the middle of the range, and levels off at high temperature.",
+      "With cholesterol the fluidity rises steadily (almost linearly) with temperature.",
+      "At low temperatures the membrane with cholesterol is more fluid than without, and at high temperatures (above the crossover point) it is less fluid than without cholesterol.",
+      "Both reach about the same fluidity at the top of the range, so cholesterol buffers the membrane against changes in temperature."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-65.jpg",
       "papers/biology/img/02A-Membranes-Transport-66.jpg",
       "papers/biology/img/02A-Membranes-Transport-67.jpg",
       "papers/biology/img/02A-Membranes-Transport-68.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q27-3.jpg"
      ]
     },
     {
@@ -11147,14 +12384,20 @@ window.BANK.biology = {
       "2 decimal places"
      ],
      "question": "Calculate the ratio of protein to lipid in membrane A from the table of composition of three membranes, giving the answer to 2 decimal places (as x : 1).",
-     "status": "pending",
-     "answer": "Missing: the table of protein, lipid and carbohydrate composition of membranes A, B and C is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "1.14 : 1.",
+     "steps": [
+      "Protein : lipid in membrane A = 49 : 43.",
+      "Divide by the lipid value: 49 / 43 = 1.14, so the ratio is 1.14 : 1."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-65.jpg",
       "papers/biology/img/02A-Membranes-Transport-66.jpg",
       "papers/biology/img/02A-Membranes-Transport-67.jpg",
       "papers/biology/img/02A-Membranes-Transport-68.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q27-4.jpg"
      ]
     },
     {
@@ -11172,14 +12415,22 @@ window.BANK.biology = {
       "membranes A B C"
      ],
      "question": "Compare and contrast the composition of the three membranes A, B and C in the table of protein, lipid and carbohydrate.",
-     "status": "pending",
-     "answer": "Missing: the table of protein, lipid and carbohydrate composition of membranes A, B and C is not in the text.",
-     "steps": [],
+     "status": "ready",
+     "answer": "All three membranes contain protein, lipid and carbohydrate in different proportions: protein increases A < B < C, whereas lipid and carbohydrate decrease A > B > C, and C contains no carbohydrate.",
+     "steps": [
+      "Similarities: all three contain protein and lipid, and in each membrane the protein percentage is larger than the lipid percentage; A and B are similar (49 and 54% protein, 43 and 42% lipid).",
+      "Difference: protein is 49% in A, 54% in B and 75% in C, so C has much more protein.",
+      "Difference: lipid is 43% in A, 42% in B and only 25% in C.",
+      "Difference: carbohydrate is 8% in A, 4% in B and 0% in C, so C has no glycoproteins or glycolipids."
+     ],
      "images": [
       "papers/biology/img/02A-Membranes-Transport-65.jpg",
       "papers/biology/img/02A-Membranes-Transport-66.jpg",
       "papers/biology/img/02A-Membranes-Transport-67.jpg",
       "papers/biology/img/02A-Membranes-Transport-68.jpg"
+     ],
+     "figures": [
+      "papers/biology/fig/02A-Membranes-Transport-Q27-4.jpg"
      ]
     }
    ]
@@ -11216,7 +12467,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-01.jpg",
       "papers/biology/img/02B-Proteins-DNA-02.jpg",
       "papers/biology/img/02B-Proteins-DNA-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q1a(ii)",
@@ -11243,7 +12495,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-01.jpg",
       "papers/biology/img/02B-Proteins-DNA-02.jpg",
       "papers/biology/img/02B-Proteins-DNA-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q1b",
@@ -11275,7 +12528,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-01.jpg",
       "papers/biology/img/02B-Proteins-DNA-02.jpg",
       "papers/biology/img/02B-Proteins-DNA-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q1c(i)",
@@ -11305,7 +12559,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-01.jpg",
       "papers/biology/img/02B-Proteins-DNA-02.jpg",
       "papers/biology/img/02B-Proteins-DNA-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q1c(ii)",
@@ -11336,7 +12591,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-01.jpg",
       "papers/biology/img/02B-Proteins-DNA-02.jpg",
       "papers/biology/img/02B-Proteins-DNA-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q1d",
@@ -11361,7 +12617,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-01.jpg",
       "papers/biology/img/02B-Proteins-DNA-02.jpg",
       "papers/biology/img/02B-Proteins-DNA-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q2a",
@@ -11390,7 +12647,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-04.jpg",
       "papers/biology/img/02B-Proteins-DNA-05.jpg",
       "papers/biology/img/02B-Proteins-DNA-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q2b(i)",
@@ -11422,7 +12680,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-04.jpg",
       "papers/biology/img/02B-Proteins-DNA-05.jpg",
       "papers/biology/img/02B-Proteins-DNA-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q2b(ii)",
@@ -11448,7 +12707,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-04.jpg",
       "papers/biology/img/02B-Proteins-DNA-05.jpg",
       "papers/biology/img/02B-Proteins-DNA-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q2b(iii)",
@@ -11480,7 +12740,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-04.jpg",
       "papers/biology/img/02B-Proteins-DNA-05.jpg",
       "papers/biology/img/02B-Proteins-DNA-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q2c(i)",
@@ -11512,7 +12773,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-04.jpg",
       "papers/biology/img/02B-Proteins-DNA-05.jpg",
       "papers/biology/img/02B-Proteins-DNA-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q2c(ii)",
@@ -11545,7 +12807,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-04.jpg",
       "papers/biology/img/02B-Proteins-DNA-05.jpg",
       "papers/biology/img/02B-Proteins-DNA-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q3a(i)",
@@ -11574,7 +12837,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-06.jpg",
       "papers/biology/img/02B-Proteins-DNA-07.jpg",
       "papers/biology/img/02B-Proteins-DNA-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q3a(ii)",
@@ -11604,7 +12868,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-06.jpg",
       "papers/biology/img/02B-Proteins-DNA-07.jpg",
       "papers/biology/img/02B-Proteins-DNA-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q3a(iii)",
@@ -11635,7 +12900,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-06.jpg",
       "papers/biology/img/02B-Proteins-DNA-07.jpg",
       "papers/biology/img/02B-Proteins-DNA-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q3b",
@@ -11663,7 +12929,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-06.jpg",
       "papers/biology/img/02B-Proteins-DNA-07.jpg",
       "papers/biology/img/02B-Proteins-DNA-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q4a",
@@ -11688,7 +12955,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-08.jpg",
       "papers/biology/img/02B-Proteins-DNA-09.jpg",
       "papers/biology/img/02B-Proteins-DNA-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q4b(i)",
@@ -11714,7 +12982,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-08.jpg",
       "papers/biology/img/02B-Proteins-DNA-09.jpg",
       "papers/biology/img/02B-Proteins-DNA-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q4b(ii)",
@@ -11739,7 +13008,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-08.jpg",
       "papers/biology/img/02B-Proteins-DNA-09.jpg",
       "papers/biology/img/02B-Proteins-DNA-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q4c",
@@ -11770,7 +13040,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-08.jpg",
       "papers/biology/img/02B-Proteins-DNA-09.jpg",
       "papers/biology/img/02B-Proteins-DNA-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q5a",
@@ -11798,7 +13069,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-10.jpg",
       "papers/biology/img/02B-Proteins-DNA-11.jpg",
       "papers/biology/img/02B-Proteins-DNA-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q5b(i)",
@@ -11824,7 +13096,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-10.jpg",
       "papers/biology/img/02B-Proteins-DNA-11.jpg",
       "papers/biology/img/02B-Proteins-DNA-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q5b(ii)",
@@ -11850,7 +13123,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-10.jpg",
       "papers/biology/img/02B-Proteins-DNA-11.jpg",
       "papers/biology/img/02B-Proteins-DNA-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q6a",
@@ -11881,7 +13155,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-13.jpg",
       "papers/biology/img/02B-Proteins-DNA-14.jpg",
       "papers/biology/img/02B-Proteins-DNA-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q6b",
@@ -11912,7 +13187,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-13.jpg",
       "papers/biology/img/02B-Proteins-DNA-14.jpg",
       "papers/biology/img/02B-Proteins-DNA-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q6c(i)",
@@ -11940,7 +13216,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-13.jpg",
       "papers/biology/img/02B-Proteins-DNA-14.jpg",
       "papers/biology/img/02B-Proteins-DNA-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q6c(ii)",
@@ -11973,7 +13250,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-13.jpg",
       "papers/biology/img/02B-Proteins-DNA-14.jpg",
       "papers/biology/img/02B-Proteins-DNA-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q6d",
@@ -12003,7 +13281,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-13.jpg",
       "papers/biology/img/02B-Proteins-DNA-14.jpg",
       "papers/biology/img/02B-Proteins-DNA-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q7a",
@@ -12036,7 +13315,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-16.jpg",
       "papers/biology/img/02B-Proteins-DNA-17.jpg",
       "papers/biology/img/02B-Proteins-DNA-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q7b(i)",
@@ -12064,7 +13344,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-16.jpg",
       "papers/biology/img/02B-Proteins-DNA-17.jpg",
       "papers/biology/img/02B-Proteins-DNA-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q7b(ii)",
@@ -12091,7 +13372,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-16.jpg",
       "papers/biology/img/02B-Proteins-DNA-17.jpg",
       "papers/biology/img/02B-Proteins-DNA-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q8a(i)",
@@ -12118,7 +13400,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-20.jpg",
       "papers/biology/img/02B-Proteins-DNA-21.jpg",
       "papers/biology/img/02B-Proteins-DNA-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q8a(ii)",
@@ -12149,7 +13432,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-20.jpg",
       "papers/biology/img/02B-Proteins-DNA-21.jpg",
       "papers/biology/img/02B-Proteins-DNA-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q8b",
@@ -12177,7 +13461,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-20.jpg",
       "papers/biology/img/02B-Proteins-DNA-21.jpg",
       "papers/biology/img/02B-Proteins-DNA-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q8c(i)",
@@ -12211,7 +13496,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-20.jpg",
       "papers/biology/img/02B-Proteins-DNA-21.jpg",
       "papers/biology/img/02B-Proteins-DNA-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q8c(ii)",
@@ -12240,7 +13526,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-20.jpg",
       "papers/biology/img/02B-Proteins-DNA-21.jpg",
       "papers/biology/img/02B-Proteins-DNA-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q9a(i)",
@@ -12266,7 +13553,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-23.jpg",
       "papers/biology/img/02B-Proteins-DNA-24.jpg",
       "papers/biology/img/02B-Proteins-DNA-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q9a(ii)",
@@ -12293,7 +13581,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-23.jpg",
       "papers/biology/img/02B-Proteins-DNA-24.jpg",
       "papers/biology/img/02B-Proteins-DNA-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q9a(iii)",
@@ -12321,7 +13610,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-23.jpg",
       "papers/biology/img/02B-Proteins-DNA-24.jpg",
       "papers/biology/img/02B-Proteins-DNA-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q9b(i)",
@@ -12349,7 +13639,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-23.jpg",
       "papers/biology/img/02B-Proteins-DNA-24.jpg",
       "papers/biology/img/02B-Proteins-DNA-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q9b(ii)",
@@ -12376,7 +13667,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-23.jpg",
       "papers/biology/img/02B-Proteins-DNA-24.jpg",
       "papers/biology/img/02B-Proteins-DNA-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q10",
@@ -12408,7 +13700,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-25.jpg",
       "papers/biology/img/02B-Proteins-DNA-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q11a(i)",
@@ -12438,7 +13731,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-26.jpg",
       "papers/biology/img/02B-Proteins-DNA-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q11a(ii)",
@@ -12467,7 +13761,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-26.jpg",
       "papers/biology/img/02B-Proteins-DNA-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q11b",
@@ -12494,7 +13789,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-26.jpg",
       "papers/biology/img/02B-Proteins-DNA-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q12a",
@@ -12520,7 +13816,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-27.jpg",
       "papers/biology/img/02B-Proteins-DNA-28.jpg",
       "papers/biology/img/02B-Proteins-DNA-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q12b",
@@ -12551,7 +13848,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-27.jpg",
       "papers/biology/img/02B-Proteins-DNA-28.jpg",
       "papers/biology/img/02B-Proteins-DNA-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q13a(i)",
@@ -12575,7 +13873,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-29.jpg",
       "papers/biology/img/02B-Proteins-DNA-30.jpg",
       "papers/biology/img/02B-Proteins-DNA-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q13a(ii)",
@@ -12600,7 +13899,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-29.jpg",
       "papers/biology/img/02B-Proteins-DNA-30.jpg",
       "papers/biology/img/02B-Proteins-DNA-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q13a(iii)",
@@ -12626,7 +13926,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-29.jpg",
       "papers/biology/img/02B-Proteins-DNA-30.jpg",
       "papers/biology/img/02B-Proteins-DNA-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q13b(i)",
@@ -12652,7 +13953,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-29.jpg",
       "papers/biology/img/02B-Proteins-DNA-30.jpg",
       "papers/biology/img/02B-Proteins-DNA-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q13b(ii)",
@@ -12680,7 +13982,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-29.jpg",
       "papers/biology/img/02B-Proteins-DNA-30.jpg",
       "papers/biology/img/02B-Proteins-DNA-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q14a(i)",
@@ -12711,7 +14014,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-32.jpg",
       "papers/biology/img/02B-Proteins-DNA-33.jpg",
       "papers/biology/img/02B-Proteins-DNA-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q14a(ii)",
@@ -12741,7 +14045,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-32.jpg",
       "papers/biology/img/02B-Proteins-DNA-33.jpg",
       "papers/biology/img/02B-Proteins-DNA-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q14a(iii)",
@@ -12770,7 +14075,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-32.jpg",
       "papers/biology/img/02B-Proteins-DNA-33.jpg",
       "papers/biology/img/02B-Proteins-DNA-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q14b(i)",
@@ -12797,7 +14103,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-32.jpg",
       "papers/biology/img/02B-Proteins-DNA-33.jpg",
       "papers/biology/img/02B-Proteins-DNA-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q14b(ii)",
@@ -12830,7 +14137,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-32.jpg",
       "papers/biology/img/02B-Proteins-DNA-33.jpg",
       "papers/biology/img/02B-Proteins-DNA-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q14b(iii)",
@@ -12863,7 +14171,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-32.jpg",
       "papers/biology/img/02B-Proteins-DNA-33.jpg",
       "papers/biology/img/02B-Proteins-DNA-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q15a(i)",
@@ -12894,7 +14203,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-35.jpg",
       "papers/biology/img/02B-Proteins-DNA-36.jpg",
       "papers/biology/img/02B-Proteins-DNA-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q15a(ii)",
@@ -12928,7 +14238,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-35.jpg",
       "papers/biology/img/02B-Proteins-DNA-36.jpg",
       "papers/biology/img/02B-Proteins-DNA-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q15b(i)",
@@ -12960,7 +14271,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-35.jpg",
       "papers/biology/img/02B-Proteins-DNA-36.jpg",
       "papers/biology/img/02B-Proteins-DNA-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q15b(ii)",
@@ -12985,7 +14297,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-35.jpg",
       "papers/biology/img/02B-Proteins-DNA-36.jpg",
       "papers/biology/img/02B-Proteins-DNA-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q15b(iii)",
@@ -13018,7 +14331,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-35.jpg",
       "papers/biology/img/02B-Proteins-DNA-36.jpg",
       "papers/biology/img/02B-Proteins-DNA-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q15c",
@@ -13051,7 +14365,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-35.jpg",
       "papers/biology/img/02B-Proteins-DNA-36.jpg",
       "papers/biology/img/02B-Proteins-DNA-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q16a",
@@ -13084,7 +14399,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-37.jpg",
       "papers/biology/img/02B-Proteins-DNA-38.jpg",
       "papers/biology/img/02B-Proteins-DNA-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q16b",
@@ -13115,7 +14431,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-37.jpg",
       "papers/biology/img/02B-Proteins-DNA-38.jpg",
       "papers/biology/img/02B-Proteins-DNA-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q16c(i)",
@@ -13148,7 +14465,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-37.jpg",
       "papers/biology/img/02B-Proteins-DNA-38.jpg",
       "papers/biology/img/02B-Proteins-DNA-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q16c(ii)",
@@ -13180,7 +14498,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-37.jpg",
       "papers/biology/img/02B-Proteins-DNA-38.jpg",
       "papers/biology/img/02B-Proteins-DNA-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q17a",
@@ -13215,7 +14534,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-41.jpg",
       "papers/biology/img/02B-Proteins-DNA-42.jpg",
       "papers/biology/img/02B-Proteins-DNA-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q17b(i)",
@@ -13250,7 +14570,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-41.jpg",
       "papers/biology/img/02B-Proteins-DNA-42.jpg",
       "papers/biology/img/02B-Proteins-DNA-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q17b(ii)",
@@ -13283,7 +14604,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-41.jpg",
       "papers/biology/img/02B-Proteins-DNA-42.jpg",
       "papers/biology/img/02B-Proteins-DNA-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q17c(i)",
@@ -13313,7 +14635,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-41.jpg",
       "papers/biology/img/02B-Proteins-DNA-42.jpg",
       "papers/biology/img/02B-Proteins-DNA-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q17c(ii)",
@@ -13341,7 +14664,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-41.jpg",
       "papers/biology/img/02B-Proteins-DNA-42.jpg",
       "papers/biology/img/02B-Proteins-DNA-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q17c(iii)",
@@ -13369,7 +14693,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-41.jpg",
       "papers/biology/img/02B-Proteins-DNA-42.jpg",
       "papers/biology/img/02B-Proteins-DNA-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q18a",
@@ -13400,7 +14725,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-43.jpg",
       "papers/biology/img/02B-Proteins-DNA-44.jpg",
       "papers/biology/img/02B-Proteins-DNA-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q18b",
@@ -13433,7 +14759,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-43.jpg",
       "papers/biology/img/02B-Proteins-DNA-44.jpg",
       "papers/biology/img/02B-Proteins-DNA-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q18c(i)",
@@ -13459,7 +14786,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-43.jpg",
       "papers/biology/img/02B-Proteins-DNA-44.jpg",
       "papers/biology/img/02B-Proteins-DNA-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q18c(ii)",
@@ -13489,7 +14817,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-43.jpg",
       "papers/biology/img/02B-Proteins-DNA-44.jpg",
       "papers/biology/img/02B-Proteins-DNA-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q19a(i)",
@@ -13514,7 +14843,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-46.jpg",
       "papers/biology/img/02B-Proteins-DNA-47.jpg",
       "papers/biology/img/02B-Proteins-DNA-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q19a(ii)",
@@ -13541,7 +14871,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-46.jpg",
       "papers/biology/img/02B-Proteins-DNA-47.jpg",
       "papers/biology/img/02B-Proteins-DNA-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q19b(i)",
@@ -13571,7 +14902,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-46.jpg",
       "papers/biology/img/02B-Proteins-DNA-47.jpg",
       "papers/biology/img/02B-Proteins-DNA-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q19b(ii)",
@@ -13600,7 +14932,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-46.jpg",
       "papers/biology/img/02B-Proteins-DNA-47.jpg",
       "papers/biology/img/02B-Proteins-DNA-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q19b(iii)",
@@ -13631,7 +14964,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-46.jpg",
       "papers/biology/img/02B-Proteins-DNA-47.jpg",
       "papers/biology/img/02B-Proteins-DNA-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q19b(iv)",
@@ -13665,7 +14999,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-46.jpg",
       "papers/biology/img/02B-Proteins-DNA-47.jpg",
       "papers/biology/img/02B-Proteins-DNA-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q19c(i)",
@@ -13699,7 +15034,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-46.jpg",
       "papers/biology/img/02B-Proteins-DNA-47.jpg",
       "papers/biology/img/02B-Proteins-DNA-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q19c(ii)",
@@ -13731,7 +15067,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-46.jpg",
       "papers/biology/img/02B-Proteins-DNA-47.jpg",
       "papers/biology/img/02B-Proteins-DNA-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q20a",
@@ -13763,7 +15100,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-48.jpg",
       "papers/biology/img/02B-Proteins-DNA-49.jpg",
       "papers/biology/img/02B-Proteins-DNA-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q20b",
@@ -13789,7 +15127,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-48.jpg",
       "papers/biology/img/02B-Proteins-DNA-49.jpg",
       "papers/biology/img/02B-Proteins-DNA-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q20c",
@@ -13815,7 +15154,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-48.jpg",
       "papers/biology/img/02B-Proteins-DNA-49.jpg",
       "papers/biology/img/02B-Proteins-DNA-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q20d",
@@ -13840,7 +15180,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-48.jpg",
       "papers/biology/img/02B-Proteins-DNA-49.jpg",
       "papers/biology/img/02B-Proteins-DNA-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q21a",
@@ -13866,7 +15207,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-50.jpg",
       "papers/biology/img/02B-Proteins-DNA-51.jpg",
       "papers/biology/img/02B-Proteins-DNA-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q21b(i)",
@@ -13897,7 +15239,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-50.jpg",
       "papers/biology/img/02B-Proteins-DNA-51.jpg",
       "papers/biology/img/02B-Proteins-DNA-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q21b(ii)",
@@ -13928,7 +15271,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-50.jpg",
       "papers/biology/img/02B-Proteins-DNA-51.jpg",
       "papers/biology/img/02B-Proteins-DNA-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q22a",
@@ -13955,7 +15299,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-53.jpg",
       "papers/biology/img/02B-Proteins-DNA-54.jpg",
       "papers/biology/img/02B-Proteins-DNA-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q22b",
@@ -13980,7 +15325,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-53.jpg",
       "papers/biology/img/02B-Proteins-DNA-54.jpg",
       "papers/biology/img/02B-Proteins-DNA-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q22c(i)",
@@ -14012,7 +15358,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-53.jpg",
       "papers/biology/img/02B-Proteins-DNA-54.jpg",
       "papers/biology/img/02B-Proteins-DNA-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q22c(ii)",
@@ -14043,7 +15390,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-53.jpg",
       "papers/biology/img/02B-Proteins-DNA-54.jpg",
       "papers/biology/img/02B-Proteins-DNA-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q22c(iii)",
@@ -14076,7 +15424,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-53.jpg",
       "papers/biology/img/02B-Proteins-DNA-54.jpg",
       "papers/biology/img/02B-Proteins-DNA-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q23a",
@@ -14107,7 +15456,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-55.jpg",
       "papers/biology/img/02B-Proteins-DNA-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q23b",
@@ -14133,7 +15483,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-55.jpg",
       "papers/biology/img/02B-Proteins-DNA-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q24a(i)",
@@ -14160,7 +15511,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-57.jpg",
       "papers/biology/img/02B-Proteins-DNA-58.jpg",
       "papers/biology/img/02B-Proteins-DNA-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q24a(ii)",
@@ -14190,7 +15542,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-57.jpg",
       "papers/biology/img/02B-Proteins-DNA-58.jpg",
       "papers/biology/img/02B-Proteins-DNA-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q24a(iii)",
@@ -14217,7 +15570,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-57.jpg",
       "papers/biology/img/02B-Proteins-DNA-58.jpg",
       "papers/biology/img/02B-Proteins-DNA-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q24b(i)",
@@ -14244,7 +15598,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-57.jpg",
       "papers/biology/img/02B-Proteins-DNA-58.jpg",
       "papers/biology/img/02B-Proteins-DNA-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q24b(ii)",
@@ -14277,7 +15632,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-57.jpg",
       "papers/biology/img/02B-Proteins-DNA-58.jpg",
       "papers/biology/img/02B-Proteins-DNA-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q25a(i)",
@@ -14302,7 +15658,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-59.jpg",
       "papers/biology/img/02B-Proteins-DNA-60.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q25a(ii)",
@@ -14331,7 +15688,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-59.jpg",
       "papers/biology/img/02B-Proteins-DNA-60.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q25a(iii)",
@@ -14360,7 +15718,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-59.jpg",
       "papers/biology/img/02B-Proteins-DNA-60.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q25b",
@@ -14389,7 +15748,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-59.jpg",
       "papers/biology/img/02B-Proteins-DNA-60.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q26a",
@@ -14418,7 +15778,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-60.jpg",
       "papers/biology/img/02B-Proteins-DNA-61.jpg",
       "papers/biology/img/02B-Proteins-DNA-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q26b(i)",
@@ -14446,7 +15807,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-60.jpg",
       "papers/biology/img/02B-Proteins-DNA-61.jpg",
       "papers/biology/img/02B-Proteins-DNA-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q26b(ii)",
@@ -14476,7 +15838,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-60.jpg",
       "papers/biology/img/02B-Proteins-DNA-61.jpg",
       "papers/biology/img/02B-Proteins-DNA-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q27a",
@@ -14509,7 +15872,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-63.jpg",
       "papers/biology/img/02B-Proteins-DNA-64.jpg",
       "papers/biology/img/02B-Proteins-DNA-65.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q27b",
@@ -14538,7 +15902,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-63.jpg",
       "papers/biology/img/02B-Proteins-DNA-64.jpg",
       "papers/biology/img/02B-Proteins-DNA-65.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q27c(i)",
@@ -14570,7 +15935,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-63.jpg",
       "papers/biology/img/02B-Proteins-DNA-64.jpg",
       "papers/biology/img/02B-Proteins-DNA-65.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q27c(ii)",
@@ -14601,7 +15967,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-63.jpg",
       "papers/biology/img/02B-Proteins-DNA-64.jpg",
       "papers/biology/img/02B-Proteins-DNA-65.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q27c(iii)",
@@ -14633,7 +16000,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-63.jpg",
       "papers/biology/img/02B-Proteins-DNA-64.jpg",
       "papers/biology/img/02B-Proteins-DNA-65.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q27c(iv)",
@@ -14663,7 +16031,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-63.jpg",
       "papers/biology/img/02B-Proteins-DNA-64.jpg",
       "papers/biology/img/02B-Proteins-DNA-65.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q28a(i)",
@@ -14691,7 +16060,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-65.jpg",
       "papers/biology/img/02B-Proteins-DNA-66.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q28a(ii)",
@@ -14714,7 +16084,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-65.jpg",
       "papers/biology/img/02B-Proteins-DNA-66.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q28a(iii)",
@@ -14743,7 +16114,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-65.jpg",
       "papers/biology/img/02B-Proteins-DNA-66.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q28b(i)",
@@ -14774,7 +16146,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-65.jpg",
       "papers/biology/img/02B-Proteins-DNA-66.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q28b(ii)",
@@ -14804,7 +16177,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-65.jpg",
       "papers/biology/img/02B-Proteins-DNA-66.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q29a",
@@ -14837,7 +16211,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-67.jpg",
       "papers/biology/img/02B-Proteins-DNA-68.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q29b",
@@ -14868,7 +16243,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-67.jpg",
       "papers/biology/img/02B-Proteins-DNA-68.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q30a",
@@ -14895,7 +16271,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-68.jpg",
       "papers/biology/img/02B-Proteins-DNA-69.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q30b",
@@ -14925,7 +16302,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-68.jpg",
       "papers/biology/img/02B-Proteins-DNA-69.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q30c",
@@ -14954,7 +16332,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-68.jpg",
       "papers/biology/img/02B-Proteins-DNA-69.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q30d",
@@ -14984,7 +16363,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-68.jpg",
       "papers/biology/img/02B-Proteins-DNA-69.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q31a",
@@ -15011,7 +16391,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-69.jpg",
       "papers/biology/img/02B-Proteins-DNA-70.jpg",
       "papers/biology/img/02B-Proteins-DNA-71.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q31b(i)",
@@ -15036,7 +16417,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-69.jpg",
       "papers/biology/img/02B-Proteins-DNA-70.jpg",
       "papers/biology/img/02B-Proteins-DNA-71.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q31b(ii)",
@@ -15065,7 +16447,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-69.jpg",
       "papers/biology/img/02B-Proteins-DNA-70.jpg",
       "papers/biology/img/02B-Proteins-DNA-71.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q31c(i)",
@@ -15097,7 +16480,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-69.jpg",
       "papers/biology/img/02B-Proteins-DNA-70.jpg",
       "papers/biology/img/02B-Proteins-DNA-71.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q31c(ii)",
@@ -15128,7 +16512,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-69.jpg",
       "papers/biology/img/02B-Proteins-DNA-70.jpg",
       "papers/biology/img/02B-Proteins-DNA-71.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q32a(i)",
@@ -15157,7 +16542,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-71.jpg",
       "papers/biology/img/02B-Proteins-DNA-72.jpg",
       "papers/biology/img/02B-Proteins-DNA-73.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q32a(ii)",
@@ -15182,7 +16568,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-71.jpg",
       "papers/biology/img/02B-Proteins-DNA-72.jpg",
       "papers/biology/img/02B-Proteins-DNA-73.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q32b",
@@ -15207,7 +16594,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-71.jpg",
       "papers/biology/img/02B-Proteins-DNA-72.jpg",
       "papers/biology/img/02B-Proteins-DNA-73.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q32c",
@@ -15231,7 +16619,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-71.jpg",
       "papers/biology/img/02B-Proteins-DNA-72.jpg",
       "papers/biology/img/02B-Proteins-DNA-73.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q33a",
@@ -15262,7 +16651,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-73.jpg",
       "papers/biology/img/02B-Proteins-DNA-74.jpg",
       "papers/biology/img/02B-Proteins-DNA-75.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q33b",
@@ -15292,7 +16682,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-73.jpg",
       "papers/biology/img/02B-Proteins-DNA-74.jpg",
       "papers/biology/img/02B-Proteins-DNA-75.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q33c(i)",
@@ -15316,7 +16707,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-73.jpg",
       "papers/biology/img/02B-Proteins-DNA-74.jpg",
       "papers/biology/img/02B-Proteins-DNA-75.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q33c(ii)",
@@ -15346,7 +16738,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-73.jpg",
       "papers/biology/img/02B-Proteins-DNA-74.jpg",
       "papers/biology/img/02B-Proteins-DNA-75.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q33c(iii)",
@@ -15377,7 +16770,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-73.jpg",
       "papers/biology/img/02B-Proteins-DNA-74.jpg",
       "papers/biology/img/02B-Proteins-DNA-75.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q34a",
@@ -15404,7 +16798,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-77.jpg",
       "papers/biology/img/02B-Proteins-DNA-78.jpg",
       "papers/biology/img/02B-Proteins-DNA-79.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q34b",
@@ -15437,7 +16832,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-77.jpg",
       "papers/biology/img/02B-Proteins-DNA-78.jpg",
       "papers/biology/img/02B-Proteins-DNA-79.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q34c(i)",
@@ -15469,7 +16865,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-77.jpg",
       "papers/biology/img/02B-Proteins-DNA-78.jpg",
       "papers/biology/img/02B-Proteins-DNA-79.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q34c(ii)",
@@ -15500,7 +16897,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-77.jpg",
       "papers/biology/img/02B-Proteins-DNA-78.jpg",
       "papers/biology/img/02B-Proteins-DNA-79.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q34c(iii)",
@@ -15533,7 +16931,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-77.jpg",
       "papers/biology/img/02B-Proteins-DNA-78.jpg",
       "papers/biology/img/02B-Proteins-DNA-79.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q34d",
@@ -15559,7 +16958,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-77.jpg",
       "papers/biology/img/02B-Proteins-DNA-78.jpg",
       "papers/biology/img/02B-Proteins-DNA-79.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q35a",
@@ -15590,7 +16990,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-79.jpg",
       "papers/biology/img/02B-Proteins-DNA-80.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q35b",
@@ -15623,7 +17024,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-79.jpg",
       "papers/biology/img/02B-Proteins-DNA-80.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q35c",
@@ -15652,7 +17054,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-79.jpg",
       "papers/biology/img/02B-Proteins-DNA-80.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q36a",
@@ -15683,7 +17086,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-81.jpg",
       "papers/biology/img/02B-Proteins-DNA-82.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q36b",
@@ -15712,7 +17116,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-81.jpg",
       "papers/biology/img/02B-Proteins-DNA-82.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q36c",
@@ -15742,7 +17147,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02B-Proteins-DNA-81.jpg",
       "papers/biology/img/02B-Proteins-DNA-82.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q37a",
@@ -15768,7 +17174,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-83.jpg",
       "papers/biology/img/02B-Proteins-DNA-84.jpg",
       "papers/biology/img/02B-Proteins-DNA-85.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q37b(i)",
@@ -15800,7 +17207,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-83.jpg",
       "papers/biology/img/02B-Proteins-DNA-84.jpg",
       "papers/biology/img/02B-Proteins-DNA-85.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q37b(ii)",
@@ -15833,7 +17241,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-83.jpg",
       "papers/biology/img/02B-Proteins-DNA-84.jpg",
       "papers/biology/img/02B-Proteins-DNA-85.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q37c(i)",
@@ -15865,7 +17274,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-83.jpg",
       "papers/biology/img/02B-Proteins-DNA-84.jpg",
       "papers/biology/img/02B-Proteins-DNA-85.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q37c(ii)",
@@ -15895,7 +17305,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-83.jpg",
       "papers/biology/img/02B-Proteins-DNA-84.jpg",
       "papers/biology/img/02B-Proteins-DNA-85.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q37c(iii)",
@@ -15927,7 +17338,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-83.jpg",
       "papers/biology/img/02B-Proteins-DNA-84.jpg",
       "papers/biology/img/02B-Proteins-DNA-85.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q38a",
@@ -15956,7 +17368,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-85.jpg",
       "papers/biology/img/02B-Proteins-DNA-86.jpg",
       "papers/biology/img/02B-Proteins-DNA-87.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q38b",
@@ -15987,7 +17400,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-85.jpg",
       "papers/biology/img/02B-Proteins-DNA-86.jpg",
       "papers/biology/img/02B-Proteins-DNA-87.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q38c",
@@ -16013,7 +17427,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-85.jpg",
       "papers/biology/img/02B-Proteins-DNA-86.jpg",
       "papers/biology/img/02B-Proteins-DNA-87.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q39a",
@@ -16045,7 +17460,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-88.jpg",
       "papers/biology/img/02B-Proteins-DNA-89.jpg",
       "papers/biology/img/02B-Proteins-DNA-90.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q39b",
@@ -16075,7 +17491,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-88.jpg",
       "papers/biology/img/02B-Proteins-DNA-89.jpg",
       "papers/biology/img/02B-Proteins-DNA-90.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q39c(i)",
@@ -16106,7 +17523,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-88.jpg",
       "papers/biology/img/02B-Proteins-DNA-89.jpg",
       "papers/biology/img/02B-Proteins-DNA-90.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q39c(ii)",
@@ -16139,7 +17557,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-88.jpg",
       "papers/biology/img/02B-Proteins-DNA-89.jpg",
       "papers/biology/img/02B-Proteins-DNA-90.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q40a",
@@ -16171,7 +17590,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-92.jpg",
       "papers/biology/img/02B-Proteins-DNA-93.jpg",
       "papers/biology/img/02B-Proteins-DNA-94.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q40b(i)",
@@ -16203,7 +17623,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-92.jpg",
       "papers/biology/img/02B-Proteins-DNA-93.jpg",
       "papers/biology/img/02B-Proteins-DNA-94.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q40b(ii)",
@@ -16234,7 +17655,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-92.jpg",
       "papers/biology/img/02B-Proteins-DNA-93.jpg",
       "papers/biology/img/02B-Proteins-DNA-94.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q40b(iii)",
@@ -16265,7 +17687,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-92.jpg",
       "papers/biology/img/02B-Proteins-DNA-93.jpg",
       "papers/biology/img/02B-Proteins-DNA-94.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q40c(i)",
@@ -16298,7 +17721,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-92.jpg",
       "papers/biology/img/02B-Proteins-DNA-93.jpg",
       "papers/biology/img/02B-Proteins-DNA-94.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q40c(ii)",
@@ -16332,7 +17756,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-92.jpg",
       "papers/biology/img/02B-Proteins-DNA-93.jpg",
       "papers/biology/img/02B-Proteins-DNA-94.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q40d",
@@ -16366,7 +17791,8 @@ window.BANK.biology = {
       "papers/biology/img/02B-Proteins-DNA-92.jpg",
       "papers/biology/img/02B-Proteins-DNA-93.jpg",
       "papers/biology/img/02B-Proteins-DNA-94.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -16397,7 +17823,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-01.jpg",
       "papers/biology/img/02C-Gene-Expression-02.jpg",
       "papers/biology/img/02C-Gene-Expression-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q1b(i)",
@@ -16426,7 +17853,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-01.jpg",
       "papers/biology/img/02C-Gene-Expression-02.jpg",
       "papers/biology/img/02C-Gene-Expression-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q1b(ii)",
@@ -16451,7 +17879,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-01.jpg",
       "papers/biology/img/02C-Gene-Expression-02.jpg",
       "papers/biology/img/02C-Gene-Expression-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q2a",
@@ -16477,7 +17906,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02C-Gene-Expression-03.jpg",
       "papers/biology/img/02C-Gene-Expression-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q2b",
@@ -16505,7 +17935,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02C-Gene-Expression-03.jpg",
       "papers/biology/img/02C-Gene-Expression-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q2c",
@@ -16533,7 +17964,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02C-Gene-Expression-03.jpg",
       "papers/biology/img/02C-Gene-Expression-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q3a",
@@ -16556,7 +17988,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-04.jpg",
       "papers/biology/img/02C-Gene-Expression-05.jpg",
       "papers/biology/img/02C-Gene-Expression-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q3b(i)",
@@ -16579,7 +18012,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-04.jpg",
       "papers/biology/img/02C-Gene-Expression-05.jpg",
       "papers/biology/img/02C-Gene-Expression-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q3b(ii)",
@@ -16608,7 +18042,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-04.jpg",
       "papers/biology/img/02C-Gene-Expression-05.jpg",
       "papers/biology/img/02C-Gene-Expression-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q3c",
@@ -16637,7 +18072,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-04.jpg",
       "papers/biology/img/02C-Gene-Expression-05.jpg",
       "papers/biology/img/02C-Gene-Expression-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q4a",
@@ -16662,7 +18098,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-07.jpg",
       "papers/biology/img/02C-Gene-Expression-08.jpg",
       "papers/biology/img/02C-Gene-Expression-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q4b(i)",
@@ -16686,7 +18123,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-07.jpg",
       "papers/biology/img/02C-Gene-Expression-08.jpg",
       "papers/biology/img/02C-Gene-Expression-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q4b(ii)",
@@ -16711,7 +18149,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-07.jpg",
       "papers/biology/img/02C-Gene-Expression-08.jpg",
       "papers/biology/img/02C-Gene-Expression-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q5a",
@@ -16737,7 +18176,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02C-Gene-Expression-09.jpg",
       "papers/biology/img/02C-Gene-Expression-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q5b",
@@ -16764,7 +18204,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02C-Gene-Expression-09.jpg",
       "papers/biology/img/02C-Gene-Expression-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q5c",
@@ -16791,7 +18232,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02C-Gene-Expression-09.jpg",
       "papers/biology/img/02C-Gene-Expression-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q5d",
@@ -16819,7 +18261,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02C-Gene-Expression-09.jpg",
       "papers/biology/img/02C-Gene-Expression-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q6a",
@@ -16842,7 +18285,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02C-Gene-Expression-10.jpg",
       "papers/biology/img/02C-Gene-Expression-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q6b",
@@ -16870,7 +18314,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02C-Gene-Expression-10.jpg",
       "papers/biology/img/02C-Gene-Expression-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q7a",
@@ -16900,7 +18345,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-12.jpg",
       "papers/biology/img/02C-Gene-Expression-13.jpg",
       "papers/biology/img/02C-Gene-Expression-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q7b",
@@ -16929,7 +18375,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-12.jpg",
       "papers/biology/img/02C-Gene-Expression-13.jpg",
       "papers/biology/img/02C-Gene-Expression-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q8a",
@@ -16955,7 +18402,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-12.jpg",
       "papers/biology/img/02C-Gene-Expression-13.jpg",
       "papers/biology/img/02C-Gene-Expression-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q8b",
@@ -16983,7 +18431,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-12.jpg",
       "papers/biology/img/02C-Gene-Expression-13.jpg",
       "papers/biology/img/02C-Gene-Expression-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q8c",
@@ -17006,7 +18455,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-12.jpg",
       "papers/biology/img/02C-Gene-Expression-13.jpg",
       "papers/biology/img/02C-Gene-Expression-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q8d",
@@ -17033,7 +18483,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-12.jpg",
       "papers/biology/img/02C-Gene-Expression-13.jpg",
       "papers/biology/img/02C-Gene-Expression-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q9a(i)",
@@ -17057,7 +18508,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-15.jpg",
       "papers/biology/img/02C-Gene-Expression-16.jpg",
       "papers/biology/img/02C-Gene-Expression-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q9a(ii)",
@@ -17082,7 +18534,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-15.jpg",
       "papers/biology/img/02C-Gene-Expression-16.jpg",
       "papers/biology/img/02C-Gene-Expression-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q9b(i)",
@@ -17111,7 +18564,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-15.jpg",
       "papers/biology/img/02C-Gene-Expression-16.jpg",
       "papers/biology/img/02C-Gene-Expression-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q9b(ii)",
@@ -17141,7 +18595,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-15.jpg",
       "papers/biology/img/02C-Gene-Expression-16.jpg",
       "papers/biology/img/02C-Gene-Expression-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q10a",
@@ -17171,7 +18626,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-18.jpg",
       "papers/biology/img/02C-Gene-Expression-19.jpg",
       "papers/biology/img/02C-Gene-Expression-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q10b",
@@ -17196,7 +18652,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-18.jpg",
       "papers/biology/img/02C-Gene-Expression-19.jpg",
       "papers/biology/img/02C-Gene-Expression-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q10c(i)",
@@ -17220,7 +18677,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-18.jpg",
       "papers/biology/img/02C-Gene-Expression-19.jpg",
       "papers/biology/img/02C-Gene-Expression-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q10c(ii)",
@@ -17244,7 +18702,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-18.jpg",
       "papers/biology/img/02C-Gene-Expression-19.jpg",
       "papers/biology/img/02C-Gene-Expression-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q11a",
@@ -17271,7 +18730,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-21.jpg",
       "papers/biology/img/02C-Gene-Expression-22.jpg",
       "papers/biology/img/02C-Gene-Expression-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q11b(i)",
@@ -17299,7 +18759,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-21.jpg",
       "papers/biology/img/02C-Gene-Expression-22.jpg",
       "papers/biology/img/02C-Gene-Expression-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q11b(ii)",
@@ -17324,7 +18785,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-21.jpg",
       "papers/biology/img/02C-Gene-Expression-22.jpg",
       "papers/biology/img/02C-Gene-Expression-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q11b(iii)",
@@ -17349,7 +18811,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-21.jpg",
       "papers/biology/img/02C-Gene-Expression-22.jpg",
       "papers/biology/img/02C-Gene-Expression-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q11c",
@@ -17374,7 +18837,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-21.jpg",
       "papers/biology/img/02C-Gene-Expression-22.jpg",
       "papers/biology/img/02C-Gene-Expression-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q12a",
@@ -17400,7 +18864,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-23.jpg",
       "papers/biology/img/02C-Gene-Expression-24.jpg",
       "papers/biology/img/02C-Gene-Expression-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q12b",
@@ -17427,7 +18892,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-23.jpg",
       "papers/biology/img/02C-Gene-Expression-24.jpg",
       "papers/biology/img/02C-Gene-Expression-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q12c(i)",
@@ -17453,7 +18919,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-23.jpg",
       "papers/biology/img/02C-Gene-Expression-24.jpg",
       "papers/biology/img/02C-Gene-Expression-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q12c(ii)",
@@ -17482,7 +18949,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-23.jpg",
       "papers/biology/img/02C-Gene-Expression-24.jpg",
       "papers/biology/img/02C-Gene-Expression-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q13a",
@@ -17506,7 +18974,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-25.jpg",
       "papers/biology/img/02C-Gene-Expression-26.jpg",
       "papers/biology/img/02C-Gene-Expression-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q13b(i)",
@@ -17534,7 +19003,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-25.jpg",
       "papers/biology/img/02C-Gene-Expression-26.jpg",
       "papers/biology/img/02C-Gene-Expression-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q13b(ii)",
@@ -17561,7 +19031,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-25.jpg",
       "papers/biology/img/02C-Gene-Expression-26.jpg",
       "papers/biology/img/02C-Gene-Expression-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q13c",
@@ -17584,7 +19055,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-25.jpg",
       "papers/biology/img/02C-Gene-Expression-26.jpg",
       "papers/biology/img/02C-Gene-Expression-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q13d",
@@ -17608,7 +19080,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-25.jpg",
       "papers/biology/img/02C-Gene-Expression-26.jpg",
       "papers/biology/img/02C-Gene-Expression-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q14a(i)",
@@ -17636,7 +19109,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-27.jpg",
       "papers/biology/img/02C-Gene-Expression-28.jpg",
       "papers/biology/img/02C-Gene-Expression-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q14a(ii)",
@@ -17664,7 +19138,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-27.jpg",
       "papers/biology/img/02C-Gene-Expression-28.jpg",
       "papers/biology/img/02C-Gene-Expression-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q14b",
@@ -17693,7 +19168,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-27.jpg",
       "papers/biology/img/02C-Gene-Expression-28.jpg",
       "papers/biology/img/02C-Gene-Expression-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q14c(i)",
@@ -17719,7 +19195,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-27.jpg",
       "papers/biology/img/02C-Gene-Expression-28.jpg",
       "papers/biology/img/02C-Gene-Expression-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q14c(ii)",
@@ -17743,7 +19220,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-27.jpg",
       "papers/biology/img/02C-Gene-Expression-28.jpg",
       "papers/biology/img/02C-Gene-Expression-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q14c(iii)",
@@ -17766,7 +19244,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-27.jpg",
       "papers/biology/img/02C-Gene-Expression-28.jpg",
       "papers/biology/img/02C-Gene-Expression-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q14c(iv)",
@@ -17795,7 +19274,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-27.jpg",
       "papers/biology/img/02C-Gene-Expression-28.jpg",
       "papers/biology/img/02C-Gene-Expression-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q15a(i)",
@@ -17821,7 +19301,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02C-Gene-Expression-30.jpg",
       "papers/biology/img/02C-Gene-Expression-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q15a(ii)",
@@ -17845,7 +19326,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02C-Gene-Expression-30.jpg",
       "papers/biology/img/02C-Gene-Expression-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q15a(iii)",
@@ -17873,7 +19355,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02C-Gene-Expression-30.jpg",
       "papers/biology/img/02C-Gene-Expression-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q15b(i)",
@@ -17900,7 +19383,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02C-Gene-Expression-30.jpg",
       "papers/biology/img/02C-Gene-Expression-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q15b(ii)",
@@ -17927,7 +19411,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02C-Gene-Expression-30.jpg",
       "papers/biology/img/02C-Gene-Expression-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q16a(i)",
@@ -17956,7 +19441,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-33.jpg",
       "papers/biology/img/02C-Gene-Expression-34.jpg",
       "papers/biology/img/02C-Gene-Expression-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q16a(ii)",
@@ -17987,7 +19473,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-33.jpg",
       "papers/biology/img/02C-Gene-Expression-34.jpg",
       "papers/biology/img/02C-Gene-Expression-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q16b(i)",
@@ -18015,7 +19502,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-33.jpg",
       "papers/biology/img/02C-Gene-Expression-34.jpg",
       "papers/biology/img/02C-Gene-Expression-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q16b(ii)",
@@ -18041,7 +19529,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-33.jpg",
       "papers/biology/img/02C-Gene-Expression-34.jpg",
       "papers/biology/img/02C-Gene-Expression-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q16b(iii)",
@@ -18071,7 +19560,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-33.jpg",
       "papers/biology/img/02C-Gene-Expression-34.jpg",
       "papers/biology/img/02C-Gene-Expression-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q16c",
@@ -18100,7 +19590,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-33.jpg",
       "papers/biology/img/02C-Gene-Expression-34.jpg",
       "papers/biology/img/02C-Gene-Expression-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q17a",
@@ -18125,7 +19616,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02C-Gene-Expression-35.jpg",
       "papers/biology/img/02C-Gene-Expression-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q17b",
@@ -18150,7 +19642,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02C-Gene-Expression-35.jpg",
       "papers/biology/img/02C-Gene-Expression-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q17c",
@@ -18173,7 +19666,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02C-Gene-Expression-35.jpg",
       "papers/biology/img/02C-Gene-Expression-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q18a(i)",
@@ -18198,7 +19692,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-37.jpg",
       "papers/biology/img/02C-Gene-Expression-38.jpg",
       "papers/biology/img/02C-Gene-Expression-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q18a(ii)",
@@ -18225,7 +19720,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-37.jpg",
       "papers/biology/img/02C-Gene-Expression-38.jpg",
       "papers/biology/img/02C-Gene-Expression-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q18a(iii)",
@@ -18255,7 +19751,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-37.jpg",
       "papers/biology/img/02C-Gene-Expression-38.jpg",
       "papers/biology/img/02C-Gene-Expression-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q18b",
@@ -18283,7 +19780,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-37.jpg",
       "papers/biology/img/02C-Gene-Expression-38.jpg",
       "papers/biology/img/02C-Gene-Expression-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q18c(i)",
@@ -18308,7 +19806,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-37.jpg",
       "papers/biology/img/02C-Gene-Expression-38.jpg",
       "papers/biology/img/02C-Gene-Expression-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q18c(ii)",
@@ -18332,7 +19831,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-37.jpg",
       "papers/biology/img/02C-Gene-Expression-38.jpg",
       "papers/biology/img/02C-Gene-Expression-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q18c(iii)",
@@ -18360,7 +19860,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-37.jpg",
       "papers/biology/img/02C-Gene-Expression-38.jpg",
       "papers/biology/img/02C-Gene-Expression-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q18c(iv)",
@@ -18390,7 +19891,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-37.jpg",
       "papers/biology/img/02C-Gene-Expression-38.jpg",
       "papers/biology/img/02C-Gene-Expression-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q19a",
@@ -18418,7 +19920,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-41.jpg",
       "papers/biology/img/02C-Gene-Expression-42.jpg",
       "papers/biology/img/02C-Gene-Expression-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q19b(i)",
@@ -18443,7 +19946,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-41.jpg",
       "papers/biology/img/02C-Gene-Expression-42.jpg",
       "papers/biology/img/02C-Gene-Expression-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q19b(ii)",
@@ -18466,7 +19970,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-41.jpg",
       "papers/biology/img/02C-Gene-Expression-42.jpg",
       "papers/biology/img/02C-Gene-Expression-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q19b(iii)",
@@ -18496,7 +20001,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-41.jpg",
       "papers/biology/img/02C-Gene-Expression-42.jpg",
       "papers/biology/img/02C-Gene-Expression-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q19c(i)",
@@ -18521,7 +20027,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-41.jpg",
       "papers/biology/img/02C-Gene-Expression-42.jpg",
       "papers/biology/img/02C-Gene-Expression-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q19c(ii)",
@@ -18546,7 +20053,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-41.jpg",
       "papers/biology/img/02C-Gene-Expression-42.jpg",
       "papers/biology/img/02C-Gene-Expression-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q20a",
@@ -18569,7 +20077,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02C-Gene-Expression-43.jpg",
       "papers/biology/img/02C-Gene-Expression-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q20b(i)",
@@ -18595,7 +20104,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02C-Gene-Expression-43.jpg",
       "papers/biology/img/02C-Gene-Expression-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q20b(ii)",
@@ -18624,7 +20134,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/02C-Gene-Expression-43.jpg",
       "papers/biology/img/02C-Gene-Expression-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q21a",
@@ -18652,7 +20163,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-45.jpg",
       "papers/biology/img/02C-Gene-Expression-46.jpg",
       "papers/biology/img/02C-Gene-Expression-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q21b",
@@ -18676,7 +20188,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-45.jpg",
       "papers/biology/img/02C-Gene-Expression-46.jpg",
       "papers/biology/img/02C-Gene-Expression-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q21c(i)",
@@ -18701,7 +20214,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-45.jpg",
       "papers/biology/img/02C-Gene-Expression-46.jpg",
       "papers/biology/img/02C-Gene-Expression-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q21c(ii)",
@@ -18731,7 +20245,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-45.jpg",
       "papers/biology/img/02C-Gene-Expression-46.jpg",
       "papers/biology/img/02C-Gene-Expression-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q22a",
@@ -18759,7 +20274,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-47.jpg",
       "papers/biology/img/02C-Gene-Expression-48.jpg",
       "papers/biology/img/02C-Gene-Expression-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q22b",
@@ -18785,7 +20301,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-47.jpg",
       "papers/biology/img/02C-Gene-Expression-48.jpg",
       "papers/biology/img/02C-Gene-Expression-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q22c",
@@ -18812,7 +20329,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-47.jpg",
       "papers/biology/img/02C-Gene-Expression-48.jpg",
       "papers/biology/img/02C-Gene-Expression-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q23a",
@@ -18841,7 +20359,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-49.jpg",
       "papers/biology/img/02C-Gene-Expression-50.jpg",
       "papers/biology/img/02C-Gene-Expression-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q23b",
@@ -18865,7 +20384,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-49.jpg",
       "papers/biology/img/02C-Gene-Expression-50.jpg",
       "papers/biology/img/02C-Gene-Expression-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q24a",
@@ -18894,7 +20414,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-51.jpg",
       "papers/biology/img/02C-Gene-Expression-52.jpg",
       "papers/biology/img/02C-Gene-Expression-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q24b(i)",
@@ -18920,7 +20441,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-51.jpg",
       "papers/biology/img/02C-Gene-Expression-52.jpg",
       "papers/biology/img/02C-Gene-Expression-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q24b(ii)",
@@ -18949,7 +20471,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-51.jpg",
       "papers/biology/img/02C-Gene-Expression-52.jpg",
       "papers/biology/img/02C-Gene-Expression-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q24b(iii)",
@@ -18978,7 +20501,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-51.jpg",
       "papers/biology/img/02C-Gene-Expression-52.jpg",
       "papers/biology/img/02C-Gene-Expression-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q25a(i)",
@@ -19002,7 +20526,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-53.jpg",
       "papers/biology/img/02C-Gene-Expression-54.jpg",
       "papers/biology/img/02C-Gene-Expression-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q25a(ii)",
@@ -19026,7 +20551,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-53.jpg",
       "papers/biology/img/02C-Gene-Expression-54.jpg",
       "papers/biology/img/02C-Gene-Expression-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q25a(iii)",
@@ -19050,7 +20576,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-53.jpg",
       "papers/biology/img/02C-Gene-Expression-54.jpg",
       "papers/biology/img/02C-Gene-Expression-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q25b(i)",
@@ -19076,7 +20603,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-53.jpg",
       "papers/biology/img/02C-Gene-Expression-54.jpg",
       "papers/biology/img/02C-Gene-Expression-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q25b(ii)",
@@ -19105,7 +20633,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-53.jpg",
       "papers/biology/img/02C-Gene-Expression-54.jpg",
       "papers/biology/img/02C-Gene-Expression-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q25c",
@@ -19133,7 +20662,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-53.jpg",
       "papers/biology/img/02C-Gene-Expression-54.jpg",
       "papers/biology/img/02C-Gene-Expression-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q26a",
@@ -19162,7 +20692,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-55.jpg",
       "papers/biology/img/02C-Gene-Expression-56.jpg",
       "papers/biology/img/02C-Gene-Expression-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q26b(i)",
@@ -19188,7 +20719,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-55.jpg",
       "papers/biology/img/02C-Gene-Expression-56.jpg",
       "papers/biology/img/02C-Gene-Expression-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q26b(ii)",
@@ -19217,7 +20749,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-55.jpg",
       "papers/biology/img/02C-Gene-Expression-56.jpg",
       "papers/biology/img/02C-Gene-Expression-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q26c",
@@ -19247,7 +20780,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-55.jpg",
       "papers/biology/img/02C-Gene-Expression-56.jpg",
       "papers/biology/img/02C-Gene-Expression-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q27a(i)",
@@ -19270,7 +20804,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-57.jpg",
       "papers/biology/img/02C-Gene-Expression-58.jpg",
       "papers/biology/img/02C-Gene-Expression-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q27a(ii)",
@@ -19293,7 +20828,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-57.jpg",
       "papers/biology/img/02C-Gene-Expression-58.jpg",
       "papers/biology/img/02C-Gene-Expression-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q27b",
@@ -19318,7 +20854,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-57.jpg",
       "papers/biology/img/02C-Gene-Expression-58.jpg",
       "papers/biology/img/02C-Gene-Expression-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q27c",
@@ -19340,7 +20877,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-57.jpg",
       "papers/biology/img/02C-Gene-Expression-58.jpg",
       "papers/biology/img/02C-Gene-Expression-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q28a",
@@ -19369,7 +20907,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-59.jpg",
       "papers/biology/img/02C-Gene-Expression-60.jpg",
       "papers/biology/img/02C-Gene-Expression-61.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q28b(i)",
@@ -19396,7 +20935,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-59.jpg",
       "papers/biology/img/02C-Gene-Expression-60.jpg",
       "papers/biology/img/02C-Gene-Expression-61.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q28b(ii)",
@@ -19422,7 +20962,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-59.jpg",
       "papers/biology/img/02C-Gene-Expression-60.jpg",
       "papers/biology/img/02C-Gene-Expression-61.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q28b(iii)",
@@ -19448,7 +20989,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-59.jpg",
       "papers/biology/img/02C-Gene-Expression-60.jpg",
       "papers/biology/img/02C-Gene-Expression-61.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q28c",
@@ -19477,7 +21019,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-59.jpg",
       "papers/biology/img/02C-Gene-Expression-60.jpg",
       "papers/biology/img/02C-Gene-Expression-61.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q29a",
@@ -19503,7 +21046,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-64.jpg",
       "papers/biology/img/02C-Gene-Expression-65.jpg",
       "papers/biology/img/02C-Gene-Expression-66.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q29b(i)",
@@ -19529,7 +21073,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-64.jpg",
       "papers/biology/img/02C-Gene-Expression-65.jpg",
       "papers/biology/img/02C-Gene-Expression-66.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q29b(ii)",
@@ -19555,7 +21100,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-64.jpg",
       "papers/biology/img/02C-Gene-Expression-65.jpg",
       "papers/biology/img/02C-Gene-Expression-66.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q29b(iii)",
@@ -19582,7 +21128,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-64.jpg",
       "papers/biology/img/02C-Gene-Expression-65.jpg",
       "papers/biology/img/02C-Gene-Expression-66.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q29b(iv)",
@@ -19609,7 +21156,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-64.jpg",
       "papers/biology/img/02C-Gene-Expression-65.jpg",
       "papers/biology/img/02C-Gene-Expression-66.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q29b(v)",
@@ -19641,7 +21189,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-64.jpg",
       "papers/biology/img/02C-Gene-Expression-65.jpg",
       "papers/biology/img/02C-Gene-Expression-66.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q30a(i)",
@@ -19669,7 +21218,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-67.jpg",
       "papers/biology/img/02C-Gene-Expression-68.jpg",
       "papers/biology/img/02C-Gene-Expression-69.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q30a(ii)",
@@ -19699,7 +21249,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-67.jpg",
       "papers/biology/img/02C-Gene-Expression-68.jpg",
       "papers/biology/img/02C-Gene-Expression-69.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q30a(iii)",
@@ -19723,7 +21274,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-67.jpg",
       "papers/biology/img/02C-Gene-Expression-68.jpg",
       "papers/biology/img/02C-Gene-Expression-69.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q30b(i)",
@@ -19747,7 +21299,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-67.jpg",
       "papers/biology/img/02C-Gene-Expression-68.jpg",
       "papers/biology/img/02C-Gene-Expression-69.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q30b(ii)",
@@ -19771,7 +21324,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-67.jpg",
       "papers/biology/img/02C-Gene-Expression-68.jpg",
       "papers/biology/img/02C-Gene-Expression-69.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q30b(iii)",
@@ -19800,7 +21354,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-67.jpg",
       "papers/biology/img/02C-Gene-Expression-68.jpg",
       "papers/biology/img/02C-Gene-Expression-69.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q31a",
@@ -19828,7 +21383,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-69.jpg",
       "papers/biology/img/02C-Gene-Expression-70.jpg",
       "papers/biology/img/02C-Gene-Expression-71.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q31b(i)",
@@ -19856,7 +21412,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-69.jpg",
       "papers/biology/img/02C-Gene-Expression-70.jpg",
       "papers/biology/img/02C-Gene-Expression-71.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q31b(ii)",
@@ -19885,7 +21442,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-69.jpg",
       "papers/biology/img/02C-Gene-Expression-70.jpg",
       "papers/biology/img/02C-Gene-Expression-71.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q32a",
@@ -19912,7 +21470,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-71.jpg",
       "papers/biology/img/02C-Gene-Expression-72.jpg",
       "papers/biology/img/02C-Gene-Expression-73.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q32b(i)",
@@ -19935,7 +21494,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-71.jpg",
       "papers/biology/img/02C-Gene-Expression-72.jpg",
       "papers/biology/img/02C-Gene-Expression-73.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q32b(ii)",
@@ -19958,7 +21518,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-71.jpg",
       "papers/biology/img/02C-Gene-Expression-72.jpg",
       "papers/biology/img/02C-Gene-Expression-73.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q32b(iii)",
@@ -19981,7 +21542,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-71.jpg",
       "papers/biology/img/02C-Gene-Expression-72.jpg",
       "papers/biology/img/02C-Gene-Expression-73.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q32b(iv)",
@@ -20009,7 +21571,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-71.jpg",
       "papers/biology/img/02C-Gene-Expression-72.jpg",
       "papers/biology/img/02C-Gene-Expression-73.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q33a",
@@ -20038,7 +21601,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-74.jpg",
       "papers/biology/img/02C-Gene-Expression-75.jpg",
       "papers/biology/img/02C-Gene-Expression-76.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q33b",
@@ -20067,7 +21631,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-74.jpg",
       "papers/biology/img/02C-Gene-Expression-75.jpg",
       "papers/biology/img/02C-Gene-Expression-76.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q33c",
@@ -20091,7 +21656,8 @@ window.BANK.biology = {
       "papers/biology/img/02C-Gene-Expression-74.jpg",
       "papers/biology/img/02C-Gene-Expression-75.jpg",
       "papers/biology/img/02C-Gene-Expression-76.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -20123,7 +21689,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-01.jpg",
       "papers/biology/img/03A-Cell-Structure-02.jpg",
       "papers/biology/img/03A-Cell-Structure-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q1a(ii)",
@@ -20152,7 +21719,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-01.jpg",
       "papers/biology/img/03A-Cell-Structure-02.jpg",
       "papers/biology/img/03A-Cell-Structure-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q1a(iii)",
@@ -20180,7 +21748,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-01.jpg",
       "papers/biology/img/03A-Cell-Structure-02.jpg",
       "papers/biology/img/03A-Cell-Structure-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q1b",
@@ -20209,7 +21778,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-01.jpg",
       "papers/biology/img/03A-Cell-Structure-02.jpg",
       "papers/biology/img/03A-Cell-Structure-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q1c",
@@ -20233,7 +21803,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-01.jpg",
       "papers/biology/img/03A-Cell-Structure-02.jpg",
       "papers/biology/img/03A-Cell-Structure-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q2a(i)",
@@ -20255,7 +21826,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/03A-Cell-Structure-03.jpg",
       "papers/biology/img/03A-Cell-Structure-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q2a(ii)",
@@ -20278,7 +21850,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/03A-Cell-Structure-03.jpg",
       "papers/biology/img/03A-Cell-Structure-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q2a(iii)",
@@ -20306,7 +21879,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/03A-Cell-Structure-03.jpg",
       "papers/biology/img/03A-Cell-Structure-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q2b",
@@ -20334,7 +21908,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/03A-Cell-Structure-03.jpg",
       "papers/biology/img/03A-Cell-Structure-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q3a(i)",
@@ -20358,7 +21933,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-05.jpg",
       "papers/biology/img/03A-Cell-Structure-06.jpg",
       "papers/biology/img/03A-Cell-Structure-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q3a(ii)",
@@ -20383,7 +21959,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-05.jpg",
       "papers/biology/img/03A-Cell-Structure-06.jpg",
       "papers/biology/img/03A-Cell-Structure-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q3a(iii)",
@@ -20413,7 +21990,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-05.jpg",
       "papers/biology/img/03A-Cell-Structure-06.jpg",
       "papers/biology/img/03A-Cell-Structure-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q3b",
@@ -20446,7 +22024,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-05.jpg",
       "papers/biology/img/03A-Cell-Structure-06.jpg",
       "papers/biology/img/03A-Cell-Structure-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q3c",
@@ -20477,7 +22056,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-05.jpg",
       "papers/biology/img/03A-Cell-Structure-06.jpg",
       "papers/biology/img/03A-Cell-Structure-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q4a(i)",
@@ -20506,7 +22086,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-07.jpg",
       "papers/biology/img/03A-Cell-Structure-08.jpg",
       "papers/biology/img/03A-Cell-Structure-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q4a(ii)",
@@ -20535,7 +22116,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-07.jpg",
       "papers/biology/img/03A-Cell-Structure-08.jpg",
       "papers/biology/img/03A-Cell-Structure-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q4a(iii)",
@@ -20564,7 +22146,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-07.jpg",
       "papers/biology/img/03A-Cell-Structure-08.jpg",
       "papers/biology/img/03A-Cell-Structure-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q4b(i)",
@@ -20592,7 +22175,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-07.jpg",
       "papers/biology/img/03A-Cell-Structure-08.jpg",
       "papers/biology/img/03A-Cell-Structure-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q4b(ii)",
@@ -20621,7 +22205,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-07.jpg",
       "papers/biology/img/03A-Cell-Structure-08.jpg",
       "papers/biology/img/03A-Cell-Structure-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q4b(iii)",
@@ -20650,7 +22235,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-07.jpg",
       "papers/biology/img/03A-Cell-Structure-08.jpg",
       "papers/biology/img/03A-Cell-Structure-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q5a",
@@ -20681,7 +22267,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-09.jpg",
       "papers/biology/img/03A-Cell-Structure-10.jpg",
       "papers/biology/img/03A-Cell-Structure-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q5b",
@@ -20711,7 +22298,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-09.jpg",
       "papers/biology/img/03A-Cell-Structure-10.jpg",
       "papers/biology/img/03A-Cell-Structure-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q6a",
@@ -20740,7 +22328,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-11.jpg",
       "papers/biology/img/03A-Cell-Structure-12.jpg",
       "papers/biology/img/03A-Cell-Structure-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q6b",
@@ -20769,7 +22358,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-11.jpg",
       "papers/biology/img/03A-Cell-Structure-12.jpg",
       "papers/biology/img/03A-Cell-Structure-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q6c(i)",
@@ -20794,7 +22384,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-11.jpg",
       "papers/biology/img/03A-Cell-Structure-12.jpg",
       "papers/biology/img/03A-Cell-Structure-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q6c(ii)",
@@ -20825,7 +22416,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-11.jpg",
       "papers/biology/img/03A-Cell-Structure-12.jpg",
       "papers/biology/img/03A-Cell-Structure-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q7a",
@@ -20853,7 +22445,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-13.jpg",
       "papers/biology/img/03A-Cell-Structure-14.jpg",
       "papers/biology/img/03A-Cell-Structure-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q7b(i)",
@@ -20876,7 +22469,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-13.jpg",
       "papers/biology/img/03A-Cell-Structure-14.jpg",
       "papers/biology/img/03A-Cell-Structure-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q7b(ii)",
@@ -20900,7 +22494,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-13.jpg",
       "papers/biology/img/03A-Cell-Structure-14.jpg",
       "papers/biology/img/03A-Cell-Structure-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3A-Q7b(iii)",
@@ -20929,7 +22524,8 @@ window.BANK.biology = {
       "papers/biology/img/03A-Cell-Structure-13.jpg",
       "papers/biology/img/03A-Cell-Structure-14.jpg",
       "papers/biology/img/03A-Cell-Structure-15.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -20960,7 +22556,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-01.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-02.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q1b",
@@ -20988,7 +22585,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-01.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-02.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q1c(i)",
@@ -21017,7 +22615,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-01.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-02.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q1c(ii)",
@@ -21046,7 +22645,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-01.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-02.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q1d",
@@ -21071,7 +22671,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-01.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-02.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q2a(i)",
@@ -21094,7 +22695,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-03.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-04.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q2a(ii)",
@@ -21117,7 +22719,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-03.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-04.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q2b",
@@ -21147,7 +22750,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-03.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-04.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q3a",
@@ -21175,7 +22779,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-05.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-06.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q3b(i)",
@@ -21198,7 +22803,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-05.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-06.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q3b(ii)",
@@ -21227,7 +22833,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-05.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-06.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q4a",
@@ -21252,7 +22859,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-07.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-08.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q4b(i)",
@@ -21276,7 +22884,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-07.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-08.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q4b(ii)",
@@ -21299,7 +22908,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-07.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-08.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q5a",
@@ -21328,7 +22938,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-09.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-10.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q5b(i)",
@@ -21356,7 +22967,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-09.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-10.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q5b(ii)",
@@ -21380,7 +22992,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-09.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-10.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q5b(iii)",
@@ -21409,7 +23022,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-09.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-10.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q5c",
@@ -21439,7 +23053,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-09.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-10.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q6a",
@@ -21470,7 +23085,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-12.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q6b",
@@ -21499,7 +23115,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-12.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q7a(i)",
@@ -21527,7 +23144,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-14.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q7a(ii)",
@@ -21549,7 +23167,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-14.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q7a(iii)",
@@ -21577,7 +23196,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-14.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q7b",
@@ -21605,7 +23225,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-14.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q8a",
@@ -21635,7 +23256,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-16.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-17.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q8b",
@@ -21660,7 +23282,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-16.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-17.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q8c(i)",
@@ -21685,7 +23308,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-16.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-17.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q8c(ii)",
@@ -21710,7 +23334,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-16.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-17.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q9a",
@@ -21735,7 +23360,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-20.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-21.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q9b(i)",
@@ -21765,7 +23391,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-20.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-21.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q9b(ii)",
@@ -21789,7 +23416,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-20.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-21.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q9b(iii)",
@@ -21819,7 +23447,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-20.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-21.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q9c(i)",
@@ -21848,7 +23477,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-20.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-21.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q9c(ii)",
@@ -21878,7 +23508,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-20.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-21.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q10a",
@@ -21905,7 +23536,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-22.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q10b(i)",
@@ -21932,7 +23564,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-22.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q10b(ii)",
@@ -21956,7 +23589,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/03B-Mitosis-Meiosis-22.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q11a(i)",
@@ -21979,7 +23613,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-23.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-24.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q11a(ii)",
@@ -22002,7 +23637,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-23.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-24.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q11b(i)",
@@ -22030,7 +23666,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-23.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-24.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q11b(ii)",
@@ -22059,7 +23696,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-23.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-24.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q11b(iii)",
@@ -22088,7 +23726,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-23.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-24.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q11c",
@@ -22117,7 +23756,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-23.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-24.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q12a(i)",
@@ -22146,7 +23786,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-26.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q12a(ii)",
@@ -22170,7 +23811,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-26.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q12b(i)",
@@ -22193,7 +23835,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-26.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q12b(ii)",
@@ -22216,7 +23859,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-26.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q12b(iii)",
@@ -22238,7 +23882,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-26.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q12b(iv)",
@@ -22260,7 +23905,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-26.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q12b(v)",
@@ -22288,7 +23934,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-26.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-27.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q13a",
@@ -22312,7 +23959,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-28.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-29.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q13b",
@@ -22341,7 +23989,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-28.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-29.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q13c",
@@ -22364,7 +24013,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-28.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-29.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q14a(i)",
@@ -22394,7 +24044,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-31.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-32.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q14a(ii)",
@@ -22425,7 +24076,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-31.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-32.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q14b",
@@ -22456,7 +24108,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-31.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-32.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q14c",
@@ -22491,7 +24144,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-31.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-32.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q15a",
@@ -22516,7 +24170,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-35.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-36.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q15b(i)",
@@ -22543,7 +24198,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-35.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-36.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q15b(ii)",
@@ -22569,7 +24225,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-35.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-36.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q15b(iii)",
@@ -22599,7 +24256,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-35.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-36.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q15c(i)",
@@ -22630,7 +24288,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-35.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-36.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q15c(ii)",
@@ -22656,7 +24315,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-35.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-36.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q16a",
@@ -22679,7 +24339,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-37.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-38.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q16b",
@@ -22707,7 +24368,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-37.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-38.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q16c",
@@ -22736,7 +24398,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-37.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-38.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q16d(i)",
@@ -22765,7 +24428,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-37.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-38.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q16d(ii)",
@@ -22795,7 +24459,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-37.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-38.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q17a(i)",
@@ -22820,7 +24485,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-40.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-41.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q17a(ii)",
@@ -22845,7 +24511,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-40.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-41.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q17b(i)",
@@ -22875,7 +24542,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-40.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-41.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q17b(ii)",
@@ -22904,7 +24572,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-40.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-41.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q17c(i)",
@@ -22934,7 +24603,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-40.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-41.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q17c(ii)",
@@ -22959,7 +24629,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-40.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-41.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q18a(i)",
@@ -22988,7 +24659,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-43.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-44.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q18a(ii)",
@@ -23013,7 +24685,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-43.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-44.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q18a(iii)",
@@ -23037,7 +24710,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-43.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-44.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q18b",
@@ -23067,7 +24741,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-43.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-44.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q18c",
@@ -23097,7 +24772,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-43.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-44.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q18d(i)",
@@ -23127,7 +24803,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-43.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-44.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q18d(ii)",
@@ -23156,7 +24833,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-43.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-44.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q19a",
@@ -23185,7 +24863,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-45.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-46.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q19b",
@@ -23214,7 +24893,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-45.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-46.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q19c(i)",
@@ -23243,7 +24923,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-45.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-46.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q19c(ii)",
@@ -23272,7 +24953,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-45.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-46.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q20a(i)",
@@ -23296,7 +24978,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-47.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-48.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q20a(ii)",
@@ -23319,7 +25002,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-47.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-48.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q20b(i)",
@@ -23343,7 +25027,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-47.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-48.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q20b(ii)",
@@ -23372,7 +25057,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-47.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-48.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q20c",
@@ -23396,7 +25082,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-47.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-48.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q20d",
@@ -23424,7 +25111,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-47.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-48.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q21a(i)",
@@ -23448,7 +25136,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-50.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-51.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q21a(ii)",
@@ -23478,7 +25167,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-50.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-51.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q21b(i)",
@@ -23503,7 +25193,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-50.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-51.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q21b(ii)",
@@ -23533,7 +25224,8 @@ window.BANK.biology = {
       "papers/biology/img/03B-Mitosis-Meiosis-50.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-51.jpg",
       "papers/biology/img/03B-Mitosis-Meiosis-52.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -23567,7 +25259,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-01.jpg",
       "papers/biology/img/03C-Development-Organisms-02.jpg",
       "papers/biology/img/03C-Development-Organisms-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q1a(ii)",
@@ -23600,7 +25293,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-01.jpg",
       "papers/biology/img/03C-Development-Organisms-02.jpg",
       "papers/biology/img/03C-Development-Organisms-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q1a(iii)",
@@ -23630,7 +25324,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-01.jpg",
       "papers/biology/img/03C-Development-Organisms-02.jpg",
       "papers/biology/img/03C-Development-Organisms-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q1b",
@@ -23662,7 +25357,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-01.jpg",
       "papers/biology/img/03C-Development-Organisms-02.jpg",
       "papers/biology/img/03C-Development-Organisms-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q1c",
@@ -23689,7 +25385,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-01.jpg",
       "papers/biology/img/03C-Development-Organisms-02.jpg",
       "papers/biology/img/03C-Development-Organisms-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q2a(i)",
@@ -23721,7 +25418,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-04.jpg",
       "papers/biology/img/03C-Development-Organisms-05.jpg",
       "papers/biology/img/03C-Development-Organisms-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q2a(ii)",
@@ -23753,7 +25451,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-04.jpg",
       "papers/biology/img/03C-Development-Organisms-05.jpg",
       "papers/biology/img/03C-Development-Organisms-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q2b",
@@ -23785,7 +25484,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-04.jpg",
       "papers/biology/img/03C-Development-Organisms-05.jpg",
       "papers/biology/img/03C-Development-Organisms-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q2c",
@@ -23820,7 +25520,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-04.jpg",
       "papers/biology/img/03C-Development-Organisms-05.jpg",
       "papers/biology/img/03C-Development-Organisms-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q2d",
@@ -23847,7 +25548,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-04.jpg",
       "papers/biology/img/03C-Development-Organisms-05.jpg",
       "papers/biology/img/03C-Development-Organisms-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q3a(i)",
@@ -23879,7 +25581,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-07.jpg",
       "papers/biology/img/03C-Development-Organisms-08.jpg",
       "papers/biology/img/03C-Development-Organisms-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q3a(ii)",
@@ -23907,7 +25610,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-07.jpg",
       "papers/biology/img/03C-Development-Organisms-08.jpg",
       "papers/biology/img/03C-Development-Organisms-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q3b(i)",
@@ -23939,7 +25643,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-07.jpg",
       "papers/biology/img/03C-Development-Organisms-08.jpg",
       "papers/biology/img/03C-Development-Organisms-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q3b(ii)",
@@ -23973,7 +25678,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-07.jpg",
       "papers/biology/img/03C-Development-Organisms-08.jpg",
       "papers/biology/img/03C-Development-Organisms-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q4a(i)",
@@ -24000,7 +25706,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-10.jpg",
       "papers/biology/img/03C-Development-Organisms-11.jpg",
       "papers/biology/img/03C-Development-Organisms-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q4a(ii)",
@@ -24027,7 +25734,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-10.jpg",
       "papers/biology/img/03C-Development-Organisms-11.jpg",
       "papers/biology/img/03C-Development-Organisms-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q4a(iii)",
@@ -24052,7 +25760,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-10.jpg",
       "papers/biology/img/03C-Development-Organisms-11.jpg",
       "papers/biology/img/03C-Development-Organisms-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q4b",
@@ -24084,7 +25793,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-10.jpg",
       "papers/biology/img/03C-Development-Organisms-11.jpg",
       "papers/biology/img/03C-Development-Organisms-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q4c",
@@ -24119,7 +25829,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-10.jpg",
       "papers/biology/img/03C-Development-Organisms-11.jpg",
       "papers/biology/img/03C-Development-Organisms-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q5a(i)",
@@ -24150,7 +25861,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-12.jpg",
       "papers/biology/img/03C-Development-Organisms-13.jpg",
       "papers/biology/img/03C-Development-Organisms-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q5a(ii)",
@@ -24178,7 +25890,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-12.jpg",
       "papers/biology/img/03C-Development-Organisms-13.jpg",
       "papers/biology/img/03C-Development-Organisms-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q5b(i)",
@@ -24208,7 +25921,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-12.jpg",
       "papers/biology/img/03C-Development-Organisms-13.jpg",
       "papers/biology/img/03C-Development-Organisms-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q5b(ii)",
@@ -24233,7 +25947,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-12.jpg",
       "papers/biology/img/03C-Development-Organisms-13.jpg",
       "papers/biology/img/03C-Development-Organisms-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q5b(iii)",
@@ -24264,7 +25979,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-12.jpg",
       "papers/biology/img/03C-Development-Organisms-13.jpg",
       "papers/biology/img/03C-Development-Organisms-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q6a",
@@ -24298,7 +26014,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-16.jpg",
       "papers/biology/img/03C-Development-Organisms-17.jpg",
       "papers/biology/img/03C-Development-Organisms-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q6b(i)",
@@ -24330,7 +26047,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-16.jpg",
       "papers/biology/img/03C-Development-Organisms-17.jpg",
       "papers/biology/img/03C-Development-Organisms-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q6b(ii)",
@@ -24362,7 +26080,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-16.jpg",
       "papers/biology/img/03C-Development-Organisms-17.jpg",
       "papers/biology/img/03C-Development-Organisms-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q6c(i)",
@@ -24391,7 +26110,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-16.jpg",
       "papers/biology/img/03C-Development-Organisms-17.jpg",
       "papers/biology/img/03C-Development-Organisms-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q6c(ii)",
@@ -24419,7 +26139,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-16.jpg",
       "papers/biology/img/03C-Development-Organisms-17.jpg",
       "papers/biology/img/03C-Development-Organisms-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q6c(iii)",
@@ -24448,7 +26169,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-16.jpg",
       "papers/biology/img/03C-Development-Organisms-17.jpg",
       "papers/biology/img/03C-Development-Organisms-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q7a",
@@ -24483,7 +26205,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-19.jpg",
       "papers/biology/img/03C-Development-Organisms-20.jpg",
       "papers/biology/img/03C-Development-Organisms-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q7b",
@@ -24511,7 +26234,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-19.jpg",
       "papers/biology/img/03C-Development-Organisms-20.jpg",
       "papers/biology/img/03C-Development-Organisms-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q8a",
@@ -24540,7 +26264,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-21.jpg",
       "papers/biology/img/03C-Development-Organisms-22.jpg",
       "papers/biology/img/03C-Development-Organisms-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q8b",
@@ -24572,7 +26297,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-21.jpg",
       "papers/biology/img/03C-Development-Organisms-22.jpg",
       "papers/biology/img/03C-Development-Organisms-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q9a(i)",
@@ -24605,7 +26331,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-24.jpg",
       "papers/biology/img/03C-Development-Organisms-25.jpg",
       "papers/biology/img/03C-Development-Organisms-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q9a(ii)",
@@ -24629,7 +26356,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-24.jpg",
       "papers/biology/img/03C-Development-Organisms-25.jpg",
       "papers/biology/img/03C-Development-Organisms-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q9b",
@@ -24662,7 +26390,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-24.jpg",
       "papers/biology/img/03C-Development-Organisms-25.jpg",
       "papers/biology/img/03C-Development-Organisms-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q9c(i)",
@@ -24694,7 +26423,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-24.jpg",
       "papers/biology/img/03C-Development-Organisms-25.jpg",
       "papers/biology/img/03C-Development-Organisms-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q9c(ii)",
@@ -24726,7 +26456,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-24.jpg",
       "papers/biology/img/03C-Development-Organisms-25.jpg",
       "papers/biology/img/03C-Development-Organisms-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q9d",
@@ -24760,7 +26491,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-24.jpg",
       "papers/biology/img/03C-Development-Organisms-25.jpg",
       "papers/biology/img/03C-Development-Organisms-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q10a",
@@ -24795,7 +26527,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-28.jpg",
       "papers/biology/img/03C-Development-Organisms-29.jpg",
       "papers/biology/img/03C-Development-Organisms-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q10b",
@@ -24827,7 +26560,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-28.jpg",
       "papers/biology/img/03C-Development-Organisms-29.jpg",
       "papers/biology/img/03C-Development-Organisms-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q10c",
@@ -24861,7 +26595,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-28.jpg",
       "papers/biology/img/03C-Development-Organisms-29.jpg",
       "papers/biology/img/03C-Development-Organisms-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q10d",
@@ -24888,7 +26623,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-28.jpg",
       "papers/biology/img/03C-Development-Organisms-29.jpg",
       "papers/biology/img/03C-Development-Organisms-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q11a",
@@ -24916,7 +26652,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-30.jpg",
       "papers/biology/img/03C-Development-Organisms-31.jpg",
       "papers/biology/img/03C-Development-Organisms-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q11b(i)",
@@ -24942,7 +26679,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-30.jpg",
       "papers/biology/img/03C-Development-Organisms-31.jpg",
       "papers/biology/img/03C-Development-Organisms-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q11b(ii)",
@@ -24966,7 +26704,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-30.jpg",
       "papers/biology/img/03C-Development-Organisms-31.jpg",
       "papers/biology/img/03C-Development-Organisms-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q11c(i)",
@@ -24993,7 +26732,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-30.jpg",
       "papers/biology/img/03C-Development-Organisms-31.jpg",
       "papers/biology/img/03C-Development-Organisms-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q11c(ii)",
@@ -25025,7 +26765,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-30.jpg",
       "papers/biology/img/03C-Development-Organisms-31.jpg",
       "papers/biology/img/03C-Development-Organisms-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q12a(i)",
@@ -25055,7 +26796,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-33.jpg",
       "papers/biology/img/03C-Development-Organisms-34.jpg",
       "papers/biology/img/03C-Development-Organisms-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q12a(ii)",
@@ -25084,7 +26826,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-33.jpg",
       "papers/biology/img/03C-Development-Organisms-34.jpg",
       "papers/biology/img/03C-Development-Organisms-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q12a(iii)",
@@ -25118,7 +26861,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-33.jpg",
       "papers/biology/img/03C-Development-Organisms-34.jpg",
       "papers/biology/img/03C-Development-Organisms-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q12b",
@@ -25150,7 +26894,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-33.jpg",
       "papers/biology/img/03C-Development-Organisms-34.jpg",
       "papers/biology/img/03C-Development-Organisms-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q13a",
@@ -25186,7 +26931,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-36.jpg",
       "papers/biology/img/03C-Development-Organisms-37.jpg",
       "papers/biology/img/03C-Development-Organisms-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q13b",
@@ -25213,7 +26959,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-36.jpg",
       "papers/biology/img/03C-Development-Organisms-37.jpg",
       "papers/biology/img/03C-Development-Organisms-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q14a(i)",
@@ -25243,7 +26990,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-39.jpg",
       "papers/biology/img/03C-Development-Organisms-40.jpg",
       "papers/biology/img/03C-Development-Organisms-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q14a(ii)",
@@ -25273,7 +27021,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-39.jpg",
       "papers/biology/img/03C-Development-Organisms-40.jpg",
       "papers/biology/img/03C-Development-Organisms-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q14b",
@@ -25308,7 +27057,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-39.jpg",
       "papers/biology/img/03C-Development-Organisms-40.jpg",
       "papers/biology/img/03C-Development-Organisms-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q14c(i)",
@@ -25333,7 +27083,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-39.jpg",
       "papers/biology/img/03C-Development-Organisms-40.jpg",
       "papers/biology/img/03C-Development-Organisms-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q14c(ii)",
@@ -25361,7 +27112,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-39.jpg",
       "papers/biology/img/03C-Development-Organisms-40.jpg",
       "papers/biology/img/03C-Development-Organisms-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q14c(iii)",
@@ -25393,7 +27145,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-39.jpg",
       "papers/biology/img/03C-Development-Organisms-40.jpg",
       "papers/biology/img/03C-Development-Organisms-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q15a",
@@ -25418,7 +27171,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-41.jpg",
       "papers/biology/img/03C-Development-Organisms-42.jpg",
       "papers/biology/img/03C-Development-Organisms-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q15b",
@@ -25450,7 +27204,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-41.jpg",
       "papers/biology/img/03C-Development-Organisms-42.jpg",
       "papers/biology/img/03C-Development-Organisms-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q15c(i)",
@@ -25479,7 +27234,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-41.jpg",
       "papers/biology/img/03C-Development-Organisms-42.jpg",
       "papers/biology/img/03C-Development-Organisms-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q15c(ii)",
@@ -25511,7 +27267,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-41.jpg",
       "papers/biology/img/03C-Development-Organisms-42.jpg",
       "papers/biology/img/03C-Development-Organisms-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q16a",
@@ -25541,7 +27298,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/03C-Development-Organisms-43.jpg",
       "papers/biology/img/03C-Development-Organisms-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q16b",
@@ -25571,7 +27329,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/03C-Development-Organisms-43.jpg",
       "papers/biology/img/03C-Development-Organisms-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q16c",
@@ -25603,7 +27362,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/03C-Development-Organisms-43.jpg",
       "papers/biology/img/03C-Development-Organisms-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q17a(i)",
@@ -25636,7 +27396,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-45.jpg",
       "papers/biology/img/03C-Development-Organisms-46.jpg",
       "papers/biology/img/03C-Development-Organisms-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q17a(ii)",
@@ -25669,7 +27430,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-45.jpg",
       "papers/biology/img/03C-Development-Organisms-46.jpg",
       "papers/biology/img/03C-Development-Organisms-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q17b(i)",
@@ -25695,7 +27457,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-45.jpg",
       "papers/biology/img/03C-Development-Organisms-46.jpg",
       "papers/biology/img/03C-Development-Organisms-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q17b(ii)",
@@ -25726,7 +27489,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-45.jpg",
       "papers/biology/img/03C-Development-Organisms-46.jpg",
       "papers/biology/img/03C-Development-Organisms-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q17b(iii)",
@@ -25758,7 +27522,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-45.jpg",
       "papers/biology/img/03C-Development-Organisms-46.jpg",
       "papers/biology/img/03C-Development-Organisms-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q17c(i)",
@@ -25790,7 +27555,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-45.jpg",
       "papers/biology/img/03C-Development-Organisms-46.jpg",
       "papers/biology/img/03C-Development-Organisms-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q17c(ii)",
@@ -25818,7 +27584,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-45.jpg",
       "papers/biology/img/03C-Development-Organisms-46.jpg",
       "papers/biology/img/03C-Development-Organisms-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q18a",
@@ -25846,7 +27613,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/03C-Development-Organisms-48.jpg",
       "papers/biology/img/03C-Development-Organisms-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q18b",
@@ -25876,7 +27644,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/03C-Development-Organisms-48.jpg",
       "papers/biology/img/03C-Development-Organisms-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q18c",
@@ -25908,7 +27677,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/03C-Development-Organisms-48.jpg",
       "papers/biology/img/03C-Development-Organisms-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q19a",
@@ -25941,7 +27711,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-50.jpg",
       "papers/biology/img/03C-Development-Organisms-51.jpg",
       "papers/biology/img/03C-Development-Organisms-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q19b",
@@ -25974,7 +27745,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-50.jpg",
       "papers/biology/img/03C-Development-Organisms-51.jpg",
       "papers/biology/img/03C-Development-Organisms-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q19c(i)",
@@ -26000,7 +27772,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-50.jpg",
       "papers/biology/img/03C-Development-Organisms-51.jpg",
       "papers/biology/img/03C-Development-Organisms-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q19c(ii)",
@@ -26034,7 +27807,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-50.jpg",
       "papers/biology/img/03C-Development-Organisms-51.jpg",
       "papers/biology/img/03C-Development-Organisms-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q20a(i)",
@@ -26064,7 +27838,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-53.jpg",
       "papers/biology/img/03C-Development-Organisms-54.jpg",
       "papers/biology/img/03C-Development-Organisms-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q20a(ii)",
@@ -26098,7 +27873,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-53.jpg",
       "papers/biology/img/03C-Development-Organisms-54.jpg",
       "papers/biology/img/03C-Development-Organisms-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q20b",
@@ -26132,7 +27908,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-53.jpg",
       "papers/biology/img/03C-Development-Organisms-54.jpg",
       "papers/biology/img/03C-Development-Organisms-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q20c",
@@ -26167,7 +27944,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-53.jpg",
       "papers/biology/img/03C-Development-Organisms-54.jpg",
       "papers/biology/img/03C-Development-Organisms-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q21a",
@@ -26199,7 +27977,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-55.jpg",
       "papers/biology/img/03C-Development-Organisms-56.jpg",
       "papers/biology/img/03C-Development-Organisms-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q21b(i)",
@@ -26230,7 +28009,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-55.jpg",
       "papers/biology/img/03C-Development-Organisms-56.jpg",
       "papers/biology/img/03C-Development-Organisms-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q21b(ii)",
@@ -26262,7 +28042,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-55.jpg",
       "papers/biology/img/03C-Development-Organisms-56.jpg",
       "papers/biology/img/03C-Development-Organisms-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q21b(iii)",
@@ -26294,7 +28075,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-55.jpg",
       "papers/biology/img/03C-Development-Organisms-56.jpg",
       "papers/biology/img/03C-Development-Organisms-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q21c",
@@ -26323,7 +28105,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-55.jpg",
       "papers/biology/img/03C-Development-Organisms-56.jpg",
       "papers/biology/img/03C-Development-Organisms-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q22a(i)",
@@ -26353,7 +28136,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-58.jpg",
       "papers/biology/img/03C-Development-Organisms-59.jpg",
       "papers/biology/img/03C-Development-Organisms-60.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q22a(ii)",
@@ -26383,7 +28167,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-58.jpg",
       "papers/biology/img/03C-Development-Organisms-59.jpg",
       "papers/biology/img/03C-Development-Organisms-60.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q22b(i)",
@@ -26414,7 +28199,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-58.jpg",
       "papers/biology/img/03C-Development-Organisms-59.jpg",
       "papers/biology/img/03C-Development-Organisms-60.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q22b(ii)",
@@ -26440,7 +28226,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-58.jpg",
       "papers/biology/img/03C-Development-Organisms-59.jpg",
       "papers/biology/img/03C-Development-Organisms-60.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q22c",
@@ -26473,7 +28260,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-58.jpg",
       "papers/biology/img/03C-Development-Organisms-59.jpg",
       "papers/biology/img/03C-Development-Organisms-60.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q22d(i)",
@@ -26506,7 +28294,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-58.jpg",
       "papers/biology/img/03C-Development-Organisms-59.jpg",
       "papers/biology/img/03C-Development-Organisms-60.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q22d(ii)",
@@ -26538,7 +28327,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-58.jpg",
       "papers/biology/img/03C-Development-Organisms-59.jpg",
       "papers/biology/img/03C-Development-Organisms-60.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q23a(i)",
@@ -26569,7 +28359,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-60.jpg",
       "papers/biology/img/03C-Development-Organisms-61.jpg",
       "papers/biology/img/03C-Development-Organisms-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q23a(ii)",
@@ -26598,7 +28389,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-60.jpg",
       "papers/biology/img/03C-Development-Organisms-61.jpg",
       "papers/biology/img/03C-Development-Organisms-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q23b",
@@ -26630,7 +28422,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-60.jpg",
       "papers/biology/img/03C-Development-Organisms-61.jpg",
       "papers/biology/img/03C-Development-Organisms-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q23c",
@@ -26662,7 +28455,8 @@ window.BANK.biology = {
       "papers/biology/img/03C-Development-Organisms-60.jpg",
       "papers/biology/img/03C-Development-Organisms-61.jpg",
       "papers/biology/img/03C-Development-Organisms-62.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -26697,7 +28491,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-001.jpg",
       "papers/biology/img/04A-Plant-Structure-002.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q1a(ii)",
@@ -26725,7 +28520,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-001.jpg",
       "papers/biology/img/04A-Plant-Structure-002.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q1b(i)",
@@ -26754,7 +28550,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-001.jpg",
       "papers/biology/img/04A-Plant-Structure-002.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q1b(ii)",
@@ -26785,7 +28582,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-001.jpg",
       "papers/biology/img/04A-Plant-Structure-002.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q2a",
@@ -26812,7 +28610,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-002.jpg",
       "papers/biology/img/04A-Plant-Structure-003.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q2b",
@@ -26839,7 +28638,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-002.jpg",
       "papers/biology/img/04A-Plant-Structure-003.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q2c",
@@ -26868,7 +28668,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-002.jpg",
       "papers/biology/img/04A-Plant-Structure-003.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q3a(i)",
@@ -26891,7 +28692,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-003.jpg",
       "papers/biology/img/04A-Plant-Structure-004.jpg",
       "papers/biology/img/04A-Plant-Structure-005.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q3a(ii)",
@@ -26914,7 +28716,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-003.jpg",
       "papers/biology/img/04A-Plant-Structure-004.jpg",
       "papers/biology/img/04A-Plant-Structure-005.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q3b(i)",
@@ -26937,7 +28740,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-003.jpg",
       "papers/biology/img/04A-Plant-Structure-004.jpg",
       "papers/biology/img/04A-Plant-Structure-005.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q3b(ii)",
@@ -26962,7 +28766,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-003.jpg",
       "papers/biology/img/04A-Plant-Structure-004.jpg",
       "papers/biology/img/04A-Plant-Structure-005.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q4a(i)",
@@ -26994,7 +28799,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-007.jpg",
       "papers/biology/img/04A-Plant-Structure-008.jpg",
       "papers/biology/img/04A-Plant-Structure-009.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q4a(ii)",
@@ -27024,7 +28830,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-007.jpg",
       "papers/biology/img/04A-Plant-Structure-008.jpg",
       "papers/biology/img/04A-Plant-Structure-009.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q4b",
@@ -27055,7 +28862,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-007.jpg",
       "papers/biology/img/04A-Plant-Structure-008.jpg",
       "papers/biology/img/04A-Plant-Structure-009.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q4c(i)",
@@ -27082,7 +28890,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-007.jpg",
       "papers/biology/img/04A-Plant-Structure-008.jpg",
       "papers/biology/img/04A-Plant-Structure-009.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q4c(ii)",
@@ -27110,7 +28919,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-007.jpg",
       "papers/biology/img/04A-Plant-Structure-008.jpg",
       "papers/biology/img/04A-Plant-Structure-009.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q5a",
@@ -27138,7 +28948,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-009.jpg",
       "papers/biology/img/04A-Plant-Structure-010.jpg",
       "papers/biology/img/04A-Plant-Structure-011.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q5b",
@@ -27167,7 +28978,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-009.jpg",
       "papers/biology/img/04A-Plant-Structure-010.jpg",
       "papers/biology/img/04A-Plant-Structure-011.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q5c",
@@ -27192,7 +29004,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-009.jpg",
       "papers/biology/img/04A-Plant-Structure-010.jpg",
       "papers/biology/img/04A-Plant-Structure-011.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q6a(i)",
@@ -27219,7 +29032,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-011.jpg",
       "papers/biology/img/04A-Plant-Structure-012.jpg",
       "papers/biology/img/04A-Plant-Structure-013.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q6a(ii)",
@@ -27246,7 +29060,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-011.jpg",
       "papers/biology/img/04A-Plant-Structure-012.jpg",
       "papers/biology/img/04A-Plant-Structure-013.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q6b(i)",
@@ -27270,7 +29085,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-011.jpg",
       "papers/biology/img/04A-Plant-Structure-012.jpg",
       "papers/biology/img/04A-Plant-Structure-013.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q6b(ii)",
@@ -27298,7 +29114,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-011.jpg",
       "papers/biology/img/04A-Plant-Structure-012.jpg",
       "papers/biology/img/04A-Plant-Structure-013.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q6b(iii)",
@@ -27326,7 +29143,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-011.jpg",
       "papers/biology/img/04A-Plant-Structure-012.jpg",
       "papers/biology/img/04A-Plant-Structure-013.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q6c(i)",
@@ -27349,7 +29167,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-011.jpg",
       "papers/biology/img/04A-Plant-Structure-012.jpg",
       "papers/biology/img/04A-Plant-Structure-013.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q6c(ii)",
@@ -27372,7 +29191,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-011.jpg",
       "papers/biology/img/04A-Plant-Structure-012.jpg",
       "papers/biology/img/04A-Plant-Structure-013.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q7a",
@@ -27401,7 +29221,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-013.jpg",
       "papers/biology/img/04A-Plant-Structure-014.jpg",
       "papers/biology/img/04A-Plant-Structure-015.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q7b",
@@ -27430,7 +29251,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-013.jpg",
       "papers/biology/img/04A-Plant-Structure-014.jpg",
       "papers/biology/img/04A-Plant-Structure-015.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q7c",
@@ -27460,7 +29282,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-013.jpg",
       "papers/biology/img/04A-Plant-Structure-014.jpg",
       "papers/biology/img/04A-Plant-Structure-015.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q8a(i)",
@@ -27487,7 +29310,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-018.jpg",
       "papers/biology/img/04A-Plant-Structure-019.jpg",
       "papers/biology/img/04A-Plant-Structure-020.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q8a(ii)",
@@ -27520,7 +29344,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-018.jpg",
       "papers/biology/img/04A-Plant-Structure-019.jpg",
       "papers/biology/img/04A-Plant-Structure-020.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q8b(i)",
@@ -27548,7 +29373,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-018.jpg",
       "papers/biology/img/04A-Plant-Structure-019.jpg",
       "papers/biology/img/04A-Plant-Structure-020.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q8b(ii)",
@@ -27576,7 +29402,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-018.jpg",
       "papers/biology/img/04A-Plant-Structure-019.jpg",
       "papers/biology/img/04A-Plant-Structure-020.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q8c",
@@ -27602,7 +29429,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-018.jpg",
       "papers/biology/img/04A-Plant-Structure-019.jpg",
       "papers/biology/img/04A-Plant-Structure-020.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q8d",
@@ -27636,7 +29464,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-018.jpg",
       "papers/biology/img/04A-Plant-Structure-019.jpg",
       "papers/biology/img/04A-Plant-Structure-020.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q9a(i)",
@@ -27663,7 +29492,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-020.jpg",
       "papers/biology/img/04A-Plant-Structure-021.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q9a(ii)",
@@ -27692,7 +29522,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-020.jpg",
       "papers/biology/img/04A-Plant-Structure-021.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q9a(iii)",
@@ -27721,7 +29552,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-020.jpg",
       "papers/biology/img/04A-Plant-Structure-021.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q9b",
@@ -27744,7 +29576,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-020.jpg",
       "papers/biology/img/04A-Plant-Structure-021.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q10a",
@@ -27771,7 +29604,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-023.jpg",
       "papers/biology/img/04A-Plant-Structure-024.jpg",
       "papers/biology/img/04A-Plant-Structure-025.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q10b(i)",
@@ -27804,7 +29638,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-023.jpg",
       "papers/biology/img/04A-Plant-Structure-024.jpg",
       "papers/biology/img/04A-Plant-Structure-025.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q10b(ii)",
@@ -27831,7 +29666,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-023.jpg",
       "papers/biology/img/04A-Plant-Structure-024.jpg",
       "papers/biology/img/04A-Plant-Structure-025.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q10b(iii)",
@@ -27863,7 +29699,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-023.jpg",
       "papers/biology/img/04A-Plant-Structure-024.jpg",
       "papers/biology/img/04A-Plant-Structure-025.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q11a(i)",
@@ -27886,7 +29723,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-025.jpg",
       "papers/biology/img/04A-Plant-Structure-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q11a(ii)",
@@ -27913,7 +29751,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-025.jpg",
       "papers/biology/img/04A-Plant-Structure-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q11a(iii)",
@@ -27940,7 +29779,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-025.jpg",
       "papers/biology/img/04A-Plant-Structure-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q11b(i)",
@@ -27966,7 +29806,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-025.jpg",
       "papers/biology/img/04A-Plant-Structure-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q11b(ii)",
@@ -27992,7 +29833,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-025.jpg",
       "papers/biology/img/04A-Plant-Structure-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q12a(i)",
@@ -28016,7 +29858,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-026.jpg",
       "papers/biology/img/04A-Plant-Structure-027.jpg",
       "papers/biology/img/04A-Plant-Structure-028.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q12a(ii)",
@@ -28046,7 +29889,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-026.jpg",
       "papers/biology/img/04A-Plant-Structure-027.jpg",
       "papers/biology/img/04A-Plant-Structure-028.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q12b(i)",
@@ -28076,7 +29920,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-026.jpg",
       "papers/biology/img/04A-Plant-Structure-027.jpg",
       "papers/biology/img/04A-Plant-Structure-028.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q12b(ii)",
@@ -28105,7 +29950,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-026.jpg",
       "papers/biology/img/04A-Plant-Structure-027.jpg",
       "papers/biology/img/04A-Plant-Structure-028.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q13a",
@@ -28134,7 +29980,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-028.jpg",
       "papers/biology/img/04A-Plant-Structure-029.jpg",
       "papers/biology/img/04A-Plant-Structure-030.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q13b(i)",
@@ -28161,7 +30008,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-028.jpg",
       "papers/biology/img/04A-Plant-Structure-029.jpg",
       "papers/biology/img/04A-Plant-Structure-030.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q13b(ii)",
@@ -28190,7 +30038,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-028.jpg",
       "papers/biology/img/04A-Plant-Structure-029.jpg",
       "papers/biology/img/04A-Plant-Structure-030.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q13b(iii)",
@@ -28220,7 +30069,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-028.jpg",
       "papers/biology/img/04A-Plant-Structure-029.jpg",
       "papers/biology/img/04A-Plant-Structure-030.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q14a",
@@ -28250,7 +30100,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-030.jpg",
       "papers/biology/img/04A-Plant-Structure-031.jpg",
       "papers/biology/img/04A-Plant-Structure-032.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q14b(i)",
@@ -28274,7 +30125,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-030.jpg",
       "papers/biology/img/04A-Plant-Structure-031.jpg",
       "papers/biology/img/04A-Plant-Structure-032.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q14b(ii)",
@@ -28299,7 +30151,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-030.jpg",
       "papers/biology/img/04A-Plant-Structure-031.jpg",
       "papers/biology/img/04A-Plant-Structure-032.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q15a(i)",
@@ -28328,7 +30181,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-032.jpg",
       "papers/biology/img/04A-Plant-Structure-033.jpg",
       "papers/biology/img/04A-Plant-Structure-034.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q15a(ii)",
@@ -28356,7 +30210,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-032.jpg",
       "papers/biology/img/04A-Plant-Structure-033.jpg",
       "papers/biology/img/04A-Plant-Structure-034.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q15b(i)",
@@ -28385,7 +30240,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-032.jpg",
       "papers/biology/img/04A-Plant-Structure-033.jpg",
       "papers/biology/img/04A-Plant-Structure-034.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q15b(ii)",
@@ -28415,7 +30271,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-032.jpg",
       "papers/biology/img/04A-Plant-Structure-033.jpg",
       "papers/biology/img/04A-Plant-Structure-034.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q16a",
@@ -28439,7 +30296,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-035.jpg",
       "papers/biology/img/04A-Plant-Structure-036.jpg",
       "papers/biology/img/04A-Plant-Structure-037.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q16b",
@@ -28468,7 +30326,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-035.jpg",
       "papers/biology/img/04A-Plant-Structure-036.jpg",
       "papers/biology/img/04A-Plant-Structure-037.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q16c(i)",
@@ -28497,7 +30356,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-035.jpg",
       "papers/biology/img/04A-Plant-Structure-036.jpg",
       "papers/biology/img/04A-Plant-Structure-037.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q16c(ii)",
@@ -28527,7 +30387,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-035.jpg",
       "papers/biology/img/04A-Plant-Structure-036.jpg",
       "papers/biology/img/04A-Plant-Structure-037.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q16d",
@@ -28553,7 +30414,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-035.jpg",
       "papers/biology/img/04A-Plant-Structure-036.jpg",
       "papers/biology/img/04A-Plant-Structure-037.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q17a(i)",
@@ -28581,7 +30443,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-039.jpg",
       "papers/biology/img/04A-Plant-Structure-040.jpg",
       "papers/biology/img/04A-Plant-Structure-041.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q17a(ii)",
@@ -28612,7 +30475,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-039.jpg",
       "papers/biology/img/04A-Plant-Structure-040.jpg",
       "papers/biology/img/04A-Plant-Structure-041.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q17b(i)",
@@ -28636,7 +30500,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-039.jpg",
       "papers/biology/img/04A-Plant-Structure-040.jpg",
       "papers/biology/img/04A-Plant-Structure-041.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q17b(ii)",
@@ -28660,7 +30525,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-039.jpg",
       "papers/biology/img/04A-Plant-Structure-040.jpg",
       "papers/biology/img/04A-Plant-Structure-041.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q17c",
@@ -28686,7 +30552,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-039.jpg",
       "papers/biology/img/04A-Plant-Structure-040.jpg",
       "papers/biology/img/04A-Plant-Structure-041.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q18a(i)",
@@ -28710,7 +30577,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-042.jpg",
       "papers/biology/img/04A-Plant-Structure-043.jpg",
       "papers/biology/img/04A-Plant-Structure-044.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q18a(ii)",
@@ -28734,7 +30602,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-042.jpg",
       "papers/biology/img/04A-Plant-Structure-043.jpg",
       "papers/biology/img/04A-Plant-Structure-044.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q18a(iii)",
@@ -28759,7 +30628,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-042.jpg",
       "papers/biology/img/04A-Plant-Structure-043.jpg",
       "papers/biology/img/04A-Plant-Structure-044.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q18a(iv)",
@@ -28788,7 +30658,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-042.jpg",
       "papers/biology/img/04A-Plant-Structure-043.jpg",
       "papers/biology/img/04A-Plant-Structure-044.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q18b(i)",
@@ -28816,7 +30687,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-042.jpg",
       "papers/biology/img/04A-Plant-Structure-043.jpg",
       "papers/biology/img/04A-Plant-Structure-044.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q18b(ii)",
@@ -28841,7 +30713,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-042.jpg",
       "papers/biology/img/04A-Plant-Structure-043.jpg",
       "papers/biology/img/04A-Plant-Structure-044.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q19a(i)",
@@ -28871,7 +30744,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-045.jpg",
       "papers/biology/img/04A-Plant-Structure-046.jpg",
       "papers/biology/img/04A-Plant-Structure-047.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q19a(ii)",
@@ -28896,7 +30770,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-045.jpg",
       "papers/biology/img/04A-Plant-Structure-046.jpg",
       "papers/biology/img/04A-Plant-Structure-047.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q19b",
@@ -28927,7 +30802,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-045.jpg",
       "papers/biology/img/04A-Plant-Structure-046.jpg",
       "papers/biology/img/04A-Plant-Structure-047.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q19c",
@@ -28953,7 +30829,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-045.jpg",
       "papers/biology/img/04A-Plant-Structure-046.jpg",
       "papers/biology/img/04A-Plant-Structure-047.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q20a",
@@ -28982,7 +30859,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-047.jpg",
       "papers/biology/img/04A-Plant-Structure-048.jpg",
       "papers/biology/img/04A-Plant-Structure-049.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q20b",
@@ -29012,7 +30890,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-047.jpg",
       "papers/biology/img/04A-Plant-Structure-048.jpg",
       "papers/biology/img/04A-Plant-Structure-049.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q20c(i)",
@@ -29035,7 +30914,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-047.jpg",
       "papers/biology/img/04A-Plant-Structure-048.jpg",
       "papers/biology/img/04A-Plant-Structure-049.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q20c(ii)",
@@ -29063,7 +30943,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-047.jpg",
       "papers/biology/img/04A-Plant-Structure-048.jpg",
       "papers/biology/img/04A-Plant-Structure-049.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q21a",
@@ -29086,7 +30967,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-049.jpg",
       "papers/biology/img/04A-Plant-Structure-050.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q21b",
@@ -29109,7 +30991,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-049.jpg",
       "papers/biology/img/04A-Plant-Structure-050.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q22a",
@@ -29137,7 +31020,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-050.jpg",
       "papers/biology/img/04A-Plant-Structure-051.jpg",
       "papers/biology/img/04A-Plant-Structure-052.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q22b",
@@ -29167,7 +31051,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-050.jpg",
       "papers/biology/img/04A-Plant-Structure-051.jpg",
       "papers/biology/img/04A-Plant-Structure-052.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q23a",
@@ -29194,7 +31079,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-052.jpg",
       "papers/biology/img/04A-Plant-Structure-053.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q23b",
@@ -29222,7 +31108,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-052.jpg",
       "papers/biology/img/04A-Plant-Structure-053.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q23c(i)",
@@ -29249,7 +31136,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-052.jpg",
       "papers/biology/img/04A-Plant-Structure-053.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q23c(ii)",
@@ -29276,7 +31164,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-052.jpg",
       "papers/biology/img/04A-Plant-Structure-053.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q24a(i)",
@@ -29304,7 +31193,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-053.jpg",
       "papers/biology/img/04A-Plant-Structure-054.jpg",
       "papers/biology/img/04A-Plant-Structure-055.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q24a(ii)",
@@ -29332,7 +31222,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-053.jpg",
       "papers/biology/img/04A-Plant-Structure-054.jpg",
       "papers/biology/img/04A-Plant-Structure-055.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q24b(i)",
@@ -29356,7 +31247,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-053.jpg",
       "papers/biology/img/04A-Plant-Structure-054.jpg",
       "papers/biology/img/04A-Plant-Structure-055.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q24b(ii)",
@@ -29379,7 +31271,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-053.jpg",
       "papers/biology/img/04A-Plant-Structure-054.jpg",
       "papers/biology/img/04A-Plant-Structure-055.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q24b(iii)",
@@ -29403,7 +31296,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-053.jpg",
       "papers/biology/img/04A-Plant-Structure-054.jpg",
       "papers/biology/img/04A-Plant-Structure-055.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q25a",
@@ -29431,7 +31325,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-056.jpg",
       "papers/biology/img/04A-Plant-Structure-057.jpg",
       "papers/biology/img/04A-Plant-Structure-058.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q25b(i)",
@@ -29458,7 +31353,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-056.jpg",
       "papers/biology/img/04A-Plant-Structure-057.jpg",
       "papers/biology/img/04A-Plant-Structure-058.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q25b(ii)",
@@ -29489,7 +31385,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-056.jpg",
       "papers/biology/img/04A-Plant-Structure-057.jpg",
       "papers/biology/img/04A-Plant-Structure-058.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q25c(i)",
@@ -29513,7 +31410,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-056.jpg",
       "papers/biology/img/04A-Plant-Structure-057.jpg",
       "papers/biology/img/04A-Plant-Structure-058.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q25c(ii)",
@@ -29537,7 +31435,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-056.jpg",
       "papers/biology/img/04A-Plant-Structure-057.jpg",
       "papers/biology/img/04A-Plant-Structure-058.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q26a(i)",
@@ -29567,7 +31466,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-058.jpg",
       "papers/biology/img/04A-Plant-Structure-059.jpg",
       "papers/biology/img/04A-Plant-Structure-060.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q26a(ii)",
@@ -29595,7 +31495,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-058.jpg",
       "papers/biology/img/04A-Plant-Structure-059.jpg",
       "papers/biology/img/04A-Plant-Structure-060.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q26b(i)",
@@ -29623,7 +31524,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-058.jpg",
       "papers/biology/img/04A-Plant-Structure-059.jpg",
       "papers/biology/img/04A-Plant-Structure-060.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q26b(ii)",
@@ -29653,7 +31555,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-058.jpg",
       "papers/biology/img/04A-Plant-Structure-059.jpg",
       "papers/biology/img/04A-Plant-Structure-060.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q27a(i)",
@@ -29684,7 +31587,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-061.jpg",
       "papers/biology/img/04A-Plant-Structure-062.jpg",
       "papers/biology/img/04A-Plant-Structure-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q27a(ii)",
@@ -29713,7 +31617,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-061.jpg",
       "papers/biology/img/04A-Plant-Structure-062.jpg",
       "papers/biology/img/04A-Plant-Structure-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q27b(i)",
@@ -29738,7 +31643,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-061.jpg",
       "papers/biology/img/04A-Plant-Structure-062.jpg",
       "papers/biology/img/04A-Plant-Structure-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q27b(ii)",
@@ -29762,7 +31668,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-061.jpg",
       "papers/biology/img/04A-Plant-Structure-062.jpg",
       "papers/biology/img/04A-Plant-Structure-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q28a",
@@ -29786,7 +31693,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-063.jpg",
       "papers/biology/img/04A-Plant-Structure-064.jpg",
       "papers/biology/img/04A-Plant-Structure-065.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q28b(i)",
@@ -29810,7 +31718,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-063.jpg",
       "papers/biology/img/04A-Plant-Structure-064.jpg",
       "papers/biology/img/04A-Plant-Structure-065.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q28b(ii)",
@@ -29840,7 +31749,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-063.jpg",
       "papers/biology/img/04A-Plant-Structure-064.jpg",
       "papers/biology/img/04A-Plant-Structure-065.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q29a",
@@ -29870,7 +31780,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-066.jpg",
       "papers/biology/img/04A-Plant-Structure-067.jpg",
       "papers/biology/img/04A-Plant-Structure-068.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q29b",
@@ -29896,7 +31807,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-066.jpg",
       "papers/biology/img/04A-Plant-Structure-067.jpg",
       "papers/biology/img/04A-Plant-Structure-068.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q30a",
@@ -29920,7 +31832,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-068.jpg",
       "papers/biology/img/04A-Plant-Structure-069.jpg",
       "papers/biology/img/04A-Plant-Structure-070.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q30b(i)",
@@ -29948,7 +31861,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-068.jpg",
       "papers/biology/img/04A-Plant-Structure-069.jpg",
       "papers/biology/img/04A-Plant-Structure-070.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q30b(ii)",
@@ -29975,7 +31889,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-068.jpg",
       "papers/biology/img/04A-Plant-Structure-069.jpg",
       "papers/biology/img/04A-Plant-Structure-070.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q30c",
@@ -30003,7 +31918,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-068.jpg",
       "papers/biology/img/04A-Plant-Structure-069.jpg",
       "papers/biology/img/04A-Plant-Structure-070.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q31a(i)",
@@ -30028,7 +31944,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-071.jpg",
       "papers/biology/img/04A-Plant-Structure-072.jpg",
       "papers/biology/img/04A-Plant-Structure-073.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q31a(ii)",
@@ -30058,7 +31975,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-071.jpg",
       "papers/biology/img/04A-Plant-Structure-072.jpg",
       "papers/biology/img/04A-Plant-Structure-073.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q31b(i)",
@@ -30086,7 +32004,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-071.jpg",
       "papers/biology/img/04A-Plant-Structure-072.jpg",
       "papers/biology/img/04A-Plant-Structure-073.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q31b(ii)",
@@ -30110,7 +32029,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-071.jpg",
       "papers/biology/img/04A-Plant-Structure-072.jpg",
       "papers/biology/img/04A-Plant-Structure-073.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q31b(iii)",
@@ -30138,7 +32058,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-071.jpg",
       "papers/biology/img/04A-Plant-Structure-072.jpg",
       "papers/biology/img/04A-Plant-Structure-073.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q31c",
@@ -30167,7 +32088,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-071.jpg",
       "papers/biology/img/04A-Plant-Structure-072.jpg",
       "papers/biology/img/04A-Plant-Structure-073.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q32a(i)",
@@ -30190,7 +32112,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-073.jpg",
       "papers/biology/img/04A-Plant-Structure-074.jpg",
       "papers/biology/img/04A-Plant-Structure-075.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q32a(ii)",
@@ -30219,7 +32142,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-073.jpg",
       "papers/biology/img/04A-Plant-Structure-074.jpg",
       "papers/biology/img/04A-Plant-Structure-075.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q32b(i)",
@@ -30246,7 +32170,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-073.jpg",
       "papers/biology/img/04A-Plant-Structure-074.jpg",
       "papers/biology/img/04A-Plant-Structure-075.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q32b(ii)",
@@ -30275,7 +32200,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-073.jpg",
       "papers/biology/img/04A-Plant-Structure-074.jpg",
       "papers/biology/img/04A-Plant-Structure-075.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q33a(i)",
@@ -30305,7 +32231,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-077.jpg",
       "papers/biology/img/04A-Plant-Structure-078.jpg",
       "papers/biology/img/04A-Plant-Structure-079.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q33a(ii)",
@@ -30336,7 +32263,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-077.jpg",
       "papers/biology/img/04A-Plant-Structure-078.jpg",
       "papers/biology/img/04A-Plant-Structure-079.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q33b",
@@ -30363,7 +32291,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-077.jpg",
       "papers/biology/img/04A-Plant-Structure-078.jpg",
       "papers/biology/img/04A-Plant-Structure-079.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q34a(i)",
@@ -30389,7 +32318,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-080.jpg",
       "papers/biology/img/04A-Plant-Structure-081.jpg",
       "papers/biology/img/04A-Plant-Structure-082.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q34a(ii)",
@@ -30418,7 +32348,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-080.jpg",
       "papers/biology/img/04A-Plant-Structure-081.jpg",
       "papers/biology/img/04A-Plant-Structure-082.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q34b(i)",
@@ -30442,7 +32373,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-080.jpg",
       "papers/biology/img/04A-Plant-Structure-081.jpg",
       "papers/biology/img/04A-Plant-Structure-082.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q34b(ii)",
@@ -30472,7 +32404,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-080.jpg",
       "papers/biology/img/04A-Plant-Structure-081.jpg",
       "papers/biology/img/04A-Plant-Structure-082.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q34c",
@@ -30500,7 +32433,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-080.jpg",
       "papers/biology/img/04A-Plant-Structure-081.jpg",
       "papers/biology/img/04A-Plant-Structure-082.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q34d",
@@ -30528,7 +32462,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-080.jpg",
       "papers/biology/img/04A-Plant-Structure-081.jpg",
       "papers/biology/img/04A-Plant-Structure-082.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q35a",
@@ -30555,7 +32490,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-082.jpg",
       "papers/biology/img/04A-Plant-Structure-083.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q35b(i)",
@@ -30581,7 +32517,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-082.jpg",
       "papers/biology/img/04A-Plant-Structure-083.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q35b(ii)",
@@ -30604,7 +32541,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04A-Plant-Structure-082.jpg",
       "papers/biology/img/04A-Plant-Structure-083.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q36a(i)",
@@ -30634,7 +32572,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-086.jpg",
       "papers/biology/img/04A-Plant-Structure-087.jpg",
       "papers/biology/img/04A-Plant-Structure-088.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q36a(ii)",
@@ -30664,7 +32603,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-086.jpg",
       "papers/biology/img/04A-Plant-Structure-087.jpg",
       "papers/biology/img/04A-Plant-Structure-088.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q36a(iii)",
@@ -30694,7 +32634,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-086.jpg",
       "papers/biology/img/04A-Plant-Structure-087.jpg",
       "papers/biology/img/04A-Plant-Structure-088.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q36b(i)",
@@ -30720,7 +32661,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-086.jpg",
       "papers/biology/img/04A-Plant-Structure-087.jpg",
       "papers/biology/img/04A-Plant-Structure-088.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q36b(ii)",
@@ -30749,7 +32691,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-086.jpg",
       "papers/biology/img/04A-Plant-Structure-087.jpg",
       "papers/biology/img/04A-Plant-Structure-088.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q36c(i)",
@@ -30775,7 +32718,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-086.jpg",
       "papers/biology/img/04A-Plant-Structure-087.jpg",
       "papers/biology/img/04A-Plant-Structure-088.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q36c(ii)",
@@ -30807,7 +32751,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-086.jpg",
       "papers/biology/img/04A-Plant-Structure-087.jpg",
       "papers/biology/img/04A-Plant-Structure-088.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q36c(iii)",
@@ -30834,7 +32779,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-086.jpg",
       "papers/biology/img/04A-Plant-Structure-087.jpg",
       "papers/biology/img/04A-Plant-Structure-088.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q37a(i)",
@@ -30859,7 +32805,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-089.jpg",
       "papers/biology/img/04A-Plant-Structure-090.jpg",
       "papers/biology/img/04A-Plant-Structure-091.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q37a(ii)",
@@ -30887,7 +32834,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-089.jpg",
       "papers/biology/img/04A-Plant-Structure-090.jpg",
       "papers/biology/img/04A-Plant-Structure-091.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q37b",
@@ -30911,7 +32859,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-089.jpg",
       "papers/biology/img/04A-Plant-Structure-090.jpg",
       "papers/biology/img/04A-Plant-Structure-091.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q37c",
@@ -30937,7 +32886,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-089.jpg",
       "papers/biology/img/04A-Plant-Structure-090.jpg",
       "papers/biology/img/04A-Plant-Structure-091.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q38a(i)",
@@ -30960,7 +32910,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-091.jpg",
       "papers/biology/img/04A-Plant-Structure-092.jpg",
       "papers/biology/img/04A-Plant-Structure-093.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q38a(ii)",
@@ -30983,7 +32934,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-091.jpg",
       "papers/biology/img/04A-Plant-Structure-092.jpg",
       "papers/biology/img/04A-Plant-Structure-093.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q38b",
@@ -31008,7 +32960,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-091.jpg",
       "papers/biology/img/04A-Plant-Structure-092.jpg",
       "papers/biology/img/04A-Plant-Structure-093.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q38c",
@@ -31032,7 +32985,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-091.jpg",
       "papers/biology/img/04A-Plant-Structure-092.jpg",
       "papers/biology/img/04A-Plant-Structure-093.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q39a(i)",
@@ -31057,7 +33011,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-094.jpg",
       "papers/biology/img/04A-Plant-Structure-095.jpg",
       "papers/biology/img/04A-Plant-Structure-096.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q39a(ii)",
@@ -31085,7 +33040,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-094.jpg",
       "papers/biology/img/04A-Plant-Structure-095.jpg",
       "papers/biology/img/04A-Plant-Structure-096.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q39b",
@@ -31116,7 +33072,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-094.jpg",
       "papers/biology/img/04A-Plant-Structure-095.jpg",
       "papers/biology/img/04A-Plant-Structure-096.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q39c",
@@ -31148,7 +33105,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-094.jpg",
       "papers/biology/img/04A-Plant-Structure-095.jpg",
       "papers/biology/img/04A-Plant-Structure-096.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q40a",
@@ -31173,7 +33131,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-096.jpg",
       "papers/biology/img/04A-Plant-Structure-097.jpg",
       "papers/biology/img/04A-Plant-Structure-098.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q40b",
@@ -31201,7 +33160,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-096.jpg",
       "papers/biology/img/04A-Plant-Structure-097.jpg",
       "papers/biology/img/04A-Plant-Structure-098.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q40c(i)",
@@ -31231,7 +33191,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-096.jpg",
       "papers/biology/img/04A-Plant-Structure-097.jpg",
       "papers/biology/img/04A-Plant-Structure-098.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q40c(ii)",
@@ -31255,7 +33216,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-096.jpg",
       "papers/biology/img/04A-Plant-Structure-097.jpg",
       "papers/biology/img/04A-Plant-Structure-098.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q41a",
@@ -31279,7 +33241,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-099.jpg",
       "papers/biology/img/04A-Plant-Structure-100.jpg",
       "papers/biology/img/04A-Plant-Structure-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q41b(i)",
@@ -31304,7 +33267,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-099.jpg",
       "papers/biology/img/04A-Plant-Structure-100.jpg",
       "papers/biology/img/04A-Plant-Structure-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q41b(ii)",
@@ -31328,7 +33292,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-099.jpg",
       "papers/biology/img/04A-Plant-Structure-100.jpg",
       "papers/biology/img/04A-Plant-Structure-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q41c(i)",
@@ -31356,7 +33321,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-099.jpg",
       "papers/biology/img/04A-Plant-Structure-100.jpg",
       "papers/biology/img/04A-Plant-Structure-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q41c(ii)",
@@ -31385,7 +33351,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-099.jpg",
       "papers/biology/img/04A-Plant-Structure-100.jpg",
       "papers/biology/img/04A-Plant-Structure-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q42a",
@@ -31415,7 +33382,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-102.jpg",
       "papers/biology/img/04A-Plant-Structure-103.jpg",
       "papers/biology/img/04A-Plant-Structure-104.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q42b(i)",
@@ -31441,7 +33409,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-102.jpg",
       "papers/biology/img/04A-Plant-Structure-103.jpg",
       "papers/biology/img/04A-Plant-Structure-104.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q42b(ii)",
@@ -31471,7 +33440,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-102.jpg",
       "papers/biology/img/04A-Plant-Structure-103.jpg",
       "papers/biology/img/04A-Plant-Structure-104.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q43a",
@@ -31503,7 +33473,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-106.jpg",
       "papers/biology/img/04A-Plant-Structure-107.jpg",
       "papers/biology/img/04A-Plant-Structure-108.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q43b(i)",
@@ -31532,7 +33503,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-106.jpg",
       "papers/biology/img/04A-Plant-Structure-107.jpg",
       "papers/biology/img/04A-Plant-Structure-108.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q43b(ii)",
@@ -31561,7 +33533,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-106.jpg",
       "papers/biology/img/04A-Plant-Structure-107.jpg",
       "papers/biology/img/04A-Plant-Structure-108.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q43b(iii)",
@@ -31587,7 +33560,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-106.jpg",
       "papers/biology/img/04A-Plant-Structure-107.jpg",
       "papers/biology/img/04A-Plant-Structure-108.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q43c(i)",
@@ -31617,7 +33591,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-106.jpg",
       "papers/biology/img/04A-Plant-Structure-107.jpg",
       "papers/biology/img/04A-Plant-Structure-108.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q43c(ii)",
@@ -31644,7 +33619,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-106.jpg",
       "papers/biology/img/04A-Plant-Structure-107.jpg",
       "papers/biology/img/04A-Plant-Structure-108.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q44a(i)",
@@ -31669,7 +33645,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-109.jpg",
       "papers/biology/img/04A-Plant-Structure-110.jpg",
       "papers/biology/img/04A-Plant-Structure-111.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q44a(ii)",
@@ -31694,7 +33671,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-109.jpg",
       "papers/biology/img/04A-Plant-Structure-110.jpg",
       "papers/biology/img/04A-Plant-Structure-111.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q44a(iii)",
@@ -31724,7 +33702,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-109.jpg",
       "papers/biology/img/04A-Plant-Structure-110.jpg",
       "papers/biology/img/04A-Plant-Structure-111.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q44b",
@@ -31750,7 +33729,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-109.jpg",
       "papers/biology/img/04A-Plant-Structure-110.jpg",
       "papers/biology/img/04A-Plant-Structure-111.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q44c(i)",
@@ -31780,7 +33760,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-109.jpg",
       "papers/biology/img/04A-Plant-Structure-110.jpg",
       "papers/biology/img/04A-Plant-Structure-111.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q44c(ii)",
@@ -31805,7 +33786,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-109.jpg",
       "papers/biology/img/04A-Plant-Structure-110.jpg",
       "papers/biology/img/04A-Plant-Structure-111.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q45a",
@@ -31836,7 +33818,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-112.jpg",
       "papers/biology/img/04A-Plant-Structure-113.jpg",
       "papers/biology/img/04A-Plant-Structure-114.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q45b",
@@ -31862,7 +33845,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-112.jpg",
       "papers/biology/img/04A-Plant-Structure-113.jpg",
       "papers/biology/img/04A-Plant-Structure-114.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q45c(i)",
@@ -31886,7 +33870,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-112.jpg",
       "papers/biology/img/04A-Plant-Structure-113.jpg",
       "papers/biology/img/04A-Plant-Structure-114.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q45c(ii)",
@@ -31910,7 +33895,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-112.jpg",
       "papers/biology/img/04A-Plant-Structure-113.jpg",
       "papers/biology/img/04A-Plant-Structure-114.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q45c(iii)",
@@ -31935,7 +33921,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-112.jpg",
       "papers/biology/img/04A-Plant-Structure-113.jpg",
       "papers/biology/img/04A-Plant-Structure-114.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q46a(i)",
@@ -31966,7 +33953,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-117.jpg",
       "papers/biology/img/04A-Plant-Structure-118.jpg",
       "papers/biology/img/04A-Plant-Structure-119.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q46a(ii)",
@@ -31998,7 +33986,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-117.jpg",
       "papers/biology/img/04A-Plant-Structure-118.jpg",
       "papers/biology/img/04A-Plant-Structure-119.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q46b",
@@ -32024,7 +34013,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-117.jpg",
       "papers/biology/img/04A-Plant-Structure-118.jpg",
       "papers/biology/img/04A-Plant-Structure-119.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q46c(i)",
@@ -32050,7 +34040,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-117.jpg",
       "papers/biology/img/04A-Plant-Structure-118.jpg",
       "papers/biology/img/04A-Plant-Structure-119.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q46c(ii)",
@@ -32077,7 +34068,8 @@ window.BANK.biology = {
       "papers/biology/img/04A-Plant-Structure-117.jpg",
       "papers/biology/img/04A-Plant-Structure-118.jpg",
       "papers/biology/img/04A-Plant-Structure-119.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -32113,7 +34105,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-001.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-002.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-003.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q1a(ii)",
@@ -32141,7 +34134,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-001.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-002.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-003.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q1b",
@@ -32169,7 +34163,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-001.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-002.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-003.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q1c(i)",
@@ -32192,7 +34187,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-001.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-002.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-003.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q1c(ii)",
@@ -32220,7 +34216,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-001.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-002.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-003.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q2a",
@@ -32247,7 +34244,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-003.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-004.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-005.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q2b",
@@ -32270,7 +34268,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-003.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-004.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-005.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q3a(i)",
@@ -32297,7 +34296,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-005.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-006.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q3a(ii)",
@@ -32324,7 +34324,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-005.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-006.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q3b",
@@ -32346,7 +34347,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-005.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-006.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q4a",
@@ -32375,7 +34377,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-007.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-008.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-009.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q4b(i)",
@@ -32399,7 +34402,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-007.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-008.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-009.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q4b(ii)",
@@ -32428,7 +34432,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-007.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-008.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-009.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q4b(iii)",
@@ -32457,7 +34462,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-007.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-008.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-009.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q4c",
@@ -32486,7 +34492,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-007.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-008.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-009.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q5a",
@@ -32516,7 +34523,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-011.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-012.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-013.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q5b",
@@ -32541,7 +34549,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-011.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-012.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-013.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q5c",
@@ -32571,7 +34580,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-011.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-012.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-013.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q6a",
@@ -32598,7 +34608,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-013.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-014.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-015.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q6b",
@@ -32621,7 +34632,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-013.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-014.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-015.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q6c",
@@ -32649,7 +34661,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-013.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-014.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-015.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q6d",
@@ -32677,7 +34690,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-013.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-014.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-015.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q7a(i)",
@@ -32706,7 +34720,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-016.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-017.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-018.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q7a(ii)",
@@ -32735,7 +34750,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-016.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-017.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-018.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q7b",
@@ -32764,7 +34780,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-016.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-017.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-018.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q7c(i)",
@@ -32788,7 +34805,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-016.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-017.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-018.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q7c(ii)",
@@ -32817,7 +34835,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-016.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-017.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-018.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q8a(i)",
@@ -32845,7 +34864,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-018.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-019.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-020.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q8a(ii)",
@@ -32868,7 +34888,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-018.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-019.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-020.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q8a(iii)",
@@ -32891,7 +34912,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-018.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-019.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-020.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q8b",
@@ -32919,7 +34941,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-018.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-019.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-020.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q8c",
@@ -32947,7 +34970,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-018.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-019.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-020.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q9a(i)",
@@ -32976,7 +35000,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-021.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-022.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-023.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q9a(ii)",
@@ -33005,7 +35030,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-021.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-022.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-023.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q9b",
@@ -33034,7 +35060,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-021.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-022.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-023.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q9c",
@@ -33063,7 +35090,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-021.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-022.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-023.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q9d",
@@ -33094,7 +35122,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-021.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-022.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-023.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q10a(i)",
@@ -33122,7 +35151,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-024.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-025.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q10a(ii)",
@@ -33150,7 +35180,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-024.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-025.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q10b(i)",
@@ -33173,7 +35204,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-024.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-025.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q10b(ii)",
@@ -33203,7 +35235,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-024.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-025.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q11a(i)",
@@ -33231,7 +35264,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-026.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-027.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-028.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q11a(ii)",
@@ -33259,7 +35293,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-026.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-027.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-028.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q11b",
@@ -33287,7 +35322,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-026.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-027.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-028.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q11c(i)",
@@ -33310,7 +35346,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-026.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-027.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-028.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q11c(ii)",
@@ -33333,7 +35370,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-026.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-027.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-028.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q12a",
@@ -33362,7 +35400,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-029.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-030.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-031.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q12b",
@@ -33386,7 +35425,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-029.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-030.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-031.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q12c(i)",
@@ -33410,7 +35450,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-029.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-030.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-031.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q12c(ii)",
@@ -33440,7 +35481,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-029.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-030.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-031.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q13a",
@@ -33468,7 +35510,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-031.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-032.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-033.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q13b",
@@ -33491,7 +35534,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-031.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-032.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-033.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q14a(i)",
@@ -33514,7 +35558,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-033.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-034.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-035.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q14a(ii)",
@@ -33537,7 +35582,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-033.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-034.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-035.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q14b(i)",
@@ -33565,7 +35611,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-033.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-034.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-035.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q14b(ii)",
@@ -33593,7 +35640,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-033.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-034.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-035.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q15a(i)",
@@ -33616,7 +35664,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-035.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-036.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-037.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q15a(ii)",
@@ -33644,7 +35693,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-035.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-036.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-037.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q15b(i)",
@@ -33672,7 +35722,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-035.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-036.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-037.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q15b(ii)",
@@ -33700,7 +35751,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-035.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-036.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-037.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q16a",
@@ -33723,7 +35775,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-037.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-038.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-039.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q16b(i)",
@@ -33746,7 +35799,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-037.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-038.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-039.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q16b(ii)",
@@ -33769,7 +35823,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-037.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-038.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-039.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q16c",
@@ -33792,7 +35847,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-037.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-038.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-039.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q17a",
@@ -33815,7 +35871,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-039.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-040.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-041.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q17b",
@@ -33843,7 +35900,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-039.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-040.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-041.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q17c",
@@ -33871,7 +35929,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-039.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-040.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-041.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q18a(i)",
@@ -33901,7 +35960,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-043.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-044.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-045.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q18a(ii)",
@@ -33931,7 +35991,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-043.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-044.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-045.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q18b(i)",
@@ -33956,7 +36017,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-043.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-044.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-045.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q18b(ii)",
@@ -33981,7 +36043,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-043.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-044.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-045.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q18c",
@@ -34006,7 +36069,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-043.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-044.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-045.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q19a(i)",
@@ -34033,7 +36097,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-045.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-046.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q19a(ii)",
@@ -34060,7 +36125,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-045.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-046.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q19a(iii)",
@@ -34087,7 +36153,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-045.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-046.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q19b",
@@ -34114,7 +36181,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-045.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-046.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q19c",
@@ -34141,7 +36209,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-045.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-046.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q20a",
@@ -34169,7 +36238,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-046.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-047.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-048.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q20b",
@@ -34197,7 +36267,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-046.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-047.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-048.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q20c",
@@ -34225,7 +36296,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-046.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-047.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-048.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q20d",
@@ -34255,7 +36327,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-046.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-047.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-048.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q21a",
@@ -34283,7 +36356,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-049.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-050.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-051.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q21b(i)",
@@ -34306,7 +36380,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-049.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-050.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-051.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q21b(ii)",
@@ -34334,7 +36409,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-049.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-050.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-051.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q21c(i)",
@@ -34357,7 +36433,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-049.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-050.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-051.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q21c(ii)",
@@ -34385,7 +36462,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-049.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-050.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-051.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q21c(iii)",
@@ -34413,7 +36491,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-049.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-050.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-051.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q21d",
@@ -34441,7 +36520,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-049.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-050.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-051.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q22a",
@@ -34473,7 +36553,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-055.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-056.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-057.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q22b",
@@ -34500,7 +36581,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-055.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-056.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-057.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q22c(i)",
@@ -34532,7 +36614,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-055.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-056.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-057.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q22c(ii)",
@@ -34564,7 +36647,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-055.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-056.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-057.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q22d",
@@ -34591,7 +36675,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-055.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-056.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-057.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q23a(i)",
@@ -34615,7 +36700,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-058.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-059.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-060.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q23a(ii)",
@@ -34639,7 +36725,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-058.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-059.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-060.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q23b(i)",
@@ -34668,7 +36755,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-058.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-059.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-060.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q23b(ii)",
@@ -34697,7 +36785,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-058.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-059.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-060.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q23c",
@@ -34726,7 +36815,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-058.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-059.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-060.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q24a",
@@ -34748,7 +36838,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-060.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-061.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q24b",
@@ -34770,7 +36861,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-060.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-061.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q24c",
@@ -34792,7 +36884,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-060.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-061.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q25a",
@@ -34820,7 +36913,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-061.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-062.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q25b(i)",
@@ -34843,7 +36937,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-061.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-062.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q25b(ii)",
@@ -34871,7 +36966,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-061.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-062.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q25c(i)",
@@ -34899,7 +36995,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-061.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-062.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q25c(ii)",
@@ -34927,7 +37024,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-061.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-062.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q26a(i)",
@@ -34955,7 +37053,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-063.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-064.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-065.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q26a(ii)",
@@ -34983,7 +37082,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-063.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-064.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-065.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q26b",
@@ -35006,7 +37106,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-063.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-064.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-065.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q26c",
@@ -35034,7 +37135,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-063.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-064.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-065.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q27a",
@@ -35064,7 +37166,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-067.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-068.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-069.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q27b",
@@ -35096,7 +37199,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-067.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-068.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-069.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q27c",
@@ -35121,7 +37225,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-067.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-068.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-069.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q27d",
@@ -35151,7 +37256,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-067.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-068.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-069.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q28a",
@@ -35180,7 +37286,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-070.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-071.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-072.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q28b",
@@ -35209,7 +37316,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-070.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-071.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-072.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q28c(i)",
@@ -35238,7 +37346,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-070.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-071.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-072.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q28c(ii)",
@@ -35267,7 +37376,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-070.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-071.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-072.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q28c(iii)",
@@ -35298,7 +37408,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-070.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-071.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-072.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q29a(i)",
@@ -35328,7 +37439,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-074.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-075.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-076.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q29a(ii)",
@@ -35358,7 +37470,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-074.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-075.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-076.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q29a(iii)",
@@ -35388,7 +37501,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-074.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-075.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-076.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q29b(i)",
@@ -35418,7 +37532,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-074.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-075.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-076.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q29b(ii)",
@@ -35448,7 +37563,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-074.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-075.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-076.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q29c",
@@ -35473,7 +37589,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-074.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-075.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-076.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q30a",
@@ -35497,7 +37614,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-077.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-078.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-079.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q30b(i)",
@@ -35521,7 +37639,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-077.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-078.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-079.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q30b(ii)",
@@ -35550,7 +37669,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-077.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-078.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-079.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q30b(iii)",
@@ -35579,7 +37699,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-077.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-078.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-079.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q31a",
@@ -35607,7 +37728,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-079.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-080.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-081.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q31b(i)",
@@ -35630,7 +37752,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-079.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-080.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-081.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q31b(ii)",
@@ -35658,7 +37781,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-079.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-080.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-081.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q31b(iii)",
@@ -35686,7 +37810,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-079.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-080.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-081.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q31c",
@@ -35709,7 +37834,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-079.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-080.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-081.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q32a(i)",
@@ -35738,7 +37864,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-082.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-083.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q32a(ii)",
@@ -35767,7 +37894,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-082.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-083.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q32b(i)",
@@ -35791,7 +37919,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-082.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-083.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q32b(ii)",
@@ -35820,7 +37949,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-082.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-083.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q32b(iii)",
@@ -35849,7 +37979,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-082.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-083.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q32c(i)",
@@ -35873,7 +38004,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-082.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-083.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q32c(ii)",
@@ -35897,7 +38029,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-082.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-083.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q32c(iii)",
@@ -35926,7 +38059,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-082.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-083.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q33a(i)",
@@ -35955,7 +38089,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-085.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-086.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-087.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q33a(ii)",
@@ -35984,7 +38119,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-085.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-086.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-087.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q33b",
@@ -36013,7 +38149,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-085.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-086.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-087.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q33c(i)",
@@ -36042,7 +38179,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-085.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-086.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-087.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q33c(ii)",
@@ -36066,7 +38204,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-085.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-086.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-087.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q34a",
@@ -36096,7 +38235,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-089.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-090.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-091.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q34b",
@@ -36126,7 +38266,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-089.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-090.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-091.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q34c(i)",
@@ -36151,7 +38292,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-089.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-090.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-091.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q34c(ii)",
@@ -36181,7 +38323,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-089.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-090.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-091.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q34d(i)",
@@ -36206,7 +38349,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-089.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-090.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-091.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q34d(ii)",
@@ -36238,7 +38382,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-089.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-090.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-091.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q34d(iii)",
@@ -36268,7 +38413,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-089.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-090.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-091.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q35a",
@@ -36291,7 +38437,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-091.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-092.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-093.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q35b",
@@ -36319,7 +38466,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-091.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-092.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-093.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q35c",
@@ -36347,7 +38495,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-091.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-092.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-093.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q36a(i)",
@@ -36375,7 +38524,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-093.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-094.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-095.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q36a(ii)",
@@ -36403,7 +38553,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-093.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-094.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-095.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q36b",
@@ -36431,7 +38582,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-093.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-094.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-095.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q36c(i)",
@@ -36460,7 +38612,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-093.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-094.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-095.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q36c(ii)",
@@ -36488,7 +38641,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-093.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-094.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-095.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q37a",
@@ -36517,7 +38671,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-096.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-097.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-098.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q37b",
@@ -36541,7 +38696,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-096.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-097.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-098.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q37c",
@@ -36570,7 +38726,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-096.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-097.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-098.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q37d(i)",
@@ -36594,7 +38751,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-096.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-097.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-098.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q37d(ii)",
@@ -36618,7 +38776,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-096.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-097.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-098.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q38a",
@@ -36646,7 +38805,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-099.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-100.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q38b(i)",
@@ -36674,7 +38834,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-099.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-100.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q38b(ii)",
@@ -36702,7 +38863,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-099.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-100.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q38c(i)",
@@ -36725,7 +38887,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-099.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-100.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q38c(ii)",
@@ -36753,7 +38916,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-099.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-100.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q39a(i)",
@@ -36778,7 +38942,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-103.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-104.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-105.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q39a(ii)",
@@ -36808,7 +38973,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-103.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-104.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-105.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q39b(i)",
@@ -36838,7 +39004,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-103.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-104.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-105.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q39b(ii)",
@@ -36863,7 +39030,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-103.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-104.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-105.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q39b(iii)",
@@ -36888,7 +39056,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-103.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-104.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-105.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q39c",
@@ -36918,7 +39087,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-103.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-104.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-105.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q39d",
@@ -36943,7 +39113,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-103.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-104.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-105.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q40a(i)",
@@ -36971,7 +39142,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-105.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-106.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-107.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q40a(ii)",
@@ -36994,7 +39166,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-105.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-106.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-107.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q40b",
@@ -37017,7 +39190,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-105.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-106.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-107.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q41a",
@@ -37046,7 +39220,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-108.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-109.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-110.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q41b(i)",
@@ -37075,7 +39250,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-108.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-109.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-110.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q41b(ii)",
@@ -37105,7 +39281,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-108.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-109.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-110.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q42a",
@@ -37133,7 +39310,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-110.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-111.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-112.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q42b(i)",
@@ -37156,7 +39334,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-110.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-111.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-112.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q42b(ii)",
@@ -37184,7 +39363,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-110.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-111.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-112.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q42b(iii)",
@@ -37212,7 +39392,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-110.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-111.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-112.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q42b(iv)",
@@ -37240,7 +39421,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-110.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-111.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-112.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q42c(i)",
@@ -37268,7 +39450,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-110.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-111.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-112.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q42c(ii)",
@@ -37296,7 +39479,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-110.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-111.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-112.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q43a",
@@ -37326,7 +39510,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-114.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-115.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-116.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q43b",
@@ -37356,7 +39541,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-114.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-115.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-116.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q43c(i)",
@@ -37386,7 +39572,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-114.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-115.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-116.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q43c(ii)",
@@ -37411,7 +39598,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-114.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-115.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-116.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q43d",
@@ -37436,7 +39624,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-114.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-115.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-116.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q44a(i)",
@@ -37463,7 +39652,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-116.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-117.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q44a(ii)",
@@ -37490,7 +39680,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-116.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-117.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q44b",
@@ -37517,7 +39708,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-116.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-117.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q45a",
@@ -37545,7 +39737,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-117.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-118.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-119.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q45b(i)",
@@ -37568,7 +39761,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-117.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-118.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-119.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q45b(ii)",
@@ -37596,7 +39790,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-117.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-118.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-119.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q45c",
@@ -37624,7 +39819,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-117.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-118.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-119.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q46a",
@@ -37654,7 +39850,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-121.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-122.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-123.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q46b(i)",
@@ -37679,7 +39876,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-121.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-122.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-123.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q46b(ii)",
@@ -37709,7 +39907,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-121.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-122.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-123.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q46c(i)",
@@ -37734,7 +39933,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-121.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-122.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-123.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q46c(ii)",
@@ -37759,7 +39959,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-121.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-122.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-123.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q46c(iii)",
@@ -37789,7 +39990,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-121.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-122.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-123.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q47a(i)",
@@ -37818,7 +40020,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-124.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-125.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-126.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q47a(ii)",
@@ -37847,7 +40050,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-124.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-125.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-126.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q47a(iii)",
@@ -37876,7 +40080,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-124.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-125.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-126.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q47b(i)",
@@ -37900,7 +40105,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-124.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-125.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-126.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q47b(ii)",
@@ -37929,7 +40135,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-124.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-125.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-126.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q47b(iii)",
@@ -37958,7 +40165,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-124.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-125.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-126.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q48a",
@@ -37988,7 +40196,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-128.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-129.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-130.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q48b(i)",
@@ -38013,7 +40222,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-128.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-129.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-130.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q48b(ii)",
@@ -38043,7 +40253,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-128.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-129.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-130.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q48c(i)",
@@ -38068,7 +40279,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-128.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-129.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-130.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q48c(ii)",
@@ -38098,7 +40310,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-128.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-129.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-130.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q48c(iii)",
@@ -38128,7 +40341,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-128.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-129.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-130.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q49a(i)",
@@ -38157,7 +40371,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-131.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-132.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-133.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q49a(ii)",
@@ -38186,7 +40401,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-131.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-132.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-133.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q49b",
@@ -38210,7 +40426,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-131.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-132.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-133.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q49c(i)",
@@ -38239,7 +40456,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-131.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-132.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-133.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q49c(ii)",
@@ -38263,7 +40481,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-131.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-132.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-133.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q50a(i)",
@@ -38286,7 +40505,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-133.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-134.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-135.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q50a(ii)",
@@ -38309,7 +40529,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-133.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-134.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-135.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q50b(i)",
@@ -38337,7 +40558,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-133.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-134.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-135.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q50b(ii)",
@@ -38360,7 +40582,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-133.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-134.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-135.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q50b(iii)",
@@ -38388,7 +40611,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-133.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-134.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-135.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q51a(i)",
@@ -38417,7 +40641,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-137.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-138.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-139.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q51a(ii)",
@@ -38446,7 +40671,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-137.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-138.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-139.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q51b(i)",
@@ -38475,7 +40701,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-137.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-138.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-139.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q51b(ii)",
@@ -38504,7 +40731,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-137.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-138.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-139.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q51c",
@@ -38528,7 +40756,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-137.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-138.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-139.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q51d",
@@ -38552,7 +40781,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-137.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-138.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-139.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q52a(i)",
@@ -38579,7 +40809,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-140.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-141.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q52a(ii)",
@@ -38606,7 +40837,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-140.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-141.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q52b",
@@ -38633,7 +40865,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-140.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-141.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q53a(i)",
@@ -38657,7 +40890,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-142.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-143.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-144.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q53a(ii)",
@@ -38681,7 +40915,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-142.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-143.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-144.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q53a(iii)",
@@ -38710,7 +40945,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-142.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-143.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-144.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q53b(i)",
@@ -38739,7 +40975,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-142.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-143.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-144.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q53b(ii)",
@@ -38768,7 +41005,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-142.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-143.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-144.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q53c",
@@ -38799,7 +41037,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-142.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-143.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-144.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q54a",
@@ -38823,7 +41062,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-145.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-146.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-147.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q54b",
@@ -38847,7 +41087,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-145.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-146.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-147.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q54c",
@@ -38877,7 +41118,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-145.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-146.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-147.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q54d(i)",
@@ -38901,7 +41143,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-145.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-146.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-147.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q54d(ii)",
@@ -38925,7 +41168,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-145.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-146.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-147.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q55a(i)",
@@ -38955,7 +41199,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-149.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-150.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-151.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q55a(ii)",
@@ -38985,7 +41230,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-149.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-150.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-151.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q55b(i)",
@@ -39015,7 +41261,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-149.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-150.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-151.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q55b(ii)",
@@ -39045,7 +41292,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-149.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-150.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-151.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q55b(iii)",
@@ -39075,7 +41323,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-149.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-150.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-151.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q55c(i)",
@@ -39100,7 +41349,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-149.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-150.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-151.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q55c(ii)",
@@ -39125,7 +41375,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-149.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-150.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-151.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q56a",
@@ -39155,7 +41406,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-153.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-154.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-155.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q56b(i)",
@@ -39185,7 +41437,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-153.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-154.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-155.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q56b(ii)",
@@ -39215,7 +41468,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-153.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-154.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-155.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q56c(i)",
@@ -39245,7 +41499,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-153.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-154.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-155.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q56c(ii)",
@@ -39277,7 +41532,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-153.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-154.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-155.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q57a",
@@ -39304,7 +41560,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-155.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-156.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q57b(i)",
@@ -39331,7 +41588,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-155.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-156.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q57b(ii)",
@@ -39358,7 +41616,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-155.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-156.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q57b(iii)",
@@ -39385,7 +41644,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-155.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-156.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q57c",
@@ -39412,7 +41672,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/04BC-Classification-Biodiversity-155.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-156.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q58a",
@@ -39441,7 +41702,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-157.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-158.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-159.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q58b(i)",
@@ -39465,7 +41727,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-157.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-158.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-159.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q58b(ii)",
@@ -39489,7 +41752,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-157.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-158.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-159.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q58b(iii)",
@@ -39518,7 +41782,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-157.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-158.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-159.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q58c(i)",
@@ -39547,7 +41812,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-157.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-158.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-159.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4BC-Q58c(ii)",
@@ -39571,7 +41837,8 @@ window.BANK.biology = {
       "papers/biology/img/04BC-Classification-Biodiversity-157.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-158.jpg",
       "papers/biology/img/04BC-Classification-Biodiversity-159.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -39602,7 +41869,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-01.jpg",
       "papers/biology/img/05A-Photosynthesis-02.jpg",
       "papers/biology/img/05A-Photosynthesis-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q1a(ii)",
@@ -39630,7 +41898,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-01.jpg",
       "papers/biology/img/05A-Photosynthesis-02.jpg",
       "papers/biology/img/05A-Photosynthesis-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q1b(i)",
@@ -39659,7 +41928,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-01.jpg",
       "papers/biology/img/05A-Photosynthesis-02.jpg",
       "papers/biology/img/05A-Photosynthesis-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q1b(ii)",
@@ -39683,7 +41953,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-01.jpg",
       "papers/biology/img/05A-Photosynthesis-02.jpg",
       "papers/biology/img/05A-Photosynthesis-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q2a(i)",
@@ -39708,7 +41979,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-04.jpg",
       "papers/biology/img/05A-Photosynthesis-05.jpg",
       "papers/biology/img/05A-Photosynthesis-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q2a(ii)",
@@ -39738,7 +42010,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-04.jpg",
       "papers/biology/img/05A-Photosynthesis-05.jpg",
       "papers/biology/img/05A-Photosynthesis-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q2b(i)",
@@ -39762,7 +42035,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-04.jpg",
       "papers/biology/img/05A-Photosynthesis-05.jpg",
       "papers/biology/img/05A-Photosynthesis-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q2b(ii)",
@@ -39789,7 +42063,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-04.jpg",
       "papers/biology/img/05A-Photosynthesis-05.jpg",
       "papers/biology/img/05A-Photosynthesis-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q2c(i)",
@@ -39813,7 +42088,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-04.jpg",
       "papers/biology/img/05A-Photosynthesis-05.jpg",
       "papers/biology/img/05A-Photosynthesis-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q2c(ii)",
@@ -39841,7 +42117,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-04.jpg",
       "papers/biology/img/05A-Photosynthesis-05.jpg",
       "papers/biology/img/05A-Photosynthesis-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q3a",
@@ -39864,7 +42141,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-06.jpg",
       "papers/biology/img/05A-Photosynthesis-07.jpg",
       "papers/biology/img/05A-Photosynthesis-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q3b",
@@ -39888,7 +42166,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-06.jpg",
       "papers/biology/img/05A-Photosynthesis-07.jpg",
       "papers/biology/img/05A-Photosynthesis-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q3c",
@@ -39915,7 +42194,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-06.jpg",
       "papers/biology/img/05A-Photosynthesis-07.jpg",
       "papers/biology/img/05A-Photosynthesis-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q3d",
@@ -39941,7 +42221,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-06.jpg",
       "papers/biology/img/05A-Photosynthesis-07.jpg",
       "papers/biology/img/05A-Photosynthesis-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q3e(i)",
@@ -39968,7 +42249,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-06.jpg",
       "papers/biology/img/05A-Photosynthesis-07.jpg",
       "papers/biology/img/05A-Photosynthesis-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q3e(ii)",
@@ -39991,7 +42273,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-06.jpg",
       "papers/biology/img/05A-Photosynthesis-07.jpg",
       "papers/biology/img/05A-Photosynthesis-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q4a",
@@ -40020,7 +42303,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-08.jpg",
       "papers/biology/img/05A-Photosynthesis-09.jpg",
       "papers/biology/img/05A-Photosynthesis-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q4b(i)",
@@ -40043,7 +42327,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-08.jpg",
       "papers/biology/img/05A-Photosynthesis-09.jpg",
       "papers/biology/img/05A-Photosynthesis-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q4b(ii)",
@@ -40070,7 +42355,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-08.jpg",
       "papers/biology/img/05A-Photosynthesis-09.jpg",
       "papers/biology/img/05A-Photosynthesis-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q4b(iii)",
@@ -40099,7 +42385,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-08.jpg",
       "papers/biology/img/05A-Photosynthesis-09.jpg",
       "papers/biology/img/05A-Photosynthesis-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q5a",
@@ -40127,7 +42414,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-11.jpg",
       "papers/biology/img/05A-Photosynthesis-12.jpg",
       "papers/biology/img/05A-Photosynthesis-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q5b",
@@ -40156,7 +42444,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-11.jpg",
       "papers/biology/img/05A-Photosynthesis-12.jpg",
       "papers/biology/img/05A-Photosynthesis-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q5c(i)",
@@ -40181,7 +42470,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-11.jpg",
       "papers/biology/img/05A-Photosynthesis-12.jpg",
       "papers/biology/img/05A-Photosynthesis-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q5c(ii)",
@@ -40210,7 +42500,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-11.jpg",
       "papers/biology/img/05A-Photosynthesis-12.jpg",
       "papers/biology/img/05A-Photosynthesis-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q6a(i)",
@@ -40239,7 +42530,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-13.jpg",
       "papers/biology/img/05A-Photosynthesis-14.jpg",
       "papers/biology/img/05A-Photosynthesis-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q6a(ii)",
@@ -40267,7 +42559,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-13.jpg",
       "papers/biology/img/05A-Photosynthesis-14.jpg",
       "papers/biology/img/05A-Photosynthesis-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q6a(iii)",
@@ -40296,7 +42589,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-13.jpg",
       "papers/biology/img/05A-Photosynthesis-14.jpg",
       "papers/biology/img/05A-Photosynthesis-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q6b(i)",
@@ -40319,7 +42613,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-13.jpg",
       "papers/biology/img/05A-Photosynthesis-14.jpg",
       "papers/biology/img/05A-Photosynthesis-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q6b(ii)",
@@ -40347,7 +42642,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-13.jpg",
       "papers/biology/img/05A-Photosynthesis-14.jpg",
       "papers/biology/img/05A-Photosynthesis-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q6b(iii)",
@@ -40371,7 +42667,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-13.jpg",
       "papers/biology/img/05A-Photosynthesis-14.jpg",
       "papers/biology/img/05A-Photosynthesis-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q7a(i)",
@@ -40394,7 +42691,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-15.jpg",
       "papers/biology/img/05A-Photosynthesis-16.jpg",
       "papers/biology/img/05A-Photosynthesis-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q7a(ii)",
@@ -40417,7 +42715,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-15.jpg",
       "papers/biology/img/05A-Photosynthesis-16.jpg",
       "papers/biology/img/05A-Photosynthesis-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q7a(iii)",
@@ -40443,7 +42742,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-15.jpg",
       "papers/biology/img/05A-Photosynthesis-16.jpg",
       "papers/biology/img/05A-Photosynthesis-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q7b(i)",
@@ -40466,7 +42766,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-15.jpg",
       "papers/biology/img/05A-Photosynthesis-16.jpg",
       "papers/biology/img/05A-Photosynthesis-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q7b(ii)",
@@ -40494,7 +42795,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-15.jpg",
       "papers/biology/img/05A-Photosynthesis-16.jpg",
       "papers/biology/img/05A-Photosynthesis-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q8a",
@@ -40517,7 +42819,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-17.jpg",
       "papers/biology/img/05A-Photosynthesis-18.jpg",
       "papers/biology/img/05A-Photosynthesis-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q8b(i)",
@@ -40541,7 +42844,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-17.jpg",
       "papers/biology/img/05A-Photosynthesis-18.jpg",
       "papers/biology/img/05A-Photosynthesis-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q8b(ii)",
@@ -40570,7 +42874,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-17.jpg",
       "papers/biology/img/05A-Photosynthesis-18.jpg",
       "papers/biology/img/05A-Photosynthesis-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q9a(i)",
@@ -40595,7 +42900,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-21.jpg",
       "papers/biology/img/05A-Photosynthesis-22.jpg",
       "papers/biology/img/05A-Photosynthesis-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q9a(ii)",
@@ -40620,7 +42926,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-21.jpg",
       "papers/biology/img/05A-Photosynthesis-22.jpg",
       "papers/biology/img/05A-Photosynthesis-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q9a(iii)",
@@ -40645,7 +42952,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-21.jpg",
       "papers/biology/img/05A-Photosynthesis-22.jpg",
       "papers/biology/img/05A-Photosynthesis-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q9a(iv)",
@@ -40669,7 +42977,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-21.jpg",
       "papers/biology/img/05A-Photosynthesis-22.jpg",
       "papers/biology/img/05A-Photosynthesis-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q9b(i)",
@@ -40698,7 +43007,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-21.jpg",
       "papers/biology/img/05A-Photosynthesis-22.jpg",
       "papers/biology/img/05A-Photosynthesis-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q9b(ii)",
@@ -40723,7 +43033,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-21.jpg",
       "papers/biology/img/05A-Photosynthesis-22.jpg",
       "papers/biology/img/05A-Photosynthesis-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q9b(iii)",
@@ -40747,7 +43058,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-21.jpg",
       "papers/biology/img/05A-Photosynthesis-22.jpg",
       "papers/biology/img/05A-Photosynthesis-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q9b(iv)",
@@ -40773,7 +43085,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-21.jpg",
       "papers/biology/img/05A-Photosynthesis-22.jpg",
       "papers/biology/img/05A-Photosynthesis-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q10a",
@@ -40798,7 +43111,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05A-Photosynthesis-23.jpg",
       "papers/biology/img/05A-Photosynthesis-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q10b",
@@ -40821,7 +43135,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05A-Photosynthesis-23.jpg",
       "papers/biology/img/05A-Photosynthesis-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q11a(i)",
@@ -40845,7 +43160,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-25.jpg",
       "papers/biology/img/05A-Photosynthesis-26.jpg",
       "papers/biology/img/05A-Photosynthesis-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q11a(ii)",
@@ -40869,7 +43185,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-25.jpg",
       "papers/biology/img/05A-Photosynthesis-26.jpg",
       "papers/biology/img/05A-Photosynthesis-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q11a(iii)",
@@ -40893,7 +43210,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-25.jpg",
       "papers/biology/img/05A-Photosynthesis-26.jpg",
       "papers/biology/img/05A-Photosynthesis-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q11b",
@@ -40917,7 +43235,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-25.jpg",
       "papers/biology/img/05A-Photosynthesis-26.jpg",
       "papers/biology/img/05A-Photosynthesis-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q11c",
@@ -40947,7 +43266,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-25.jpg",
       "papers/biology/img/05A-Photosynthesis-26.jpg",
       "papers/biology/img/05A-Photosynthesis-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q12a",
@@ -40969,7 +43289,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05A-Photosynthesis-28.jpg",
       "papers/biology/img/05A-Photosynthesis-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q12b",
@@ -40991,7 +43312,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05A-Photosynthesis-28.jpg",
       "papers/biology/img/05A-Photosynthesis-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q12c",
@@ -41013,7 +43335,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05A-Photosynthesis-28.jpg",
       "papers/biology/img/05A-Photosynthesis-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q12d(i)",
@@ -41035,7 +43358,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05A-Photosynthesis-28.jpg",
       "papers/biology/img/05A-Photosynthesis-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q12d(ii)",
@@ -41061,7 +43385,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05A-Photosynthesis-28.jpg",
       "papers/biology/img/05A-Photosynthesis-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q12e",
@@ -41083,7 +43408,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05A-Photosynthesis-28.jpg",
       "papers/biology/img/05A-Photosynthesis-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q13a",
@@ -41111,7 +43437,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05A-Photosynthesis-30.jpg",
       "papers/biology/img/05A-Photosynthesis-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q13b(i)",
@@ -41133,7 +43460,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05A-Photosynthesis-30.jpg",
       "papers/biology/img/05A-Photosynthesis-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q13b(ii)",
@@ -41161,7 +43489,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05A-Photosynthesis-30.jpg",
       "papers/biology/img/05A-Photosynthesis-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q13b(iii)",
@@ -41188,7 +43517,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05A-Photosynthesis-30.jpg",
       "papers/biology/img/05A-Photosynthesis-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q14a",
@@ -41218,7 +43548,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-32.jpg",
       "papers/biology/img/05A-Photosynthesis-33.jpg",
       "papers/biology/img/05A-Photosynthesis-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q14b(i)",
@@ -41246,7 +43577,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-32.jpg",
       "papers/biology/img/05A-Photosynthesis-33.jpg",
       "papers/biology/img/05A-Photosynthesis-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q14b(ii)",
@@ -41276,7 +43608,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-32.jpg",
       "papers/biology/img/05A-Photosynthesis-33.jpg",
       "papers/biology/img/05A-Photosynthesis-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q14c",
@@ -41306,7 +43639,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-32.jpg",
       "papers/biology/img/05A-Photosynthesis-33.jpg",
       "papers/biology/img/05A-Photosynthesis-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q14d",
@@ -41331,7 +43665,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-32.jpg",
       "papers/biology/img/05A-Photosynthesis-33.jpg",
       "papers/biology/img/05A-Photosynthesis-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q15a",
@@ -41361,7 +43696,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-36.jpg",
       "papers/biology/img/05A-Photosynthesis-37.jpg",
       "papers/biology/img/05A-Photosynthesis-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q15b(i)",
@@ -41389,7 +43725,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-36.jpg",
       "papers/biology/img/05A-Photosynthesis-37.jpg",
       "papers/biology/img/05A-Photosynthesis-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q15b(ii)",
@@ -41414,7 +43751,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-36.jpg",
       "papers/biology/img/05A-Photosynthesis-37.jpg",
       "papers/biology/img/05A-Photosynthesis-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q15b(iii)",
@@ -41439,7 +43777,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-36.jpg",
       "papers/biology/img/05A-Photosynthesis-37.jpg",
       "papers/biology/img/05A-Photosynthesis-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q15b(iv)",
@@ -41468,7 +43807,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-36.jpg",
       "papers/biology/img/05A-Photosynthesis-37.jpg",
       "papers/biology/img/05A-Photosynthesis-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q16a(i)",
@@ -41493,7 +43833,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-40.jpg",
       "papers/biology/img/05A-Photosynthesis-41.jpg",
       "papers/biology/img/05A-Photosynthesis-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q16a(ii)",
@@ -41517,7 +43858,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-40.jpg",
       "papers/biology/img/05A-Photosynthesis-41.jpg",
       "papers/biology/img/05A-Photosynthesis-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q16a(iii)",
@@ -41541,7 +43883,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-40.jpg",
       "papers/biology/img/05A-Photosynthesis-41.jpg",
       "papers/biology/img/05A-Photosynthesis-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q16a(iv)",
@@ -41571,7 +43914,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-40.jpg",
       "papers/biology/img/05A-Photosynthesis-41.jpg",
       "papers/biology/img/05A-Photosynthesis-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q16b(i)",
@@ -41599,7 +43943,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-40.jpg",
       "papers/biology/img/05A-Photosynthesis-41.jpg",
       "papers/biology/img/05A-Photosynthesis-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q16b(ii)",
@@ -41624,7 +43969,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-40.jpg",
       "papers/biology/img/05A-Photosynthesis-41.jpg",
       "papers/biology/img/05A-Photosynthesis-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q16b(iii)",
@@ -41652,7 +43998,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-40.jpg",
       "papers/biology/img/05A-Photosynthesis-41.jpg",
       "papers/biology/img/05A-Photosynthesis-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q17a(i)",
@@ -41678,7 +44025,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-42.jpg",
       "papers/biology/img/05A-Photosynthesis-43.jpg",
       "papers/biology/img/05A-Photosynthesis-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q17a(ii)",
@@ -41705,7 +44053,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-42.jpg",
       "papers/biology/img/05A-Photosynthesis-43.jpg",
       "papers/biology/img/05A-Photosynthesis-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q17b(i)",
@@ -41733,7 +44082,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-42.jpg",
       "papers/biology/img/05A-Photosynthesis-43.jpg",
       "papers/biology/img/05A-Photosynthesis-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q17b(ii)",
@@ -41760,7 +44110,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-42.jpg",
       "papers/biology/img/05A-Photosynthesis-43.jpg",
       "papers/biology/img/05A-Photosynthesis-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q17b(iii)",
@@ -41790,7 +44141,8 @@ window.BANK.biology = {
       "papers/biology/img/05A-Photosynthesis-42.jpg",
       "papers/biology/img/05A-Photosynthesis-43.jpg",
       "papers/biology/img/05A-Photosynthesis-44.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -41821,7 +44173,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-001.jpg",
       "papers/biology/img/05BC-Ecology-Climate-002.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q1b(i)",
@@ -41849,7 +44202,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-001.jpg",
       "papers/biology/img/05BC-Ecology-Climate-002.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q1b(ii)",
@@ -41877,7 +44231,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-001.jpg",
       "papers/biology/img/05BC-Ecology-Climate-002.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q1b(iii)",
@@ -41905,7 +44260,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-001.jpg",
       "papers/biology/img/05BC-Ecology-Climate-002.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q2a",
@@ -41931,7 +44287,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-003.jpg",
       "papers/biology/img/05BC-Ecology-Climate-004.jpg",
       "papers/biology/img/05BC-Ecology-Climate-005.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q2b(i)",
@@ -41956,7 +44313,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-003.jpg",
       "papers/biology/img/05BC-Ecology-Climate-004.jpg",
       "papers/biology/img/05BC-Ecology-Climate-005.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q2b(ii)",
@@ -41988,7 +44346,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-003.jpg",
       "papers/biology/img/05BC-Ecology-Climate-004.jpg",
       "papers/biology/img/05BC-Ecology-Climate-005.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q3a(i)",
@@ -42013,7 +44372,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-006.jpg",
       "papers/biology/img/05BC-Ecology-Climate-007.jpg",
       "papers/biology/img/05BC-Ecology-Climate-008.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q3a(ii)",
@@ -42038,7 +44398,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-006.jpg",
       "papers/biology/img/05BC-Ecology-Climate-007.jpg",
       "papers/biology/img/05BC-Ecology-Climate-008.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q3a(iii)",
@@ -42068,7 +44429,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-006.jpg",
       "papers/biology/img/05BC-Ecology-Climate-007.jpg",
       "papers/biology/img/05BC-Ecology-Climate-008.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q3b(i)",
@@ -42093,7 +44455,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-006.jpg",
       "papers/biology/img/05BC-Ecology-Climate-007.jpg",
       "papers/biology/img/05BC-Ecology-Climate-008.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q3b(ii)",
@@ -42118,7 +44481,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-006.jpg",
       "papers/biology/img/05BC-Ecology-Climate-007.jpg",
       "papers/biology/img/05BC-Ecology-Climate-008.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q3b(iii)",
@@ -42148,7 +44512,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-006.jpg",
       "papers/biology/img/05BC-Ecology-Climate-007.jpg",
       "papers/biology/img/05BC-Ecology-Climate-008.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q3b(iv)",
@@ -42173,7 +44538,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-006.jpg",
       "papers/biology/img/05BC-Ecology-Climate-007.jpg",
       "papers/biology/img/05BC-Ecology-Climate-008.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q4a",
@@ -42197,7 +44563,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-008.jpg",
       "papers/biology/img/05BC-Ecology-Climate-009.jpg",
       "papers/biology/img/05BC-Ecology-Climate-010.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q4b",
@@ -42226,7 +44593,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-008.jpg",
       "papers/biology/img/05BC-Ecology-Climate-009.jpg",
       "papers/biology/img/05BC-Ecology-Climate-010.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q4c",
@@ -42255,7 +44623,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-008.jpg",
       "papers/biology/img/05BC-Ecology-Climate-009.jpg",
       "papers/biology/img/05BC-Ecology-Climate-010.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q4d",
@@ -42284,7 +44653,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-008.jpg",
       "papers/biology/img/05BC-Ecology-Climate-009.jpg",
       "papers/biology/img/05BC-Ecology-Climate-010.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q5a(i)",
@@ -42315,7 +44685,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-012.jpg",
       "papers/biology/img/05BC-Ecology-Climate-013.jpg",
       "papers/biology/img/05BC-Ecology-Climate-014.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q5a(ii)",
@@ -42346,7 +44717,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-012.jpg",
       "papers/biology/img/05BC-Ecology-Climate-013.jpg",
       "papers/biology/img/05BC-Ecology-Climate-014.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q5b",
@@ -42372,7 +44744,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-012.jpg",
       "papers/biology/img/05BC-Ecology-Climate-013.jpg",
       "papers/biology/img/05BC-Ecology-Climate-014.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q6a",
@@ -42400,7 +44773,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-014.jpg",
       "papers/biology/img/05BC-Ecology-Climate-015.jpg",
       "papers/biology/img/05BC-Ecology-Climate-016.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q6b",
@@ -42429,7 +44803,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-014.jpg",
       "papers/biology/img/05BC-Ecology-Climate-015.jpg",
       "papers/biology/img/05BC-Ecology-Climate-016.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q6c",
@@ -42458,7 +44833,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-014.jpg",
       "papers/biology/img/05BC-Ecology-Climate-015.jpg",
       "papers/biology/img/05BC-Ecology-Climate-016.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q6d",
@@ -42487,7 +44863,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-014.jpg",
       "papers/biology/img/05BC-Ecology-Climate-015.jpg",
       "papers/biology/img/05BC-Ecology-Climate-016.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q7a(i)",
@@ -42516,7 +44893,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-016.jpg",
       "papers/biology/img/05BC-Ecology-Climate-017.jpg",
       "papers/biology/img/05BC-Ecology-Climate-018.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q7a(ii)",
@@ -42545,7 +44923,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-016.jpg",
       "papers/biology/img/05BC-Ecology-Climate-017.jpg",
       "papers/biology/img/05BC-Ecology-Climate-018.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q7b(i)",
@@ -42574,7 +44953,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-016.jpg",
       "papers/biology/img/05BC-Ecology-Climate-017.jpg",
       "papers/biology/img/05BC-Ecology-Climate-018.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q7b(ii)",
@@ -42598,7 +44978,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-016.jpg",
       "papers/biology/img/05BC-Ecology-Climate-017.jpg",
       "papers/biology/img/05BC-Ecology-Climate-018.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q7b(iii)",
@@ -42622,7 +45003,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-016.jpg",
       "papers/biology/img/05BC-Ecology-Climate-017.jpg",
       "papers/biology/img/05BC-Ecology-Climate-018.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q7c",
@@ -42646,7 +45028,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-016.jpg",
       "papers/biology/img/05BC-Ecology-Climate-017.jpg",
       "papers/biology/img/05BC-Ecology-Climate-018.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q8a(i)",
@@ -42677,7 +45060,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-021.jpg",
       "papers/biology/img/05BC-Ecology-Climate-022.jpg",
       "papers/biology/img/05BC-Ecology-Climate-023.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q8a(ii)",
@@ -42703,7 +45087,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-021.jpg",
       "papers/biology/img/05BC-Ecology-Climate-022.jpg",
       "papers/biology/img/05BC-Ecology-Climate-023.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q8a(iii)",
@@ -42729,7 +45114,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-021.jpg",
       "papers/biology/img/05BC-Ecology-Climate-022.jpg",
       "papers/biology/img/05BC-Ecology-Climate-023.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q8b(i)",
@@ -42755,7 +45141,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-021.jpg",
       "papers/biology/img/05BC-Ecology-Climate-022.jpg",
       "papers/biology/img/05BC-Ecology-Climate-023.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q8b(ii)",
@@ -42781,7 +45168,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-021.jpg",
       "papers/biology/img/05BC-Ecology-Climate-022.jpg",
       "papers/biology/img/05BC-Ecology-Climate-023.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q9a(i)",
@@ -42811,7 +45199,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-024.jpg",
       "papers/biology/img/05BC-Ecology-Climate-025.jpg",
       "papers/biology/img/05BC-Ecology-Climate-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q9a(ii)",
@@ -42841,7 +45230,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-024.jpg",
       "papers/biology/img/05BC-Ecology-Climate-025.jpg",
       "papers/biology/img/05BC-Ecology-Climate-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q9b(i)",
@@ -42865,7 +45255,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-024.jpg",
       "papers/biology/img/05BC-Ecology-Climate-025.jpg",
       "papers/biology/img/05BC-Ecology-Climate-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q9b(ii)",
@@ -42890,7 +45281,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-024.jpg",
       "papers/biology/img/05BC-Ecology-Climate-025.jpg",
       "papers/biology/img/05BC-Ecology-Climate-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q9b(iii)",
@@ -42920,7 +45312,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-024.jpg",
       "papers/biology/img/05BC-Ecology-Climate-025.jpg",
       "papers/biology/img/05BC-Ecology-Climate-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q9b(iv)",
@@ -42945,7 +45338,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-024.jpg",
       "papers/biology/img/05BC-Ecology-Climate-025.jpg",
       "papers/biology/img/05BC-Ecology-Climate-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q10a(i)",
@@ -42976,7 +45370,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-028.jpg",
       "papers/biology/img/05BC-Ecology-Climate-029.jpg",
       "papers/biology/img/05BC-Ecology-Climate-030.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q10a(ii)",
@@ -43002,7 +45397,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-028.jpg",
       "papers/biology/img/05BC-Ecology-Climate-029.jpg",
       "papers/biology/img/05BC-Ecology-Climate-030.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q10b(i)",
@@ -43028,7 +45424,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-028.jpg",
       "papers/biology/img/05BC-Ecology-Climate-029.jpg",
       "papers/biology/img/05BC-Ecology-Climate-030.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q10b(ii)",
@@ -43054,7 +45451,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-028.jpg",
       "papers/biology/img/05BC-Ecology-Climate-029.jpg",
       "papers/biology/img/05BC-Ecology-Climate-030.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q10b(iii)",
@@ -43085,7 +45483,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-028.jpg",
       "papers/biology/img/05BC-Ecology-Climate-029.jpg",
       "papers/biology/img/05BC-Ecology-Climate-030.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q10c",
@@ -43118,7 +45517,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-028.jpg",
       "papers/biology/img/05BC-Ecology-Climate-029.jpg",
       "papers/biology/img/05BC-Ecology-Climate-030.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q11a",
@@ -43148,7 +45548,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-031.jpg",
       "papers/biology/img/05BC-Ecology-Climate-032.jpg",
       "papers/biology/img/05BC-Ecology-Climate-033.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q11b(i)",
@@ -43173,7 +45574,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-031.jpg",
       "papers/biology/img/05BC-Ecology-Climate-032.jpg",
       "papers/biology/img/05BC-Ecology-Climate-033.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q11b(ii)",
@@ -43203,7 +45605,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-031.jpg",
       "papers/biology/img/05BC-Ecology-Climate-032.jpg",
       "papers/biology/img/05BC-Ecology-Climate-033.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q11b(iii)",
@@ -43233,7 +45636,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-031.jpg",
       "papers/biology/img/05BC-Ecology-Climate-032.jpg",
       "papers/biology/img/05BC-Ecology-Climate-033.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q11c",
@@ -43258,7 +45662,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-031.jpg",
       "papers/biology/img/05BC-Ecology-Climate-032.jpg",
       "papers/biology/img/05BC-Ecology-Climate-033.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q12a",
@@ -43288,7 +45693,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-034.jpg",
       "papers/biology/img/05BC-Ecology-Climate-035.jpg",
       "papers/biology/img/05BC-Ecology-Climate-036.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q12b(i)",
@@ -43318,7 +45724,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-034.jpg",
       "papers/biology/img/05BC-Ecology-Climate-035.jpg",
       "papers/biology/img/05BC-Ecology-Climate-036.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q12b(ii)",
@@ -43349,7 +45756,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-034.jpg",
       "papers/biology/img/05BC-Ecology-Climate-035.jpg",
       "papers/biology/img/05BC-Ecology-Climate-036.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q12b(iii)",
@@ -43373,7 +45781,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-034.jpg",
       "papers/biology/img/05BC-Ecology-Climate-035.jpg",
       "papers/biology/img/05BC-Ecology-Climate-036.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q12c",
@@ -43398,7 +45807,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-034.jpg",
       "papers/biology/img/05BC-Ecology-Climate-035.jpg",
       "papers/biology/img/05BC-Ecology-Climate-036.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q13a(i)",
@@ -43424,7 +45834,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-038.jpg",
       "papers/biology/img/05BC-Ecology-Climate-039.jpg",
       "papers/biology/img/05BC-Ecology-Climate-040.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q13a(ii)",
@@ -43450,7 +45861,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-038.jpg",
       "papers/biology/img/05BC-Ecology-Climate-039.jpg",
       "papers/biology/img/05BC-Ecology-Climate-040.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q13a(iii)",
@@ -43476,7 +45888,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-038.jpg",
       "papers/biology/img/05BC-Ecology-Climate-039.jpg",
       "papers/biology/img/05BC-Ecology-Climate-040.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q13b(i)",
@@ -43502,7 +45915,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-038.jpg",
       "papers/biology/img/05BC-Ecology-Climate-039.jpg",
       "papers/biology/img/05BC-Ecology-Climate-040.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q13b(ii)",
@@ -43534,7 +45948,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-038.jpg",
       "papers/biology/img/05BC-Ecology-Climate-039.jpg",
       "papers/biology/img/05BC-Ecology-Climate-040.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q14a(i)",
@@ -43563,7 +45978,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-040.jpg",
       "papers/biology/img/05BC-Ecology-Climate-041.jpg",
       "papers/biology/img/05BC-Ecology-Climate-042.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q14a(ii)",
@@ -43592,7 +46008,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-040.jpg",
       "papers/biology/img/05BC-Ecology-Climate-041.jpg",
       "papers/biology/img/05BC-Ecology-Climate-042.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q14a(iii)",
@@ -43622,7 +46039,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-040.jpg",
       "papers/biology/img/05BC-Ecology-Climate-041.jpg",
       "papers/biology/img/05BC-Ecology-Climate-042.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q14a(iv)",
@@ -43652,7 +46070,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-040.jpg",
       "papers/biology/img/05BC-Ecology-Climate-041.jpg",
       "papers/biology/img/05BC-Ecology-Climate-042.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q14b",
@@ -43675,7 +46094,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-040.jpg",
       "papers/biology/img/05BC-Ecology-Climate-041.jpg",
       "papers/biology/img/05BC-Ecology-Climate-042.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q15a(i)",
@@ -43698,7 +46118,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-042.jpg",
       "papers/biology/img/05BC-Ecology-Climate-043.jpg",
       "papers/biology/img/05BC-Ecology-Climate-044.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q15a(ii)",
@@ -43727,7 +46148,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-042.jpg",
       "papers/biology/img/05BC-Ecology-Climate-043.jpg",
       "papers/biology/img/05BC-Ecology-Climate-044.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q15b(i)",
@@ -43756,7 +46178,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-042.jpg",
       "papers/biology/img/05BC-Ecology-Climate-043.jpg",
       "papers/biology/img/05BC-Ecology-Climate-044.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q15b(ii)",
@@ -43780,7 +46203,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-042.jpg",
       "papers/biology/img/05BC-Ecology-Climate-043.jpg",
       "papers/biology/img/05BC-Ecology-Climate-044.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q16a",
@@ -43806,7 +46230,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-046.jpg",
       "papers/biology/img/05BC-Ecology-Climate-047.jpg",
       "papers/biology/img/05BC-Ecology-Climate-048.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q16b(i)",
@@ -43839,7 +46264,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-046.jpg",
       "papers/biology/img/05BC-Ecology-Climate-047.jpg",
       "papers/biology/img/05BC-Ecology-Climate-048.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q16b(ii)",
@@ -43865,7 +46291,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-046.jpg",
       "papers/biology/img/05BC-Ecology-Climate-047.jpg",
       "papers/biology/img/05BC-Ecology-Climate-048.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q16c",
@@ -43896,7 +46323,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-046.jpg",
       "papers/biology/img/05BC-Ecology-Climate-047.jpg",
       "papers/biology/img/05BC-Ecology-Climate-048.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q17a(i)",
@@ -43926,7 +46354,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-049.jpg",
       "papers/biology/img/05BC-Ecology-Climate-050.jpg",
       "papers/biology/img/05BC-Ecology-Climate-051.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q17a(ii)",
@@ -43956,7 +46385,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-049.jpg",
       "papers/biology/img/05BC-Ecology-Climate-050.jpg",
       "papers/biology/img/05BC-Ecology-Climate-051.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q17b(i)",
@@ -43980,7 +46410,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-049.jpg",
       "papers/biology/img/05BC-Ecology-Climate-050.jpg",
       "papers/biology/img/05BC-Ecology-Climate-051.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q17b(ii)",
@@ -44010,7 +46441,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-049.jpg",
       "papers/biology/img/05BC-Ecology-Climate-050.jpg",
       "papers/biology/img/05BC-Ecology-Climate-051.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q17b(iii)",
@@ -44040,7 +46472,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-049.jpg",
       "papers/biology/img/05BC-Ecology-Climate-050.jpg",
       "papers/biology/img/05BC-Ecology-Climate-051.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q18a",
@@ -44070,7 +46503,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-052.jpg",
       "papers/biology/img/05BC-Ecology-Climate-053.jpg",
       "papers/biology/img/05BC-Ecology-Climate-054.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q18b",
@@ -44100,7 +46534,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-052.jpg",
       "papers/biology/img/05BC-Ecology-Climate-053.jpg",
       "papers/biology/img/05BC-Ecology-Climate-054.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q18c",
@@ -44125,7 +46560,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-052.jpg",
       "papers/biology/img/05BC-Ecology-Climate-053.jpg",
       "papers/biology/img/05BC-Ecology-Climate-054.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q18d",
@@ -44151,7 +46587,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-052.jpg",
       "papers/biology/img/05BC-Ecology-Climate-053.jpg",
       "papers/biology/img/05BC-Ecology-Climate-054.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q19a(i)",
@@ -44176,7 +46613,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-055.jpg",
       "papers/biology/img/05BC-Ecology-Climate-056.jpg",
       "papers/biology/img/05BC-Ecology-Climate-057.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q19a(ii)",
@@ -44201,7 +46639,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-055.jpg",
       "papers/biology/img/05BC-Ecology-Climate-056.jpg",
       "papers/biology/img/05BC-Ecology-Climate-057.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q19a(iii)",
@@ -44226,7 +46665,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-055.jpg",
       "papers/biology/img/05BC-Ecology-Climate-056.jpg",
       "papers/biology/img/05BC-Ecology-Climate-057.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q19a(iv)",
@@ -44251,7 +46691,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-055.jpg",
       "papers/biology/img/05BC-Ecology-Climate-056.jpg",
       "papers/biology/img/05BC-Ecology-Climate-057.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q19b(i)",
@@ -44281,7 +46722,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-055.jpg",
       "papers/biology/img/05BC-Ecology-Climate-056.jpg",
       "papers/biology/img/05BC-Ecology-Climate-057.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q19b(ii)",
@@ -44306,7 +46748,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-055.jpg",
       "papers/biology/img/05BC-Ecology-Climate-056.jpg",
       "papers/biology/img/05BC-Ecology-Climate-057.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q19b(iii)",
@@ -44335,7 +46778,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-055.jpg",
       "papers/biology/img/05BC-Ecology-Climate-056.jpg",
       "papers/biology/img/05BC-Ecology-Climate-057.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q19b(iv)",
@@ -44360,7 +46804,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-055.jpg",
       "papers/biology/img/05BC-Ecology-Climate-056.jpg",
       "papers/biology/img/05BC-Ecology-Climate-057.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q20a(i)",
@@ -44388,7 +46833,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-058.jpg",
       "papers/biology/img/05BC-Ecology-Climate-059.jpg",
       "papers/biology/img/05BC-Ecology-Climate-060.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q20a(ii)",
@@ -44417,7 +46863,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-058.jpg",
       "papers/biology/img/05BC-Ecology-Climate-059.jpg",
       "papers/biology/img/05BC-Ecology-Climate-060.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q20b",
@@ -44447,7 +46894,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-058.jpg",
       "papers/biology/img/05BC-Ecology-Climate-059.jpg",
       "papers/biology/img/05BC-Ecology-Climate-060.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q20c",
@@ -44476,7 +46924,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-058.jpg",
       "papers/biology/img/05BC-Ecology-Climate-059.jpg",
       "papers/biology/img/05BC-Ecology-Climate-060.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q21a",
@@ -44505,7 +46954,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-060.jpg",
       "papers/biology/img/05BC-Ecology-Climate-061.jpg",
       "papers/biology/img/05BC-Ecology-Climate-062.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q21b",
@@ -44529,7 +46979,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-060.jpg",
       "papers/biology/img/05BC-Ecology-Climate-061.jpg",
       "papers/biology/img/05BC-Ecology-Climate-062.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q21c",
@@ -44553,7 +47004,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-060.jpg",
       "papers/biology/img/05BC-Ecology-Climate-061.jpg",
       "papers/biology/img/05BC-Ecology-Climate-062.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q21d(i)",
@@ -44582,7 +47034,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-060.jpg",
       "papers/biology/img/05BC-Ecology-Climate-061.jpg",
       "papers/biology/img/05BC-Ecology-Climate-062.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q21d(ii)",
@@ -44611,7 +47064,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-060.jpg",
       "papers/biology/img/05BC-Ecology-Climate-061.jpg",
       "papers/biology/img/05BC-Ecology-Climate-062.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q22a(i)",
@@ -44639,7 +47093,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-062.jpg",
       "papers/biology/img/05BC-Ecology-Climate-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q22a(ii)",
@@ -44662,7 +47117,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-062.jpg",
       "papers/biology/img/05BC-Ecology-Climate-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q22b",
@@ -44692,7 +47148,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-062.jpg",
       "papers/biology/img/05BC-Ecology-Climate-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q23a(i)",
@@ -44716,7 +47173,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-063.jpg",
       "papers/biology/img/05BC-Ecology-Climate-064.jpg",
       "papers/biology/img/05BC-Ecology-Climate-065.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q23a(ii)",
@@ -44740,7 +47198,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-063.jpg",
       "papers/biology/img/05BC-Ecology-Climate-064.jpg",
       "papers/biology/img/05BC-Ecology-Climate-065.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q23b",
@@ -44769,7 +47228,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-063.jpg",
       "papers/biology/img/05BC-Ecology-Climate-064.jpg",
       "papers/biology/img/05BC-Ecology-Climate-065.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q24a",
@@ -44794,7 +47254,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-066.jpg",
       "papers/biology/img/05BC-Ecology-Climate-067.jpg",
       "papers/biology/img/05BC-Ecology-Climate-068.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q24b",
@@ -44824,7 +47285,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-066.jpg",
       "papers/biology/img/05BC-Ecology-Climate-067.jpg",
       "papers/biology/img/05BC-Ecology-Climate-068.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q24c",
@@ -44854,7 +47316,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-066.jpg",
       "papers/biology/img/05BC-Ecology-Climate-067.jpg",
       "papers/biology/img/05BC-Ecology-Climate-068.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q25a",
@@ -44883,7 +47346,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-068.jpg",
       "papers/biology/img/05BC-Ecology-Climate-069.jpg",
       "papers/biology/img/05BC-Ecology-Climate-070.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q25b(i)",
@@ -44907,7 +47371,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-068.jpg",
       "papers/biology/img/05BC-Ecology-Climate-069.jpg",
       "papers/biology/img/05BC-Ecology-Climate-070.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q25b(ii)",
@@ -44931,7 +47396,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-068.jpg",
       "papers/biology/img/05BC-Ecology-Climate-069.jpg",
       "papers/biology/img/05BC-Ecology-Climate-070.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q26a(i)",
@@ -44956,7 +47422,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-071.jpg",
       "papers/biology/img/05BC-Ecology-Climate-072.jpg",
       "papers/biology/img/05BC-Ecology-Climate-073.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q26a(ii)",
@@ -44985,7 +47452,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-071.jpg",
       "papers/biology/img/05BC-Ecology-Climate-072.jpg",
       "papers/biology/img/05BC-Ecology-Climate-073.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q26b(i)",
@@ -45015,7 +47483,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-071.jpg",
       "papers/biology/img/05BC-Ecology-Climate-072.jpg",
       "papers/biology/img/05BC-Ecology-Climate-073.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q26b(ii)",
@@ -45040,7 +47509,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-071.jpg",
       "papers/biology/img/05BC-Ecology-Climate-072.jpg",
       "papers/biology/img/05BC-Ecology-Climate-073.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q26b(iii)",
@@ -45070,7 +47540,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-071.jpg",
       "papers/biology/img/05BC-Ecology-Climate-072.jpg",
       "papers/biology/img/05BC-Ecology-Climate-073.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q27a",
@@ -45098,7 +47569,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-073.jpg",
       "papers/biology/img/05BC-Ecology-Climate-074.jpg",
       "papers/biology/img/05BC-Ecology-Climate-075.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q27b(i)",
@@ -45126,7 +47598,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-073.jpg",
       "papers/biology/img/05BC-Ecology-Climate-074.jpg",
       "papers/biology/img/05BC-Ecology-Climate-075.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q27b(ii)",
@@ -45155,7 +47628,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-073.jpg",
       "papers/biology/img/05BC-Ecology-Climate-074.jpg",
       "papers/biology/img/05BC-Ecology-Climate-075.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q27c",
@@ -45178,7 +47652,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-073.jpg",
       "papers/biology/img/05BC-Ecology-Climate-074.jpg",
       "papers/biology/img/05BC-Ecology-Climate-075.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q28a",
@@ -45202,7 +47677,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-075.jpg",
       "papers/biology/img/05BC-Ecology-Climate-076.jpg",
       "papers/biology/img/05BC-Ecology-Climate-077.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q28b(i)",
@@ -45231,7 +47707,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-075.jpg",
       "papers/biology/img/05BC-Ecology-Climate-076.jpg",
       "papers/biology/img/05BC-Ecology-Climate-077.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q28b(ii)",
@@ -45260,7 +47737,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-075.jpg",
       "papers/biology/img/05BC-Ecology-Climate-076.jpg",
       "papers/biology/img/05BC-Ecology-Climate-077.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q28b(iii)",
@@ -45292,7 +47770,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-075.jpg",
       "papers/biology/img/05BC-Ecology-Climate-076.jpg",
       "papers/biology/img/05BC-Ecology-Climate-077.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q29a",
@@ -45320,7 +47799,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-077.jpg",
       "papers/biology/img/05BC-Ecology-Climate-078.jpg",
       "papers/biology/img/05BC-Ecology-Climate-079.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q29b(i)",
@@ -45343,7 +47823,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-077.jpg",
       "papers/biology/img/05BC-Ecology-Climate-078.jpg",
       "papers/biology/img/05BC-Ecology-Climate-079.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q29b(ii)",
@@ -45372,7 +47853,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-077.jpg",
       "papers/biology/img/05BC-Ecology-Climate-078.jpg",
       "papers/biology/img/05BC-Ecology-Climate-079.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q29c(i)",
@@ -45396,7 +47878,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-077.jpg",
       "papers/biology/img/05BC-Ecology-Climate-078.jpg",
       "papers/biology/img/05BC-Ecology-Climate-079.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q29c(ii)",
@@ -45420,7 +47903,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-077.jpg",
       "papers/biology/img/05BC-Ecology-Climate-078.jpg",
       "papers/biology/img/05BC-Ecology-Climate-079.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q30a",
@@ -45448,7 +47932,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-080.jpg",
       "papers/biology/img/05BC-Ecology-Climate-081.jpg",
       "papers/biology/img/05BC-Ecology-Climate-082.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q30b",
@@ -45472,7 +47957,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-080.jpg",
       "papers/biology/img/05BC-Ecology-Climate-081.jpg",
       "papers/biology/img/05BC-Ecology-Climate-082.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q30c(i)",
@@ -45501,7 +47987,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-080.jpg",
       "papers/biology/img/05BC-Ecology-Climate-081.jpg",
       "papers/biology/img/05BC-Ecology-Climate-082.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q30c(ii)",
@@ -45530,7 +48017,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-080.jpg",
       "papers/biology/img/05BC-Ecology-Climate-081.jpg",
       "papers/biology/img/05BC-Ecology-Climate-082.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q30c(iii)",
@@ -45559,7 +48047,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-080.jpg",
       "papers/biology/img/05BC-Ecology-Climate-081.jpg",
       "papers/biology/img/05BC-Ecology-Climate-082.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q30c(iv)",
@@ -45588,7 +48077,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-080.jpg",
       "papers/biology/img/05BC-Ecology-Climate-081.jpg",
       "papers/biology/img/05BC-Ecology-Climate-082.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q31i",
@@ -45611,7 +48101,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-082.jpg",
       "papers/biology/img/05BC-Ecology-Climate-083.jpg",
       "papers/biology/img/05BC-Ecology-Climate-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q31ii",
@@ -45640,7 +48131,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-082.jpg",
       "papers/biology/img/05BC-Ecology-Climate-083.jpg",
       "papers/biology/img/05BC-Ecology-Climate-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q31bi",
@@ -45664,7 +48156,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-082.jpg",
       "papers/biology/img/05BC-Ecology-Climate-083.jpg",
       "papers/biology/img/05BC-Ecology-Climate-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q31bii",
@@ -45688,7 +48181,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-082.jpg",
       "papers/biology/img/05BC-Ecology-Climate-083.jpg",
       "papers/biology/img/05BC-Ecology-Climate-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q32ai",
@@ -45717,7 +48211,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-084.jpg",
       "papers/biology/img/05BC-Ecology-Climate-085.jpg",
       "papers/biology/img/05BC-Ecology-Climate-086.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q32aii",
@@ -45746,7 +48241,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-084.jpg",
       "papers/biology/img/05BC-Ecology-Climate-085.jpg",
       "papers/biology/img/05BC-Ecology-Climate-086.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q32aiii",
@@ -45775,7 +48271,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-084.jpg",
       "papers/biology/img/05BC-Ecology-Climate-085.jpg",
       "papers/biology/img/05BC-Ecology-Climate-086.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q32b",
@@ -45799,7 +48296,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-084.jpg",
       "papers/biology/img/05BC-Ecology-Climate-085.jpg",
       "papers/biology/img/05BC-Ecology-Climate-086.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q32c",
@@ -45828,7 +48326,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-084.jpg",
       "papers/biology/img/05BC-Ecology-Climate-085.jpg",
       "papers/biology/img/05BC-Ecology-Climate-086.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q33ai",
@@ -45853,7 +48352,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-087.jpg",
       "papers/biology/img/05BC-Ecology-Climate-088.jpg",
       "papers/biology/img/05BC-Ecology-Climate-089.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q33aii",
@@ -45883,7 +48383,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-087.jpg",
       "papers/biology/img/05BC-Ecology-Climate-088.jpg",
       "papers/biology/img/05BC-Ecology-Climate-089.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q33b",
@@ -45908,7 +48409,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-087.jpg",
       "papers/biology/img/05BC-Ecology-Climate-088.jpg",
       "papers/biology/img/05BC-Ecology-Climate-089.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q33ci",
@@ -45938,7 +48440,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-087.jpg",
       "papers/biology/img/05BC-Ecology-Climate-088.jpg",
       "papers/biology/img/05BC-Ecology-Climate-089.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q33cii",
@@ -45963,7 +48466,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-087.jpg",
       "papers/biology/img/05BC-Ecology-Climate-088.jpg",
       "papers/biology/img/05BC-Ecology-Climate-089.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q34a",
@@ -45990,7 +48494,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-090.jpg",
       "papers/biology/img/05BC-Ecology-Climate-091.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q34b",
@@ -46018,7 +48523,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-090.jpg",
       "papers/biology/img/05BC-Ecology-Climate-091.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q34ci",
@@ -46046,7 +48552,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-090.jpg",
       "papers/biology/img/05BC-Ecology-Climate-091.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q34cii",
@@ -46076,7 +48583,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-090.jpg",
       "papers/biology/img/05BC-Ecology-Climate-091.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q35a",
@@ -46105,7 +48613,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-092.jpg",
       "papers/biology/img/05BC-Ecology-Climate-093.jpg",
       "papers/biology/img/05BC-Ecology-Climate-094.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q35bi",
@@ -46134,7 +48643,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-092.jpg",
       "papers/biology/img/05BC-Ecology-Climate-093.jpg",
       "papers/biology/img/05BC-Ecology-Climate-094.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q35bii",
@@ -46158,7 +48668,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-092.jpg",
       "papers/biology/img/05BC-Ecology-Climate-093.jpg",
       "papers/biology/img/05BC-Ecology-Climate-094.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q35c",
@@ -46190,7 +48701,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-092.jpg",
       "papers/biology/img/05BC-Ecology-Climate-093.jpg",
       "papers/biology/img/05BC-Ecology-Climate-094.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q36a",
@@ -46219,7 +48731,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-094.jpg",
       "papers/biology/img/05BC-Ecology-Climate-095.jpg",
       "papers/biology/img/05BC-Ecology-Climate-096.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q36b(i)",
@@ -46248,7 +48761,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-094.jpg",
       "papers/biology/img/05BC-Ecology-Climate-095.jpg",
       "papers/biology/img/05BC-Ecology-Climate-096.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q36b(ii)",
@@ -46277,7 +48791,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-094.jpg",
       "papers/biology/img/05BC-Ecology-Climate-095.jpg",
       "papers/biology/img/05BC-Ecology-Climate-096.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q36b(iii)",
@@ -46305,7 +48820,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-094.jpg",
       "papers/biology/img/05BC-Ecology-Climate-095.jpg",
       "papers/biology/img/05BC-Ecology-Climate-096.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q37a",
@@ -46328,7 +48844,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-096.jpg",
       "papers/biology/img/05BC-Ecology-Climate-097.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q37b",
@@ -46356,7 +48873,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-096.jpg",
       "papers/biology/img/05BC-Ecology-Climate-097.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q37ci",
@@ -46384,7 +48902,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-096.jpg",
       "papers/biology/img/05BC-Ecology-Climate-097.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q37cii",
@@ -46407,7 +48926,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-096.jpg",
       "papers/biology/img/05BC-Ecology-Climate-097.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q37d",
@@ -46435,7 +48955,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/05BC-Ecology-Climate-096.jpg",
       "papers/biology/img/05BC-Ecology-Climate-097.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q38a",
@@ -46464,7 +48985,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-097.jpg",
       "papers/biology/img/05BC-Ecology-Climate-098.jpg",
       "papers/biology/img/05BC-Ecology-Climate-099.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q38b",
@@ -46493,7 +49015,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-097.jpg",
       "papers/biology/img/05BC-Ecology-Climate-098.jpg",
       "papers/biology/img/05BC-Ecology-Climate-099.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q38c",
@@ -46522,7 +49045,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-097.jpg",
       "papers/biology/img/05BC-Ecology-Climate-098.jpg",
       "papers/biology/img/05BC-Ecology-Climate-099.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q38d",
@@ -46551,7 +49075,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-097.jpg",
       "papers/biology/img/05BC-Ecology-Climate-098.jpg",
       "papers/biology/img/05BC-Ecology-Climate-099.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q39a",
@@ -46580,7 +49105,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-099.jpg",
       "papers/biology/img/05BC-Ecology-Climate-100.jpg",
       "papers/biology/img/05BC-Ecology-Climate-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q39b",
@@ -46609,7 +49135,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-099.jpg",
       "papers/biology/img/05BC-Ecology-Climate-100.jpg",
       "papers/biology/img/05BC-Ecology-Climate-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q39c",
@@ -46633,7 +49160,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-099.jpg",
       "papers/biology/img/05BC-Ecology-Climate-100.jpg",
       "papers/biology/img/05BC-Ecology-Climate-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q40ai",
@@ -46657,7 +49185,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-101.jpg",
       "papers/biology/img/05BC-Ecology-Climate-102.jpg",
       "papers/biology/img/05BC-Ecology-Climate-103.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q40aii",
@@ -46680,7 +49209,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-101.jpg",
       "papers/biology/img/05BC-Ecology-Climate-102.jpg",
       "papers/biology/img/05BC-Ecology-Climate-103.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q40aiii",
@@ -46709,7 +49239,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-101.jpg",
       "papers/biology/img/05BC-Ecology-Climate-102.jpg",
       "papers/biology/img/05BC-Ecology-Climate-103.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q40b",
@@ -46738,7 +49269,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-101.jpg",
       "papers/biology/img/05BC-Ecology-Climate-102.jpg",
       "papers/biology/img/05BC-Ecology-Climate-103.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q41ai",
@@ -46763,7 +49295,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-104.jpg",
       "papers/biology/img/05BC-Ecology-Climate-105.jpg",
       "papers/biology/img/05BC-Ecology-Climate-106.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q41aii",
@@ -46788,7 +49321,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-104.jpg",
       "papers/biology/img/05BC-Ecology-Climate-105.jpg",
       "papers/biology/img/05BC-Ecology-Climate-106.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q41b",
@@ -46813,7 +49347,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-104.jpg",
       "papers/biology/img/05BC-Ecology-Climate-105.jpg",
       "papers/biology/img/05BC-Ecology-Climate-106.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q41ci",
@@ -46843,7 +49378,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-104.jpg",
       "papers/biology/img/05BC-Ecology-Climate-105.jpg",
       "papers/biology/img/05BC-Ecology-Climate-106.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q41cii",
@@ -46869,7 +49405,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-104.jpg",
       "papers/biology/img/05BC-Ecology-Climate-105.jpg",
       "papers/biology/img/05BC-Ecology-Climate-106.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q42ai",
@@ -46898,7 +49435,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-107.jpg",
       "papers/biology/img/05BC-Ecology-Climate-108.jpg",
       "papers/biology/img/05BC-Ecology-Climate-109.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q42aii",
@@ -46928,7 +49466,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-107.jpg",
       "papers/biology/img/05BC-Ecology-Climate-108.jpg",
       "papers/biology/img/05BC-Ecology-Climate-109.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q42bi",
@@ -46958,7 +49497,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-107.jpg",
       "papers/biology/img/05BC-Ecology-Climate-108.jpg",
       "papers/biology/img/05BC-Ecology-Climate-109.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5BC-Q42bii",
@@ -46988,7 +49528,8 @@ window.BANK.biology = {
       "papers/biology/img/05BC-Ecology-Climate-107.jpg",
       "papers/biology/img/05BC-Ecology-Climate-108.jpg",
       "papers/biology/img/05BC-Ecology-Climate-109.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -47027,7 +49568,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-001.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-002.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-003.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q1a(ii)",
@@ -47058,7 +49600,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-001.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-002.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-003.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q1a(iii)",
@@ -47089,7 +49632,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-001.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-002.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-003.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q1b",
@@ -47115,7 +49659,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-001.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-002.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-003.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q2a",
@@ -47141,7 +49686,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-003.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-004.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-005.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q2b(i)",
@@ -47172,7 +49718,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-003.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-004.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-005.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q2b(ii)",
@@ -47203,7 +49750,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-003.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-004.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-005.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q3a(i)",
@@ -47235,7 +49783,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q3a(ii)",
@@ -47268,7 +49817,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q3a(iii)",
@@ -47300,7 +49850,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q3b",
@@ -47333,7 +49884,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q3c(i)",
@@ -47360,7 +49912,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q3c(ii)",
@@ -47393,7 +49946,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q3c(iii)",
@@ -47426,7 +49980,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q3c(iv)",
@@ -47454,7 +50009,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-007.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-008.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q4a",
@@ -47484,7 +50040,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-010.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-011.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q4b",
@@ -47515,7 +50072,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-010.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-011.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q4c(i)",
@@ -47545,7 +50103,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-010.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-011.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q4c(ii)",
@@ -47571,7 +50130,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-010.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-011.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q4c(iii)",
@@ -47597,7 +50157,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-009.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-010.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-011.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q5a",
@@ -47626,7 +50187,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-011.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-012.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q5b(i)",
@@ -47655,7 +50217,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-011.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-012.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q5b(ii)",
@@ -47685,7 +50248,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-011.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-012.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q6a",
@@ -47712,7 +50276,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-013.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-014.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-015.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q6b",
@@ -47739,7 +50304,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-013.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-014.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-015.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q6c(i)",
@@ -47771,7 +50337,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-013.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-014.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-015.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q6c(ii)",
@@ -47803,7 +50370,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-013.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-014.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-015.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q7a",
@@ -47832,7 +50400,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-015.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-016.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q7b",
@@ -47861,7 +50430,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-015.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-016.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q7c",
@@ -47891,7 +50461,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-015.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-016.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q7d",
@@ -47916,7 +50487,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-015.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-016.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q8a",
@@ -47947,7 +50519,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-016.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-017.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-018.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q8b(i)",
@@ -47978,7 +50551,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-016.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-017.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-018.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q8b(ii)",
@@ -48003,7 +50577,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-016.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-017.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-018.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q8b(iii)",
@@ -48034,7 +50609,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-016.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-017.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-018.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q9a",
@@ -48064,7 +50640,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-018.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-019.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-020.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q9b(i)",
@@ -48095,7 +50672,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-018.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-019.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-020.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q9b(ii)",
@@ -48126,7 +50704,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-018.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-019.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-020.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q9c",
@@ -48157,7 +50736,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-018.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-019.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-020.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q9d",
@@ -48188,7 +50768,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-018.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-019.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-020.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q9e",
@@ -48219,7 +50800,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-018.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-019.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-020.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q10a",
@@ -48250,7 +50832,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-020.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-021.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-022.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q10b",
@@ -48276,7 +50859,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-020.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-021.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-022.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q10c(i)",
@@ -48302,7 +50886,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-020.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-021.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-022.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q10c(ii)",
@@ -48333,7 +50918,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-020.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-021.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-022.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q11a",
@@ -48364,7 +50950,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-022.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-023.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-024.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q11b(i)",
@@ -48395,7 +50982,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-022.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-023.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-024.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q11b(ii)",
@@ -48426,7 +51014,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-022.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-023.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-024.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q11c(i)",
@@ -48457,7 +51046,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-022.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-023.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-024.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q11c(ii)",
@@ -48482,7 +51072,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-022.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-023.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-024.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q12a(i)",
@@ -48513,7 +51104,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-024.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q12a(ii)",
@@ -48543,7 +51135,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-024.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q12a(iii)",
@@ -48573,7 +51166,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-024.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q12a(iv)",
@@ -48604,7 +51198,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-024.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q12b(i)",
@@ -48634,7 +51229,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-024.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q12b(ii)",
@@ -48665,7 +51261,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-024.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-025.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-026.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q13a",
@@ -48696,7 +51293,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q13b(i)",
@@ -48722,7 +51320,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q13b(ii)",
@@ -48754,7 +51353,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q13b(iii)",
@@ -48786,7 +51386,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q13c(i)",
@@ -48813,7 +51414,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q13c(ii)",
@@ -48839,7 +51441,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-027.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-028.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-029.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q14a(i)",
@@ -48870,7 +51473,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q14a(ii)",
@@ -48901,7 +51505,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q14b(i)",
@@ -48932,7 +51537,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q14b(ii)",
@@ -48958,7 +51564,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q14b(iii)",
@@ -48985,7 +51592,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q14b(iv)",
@@ -49016,7 +51624,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q14b(v)",
@@ -49043,7 +51652,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-030.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-031.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q15a(i)",
@@ -49068,7 +51678,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q15a(ii)",
@@ -49093,7 +51704,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q15a(iii)",
@@ -49118,7 +51730,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q15a(iv)",
@@ -49143,7 +51756,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q15b(i)",
@@ -49173,7 +51787,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q15b(ii)",
@@ -49197,7 +51812,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q15b(iii)",
@@ -49227,7 +51843,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q15b(iv)",
@@ -49257,7 +51874,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q15b(v)",
@@ -49288,7 +51906,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-032.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-033.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-034.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q16a",
@@ -49314,7 +51933,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-035.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q16b(i)",
@@ -49347,7 +51967,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-035.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q16b(ii)",
@@ -49379,7 +52000,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-035.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q16b(iii)",
@@ -49411,7 +52033,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-035.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q16b(iv)",
@@ -49443,7 +52066,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-035.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q16b(v)",
@@ -49475,7 +52099,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-035.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-036.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-037.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q17a",
@@ -49505,7 +52130,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-037.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-038.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q17b(i)",
@@ -49535,7 +52161,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-037.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-038.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q17b(ii)",
@@ -49564,7 +52191,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-037.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-038.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q17b(iii)",
@@ -49594,7 +52222,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-037.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-038.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q18a",
@@ -49625,7 +52254,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-038.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-039.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-040.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q18b(i)",
@@ -49651,7 +52281,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-038.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-039.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-040.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q18b(ii)",
@@ -49681,7 +52312,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-038.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-039.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-040.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q18b(iii)",
@@ -49712,7 +52344,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-038.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-039.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-040.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q19a(i)",
@@ -49737,7 +52370,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-040.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-041.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-042.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q19a(ii)",
@@ -49767,7 +52401,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-040.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-041.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-042.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q19b(i)",
@@ -49798,7 +52433,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-040.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-041.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-042.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q19b(ii)",
@@ -49829,7 +52465,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-040.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-041.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-042.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q19b(iii)",
@@ -49860,7 +52497,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-040.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-041.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-042.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q20a(i)",
@@ -49889,7 +52527,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-043.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-044.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q20a(ii)",
@@ -49919,7 +52558,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-043.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-044.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q20b(i)",
@@ -49943,7 +52583,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-043.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-044.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q20b(ii)",
@@ -49972,7 +52613,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-043.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-044.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q21a",
@@ -50002,7 +52644,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-044.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-045.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-046.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q21b(i)",
@@ -50032,7 +52675,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-044.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-045.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-046.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q21b(ii)",
@@ -50062,7 +52706,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-044.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-045.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-046.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q21c(i)",
@@ -50093,7 +52738,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-044.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-045.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-046.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q21c(ii)",
@@ -50124,7 +52770,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-044.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-045.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-046.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q21c(iii)",
@@ -50155,7 +52802,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-044.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-045.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-046.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q22a",
@@ -50182,7 +52830,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-048.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q22b",
@@ -50209,7 +52858,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-048.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q22c(i)",
@@ -50242,7 +52892,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-048.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q22c(ii)",
@@ -50274,7 +52925,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-048.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q22c(iii)",
@@ -50301,7 +52953,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-048.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q22c(iv)",
@@ -50329,7 +52982,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-048.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-049.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-050.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q23a",
@@ -50360,7 +53014,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-050.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-051.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-052.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q23b",
@@ -50391,7 +53046,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-050.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-051.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-052.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q23c",
@@ -50422,7 +53078,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-050.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-051.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-052.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q23d(i)",
@@ -50452,7 +53109,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-050.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-051.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-052.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q23d(ii)",
@@ -50477,7 +53135,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-050.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-051.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-052.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q23d(iii)",
@@ -50508,7 +53167,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-050.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-051.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-052.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q24a(i)",
@@ -50537,7 +53197,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-052.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-053.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-054.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q24a(ii)",
@@ -50568,7 +53229,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-052.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-053.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-054.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q24b",
@@ -50598,7 +53260,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-052.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-053.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-054.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q24c",
@@ -50623,7 +53286,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-052.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-053.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-054.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q25a",
@@ -50648,7 +53312,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-054.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-055.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-056.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q25b(i)",
@@ -50673,7 +53338,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-054.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-055.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-056.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q25b(ii)",
@@ -50703,7 +53369,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-054.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-055.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-056.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q25c",
@@ -50734,7 +53401,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-054.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-055.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-056.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q26a",
@@ -50764,7 +53432,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-056.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-057.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-058.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q26b",
@@ -50795,7 +53464,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-056.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-057.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-058.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q26c(i)",
@@ -50825,7 +53495,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-056.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-057.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-058.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q26c(ii)",
@@ -50858,7 +53529,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-056.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-057.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-058.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q27a(i)",
@@ -50889,7 +53561,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-058.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-059.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-060.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q27a(ii)",
@@ -50920,7 +53593,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-058.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-059.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-060.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q27b",
@@ -50951,7 +53625,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-058.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-059.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-060.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q27c",
@@ -50982,7 +53657,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-058.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-059.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-060.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q28a(i)",
@@ -51013,7 +53689,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-061.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-062.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q28a(ii)",
@@ -51044,7 +53721,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-061.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-062.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q28b(i)",
@@ -51070,7 +53748,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-061.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-062.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q28b(ii)",
@@ -51101,7 +53780,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-061.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-062.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q28c(i)",
@@ -51133,7 +53813,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-061.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-062.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q28c(ii)",
@@ -51164,7 +53845,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-061.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-062.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q29a(i)",
@@ -51195,7 +53877,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-063.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q29a(ii)",
@@ -51225,7 +53908,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-063.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q29a(iii)",
@@ -51255,7 +53939,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-063.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q29b(i)",
@@ -51279,7 +53964,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-063.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q29b(ii)",
@@ -51310,7 +53996,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-063.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q29c",
@@ -51341,7 +54028,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-063.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-064.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-065.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q30a",
@@ -51373,7 +54061,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-067.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q30b",
@@ -51400,7 +54089,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-067.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q30c(i)",
@@ -51431,7 +54121,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-067.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q30c(ii)",
@@ -51464,7 +54155,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-067.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q30d",
@@ -51496,7 +54188,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-067.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q30e",
@@ -51531,7 +54224,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-067.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-068.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-069.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q31a",
@@ -51562,7 +54256,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-069.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-070.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-071.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q31b",
@@ -51587,7 +54282,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-069.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-070.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-071.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q31c",
@@ -51618,7 +54314,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-069.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-070.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-071.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q32a(i)",
@@ -51648,7 +54345,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-071.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-072.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-073.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q32a(ii)",
@@ -51679,7 +54377,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-071.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-072.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-073.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q32b",
@@ -51709,7 +54408,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-071.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-072.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-073.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q32c",
@@ -51740,7 +54440,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-071.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-072.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-073.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q32d",
@@ -51771,7 +54472,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-071.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-072.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-073.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q33a",
@@ -51801,7 +54503,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-073.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q33b(i)",
@@ -51831,7 +54534,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-073.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q33b(ii)",
@@ -51861,7 +54565,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-073.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q33b(iii)",
@@ -51885,7 +54590,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-073.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q33b(iv)",
@@ -51909,7 +54615,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-073.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q33b(v)",
@@ -51940,7 +54647,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-073.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-074.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-075.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q34a",
@@ -51972,7 +54680,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-076.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-077.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-078.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q34b",
@@ -52004,7 +54713,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-076.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-077.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-078.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q34c(i)",
@@ -52035,7 +54745,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-076.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-077.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-078.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q34c(ii)",
@@ -52067,7 +54778,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-076.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-077.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-078.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q34c(iii)",
@@ -52100,7 +54812,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-076.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-077.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-078.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q34c(iv)",
@@ -52131,7 +54844,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-076.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-077.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-078.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q35a(i)",
@@ -52156,7 +54870,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-078.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-079.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-080.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q35a(ii)",
@@ -52187,7 +54902,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-078.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-079.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-080.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q35b",
@@ -52212,7 +54928,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-078.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-079.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-080.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q35c",
@@ -52237,7 +54954,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-078.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-079.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-080.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q36a",
@@ -52268,7 +54986,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-080.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-081.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-082.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q36b(i)",
@@ -52293,7 +55012,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-080.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-081.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-082.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q36b(ii)",
@@ -52323,7 +55043,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-080.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-081.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-082.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q36c",
@@ -52354,7 +55075,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-080.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-081.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-082.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q37a",
@@ -52384,7 +55106,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-082.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-083.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q37b(i)",
@@ -52414,7 +55137,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-082.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-083.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q37b(ii)",
@@ -52445,7 +55169,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-082.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-083.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q37b(iii)",
@@ -52475,7 +55200,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-082.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-083.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q38a",
@@ -52499,7 +55225,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-084.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-085.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q38b(i)",
@@ -52526,7 +55253,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-084.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-085.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q38b(ii)",
@@ -52555,7 +55283,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-084.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-085.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q39a(i)",
@@ -52585,7 +55314,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-085.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-086.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-087.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q39a(ii)",
@@ -52615,7 +55345,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-085.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-086.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-087.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q39b",
@@ -52640,7 +55371,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-085.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-086.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-087.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q39c(i)",
@@ -52670,7 +55402,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-085.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-086.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-087.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q39c(ii)",
@@ -52700,7 +55433,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-085.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-086.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-087.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q40a",
@@ -52730,7 +55464,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-087.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-088.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-089.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q40b(i)",
@@ -52760,7 +55495,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-087.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-088.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-089.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q40b(ii)",
@@ -52790,7 +55526,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-087.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-088.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-089.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q40b(iii)",
@@ -52820,7 +55557,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-087.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-088.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-089.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q40b(iv)",
@@ -52850,7 +55588,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-087.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-088.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-089.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q40c",
@@ -52881,7 +55620,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-087.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-088.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-089.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q41a",
@@ -52907,7 +55647,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q41b",
@@ -52938,7 +55679,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q41c(i)",
@@ -52969,7 +55711,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q41c(ii)",
@@ -52995,7 +55738,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q41c(iii)",
@@ -53026,7 +55770,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q41c(iv)",
@@ -53053,7 +55798,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-090.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-091.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-092.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q42a",
@@ -53083,7 +55829,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-092.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-093.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-094.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q42b(i)",
@@ -53108,7 +55855,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-092.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-093.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-094.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q42b(ii)",
@@ -53133,7 +55881,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-092.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-093.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-094.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q43a",
@@ -53163,7 +55912,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-094.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-095.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-096.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q43b(i)",
@@ -53193,7 +55943,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-094.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-095.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-096.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q43b(ii)",
@@ -53223,7 +55974,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-094.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-095.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-096.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q43c(i)",
@@ -53247,7 +55999,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-094.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-095.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-096.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q43c(ii)",
@@ -53277,7 +56030,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-094.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-095.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-096.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q44a",
@@ -53307,7 +56061,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-096.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-097.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-098.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q44b(i)",
@@ -53337,7 +56092,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-096.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-097.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-098.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q44b(ii)",
@@ -53362,7 +56118,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-096.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-097.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-098.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q44c(i)",
@@ -53392,7 +56149,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-096.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-097.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-098.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q44c(ii)",
@@ -53421,7 +56179,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-096.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-097.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-098.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q44c(iii)",
@@ -53451,7 +56210,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-096.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-097.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-098.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q45a(i)",
@@ -53476,7 +56236,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-099.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-100.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q45a(ii)",
@@ -53506,7 +56267,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-099.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-100.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q45b",
@@ -53536,7 +56298,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-099.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-100.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q45c(i)",
@@ -53568,7 +56331,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-099.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-100.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q45c(ii)",
@@ -53599,7 +56363,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-099.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-100.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q46a(i)",
@@ -53630,7 +56395,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-102.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-103.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-104.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q46a(ii)",
@@ -53657,7 +56423,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-102.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-103.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-104.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q46b(i)",
@@ -53683,7 +56450,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-102.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-103.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-104.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q46b(ii)",
@@ -53714,7 +56482,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-102.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-103.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-104.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q46b(iii)",
@@ -53745,7 +56514,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-102.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-103.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-104.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q47a",
@@ -53775,7 +56545,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-104.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-105.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-106.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q47b(i)",
@@ -53805,7 +56576,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-104.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-105.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-106.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q47b(ii)",
@@ -53835,7 +56607,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-104.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-105.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-106.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q47b(iii)",
@@ -53865,7 +56638,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-104.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-105.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-106.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q48a",
@@ -53894,7 +56668,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-106.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-107.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q48b(i)",
@@ -53924,7 +56699,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-106.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-107.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q48b(ii)",
@@ -53952,7 +56728,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-106.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-107.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q48c",
@@ -53981,7 +56758,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-106.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-107.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q48d",
@@ -54010,7 +56788,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-106.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-107.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q49a",
@@ -54041,7 +56820,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-108.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q49b",
@@ -54071,7 +56851,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-108.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q49c",
@@ -54102,7 +56883,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-108.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q49d",
@@ -54133,7 +56915,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-108.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q49e(i)",
@@ -54159,7 +56942,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-108.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q49e(ii)",
@@ -54190,7 +56974,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-108.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-109.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-110.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q50a",
@@ -54218,7 +57003,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-113.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q50b(i)",
@@ -54251,7 +57037,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-113.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q50b(ii)",
@@ -54278,7 +57065,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-113.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q50b(iii)",
@@ -54311,7 +57099,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-113.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q50b(iv)",
@@ -54339,7 +57128,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-113.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q50b(v)",
@@ -54372,7 +57162,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-113.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-114.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-115.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q51a",
@@ -54403,7 +57194,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q51b",
@@ -54434,7 +57226,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q51c",
@@ -54460,7 +57253,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q51d(i)",
@@ -54491,7 +57285,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q51d(ii)",
@@ -54522,7 +57317,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q51e(i)",
@@ -54548,7 +57344,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q51e(ii)",
@@ -54579,7 +57376,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q51e(iii)",
@@ -54610,7 +57408,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-116.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-117.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-118.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q52a",
@@ -54643,7 +57442,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-118.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-119.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-120.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q52b",
@@ -54673,7 +57473,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-118.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-119.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-120.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q52c",
@@ -54704,7 +57505,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-118.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-119.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-120.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q53a(i)",
@@ -54735,7 +57537,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-121.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q53a(ii)",
@@ -54766,7 +57569,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-121.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q53b(i)",
@@ -54797,7 +57601,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-121.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q53b(ii)",
@@ -54828,7 +57633,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-121.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q53b(iii)",
@@ -54854,7 +57660,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-121.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q53c",
@@ -54886,7 +57693,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-121.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-122.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-123.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q54a",
@@ -54914,7 +57722,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-123.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-124.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-125.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q54b",
@@ -54944,7 +57753,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-123.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-124.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-125.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q54c(i)",
@@ -54968,7 +57778,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-123.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-124.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-125.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q54c(ii)",
@@ -54992,7 +57803,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-123.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-124.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-125.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q54c(iii)",
@@ -55022,7 +57834,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-123.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-124.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-125.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q55a",
@@ -55051,7 +57864,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-125.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-126.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q55b(i)",
@@ -55080,7 +57894,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-125.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-126.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q55b(ii)",
@@ -55104,7 +57919,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-125.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-126.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q55b(iii)",
@@ -55133,7 +57949,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06AB-Microbiology-Immunity-125.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-126.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q56a(i)",
@@ -55165,7 +57982,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-128.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q56a(ii)",
@@ -55197,7 +58015,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-128.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q56b(i)",
@@ -55223,7 +58042,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-128.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q56b(ii)",
@@ -55255,7 +58075,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-128.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q56c",
@@ -55282,7 +58103,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-128.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6AB-Q56d",
@@ -55309,7 +58131,8 @@ window.BANK.biology = {
       "papers/biology/img/06AB-Microbiology-Immunity-128.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-129.jpg",
       "papers/biology/img/06AB-Microbiology-Immunity-130.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -55346,7 +58169,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-01.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q1a(ii)",
@@ -55375,7 +58199,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-01.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q1b",
@@ -55399,7 +58224,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-01.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q2a(i)",
@@ -55429,7 +58255,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-03.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-04.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q2a(ii)",
@@ -55460,7 +58287,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-03.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-04.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q2b(i)",
@@ -55491,7 +58319,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-03.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-04.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q2b(ii)",
@@ -55522,7 +58351,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-03.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-04.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q2b(iii)",
@@ -55554,7 +58384,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-03.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-04.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q3a",
@@ -55583,7 +58414,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-05.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-06.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q3b(i)",
@@ -55612,7 +58444,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-05.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-06.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q3b(ii)",
@@ -55641,7 +58474,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-05.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-06.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q3c",
@@ -55672,7 +58506,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-05.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-06.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q4a(i)",
@@ -55701,7 +58536,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-07.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-08.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q4a(ii)",
@@ -55731,7 +58567,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-07.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-08.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q4b(i)",
@@ -55761,7 +58598,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-07.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-08.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q4b(ii)",
@@ -55791,7 +58629,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-07.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-08.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q4b(iii)",
@@ -55821,7 +58660,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-07.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-08.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q5a(i)",
@@ -55853,7 +58693,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-12.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-13.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q5a(ii)",
@@ -55880,7 +58721,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-12.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-13.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q5a(iii)",
@@ -55908,7 +58750,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-12.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-13.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q5a(iv)",
@@ -55941,7 +58784,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-12.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-13.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q5b(i)",
@@ -55973,7 +58817,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-12.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-13.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q5b(ii)",
@@ -56000,7 +58845,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-12.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-13.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q6a",
@@ -56025,7 +58871,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-14.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-15.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q6b(i)",
@@ -56054,7 +58901,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-14.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-15.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q6b(ii)",
@@ -56079,7 +58927,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-14.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-15.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q6b(iii)",
@@ -56109,7 +58958,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-14.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-15.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q6c(i)",
@@ -56138,7 +58988,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-14.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-15.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q6c(ii)",
@@ -56167,7 +59018,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-14.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-15.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q7a",
@@ -56196,7 +59048,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-17.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-18.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q7b(i)",
@@ -56221,7 +59074,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-17.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-18.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q7b(ii)",
@@ -56247,7 +59101,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-17.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-18.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q7b(iii)",
@@ -56278,7 +59133,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-17.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-18.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q7c",
@@ -56309,7 +59165,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-17.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-18.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q8a",
@@ -56339,7 +59196,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-19.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-20.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q8b(i)",
@@ -56369,7 +59227,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-19.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-20.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q8b(ii)",
@@ -56399,7 +59258,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-19.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-20.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q9a",
@@ -56428,7 +59288,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-21.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-22.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q9b(i)",
@@ -56453,7 +59314,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-21.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-22.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q9b(ii)",
@@ -56483,7 +59345,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-21.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-22.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q10a",
@@ -56513,7 +59376,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-24.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-25.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q10b(i)",
@@ -56543,7 +59407,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-24.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-25.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q10b(ii)",
@@ -56568,7 +59433,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-24.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-25.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q10b(iii)",
@@ -56598,7 +59464,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-24.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-25.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q10c",
@@ -56628,7 +59495,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-24.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-25.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q11a(i)",
@@ -56659,7 +59527,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-28.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-29.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q11a(ii)",
@@ -56685,7 +59554,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-28.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-29.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q11a(iii)",
@@ -56711,7 +59581,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-28.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-29.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q11a(iv)",
@@ -56742,7 +59613,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-28.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-29.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q11a(v)",
@@ -56774,7 +59646,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-28.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-29.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q11b",
@@ -56801,7 +59674,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-28.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-29.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q12a(i)",
@@ -56830,7 +59704,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-30.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-31.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q12a(ii)",
@@ -56860,7 +59735,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-30.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-31.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q12a(iii)",
@@ -56890,7 +59766,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-30.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-31.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q12b",
@@ -56920,7 +59797,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-30.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-31.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q13a(i)",
@@ -56950,7 +59828,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-33.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-34.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q13a(ii)",
@@ -56981,7 +59860,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-33.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-34.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q13b(i)",
@@ -57011,7 +59891,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-33.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-34.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q13b(ii)",
@@ -57037,7 +59918,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-33.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-34.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q13c",
@@ -57069,7 +59951,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-33.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-34.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q14a(i)",
@@ -57099,7 +59982,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-36.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-37.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q14a(ii)",
@@ -57130,7 +60014,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-36.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-37.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q14b(i)",
@@ -57159,7 +60044,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-36.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-37.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q14b(ii)",
@@ -57189,7 +60075,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-36.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-37.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q14b(iii)",
@@ -57215,7 +60102,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-36.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-37.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q15a(i)",
@@ -57246,7 +60134,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-40.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-41.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q15a(ii)",
@@ -57277,7 +60166,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-40.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-41.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q15b(i)",
@@ -57309,7 +60199,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-40.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-41.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q15b(ii)",
@@ -57336,7 +60227,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-40.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-41.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q15b(iii)",
@@ -57368,7 +60260,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-40.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-41.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q16a(i)",
@@ -57396,7 +60289,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-43.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q16a(ii)",
@@ -57425,7 +60319,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-43.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q16b(i)",
@@ -57453,7 +60348,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-43.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q16b(ii)",
@@ -57482,7 +60378,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-43.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q17a(i)",
@@ -57509,7 +60406,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-47.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-48.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q17a(ii)",
@@ -57535,7 +60433,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-47.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-48.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q17a(iii)",
@@ -57562,7 +60461,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-47.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-48.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q17b(i)",
@@ -57589,7 +60489,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-47.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-48.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q17b(ii)",
@@ -57622,7 +60523,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-47.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-48.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q17c",
@@ -57650,7 +60552,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-47.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-48.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q18a(i)",
@@ -57675,7 +60578,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-50.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-51.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q18a(ii)",
@@ -57702,7 +60606,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-50.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-51.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q18b(i)",
@@ -57732,7 +60637,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-50.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-51.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q18b(ii)",
@@ -57763,7 +60669,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-50.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-51.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q18b(iii)",
@@ -57794,7 +60701,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-50.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-51.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q18b(iv)",
@@ -57825,7 +60733,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-50.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-51.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q18b(v)",
@@ -57856,7 +60765,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-50.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-51.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q19a",
@@ -57884,7 +60794,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-52.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-53.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q19b(i)",
@@ -57913,7 +60824,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-52.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-53.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q19b(ii)",
@@ -57943,7 +60855,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-52.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-53.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q19b(iii)",
@@ -57973,7 +60886,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-52.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-53.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q20a(i)",
@@ -57998,7 +60912,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-55.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-56.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q20a(ii)",
@@ -58023,7 +60938,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-55.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-56.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q20a(iii)",
@@ -58054,7 +60970,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-55.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-56.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q20b",
@@ -58080,7 +60997,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-55.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-56.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q21a",
@@ -58110,7 +61028,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-58.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-59.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-60.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q21b(i)",
@@ -58140,7 +61059,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-58.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-59.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-60.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q21b(ii)",
@@ -58165,7 +61085,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-58.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-59.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-60.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q21b(iii)",
@@ -58190,7 +61111,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-58.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-59.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-60.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q22a",
@@ -58221,7 +61143,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-61.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-62.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-63.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q22b(i)",
@@ -58251,7 +61174,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-61.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-62.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-63.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q22b(ii)",
@@ -58281,7 +61205,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-61.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-62.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-63.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q22c(i)",
@@ -58311,7 +61236,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-61.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-62.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-63.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q22c(ii)",
@@ -58342,7 +61268,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-61.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-62.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-63.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q23a(i)",
@@ -58371,7 +61298,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-63.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-64.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q23a(ii)",
@@ -58400,7 +61328,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-63.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-64.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q23b(i)",
@@ -58428,7 +61357,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-63.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-64.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q23b(ii)",
@@ -58456,7 +61386,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-63.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-64.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q24a(i)",
@@ -58481,7 +61412,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-66.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q24a(ii)",
@@ -58513,7 +61445,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-66.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q24b(i)",
@@ -58543,7 +61476,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-66.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q24b(ii)",
@@ -58569,7 +61503,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-66.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q24b(iii)",
@@ -58594,7 +61529,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-66.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q24c(i)",
@@ -58620,7 +61556,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-66.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q24c(ii)",
@@ -58651,7 +61588,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-66.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q24c(iii)",
@@ -58682,7 +61620,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-66.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-67.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-68.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q25a(i)",
@@ -58712,7 +61651,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-69.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-70.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-71.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q25a(ii)",
@@ -58742,7 +61682,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-69.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-70.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-71.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q25b(i)",
@@ -58772,7 +61713,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-69.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-70.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-71.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q25b(ii)",
@@ -58797,7 +61739,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-69.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-70.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-71.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q25c(i)",
@@ -58827,7 +61770,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-69.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-70.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-71.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q25c(ii)",
@@ -58852,7 +61796,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-69.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-70.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-71.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q26a",
@@ -58880,7 +61825,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-71.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-72.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q26b",
@@ -58909,7 +61855,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/06C-Decomposition-Forensics-71.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-72.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q27a",
@@ -58935,7 +61882,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-73.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-74.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-75.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q27b(i)",
@@ -58960,7 +61908,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-73.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-74.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-75.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q27b(ii)",
@@ -58993,7 +61942,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-73.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-74.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-75.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q28a",
@@ -59022,7 +61972,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-75.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-76.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-77.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q28b(i)",
@@ -59046,7 +61997,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-75.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-76.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-77.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q28b(ii)",
@@ -59075,7 +62027,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-75.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-76.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-77.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q28b(iii)",
@@ -59099,7 +62052,8 @@ window.BANK.biology = {
       "papers/biology/img/06C-Decomposition-Forensics-75.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-76.jpg",
       "papers/biology/img/06C-Decomposition-Forensics-77.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -59136,7 +62090,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-01.jpg",
       "papers/biology/img/07A-Cellular-Respiration-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q1a(ii)",
@@ -59164,7 +62119,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-01.jpg",
       "papers/biology/img/07A-Cellular-Respiration-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q1b(i)",
@@ -59193,7 +62149,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-01.jpg",
       "papers/biology/img/07A-Cellular-Respiration-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q1b(ii)",
@@ -59222,7 +62179,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-01.jpg",
       "papers/biology/img/07A-Cellular-Respiration-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q1b(iii)",
@@ -59252,7 +62210,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-01.jpg",
       "papers/biology/img/07A-Cellular-Respiration-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q2a",
@@ -59276,7 +62235,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-02.jpg",
       "papers/biology/img/07A-Cellular-Respiration-03.jpg",
       "papers/biology/img/07A-Cellular-Respiration-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q2b(i)",
@@ -59306,7 +62266,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-02.jpg",
       "papers/biology/img/07A-Cellular-Respiration-03.jpg",
       "papers/biology/img/07A-Cellular-Respiration-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q2b(ii)",
@@ -59330,7 +62291,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-02.jpg",
       "papers/biology/img/07A-Cellular-Respiration-03.jpg",
       "papers/biology/img/07A-Cellular-Respiration-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q3a",
@@ -59354,7 +62316,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-04.jpg",
       "papers/biology/img/07A-Cellular-Respiration-05.jpg",
       "papers/biology/img/07A-Cellular-Respiration-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q3b",
@@ -59378,7 +62341,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-04.jpg",
       "papers/biology/img/07A-Cellular-Respiration-05.jpg",
       "papers/biology/img/07A-Cellular-Respiration-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q3c(i)",
@@ -59407,7 +62371,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-04.jpg",
       "papers/biology/img/07A-Cellular-Respiration-05.jpg",
       "papers/biology/img/07A-Cellular-Respiration-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q3c(ii)",
@@ -59437,7 +62402,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-04.jpg",
       "papers/biology/img/07A-Cellular-Respiration-05.jpg",
       "papers/biology/img/07A-Cellular-Respiration-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q3c(iii)",
@@ -59466,7 +62432,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-04.jpg",
       "papers/biology/img/07A-Cellular-Respiration-05.jpg",
       "papers/biology/img/07A-Cellular-Respiration-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q3d",
@@ -59495,7 +62462,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-04.jpg",
       "papers/biology/img/07A-Cellular-Respiration-05.jpg",
       "papers/biology/img/07A-Cellular-Respiration-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q4a(i)",
@@ -59520,7 +62488,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-07.jpg",
       "papers/biology/img/07A-Cellular-Respiration-08.jpg",
       "papers/biology/img/07A-Cellular-Respiration-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q4a(ii)",
@@ -59551,7 +62520,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-07.jpg",
       "papers/biology/img/07A-Cellular-Respiration-08.jpg",
       "papers/biology/img/07A-Cellular-Respiration-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q4a(iii)",
@@ -59576,7 +62546,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-07.jpg",
       "papers/biology/img/07A-Cellular-Respiration-08.jpg",
       "papers/biology/img/07A-Cellular-Respiration-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q4b",
@@ -59601,7 +62572,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-07.jpg",
       "papers/biology/img/07A-Cellular-Respiration-08.jpg",
       "papers/biology/img/07A-Cellular-Respiration-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q4c",
@@ -59626,7 +62598,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-07.jpg",
       "papers/biology/img/07A-Cellular-Respiration-08.jpg",
       "papers/biology/img/07A-Cellular-Respiration-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q5a",
@@ -59650,7 +62623,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-09.jpg",
       "papers/biology/img/07A-Cellular-Respiration-10.jpg",
       "papers/biology/img/07A-Cellular-Respiration-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q5b",
@@ -59680,7 +62654,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-09.jpg",
       "papers/biology/img/07A-Cellular-Respiration-10.jpg",
       "papers/biology/img/07A-Cellular-Respiration-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q5c",
@@ -59709,7 +62684,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-09.jpg",
       "papers/biology/img/07A-Cellular-Respiration-10.jpg",
       "papers/biology/img/07A-Cellular-Respiration-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q6a(i)",
@@ -59737,7 +62713,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-11.jpg",
       "papers/biology/img/07A-Cellular-Respiration-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q6a(ii)",
@@ -59765,7 +62742,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-11.jpg",
       "papers/biology/img/07A-Cellular-Respiration-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q6b",
@@ -59793,7 +62771,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-11.jpg",
       "papers/biology/img/07A-Cellular-Respiration-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q6c",
@@ -59822,7 +62801,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-11.jpg",
       "papers/biology/img/07A-Cellular-Respiration-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q7a(i)",
@@ -59852,7 +62832,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-12.jpg",
       "papers/biology/img/07A-Cellular-Respiration-13.jpg",
       "papers/biology/img/07A-Cellular-Respiration-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q7a(ii)",
@@ -59882,7 +62863,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-12.jpg",
       "papers/biology/img/07A-Cellular-Respiration-13.jpg",
       "papers/biology/img/07A-Cellular-Respiration-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q7a(iii)",
@@ -59911,7 +62893,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-12.jpg",
       "papers/biology/img/07A-Cellular-Respiration-13.jpg",
       "papers/biology/img/07A-Cellular-Respiration-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q7b(i)",
@@ -59940,7 +62923,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-12.jpg",
       "papers/biology/img/07A-Cellular-Respiration-13.jpg",
       "papers/biology/img/07A-Cellular-Respiration-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q7b(ii)",
@@ -59969,7 +62953,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-12.jpg",
       "papers/biology/img/07A-Cellular-Respiration-13.jpg",
       "papers/biology/img/07A-Cellular-Respiration-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q8a",
@@ -59997,7 +62982,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-14.jpg",
       "papers/biology/img/07A-Cellular-Respiration-15.jpg",
       "papers/biology/img/07A-Cellular-Respiration-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q8b(i)",
@@ -60026,7 +63012,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-14.jpg",
       "papers/biology/img/07A-Cellular-Respiration-15.jpg",
       "papers/biology/img/07A-Cellular-Respiration-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q8b(ii)",
@@ -60055,7 +63042,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-14.jpg",
       "papers/biology/img/07A-Cellular-Respiration-15.jpg",
       "papers/biology/img/07A-Cellular-Respiration-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q8b(iii)",
@@ -60085,7 +63073,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-14.jpg",
       "papers/biology/img/07A-Cellular-Respiration-15.jpg",
       "papers/biology/img/07A-Cellular-Respiration-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q9a",
@@ -60116,7 +63105,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-17.jpg",
       "papers/biology/img/07A-Cellular-Respiration-18.jpg",
       "papers/biology/img/07A-Cellular-Respiration-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q9b",
@@ -60146,7 +63136,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-17.jpg",
       "papers/biology/img/07A-Cellular-Respiration-18.jpg",
       "papers/biology/img/07A-Cellular-Respiration-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q9c",
@@ -60176,7 +63167,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-17.jpg",
       "papers/biology/img/07A-Cellular-Respiration-18.jpg",
       "papers/biology/img/07A-Cellular-Respiration-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q9d",
@@ -60206,7 +63198,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-17.jpg",
       "papers/biology/img/07A-Cellular-Respiration-18.jpg",
       "papers/biology/img/07A-Cellular-Respiration-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q9e",
@@ -60236,7 +63229,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-17.jpg",
       "papers/biology/img/07A-Cellular-Respiration-18.jpg",
       "papers/biology/img/07A-Cellular-Respiration-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q9f",
@@ -60267,7 +63261,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-17.jpg",
       "papers/biology/img/07A-Cellular-Respiration-18.jpg",
       "papers/biology/img/07A-Cellular-Respiration-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q9g",
@@ -60297,7 +63292,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-17.jpg",
       "papers/biology/img/07A-Cellular-Respiration-18.jpg",
       "papers/biology/img/07A-Cellular-Respiration-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q9h",
@@ -60327,7 +63323,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-17.jpg",
       "papers/biology/img/07A-Cellular-Respiration-18.jpg",
       "papers/biology/img/07A-Cellular-Respiration-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q10a",
@@ -60350,7 +63347,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-20.jpg",
       "papers/biology/img/07A-Cellular-Respiration-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q10b",
@@ -60378,7 +63376,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-20.jpg",
       "papers/biology/img/07A-Cellular-Respiration-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q10c(i)",
@@ -60407,7 +63406,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-20.jpg",
       "papers/biology/img/07A-Cellular-Respiration-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q10c(ii)",
@@ -60435,7 +63435,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07A-Cellular-Respiration-20.jpg",
       "papers/biology/img/07A-Cellular-Respiration-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q11a(i)",
@@ -60464,7 +63465,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-21.jpg",
       "papers/biology/img/07A-Cellular-Respiration-22.jpg",
       "papers/biology/img/07A-Cellular-Respiration-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q11a(ii)",
@@ -60493,7 +63495,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-21.jpg",
       "papers/biology/img/07A-Cellular-Respiration-22.jpg",
       "papers/biology/img/07A-Cellular-Respiration-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q11a(iii)",
@@ -60517,7 +63520,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-21.jpg",
       "papers/biology/img/07A-Cellular-Respiration-22.jpg",
       "papers/biology/img/07A-Cellular-Respiration-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q11b",
@@ -60547,7 +63551,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-21.jpg",
       "papers/biology/img/07A-Cellular-Respiration-22.jpg",
       "papers/biology/img/07A-Cellular-Respiration-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q11c(i)",
@@ -60576,7 +63581,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-21.jpg",
       "papers/biology/img/07A-Cellular-Respiration-22.jpg",
       "papers/biology/img/07A-Cellular-Respiration-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q11c(ii)",
@@ -60605,7 +63611,8 @@ window.BANK.biology = {
       "papers/biology/img/07A-Cellular-Respiration-21.jpg",
       "papers/biology/img/07A-Cellular-Respiration-22.jpg",
       "papers/biology/img/07A-Cellular-Respiration-23.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -60636,7 +63643,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-01.jpg",
       "papers/biology/img/07B-Muscles-Heart-02.jpg",
       "papers/biology/img/07B-Muscles-Heart-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q1b",
@@ -60660,7 +63668,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-01.jpg",
       "papers/biology/img/07B-Muscles-Heart-02.jpg",
       "papers/biology/img/07B-Muscles-Heart-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q1c",
@@ -60684,7 +63693,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-01.jpg",
       "papers/biology/img/07B-Muscles-Heart-02.jpg",
       "papers/biology/img/07B-Muscles-Heart-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q2a(i)",
@@ -60709,7 +63719,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-04.jpg",
       "papers/biology/img/07B-Muscles-Heart-05.jpg",
       "papers/biology/img/07B-Muscles-Heart-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q2a(ii)",
@@ -60734,7 +63745,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-04.jpg",
       "papers/biology/img/07B-Muscles-Heart-05.jpg",
       "papers/biology/img/07B-Muscles-Heart-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q2a(iii)",
@@ -60763,7 +63775,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-04.jpg",
       "papers/biology/img/07B-Muscles-Heart-05.jpg",
       "papers/biology/img/07B-Muscles-Heart-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q2a(iv)",
@@ -60792,7 +63805,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-04.jpg",
       "papers/biology/img/07B-Muscles-Heart-05.jpg",
       "papers/biology/img/07B-Muscles-Heart-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q2b",
@@ -60818,7 +63832,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-04.jpg",
       "papers/biology/img/07B-Muscles-Heart-05.jpg",
       "papers/biology/img/07B-Muscles-Heart-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q3a",
@@ -60842,7 +63857,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-06.jpg",
       "papers/biology/img/07B-Muscles-Heart-07.jpg",
       "papers/biology/img/07B-Muscles-Heart-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q3b",
@@ -60866,7 +63882,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-06.jpg",
       "papers/biology/img/07B-Muscles-Heart-07.jpg",
       "papers/biology/img/07B-Muscles-Heart-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q3c",
@@ -60890,7 +63907,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-06.jpg",
       "papers/biology/img/07B-Muscles-Heart-07.jpg",
       "papers/biology/img/07B-Muscles-Heart-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q3d",
@@ -60922,7 +63940,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-06.jpg",
       "papers/biology/img/07B-Muscles-Heart-07.jpg",
       "papers/biology/img/07B-Muscles-Heart-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q4a",
@@ -60947,7 +63966,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-08.jpg",
       "papers/biology/img/07B-Muscles-Heart-09.jpg",
       "papers/biology/img/07B-Muscles-Heart-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q4b",
@@ -60972,7 +63992,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-08.jpg",
       "papers/biology/img/07B-Muscles-Heart-09.jpg",
       "papers/biology/img/07B-Muscles-Heart-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q4c",
@@ -60996,7 +64017,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-08.jpg",
       "papers/biology/img/07B-Muscles-Heart-09.jpg",
       "papers/biology/img/07B-Muscles-Heart-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q5a",
@@ -61027,7 +64049,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-10.jpg",
       "papers/biology/img/07B-Muscles-Heart-11.jpg",
       "papers/biology/img/07B-Muscles-Heart-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q5b(i)",
@@ -61055,7 +64078,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-10.jpg",
       "papers/biology/img/07B-Muscles-Heart-11.jpg",
       "papers/biology/img/07B-Muscles-Heart-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q5b(ii)",
@@ -61078,7 +64102,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-10.jpg",
       "papers/biology/img/07B-Muscles-Heart-11.jpg",
       "papers/biology/img/07B-Muscles-Heart-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q5c(i)",
@@ -61106,7 +64131,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-10.jpg",
       "papers/biology/img/07B-Muscles-Heart-11.jpg",
       "papers/biology/img/07B-Muscles-Heart-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q5c(ii)",
@@ -61133,7 +64159,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-10.jpg",
       "papers/biology/img/07B-Muscles-Heart-11.jpg",
       "papers/biology/img/07B-Muscles-Heart-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q5d",
@@ -61157,7 +64184,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-10.jpg",
       "papers/biology/img/07B-Muscles-Heart-11.jpg",
       "papers/biology/img/07B-Muscles-Heart-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q5e",
@@ -61185,7 +64213,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-10.jpg",
       "papers/biology/img/07B-Muscles-Heart-11.jpg",
       "papers/biology/img/07B-Muscles-Heart-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q6a",
@@ -61215,7 +64244,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-14.jpg",
       "papers/biology/img/07B-Muscles-Heart-15.jpg",
       "papers/biology/img/07B-Muscles-Heart-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q6b(i)",
@@ -61243,7 +64273,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-14.jpg",
       "papers/biology/img/07B-Muscles-Heart-15.jpg",
       "papers/biology/img/07B-Muscles-Heart-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q6b(ii)",
@@ -61268,7 +64299,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-14.jpg",
       "papers/biology/img/07B-Muscles-Heart-15.jpg",
       "papers/biology/img/07B-Muscles-Heart-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q6b(iii)",
@@ -61294,7 +64326,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-14.jpg",
       "papers/biology/img/07B-Muscles-Heart-15.jpg",
       "papers/biology/img/07B-Muscles-Heart-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q7a",
@@ -61317,7 +64350,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-16.jpg",
       "papers/biology/img/07B-Muscles-Heart-17.jpg",
       "papers/biology/img/07B-Muscles-Heart-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q7b(i)",
@@ -61340,7 +64374,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-16.jpg",
       "papers/biology/img/07B-Muscles-Heart-17.jpg",
       "papers/biology/img/07B-Muscles-Heart-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q7b(ii)",
@@ -61364,7 +64399,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-16.jpg",
       "papers/biology/img/07B-Muscles-Heart-17.jpg",
       "papers/biology/img/07B-Muscles-Heart-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q7c(i)",
@@ -61393,7 +64429,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-16.jpg",
       "papers/biology/img/07B-Muscles-Heart-17.jpg",
       "papers/biology/img/07B-Muscles-Heart-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q7c(ii)",
@@ -61423,7 +64460,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-16.jpg",
       "papers/biology/img/07B-Muscles-Heart-17.jpg",
       "papers/biology/img/07B-Muscles-Heart-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q8a(i)",
@@ -61451,7 +64489,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-19.jpg",
       "papers/biology/img/07B-Muscles-Heart-20.jpg",
       "papers/biology/img/07B-Muscles-Heart-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q8a(ii)",
@@ -61480,7 +64519,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-19.jpg",
       "papers/biology/img/07B-Muscles-Heart-20.jpg",
       "papers/biology/img/07B-Muscles-Heart-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q8b(i)",
@@ -61507,7 +64547,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-19.jpg",
       "papers/biology/img/07B-Muscles-Heart-20.jpg",
       "papers/biology/img/07B-Muscles-Heart-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q8b(ii)",
@@ -61536,7 +64577,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-19.jpg",
       "papers/biology/img/07B-Muscles-Heart-20.jpg",
       "papers/biology/img/07B-Muscles-Heart-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q8c",
@@ -61559,7 +64601,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-19.jpg",
       "papers/biology/img/07B-Muscles-Heart-20.jpg",
       "papers/biology/img/07B-Muscles-Heart-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q9a(i)",
@@ -61582,7 +64625,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-22.jpg",
       "papers/biology/img/07B-Muscles-Heart-23.jpg",
       "papers/biology/img/07B-Muscles-Heart-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q9a(ii)",
@@ -61606,7 +64650,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-22.jpg",
       "papers/biology/img/07B-Muscles-Heart-23.jpg",
       "papers/biology/img/07B-Muscles-Heart-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q9b(i)",
@@ -61636,7 +64681,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-22.jpg",
       "papers/biology/img/07B-Muscles-Heart-23.jpg",
       "papers/biology/img/07B-Muscles-Heart-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q9b(ii)",
@@ -61664,7 +64710,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-22.jpg",
       "papers/biology/img/07B-Muscles-Heart-23.jpg",
       "papers/biology/img/07B-Muscles-Heart-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q10a(i)",
@@ -61691,7 +64738,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-24.jpg",
       "papers/biology/img/07B-Muscles-Heart-25.jpg",
       "papers/biology/img/07B-Muscles-Heart-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q10a(ii)",
@@ -61718,7 +64766,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-24.jpg",
       "papers/biology/img/07B-Muscles-Heart-25.jpg",
       "papers/biology/img/07B-Muscles-Heart-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q10a(iii)",
@@ -61745,7 +64794,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-24.jpg",
       "papers/biology/img/07B-Muscles-Heart-25.jpg",
       "papers/biology/img/07B-Muscles-Heart-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q10b(i)",
@@ -61773,7 +64823,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-24.jpg",
       "papers/biology/img/07B-Muscles-Heart-25.jpg",
       "papers/biology/img/07B-Muscles-Heart-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q10b(ii)",
@@ -61802,7 +64853,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-24.jpg",
       "papers/biology/img/07B-Muscles-Heart-25.jpg",
       "papers/biology/img/07B-Muscles-Heart-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q11a",
@@ -61830,7 +64882,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-26.jpg",
       "papers/biology/img/07B-Muscles-Heart-27.jpg",
       "papers/biology/img/07B-Muscles-Heart-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q11b(i)",
@@ -61854,7 +64907,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-26.jpg",
       "papers/biology/img/07B-Muscles-Heart-27.jpg",
       "papers/biology/img/07B-Muscles-Heart-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q11b(ii)",
@@ -61877,7 +64931,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-26.jpg",
       "papers/biology/img/07B-Muscles-Heart-27.jpg",
       "papers/biology/img/07B-Muscles-Heart-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q11c",
@@ -61906,7 +64961,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-26.jpg",
       "papers/biology/img/07B-Muscles-Heart-27.jpg",
       "papers/biology/img/07B-Muscles-Heart-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q12a",
@@ -61934,7 +64990,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-28.jpg",
       "papers/biology/img/07B-Muscles-Heart-29.jpg",
       "papers/biology/img/07B-Muscles-Heart-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q12b",
@@ -61958,7 +65015,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-28.jpg",
       "papers/biology/img/07B-Muscles-Heart-29.jpg",
       "papers/biology/img/07B-Muscles-Heart-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q13a",
@@ -61982,7 +65040,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-31.jpg",
       "papers/biology/img/07B-Muscles-Heart-32.jpg",
       "papers/biology/img/07B-Muscles-Heart-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q13b",
@@ -62008,7 +65067,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-31.jpg",
       "papers/biology/img/07B-Muscles-Heart-32.jpg",
       "papers/biology/img/07B-Muscles-Heart-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q13c(i)",
@@ -62036,7 +65096,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-31.jpg",
       "papers/biology/img/07B-Muscles-Heart-32.jpg",
       "papers/biology/img/07B-Muscles-Heart-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q13c(ii)",
@@ -62060,7 +65121,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-31.jpg",
       "papers/biology/img/07B-Muscles-Heart-32.jpg",
       "papers/biology/img/07B-Muscles-Heart-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q13c(iii)",
@@ -62084,7 +65146,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-31.jpg",
       "papers/biology/img/07B-Muscles-Heart-32.jpg",
       "papers/biology/img/07B-Muscles-Heart-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q13d(i)",
@@ -62108,7 +65171,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-31.jpg",
       "papers/biology/img/07B-Muscles-Heart-32.jpg",
       "papers/biology/img/07B-Muscles-Heart-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q13d(ii)",
@@ -62139,7 +65203,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-31.jpg",
       "papers/biology/img/07B-Muscles-Heart-32.jpg",
       "papers/biology/img/07B-Muscles-Heart-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q13d(iii)",
@@ -62168,7 +65233,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-31.jpg",
       "papers/biology/img/07B-Muscles-Heart-32.jpg",
       "papers/biology/img/07B-Muscles-Heart-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q14a",
@@ -62192,7 +65258,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-34.jpg",
       "papers/biology/img/07B-Muscles-Heart-35.jpg",
       "papers/biology/img/07B-Muscles-Heart-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q14b(i)",
@@ -62216,7 +65283,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-34.jpg",
       "papers/biology/img/07B-Muscles-Heart-35.jpg",
       "papers/biology/img/07B-Muscles-Heart-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q14b(ii)",
@@ -62240,7 +65308,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-34.jpg",
       "papers/biology/img/07B-Muscles-Heart-35.jpg",
       "papers/biology/img/07B-Muscles-Heart-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q14c(i)",
@@ -62270,7 +65339,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-34.jpg",
       "papers/biology/img/07B-Muscles-Heart-35.jpg",
       "papers/biology/img/07B-Muscles-Heart-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q14c(ii)",
@@ -62297,7 +65367,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-34.jpg",
       "papers/biology/img/07B-Muscles-Heart-35.jpg",
       "papers/biology/img/07B-Muscles-Heart-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q14c(iii)",
@@ -62328,7 +65399,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-34.jpg",
       "papers/biology/img/07B-Muscles-Heart-35.jpg",
       "papers/biology/img/07B-Muscles-Heart-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q15a",
@@ -62356,7 +65428,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-37.jpg",
       "papers/biology/img/07B-Muscles-Heart-38.jpg",
       "papers/biology/img/07B-Muscles-Heart-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q15b(i)",
@@ -62380,7 +65453,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-37.jpg",
       "papers/biology/img/07B-Muscles-Heart-38.jpg",
       "papers/biology/img/07B-Muscles-Heart-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q15b(ii)",
@@ -62404,7 +65478,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-37.jpg",
       "papers/biology/img/07B-Muscles-Heart-38.jpg",
       "papers/biology/img/07B-Muscles-Heart-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q15b(iii)",
@@ -62435,7 +65510,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-37.jpg",
       "papers/biology/img/07B-Muscles-Heart-38.jpg",
       "papers/biology/img/07B-Muscles-Heart-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q15c",
@@ -62465,7 +65541,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-37.jpg",
       "papers/biology/img/07B-Muscles-Heart-38.jpg",
       "papers/biology/img/07B-Muscles-Heart-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q16a(i)",
@@ -62491,7 +65568,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07B-Muscles-Heart-39.jpg",
       "papers/biology/img/07B-Muscles-Heart-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q16a(ii)",
@@ -62514,7 +65592,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07B-Muscles-Heart-39.jpg",
       "papers/biology/img/07B-Muscles-Heart-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q16b(i)",
@@ -62540,7 +65619,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07B-Muscles-Heart-39.jpg",
       "papers/biology/img/07B-Muscles-Heart-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q16b(ii)",
@@ -62566,7 +65646,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07B-Muscles-Heart-39.jpg",
       "papers/biology/img/07B-Muscles-Heart-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q17a",
@@ -62594,7 +65675,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-41.jpg",
       "papers/biology/img/07B-Muscles-Heart-42.jpg",
       "papers/biology/img/07B-Muscles-Heart-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q17b(i)",
@@ -62618,7 +65700,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-41.jpg",
       "papers/biology/img/07B-Muscles-Heart-42.jpg",
       "papers/biology/img/07B-Muscles-Heart-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q17b(ii)",
@@ -62643,7 +65726,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-41.jpg",
       "papers/biology/img/07B-Muscles-Heart-42.jpg",
       "papers/biology/img/07B-Muscles-Heart-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q17c(i)",
@@ -62668,7 +65752,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-41.jpg",
       "papers/biology/img/07B-Muscles-Heart-42.jpg",
       "papers/biology/img/07B-Muscles-Heart-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q17c(ii)",
@@ -62699,7 +65784,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-41.jpg",
       "papers/biology/img/07B-Muscles-Heart-42.jpg",
       "papers/biology/img/07B-Muscles-Heart-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q18a(i)",
@@ -62723,7 +65809,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-43.jpg",
       "papers/biology/img/07B-Muscles-Heart-44.jpg",
       "papers/biology/img/07B-Muscles-Heart-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q18a(ii)",
@@ -62747,7 +65834,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-43.jpg",
       "papers/biology/img/07B-Muscles-Heart-44.jpg",
       "papers/biology/img/07B-Muscles-Heart-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q18b",
@@ -62770,7 +65858,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-43.jpg",
       "papers/biology/img/07B-Muscles-Heart-44.jpg",
       "papers/biology/img/07B-Muscles-Heart-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q19a",
@@ -62793,7 +65882,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-46.jpg",
       "papers/biology/img/07B-Muscles-Heart-47.jpg",
       "papers/biology/img/07B-Muscles-Heart-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q19b(i)",
@@ -62817,7 +65907,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-46.jpg",
       "papers/biology/img/07B-Muscles-Heart-47.jpg",
       "papers/biology/img/07B-Muscles-Heart-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q19b(ii)",
@@ -62847,7 +65938,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-46.jpg",
       "papers/biology/img/07B-Muscles-Heart-47.jpg",
       "papers/biology/img/07B-Muscles-Heart-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q19c",
@@ -62870,7 +65962,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-46.jpg",
       "papers/biology/img/07B-Muscles-Heart-47.jpg",
       "papers/biology/img/07B-Muscles-Heart-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q20a(i)",
@@ -62895,7 +65988,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-49.jpg",
       "papers/biology/img/07B-Muscles-Heart-50.jpg",
       "papers/biology/img/07B-Muscles-Heart-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q20a(ii)",
@@ -62921,7 +66015,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-49.jpg",
       "papers/biology/img/07B-Muscles-Heart-50.jpg",
       "papers/biology/img/07B-Muscles-Heart-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q20b",
@@ -62951,7 +66046,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-49.jpg",
       "papers/biology/img/07B-Muscles-Heart-50.jpg",
       "papers/biology/img/07B-Muscles-Heart-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q21a",
@@ -62981,7 +66077,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-52.jpg",
       "papers/biology/img/07B-Muscles-Heart-53.jpg",
       "papers/biology/img/07B-Muscles-Heart-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q21b(i)",
@@ -63009,7 +66106,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-52.jpg",
       "papers/biology/img/07B-Muscles-Heart-53.jpg",
       "papers/biology/img/07B-Muscles-Heart-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q21b(ii)",
@@ -63037,7 +66135,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-52.jpg",
       "papers/biology/img/07B-Muscles-Heart-53.jpg",
       "papers/biology/img/07B-Muscles-Heart-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q21c(i)",
@@ -63062,7 +66161,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-52.jpg",
       "papers/biology/img/07B-Muscles-Heart-53.jpg",
       "papers/biology/img/07B-Muscles-Heart-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q21c(ii)",
@@ -63089,7 +66189,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-52.jpg",
       "papers/biology/img/07B-Muscles-Heart-53.jpg",
       "papers/biology/img/07B-Muscles-Heart-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q21c(iii)",
@@ -63117,7 +66218,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-52.jpg",
       "papers/biology/img/07B-Muscles-Heart-53.jpg",
       "papers/biology/img/07B-Muscles-Heart-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q22a(i)",
@@ -63140,7 +66242,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-54.jpg",
       "papers/biology/img/07B-Muscles-Heart-55.jpg",
       "papers/biology/img/07B-Muscles-Heart-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q22a(ii)",
@@ -63163,7 +66266,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-54.jpg",
       "papers/biology/img/07B-Muscles-Heart-55.jpg",
       "papers/biology/img/07B-Muscles-Heart-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q22a(iii)",
@@ -63186,7 +66290,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-54.jpg",
       "papers/biology/img/07B-Muscles-Heart-55.jpg",
       "papers/biology/img/07B-Muscles-Heart-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q22b",
@@ -63215,7 +66320,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-54.jpg",
       "papers/biology/img/07B-Muscles-Heart-55.jpg",
       "papers/biology/img/07B-Muscles-Heart-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q22c(i)",
@@ -63238,7 +66344,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-54.jpg",
       "papers/biology/img/07B-Muscles-Heart-55.jpg",
       "papers/biology/img/07B-Muscles-Heart-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q22c(ii)",
@@ -63260,7 +66367,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-54.jpg",
       "papers/biology/img/07B-Muscles-Heart-55.jpg",
       "papers/biology/img/07B-Muscles-Heart-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q23a(i)",
@@ -63283,7 +66391,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-56.jpg",
       "papers/biology/img/07B-Muscles-Heart-57.jpg",
       "papers/biology/img/07B-Muscles-Heart-58.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q23a(ii)",
@@ -63313,7 +66422,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-56.jpg",
       "papers/biology/img/07B-Muscles-Heart-57.jpg",
       "papers/biology/img/07B-Muscles-Heart-58.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q23b",
@@ -63340,7 +66450,8 @@ window.BANK.biology = {
       "papers/biology/img/07B-Muscles-Heart-56.jpg",
       "papers/biology/img/07B-Muscles-Heart-57.jpg",
       "papers/biology/img/07B-Muscles-Heart-58.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -63372,7 +66483,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-01.jpg",
       "papers/biology/img/07C-Internal-Environment-02.jpg",
       "papers/biology/img/07C-Internal-Environment-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q1a(ii)",
@@ -63395,7 +66507,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-01.jpg",
       "papers/biology/img/07C-Internal-Environment-02.jpg",
       "papers/biology/img/07C-Internal-Environment-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q1a(iii)",
@@ -63417,7 +66530,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-01.jpg",
       "papers/biology/img/07C-Internal-Environment-02.jpg",
       "papers/biology/img/07C-Internal-Environment-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q1b",
@@ -63446,7 +66560,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-01.jpg",
       "papers/biology/img/07C-Internal-Environment-02.jpg",
       "papers/biology/img/07C-Internal-Environment-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q1c",
@@ -63470,7 +66585,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-01.jpg",
       "papers/biology/img/07C-Internal-Environment-02.jpg",
       "papers/biology/img/07C-Internal-Environment-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q2a(i)",
@@ -63497,7 +66613,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-03.jpg",
       "papers/biology/img/07C-Internal-Environment-04.jpg",
       "papers/biology/img/07C-Internal-Environment-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q2a(ii)",
@@ -63521,7 +66638,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-03.jpg",
       "papers/biology/img/07C-Internal-Environment-04.jpg",
       "papers/biology/img/07C-Internal-Environment-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q2b(i)",
@@ -63550,7 +66668,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-03.jpg",
       "papers/biology/img/07C-Internal-Environment-04.jpg",
       "papers/biology/img/07C-Internal-Environment-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q2b(ii)",
@@ -63579,7 +66698,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-03.jpg",
       "papers/biology/img/07C-Internal-Environment-04.jpg",
       "papers/biology/img/07C-Internal-Environment-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q2b(iii)",
@@ -63608,7 +66728,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-03.jpg",
       "papers/biology/img/07C-Internal-Environment-04.jpg",
       "papers/biology/img/07C-Internal-Environment-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q3a",
@@ -63635,7 +66756,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07C-Internal-Environment-06.jpg",
       "papers/biology/img/07C-Internal-Environment-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q3b",
@@ -63658,7 +66780,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07C-Internal-Environment-06.jpg",
       "papers/biology/img/07C-Internal-Environment-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q3c",
@@ -63681,7 +66804,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07C-Internal-Environment-06.jpg",
       "papers/biology/img/07C-Internal-Environment-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q4a",
@@ -63710,7 +66834,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-08.jpg",
       "papers/biology/img/07C-Internal-Environment-09.jpg",
       "papers/biology/img/07C-Internal-Environment-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q4b",
@@ -63738,7 +66863,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-08.jpg",
       "papers/biology/img/07C-Internal-Environment-09.jpg",
       "papers/biology/img/07C-Internal-Environment-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q4c(i)",
@@ -63768,7 +66894,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-08.jpg",
       "papers/biology/img/07C-Internal-Environment-09.jpg",
       "papers/biology/img/07C-Internal-Environment-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q4c(ii)",
@@ -63793,7 +66920,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-08.jpg",
       "papers/biology/img/07C-Internal-Environment-09.jpg",
       "papers/biology/img/07C-Internal-Environment-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q4d(i)",
@@ -63819,7 +66947,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-08.jpg",
       "papers/biology/img/07C-Internal-Environment-09.jpg",
       "papers/biology/img/07C-Internal-Environment-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q4d(ii)",
@@ -63844,7 +66973,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-08.jpg",
       "papers/biology/img/07C-Internal-Environment-09.jpg",
       "papers/biology/img/07C-Internal-Environment-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q5a(i)",
@@ -63871,7 +67001,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-10.jpg",
       "papers/biology/img/07C-Internal-Environment-11.jpg",
       "papers/biology/img/07C-Internal-Environment-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q5a(ii)",
@@ -63897,7 +67028,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-10.jpg",
       "papers/biology/img/07C-Internal-Environment-11.jpg",
       "papers/biology/img/07C-Internal-Environment-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q5b",
@@ -63924,7 +67056,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-10.jpg",
       "papers/biology/img/07C-Internal-Environment-11.jpg",
       "papers/biology/img/07C-Internal-Environment-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q5c",
@@ -63954,7 +67087,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-10.jpg",
       "papers/biology/img/07C-Internal-Environment-11.jpg",
       "papers/biology/img/07C-Internal-Environment-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q5d",
@@ -63983,7 +67117,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-10.jpg",
       "papers/biology/img/07C-Internal-Environment-11.jpg",
       "papers/biology/img/07C-Internal-Environment-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q5e",
@@ -64012,7 +67147,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-10.jpg",
       "papers/biology/img/07C-Internal-Environment-11.jpg",
       "papers/biology/img/07C-Internal-Environment-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q6a(i)",
@@ -64036,7 +67172,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-13.jpg",
       "papers/biology/img/07C-Internal-Environment-14.jpg",
       "papers/biology/img/07C-Internal-Environment-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q6a(ii)",
@@ -64065,7 +67202,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-13.jpg",
       "papers/biology/img/07C-Internal-Environment-14.jpg",
       "papers/biology/img/07C-Internal-Environment-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q6a(iii)",
@@ -64090,7 +67228,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-13.jpg",
       "papers/biology/img/07C-Internal-Environment-14.jpg",
       "papers/biology/img/07C-Internal-Environment-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q6b",
@@ -64120,7 +67259,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-13.jpg",
       "papers/biology/img/07C-Internal-Environment-14.jpg",
       "papers/biology/img/07C-Internal-Environment-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q6c",
@@ -64151,7 +67291,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-13.jpg",
       "papers/biology/img/07C-Internal-Environment-14.jpg",
       "papers/biology/img/07C-Internal-Environment-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q7a",
@@ -64182,7 +67323,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-16.jpg",
       "papers/biology/img/07C-Internal-Environment-17.jpg",
       "papers/biology/img/07C-Internal-Environment-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q7b(i)",
@@ -64207,7 +67349,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-16.jpg",
       "papers/biology/img/07C-Internal-Environment-17.jpg",
       "papers/biology/img/07C-Internal-Environment-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q7b(ii)",
@@ -64231,7 +67374,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-16.jpg",
       "papers/biology/img/07C-Internal-Environment-17.jpg",
       "papers/biology/img/07C-Internal-Environment-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q7c",
@@ -64256,7 +67400,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-16.jpg",
       "papers/biology/img/07C-Internal-Environment-17.jpg",
       "papers/biology/img/07C-Internal-Environment-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q7d",
@@ -64284,7 +67429,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-16.jpg",
       "papers/biology/img/07C-Internal-Environment-17.jpg",
       "papers/biology/img/07C-Internal-Environment-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q8a(i)",
@@ -64306,7 +67452,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07C-Internal-Environment-18.jpg",
       "papers/biology/img/07C-Internal-Environment-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q8a(ii)",
@@ -64332,7 +67479,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07C-Internal-Environment-18.jpg",
       "papers/biology/img/07C-Internal-Environment-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q8a(iii)",
@@ -64354,7 +67502,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07C-Internal-Environment-18.jpg",
       "papers/biology/img/07C-Internal-Environment-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q8b",
@@ -64380,7 +67529,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07C-Internal-Environment-18.jpg",
       "papers/biology/img/07C-Internal-Environment-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q8c",
@@ -64406,7 +67556,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07C-Internal-Environment-18.jpg",
       "papers/biology/img/07C-Internal-Environment-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q9a(i)",
@@ -64428,7 +67579,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-20.jpg",
       "papers/biology/img/07C-Internal-Environment-21.jpg",
       "papers/biology/img/07C-Internal-Environment-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q9a(ii)",
@@ -64458,7 +67610,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-20.jpg",
       "papers/biology/img/07C-Internal-Environment-21.jpg",
       "papers/biology/img/07C-Internal-Environment-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q9b(i)",
@@ -64481,7 +67634,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-20.jpg",
       "papers/biology/img/07C-Internal-Environment-21.jpg",
       "papers/biology/img/07C-Internal-Environment-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q9b(ii)",
@@ -64504,7 +67658,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-20.jpg",
       "papers/biology/img/07C-Internal-Environment-21.jpg",
       "papers/biology/img/07C-Internal-Environment-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q9b(iii)",
@@ -64527,7 +67682,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-20.jpg",
       "papers/biology/img/07C-Internal-Environment-21.jpg",
       "papers/biology/img/07C-Internal-Environment-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q9c",
@@ -64555,7 +67711,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-20.jpg",
       "papers/biology/img/07C-Internal-Environment-21.jpg",
       "papers/biology/img/07C-Internal-Environment-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q10a(i)",
@@ -64582,7 +67739,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-23.jpg",
       "papers/biology/img/07C-Internal-Environment-24.jpg",
       "papers/biology/img/07C-Internal-Environment-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q10a(ii)",
@@ -64608,7 +67766,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-23.jpg",
       "papers/biology/img/07C-Internal-Environment-24.jpg",
       "papers/biology/img/07C-Internal-Environment-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q10a(iii)",
@@ -64636,7 +67795,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-23.jpg",
       "papers/biology/img/07C-Internal-Environment-24.jpg",
       "papers/biology/img/07C-Internal-Environment-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q10b",
@@ -64666,7 +67826,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-23.jpg",
       "papers/biology/img/07C-Internal-Environment-24.jpg",
       "papers/biology/img/07C-Internal-Environment-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q10c(i)",
@@ -64691,7 +67852,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-23.jpg",
       "papers/biology/img/07C-Internal-Environment-24.jpg",
       "papers/biology/img/07C-Internal-Environment-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q10c(ii)",
@@ -64716,7 +67878,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-23.jpg",
       "papers/biology/img/07C-Internal-Environment-24.jpg",
       "papers/biology/img/07C-Internal-Environment-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q10c(iii)",
@@ -64745,7 +67908,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-23.jpg",
       "papers/biology/img/07C-Internal-Environment-24.jpg",
       "papers/biology/img/07C-Internal-Environment-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q11a(i)",
@@ -64772,7 +67936,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-25.jpg",
       "papers/biology/img/07C-Internal-Environment-26.jpg",
       "papers/biology/img/07C-Internal-Environment-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q11a(ii)",
@@ -64798,7 +67963,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-25.jpg",
       "papers/biology/img/07C-Internal-Environment-26.jpg",
       "papers/biology/img/07C-Internal-Environment-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q11b",
@@ -64826,7 +67992,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-25.jpg",
       "papers/biology/img/07C-Internal-Environment-26.jpg",
       "papers/biology/img/07C-Internal-Environment-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q11c",
@@ -64856,7 +68023,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-25.jpg",
       "papers/biology/img/07C-Internal-Environment-26.jpg",
       "papers/biology/img/07C-Internal-Environment-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q11d",
@@ -64884,7 +68052,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-25.jpg",
       "papers/biology/img/07C-Internal-Environment-26.jpg",
       "papers/biology/img/07C-Internal-Environment-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q12a(i)",
@@ -64911,7 +68080,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-28.jpg",
       "papers/biology/img/07C-Internal-Environment-29.jpg",
       "papers/biology/img/07C-Internal-Environment-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q12a(ii)",
@@ -64938,7 +68108,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-28.jpg",
       "papers/biology/img/07C-Internal-Environment-29.jpg",
       "papers/biology/img/07C-Internal-Environment-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q12a(iii)",
@@ -64965,7 +68136,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-28.jpg",
       "papers/biology/img/07C-Internal-Environment-29.jpg",
       "papers/biology/img/07C-Internal-Environment-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q12a(iv)",
@@ -64993,7 +68165,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-28.jpg",
       "papers/biology/img/07C-Internal-Environment-29.jpg",
       "papers/biology/img/07C-Internal-Environment-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q12b(i)",
@@ -65018,7 +68191,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-28.jpg",
       "papers/biology/img/07C-Internal-Environment-29.jpg",
       "papers/biology/img/07C-Internal-Environment-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q12b(ii)",
@@ -65042,7 +68216,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-28.jpg",
       "papers/biology/img/07C-Internal-Environment-29.jpg",
       "papers/biology/img/07C-Internal-Environment-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q12b(iii)",
@@ -65067,7 +68242,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-28.jpg",
       "papers/biology/img/07C-Internal-Environment-29.jpg",
       "papers/biology/img/07C-Internal-Environment-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q13a(i)",
@@ -65090,7 +68266,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-30.jpg",
       "papers/biology/img/07C-Internal-Environment-31.jpg",
       "papers/biology/img/07C-Internal-Environment-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q13a(ii)",
@@ -65118,7 +68295,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-30.jpg",
       "papers/biology/img/07C-Internal-Environment-31.jpg",
       "papers/biology/img/07C-Internal-Environment-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q13b(i)",
@@ -65144,7 +68322,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-30.jpg",
       "papers/biology/img/07C-Internal-Environment-31.jpg",
       "papers/biology/img/07C-Internal-Environment-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q13b(ii)",
@@ -65171,7 +68350,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-30.jpg",
       "papers/biology/img/07C-Internal-Environment-31.jpg",
       "papers/biology/img/07C-Internal-Environment-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q13c",
@@ -65200,7 +68380,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-30.jpg",
       "papers/biology/img/07C-Internal-Environment-31.jpg",
       "papers/biology/img/07C-Internal-Environment-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q13d(i)",
@@ -65226,7 +68407,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-30.jpg",
       "papers/biology/img/07C-Internal-Environment-31.jpg",
       "papers/biology/img/07C-Internal-Environment-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q13d(ii)",
@@ -65253,7 +68435,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-30.jpg",
       "papers/biology/img/07C-Internal-Environment-31.jpg",
       "papers/biology/img/07C-Internal-Environment-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q14a",
@@ -65284,7 +68467,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-33.jpg",
       "papers/biology/img/07C-Internal-Environment-34.jpg",
       "papers/biology/img/07C-Internal-Environment-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q14b",
@@ -65314,7 +68498,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-33.jpg",
       "papers/biology/img/07C-Internal-Environment-34.jpg",
       "papers/biology/img/07C-Internal-Environment-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q14c(i)",
@@ -65339,7 +68524,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-33.jpg",
       "papers/biology/img/07C-Internal-Environment-34.jpg",
       "papers/biology/img/07C-Internal-Environment-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q14c(ii)",
@@ -65365,7 +68551,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-33.jpg",
       "papers/biology/img/07C-Internal-Environment-34.jpg",
       "papers/biology/img/07C-Internal-Environment-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q15a(i)",
@@ -65389,7 +68576,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-37.jpg",
       "papers/biology/img/07C-Internal-Environment-38.jpg",
       "papers/biology/img/07C-Internal-Environment-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q15a(ii)",
@@ -65414,7 +68602,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-37.jpg",
       "papers/biology/img/07C-Internal-Environment-38.jpg",
       "papers/biology/img/07C-Internal-Environment-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q15a(iii)",
@@ -65439,7 +68628,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-37.jpg",
       "papers/biology/img/07C-Internal-Environment-38.jpg",
       "papers/biology/img/07C-Internal-Environment-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q15b",
@@ -65465,7 +68655,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-37.jpg",
       "papers/biology/img/07C-Internal-Environment-38.jpg",
       "papers/biology/img/07C-Internal-Environment-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q15c",
@@ -65495,7 +68686,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-37.jpg",
       "papers/biology/img/07C-Internal-Environment-38.jpg",
       "papers/biology/img/07C-Internal-Environment-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q16a(i)",
@@ -65520,7 +68712,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-39.jpg",
       "papers/biology/img/07C-Internal-Environment-40.jpg",
       "papers/biology/img/07C-Internal-Environment-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q16a(ii)",
@@ -65546,7 +68739,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-39.jpg",
       "papers/biology/img/07C-Internal-Environment-40.jpg",
       "papers/biology/img/07C-Internal-Environment-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q16b(i)",
@@ -65569,7 +68763,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-39.jpg",
       "papers/biology/img/07C-Internal-Environment-40.jpg",
       "papers/biology/img/07C-Internal-Environment-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q16b(ii)",
@@ -65596,7 +68791,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-39.jpg",
       "papers/biology/img/07C-Internal-Environment-40.jpg",
       "papers/biology/img/07C-Internal-Environment-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q16c",
@@ -65624,7 +68820,8 @@ window.BANK.biology = {
       "papers/biology/img/07C-Internal-Environment-39.jpg",
       "papers/biology/img/07C-Internal-Environment-40.jpg",
       "papers/biology/img/07C-Internal-Environment-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q17a(i)",
@@ -65645,7 +68842,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07C-Internal-Environment-41.jpg",
       "papers/biology/img/07C-Internal-Environment-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q17a(ii)",
@@ -65671,7 +68869,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07C-Internal-Environment-41.jpg",
       "papers/biology/img/07C-Internal-Environment-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q17b",
@@ -65698,7 +68897,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/07C-Internal-Environment-41.jpg",
       "papers/biology/img/07C-Internal-Environment-42.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -65734,7 +68934,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-001.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-002.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q1a(ii)",
@@ -65756,7 +68957,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-001.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-002.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q1b",
@@ -65784,7 +68986,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-001.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-002.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q1c",
@@ -65807,7 +69010,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-001.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-002.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q2a",
@@ -65837,7 +69041,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q2b",
@@ -65868,7 +69073,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q2c",
@@ -65893,7 +69099,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q2d",
@@ -65923,7 +69130,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q2e",
@@ -65953,7 +69161,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q2f",
@@ -65984,7 +69193,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q2g",
@@ -66014,7 +69224,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-003.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-004.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-005.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q3a(i)",
@@ -66038,7 +69249,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-005.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-006.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-007.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q3a(ii)",
@@ -66062,7 +69274,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-005.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-006.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-007.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q3b",
@@ -66087,7 +69300,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-005.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-006.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-007.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q4a(i)",
@@ -66111,7 +69325,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-008.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-009.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-010.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q4a(ii)",
@@ -66136,7 +69351,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-008.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-009.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-010.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q4a(iii)",
@@ -66167,7 +69383,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-008.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-009.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-010.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q4b(i)",
@@ -66196,7 +69413,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-008.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-009.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-010.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q4b(ii)",
@@ -66226,7 +69444,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-008.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-009.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-010.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q5a(i)",
@@ -66256,7 +69475,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-010.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-011.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-012.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q5a(ii)",
@@ -66286,7 +69506,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-010.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-011.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-012.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q5b",
@@ -66310,7 +69531,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-010.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-011.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-012.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q6a(i)",
@@ -66339,7 +69561,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-012.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-013.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-014.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q6a(ii)",
@@ -66368,7 +69591,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-012.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-013.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-014.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q6b(i)",
@@ -66393,7 +69617,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-012.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-013.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-014.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q6b(ii)",
@@ -66422,7 +69647,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-012.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-013.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-014.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q7a",
@@ -66451,7 +69677,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-014.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-015.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-016.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q7b",
@@ -66480,7 +69707,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-014.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-015.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-016.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q7c",
@@ -66504,7 +69732,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-014.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-015.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-016.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q8a(i)",
@@ -66529,7 +69758,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q8a(ii)",
@@ -66558,7 +69788,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q8b(i)",
@@ -66589,7 +69820,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q8b(ii)",
@@ -66613,7 +69845,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q8b(iii)",
@@ -66637,7 +69870,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q8b(iv)",
@@ -66662,7 +69896,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-017.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-018.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-019.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q9a(i)",
@@ -66691,7 +69926,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q9a(ii)",
@@ -66715,7 +69951,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q9b(i)",
@@ -66738,7 +69975,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q9b(ii)",
@@ -66761,7 +69999,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q9b(iii)",
@@ -66790,7 +70029,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q9c",
@@ -66819,7 +70059,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-019.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-020.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-021.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q10a(i)",
@@ -66841,7 +70082,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-021.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-022.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q10a(ii)",
@@ -66863,7 +70105,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-021.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-022.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q10a(iii)",
@@ -66885,7 +70128,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-021.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-022.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q10a(iv)",
@@ -66913,7 +70157,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-021.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-022.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q10b",
@@ -66941,7 +70186,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-021.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-022.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q11a(i)",
@@ -66971,7 +70217,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-023.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-024.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-025.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q11a(ii)",
@@ -67000,7 +70247,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-023.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-024.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-025.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q11b(i)",
@@ -67029,7 +70277,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-023.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-024.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-025.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q11b(ii)",
@@ -67053,7 +70302,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-023.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-024.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-025.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q12a",
@@ -67077,7 +70327,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-025.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-026.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-027.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q12b(i)",
@@ -67105,7 +70356,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-025.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-026.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-027.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q12b(ii)",
@@ -67134,7 +70386,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-025.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-026.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-027.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q12c",
@@ -67163,7 +70416,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-025.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-026.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-027.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q13a",
@@ -67193,7 +70447,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q13b",
@@ -67223,7 +70478,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q13c",
@@ -67253,7 +70509,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q13d",
@@ -67283,7 +70540,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q13e",
@@ -67313,7 +70571,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q13f",
@@ -67343,7 +70602,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q13g",
@@ -67373,7 +70633,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-028.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-029.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-030.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q14a(i)",
@@ -67397,7 +70658,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-030.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-031.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-032.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q14a(ii)",
@@ -67426,7 +70688,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-030.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-031.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-032.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q14b(i)",
@@ -67450,7 +70713,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-030.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-031.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-032.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q14b(ii)",
@@ -67474,7 +70738,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-030.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-031.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-032.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q14b(iii)",
@@ -67503,7 +70768,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-030.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-031.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-032.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q15a(i)",
@@ -67533,7 +70799,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-033.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-034.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-035.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q15a(ii)",
@@ -67563,7 +70830,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-033.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-034.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-035.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q15b",
@@ -67588,7 +70856,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-033.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-034.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-035.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q16a",
@@ -67610,7 +70879,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-035.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-036.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q16b",
@@ -67633,7 +70903,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-035.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-036.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q17a",
@@ -67663,7 +70934,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q17b",
@@ -67693,7 +70965,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q17c",
@@ -67723,7 +70996,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q17d",
@@ -67748,7 +71022,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q17e",
@@ -67778,7 +71053,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q17f",
@@ -67808,7 +71084,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q17g",
@@ -67838,7 +71115,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q17h",
@@ -67863,7 +71141,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-037.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-038.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-039.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q18a(i)",
@@ -67891,7 +71170,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-039.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-040.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q18a(ii)",
@@ -67919,7 +71199,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-039.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-040.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q18b",
@@ -67947,7 +71228,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-039.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-040.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q18c",
@@ -67975,7 +71257,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-039.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-040.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q19a",
@@ -68001,7 +71284,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-042.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-043.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-044.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q19b",
@@ -68027,7 +71311,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-042.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-043.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-044.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q19c",
@@ -68058,7 +71343,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-042.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-043.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-044.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q19d",
@@ -68084,7 +71370,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-042.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-043.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-044.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q20a(i)",
@@ -68114,7 +71401,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-045.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-046.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-047.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q20a(ii)",
@@ -68139,7 +71427,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-045.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-046.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-047.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q20b(i)",
@@ -68164,7 +71453,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-045.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-046.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-047.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q20b(ii)",
@@ -68194,7 +71484,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-045.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-046.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-047.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q21a(i)",
@@ -68223,7 +71514,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-047.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-048.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-049.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q21a(ii)",
@@ -68252,7 +71544,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-047.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-048.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-049.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q21a(iii)",
@@ -68281,7 +71574,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-047.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-048.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-049.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q21a(iv)",
@@ -68310,7 +71604,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-047.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-048.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-049.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q21b(i)",
@@ -68334,7 +71629,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-047.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-048.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-049.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q21b(ii)",
@@ -68363,7 +71659,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-047.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-048.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-049.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q22a",
@@ -68393,7 +71690,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-050.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-051.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-052.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q22b",
@@ -68418,7 +71716,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-050.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-051.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-052.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q22c(i)",
@@ -68443,7 +71742,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-050.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-051.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-052.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q22c(ii)",
@@ -68473,7 +71773,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-050.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-051.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-052.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q22d",
@@ -68503,7 +71804,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-050.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-051.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-052.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q23a(i)",
@@ -68531,7 +71833,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-052.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-053.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q23a(ii)",
@@ -68554,7 +71857,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-052.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-053.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q23b",
@@ -68582,7 +71886,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-052.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-053.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q23c",
@@ -68610,7 +71915,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-052.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-053.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q24a(i)",
@@ -68636,7 +71942,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-055.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-056.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-057.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q24a(ii)",
@@ -68662,7 +71969,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-055.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-056.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-057.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q24b",
@@ -68692,7 +72000,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-055.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-056.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-057.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q24c",
@@ -68719,7 +72028,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-055.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-056.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-057.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q25a",
@@ -68749,7 +72059,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-057.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-058.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-059.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q25b(i)",
@@ -68778,7 +72089,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-057.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-058.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-059.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q25b(ii)",
@@ -68807,7 +72119,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-057.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-058.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-059.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q25b(iii)",
@@ -68836,7 +72149,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-057.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-058.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-059.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q26a",
@@ -68859,7 +72173,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-059.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-060.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q26b(i)",
@@ -68887,7 +72202,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-059.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-060.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q26b(ii)",
@@ -68915,7 +72231,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-059.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-060.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q27a",
@@ -68944,7 +72261,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-060.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-061.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-062.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q27b",
@@ -68973,7 +72291,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-060.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-061.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-062.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q27c",
@@ -68997,7 +72316,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-060.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-061.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-062.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q28a(i)",
@@ -69025,7 +72345,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-062.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q28a(ii)",
@@ -69048,7 +72369,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-062.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q28b",
@@ -69076,7 +72398,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-062.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q28c",
@@ -69104,7 +72427,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-062.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-063.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q29a",
@@ -69133,7 +72457,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q29b",
@@ -69157,7 +72482,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q29c",
@@ -69187,7 +72513,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q29d",
@@ -69217,7 +72544,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q29e",
@@ -69247,7 +72575,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q29f",
@@ -69277,7 +72606,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q29g",
@@ -69307,7 +72637,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-064.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-065.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-066.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q30a",
@@ -69336,7 +72667,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-066.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-067.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-068.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q30b",
@@ -69365,7 +72697,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-066.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-067.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-068.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q30c(i)",
@@ -69389,7 +72722,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-066.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-067.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-068.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q30c(ii)",
@@ -69413,7 +72747,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-066.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-067.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-068.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q30c(iii)",
@@ -69442,7 +72777,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-066.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-067.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-068.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q31a(i)",
@@ -69468,7 +72804,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-070.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-071.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-072.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q31a(ii)",
@@ -69494,7 +72831,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-070.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-071.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-072.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q31b",
@@ -69525,7 +72863,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-070.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-071.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-072.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q31c",
@@ -69551,7 +72890,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-070.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-071.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-072.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q32a",
@@ -69576,7 +72916,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-073.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-074.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-075.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q32b(i)",
@@ -69601,7 +72942,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-073.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-074.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-075.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q32b(ii)",
@@ -69631,7 +72973,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-073.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-074.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-075.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q32b(iii)",
@@ -69661,7 +73004,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-073.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-074.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-075.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q33a",
@@ -69685,7 +73029,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-075.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-076.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-077.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q33b",
@@ -69709,7 +73054,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-075.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-076.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-077.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q33c",
@@ -69738,7 +73084,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-075.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-076.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-077.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q34a(i)",
@@ -69768,7 +73115,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-078.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-079.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-080.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q34a(ii)",
@@ -69798,7 +73146,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-078.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-079.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-080.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q34a(iii)",
@@ -69828,7 +73177,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-078.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-079.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-080.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q34a(iv)",
@@ -69857,7 +73207,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-078.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-079.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-080.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q34b",
@@ -69882,7 +73233,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-078.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-079.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-080.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q35a(i)",
@@ -69904,7 +73256,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-080.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-081.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q35a(ii)",
@@ -69926,7 +73279,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-080.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-081.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q35a(iii)",
@@ -69948,7 +73302,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-080.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-081.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q35b(i)",
@@ -69976,7 +73331,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-080.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-081.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q35b(ii)",
@@ -70004,7 +73360,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-080.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-081.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q36a",
@@ -70033,7 +73390,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q36b",
@@ -70063,7 +73421,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q36c",
@@ -70093,7 +73452,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q36d",
@@ -70123,7 +73483,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q36e",
@@ -70153,7 +73514,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q36f",
@@ -70183,7 +73545,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q36g",
@@ -70213,7 +73576,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q36h",
@@ -70238,7 +73602,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-082.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-083.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-084.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q37a(i)",
@@ -70268,7 +73633,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-085.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-086.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-087.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q37a(ii)",
@@ -70298,7 +73664,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-085.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-086.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-087.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q37b(i)",
@@ -70323,7 +73690,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-085.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-086.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-087.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q37b(ii)",
@@ -70348,7 +73716,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-085.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-086.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-087.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q38a(i)",
@@ -70377,7 +73746,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-087.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-088.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-089.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q38a(ii)",
@@ -70407,7 +73777,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-087.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-088.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-089.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q38b(i)",
@@ -70431,7 +73802,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-087.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-088.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-089.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q38b(ii)",
@@ -70460,7 +73832,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-087.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-088.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-089.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q39a(i)",
@@ -70484,7 +73857,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-089.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-090.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-091.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q39a(ii)",
@@ -70513,7 +73887,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-089.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-090.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-091.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q39b",
@@ -70537,7 +73912,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-089.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-090.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-091.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q40a",
@@ -70561,7 +73937,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-092.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-093.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-094.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q40b",
@@ -70590,7 +73967,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-092.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-093.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-094.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q40c",
@@ -70614,7 +73992,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-092.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-093.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-094.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q41a",
@@ -70638,7 +74017,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-094.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-095.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-096.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q41b(i)",
@@ -70661,7 +74041,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-094.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-095.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-096.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q41b(ii)",
@@ -70684,7 +74065,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-094.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-095.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-096.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q41b(iii)",
@@ -70708,7 +74090,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-094.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-095.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-096.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q41c",
@@ -70737,7 +74120,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-094.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-095.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-096.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q42a",
@@ -70762,7 +74146,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-097.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-098.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-099.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q42b(i)",
@@ -70787,7 +74172,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-097.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-098.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-099.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q42b(ii)",
@@ -70818,7 +74204,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-097.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-098.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-099.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q42c(i)",
@@ -70843,7 +74230,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-097.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-098.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-099.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q42c(ii)",
@@ -70873,7 +74261,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-097.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-098.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-099.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q43a(i)",
@@ -70902,7 +74291,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-099.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-100.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q43a(ii)",
@@ -70931,7 +74321,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-099.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-100.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q43a(iii)",
@@ -70960,7 +74351,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-099.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-100.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q43b(i)",
@@ -70984,7 +74376,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-099.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-100.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q43b(ii)",
@@ -71008,7 +74401,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-099.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-100.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-101.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q44a(i)",
@@ -71038,7 +74432,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-102.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-103.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-104.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q44a(ii)",
@@ -71068,7 +74463,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-102.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-103.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-104.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q44b(i)",
@@ -71093,7 +74489,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-102.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-103.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-104.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q44b(ii)",
@@ -71123,7 +74520,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-102.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-103.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-104.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q45a(i)",
@@ -71148,7 +74546,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-105.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-106.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-107.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q45a(ii)",
@@ -71178,7 +74577,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-105.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-106.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-107.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q45b(i)",
@@ -71203,7 +74603,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-105.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-106.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-107.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q45b(ii)",
@@ -71228,7 +74629,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-105.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-106.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-107.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q45b(iii)",
@@ -71258,7 +74660,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-105.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-106.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-107.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q46a",
@@ -71281,7 +74684,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-107.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-108.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q46b",
@@ -71304,7 +74708,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-107.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-108.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q47a",
@@ -71333,7 +74738,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-108.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-109.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-110.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q47b",
@@ -71357,7 +74763,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-108.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-109.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-110.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q47c",
@@ -71381,7 +74788,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-108.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-109.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-110.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q47d(i)",
@@ -71410,7 +74818,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-108.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-109.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-110.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q47d(ii)",
@@ -71434,7 +74843,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-108.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-109.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-110.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q48a",
@@ -71463,7 +74873,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q48b",
@@ -71492,7 +74903,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q48c",
@@ -71521,7 +74933,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q48d",
@@ -71550,7 +74963,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q48e",
@@ -71579,7 +74993,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q48f",
@@ -71608,7 +75023,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q48g",
@@ -71637,7 +75053,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q48h",
@@ -71666,7 +75083,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-111.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-112.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-113.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q49a",
@@ -71696,7 +75114,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-114.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-115.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-116.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q49b(i)",
@@ -71721,7 +75140,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-114.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-115.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-116.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q49b(ii)",
@@ -71751,7 +75171,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-114.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-115.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-116.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q49b(iii)",
@@ -71781,7 +75202,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-114.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-115.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-116.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q49c",
@@ -71806,7 +75228,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-114.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-115.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-116.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q50a(i)",
@@ -71836,7 +75259,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-118.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q50a(ii)",
@@ -71862,7 +75286,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-118.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q50b(i)",
@@ -71893,7 +75318,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-118.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q50b(ii)",
@@ -71919,7 +75345,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-118.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q50b(iii)",
@@ -71950,7 +75377,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-118.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q50c",
@@ -71981,7 +75409,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-118.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q50d",
@@ -72007,7 +75436,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-118.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-119.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-120.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q51a(i)",
@@ -72031,7 +75461,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-121.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-122.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-123.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q51a(ii)",
@@ -72061,7 +75492,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-121.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-122.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-123.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q51b",
@@ -72086,7 +75518,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-121.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-122.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-123.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q51c",
@@ -72116,7 +75549,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-121.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-122.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-123.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q51d(i)",
@@ -72146,7 +75580,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-121.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-122.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-123.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q51d(ii)",
@@ -72176,7 +75611,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-121.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-122.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-123.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q52a",
@@ -72199,7 +75635,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-123.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-124.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q52b",
@@ -72227,7 +75664,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08AB-Nervous-Coordination-123.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-124.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q53a",
@@ -72256,7 +75694,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-125.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-126.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-127.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q53b",
@@ -72285,7 +75724,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-125.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-126.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-127.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q53c",
@@ -72309,7 +75749,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-125.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-126.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-127.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q54a",
@@ -72340,7 +75781,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-129.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-130.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-131.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q54b",
@@ -72366,7 +75808,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-129.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-130.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-131.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q54c",
@@ -72397,7 +75840,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-129.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-130.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-131.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q54d(i)",
@@ -72423,7 +75867,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-129.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-130.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-131.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q54d(ii)",
@@ -72454,7 +75899,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-129.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-130.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-131.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q55a",
@@ -72484,7 +75930,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-132.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-133.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-134.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q55b",
@@ -72514,7 +75961,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-132.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-133.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-134.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q55c",
@@ -72544,7 +75992,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-132.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-133.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-134.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q55d(i)",
@@ -72574,7 +76023,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-132.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-133.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-134.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8AB-Q55d(ii)",
@@ -72599,7 +76049,8 @@ window.BANK.biology = {
       "papers/biology/img/08AB-Nervous-Coordination-132.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-133.jpg",
       "papers/biology/img/08AB-Nervous-Coordination-134.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -72633,7 +76084,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08C-Gene-Technology-01.jpg",
       "papers/biology/img/08C-Gene-Technology-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q1a(ii)",
@@ -72661,7 +76113,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08C-Gene-Technology-01.jpg",
       "papers/biology/img/08C-Gene-Technology-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q1b",
@@ -72688,7 +76141,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08C-Gene-Technology-01.jpg",
       "papers/biology/img/08C-Gene-Technology-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q1c",
@@ -72716,7 +76170,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08C-Gene-Technology-01.jpg",
       "papers/biology/img/08C-Gene-Technology-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q2a",
@@ -72747,7 +76202,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-03.jpg",
       "papers/biology/img/08C-Gene-Technology-04.jpg",
       "papers/biology/img/08C-Gene-Technology-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q2b",
@@ -72772,7 +76228,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-03.jpg",
       "papers/biology/img/08C-Gene-Technology-04.jpg",
       "papers/biology/img/08C-Gene-Technology-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q2c",
@@ -72802,7 +76259,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-03.jpg",
       "papers/biology/img/08C-Gene-Technology-04.jpg",
       "papers/biology/img/08C-Gene-Technology-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q3a",
@@ -72831,7 +76289,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08C-Gene-Technology-05.jpg",
       "papers/biology/img/08C-Gene-Technology-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q3b(i)",
@@ -72860,7 +76319,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08C-Gene-Technology-05.jpg",
       "papers/biology/img/08C-Gene-Technology-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q3b(ii)",
@@ -72888,7 +76348,8 @@ window.BANK.biology = {
      "images": [
       "papers/biology/img/08C-Gene-Technology-05.jpg",
       "papers/biology/img/08C-Gene-Technology-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q4a",
@@ -72912,7 +76373,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-07.jpg",
       "papers/biology/img/08C-Gene-Technology-08.jpg",
       "papers/biology/img/08C-Gene-Technology-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q4b",
@@ -72942,7 +76404,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-07.jpg",
       "papers/biology/img/08C-Gene-Technology-08.jpg",
       "papers/biology/img/08C-Gene-Technology-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q4c",
@@ -72964,7 +76427,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-07.jpg",
       "papers/biology/img/08C-Gene-Technology-08.jpg",
       "papers/biology/img/08C-Gene-Technology-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q4d",
@@ -72987,7 +76451,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-07.jpg",
       "papers/biology/img/08C-Gene-Technology-08.jpg",
       "papers/biology/img/08C-Gene-Technology-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q4e",
@@ -73010,7 +76475,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-07.jpg",
       "papers/biology/img/08C-Gene-Technology-08.jpg",
       "papers/biology/img/08C-Gene-Technology-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q4f",
@@ -73039,7 +76505,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-07.jpg",
       "papers/biology/img/08C-Gene-Technology-08.jpg",
       "papers/biology/img/08C-Gene-Technology-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q5a",
@@ -73061,7 +76528,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-10.jpg",
       "papers/biology/img/08C-Gene-Technology-11.jpg",
       "papers/biology/img/08C-Gene-Technology-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q5b",
@@ -73089,7 +76557,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-10.jpg",
       "papers/biology/img/08C-Gene-Technology-11.jpg",
       "papers/biology/img/08C-Gene-Technology-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q5c",
@@ -73118,7 +76587,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-10.jpg",
       "papers/biology/img/08C-Gene-Technology-11.jpg",
       "papers/biology/img/08C-Gene-Technology-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q5d",
@@ -73146,7 +76616,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-10.jpg",
       "papers/biology/img/08C-Gene-Technology-11.jpg",
       "papers/biology/img/08C-Gene-Technology-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q5e",
@@ -73174,7 +76645,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-10.jpg",
       "papers/biology/img/08C-Gene-Technology-11.jpg",
       "papers/biology/img/08C-Gene-Technology-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q5f",
@@ -73203,7 +76675,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-10.jpg",
       "papers/biology/img/08C-Gene-Technology-11.jpg",
       "papers/biology/img/08C-Gene-Technology-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q5g",
@@ -73230,7 +76703,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-10.jpg",
       "papers/biology/img/08C-Gene-Technology-11.jpg",
       "papers/biology/img/08C-Gene-Technology-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q6a",
@@ -73261,7 +76735,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-13.jpg",
       "papers/biology/img/08C-Gene-Technology-14.jpg",
       "papers/biology/img/08C-Gene-Technology-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q6b",
@@ -73290,7 +76765,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-13.jpg",
       "papers/biology/img/08C-Gene-Technology-14.jpg",
       "papers/biology/img/08C-Gene-Technology-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q6c",
@@ -73320,7 +76796,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-13.jpg",
       "papers/biology/img/08C-Gene-Technology-14.jpg",
       "papers/biology/img/08C-Gene-Technology-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q6d",
@@ -73348,7 +76825,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-13.jpg",
       "papers/biology/img/08C-Gene-Technology-14.jpg",
       "papers/biology/img/08C-Gene-Technology-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q6e",
@@ -73376,7 +76854,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-13.jpg",
       "papers/biology/img/08C-Gene-Technology-14.jpg",
       "papers/biology/img/08C-Gene-Technology-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q6f",
@@ -73404,7 +76883,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-13.jpg",
       "papers/biology/img/08C-Gene-Technology-14.jpg",
       "papers/biology/img/08C-Gene-Technology-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q6g",
@@ -73431,7 +76911,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-13.jpg",
       "papers/biology/img/08C-Gene-Technology-14.jpg",
       "papers/biology/img/08C-Gene-Technology-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q7a(i)",
@@ -73461,7 +76942,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-16.jpg",
       "papers/biology/img/08C-Gene-Technology-17.jpg",
       "papers/biology/img/08C-Gene-Technology-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q7a(ii)",
@@ -73487,7 +76969,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-16.jpg",
       "papers/biology/img/08C-Gene-Technology-17.jpg",
       "papers/biology/img/08C-Gene-Technology-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q7a(iii)",
@@ -73517,7 +77000,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-16.jpg",
       "papers/biology/img/08C-Gene-Technology-17.jpg",
       "papers/biology/img/08C-Gene-Technology-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q7b",
@@ -73543,7 +77027,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-16.jpg",
       "papers/biology/img/08C-Gene-Technology-17.jpg",
       "papers/biology/img/08C-Gene-Technology-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q8a",
@@ -73572,7 +77057,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-18.jpg",
       "papers/biology/img/08C-Gene-Technology-19.jpg",
       "papers/biology/img/08C-Gene-Technology-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q8b(i)",
@@ -73596,7 +77082,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-18.jpg",
       "papers/biology/img/08C-Gene-Technology-19.jpg",
       "papers/biology/img/08C-Gene-Technology-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q8b(ii)",
@@ -73626,7 +77113,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-18.jpg",
       "papers/biology/img/08C-Gene-Technology-19.jpg",
       "papers/biology/img/08C-Gene-Technology-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q9a",
@@ -73654,7 +77142,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-20.jpg",
       "papers/biology/img/08C-Gene-Technology-21.jpg",
       "papers/biology/img/08C-Gene-Technology-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q9b(i)",
@@ -73679,7 +77168,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-20.jpg",
       "papers/biology/img/08C-Gene-Technology-21.jpg",
       "papers/biology/img/08C-Gene-Technology-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q9b(ii)",
@@ -73701,7 +77191,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-20.jpg",
       "papers/biology/img/08C-Gene-Technology-21.jpg",
       "papers/biology/img/08C-Gene-Technology-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q9b(iii)",
@@ -73724,7 +77215,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-20.jpg",
       "papers/biology/img/08C-Gene-Technology-21.jpg",
       "papers/biology/img/08C-Gene-Technology-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q9c",
@@ -73754,7 +77246,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-20.jpg",
       "papers/biology/img/08C-Gene-Technology-21.jpg",
       "papers/biology/img/08C-Gene-Technology-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q10a",
@@ -73783,7 +77276,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-24.jpg",
       "papers/biology/img/08C-Gene-Technology-25.jpg",
       "papers/biology/img/08C-Gene-Technology-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q10b",
@@ -73813,7 +77307,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-24.jpg",
       "papers/biology/img/08C-Gene-Technology-25.jpg",
       "papers/biology/img/08C-Gene-Technology-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q10c",
@@ -73842,7 +77337,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-24.jpg",
       "papers/biology/img/08C-Gene-Technology-25.jpg",
       "papers/biology/img/08C-Gene-Technology-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q10d",
@@ -73871,7 +77367,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-24.jpg",
       "papers/biology/img/08C-Gene-Technology-25.jpg",
       "papers/biology/img/08C-Gene-Technology-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q10e",
@@ -73898,7 +77395,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-24.jpg",
       "papers/biology/img/08C-Gene-Technology-25.jpg",
       "papers/biology/img/08C-Gene-Technology-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q10f",
@@ -73926,7 +77424,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-24.jpg",
       "papers/biology/img/08C-Gene-Technology-25.jpg",
       "papers/biology/img/08C-Gene-Technology-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q10g",
@@ -73953,7 +77452,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-24.jpg",
       "papers/biology/img/08C-Gene-Technology-25.jpg",
       "papers/biology/img/08C-Gene-Technology-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q10h",
@@ -73982,7 +77482,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-24.jpg",
       "papers/biology/img/08C-Gene-Technology-25.jpg",
       "papers/biology/img/08C-Gene-Technology-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q11a",
@@ -74011,7 +77512,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-26.jpg",
       "papers/biology/img/08C-Gene-Technology-27.jpg",
       "papers/biology/img/08C-Gene-Technology-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q11b",
@@ -74040,7 +77542,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-26.jpg",
       "papers/biology/img/08C-Gene-Technology-27.jpg",
       "papers/biology/img/08C-Gene-Technology-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q11c",
@@ -74063,7 +77566,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-26.jpg",
       "papers/biology/img/08C-Gene-Technology-27.jpg",
       "papers/biology/img/08C-Gene-Technology-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q12a(i)",
@@ -74088,7 +77592,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-28.jpg",
       "papers/biology/img/08C-Gene-Technology-29.jpg",
       "papers/biology/img/08C-Gene-Technology-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q12a(ii)",
@@ -74113,7 +77618,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-28.jpg",
       "papers/biology/img/08C-Gene-Technology-29.jpg",
       "papers/biology/img/08C-Gene-Technology-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q12a(iii)",
@@ -74137,7 +77643,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-28.jpg",
       "papers/biology/img/08C-Gene-Technology-29.jpg",
       "papers/biology/img/08C-Gene-Technology-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q12b",
@@ -74164,7 +77671,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-28.jpg",
       "papers/biology/img/08C-Gene-Technology-29.jpg",
       "papers/biology/img/08C-Gene-Technology-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q13a",
@@ -74193,7 +77701,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-31.jpg",
       "papers/biology/img/08C-Gene-Technology-32.jpg",
       "papers/biology/img/08C-Gene-Technology-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q13b",
@@ -74222,7 +77731,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-31.jpg",
       "papers/biology/img/08C-Gene-Technology-32.jpg",
       "papers/biology/img/08C-Gene-Technology-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q13c",
@@ -74246,7 +77756,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-31.jpg",
       "papers/biology/img/08C-Gene-Technology-32.jpg",
       "papers/biology/img/08C-Gene-Technology-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q13d",
@@ -74275,7 +77786,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-31.jpg",
       "papers/biology/img/08C-Gene-Technology-32.jpg",
       "papers/biology/img/08C-Gene-Technology-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q13e",
@@ -74304,7 +77816,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-31.jpg",
       "papers/biology/img/08C-Gene-Technology-32.jpg",
       "papers/biology/img/08C-Gene-Technology-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q13f",
@@ -74333,7 +77846,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-31.jpg",
       "papers/biology/img/08C-Gene-Technology-32.jpg",
       "papers/biology/img/08C-Gene-Technology-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q13g",
@@ -74364,7 +77878,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-31.jpg",
       "papers/biology/img/08C-Gene-Technology-32.jpg",
       "papers/biology/img/08C-Gene-Technology-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q14a",
@@ -74390,7 +77905,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-34.jpg",
       "papers/biology/img/08C-Gene-Technology-35.jpg",
       "papers/biology/img/08C-Gene-Technology-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q14b",
@@ -74418,7 +77934,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-34.jpg",
       "papers/biology/img/08C-Gene-Technology-35.jpg",
       "papers/biology/img/08C-Gene-Technology-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q14c(i)",
@@ -74443,7 +77960,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-34.jpg",
       "papers/biology/img/08C-Gene-Technology-35.jpg",
       "papers/biology/img/08C-Gene-Technology-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q14c(ii)",
@@ -74471,7 +77989,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-34.jpg",
       "papers/biology/img/08C-Gene-Technology-35.jpg",
       "papers/biology/img/08C-Gene-Technology-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q15a",
@@ -74497,7 +78016,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-37.jpg",
       "papers/biology/img/08C-Gene-Technology-38.jpg",
       "papers/biology/img/08C-Gene-Technology-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q15b",
@@ -74523,7 +78043,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-37.jpg",
       "papers/biology/img/08C-Gene-Technology-38.jpg",
       "papers/biology/img/08C-Gene-Technology-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q15c",
@@ -74550,7 +78071,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-37.jpg",
       "papers/biology/img/08C-Gene-Technology-38.jpg",
       "papers/biology/img/08C-Gene-Technology-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q15d",
@@ -74573,7 +78095,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-37.jpg",
       "papers/biology/img/08C-Gene-Technology-38.jpg",
       "papers/biology/img/08C-Gene-Technology-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q15e",
@@ -74595,7 +78118,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-37.jpg",
       "papers/biology/img/08C-Gene-Technology-38.jpg",
       "papers/biology/img/08C-Gene-Technology-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q15f",
@@ -74623,7 +78147,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-37.jpg",
       "papers/biology/img/08C-Gene-Technology-38.jpg",
       "papers/biology/img/08C-Gene-Technology-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q15g",
@@ -74649,7 +78174,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-37.jpg",
       "papers/biology/img/08C-Gene-Technology-38.jpg",
       "papers/biology/img/08C-Gene-Technology-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q15h",
@@ -74673,7 +78199,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-37.jpg",
       "papers/biology/img/08C-Gene-Technology-38.jpg",
       "papers/biology/img/08C-Gene-Technology-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q16a",
@@ -74700,7 +78227,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-40.jpg",
       "papers/biology/img/08C-Gene-Technology-41.jpg",
       "papers/biology/img/08C-Gene-Technology-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q16b(i)",
@@ -74725,7 +78253,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-40.jpg",
       "papers/biology/img/08C-Gene-Technology-41.jpg",
       "papers/biology/img/08C-Gene-Technology-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q16b(ii)",
@@ -74750,7 +78279,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-40.jpg",
       "papers/biology/img/08C-Gene-Technology-41.jpg",
       "papers/biology/img/08C-Gene-Technology-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q16c(i)",
@@ -74777,7 +78307,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-40.jpg",
       "papers/biology/img/08C-Gene-Technology-41.jpg",
       "papers/biology/img/08C-Gene-Technology-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q16c(ii)",
@@ -74806,7 +78337,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-40.jpg",
       "papers/biology/img/08C-Gene-Technology-41.jpg",
       "papers/biology/img/08C-Gene-Technology-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q17a",
@@ -74834,7 +78366,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-43.jpg",
       "papers/biology/img/08C-Gene-Technology-44.jpg",
       "papers/biology/img/08C-Gene-Technology-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q17b",
@@ -74863,7 +78396,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-43.jpg",
       "papers/biology/img/08C-Gene-Technology-44.jpg",
       "papers/biology/img/08C-Gene-Technology-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q17c",
@@ -74891,7 +78425,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-43.jpg",
       "papers/biology/img/08C-Gene-Technology-44.jpg",
       "papers/biology/img/08C-Gene-Technology-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q17d",
@@ -74918,7 +78453,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-43.jpg",
       "papers/biology/img/08C-Gene-Technology-44.jpg",
       "papers/biology/img/08C-Gene-Technology-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q17e",
@@ -74946,7 +78482,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-43.jpg",
       "papers/biology/img/08C-Gene-Technology-44.jpg",
       "papers/biology/img/08C-Gene-Technology-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q17f",
@@ -74976,7 +78513,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-43.jpg",
       "papers/biology/img/08C-Gene-Technology-44.jpg",
       "papers/biology/img/08C-Gene-Technology-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q17g",
@@ -75004,7 +78542,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-43.jpg",
       "papers/biology/img/08C-Gene-Technology-44.jpg",
       "papers/biology/img/08C-Gene-Technology-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q17h",
@@ -75031,7 +78570,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-43.jpg",
       "papers/biology/img/08C-Gene-Technology-44.jpg",
       "papers/biology/img/08C-Gene-Technology-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q17i",
@@ -75060,7 +78600,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-43.jpg",
       "papers/biology/img/08C-Gene-Technology-44.jpg",
       "papers/biology/img/08C-Gene-Technology-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q17j",
@@ -75086,7 +78627,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-43.jpg",
       "papers/biology/img/08C-Gene-Technology-44.jpg",
       "papers/biology/img/08C-Gene-Technology-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q18a",
@@ -75113,7 +78655,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-47.jpg",
       "papers/biology/img/08C-Gene-Technology-48.jpg",
       "papers/biology/img/08C-Gene-Technology-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q18b(i)",
@@ -75139,7 +78682,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-47.jpg",
       "papers/biology/img/08C-Gene-Technology-48.jpg",
       "papers/biology/img/08C-Gene-Technology-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q18b(ii)",
@@ -75169,7 +78713,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-47.jpg",
       "papers/biology/img/08C-Gene-Technology-48.jpg",
       "papers/biology/img/08C-Gene-Technology-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q18c",
@@ -75196,7 +78741,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-47.jpg",
       "papers/biology/img/08C-Gene-Technology-48.jpg",
       "papers/biology/img/08C-Gene-Technology-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q19a(i)",
@@ -75220,7 +78766,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-50.jpg",
       "papers/biology/img/08C-Gene-Technology-51.jpg",
       "papers/biology/img/08C-Gene-Technology-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q19a(ii)",
@@ -75244,7 +78791,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-50.jpg",
       "papers/biology/img/08C-Gene-Technology-51.jpg",
       "papers/biology/img/08C-Gene-Technology-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q19b",
@@ -75268,7 +78816,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-50.jpg",
       "papers/biology/img/08C-Gene-Technology-51.jpg",
       "papers/biology/img/08C-Gene-Technology-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q20a",
@@ -75296,7 +78845,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-53.jpg",
       "papers/biology/img/08C-Gene-Technology-54.jpg",
       "papers/biology/img/08C-Gene-Technology-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q20b",
@@ -75325,7 +78875,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-53.jpg",
       "papers/biology/img/08C-Gene-Technology-54.jpg",
       "papers/biology/img/08C-Gene-Technology-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q20c",
@@ -75355,7 +78906,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-53.jpg",
       "papers/biology/img/08C-Gene-Technology-54.jpg",
       "papers/biology/img/08C-Gene-Technology-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q20d",
@@ -75384,7 +78936,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-53.jpg",
       "papers/biology/img/08C-Gene-Technology-54.jpg",
       "papers/biology/img/08C-Gene-Technology-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q20e",
@@ -75412,7 +78965,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-53.jpg",
       "papers/biology/img/08C-Gene-Technology-54.jpg",
       "papers/biology/img/08C-Gene-Technology-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q20f",
@@ -75441,7 +78995,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-53.jpg",
       "papers/biology/img/08C-Gene-Technology-54.jpg",
       "papers/biology/img/08C-Gene-Technology-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q21a",
@@ -75468,7 +79023,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-57.jpg",
       "papers/biology/img/08C-Gene-Technology-58.jpg",
       "papers/biology/img/08C-Gene-Technology-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q21b",
@@ -75494,7 +79050,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-57.jpg",
       "papers/biology/img/08C-Gene-Technology-58.jpg",
       "papers/biology/img/08C-Gene-Technology-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q21c(i)",
@@ -75525,7 +79082,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-57.jpg",
       "papers/biology/img/08C-Gene-Technology-58.jpg",
       "papers/biology/img/08C-Gene-Technology-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q21c(ii)",
@@ -75554,7 +79112,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-57.jpg",
       "papers/biology/img/08C-Gene-Technology-58.jpg",
       "papers/biology/img/08C-Gene-Technology-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q21d(i)",
@@ -75579,7 +79138,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-57.jpg",
       "papers/biology/img/08C-Gene-Technology-58.jpg",
       "papers/biology/img/08C-Gene-Technology-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q21d(ii)",
@@ -75609,7 +79169,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-57.jpg",
       "papers/biology/img/08C-Gene-Technology-58.jpg",
       "papers/biology/img/08C-Gene-Technology-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q21d(iii)",
@@ -75636,7 +79197,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-57.jpg",
       "papers/biology/img/08C-Gene-Technology-58.jpg",
       "papers/biology/img/08C-Gene-Technology-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q22a(i)",
@@ -75662,7 +79224,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-60.jpg",
       "papers/biology/img/08C-Gene-Technology-61.jpg",
       "papers/biology/img/08C-Gene-Technology-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q22a(ii)",
@@ -75685,7 +79248,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-60.jpg",
       "papers/biology/img/08C-Gene-Technology-61.jpg",
       "papers/biology/img/08C-Gene-Technology-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q22b",
@@ -75709,7 +79273,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-60.jpg",
       "papers/biology/img/08C-Gene-Technology-61.jpg",
       "papers/biology/img/08C-Gene-Technology-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q22c",
@@ -75738,7 +79303,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-60.jpg",
       "papers/biology/img/08C-Gene-Technology-61.jpg",
       "papers/biology/img/08C-Gene-Technology-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q22d",
@@ -75768,7 +79334,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-60.jpg",
       "papers/biology/img/08C-Gene-Technology-61.jpg",
       "papers/biology/img/08C-Gene-Technology-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q22e",
@@ -75795,7 +79362,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-60.jpg",
       "papers/biology/img/08C-Gene-Technology-61.jpg",
       "papers/biology/img/08C-Gene-Technology-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q22f",
@@ -75822,7 +79390,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-60.jpg",
       "papers/biology/img/08C-Gene-Technology-61.jpg",
       "papers/biology/img/08C-Gene-Technology-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q22g",
@@ -75845,7 +79414,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-60.jpg",
       "papers/biology/img/08C-Gene-Technology-61.jpg",
       "papers/biology/img/08C-Gene-Technology-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q22h",
@@ -75874,7 +79444,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-60.jpg",
       "papers/biology/img/08C-Gene-Technology-61.jpg",
       "papers/biology/img/08C-Gene-Technology-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8C-Q22i",
@@ -75897,7 +79468,8 @@ window.BANK.biology = {
       "papers/biology/img/08C-Gene-Technology-60.jpg",
       "papers/biology/img/08C-Gene-Technology-61.jpg",
       "papers/biology/img/08C-Gene-Technology-62.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   }

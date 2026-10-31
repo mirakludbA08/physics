@@ -77,12 +77,20 @@
         "significant figures"
       ],
       "question": "Calculate the atom economy, by mass, for the production of nitrogen in reaction A of the airbag. Give the answer to an appropriate number of significant figures.",
-      "status": "pending",
-      "answer": "Needs the equation for reaction A, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "6.48% (about 6.5%)",
+      "steps": [
+        "Atom economy = (Mr of desired product / total Mr of all reactants) x 100; the desired product is N2.",
+        "Mr N2 = 2 x 14.0 = 28.0.",
+        "Reactants in 10Na + 2KNO3: 10 x 23.0 = 230.0 and 2 x (39.1 + 14.0 + 48.0) = 2 x 101.1 = 202.2, so the total is 432.2.",
+        "Atom economy = 28.0 / 432.2 x 100 = 6.48%, quoted to 3 s.f. to match the Ar data."
+      ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-01.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-02.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q1.jpg"
       ]
     },
     {
@@ -98,12 +106,19 @@
         "reaction classification"
       ],
       "question": "State the type of reaction taking place in reaction B of the airbag.",
-      "status": "pending",
-      "answer": "Needs the equation for reaction B, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Combination (addition/synthesis): three reactants join to form one product",
+      "steps": [
+        "Reaction B is K2O + Na2O + SiO2 -> Na2K2SiO4, so several reactants give a single product.",
+        "A reaction in which the reactants simply add together to make one product is a combination (addition, synthesis) reaction.",
+        "It can also be described as an acid-base reaction, with basic oxides K2O and Na2O reacting with acidic SiO2, but no atoms change oxidation state."
+      ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-01.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-02.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q1.jpg"
       ]
     },
     {
@@ -175,14 +190,21 @@
         "reaction"
       ],
       "question": "Complete the equation for the reaction of magnesium carbonate powder with hydrochloric acid by adding state symbols.",
-      "status": "pending",
-      "answer": "Needs the unbalanced equation for this reaction, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "MgCO3(s) + 2HCl(aq) -> MgCl2(aq) + H2O(l) + CO2(g)",
+      "steps": [
+        "Magnesium carbonate powder is an insoluble solid: (s).",
+        "Hydrochloric acid and magnesium chloride are in aqueous solution: (aq).",
+        "Water is a liquid: (l); carbon dioxide is a gas: (g)."
+      ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-03.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-04.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-05.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q4.jpg"
       ]
     },
     {
@@ -200,14 +222,22 @@
         "volume of gas"
       ],
       "question": "Plot a graph of the results of the five experiments on the molar volume of CO2 (mass of magnesium carbonate against volume of gas).",
-      "status": "pending",
-      "answer": "Needs the results table and graph, which are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Graph of volume of gas (y-axis) against mass of MgCO3 (x-axis): five points plotted and a straight line of best fit through the origin (gradient about 250-260 cm3 g^-1)",
+      "steps": [
+        "Axes: mass of magnesium carbonate / g on the x-axis (0 to 0.30, so 0.05 g per large square) and volume of gas collected / cm3 on the y-axis (0 to 80, so 10 cm3 per large square), both labelled with units.",
+        "Plot the five points accurately (to within half a small square): (0.05, 11), (0.10, 27), (0.15, 38), (0.20, 54), (0.25, 63).",
+        "Draw one straight line of best fit through the origin (0 g of MgCO3 gives 0 cm3 of gas) with points balanced about the line: 0.10 and 0.20 lie just above it; 0.05, 0.15 and 0.25 lie just below.",
+        "The gradient of this line is about 258 cm3 per g, i.e. volume is directly proportional to mass."
+      ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-03.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-04.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-05.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q4-3.jpg"
       ]
     },
     {
@@ -224,14 +254,23 @@
         "apparatus"
       ],
       "question": "Give the volume of gas collected in the further experiment using the inverted measuring cylinder.",
-      "status": "pending",
-      "answer": "Needs the reading from the apparatus diagram, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "46 cm3",
+      "steps": [
+        "The cylinder is inverted over the water, so the scale is upside down: 0 is at the closed top end and values increase downwards.",
+        "The gas is the clear region at the top; the water level is the grey region below it, and the gas volume is read at the water surface.",
+        "Between 40 and 45 there are 5 divisions, so each division is 1 cm3.",
+        "The bottom of the meniscus is level with the first line below 45, which is 46 cm3."
+      ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-03.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-04.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-05.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q4-4.jpg",
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q4-2.jpg"
       ]
     },
     {
@@ -248,14 +287,22 @@
         "reading"
       ],
       "question": "Using the graph from (b)(i), determine the mass of magnesium carbonate that gave the volume in (b)(ii).",
-      "status": "pending",
-      "answer": "Needs the graph from (b)(i), which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 0.18 g (accept about 0.17 to 0.19 g from a sound line of best fit)",
+      "steps": [
+        "On the graph from (i), find 46 cm3 on the volume axis.",
+        "Draw a horizontal line across to the line of best fit, then a vertical line down to the mass axis.",
+        "Reading the mass axis gives about 0.18 g; as a check, 46 cm3 / 258 cm3 g^-1 = 0.178 g.",
+        "Show the construction lines on the graph."
+      ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-03.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-04.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-05.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q4-3.jpg"
       ]
     },
     {
@@ -273,9 +320,15 @@
         "significant figures"
       ],
       "question": "Calculate the molar volume of CO2 from the answers to (b)(ii) and (b)(iii). Ar: Mg 24.3, C 12.0, O 16.0.",
-      "status": "pending",
-      "answer": "Depends on values read from the graph and apparatus in (b)(ii) and (b)(iii), which are missing from the extracted text",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 21.5 dm3 mol^-1 (21 500 cm3 mol^-1); 22 dm3 mol^-1 to 2 s.f. (value depends on the graph reading)",
+      "steps": [
+        "Mr MgCO3 = 24.3 + 12.0 + 3 x 16.0 = 84.3.",
+        "Moles of MgCO3 = 0.18 / 84.3 = 2.14 x 10^-3 mol.",
+        "MgCO3 + 2HCl -> MgCl2 + H2O + CO2 gives 1 mol CO2 per 1 mol MgCO3, so n(CO2) = 2.14 x 10^-3 mol.",
+        "Molar volume = 46 cm3 / 2.14 x 10^-3 mol = 21 500 cm3 mol^-1 = 21.5 dm3 mol^-1.",
+        "Give 2 s.f. (22 dm3 mol^-1) because the volume (46) and mass (0.18) are each 2 s.f.; the unit is dm3 mol^-1."
+      ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-03.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-04.jpg",
@@ -341,6 +394,9 @@
         "papers/chemistry/img/01-Ch1-Formula-Equations-04.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-05.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q4-2.jpg"
       ]
     },
     {
@@ -488,12 +544,20 @@
         "options"
       ],
       "question": "What is the percentage atom economy, by mass, for the production of hydrogen in the reaction shown? Options A 8.8%, B 17.6%, C 21.4%, D 82.4%.",
-      "status": "pending",
-      "answer": "Needs the reaction equation shown in the question, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 17.6%",
+      "steps": [
+        "Atom economy = (Mr of desired product H2 formed / total Mr of reactants) x 100.",
+        "Hydrogen made: 3 x 2.00 = 6.00.",
+        "Reactants: CH4 (12.0 + 4.00 = 16.0) + H2O (2.00 + 16.0 = 18.0) = 34.0.",
+        "6.00 / 34.0 x 100 = 17.6%, which is option B."
+      ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-08.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q10.jpg"
       ]
     },
     {
@@ -827,12 +891,19 @@
         "water"
       ],
       "question": "The sodium hydroxide solution was neutralised with sulfuric acid. Which is the ionic equation for this reaction?",
-      "status": "pending",
-      "answer": "Needs the answer options, which are missing from the extracted text; the expected ionic equation is H+(aq) + OH-(aq) -> H2O(l) (check the PDF)",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: H+(aq) + OH-(aq) -> H2O(l)",
+      "steps": [
+        "The full reaction is H2SO4 + 2NaOH -> Na2SO4 + 2H2O, a neutralisation.",
+        "Na+ and SO4 2- appear unchanged on both sides, so they are spectator ions and cancel.",
+        "What is left is H+(aq) + OH-(aq) -> H2O(l); options B, C and D either do not show this or still include spectator ions."
+      ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-12.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-13.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q20.jpg"
       ]
     },
     {
@@ -959,12 +1030,20 @@
         "mol ratio"
       ],
       "question": "Ten test tubes each hold 1.0 cm3 of a chromium chloride solution of concentration 0.1 mol dm-3. Different volumes of 0.1 mol dm-3 AgNO3 give AgCl precipitate; heights are plotted on a graph. What is the formula of the chromium chloride? Options A CrCl, B Cr3Cl4, C Cr4Cl3, D CrCl3.",
-      "status": "pending",
-      "answer": "Needs the precipitate-height graph, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: CrCl3",
+      "steps": [
+        "Precipitate height rises steadily then levels off at 4.0 mm once 3.0 cm3 of AgNO3 has been added, so all the Cl- has reacted at 3.0 cm3.",
+        "n(Ag+) = 0.0030 dm3 x 0.1 mol dm^-3 = 3.0 x 10^-4 mol, equal to n(Cl-) by Ag+ + Cl- -> AgCl.",
+        "n(chromium chloride) in 1.0 cm3 of 0.1 mol dm^-3 = 1.0 x 10^-4 mol.",
+        "Cl- : compound = 3.0 x 10^-4 : 1.0 x 10^-4 = 3 : 1, so the formula is CrCl3."
+      ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-15.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-16.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q24.jpg"
       ]
     },
     {
@@ -1165,13 +1244,19 @@
         "heating"
       ],
       "question": "Complete the table of results for the heating of hydrated magnesium sulfate in a crucible.",
-      "status": "pending",
-      "answer": "Needs the results table, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Mass of MgSO4 after heating = 2.91 g; mass of water lost = 2.59 g",
+      "steps": [
+        "Mass of magnesium sulfate after heating = 24.12 - 21.21 = 2.91 g.",
+        "Mass of water lost = mass before heating - mass after = 26.71 - 24.12 = 2.59 g."
+      ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-18.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-19.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q29.jpg"
       ]
     },
     {
@@ -1188,13 +1273,21 @@
         "MgSO4.xH2O"
       ],
       "question": "Use the experimental results to calculate x in MgSO4.xH2O to the nearest whole number. Ar: H 1.0, O 16.0, Mg 24.3, S 32.1.",
-      "status": "pending",
-      "answer": "Needs the measured masses from the results table, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "x = 6",
+      "steps": [
+        "Mr MgSO4 = 24.3 + 32.1 + 4 x 16.0 = 120.4; Mr H2O = 18.0.",
+        "Moles of H2O lost = 2.59 / 18.0 = 0.144 mol.",
+        "Moles of MgSO4 = 2.91 / 120.4 = 0.0242 mol.",
+        "Ratio H2O : MgSO4 = 0.144 / 0.0242 = 5.95, which rounds to 6, so x = 6."
+      ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-18.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-19.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q29.jpg"
       ]
     },
     {
@@ -1224,6 +1317,9 @@
         "papers/chemistry/img/01-Ch1-Formula-Equations-18.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-19.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q29-2.jpg"
       ]
     },
     {
@@ -1344,11 +1440,18 @@
         "volume"
       ],
       "question": "How many moles of copper atoms are in the piece of copper shown? Density of copper = 8.96 g cm-3. Options A 0.675, B 1.48, C 6.05, D 54.2.",
-      "status": "pending",
-      "answer": "Needs the dimensions or volume shown in the diagram of the copper piece, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 54.2 mol",
+      "steps": [
+        "Volume = 4 x 8 x 12 = 384 cm3.",
+        "Mass = density x volume = 8.96 x 384 = 3440 g.",
+        "Moles = 3440 / 63.5 (Ar Cu) = 54.2 mol, which is option D."
+      ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q34.jpg"
       ]
     },
     {
@@ -1443,12 +1546,19 @@
         "concentration"
       ],
       "question": "Which solution contains chloride ions at a concentration of 0.0500 mol dm-3? Ar: Ca 40.1, Cl 35.5, Na 23.0.",
-      "status": "pending",
-      "answer": "Needs the answer options, which are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: calcium chloride, 1.39 g in 500 cm3",
+      "steps": [
+        "Mr CaCl2 = 40.1 + 2 x 35.5 = 111.1; Mr NaCl = 23.0 + 35.5 = 58.5.",
+        "B: n(CaCl2) = 1.39 / 111.1 = 0.0125 mol in 0.500 dm3 gives 0.0250 mol dm^-3 CaCl2, so [Cl-] = 2 x 0.0250 = 0.0500 mol dm^-3.",
+        "The others do not fit: A has [Cl-] = 0.100, C has [Cl-] = 1.46 / 58.5 / 0.250 = 0.100, and D has [Cl-] = 0.0250 mol dm^-3."
+      ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-24.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-25.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q38.jpg"
       ]
     },
     {
@@ -2031,13 +2141,20 @@
         "anhydrous mass"
       ],
       "question": "Plot a graph of the results for NaOH.xH2O heating: plot the points, label the axes and draw a line of best fit.",
-      "status": "pending",
-      "answer": "Needs the results table and graph, which are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Graph of mass of NaOH (y) against mass of NaOH.xH2O (x): six points plotted, both axes labelled with units, and a straight line of best fit through the origin (gradient 0.69)",
+      "steps": [
+        "Label the x-axis \"Mass of NaOH.xH2O / g\" and the y-axis \"Mass of NaOH / g\" (the grid is already numbered 0 to 8, 1 g per large square).",
+        "Plot the six points accurately: (1.00, 0.69), (2.10, 1.45), (3.50, 2.41), (4.90, 3.38), (6.60, 4.55), (8.00, 5.52).",
+        "Draw one straight line of best fit through the origin; the points lie almost exactly on it, with gradient about 0.69."
+      ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-33.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-34.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-35.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q58.jpg"
       ]
     },
     {
@@ -2054,9 +2171,13 @@
         "working on graph"
       ],
       "question": "Use the graph to find the mass of NaOH.xH2O needed to produce 4.0 g of NaOH.",
-      "status": "pending",
-      "answer": "Needs the graph from (a)(i), which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 5.8 g of NaOH.xH2O",
+      "steps": [
+        "On the y-axis find 4.0 g of NaOH and draw a horizontal line to the line of best fit.",
+        "Draw a vertical line down to the x-axis and read the mass of hydrate: about 5.8 g.",
+        "Check: 4.0 / 0.69 = 5.8 g. The construction lines must be shown on the graph."
+      ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-33.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-34.jpg",
@@ -2077,9 +2198,13 @@
         "NaOH.xH2O"
       ],
       "question": "Using the answer to (a)(ii) and the equation NaOH.xH2O -> NaOH + xH2O, calculate x.",
-      "status": "pending",
-      "answer": "Depends on the mass from the graph in (a)(ii), which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "x = 1",
+      "steps": [
+        "Moles of NaOH = 4.0 / 40.0 = 0.100 mol (Mr NaOH = 23.0 + 16.0 + 1.0 = 40.0).",
+        "Mass of water in 5.8 g of hydrate = 5.8 - 4.0 = 1.8 g, which is 1.8 / 18.0 = 0.10 mol.",
+        "From NaOH.xH2O -> NaOH + xH2O, x = n(H2O) / n(NaOH) = 0.10 / 0.100 = 1."
+      ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-33.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-34.jpg",
@@ -2942,11 +3067,18 @@
         "MgSO4.xH2O"
       ],
       "question": "A sample of hydrated magnesium sulfate contains 43% water by mass. What is its formula? The answer options are not included in the extracted text.",
-      "status": "pending",
-      "answer": "Calculated as MgSO4.5H2O, but the answer options are missing from the text; check against the PDF before marking ready",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: MgSO4.5H2O",
+      "steps": [
+        "In 100 g of the hydrate there are 43 g of water and 57 g of MgSO4.",
+        "Moles of H2O = 43 / 18.0 = 2.39 mol; moles of MgSO4 = 57 / 120.4 = 0.473 mol.",
+        "Ratio H2O : MgSO4 = 2.39 / 0.473 = 5.05, which is about 5, so the formula is MgSO4.5H2O (option B)."
+      ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-46.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q84.jpg"
       ]
     },
     {
@@ -3016,12 +3148,19 @@
         "Mr 187.5"
       ],
       "question": "Which reaction to produce copper(II) nitrate (Mr = 187.5) has an atom economy of 46.5% by mass? The answer options are not included in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the answer options (reactions A to D), which are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Cu + 2AgNO3 -> Cu(NO3)2 + 2Ag",
+      "steps": [
+        "Atom economy = 187.5 / total Mr of reactants x 100.",
+        "C: reactants Cu (63.5) + 2 x AgNO3 (169.9) = 403.3, so 187.5 / 403.3 = 46.5%.",
+        "The others give A 59.4% (187.5/315.5), B 65.8% (375.0/570.1) and D 91.2% (187.5/205.5)."
+      ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-47.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-48.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q87.jpg"
       ]
     },
     {
@@ -3036,12 +3175,19 @@
         "by mass"
       ],
       "question": "Which method for the preparation of hydrogen has the highest atom economy by mass? The answer options are not included in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the answer options (methods A to D), which are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: CH4 + H2O -> 3H2 + CO (17.6%)",
+      "steps": [
+        "Atom economy for H2 = (mass of H2 made / total Mr of reactants) x 100.",
+        "A: 4.0 / 36.0 = 11.1%; B: 6.0 / 34.0 = 17.6%; C: 2.0 / 46.0 = 4.3%; D: 6.0 / 50.0 = 12.0%.",
+        "B has the highest atom economy."
+      ],
       "images": [
         "papers/chemistry/img/01-Ch1-Formula-Equations-47.jpg",
         "papers/chemistry/img/01-Ch1-Formula-Equations-48.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/01-Ch1-Formula-Equations-Q88.jpg"
       ]
     },
     {

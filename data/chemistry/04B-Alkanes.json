@@ -304,13 +304,20 @@
         "alkane"
       ],
       "question": "Give the name of cycloalkane D, whose skeletal formula is shown.",
-      "status": "pending",
-      "answer": "Pending: the skeletal formula of cycloalkane D is in a diagram that is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1,3-dimethylcyclopentane",
+      "steps": [
+        "D is a five-membered carbon ring (cyclopentane) with two CH3 groups attached.",
+        "The two methyl groups are on carbons separated by one ring carbon (the top vertex has no substituent), so they are on carbons 1 and 3.",
+        "Name: 1,3-dimethylcyclopentane."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-02.jpg",
         "papers/chemistry/img/04B-Alkanes-03.jpg",
         "papers/chemistry/img/04B-Alkanes-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q3.jpg"
       ]
     },
     {
@@ -327,13 +334,20 @@
         "ring"
       ],
       "question": "Give the molecular formula of cycloalkane D.",
-      "status": "pending",
-      "answer": "Pending: depends on the skeletal formula of D, which is in a diagram that is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C7H14",
+      "steps": [
+        "The ring has 5 carbons and there are 2 methyl carbons, so 7 carbons in total.",
+        "It is a cycloalkane, so the formula is CnH2n: n = 7 gives C7H14.",
+        "Check by counting H: three ring CH2 (6 H) + two ring CH (2 H) + two CH3 (6 H) = 14 H."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-02.jpg",
         "papers/chemistry/img/04B-Alkanes-03.jpg",
         "papers/chemistry/img/04B-Alkanes-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q3.jpg"
       ]
     },
     {
@@ -351,13 +365,22 @@
         "ring"
       ],
       "question": "Complete the skeletal formulae of the other three structural isomers of C6H12 that have a four-carbon ring.",
-      "status": "pending",
-      "answer": "Pending: the isomer shown in the first box is in a diagram that is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1,1-dimethylcyclobutane, 1,3-dimethylcyclobutane and ethylcyclobutane (the given box is 1,2-dimethylcyclobutane).",
+      "steps": [
+        "All isomers have a four-carbon ring plus two more carbons as substituents: C4 ring + C2 = C6H12.",
+        "The first box shows two CH3 groups on adjacent ring carbons: 1,2-dimethylcyclobutane.",
+        "Box 2: a square with both CH3 groups on the same corner (two lines from one vertex): 1,1-dimethylcyclobutane.",
+        "Box 3: a square with one CH3 on each of two opposite corners: 1,3-dimethylcyclobutane.",
+        "Box 4: a square with a single two-carbon line (a bent line of two bonds) from one corner: ethylcyclobutane."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-02.jpg",
         "papers/chemistry/img/04B-Alkanes-03.jpg",
         "papers/chemistry/img/04B-Alkanes-04.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q3-2.jpg"
       ]
     },
     {
@@ -578,12 +601,20 @@
         "naming"
       ],
       "question": "Name molecule X, a halogen-containing compound that reacts with ozone in the upper atmosphere.",
-      "status": "pending",
-      "answer": "Pending: the structure of molecule X is in a diagram that is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1,1,2-trichloroethane",
+      "steps": [
+        "The molecule has two carbons joined by a single bond (ethane): CH2Cl-CHCl2.",
+        "One carbon carries two Cl atoms and the other carbon carries one Cl.",
+        "Number so the Cl locants are as low as possible: 1,1,2.",
+        "Name: 1,1,2-trichloroethane, formula C2H3Cl3."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-05.jpg",
         "papers/chemistry/img/04B-Alkanes-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q5.jpg"
       ]
     },
     {
@@ -628,12 +659,20 @@
         "equation"
       ],
       "question": "Write an equation for homolytic fission of the C-Cl bond in molecule X, including curly half-arrows.",
-      "status": "pending",
-      "answer": "Pending: depends on the structure of molecule X, which is in a diagram not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "CH2ClCHCl2 -> CH2ClCHCl + Cl (C-Cl bond breaks homolytically, one electron to each atom)",
+      "steps": [
+        "Homolytic fission: the two electrons of the C-Cl bond are shared out one each, giving two radicals.",
+        "Draw X with a curly half-arrow (fish-hook, single barbed) from the middle of the C-Cl bond to the C atom, and a second half-arrow from the middle of the bond to the Cl atom.",
+        "Products: the organic radical CH2ClCHCl (C2H3Cl2) and a chlorine radical Cl.",
+        "Breaking a C-Cl bond in the CH2Cl group instead is equally valid and gives CHCl2CH2 + Cl."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-05.jpg",
         "papers/chemistry/img/04B-Alkanes-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q5.jpg"
       ]
     },
     {
@@ -650,12 +689,20 @@
         "upper atmosphere"
       ],
       "question": "Write an equation for the reaction of a chlorine free radical with a molecule of X.",
-      "status": "pending",
-      "answer": "Pending: depends on the structure of molecule X, which is in a diagram not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "CH2ClCHCl2 + Cl -> CHClCHCl2 + HCl (i.e. C2H3Cl3 + Cl -> C2H2Cl3 + HCl)",
+      "steps": [
+        "A Cl radical is very reactive and takes a hydrogen atom from X (a propagation step).",
+        "This forms hydrogen chloride and a new organic radical, C2H2Cl3.",
+        "Check: C 2 = 2; H 3 = 2 + 1; Cl 3 + 1 = 3 + 1 (one Cl in HCl).",
+        "Removing the H from CHCl2 instead gives CH2ClCCl2 + HCl, which is also acceptable."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-05.jpg",
         "papers/chemistry/img/04B-Alkanes-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q5.jpg"
       ]
     },
     {
@@ -673,12 +720,20 @@
         "equation"
       ],
       "question": "Write an equation, using displayed formulae, for a free radical formed in the sequence that gives a molecule with formula C4H4Cl6.",
-      "status": "pending",
-      "answer": "Pending: depends on the structure of molecule X and the earlier steps, which are not fully in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "2 CHClCHCl2 -> CHCl2-CHCl-CHCl-CHCl2 (two C2H2Cl3 radicals combine)",
+      "steps": [
+        "C4H4Cl6 is two C2H2Cl3 radicals joined together: 2 x C2H2Cl3 = C4H4Cl6.",
+        "The radical formed in (b)(iii) is CHClCHCl2 (C2H2Cl3), with the unpaired electron on the carbon that lost an H.",
+        "Two of these radicals combine, forming a new C-C bond between the two radical carbons.",
+        "Displayed formula: each carbon shown with all its bonds; the product is Cl2CH-CHCl-CHCl-CHCl2 with all C-H and C-Cl bonds drawn."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-05.jpg",
         "papers/chemistry/img/04B-Alkanes-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q5.jpg"
       ]
     },
     {
@@ -696,12 +751,20 @@
         "halogenoalkane"
       ],
       "question": "State the type of reaction occurring in (b)(iv) and name the product with formula C4H4Cl6.",
-      "status": "pending",
-      "answer": "Pending: depends on the structure of molecule X and the sequence in (b)(iv), which are not fully in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Termination; 1,1,2,3,4,4-hexachlorobutane",
+      "steps": [
+        "Two radicals combine and no radical remains, so the chain is ended: this is a termination step.",
+        "The product is a four-carbon chain: CHCl2-CHCl-CHCl-CHCl2.",
+        "Cl atoms are on carbons 1,1,2,3,4,4, so the name is 1,1,2,3,4,4-hexachlorobutane.",
+        "Check the formula: C4H4Cl6."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-05.jpg",
         "papers/chemistry/img/04B-Alkanes-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q5.jpg"
       ]
     },
     {
@@ -1009,12 +1072,20 @@
         "options"
       ],
       "question": "Which free radical is least likely to form in a propagation step in this reaction system?",
-      "status": "pending",
-      "answer": "Pending: the answer options for this question are not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: H",
+      "steps": [
+        "Propagation step 1: Br + C5H10 -> C5H9 + HBr, so the cyclopentyl radical C5H9 (A) is formed.",
+        "Propagation step 2: C5H9 + Br2 -> C5H9Br + Br, so Br (B) is formed.",
+        "Further substitution can give C5H8Br (C) in later propagation steps, so it can form.",
+        "An H atom radical would need a C-H bond to break homolytically with nothing to stabilise it, so it is not formed in propagation. Answer D."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-08.jpg",
         "papers/chemistry/img/04B-Alkanes-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q8.jpg"
       ]
     },
     {
@@ -1032,12 +1103,19 @@
         "radical combination"
       ],
       "question": "Which alkane could be formed in a termination step in this reaction system?",
-      "status": "pending",
-      "answer": "Pending: the answer options for this question are not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: two cyclopentane rings joined by a single C-C bond (C10H18)",
+      "steps": [
+        "Termination joins two radicals; the only organic radical present is the cyclopentyl radical, C5H9.",
+        "Two C5H9 radicals bond together to give two cyclopentyl rings joined by a single C-C bond, C10H18 (option C).",
+        "A is a fused two-ring C8H14 and B is a spiro C9H16, so neither has the 10 carbons that two C5H9 radicals give; D is straight-chain decane, C10H22, which has too many hydrogens to come from two ring radicals."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-08.jpg",
         "papers/chemistry/img/04B-Alkanes-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q8-2.jpg"
       ]
     },
     {
@@ -1112,13 +1190,21 @@
         "table"
       ],
       "question": "Explain how the first four ionisation energies of aluminium show that it is in Group 3.",
-      "status": "pending",
-      "answer": "Pending: the table of the first four ionisation energies of aluminium is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "There is a large jump between the 3rd (2750) and 4th (11 600) ionisation energies, so Al has 3 outer electrons and is in Group 3.",
+      "steps": [
+        "The first three ionisation energies increase steadily (578, 1820, 2750 kJ mol-1): three electrons are removed from the outer shell.",
+        "The 4th ionisation energy is far larger (11 600, about 4 times the 3rd).",
+        "The 4th electron has to be removed from an inner shell, which is closer to the nucleus and less shielded, so it is held much more strongly.",
+        "Three electrons in the outer shell means the element is in Group 3."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-10.jpg",
         "papers/chemistry/img/04B-Alkanes-11.jpg",
         "papers/chemistry/img/04B-Alkanes-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q10.jpg"
       ]
     },
     {
@@ -1148,6 +1234,9 @@
         "papers/chemistry/img/04B-Alkanes-10.jpg",
         "papers/chemistry/img/04B-Alkanes-11.jpg",
         "papers/chemistry/img/04B-Alkanes-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q10-2.jpg"
       ]
     },
     {
@@ -1177,6 +1266,9 @@
         "papers/chemistry/img/04B-Alkanes-10.jpg",
         "papers/chemistry/img/04B-Alkanes-11.jpg",
         "papers/chemistry/img/04B-Alkanes-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q10-2.jpg"
       ]
     },
     {
@@ -1337,9 +1429,14 @@
         "biodegrade"
       ],
       "question": "Petrol, bioethanol and hydrogen are fuels. All three of these fuels: A burn to produce greenhouse gases; B are overall carbon neutral; C are overall sustainable; D biodegrade rapidly.",
-      "status": "pending",
-      "answer": "Pending: no single option is clearly true for all three fuels from the text alone; check against the mark scheme.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: burn to produce greenhouse gases",
+      "steps": [
+        "Petrol and bioethanol burn to form carbon dioxide (a greenhouse gas) and water.",
+        "Hydrogen burns to form only water, and water vapour is also a greenhouse gas, so all three produce a greenhouse gas.",
+        "B is wrong: petrol is not carbon neutral. C is wrong: petrol is finite, so not sustainable.",
+        "D is wrong: hydrogen is a gas and petrol is not rapidly biodegradable."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-13.jpg",
         "papers/chemistry/img/04B-Alkanes-14.jpg"
@@ -1610,12 +1707,19 @@
         "chlorination"
       ],
       "question": "Which of these occurs in a propagation step in the reaction of methane with chlorine?",
-      "status": "pending",
-      "answer": "Pending: the answer options for this question are not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: CH3 + Cl2 -> CH3Cl + Cl (radical attacks the Cl-Cl bond)",
+      "steps": [
+        "A propagation step has a radical reacting with a molecule to give a product molecule and a new radical.",
+        "B shows the methyl radical forming a bond to one Cl of Cl2 while the Cl-Cl bond breaks, so CH3Cl and a Cl radical form.",
+        "A shows two radicals joining (termination). C and D do not give the products of the chlorination chain: C is a methyl radical attacking methane, and D breaks the C-H bond and Cl-Cl bond in one step without a radical reacting."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-16.jpg",
         "papers/chemistry/img/04B-Alkanes-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q20.jpg"
       ]
     },
     {
@@ -1717,11 +1821,19 @@
         "propagation"
       ],
       "question": "Which is not a step in the reaction of chlorine with propane in ultraviolet radiation?",
-      "status": "pending",
-      "answer": "Pending: the answer options for this question are not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: C3H7 + HCl -> C3H7Cl + H",
+      "steps": [
+        "A: C3H7 + Cl -> C3H7Cl is a termination step.",
+        "B: C3H7 + C3H7 -> C6H14 is a termination step.",
+        "C: C3H7 + Cl2 -> C3H7Cl + Cl is a propagation step.",
+        "D would need a C3H7 radical to react with HCl and release H, which is not a step of the mechanism and would not form a stable hydrogen atom radical, so D is not a step."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-18.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q23.jpg"
       ]
     },
     {
@@ -1739,12 +1851,19 @@
         "skeletal formula"
       ],
       "question": "Give the molecular formula and IUPAC name for compound X, whose structure is shown and which is present in petrol.",
-      "status": "pending",
-      "answer": "Pending: the structure of compound X is shown in a diagram that is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C8H18; 2,2,4-trimethylpentane",
+      "steps": [
+        "The longest chain is five carbons (pentane): one end carbon is quaternary and carries two methyl groups, and another chain carbon carries one methyl.",
+        "Numbering from the end nearer to the branches puts the methyl groups on C2, C2 and C4, so the name is 2,2,4-trimethylpentane.",
+        "Carbons: 5 + 3 = 8; for an alkane CnH2n+2 this is C8H18."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-19.jpg",
         "papers/chemistry/img/04B-Alkanes-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q24.jpg"
       ]
     },
     {
@@ -1773,6 +1892,9 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-19.jpg",
         "papers/chemistry/img/04B-Alkanes-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q24.jpg"
       ]
     },
     {
@@ -1902,13 +2024,20 @@
         "radical combination"
       ],
       "question": "The reaction of methane with chlorine is a free radical substitution. Which termination step does not occur?",
-      "status": "pending",
-      "answer": "Pending: the answer options for this question are not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: CH3 + H -> CH4",
+      "steps": [
+        "Termination steps join two radicals that are present in the reaction mixture, here CH3 and Cl.",
+        "A (CH3 + CH3 -> C2H6), B (CH3 + Cl -> CH3Cl) and D (Cl + Cl -> Cl2) all use radicals formed in the chain mechanism.",
+        "H atoms (radicals) are not formed in the mechanism, so CH3 + H -> CH4 does not occur."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-20.jpg",
         "papers/chemistry/img/04B-Alkanes-21.jpg",
         "papers/chemistry/img/04B-Alkanes-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q26.jpg"
       ]
     },
     {
@@ -1938,6 +2067,9 @@
         "papers/chemistry/img/04B-Alkanes-20.jpg",
         "papers/chemistry/img/04B-Alkanes-21.jpg",
         "papers/chemistry/img/04B-Alkanes-22.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q27.jpg"
       ]
     },
     {
@@ -2216,13 +2348,21 @@
         "mass percentage"
       ],
       "question": "Calculate the mean energy density, in MJ kg-1, of an E10 fuel containing 92.2% hydrocarbons and 7.80% ethanol by mass, using the energy densities of the two components shown.",
-      "status": "pending",
-      "answer": "Pending: the energy densities of the two components are in a table that is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "45.2 MJ kg-1",
+      "steps": [
+        "Take 1 kg of fuel: 0.922 kg hydrocarbons and 0.0780 kg ethanol.",
+        "Energy from hydrocarbons = 0.922 x 46.5 = 42.87 MJ.",
+        "Energy from ethanol = 0.0780 x 29.7 = 2.317 MJ.",
+        "Total = 45.19 MJ per kg, so the mean energy density = 45.2 MJ kg-1 (3 significant figures, the same as the data)."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-24.jpg",
         "papers/chemistry/img/04B-Alkanes-25.jpg",
         "papers/chemistry/img/04B-Alkanes-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q30.jpg"
       ]
     },
     {
@@ -2270,12 +2410,12 @@
       ],
       "question": "Calculate the energy released when 1500 cm3 of E10 fuel is burned in excess oxygen, using the answers from (a)(i) and (a)(ii). If (a)(i) was not calculated, use 38.1 MJ kg-1.",
       "status": "ready",
-      "answer": "About 41.7 MJ (using mass 1.09 kg and the given value 38.1 MJ kg-1)",
+      "answer": "About 49.4 MJ using the mean energy density 45.2 MJ kg-1 from (a)(i) (41.7 MJ if the given 38.1 MJ kg-1 is used)",
       "steps": [
-        "Mass of fuel burned = 1.0935 kg from (a)(ii).",
-        "The energy density (a)(i) is not available here, so the given fallback 38.1 MJ kg-1 is used.",
-        "Energy = mass x energy density = 1.0935 kg x 38.1 MJ kg-1 = 41.7 MJ.",
-        "If a mean energy density is calculated in (a)(i), replace 38.1 with that value."
+        "Mass of fuel burned = 1500 cm3 x 0.729 g cm-3 = 1093.5 g = 1.0935 kg (from (a)(ii)).",
+        "Use the mean energy density from (a)(i): 45.2 MJ kg-1.",
+        "Energy = 1.0935 kg x 45.2 MJ kg-1 = 49.4 MJ.",
+        "If (a)(i) was not calculated, use 38.1 MJ kg-1: 1.0935 x 38.1 = 41.7 MJ."
       ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-24.jpg",
@@ -2473,13 +2613,20 @@
         "structure"
       ],
       "question": "Give the systematic name of compound P, whose structure is shown.",
-      "status": "pending",
-      "answer": "Pending: the structure of compound P is in a diagram that is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "2,4-dimethylhexane",
+      "steps": [
+        "The longest carbon chain has six carbons (from the left end through the ethyl branch), so the parent is hexane.",
+        "There is a methyl on the second carbon (from the left) and a methyl on the fourth carbon, so the locants are 2 and 4 (numbering from the other end would give 3 and 5).",
+        "Name: 2,4-dimethylhexane (C8H18)."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-26.jpg",
         "papers/chemistry/img/04B-Alkanes-27.jpg",
         "papers/chemistry/img/04B-Alkanes-28.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q31.jpg"
       ]
     },
     {
@@ -2497,13 +2644,21 @@
         "prediction"
       ],
       "question": "The table shows boiling temperatures of the first four straight-chain alkanes. Predict the molecular formula and boiling temperature of the straight-chain alkane with five carbon atoms.",
-      "status": "pending",
-      "answer": "Pending: the table of boiling temperatures is not in the text (expected C5H12, pentane, boiling temperature about 36 deg C).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C5H12; boiling temperature about 36 deg C (accept roughly 30 to 40 deg C)",
+      "steps": [
+        "The straight-chain alkane with five carbons is pentane, C5H12.",
+        "Boiling temperature rises with each CH2 added, but by smaller steps: +75, +47 and +41.5 deg C.",
+        "The next step is predicted to be about +37 deg C, so the estimate is -0.5 + 37 = about 36 deg C.",
+        "This fits the trend of stronger London forces as chain length increases."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-26.jpg",
         "papers/chemistry/img/04B-Alkanes-27.jpg",
         "papers/chemistry/img/04B-Alkanes-28.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q31-2.jpg"
       ]
     },
     {
@@ -2843,6 +2998,9 @@
       "images": [
         "papers/chemistry/img/04B-Alkanes-30.jpg",
         "papers/chemistry/img/04B-Alkanes-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q36.jpg"
       ]
     },
     {
@@ -3112,12 +3270,21 @@
         "products"
       ],
       "question": "Three isomeric cycloalkanes X, Y and Z are shown. Which react with chlorine to produce four different monochlorinated products? A all 3; B X and Z only; C Y and Z only; D X only.",
-      "status": "pending",
-      "answer": "Pending: the structures of isomers X, Y and Z are in a diagram that is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Isomer X and Isomer Z only",
+      "steps": [
+        "Count the different hydrogen environments, since each gives one monochloro product.",
+        "X is methylcyclobutane: CH3, the ring CH, the two equivalent CH2 next to it, and the CH2 opposite it give 4 products.",
+        "Y is 1,1-dimethylcyclopropane: the six CH3 hydrogens are equivalent and the two ring CH2 are equivalent, so only 2 products.",
+        "Z is ethylcyclopropane: CH3, CH2, ring CH and the ring CH2 (two equivalent carbons) give 4 products.",
+        "So X and Z only, option B."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-32.jpg",
         "papers/chemistry/img/04B-Alkanes-33.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q38.jpg"
       ]
     },
     {
@@ -3135,12 +3302,22 @@
         "initiator"
       ],
       "question": "Polymerisation of alkenes is started by a peroxide, R-O-O-R. Which step in the mechanism is an initiation step?",
-      "status": "pending",
-      "answer": "Pending: the answer options and the structure of R are not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: R-O-O-R -> 2R-O",
+      "steps": [
+        "Initiation is the first step, which forms free radicals from a non-radical molecule.",
+        "In A the weak O-O bond of the peroxide breaks homolytically to give two R-O radicals.",
+        "B and C are a propagation step and a termination step; D is also propagation, as a radical reacts with an alkene to start building the chain.",
+        "So A is the initiation step."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-32.jpg",
         "papers/chemistry/img/04B-Alkanes-33.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q39.jpg",
+        "papers/chemistry/fig/04B-Alkanes-Q39-2.jpg",
+        "papers/chemistry/fig/04B-Alkanes-Q39-3.jpg"
       ]
     },
     {
@@ -3186,12 +3363,20 @@
         "identify"
       ],
       "question": "Which structures represent a pair of isomers?",
-      "status": "pending",
-      "answer": "Pending: the structures are shown in a diagram that is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 2-methylpentane and 2,3-dimethylbutane (both C6H14)",
+      "steps": [
+        "Isomers have the same molecular formula but different structures, so count the carbons in each skeleton.",
+        "A: the left structure is 2-methylpentane (6 C) and the right is 2,3-dimethylbutane (6 C), so both are C6H14 with different structures: isomers.",
+        "B: pentane (5 C) and 2,3-dimethylbutane (6 C) differ in formula. C: 2-methylbutane (5 C) and a 6-carbon alkane differ in formula.",
+        "D: 2-methylbutane (C5H12) and 2-methylpropane (C4H10) differ in formula. So the answer is A."
+      ],
       "images": [
         "papers/chemistry/img/04B-Alkanes-33.jpg",
         "papers/chemistry/img/04B-Alkanes-34.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04B-Alkanes-Q41.jpg"
       ]
     },
     {

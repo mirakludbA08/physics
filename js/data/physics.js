@@ -36,7 +36,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/01-CP1-Freefall-01.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP1-Q2",
@@ -52,13 +53,21 @@ window.BANK.physics = {
       "image 3"
      ],
      "question": "A sphere released from rest is photographed at constant time intervals. Image 1 shows the release position. Which of the positions P, Q, R or S is the sphere in Image 3? (A P, B Q, C R, D S)",
-     "status": "pending",
-     "answer": "Needs the positions P, Q, R and S shown in the PDF diagram; for release from rest, Image 3 is 4 times as far from Image 1 as Image 2 is.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: R",
+     "steps": [
+      "Released from rest at constant acceleration g, the distance fallen s = 0.5gt^2, so s is proportional to t^2.",
+      "Image 2 is at time T, so its distance from Image 1 is one gap (call it d); in the diagram the gap between Image 1 and Image 2 equals the spacing between P, Q, R and S.",
+      "Image 3 is at time 2T, so its distance from Image 1 is (2)^2 x d = 4d, which is 3 gaps below Image 2.",
+      "Counting gaps down from Image 2: P is 1 gap, Q is 2 gaps, R is 3 gaps, so Image 3 is at R."
+     ],
      "images": [
       "papers/physics/img/01-CP1-Freefall-02.jpg",
       "papers/physics/img/01-CP1-Freefall-03.jpg",
       "papers/physics/img/01-CP1-Freefall-04.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/01-CP1-Freefall-Q2.jpg"
      ]
     },
     {
@@ -88,6 +97,9 @@ window.BANK.physics = {
       "papers/physics/img/01-CP1-Freefall-02.jpg",
       "papers/physics/img/01-CP1-Freefall-03.jpg",
       "papers/physics/img/01-CP1-Freefall-04.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/01-CP1-Freefall-Q3.jpg"
      ]
     },
     {
@@ -117,6 +129,9 @@ window.BANK.physics = {
       "papers/physics/img/01-CP1-Freefall-02.jpg",
       "papers/physics/img/01-CP1-Freefall-03.jpg",
       "papers/physics/img/01-CP1-Freefall-04.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/01-CP1-Freefall-Q3.jpg"
      ]
     },
     {
@@ -146,6 +161,9 @@ window.BANK.physics = {
       "papers/physics/img/01-CP1-Freefall-02.jpg",
       "papers/physics/img/01-CP1-Freefall-03.jpg",
       "papers/physics/img/01-CP1-Freefall-04.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/01-CP1-Freefall-Q3.jpg"
      ]
     },
     {
@@ -174,7 +192,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/01-CP1-Freefall-04.jpg",
       "papers/physics/img/01-CP1-Freefall-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP1-Q5",
@@ -191,12 +210,20 @@ window.BANK.physics = {
       "free fall"
      ],
      "question": "A student times a ball bearing falling from rest through distance s, for a range of values of s. Which row of the table shows the graph whose gradient is g?",
-     "status": "pending",
-     "answer": "Needs the table rows from the PDF; a gradient of g comes from velocity against time (v = gt), not from s against t^2 (gradient 0.5g).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: y-axis 2s, x-axis t^2",
+     "steps": [
+      "Falling from rest with u = 0: s = 0.5gt^2, which can be rearranged to 2s = gt^2.",
+      "So a graph of 2s (y-axis) against t^2 (x-axis) is a straight line through the origin with gradient g.",
+      "A (s against 2t^2) has gradient g/4, and s against t^2 would have gradient g/2.",
+      "C and D give curves, because s is not proportional to t or 2t (s is proportional to t^2)."
+     ],
      "images": [
       "papers/physics/img/01-CP1-Freefall-04.jpg",
       "papers/physics/img/01-CP1-Freefall-05.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/01-CP1-Freefall-Q5.jpg"
      ]
     },
     {
@@ -225,6 +252,10 @@ window.BANK.physics = {
       "papers/physics/img/01-CP1-Freefall-05.jpg",
       "papers/physics/img/01-CP1-Freefall-06.jpg",
       "papers/physics/img/01-CP1-Freefall-07.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/01-CP1-Freefall-Q6.jpg",
+      "papers/physics/fig/01-CP1-Freefall-Q6-2.jpg"
      ]
     },
     {
@@ -254,7 +285,8 @@ window.BANK.physics = {
       "papers/physics/img/01-CP1-Freefall-05.jpg",
       "papers/physics/img/01-CP1-Freefall-06.jpg",
       "papers/physics/img/01-CP1-Freefall-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP1-Q6b(ii)",
@@ -270,13 +302,21 @@ window.BANK.physics = {
       "freefall"
      ],
      "question": "Using the student's graph of s against t^2, determine the acceleration of free fall g.",
-     "status": "pending",
-     "answer": "Needs the student's s against t^2 graph from the PDF to read the gradient; then g = 2 x gradient.",
-     "steps": [],
+     "status": "ready",
+     "answer": "g = 10 m s^-2 (about 9.9 to 10 m s^-2)",
+     "steps": [
+      "From s = 0.5gt^2, the gradient of the s against t^2 graph is 0.5g, so g = 2 x gradient.",
+      "Use a large triangle on the best-fit line, which passes through the origin and the point (0.040 s^2, 0.20 m).",
+      "Gradient = (0.20 - 0) / (0.040 - 0) = 5.0 m s^-2.",
+      "g = 2 x 5.0 = 10 m s^-2 (the top point (0.0625, 0.31) gives 4.96 and g = 9.9 m s^-2)."
+     ],
      "images": [
       "papers/physics/img/01-CP1-Freefall-05.jpg",
       "papers/physics/img/01-CP1-Freefall-06.jpg",
       "papers/physics/img/01-CP1-Freefall-07.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/01-CP1-Freefall-Q6-3.jpg"
      ]
     },
     {
@@ -294,12 +334,19 @@ window.BANK.physics = {
       "freefall"
      ],
      "question": "A student measures the time t for a ball bearing to fall different distances s from rest and plots a graph with gradient equal to g. Which row of the table shows this graph?",
-     "status": "pending",
-     "answer": "Needs the table rows from the PDF; the row must be velocity against time (gradient g), not s against t^2 (gradient 0.5g).",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: y-axis 2s, x-axis t^2",
+     "steps": [
+      "From rest, s = 0.5gt^2, so 2s = gt^2.",
+      "Plotting 2s on the y-axis against t^2 on the x-axis gives a straight line through the origin with gradient g.",
+      "A (s against t^2) has gradient 0.5g, while C (t^2 against s) has gradient 2/g and D (t^2 against 2s) has gradient 1/g."
+     ],
      "images": [
       "papers/physics/img/01-CP1-Freefall-07.jpg",
       "papers/physics/img/01-CP1-Freefall-08.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/01-CP1-Freefall-Q7.jpg"
      ]
     },
     {
@@ -327,7 +374,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/01-CP1-Freefall-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP1-Q9",
@@ -355,7 +403,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/01-CP1-Freefall-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP1-Q10",
@@ -382,7 +431,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/01-CP1-Freefall-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP1-Q11",
@@ -409,7 +459,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/01-CP1-Freefall-09.jpg",
       "papers/physics/img/01-CP1-Freefall-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP1-Q12",
@@ -425,12 +476,20 @@ window.BANK.physics = {
       "acceleration"
      ],
      "question": "An object on the Moon falls 0.32 m from rest in a time of 0.63 s. Which expression gives the acceleration due to gravity on the Moon? Options A to D are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the four expression options from the PDF; the correct expression is 2 x 0.32 / 0.63^2, which is about 1.6 m s-2.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: 2 x 0.32 / 0.63^2 (about 1.6 m s^-2)",
+     "steps": [
+      "Released from rest, u = 0, so s = 0.5gt^2 and g = 2s/t^2.",
+      "Substituting s = 0.32 m and t = 0.63 s gives g = (2 x 0.32) / 0.63^2, which is option C.",
+      "Numerically g = 0.64 / 0.397 = 1.6 m s^-2, a sensible value for the Moon (about one sixth of 9.81 m s^-2).",
+      "A is s/(2t), B is s/(2t^2) = g/4 and D is 2s/t (the final speed), so none of them gives g."
+     ],
      "images": [
       "papers/physics/img/01-CP1-Freefall-09.jpg",
       "papers/physics/img/01-CP1-Freefall-10.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/01-CP1-Freefall-Q12.jpg"
      ]
     },
     {
@@ -448,12 +507,20 @@ window.BANK.physics = {
       "table"
      ],
      "question": "A student drops a ball from several heights, measures the time to reach the ground, and plots height on the y-axis to find g using a graph. Which row of the table is correct for the graph?",
-     "status": "pending",
-     "answer": "Needs the table rows from the PDF; with height on the y-axis the x-axis must be t^2 (gradient 0.5g).",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: (time)^2 on the x-axis, gradient g/2",
+     "steps": [
+      "Falling from rest, h = 0.5gt^2.",
+      "With h on the y-axis and t^2 on the x-axis this is y = (g/2)x, a straight line through the origin with gradient g/2.",
+      "Plotting against t (rows A and B) would give a curve, not a straight line, so those cannot have a constant gradient.",
+      "D is wrong because the gradient is half of g, not twice g."
+     ],
      "images": [
       "papers/physics/img/01-CP1-Freefall-10.jpg",
       "papers/physics/img/01-CP1-Freefall-11.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/01-CP1-Freefall-Q13.jpg"
      ]
     }
    ]
@@ -491,7 +558,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-01.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q2",
@@ -521,7 +589,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-01.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q3",
@@ -553,7 +622,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-02.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q4a(i)",
@@ -584,7 +654,8 @@ window.BANK.physics = {
       "papers/physics/img/02-1A-Suvat-Formulae-03.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-04.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q4a(ii)",
@@ -614,7 +685,8 @@ window.BANK.physics = {
       "papers/physics/img/02-1A-Suvat-Formulae-03.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-04.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q4b",
@@ -645,7 +717,8 @@ window.BANK.physics = {
       "papers/physics/img/02-1A-Suvat-Formulae-03.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-04.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q5",
@@ -674,7 +747,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-05.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q6",
@@ -703,7 +777,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-05.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q7a",
@@ -733,7 +808,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-06.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q7b",
@@ -763,7 +839,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-06.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q8",
@@ -791,7 +868,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q9",
@@ -820,7 +898,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-08.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q10",
@@ -850,7 +929,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-08.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q11",
@@ -879,7 +959,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-09.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q12",
@@ -908,7 +989,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-09.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q13",
@@ -937,7 +1019,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-10.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q14",
@@ -966,7 +1049,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-10.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q15",
@@ -995,7 +1079,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-11.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q16a(i)",
@@ -1024,7 +1109,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-11.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q16a(ii)",
@@ -1053,7 +1139,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-11.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q16b",
@@ -1083,7 +1170,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-11.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q17a(i)",
@@ -1113,7 +1201,8 @@ window.BANK.physics = {
       "papers/physics/img/02-1A-Suvat-Formulae-12.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-13.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q17a(ii)",
@@ -1144,7 +1233,8 @@ window.BANK.physics = {
       "papers/physics/img/02-1A-Suvat-Formulae-12.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-13.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q17b",
@@ -1174,7 +1264,8 @@ window.BANK.physics = {
       "papers/physics/img/02-1A-Suvat-Formulae-12.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-13.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q18",
@@ -1204,7 +1295,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-14.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q19",
@@ -1233,7 +1325,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-15.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q20a",
@@ -1263,7 +1356,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-16.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1A-Q20b",
@@ -1293,7 +1387,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/02-1A-Suvat-Formulae-16.jpg",
       "papers/physics/img/02-1A-Suvat-Formulae-17.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -1328,6 +1423,9 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-01.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-02.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q1.jpg"
      ]
     },
     {
@@ -1356,6 +1454,9 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-01.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-02.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q1.jpg"
      ]
     },
     {
@@ -1373,13 +1474,21 @@ window.BANK.physics = {
       "options"
      ],
      "question": "An object accelerates from rest down a frictionless slope at 23 degrees to the horizontal, moving a distance of 20 m. Which expression gives its final speed? The options A to D are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the four answer options from the PDF; the correct speed is v = sqrt(2 x 9.81 x sin 23 x 20), about 12.4 m s-1.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: sqrt(2 x 9.81 x 20 x sin 23)  (about 12 m s^-1)",
+     "steps": [
+      "The slope is frictionless, so the only force along it is the component of weight, mg sin 23, giving acceleration a = g sin 23 down the slope.",
+      "The object starts from rest (u = 0) and moves s = 20 m along the slope, so v^2 = u^2 + 2as = 2 x (9.81 sin 23) x 20.",
+      "v = sqrt(2 x 9.81 x 20 x sin 23) = 12.4 m s^-1, which is option C.",
+      "Options A and B use cos 23 (the wrong component), and B and D use 0.5 instead of 2, so they are wrong."
+     ],
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-02.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-03.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-04.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q2.jpg"
      ]
     },
     {
@@ -1410,7 +1519,8 @@ window.BANK.physics = {
       "papers/physics/img/03-1B-Suvat-Angle-02.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-03.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q3b",
@@ -1427,13 +1537,23 @@ window.BANK.physics = {
       "deceleration"
      ],
      "question": "The trajectories of the golf ball with and without air resistance are shown. Explain the differences between the two paths.",
-     "status": "pending",
-     "answer": "Needs the two trajectory curves from the PDF diagram to confirm the comparison; expected: air resistance gives a shorter range, lower maximum height and a steeper, asymmetric descent.",
-     "steps": [],
+     "status": "ready",
+     "answer": "With air resistance the ball has a shorter range, a lower maximum height and a steeper, asymmetric descent, because drag opposes the motion and removes energy.",
+     "steps": [
+      "Without air resistance the only force is weight: the horizontal velocity is constant, the vertical acceleration is g, and the path is a symmetric parabola (dashed).",
+      "With air resistance, a drag force acts opposite to the velocity, so the horizontal velocity decreases continuously; the ball covers less horizontal distance, giving a shorter range.",
+      "On the way up, drag has a downward component as well as weight, so the deceleration is greater than g; the vertical velocity falls to zero sooner, giving a lower maximum height and a shorter time to the top.",
+      "The horizontal velocity is lower on the way down, so the path is steeper than on the way up: the curve is not symmetric and the peak is nearer the launch point.",
+      "Drag increases with speed, so the effect is greatest near the start (high speed), and the ball loses kinetic energy as work is done against drag (transferred as heat to the air).",
+      "The ball therefore lands at a lower speed and at a steeper angle than in the no-drag case."
+     ],
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-02.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-03.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-04.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q3.jpg"
      ]
     },
     {
@@ -1461,6 +1581,9 @@ window.BANK.physics = {
       "papers/physics/img/03-1B-Suvat-Angle-04.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-05.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-06.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q4.jpg"
      ]
     },
     {
@@ -1488,6 +1611,9 @@ window.BANK.physics = {
       "papers/physics/img/03-1B-Suvat-Angle-04.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-05.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-06.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q4.jpg"
      ]
     },
     {
@@ -1504,13 +1630,22 @@ window.BANK.physics = {
       "range check"
      ],
      "question": "Point A is 0.86 m vertically above the ground and 1.23 m horizontally from the end of the ramp. Deduce whether the ball will bounce a second time on the ramp.",
-     "status": "pending",
-     "answer": "Needs the ramp shape and angle from the PDF diagram (not in the text); the ball's post-bounce path must be compared with the ramp surface.",
-     "steps": [],
+     "status": "ready",
+     "answer": "No. The ball clears the end of the ramp (it is still 0.59 m above the ramp when it passes the end), so it does not bounce a second time on the ramp.",
+     "steps": [
+      "After the bounce, speed v = sqrt(2gh) = 3.43 m s^-1 at 70 degrees to the vertical, so horizontal velocity = 3.43 sin 70 = 3.22 m s^-1 and vertical velocity = 3.43 cos 70 = 1.17 m s^-1 upwards.",
+      "Time to travel the 1.23 m horizontal length of the ramp: t = 1.23 / 3.22 = 0.381 s.",
+      "Vertical displacement from A in this time: s = ut + 1/2 at^2 = 1.17 x 0.381 - 0.5 x 9.81 x 0.381^2 = -0.27 m (0.27 m below A).",
+      "The ramp end is 0.86 m below A, so the ball is about 0.59 m above the ramp end when it reaches it, and has not hit the ramp.",
+      "Check: the ball reaches the ground after 0.555 s, at 1.79 m from A, beyond the 1.23 m end of the ramp, so it lands on the ground. The ramp slopes down at tan^-1(0.86/1.23) = 35 degrees, while the ball leaves at only 20 degrees above the horizontal, so it moves away from the ramp surface."
+     ],
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-04.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-05.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-06.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q4-2.jpg"
      ]
     },
     {
@@ -1538,7 +1673,8 @@ window.BANK.physics = {
       "papers/physics/img/03-1B-Suvat-Angle-06.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-07.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q5aii",
@@ -1567,6 +1703,9 @@ window.BANK.physics = {
       "papers/physics/img/03-1B-Suvat-Angle-06.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-07.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-08.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q5.jpg"
      ]
     },
     {
@@ -1595,6 +1734,9 @@ window.BANK.physics = {
       "papers/physics/img/03-1B-Suvat-Angle-06.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-07.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-08.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q5-2.jpg"
      ]
     },
     {
@@ -1624,6 +1766,9 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-08.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-09.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q6.jpg"
      ]
     },
     {
@@ -1651,7 +1796,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-08.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q7a",
@@ -1677,6 +1823,9 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-09.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-10.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q7.jpg"
      ]
     },
     {
@@ -1704,6 +1853,10 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-09.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-10.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q7.jpg",
+      "papers/physics/fig/03-1B-Suvat-Angle-Q7-2.jpg"
      ]
     },
     {
@@ -1732,6 +1885,9 @@ window.BANK.physics = {
       "papers/physics/img/03-1B-Suvat-Angle-10.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-11.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-12.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q8.jpg"
      ]
     },
     {
@@ -1749,13 +1905,22 @@ window.BANK.physics = {
       "explosion"
      ],
      "question": "The rock moves in the direction of a hill whose side is at 20 degrees to the horizontal, and lands on the side of the hill. Deduce whether the rock hits the hillside before it reaches its maximum height.",
-     "status": "pending",
-     "answer": "Needs the PDF diagram to confirm where the hillside starts relative to the launch point; if the slope starts at launch level, the rock reaches its maximum height (52.6 m at 3.3 s) before hitting the hillside (about 3.7 s), so the answer is no.",
-     "steps": [],
+     "status": "ready",
+     "answer": "No. The rock reaches its maximum height at 3.3 s and only meets the hillside at 3.7 s, so it does not hit the ground before it reaches its maximum height.",
+     "steps": [
+      "Components: u_x = 50 cos 40 = 38.3 m s^-1 and u_y = 50 sin 40 = 32.1 m s^-1.",
+      "Maximum height is reached when v_y = 0, at t = 32.1 / 9.81 = 3.28 s (the height there is 52.6 m, at a horizontal distance of 125.5 m).",
+      "The hillside is a straight line from the explosion at 20 degrees, so the rock lands on it when its height equals x tan 20: 32.1t - 4.905t^2 = (38.3 tan 20)t = 13.9t.",
+      "Solving, t = (32.1 - 13.9) / 4.905 = 3.71 s, which is later than 3.28 s.",
+      "Check: at 3.28 s the hillside beneath the rock is only 125.5 tan 20 = 45.7 m high, below the rock at 52.6 m, so the rock is still above the hill when it reaches its maximum height."
+     ],
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-10.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-11.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-12.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q8-2.jpg"
      ]
     },
     {
@@ -1772,12 +1937,20 @@ window.BANK.physics = {
       "boat"
      ],
      "question": "A flare is launched to the right from a stationary boat at 30 degrees to the horizontal. Complete the diagram to show the path of the flare before it hits the sea.",
-     "status": "pending",
-     "answer": "Needs the boat diagram from the PDF to draw the path; the path is a symmetric parabolic arc from the launch point to the sea.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A smooth parabola starting at the x on the boat, rising to the right at about 30 degrees to the horizontal, reaching a maximum height and then falling symmetrically to meet the sea to the right of the boat.",
+     "steps": [
+      "Start the curve at the launch mark x, initially straight and sloping up to the right at 30 degrees to the horizontal (shallow, gradient tan 30 = 0.58).",
+      "Draw a smooth parabola: the horizontal velocity is constant and the vertical velocity decreases uniformly, so the curve flattens at a single maximum.",
+      "The descent should mirror the ascent (no air resistance), ending where the curve meets the sea surface, slightly beyond the symmetric point since the launch point is a little above the water.",
+      "The path must be a curve with no kinks, ending at the sea (not on the boat) to the right of the boat."
+     ],
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-12.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-13.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q9.jpg"
      ]
     },
     {
@@ -1804,7 +1977,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-12.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q9aiii",
@@ -1831,7 +2005,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-12.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q9b",
@@ -1857,7 +2032,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-12.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q10a",
@@ -1873,12 +2049,19 @@ window.BANK.physics = {
       "sin"
      ],
      "question": "A golfer hits a ball at 52 m s-1 at 41 degrees to the horizontal. Show that the vertical component of the initial velocity is about 30 m s-1.",
-     "status": "pending",
-     "answer": "Data conflict in the extracted text: 52 sin 41 = 34 m s-1, not about 30 m s-1. Check the speed and angle values against the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Vertical component = 52 sin 41 = 34 m s^-1, which is about 30 m s^-1 to 1 s.f.",
+     "steps": [
+      "The vertical component of the initial velocity is v_y = v sin theta, with v = 52 m s^-1 and theta = 41 degrees.",
+      "v_y = 52 sin 41 = 52 x 0.656 = 34.1 m s^-1.",
+      "34.1 m s^-1 rounds to 30 m s^-1 to 1 significant figure, which agrees with 'about 30 m s^-1' (and 34.1 m s^-1 is used in later parts)."
+     ],
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-13.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-14.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q10.jpg"
      ]
     },
     {
@@ -1906,6 +2089,9 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-13.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-14.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q10.jpg"
      ]
     },
     {
@@ -1933,6 +2119,9 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-13.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-14.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q10.jpg"
      ]
     },
     {
@@ -1960,6 +2149,9 @@ window.BANK.physics = {
       "papers/physics/img/03-1B-Suvat-Angle-14.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-15.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-16.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q11.jpg"
      ]
     },
     {
@@ -1989,6 +2181,9 @@ window.BANK.physics = {
       "papers/physics/img/03-1B-Suvat-Angle-14.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-15.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-16.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q11.jpg"
      ]
     },
     {
@@ -2017,7 +2212,8 @@ window.BANK.physics = {
       "papers/physics/img/03-1B-Suvat-Angle-14.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-15.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q12",
@@ -2043,6 +2239,9 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-16.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q12.jpg"
      ]
     },
     {
@@ -2069,6 +2268,9 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-17.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-18.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q13.jpg"
      ]
     },
     {
@@ -2095,6 +2297,9 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-17.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-18.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q13.jpg"
      ]
     },
     {
@@ -2122,6 +2327,9 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-17.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-18.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q13.jpg"
      ]
     },
     {
@@ -2149,6 +2357,9 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-18.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-19.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q14.jpg"
      ]
     },
     {
@@ -2177,6 +2388,9 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-18.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-19.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q14.jpg"
      ]
     },
     {
@@ -2204,7 +2418,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-18.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1B-Q15a",
@@ -2231,6 +2446,9 @@ window.BANK.physics = {
       "papers/physics/img/03-1B-Suvat-Angle-19.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-20.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-21.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q15.jpg"
      ]
     },
     {
@@ -2258,6 +2476,9 @@ window.BANK.physics = {
       "papers/physics/img/03-1B-Suvat-Angle-19.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-20.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-21.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q15.jpg"
      ]
     },
     {
@@ -2287,6 +2508,9 @@ window.BANK.physics = {
       "papers/physics/img/03-1B-Suvat-Angle-21.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-22.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-23.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q16.jpg"
      ]
     },
     {
@@ -2314,6 +2538,9 @@ window.BANK.physics = {
       "papers/physics/img/03-1B-Suvat-Angle-21.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-22.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-23.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q17.jpg"
      ]
     },
     {
@@ -2342,6 +2569,9 @@ window.BANK.physics = {
       "papers/physics/img/03-1B-Suvat-Angle-21.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-22.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-23.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q17.jpg"
      ]
     },
     {
@@ -2359,13 +2589,21 @@ window.BANK.physics = {
       "projectile"
      ],
      "question": "The inside of the tyre is 0.8 m in diameter and is 3.9 m from the side of the water. Deduce whether the stone lands inside the tyre.",
-     "status": "pending",
-     "answer": "Needs the PDF diagram to confirm how the 3.9 m is measured. The stone lands 4.5 m horizontally from the release point; if 3.9 m is to the near edge of the tyre, it lands inside (3.9 to 4.7 m).",
-     "steps": [],
+     "status": "ready",
+     "answer": "Yes. The stone lands about 4.5 m from the edge, which is between 3.9 m and 4.7 m, so it lands inside the tyre.",
+     "steps": [
+      "Components: u_x = 6.3 cos 55 = 3.61 m s^-1 and u_y = 6.3 sin 55 = 5.16 m s^-1 (upwards).",
+      "Taking up as positive, the stone ends 1.25 m below the launch point: -1.25 = 5.16t - 4.905t^2, so 4.905t^2 - 5.16t - 1.25 = 0 and t = 1.26 s (positive root).",
+      "Horizontal distance = u_x t = 3.61 x 1.26 = 4.5 m, measured from the point below the child's hand (the edge of the water).",
+      "The inside of the tyre runs from 3.9 m to 3.9 + 0.8 = 4.7 m from the edge, and 3.9 m < 4.5 m < 4.7 m, so the stone lands inside the tyre."
+     ],
      "images": [
       "papers/physics/img/03-1B-Suvat-Angle-21.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-22.jpg",
       "papers/physics/img/03-1B-Suvat-Angle-23.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/03-1B-Suvat-Angle-Q17-2.jpg"
      ]
     }
    ]
@@ -2390,12 +2628,22 @@ window.BANK.physics = {
       "constant velocity"
      ],
      "question": "A simplified displacement-time graph for a swimmer in a 100 m race is given. Draw the corresponding velocity-time graph, showing working.",
-     "status": "pending",
-     "answer": "Needs the simplified displacement-time graph from the PDF to read the gradients; each straight section gives a constant velocity (gradient) on the velocity-time graph.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Velocity-time graph: a horizontal line at +1.1 m s^-1 from 0 to 45 s, a rapid change through zero at about 45 s, then a horizontal line at -1.1 m s^-1 from 45 s to 90 s.",
+     "steps": [
+      "Velocity is the gradient of the displacement-time graph, so each straight section gives a constant velocity.",
+      "0 to 45 s: displacement rises from 0 to 50 m, so v = 50 / 45 = 1.1 m s^-1 (positive).",
+      "45 s to 90 s: displacement falls from 50 m back to 0, so v = -50 / 45 = -1.1 m s^-1 (she swims back).",
+      "At the turn (about 45 s) the velocity changes from +1.1 to -1.1 m s^-1 in a very short time: draw a near-vertical line through zero.",
+      "Axes: velocity in m s^-1 with values marked at +1.1 and -1.1, time to 90 s; two horizontal lines of equal length, one above and one below the time axis."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-01.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-02.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q1.jpg",
+      "papers/physics/fig/04-1C-SDT-Graphs-Q1-2.jpg"
      ]
     },
     {
@@ -2412,12 +2660,20 @@ window.BANK.physics = {
       "acceleration from rest"
      ],
      "question": "The swimmer glides underwater for the first 15 m before using her arms and legs. Sketch the actual variation of displacement with time for the first 15 m.",
-     "status": "pending",
-     "answer": "Needs the axes and simplified graph from the PDF; the sketch should be a curve that starts with a gradient below the simplified line and increases as she speeds up.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A curve from the origin with its steepest gradient at t = 0 and a gradient that decreases as she glides; it reaches 15 m before 14 s (above the straight line from the origin to 15 m at 14 s).",
+     "steps": [
+      "The simplified graph assumes constant velocity (about 1.1 m s^-1), which would take about 14 s to cover 15 m: that is the straight reference line.",
+      "The dive gives a high initial speed, so the actual graph starts with a gradient greater than 1.1 m s^-1 (steeper than the straight line).",
+      "While gliding there is no propulsion and water resistance acts, so she decelerates: the gradient decreases steadily, so the line curves over (concave down).",
+      "Because she is faster than the average at the start, she reaches 15 m in less than 14 s, so the curve ends at 15 m to the left of the 14 s mark."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-01.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-02.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q1-3.jpg"
      ]
     },
     {
@@ -2444,6 +2700,9 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-01.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-02.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q1.jpg"
      ]
     },
     {
@@ -2460,12 +2719,20 @@ window.BANK.physics = {
       "object"
      ],
      "question": "A velocity-time graph for an object is shown. Describe how the acceleration varies with time, including calculations.",
-     "status": "pending",
-     "answer": "Needs the velocity-time graph from the PDF to calculate the gradient of each section; acceleration equals the gradient.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Acceleration is constant at about +1.6 m s^-2 from 0 to 9 s, then changes abruptly to a constant -5.1 m s^-2 after 9 s.",
+     "steps": [
+      "Acceleration is the gradient of the velocity-time graph.",
+      "0 to 9 s: the line is straight from (0, 0) to (9 s, 14 m s^-1), so a = 14 / 9 = 1.6 m s^-2 (constant, positive).",
+      "After 9 s: the line is straight from (9 s, 14 m s^-1) to (17.6 s, -30 m s^-1), so a = (-30 - 14) / (17.6 - 9) = -5.1 m s^-2 (constant, negative).",
+      "So the acceleration is constant, then at 9 s it changes suddenly to a negative value with a larger magnitude (the object slows, stops at 12 s and moves backwards)."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-02.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-03.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q2.jpg"
      ]
     },
     {
@@ -2483,12 +2750,21 @@ window.BANK.physics = {
       "resultant force"
      ],
      "question": "A skydiver accelerates to terminal velocity, opens a parachute at time t1, and reaches a lower terminal velocity before landing at t2. Explain the shape of the acceleration-time graph in terms of the forces acting.",
-     "status": "pending",
-     "answer": "Needs the acceleration-time graph from the PDF to confirm the shape; expected: acceleration falls from g to zero, drops sharply negative when the parachute opens, then returns to zero.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Acceleration falls from about g to zero at the first terminal velocity (weight = drag), becomes sharply negative when the parachute opens at t1, then returns to zero at the second, lower terminal velocity.",
+     "steps": [
+      "At the start, drag is small, so the resultant force is almost the weight and the acceleration is about g (the graph starts at its maximum positive value).",
+      "As speed increases, drag increases, so the resultant (weight - drag) decreases and the acceleration falls, with a decreasing gradient, until drag = weight, resultant = 0, a = 0 at terminal velocity.",
+      "At t1 the parachute opens: the area increases suddenly, so drag becomes much greater than the weight and the resultant force is upwards, giving a large negative acceleration (a sharp negative peak).",
+      "The skydiver slows down, so drag decreases, the upward resultant reduces and the deceleration returns towards zero.",
+      "When drag again equals weight (at a smaller speed, because the drag at a given speed is now larger), the acceleration is zero at the second, lower terminal velocity, and stays at zero until landing at t2."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-03.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-04.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q3.jpg"
      ]
     },
     {
@@ -2505,13 +2781,19 @@ window.BANK.physics = {
       "vertical displacement"
      ],
      "question": "The graph shows the vertical displacement of a man diving from a 12 m platform. State how the graph shows that his initial vertical velocity is zero.",
-     "status": "pending",
-     "answer": "Needs the displacement-time graph from the PDF; the answer is that its gradient (velocity) is zero at t = 0.",
-     "steps": [],
+     "status": "ready",
+     "answer": "The graph is horizontal (gradient zero) at t = 0, and the gradient of a displacement-time graph is velocity, so the initial velocity is zero.",
+     "steps": [
+      "Velocity = gradient of the displacement-time graph.",
+      "At t = 0 the curve starts at 12 m with a horizontal tangent (zero gradient), so v = 0."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-04.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-05.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-06.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q4-2.jpg"
      ]
     },
     {
@@ -2539,6 +2821,10 @@ window.BANK.physics = {
       "papers/physics/img/04-1C-SDT-Graphs-04.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-05.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-06.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q4.jpg",
+      "papers/physics/fig/04-1C-SDT-Graphs-Q4-2.jpg"
      ]
     },
     {
@@ -2556,17 +2842,20 @@ window.BANK.physics = {
      ],
      "question": "Before entering the water the man has a constant vertical acceleration; after entering he has a constant vertical deceleration. Draw the velocity-time graph for his motion.",
      "status": "ready",
-     "answer": "Straight line from zero to 15.3 m s-1 (downwards) at water entry, then a straight line with a smaller constant gradient falling back to zero.",
+     "answer": "Straight line from (0, 0) down to about (1.5 s, -15 m s^-1) at water entry (taking up as positive), then a steeper straight line back up to zero at about 2.1 s.",
      "steps": [
-      "Before entry the velocity increases uniformly from 0, so the graph is a straight line with constant gradient g.",
-      "At entry the speed is 15.3 m s-1, found in part (a)(ii).",
-      "After entry the velocity decreases at a constant rate, so the graph is a straight line sloping back towards zero.",
-      "The two straight sections meet at the entry point."
+      "Before entering the water the acceleration is constant at g, so the line is straight with gradient -9.81 m s^-2 (downwards negative, as on the displacement graph), reaching about -15.3 m s^-1 after about 1.5 s.",
+      "After entering the water there is a constant deceleration, so the line is straight back up towards zero velocity.",
+      "The man stops about 4 m below the surface at about 2.1 s, so the stopping takes only about 0.6 s: the gradient is about +25 to +28 m s^-2, steeper than the first line.",
+      "Axes: the line starts at the origin and the kink is at the entry time; the final point is on the time axis at about 2.1 s."
      ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-04.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-05.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-06.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q4-3.jpg"
      ]
     },
     {
@@ -2583,12 +2872,20 @@ window.BANK.physics = {
       "resultant force"
      ],
      "question": "A constant forward force acts on a car on a straight road. After a while the speed becomes constant. Which graph shows the variation of acceleration with time? Options are graphs A to D, not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs graphs A to D from the PDF; the correct one shows acceleration falling from a positive value to zero.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C",
+     "steps": [
+      "The driving force is constant, but resistive forces (drag) increase with speed.",
+      "The resultant force = driving force - resistive force, so it decreases as the car speeds up, and the acceleration falls.",
+      "The speed becomes constant when the resistive force equals the driving force, so the resultant is zero and the acceleration falls to zero (graph C).",
+      "A starts with zero acceleration, B ends at a non-zero acceleration (speed still increasing) and D is a constant acceleration throughout."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-06.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-07.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q5.jpg"
      ]
     },
     {
@@ -2605,12 +2902,20 @@ window.BANK.physics = {
       "gravity"
      ],
      "question": "A model rocket is launched with a constant upward thrust while burning fuel, then the fuel runs out and it reaches maximum height at time T. Which graph could show its acceleration against time, ignoring the mass decrease? Options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the graphs from the PDF; the correct graph shows a constant positive acceleration while thrust acts, then a step down to a constant -g after the fuel runs out.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C",
+     "steps": [
+      "While the fuel burns, the thrust is constant (mass change neglected), so the acceleration is constant and positive.",
+      "After burnout (before time T) only gravity acts, so a = -g, constant and negative; the rocket keeps rising but slows down until it stops at the maximum height at time T.",
+      "So the graph is a constant positive value, then a sudden step down to a constant negative value before T (graph C).",
+      "A and B show a changing acceleration while the thrust acts, and in D the step is at T, which would mean the rocket is still accelerating upwards at its maximum height (where the velocity is zero), which is impossible."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-07.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-08.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q6.jpg"
      ]
     },
     {
@@ -2627,12 +2932,21 @@ window.BANK.physics = {
       "options"
      ],
      "question": "The velocity-time graph for a ball is shown. Which graph of displacement against time could represent its motion? Options A to D are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the velocity-time graph and options A to D from the PDF; check that displacement increases where velocity is positive and its gradient matches the velocity.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C",
+     "steps": [
+      "Velocity increases uniformly from zero (constant acceleration), so displacement increases with an increasing gradient (a curve, starting with zero gradient).",
+      "At the dashed line the velocity changes sign (jumps), so the displacement reaches a maximum there but is continuous: no sudden jump in displacement is possible (this rules out A and B).",
+      "After the dashed line the velocity is negative and decreasing in magnitude, so displacement falls with a gradient that starts steep and flattens towards zero (curve).",
+      "D has straight lines (constant velocity) and does not show the increasing gradient, so C is the only match."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-08.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-09.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q7.jpg",
+      "papers/physics/fig/04-1C-SDT-Graphs-Q7-2.jpg"
      ]
     },
     {
@@ -2649,12 +2963,18 @@ window.BANK.physics = {
       "curve"
      ],
      "question": "A ball falls through air from rest. Which graph shows its displacement against time? Options A to D are graphs not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the graphs from the PDF; the correct one is a curve whose gradient (velocity) increases and then becomes constant at terminal velocity.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C",
+     "steps": [
+      "Falling from rest, the velocity is zero at the start and increases, so the gradient of the displacement-time graph starts at zero and gets steeper (displacement taken as negative downwards).",
+      "C starts with zero gradient and curves downwards with an increasing slope; B is a straight line (constant velocity from t = 0), D shows a decreasing gradient, and A shows no motion."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-09.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-10.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q8.jpg"
      ]
     },
     {
@@ -2672,12 +2992,18 @@ window.BANK.physics = {
       "acceleration"
      ],
      "question": "Which row of the table gives a quantity plotted on the y-axis and the quantity represented by the gradient of the graph? The table is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the table from the PDF; the correct row pairs y = displacement with gradient = velocity, or y = velocity with gradient = acceleration.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: y-axis velocity, gradient acceleration",
+     "steps": [
+      "Gradient = change in y / change in x, so the gradient of a velocity-time graph is the change in velocity per unit time = acceleration.",
+      "The gradient of a displacement-time graph is velocity (not acceleration, so A is wrong), and the gradient of an acceleration-time graph is neither velocity nor displacement (C and D wrong)."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-09.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-10.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q9.jpg"
      ]
     },
     {
@@ -2694,12 +3020,20 @@ window.BANK.physics = {
       "options"
      ],
      "question": "A car accelerates along a straight road, and the acceleration-time graph is shown. Which graph shows its velocity against time over the same interval? Graphs and options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the acceleration-time graph and options A to D from the PDF; velocity at each time is the area under the acceleration graph up to that time.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A",
+     "steps": [
+      "Acceleration is positive at first, so the velocity increases; the acceleration decreases steadily, so the gradient of the velocity graph decreases.",
+      "The acceleration becomes zero at the point where the line crosses the axis, so the velocity graph has zero gradient (a maximum) at that time.",
+      "The acceleration then becomes negative, so the velocity decreases with an increasing negative gradient: a smooth concave-down curve (graph A)."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-10.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-11.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q10.jpg",
+      "papers/physics/fig/04-1C-SDT-Graphs-Q10-2.jpg"
      ]
     },
     {
@@ -2716,12 +3050,20 @@ window.BANK.physics = {
       "options"
      ],
      "question": "The velocity-time graph for a particle is shown. Which of A to D is the displacement-time graph for this particle? Graphs are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the velocity-time graph and options A to D from the PDF to match the sign and gradient pattern.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A",
+     "steps": [
+      "The velocity starts positive and decreases at a constant rate, crossing zero and becoming negative: the acceleration is constant and negative.",
+      "The gradient of the displacement-time graph is the velocity, so the displacement rises with a decreasing gradient to a maximum (where v = 0), then falls with an increasing negative gradient.",
+      "This is an inverted parabola starting at the origin with a positive gradient, which is graph A."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-11.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-12.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q11.jpg",
+      "papers/physics/fig/04-1C-SDT-Graphs-Q11-2.jpg"
      ]
     },
     {
@@ -2738,12 +3080,19 @@ window.BANK.physics = {
       "signed area"
      ],
      "question": "A velocity-time graph shows a particle with constant acceleration. P, Q and R are the magnitudes of the areas shown. Which expression gives the total displacement? A P+Q; B P+Q-R; C R+Q; D R-Q. The graph is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the PDF graph to see which areas lie below the time axis; total displacement is the signed sum of the areas.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: R - Q",
+     "steps": [
+      "Displacement = area under a velocity-time graph, with areas above the time axis counted positive and areas below it negative.",
+      "P is the area above the line (not under it), so it is not part of the displacement.",
+      "R is the area under the line above the axis (positive) and Q is the area below the axis (negative), so total displacement = R - Q."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-12.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-13.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q12.jpg"
      ]
     },
     {
@@ -2760,11 +3109,19 @@ window.BANK.physics = {
       "table row"
      ],
      "question": "A student walks for 6 seconds, shown on a displacement-time graph. Which row of the table gives the final displacement and velocity? The graph and table are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the displacement-time graph and table from the PDF; read the displacement at 6 s and the gradient of the graph.",
-     "steps": [],
+     "status": "ready",
+     "answer": "A: displacement 2.0 m, velocity 0.5 m s^-1",
+     "steps": [
+      "The final displacement is read from the graph at t = 6 s: 2.0 m (the line starts at -1 m at t = 0 and crosses zero at 2 s).",
+      "Velocity = gradient = (2.0 - 0) / (6 - 2) = 0.5 m s^-1, a constant.",
+      "B's 3.0 m is the change in displacement, not the final displacement; C and D have a velocity of 2.0 m s^-1, which is not the gradient."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-13.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q13.jpg",
+      "papers/physics/fig/04-1C-SDT-Graphs-Q13-2.jpg"
      ]
     },
     {
@@ -2781,12 +3138,18 @@ window.BANK.physics = {
       "graph"
      ],
      "question": "A rocket accelerates horizontally due to a constant resultant force while its mass decreases as fuel is used. Which graph shows how its acceleration could change? Options A to D are graphs not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs graphs A to D from the PDF; by a = F/m with constant F and decreasing m, the correct graph shows acceleration increasing with time.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "Constant resultant force F and decreasing mass m: a = F / m, so the acceleration must increase.",
+      "Because the mass falls steadily, 1/m increases at an increasing rate, so the graph of a against t rises (graph B), not constant (A) or decreasing (C, D)."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-14.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-15.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q14.jpg"
      ]
     },
     {
@@ -2803,12 +3166,20 @@ window.BANK.physics = {
       "options"
      ],
      "question": "A ball is thrown vertically up and caught a few seconds later. Given its displacement-time graph, which graph shows its acceleration against time? Options A to D are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the graphs from the PDF; ignoring air resistance the correct graph is a horizontal line at -g for the whole flight.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "After release the ball is in free fall: ignoring air resistance, the only force is its weight, so the acceleration is constant at g downwards for the whole flight.",
+      "Taking up as positive (as the displacement graph does), the acceleration is a negative constant: a horizontal line below the time axis (graph B).",
+      "The acceleration does not change at the top of the flight, so A (positive constant) and the sloping lines C and D are wrong."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-14.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-15.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q15.jpg",
+      "papers/physics/fig/04-1C-SDT-Graphs-Q15-2.jpg"
      ]
     },
     {
@@ -2825,12 +3196,19 @@ window.BANK.physics = {
       "change in velocity"
      ],
      "question": "The graph shows how the acceleration of an object varies with time. Which graph shows how its velocity varies with time? Graphs are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the acceleration-time graph and options A to D from the PDF; velocity changes by the area under the acceleration-time graph.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D",
+     "steps": [
+      "Velocity changes by the area under the acceleration-time graph, and the gradient of the velocity graph is the acceleration.",
+      "At t = 0 the acceleration is zero, so the velocity graph starts with zero gradient; then the acceleration increases, so the velocity graph gets steeper.",
+      "The acceleration increases at a decreasing rate to a near-constant value, so the velocity graph curves upwards with an increasing gradient (graph D)."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-15.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-16.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q16.jpg"
      ]
     },
     {
@@ -2859,6 +3237,9 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-16.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-17.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q17.jpg"
      ]
     },
     {
@@ -2876,12 +3257,20 @@ window.BANK.physics = {
       "options"
      ],
      "question": "The velocity-time graph for the motion of a ball is shown. Which statement correctly describes it? A dropped and rebounds to original position; B dropped and rebounds to a lower position; C thrown upwards and caught at original position; D thrown upwards and caught at a higher position. The graph is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the velocity-time graph from the PDF to see the sign and the area pattern of the velocities.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B: the ball is dropped and rebounds to a lower position",
+     "steps": [
+      "The velocity starts at zero and increases uniformly in one direction, so the ball is dropped from rest and falls with constant acceleration g.",
+      "At the dashed line the velocity changes sign, so the ball hits the ground and rebounds with a smaller speed than the impact speed.",
+      "The area under the graph gives the height: the area above the axis (the fall) is bigger than the area below the axis (the rebound).",
+      "The rebound speed is less, so the ball rises to a height lower than the original height."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-17.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-18.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q18.jpg"
      ]
     },
     {
@@ -2898,12 +3287,20 @@ window.BANK.physics = {
       "P and Q"
      ],
      "question": "Objects P and Q start at the same position at t = 0. Their velocity-time graphs are shown. Which statement describes their positions at t = 4 s? The graphs are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the two velocity-time graphs from the PDF; compare the areas under each graph from 0 to 4 s.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Q is further from the initial position than P",
+     "steps": [
+      "Displacement = area under the velocity-time graph.",
+      "For P: 0 to 2 s gives +1 x 2 = +2 m, and 2 to 4 s gives -1 x 2 = -2 m, so the displacement at 4 s is 0 and P is back at the start.",
+      "For Q: the velocity is positive throughout (rising from 0 to 1 m s^-1), so the area is positive (about 3 m) and Q is away from the start.",
+      "So Q is further from the initial position than P."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-17.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-18.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q19.jpg"
      ]
     },
     {
@@ -2930,7 +3327,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-18.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q21",
@@ -2946,12 +3344,18 @@ window.BANK.physics = {
       "expression"
      ],
      "question": "An object moves from rest with uniform acceleration for time t. X is the area under its acceleration-time graph from 0 to t. Which expression gives the distance moved? The options are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the four options from the PDF; the correct expression is distance = 0.5 X t.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: Xt/2",
+     "steps": [
+      "The area under an acceleration-time graph is the change in velocity: X = at, so the final velocity v = X (starting from rest).",
+      "Distance = average velocity x time = (0 + X)/2 x t = Xt/2."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-18.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-19.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q21.jpg"
      ]
     },
     {
@@ -2968,12 +3372,19 @@ window.BANK.physics = {
       "options"
      ],
      "question": "The graph shows how the velocity of an object varies with time. Which option describes its motion? A constant acceleration; B constant displacement; C decreasing acceleration; D decreasing displacement. The graph is not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the velocity-time graph from the PDF to see whether its gradient is constant, decreasing, or zero.",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: decreasing acceleration",
+     "steps": [
+      "The gradient of a velocity-time graph is the acceleration.",
+      "The graph is steep at the start and becomes less steep, so the gradient is decreasing: the acceleration decreases (the velocity keeps increasing, so it is not constant acceleration).",
+      "The graph does not show displacement, so B and D are not relevant."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-19.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-20.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q22.jpg"
      ]
     },
     {
@@ -3000,6 +3411,9 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-20.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q23.jpg"
      ]
     },
     {
@@ -3025,6 +3439,9 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-21.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q24.jpg"
      ]
     },
     {
@@ -3041,11 +3458,19 @@ window.BANK.physics = {
       "expression"
      ],
      "question": "The velocity-time graph for a train journey is shown. Which expression gives the distance travelled in time 2t? The options and graph are not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs the velocity-time graph and options from the PDF; the answer is the area under the graph from 0 to 2t.",
-     "steps": [],
+     "status": "ready",
+     "answer": "D: 5vt/2",
+     "steps": [
+      "Distance = area under the velocity-time graph from 0 to 2t.",
+      "0 to t: a trapezium with parallel sides 2v and v and width t, so area = (2v + v)/2 x t = 3vt/2.",
+      "t to 2t: a rectangle of height v and width t, so area = vt.",
+      "Total distance = 3vt/2 + vt = 5vt/2."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-21.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q25.jpg"
      ]
     },
     {
@@ -3072,6 +3497,9 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-22.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-23.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q26.jpg"
      ]
     },
     {
@@ -3088,12 +3516,19 @@ window.BANK.physics = {
       "bicycle ride"
      ],
      "question": "The velocity-time graph for part of the bicycle ride is shown. Determine the maximum acceleration of the person.",
-     "status": "pending",
-     "answer": "Needs the velocity-time graph from the PDF to read the steepest gradient.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 0.27 m s^-2 (accept 0.25 to 0.30 m s^-2)",
+     "steps": [
+      "Acceleration = gradient of the velocity-time graph, so the maximum acceleration is the gradient of the steepest part, from about 4 s to 16 s.",
+      "At t = 4 s the velocity is 1.8 m s^-1 and at t = 16 s it is 5.0 m s^-1 (use a large triangle on this straight section).",
+      "a = (5.0 - 1.8) / (16 - 4) = 3.2 / 12 = 0.27 m s^-2."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-22.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-23.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q26-2.jpg"
      ]
     },
     {
@@ -3110,12 +3545,19 @@ window.BANK.physics = {
       "options"
      ],
      "question": "An object has a constant non-zero acceleration. Which displacement-time graph could represent its motion? Options A to D are graphs not in the extracted text.",
-     "status": "pending",
-     "answer": "Needs graphs A to D from the PDF; the correct one is a curved (parabolic) displacement-time graph.",
-     "steps": [],
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "A constant non-zero acceleration means the velocity changes uniformly, so the displacement-time graph has a gradient that changes uniformly: a parabola.",
+      "A and C are straight lines (constant velocity, a = 0) and D is a straight line then flat (zero acceleration apart from a sudden stop).",
+      "B is a parabola (the gradient decreases steadily from positive through zero to negative: constant negative acceleration)."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-23.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-24.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q27.jpg"
      ]
     },
     {
@@ -3145,7 +3587,8 @@ window.BANK.physics = {
       "papers/physics/img/04-1C-SDT-Graphs-25.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-26.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q28b",
@@ -3161,14 +3604,23 @@ window.BANK.physics = {
       "terminal velocity"
      ],
      "question": "The displacement-time graph for the skydiver before the parachute opens is shown. Sketch the velocity-time graph for the same period.",
-     "status": "pending",
-     "answer": "Needs the displacement-time graph from the PDF; the sketch is the gradient of that curve, rising then levelling off at terminal velocity.",
-     "steps": [],
+     "status": "ready",
+     "answer": "Velocity (down negative): a curve from the origin starting with gradient about -9.8 m s^-2, flattening off to a constant terminal velocity of about -45 m s^-1 (about 10 s), then horizontal until 21 s.",
+     "steps": [
+      "Velocity is the gradient of the displacement-time graph: at t = 0 the gradient is zero, so the velocity graph starts at the origin.",
+      "The displacement curve gets steeper, so the speed increases, and the gradient of the velocity graph is largest at the beginning (about g), but the rate of increase falls as drag grows: the velocity curve flattens.",
+      "From about 10 s the displacement graph is a straight line, so the velocity is constant: gradient = (-800 - (-310)) / (21 - 10) = -45 m s^-1 (terminal velocity).",
+      "Sketch: start at (0, 0), curve down (negative) with decreasing steepness to a horizontal line at about -45 m s^-1 from about 10 s to 21 s."
+     ],
      "images": [
       "papers/physics/img/04-1C-SDT-Graphs-24.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-25.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-26.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-27.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/04-1C-SDT-Graphs-Q28.jpg",
+      "papers/physics/fig/04-1C-SDT-Graphs-Q28-2.jpg"
      ]
     },
     {
@@ -3199,7 +3651,8 @@ window.BANK.physics = {
       "papers/physics/img/04-1C-SDT-Graphs-25.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-26.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1C-Q28d",
@@ -3230,7 +3683,8 @@ window.BANK.physics = {
       "papers/physics/img/04-1C-SDT-Graphs-25.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-26.jpg",
       "papers/physics/img/04-1C-SDT-Graphs-27.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -3268,7 +3722,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-01.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q2",
@@ -3298,7 +3753,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-01.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q3",
@@ -3322,7 +3778,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-01.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q4a",
@@ -3346,7 +3803,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-02.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q4b",
@@ -3370,7 +3828,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-02.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q5",
@@ -3401,7 +3860,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-04.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-05.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q6a(i)",
@@ -3426,7 +3886,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-04.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-05.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q6a(ii)",
@@ -3458,7 +3919,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-04.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-05.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q6b",
@@ -3489,7 +3951,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-04.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-05.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q7a",
@@ -3519,7 +3982,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-06.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-07.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q7b",
@@ -3551,7 +4015,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-06.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-07.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q7c",
@@ -3581,7 +4046,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-06.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-07.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q8",
@@ -3611,7 +4077,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-08.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q9a",
@@ -3640,7 +4107,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-09.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q9b",
@@ -3668,7 +4136,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-09.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q10",
@@ -3698,7 +4167,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-10.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-11.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q11a",
@@ -3730,7 +4200,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-10.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-11.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q11b",
@@ -3760,7 +4231,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-10.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-11.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q12",
@@ -3784,7 +4256,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-12.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q13",
@@ -3808,7 +4281,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-13.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q14",
@@ -3833,7 +4307,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-14.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-15.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q15",
@@ -3863,7 +4338,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q16",
@@ -3892,7 +4368,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-17.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q17",
@@ -3921,7 +4398,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-17.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q18",
@@ -3949,7 +4427,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q19",
@@ -3976,7 +4455,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q20",
@@ -3999,7 +4479,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q21",
@@ -4023,7 +4504,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-19.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q22",
@@ -4047,7 +4529,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-19.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q23a",
@@ -4078,7 +4561,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-20.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q23b",
@@ -4102,7 +4586,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-20.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q24a",
@@ -4132,7 +4617,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-22.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q24b",
@@ -4156,7 +4642,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-22.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q25a",
@@ -4182,7 +4669,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-24.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-25.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q25b(i)",
@@ -4214,7 +4702,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-24.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-25.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q25b(ii)",
@@ -4246,7 +4735,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-24.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-25.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q25b(iii)",
@@ -4272,7 +4762,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-24.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-25.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q25c(i)",
@@ -4303,7 +4794,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-24.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-25.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q25c(ii)",
@@ -4335,7 +4827,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-24.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-25.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q26",
@@ -4364,7 +4857,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-26.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q27a",
@@ -4388,7 +4882,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-27.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q27b(i)",
@@ -4417,7 +4912,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-27.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q27b(ii)",
@@ -4446,7 +4942,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-27.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q27b(iii)",
@@ -4475,7 +4972,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-27.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q28",
@@ -4499,7 +4997,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-28.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q29a",
@@ -4523,7 +5022,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-29.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q29b",
@@ -4547,7 +5047,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-29.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q30a",
@@ -4571,7 +5072,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-30.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q30b",
@@ -4602,7 +5104,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-30.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q31",
@@ -4631,7 +5134,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-31.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q32",
@@ -4660,7 +5164,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-32.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q33",
@@ -4684,7 +5189,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-32.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q34",
@@ -4708,7 +5214,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-33.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q35a",
@@ -4733,7 +5240,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-34.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-35.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q35b(i)",
@@ -4763,7 +5271,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-34.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-35.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q35b(ii)",
@@ -4794,7 +5303,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-34.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-35.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q35c",
@@ -4826,7 +5336,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-34.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-35.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q36",
@@ -4850,7 +5361,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-36.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q37",
@@ -4879,7 +5391,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-36.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q38",
@@ -4908,7 +5421,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-37.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q39",
@@ -4932,7 +5446,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-37.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q40",
@@ -4962,7 +5477,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-38.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q41",
@@ -4986,7 +5502,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-39.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q42",
@@ -5014,7 +5531,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-40.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q43",
@@ -5042,7 +5560,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-40.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q44",
@@ -5066,7 +5585,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-41.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q45",
@@ -5090,7 +5610,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-41.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q46",
@@ -5119,7 +5640,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-42.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q47",
@@ -5148,7 +5670,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-43.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q48",
@@ -5172,7 +5695,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-43.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q49a(i)",
@@ -5202,7 +5726,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-44.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-45.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q49a(ii)",
@@ -5232,7 +5757,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-44.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-45.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q49b",
@@ -5263,7 +5789,8 @@ window.BANK.physics = {
       "papers/physics/img/05-1D-Newtons-Laws-44.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-45.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1D-Q50",
@@ -5287,7 +5814,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/05-1D-Newtons-Laws-46.jpg",
       "papers/physics/img/05-1D-Newtons-Laws-47.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -5323,7 +5851,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-01.jpg",
       "papers/physics/img/06-1E-Power-Energy-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q1b(i)",
@@ -5353,7 +5882,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-01.jpg",
       "papers/physics/img/06-1E-Power-Energy-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q1b(ii)",
@@ -5380,7 +5910,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-01.jpg",
       "papers/physics/img/06-1E-Power-Energy-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q1c",
@@ -5408,7 +5939,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-01.jpg",
       "papers/physics/img/06-1E-Power-Energy-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q2a",
@@ -5435,7 +5967,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-02.jpg",
       "papers/physics/img/06-1E-Power-Energy-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q2b",
@@ -5462,7 +5995,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-02.jpg",
       "papers/physics/img/06-1E-Power-Energy-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q3",
@@ -5490,7 +6024,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-03.jpg",
       "papers/physics/img/06-1E-Power-Energy-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q4a",
@@ -5517,7 +6052,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-04.jpg",
       "papers/physics/img/06-1E-Power-Energy-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q4b(i)",
@@ -5544,7 +6080,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-04.jpg",
       "papers/physics/img/06-1E-Power-Energy-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q4b(ii)",
@@ -5567,7 +6104,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-04.jpg",
       "papers/physics/img/06-1E-Power-Energy-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q5",
@@ -5588,7 +6126,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-05.jpg",
       "papers/physics/img/06-1E-Power-Energy-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q6",
@@ -5615,7 +6154,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-05.jpg",
       "papers/physics/img/06-1E-Power-Energy-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q7",
@@ -5637,7 +6177,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-06.jpg",
       "papers/physics/img/06-1E-Power-Energy-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q8",
@@ -5659,7 +6200,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-06.jpg",
       "papers/physics/img/06-1E-Power-Energy-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q9",
@@ -5682,7 +6224,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-07.jpg",
       "papers/physics/img/06-1E-Power-Energy-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q10",
@@ -5705,7 +6248,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-07.jpg",
       "papers/physics/img/06-1E-Power-Energy-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q11",
@@ -5728,7 +6272,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-08.jpg",
       "papers/physics/img/06-1E-Power-Energy-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q12",
@@ -5750,7 +6295,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-08.jpg",
       "papers/physics/img/06-1E-Power-Energy-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q13",
@@ -5777,7 +6323,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q14",
@@ -5799,7 +6346,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q15",
@@ -5821,7 +6369,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q16",
@@ -5842,7 +6391,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-11.jpg",
       "papers/physics/img/06-1E-Power-Energy-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q17",
@@ -5865,7 +6415,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-11.jpg",
       "papers/physics/img/06-1E-Power-Energy-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q18",
@@ -5889,7 +6440,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-12.jpg",
       "papers/physics/img/06-1E-Power-Energy-13.jpg",
       "papers/physics/img/06-1E-Power-Energy-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q19a",
@@ -5917,7 +6469,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-12.jpg",
       "papers/physics/img/06-1E-Power-Energy-13.jpg",
       "papers/physics/img/06-1E-Power-Energy-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q19b",
@@ -5948,7 +6501,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-12.jpg",
       "papers/physics/img/06-1E-Power-Energy-13.jpg",
       "papers/physics/img/06-1E-Power-Energy-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q19c",
@@ -5977,7 +6531,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-12.jpg",
       "papers/physics/img/06-1E-Power-Energy-13.jpg",
       "papers/physics/img/06-1E-Power-Energy-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q20",
@@ -6000,7 +6555,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-14.jpg",
       "papers/physics/img/06-1E-Power-Energy-15.jpg",
       "papers/physics/img/06-1E-Power-Energy-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q21a",
@@ -6029,7 +6585,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-14.jpg",
       "papers/physics/img/06-1E-Power-Energy-15.jpg",
       "papers/physics/img/06-1E-Power-Energy-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q21b",
@@ -6058,7 +6615,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-14.jpg",
       "papers/physics/img/06-1E-Power-Energy-15.jpg",
       "papers/physics/img/06-1E-Power-Energy-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q22a",
@@ -6086,7 +6644,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-16.jpg",
       "papers/physics/img/06-1E-Power-Energy-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q22b",
@@ -6115,7 +6674,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-16.jpg",
       "papers/physics/img/06-1E-Power-Energy-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q22c",
@@ -6142,7 +6702,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-16.jpg",
       "papers/physics/img/06-1E-Power-Energy-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q23",
@@ -6165,7 +6726,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-17.jpg",
       "papers/physics/img/06-1E-Power-Energy-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q24a",
@@ -6192,7 +6754,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-17.jpg",
       "papers/physics/img/06-1E-Power-Energy-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q24b",
@@ -6220,7 +6783,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-17.jpg",
       "papers/physics/img/06-1E-Power-Energy-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q24c",
@@ -6248,7 +6812,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-17.jpg",
       "papers/physics/img/06-1E-Power-Energy-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q25a",
@@ -6276,7 +6841,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-18.jpg",
       "papers/physics/img/06-1E-Power-Energy-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q25b",
@@ -6304,7 +6870,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-18.jpg",
       "papers/physics/img/06-1E-Power-Energy-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q26a",
@@ -6331,7 +6898,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-19.jpg",
       "papers/physics/img/06-1E-Power-Energy-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q26b",
@@ -6359,7 +6927,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-19.jpg",
       "papers/physics/img/06-1E-Power-Energy-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q27",
@@ -6386,7 +6955,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q28",
@@ -6407,7 +6977,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q29",
@@ -6430,7 +7001,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-21.jpg",
       "papers/physics/img/06-1E-Power-Energy-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q30a",
@@ -6458,7 +7030,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-21.jpg",
       "papers/physics/img/06-1E-Power-Energy-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q30b",
@@ -6488,7 +7061,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-21.jpg",
       "papers/physics/img/06-1E-Power-Energy-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q31",
@@ -6510,7 +7084,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-22.jpg",
       "papers/physics/img/06-1E-Power-Energy-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q32a",
@@ -6539,7 +7114,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-23.jpg",
       "papers/physics/img/06-1E-Power-Energy-24.jpg",
       "papers/physics/img/06-1E-Power-Energy-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q32b",
@@ -6568,7 +7144,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-23.jpg",
       "papers/physics/img/06-1E-Power-Energy-24.jpg",
       "papers/physics/img/06-1E-Power-Energy-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q32c",
@@ -6592,7 +7169,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-23.jpg",
       "papers/physics/img/06-1E-Power-Energy-24.jpg",
       "papers/physics/img/06-1E-Power-Energy-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q33a(i)",
@@ -6616,7 +7194,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-26.jpg",
       "papers/physics/img/06-1E-Power-Energy-27.jpg",
       "papers/physics/img/06-1E-Power-Energy-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q33a(ii)",
@@ -6639,7 +7218,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-26.jpg",
       "papers/physics/img/06-1E-Power-Energy-27.jpg",
       "papers/physics/img/06-1E-Power-Energy-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q33a(iii)",
@@ -6669,7 +7249,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-26.jpg",
       "papers/physics/img/06-1E-Power-Energy-27.jpg",
       "papers/physics/img/06-1E-Power-Energy-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q33b(i)",
@@ -6694,7 +7275,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-26.jpg",
       "papers/physics/img/06-1E-Power-Energy-27.jpg",
       "papers/physics/img/06-1E-Power-Energy-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q33b(ii)",
@@ -6724,7 +7306,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-26.jpg",
       "papers/physics/img/06-1E-Power-Energy-27.jpg",
       "papers/physics/img/06-1E-Power-Energy-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q34",
@@ -6746,7 +7329,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-28.jpg",
       "papers/physics/img/06-1E-Power-Energy-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q35",
@@ -6774,7 +7358,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-28.jpg",
       "papers/physics/img/06-1E-Power-Energy-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q36",
@@ -6802,7 +7387,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-29.jpg",
       "papers/physics/img/06-1E-Power-Energy-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q37a",
@@ -6830,7 +7416,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-29.jpg",
       "papers/physics/img/06-1E-Power-Energy-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q37b",
@@ -6858,7 +7445,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-29.jpg",
       "papers/physics/img/06-1E-Power-Energy-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q37c",
@@ -6885,7 +7473,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-29.jpg",
       "papers/physics/img/06-1E-Power-Energy-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q37d",
@@ -6912,7 +7501,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-29.jpg",
       "papers/physics/img/06-1E-Power-Energy-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q38a",
@@ -6934,7 +7524,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q38b",
@@ -6956,7 +7547,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/06-1E-Power-Energy-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q39a",
@@ -6984,7 +7576,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-32.jpg",
       "papers/physics/img/06-1E-Power-Energy-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q39b",
@@ -7012,7 +7605,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-32.jpg",
       "papers/physics/img/06-1E-Power-Energy-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q39c",
@@ -7039,7 +7633,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-32.jpg",
       "papers/physics/img/06-1E-Power-Energy-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q40a",
@@ -7067,7 +7662,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-33.jpg",
       "papers/physics/img/06-1E-Power-Energy-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q40b",
@@ -7090,7 +7686,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-33.jpg",
       "papers/physics/img/06-1E-Power-Energy-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q41",
@@ -7116,7 +7713,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-34.jpg",
       "papers/physics/img/06-1E-Power-Energy-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q42",
@@ -7144,7 +7742,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-35.jpg",
       "papers/physics/img/06-1E-Power-Energy-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q43",
@@ -7171,7 +7770,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-35.jpg",
       "papers/physics/img/06-1E-Power-Energy-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q44a",
@@ -7198,7 +7798,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-35.jpg",
       "papers/physics/img/06-1E-Power-Energy-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q44b",
@@ -7226,7 +7827,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-35.jpg",
       "papers/physics/img/06-1E-Power-Energy-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q45a(i)",
@@ -7253,7 +7855,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-36.jpg",
       "papers/physics/img/06-1E-Power-Energy-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q45a(ii)",
@@ -7281,7 +7884,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-36.jpg",
       "papers/physics/img/06-1E-Power-Energy-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q45b",
@@ -7309,7 +7913,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-36.jpg",
       "papers/physics/img/06-1E-Power-Energy-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q46",
@@ -7332,7 +7937,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-38.jpg",
       "papers/physics/img/06-1E-Power-Energy-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q47",
@@ -7354,7 +7960,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-38.jpg",
       "papers/physics/img/06-1E-Power-Energy-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q48a",
@@ -7381,7 +7988,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-39.jpg",
       "papers/physics/img/06-1E-Power-Energy-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q48b(i)",
@@ -7409,7 +8017,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-39.jpg",
       "papers/physics/img/06-1E-Power-Energy-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q48b(ii)",
@@ -7438,7 +8047,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-39.jpg",
       "papers/physics/img/06-1E-Power-Energy-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q49",
@@ -7465,7 +8075,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-40.jpg",
       "papers/physics/img/06-1E-Power-Energy-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q50",
@@ -7487,7 +8098,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-41.jpg",
       "papers/physics/img/06-1E-Power-Energy-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q51",
@@ -7510,7 +8122,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-41.jpg",
       "papers/physics/img/06-1E-Power-Energy-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q52a",
@@ -7537,7 +8150,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-42.jpg",
       "papers/physics/img/06-1E-Power-Energy-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q52b",
@@ -7565,7 +8179,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-42.jpg",
       "papers/physics/img/06-1E-Power-Energy-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q53a",
@@ -7595,7 +8210,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-43.jpg",
       "papers/physics/img/06-1E-Power-Energy-44.jpg",
       "papers/physics/img/06-1E-Power-Energy-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q53b",
@@ -7624,7 +8240,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-43.jpg",
       "papers/physics/img/06-1E-Power-Energy-44.jpg",
       "papers/physics/img/06-1E-Power-Energy-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q54a",
@@ -7652,7 +8269,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-45.jpg",
       "papers/physics/img/06-1E-Power-Energy-46.jpg",
       "papers/physics/img/06-1E-Power-Energy-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q54b",
@@ -7675,7 +8293,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-45.jpg",
       "papers/physics/img/06-1E-Power-Energy-46.jpg",
       "papers/physics/img/06-1E-Power-Energy-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q54c",
@@ -7703,7 +8322,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-45.jpg",
       "papers/physics/img/06-1E-Power-Energy-46.jpg",
       "papers/physics/img/06-1E-Power-Energy-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q54d",
@@ -7733,7 +8353,8 @@ window.BANK.physics = {
       "papers/physics/img/06-1E-Power-Energy-45.jpg",
       "papers/physics/img/06-1E-Power-Energy-46.jpg",
       "papers/physics/img/06-1E-Power-Energy-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1E-Q55",
@@ -7761,7 +8382,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/06-1E-Power-Energy-47.jpg",
       "papers/physics/img/06-1E-Power-Energy-48.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -7799,7 +8421,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-01.jpg",
       "papers/physics/img/07-1F-Momentum-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q2",
@@ -7828,7 +8451,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-01.jpg",
       "papers/physics/img/07-1F-Momentum-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q3a",
@@ -7857,6 +8481,9 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-02.jpg",
       "papers/physics/img/07-1F-Momentum-03.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/07-1F-Momentum-Q3.jpg"
      ]
     },
     {
@@ -7874,13 +8501,21 @@ window.BANK.physics = {
       "friction",
       "velocity"
      ],
-     "question": "Identical trolley B is at rest at the bottom of the slope. Trolley A rolls down, collides with B, and they move off together at velocity v. Assess whether the student's prediction (stated in the PDF) was correct, ignoring friction.",
-     "status": "pending",
-     "answer": "The student's prediction is missing from the text (a blank in the question); check the PDF for the stated prediction before assessing.",
-     "steps": [],
+     "question": "Identical trolley B is at rest at the bottom of the slope. Trolley A (released from height h as before) rolls down, collides with B, and the two trolleys join together and move off at velocity v. The student predicted that, provided friction was ignored, v = sqrt(gh/2). Assess whether the student was correct.",
+     "status": "ready",
+     "answer": "The student was correct: v = sqrt(gh/2).",
+     "steps": [
+      "Speed of A at the bottom (no friction): mgh = (1/2)mu^2, so u = sqrt(2gh).",
+      "The trolleys have equal mass m and join together, so momentum is conserved: mu = (m + m)v.",
+      "v = u/2 = sqrt(2gh)/2 = sqrt(2gh/4) = sqrt(gh/2).",
+      "This matches the prediction, so the student was correct (kinetic energy is not conserved in this collision, but momentum is)."
+     ],
      "images": [
       "papers/physics/img/07-1F-Momentum-02.jpg",
       "papers/physics/img/07-1F-Momentum-03.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/07-1F-Momentum-Q3-2.jpg"
      ]
     },
     {
@@ -7911,7 +8546,8 @@ window.BANK.physics = {
       "papers/physics/img/07-1F-Momentum-03.jpg",
       "papers/physics/img/07-1F-Momentum-04.jpg",
       "papers/physics/img/07-1F-Momentum-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q4b",
@@ -7942,7 +8578,8 @@ window.BANK.physics = {
       "papers/physics/img/07-1F-Momentum-03.jpg",
       "papers/physics/img/07-1F-Momentum-04.jpg",
       "papers/physics/img/07-1F-Momentum-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q5a",
@@ -7972,7 +8609,8 @@ window.BANK.physics = {
       "papers/physics/img/07-1F-Momentum-05.jpg",
       "papers/physics/img/07-1F-Momentum-06.jpg",
       "papers/physics/img/07-1F-Momentum-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q5b",
@@ -8001,7 +8639,8 @@ window.BANK.physics = {
       "papers/physics/img/07-1F-Momentum-05.jpg",
       "papers/physics/img/07-1F-Momentum-06.jpg",
       "papers/physics/img/07-1F-Momentum-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q5c",
@@ -8032,7 +8671,8 @@ window.BANK.physics = {
       "papers/physics/img/07-1F-Momentum-05.jpg",
       "papers/physics/img/07-1F-Momentum-06.jpg",
       "papers/physics/img/07-1F-Momentum-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q6a(i)",
@@ -8050,12 +8690,19 @@ window.BANK.physics = {
       "83 ms"
      ],
      "question": "Photographs show a popcorn kernel just before popping and at its maximum height after popping, 83 ms apart. Determine the maximum height after popping.",
-     "status": "pending",
-     "answer": "Needs the photographs in the PDF to read the height scale and the kernel's position at maximum height.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 3.5 cm (accept roughly 3.2 to 3.7 cm)",
+     "steps": [
+      "The 1 cm scale bar on the page is the reference length.",
+      "Measure how far the kernel has risen between the two photographs (centre of the unpopped kernel to centre of the popped kernel): about 3.5 times the scale-bar length.",
+      "Maximum height = 3.5 x 1 cm = 3.5 cm = 0.035 m."
+     ],
      "images": [
       "papers/physics/img/07-1F-Momentum-07.jpg",
       "papers/physics/img/07-1F-Momentum-08.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/07-1F-Momentum-Q6.jpg"
      ]
     },
     {
@@ -8074,12 +8721,20 @@ window.BANK.physics = {
       "velocity"
      ],
      "question": "Calculate the initial speed of the popped popcorn kernel, using the photographs taken 83 ms apart.",
-     "status": "pending",
-     "answer": "Depends on the maximum height from part (i) and the timing shown in the PDF photographs; check against the PDF.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 0.84 m s^-1 (roughly 0.8 m s^-1)",
+     "steps": [
+      "At maximum height the kernel is momentarily at rest, so v = 0. Use h = 0.035 m from part (i) and t = 83 ms = 0.083 s.",
+      "Use s = ((u + v)/2) t: 0.035 = (u/2)(0.083).",
+      "u = 2 x 0.035 / 0.083 = 0.84 m s^-1.",
+      "Check with u = gt = 9.81 x 0.083 = 0.81 m s^-1, so the result is about 0.8 m s^-1."
+     ],
      "images": [
       "papers/physics/img/07-1F-Momentum-07.jpg",
       "papers/physics/img/07-1F-Momentum-08.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/07-1F-Momentum-Q6.jpg"
      ]
     },
     {
@@ -8109,7 +8764,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-07.jpg",
       "papers/physics/img/07-1F-Momentum-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q7",
@@ -8136,7 +8792,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/07-1F-Momentum-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q8",
@@ -8164,7 +8821,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-09.jpg",
       "papers/physics/img/07-1F-Momentum-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q9a(i)",
@@ -8193,7 +8851,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-09.jpg",
       "papers/physics/img/07-1F-Momentum-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q9a(ii)",
@@ -8220,7 +8879,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-09.jpg",
       "papers/physics/img/07-1F-Momentum-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q9a(iii)",
@@ -8248,7 +8908,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-09.jpg",
       "papers/physics/img/07-1F-Momentum-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q9b",
@@ -8277,7 +8938,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-09.jpg",
       "papers/physics/img/07-1F-Momentum-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q10a",
@@ -8305,7 +8967,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-10.jpg",
       "papers/physics/img/07-1F-Momentum-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q10b",
@@ -8333,7 +8996,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-10.jpg",
       "papers/physics/img/07-1F-Momentum-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q10c",
@@ -8362,7 +9026,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-10.jpg",
       "papers/physics/img/07-1F-Momentum-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q11a",
@@ -8389,7 +9054,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-11.jpg",
       "papers/physics/img/07-1F-Momentum-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q11b",
@@ -8418,7 +9084,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-11.jpg",
       "papers/physics/img/07-1F-Momentum-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q12a",
@@ -8446,7 +9113,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-13.jpg",
       "papers/physics/img/07-1F-Momentum-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q12b",
@@ -8475,7 +9143,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-13.jpg",
       "papers/physics/img/07-1F-Momentum-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q12c",
@@ -8504,7 +9173,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-13.jpg",
       "papers/physics/img/07-1F-Momentum-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q13a",
@@ -8531,7 +9201,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-13.jpg",
       "papers/physics/img/07-1F-Momentum-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q13b(i)",
@@ -8559,7 +9230,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-13.jpg",
       "papers/physics/img/07-1F-Momentum-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q13b(ii)",
@@ -8588,7 +9260,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-13.jpg",
       "papers/physics/img/07-1F-Momentum-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q14",
@@ -8616,7 +9289,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-15.jpg",
       "papers/physics/img/07-1F-Momentum-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q15a",
@@ -8645,7 +9319,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-15.jpg",
       "papers/physics/img/07-1F-Momentum-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q15b",
@@ -8674,7 +9349,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-15.jpg",
       "papers/physics/img/07-1F-Momentum-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q16a",
@@ -8691,14 +9367,22 @@ window.BANK.physics = {
       "orbital module",
       "service module"
      ],
-     "question": "Before entering the atmosphere, the orbital module (1350 kg) and service module (2100 kg) move away from the descent module (2950 kg) in opposite directions. Determine the velocity of the descent module after separation.",
-     "status": "pending",
-     "answer": "Needs the velocities of the orbital and service modules from the diagram in the PDF, which are not in the text.",
-     "steps": [],
+     "question": "Before entering the atmosphere, the orbital module O (1350 kg) moves away from the descent module D (2950 kg) at 0.82 m s^-1 to the left, and the service module S (2100 kg) moves away at 0.58 m s^-1 to the right. Considering momentum along the horizontal line through the centres, determine the magnitude and direction of the velocity v of the descent module after separation (total momentum was zero before separation).",
+     "status": "ready",
+     "answer": "v = 0.038 m s^-1 (3.8 x 10^-2) to the left",
+     "steps": [
+      "Total momentum is conserved and was zero before the modules separated. Take right as positive.",
+      "0 = 2100(0.58) + 2950v + 1350(-0.82).",
+      "0 = 1218 + 2950v - 1107, so 2950v = -111.",
+      "v = -0.0376 m s^-1: magnitude 0.038 m s^-1, directed to the left (the same way as module O)."
+     ],
      "images": [
       "papers/physics/img/07-1F-Momentum-16.jpg",
       "papers/physics/img/07-1F-Momentum-17.jpg",
       "papers/physics/img/07-1F-Momentum-18.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/07-1F-Momentum-Q16.jpg"
      ]
     },
     {
@@ -8729,7 +9413,8 @@ window.BANK.physics = {
       "papers/physics/img/07-1F-Momentum-16.jpg",
       "papers/physics/img/07-1F-Momentum-17.jpg",
       "papers/physics/img/07-1F-Momentum-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q16b(ii)",
@@ -8758,7 +9443,8 @@ window.BANK.physics = {
       "papers/physics/img/07-1F-Momentum-16.jpg",
       "papers/physics/img/07-1F-Momentum-17.jpg",
       "papers/physics/img/07-1F-Momentum-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q17a",
@@ -8784,7 +9470,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/07-1F-Momentum-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q17b(i)",
@@ -8812,7 +9499,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/07-1F-Momentum-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q17b(ii)",
@@ -8840,7 +9528,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/07-1F-Momentum-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q18a",
@@ -8858,13 +9547,21 @@ window.BANK.physics = {
       "velocity"
      ],
      "question": "A graph shows how the velocity of a skittle varies with time during its collision with a ball. Determine the average acceleration of the skittle during the collision.",
-     "status": "pending",
-     "answer": "Needs the velocity-time graph from the PDF to read the initial and final velocities and the collision time.",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 95 m s^-2 (accept 90 to 100 m s^-2)",
+     "steps": [
+      "Read the graph: the skittle starts to speed up at about 17 ms and its velocity levels off at 2.85 m s^-1 at about 47 ms.",
+      "Change in velocity = 2.85 - 0 = 2.85 m s^-1 in a time of about (47 - 17) ms = 0.030 s.",
+      "Average acceleration = change in velocity / time = 2.85 / 0.030 = 95 m s^-2.",
+      "Check: the steep straight part of the graph has gradient about 2.3 m s^-1 per 23.5 ms = 99 m s^-2, consistent with this."
+     ],
      "images": [
       "papers/physics/img/07-1F-Momentum-19.jpg",
       "papers/physics/img/07-1F-Momentum-20.jpg",
       "papers/physics/img/07-1F-Momentum-21.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/07-1F-Momentum-Q18.jpg"
      ]
     },
     {
@@ -8897,7 +9594,8 @@ window.BANK.physics = {
       "papers/physics/img/07-1F-Momentum-19.jpg",
       "papers/physics/img/07-1F-Momentum-20.jpg",
       "papers/physics/img/07-1F-Momentum-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q18c",
@@ -8927,7 +9625,8 @@ window.BANK.physics = {
       "papers/physics/img/07-1F-Momentum-19.jpg",
       "papers/physics/img/07-1F-Momentum-20.jpg",
       "papers/physics/img/07-1F-Momentum-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q19",
@@ -8944,15 +9643,20 @@ window.BANK.physics = {
       "conservation",
       "hit"
      ],
-     "question": "A bat hits a stationary ball of mass m; the bat's momentum decreases by p and the ball then moves at v. The bat then hits a stationary ball of mass 3m, reducing its momentum by 2p. Which expression gives the velocity of the 3m ball?",
-     "status": "pending",
-     "answer": "Needs the four expression options from the PDF (not in the text). Expected result: 2v/3.",
-     "steps": [],
+     "question": "A student uses a wooden bat to hit a stationary ball of mass m. As the bat hits the ball, the momentum of the bat decreases by Delta p, and the ball then moves with velocity v. The student then uses the bat to hit a stationary ball of mass 3m, and the momentum of the bat decreases by 2 Delta p. Which expression gives the velocity of the ball of mass 3m after being hit? A: (1/6)v, B: (2/3)v, C: (3/2)v, D: 6v.",
+     "status": "ready",
+     "answer": "B: (2/3)v",
+     "steps": [
+      "The ball starts at rest and the bat loses momentum Delta p, so by conservation of momentum the ball gains Delta p: mv = Delta p.",
+      "Second hit: the bat loses 2 Delta p, so the 3m ball gains 2 Delta p: 3m v2 = 2 Delta p = 2mv.",
+      "v2 = 2v/3, which is option B. (A, C and D come from inverting the ratio or mixing up the masses.)"
+     ],
      "images": [
       "papers/physics/img/07-1F-Momentum-21.jpg",
       "papers/physics/img/07-1F-Momentum-22.jpg",
       "papers/physics/img/07-1F-Momentum-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q20a",
@@ -8982,7 +9686,8 @@ window.BANK.physics = {
       "papers/physics/img/07-1F-Momentum-21.jpg",
       "papers/physics/img/07-1F-Momentum-22.jpg",
       "papers/physics/img/07-1F-Momentum-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q20b",
@@ -9011,7 +9716,8 @@ window.BANK.physics = {
       "papers/physics/img/07-1F-Momentum-21.jpg",
       "papers/physics/img/07-1F-Momentum-22.jpg",
       "papers/physics/img/07-1F-Momentum-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q20c",
@@ -9041,7 +9747,8 @@ window.BANK.physics = {
       "papers/physics/img/07-1F-Momentum-21.jpg",
       "papers/physics/img/07-1F-Momentum-22.jpg",
       "papers/physics/img/07-1F-Momentum-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q21",
@@ -9058,13 +9765,20 @@ window.BANK.physics = {
       "mass 3m",
       "conservation"
      ],
-     "question": "A toy train of mass 3m moves at speed v and a toy truck of mass m moves at 2v in the opposite direction. They collide and move off together. Which expression gives their new speed?",
-     "status": "pending",
-     "answer": "Needs the four options from the PDF (not in the text). Expected result: v/4, in the direction the train was moving.",
-     "steps": [],
+     "question": "A toy train of mass 3m is moving with speed v. A toy truck of mass m is moving with speed 2v in the opposite direction. The train and truck collide and move off together. Which expression gives the new speed of the train and truck? A: v/4, B: 4v/5, C: v, D: 5v/4.",
+     "status": "ready",
+     "answer": "A: v/4 (in the direction the train was moving)",
+     "steps": [
+      "Take the train's direction as positive. Total momentum before = 3m(v) + m(-2v) = mv.",
+      "After the collision they move together with mass 4m: 4mV = mv.",
+      "V = v/4, positive, so they move off at v/4 in the train's original direction: option A."
+     ],
      "images": [
       "papers/physics/img/07-1F-Momentum-23.jpg",
       "papers/physics/img/07-1F-Momentum-24.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/07-1F-Momentum-Q21.jpg"
      ]
     },
     {
@@ -9093,7 +9807,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/07-1F-Momentum-23.jpg",
       "papers/physics/img/07-1F-Momentum-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1F-Q22b",
@@ -9110,13 +9825,21 @@ window.BANK.physics = {
       "conservation",
       "prediction"
      ],
-     "question": "Gliders A and B have different masses and velocities before they stick together. A student predicts they will move to the left after the collision. Deduce whether the prediction is correct.",
-     "status": "pending",
-     "answer": "Needs the masses and velocities of A and B from the diagram in the PDF to work out the direction of the total momentum.",
-     "steps": [],
+     "question": "Glider A (0.15 kg) moves to the right at 0.32 m s^-1 and glider B (0.20 kg) moves to the left at 0.11 m s^-1 on an air track. The gliders stick together in the collision. A student predicts that the gliders will move to the left after the collision. Deduce whether the prediction is correct.",
+     "status": "ready",
+     "answer": "The prediction is incorrect: the gliders move to the right at about 0.074 m s^-1",
+     "steps": [
+      "Take right as positive. Momentum before = 0.15(0.32) + 0.20(-0.11) = 0.048 - 0.022 = +0.026 kg m s^-1.",
+      "Momentum is conserved and the combined mass is 0.35 kg: 0.35 v = 0.026.",
+      "v = +0.074 m s^-1. This is positive, so the gliders move to the right.",
+      "So the student's prediction (to the left) is not correct."
+     ],
      "images": [
       "papers/physics/img/07-1F-Momentum-23.jpg",
       "papers/physics/img/07-1F-Momentum-24.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/07-1F-Momentum-Q22.jpg"
      ]
     }
    ]
@@ -9157,7 +9880,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/08-1G-Moments-01.jpg",
       "papers/physics/img/08-1G-Moments-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q1b",
@@ -9187,7 +9911,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/08-1G-Moments-01.jpg",
       "papers/physics/img/08-1G-Moments-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q2",
@@ -9216,7 +9941,8 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-02.jpg",
       "papers/physics/img/08-1G-Moments-03.jpg",
       "papers/physics/img/08-1G-Moments-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q3a",
@@ -9234,13 +9960,22 @@ window.BANK.physics = {
       "pivot"
      ],
      "question": "A lorry exerts 4.2 x 10^5 N on a bridge of weight 9.8 x 10^5 N supported by two columns giving forces P and Q. The lorry is 35 m from point X. Calculate P and Q by taking moments about X.",
-     "status": "pending",
-     "answer": "Needs the diagram to check the positions of P, Q, the lorry and the bridge centre relative to point X",
-     "steps": [],
+     "status": "ready",
+     "answer": "Q = 6.1 x 10^5 N (6.125 x 10^5 N); P = 7.9 x 10^5 N (7.875 x 10^5 N)",
+     "steps": [
+      "From the diagram, with X at the left end: the lorry is 35 m from X, the bridge weight acts at its centre 35 + 25 = 60 m from X, and Q acts at 35 + 25 + 60 = 120 m from X.",
+      "Take moments about X (P acts through X so has no moment): Q x 120 = (4.2 x 10^5 x 35) + (9.8 x 10^5 x 60).",
+      "Q x 120 = 1.47 x 10^7 + 5.88 x 10^7 = 7.35 x 10^7, so Q = 6.1 x 10^5 N.",
+      "Vertical equilibrium: P + Q = 4.2 x 10^5 + 9.8 x 10^5 = 1.40 x 10^6 N.",
+      "P = 1.40 x 10^6 - 6.125 x 10^5 = 7.9 x 10^5 N."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-02.jpg",
       "papers/physics/img/08-1G-Moments-03.jpg",
       "papers/physics/img/08-1G-Moments-04.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q3.jpg"
      ]
     },
     {
@@ -9258,13 +9993,22 @@ window.BANK.physics = {
       "reaction force"
      ],
      "question": "Explain why force Q increases as the lorry moves across the bridge.",
-     "status": "pending",
-     "answer": "Needs the diagram to confirm which column gives Q and where the lorry moves relative to it and to point X",
-     "steps": [],
+     "status": "ready",
+     "answer": "Moving the lorry towards the Q end increases its moment about X, so Q must increase to keep the bridge in equilibrium (and P falls).",
+     "steps": [
+      "The bridge is in equilibrium, so moments about X balance: Q x 120 = (weight of bridge x 60) + (lorry weight x d), where d is the lorry's distance from X.",
+      "The bridge weight and the lorry weight stay the same, but d increases as the lorry moves towards the Q end.",
+      "So the moment of the lorry's weight about X increases, while the distance from X to Q (120 m) stays fixed.",
+      "Therefore Q must increase to give a larger balancing moment.",
+      "Since P + Q equals the constant total weight, P decreases by the same amount."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-02.jpg",
       "papers/physics/img/08-1G-Moments-03.jpg",
       "papers/physics/img/08-1G-Moments-04.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q3.jpg"
      ]
     },
     {
@@ -9281,14 +10025,22 @@ window.BANK.physics = {
       "force diagram",
       "not in equilibrium"
      ],
-     "question": "A beam pivoted at a point has its centre of gravity at G and a force F acting on it. Which of the diagrams A to D shows an arrangement where the beam could not be in equilibrium?",
-     "status": "pending",
-     "answer": "Needs the four option diagrams (A to D) from the PDF to choose the answer",
-     "steps": [],
+     "question": "A beam is supported by a pivot as shown in the diagrams. The centre of gravity of the beam is at G and the beam is acted on by a force F. Which diagram (A to D) shows an arrangement where the beam could not be in equilibrium?",
+     "status": "ready",
+     "answer": "B",
+     "steps": [
+      "For equilibrium the resultant moment about the pivot must be zero (and the pivot can supply any vertical force needed).",
+      "In every diagram G is to the left of the pivot, so the weight gives an anticlockwise moment about the pivot.",
+      "In A and D, F is upwards to the left of the pivot and in C it is downwards to the right of it: each gives a clockwise moment that can cancel the weight's moment.",
+      "In B, F acts upwards to the right of the pivot, which also gives an anticlockwise moment. Two anticlockwise moments cannot balance, so B cannot be in equilibrium."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-04.jpg",
       "papers/physics/img/08-1G-Moments-05.jpg",
       "papers/physics/img/08-1G-Moments-06.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q4.jpg"
      ]
     },
     {
@@ -9306,13 +10058,21 @@ window.BANK.physics = {
       "equilibrium"
      ],
      "question": "A woman holds a stationary wheelbarrow with an upward force P at the handles, and the ground pushes up with R on the wheel. Explain, using moments about G, why P is less than R.",
-     "status": "pending",
-     "answer": "Needs the diagram to check where G lies between the wheel and the handles",
-     "steps": [],
+     "status": "ready",
+     "answer": "About G, R and P give opposite moments that must be equal; G is much nearer the wheel than the handles, so R has the smaller distance and must be the larger force: P < R.",
+     "steps": [
+      "The wheelbarrow is in equilibrium, so about G the clockwise moment equals the anticlockwise moment. The weight acts through G and has no moment about G.",
+      "R acts upwards at the wheel on one side of G and P acts upwards at the handles on the other side, so they give opposite moments about G.",
+      "The horizontal distance from G to the wheel is much smaller than from G to the handles: R x (distance to wheel) = P x (distance to handles).",
+      "Because the wheel is closer to G, R must be the larger force, so P < R."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-04.jpg",
       "papers/physics/img/08-1G-Moments-05.jpg",
       "papers/physics/img/08-1G-Moments-06.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q5.jpg"
      ]
     },
     {
@@ -9330,13 +10090,21 @@ window.BANK.physics = {
       "reaction force"
      ],
      "question": "The horizontal distance between the wheel centre and the handles is 1.5 m. Using the magnitudes of P and R shown on the diagram, find the horizontal distance between G and the wheel centre.",
-     "status": "pending",
-     "answer": "Needs the values of P and R shown on the diagram, which are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "0.30 m",
+     "steps": [
+      "Vertical equilibrium from the diagram: weight W = P + R = 80 N + 320 N = 400 N.",
+      "Take moments about the centre of the wheel (R passes through it): W x d = P x 1.5, where d is the horizontal distance from the wheel centre to G.",
+      "400 x d = 80 x 1.5 = 120 N m, so d = 0.30 m.",
+      "Check about the handles: 320 x 1.5 = 480 = 400 x (1.5 - 0.30) = 480 N m."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-04.jpg",
       "papers/physics/img/08-1G-Moments-05.jpg",
       "papers/physics/img/08-1G-Moments-06.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q5-2.jpg"
      ]
     },
     {
@@ -9367,7 +10135,8 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-07.jpg",
       "papers/physics/img/08-1G-Moments-08.jpg",
       "papers/physics/img/08-1G-Moments-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q6b",
@@ -9395,7 +10164,8 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-07.jpg",
       "papers/physics/img/08-1G-Moments-08.jpg",
       "papers/physics/img/08-1G-Moments-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q6c(i)",
@@ -9427,7 +10197,8 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-07.jpg",
       "papers/physics/img/08-1G-Moments-08.jpg",
       "papers/physics/img/08-1G-Moments-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q6c(ii)",
@@ -9458,7 +10229,8 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-07.jpg",
       "papers/physics/img/08-1G-Moments-08.jpg",
       "papers/physics/img/08-1G-Moments-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q6c(iii)",
@@ -9489,7 +10261,8 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-07.jpg",
       "papers/physics/img/08-1G-Moments-08.jpg",
       "papers/physics/img/08-1G-Moments-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q7a",
@@ -9519,7 +10292,8 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-09.jpg",
       "papers/physics/img/08-1G-Moments-10.jpg",
       "papers/physics/img/08-1G-Moments-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q7b(i)",
@@ -9549,6 +10323,9 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-09.jpg",
       "papers/physics/img/08-1G-Moments-10.jpg",
       "papers/physics/img/08-1G-Moments-11.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q7.jpg"
      ]
     },
     {
@@ -9566,14 +10343,23 @@ window.BANK.physics = {
       "load at end of beam",
       "stability"
      ],
-     "question": "A uniform beam weighs 3.0 x 10^4 N, the counterweight weighs 1.1 x 10^5 N and the load weighs 4.4 x 10^4 N. Deduce whether the load can be moved to the end of the beam without the crane toppling.",
-     "status": "pending",
-     "answer": "Needs the beam length and the positions of the counterweight and tower from the diagram, which are not in the text",
-     "steps": [],
+     "question": "The beam is uniform with a weight of 3.0 x 10^4 N, the counterweight has a weight of 1.1 x 10^5 N and the load has a weight of 4.4 x 10^4 N. From the diagram the beam is 30 m long with the counterweight at its left end, 8.0 m from the tower (pivot). Deduce whether the load can be moved to the end of the beam without the crane toppling.",
+     "status": "ready",
+     "answer": "No: the clockwise moment 1.18 x 10^6 N m exceeds the anticlockwise moment 8.8 x 10^5 N m, so the crane would topple.",
+     "steps": [
+      "From the diagram: beam length 30 m, counterweight 8.0 m left of the pivot, so the load end is 30 - 8.0 = 22 m right of the pivot and the beam's centre of gravity (15 m from the left end) is 7.0 m right of the pivot.",
+      "Anticlockwise moment about the pivot (counterweight) = 1.1 x 10^5 x 8.0 = 8.8 x 10^5 N m.",
+      "Clockwise moments: beam = 3.0 x 10^4 x 7.0 = 2.1 x 10^5 N m; load at the end = 4.4 x 10^4 x 22 = 9.68 x 10^5 N m; total = 1.18 x 10^6 N m.",
+      "Clockwise moment (1.18 x 10^6 N m) is greater than anticlockwise moment (8.8 x 10^5 N m), so there is a resultant moment and the crane topples.",
+      "The load could only go out to about (8.8 x 10^5 - 2.1 x 10^5) / 4.4 x 10^4 = 15 m from the tower."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-09.jpg",
       "papers/physics/img/08-1G-Moments-10.jpg",
       "papers/physics/img/08-1G-Moments-11.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q7.jpg"
      ]
     },
     {
@@ -9600,7 +10386,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/08-1G-Moments-11.jpg",
       "papers/physics/img/08-1G-Moments-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q8a(ii)",
@@ -9625,7 +10412,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/08-1G-Moments-11.jpg",
       "papers/physics/img/08-1G-Moments-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q8b(i)",
@@ -9642,12 +10430,19 @@ window.BANK.physics = {
       "equilibrium"
      ],
      "question": "The builder's minimum force P holds a uniform stone resting on a step. Complete the diagram by adding labelled arrows for the other forces acting on the stone.",
-     "status": "pending",
-     "answer": "Needs the diagram to check the labelled arrows: weight down at the centre, reaction up at the step edge",
-     "steps": [],
+     "status": "ready",
+     "answer": "Two arrows: weight W vertically downwards from the centre of gravity (dot), and the reaction R from the step vertically upwards at the edge of the step.",
+     "steps": [
+      "Weight: a downward arrow labelled W (or \"weight, 415 N\") starting at the centre of gravity, the dot at the middle of the stone.",
+      "Reaction/contact force from the step: an upward arrow labelled R (or \"normal reaction\") at the edge of the step, where the stone pivots. In part (ii) this edge is 0.40 m from the end where P acts, between P and the weight.",
+      "These make the stone's vertical forces balance: R = W + P upwards."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-11.jpg",
       "papers/physics/img/08-1G-Moments-12.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q8.jpg"
      ]
     },
     {
@@ -9665,12 +10460,20 @@ window.BANK.physics = {
       "equilibrium"
      ],
      "question": "A 415 N uniform stone of length 0.90 m overhangs the step edge by 0.50 m. Its centre of gravity is at its centre. Calculate the magnitude of the minimum force P.",
-     "status": "pending",
-     "answer": "Needs the diagram to confirm P acts downward at the back end of the stone, 0.40 m from the edge (expected about 52 N)",
-     "steps": [],
+     "status": "ready",
+     "answer": "P = 52 N (51.9 N)",
+     "steps": [
+      "The stone pivots about the edge of the step. The edge is 0.90 - 0.50 = 0.40 m from the end where P acts (the rest, 0.50 m, overhangs).",
+      "The centre of gravity is 0.45 m from that end, so it is 0.45 - 0.40 = 0.05 m beyond the edge. The reaction at the edge has no moment about it.",
+      "Moments about the edge: P x 0.40 = 415 x 0.05.",
+      "P = 20.75 / 0.40 = 51.9 N, about 52 N."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-11.jpg",
       "papers/physics/img/08-1G-Moments-12.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q8-2.jpg"
      ]
     },
     {
@@ -9688,13 +10491,20 @@ window.BANK.physics = {
       "wall"
      ],
      "question": "A free-body force diagram for a uniform horizontal flagpole hinged to a wall at O is shown. Identify the forces X, Y and Z.",
-     "status": "pending",
-     "answer": "Needs the free-body diagram from the PDF to identify X, Y and Z",
-     "steps": [],
+     "status": "ready",
+     "answer": "X = tension in the aluminium wire; Y = force of the hinge (wall) on the pole at O; Z = weight of the pole (and flag).",
+     "steps": [
+      "Z points vertically downwards: it is the weight of the flagpole and flag, acting at the pole's centre of gravity.",
+      "X points up and towards the wall at about 20 degrees to the horizontal: it is the tension in the aluminium wire (the force of the wire on the pole at B).",
+      "Y points up and away from the wall: it is the force from the hinge at O on the pole. It has an upward component helping to support the weight and a horizontal component balancing the wire's horizontal pull."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-12.jpg",
       "papers/physics/img/08-1G-Moments-13.jpg",
       "papers/physics/img/08-1G-Moments-14.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q9.jpg"
      ]
     },
     {
@@ -9726,6 +10536,9 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-12.jpg",
       "papers/physics/img/08-1G-Moments-13.jpg",
       "papers/physics/img/08-1G-Moments-14.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q9.jpg"
      ]
     },
     {
@@ -9743,13 +10556,21 @@ window.BANK.physics = {
       "reaction"
      ],
      "question": "A coat hook is screwed to a smooth door, with three forces shown on it. Add a labelled arrow to show the additional force needed for the hook to be in equilibrium.",
-     "status": "pending",
-     "answer": "Needs the diagram of the coat hook to draw the arrow (expected: a reaction from the door balancing the resultant of the other forces)",
-     "steps": [],
+     "status": "ready",
+     "answer": "A horizontal arrow pointing to the left (away from the door) at the bottom of the hook where it presses on the door, labelled as the force (normal reaction) of the door on the hook.",
+     "steps": [
+      "The shown forces are not balanced horizontally: the horizontal force from the screw points to the right, with nothing to cancel it.",
+      "So an extra horizontal force of equal size is needed, pointing to the left (away from the door).",
+      "The door is smooth, so its force on the hook is perpendicular to the door (no friction): horizontal. Label it \"force/normal reaction from the door\".",
+      "Draw it at the lower point where the hook touches the door, so that its line of action passes through P and does not upset the moment balance of the weight and the screw force."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-14.jpg",
       "papers/physics/img/08-1G-Moments-15.jpg",
       "papers/physics/img/08-1G-Moments-16.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q10.jpg"
      ]
     },
     {
@@ -9767,14 +10588,22 @@ window.BANK.physics = {
       "2.6 kg",
       "rotation"
      ],
-     "question": "Coats of mass 2.6 each hang from a hook pivoting at point P. The maximum horizontal force from the screw is 150 N. Deduce whether a person could hang more than two of these coats.",
-     "status": "pending",
-     "answer": "Needs the distances from pivot P to the coat and to the screw force, which are on the diagram and not in the text",
-     "steps": [],
+     "question": "Coats of mass 2.6 kg each hang from a hook that pivots at point P. The maximum horizontal force from the screw is 150 N, acting 0.9 cm above P, and the weight of the coats acts 2.5 cm horizontally from P. Deduce whether a person could hang more than two of these coats.",
+     "status": "ready",
+     "answer": "No: the weight limit is 54 N (about 5.5 kg, i.e. 2.1 coats), so only two coats can be hung; three coats (76.5 N) would pull the screw out.",
+     "steps": [
+      "Take moments about P: the vertical screw force and the door's force pass through P, so only the weight and the horizontal screw force give moments.",
+      "At the limit: weight x 2.5 cm = 150 N x 0.9 cm, so weight = 135 / 2.5 = 54 N.",
+      "Maximum mass = 54 / 9.81 = 5.5 kg, which is 5.5 / 2.6 = 2.1 coats.",
+      "Two coats weigh 2 x 2.6 x 9.81 = 51 N (< 54 N, so fine); three coats weigh 76.5 N (> 54 N). So a person could not hang more than two coats."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-14.jpg",
       "papers/physics/img/08-1G-Moments-15.jpg",
       "papers/physics/img/08-1G-Moments-16.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q10-2.jpg"
      ]
     },
     {
@@ -9800,7 +10629,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/08-1G-Moments-16.jpg",
       "papers/physics/img/08-1G-Moments-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q11b",
@@ -9817,12 +10647,21 @@ window.BANK.physics = {
       "variation"
      ],
      "question": "The book is moved a distance x to the right. Sketch how the contact force R varies with x between 0 and the limit shown, marking the maximum value of R on the axes.",
-     "status": "pending",
-     "answer": "Needs the sketch axes and the limit of x from the PDF; a sketch cannot be checked from the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "Curve rising with increasing gradient from R = W/2 at x = 0, through R = 2W/3 at x = l/4, to the maximum R = W at x = l/2.",
+     "steps": [
+      "The book touches at its left end and at the lip of the shelf, where R acts. After moving x to the right, these are l - x apart, and the weight acts l/2 from the left end.",
+      "Moments about the left contact: R(l - x) = W(l/2), so R = Wl / (2(l - x)).",
+      "Key values: x = 0 gives R = W/2; x = l/4 gives R = 2W/3; x = l/2 gives R = W.",
+      "Sketch: start at W/2 on the R axis (not at the origin), curve upwards getting steeper, ending at R = W when x = l/2. Mark W on the R axis (the maximum) and W/2 at x = 0."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-16.jpg",
       "papers/physics/img/08-1G-Moments-17.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q11.jpg",
+      "papers/physics/fig/08-1G-Moments-Q11-2.jpg"
      ]
     },
     {
@@ -9839,13 +10678,20 @@ window.BANK.physics = {
       "explain",
       "tipping"
      ],
-     "question": "Explain why the book will not remain on the shelf if the condition shown in the diagram is met.",
-     "status": "pending",
-     "answer": "Question text is cut off in the extraction (the condition is missing); check the PDF before answering",
-     "steps": [],
+     "question": "Explain why the book will not remain on the shelf if x > l/2.",
+     "status": "ready",
+     "answer": "The centre of gravity is then beyond the lip of the shelf, so the weight has an unbalanced moment about the lip and the book rotates and falls off.",
+     "steps": [
+      "When x > l/2 the book's centre of gravity, where the weight acts, lies beyond the lip of the shelf.",
+      "The weight then has a moment about the lip (the only point of support on that side) that is not balanced: the shelf can only push upwards, so there is no force able to give an opposite moment.",
+      "The resultant moment is not zero, so the book is not in equilibrium: it rotates about the lip (topples) and falls off."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-16.jpg",
       "papers/physics/img/08-1G-Moments-17.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q11.jpg"
      ]
     },
     {
@@ -9873,7 +10719,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/08-1G-Moments-17.jpg",
       "papers/physics/img/08-1G-Moments-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q13a(i)",
@@ -9902,7 +10749,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/08-1G-Moments-18.jpg",
       "papers/physics/img/08-1G-Moments-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q13a(ii)",
@@ -9931,7 +10779,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/08-1G-Moments-18.jpg",
       "papers/physics/img/08-1G-Moments-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q13b(i)",
@@ -9959,7 +10808,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/08-1G-Moments-18.jpg",
       "papers/physics/img/08-1G-Moments-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q13b(ii)",
@@ -9987,7 +10837,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/08-1G-Moments-18.jpg",
       "papers/physics/img/08-1G-Moments-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q14",
@@ -10004,13 +10855,20 @@ window.BANK.physics = {
       "multiple choice"
      ],
      "question": "A beam with weight W is balanced on two supports, with reaction forces P and Q. Which statement is correct? A: P > Q, B: Q > W, C: Q > P, D: (P + Q) > W.",
-     "status": "pending",
-     "answer": "Needs the diagram to see which support is nearer the centre of gravity; the answer is A or C (B and D are impossible since P + Q = W)",
-     "steps": [],
+     "status": "ready",
+     "answer": "C: Q > P",
+     "steps": [
+      "The beam is in equilibrium, so P + Q = W and moments about the centre of gravity balance: P x (distance from G to P support) = Q x (distance from G to Q support).",
+      "From the diagram, the centre of gravity is nearer the Q support, so Q has the smaller distance and must be the larger force: Q > P.",
+      "B is impossible because Q cannot exceed W (P is positive); D is wrong because P + Q = W exactly; A is wrong because the weight is nearer Q, not P."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-20.jpg",
       "papers/physics/img/08-1G-Moments-21.jpg",
       "papers/physics/img/08-1G-Moments-22.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q14.jpg"
      ]
     },
     {
@@ -10028,13 +10886,21 @@ window.BANK.physics = {
       "stationary"
      ],
      "question": "A dragster and driver weigh 1.23 x 10^4 N, with centre of gravity 1.80 m in front of the rear axle. The front axle is 6.00 m from the rear axle. Calculate the reaction forces R1 and R2 when stationary.",
-     "status": "pending",
-     "answer": "Needs the diagram to confirm which axle R1 and R2 belong to (expected: R1 at the rear 8.6 x 10^3 N, R2 at the front 3.7 x 10^3 N)",
-     "steps": [],
+     "status": "ready",
+     "answer": "R1 = 3.7 x 10^3 N (front axle); R2 = 8.6 x 10^3 N (rear axle)",
+     "steps": [
+      "On the diagram R1 acts at the front axle, R2 at the rear axle; the weight is 1.80 m from the rear axle and 4.20 m from the front axle.",
+      "Moments about the rear axle: R1 x 6.00 = 1.23 x 10^4 x 1.80, so R1 = 3690 N = 3.7 x 10^3 N.",
+      "Vertical equilibrium: R2 = 1.23 x 10^4 - 3690 = 8610 N = 8.6 x 10^3 N.",
+      "Check using moments about the front axle: R2 x 6.00 = 1.23 x 10^4 x 4.20, giving 8610 N."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-20.jpg",
       "papers/physics/img/08-1G-Moments-21.jpg",
       "papers/physics/img/08-1G-Moments-22.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q15.jpg"
      ]
     },
     {
@@ -10064,7 +10930,8 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-20.jpg",
       "papers/physics/img/08-1G-Moments-21.jpg",
       "papers/physics/img/08-1G-Moments-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q15c",
@@ -10092,7 +10959,8 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-20.jpg",
       "papers/physics/img/08-1G-Moments-21.jpg",
       "papers/physics/img/08-1G-Moments-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q16a",
@@ -10109,14 +10977,22 @@ window.BANK.physics = {
       "base",
       "lifting"
      ],
-     "question": "A 110 N parasol with its centre of gravity above the centre of the base is hit by a 14 N horizontal wind force. Explain why the parasol topples, including a calculation.",
-     "status": "pending",
-     "answer": "Needs the height of the wind force and the base radius from the diagram to complete the moments calculation",
-     "steps": [],
+     "question": "A large parasol has been set up on a windy day, with its centre of gravity vertically above the centre of the base, and the bottom of the parasol starts to lift from the ground. The weight of the parasol is 110 N. The wind force is 14 N horizontal, acting 1.80 m above the ground, and the base is 0.44 m wide. Explain why the parasol will topple. Your answer should include a calculation.",
+     "status": "ready",
+     "answer": "Moment of the wind about the tipping edge (25.2 N m) is greater than the restoring moment of the weight (24.2 N m), so the parasol topples.",
+     "steps": [
+      "The parasol tips about the lower edge of the base on the downwind side, so take moments about that edge.",
+      "Overturning moment from the wind = 14 N x 1.80 m = 25.2 N m.",
+      "The weight acts through the centre of the base, 0.44 / 2 = 0.22 m from the edge: restoring moment = 110 N x 0.22 m = 24.2 N m.",
+      "The overturning moment (25.2 N m) is greater than the restoring moment (24.2 N m), so there is a resultant moment and the parasol topples."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-22.jpg",
       "papers/physics/img/08-1G-Moments-23.jpg",
       "papers/physics/img/08-1G-Moments-24.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q16.jpg"
      ]
     },
     {
@@ -10135,13 +11011,22 @@ window.BANK.physics = {
       "ground"
      ],
      "question": "A rope attached 1.50 m above the ground makes 44 degrees to the vertical. With a 25 N horizontal wind force, find by moments about the centre of the base the vertical force the base exerts on the ground. The ground force acts through the midpoint of the base.",
-     "status": "pending",
-     "answer": "Needs the wind force height and the horizontal distances from the base centre to the rope and to the wind, from the diagram",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 1.4 x 10^2 N (141 N), downwards on the ground",
+     "steps": [
+      "Take moments about the centre of the base. The weight, the ground force (through the midpoint) and the vertical part of the rope tension (the pole is directly above the centre) all have zero moment.",
+      "Wind moment = 25 N x 1.80 m = 45 N m. Rope: its horizontal component T sin44 acts 1.50 m up: T sin44 x 1.50 = 45.",
+      "T = 45 / (1.50 x sin44) = 43.2 N.",
+      "Vertical component of the rope tension, pulling down = T cos44 = 43.2 x cos44 = 31.1 N.",
+      "Vertical equilibrium: ground force on base = 110 + 31.1 = 141 N, so the base exerts about 1.4 x 10^2 N on the ground."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-22.jpg",
       "papers/physics/img/08-1G-Moments-23.jpg",
       "papers/physics/img/08-1G-Moments-24.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q16-2.jpg"
      ]
     },
     {
@@ -10159,13 +11044,21 @@ window.BANK.physics = {
       "equilibrium"
      ],
      "question": "A uniform plank of length 4.0 m is pivoted 0.90 m from one end, with weight 250 N. Add to the diagram the forces acting on the plank.",
-     "status": "pending",
-     "answer": "Needs the diagram to add the forces (plank weight, person weights, pivot reaction) at the correct positions",
-     "steps": [],
+     "status": "ready",
+     "answer": "Four forces: 950 N down at the left end; 250 N down at the plank's centre (1.10 m right of the pivot); 650 N down at distance x right of the pivot; and an upward pivot reaction of 1850 N at the pivot.",
+     "steps": [
+      "Downward arrow of 950 N at the left end, where the heavier person stands (0.90 m from the pivot).",
+      "Downward arrow of 250 N (weight of the plank) at the centre of the plank, 2.0 m from either end, which is 1.10 m to the right of the pivot.",
+      "Downward arrow of 650 N at the lighter person, a distance x to the right of the pivot.",
+      "Upward arrow at the pivot for the reaction of the pivot on the plank, equal to 950 + 250 + 650 = 1850 N."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-24.jpg",
       "papers/physics/img/08-1G-Moments-25.jpg",
       "papers/physics/img/08-1G-Moments-26.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q17.jpg"
      ]
     },
     {
@@ -10197,6 +11090,9 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-24.jpg",
       "papers/physics/img/08-1G-Moments-25.jpg",
       "papers/physics/img/08-1G-Moments-26.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q17.jpg"
      ]
     },
     {
@@ -10224,7 +11120,8 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-24.jpg",
       "papers/physics/img/08-1G-Moments-25.jpg",
       "papers/physics/img/08-1G-Moments-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q18b(i)",
@@ -10241,14 +11138,23 @@ window.BANK.physics = {
       "centre of gravity",
       "rail"
      ],
-     "question": "A board and rail weighing 50 N act 0.45 m from the hinge. A uniform 2.70 m ladder weighs 54 N, with 0.85 m to the left of the hinge. Explain why the board and ladder remain in the position shown.",
-     "status": "pending",
-     "answer": "Needs the diagram to check where the block pushes and which side of the hinge each weight acts",
-     "steps": [],
+     "question": "The board and rail weigh 50 N, acting 0.45 m from the hinge on the block side. The ladder is uniform, 2.70 m long and weighs 54 N, with 0.85 m of it to the left of the hinge. Explain why the board and ladder remain in the position shown.",
+     "status": "ready",
+     "answer": "The net clockwise moment about the hinge (27 - 22.5 = 4.5 N m) is balanced by the block pushing down on the board, so the resultant moment and force are zero and the board stays in equilibrium.",
+     "steps": [
+      "The ladder is uniform, so its weight acts at its centre, 1.35 m from the left end, which is 1.35 - 0.85 = 0.50 m to the right of the hinge.",
+      "Moment of the ladder's weight about the hinge = 54 x 0.50 = 27 N m (clockwise, tending to lift the left end into the roof space).",
+      "The board and rail weigh 50 N at 0.45 m to the left of the hinge: moment = 50 x 0.45 = 22.5 N m the other way (anticlockwise).",
+      "The clockwise moment is larger by 4.5 N m, so the board would rotate into the roof space, but the block pushes down on the board and supplies the 4.5 N m anticlockwise moment needed.",
+      "The resultant moment is therefore zero, and the forces from hinge and block balance the weights, so the board and ladder stay in position."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-24.jpg",
       "papers/physics/img/08-1G-Moments-25.jpg",
       "papers/physics/img/08-1G-Moments-26.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q18.jpg"
      ]
     },
     {
@@ -10267,13 +11173,21 @@ window.BANK.physics = {
       "magnitude"
      ],
      "question": "A downward force applied 0.80 m from the hinge rotates the board away from the block. Determine the magnitude of this force.",
-     "status": "pending",
-     "answer": "Needs the diagram to confirm both weights act on the same side of the hinge (if so, the force is about 62 N)",
-     "steps": [],
+     "status": "ready",
+     "answer": "About 5.6 N (5.625 N)",
+     "steps": [
+      "To rotate the board away from the block, the downward force F (0.80 m from the hinge, on the board's left) must give an anticlockwise moment that just exceeds the net clockwise moment.",
+      "At the point of lifting the block force is zero, so the moments about the hinge balance: F x 0.80 + 50 x 0.45 = 54 x 0.50.",
+      "F x 0.80 = 27 - 22.5 = 4.5 N m.",
+      "F = 4.5 / 0.80 = 5.6 N (minimum)."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-24.jpg",
       "papers/physics/img/08-1G-Moments-25.jpg",
       "papers/physics/img/08-1G-Moments-26.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q18.jpg"
      ]
     },
     {
@@ -10291,13 +11205,20 @@ window.BANK.physics = {
       "moments",
       "pivot"
      ],
-     "question": "A student stands on wood placed on a cylinder with his feet at distances x and y from the cylinder. Which expression equals his weight W?",
-     "status": "pending",
-     "answer": "Needs the answer options and the diagram of the foot forces from the PDF",
-     "steps": [],
+     "question": "A student puts a piece of wood on top of a cylinder and stands on it with his feet at distances x and y from the cylinder; the left foot exerts a force F and the right foot a force (W - F) on the wood, W being his weight. The wood is horizontal, in equilibrium, and its weight is negligible. Which expression is equal to W? A: Fx/y + F, B: Fx/y - F, C: Fy/x + F, D: Fy/x - F.",
+     "status": "ready",
+     "answer": "A: Fx/y + F",
+     "steps": [
+      "Take moments about the cylinder (the pivot): the clockwise and anticlockwise moments are equal.",
+      "F x x = (W - F) x y.",
+      "So W - F = Fx/y, giving W = Fx/y + F, which is option A."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-26.jpg",
       "papers/physics/img/08-1G-Moments-27.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q19.jpg"
      ]
     },
     {
@@ -10316,13 +11237,21 @@ window.BANK.physics = {
       "beam"
      ],
      "question": "The biceps acts as a spring at 70 degrees to a beam, 4.0 cm from the pivot O. The ball exerts 4.5 N and the beam weighs 15 N. Estimate the forearm and hand length and determine the tension T.",
-     "status": "pending",
-     "answer": "Needs the diagram positions of the ball force and the beam weight, plus the student's own length estimate",
-     "steps": [],
+     "status": "ready",
+     "answer": "Estimate: forearm and hand length about 0.40 m; T about 1.2 x 10^2 N (about 100 to 130 N for lengths of 0.35 to 0.45 m)",
+     "steps": [
+      "Estimate of the total length of forearm and hand: L = 0.40 m (about 0.28 m forearm plus 0.12 m hand; any sensible value of about 0.35 to 0.45 m is fine).",
+      "Moments about O (the hinge force has no moment). Muscle: only the component of T perpendicular to the beam counts, T sin70 at 0.040 m from O.",
+      "Opposing moments: beam weight 15 N x (L/2) = 15 x 0.20 = 3.0 N m, and the ball 4.5 N at (L - 0.090) = 0.31 m: 4.5 x 0.31 = 1.4 N m. Total = 4.4 N m.",
+      "T x sin70 x 0.040 = 4.4, so T = 4.4 / (0.040 x 0.940) = 1.2 x 10^2 N."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-27.jpg",
       "papers/physics/img/08-1G-Moments-28.jpg",
       "papers/physics/img/08-1G-Moments-29.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q20.jpg"
      ]
     },
     {
@@ -10352,7 +11281,8 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-27.jpg",
       "papers/physics/img/08-1G-Moments-28.jpg",
       "papers/physics/img/08-1G-Moments-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q21a",
@@ -10380,7 +11310,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/08-1G-Moments-29.jpg",
       "papers/physics/img/08-1G-Moments-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q21b",
@@ -10407,7 +11338,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/08-1G-Moments-29.jpg",
       "papers/physics/img/08-1G-Moments-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q22a",
@@ -10434,7 +11366,8 @@ window.BANK.physics = {
       "papers/physics/img/08-1G-Moments-30.jpg",
       "papers/physics/img/08-1G-Moments-31.jpg",
       "papers/physics/img/08-1G-Moments-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q22b(i)",
@@ -10452,13 +11385,22 @@ window.BANK.physics = {
       "lift"
      ],
      "question": "A uniform 1.40 m rail weighs 95 N. A piston applies 160 N to the rail and the student applies a force F perpendicular to the rail at the handle. Determine the minimum F needed to lift the end of the rail off the ground.",
-     "status": "pending",
-     "answer": "Needs the diagram to get the distances of the piston force and the handle from the pivot",
-     "steps": [],
+     "status": "ready",
+     "answer": "F = 22 N (22.2 N)",
+     "steps": [
+      "At the minimum F the rail is just about to lift off the ground, so take moments about the pivot with no ground force.",
+      "Weight 95 N acts at the middle of the rail (0.70 m along it); its moment arm is 0.70 cos42 = 0.520 m, so moment = 95 x 0.520 = 49.4 N m (tending to rotate the rail down).",
+      "The piston force 160 N is at 18 degrees to the rail, 0.37 m from the pivot: perpendicular component 160 sin18 = 49.4 N, moment = 49.4 x 0.37 = 18.3 N m (helping to lift).",
+      "F is perpendicular to the rail at the handle, 1.40 m from the pivot: moment = 1.40 F.",
+      "Balance: 1.40 F + 18.3 = 49.4, so F = 31.1 / 1.40 = 22 N."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-30.jpg",
       "papers/physics/img/08-1G-Moments-31.jpg",
       "papers/physics/img/08-1G-Moments-32.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q22.jpg"
      ]
     },
     {
@@ -10476,13 +11418,21 @@ window.BANK.physics = {
       "lift"
      ],
      "question": "The rail could also be lifted by a vertical force on the handle. Explain how the minimum vertical force needed differs from the minimum perpendicular force.",
-     "status": "pending",
-     "answer": "Needs the diagram to confirm the angle of the rail, which sets the moment arm of a vertical force",
-     "steps": [],
+     "status": "ready",
+     "answer": "The minimum vertical force is larger than the perpendicular force (about 30 N compared with 22 N).",
+     "steps": [
+      "The same moment about the pivot is needed in both cases (about 31 N m from the handle force).",
+      "A force perpendicular to the rail acts at the full 1.40 m from the pivot.",
+      "A vertical force is not perpendicular to the rail (the rail is at 42 degrees to the horizontal): its perpendicular distance from the pivot is only 1.40 cos42, or equivalently only its component F cos42 is perpendicular to the rail.",
+      "The moment arm is smaller, so a larger vertical force is needed: F(vertical) = F(perpendicular) / cos42 = about 30 N."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-30.jpg",
       "papers/physics/img/08-1G-Moments-31.jpg",
       "papers/physics/img/08-1G-Moments-32.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q22.jpg"
      ]
     },
     {
@@ -10499,13 +11449,20 @@ window.BANK.physics = {
       "pivot",
       "table"
      ],
-     "question": "A uniform see-saw balances on a support with two children of equal weight sitting at equal distances. Which row of the table describes the resultant force and resultant moment on the beam?",
-     "status": "pending",
-     "answer": "Needs the table of options from the PDF (the table is missing from the text)",
-     "steps": [],
+     "question": "A see-saw is a uniform beam that balances on a support; the beam can rotate around the top of the support. Two children of equal weight sit on it at equal distances from the support. Which row describes the resultant force and resultant moment on the beam? A: zero force, zero moment; B: zero force, anticlockwise moment; C: downwards force, zero moment; D: downwards force, anticlockwise moment.",
+     "status": "ready",
+     "answer": "A: resultant force zero, resultant moment zero",
+     "steps": [
+      "The children have equal weights at equal distances on opposite sides of the support, so their moments about the support are equal and opposite. The beam is uniform and balanced on its centre, so its weight has no moment.",
+      "The resultant moment is therefore zero.",
+      "The see-saw is balanced and not accelerating, and the upward force from the support equals the total weight, so the resultant force is also zero: row A."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-32.jpg",
       "papers/physics/img/08-1G-Moments-33.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q23.jpg"
      ]
     },
     {
@@ -10532,7 +11489,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/08-1G-Moments-33.jpg",
       "papers/physics/img/08-1G-Moments-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "1G-Q24b",
@@ -10550,12 +11508,20 @@ window.BANK.physics = {
       "weight of beam"
      ],
      "question": "A balance beam has weight 3.1 N and an empty dish weighs 0.64 N. The dish is moved so its horizontal distance from the string is 7.0 cm, and rice is added until equilibrium. Deduce whether the dish now holds 3 portions of rice.",
-     "status": "pending",
-     "answer": "Needs the beam's centre position and the original dish position from the diagram, which are not in the text",
-     "steps": [],
+     "status": "ready",
+     "answer": "No: the dish holds about 8 portions (8.2), not 3.",
+     "steps": [
+      "Take moments about the string. The beam's weight acts 8.0 cm from the string on the side opposite the dish: 3.1 x 8.0 = 24.8 N cm.",
+      "First arrangement (one portion, dish 25.0 cm from the string): (0.64 + w) x 25.0 = 24.8, so 0.64 + w = 0.992 N and the weight of one portion w = 0.352 N.",
+      "Dish at 7.0 cm: total weight at the dish = 24.8 / 7.0 = 3.54 N, so the rice weighs 3.54 - 0.64 = 2.90 N.",
+      "Number of portions = 2.90 / 0.352 = 8.2, so about 8 portions. Three portions would weigh only 1.06 N, which would not balance. The dish does not contain 3 portions."
+     ],
      "images": [
       "papers/physics/img/08-1G-Moments-33.jpg",
       "papers/physics/img/08-1G-Moments-34.jpg"
+     ],
+     "figures": [
+      "papers/physics/fig/08-1G-Moments-Q24.jpg"
      ]
     }
    ]
@@ -10593,7 +11559,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/09-CP2-Viscosity-01.jpg",
       "papers/physics/img/09-CP2-Viscosity-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q1aii",
@@ -10621,7 +11588,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/09-CP2-Viscosity-01.jpg",
       "papers/physics/img/09-CP2-Viscosity-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q1bi",
@@ -10649,7 +11617,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/09-CP2-Viscosity-01.jpg",
       "papers/physics/img/09-CP2-Viscosity-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q1bii",
@@ -10677,7 +11646,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/09-CP2-Viscosity-01.jpg",
       "papers/physics/img/09-CP2-Viscosity-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q2ai",
@@ -10704,7 +11674,8 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-02.jpg",
       "papers/physics/img/09-CP2-Viscosity-03.jpg",
       "papers/physics/img/09-CP2-Viscosity-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q2aii",
@@ -10731,7 +11702,8 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-02.jpg",
       "papers/physics/img/09-CP2-Viscosity-03.jpg",
       "papers/physics/img/09-CP2-Viscosity-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q2bi",
@@ -10754,7 +11726,8 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-02.jpg",
       "papers/physics/img/09-CP2-Viscosity-03.jpg",
       "papers/physics/img/09-CP2-Viscosity-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q2bii",
@@ -10777,7 +11750,8 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-02.jpg",
       "papers/physics/img/09-CP2-Viscosity-03.jpg",
       "papers/physics/img/09-CP2-Viscosity-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q2biii",
@@ -10800,7 +11774,8 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-02.jpg",
       "papers/physics/img/09-CP2-Viscosity-03.jpg",
       "papers/physics/img/09-CP2-Viscosity-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q2biv",
@@ -10827,7 +11802,8 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-02.jpg",
       "papers/physics/img/09-CP2-Viscosity-03.jpg",
       "papers/physics/img/09-CP2-Viscosity-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q3",
@@ -10849,7 +11825,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/09-CP2-Viscosity-04.jpg",
       "papers/physics/img/09-CP2-Viscosity-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q4",
@@ -10877,7 +11854,8 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-06.jpg",
       "papers/physics/img/09-CP2-Viscosity-07.jpg",
       "papers/physics/img/09-CP2-Viscosity-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q5a",
@@ -10905,7 +11883,8 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-06.jpg",
       "papers/physics/img/09-CP2-Viscosity-07.jpg",
       "papers/physics/img/09-CP2-Viscosity-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q5b",
@@ -10936,7 +11915,8 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-06.jpg",
       "papers/physics/img/09-CP2-Viscosity-07.jpg",
       "papers/physics/img/09-CP2-Viscosity-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q5ci",
@@ -10960,7 +11940,8 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-06.jpg",
       "papers/physics/img/09-CP2-Viscosity-07.jpg",
       "papers/physics/img/09-CP2-Viscosity-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q5cii",
@@ -10984,7 +11965,8 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-06.jpg",
       "papers/physics/img/09-CP2-Viscosity-07.jpg",
       "papers/physics/img/09-CP2-Viscosity-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q5ciii",
@@ -11008,7 +11990,8 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-06.jpg",
       "papers/physics/img/09-CP2-Viscosity-07.jpg",
       "papers/physics/img/09-CP2-Viscosity-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q6a",
@@ -11036,7 +12019,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/09-CP2-Viscosity-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q6b",
@@ -11061,7 +12045,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/09-CP2-Viscosity-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q7",
@@ -11084,7 +12069,8 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-09.jpg",
       "papers/physics/img/09-CP2-Viscosity-10.jpg",
       "papers/physics/img/09-CP2-Viscosity-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q8a",
@@ -11112,7 +12098,8 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-09.jpg",
       "papers/physics/img/09-CP2-Viscosity-10.jpg",
       "papers/physics/img/09-CP2-Viscosity-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q8bi",
@@ -11135,7 +12122,8 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-09.jpg",
       "papers/physics/img/09-CP2-Viscosity-10.jpg",
       "papers/physics/img/09-CP2-Viscosity-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q8bii",
@@ -11158,7 +12146,8 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-09.jpg",
       "papers/physics/img/09-CP2-Viscosity-10.jpg",
       "papers/physics/img/09-CP2-Viscosity-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q8biii",
@@ -11187,7 +12176,8 @@ window.BANK.physics = {
       "papers/physics/img/09-CP2-Viscosity-09.jpg",
       "papers/physics/img/09-CP2-Viscosity-10.jpg",
       "papers/physics/img/09-CP2-Viscosity-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q9",
@@ -11214,7 +12204,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/09-CP2-Viscosity-11.jpg",
       "papers/physics/img/09-CP2-Viscosity-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q10a",
@@ -11242,7 +12233,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/09-CP2-Viscosity-12.jpg",
       "papers/physics/img/09-CP2-Viscosity-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q10bi",
@@ -11269,7 +12261,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/09-CP2-Viscosity-12.jpg",
       "papers/physics/img/09-CP2-Viscosity-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q10bii",
@@ -11296,7 +12289,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/09-CP2-Viscosity-12.jpg",
       "papers/physics/img/09-CP2-Viscosity-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q11a",
@@ -11323,7 +12317,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/09-CP2-Viscosity-13.jpg",
       "papers/physics/img/09-CP2-Viscosity-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q11b",
@@ -11350,7 +12345,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/09-CP2-Viscosity-13.jpg",
       "papers/physics/img/09-CP2-Viscosity-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP2-Q11c",
@@ -11377,7 +12373,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/09-CP2-Viscosity-13.jpg",
       "papers/physics/img/09-CP2-Viscosity-14.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -11413,7 +12410,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-01.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q1b(i)",
@@ -11435,7 +12433,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-01.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q1b(ii)",
@@ -11462,7 +12461,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-01.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q2a",
@@ -11486,7 +12486,8 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-02.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-03.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q2b(i)",
@@ -11509,7 +12510,8 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-02.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-03.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q2b(ii)",
@@ -11532,7 +12534,8 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-02.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-03.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q3",
@@ -11560,7 +12563,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-04.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q4",
@@ -11590,7 +12594,8 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-06.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-07.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q5a",
@@ -11620,7 +12625,8 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-06.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-07.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q5b",
@@ -11645,7 +12651,8 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-06.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-07.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q5c",
@@ -11677,7 +12684,8 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-06.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-07.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q6a",
@@ -11705,7 +12713,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-08.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q6b(i)",
@@ -11727,7 +12736,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-08.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q6b(ii)",
@@ -11750,7 +12760,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-08.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q6b(iii)",
@@ -11777,7 +12788,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-08.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q7a",
@@ -11805,7 +12817,8 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-09.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-10.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q7b(i)",
@@ -11828,7 +12841,8 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-09.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-10.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q7b(ii)",
@@ -11851,7 +12865,8 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-09.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-10.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q7b(iii)",
@@ -11880,7 +12895,8 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-09.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-10.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q7b(iv)",
@@ -11904,7 +12920,8 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-09.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-10.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q8a",
@@ -11935,7 +12952,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-12.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q8b",
@@ -11964,7 +12982,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-12.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q9a",
@@ -11993,7 +13012,8 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-14.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-15.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q9b(i)",
@@ -12023,7 +13043,8 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-14.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-15.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q9b(ii)",
@@ -12053,7 +13074,8 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-14.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-15.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q9c",
@@ -12078,7 +13100,8 @@ window.BANK.physics = {
       "papers/physics/img/10-CP3-Young-Modulus-14.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-15.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "CP3-Q10",
@@ -12105,7 +13128,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/10-CP3-Young-Modulus-16.jpg",
       "papers/physics/img/10-CP3-Young-Modulus-17.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -12136,7 +13160,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-01.jpg",
       "papers/physics/img/11-2A-Stokes-Law-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q1b",
@@ -12164,7 +13189,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-01.jpg",
       "papers/physics/img/11-2A-Stokes-Law-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q1c(i)",
@@ -12191,7 +13217,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-01.jpg",
       "papers/physics/img/11-2A-Stokes-Law-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q1c(ii)",
@@ -12215,7 +13242,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-01.jpg",
       "papers/physics/img/11-2A-Stokes-Law-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q2a",
@@ -12241,7 +13269,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-02.jpg",
       "papers/physics/img/11-2A-Stokes-Law-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q2b(i)",
@@ -12267,7 +13296,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-02.jpg",
       "papers/physics/img/11-2A-Stokes-Law-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q2b(ii)",
@@ -12298,7 +13328,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-02.jpg",
       "papers/physics/img/11-2A-Stokes-Law-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q3a(i)",
@@ -12327,7 +13358,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-03.jpg",
       "papers/physics/img/11-2A-Stokes-Law-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q3a(ii)",
@@ -12354,7 +13386,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-03.jpg",
       "papers/physics/img/11-2A-Stokes-Law-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q3a(iii)",
@@ -12380,7 +13413,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-03.jpg",
       "papers/physics/img/11-2A-Stokes-Law-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q3b",
@@ -12409,7 +13443,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-03.jpg",
       "papers/physics/img/11-2A-Stokes-Law-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q4",
@@ -12435,7 +13470,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q5",
@@ -12458,7 +13494,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-05.jpg",
       "papers/physics/img/11-2A-Stokes-Law-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q6a(i)",
@@ -12484,7 +13521,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-05.jpg",
       "papers/physics/img/11-2A-Stokes-Law-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q6a(ii)",
@@ -12509,7 +13547,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-05.jpg",
       "papers/physics/img/11-2A-Stokes-Law-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q6b(i)",
@@ -12535,7 +13574,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-05.jpg",
       "papers/physics/img/11-2A-Stokes-Law-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q6b(ii)",
@@ -12561,7 +13601,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-05.jpg",
       "papers/physics/img/11-2A-Stokes-Law-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q6b(iii)",
@@ -12590,7 +13631,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-05.jpg",
       "papers/physics/img/11-2A-Stokes-Law-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q7",
@@ -12618,7 +13660,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-07.jpg",
       "papers/physics/img/11-2A-Stokes-Law-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q8a",
@@ -12644,7 +13687,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-07.jpg",
       "papers/physics/img/11-2A-Stokes-Law-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q8b",
@@ -12674,7 +13718,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-07.jpg",
       "papers/physics/img/11-2A-Stokes-Law-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q9",
@@ -12701,7 +13746,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-08.jpg",
       "papers/physics/img/11-2A-Stokes-Law-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q10a",
@@ -12728,7 +13774,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-08.jpg",
       "papers/physics/img/11-2A-Stokes-Law-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q10b(i)",
@@ -12756,7 +13803,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-08.jpg",
       "papers/physics/img/11-2A-Stokes-Law-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q10b(ii)",
@@ -12783,7 +13831,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-08.jpg",
       "papers/physics/img/11-2A-Stokes-Law-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q10c",
@@ -12812,7 +13861,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-08.jpg",
       "papers/physics/img/11-2A-Stokes-Law-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q11a",
@@ -12840,7 +13890,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-09.jpg",
       "papers/physics/img/11-2A-Stokes-Law-10.jpg",
       "papers/physics/img/11-2A-Stokes-Law-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q11b(i)",
@@ -12868,7 +13919,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-09.jpg",
       "papers/physics/img/11-2A-Stokes-Law-10.jpg",
       "papers/physics/img/11-2A-Stokes-Law-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q11b(ii)",
@@ -12898,7 +13950,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-09.jpg",
       "papers/physics/img/11-2A-Stokes-Law-10.jpg",
       "papers/physics/img/11-2A-Stokes-Law-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q11b(iii)",
@@ -12924,7 +13977,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-09.jpg",
       "papers/physics/img/11-2A-Stokes-Law-10.jpg",
       "papers/physics/img/11-2A-Stokes-Law-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q11c",
@@ -12954,7 +14008,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-09.jpg",
       "papers/physics/img/11-2A-Stokes-Law-10.jpg",
       "papers/physics/img/11-2A-Stokes-Law-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q12a(i)",
@@ -12983,7 +14038,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-11.jpg",
       "papers/physics/img/11-2A-Stokes-Law-12.jpg",
       "papers/physics/img/11-2A-Stokes-Law-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q12a(ii)",
@@ -13008,7 +14064,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-11.jpg",
       "papers/physics/img/11-2A-Stokes-Law-12.jpg",
       "papers/physics/img/11-2A-Stokes-Law-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q12b(i)",
@@ -13032,7 +14089,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-11.jpg",
       "papers/physics/img/11-2A-Stokes-Law-12.jpg",
       "papers/physics/img/11-2A-Stokes-Law-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q12b(ii)",
@@ -13061,7 +14119,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-11.jpg",
       "papers/physics/img/11-2A-Stokes-Law-12.jpg",
       "papers/physics/img/11-2A-Stokes-Law-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q13a",
@@ -13088,7 +14147,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-13.jpg",
       "papers/physics/img/11-2A-Stokes-Law-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q13b(i)",
@@ -13116,7 +14176,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-13.jpg",
       "papers/physics/img/11-2A-Stokes-Law-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q13b(ii)",
@@ -13147,7 +14208,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-13.jpg",
       "papers/physics/img/11-2A-Stokes-Law-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q14",
@@ -13170,7 +14232,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-14.jpg",
       "papers/physics/img/11-2A-Stokes-Law-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q15a",
@@ -13198,7 +14261,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-15.jpg",
       "papers/physics/img/11-2A-Stokes-Law-16.jpg",
       "papers/physics/img/11-2A-Stokes-Law-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q15b(i)",
@@ -13222,7 +14286,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-15.jpg",
       "papers/physics/img/11-2A-Stokes-Law-16.jpg",
       "papers/physics/img/11-2A-Stokes-Law-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q15b(ii)",
@@ -13247,7 +14312,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-15.jpg",
       "papers/physics/img/11-2A-Stokes-Law-16.jpg",
       "papers/physics/img/11-2A-Stokes-Law-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q15b(iii)",
@@ -13276,7 +14342,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-15.jpg",
       "papers/physics/img/11-2A-Stokes-Law-16.jpg",
       "papers/physics/img/11-2A-Stokes-Law-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q16a(i)",
@@ -13303,7 +14370,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-17.jpg",
       "papers/physics/img/11-2A-Stokes-Law-18.jpg",
       "papers/physics/img/11-2A-Stokes-Law-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q16a(ii)",
@@ -13335,7 +14403,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-17.jpg",
       "papers/physics/img/11-2A-Stokes-Law-18.jpg",
       "papers/physics/img/11-2A-Stokes-Law-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q16b(i)",
@@ -13363,7 +14432,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-17.jpg",
       "papers/physics/img/11-2A-Stokes-Law-18.jpg",
       "papers/physics/img/11-2A-Stokes-Law-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q16b(ii)",
@@ -13387,7 +14457,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-17.jpg",
       "papers/physics/img/11-2A-Stokes-Law-18.jpg",
       "papers/physics/img/11-2A-Stokes-Law-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q17",
@@ -13414,7 +14485,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-19.jpg",
       "papers/physics/img/11-2A-Stokes-Law-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q18a",
@@ -13441,7 +14513,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-19.jpg",
       "papers/physics/img/11-2A-Stokes-Law-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q18b",
@@ -13470,7 +14543,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-19.jpg",
       "papers/physics/img/11-2A-Stokes-Law-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q18c",
@@ -13497,7 +14571,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-19.jpg",
       "papers/physics/img/11-2A-Stokes-Law-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q19a",
@@ -13525,7 +14600,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-20.jpg",
       "papers/physics/img/11-2A-Stokes-Law-21.jpg",
       "papers/physics/img/11-2A-Stokes-Law-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q19b",
@@ -13555,7 +14631,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-20.jpg",
       "papers/physics/img/11-2A-Stokes-Law-21.jpg",
       "papers/physics/img/11-2A-Stokes-Law-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q19c(i)",
@@ -13579,7 +14656,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-20.jpg",
       "papers/physics/img/11-2A-Stokes-Law-21.jpg",
       "papers/physics/img/11-2A-Stokes-Law-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q19c(ii)",
@@ -13603,7 +14681,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-20.jpg",
       "papers/physics/img/11-2A-Stokes-Law-21.jpg",
       "papers/physics/img/11-2A-Stokes-Law-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q19c(iii)",
@@ -13627,7 +14706,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-20.jpg",
       "papers/physics/img/11-2A-Stokes-Law-21.jpg",
       "papers/physics/img/11-2A-Stokes-Law-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q20a(i)",
@@ -13655,7 +14735,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-22.jpg",
       "papers/physics/img/11-2A-Stokes-Law-23.jpg",
       "papers/physics/img/11-2A-Stokes-Law-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q20a(ii)",
@@ -13683,7 +14764,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-22.jpg",
       "papers/physics/img/11-2A-Stokes-Law-23.jpg",
       "papers/physics/img/11-2A-Stokes-Law-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q20b(i)",
@@ -13707,7 +14789,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-22.jpg",
       "papers/physics/img/11-2A-Stokes-Law-23.jpg",
       "papers/physics/img/11-2A-Stokes-Law-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q20b(ii)",
@@ -13731,7 +14814,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-22.jpg",
       "papers/physics/img/11-2A-Stokes-Law-23.jpg",
       "papers/physics/img/11-2A-Stokes-Law-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q20b(iii)",
@@ -13759,7 +14843,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-22.jpg",
       "papers/physics/img/11-2A-Stokes-Law-23.jpg",
       "papers/physics/img/11-2A-Stokes-Law-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q20b(iv)",
@@ -13787,7 +14872,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-22.jpg",
       "papers/physics/img/11-2A-Stokes-Law-23.jpg",
       "papers/physics/img/11-2A-Stokes-Law-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q21a(i)",
@@ -13818,7 +14904,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-24.jpg",
       "papers/physics/img/11-2A-Stokes-Law-25.jpg",
       "papers/physics/img/11-2A-Stokes-Law-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q21a(ii)",
@@ -13847,7 +14934,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-24.jpg",
       "papers/physics/img/11-2A-Stokes-Law-25.jpg",
       "papers/physics/img/11-2A-Stokes-Law-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q21b(i)",
@@ -13876,7 +14964,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-24.jpg",
       "papers/physics/img/11-2A-Stokes-Law-25.jpg",
       "papers/physics/img/11-2A-Stokes-Law-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q21b(ii)",
@@ -13906,7 +14995,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-24.jpg",
       "papers/physics/img/11-2A-Stokes-Law-25.jpg",
       "papers/physics/img/11-2A-Stokes-Law-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q22a(i)",
@@ -13934,7 +15024,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-26.jpg",
       "papers/physics/img/11-2A-Stokes-Law-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q22a(ii)",
@@ -13961,7 +15052,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-26.jpg",
       "papers/physics/img/11-2A-Stokes-Law-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q22b",
@@ -13989,7 +15081,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-26.jpg",
       "papers/physics/img/11-2A-Stokes-Law-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q23",
@@ -14012,7 +15105,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-27.jpg",
       "papers/physics/img/11-2A-Stokes-Law-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q24",
@@ -14035,7 +15129,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-28.jpg",
       "papers/physics/img/11-2A-Stokes-Law-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q25",
@@ -14062,7 +15157,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-29.jpg",
       "papers/physics/img/11-2A-Stokes-Law-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q26a",
@@ -14091,7 +15187,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-29.jpg",
       "papers/physics/img/11-2A-Stokes-Law-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q26b",
@@ -14118,7 +15215,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-29.jpg",
       "papers/physics/img/11-2A-Stokes-Law-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q27a",
@@ -14142,7 +15240,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-30.jpg",
       "papers/physics/img/11-2A-Stokes-Law-31.jpg",
       "papers/physics/img/11-2A-Stokes-Law-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q27b",
@@ -14170,7 +15269,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-30.jpg",
       "papers/physics/img/11-2A-Stokes-Law-31.jpg",
       "papers/physics/img/11-2A-Stokes-Law-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q27c",
@@ -14199,7 +15299,8 @@ window.BANK.physics = {
       "papers/physics/img/11-2A-Stokes-Law-30.jpg",
       "papers/physics/img/11-2A-Stokes-Law-31.jpg",
       "papers/physics/img/11-2A-Stokes-Law-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q28a",
@@ -14227,7 +15328,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-32.jpg",
       "papers/physics/img/11-2A-Stokes-Law-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q28b(i)",
@@ -14254,7 +15356,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-32.jpg",
       "papers/physics/img/11-2A-Stokes-Law-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2A-Q28b(ii)",
@@ -14282,7 +15385,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/11-2A-Stokes-Law-32.jpg",
       "papers/physics/img/11-2A-Stokes-Law-33.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -14315,7 +15419,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-01.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-02.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q2a(i)",
@@ -14345,7 +15450,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-01.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-02.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q2a(ii)",
@@ -14374,7 +15480,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-01.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-02.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q2b",
@@ -14404,7 +15511,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-01.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-02.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q3a(i)",
@@ -14433,7 +15541,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-03.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-04.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q3a(ii)",
@@ -14461,7 +15570,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-03.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-04.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q3b(i)",
@@ -14489,7 +15599,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-03.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-04.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q3b(ii)",
@@ -14519,7 +15630,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-03.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-04.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q4a(i)",
@@ -14549,7 +15661,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-05.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-06.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q4a(ii)",
@@ -14578,7 +15691,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-05.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-06.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q4b",
@@ -14607,7 +15721,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-05.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-06.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q4c",
@@ -14639,7 +15754,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-05.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-06.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q5",
@@ -14663,7 +15779,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/12-2B-Density-Upthrust-07.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q6a",
@@ -14687,7 +15804,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-08.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-09.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q6b(i)",
@@ -14716,7 +15834,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-08.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-09.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q6b(ii)",
@@ -14745,7 +15864,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-08.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-09.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q6b(iii)",
@@ -14774,7 +15894,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-08.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-09.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q7a",
@@ -14803,7 +15924,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/12-2B-Density-Upthrust-10.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q7b",
@@ -14833,7 +15955,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/12-2B-Density-Upthrust-10.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q8",
@@ -14863,7 +15986,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/12-2B-Density-Upthrust-11.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q9a",
@@ -14891,7 +16015,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/12-2B-Density-Upthrust-13.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q9b(i)",
@@ -14919,7 +16044,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/12-2B-Density-Upthrust-13.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q9b(ii)",
@@ -14948,7 +16074,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/12-2B-Density-Upthrust-13.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q10a(i)",
@@ -14978,7 +16105,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-14.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-15.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q10a(ii)",
@@ -15008,7 +16136,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-14.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-15.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q10b(i)",
@@ -15037,7 +16166,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-14.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-15.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q10b(ii)",
@@ -15065,7 +16195,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-14.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-15.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q11",
@@ -15088,7 +16219,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/12-2B-Density-Upthrust-16.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q12",
@@ -15111,7 +16243,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/12-2B-Density-Upthrust-16.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q13a",
@@ -15139,7 +16272,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-17.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-18.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q13b(i)",
@@ -15168,7 +16302,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-17.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-18.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q13b(ii)",
@@ -15193,7 +16328,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-17.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-18.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q13c",
@@ -15225,7 +16361,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-17.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-18.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q14a",
@@ -15254,7 +16391,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-19.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-20.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q14b",
@@ -15281,7 +16419,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-19.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-20.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q15",
@@ -15311,7 +16450,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/12-2B-Density-Upthrust-21.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q16a",
@@ -15335,7 +16475,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-22.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-23.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q16b(i)",
@@ -15365,7 +16506,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-22.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-23.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q16b(ii)",
@@ -15397,7 +16539,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-22.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-23.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q17",
@@ -15421,7 +16564,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-24.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-25.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q18a",
@@ -15451,7 +16595,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-24.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-25.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q18b",
@@ -15479,7 +16624,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-24.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-25.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q19",
@@ -15506,7 +16652,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-26.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-27.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q20a",
@@ -15531,7 +16678,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-26.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-27.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q20b",
@@ -15562,7 +16710,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-26.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-27.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q21a",
@@ -15590,7 +16739,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-28.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-29.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q21b",
@@ -15618,7 +16768,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-28.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-29.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2B-Q21c",
@@ -15651,7 +16802,8 @@ window.BANK.physics = {
       "papers/physics/img/12-2B-Density-Upthrust-28.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-29.jpg",
       "papers/physics/img/12-2B-Density-Upthrust-30.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -15689,7 +16841,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/13-2C-Hookes-Law-01.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q2a",
@@ -15718,7 +16871,8 @@ window.BANK.physics = {
       "papers/physics/img/13-2C-Hookes-Law-02.jpg",
       "papers/physics/img/13-2C-Hookes-Law-03.jpg",
       "papers/physics/img/13-2C-Hookes-Law-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q2b(i)",
@@ -15746,7 +16900,8 @@ window.BANK.physics = {
       "papers/physics/img/13-2C-Hookes-Law-02.jpg",
       "papers/physics/img/13-2C-Hookes-Law-03.jpg",
       "papers/physics/img/13-2C-Hookes-Law-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q2b(ii)",
@@ -15774,7 +16929,8 @@ window.BANK.physics = {
       "papers/physics/img/13-2C-Hookes-Law-02.jpg",
       "papers/physics/img/13-2C-Hookes-Law-03.jpg",
       "papers/physics/img/13-2C-Hookes-Law-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q2c",
@@ -15806,7 +16962,8 @@ window.BANK.physics = {
       "papers/physics/img/13-2C-Hookes-Law-02.jpg",
       "papers/physics/img/13-2C-Hookes-Law-03.jpg",
       "papers/physics/img/13-2C-Hookes-Law-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q3",
@@ -15832,7 +16989,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/13-2C-Hookes-Law-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q4",
@@ -15854,7 +17012,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/13-2C-Hookes-Law-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q5",
@@ -15876,7 +17035,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/13-2C-Hookes-Law-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q6",
@@ -15903,7 +17063,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/13-2C-Hookes-Law-06.jpg",
       "papers/physics/img/13-2C-Hookes-Law-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q7a",
@@ -15930,7 +17091,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/13-2C-Hookes-Law-06.jpg",
       "papers/physics/img/13-2C-Hookes-Law-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q7b",
@@ -15961,7 +17123,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/13-2C-Hookes-Law-06.jpg",
       "papers/physics/img/13-2C-Hookes-Law-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q8",
@@ -15993,7 +17156,8 @@ window.BANK.physics = {
       "papers/physics/img/13-2C-Hookes-Law-07.jpg",
       "papers/physics/img/13-2C-Hookes-Law-08.jpg",
       "papers/physics/img/13-2C-Hookes-Law-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q9a",
@@ -16023,7 +17187,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/13-2C-Hookes-Law-09.jpg",
       "papers/physics/img/13-2C-Hookes-Law-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q9b",
@@ -16052,7 +17217,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/13-2C-Hookes-Law-09.jpg",
       "papers/physics/img/13-2C-Hookes-Law-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q10",
@@ -16076,7 +17242,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/13-2C-Hookes-Law-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q11",
@@ -16099,7 +17266,8 @@ window.BANK.physics = {
       "papers/physics/img/13-2C-Hookes-Law-11.jpg",
       "papers/physics/img/13-2C-Hookes-Law-12.jpg",
       "papers/physics/img/13-2C-Hookes-Law-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q12a",
@@ -16126,7 +17294,8 @@ window.BANK.physics = {
       "papers/physics/img/13-2C-Hookes-Law-11.jpg",
       "papers/physics/img/13-2C-Hookes-Law-12.jpg",
       "papers/physics/img/13-2C-Hookes-Law-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q12b",
@@ -16154,7 +17323,8 @@ window.BANK.physics = {
       "papers/physics/img/13-2C-Hookes-Law-11.jpg",
       "papers/physics/img/13-2C-Hookes-Law-12.jpg",
       "papers/physics/img/13-2C-Hookes-Law-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q12c",
@@ -16181,7 +17351,8 @@ window.BANK.physics = {
       "papers/physics/img/13-2C-Hookes-Law-11.jpg",
       "papers/physics/img/13-2C-Hookes-Law-12.jpg",
       "papers/physics/img/13-2C-Hookes-Law-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q12d",
@@ -16205,7 +17376,8 @@ window.BANK.physics = {
       "papers/physics/img/13-2C-Hookes-Law-11.jpg",
       "papers/physics/img/13-2C-Hookes-Law-12.jpg",
       "papers/physics/img/13-2C-Hookes-Law-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q13",
@@ -16228,7 +17400,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/13-2C-Hookes-Law-13.jpg",
       "papers/physics/img/13-2C-Hookes-Law-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2C-Q14",
@@ -16250,7 +17423,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/13-2C-Hookes-Law-14.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -16281,7 +17455,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-01.jpg",
       "papers/physics/img/14-2D-Stress-Strain-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q2a",
@@ -16307,7 +17482,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-01.jpg",
       "papers/physics/img/14-2D-Stress-Strain-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q2b(i)",
@@ -16333,7 +17509,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-01.jpg",
       "papers/physics/img/14-2D-Stress-Strain-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q2b(ii)",
@@ -16359,7 +17536,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-01.jpg",
       "papers/physics/img/14-2D-Stress-Strain-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q3",
@@ -16382,7 +17560,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-02.jpg",
       "papers/physics/img/14-2D-Stress-Strain-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q4",
@@ -16404,7 +17583,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-02.jpg",
       "papers/physics/img/14-2D-Stress-Strain-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q5",
@@ -16427,7 +17607,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-03.jpg",
       "papers/physics/img/14-2D-Stress-Strain-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q6",
@@ -16449,7 +17630,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-03.jpg",
       "papers/physics/img/14-2D-Stress-Strain-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q7",
@@ -16473,7 +17655,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-04.jpg",
       "papers/physics/img/14-2D-Stress-Strain-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q8",
@@ -16496,7 +17679,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-05.jpg",
       "papers/physics/img/14-2D-Stress-Strain-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q9a(i)",
@@ -16525,7 +17709,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-06.jpg",
       "papers/physics/img/14-2D-Stress-Strain-07.jpg",
       "papers/physics/img/14-2D-Stress-Strain-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q9a(ii)",
@@ -16555,7 +17740,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-06.jpg",
       "papers/physics/img/14-2D-Stress-Strain-07.jpg",
       "papers/physics/img/14-2D-Stress-Strain-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q9b(i)",
@@ -16578,7 +17764,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-06.jpg",
       "papers/physics/img/14-2D-Stress-Strain-07.jpg",
       "papers/physics/img/14-2D-Stress-Strain-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q9b(ii)",
@@ -16606,7 +17793,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-06.jpg",
       "papers/physics/img/14-2D-Stress-Strain-07.jpg",
       "papers/physics/img/14-2D-Stress-Strain-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q9b(iii)",
@@ -16637,7 +17825,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-06.jpg",
       "papers/physics/img/14-2D-Stress-Strain-07.jpg",
       "papers/physics/img/14-2D-Stress-Strain-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q10",
@@ -16664,7 +17853,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-08.jpg",
       "papers/physics/img/14-2D-Stress-Strain-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q11a",
@@ -16687,7 +17877,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-09.jpg",
       "papers/physics/img/14-2D-Stress-Strain-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q11b",
@@ -16709,7 +17900,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-09.jpg",
       "papers/physics/img/14-2D-Stress-Strain-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q11c",
@@ -16738,7 +17930,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-09.jpg",
       "papers/physics/img/14-2D-Stress-Strain-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q12a",
@@ -16761,7 +17954,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-11.jpg",
       "papers/physics/img/14-2D-Stress-Strain-12.jpg",
       "papers/physics/img/14-2D-Stress-Strain-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q12b",
@@ -16784,7 +17978,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-11.jpg",
       "papers/physics/img/14-2D-Stress-Strain-12.jpg",
       "papers/physics/img/14-2D-Stress-Strain-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q12c(i)",
@@ -16814,7 +18009,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-11.jpg",
       "papers/physics/img/14-2D-Stress-Strain-12.jpg",
       "papers/physics/img/14-2D-Stress-Strain-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q12c(ii)",
@@ -16842,7 +18038,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-11.jpg",
       "papers/physics/img/14-2D-Stress-Strain-12.jpg",
       "papers/physics/img/14-2D-Stress-Strain-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q13a",
@@ -16869,7 +18066,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-13.jpg",
       "papers/physics/img/14-2D-Stress-Strain-14.jpg",
       "papers/physics/img/14-2D-Stress-Strain-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q13b(i)",
@@ -16891,7 +18089,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-13.jpg",
       "papers/physics/img/14-2D-Stress-Strain-14.jpg",
       "papers/physics/img/14-2D-Stress-Strain-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q13b(ii)",
@@ -16921,7 +18120,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-13.jpg",
       "papers/physics/img/14-2D-Stress-Strain-14.jpg",
       "papers/physics/img/14-2D-Stress-Strain-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q14a(i)",
@@ -16947,7 +18147,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-16.jpg",
       "papers/physics/img/14-2D-Stress-Strain-17.jpg",
       "papers/physics/img/14-2D-Stress-Strain-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q14a(ii)",
@@ -16977,7 +18178,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-16.jpg",
       "papers/physics/img/14-2D-Stress-Strain-17.jpg",
       "papers/physics/img/14-2D-Stress-Strain-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q14b",
@@ -17002,7 +18204,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-16.jpg",
       "papers/physics/img/14-2D-Stress-Strain-17.jpg",
       "papers/physics/img/14-2D-Stress-Strain-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q15a",
@@ -17027,7 +18230,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-18.jpg",
       "papers/physics/img/14-2D-Stress-Strain-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q15b(i)",
@@ -17054,7 +18258,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-18.jpg",
       "papers/physics/img/14-2D-Stress-Strain-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q15b(ii)",
@@ -17080,7 +18285,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-18.jpg",
       "papers/physics/img/14-2D-Stress-Strain-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q15b(iii)",
@@ -17108,7 +18314,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-18.jpg",
       "papers/physics/img/14-2D-Stress-Strain-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q15c",
@@ -17138,7 +18345,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-18.jpg",
       "papers/physics/img/14-2D-Stress-Strain-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q16a",
@@ -17163,7 +18371,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-20.jpg",
       "papers/physics/img/14-2D-Stress-Strain-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q16b(i)",
@@ -17184,7 +18393,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-20.jpg",
       "papers/physics/img/14-2D-Stress-Strain-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q16b(ii)",
@@ -17206,7 +18416,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-20.jpg",
       "papers/physics/img/14-2D-Stress-Strain-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q16c",
@@ -17232,7 +18443,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-20.jpg",
       "papers/physics/img/14-2D-Stress-Strain-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q17a",
@@ -17261,7 +18473,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-21.jpg",
       "papers/physics/img/14-2D-Stress-Strain-22.jpg",
       "papers/physics/img/14-2D-Stress-Strain-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q17b(i)",
@@ -17290,7 +18503,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-21.jpg",
       "papers/physics/img/14-2D-Stress-Strain-22.jpg",
       "papers/physics/img/14-2D-Stress-Strain-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q17b(ii)",
@@ -17314,7 +18528,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-21.jpg",
       "papers/physics/img/14-2D-Stress-Strain-22.jpg",
       "papers/physics/img/14-2D-Stress-Strain-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q18a",
@@ -17342,7 +18557,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-23.jpg",
       "papers/physics/img/14-2D-Stress-Strain-24.jpg",
       "papers/physics/img/14-2D-Stress-Strain-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q18b(i)",
@@ -17369,7 +18585,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-23.jpg",
       "papers/physics/img/14-2D-Stress-Strain-24.jpg",
       "papers/physics/img/14-2D-Stress-Strain-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q18b(ii)",
@@ -17397,7 +18614,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-23.jpg",
       "papers/physics/img/14-2D-Stress-Strain-24.jpg",
       "papers/physics/img/14-2D-Stress-Strain-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q18b(iii)",
@@ -17424,7 +18642,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-23.jpg",
       "papers/physics/img/14-2D-Stress-Strain-24.jpg",
       "papers/physics/img/14-2D-Stress-Strain-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q18c",
@@ -17453,7 +18672,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-23.jpg",
       "papers/physics/img/14-2D-Stress-Strain-24.jpg",
       "papers/physics/img/14-2D-Stress-Strain-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q19",
@@ -17476,7 +18696,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-25.jpg",
       "papers/physics/img/14-2D-Stress-Strain-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q20",
@@ -17498,7 +18719,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-25.jpg",
       "papers/physics/img/14-2D-Stress-Strain-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q21",
@@ -17520,7 +18742,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q22",
@@ -17542,7 +18765,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q23",
@@ -17572,7 +18796,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-28.jpg",
       "papers/physics/img/14-2D-Stress-Strain-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q24",
@@ -17594,7 +18819,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-29.jpg",
       "papers/physics/img/14-2D-Stress-Strain-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q25",
@@ -17616,7 +18842,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-30.jpg",
       "papers/physics/img/14-2D-Stress-Strain-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q26",
@@ -17638,7 +18865,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-31.jpg",
       "papers/physics/img/14-2D-Stress-Strain-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q27",
@@ -17661,7 +18889,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-32.jpg",
       "papers/physics/img/14-2D-Stress-Strain-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q28",
@@ -17683,7 +18912,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-33.jpg",
       "papers/physics/img/14-2D-Stress-Strain-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q29a(i)",
@@ -17711,7 +18941,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-34.jpg",
       "papers/physics/img/14-2D-Stress-Strain-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q29a(ii)",
@@ -17734,7 +18965,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-34.jpg",
       "papers/physics/img/14-2D-Stress-Strain-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q29b",
@@ -17760,7 +18992,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-34.jpg",
       "papers/physics/img/14-2D-Stress-Strain-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q30",
@@ -17782,7 +19015,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-35.jpg",
       "papers/physics/img/14-2D-Stress-Strain-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q31",
@@ -17805,7 +19039,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-36.jpg",
       "papers/physics/img/14-2D-Stress-Strain-37.jpg",
       "papers/physics/img/14-2D-Stress-Strain-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q32a",
@@ -17832,7 +19067,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-36.jpg",
       "papers/physics/img/14-2D-Stress-Strain-37.jpg",
       "papers/physics/img/14-2D-Stress-Strain-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q32b",
@@ -17859,7 +19095,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-36.jpg",
       "papers/physics/img/14-2D-Stress-Strain-37.jpg",
       "papers/physics/img/14-2D-Stress-Strain-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q32c",
@@ -17885,7 +19122,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-36.jpg",
       "papers/physics/img/14-2D-Stress-Strain-37.jpg",
       "papers/physics/img/14-2D-Stress-Strain-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q32d",
@@ -17909,7 +19147,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-36.jpg",
       "papers/physics/img/14-2D-Stress-Strain-37.jpg",
       "papers/physics/img/14-2D-Stress-Strain-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q33a(i)",
@@ -17932,7 +19171,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-38.jpg",
       "papers/physics/img/14-2D-Stress-Strain-39.jpg",
       "papers/physics/img/14-2D-Stress-Strain-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q33a(ii)",
@@ -17959,7 +19199,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-38.jpg",
       "papers/physics/img/14-2D-Stress-Strain-39.jpg",
       "papers/physics/img/14-2D-Stress-Strain-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q33a(iii)",
@@ -17986,7 +19227,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-38.jpg",
       "papers/physics/img/14-2D-Stress-Strain-39.jpg",
       "papers/physics/img/14-2D-Stress-Strain-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q33b",
@@ -18010,7 +19252,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-38.jpg",
       "papers/physics/img/14-2D-Stress-Strain-39.jpg",
       "papers/physics/img/14-2D-Stress-Strain-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q33c",
@@ -18039,7 +19282,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-38.jpg",
       "papers/physics/img/14-2D-Stress-Strain-39.jpg",
       "papers/physics/img/14-2D-Stress-Strain-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q34",
@@ -18062,7 +19306,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-40.jpg",
       "papers/physics/img/14-2D-Stress-Strain-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q35",
@@ -18088,7 +19333,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-41.jpg",
       "papers/physics/img/14-2D-Stress-Strain-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q36a",
@@ -18110,7 +19356,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-41.jpg",
       "papers/physics/img/14-2D-Stress-Strain-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q36b",
@@ -18133,7 +19380,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-41.jpg",
       "papers/physics/img/14-2D-Stress-Strain-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q37",
@@ -18155,7 +19403,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-42.jpg",
       "papers/physics/img/14-2D-Stress-Strain-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q38",
@@ -18181,7 +19430,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-43.jpg",
       "papers/physics/img/14-2D-Stress-Strain-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q39",
@@ -18208,7 +19458,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-43.jpg",
       "papers/physics/img/14-2D-Stress-Strain-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q40",
@@ -18234,7 +19485,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-44.jpg",
       "papers/physics/img/14-2D-Stress-Strain-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q41",
@@ -18256,7 +19508,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-45.jpg",
       "papers/physics/img/14-2D-Stress-Strain-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q42",
@@ -18279,7 +19532,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-45.jpg",
       "papers/physics/img/14-2D-Stress-Strain-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q43a",
@@ -18306,7 +19560,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-46.jpg",
       "papers/physics/img/14-2D-Stress-Strain-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q43b",
@@ -18333,7 +19588,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-46.jpg",
       "papers/physics/img/14-2D-Stress-Strain-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q43c(i)",
@@ -18355,7 +19611,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-46.jpg",
       "papers/physics/img/14-2D-Stress-Strain-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q43c(ii)",
@@ -18378,7 +19635,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-46.jpg",
       "papers/physics/img/14-2D-Stress-Strain-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q44a",
@@ -18405,7 +19663,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-47.jpg",
       "papers/physics/img/14-2D-Stress-Strain-48.jpg",
       "papers/physics/img/14-2D-Stress-Strain-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q44b(i)",
@@ -18429,7 +19688,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-47.jpg",
       "papers/physics/img/14-2D-Stress-Strain-48.jpg",
       "papers/physics/img/14-2D-Stress-Strain-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q44b(ii)",
@@ -18456,7 +19716,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-47.jpg",
       "papers/physics/img/14-2D-Stress-Strain-48.jpg",
       "papers/physics/img/14-2D-Stress-Strain-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q45",
@@ -18481,7 +19742,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q46",
@@ -18507,7 +19769,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-50.jpg",
       "papers/physics/img/14-2D-Stress-Strain-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q47a",
@@ -18530,7 +19793,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-50.jpg",
       "papers/physics/img/14-2D-Stress-Strain-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q47b",
@@ -18554,7 +19818,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/14-2D-Stress-Strain-50.jpg",
       "papers/physics/img/14-2D-Stress-Strain-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q48a",
@@ -18577,7 +19842,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-51.jpg",
       "papers/physics/img/14-2D-Stress-Strain-52.jpg",
       "papers/physics/img/14-2D-Stress-Strain-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "2D-Q48b",
@@ -18606,7 +19872,8 @@ window.BANK.physics = {
       "papers/physics/img/14-2D-Stress-Strain-51.jpg",
       "papers/physics/img/14-2D-Stress-Strain-52.jpg",
       "papers/physics/img/14-2D-Stress-Strain-53.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -18644,7 +19911,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-01.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-02.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q1b(i)",
@@ -18669,7 +19937,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-01.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-02.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q1b(ii)",
@@ -18699,7 +19968,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-01.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-02.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q1c",
@@ -18729,7 +19999,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-01.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-02.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q2",
@@ -18752,7 +20023,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-03.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q3",
@@ -18781,7 +20053,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-03.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q4",
@@ -18806,7 +20079,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-04.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-05.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q5",
@@ -18835,7 +20109,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-04.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-05.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q6a",
@@ -18865,7 +20140,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-04.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-05.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q6b",
@@ -18890,7 +20166,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-04.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-05.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q7a",
@@ -18915,7 +20192,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-06.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-07.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q7b",
@@ -18945,7 +20223,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-06.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-07.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q7c",
@@ -18975,7 +20254,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-06.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-07.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q8",
@@ -18998,7 +20278,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q9",
@@ -19021,7 +20302,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q10",
@@ -19044,7 +20326,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-09.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q11",
@@ -19073,7 +20356,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-09.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q12",
@@ -19101,7 +20385,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-10.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q13",
@@ -19124,7 +20409,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-10.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q14",
@@ -19147,7 +20433,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q15",
@@ -19171,7 +20458,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-12.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q16",
@@ -19195,7 +20483,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-14.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q17",
@@ -19219,7 +20508,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-14.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q18",
@@ -19248,7 +20538,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-15.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q19",
@@ -19271,7 +20562,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-15.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q20a",
@@ -19295,7 +20587,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-16.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-17.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q20b",
@@ -19325,7 +20618,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-16.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-17.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q20c",
@@ -19355,7 +20649,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-16.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-17.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q21a",
@@ -19384,7 +20679,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-18.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q21b(i)",
@@ -19408,7 +20704,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-18.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q21b(ii)",
@@ -19431,7 +20728,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-18.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q22a",
@@ -19455,7 +20753,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-19.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-20.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q22b",
@@ -19486,7 +20785,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-19.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-20.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q22c",
@@ -19517,7 +20817,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-19.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-20.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q23a(i)",
@@ -19546,7 +20847,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-21.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q23a(ii)",
@@ -19577,7 +20879,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-21.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q23b",
@@ -19607,7 +20910,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-21.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q24",
@@ -19630,7 +20934,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-22.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q25",
@@ -19652,7 +20957,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q26",
@@ -19681,7 +20987,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-24.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q27",
@@ -19704,7 +21011,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-24.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q28a",
@@ -19735,7 +21043,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-25.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q28b",
@@ -19763,7 +21072,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-25.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q29",
@@ -19790,7 +21100,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q30",
@@ -19813,7 +21124,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-27.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q31",
@@ -19841,7 +21153,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-27.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q32",
@@ -19864,7 +21177,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-27.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q33",
@@ -19893,7 +21207,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-28.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q34",
@@ -19922,7 +21237,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-28.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q35",
@@ -19945,7 +21261,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-29.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q36",
@@ -19973,7 +21290,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-29.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q37a",
@@ -20004,7 +21322,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-30.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-31.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q37b",
@@ -20029,7 +21348,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-30.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-31.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q37c(i)",
@@ -20059,7 +21379,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-30.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-31.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q37c(ii)",
@@ -20091,7 +21412,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-30.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-31.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q38a",
@@ -20118,7 +21440,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-32.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q38b",
@@ -20147,7 +21470,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-32.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q39a",
@@ -20173,7 +21497,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-34.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-35.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q39b",
@@ -20199,7 +21524,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-34.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-35.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q39c",
@@ -20225,7 +21551,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-34.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-35.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q39d",
@@ -20256,7 +21583,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-34.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-35.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q40a",
@@ -20285,7 +21613,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-36.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-37.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q40b",
@@ -20315,7 +21644,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-36.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-37.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q40c(i)",
@@ -20345,7 +21675,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-36.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-37.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q40c(ii)",
@@ -20374,7 +21705,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-36.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-37.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q41a",
@@ -20401,7 +21733,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q41b",
@@ -20423,7 +21756,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q42a",
@@ -20451,7 +21785,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-39.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q42b",
@@ -20475,7 +21810,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-39.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q43",
@@ -20499,7 +21835,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-41.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-42.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q44a",
@@ -20528,7 +21865,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-41.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-42.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q44b",
@@ -20557,7 +21895,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-41.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-42.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q44c",
@@ -20581,7 +21920,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-41.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-42.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q45a",
@@ -20609,7 +21949,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-43.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q45b",
@@ -20638,7 +21979,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-43.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q46a",
@@ -20669,7 +22011,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-44.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q46b(i)",
@@ -20697,7 +22040,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-44.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q46b(ii)",
@@ -20725,7 +22069,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-44.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q47a",
@@ -20753,7 +22098,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-45.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q47b(i)",
@@ -20783,7 +22129,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-45.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q47b(ii)",
@@ -20812,7 +22159,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-45.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q48",
@@ -20835,7 +22183,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-46.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q49",
@@ -20863,7 +22212,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-47.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q50",
@@ -20886,7 +22236,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-48.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q51a",
@@ -20909,7 +22260,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-49.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-50.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q51b",
@@ -20940,7 +22292,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-49.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-50.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q51c(i)",
@@ -20970,7 +22323,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-49.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-50.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q51c(ii)",
@@ -20994,7 +22348,8 @@ window.BANK.physics = {
       "papers/physics/img/16-3B-Behaviour-of-Waves-49.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-50.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3B-Q52",
@@ -21017,7 +22372,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/16-3B-Behaviour-of-Waves-51.jpg",
       "papers/physics/img/16-3B-Behaviour-of-Waves-52.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -21054,7 +22410,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-01.jpg",
       "papers/physics/img/17-3C-Light-Waves-02.jpg",
       "papers/physics/img/17-3C-Light-Waves-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q2a",
@@ -21083,7 +22440,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-01.jpg",
       "papers/physics/img/17-3C-Light-Waves-02.jpg",
       "papers/physics/img/17-3C-Light-Waves-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q2b",
@@ -21112,7 +22470,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-01.jpg",
       "papers/physics/img/17-3C-Light-Waves-02.jpg",
       "papers/physics/img/17-3C-Light-Waves-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q2c(i)",
@@ -21142,7 +22501,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-01.jpg",
       "papers/physics/img/17-3C-Light-Waves-02.jpg",
       "papers/physics/img/17-3C-Light-Waves-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q2c(ii)",
@@ -21171,7 +22531,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-01.jpg",
       "papers/physics/img/17-3C-Light-Waves-02.jpg",
       "papers/physics/img/17-3C-Light-Waves-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q2c(iii)",
@@ -21201,7 +22562,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-01.jpg",
       "papers/physics/img/17-3C-Light-Waves-02.jpg",
       "papers/physics/img/17-3C-Light-Waves-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q3",
@@ -21224,7 +22586,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-03.jpg",
       "papers/physics/img/17-3C-Light-Waves-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q4",
@@ -21253,7 +22616,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-04.jpg",
       "papers/physics/img/17-3C-Light-Waves-05.jpg",
       "papers/physics/img/17-3C-Light-Waves-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q5a",
@@ -21282,7 +22646,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-04.jpg",
       "papers/physics/img/17-3C-Light-Waves-05.jpg",
       "papers/physics/img/17-3C-Light-Waves-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q5b",
@@ -21311,7 +22676,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-04.jpg",
       "papers/physics/img/17-3C-Light-Waves-05.jpg",
       "papers/physics/img/17-3C-Light-Waves-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q5c",
@@ -21336,7 +22702,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-04.jpg",
       "papers/physics/img/17-3C-Light-Waves-05.jpg",
       "papers/physics/img/17-3C-Light-Waves-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q6a",
@@ -21361,7 +22728,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-06.jpg",
       "papers/physics/img/17-3C-Light-Waves-07.jpg",
       "papers/physics/img/17-3C-Light-Waves-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q6b",
@@ -21385,7 +22753,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-06.jpg",
       "papers/physics/img/17-3C-Light-Waves-07.jpg",
       "papers/physics/img/17-3C-Light-Waves-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q6c",
@@ -21415,7 +22784,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-06.jpg",
       "papers/physics/img/17-3C-Light-Waves-07.jpg",
       "papers/physics/img/17-3C-Light-Waves-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q7",
@@ -21443,7 +22813,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-08.jpg",
       "papers/physics/img/17-3C-Light-Waves-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q8",
@@ -21471,7 +22842,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-08.jpg",
       "papers/physics/img/17-3C-Light-Waves-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q9a",
@@ -21499,7 +22871,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-08.jpg",
       "papers/physics/img/17-3C-Light-Waves-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q9b",
@@ -21527,7 +22900,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-08.jpg",
       "papers/physics/img/17-3C-Light-Waves-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q10a",
@@ -21552,7 +22926,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-09.jpg",
       "papers/physics/img/17-3C-Light-Waves-10.jpg",
       "papers/physics/img/17-3C-Light-Waves-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q10b",
@@ -21576,7 +22951,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-09.jpg",
       "papers/physics/img/17-3C-Light-Waves-10.jpg",
       "papers/physics/img/17-3C-Light-Waves-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q11a",
@@ -21605,7 +22981,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-11.jpg",
       "papers/physics/img/17-3C-Light-Waves-12.jpg",
       "papers/physics/img/17-3C-Light-Waves-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q11b",
@@ -21636,7 +23013,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-11.jpg",
       "papers/physics/img/17-3C-Light-Waves-12.jpg",
       "papers/physics/img/17-3C-Light-Waves-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q11c",
@@ -21666,7 +23044,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-11.jpg",
       "papers/physics/img/17-3C-Light-Waves-12.jpg",
       "papers/physics/img/17-3C-Light-Waves-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q12a",
@@ -21695,7 +23074,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-13.jpg",
       "papers/physics/img/17-3C-Light-Waves-14.jpg",
       "papers/physics/img/17-3C-Light-Waves-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q12b",
@@ -21720,7 +23100,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-13.jpg",
       "papers/physics/img/17-3C-Light-Waves-14.jpg",
       "papers/physics/img/17-3C-Light-Waves-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q13",
@@ -21743,7 +23124,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-15.jpg",
       "papers/physics/img/17-3C-Light-Waves-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q14a",
@@ -21768,7 +23150,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-16.jpg",
       "papers/physics/img/17-3C-Light-Waves-17.jpg",
       "papers/physics/img/17-3C-Light-Waves-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q14b(i)",
@@ -21792,7 +23175,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-16.jpg",
       "papers/physics/img/17-3C-Light-Waves-17.jpg",
       "papers/physics/img/17-3C-Light-Waves-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q14b(ii)",
@@ -21816,7 +23200,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-16.jpg",
       "papers/physics/img/17-3C-Light-Waves-17.jpg",
       "papers/physics/img/17-3C-Light-Waves-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q15a",
@@ -21839,7 +23224,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-18.jpg",
       "papers/physics/img/17-3C-Light-Waves-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q15b",
@@ -21867,7 +23253,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-18.jpg",
       "papers/physics/img/17-3C-Light-Waves-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q16a(i)",
@@ -21890,7 +23277,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-19.jpg",
       "papers/physics/img/17-3C-Light-Waves-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q16a(ii)",
@@ -21913,7 +23301,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-19.jpg",
       "papers/physics/img/17-3C-Light-Waves-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q16b(i)",
@@ -21936,7 +23325,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-19.jpg",
       "papers/physics/img/17-3C-Light-Waves-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q16b(ii)",
@@ -21964,7 +23354,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-19.jpg",
       "papers/physics/img/17-3C-Light-Waves-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q17",
@@ -21987,7 +23378,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-20.jpg",
       "papers/physics/img/17-3C-Light-Waves-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q18",
@@ -22010,7 +23402,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-21.jpg",
       "papers/physics/img/17-3C-Light-Waves-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q19",
@@ -22033,7 +23426,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-22.jpg",
       "papers/physics/img/17-3C-Light-Waves-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q20",
@@ -22056,7 +23450,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-22.jpg",
       "papers/physics/img/17-3C-Light-Waves-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q21a(i)",
@@ -22079,7 +23474,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-23.jpg",
       "papers/physics/img/17-3C-Light-Waves-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q21a(ii)",
@@ -22102,7 +23498,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-23.jpg",
       "papers/physics/img/17-3C-Light-Waves-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q21b",
@@ -22130,7 +23527,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-23.jpg",
       "papers/physics/img/17-3C-Light-Waves-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q22",
@@ -22158,7 +23556,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-24.jpg",
       "papers/physics/img/17-3C-Light-Waves-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q23",
@@ -22181,7 +23580,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-25.jpg",
       "papers/physics/img/17-3C-Light-Waves-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q24a",
@@ -22205,7 +23605,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-26.jpg",
       "papers/physics/img/17-3C-Light-Waves-27.jpg",
       "papers/physics/img/17-3C-Light-Waves-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q24b(i)",
@@ -22234,7 +23635,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-26.jpg",
       "papers/physics/img/17-3C-Light-Waves-27.jpg",
       "papers/physics/img/17-3C-Light-Waves-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q24b(ii)",
@@ -22263,7 +23665,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-26.jpg",
       "papers/physics/img/17-3C-Light-Waves-27.jpg",
       "papers/physics/img/17-3C-Light-Waves-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q25a",
@@ -22290,7 +23693,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-28.jpg",
       "papers/physics/img/17-3C-Light-Waves-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q25b",
@@ -22314,7 +23718,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-28.jpg",
       "papers/physics/img/17-3C-Light-Waves-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q26a",
@@ -22343,7 +23748,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-29.jpg",
       "papers/physics/img/17-3C-Light-Waves-30.jpg",
       "papers/physics/img/17-3C-Light-Waves-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q26b",
@@ -22367,7 +23773,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-29.jpg",
       "papers/physics/img/17-3C-Light-Waves-30.jpg",
       "papers/physics/img/17-3C-Light-Waves-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q26c(i)",
@@ -22396,7 +23803,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-29.jpg",
       "papers/physics/img/17-3C-Light-Waves-30.jpg",
       "papers/physics/img/17-3C-Light-Waves-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q26c(ii)",
@@ -22421,7 +23829,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-29.jpg",
       "papers/physics/img/17-3C-Light-Waves-30.jpg",
       "papers/physics/img/17-3C-Light-Waves-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q27",
@@ -22449,7 +23858,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-31.jpg",
       "papers/physics/img/17-3C-Light-Waves-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q28",
@@ -22473,7 +23883,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-32.jpg",
       "papers/physics/img/17-3C-Light-Waves-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q29a",
@@ -22501,7 +23912,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-33.jpg",
       "papers/physics/img/17-3C-Light-Waves-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q29b(i)",
@@ -22524,7 +23936,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-33.jpg",
       "papers/physics/img/17-3C-Light-Waves-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q29b(ii)",
@@ -22547,7 +23960,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-33.jpg",
       "papers/physics/img/17-3C-Light-Waves-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q30",
@@ -22570,7 +23984,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-34.jpg",
       "papers/physics/img/17-3C-Light-Waves-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q31",
@@ -22599,7 +24014,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-35.jpg",
       "papers/physics/img/17-3C-Light-Waves-36.jpg",
       "papers/physics/img/17-3C-Light-Waves-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q32a(i)",
@@ -22623,7 +24039,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-35.jpg",
       "papers/physics/img/17-3C-Light-Waves-36.jpg",
       "papers/physics/img/17-3C-Light-Waves-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q32a(ii)",
@@ -22647,7 +24064,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-35.jpg",
       "papers/physics/img/17-3C-Light-Waves-36.jpg",
       "papers/physics/img/17-3C-Light-Waves-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q32b(i)",
@@ -22676,7 +24094,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-35.jpg",
       "papers/physics/img/17-3C-Light-Waves-36.jpg",
       "papers/physics/img/17-3C-Light-Waves-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q32b(ii)",
@@ -22705,7 +24124,8 @@ window.BANK.physics = {
       "papers/physics/img/17-3C-Light-Waves-35.jpg",
       "papers/physics/img/17-3C-Light-Waves-36.jpg",
       "papers/physics/img/17-3C-Light-Waves-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q33",
@@ -22733,7 +24153,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-37.jpg",
       "papers/physics/img/17-3C-Light-Waves-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3C-Q34",
@@ -22761,7 +24182,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/17-3C-Light-Waves-37.jpg",
       "papers/physics/img/17-3C-Light-Waves-38.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -22799,7 +24221,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-01.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q2",
@@ -22829,7 +24252,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-01.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q3",
@@ -22852,7 +24276,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-02.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q4a",
@@ -22880,7 +24305,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q4b",
@@ -22909,7 +24335,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q5",
@@ -22932,7 +24359,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-04.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-05.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q6",
@@ -22962,7 +24390,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-04.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-05.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q7a",
@@ -22992,7 +24421,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-04.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-05.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q7b",
@@ -23020,7 +24450,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-04.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-05.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q7c",
@@ -23050,7 +24481,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-04.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-05.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q8",
@@ -23073,7 +24505,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-06.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q9a",
@@ -23096,7 +24529,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-07.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q9b",
@@ -23123,7 +24557,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-07.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q10a",
@@ -23150,7 +24585,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-08.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q10b",
@@ -23173,7 +24609,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-08.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q10c(i)",
@@ -23196,7 +24633,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-08.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q10c(ii)",
@@ -23223,7 +24661,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-08.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q11",
@@ -23251,7 +24690,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-09.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q12a",
@@ -23278,7 +24718,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-10.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q12b",
@@ -23300,7 +24741,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-10.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q13a(i)",
@@ -23329,7 +24771,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-12.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-13.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q13a(ii)",
@@ -23358,7 +24801,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-12.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-13.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q13b",
@@ -23387,7 +24831,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-12.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-13.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q14a",
@@ -23418,7 +24863,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-12.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-13.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q14b",
@@ -23449,7 +24895,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-12.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-13.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q15",
@@ -23477,7 +24924,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-14.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q16a",
@@ -23505,7 +24953,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-14.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q16b(i)",
@@ -23533,7 +24982,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-14.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q16b(ii)",
@@ -23561,7 +25011,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-14.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q17a",
@@ -23589,7 +25040,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-16.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q17b",
@@ -23617,7 +25069,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-16.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q17c",
@@ -23640,7 +25093,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-16.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q18a",
@@ -23671,7 +25125,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-17.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q18b",
@@ -23699,7 +25154,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-17.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q19",
@@ -23722,7 +25178,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-18.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q20a",
@@ -23750,7 +25207,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-18.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q20b",
@@ -23778,7 +25236,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-18.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q21",
@@ -23801,7 +25260,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-19.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q22",
@@ -23829,7 +25289,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-20.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q23a",
@@ -23857,7 +25318,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-21.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-22.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q23b",
@@ -23886,7 +25348,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-21.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-22.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q23c(i)",
@@ -23915,7 +25378,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-21.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-22.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q23c(ii)",
@@ -23944,7 +25408,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-21.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-22.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q23d",
@@ -23973,7 +25438,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-21.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-22.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q24",
@@ -24001,7 +25467,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-23.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q25",
@@ -24029,7 +25496,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-24.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q26",
@@ -24057,7 +25525,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-24.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q27",
@@ -24079,7 +25548,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-24.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q28a",
@@ -24109,7 +25579,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-25.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-26.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q28b",
@@ -24133,7 +25604,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-25.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-26.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q29a",
@@ -24161,7 +25633,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-27.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q29b",
@@ -24184,7 +25657,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-27.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q30",
@@ -24206,7 +25680,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-28.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q31",
@@ -24228,7 +25703,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-29.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q32a",
@@ -24251,7 +25727,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-30.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q32b",
@@ -24279,7 +25756,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-30.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q32c",
@@ -24307,7 +25785,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-30.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q33a",
@@ -24335,7 +25814,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-31.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-32.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q33b",
@@ -24359,7 +25839,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-31.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-32.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q33c",
@@ -24383,7 +25864,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-31.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-32.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q34",
@@ -24413,7 +25895,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-33.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q35",
@@ -24441,7 +25924,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-34.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-35.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q36a",
@@ -24465,7 +25949,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-34.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-35.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q36b",
@@ -24494,7 +25979,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-34.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-35.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q36c",
@@ -24523,7 +26009,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-34.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-35.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q37",
@@ -24546,7 +26033,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-36.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q38",
@@ -24569,7 +26057,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-36.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q39",
@@ -24591,7 +26080,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-37.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q40a",
@@ -24618,7 +26108,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-38.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q40b",
@@ -24641,7 +26132,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-38.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q41a",
@@ -24671,7 +26163,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-39.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q41b",
@@ -24699,7 +26192,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-39.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q42a(i)",
@@ -24727,7 +26221,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-40.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q42a(ii)",
@@ -24754,7 +26249,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-40.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q42b(i)",
@@ -24781,7 +26277,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-40.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q42b(ii)",
@@ -24808,7 +26305,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-40.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q43",
@@ -24835,7 +26333,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-41.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q44",
@@ -24856,7 +26355,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q45a(i)",
@@ -24883,7 +26383,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-43.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q45a(ii)",
@@ -24906,7 +26407,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-43.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q45b",
@@ -24934,7 +26436,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-43.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q45c",
@@ -24962,7 +26465,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-43.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q46a",
@@ -24991,7 +26495,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-44.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-45.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q46b",
@@ -25020,7 +26525,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-44.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-45.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q46c",
@@ -25049,7 +26555,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-44.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-45.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q47a",
@@ -25078,7 +26585,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-46.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-47.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q47b(i)",
@@ -25107,7 +26615,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-46.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-47.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q47b(ii)",
@@ -25135,7 +26644,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-46.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-47.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q47c(i)",
@@ -25163,7 +26673,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-46.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-47.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q47c(ii)",
@@ -25192,7 +26703,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-46.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-47.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q48",
@@ -25220,7 +26732,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-48.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q49",
@@ -25242,7 +26755,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-48.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q50",
@@ -25270,7 +26784,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-49.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q51",
@@ -25293,7 +26808,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-49.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q52",
@@ -25321,7 +26837,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-50.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q53a(i)",
@@ -25348,7 +26865,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-51.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q53a(ii)",
@@ -25378,7 +26896,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-51.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q53b(i)",
@@ -25406,7 +26925,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-51.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q53b(ii)",
@@ -25433,7 +26953,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-51.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q54a",
@@ -25461,7 +26982,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-53.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q54b",
@@ -25489,7 +27011,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-53.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q54c",
@@ -25517,7 +27040,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-53.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q55",
@@ -25545,7 +27069,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-53.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q56a",
@@ -25574,7 +27099,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-54.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-55.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q56b",
@@ -25605,7 +27131,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-54.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-55.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q56c",
@@ -25636,7 +27163,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-54.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-55.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q57",
@@ -25663,7 +27191,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-56.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q58",
@@ -25686,7 +27215,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-56.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q59",
@@ -25713,7 +27243,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-57.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-58.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q60",
@@ -25740,7 +27271,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-57.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-58.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q61",
@@ -25762,7 +27294,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-58.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q62",
@@ -25785,7 +27318,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-58.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q63",
@@ -25812,7 +27346,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q64a",
@@ -25840,7 +27375,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-60.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-61.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q64b",
@@ -25868,7 +27404,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-60.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-61.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q64c",
@@ -25898,7 +27435,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-60.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-61.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q64d",
@@ -25927,7 +27465,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-60.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-61.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q64e",
@@ -25951,7 +27490,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-60.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-61.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q65",
@@ -25974,7 +27514,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-62.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-63.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q66",
@@ -25997,7 +27538,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-62.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-63.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q67a",
@@ -26027,7 +27569,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-63.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-64.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-65.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q67b",
@@ -26057,7 +27600,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-63.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-64.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-65.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q67c",
@@ -26081,7 +27625,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-63.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-64.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-65.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q68",
@@ -26108,7 +27653,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-65.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-66.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q69",
@@ -26131,7 +27677,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-66.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-67.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q70",
@@ -26158,7 +27705,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-66.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-67.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q71a",
@@ -26181,7 +27729,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-67.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-68.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q71b",
@@ -26209,7 +27758,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-67.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-68.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q72a",
@@ -26238,7 +27788,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-68.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-69.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-70.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q72b(i)",
@@ -26267,7 +27818,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-68.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-69.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-70.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q72b(ii)",
@@ -26296,7 +27848,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-68.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-69.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-70.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q73a",
@@ -26325,7 +27878,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-70.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-71.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-72.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q73b(i)",
@@ -26349,7 +27903,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-70.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-71.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-72.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q73b(ii)",
@@ -26378,7 +27933,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-70.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-71.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-72.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q73c",
@@ -26407,7 +27963,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-70.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-71.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-72.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q73d",
@@ -26436,7 +27993,8 @@ window.BANK.physics = {
       "papers/physics/img/18-3D-Quantum-Physics-70.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-71.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-72.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q74",
@@ -26459,7 +28017,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-72.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-73.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "3D-Q75",
@@ -26482,7 +28041,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/18-3D-Quantum-Physics-72.jpg",
       "papers/physics/img/18-3D-Quantum-Physics-73.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -26511,7 +28071,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-01.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q2",
@@ -26534,7 +28095,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-02.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q3a",
@@ -26561,7 +28123,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-02.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q3b",
@@ -26588,7 +28151,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-02.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q4",
@@ -26611,7 +28175,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-03.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-04.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q5a",
@@ -26639,7 +28204,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-03.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-04.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q5b(i)",
@@ -26666,7 +28232,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-03.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-04.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q5b(ii)",
@@ -26694,7 +28261,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-03.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-04.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q6a",
@@ -26723,7 +28291,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-05.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q6b",
@@ -26752,7 +28321,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-05.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q7",
@@ -26779,7 +28349,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-05.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q8",
@@ -26800,7 +28371,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q9",
@@ -26826,7 +28398,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q10",
@@ -26848,7 +28421,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-07.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q11",
@@ -26870,7 +28444,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-07.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q12a",
@@ -26898,7 +28473,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-08.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-09.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q12b",
@@ -26926,7 +28502,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-08.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-09.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q12c(i)",
@@ -26954,7 +28531,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-08.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-09.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q12c(ii)",
@@ -26983,7 +28561,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-08.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-09.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q13",
@@ -27011,7 +28590,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q14",
@@ -27032,7 +28612,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q15",
@@ -27054,7 +28635,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q16",
@@ -27081,7 +28663,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-12.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q17",
@@ -27103,7 +28686,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-12.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q18",
@@ -27126,7 +28710,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-12.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q19",
@@ -27148,7 +28733,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-14.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q20a",
@@ -27175,7 +28761,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-14.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q20b",
@@ -27198,7 +28785,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-14.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q21",
@@ -27225,7 +28813,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-15.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q22",
@@ -27253,7 +28842,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-15.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q23",
@@ -27280,7 +28870,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-16.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q24",
@@ -27302,7 +28893,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-16.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q25",
@@ -27324,7 +28916,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-17.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q26",
@@ -27352,7 +28945,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-18.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-19.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q27a",
@@ -27375,7 +28969,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-18.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-19.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q27b(i)",
@@ -27403,7 +28998,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-18.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-19.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q27b(ii)",
@@ -27426,7 +29022,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-18.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-19.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q28a",
@@ -27453,7 +29050,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-20.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q28b",
@@ -27480,7 +29078,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-20.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q28c",
@@ -27508,7 +29107,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-20.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q29",
@@ -27530,7 +29130,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-21.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q30",
@@ -27552,7 +29153,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-21.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q31",
@@ -27579,7 +29181,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-22.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q32",
@@ -27606,7 +29209,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-22.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q33",
@@ -27633,7 +29237,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-23.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q34",
@@ -27655,7 +29260,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-23.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q35",
@@ -27682,7 +29288,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-24.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q36",
@@ -27709,7 +29316,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-24.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q37",
@@ -27731,7 +29339,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-24.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q38a",
@@ -27759,7 +29368,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-25.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q38b",
@@ -27781,7 +29391,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-25.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q39a",
@@ -27804,7 +29415,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-26.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-27.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q39b(i)",
@@ -27832,7 +29444,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-26.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-27.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q39b(ii)",
@@ -27860,7 +29473,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-26.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-27.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q39b(iii)",
@@ -27888,7 +29502,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-26.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-27.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q40",
@@ -27914,7 +29529,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q41",
@@ -27936,7 +29552,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-29.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q42",
@@ -27958,7 +29575,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-29.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q43a",
@@ -27989,7 +29607,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-30.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-31.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q43b(i)",
@@ -28017,7 +29636,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-30.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-31.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q43b(ii)",
@@ -28046,7 +29666,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-30.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-31.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q44",
@@ -28073,7 +29694,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-32.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q45a(i)",
@@ -28099,7 +29721,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-32.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q45a(ii)",
@@ -28129,7 +29752,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-32.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q45b(i)",
@@ -28156,7 +29780,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-32.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q45b(ii)",
@@ -28182,7 +29807,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-32.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q46",
@@ -28209,7 +29835,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-34.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q47",
@@ -28231,7 +29858,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-34.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q48",
@@ -28253,7 +29881,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-34.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q49a",
@@ -28280,7 +29909,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-35.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q49b",
@@ -28308,7 +29938,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-35.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q50",
@@ -28330,7 +29961,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-36.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q51",
@@ -28357,7 +29989,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-37.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q52",
@@ -28384,7 +30017,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-37.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q53",
@@ -28407,7 +30041,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-38.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-39.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q54a",
@@ -28435,7 +30070,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-38.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-39.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q54b(i)",
@@ -28464,7 +30100,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-38.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-39.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q54b(ii)",
@@ -28492,7 +30129,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-38.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-39.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q55",
@@ -28518,7 +30156,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q56",
@@ -28545,7 +30184,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q57",
@@ -28571,7 +30211,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/19-4A-Electrical-Quantities-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q58",
@@ -28601,7 +30242,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-43.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-44.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q59",
@@ -28625,7 +30267,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-43.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-44.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q60a",
@@ -28654,7 +30297,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-43.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-44.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q60b",
@@ -28685,7 +30329,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-43.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-44.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "4A-Q60c",
@@ -28710,7 +30355,8 @@ window.BANK.physics = {
       "papers/physics/img/19-4A-Electrical-Quantities-43.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-44.jpg",
       "papers/physics/img/19-4A-Electrical-Quantities-45.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -28742,7 +30388,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-01.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q1b",
@@ -28773,7 +30420,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-01.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q2a",
@@ -28798,7 +30446,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-03.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-04.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q2b",
@@ -28823,7 +30472,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-03.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-04.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q2c",
@@ -28854,7 +30504,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-03.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-04.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q3",
@@ -28877,7 +30528,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-05.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q4",
@@ -28903,7 +30555,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-06.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q5",
@@ -28931,7 +30584,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-06.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q6",
@@ -28953,7 +30607,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-07.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q7a",
@@ -28981,7 +30636,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-08.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-09.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q7b",
@@ -29004,7 +30660,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-08.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-09.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q7c(i)",
@@ -29028,7 +30685,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-08.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-09.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q7c(ii)",
@@ -29058,7 +30716,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-08.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-09.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q8",
@@ -29087,7 +30746,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-10.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q9",
@@ -29110,7 +30770,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-11.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q10a",
@@ -29131,7 +30792,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-11.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q10b",
@@ -29153,7 +30815,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-11.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q11",
@@ -29174,7 +30837,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-12.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q12a",
@@ -29199,7 +30863,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-13.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q12b(i)",
@@ -29225,7 +30890,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-13.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q12b(ii)",
@@ -29254,7 +30920,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-13.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q12c",
@@ -29283,7 +30950,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-13.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q13a",
@@ -29312,7 +30980,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q13b(i)",
@@ -29339,7 +31008,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q13b(ii)",
@@ -29366,7 +31036,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q13b(iii)",
@@ -29396,7 +31067,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q13b(iv)",
@@ -29424,7 +31096,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q13c(i)",
@@ -29455,7 +31128,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q13c(ii)",
@@ -29481,7 +31155,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-15.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-16.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q14",
@@ -29510,7 +31185,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-17.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-18.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q15a",
@@ -29534,7 +31210,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-17.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-18.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q15b",
@@ -29557,7 +31234,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-17.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-18.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q15c",
@@ -29587,7 +31265,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-17.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-18.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q16a",
@@ -29610,7 +31289,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-19.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-20.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q16b",
@@ -29639,7 +31319,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-19.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-20.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q17a",
@@ -29666,7 +31347,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-21.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q17b(i)",
@@ -29689,7 +31371,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-21.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q17b(ii)",
@@ -29711,7 +31394,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-21.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q18",
@@ -29732,7 +31416,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q19",
@@ -29753,7 +31438,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-23.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q20",
@@ -29781,7 +31467,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-23.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q21",
@@ -29802,7 +31489,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q22a",
@@ -29830,7 +31518,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-25.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q22b",
@@ -29852,7 +31541,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-25.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q22c(i)",
@@ -29874,7 +31564,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-25.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q22c(ii)",
@@ -29896,7 +31587,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-25.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q23a",
@@ -29924,7 +31616,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-26.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q23b",
@@ -29946,7 +31639,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-26.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q24a",
@@ -29967,7 +31661,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-27.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q24b",
@@ -29989,7 +31684,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-27.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q25a",
@@ -30012,7 +31708,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-28.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-29.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q25b(i)",
@@ -30036,7 +31733,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-28.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-29.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q25b(ii)",
@@ -30062,7 +31760,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-28.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-29.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q26a",
@@ -30090,7 +31789,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-30.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-31.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q26b",
@@ -30117,7 +31817,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-30.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-31.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q26c",
@@ -30140,7 +31841,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-30.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-31.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q27a",
@@ -30166,7 +31868,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-32.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q27b",
@@ -30191,7 +31894,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-32.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q27c",
@@ -30216,7 +31920,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-32.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q28a",
@@ -30239,7 +31944,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-33.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-34.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q28b(i)",
@@ -30262,7 +31968,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-33.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-34.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q28b(ii)",
@@ -30285,7 +31992,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-33.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-34.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q29a",
@@ -30307,7 +32015,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-35.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q29b",
@@ -30330,7 +32039,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-35.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q30",
@@ -30358,7 +32068,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-36.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q31",
@@ -30381,7 +32092,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-37.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q32",
@@ -30407,7 +32119,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-37.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q33a(i)",
@@ -30429,7 +32142,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-38.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q33a(ii)",
@@ -30452,7 +32166,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-38.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q33b",
@@ -30478,7 +32193,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-38.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q33c",
@@ -30504,7 +32220,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-38.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q34a",
@@ -30528,7 +32245,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-39.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-40.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q34b(i)",
@@ -30550,7 +32268,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-39.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-40.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q34b(ii)",
@@ -30573,7 +32292,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-39.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-40.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q35a",
@@ -30595,7 +32315,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-41.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q35b(i)",
@@ -30619,7 +32340,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-41.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q35b(ii)",
@@ -30643,7 +32365,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-41.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q35b(iii)",
@@ -30669,7 +32392,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-41.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q36a",
@@ -30692,7 +32416,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-42.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-43.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q36b",
@@ -30715,7 +32440,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-42.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-43.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q37",
@@ -30737,7 +32463,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-44.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q38a(i)",
@@ -30759,7 +32486,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-45.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q38a(ii)",
@@ -30783,7 +32511,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-45.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q38b",
@@ -30805,7 +32534,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-45.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q39a",
@@ -30834,7 +32564,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-46.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-47.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q39b(i)",
@@ -30861,7 +32592,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-46.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-47.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q39b(ii)",
@@ -30887,7 +32619,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-46.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-47.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q40a",
@@ -30912,7 +32645,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-48.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q40b",
@@ -30937,7 +32671,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-48.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q41",
@@ -30960,7 +32695,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-49.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-50.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q42a",
@@ -30984,7 +32720,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-49.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-50.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q42b",
@@ -31012,7 +32749,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-49.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-50.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q43a",
@@ -31036,7 +32774,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-52.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-53.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q43b(i)",
@@ -31066,7 +32805,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-52.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-53.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q43b(ii)",
@@ -31090,7 +32830,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-52.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-53.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q43c",
@@ -31119,7 +32860,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-52.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-53.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q44",
@@ -31141,7 +32883,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-54.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-55.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q45a",
@@ -31164,7 +32907,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-54.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-55.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q45b",
@@ -31191,7 +32935,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-54.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-55.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q46a",
@@ -31215,7 +32960,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-56.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-57.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-58.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q46b",
@@ -31238,7 +32984,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-56.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-57.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-58.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q46c",
@@ -31265,7 +33012,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-56.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-57.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-58.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q46d",
@@ -31287,7 +33035,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-56.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-57.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-58.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q47",
@@ -31314,7 +33063,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-58.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q48",
@@ -31336,7 +33086,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-58.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q49a",
@@ -31363,7 +33114,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-59.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-60.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-61.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q49b",
@@ -31392,7 +33144,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-59.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-60.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-61.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q49c",
@@ -31418,7 +33171,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-59.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-60.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-61.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q50",
@@ -31438,7 +33192,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-61.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q51",
@@ -31461,7 +33216,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-62.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-63.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-64.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q52a",
@@ -31488,7 +33244,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-62.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-63.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-64.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q52b",
@@ -31511,7 +33268,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-62.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-63.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-64.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q52c(i)",
@@ -31534,7 +33292,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-62.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-63.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-64.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q52c(ii)",
@@ -31561,7 +33320,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-62.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-63.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-64.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q53",
@@ -31589,7 +33349,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-64.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-65.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q54a(i)",
@@ -31615,7 +33376,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-65.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-66.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-67.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q54a(ii)",
@@ -31644,7 +33406,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-65.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-66.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-67.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q54b",
@@ -31671,7 +33434,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-65.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-66.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-67.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q54c",
@@ -31697,7 +33461,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-65.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-66.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-67.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q54d",
@@ -31721,7 +33486,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-65.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-66.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-67.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q55a(i)",
@@ -31749,7 +33515,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-67.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-68.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-69.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q55a(ii)",
@@ -31772,7 +33539,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-67.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-68.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-69.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q55b(i)",
@@ -31799,7 +33567,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-67.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-68.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-69.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q55b(ii)",
@@ -31822,7 +33591,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-67.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-68.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-69.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q56",
@@ -31843,7 +33613,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-69.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-70.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q57a",
@@ -31870,7 +33641,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-70.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-71.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-72.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q57b",
@@ -31896,7 +33668,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-70.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-71.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-72.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q57c",
@@ -31922,7 +33695,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-70.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-71.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-72.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q57d",
@@ -31949,7 +33723,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-70.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-71.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-72.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q57e",
@@ -31973,7 +33748,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-70.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-71.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-72.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q58",
@@ -31993,7 +33769,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-72.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-73.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q59",
@@ -32014,7 +33791,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-73.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-74.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q60",
@@ -32036,7 +33814,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-74.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-75.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q61",
@@ -32057,7 +33836,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-75.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-76.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q62",
@@ -32079,7 +33859,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-76.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-77.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q63",
@@ -32101,7 +33882,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-76.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-77.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q64a",
@@ -32126,7 +33908,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-78.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q64b",
@@ -32151,7 +33934,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-78.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q65a",
@@ -32177,7 +33961,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-79.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-80.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-81.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q65b",
@@ -32200,7 +33985,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-79.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-80.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-81.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q65c(i)",
@@ -32227,7 +34013,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-79.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-80.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-81.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q65c(ii)",
@@ -32250,7 +34037,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-79.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-80.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-81.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q66a",
@@ -32272,7 +34060,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-81.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-82.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q66b",
@@ -32293,7 +34082,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-81.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-82.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q66c",
@@ -32314,7 +34104,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-81.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-82.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q67a",
@@ -32339,7 +34130,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-82.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-83.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q67b",
@@ -32364,7 +34156,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-82.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-83.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q67c",
@@ -32387,7 +34180,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-82.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-83.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q68a",
@@ -32413,7 +34207,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-84.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-85.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q68b",
@@ -32441,7 +34236,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-84.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-85.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q68c",
@@ -32469,7 +34265,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-84.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-85.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q69a",
@@ -32495,7 +34292,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-85.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-86.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q69b",
@@ -32521,7 +34319,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-85.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-86.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q70a",
@@ -32544,7 +34343,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-86.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-87.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-88.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q70b",
@@ -32571,7 +34371,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-86.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-87.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-88.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q71",
@@ -32593,7 +34394,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-88.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-89.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q72a",
@@ -32616,7 +34418,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-88.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-89.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q72b",
@@ -32645,7 +34448,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-88.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-89.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q73",
@@ -32667,7 +34471,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-89.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-90.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q74",
@@ -32688,7 +34493,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/20-4B-Complete-Circuits-90.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-91.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q75a",
@@ -32711,7 +34517,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-91.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-92.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-93.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q75b(i)",
@@ -32733,7 +34540,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-91.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-92.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-93.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q75b(ii)",
@@ -32755,7 +34563,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-91.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-92.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-93.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q75b(iii)",
@@ -32777,7 +34586,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-91.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-92.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-93.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q75c",
@@ -32799,7 +34609,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-91.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-92.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-93.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q76",
@@ -32821,7 +34632,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-93.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-94.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-95.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q77a",
@@ -32849,7 +34661,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-93.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-94.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-95.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q77b(i)",
@@ -32872,7 +34685,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-93.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-94.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-95.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q77b(ii)",
@@ -32899,7 +34713,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-93.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-94.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-95.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q77c",
@@ -32926,7 +34741,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-93.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-94.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-95.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q77d",
@@ -32952,7 +34768,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-93.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-94.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-95.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q78a",
@@ -32978,7 +34795,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-95.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-96.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-97.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q78b",
@@ -33007,7 +34825,8 @@ window.BANK.physics = {
       "papers/physics/img/20-4B-Complete-Circuits-95.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-96.jpg",
       "papers/physics/img/20-4B-Complete-Circuits-97.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -33037,7 +34856,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-01.jpg",
       "papers/physics/img/21-5A-Further-Momentum-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q2",
@@ -33059,7 +34879,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-01.jpg",
       "papers/physics/img/21-5A-Further-Momentum-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q3a",
@@ -33087,7 +34908,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-02.jpg",
       "papers/physics/img/21-5A-Further-Momentum-03.jpg",
       "papers/physics/img/21-5A-Further-Momentum-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q3b",
@@ -33116,7 +34938,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-02.jpg",
       "papers/physics/img/21-5A-Further-Momentum-03.jpg",
       "papers/physics/img/21-5A-Further-Momentum-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q3c",
@@ -33144,7 +34967,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-02.jpg",
       "papers/physics/img/21-5A-Further-Momentum-03.jpg",
       "papers/physics/img/21-5A-Further-Momentum-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q4",
@@ -33171,7 +34995,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-04.jpg",
       "papers/physics/img/21-5A-Further-Momentum-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q5",
@@ -33199,7 +35024,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-05.jpg",
       "papers/physics/img/21-5A-Further-Momentum-06.jpg",
       "papers/physics/img/21-5A-Further-Momentum-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q6a",
@@ -33222,7 +35048,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-05.jpg",
       "papers/physics/img/21-5A-Further-Momentum-06.jpg",
       "papers/physics/img/21-5A-Further-Momentum-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q6b",
@@ -33249,7 +35076,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-05.jpg",
       "papers/physics/img/21-5A-Further-Momentum-06.jpg",
       "papers/physics/img/21-5A-Further-Momentum-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q6c",
@@ -33277,7 +35105,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-05.jpg",
       "papers/physics/img/21-5A-Further-Momentum-06.jpg",
       "papers/physics/img/21-5A-Further-Momentum-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q6d",
@@ -33305,7 +35134,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-05.jpg",
       "papers/physics/img/21-5A-Further-Momentum-06.jpg",
       "papers/physics/img/21-5A-Further-Momentum-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q6e",
@@ -33333,7 +35163,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-05.jpg",
       "papers/physics/img/21-5A-Further-Momentum-06.jpg",
       "papers/physics/img/21-5A-Further-Momentum-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q7a",
@@ -33361,7 +35192,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-07.jpg",
       "papers/physics/img/21-5A-Further-Momentum-08.jpg",
       "papers/physics/img/21-5A-Further-Momentum-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q7b(i)",
@@ -33384,7 +35216,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-07.jpg",
       "papers/physics/img/21-5A-Further-Momentum-08.jpg",
       "papers/physics/img/21-5A-Further-Momentum-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q7b(ii)",
@@ -33407,7 +35240,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-07.jpg",
       "papers/physics/img/21-5A-Further-Momentum-08.jpg",
       "papers/physics/img/21-5A-Further-Momentum-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q7c",
@@ -33435,7 +35269,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-07.jpg",
       "papers/physics/img/21-5A-Further-Momentum-08.jpg",
       "papers/physics/img/21-5A-Further-Momentum-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q8",
@@ -33457,7 +35292,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-09.jpg",
       "papers/physics/img/21-5A-Further-Momentum-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q9",
@@ -33484,7 +35320,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-09.jpg",
       "papers/physics/img/21-5A-Further-Momentum-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q10",
@@ -33506,7 +35343,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-10.jpg",
       "papers/physics/img/21-5A-Further-Momentum-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q11",
@@ -33528,7 +35366,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-10.jpg",
       "papers/physics/img/21-5A-Further-Momentum-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q12",
@@ -33550,7 +35389,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-11.jpg",
       "papers/physics/img/21-5A-Further-Momentum-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q13",
@@ -33572,7 +35412,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-12.jpg",
       "papers/physics/img/21-5A-Further-Momentum-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q14",
@@ -33600,7 +35441,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-12.jpg",
       "papers/physics/img/21-5A-Further-Momentum-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q15",
@@ -33628,7 +35470,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-13.jpg",
       "papers/physics/img/21-5A-Further-Momentum-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q16a",
@@ -33656,7 +35499,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-14.jpg",
       "papers/physics/img/21-5A-Further-Momentum-15.jpg",
       "papers/physics/img/21-5A-Further-Momentum-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q16b",
@@ -33684,7 +35528,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-14.jpg",
       "papers/physics/img/21-5A-Further-Momentum-15.jpg",
       "papers/physics/img/21-5A-Further-Momentum-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q16c",
@@ -33707,7 +35552,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-14.jpg",
       "papers/physics/img/21-5A-Further-Momentum-15.jpg",
       "papers/physics/img/21-5A-Further-Momentum-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q17a",
@@ -33735,7 +35581,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-16.jpg",
       "papers/physics/img/21-5A-Further-Momentum-17.jpg",
       "papers/physics/img/21-5A-Further-Momentum-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q17b(i)",
@@ -33758,7 +35605,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-16.jpg",
       "papers/physics/img/21-5A-Further-Momentum-17.jpg",
       "papers/physics/img/21-5A-Further-Momentum-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q17b(ii)",
@@ -33781,7 +35629,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-16.jpg",
       "papers/physics/img/21-5A-Further-Momentum-17.jpg",
       "papers/physics/img/21-5A-Further-Momentum-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q18",
@@ -33808,7 +35657,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-18.jpg",
       "papers/physics/img/21-5A-Further-Momentum-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q19",
@@ -33835,7 +35685,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-18.jpg",
       "papers/physics/img/21-5A-Further-Momentum-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q20a",
@@ -33857,7 +35708,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-19.jpg",
       "papers/physics/img/21-5A-Further-Momentum-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q20b",
@@ -33879,7 +35731,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-19.jpg",
       "papers/physics/img/21-5A-Further-Momentum-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q21",
@@ -33906,7 +35759,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-20.jpg",
       "papers/physics/img/21-5A-Further-Momentum-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q22",
@@ -33928,7 +35782,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-20.jpg",
       "papers/physics/img/21-5A-Further-Momentum-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q23",
@@ -33952,7 +35807,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-22.jpg",
       "papers/physics/img/21-5A-Further-Momentum-23.jpg",
       "papers/physics/img/21-5A-Further-Momentum-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q24a",
@@ -33980,7 +35836,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-22.jpg",
       "papers/physics/img/21-5A-Further-Momentum-23.jpg",
       "papers/physics/img/21-5A-Further-Momentum-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q24b(i)",
@@ -34009,7 +35866,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-22.jpg",
       "papers/physics/img/21-5A-Further-Momentum-23.jpg",
       "papers/physics/img/21-5A-Further-Momentum-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q24b(ii)",
@@ -34039,7 +35897,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-22.jpg",
       "papers/physics/img/21-5A-Further-Momentum-23.jpg",
       "papers/physics/img/21-5A-Further-Momentum-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q24b(iii)",
@@ -34063,7 +35922,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-22.jpg",
       "papers/physics/img/21-5A-Further-Momentum-23.jpg",
       "papers/physics/img/21-5A-Further-Momentum-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q24b(iv)",
@@ -34087,7 +35947,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-22.jpg",
       "papers/physics/img/21-5A-Further-Momentum-23.jpg",
       "papers/physics/img/21-5A-Further-Momentum-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q25a",
@@ -34115,7 +35976,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-24.jpg",
       "papers/physics/img/21-5A-Further-Momentum-25.jpg",
       "papers/physics/img/21-5A-Further-Momentum-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q25b(i)",
@@ -34138,7 +36000,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-24.jpg",
       "papers/physics/img/21-5A-Further-Momentum-25.jpg",
       "papers/physics/img/21-5A-Further-Momentum-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q25b(ii)",
@@ -34161,7 +36024,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-24.jpg",
       "papers/physics/img/21-5A-Further-Momentum-25.jpg",
       "papers/physics/img/21-5A-Further-Momentum-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q26a(i)",
@@ -34189,7 +36053,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-26.jpg",
       "papers/physics/img/21-5A-Further-Momentum-27.jpg",
       "papers/physics/img/21-5A-Further-Momentum-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q26a(ii)",
@@ -34217,7 +36082,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-26.jpg",
       "papers/physics/img/21-5A-Further-Momentum-27.jpg",
       "papers/physics/img/21-5A-Further-Momentum-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q26b(i)",
@@ -34245,7 +36111,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-26.jpg",
       "papers/physics/img/21-5A-Further-Momentum-27.jpg",
       "papers/physics/img/21-5A-Further-Momentum-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q26b(ii)",
@@ -34273,7 +36140,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-26.jpg",
       "papers/physics/img/21-5A-Further-Momentum-27.jpg",
       "papers/physics/img/21-5A-Further-Momentum-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q27",
@@ -34295,7 +36163,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-28.jpg",
       "papers/physics/img/21-5A-Further-Momentum-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q28",
@@ -34322,7 +36191,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-28.jpg",
       "papers/physics/img/21-5A-Further-Momentum-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q29a",
@@ -34350,7 +36220,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-29.jpg",
       "papers/physics/img/21-5A-Further-Momentum-30.jpg",
       "papers/physics/img/21-5A-Further-Momentum-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q29b(i)",
@@ -34378,7 +36249,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-29.jpg",
       "papers/physics/img/21-5A-Further-Momentum-30.jpg",
       "papers/physics/img/21-5A-Further-Momentum-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q29b(ii)",
@@ -34406,7 +36278,8 @@ window.BANK.physics = {
       "papers/physics/img/21-5A-Further-Momentum-29.jpg",
       "papers/physics/img/21-5A-Further-Momentum-30.jpg",
       "papers/physics/img/21-5A-Further-Momentum-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q30",
@@ -34433,7 +36306,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-31.jpg",
       "papers/physics/img/21-5A-Further-Momentum-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q31",
@@ -34455,7 +36329,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-32.jpg",
       "papers/physics/img/21-5A-Further-Momentum-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q32",
@@ -34477,7 +36352,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-32.jpg",
       "papers/physics/img/21-5A-Further-Momentum-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q33a",
@@ -34504,7 +36380,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-33.jpg",
       "papers/physics/img/21-5A-Further-Momentum-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q33b",
@@ -34532,7 +36409,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-33.jpg",
       "papers/physics/img/21-5A-Further-Momentum-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q34",
@@ -34554,7 +36432,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-34.jpg",
       "papers/physics/img/21-5A-Further-Momentum-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q35",
@@ -34582,7 +36461,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-35.jpg",
       "papers/physics/img/21-5A-Further-Momentum-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q36a",
@@ -34609,7 +36489,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-36.jpg",
       "papers/physics/img/21-5A-Further-Momentum-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5A-Q36b",
@@ -34636,7 +36517,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/21-5A-Further-Momentum-36.jpg",
       "papers/physics/img/21-5A-Further-Momentum-37.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -34675,7 +36557,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-01.jpg",
       "papers/physics/img/22-5B-Circular-Motion-02.jpg",
       "papers/physics/img/22-5B-Circular-Motion-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q1b(i)",
@@ -34699,7 +36582,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-01.jpg",
       "papers/physics/img/22-5B-Circular-Motion-02.jpg",
       "papers/physics/img/22-5B-Circular-Motion-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q1b(ii)",
@@ -34731,7 +36615,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-01.jpg",
       "papers/physics/img/22-5B-Circular-Motion-02.jpg",
       "papers/physics/img/22-5B-Circular-Motion-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q1b(iii)",
@@ -34761,7 +36646,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-01.jpg",
       "papers/physics/img/22-5B-Circular-Motion-02.jpg",
       "papers/physics/img/22-5B-Circular-Motion-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q2",
@@ -34784,7 +36670,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-03.jpg",
       "papers/physics/img/22-5B-Circular-Motion-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q3a",
@@ -34814,7 +36701,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-04.jpg",
       "papers/physics/img/22-5B-Circular-Motion-05.jpg",
       "papers/physics/img/22-5B-Circular-Motion-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q3b(i)",
@@ -34844,7 +36732,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-04.jpg",
       "papers/physics/img/22-5B-Circular-Motion-05.jpg",
       "papers/physics/img/22-5B-Circular-Motion-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q3b(ii)",
@@ -34874,7 +36763,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-04.jpg",
       "papers/physics/img/22-5B-Circular-Motion-05.jpg",
       "papers/physics/img/22-5B-Circular-Motion-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q3c",
@@ -34905,7 +36795,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-04.jpg",
       "papers/physics/img/22-5B-Circular-Motion-05.jpg",
       "papers/physics/img/22-5B-Circular-Motion-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q4",
@@ -34936,7 +36827,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-06.jpg",
       "papers/physics/img/22-5B-Circular-Motion-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q5a",
@@ -34959,7 +36851,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-07.jpg",
       "papers/physics/img/22-5B-Circular-Motion-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q5b(i)",
@@ -34988,7 +36881,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-07.jpg",
       "papers/physics/img/22-5B-Circular-Motion-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q5b(ii)",
@@ -35017,7 +36911,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-07.jpg",
       "papers/physics/img/22-5B-Circular-Motion-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q6",
@@ -35040,7 +36935,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-08.jpg",
       "papers/physics/img/22-5B-Circular-Motion-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q7",
@@ -35064,7 +36960,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-10.jpg",
       "papers/physics/img/22-5B-Circular-Motion-11.jpg",
       "papers/physics/img/22-5B-Circular-Motion-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q8a",
@@ -35095,7 +36992,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-10.jpg",
       "papers/physics/img/22-5B-Circular-Motion-11.jpg",
       "papers/physics/img/22-5B-Circular-Motion-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q8b(i)",
@@ -35126,7 +37024,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-10.jpg",
       "papers/physics/img/22-5B-Circular-Motion-11.jpg",
       "papers/physics/img/22-5B-Circular-Motion-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q8b(ii)",
@@ -35159,7 +37058,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-10.jpg",
       "papers/physics/img/22-5B-Circular-Motion-11.jpg",
       "papers/physics/img/22-5B-Circular-Motion-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q9a",
@@ -35187,7 +37087,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-12.jpg",
       "papers/physics/img/22-5B-Circular-Motion-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q9b",
@@ -35215,7 +37116,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-12.jpg",
       "papers/physics/img/22-5B-Circular-Motion-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q9c",
@@ -35245,7 +37147,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-12.jpg",
       "papers/physics/img/22-5B-Circular-Motion-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q10a(i)",
@@ -35269,7 +37172,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-13.jpg",
       "papers/physics/img/22-5B-Circular-Motion-14.jpg",
       "papers/physics/img/22-5B-Circular-Motion-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q10a(ii)",
@@ -35299,7 +37203,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-13.jpg",
       "papers/physics/img/22-5B-Circular-Motion-14.jpg",
       "papers/physics/img/22-5B-Circular-Motion-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q10a(iii)",
@@ -35327,7 +37232,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-13.jpg",
       "papers/physics/img/22-5B-Circular-Motion-14.jpg",
       "papers/physics/img/22-5B-Circular-Motion-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q10b",
@@ -35359,7 +37265,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-13.jpg",
       "papers/physics/img/22-5B-Circular-Motion-14.jpg",
       "papers/physics/img/22-5B-Circular-Motion-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q11a",
@@ -35389,7 +37296,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-16.jpg",
       "papers/physics/img/22-5B-Circular-Motion-17.jpg",
       "papers/physics/img/22-5B-Circular-Motion-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q11b(i)",
@@ -35414,7 +37322,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-16.jpg",
       "papers/physics/img/22-5B-Circular-Motion-17.jpg",
       "papers/physics/img/22-5B-Circular-Motion-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q11b(ii)",
@@ -35447,7 +37356,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-16.jpg",
       "papers/physics/img/22-5B-Circular-Motion-17.jpg",
       "papers/physics/img/22-5B-Circular-Motion-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q12",
@@ -35474,7 +37384,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q13a(i)",
@@ -35505,7 +37416,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-19.jpg",
       "papers/physics/img/22-5B-Circular-Motion-20.jpg",
       "papers/physics/img/22-5B-Circular-Motion-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q13a(ii)",
@@ -35534,7 +37446,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-19.jpg",
       "papers/physics/img/22-5B-Circular-Motion-20.jpg",
       "papers/physics/img/22-5B-Circular-Motion-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q13b",
@@ -35563,7 +37476,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-19.jpg",
       "papers/physics/img/22-5B-Circular-Motion-20.jpg",
       "papers/physics/img/22-5B-Circular-Motion-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q14",
@@ -35585,7 +37499,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q15",
@@ -35615,7 +37530,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-22.jpg",
       "papers/physics/img/22-5B-Circular-Motion-23.jpg",
       "papers/physics/img/22-5B-Circular-Motion-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q16a(i)",
@@ -35640,7 +37556,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-22.jpg",
       "papers/physics/img/22-5B-Circular-Motion-23.jpg",
       "papers/physics/img/22-5B-Circular-Motion-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q16a(ii)",
@@ -35665,7 +37582,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-22.jpg",
       "papers/physics/img/22-5B-Circular-Motion-23.jpg",
       "papers/physics/img/22-5B-Circular-Motion-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q16b",
@@ -35698,7 +37616,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-22.jpg",
       "papers/physics/img/22-5B-Circular-Motion-23.jpg",
       "papers/physics/img/22-5B-Circular-Motion-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q17",
@@ -35721,7 +37640,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-24.jpg",
       "papers/physics/img/22-5B-Circular-Motion-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q18",
@@ -35744,7 +37664,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-25.jpg",
       "papers/physics/img/22-5B-Circular-Motion-26.jpg",
       "papers/physics/img/22-5B-Circular-Motion-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q19a",
@@ -35773,7 +37694,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-25.jpg",
       "papers/physics/img/22-5B-Circular-Motion-26.jpg",
       "papers/physics/img/22-5B-Circular-Motion-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q19b",
@@ -35804,7 +37726,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-25.jpg",
       "papers/physics/img/22-5B-Circular-Motion-26.jpg",
       "papers/physics/img/22-5B-Circular-Motion-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q20a",
@@ -35834,7 +37757,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-27.jpg",
       "papers/physics/img/22-5B-Circular-Motion-28.jpg",
       "papers/physics/img/22-5B-Circular-Motion-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q20b(i)",
@@ -35861,7 +37785,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-27.jpg",
       "papers/physics/img/22-5B-Circular-Motion-28.jpg",
       "papers/physics/img/22-5B-Circular-Motion-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q20b(ii)",
@@ -35891,7 +37816,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-27.jpg",
       "papers/physics/img/22-5B-Circular-Motion-28.jpg",
       "papers/physics/img/22-5B-Circular-Motion-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q21a(i)",
@@ -35918,7 +37844,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-29.jpg",
       "papers/physics/img/22-5B-Circular-Motion-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q21a(ii)",
@@ -35946,7 +37873,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-29.jpg",
       "papers/physics/img/22-5B-Circular-Motion-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q21b(i)",
@@ -35970,7 +37898,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-29.jpg",
       "papers/physics/img/22-5B-Circular-Motion-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q21b(ii)",
@@ -35999,7 +37928,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-29.jpg",
       "papers/physics/img/22-5B-Circular-Motion-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q21b(iii)",
@@ -36027,7 +37957,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-29.jpg",
       "papers/physics/img/22-5B-Circular-Motion-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q22",
@@ -36051,7 +37982,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-31.jpg",
       "papers/physics/img/22-5B-Circular-Motion-32.jpg",
       "papers/physics/img/22-5B-Circular-Motion-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q23a(i)",
@@ -36079,7 +38011,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-31.jpg",
       "papers/physics/img/22-5B-Circular-Motion-32.jpg",
       "papers/physics/img/22-5B-Circular-Motion-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q23a(ii)",
@@ -36108,7 +38041,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-31.jpg",
       "papers/physics/img/22-5B-Circular-Motion-32.jpg",
       "papers/physics/img/22-5B-Circular-Motion-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q23b(i)",
@@ -36132,7 +38066,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-31.jpg",
       "papers/physics/img/22-5B-Circular-Motion-32.jpg",
       "papers/physics/img/22-5B-Circular-Motion-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q23b(ii)",
@@ -36162,7 +38097,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-31.jpg",
       "papers/physics/img/22-5B-Circular-Motion-32.jpg",
       "papers/physics/img/22-5B-Circular-Motion-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q24",
@@ -36186,7 +38122,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/22-5B-Circular-Motion-33.jpg",
       "papers/physics/img/22-5B-Circular-Motion-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q25a(i)",
@@ -36217,7 +38154,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-35.jpg",
       "papers/physics/img/22-5B-Circular-Motion-36.jpg",
       "papers/physics/img/22-5B-Circular-Motion-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q25a(ii)",
@@ -36246,7 +38184,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-35.jpg",
       "papers/physics/img/22-5B-Circular-Motion-36.jpg",
       "papers/physics/img/22-5B-Circular-Motion-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q25a(iii)",
@@ -36275,7 +38214,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-35.jpg",
       "papers/physics/img/22-5B-Circular-Motion-36.jpg",
       "papers/physics/img/22-5B-Circular-Motion-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q25b(i)",
@@ -36300,7 +38240,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-35.jpg",
       "papers/physics/img/22-5B-Circular-Motion-36.jpg",
       "papers/physics/img/22-5B-Circular-Motion-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q25b(ii)",
@@ -36331,7 +38272,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-35.jpg",
       "papers/physics/img/22-5B-Circular-Motion-36.jpg",
       "papers/physics/img/22-5B-Circular-Motion-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "5B-Q25b(iii)",
@@ -36362,7 +38304,8 @@ window.BANK.physics = {
       "papers/physics/img/22-5B-Circular-Motion-35.jpg",
       "papers/physics/img/22-5B-Circular-Motion-36.jpg",
       "papers/physics/img/22-5B-Circular-Motion-37.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -36394,7 +38337,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-01.jpg",
       "papers/physics/img/23-6A-Electric-Fields-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q2",
@@ -36416,7 +38360,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-01.jpg",
       "papers/physics/img/23-6A-Electric-Fields-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q3",
@@ -36439,7 +38384,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-02.jpg",
       "papers/physics/img/23-6A-Electric-Fields-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q4",
@@ -36468,7 +38414,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-02.jpg",
       "papers/physics/img/23-6A-Electric-Fields-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q5",
@@ -36490,7 +38437,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q6",
@@ -36512,7 +38460,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-04.jpg",
       "papers/physics/img/23-6A-Electric-Fields-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q7",
@@ -36535,7 +38484,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-04.jpg",
       "papers/physics/img/23-6A-Electric-Fields-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q8a",
@@ -36563,7 +38513,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-05.jpg",
       "papers/physics/img/23-6A-Electric-Fields-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q8b",
@@ -36593,7 +38544,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-05.jpg",
       "papers/physics/img/23-6A-Electric-Fields-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q8c",
@@ -36621,7 +38573,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-05.jpg",
       "papers/physics/img/23-6A-Electric-Fields-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q9a",
@@ -36651,7 +38604,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-06.jpg",
       "papers/physics/img/23-6A-Electric-Fields-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q9b",
@@ -36679,7 +38633,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-06.jpg",
       "papers/physics/img/23-6A-Electric-Fields-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q10a(i)",
@@ -36710,7 +38665,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-08.jpg",
       "papers/physics/img/23-6A-Electric-Fields-09.jpg",
       "papers/physics/img/23-6A-Electric-Fields-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q10a(ii)",
@@ -36740,7 +38696,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-08.jpg",
       "papers/physics/img/23-6A-Electric-Fields-09.jpg",
       "papers/physics/img/23-6A-Electric-Fields-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q10a(iii)",
@@ -36771,7 +38728,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-08.jpg",
       "papers/physics/img/23-6A-Electric-Fields-09.jpg",
       "papers/physics/img/23-6A-Electric-Fields-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q10b",
@@ -36796,7 +38754,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-08.jpg",
       "papers/physics/img/23-6A-Electric-Fields-09.jpg",
       "papers/physics/img/23-6A-Electric-Fields-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q10c",
@@ -36828,7 +38787,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-08.jpg",
       "papers/physics/img/23-6A-Electric-Fields-09.jpg",
       "papers/physics/img/23-6A-Electric-Fields-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q11",
@@ -36850,7 +38810,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q12",
@@ -36873,7 +38834,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-11.jpg",
       "papers/physics/img/23-6A-Electric-Fields-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q13",
@@ -36895,7 +38857,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-11.jpg",
       "papers/physics/img/23-6A-Electric-Fields-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q14a",
@@ -36922,7 +38885,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-12.jpg",
       "papers/physics/img/23-6A-Electric-Fields-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q14b",
@@ -36951,7 +38915,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-12.jpg",
       "papers/physics/img/23-6A-Electric-Fields-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q15",
@@ -36974,7 +38939,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-13.jpg",
       "papers/physics/img/23-6A-Electric-Fields-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q16",
@@ -36997,7 +38963,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-14.jpg",
       "papers/physics/img/23-6A-Electric-Fields-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q17",
@@ -37019,7 +38986,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-14.jpg",
       "papers/physics/img/23-6A-Electric-Fields-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q18",
@@ -37041,7 +39009,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q19",
@@ -37070,7 +39039,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-16.jpg",
       "papers/physics/img/23-6A-Electric-Fields-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q20",
@@ -37092,7 +39062,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-16.jpg",
       "papers/physics/img/23-6A-Electric-Fields-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q21a",
@@ -37116,7 +39087,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-18.jpg",
       "papers/physics/img/23-6A-Electric-Fields-19.jpg",
       "papers/physics/img/23-6A-Electric-Fields-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q21b(i)",
@@ -37146,7 +39118,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-18.jpg",
       "papers/physics/img/23-6A-Electric-Fields-19.jpg",
       "papers/physics/img/23-6A-Electric-Fields-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q21b(ii)",
@@ -37177,7 +39150,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-18.jpg",
       "papers/physics/img/23-6A-Electric-Fields-19.jpg",
       "papers/physics/img/23-6A-Electric-Fields-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q21b(iii)",
@@ -37208,7 +39182,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-18.jpg",
       "papers/physics/img/23-6A-Electric-Fields-19.jpg",
       "papers/physics/img/23-6A-Electric-Fields-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q21c",
@@ -37238,7 +39213,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-18.jpg",
       "papers/physics/img/23-6A-Electric-Fields-19.jpg",
       "papers/physics/img/23-6A-Electric-Fields-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q22a",
@@ -37267,7 +39243,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-20.jpg",
       "papers/physics/img/23-6A-Electric-Fields-21.jpg",
       "papers/physics/img/23-6A-Electric-Fields-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q22b(i)",
@@ -37290,7 +39267,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-20.jpg",
       "papers/physics/img/23-6A-Electric-Fields-21.jpg",
       "papers/physics/img/23-6A-Electric-Fields-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q22b(ii)",
@@ -37314,7 +39292,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-20.jpg",
       "papers/physics/img/23-6A-Electric-Fields-21.jpg",
       "papers/physics/img/23-6A-Electric-Fields-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q22c",
@@ -37338,7 +39317,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-20.jpg",
       "papers/physics/img/23-6A-Electric-Fields-21.jpg",
       "papers/physics/img/23-6A-Electric-Fields-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q23",
@@ -37361,7 +39341,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q24a",
@@ -37382,7 +39363,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-23.jpg",
       "papers/physics/img/23-6A-Electric-Fields-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q24b",
@@ -37408,7 +39390,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-23.jpg",
       "papers/physics/img/23-6A-Electric-Fields-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q24c",
@@ -37437,7 +39420,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-23.jpg",
       "papers/physics/img/23-6A-Electric-Fields-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q25a",
@@ -37465,7 +39449,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-24.jpg",
       "papers/physics/img/23-6A-Electric-Fields-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q25b",
@@ -37492,7 +39477,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-24.jpg",
       "papers/physics/img/23-6A-Electric-Fields-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q26a(i)",
@@ -37515,7 +39501,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-25.jpg",
       "papers/physics/img/23-6A-Electric-Fields-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q26a(ii)",
@@ -37537,7 +39524,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-25.jpg",
       "papers/physics/img/23-6A-Electric-Fields-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q26b(i)",
@@ -37566,7 +39554,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-25.jpg",
       "papers/physics/img/23-6A-Electric-Fields-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q26b(ii)",
@@ -37595,7 +39584,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-25.jpg",
       "papers/physics/img/23-6A-Electric-Fields-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q26c",
@@ -37622,7 +39612,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-25.jpg",
       "papers/physics/img/23-6A-Electric-Fields-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q27",
@@ -37645,7 +39636,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-26.jpg",
       "papers/physics/img/23-6A-Electric-Fields-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q28",
@@ -37667,7 +39659,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-27.jpg",
       "papers/physics/img/23-6A-Electric-Fields-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q29a(i)",
@@ -37695,7 +39688,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-28.jpg",
       "papers/physics/img/23-6A-Electric-Fields-29.jpg",
       "papers/physics/img/23-6A-Electric-Fields-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q29a(ii)",
@@ -37722,7 +39716,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-28.jpg",
       "papers/physics/img/23-6A-Electric-Fields-29.jpg",
       "papers/physics/img/23-6A-Electric-Fields-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q29a(iii)",
@@ -37754,7 +39749,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-28.jpg",
       "papers/physics/img/23-6A-Electric-Fields-29.jpg",
       "papers/physics/img/23-6A-Electric-Fields-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q29b(i)",
@@ -37783,7 +39779,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-28.jpg",
       "papers/physics/img/23-6A-Electric-Fields-29.jpg",
       "papers/physics/img/23-6A-Electric-Fields-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q29b(ii)",
@@ -37811,7 +39808,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-28.jpg",
       "papers/physics/img/23-6A-Electric-Fields-29.jpg",
       "papers/physics/img/23-6A-Electric-Fields-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q30a",
@@ -37833,7 +39831,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-30.jpg",
       "papers/physics/img/23-6A-Electric-Fields-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q30b",
@@ -37856,7 +39855,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-30.jpg",
       "papers/physics/img/23-6A-Electric-Fields-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q31",
@@ -37883,7 +39883,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-31.jpg",
       "papers/physics/img/23-6A-Electric-Fields-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q32a",
@@ -37909,7 +39910,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-31.jpg",
       "papers/physics/img/23-6A-Electric-Fields-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q32b",
@@ -37935,7 +39937,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-31.jpg",
       "papers/physics/img/23-6A-Electric-Fields-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q33",
@@ -37958,7 +39961,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-32.jpg",
       "papers/physics/img/23-6A-Electric-Fields-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q34a",
@@ -37981,7 +39985,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-33.jpg",
       "papers/physics/img/23-6A-Electric-Fields-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q34b",
@@ -38012,7 +40017,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-33.jpg",
       "papers/physics/img/23-6A-Electric-Fields-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q35",
@@ -38035,7 +40041,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/23-6A-Electric-Fields-34.jpg",
       "papers/physics/img/23-6A-Electric-Fields-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q36a",
@@ -38060,7 +40067,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-36.jpg",
       "papers/physics/img/23-6A-Electric-Fields-37.jpg",
       "papers/physics/img/23-6A-Electric-Fields-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q36b(i)",
@@ -38090,7 +40098,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-36.jpg",
       "papers/physics/img/23-6A-Electric-Fields-37.jpg",
       "papers/physics/img/23-6A-Electric-Fields-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q36b(ii)",
@@ -38119,7 +40128,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-36.jpg",
       "papers/physics/img/23-6A-Electric-Fields-37.jpg",
       "papers/physics/img/23-6A-Electric-Fields-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q36b(iii)",
@@ -38145,7 +40155,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-36.jpg",
       "papers/physics/img/23-6A-Electric-Fields-37.jpg",
       "papers/physics/img/23-6A-Electric-Fields-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q36c(i)",
@@ -38170,7 +40181,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-36.jpg",
       "papers/physics/img/23-6A-Electric-Fields-37.jpg",
       "papers/physics/img/23-6A-Electric-Fields-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6A-Q36c(ii)",
@@ -38200,7 +40212,8 @@ window.BANK.physics = {
       "papers/physics/img/23-6A-Electric-Fields-36.jpg",
       "papers/physics/img/23-6A-Electric-Fields-37.jpg",
       "papers/physics/img/23-6A-Electric-Fields-38.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -38232,7 +40245,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/24-6B-Capacitors-01.jpg",
       "papers/physics/img/24-6B-Capacitors-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q1b",
@@ -38255,7 +40269,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/24-6B-Capacitors-01.jpg",
       "papers/physics/img/24-6B-Capacitors-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q1c",
@@ -38283,7 +40298,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/24-6B-Capacitors-01.jpg",
       "papers/physics/img/24-6B-Capacitors-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q2",
@@ -38304,7 +40320,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/24-6B-Capacitors-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q3",
@@ -38327,7 +40344,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/24-6B-Capacitors-03.jpg",
       "papers/physics/img/24-6B-Capacitors-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q4a",
@@ -38349,7 +40367,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/24-6B-Capacitors-04.jpg",
       "papers/physics/img/24-6B-Capacitors-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q4b",
@@ -38371,7 +40390,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/24-6B-Capacitors-04.jpg",
       "papers/physics/img/24-6B-Capacitors-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q5a",
@@ -38396,7 +40416,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-05.jpg",
       "papers/physics/img/24-6B-Capacitors-06.jpg",
       "papers/physics/img/24-6B-Capacitors-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q5b(i)",
@@ -38419,7 +40440,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-05.jpg",
       "papers/physics/img/24-6B-Capacitors-06.jpg",
       "papers/physics/img/24-6B-Capacitors-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q5b(ii)",
@@ -38449,7 +40471,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-05.jpg",
       "papers/physics/img/24-6B-Capacitors-06.jpg",
       "papers/physics/img/24-6B-Capacitors-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q5b(iii)",
@@ -38473,7 +40496,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-05.jpg",
       "papers/physics/img/24-6B-Capacitors-06.jpg",
       "papers/physics/img/24-6B-Capacitors-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q5b(iv)",
@@ -38495,7 +40519,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-05.jpg",
       "papers/physics/img/24-6B-Capacitors-06.jpg",
       "papers/physics/img/24-6B-Capacitors-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q5b(v)",
@@ -38517,7 +40542,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-05.jpg",
       "papers/physics/img/24-6B-Capacitors-06.jpg",
       "papers/physics/img/24-6B-Capacitors-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q6",
@@ -38540,7 +40566,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/24-6B-Capacitors-07.jpg",
       "papers/physics/img/24-6B-Capacitors-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q7",
@@ -38562,7 +40589,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/24-6B-Capacitors-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q8a",
@@ -38591,7 +40619,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/24-6B-Capacitors-09.jpg",
       "papers/physics/img/24-6B-Capacitors-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q8b",
@@ -38614,7 +40643,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/24-6B-Capacitors-09.jpg",
       "papers/physics/img/24-6B-Capacitors-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q8c",
@@ -38636,7 +40666,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/24-6B-Capacitors-09.jpg",
       "papers/physics/img/24-6B-Capacitors-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q9",
@@ -38658,7 +40689,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/24-6B-Capacitors-10.jpg",
       "papers/physics/img/24-6B-Capacitors-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q10a",
@@ -38682,7 +40714,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-11.jpg",
       "papers/physics/img/24-6B-Capacitors-12.jpg",
       "papers/physics/img/24-6B-Capacitors-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q10b",
@@ -38705,7 +40738,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-11.jpg",
       "papers/physics/img/24-6B-Capacitors-12.jpg",
       "papers/physics/img/24-6B-Capacitors-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q11a(i)",
@@ -38727,7 +40761,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/24-6B-Capacitors-13.jpg",
       "papers/physics/img/24-6B-Capacitors-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q11a(ii)",
@@ -38754,7 +40789,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/24-6B-Capacitors-13.jpg",
       "papers/physics/img/24-6B-Capacitors-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q11a(iii)",
@@ -38782,7 +40818,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/24-6B-Capacitors-13.jpg",
       "papers/physics/img/24-6B-Capacitors-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q11b",
@@ -38805,7 +40842,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/24-6B-Capacitors-13.jpg",
       "papers/physics/img/24-6B-Capacitors-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q12a",
@@ -38828,7 +40866,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-14.jpg",
       "papers/physics/img/24-6B-Capacitors-15.jpg",
       "papers/physics/img/24-6B-Capacitors-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q12b",
@@ -38850,7 +40889,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-14.jpg",
       "papers/physics/img/24-6B-Capacitors-15.jpg",
       "papers/physics/img/24-6B-Capacitors-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q12c",
@@ -38873,7 +40913,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-14.jpg",
       "papers/physics/img/24-6B-Capacitors-15.jpg",
       "papers/physics/img/24-6B-Capacitors-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q12d",
@@ -38896,7 +40937,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-14.jpg",
       "papers/physics/img/24-6B-Capacitors-15.jpg",
       "papers/physics/img/24-6B-Capacitors-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q12e",
@@ -38918,7 +40960,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-14.jpg",
       "papers/physics/img/24-6B-Capacitors-15.jpg",
       "papers/physics/img/24-6B-Capacitors-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q13",
@@ -38943,7 +40986,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/24-6B-Capacitors-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q14",
@@ -38970,7 +41014,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-17.jpg",
       "papers/physics/img/24-6B-Capacitors-18.jpg",
       "papers/physics/img/24-6B-Capacitors-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q15",
@@ -38997,7 +41042,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-17.jpg",
       "papers/physics/img/24-6B-Capacitors-18.jpg",
       "papers/physics/img/24-6B-Capacitors-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q16a",
@@ -39027,7 +41073,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-17.jpg",
       "papers/physics/img/24-6B-Capacitors-18.jpg",
       "papers/physics/img/24-6B-Capacitors-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q16b",
@@ -39056,7 +41103,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-17.jpg",
       "papers/physics/img/24-6B-Capacitors-18.jpg",
       "papers/physics/img/24-6B-Capacitors-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q16c",
@@ -39085,7 +41133,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-17.jpg",
       "papers/physics/img/24-6B-Capacitors-18.jpg",
       "papers/physics/img/24-6B-Capacitors-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q17a",
@@ -39109,7 +41158,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-19.jpg",
       "papers/physics/img/24-6B-Capacitors-20.jpg",
       "papers/physics/img/24-6B-Capacitors-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q17b",
@@ -39139,7 +41189,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-19.jpg",
       "papers/physics/img/24-6B-Capacitors-20.jpg",
       "papers/physics/img/24-6B-Capacitors-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q18",
@@ -39163,7 +41214,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-22.jpg",
       "papers/physics/img/24-6B-Capacitors-23.jpg",
       "papers/physics/img/24-6B-Capacitors-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q19a",
@@ -39187,7 +41239,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-22.jpg",
       "papers/physics/img/24-6B-Capacitors-23.jpg",
       "papers/physics/img/24-6B-Capacitors-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q19b(i)",
@@ -39216,7 +41269,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-22.jpg",
       "papers/physics/img/24-6B-Capacitors-23.jpg",
       "papers/physics/img/24-6B-Capacitors-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q19b(ii)",
@@ -39247,7 +41301,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-22.jpg",
       "papers/physics/img/24-6B-Capacitors-23.jpg",
       "papers/physics/img/24-6B-Capacitors-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q19b(iii)",
@@ -39277,7 +41332,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-22.jpg",
       "papers/physics/img/24-6B-Capacitors-23.jpg",
       "papers/physics/img/24-6B-Capacitors-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q20a",
@@ -39300,7 +41356,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-24.jpg",
       "papers/physics/img/24-6B-Capacitors-25.jpg",
       "papers/physics/img/24-6B-Capacitors-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q20b(i)",
@@ -39323,7 +41380,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-24.jpg",
       "papers/physics/img/24-6B-Capacitors-25.jpg",
       "papers/physics/img/24-6B-Capacitors-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q20b(ii)",
@@ -39346,7 +41404,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-24.jpg",
       "papers/physics/img/24-6B-Capacitors-25.jpg",
       "papers/physics/img/24-6B-Capacitors-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q20b(iii)",
@@ -39369,7 +41428,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-24.jpg",
       "papers/physics/img/24-6B-Capacitors-25.jpg",
       "papers/physics/img/24-6B-Capacitors-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q21",
@@ -39400,7 +41460,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/24-6B-Capacitors-26.jpg",
       "papers/physics/img/24-6B-Capacitors-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q22",
@@ -39422,7 +41483,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/24-6B-Capacitors-27.jpg",
       "papers/physics/img/24-6B-Capacitors-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q23a(i)",
@@ -39446,7 +41508,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-28.jpg",
       "papers/physics/img/24-6B-Capacitors-29.jpg",
       "papers/physics/img/24-6B-Capacitors-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q23a(ii)",
@@ -39469,7 +41532,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-28.jpg",
       "papers/physics/img/24-6B-Capacitors-29.jpg",
       "papers/physics/img/24-6B-Capacitors-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q23b",
@@ -39498,7 +41562,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-28.jpg",
       "papers/physics/img/24-6B-Capacitors-29.jpg",
       "papers/physics/img/24-6B-Capacitors-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q24",
@@ -39520,7 +41585,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/24-6B-Capacitors-30.jpg",
       "papers/physics/img/24-6B-Capacitors-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q25a",
@@ -39543,7 +41609,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-31.jpg",
       "papers/physics/img/24-6B-Capacitors-32.jpg",
       "papers/physics/img/24-6B-Capacitors-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q25b(i)",
@@ -39566,7 +41633,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-31.jpg",
       "papers/physics/img/24-6B-Capacitors-32.jpg",
       "papers/physics/img/24-6B-Capacitors-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q25b(ii)",
@@ -39589,7 +41657,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-31.jpg",
       "papers/physics/img/24-6B-Capacitors-32.jpg",
       "papers/physics/img/24-6B-Capacitors-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q25b(iii)",
@@ -39611,7 +41680,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-31.jpg",
       "papers/physics/img/24-6B-Capacitors-32.jpg",
       "papers/physics/img/24-6B-Capacitors-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q26",
@@ -39634,7 +41704,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/24-6B-Capacitors-33.jpg",
       "papers/physics/img/24-6B-Capacitors-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q27a(i)",
@@ -39662,7 +41733,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-34.jpg",
       "papers/physics/img/24-6B-Capacitors-35.jpg",
       "papers/physics/img/24-6B-Capacitors-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q27a(ii)",
@@ -39685,7 +41757,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-34.jpg",
       "papers/physics/img/24-6B-Capacitors-35.jpg",
       "papers/physics/img/24-6B-Capacitors-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q27b(i)",
@@ -39708,7 +41781,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-34.jpg",
       "papers/physics/img/24-6B-Capacitors-35.jpg",
       "papers/physics/img/24-6B-Capacitors-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q27b(ii)",
@@ -39735,7 +41809,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-34.jpg",
       "papers/physics/img/24-6B-Capacitors-35.jpg",
       "papers/physics/img/24-6B-Capacitors-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q27c",
@@ -39759,7 +41834,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-34.jpg",
       "papers/physics/img/24-6B-Capacitors-35.jpg",
       "papers/physics/img/24-6B-Capacitors-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q27d",
@@ -39786,7 +41862,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-34.jpg",
       "papers/physics/img/24-6B-Capacitors-35.jpg",
       "papers/physics/img/24-6B-Capacitors-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q28",
@@ -39810,7 +41887,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-38.jpg",
       "papers/physics/img/24-6B-Capacitors-39.jpg",
       "papers/physics/img/24-6B-Capacitors-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q29a",
@@ -39834,7 +41912,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-38.jpg",
       "papers/physics/img/24-6B-Capacitors-39.jpg",
       "papers/physics/img/24-6B-Capacitors-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q29b(i)",
@@ -39858,7 +41937,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-38.jpg",
       "papers/physics/img/24-6B-Capacitors-39.jpg",
       "papers/physics/img/24-6B-Capacitors-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q29b(ii)",
@@ -39882,7 +41962,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-38.jpg",
       "papers/physics/img/24-6B-Capacitors-39.jpg",
       "papers/physics/img/24-6B-Capacitors-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q29b(iii)",
@@ -39911,7 +41992,8 @@ window.BANK.physics = {
       "papers/physics/img/24-6B-Capacitors-38.jpg",
       "papers/physics/img/24-6B-Capacitors-39.jpg",
       "papers/physics/img/24-6B-Capacitors-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6B-Q30",
@@ -39937,7 +42019,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/24-6B-Capacitors-40.jpg",
       "papers/physics/img/24-6B-Capacitors-41.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -39977,7 +42060,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-01.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-02.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q1b(i)",
@@ -40000,7 +42084,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-01.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-02.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q1b(ii)",
@@ -40030,7 +42115,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-01.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-02.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q1b(iii)",
@@ -40054,7 +42140,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-01.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-02.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q2",
@@ -40079,7 +42166,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-04.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-05.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q3a",
@@ -40111,7 +42199,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-04.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-05.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q3b(i)",
@@ -40144,7 +42233,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-04.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-05.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q3b(ii)",
@@ -40169,7 +42259,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-04.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-05.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q3c",
@@ -40194,7 +42285,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-04.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-05.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q4",
@@ -40216,7 +42308,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-06.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q5",
@@ -40238,7 +42331,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q6",
@@ -40263,7 +42357,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-08.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-09.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q7a",
@@ -40291,7 +42386,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-08.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-09.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q7b",
@@ -40315,7 +42411,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-08.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-09.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q8a",
@@ -40346,7 +42443,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-10.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-11.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q8b(i)",
@@ -40375,7 +42473,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-10.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-11.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q8b(ii)",
@@ -40405,7 +42504,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-10.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-11.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q9",
@@ -40427,7 +42527,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q10",
@@ -40451,7 +42552,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-13.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-14.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q11",
@@ -40482,7 +42584,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-13.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-14.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q12",
@@ -40512,7 +42615,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-15.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q13",
@@ -40534,7 +42638,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-15.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q14",
@@ -40557,7 +42662,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-16.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q15",
@@ -40586,7 +42692,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-17.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-18.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q16a(i)",
@@ -40616,7 +42723,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-17.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-18.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q16a(ii)",
@@ -40645,7 +42753,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-17.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-18.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q16b",
@@ -40677,7 +42786,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-17.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-18.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q17",
@@ -40700,7 +42810,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-19.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q18",
@@ -40723,7 +42834,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-20.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q19a(i)",
@@ -40751,7 +42863,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-21.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-22.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q19a(ii)",
@@ -40779,7 +42892,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-21.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-22.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q19b(i)",
@@ -40807,7 +42921,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-21.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-22.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q19b(ii)",
@@ -40836,7 +42951,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-21.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-22.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q19c(i)",
@@ -40860,7 +42976,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-21.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-22.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q19c(ii)",
@@ -40890,7 +43007,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-21.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-22.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q20a",
@@ -40915,7 +43033,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-24.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-25.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q20b",
@@ -40940,7 +43059,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-24.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-25.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q20c",
@@ -40972,7 +43092,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-24.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-25.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q21a(i)",
@@ -40995,7 +43116,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-26.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q21a(ii)",
@@ -41018,7 +43140,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-26.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q21b",
@@ -41046,7 +43169,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-26.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q22",
@@ -41077,7 +43201,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-27.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-28.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q23",
@@ -41104,7 +43229,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-29.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q24",
@@ -41132,7 +43258,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-29.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q25",
@@ -41155,7 +43282,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-30.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q26",
@@ -41182,7 +43310,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-30.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q27a",
@@ -41213,7 +43342,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-31.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q27b",
@@ -41236,7 +43366,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-31.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q28a",
@@ -41266,7 +43397,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-33.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-34.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q28b",
@@ -41296,7 +43428,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-33.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-34.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q28c",
@@ -41321,7 +43454,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-33.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-34.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q28d",
@@ -41346,7 +43480,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-33.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-34.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q29",
@@ -41369,7 +43504,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-35.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q30",
@@ -41392,7 +43528,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-36.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q31a",
@@ -41420,7 +43557,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-37.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q31b",
@@ -41443,7 +43581,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-37.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q32",
@@ -41471,7 +43610,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-38.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q33",
@@ -41499,7 +43639,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-39.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q34a",
@@ -41529,7 +43670,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-40.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q34b",
@@ -41556,7 +43698,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-40.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q35",
@@ -41579,7 +43722,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-41.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q36",
@@ -41602,7 +43746,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-42.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q37",
@@ -41624,7 +43769,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q38",
@@ -41646,7 +43792,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-44.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q39",
@@ -41669,7 +43816,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-44.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q40a(i)",
@@ -41693,7 +43841,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-45.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-46.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q40a(ii)",
@@ -41717,7 +43866,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-45.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-46.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q40b(i)",
@@ -41746,7 +43896,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-45.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-46.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q40b(ii)",
@@ -41770,7 +43921,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-45.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-46.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q41a",
@@ -41800,7 +43952,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-47.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-48.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q41b",
@@ -41830,7 +43983,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-47.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-48.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q41c",
@@ -41859,7 +44013,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-47.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-48.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q42",
@@ -41882,7 +44037,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-49.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q43a",
@@ -41911,7 +44067,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-50.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-51.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q43b",
@@ -41940,7 +44097,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-50.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-51.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q44",
@@ -41963,7 +44121,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-52.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q45a",
@@ -41991,7 +44150,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-52.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q45b",
@@ -42013,7 +44173,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-52.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q46a",
@@ -42042,7 +44203,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-53.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-54.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q46b(i)",
@@ -42071,7 +44233,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-53.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-54.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q46b(ii)",
@@ -42098,7 +44261,8 @@ window.BANK.physics = {
       "papers/physics/img/25-6C-Electromagnetic-Effects-53.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-54.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "6C-Q47",
@@ -42126,7 +44290,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/25-6C-Electromagnetic-Effects-55.jpg",
       "papers/physics/img/25-6C-Electromagnetic-Effects-56.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -42157,7 +44322,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-01.jpg",
       "papers/physics/img/26-7A-Probing-Matter-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q2a",
@@ -42184,7 +44350,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-01.jpg",
       "papers/physics/img/26-7A-Probing-Matter-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q2b",
@@ -42214,7 +44381,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-01.jpg",
       "papers/physics/img/26-7A-Probing-Matter-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q3",
@@ -42241,7 +44409,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-02.jpg",
       "papers/physics/img/26-7A-Probing-Matter-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q4",
@@ -42264,7 +44433,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-02.jpg",
       "papers/physics/img/26-7A-Probing-Matter-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q5a",
@@ -42292,7 +44462,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-03.jpg",
       "papers/physics/img/26-7A-Probing-Matter-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q5b",
@@ -42319,7 +44490,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-03.jpg",
       "papers/physics/img/26-7A-Probing-Matter-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q6",
@@ -42342,7 +44514,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-03.jpg",
       "papers/physics/img/26-7A-Probing-Matter-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q7",
@@ -42366,7 +44539,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-04.jpg",
       "papers/physics/img/26-7A-Probing-Matter-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q8",
@@ -42394,7 +44568,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-04.jpg",
       "papers/physics/img/26-7A-Probing-Matter-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q9a",
@@ -42425,7 +44600,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-05.jpg",
       "papers/physics/img/26-7A-Probing-Matter-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q9b",
@@ -42453,7 +44629,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-05.jpg",
       "papers/physics/img/26-7A-Probing-Matter-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q10",
@@ -42481,7 +44658,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-06.jpg",
       "papers/physics/img/26-7A-Probing-Matter-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q11",
@@ -42507,7 +44685,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-06.jpg",
       "papers/physics/img/26-7A-Probing-Matter-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q12",
@@ -42530,7 +44709,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-07.jpg",
       "papers/physics/img/26-7A-Probing-Matter-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q13",
@@ -42556,7 +44736,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-07.jpg",
       "papers/physics/img/26-7A-Probing-Matter-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q14a",
@@ -42585,7 +44766,8 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-08.jpg",
       "papers/physics/img/26-7A-Probing-Matter-09.jpg",
       "papers/physics/img/26-7A-Probing-Matter-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q14b(i)",
@@ -42608,7 +44790,8 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-08.jpg",
       "papers/physics/img/26-7A-Probing-Matter-09.jpg",
       "papers/physics/img/26-7A-Probing-Matter-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q14b(ii)",
@@ -42632,7 +44815,8 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-08.jpg",
       "papers/physics/img/26-7A-Probing-Matter-09.jpg",
       "papers/physics/img/26-7A-Probing-Matter-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q14b(iii)",
@@ -42661,7 +44845,8 @@ window.BANK.physics = {
       "papers/physics/img/26-7A-Probing-Matter-08.jpg",
       "papers/physics/img/26-7A-Probing-Matter-09.jpg",
       "papers/physics/img/26-7A-Probing-Matter-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q15",
@@ -42689,7 +44874,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-10.jpg",
       "papers/physics/img/26-7A-Probing-Matter-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q16",
@@ -42715,7 +44901,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-10.jpg",
       "papers/physics/img/26-7A-Probing-Matter-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q17",
@@ -42738,7 +44925,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-10.jpg",
       "papers/physics/img/26-7A-Probing-Matter-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q18",
@@ -42766,7 +44954,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-11.jpg",
       "papers/physics/img/26-7A-Probing-Matter-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q19",
@@ -42789,7 +44978,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-11.jpg",
       "papers/physics/img/26-7A-Probing-Matter-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q20",
@@ -42817,7 +45007,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-12.jpg",
       "papers/physics/img/26-7A-Probing-Matter-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q21",
@@ -42840,7 +45031,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-12.jpg",
       "papers/physics/img/26-7A-Probing-Matter-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q22",
@@ -42868,7 +45060,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-12.jpg",
       "papers/physics/img/26-7A-Probing-Matter-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q23",
@@ -42895,7 +45088,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-13.jpg",
       "papers/physics/img/26-7A-Probing-Matter-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q24",
@@ -42918,7 +45112,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-13.jpg",
       "papers/physics/img/26-7A-Probing-Matter-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q25",
@@ -42945,7 +45140,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-13.jpg",
       "papers/physics/img/26-7A-Probing-Matter-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q26",
@@ -42976,7 +45172,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-14.jpg",
       "papers/physics/img/26-7A-Probing-Matter-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q27",
@@ -43004,7 +45201,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-15.jpg",
       "papers/physics/img/26-7A-Probing-Matter-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q28",
@@ -43027,7 +45225,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-15.jpg",
       "papers/physics/img/26-7A-Probing-Matter-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q29",
@@ -43050,7 +45249,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-15.jpg",
       "papers/physics/img/26-7A-Probing-Matter-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q30",
@@ -43078,7 +45278,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-16.jpg",
       "papers/physics/img/26-7A-Probing-Matter-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q31a",
@@ -43105,7 +45306,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-16.jpg",
       "papers/physics/img/26-7A-Probing-Matter-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q31b",
@@ -43133,7 +45335,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-16.jpg",
       "papers/physics/img/26-7A-Probing-Matter-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q32",
@@ -43160,7 +45363,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-17.jpg",
       "papers/physics/img/26-7A-Probing-Matter-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q33",
@@ -43183,7 +45387,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-17.jpg",
       "papers/physics/img/26-7A-Probing-Matter-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7A-Q34",
@@ -43207,7 +45412,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/26-7A-Probing-Matter-18.jpg",
       "papers/physics/img/26-7A-Probing-Matter-19.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -43245,7 +45451,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-01.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q1a(ii)",
@@ -43275,7 +45482,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-01.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q1b",
@@ -43306,7 +45514,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-01.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q1c",
@@ -43336,7 +45545,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-01.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q2a",
@@ -43366,7 +45576,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-03.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-04.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q2b(i)",
@@ -43397,7 +45608,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-03.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-04.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q2b(ii)",
@@ -43427,7 +45639,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-03.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-04.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q2c",
@@ -43458,7 +45671,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-03.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-04.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q2d",
@@ -43490,7 +45704,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-03.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-04.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q3a",
@@ -43519,7 +45734,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-06.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-07.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q3b(i)",
@@ -43550,7 +45766,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-06.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-07.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q3b(ii)",
@@ -43576,7 +45793,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-06.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-07.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q3b(iii)",
@@ -43608,7 +45826,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-06.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-07.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q3c",
@@ -43634,7 +45853,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-06.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-07.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q4",
@@ -43661,7 +45881,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-08.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q5",
@@ -43685,7 +45906,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-08.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q6",
@@ -43714,7 +45936,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-09.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q7",
@@ -43742,7 +45965,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-10.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q8",
@@ -43770,7 +45994,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-10.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q9",
@@ -43799,7 +46024,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-11.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-12.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q10a(i)",
@@ -43824,7 +46050,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-11.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-12.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q10a(ii)",
@@ -43849,7 +46076,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-11.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-12.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q10b(i)",
@@ -43874,7 +46102,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-11.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-12.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q10b(ii)",
@@ -43903,7 +46132,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-11.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-12.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q10c",
@@ -43933,7 +46163,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-11.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-12.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q11",
@@ -43957,7 +46188,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-13.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q12a(i)",
@@ -43987,7 +46219,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-14.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-15.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q12a(ii)",
@@ -44017,7 +46250,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-14.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-15.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q12a(iii)",
@@ -44047,7 +46281,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-14.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-15.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q12b",
@@ -44076,7 +46311,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-14.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-15.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q13a",
@@ -44106,7 +46342,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-16.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q13b",
@@ -44134,7 +46371,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-16.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q14",
@@ -44163,7 +46401,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-17.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q15a",
@@ -44187,7 +46426,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-18.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q15b",
@@ -44217,7 +46457,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-18.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q16",
@@ -44241,7 +46482,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-19.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q17",
@@ -44269,7 +46511,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-20.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q18",
@@ -44293,7 +46536,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-20.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q19",
@@ -44323,7 +46567,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-21.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-22.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q20a",
@@ -44354,7 +46599,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-21.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-22.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q20b",
@@ -44386,7 +46632,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-21.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-22.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q21",
@@ -44410,7 +46657,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-23.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q22",
@@ -44440,7 +46688,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-25.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-26.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q23a(i)",
@@ -44470,7 +46719,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-25.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-26.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q23a(ii)",
@@ -44500,7 +46750,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-25.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-26.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q23a(iii)",
@@ -44532,7 +46783,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-25.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-26.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q23b(i)",
@@ -44558,7 +46810,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-25.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-26.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q23b(ii)",
@@ -44589,7 +46842,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-25.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-26.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q24",
@@ -44618,7 +46872,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q25",
@@ -44647,7 +46902,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-27.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q26",
@@ -44672,7 +46928,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-28.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-29.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q27",
@@ -44702,7 +46959,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-28.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-29.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q28a",
@@ -44727,7 +46985,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-28.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-29.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q28b",
@@ -44757,7 +47016,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-28.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-29.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q28c",
@@ -44789,7 +47049,8 @@ window.BANK.physics = {
       "papers/physics/img/27-7B-Accelerators-Detectors-28.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-29.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q29",
@@ -44813,7 +47074,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-30.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q30",
@@ -44841,7 +47103,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-30.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q31a",
@@ -44872,7 +47135,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-31.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q31b(i)",
@@ -44902,7 +47166,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-31.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7B-Q31b(ii)",
@@ -44931,7 +47196,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/27-7B-Accelerators-Detectors-31.jpg",
       "papers/physics/img/27-7B-Accelerators-Detectors-32.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -44968,7 +47234,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-01.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q1b",
@@ -44997,7 +47264,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-01.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q1c",
@@ -45026,7 +47294,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-01.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q2",
@@ -45054,7 +47323,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q3",
@@ -45082,7 +47352,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q4",
@@ -45106,7 +47377,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-03.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q5",
@@ -45135,7 +47407,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-03.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q6a",
@@ -45162,7 +47435,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-03.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q6b",
@@ -45191,7 +47465,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-03.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q7",
@@ -45215,7 +47490,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-04.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q8",
@@ -45244,7 +47520,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-05.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q9",
@@ -45268,7 +47545,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-05.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q10a",
@@ -45298,7 +47576,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-06.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-07.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q10b",
@@ -45323,7 +47602,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-06.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-07.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q10c1",
@@ -45353,7 +47633,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-06.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-07.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q10c2",
@@ -45382,7 +47663,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-06.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-07.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q10d",
@@ -45412,7 +47694,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-06.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-07.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q11a",
@@ -45440,7 +47723,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-08.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q11b",
@@ -45464,7 +47748,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-08.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q12a",
@@ -45494,7 +47779,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-09.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q12b",
@@ -45522,7 +47808,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-09.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q13a",
@@ -45553,7 +47840,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-10.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q13b",
@@ -45582,7 +47870,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-10.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q14",
@@ -45605,7 +47894,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q15",
@@ -45630,7 +47920,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-12.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q16a",
@@ -45655,7 +47946,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-12.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q16b",
@@ -45680,7 +47972,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-12.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q16c",
@@ -45705,7 +47998,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-12.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q16d",
@@ -45733,7 +48027,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-12.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q16e1",
@@ -45761,7 +48056,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-12.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q16e2",
@@ -45792,7 +48088,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-12.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-13.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q17a",
@@ -45822,7 +48119,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-14.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-15.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q17b1",
@@ -45851,7 +48149,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-14.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-15.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q17b2",
@@ -45881,7 +48180,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-14.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-15.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q17c",
@@ -45911,7 +48211,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-14.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-15.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q18",
@@ -45935,7 +48236,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-16.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q19",
@@ -45963,7 +48265,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-16.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q20",
@@ -45990,7 +48293,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-17.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q21a",
@@ -46014,7 +48318,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-17.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q21b1",
@@ -46041,7 +48346,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-17.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q21b2",
@@ -46070,7 +48376,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-17.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q21c",
@@ -46098,7 +48405,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-17.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q22a",
@@ -46127,7 +48435,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-18.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-19.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q22b1",
@@ -46157,7 +48466,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-18.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-19.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q22b2",
@@ -46186,7 +48496,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-18.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-19.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q23a",
@@ -46213,7 +48524,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-20.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q23b1",
@@ -46240,7 +48552,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-20.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q23b2",
@@ -46264,7 +48577,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-20.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q23b3",
@@ -46292,7 +48606,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-20.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q23c",
@@ -46323,7 +48638,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-20.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q24a",
@@ -46351,7 +48667,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-21.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-22.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q24b",
@@ -46376,7 +48693,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-21.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-22.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q24c",
@@ -46405,7 +48723,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-21.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-22.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q24d1",
@@ -46435,7 +48754,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-21.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-22.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q24d2",
@@ -46464,7 +48784,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-21.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-22.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q24d3",
@@ -46493,7 +48814,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-21.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-22.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q25a",
@@ -46518,7 +48840,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-23.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-24.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q25b",
@@ -46543,7 +48866,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-23.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-24.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q25c",
@@ -46572,7 +48896,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-23.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-24.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q25d",
@@ -46601,7 +48926,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-23.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-24.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q26a",
@@ -46630,7 +48956,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-25.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q26b",
@@ -46659,7 +48986,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-25.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q27",
@@ -46683,7 +49011,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-26.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q28",
@@ -46709,7 +49038,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q29",
@@ -46737,7 +49067,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q30",
@@ -46761,7 +49092,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-28.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q31",
@@ -46785,7 +49117,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-28.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q32a",
@@ -46811,7 +49144,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-28.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q32b",
@@ -46838,7 +49172,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-28.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q32c",
@@ -46862,7 +49197,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-28.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q33a",
@@ -46890,7 +49226,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-29.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q33b",
@@ -46918,7 +49255,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-29.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q33c",
@@ -46946,7 +49284,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-29.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q34",
@@ -46970,7 +49309,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-30.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q35a",
@@ -46998,7 +49338,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-31.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q35b",
@@ -47026,7 +49367,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-31.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q36ai",
@@ -47055,7 +49397,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-32.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-33.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q36aii",
@@ -47083,7 +49426,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-32.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-33.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q36bi",
@@ -47113,7 +49457,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-32.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-33.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q36bii",
@@ -47142,7 +49487,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-32.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-33.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q36biii",
@@ -47172,7 +49518,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-32.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-33.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q36c",
@@ -47202,7 +49549,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-32.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-33.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q37a",
@@ -47230,7 +49578,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-34.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q37b",
@@ -47259,7 +49608,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-34.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q38",
@@ -47283,7 +49633,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-35.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q39a",
@@ -47311,7 +49662,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-36.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q39b",
@@ -47336,7 +49688,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-36.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q40a",
@@ -47366,7 +49719,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-36.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q40b1",
@@ -47395,7 +49749,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-36.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q40b2",
@@ -47424,7 +49779,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-36.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q40b3",
@@ -47454,7 +49810,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-36.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-37.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q41",
@@ -47481,7 +49838,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-38.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q42",
@@ -47505,7 +49863,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-39.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q43",
@@ -47529,7 +49888,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-39.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q44",
@@ -47554,7 +49914,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-40.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-41.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q45a",
@@ -47582,7 +49943,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-40.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-41.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q45b",
@@ -47611,7 +49973,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-40.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-41.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q45c",
@@ -47640,7 +50003,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-40.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-41.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q45d",
@@ -47669,7 +50033,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-40.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-41.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q46a",
@@ -47698,7 +50063,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-42.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-43.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q46bi",
@@ -47726,7 +50092,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-42.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-43.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q46bii",
@@ -47751,7 +50118,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-42.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-43.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q46biii",
@@ -47776,7 +50144,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-42.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-43.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q46biv",
@@ -47801,7 +50170,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-42.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-43.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-44.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q47",
@@ -47831,7 +50201,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-45.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-46.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q48ai",
@@ -47860,7 +50231,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-45.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-46.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q48aii",
@@ -47890,7 +50262,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-45.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-46.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q48bi",
@@ -47921,7 +50294,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-45.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-46.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q48bii",
@@ -47951,7 +50325,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-45.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-46.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q49",
@@ -47974,7 +50349,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q50",
@@ -47997,7 +50373,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q51a",
@@ -48025,7 +50402,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-48.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q51b",
@@ -48056,7 +50434,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-48.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q51c",
@@ -48085,7 +50464,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-48.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q52a",
@@ -48112,7 +50492,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-49.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q52bi",
@@ -48136,7 +50517,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-49.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q52bii",
@@ -48164,7 +50546,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-49.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q52biii",
@@ -48191,7 +50574,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-49.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q53a",
@@ -48218,7 +50602,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-50.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q53b",
@@ -48246,7 +50631,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-50.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q54",
@@ -48270,7 +50656,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-51.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q55a",
@@ -48296,7 +50683,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q55b",
@@ -48324,7 +50712,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q56",
@@ -48348,7 +50737,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-53.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q57",
@@ -48376,7 +50766,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-53.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q58",
@@ -48404,7 +50795,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-53.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q59",
@@ -48432,7 +50824,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-54.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q60",
@@ -48460,7 +50853,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/28-7C-Particle-Zoo-54.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q61",
@@ -48485,7 +50879,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-55.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-56.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q62ai",
@@ -48512,7 +50907,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-55.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-56.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q62aii",
@@ -48541,7 +50937,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-55.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-56.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q62b",
@@ -48570,7 +50967,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-55.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-56.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "7C-Q62c",
@@ -48595,7 +50993,8 @@ window.BANK.physics = {
       "papers/physics/img/28-7C-Particle-Zoo-55.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-56.jpg",
       "papers/physics/img/28-7C-Particle-Zoo-57.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -48634,7 +51033,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-01.jpg",
       "papers/physics/img/29-8-Thermodynamics-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q1b",
@@ -48664,7 +51064,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-01.jpg",
       "papers/physics/img/29-8-Thermodynamics-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q2",
@@ -48688,7 +51089,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-02.jpg",
       "papers/physics/img/29-8-Thermodynamics-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q3",
@@ -48712,7 +51114,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-02.jpg",
       "papers/physics/img/29-8-Thermodynamics-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q4",
@@ -48736,7 +51139,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-03.jpg",
       "papers/physics/img/29-8-Thermodynamics-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q5",
@@ -48765,7 +51169,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q6a",
@@ -48794,7 +51199,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-05.jpg",
       "papers/physics/img/29-8-Thermodynamics-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q6b",
@@ -48823,7 +51229,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-05.jpg",
       "papers/physics/img/29-8-Thermodynamics-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q7",
@@ -48853,7 +51260,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-05.jpg",
       "papers/physics/img/29-8-Thermodynamics-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q8",
@@ -48884,7 +51292,8 @@ window.BANK.physics = {
       "papers/physics/img/29-8-Thermodynamics-06.jpg",
       "papers/physics/img/29-8-Thermodynamics-07.jpg",
       "papers/physics/img/29-8-Thermodynamics-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q9a",
@@ -48914,7 +51323,8 @@ window.BANK.physics = {
       "papers/physics/img/29-8-Thermodynamics-06.jpg",
       "papers/physics/img/29-8-Thermodynamics-07.jpg",
       "papers/physics/img/29-8-Thermodynamics-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q9b",
@@ -48944,7 +51354,8 @@ window.BANK.physics = {
       "papers/physics/img/29-8-Thermodynamics-06.jpg",
       "papers/physics/img/29-8-Thermodynamics-07.jpg",
       "papers/physics/img/29-8-Thermodynamics-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q10",
@@ -48975,7 +51386,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-08.jpg",
       "papers/physics/img/29-8-Thermodynamics-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q11a",
@@ -49005,7 +51417,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-09.jpg",
       "papers/physics/img/29-8-Thermodynamics-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q11b",
@@ -49029,7 +51442,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-09.jpg",
       "papers/physics/img/29-8-Thermodynamics-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q12a",
@@ -49058,7 +51472,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-10.jpg",
       "papers/physics/img/29-8-Thermodynamics-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q12b",
@@ -49088,7 +51503,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-10.jpg",
       "papers/physics/img/29-8-Thermodynamics-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q13a",
@@ -49117,7 +51533,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-10.jpg",
       "papers/physics/img/29-8-Thermodynamics-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q13b",
@@ -49146,7 +51563,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-10.jpg",
       "papers/physics/img/29-8-Thermodynamics-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q14a(i)",
@@ -49176,7 +51594,8 @@ window.BANK.physics = {
       "papers/physics/img/29-8-Thermodynamics-12.jpg",
       "papers/physics/img/29-8-Thermodynamics-13.jpg",
       "papers/physics/img/29-8-Thermodynamics-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q14a(ii)",
@@ -49209,7 +51628,8 @@ window.BANK.physics = {
       "papers/physics/img/29-8-Thermodynamics-12.jpg",
       "papers/physics/img/29-8-Thermodynamics-13.jpg",
       "papers/physics/img/29-8-Thermodynamics-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q14b(i)",
@@ -49240,7 +51660,8 @@ window.BANK.physics = {
       "papers/physics/img/29-8-Thermodynamics-12.jpg",
       "papers/physics/img/29-8-Thermodynamics-13.jpg",
       "papers/physics/img/29-8-Thermodynamics-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q14b(ii)",
@@ -49272,7 +51693,8 @@ window.BANK.physics = {
       "papers/physics/img/29-8-Thermodynamics-12.jpg",
       "papers/physics/img/29-8-Thermodynamics-13.jpg",
       "papers/physics/img/29-8-Thermodynamics-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q15",
@@ -49301,7 +51723,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-14.jpg",
       "papers/physics/img/29-8-Thermodynamics-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q16",
@@ -49329,7 +51752,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-14.jpg",
       "papers/physics/img/29-8-Thermodynamics-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q17",
@@ -49359,7 +51783,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-15.jpg",
       "papers/physics/img/29-8-Thermodynamics-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q18",
@@ -49389,7 +51814,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-15.jpg",
       "papers/physics/img/29-8-Thermodynamics-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q19",
@@ -49417,7 +51843,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q20",
@@ -49447,7 +51874,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-17.jpg",
       "papers/physics/img/29-8-Thermodynamics-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q21",
@@ -49476,7 +51904,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-17.jpg",
       "papers/physics/img/29-8-Thermodynamics-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q22",
@@ -49500,7 +51929,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-17.jpg",
       "papers/physics/img/29-8-Thermodynamics-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q23",
@@ -49531,7 +51961,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-18.jpg",
       "papers/physics/img/29-8-Thermodynamics-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q24a",
@@ -49560,7 +51991,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-19.jpg",
       "papers/physics/img/29-8-Thermodynamics-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q24b",
@@ -49589,7 +52021,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-19.jpg",
       "papers/physics/img/29-8-Thermodynamics-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q25",
@@ -49618,7 +52051,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-19.jpg",
       "papers/physics/img/29-8-Thermodynamics-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q26a",
@@ -49647,7 +52081,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-20.jpg",
       "papers/physics/img/29-8-Thermodynamics-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q26b",
@@ -49675,7 +52110,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-20.jpg",
       "papers/physics/img/29-8-Thermodynamics-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q27",
@@ -49699,7 +52135,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-21.jpg",
       "papers/physics/img/29-8-Thermodynamics-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q28a",
@@ -49727,7 +52164,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-22.jpg",
       "papers/physics/img/29-8-Thermodynamics-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q28b",
@@ -49757,7 +52195,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-22.jpg",
       "papers/physics/img/29-8-Thermodynamics-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q29",
@@ -49785,7 +52224,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q30a",
@@ -49815,7 +52255,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-24.jpg",
       "papers/physics/img/29-8-Thermodynamics-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q30b",
@@ -49843,7 +52284,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-24.jpg",
       "papers/physics/img/29-8-Thermodynamics-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q31",
@@ -49867,7 +52309,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-24.jpg",
       "papers/physics/img/29-8-Thermodynamics-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q32",
@@ -49891,7 +52334,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-26.jpg",
       "papers/physics/img/29-8-Thermodynamics-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q33",
@@ -49915,7 +52359,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-26.jpg",
       "papers/physics/img/29-8-Thermodynamics-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q34a",
@@ -49944,7 +52389,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-27.jpg",
       "papers/physics/img/29-8-Thermodynamics-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q34b",
@@ -49975,7 +52421,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-27.jpg",
       "papers/physics/img/29-8-Thermodynamics-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q35a",
@@ -50003,7 +52450,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-28.jpg",
       "papers/physics/img/29-8-Thermodynamics-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q35b",
@@ -50032,7 +52480,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-28.jpg",
       "papers/physics/img/29-8-Thermodynamics-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q36",
@@ -50062,7 +52511,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-29.jpg",
       "papers/physics/img/29-8-Thermodynamics-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q37",
@@ -50090,7 +52540,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q38",
@@ -50113,7 +52564,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/29-8-Thermodynamics-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q39",
@@ -50137,7 +52589,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-31.jpg",
       "papers/physics/img/29-8-Thermodynamics-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q40",
@@ -50167,7 +52620,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-32.jpg",
       "papers/physics/img/29-8-Thermodynamics-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q41",
@@ -50191,7 +52645,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-33.jpg",
       "papers/physics/img/29-8-Thermodynamics-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q42",
@@ -50219,7 +52674,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-33.jpg",
       "papers/physics/img/29-8-Thermodynamics-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q43a",
@@ -50248,7 +52704,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-34.jpg",
       "papers/physics/img/29-8-Thermodynamics-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q43b",
@@ -50277,7 +52734,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-34.jpg",
       "papers/physics/img/29-8-Thermodynamics-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q44",
@@ -50302,7 +52760,8 @@ window.BANK.physics = {
       "papers/physics/img/29-8-Thermodynamics-35.jpg",
       "papers/physics/img/29-8-Thermodynamics-36.jpg",
       "papers/physics/img/29-8-Thermodynamics-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q45a",
@@ -50331,7 +52790,8 @@ window.BANK.physics = {
       "papers/physics/img/29-8-Thermodynamics-35.jpg",
       "papers/physics/img/29-8-Thermodynamics-36.jpg",
       "papers/physics/img/29-8-Thermodynamics-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q45b",
@@ -50363,7 +52823,8 @@ window.BANK.physics = {
       "papers/physics/img/29-8-Thermodynamics-35.jpg",
       "papers/physics/img/29-8-Thermodynamics-36.jpg",
       "papers/physics/img/29-8-Thermodynamics-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q46",
@@ -50387,7 +52848,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-37.jpg",
       "papers/physics/img/29-8-Thermodynamics-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q47",
@@ -50411,7 +52873,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-37.jpg",
       "papers/physics/img/29-8-Thermodynamics-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q48a",
@@ -50440,7 +52903,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-38.jpg",
       "papers/physics/img/29-8-Thermodynamics-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q48b",
@@ -50468,7 +52932,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-38.jpg",
       "papers/physics/img/29-8-Thermodynamics-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q49a",
@@ -50498,7 +52963,8 @@ window.BANK.physics = {
       "papers/physics/img/29-8-Thermodynamics-39.jpg",
       "papers/physics/img/29-8-Thermodynamics-40.jpg",
       "papers/physics/img/29-8-Thermodynamics-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q49b",
@@ -50529,7 +52995,8 @@ window.BANK.physics = {
       "papers/physics/img/29-8-Thermodynamics-39.jpg",
       "papers/physics/img/29-8-Thermodynamics-40.jpg",
       "papers/physics/img/29-8-Thermodynamics-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q50a",
@@ -50553,7 +53020,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-41.jpg",
       "papers/physics/img/29-8-Thermodynamics-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "8-Q50b",
@@ -50577,7 +53045,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/29-8-Thermodynamics-41.jpg",
       "papers/physics/img/29-8-Thermodynamics-42.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -50609,7 +53078,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-01.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q2",
@@ -50633,7 +53103,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-01.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q3",
@@ -50663,7 +53134,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-02.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q4a",
@@ -50687,7 +53159,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-03.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q4b(i)",
@@ -50715,7 +53188,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-03.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q4b(ii)",
@@ -50746,7 +53220,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-03.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q4c",
@@ -50775,7 +53250,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-03.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q4d",
@@ -50803,7 +53279,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-03.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q5",
@@ -50832,7 +53309,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-04.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q6",
@@ -50862,7 +53340,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-05.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-06.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q7a(i)",
@@ -50892,7 +53371,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-05.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-06.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q7a(ii)",
@@ -50917,7 +53397,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-05.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-06.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q7a(iii)",
@@ -50947,7 +53428,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-05.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-06.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q7b(i)",
@@ -50976,7 +53458,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-05.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-06.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q7b(ii)",
@@ -51006,7 +53489,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-05.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-06.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q8",
@@ -51031,7 +53515,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-07.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-08.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q9",
@@ -51062,7 +53547,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-09.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q10",
@@ -51086,7 +53572,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-09.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q11",
@@ -51116,7 +53603,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-10.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-11.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q12a",
@@ -51144,7 +53632,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-10.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-11.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q12b(i)",
@@ -51174,7 +53663,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-10.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-11.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q12b(ii)",
@@ -51202,7 +53692,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-10.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-11.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q12c",
@@ -51227,7 +53718,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-10.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-11.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q12d",
@@ -51252,7 +53744,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-10.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-11.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q12e",
@@ -51284,7 +53777,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-10.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-11.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q13a",
@@ -51308,7 +53802,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-12.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q13b",
@@ -51332,7 +53827,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-12.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q14a(i)",
@@ -51362,7 +53858,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-13.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-14.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q14a(ii)",
@@ -51392,7 +53889,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-13.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-14.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q14b",
@@ -51422,7 +53920,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-13.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-14.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q14c",
@@ -51447,7 +53946,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-13.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-14.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q15",
@@ -51478,7 +53978,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-16.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-17.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q16a",
@@ -51504,7 +54005,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-16.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-17.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q16b",
@@ -51536,7 +54038,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-16.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-17.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q16c",
@@ -51562,7 +54065,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-16.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-17.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q17",
@@ -51590,7 +54094,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-18.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q18",
@@ -51618,7 +54123,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q19",
@@ -51646,7 +54152,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q20a(i)",
@@ -51669,7 +54176,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q20a(ii)",
@@ -51692,7 +54200,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q20b",
@@ -51720,7 +54229,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q21a",
@@ -51749,7 +54259,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-21.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q21b",
@@ -51778,7 +54289,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-21.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q21c",
@@ -51807,7 +54319,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-21.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q21d",
@@ -51836,7 +54349,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-21.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q22a",
@@ -51864,7 +54378,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-22.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q22b",
@@ -51892,7 +54407,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-22.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q22c",
@@ -51921,7 +54437,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-22.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q23",
@@ -51945,7 +54462,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-23.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q24",
@@ -51974,7 +54492,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-24.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q25",
@@ -52004,7 +54523,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-25.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-26.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q26a",
@@ -52032,7 +54552,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-25.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-26.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q26b(i)",
@@ -52061,7 +54582,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-25.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-26.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q26b(ii)",
@@ -52091,7 +54613,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-25.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-26.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q26c(i)",
@@ -52123,7 +54646,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-25.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-26.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q26c(ii)",
@@ -52153,7 +54677,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-25.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-26.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q27",
@@ -52177,7 +54702,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-27.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q28",
@@ -52201,7 +54727,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-27.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q29",
@@ -52230,7 +54757,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-28.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q30",
@@ -52258,7 +54786,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-28.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q31",
@@ -52288,7 +54817,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-29.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-30.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q32a(i)",
@@ -52313,7 +54843,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-29.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-30.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q32a(ii)",
@@ -52338,7 +54869,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-29.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-30.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q32b",
@@ -52369,7 +54901,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-29.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-30.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q33",
@@ -52398,7 +54931,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-31.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q34a",
@@ -52426,7 +54960,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-31.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q34b",
@@ -52456,7 +54991,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-31.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q35a",
@@ -52484,7 +55020,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-32.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q35b",
@@ -52508,7 +55045,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-32.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q36a",
@@ -52532,7 +55070,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-32.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q36b",
@@ -52561,7 +55100,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-32.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q37a(i)",
@@ -52590,7 +55130,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-33.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-34.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q37a(ii)",
@@ -52619,7 +55160,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-33.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-34.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q37a(iii)",
@@ -52648,7 +55190,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-33.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-34.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q37b",
@@ -52678,7 +55221,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-33.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-34.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q38",
@@ -52702,7 +55246,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-35.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q39a",
@@ -52726,7 +55271,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-35.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q39b",
@@ -52753,7 +55299,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-35.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q40",
@@ -52781,7 +55328,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q41a",
@@ -52809,7 +55357,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-37.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q41b",
@@ -52838,7 +55387,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-37.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q41c",
@@ -52862,7 +55412,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-37.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q42",
@@ -52891,7 +55442,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-38.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q43",
@@ -52920,7 +55472,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-39.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q44",
@@ -52944,7 +55497,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-40.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q45",
@@ -52972,7 +55526,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-40.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q46",
@@ -52996,7 +55551,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-41.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q47",
@@ -53025,7 +55581,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-41.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q48",
@@ -53055,7 +55612,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-43.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-44.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q49",
@@ -53086,7 +55644,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-43.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-44.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q50a",
@@ -53117,7 +55676,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-43.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-44.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q50b",
@@ -53143,7 +55703,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-43.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-44.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q51a",
@@ -53174,7 +55735,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-45.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q51b(i)",
@@ -53203,7 +55765,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-45.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q51b(ii)",
@@ -53231,7 +55794,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-45.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q52",
@@ -53260,7 +55824,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-46.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q53",
@@ -53290,7 +55855,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-47.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-48.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q54a",
@@ -53319,7 +55885,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-47.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-48.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q54b",
@@ -53348,7 +55915,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-47.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-48.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q54c",
@@ -53373,7 +55941,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-47.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-48.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q55a(i)",
@@ -53401,7 +55970,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-49.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q55a(ii)",
@@ -53425,7 +55995,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-49.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q55a(iii)",
@@ -53449,7 +56020,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-49.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q55b",
@@ -53478,7 +56050,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-49.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q56a",
@@ -53506,7 +56079,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-50.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q56b(i)",
@@ -53536,7 +56110,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-50.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q56b(ii)",
@@ -53564,7 +56139,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-50.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q57a",
@@ -53593,7 +56169,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-51.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-52.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q57b",
@@ -53618,7 +56195,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-51.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-52.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q57c(i)",
@@ -53647,7 +56225,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-51.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-52.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q57c(ii)",
@@ -53676,7 +56255,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-51.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-52.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q57c(iii)",
@@ -53706,7 +56286,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-51.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-52.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q58",
@@ -53730,7 +56311,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-53.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q59a(i)",
@@ -53760,7 +56342,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-54.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-55.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q59a(ii)",
@@ -53789,7 +56372,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-54.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-55.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q59a(iii)",
@@ -53818,7 +56402,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-54.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-55.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q59b",
@@ -53843,7 +56428,8 @@ window.BANK.physics = {
       "papers/physics/img/30-9-Nuclear-Decay-54.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-55.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q60",
@@ -53872,7 +56458,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-56.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q61",
@@ -53900,7 +56487,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-57.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-58.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q62",
@@ -53924,7 +56512,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-58.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "9-Q63",
@@ -53948,7 +56537,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/30-9-Nuclear-Decay-58.jpg",
       "papers/physics/img/30-9-Nuclear-Decay-59.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -53984,7 +56574,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-01.jpg",
       "papers/physics/img/31-10-Oscillations-02.jpg",
       "papers/physics/img/31-10-Oscillations-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q2a",
@@ -54008,7 +56599,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-01.jpg",
       "papers/physics/img/31-10-Oscillations-02.jpg",
       "papers/physics/img/31-10-Oscillations-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q2b(i)",
@@ -54038,7 +56630,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-01.jpg",
       "papers/physics/img/31-10-Oscillations-02.jpg",
       "papers/physics/img/31-10-Oscillations-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q2b(ii)",
@@ -54068,7 +56661,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-01.jpg",
       "papers/physics/img/31-10-Oscillations-02.jpg",
       "papers/physics/img/31-10-Oscillations-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q2c(i)",
@@ -54098,7 +56692,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-01.jpg",
       "papers/physics/img/31-10-Oscillations-02.jpg",
       "papers/physics/img/31-10-Oscillations-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q2c(ii)",
@@ -54128,7 +56723,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-01.jpg",
       "papers/physics/img/31-10-Oscillations-02.jpg",
       "papers/physics/img/31-10-Oscillations-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q3",
@@ -54154,7 +56750,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-04.jpg",
       "papers/physics/img/31-10-Oscillations-05.jpg",
       "papers/physics/img/31-10-Oscillations-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q4a",
@@ -54184,7 +56781,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-04.jpg",
       "papers/physics/img/31-10-Oscillations-05.jpg",
       "papers/physics/img/31-10-Oscillations-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q4b",
@@ -54215,7 +56813,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-04.jpg",
       "papers/physics/img/31-10-Oscillations-05.jpg",
       "papers/physics/img/31-10-Oscillations-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q4c",
@@ -54240,7 +56839,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-04.jpg",
       "papers/physics/img/31-10-Oscillations-05.jpg",
       "papers/physics/img/31-10-Oscillations-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q4d",
@@ -54271,7 +56871,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-04.jpg",
       "papers/physics/img/31-10-Oscillations-05.jpg",
       "papers/physics/img/31-10-Oscillations-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q5",
@@ -54301,7 +56902,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-06.jpg",
       "papers/physics/img/31-10-Oscillations-07.jpg",
       "papers/physics/img/31-10-Oscillations-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q6a",
@@ -54329,7 +56931,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-06.jpg",
       "papers/physics/img/31-10-Oscillations-07.jpg",
       "papers/physics/img/31-10-Oscillations-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q6b(i)",
@@ -54359,7 +56962,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-06.jpg",
       "papers/physics/img/31-10-Oscillations-07.jpg",
       "papers/physics/img/31-10-Oscillations-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q6b(ii)",
@@ -54388,7 +56992,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-06.jpg",
       "papers/physics/img/31-10-Oscillations-07.jpg",
       "papers/physics/img/31-10-Oscillations-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q6c(i)",
@@ -54416,7 +57021,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-06.jpg",
       "papers/physics/img/31-10-Oscillations-07.jpg",
       "papers/physics/img/31-10-Oscillations-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q6c(ii)",
@@ -54445,7 +57051,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-06.jpg",
       "papers/physics/img/31-10-Oscillations-07.jpg",
       "papers/physics/img/31-10-Oscillations-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q6c(iii)",
@@ -54475,7 +57082,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-06.jpg",
       "papers/physics/img/31-10-Oscillations-07.jpg",
       "papers/physics/img/31-10-Oscillations-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q7a",
@@ -54502,7 +57110,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-08.jpg",
       "papers/physics/img/31-10-Oscillations-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q7b(i)",
@@ -54530,7 +57139,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-08.jpg",
       "papers/physics/img/31-10-Oscillations-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q7b(ii)",
@@ -54558,7 +57168,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-08.jpg",
       "papers/physics/img/31-10-Oscillations-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q8",
@@ -54586,7 +57197,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-09.jpg",
       "papers/physics/img/31-10-Oscillations-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q9",
@@ -54608,7 +57220,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-09.jpg",
       "papers/physics/img/31-10-Oscillations-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q10",
@@ -54630,7 +57243,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-10.jpg",
       "papers/physics/img/31-10-Oscillations-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q11",
@@ -54654,7 +57268,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-10.jpg",
       "papers/physics/img/31-10-Oscillations-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q12a(i)",
@@ -54677,7 +57292,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-11.jpg",
       "papers/physics/img/31-10-Oscillations-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q12a(ii)",
@@ -54700,7 +57316,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-11.jpg",
       "papers/physics/img/31-10-Oscillations-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q12b",
@@ -54729,7 +57346,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-11.jpg",
       "papers/physics/img/31-10-Oscillations-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q13",
@@ -54759,7 +57377,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-12.jpg",
       "papers/physics/img/31-10-Oscillations-13.jpg",
       "papers/physics/img/31-10-Oscillations-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q14a",
@@ -54788,7 +57407,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-12.jpg",
       "papers/physics/img/31-10-Oscillations-13.jpg",
       "papers/physics/img/31-10-Oscillations-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q14b(i)",
@@ -54818,7 +57438,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-12.jpg",
       "papers/physics/img/31-10-Oscillations-13.jpg",
       "papers/physics/img/31-10-Oscillations-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q14b(ii)",
@@ -54843,7 +57464,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-12.jpg",
       "papers/physics/img/31-10-Oscillations-13.jpg",
       "papers/physics/img/31-10-Oscillations-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q15",
@@ -54866,7 +57488,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-14.jpg",
       "papers/physics/img/31-10-Oscillations-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q16",
@@ -54890,7 +57513,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-15.jpg",
       "papers/physics/img/31-10-Oscillations-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q17",
@@ -54914,7 +57538,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-16.jpg",
       "papers/physics/img/31-10-Oscillations-17.jpg",
       "papers/physics/img/31-10-Oscillations-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q18a",
@@ -54945,7 +57570,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-16.jpg",
       "papers/physics/img/31-10-Oscillations-17.jpg",
       "papers/physics/img/31-10-Oscillations-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q18b(i)",
@@ -54975,7 +57601,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-16.jpg",
       "papers/physics/img/31-10-Oscillations-17.jpg",
       "papers/physics/img/31-10-Oscillations-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q18b(ii)",
@@ -55002,7 +57629,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-16.jpg",
       "papers/physics/img/31-10-Oscillations-17.jpg",
       "papers/physics/img/31-10-Oscillations-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q18c",
@@ -55029,7 +57657,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-16.jpg",
       "papers/physics/img/31-10-Oscillations-17.jpg",
       "papers/physics/img/31-10-Oscillations-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q19a",
@@ -55057,7 +57686,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-18.jpg",
       "papers/physics/img/31-10-Oscillations-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q19b(i)",
@@ -55086,7 +57716,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-18.jpg",
       "papers/physics/img/31-10-Oscillations-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q19b(ii)",
@@ -55115,7 +57746,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-18.jpg",
       "papers/physics/img/31-10-Oscillations-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q19c",
@@ -55144,7 +57776,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-18.jpg",
       "papers/physics/img/31-10-Oscillations-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q20",
@@ -55174,7 +57807,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-19.jpg",
       "papers/physics/img/31-10-Oscillations-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q21a",
@@ -55199,7 +57833,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-20.jpg",
       "papers/physics/img/31-10-Oscillations-21.jpg",
       "papers/physics/img/31-10-Oscillations-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q21b",
@@ -55229,7 +57864,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-20.jpg",
       "papers/physics/img/31-10-Oscillations-21.jpg",
       "papers/physics/img/31-10-Oscillations-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q22",
@@ -55252,7 +57888,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-22.jpg",
       "papers/physics/img/31-10-Oscillations-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q23",
@@ -55280,7 +57917,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-22.jpg",
       "papers/physics/img/31-10-Oscillations-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q24",
@@ -55304,7 +57942,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-23.jpg",
       "papers/physics/img/31-10-Oscillations-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q25",
@@ -55332,7 +57971,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-23.jpg",
       "papers/physics/img/31-10-Oscillations-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q26",
@@ -55357,7 +57997,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-24.jpg",
       "papers/physics/img/31-10-Oscillations-25.jpg",
       "papers/physics/img/31-10-Oscillations-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q27a",
@@ -55386,7 +58027,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-24.jpg",
       "papers/physics/img/31-10-Oscillations-25.jpg",
       "papers/physics/img/31-10-Oscillations-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q27b(i)",
@@ -55410,7 +58052,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-24.jpg",
       "papers/physics/img/31-10-Oscillations-25.jpg",
       "papers/physics/img/31-10-Oscillations-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q27b(ii)",
@@ -55438,7 +58081,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-24.jpg",
       "papers/physics/img/31-10-Oscillations-25.jpg",
       "papers/physics/img/31-10-Oscillations-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q27b(iii)",
@@ -55468,7 +58112,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-24.jpg",
       "papers/physics/img/31-10-Oscillations-25.jpg",
       "papers/physics/img/31-10-Oscillations-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q28",
@@ -55490,7 +58135,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-26.jpg",
       "papers/physics/img/31-10-Oscillations-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q29",
@@ -55513,7 +58159,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-27.jpg",
       "papers/physics/img/31-10-Oscillations-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q30a",
@@ -55536,7 +58183,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-27.jpg",
       "papers/physics/img/31-10-Oscillations-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q30b",
@@ -55560,7 +58208,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-27.jpg",
       "papers/physics/img/31-10-Oscillations-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q31a",
@@ -55589,7 +58238,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-28.jpg",
       "papers/physics/img/31-10-Oscillations-29.jpg",
       "papers/physics/img/31-10-Oscillations-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q31b",
@@ -55620,7 +58270,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-28.jpg",
       "papers/physics/img/31-10-Oscillations-29.jpg",
       "papers/physics/img/31-10-Oscillations-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q31c",
@@ -55650,7 +58301,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-28.jpg",
       "papers/physics/img/31-10-Oscillations-29.jpg",
       "papers/physics/img/31-10-Oscillations-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q32",
@@ -55677,7 +58329,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-30.jpg",
       "papers/physics/img/31-10-Oscillations-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q33",
@@ -55705,7 +58358,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-30.jpg",
       "papers/physics/img/31-10-Oscillations-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q34",
@@ -55727,7 +58381,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/31-10-Oscillations-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q35a",
@@ -55752,7 +58407,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-32.jpg",
       "papers/physics/img/31-10-Oscillations-33.jpg",
       "papers/physics/img/31-10-Oscillations-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q35bi",
@@ -55782,7 +58438,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-32.jpg",
       "papers/physics/img/31-10-Oscillations-33.jpg",
       "papers/physics/img/31-10-Oscillations-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q35bii",
@@ -55811,7 +58468,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-32.jpg",
       "papers/physics/img/31-10-Oscillations-33.jpg",
       "papers/physics/img/31-10-Oscillations-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q36a",
@@ -55839,7 +58497,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-34.jpg",
       "papers/physics/img/31-10-Oscillations-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q36b",
@@ -55868,7 +58527,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-34.jpg",
       "papers/physics/img/31-10-Oscillations-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q36c",
@@ -55896,7 +58556,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-34.jpg",
       "papers/physics/img/31-10-Oscillations-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q37",
@@ -55919,7 +58580,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-36.jpg",
       "papers/physics/img/31-10-Oscillations-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q38a",
@@ -55948,7 +58610,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-36.jpg",
       "papers/physics/img/31-10-Oscillations-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q38b",
@@ -55974,7 +58637,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-36.jpg",
       "papers/physics/img/31-10-Oscillations-37.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q39",
@@ -55997,7 +58661,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-37.jpg",
       "papers/physics/img/31-10-Oscillations-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q40",
@@ -56019,7 +58684,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-37.jpg",
       "papers/physics/img/31-10-Oscillations-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q41",
@@ -56041,7 +58707,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/31-10-Oscillations-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q42",
@@ -56069,7 +58736,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/31-10-Oscillations-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q43a",
@@ -56098,7 +58766,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-40.jpg",
       "papers/physics/img/31-10-Oscillations-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q43b",
@@ -56127,7 +58796,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-40.jpg",
       "papers/physics/img/31-10-Oscillations-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q44",
@@ -56150,7 +58820,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-40.jpg",
       "papers/physics/img/31-10-Oscillations-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q45",
@@ -56177,7 +58848,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/31-10-Oscillations-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q46",
@@ -56200,7 +58872,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/31-10-Oscillations-41.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q47",
@@ -56228,7 +58901,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-42.jpg",
       "papers/physics/img/31-10-Oscillations-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q48",
@@ -56250,7 +58924,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-42.jpg",
       "papers/physics/img/31-10-Oscillations-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q49",
@@ -56271,7 +58946,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/31-10-Oscillations-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q50",
@@ -56299,7 +58975,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-44.jpg",
       "papers/physics/img/31-10-Oscillations-45.jpg",
       "papers/physics/img/31-10-Oscillations-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q51a",
@@ -56327,7 +59004,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-44.jpg",
       "papers/physics/img/31-10-Oscillations-45.jpg",
       "papers/physics/img/31-10-Oscillations-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q51bi",
@@ -56356,7 +59034,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-44.jpg",
       "papers/physics/img/31-10-Oscillations-45.jpg",
       "papers/physics/img/31-10-Oscillations-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q51bii",
@@ -56381,7 +59060,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-44.jpg",
       "papers/physics/img/31-10-Oscillations-45.jpg",
       "papers/physics/img/31-10-Oscillations-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q51biii",
@@ -56410,7 +59090,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-44.jpg",
       "papers/physics/img/31-10-Oscillations-45.jpg",
       "papers/physics/img/31-10-Oscillations-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q51c",
@@ -56440,7 +59121,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-44.jpg",
       "papers/physics/img/31-10-Oscillations-45.jpg",
       "papers/physics/img/31-10-Oscillations-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q52",
@@ -56461,7 +59143,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/31-10-Oscillations-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q53",
@@ -56482,7 +59165,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/31-10-Oscillations-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q54",
@@ -56504,7 +59188,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/31-10-Oscillations-48.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q55a",
@@ -56526,7 +59211,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-49.jpg",
       "papers/physics/img/31-10-Oscillations-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q55bi",
@@ -56549,7 +59235,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-49.jpg",
       "papers/physics/img/31-10-Oscillations-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q55bii",
@@ -56572,7 +59259,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-49.jpg",
       "papers/physics/img/31-10-Oscillations-50.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q56",
@@ -56602,7 +59290,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-51.jpg",
       "papers/physics/img/31-10-Oscillations-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q57",
@@ -56630,7 +59319,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-52.jpg",
       "papers/physics/img/31-10-Oscillations-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q58",
@@ -56659,7 +59349,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-52.jpg",
       "papers/physics/img/31-10-Oscillations-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q59",
@@ -56688,7 +59379,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-53.jpg",
       "papers/physics/img/31-10-Oscillations-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q60",
@@ -56718,7 +59410,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-53.jpg",
       "papers/physics/img/31-10-Oscillations-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q61",
@@ -56745,7 +59438,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/31-10-Oscillations-54.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q62",
@@ -56767,7 +59461,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-55.jpg",
       "papers/physics/img/31-10-Oscillations-56.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q63",
@@ -56789,7 +59484,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/31-10-Oscillations-56.jpg",
       "papers/physics/img/31-10-Oscillations-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q64a",
@@ -56818,7 +59514,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-57.jpg",
       "papers/physics/img/31-10-Oscillations-58.jpg",
       "papers/physics/img/31-10-Oscillations-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q64b",
@@ -56842,7 +59539,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-57.jpg",
       "papers/physics/img/31-10-Oscillations-58.jpg",
       "papers/physics/img/31-10-Oscillations-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "10-Q64c",
@@ -56870,7 +59568,8 @@ window.BANK.physics = {
       "papers/physics/img/31-10-Oscillations-57.jpg",
       "papers/physics/img/31-10-Oscillations-58.jpg",
       "papers/physics/img/31-10-Oscillations-59.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -56906,7 +59605,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-01.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q1b(i)",
@@ -56933,7 +59633,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-01.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q1b(ii)",
@@ -56961,7 +59662,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-01.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q2",
@@ -56989,7 +59691,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-02.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q3a(i)",
@@ -57017,7 +59720,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-03.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q3a(ii)",
@@ -57045,7 +59749,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-03.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q3b",
@@ -57074,7 +59779,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-03.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q4",
@@ -57102,7 +59808,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-04.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q5",
@@ -57131,7 +59838,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-04.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q6",
@@ -57155,7 +59863,8 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-05.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-06.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q7a(i)",
@@ -57184,7 +59893,8 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-05.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-06.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q7a(ii)",
@@ -57213,7 +59923,8 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-05.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-06.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q7a(iii)",
@@ -57243,7 +59954,8 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-05.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-06.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q7b",
@@ -57272,7 +59984,8 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-05.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-06.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q8a(i)",
@@ -57300,7 +60013,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-07.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q8a(ii)",
@@ -57328,7 +60042,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-07.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q8b",
@@ -57358,7 +60073,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-07.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q8c",
@@ -57386,7 +60102,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-07.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q9",
@@ -57414,7 +60131,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-09.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q10a",
@@ -57442,7 +60160,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-09.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q10b",
@@ -57470,7 +60189,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-09.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q10c",
@@ -57498,7 +60218,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-09.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q11a",
@@ -57522,7 +60243,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-10.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q11b",
@@ -57551,7 +60273,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-10.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q11c",
@@ -57580,7 +60303,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-10.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q12ai",
@@ -57609,7 +60333,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-12.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q12aii",
@@ -57637,7 +60362,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-12.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q12b",
@@ -57665,7 +60391,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-12.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q13",
@@ -57688,7 +60415,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-13.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q14ai",
@@ -57716,7 +60444,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-14.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q14aii",
@@ -57745,7 +60474,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-14.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q14b",
@@ -57774,7 +60504,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-14.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q15",
@@ -57797,7 +60528,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-15.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q16",
@@ -57825,7 +60557,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-15.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q17a",
@@ -57854,7 +60587,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-16.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q17bi",
@@ -57881,7 +60615,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-16.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q17bii",
@@ -57909,7 +60644,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-16.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q18a",
@@ -57937,7 +60673,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-17.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q18bi",
@@ -57965,7 +60702,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-17.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q18bii",
@@ -57993,7 +60731,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-17.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q19a",
@@ -58022,7 +60761,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-18.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q19b",
@@ -58050,7 +60790,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-18.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q19c",
@@ -58079,7 +60820,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-18.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q20a",
@@ -58106,7 +60848,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-19.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q20b",
@@ -58137,7 +60880,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-19.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q21",
@@ -58160,7 +60904,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-20.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q22",
@@ -58188,7 +60933,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-21.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q23",
@@ -58211,7 +60957,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-21.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-22.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q24",
@@ -58239,7 +60986,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-22.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q25",
@@ -58267,7 +61015,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-22.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q26",
@@ -58289,7 +61038,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-23.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q27",
@@ -58317,7 +61067,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-23.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q28",
@@ -58340,7 +61091,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-24.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q29a",
@@ -58368,7 +61120,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-24.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q29bi",
@@ -58395,7 +61148,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-24.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q29bii",
@@ -58423,7 +61177,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-24.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-25.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q30ai",
@@ -58452,7 +61207,8 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-25.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-26.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q30aii",
@@ -58482,7 +61238,8 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-25.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-26.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q30b",
@@ -58511,7 +61268,8 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-25.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-26.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q31",
@@ -58538,7 +61296,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-27.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q32",
@@ -58566,7 +61325,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-28.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q33",
@@ -58594,7 +61354,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-28.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-29.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q34",
@@ -58616,7 +61377,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-29.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q35a",
@@ -58644,7 +61406,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-30.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q35b",
@@ -58673,7 +61436,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-30.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q36",
@@ -58696,7 +61460,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-31.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q37",
@@ -58725,7 +61490,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-32.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q38a",
@@ -58753,7 +61519,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-32.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q38b",
@@ -58781,7 +61548,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/32-11A-Gravitational-Fields-32.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-33.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q39",
@@ -58810,7 +61578,8 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-33.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-34.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q40a",
@@ -58840,7 +61609,8 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-33.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-34.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q40b",
@@ -58867,7 +61637,8 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-33.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-34.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-35.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "11A-Q40c",
@@ -58896,7 +61667,8 @@ window.BANK.physics = {
       "papers/physics/img/32-11A-Gravitational-Fields-33.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-34.jpg",
       "papers/physics/img/32-11A-Gravitational-Fields-35.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -58932,7 +61704,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-01.jpg",
       "papers/physics/img/33-11B-Space-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q1b",
@@ -58960,7 +61733,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-01.jpg",
       "papers/physics/img/33-11B-Space-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q2a",
@@ -58983,7 +61757,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-01.jpg",
       "papers/physics/img/33-11B-Space-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q2b",
@@ -59005,7 +61780,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-01.jpg",
       "papers/physics/img/33-11B-Space-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q2c",
@@ -59027,7 +61803,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-01.jpg",
       "papers/physics/img/33-11B-Space-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q2d",
@@ -59050,7 +61827,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-01.jpg",
       "papers/physics/img/33-11B-Space-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q3a",
@@ -59078,7 +61856,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-02.jpg",
       "papers/physics/img/33-11B-Space-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q3b",
@@ -59105,7 +61884,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-02.jpg",
       "papers/physics/img/33-11B-Space-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q4ai",
@@ -59129,7 +61909,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-04.jpg",
       "papers/physics/img/33-11B-Space-05.jpg",
       "papers/physics/img/33-11B-Space-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q4aii",
@@ -59161,7 +61942,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-04.jpg",
       "papers/physics/img/33-11B-Space-05.jpg",
       "papers/physics/img/33-11B-Space-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q4bi",
@@ -59186,7 +61968,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-04.jpg",
       "papers/physics/img/33-11B-Space-05.jpg",
       "papers/physics/img/33-11B-Space-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q4bii",
@@ -59217,7 +62000,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-04.jpg",
       "papers/physics/img/33-11B-Space-05.jpg",
       "papers/physics/img/33-11B-Space-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q5ai",
@@ -59245,7 +62029,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-06.jpg",
       "papers/physics/img/33-11B-Space-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q5aii",
@@ -59273,7 +62058,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-06.jpg",
       "papers/physics/img/33-11B-Space-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q5b",
@@ -59301,7 +62087,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-06.jpg",
       "papers/physics/img/33-11B-Space-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q6a",
@@ -59329,7 +62116,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-07.jpg",
       "papers/physics/img/33-11B-Space-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q6b",
@@ -59357,7 +62145,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-07.jpg",
       "papers/physics/img/33-11B-Space-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q7",
@@ -59383,7 +62172,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/33-11B-Space-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q8a",
@@ -59411,7 +62201,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-09.jpg",
       "papers/physics/img/33-11B-Space-10.jpg",
       "papers/physics/img/33-11B-Space-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q8bi",
@@ -59441,7 +62232,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-09.jpg",
       "papers/physics/img/33-11B-Space-10.jpg",
       "papers/physics/img/33-11B-Space-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q8bii",
@@ -59470,7 +62262,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-09.jpg",
       "papers/physics/img/33-11B-Space-10.jpg",
       "papers/physics/img/33-11B-Space-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q9a",
@@ -59493,7 +62286,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-09.jpg",
       "papers/physics/img/33-11B-Space-10.jpg",
       "papers/physics/img/33-11B-Space-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q9b",
@@ -59517,7 +62311,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-09.jpg",
       "papers/physics/img/33-11B-Space-10.jpg",
       "papers/physics/img/33-11B-Space-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q10a",
@@ -59544,7 +62339,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-11.jpg",
       "papers/physics/img/33-11B-Space-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q10bi",
@@ -59571,7 +62367,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-11.jpg",
       "papers/physics/img/33-11B-Space-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q10bii",
@@ -59599,7 +62396,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-11.jpg",
       "papers/physics/img/33-11B-Space-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q10biii",
@@ -59626,7 +62424,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-11.jpg",
       "papers/physics/img/33-11B-Space-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q10c",
@@ -59653,7 +62452,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-11.jpg",
       "papers/physics/img/33-11B-Space-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q11",
@@ -59675,7 +62475,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-13.jpg",
       "papers/physics/img/33-11B-Space-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q12",
@@ -59698,7 +62499,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-13.jpg",
       "papers/physics/img/33-11B-Space-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q13",
@@ -59725,7 +62527,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/33-11B-Space-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q14",
@@ -59752,7 +62555,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-15.jpg",
       "papers/physics/img/33-11B-Space-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q15",
@@ -59779,7 +62583,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-15.jpg",
       "papers/physics/img/33-11B-Space-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q16",
@@ -59806,7 +62611,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-15.jpg",
       "papers/physics/img/33-11B-Space-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q17",
@@ -59828,7 +62634,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-15.jpg",
       "papers/physics/img/33-11B-Space-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q18a",
@@ -59851,7 +62658,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-16.jpg",
       "papers/physics/img/33-11B-Space-17.jpg",
       "papers/physics/img/33-11B-Space-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q18b",
@@ -59879,7 +62687,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-16.jpg",
       "papers/physics/img/33-11B-Space-17.jpg",
       "papers/physics/img/33-11B-Space-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q18c",
@@ -59903,7 +62712,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-16.jpg",
       "papers/physics/img/33-11B-Space-17.jpg",
       "papers/physics/img/33-11B-Space-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q19",
@@ -59930,7 +62740,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-18.jpg",
       "papers/physics/img/33-11B-Space-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q20",
@@ -59958,7 +62769,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-18.jpg",
       "papers/physics/img/33-11B-Space-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q21",
@@ -59986,7 +62798,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-19.jpg",
       "papers/physics/img/33-11B-Space-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q22",
@@ -60013,7 +62826,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-19.jpg",
       "papers/physics/img/33-11B-Space-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q23",
@@ -60035,7 +62849,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-19.jpg",
       "papers/physics/img/33-11B-Space-20.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q24ai",
@@ -60062,7 +62877,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-20.jpg",
       "papers/physics/img/33-11B-Space-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q24aii",
@@ -60089,7 +62905,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-20.jpg",
       "papers/physics/img/33-11B-Space-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q24b",
@@ -60116,7 +62933,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-20.jpg",
       "papers/physics/img/33-11B-Space-21.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q25a",
@@ -60145,7 +62963,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-21.jpg",
       "papers/physics/img/33-11B-Space-22.jpg",
       "papers/physics/img/33-11B-Space-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q25b",
@@ -60174,7 +62993,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-21.jpg",
       "papers/physics/img/33-11B-Space-22.jpg",
       "papers/physics/img/33-11B-Space-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q25ci",
@@ -60198,7 +63018,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-21.jpg",
       "papers/physics/img/33-11B-Space-22.jpg",
       "papers/physics/img/33-11B-Space-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q25cii",
@@ -60222,7 +63043,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-21.jpg",
       "papers/physics/img/33-11B-Space-22.jpg",
       "papers/physics/img/33-11B-Space-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q25ciii",
@@ -60245,7 +63067,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-21.jpg",
       "papers/physics/img/33-11B-Space-22.jpg",
       "papers/physics/img/33-11B-Space-23.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q26a",
@@ -60273,7 +63096,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-23.jpg",
       "papers/physics/img/33-11B-Space-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q26b",
@@ -60301,7 +63125,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-23.jpg",
       "papers/physics/img/33-11B-Space-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q26c",
@@ -60323,7 +63148,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-23.jpg",
       "papers/physics/img/33-11B-Space-24.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q27ai",
@@ -60346,7 +63172,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-24.jpg",
       "papers/physics/img/33-11B-Space-25.jpg",
       "papers/physics/img/33-11B-Space-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q27aii",
@@ -60370,7 +63197,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-24.jpg",
       "papers/physics/img/33-11B-Space-25.jpg",
       "papers/physics/img/33-11B-Space-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q27b",
@@ -60399,7 +63227,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-24.jpg",
       "papers/physics/img/33-11B-Space-25.jpg",
       "papers/physics/img/33-11B-Space-26.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q28ai",
@@ -60426,7 +63255,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-26.jpg",
       "papers/physics/img/33-11B-Space-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q28aii",
@@ -60453,7 +63283,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-26.jpg",
       "papers/physics/img/33-11B-Space-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q28bi",
@@ -60476,7 +63307,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-26.jpg",
       "papers/physics/img/33-11B-Space-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q28bii",
@@ -60504,7 +63336,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-26.jpg",
       "papers/physics/img/33-11B-Space-27.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q29",
@@ -60526,7 +63359,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/33-11B-Space-28.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q30",
@@ -60554,7 +63388,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-29.jpg",
       "papers/physics/img/33-11B-Space-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q31a",
@@ -60576,7 +63411,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-29.jpg",
       "papers/physics/img/33-11B-Space-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q31b",
@@ -60604,7 +63440,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-29.jpg",
       "papers/physics/img/33-11B-Space-30.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q32",
@@ -60634,7 +63471,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-30.jpg",
       "papers/physics/img/33-11B-Space-31.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q33",
@@ -60658,7 +63496,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-31.jpg",
       "papers/physics/img/33-11B-Space-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q34",
@@ -60685,7 +63524,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/33-11B-Space-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q35",
@@ -60711,7 +63551,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/33-11B-Space-32.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q36",
@@ -60733,7 +63574,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-33.jpg",
       "papers/physics/img/33-11B-Space-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q37",
@@ -60760,7 +63602,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-33.jpg",
       "papers/physics/img/33-11B-Space-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q38",
@@ -60788,7 +63631,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-33.jpg",
       "papers/physics/img/33-11B-Space-34.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q39",
@@ -60812,7 +63656,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-34.jpg",
       "papers/physics/img/33-11B-Space-35.jpg",
       "papers/physics/img/33-11B-Space-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q40a",
@@ -60839,7 +63684,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-34.jpg",
       "papers/physics/img/33-11B-Space-35.jpg",
       "papers/physics/img/33-11B-Space-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q40b",
@@ -60862,7 +63708,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-34.jpg",
       "papers/physics/img/33-11B-Space-35.jpg",
       "papers/physics/img/33-11B-Space-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q40c",
@@ -60890,7 +63737,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-34.jpg",
       "papers/physics/img/33-11B-Space-35.jpg",
       "papers/physics/img/33-11B-Space-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q41a",
@@ -60916,7 +63764,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/33-11B-Space-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q41b",
@@ -60942,7 +63791,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/33-11B-Space-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q41c",
@@ -60968,7 +63818,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/33-11B-Space-36.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q42ai",
@@ -60995,7 +63846,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-37.jpg",
       "papers/physics/img/33-11B-Space-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q42aii",
@@ -61023,7 +63875,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-37.jpg",
       "papers/physics/img/33-11B-Space-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q42b",
@@ -61052,7 +63905,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-37.jpg",
       "papers/physics/img/33-11B-Space-38.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q43ai",
@@ -61080,7 +63934,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-38.jpg",
       "papers/physics/img/33-11B-Space-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q43aii",
@@ -61108,7 +63963,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-38.jpg",
       "papers/physics/img/33-11B-Space-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q43bi",
@@ -61135,7 +63991,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-38.jpg",
       "papers/physics/img/33-11B-Space-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q43bii",
@@ -61163,7 +64020,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-38.jpg",
       "papers/physics/img/33-11B-Space-39.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q44",
@@ -61192,7 +64050,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-39.jpg",
       "papers/physics/img/33-11B-Space-40.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q45",
@@ -61220,7 +64079,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-40.jpg",
       "papers/physics/img/33-11B-Space-41.jpg",
       "papers/physics/img/33-11B-Space-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q46ai",
@@ -61249,7 +64109,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-40.jpg",
       "papers/physics/img/33-11B-Space-41.jpg",
       "papers/physics/img/33-11B-Space-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q46aii",
@@ -61272,7 +64133,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-40.jpg",
       "papers/physics/img/33-11B-Space-41.jpg",
       "papers/physics/img/33-11B-Space-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q46aiii",
@@ -61300,7 +64162,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-40.jpg",
       "papers/physics/img/33-11B-Space-41.jpg",
       "papers/physics/img/33-11B-Space-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q46b",
@@ -61330,7 +64193,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-40.jpg",
       "papers/physics/img/33-11B-Space-41.jpg",
       "papers/physics/img/33-11B-Space-42.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q47a",
@@ -61352,7 +64216,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-42.jpg",
       "papers/physics/img/33-11B-Space-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q47b",
@@ -61374,7 +64239,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-42.jpg",
       "papers/physics/img/33-11B-Space-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q47c",
@@ -61402,7 +64268,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-42.jpg",
       "papers/physics/img/33-11B-Space-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q48",
@@ -61428,7 +64295,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/33-11B-Space-43.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q49",
@@ -61455,7 +64323,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-44.jpg",
       "papers/physics/img/33-11B-Space-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q50",
@@ -61482,7 +64351,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-44.jpg",
       "papers/physics/img/33-11B-Space-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q51",
@@ -61509,7 +64379,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-44.jpg",
       "papers/physics/img/33-11B-Space-45.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q52ai",
@@ -61532,7 +64403,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-45.jpg",
       "papers/physics/img/33-11B-Space-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q52aii",
@@ -61561,7 +64433,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-45.jpg",
       "papers/physics/img/33-11B-Space-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q52b",
@@ -61589,7 +64462,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-45.jpg",
       "papers/physics/img/33-11B-Space-46.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q53a",
@@ -61616,7 +64490,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-46.jpg",
       "papers/physics/img/33-11B-Space-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q53b",
@@ -61638,7 +64513,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-46.jpg",
       "papers/physics/img/33-11B-Space-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q54",
@@ -61664,7 +64540,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/33-11B-Space-47.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q55",
@@ -61687,7 +64564,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-48.jpg",
       "papers/physics/img/33-11B-Space-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q56",
@@ -61709,7 +64587,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-48.jpg",
       "papers/physics/img/33-11B-Space-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q57",
@@ -61735,7 +64614,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/33-11B-Space-49.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q58a",
@@ -61762,7 +64642,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-50.jpg",
       "papers/physics/img/33-11B-Space-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q58b",
@@ -61789,7 +64670,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-50.jpg",
       "papers/physics/img/33-11B-Space-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q58c",
@@ -61816,7 +64698,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-50.jpg",
       "papers/physics/img/33-11B-Space-51.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q59a",
@@ -61844,7 +64727,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-51.jpg",
       "papers/physics/img/33-11B-Space-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q59b",
@@ -61872,7 +64756,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-51.jpg",
       "papers/physics/img/33-11B-Space-52.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q60",
@@ -61900,7 +64785,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-52.jpg",
       "papers/physics/img/33-11B-Space-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q61",
@@ -61922,7 +64808,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-52.jpg",
       "papers/physics/img/33-11B-Space-53.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q62",
@@ -61951,7 +64838,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-53.jpg",
       "papers/physics/img/33-11B-Space-54.jpg",
       "papers/physics/img/33-11B-Space-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q63ai",
@@ -61974,7 +64862,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-53.jpg",
       "papers/physics/img/33-11B-Space-54.jpg",
       "papers/physics/img/33-11B-Space-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q63aii",
@@ -61998,7 +64887,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-53.jpg",
       "papers/physics/img/33-11B-Space-54.jpg",
       "papers/physics/img/33-11B-Space-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q63b",
@@ -62029,7 +64919,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-53.jpg",
       "papers/physics/img/33-11B-Space-54.jpg",
       "papers/physics/img/33-11B-Space-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q64",
@@ -62055,7 +64946,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/33-11B-Space-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q65",
@@ -62081,7 +64973,8 @@ window.BANK.physics = {
      ],
      "images": [
       "papers/physics/img/33-11B-Space-55.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q66",
@@ -62103,7 +64996,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-56.jpg",
       "papers/physics/img/33-11B-Space-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q67",
@@ -62125,7 +65019,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-56.jpg",
       "papers/physics/img/33-11B-Space-57.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q68",
@@ -62147,7 +65042,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-57.jpg",
       "papers/physics/img/33-11B-Space-58.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q69a",
@@ -62169,7 +65065,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-57.jpg",
       "papers/physics/img/33-11B-Space-58.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q69bi",
@@ -62196,7 +65093,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-57.jpg",
       "papers/physics/img/33-11B-Space-58.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q69bii",
@@ -62219,7 +65117,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-57.jpg",
       "papers/physics/img/33-11B-Space-58.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q70a",
@@ -62248,7 +65147,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-58.jpg",
       "papers/physics/img/33-11B-Space-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q70b",
@@ -62275,7 +65175,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-58.jpg",
       "papers/physics/img/33-11B-Space-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q71",
@@ -62296,7 +65197,8 @@ window.BANK.physics = {
      "steps": [],
      "images": [
       "papers/physics/img/33-11B-Space-59.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q72ai",
@@ -62323,7 +65225,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-60.jpg",
       "papers/physics/img/33-11B-Space-61.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q72aii",
@@ -62346,7 +65249,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-60.jpg",
       "papers/physics/img/33-11B-Space-61.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q72b",
@@ -62373,7 +65277,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-60.jpg",
       "papers/physics/img/33-11B-Space-61.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q73a",
@@ -62400,7 +65305,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-61.jpg",
       "papers/physics/img/33-11B-Space-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q73b",
@@ -62428,7 +65334,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-61.jpg",
       "papers/physics/img/33-11B-Space-62.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q74",
@@ -62451,7 +65358,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-62.jpg",
       "papers/physics/img/33-11B-Space-63.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q75ai",
@@ -62478,7 +65386,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-63.jpg",
       "papers/physics/img/33-11B-Space-64.jpg",
       "papers/physics/img/33-11B-Space-65.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q75aii",
@@ -62503,7 +65412,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-63.jpg",
       "papers/physics/img/33-11B-Space-64.jpg",
       "papers/physics/img/33-11B-Space-65.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q75aiii",
@@ -62526,7 +65436,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-63.jpg",
       "papers/physics/img/33-11B-Space-64.jpg",
       "papers/physics/img/33-11B-Space-65.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q75b",
@@ -62557,7 +65468,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-63.jpg",
       "papers/physics/img/33-11B-Space-64.jpg",
       "papers/physics/img/33-11B-Space-65.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q76a",
@@ -62584,7 +65496,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-65.jpg",
       "papers/physics/img/33-11B-Space-66.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q76b",
@@ -62612,7 +65525,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-65.jpg",
       "papers/physics/img/33-11B-Space-66.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q77a",
@@ -62641,7 +65555,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-66.jpg",
       "papers/physics/img/33-11B-Space-67.jpg",
       "papers/physics/img/33-11B-Space-68.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q77b",
@@ -62669,7 +65584,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-66.jpg",
       "papers/physics/img/33-11B-Space-67.jpg",
       "papers/physics/img/33-11B-Space-68.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q77ci",
@@ -62698,7 +65614,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-66.jpg",
       "papers/physics/img/33-11B-Space-67.jpg",
       "papers/physics/img/33-11B-Space-68.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q77cii",
@@ -62726,7 +65643,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-66.jpg",
       "papers/physics/img/33-11B-Space-67.jpg",
       "papers/physics/img/33-11B-Space-68.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q78a",
@@ -62754,7 +65672,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-68.jpg",
       "papers/physics/img/33-11B-Space-69.jpg",
       "papers/physics/img/33-11B-Space-70.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q78bi",
@@ -62778,7 +65697,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-68.jpg",
       "papers/physics/img/33-11B-Space-69.jpg",
       "papers/physics/img/33-11B-Space-70.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q78bii",
@@ -62806,7 +65726,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-68.jpg",
       "papers/physics/img/33-11B-Space-69.jpg",
       "papers/physics/img/33-11B-Space-70.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q79",
@@ -62828,7 +65749,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-70.jpg",
       "papers/physics/img/33-11B-Space-71.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q80",
@@ -62856,7 +65778,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-70.jpg",
       "papers/physics/img/33-11B-Space-71.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q81",
@@ -62883,7 +65806,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-71.jpg",
       "papers/physics/img/33-11B-Space-72.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q82a",
@@ -62910,7 +65834,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-71.jpg",
       "papers/physics/img/33-11B-Space-72.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q82bi",
@@ -62938,7 +65863,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-71.jpg",
       "papers/physics/img/33-11B-Space-72.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q82bii",
@@ -62965,7 +65891,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-71.jpg",
       "papers/physics/img/33-11B-Space-72.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q83ai",
@@ -62991,7 +65918,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-72.jpg",
       "papers/physics/img/33-11B-Space-73.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q83aii",
@@ -63018,7 +65946,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-72.jpg",
       "papers/physics/img/33-11B-Space-73.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q83b",
@@ -63047,7 +65976,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-72.jpg",
       "papers/physics/img/33-11B-Space-73.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q84a",
@@ -63076,7 +66006,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-73.jpg",
       "papers/physics/img/33-11B-Space-74.jpg",
       "papers/physics/img/33-11B-Space-75.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q84bi",
@@ -63106,7 +66037,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-73.jpg",
       "papers/physics/img/33-11B-Space-74.jpg",
       "papers/physics/img/33-11B-Space-75.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q84bii",
@@ -63136,7 +66068,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-73.jpg",
       "papers/physics/img/33-11B-Space-74.jpg",
       "papers/physics/img/33-11B-Space-75.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q84biii",
@@ -63164,7 +66097,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-73.jpg",
       "papers/physics/img/33-11B-Space-74.jpg",
       "papers/physics/img/33-11B-Space-75.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q84c",
@@ -63192,7 +66126,8 @@ window.BANK.physics = {
       "papers/physics/img/33-11B-Space-73.jpg",
       "papers/physics/img/33-11B-Space-74.jpg",
       "papers/physics/img/33-11B-Space-75.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q85",
@@ -63219,7 +66154,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-75.jpg",
       "papers/physics/img/33-11B-Space-76.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q86",
@@ -63241,7 +66177,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-75.jpg",
       "papers/physics/img/33-11B-Space-76.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q87",
@@ -63263,7 +66200,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-76.jpg",
       "papers/physics/img/33-11B-Space-77.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q88ai",
@@ -63285,7 +66223,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-77.jpg",
       "papers/physics/img/33-11B-Space-78.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q88aii",
@@ -63308,7 +66247,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-77.jpg",
       "papers/physics/img/33-11B-Space-78.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q88b",
@@ -63338,7 +66278,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-77.jpg",
       "papers/physics/img/33-11B-Space-78.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "Q88c",
@@ -63365,7 +66306,8 @@ window.BANK.physics = {
      "images": [
       "papers/physics/img/33-11B-Space-77.jpg",
       "papers/physics/img/33-11B-Space-78.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   }

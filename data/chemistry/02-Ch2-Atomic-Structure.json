@@ -120,12 +120,20 @@
         "29.0"
       ],
       "question": "The mass spectrum of a sample of silicon is shown. What is the best estimate for the relative atomic mass? Options A 28.0, B 28.2, C 28.8, D 29.0.",
-      "status": "pending",
-      "answer": "Needs the mass spectrum peaks and heights, which are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 28.2",
+      "steps": [
+        "Read the relative abundances from the peak heights: 28Si is by far the largest (about 90%), 29Si about 6% and 30Si about 4%.",
+        "Relative atomic mass = sum of (m/z x abundance) / sum of abundances, which is a weighted mean.",
+        "About 28 + (0.06 x 1) + (0.04 x 2) = 28.1 to 28.2.",
+        "Option A (28.0) ignores the heavier isotopes; B (28.2) is the closest estimate."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-02.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q5.jpg"
       ]
     },
     {
@@ -142,11 +150,18 @@
         "trend"
       ],
       "question": "Using the diagram of first ionisation energies from sodium to silicon, what is the approximate first ionisation energy (kJ mol-1) of phosphorus (atomic number 15)? Options A 400, B 500, C 700, D 1000.",
-      "status": "pending",
-      "answer": "Needs the first ionisation energy diagram, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 1000",
+      "steps": [
+        "The graph gives Na 500, Mg about 740, Al about 580 and Si about 790 kJ mol^-1.",
+        "Across Period 3 the first ionisation energy generally rises because nuclear charge increases while shielding stays the same.",
+        "Phosphorus follows silicon, so its value must be above 790; 400, 500 and 700 are all too low, leaving 1000 kJ mol^-1."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-03.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q6.jpg"
       ]
     },
     {
@@ -265,12 +280,19 @@
         "28.2"
       ],
       "question": "A sample of silicon contains the isotopes shown (not included in the extracted text). What is the relative atomic mass to one decimal place? Options A 28.0, B 28.2, C 29.0, D 29.8.",
-      "status": "pending",
-      "answer": "Needs the isotope masses and abundances, which are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 28.2",
+      "steps": [
+        "Weighted mean: (28 x 81.21 + 29 x 14.10 + 30 x 4.69) / 100.",
+        "= (2273.88 + 408.9 + 140.7) / 100 = 28.23.",
+        "To one decimal place this is 28.2."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-05.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q11.jpg"
       ]
     },
     {
@@ -339,12 +361,19 @@
         "Al 13"
       ],
       "question": "Using the chart of first ionisation energies from fluorine to magnesium, what is the approximate first ionisation energy (kJ mol-1) of aluminium? Options A 300, B 600, C 900, D 1200.",
-      "status": "pending",
-      "answer": "Needs the first ionisation energy chart, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 600",
+      "steps": [
+        "From the chart: F about 1680, Ne about 2080, Na about 500, Mg about 740 kJ mol^-1.",
+        "Aluminium is the next element after Mg, and Al has a lower first ionisation energy than Mg because its outer electron is in a 3p subshell, which is higher in energy and shielded by the 3s electrons.",
+        "So it falls below 740 but stays above Na (500): about 580 to 600 kJ mol^-1, which is option B."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-06.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q14.jpg"
       ]
     },
     {
@@ -360,12 +389,19 @@
         "kJ mol-1"
       ],
       "question": "The first three ionisation energies of carbon are shown (table not included in the extracted text). Which is the approximate fourth ionisation energy? Options A 3500, B 6200, C 11 000, D 38 000.",
-      "status": "pending",
-      "answer": "Needs the table of the first three ionisation energies, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 6200",
+      "steps": [
+        "The values given are 1086, 2353 and 4621 kJ mol^-1: each successive ionisation energy rises steadily because electrons come from the same shell and the remaining ions are more charged.",
+        "Carbon has 4 outer-shell electrons (2s2 2p2), so the 4th is also from the n = 2 shell and follows the steady pattern: about 6200.",
+        "The huge jump to about 38 000 comes at the 5th ionisation, when an electron is removed from the inner 1s shell; 3500 would be lower than the 3rd value."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-07.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q15.jpg"
       ]
     },
     {
@@ -382,12 +418,20 @@
         "peak pattern"
       ],
       "question": "The two stable isotopes of bromine have relative masses 79 and 81. Which is the correct pattern of peaks in the mass spectrum of molecular bromine? (The peak diagrams are not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the peak pattern diagrams (options), which are missing from the extracted text; expected pattern is peaks at 158, 160 and 162 in a 1:2:1 ratio (check the PDF)",
-      "steps": [],
+      "status": "ready",
+      "answer": "D (small peaks at 79 and 81, and three molecular-ion peaks at 158, 160 and 162 in the ratio 1:2:1)",
+      "steps": [
+        "Br2 contains two atoms, each 79Br or 81Br with roughly equal abundance.",
+        "Molecular ions: 79Br79Br (158), 79Br81Br (160, two ways to make it) and 81Br81Br (162), so peaks in the ratio 1:2:1 with the middle one tallest.",
+        "Fragmentation also gives small Br+ peaks at 79 and 81 of equal height, which are shown in all four options.",
+        "Only D shows a tall central peak at 160 with equal peaks either side."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-07.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q16.jpg"
       ]
     },
     {
@@ -431,11 +475,19 @@
         "trend"
       ],
       "question": "The bar chart shows the melting temperatures of the first twenty elements. Which statement is shown? A giant covalent structures highest in Period 2 and Period 3; B metals always higher than non-metals; C increase going down each group; D increase across Period 2 and Period 3. (The chart is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the bar chart of melting temperatures, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: giant covalent structures have the highest melting temperatures in Period 2 and Period 3",
+      "steps": [
+        "In Period 2 the highest bar is element 6 (carbon, diamond or graphite) and in Period 3 it is element 14 (silicon); both are giant covalent.",
+        "B is wrong: some non-metals (carbon) melt higher than metals, and lithium and sodium (metals) are low.",
+        "C is wrong: the Group 1 values fall from Li to Na to K.",
+        "D is wrong: the melting temperatures rise then fall across each period, not steadily."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q18.jpg"
       ]
     },
     {
@@ -452,11 +504,18 @@
         "graph"
       ],
       "question": "Which sketch graph shows the trend in first ionisation energy going down Group 1? (The sketch options are not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the sketch graph options, which are missing from the extracted text; the expected trend is a steady fall in IE down the group (check the PDF)",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: a steady fall in first ionisation energy, levelling off",
+      "steps": [
+        "Going down Group 1 the outer electron is in a shell further from the nucleus and is more shielded, so less energy is needed to remove it.",
+        "The first ionisation energy therefore decreases smoothly (520, 496, 419, 403, 376 kJ mol^-1) with smaller falls lower down, as in graph A.",
+        "B rises, C stays high then drops suddenly and D falls with an irregular kink, none of which fits a regular group trend."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q19.jpg"
       ]
     },
     {
@@ -474,12 +533,19 @@
         "argon configuration"
       ],
       "question": "Which ion does not have the electronic configuration shown? Options A K+, B Ca2+, C Ti2+, D Sc3+. (The configuration shown in the question is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the electronic configuration shown in the question, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Ti2+",
+      "steps": [
+        "The diagram shows 1s2 2s2 2p6 3s2 3p6, a total of 18 electrons.",
+        "K+ (19 - 1), Ca2+ (20 - 2) and Sc3+ (21 - 3) each have 18 electrons.",
+        "Ti2+ has 22 - 2 = 20 electrons, so it also has 3d2 and does not match."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-11.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q20.jpg"
       ]
     },
     {
@@ -523,12 +589,19 @@
         "63.6"
       ],
       "question": "The mass spectrum of a sample of an element is shown. What is the Ar of the element? Options A 42.0, B 48.0, C 63.6, D 64.0.",
-      "status": "pending",
-      "answer": "Needs the mass spectrum, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 63.6",
+      "steps": [
+        "The main peaks are at m/z = 63 (abundance about 46) and m/z = 65 (about 20).",
+        "The small peaks at 31.5 and 32.5 are 63Cu2+ and 65Cu2+, in the same ratio, so they do not change the average.",
+        "Ar = (63 x 46 + 65 x 20) / (46 + 20) = 4198 / 66 = 63.6."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-11.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q22.jpg"
       ]
     },
     {
@@ -556,6 +629,9 @@
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-11.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q22.jpg"
       ]
     },
     {
@@ -656,14 +732,22 @@
         "axes"
       ],
       "question": "Plot a graph of the log of the fourth ionisation energy for six elements given in the table.",
-      "status": "pending",
-      "answer": "Needs the table of data, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Graph of log10(fourth ionisation energy) against element: points at O 3.87, F 3.92, Ne 3.97, Mg 4.02 and Al 4.06, with a straight line of best fit (rising by about 0.04 to 0.05 per element)",
+      "steps": [
+        "Put the elements in order of atomic number along the x-axis (O 8, F 9, Ne 10, Na 11, Mg 12, Al 13), one large square per element, labelled \"element\" or \"atomic number\".",
+        "Label the y-axis \"log10 (fourth ionisation energy / kJ mol^-1)\" with a scale of about 3.80 to 4.10 (0.05 per large square) so the points fill the grid.",
+        "Plot the five known points accurately: (O, 3.87), (F, 3.92), (Ne, 3.97), (Mg, 4.02), (Al, 4.06); Na is left for part (ii).",
+        "Draw one straight line of best fit through the points; it passes through the Na position at about 3.99 to 4.00."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-12.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-13.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-14.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q23.jpg"
       ]
     },
     {
@@ -679,14 +763,20 @@
         "kJ mol-1"
       ],
       "question": "Use your graph to estimate the fourth ionisation energy of sodium, in kJ mol-1.",
-      "status": "pending",
-      "answer": "Needs the table of data and the graph from (d)(i), which are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 1.0 x 10^4 kJ mol^-1 (log value about 3.99 to 4.00; accept roughly 9800 to 10 000)",
+      "steps": [
+        "Read the log10 value for Na (between Ne at 3.97 and Mg at 4.02) from the line of best fit: about 3.995.",
+        "Fourth ionisation energy = 10^3.995 = about 9900 kJ mol^-1, i.e. about 1.0 x 10^4 kJ mol^-1."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-12.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-13.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-14.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-15.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q23.jpg"
       ]
     },
     {
@@ -784,13 +874,21 @@
         "abundance"
       ],
       "question": "A sample of iron contains the following isotopes (data not included in the extracted text). Calculate the relative atomic mass to three significant figures.",
-      "status": "pending",
-      "answer": "Needs the isotope masses and abundances, which are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "55.9",
+      "steps": [
+        "The abundances sum to 100% (5.84 + 91.68 + 2.17 + 0.31).",
+        "Relative atomic mass = (54 x 5.84 + 56 x 91.68 + 57 x 2.17 + 58 x 0.31) / 100.",
+        "= (315.36 + 5134.08 + 123.69 + 17.98) / 100 = 5591.11 / 100 = 55.911.",
+        "To 3 s.f. the relative atomic mass is 55.9."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-15.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-16.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-17.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q25.jpg"
       ]
     },
     {
@@ -945,12 +1043,19 @@
         "isotopic"
       ],
       "question": "The numbers of subatomic particles in four species W, X, Y and Z are given in a table (not included in the extracted text). Which species are isotopic? Options A W and X, B W and Y, C X and Z, D Y and Z.",
-      "status": "pending",
-      "answer": "Needs the table of subatomic particles, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: Y and Z",
+      "steps": [
+        "Isotopes are atoms of the same element, so they have the same number of protons but different numbers of neutrons.",
+        "W (19 p, 20 n, 18 e) is K+ and X (19 p, 20 n, 19 e) is K, the same isotope with a different charge.",
+        "Y (20 p, 20 n, 18 e) is Ca2+ and Z (20 p, 22 n, 20 e) is Ca: same protons, different neutrons, so Y and Z are isotopic."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-18.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-19.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q28.jpg"
       ]
     },
     {
@@ -966,12 +1071,21 @@
         "graph"
       ],
       "question": "The graph shows log(ionisation energy) against ionisation number for the successive ionisations of an element. How many quantum shells contain electrons, and how many electrons are in the outer shell? (The graph is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the log(ionisation energy) graph, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 3 quantum shells contain electrons and there are 5 electrons in the outer shell",
+      "steps": [
+        "The graph has 15 points, so the atom has 15 electrons in all.",
+        "The first large jump comes between the 5th and 6th ionisations, so 5 electrons are in the outermost shell.",
+        "The second large jump comes between the 13th and 14th, so the next 8 electrons (6th to 13th) are in the second shell and the last 2 are in the first shell.",
+        "The structure is 2, 8, 5 (phosphorus): 3 shells with 5 outer electrons."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-19.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-20.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q29.jpg",
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q29-2.jpg"
       ]
     },
     {
@@ -1014,12 +1128,19 @@
         "diagram"
       ],
       "question": "Which process occurs in region R of the mass spectrometer? Options A sample vaporised by heater, B electrons removed to form positive ions, C electrons added to form negative ions, D ions accelerated by an electric field. (The diagram is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the mass spectrometer diagram to identify region R, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: electrons are removed from molecules or atoms and positive ions are formed",
+      "steps": [
+        "Region R holds the heated filament (electron gun) and a positive plate, which is the ionisation region.",
+        "Fast electrons knock electrons off the sample, giving positive ions; the sample was already vaporised by the heater on the left.",
+        "Acceleration by an electric field takes place at the plates in region S, and T is the magnetic field."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-20.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q31.jpg"
       ]
     },
     {
@@ -1047,6 +1168,9 @@
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-20.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-21.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q31.jpg"
       ]
     },
     {
@@ -1087,12 +1211,19 @@
         "approximate"
       ],
       "question": "The mass spectrum of a sample of an element has only two peaks. What is the approximate relative atomic mass? Options A 191.5, B 192.0, C 192.5, D 193.0. (The spectrum is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the mass spectrum with the two peak heights, which are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 192.5",
+      "steps": [
+        "The peaks are at m/z = 191 with abundance about 25 and m/z = 193 with abundance about 75.",
+        "Ar = (191 x 25 + 193 x 75) / (25 + 75).",
+        "= (4775 + 14 475) / 100 = 192.5."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-22.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q33.jpg"
       ]
     },
     {
@@ -1108,12 +1239,19 @@
         "isotopes"
       ],
       "question": "Which of these atoms has the most neutrons? (The options are not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the list of atoms (options), which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 124Sn",
+      "steps": [
+        "Number of neutrons = mass number - atomic number.",
+        "A 115In: 115 - 49 = 66; B 124Sn: 124 - 50 = 74; C 123Sb: 123 - 51 = 72; D 124Te: 124 - 52 = 72.",
+        "Tin-124 has the most neutrons (74)."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-22.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-23.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q34.jpg"
       ]
     },
     {
@@ -1190,6 +1328,9 @@
         "papers/chemistry/img/02-Ch2-Atomic-Structure-24.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-25.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q37.jpg"
       ]
     },
     {
@@ -1285,13 +1426,20 @@
         "abundance"
       ],
       "question": "A sample of sulfur contains four isotopes (abundance data not included in the extracted text). Calculate the relative atomic mass to two decimal places.",
-      "status": "pending",
-      "answer": "Needs the isotope masses and abundances, which are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "32.09",
+      "steps": [
+        "Relative atomic mass = (32 x 94.88 + 33 x 0.83 + 34 x 4.27 + 36 x 0.02) / 100.",
+        "= (3036.16 + 27.39 + 145.18 + 0.72) / 100 = 3209.45 / 100.",
+        "= 32.09 to two decimal places (32.0945)."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-24.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-25.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q37-2.jpg"
       ]
     },
     {
@@ -1308,13 +1456,19 @@
         "32S"
       ],
       "question": "Calculate the number of sulfur atoms in the molecular ion shown in the mass spectrum of 32S (the spectrum is not included in the extracted text).",
-      "status": "pending",
-      "answer": "Needs the mass spectrum showing the molecular ion peak, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "8 sulfur atoms (the molecular ion is S8+ at m/z 256)",
+      "steps": [
+        "The molecular ion is the peak with the largest m/z, which is at 256.",
+        "Each atom is 32S, so the number of atoms = 256 / 32 = 8."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-24.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-25.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q37-3.jpg"
       ]
     },
     {
@@ -1331,13 +1485,19 @@
         "S+"
       ],
       "question": "Suggest the formula of the most stable ion shown by the sulfur mass spectrum (the spectrum is not included in the extracted text).",
-      "status": "pending",
-      "answer": "Needs the mass spectrum peaks, which are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "S2+ (the tallest peak, at m/z 64)",
+      "steps": [
+        "The most stable ion gives the largest (base) peak, which is the tallest peak at m/z = 64.",
+        "With 32S, 64 / 32 = 2 atoms, and the ion has a single positive charge, so the formula is S2+."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-24.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-25.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-26.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q37-3.jpg"
       ]
     },
     {
@@ -1353,12 +1513,19 @@
         "giant structures"
       ],
       "question": "In which series are the elements in order of increasing melting temperature? (The options are not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the answer options (series), which are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Li < Be < B < C",
+      "steps": [
+        "B: Li (454 K) < Be (1560 K) < B (2349 K) < C (about 3800 K, giant covalent), so the melting temperatures increase through the series.",
+        "A decreases (I2 > Br2 > Cl2 > F2) because the London forces weaken with fewer electrons.",
+        "C decreases down Group 1 as metallic bonding weakens, and D (Si, P, S, Cl) falls after silicon."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-26.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-27.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q38.jpg"
       ]
     },
     {
@@ -1641,12 +1808,19 @@
         "element U V W X"
       ],
       "question": "Which element has only one p orbital containing a pair of electrons? Options A U, B V, C W, D X. (The graph of first ionisation energies is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the first ionisation energy graph with element letters, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: element V",
+      "steps": [
+        "The pattern S < T < U > V < W < X, then a sharp fall to Y, shows X is neon (end of Period 2) and Y is sodium.",
+        "Working back: W = F, V = O, U = N, T = C, S = B, and the dip from U (N) to V (O) is the normal fall due to electron pairing.",
+        "Oxygen (2p4) has only one 2p orbital containing a pair; N has none, F has two and Ne has three. So the element is V."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-30.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q43.jpg"
       ]
     },
     {
@@ -1662,12 +1836,18 @@
         "element S X Y Z"
       ],
       "question": "Which element is the least reactive? Options A S, B X, C Y, D Z. (The graph is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the first ionisation energy graph with element letters, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: element X",
+      "steps": [
+        "X is the noble gas neon, at the peak of the graph.",
+        "It has a full outer shell and the highest first ionisation energy, so it is the least reactive."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-30.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q43.jpg"
       ]
     },
     {
@@ -1683,12 +1863,19 @@
         "S T X Y"
       ],
       "question": "Which element has the greatest second ionisation energy? Options A S, B T, C X, D Y. (The graph is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the first ionisation energy graph, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: element Y",
+      "steps": [
+        "Y is sodium, so Y+ has the stable noble-gas configuration 2s2 2p6.",
+        "Removing a second electron means removing one from a full inner shell, which is much closer to the nucleus and less shielded, so the energy is very large (about 4560 kJ mol^-1).",
+        "S (B), T (C) and X (Ne) have second ionisation energies of about 2430, 2350 and 3950 kJ mol^-1, all lower than that of Y."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-30.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-31.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q43.jpg"
       ]
     },
     {
@@ -1808,12 +1995,19 @@
         "diagram"
       ],
       "question": "In which region of this mass spectrometer are the ions accelerated? Options A region P, B region Q, C region R, D region S. (The diagram is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the mass spectrometer diagram to identify the region, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: region Q",
+      "steps": [
+        "P is where the vaporised sample is ionised.",
+        "Q is the set of charged plates (grids) after the ioniser, where the positive ions are accelerated by an electric field.",
+        "R is the electromagnet that deflects the ions, and S is the detector."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-33.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-34.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q45.jpg"
       ]
     },
     {
@@ -1831,12 +2025,19 @@
         "deflection"
       ],
       "question": "Four iron ions (54Fe+, 54Fe2+, 56Fe+, 56Fe2+) follow paths shown in a diagram. Which ion follows path 1? (The path diagram is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the path diagram, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 54Fe2+",
+      "steps": [
+        "Deflection in a magnetic field is greatest for ions with the smallest mass-to-charge ratio (m/z).",
+        "m/z values: 54Fe2+ = 27, 56Fe2+ = 28, 54Fe+ = 54, 56Fe+ = 56.",
+        "Path 1 is the most deflected path, so it is taken by 54Fe2+ (the smallest m/z); path 4, the least deflected, is taken by 56Fe+."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-33.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-34.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q45-2.jpg"
       ]
     },
     {
@@ -1957,12 +2158,18 @@
         "symbol missing"
       ],
       "question": "An atom of (symbol missing from the extracted text) forms a nitride ion, N3-. What are the numbers of protons, neutrons and electrons in this ion?",
-      "status": "pending",
-      "answer": "Needs the atom symbol and mass number shown in the question, which are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 7 protons, 8 neutrons and 10 electrons",
+      "steps": [
+        "15N has atomic number 7 (7 protons) and mass number 15, so 15 - 7 = 8 neutrons.",
+        "The neutral atom has 7 electrons; N3- has gained 3 electrons, giving 10 electrons."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-36.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-37.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q48.jpg"
       ]
     },
     {
@@ -2079,11 +2286,17 @@
         "symbol missing"
       ],
       "question": "How many neutrons and electrons are there in the ion shown? (The symbol and options are missing from the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the ion symbol shown in the question, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 111 neutrons and 77 electrons",
+      "steps": [
+        "Neutrons = mass number - atomic number = 190 - 79 = 111.",
+        "The neutral atom has 79 electrons; Au2+ has lost 2, so 77 electrons."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-38.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q53.jpg"
       ]
     },
     {
@@ -2149,12 +2362,19 @@
         "formula missing"
       ],
       "question": "Calculate the relative formula mass of basic nickel(II) carbonate. (The formula is missing from the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the formula of basic nickel(II) carbonate, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "376.1",
+      "steps": [
+        "Formula: Ni3CO3(OH)4.4H2O.",
+        "Ni: 3 x 58.7 = 176.1; CO3: 12.0 + 48.0 = 60.0; 4 OH: 4 x 17.0 = 68.0; 4 H2O: 4 x 18.0 = 72.0.",
+        "Total = 176.1 + 60.0 + 68.0 + 72.0 = 376.1."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-40.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-41.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q56.jpg"
       ]
     },
     {
@@ -2171,12 +2391,19 @@
         "equation missing"
       ],
       "question": "Calculate the atom economy by mass for the formation of basic nickel(II) carbonate by the reaction shown. (The equation is missing from the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the reaction equation, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "46.9%",
+      "steps": [
+        "Mr of reactants: 3NiSO4 = 3 x 154.8 = 464.4; Na2CO3 = 106.0; 4NaOH = 160.0; 4H2O = 72.0; total = 802.4.",
+        "Desired product: Ni3CO3(OH)4.4H2O, Mr = 376.1 from part (i).",
+        "Atom economy = 376.1 / 802.4 x 100 = 46.9%."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-40.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-41.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q56.jpg"
       ]
     },
     {
@@ -2242,12 +2469,19 @@
         "formation"
       ],
       "question": "Write the ionic equation for the formation of basic nickel(II) carbonate from nickel(II) sulfate. State symbols are not required. (The full equation is missing from the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the full reaction equation for basic nickel(II) carbonate, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "3Ni2+ + CO3 2- + 4OH- + 4H2O -> Ni3CO3(OH)4.4H2O",
+      "steps": [
+        "Remove the spectator ions Na+ and SO4 2- that appear unchanged on both sides.",
+        "The ions that react are 3Ni2+, CO3 2- and 4OH-, together with 4H2O, forming the solid product.",
+        "Charge check: left side 3 x (+2) + (-2) + 4 x (-1) = 0, matching the neutral solid."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-40.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-41.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q56.jpg"
       ]
     },
     {
@@ -2318,12 +2552,19 @@
         "atom symbol missing"
       ],
       "question": "An atom of (symbol and mass number missing from the extracted text) forms the ion Al3+. What are the numbers of protons, electrons and neutrons in this ion?",
-      "status": "pending",
-      "answer": "Needs the mass number shown in the question, which is missing from the extracted text; protons 13 and electrons 10 are known, but neutrons depend on the isotope (check the PDF)",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 13 protons, 10 electrons, 14 neutrons",
+      "steps": [
+        "27Al has atomic number 13 (13 protons) and mass number 27, so 27 - 13 = 14 neutrons.",
+        "Al3+ has lost 3 electrons from the 13 in the atom, leaving 10 electrons."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-41.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-42.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q57.jpg",
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q57-2.jpg"
       ]
     },
     {
@@ -2340,11 +2581,18 @@
         "91.2"
       ],
       "question": "The mass spectrum of an element is shown. What is the relative atomic mass of this element? Options A 90.0, B 90.9, C 91.2, D 92.8. (The spectrum is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the mass spectrum peaks and heights, which are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 91.2",
+      "steps": [
+        "Peaks: m/z 90 (60%), 91 (18%), 94 (16%) and 96 (6%), which add up to 100%.",
+        "Ar = (90 x 60 + 91 x 18 + 94 x 16 + 96 x 6) / 100.",
+        "= (5400 + 1638 + 1504 + 576) / 100 = 91.18, i.e. 91.2."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-42.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q58.jpg"
       ]
     },
     {
@@ -2361,11 +2609,18 @@
         "diagram"
       ],
       "question": "In which region of a mass spectrometer are particles ionised? Options A region P, B region Q, C region R, D region S. (The diagram is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the mass spectrometer diagram to identify the region, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: region Q",
+      "steps": [
+        "P is the inlet where the sample is vaporised and enters.",
+        "Q contains the electron gun (the filament coil), which bombards the vapour with high-energy electrons to form positive ions.",
+        "R is the acceleration region, followed by the magnetic field and the detector at S."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-43.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q59.jpg"
       ]
     },
     {
@@ -2777,12 +3032,19 @@
         "20.18"
       ],
       "question": "A sample of neon contains the isotopes shown (not included in the extracted text). What is the relative atomic mass of neon to two decimal places? Options A 20.00, B 20.09, C 20.18, D 21.00.",
-      "status": "pending",
-      "answer": "Needs the neon isotope abundances, which are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 20.18",
+      "steps": [
+        "Relative atomic mass = (20 x 90.92 + 21 x 0.26 + 22 x 8.82) / 100.",
+        "= (1818.4 + 5.46 + 194.04) / 100 = 2017.9 / 100.",
+        "= 20.18 to two decimal places (20.179)."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-49.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-50.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q69.jpg"
       ]
     },
     {
@@ -2798,12 +3060,19 @@
         "proton electron mass"
       ],
       "question": "An atom of hydrogen is 1H. What is its mass in grams? Options A 1.6725 x 10^-24, B 1.6734 x 10^-24, C 3.3473 x 10^-24, D 3.3482 x 10^-24. (The table of particle masses is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the table of particle masses, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 1.6734 x 10^-24 g",
+      "steps": [
+        "An atom of 1H has one proton and one electron and no neutron.",
+        "Mass = 1.6725 x 10^-24 + 0.0009 x 10^-24 = 1.6734 x 10^-24 g.",
+        "A omits the electron, C and D include a neutron that 1H does not have."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-50.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-51.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q70.jpg"
       ]
     },
     {
@@ -2971,12 +3240,19 @@
         "28Si 29Si 30Si"
       ],
       "question": "Calculate the relative atomic mass of a sample of silicon using the isotopic abundance data (the data are not included in the extracted text), to 3 significant figures.",
-      "status": "pending",
-      "answer": "Needs the isotopic abundance data, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "28.2",
+      "steps": [
+        "Check the abundances: 91.07 + 4.62 + 3.00 + 1.31 = 100.00.",
+        "Ar = (28 x 91.07 + 29 x 4.62 + 30 x 3.00 + 32 x 1.31) / 100.",
+        "= (2549.96 + 133.98 + 90.00 + 41.92) / 100 = 28.159, so 28.2 to 3 s.f."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-52.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-53.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q74.jpg"
       ]
     },
     {
@@ -3074,12 +3350,19 @@
         "options"
       ],
       "question": "Which diagram represents the electronic structure of a nitrogen atom? (The diagram options are not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the diagram options, which are missing from the extracted text; the correct structure is 1s2 2s2 2p3 with one electron in each 2p orbital (check the PDF)",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 1s2 2s2 2p3 with one electron in each 2p orbital",
+      "steps": [
+        "Nitrogen has 7 electrons: 1s2 2s2 2p3.",
+        "1s and 2s each hold a pair of opposite spins, and the three 2p electrons occupy separate orbitals with parallel spins (Hund's rule).",
+        "A and B have only one electron in the 2s orbital; D puts a pair in one 2p orbital while another 2p is empty."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-54.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-55.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q75.jpg"
       ]
     },
     {
@@ -3148,12 +3431,20 @@
         "germanium-76"
       ],
       "question": "Germanium has five isotopes; the fifth is germanium-76 (radioactive). Calculate the mass number of the fifth isotope, given Ar = 72.6 and the data for the other four (table not included in the extracted text).",
-      "status": "pending",
-      "answer": "Needs the table of abundances and masses for the four stable isotopes, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "72 (71.6 before rounding), so the fifth isotope is 72Ge",
+      "steps": [
+        "The four isotopes in the table add up to 20.5 + 7.8 + 36.5 + 7.8 = 72.6%, so the fifth isotope has abundance 100 - 72.6 = 27.4%.",
+        "Sum for the four known isotopes: 70 x 20.5 + 73 x 7.8 + 74 x 36.5 + 76 x 7.8 = 5298.2.",
+        "Using Ar = 72.6: 72.6 x 100 = 7260, so the fifth isotope contributes 7260 - 5298.2 = 1961.8.",
+        "Mass number = 1961.8 / 27.4 = 71.6, which is 72."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-55.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-56.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q78.jpg"
       ]
     },
     {
@@ -3358,13 +3649,20 @@
         "data"
       ],
       "question": "The first seven ionisation energies for an element in Period 3 are shown (data not included in the extracted text). Deduce the identity of the element, with a reason.",
-      "status": "pending",
-      "answer": "Needs the table of the seven ionisation energies, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Sulfur: there is a large jump between the 6th and 7th ionisation energies, so six outer electrons, giving Group 6 in Period 3",
+      "steps": [
+        "The energies rise gradually from 1000 to 8496 kJ mol^-1 for the first six electrons.",
+        "There is a very large jump from the 6th (8496) to the 7th (27 107), so the 7th electron comes from an inner shell: the atom has 6 electrons in its outer shell.",
+        "An element in Period 3 with 6 outer electrons is in Group 6, sulfur (first ionisation energy about 1000 kJ mol^-1)."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-58.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-59.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-60.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q81.jpg"
       ]
     },
     {
@@ -3407,13 +3705,20 @@
         "elements Li to Ne"
       ],
       "question": "Plot the first ionisation energies of the Period 2 elements on the grid provided (data not included in the extracted text).",
-      "status": "pending",
-      "answer": "Needs the Period 2 ionisation energy data and grid, which are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Graph of first ionisation energy (y-axis) against element (x-axis) for Li to Ne: general rise with dips at B (801) and O (1314)",
+      "steps": [
+        "Use the elements Li, Be, B, C, N, O, F, Ne in order on the x-axis (one large square each) and \"first ionisation energy / kJ mol^-1\" on the y-axis with a scale of 0 to 2500 (250 per large square).",
+        "Plot the points: Li 520, Be 900, B 801, C 1086, N 1402, O 1314, F 1681, Ne 2081.",
+        "Join the points with straight lines or a clear line through the points; it should rise overall, falling at B (below Be) and at O (below N)."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-58.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-59.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-60.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q81-2.jpg"
       ]
     },
     {
@@ -3486,12 +3791,18 @@
         "row"
       ],
       "question": "Which row shows the numbers of neutrons and electrons in a bromide ion, 79Br-? (The table of rows is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the table of rows, which is missing from the extracted text; the correct values are 44 neutrons and 36 electrons (check the PDF)",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 44 neutrons and 36 electrons",
+      "steps": [
+        "79Br has atomic number 35, so neutrons = 79 - 35 = 44.",
+        "The bromide ion Br- has gained 1 electron, so 35 + 1 = 36 electrons."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-60.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-61.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q82.jpg"
       ]
     },
     {
@@ -3509,12 +3820,19 @@
         "vaporisation"
       ],
       "question": "Which is the correct order for the processes in a mass spectrometer? (The options are not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the answer options, which are missing from the extracted text; the correct order is vaporisation, ionisation, acceleration, deflection, detection (check the PDF)",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: vaporisation, ionisation, deflection, detection",
+      "steps": [
+        "The sample must first be vaporised (turned into a gas).",
+        "It is then ionised (electron bombardment forms positive ions).",
+        "The ions are deflected by the magnetic field and finally detected."
+      ],
       "images": [
         "papers/chemistry/img/02-Ch2-Atomic-Structure-60.jpg",
         "papers/chemistry/img/02-Ch2-Atomic-Structure-61.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/02-Ch2-Atomic-Structure-Q83.jpg"
       ]
     }
   ]

@@ -35,7 +35,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-1.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q1b",
@@ -64,7 +65,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-1.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q2a",
@@ -93,7 +95,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-1.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q2b",
@@ -122,7 +125,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-1.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q3a",
@@ -150,7 +154,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-2.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q3b",
@@ -178,7 +183,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-2.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q3c",
@@ -207,7 +213,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-2.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q4a",
@@ -235,7 +242,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-2.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q4b",
@@ -264,7 +272,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-2.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q4c",
@@ -293,7 +302,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-2.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q5a",
@@ -322,7 +332,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-3.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q5b",
@@ -351,7 +362,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-3.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q6",
@@ -380,7 +392,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-3.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q7",
@@ -409,7 +422,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-4.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q8",
@@ -438,7 +452,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-4.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q9a",
@@ -467,7 +482,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-4.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q9b",
@@ -496,7 +512,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-4.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q10a",
@@ -525,7 +542,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-5.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q10b",
@@ -554,7 +572,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-5.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q11(i)",
@@ -583,7 +602,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-5.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q11(ii)",
@@ -612,7 +632,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-5.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q12(i)",
@@ -641,7 +662,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-6.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q12(ii)",
@@ -670,7 +692,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-6.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q13a",
@@ -699,7 +722,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-6.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-01-Q13b",
@@ -728,7 +752,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-01-Indices-and-Surds-6.jpg",
       "papers/maths/img/P1-01-Indices-and-Surds-7.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -764,7 +789,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-02-Straight-Lines1-1.jpg",
       "papers/maths/img/P1-02-Straight-Lines1-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-02-Q1b",
@@ -793,7 +819,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-02-Straight-Lines1-1.jpg",
       "papers/maths/img/P1-02-Straight-Lines1-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-02-Q2a",
@@ -822,7 +849,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-02-Straight-Lines1-1.jpg",
       "papers/maths/img/P1-02-Straight-Lines1-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-02-Q2b",
@@ -851,7 +879,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-02-Straight-Lines1-1.jpg",
       "papers/maths/img/P1-02-Straight-Lines1-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-02-Q3a(i)",
@@ -879,7 +908,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-02-Straight-Lines1-2.jpg",
       "papers/maths/img/P1-02-Straight-Lines1-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-02-Q3a(ii)",
@@ -907,7 +937,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-02-Straight-Lines1-2.jpg",
       "papers/maths/img/P1-02-Straight-Lines1-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-02-Q3b",
@@ -936,7 +967,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-02-Straight-Lines1-2.jpg",
       "papers/maths/img/P1-02-Straight-Lines1-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-02-Q3c",
@@ -965,7 +997,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-02-Straight-Lines1-2.jpg",
       "papers/maths/img/P1-02-Straight-Lines1-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-02-Q4",
@@ -994,7 +1027,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-02-Straight-Lines1-3.jpg",
       "papers/maths/img/P1-02-Straight-Lines1-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-02-Q5a",
@@ -1022,7 +1056,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-02-Straight-Lines1-3.jpg",
       "papers/maths/img/P1-02-Straight-Lines1-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-02-Q5b",
@@ -1051,7 +1086,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-02-Straight-Lines1-3.jpg",
       "papers/maths/img/P1-02-Straight-Lines1-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-02-Q5c",
@@ -1080,7 +1116,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-02-Straight-Lines1-3.jpg",
       "papers/maths/img/P1-02-Straight-Lines1-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-02-Q6",
@@ -1109,7 +1146,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-02-Straight-Lines1-4.jpg",
       "papers/maths/img/P1-02-Straight-Lines1-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-02-Q7a",
@@ -1137,7 +1175,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-02-Straight-Lines1-4.jpg",
       "papers/maths/img/P1-02-Straight-Lines1-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-02-Q7b",
@@ -1166,7 +1205,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-02-Straight-Lines1-4.jpg",
       "papers/maths/img/P1-02-Straight-Lines1-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-02-Q8a",
@@ -1193,7 +1233,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P1-02-Straight-Lines1-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-02-Q8b",
@@ -1221,7 +1262,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P1-02-Straight-Lines1-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-02-Q8c",
@@ -1250,7 +1292,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P1-02-Straight-Lines1-5.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -1286,7 +1329,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-03-Straight-Lines2-1.jpg",
       "papers/maths/img/P1-03-Straight-Lines2-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-03-Q1b",
@@ -1315,7 +1359,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-03-Straight-Lines2-1.jpg",
       "papers/maths/img/P1-03-Straight-Lines2-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-03-Q1c",
@@ -1344,7 +1389,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-03-Straight-Lines2-1.jpg",
       "papers/maths/img/P1-03-Straight-Lines2-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-03-Q1d",
@@ -1372,7 +1418,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-03-Straight-Lines2-1.jpg",
       "papers/maths/img/P1-03-Straight-Lines2-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-03-Q2a",
@@ -1400,7 +1447,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-03-Straight-Lines2-1.jpg",
       "papers/maths/img/P1-03-Straight-Lines2-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-03-Q2b",
@@ -1429,7 +1477,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-03-Straight-Lines2-1.jpg",
       "papers/maths/img/P1-03-Straight-Lines2-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-03-Q3a",
@@ -1458,7 +1507,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-03-Straight-Lines2-2.jpg",
       "papers/maths/img/P1-03-Straight-Lines2-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-03-Q3b",
@@ -1486,7 +1536,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-03-Straight-Lines2-2.jpg",
       "papers/maths/img/P1-03-Straight-Lines2-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-03-Q4a",
@@ -1515,7 +1566,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-03-Straight-Lines2-2.jpg",
       "papers/maths/img/P1-03-Straight-Lines2-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-03-Q4b",
@@ -1544,7 +1596,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-03-Straight-Lines2-2.jpg",
       "papers/maths/img/P1-03-Straight-Lines2-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-03-Q5a",
@@ -1573,7 +1626,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-03-Straight-Lines2-3.jpg",
       "papers/maths/img/P1-03-Straight-Lines2-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-03-Q5b",
@@ -1603,7 +1657,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-03-Straight-Lines2-3.jpg",
       "papers/maths/img/P1-03-Straight-Lines2-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-03-Q6a",
@@ -1630,7 +1685,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P1-03-Straight-Lines2-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-03-Q6b",
@@ -1658,7 +1714,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P1-03-Straight-Lines2-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-03-Q6c",
@@ -1686,7 +1743,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P1-03-Straight-Lines2-4.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -1723,7 +1781,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-1.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q1b",
@@ -1752,7 +1811,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-1.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q2",
@@ -1781,7 +1841,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-1.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q3a(i)",
@@ -1809,7 +1870,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-2.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q3a(ii)",
@@ -1838,7 +1900,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-2.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q3b",
@@ -1866,7 +1929,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-2.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q3c",
@@ -1895,7 +1959,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-2.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q3d",
@@ -1923,7 +1988,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-2.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q4a",
@@ -1952,7 +2018,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-3.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q4b",
@@ -1981,7 +2048,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-3.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q4c",
@@ -2009,7 +2077,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-3.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q5a",
@@ -2038,7 +2107,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-4.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q5b",
@@ -2067,7 +2137,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-4.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q6a",
@@ -2096,7 +2167,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-4.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q6b",
@@ -2125,7 +2197,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-4.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q7a",
@@ -2154,7 +2227,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-5.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q7b",
@@ -2183,7 +2257,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-5.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q8a",
@@ -2212,7 +2287,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-5.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q8b",
@@ -2241,7 +2317,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-5.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q9a",
@@ -2270,7 +2347,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-6.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q9b",
@@ -2298,7 +2376,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-6.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q9c",
@@ -2327,7 +2406,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-6.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q10a",
@@ -2356,7 +2436,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-7.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q10b",
@@ -2385,7 +2466,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-7.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q11a",
@@ -2414,7 +2496,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-7.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-04-Q11b",
@@ -2443,7 +2526,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-04-Quadratic-Curves-7.jpg",
       "papers/maths/img/P1-04-Quadratic-Curves-8.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -2480,7 +2564,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-01.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q2a",
@@ -2508,7 +2593,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-01.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q2b",
@@ -2536,7 +2622,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-01.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q2c",
@@ -2565,7 +2652,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-01.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q2d",
@@ -2594,7 +2682,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-01.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q3",
@@ -2623,7 +2712,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-02.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q4a",
@@ -2652,7 +2742,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-03.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q4b",
@@ -2680,7 +2771,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-03.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q4c",
@@ -2709,7 +2801,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-03.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q4d",
@@ -2738,7 +2831,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-03.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q5a",
@@ -2767,7 +2861,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-04.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q5b",
@@ -2796,7 +2891,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-04.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q6i",
@@ -2824,7 +2920,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-05.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q6ii",
@@ -2853,7 +2950,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-05.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q7a",
@@ -2882,7 +2980,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-06.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q7b",
@@ -2911,7 +3010,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-06.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q8a",
@@ -2940,7 +3040,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-07.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q8b",
@@ -2968,7 +3069,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-07.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q8c",
@@ -2997,7 +3099,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-07.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q8d",
@@ -3026,7 +3129,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-07.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q9",
@@ -3055,7 +3159,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-08.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q10a",
@@ -3084,7 +3189,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-09.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q10b",
@@ -3113,7 +3219,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-09.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q10c",
@@ -3142,7 +3249,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-09.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q11",
@@ -3171,7 +3279,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-10.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q12a",
@@ -3200,7 +3309,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-11.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q12b",
@@ -3228,7 +3338,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-11.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q12c",
@@ -3257,7 +3368,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-11.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q13a",
@@ -3286,7 +3398,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-12.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q13b",
@@ -3314,7 +3427,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-12.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q13c",
@@ -3342,7 +3456,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-12.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q14",
@@ -3373,7 +3488,8 @@ window.BANK.maths = {
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-13.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-14.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q15ab",
@@ -3403,7 +3519,8 @@ window.BANK.maths = {
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-13.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-14.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q15c",
@@ -3433,7 +3550,8 @@ window.BANK.maths = {
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-13.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-14.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q16",
@@ -3462,7 +3580,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-15.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q17a",
@@ -3491,7 +3610,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-15.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q17b",
@@ -3520,7 +3640,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-15.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q17c",
@@ -3548,7 +3669,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-15.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q18a",
@@ -3577,7 +3699,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-16.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q18b",
@@ -3606,7 +3729,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-16.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q19a",
@@ -3635,7 +3759,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-17.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q19b",
@@ -3664,7 +3789,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-17.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q20a",
@@ -3693,7 +3819,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-17.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q20b",
@@ -3721,7 +3848,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-17.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q20c",
@@ -3750,7 +3878,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-17.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q21a",
@@ -3779,7 +3908,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-18.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-05-Q21b",
@@ -3808,7 +3938,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-18.jpg",
       "papers/maths/img/P1-05-Discriminants-Quadratic-Inequalities-19.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -3846,7 +3977,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-06-Simultaneous-Equations-1.jpg",
       "papers/maths/img/P1-06-Simultaneous-Equations-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-06-Q1b",
@@ -3877,7 +4009,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-06-Simultaneous-Equations-1.jpg",
       "papers/maths/img/P1-06-Simultaneous-Equations-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-06-Q2a",
@@ -3907,7 +4040,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-06-Simultaneous-Equations-1.jpg",
       "papers/maths/img/P1-06-Simultaneous-Equations-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-06-Q2b",
@@ -3937,7 +4071,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-06-Simultaneous-Equations-1.jpg",
       "papers/maths/img/P1-06-Simultaneous-Equations-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-06-Q3",
@@ -3968,7 +4103,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-06-Simultaneous-Equations-2.jpg",
       "papers/maths/img/P1-06-Simultaneous-Equations-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-06-Q4",
@@ -3999,7 +4135,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-06-Simultaneous-Equations-2.jpg",
       "papers/maths/img/P1-06-Simultaneous-Equations-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-06-Q5a",
@@ -4028,7 +4165,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-06-Simultaneous-Equations-3.jpg",
       "papers/maths/img/P1-06-Simultaneous-Equations-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-06-Q5b",
@@ -4059,7 +4197,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-06-Simultaneous-Equations-3.jpg",
       "papers/maths/img/P1-06-Simultaneous-Equations-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-06-Q6a",
@@ -4086,7 +4225,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-06-Simultaneous-Equations-4.jpg",
       "papers/maths/img/P1-06-Simultaneous-Equations-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-06-Q6b",
@@ -4113,7 +4253,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-06-Simultaneous-Equations-4.jpg",
       "papers/maths/img/P1-06-Simultaneous-Equations-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-06-Q6c",
@@ -4144,7 +4285,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-06-Simultaneous-Equations-4.jpg",
       "papers/maths/img/P1-06-Simultaneous-Equations-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-06-Q7a",
@@ -4172,7 +4314,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-06-Simultaneous-Equations-4.jpg",
       "papers/maths/img/P1-06-Simultaneous-Equations-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-06-Q7b",
@@ -4198,7 +4341,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-06-Simultaneous-Equations-4.jpg",
       "papers/maths/img/P1-06-Simultaneous-Equations-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-06-Q8a",
@@ -4224,7 +4368,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P1-06-Simultaneous-Equations-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-06-Q8b",
@@ -4250,7 +4395,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P1-06-Simultaneous-Equations-5.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -4287,7 +4433,8 @@ window.BANK.maths = {
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-01.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-02.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q1b",
@@ -4316,7 +4463,8 @@ window.BANK.maths = {
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-01.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-02.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q2a",
@@ -4345,7 +4493,8 @@ window.BANK.maths = {
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-01.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-02.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q2b",
@@ -4373,7 +4522,8 @@ window.BANK.maths = {
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-01.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-02.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q2c",
@@ -4402,7 +4552,8 @@ window.BANK.maths = {
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-01.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-02.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q3a",
@@ -4429,7 +4580,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-03.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q3b",
@@ -4459,7 +4611,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-03.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q4a",
@@ -4486,7 +4639,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-04.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q4b",
@@ -4513,7 +4667,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-04.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q4c",
@@ -4541,7 +4696,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-04.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q4d",
@@ -4569,7 +4725,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-04.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q5a",
@@ -4596,7 +4753,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-05.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q5b",
@@ -4623,7 +4781,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-05.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q5c",
@@ -4651,7 +4810,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-05.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q5d",
@@ -4679,7 +4839,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-05.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q6a",
@@ -4707,7 +4868,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-06.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q6b",
@@ -4735,7 +4897,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-06.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q6c",
@@ -4763,7 +4926,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-06.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q7a",
@@ -4791,7 +4955,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-07.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q7b",
@@ -4819,7 +4984,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-07.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q7c",
@@ -4847,7 +5013,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-07.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q8a",
@@ -4874,7 +5041,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-08.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q8b",
@@ -4903,7 +5071,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-08.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q8c",
@@ -4931,7 +5100,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-08.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q9a",
@@ -4959,7 +5129,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-08.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q9b",
@@ -4987,7 +5158,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-08.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q10a",
@@ -5015,7 +5187,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-09.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q10b",
@@ -5043,7 +5216,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-09.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q11a",
@@ -5070,7 +5244,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-10.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q11b",
@@ -5098,7 +5273,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-10.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q12a",
@@ -5125,7 +5301,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-10.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q12b",
@@ -5153,7 +5330,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-10.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q13a",
@@ -5180,7 +5358,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-11.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q13b",
@@ -5207,7 +5386,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-11.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q13c",
@@ -5235,7 +5415,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-11.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q14a",
@@ -5263,7 +5444,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-12.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q14b",
@@ -5290,7 +5472,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-12.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q14c",
@@ -5318,7 +5501,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-12.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q15a",
@@ -5346,7 +5530,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-13.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q15b",
@@ -5373,7 +5558,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-13.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q15c",
@@ -5403,7 +5589,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-13.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q16a",
@@ -5428,7 +5615,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-14.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q16b",
@@ -5456,7 +5644,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-14.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q16c",
@@ -5483,7 +5672,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-14.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q16d",
@@ -5511,7 +5701,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-14.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q17a",
@@ -5539,7 +5730,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-15.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q17b",
@@ -5567,7 +5759,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-15.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q17c",
@@ -5595,7 +5788,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-15.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q18a",
@@ -5623,7 +5817,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-16.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q18b",
@@ -5650,7 +5845,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-16.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q18c",
@@ -5677,7 +5873,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-16.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q18d",
@@ -5707,7 +5904,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-16.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q19a",
@@ -5733,7 +5931,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-17.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q19b",
@@ -5761,7 +5960,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-17.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q19c",
@@ -5789,7 +5989,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-17.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-18.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q20a",
@@ -5817,7 +6018,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-18.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-07-Q20b",
@@ -5845,7 +6047,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-18.jpg",
       "papers/maths/img/P1-07-Trig-Area-Circles-Triangles-19.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -5880,7 +6083,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-01.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q1b",
@@ -5907,7 +6111,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-01.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q1c",
@@ -5937,7 +6142,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-01.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q2a",
@@ -5962,7 +6168,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-02.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q2b",
@@ -5988,7 +6195,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-02.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q2c",
@@ -6016,7 +6224,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-02.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q3a",
@@ -6043,7 +6252,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-03.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q3b",
@@ -6070,7 +6280,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-03.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q3c",
@@ -6098,7 +6309,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-03.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q4a",
@@ -6123,7 +6335,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-04.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q4b-i",
@@ -6150,7 +6363,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-04.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q4b-ii",
@@ -6178,7 +6392,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-04.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q4b-iii",
@@ -6206,7 +6421,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-04.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q5a",
@@ -6234,7 +6450,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-05.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q5b",
@@ -6262,7 +6479,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-05.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q6a",
@@ -6290,7 +6508,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-06.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q6b",
@@ -6316,7 +6535,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-06.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q6c",
@@ -6343,7 +6563,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-06.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q7ia",
@@ -6370,7 +6591,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-07.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q7ib",
@@ -6398,7 +6620,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-07.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q7iia",
@@ -6425,7 +6648,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-07.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q7iib",
@@ -6451,7 +6675,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-07.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q8a",
@@ -6479,7 +6704,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-08.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q8b",
@@ -6507,7 +6733,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-08.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q9a",
@@ -6534,7 +6761,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-09.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q9b",
@@ -6561,7 +6789,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-09.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q10a",
@@ -6588,7 +6817,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-10.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q10b",
@@ -6616,7 +6846,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-08-Trig-Graphs-10.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q11a",
@@ -6644,7 +6875,8 @@ window.BANK.maths = {
       "papers/maths/img/P1-08-Trig-Graphs-11.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-12.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q11b",
@@ -6671,7 +6903,8 @@ window.BANK.maths = {
       "papers/maths/img/P1-08-Trig-Graphs-11.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-12.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-08-Q11c",
@@ -6700,7 +6933,8 @@ window.BANK.maths = {
       "papers/maths/img/P1-08-Trig-Graphs-11.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-12.jpg",
       "papers/maths/img/P1-08-Trig-Graphs-13.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -6733,7 +6967,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-01.jpg",
       "papers/maths/img/P1-09-Function-Graphs-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q1b",
@@ -6759,7 +6994,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-01.jpg",
       "papers/maths/img/P1-09-Function-Graphs-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q1c",
@@ -6788,7 +7024,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-01.jpg",
       "papers/maths/img/P1-09-Function-Graphs-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q1d",
@@ -6815,7 +7052,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-01.jpg",
       "papers/maths/img/P1-09-Function-Graphs-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q2a",
@@ -6842,7 +7080,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-02.jpg",
       "papers/maths/img/P1-09-Function-Graphs-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q2b",
@@ -6870,7 +7109,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-02.jpg",
       "papers/maths/img/P1-09-Function-Graphs-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q2c",
@@ -6898,7 +7138,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-02.jpg",
       "papers/maths/img/P1-09-Function-Graphs-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q3a",
@@ -6925,7 +7166,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-03.jpg",
       "papers/maths/img/P1-09-Function-Graphs-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q3b",
@@ -6952,7 +7194,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-03.jpg",
       "papers/maths/img/P1-09-Function-Graphs-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q3c",
@@ -6982,7 +7225,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-03.jpg",
       "papers/maths/img/P1-09-Function-Graphs-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q4a",
@@ -7009,7 +7253,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-04.jpg",
       "papers/maths/img/P1-09-Function-Graphs-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q4b",
@@ -7035,7 +7280,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-04.jpg",
       "papers/maths/img/P1-09-Function-Graphs-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q4c",
@@ -7062,7 +7308,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-04.jpg",
       "papers/maths/img/P1-09-Function-Graphs-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q4d",
@@ -7091,7 +7338,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-04.jpg",
       "papers/maths/img/P1-09-Function-Graphs-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q5a",
@@ -7118,7 +7366,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-05.jpg",
       "papers/maths/img/P1-09-Function-Graphs-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q5b",
@@ -7146,7 +7395,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-05.jpg",
       "papers/maths/img/P1-09-Function-Graphs-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q6a",
@@ -7173,7 +7423,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-06.jpg",
       "papers/maths/img/P1-09-Function-Graphs-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q6b",
@@ -7200,7 +7451,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-06.jpg",
       "papers/maths/img/P1-09-Function-Graphs-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q6c",
@@ -7227,7 +7479,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-06.jpg",
       "papers/maths/img/P1-09-Function-Graphs-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q7a",
@@ -7254,7 +7507,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-07.jpg",
       "papers/maths/img/P1-09-Function-Graphs-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q7b",
@@ -7280,7 +7534,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-07.jpg",
       "papers/maths/img/P1-09-Function-Graphs-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q7c",
@@ -7308,7 +7563,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-07.jpg",
       "papers/maths/img/P1-09-Function-Graphs-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q8i",
@@ -7336,7 +7592,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-07.jpg",
       "papers/maths/img/P1-09-Function-Graphs-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q8ii",
@@ -7364,7 +7621,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-07.jpg",
       "papers/maths/img/P1-09-Function-Graphs-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q9a",
@@ -7391,7 +7649,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-08.jpg",
       "papers/maths/img/P1-09-Function-Graphs-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q9b",
@@ -7419,7 +7678,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-08.jpg",
       "papers/maths/img/P1-09-Function-Graphs-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q10ai",
@@ -7446,7 +7706,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-09.jpg",
       "papers/maths/img/P1-09-Function-Graphs-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q10aii",
@@ -7473,7 +7734,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-09.jpg",
       "papers/maths/img/P1-09-Function-Graphs-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q10b",
@@ -7501,7 +7763,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-09.jpg",
       "papers/maths/img/P1-09-Function-Graphs-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q11a",
@@ -7529,7 +7792,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-10.jpg",
       "papers/maths/img/P1-09-Function-Graphs-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q11b",
@@ -7553,7 +7817,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-10.jpg",
       "papers/maths/img/P1-09-Function-Graphs-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q11c",
@@ -7581,7 +7846,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-10.jpg",
       "papers/maths/img/P1-09-Function-Graphs-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q12a",
@@ -7609,7 +7875,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-11.jpg",
       "papers/maths/img/P1-09-Function-Graphs-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q12b",
@@ -7636,7 +7903,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-11.jpg",
       "papers/maths/img/P1-09-Function-Graphs-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-09-Q12c",
@@ -7663,7 +7931,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-09-Function-Graphs-11.jpg",
       "papers/maths/img/P1-09-Function-Graphs-12.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -7701,7 +7970,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-01.jpg",
       "papers/maths/img/P1-10-Differentiation-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q1b",
@@ -7732,7 +8002,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-01.jpg",
       "papers/maths/img/P1-10-Differentiation-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q2a",
@@ -7761,7 +8032,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-01.jpg",
       "papers/maths/img/P1-10-Differentiation-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q2b",
@@ -7790,7 +8062,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-01.jpg",
       "papers/maths/img/P1-10-Differentiation-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q2c",
@@ -7821,7 +8094,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-01.jpg",
       "papers/maths/img/P1-10-Differentiation-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q3a",
@@ -7850,7 +8124,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-02.jpg",
       "papers/maths/img/P1-10-Differentiation-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q3b",
@@ -7879,7 +8154,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-02.jpg",
       "papers/maths/img/P1-10-Differentiation-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q3c",
@@ -7908,7 +8184,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-02.jpg",
       "papers/maths/img/P1-10-Differentiation-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q4a",
@@ -7936,7 +8213,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-03.jpg",
       "papers/maths/img/P1-10-Differentiation-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q4b",
@@ -7965,7 +8243,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-03.jpg",
       "papers/maths/img/P1-10-Differentiation-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q4c",
@@ -7994,7 +8273,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-03.jpg",
       "papers/maths/img/P1-10-Differentiation-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q5a",
@@ -8023,7 +8303,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-04.jpg",
       "papers/maths/img/P1-10-Differentiation-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q5b",
@@ -8053,7 +8334,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-04.jpg",
       "papers/maths/img/P1-10-Differentiation-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q6a",
@@ -8082,7 +8364,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-04.jpg",
       "papers/maths/img/P1-10-Differentiation-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q6b",
@@ -8113,7 +8396,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-04.jpg",
       "papers/maths/img/P1-10-Differentiation-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q6c",
@@ -8142,7 +8426,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-04.jpg",
       "papers/maths/img/P1-10-Differentiation-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q6d",
@@ -8171,7 +8456,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-04.jpg",
       "papers/maths/img/P1-10-Differentiation-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q7a",
@@ -8200,7 +8486,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-05.jpg",
       "papers/maths/img/P1-10-Differentiation-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q7b",
@@ -8230,7 +8517,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-05.jpg",
       "papers/maths/img/P1-10-Differentiation-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q8a",
@@ -8260,7 +8548,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-06.jpg",
       "papers/maths/img/P1-10-Differentiation-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q8b",
@@ -8290,7 +8579,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-06.jpg",
       "papers/maths/img/P1-10-Differentiation-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q9a",
@@ -8318,7 +8608,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-07.jpg",
       "papers/maths/img/P1-10-Differentiation-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q9b",
@@ -8346,7 +8637,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-07.jpg",
       "papers/maths/img/P1-10-Differentiation-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q10a",
@@ -8376,7 +8668,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-07.jpg",
       "papers/maths/img/P1-10-Differentiation-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q10b",
@@ -8404,7 +8697,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-07.jpg",
       "papers/maths/img/P1-10-Differentiation-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q10c",
@@ -8433,7 +8727,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-07.jpg",
       "papers/maths/img/P1-10-Differentiation-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q11a",
@@ -8461,7 +8756,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-08.jpg",
       "papers/maths/img/P1-10-Differentiation-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q11b",
@@ -8491,7 +8787,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-08.jpg",
       "papers/maths/img/P1-10-Differentiation-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q12a",
@@ -8519,7 +8816,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-08.jpg",
       "papers/maths/img/P1-10-Differentiation-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q12b",
@@ -8547,7 +8845,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-08.jpg",
       "papers/maths/img/P1-10-Differentiation-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q13a",
@@ -8575,7 +8874,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-09.jpg",
       "papers/maths/img/P1-10-Differentiation-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q13b",
@@ -8605,7 +8905,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-09.jpg",
       "papers/maths/img/P1-10-Differentiation-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q14",
@@ -8636,7 +8937,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-09.jpg",
       "papers/maths/img/P1-10-Differentiation-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q15a",
@@ -8664,7 +8966,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-10.jpg",
       "papers/maths/img/P1-10-Differentiation-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q15b",
@@ -8693,7 +8996,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-10.jpg",
       "papers/maths/img/P1-10-Differentiation-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q15c",
@@ -8721,7 +9025,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-10.jpg",
       "papers/maths/img/P1-10-Differentiation-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q15d",
@@ -8750,7 +9055,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-10.jpg",
       "papers/maths/img/P1-10-Differentiation-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q16a",
@@ -8778,7 +9084,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-11.jpg",
       "papers/maths/img/P1-10-Differentiation-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q16b",
@@ -8806,7 +9113,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-11.jpg",
       "papers/maths/img/P1-10-Differentiation-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q16c",
@@ -8835,7 +9143,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-11.jpg",
       "papers/maths/img/P1-10-Differentiation-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q16d",
@@ -8865,7 +9174,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-11.jpg",
       "papers/maths/img/P1-10-Differentiation-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q17a",
@@ -8894,7 +9204,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-11.jpg",
       "papers/maths/img/P1-10-Differentiation-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q17b",
@@ -8922,7 +9233,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-11.jpg",
       "papers/maths/img/P1-10-Differentiation-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q18a",
@@ -8950,7 +9262,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-12.jpg",
       "papers/maths/img/P1-10-Differentiation-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q18b",
@@ -8978,7 +9291,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-12.jpg",
       "papers/maths/img/P1-10-Differentiation-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q18c",
@@ -9008,7 +9322,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-12.jpg",
       "papers/maths/img/P1-10-Differentiation-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q18d",
@@ -9036,7 +9351,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-12.jpg",
       "papers/maths/img/P1-10-Differentiation-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q19",
@@ -9066,7 +9382,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-13.jpg",
       "papers/maths/img/P1-10-Differentiation-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q20a",
@@ -9096,7 +9413,8 @@ window.BANK.maths = {
       "papers/maths/img/P1-10-Differentiation-14.jpg",
       "papers/maths/img/P1-10-Differentiation-15.jpg",
       "papers/maths/img/P1-10-Differentiation-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q20b",
@@ -9126,7 +9444,8 @@ window.BANK.maths = {
       "papers/maths/img/P1-10-Differentiation-14.jpg",
       "papers/maths/img/P1-10-Differentiation-15.jpg",
       "papers/maths/img/P1-10-Differentiation-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q21a",
@@ -9156,7 +9475,8 @@ window.BANK.maths = {
       "papers/maths/img/P1-10-Differentiation-14.jpg",
       "papers/maths/img/P1-10-Differentiation-15.jpg",
       "papers/maths/img/P1-10-Differentiation-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q21b",
@@ -9185,7 +9505,8 @@ window.BANK.maths = {
       "papers/maths/img/P1-10-Differentiation-14.jpg",
       "papers/maths/img/P1-10-Differentiation-15.jpg",
       "papers/maths/img/P1-10-Differentiation-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q21c",
@@ -9216,7 +9537,8 @@ window.BANK.maths = {
       "papers/maths/img/P1-10-Differentiation-14.jpg",
       "papers/maths/img/P1-10-Differentiation-15.jpg",
       "papers/maths/img/P1-10-Differentiation-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q21d",
@@ -9247,7 +9569,8 @@ window.BANK.maths = {
       "papers/maths/img/P1-10-Differentiation-14.jpg",
       "papers/maths/img/P1-10-Differentiation-15.jpg",
       "papers/maths/img/P1-10-Differentiation-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q22",
@@ -9276,7 +9599,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-16.jpg",
       "papers/maths/img/P1-10-Differentiation-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q23a",
@@ -9304,7 +9628,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-16.jpg",
       "papers/maths/img/P1-10-Differentiation-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q23b",
@@ -9332,7 +9657,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-16.jpg",
       "papers/maths/img/P1-10-Differentiation-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q24a",
@@ -9362,7 +9688,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-16.jpg",
       "papers/maths/img/P1-10-Differentiation-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-10-Q24b",
@@ -9392,7 +9719,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-10-Differentiation-16.jpg",
       "papers/maths/img/P1-10-Differentiation-17.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -9429,7 +9757,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-01.jpg",
       "papers/maths/img/P1-11-Integration-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q1b",
@@ -9458,7 +9787,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-01.jpg",
       "papers/maths/img/P1-11-Integration-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q2a",
@@ -9488,7 +9818,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-01.jpg",
       "papers/maths/img/P1-11-Integration-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q2b",
@@ -9518,7 +9849,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-01.jpg",
       "papers/maths/img/P1-11-Integration-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q3a",
@@ -9547,7 +9879,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-02.jpg",
       "papers/maths/img/P1-11-Integration-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q3b",
@@ -9577,7 +9910,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-02.jpg",
       "papers/maths/img/P1-11-Integration-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q4a",
@@ -9605,7 +9939,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-03.jpg",
       "papers/maths/img/P1-11-Integration-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q4b",
@@ -9633,7 +9968,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-03.jpg",
       "papers/maths/img/P1-11-Integration-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q5",
@@ -9663,7 +9999,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-03.jpg",
       "papers/maths/img/P1-11-Integration-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q6",
@@ -9692,7 +10029,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-04.jpg",
       "papers/maths/img/P1-11-Integration-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q7",
@@ -9721,7 +10059,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-04.jpg",
       "papers/maths/img/P1-11-Integration-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q8a",
@@ -9750,7 +10089,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-04.jpg",
       "papers/maths/img/P1-11-Integration-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q8b",
@@ -9780,7 +10120,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-04.jpg",
       "papers/maths/img/P1-11-Integration-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q9a",
@@ -9810,7 +10151,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-05.jpg",
       "papers/maths/img/P1-11-Integration-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q9b",
@@ -9840,7 +10182,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-05.jpg",
       "papers/maths/img/P1-11-Integration-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q10a",
@@ -9870,7 +10213,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-06.jpg",
       "papers/maths/img/P1-11-Integration-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q10b",
@@ -9899,7 +10243,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-06.jpg",
       "papers/maths/img/P1-11-Integration-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q11a",
@@ -9928,7 +10273,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-06.jpg",
       "papers/maths/img/P1-11-Integration-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q11b",
@@ -9958,7 +10304,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-06.jpg",
       "papers/maths/img/P1-11-Integration-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q12",
@@ -9987,7 +10334,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-07.jpg",
       "papers/maths/img/P1-11-Integration-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q13",
@@ -10017,7 +10365,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-07.jpg",
       "papers/maths/img/P1-11-Integration-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q14",
@@ -10046,7 +10395,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-08.jpg",
       "papers/maths/img/P1-11-Integration-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q15",
@@ -10074,7 +10424,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-08.jpg",
       "papers/maths/img/P1-11-Integration-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q16a",
@@ -10103,7 +10454,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-09.jpg",
       "papers/maths/img/P1-11-Integration-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q16b",
@@ -10132,7 +10484,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-09.jpg",
       "papers/maths/img/P1-11-Integration-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q17",
@@ -10162,7 +10515,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-09.jpg",
       "papers/maths/img/P1-11-Integration-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q18",
@@ -10191,7 +10545,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-10.jpg",
       "papers/maths/img/P1-11-Integration-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q19a",
@@ -10220,7 +10575,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-10.jpg",
       "papers/maths/img/P1-11-Integration-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q19b",
@@ -10249,7 +10605,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-10.jpg",
       "papers/maths/img/P1-11-Integration-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q20(i)",
@@ -10279,7 +10636,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-11.jpg",
       "papers/maths/img/P1-11-Integration-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q20(ii)",
@@ -10310,7 +10668,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-11.jpg",
       "papers/maths/img/P1-11-Integration-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q21a",
@@ -10338,7 +10697,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-11.jpg",
       "papers/maths/img/P1-11-Integration-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q21b",
@@ -10368,7 +10728,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-11.jpg",
       "papers/maths/img/P1-11-Integration-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q22a",
@@ -10397,7 +10758,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-12.jpg",
       "papers/maths/img/P1-11-Integration-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q22b",
@@ -10426,7 +10788,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P1-11-Integration-12.jpg",
       "papers/maths/img/P1-11-Integration-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q23a",
@@ -10454,7 +10817,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P1-11-Integration-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P1-11-Q23b",
@@ -10483,7 +10847,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P1-11-Integration-13.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -10519,7 +10884,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-1.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q1b",
@@ -10548,7 +10914,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-1.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q1c",
@@ -10579,7 +10946,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-1.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q2a",
@@ -10608,7 +10976,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-1.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q2b",
@@ -10637,7 +11006,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-1.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q2c",
@@ -10668,7 +11038,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-1.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q3a",
@@ -10697,7 +11068,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-2.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q3b",
@@ -10728,7 +11100,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-2.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q3c",
@@ -10758,7 +11131,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-2.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q4",
@@ -10789,7 +11163,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-3.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q5a",
@@ -10818,7 +11193,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-3.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q5b",
@@ -10849,7 +11225,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-3.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q6a",
@@ -10878,7 +11255,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-4.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q6b",
@@ -10907,7 +11285,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-4.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q6c",
@@ -10937,7 +11316,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-4.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q6d",
@@ -10967,7 +11347,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-4.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q7a",
@@ -10995,7 +11376,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-5.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q7b",
@@ -11026,7 +11408,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-5.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q8a",
@@ -11054,7 +11437,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-5.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q8b",
@@ -11083,7 +11467,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-5.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q8c",
@@ -11114,7 +11499,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-5.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q9a",
@@ -11143,7 +11529,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q9b",
@@ -11174,7 +11561,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q9c",
@@ -11202,7 +11590,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q9d",
@@ -11232,7 +11621,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q10a",
@@ -11260,7 +11650,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-01-Q10b",
@@ -11291,7 +11682,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-6.jpg",
       "papers/maths/img/P2-01-Factor-Remainder-Theorem-7.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -11328,7 +11720,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-01.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q1b",
@@ -11357,7 +11750,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-01.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q1c",
@@ -11386,7 +11780,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-01.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q2a",
@@ -11415,7 +11810,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-01.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q2b",
@@ -11444,7 +11840,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-01.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q2c",
@@ -11473,7 +11870,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-01.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q3a",
@@ -11502,7 +11900,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q3b",
@@ -11531,7 +11930,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q3c",
@@ -11560,7 +11960,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q3d",
@@ -11588,7 +11989,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q3e",
@@ -11616,7 +12018,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-02.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q4a",
@@ -11645,7 +12048,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-03.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q4b",
@@ -11674,7 +12078,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-03.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q4c",
@@ -11703,7 +12108,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-03.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q5i",
@@ -11732,7 +12138,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-04.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q5iia",
@@ -11760,7 +12167,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-04.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q5iib",
@@ -11789,7 +12197,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-04.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q6a",
@@ -11817,7 +12226,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-05.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q6b",
@@ -11845,7 +12255,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-05.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q6c",
@@ -11874,7 +12285,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-05.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q7i",
@@ -11902,7 +12314,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-05.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q7ii",
@@ -11930,7 +12343,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-05.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q7iii",
@@ -11958,7 +12372,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-05.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q8a",
@@ -11987,7 +12402,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-06.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q8b",
@@ -12016,7 +12432,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-06.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q8c",
@@ -12045,7 +12462,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-06.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q9a",
@@ -12074,7 +12492,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-07.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q9b",
@@ -12103,7 +12522,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-07.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q9c",
@@ -12131,7 +12551,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-07.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q10a",
@@ -12159,7 +12580,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-07.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q10b",
@@ -12188,7 +12610,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-07.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q11a",
@@ -12217,7 +12640,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-08.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q11b",
@@ -12246,7 +12670,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-08.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q12a",
@@ -12274,7 +12699,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-08.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q12b",
@@ -12303,7 +12729,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-08.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q12c",
@@ -12332,7 +12759,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-08.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q13a",
@@ -12360,7 +12788,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-09.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q13b",
@@ -12389,7 +12818,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-09.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q13c",
@@ -12418,7 +12848,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-09.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q14a",
@@ -12447,7 +12878,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-10.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q14b",
@@ -12475,7 +12907,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-10.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q14c",
@@ -12504,7 +12937,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-10.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q15a",
@@ -12532,7 +12966,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-10.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q15b",
@@ -12561,7 +12996,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-10.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q15c",
@@ -12590,7 +13026,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-10.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q16a",
@@ -12619,7 +13056,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-11.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q16b",
@@ -12648,7 +13086,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-11.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q17a",
@@ -12676,7 +13115,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-12.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q17b",
@@ -12705,7 +13145,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-12.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q18i",
@@ -12734,7 +13175,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-13.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q18iia",
@@ -12763,7 +13205,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-13.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q18iib",
@@ -12791,7 +13234,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-13.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q18iic",
@@ -12819,7 +13263,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-13.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-02-Q18iid",
@@ -12848,7 +13293,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-13.jpg",
       "papers/maths/img/P2-02-Arithmetic-Geometric-Sequences-14.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -12885,7 +13331,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-03-Recursive-Sequences-1.jpg",
       "papers/maths/img/P2-03-Recursive-Sequences-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-03-Q1b",
@@ -12913,7 +13360,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-03-Recursive-Sequences-1.jpg",
       "papers/maths/img/P2-03-Recursive-Sequences-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-03-Q2a",
@@ -12941,7 +13389,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-03-Recursive-Sequences-1.jpg",
       "papers/maths/img/P2-03-Recursive-Sequences-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-03-Q2b",
@@ -12972,7 +13421,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-03-Recursive-Sequences-1.jpg",
       "papers/maths/img/P2-03-Recursive-Sequences-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-03-Q3a",
@@ -13000,7 +13450,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-03-Recursive-Sequences-2.jpg",
       "papers/maths/img/P2-03-Recursive-Sequences-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-03-Q3b",
@@ -13029,7 +13480,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-03-Recursive-Sequences-2.jpg",
       "papers/maths/img/P2-03-Recursive-Sequences-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-03-Q4i",
@@ -13058,7 +13510,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-03-Recursive-Sequences-2.jpg",
       "papers/maths/img/P2-03-Recursive-Sequences-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-03-Q4iia",
@@ -13085,7 +13538,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-03-Recursive-Sequences-2.jpg",
       "papers/maths/img/P2-03-Recursive-Sequences-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-03-Q4iib",
@@ -13114,7 +13568,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-03-Recursive-Sequences-2.jpg",
       "papers/maths/img/P2-03-Recursive-Sequences-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-03-Q5a",
@@ -13142,7 +13597,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-03-Recursive-Sequences-3.jpg",
       "papers/maths/img/P2-03-Recursive-Sequences-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-03-Q5b",
@@ -13171,7 +13627,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-03-Recursive-Sequences-3.jpg",
       "papers/maths/img/P2-03-Recursive-Sequences-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-03-Q5c",
@@ -13200,7 +13657,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-03-Recursive-Sequences-3.jpg",
       "papers/maths/img/P2-03-Recursive-Sequences-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-03-Q6a",
@@ -13228,7 +13686,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-03-Recursive-Sequences-4.jpg",
       "papers/maths/img/P2-03-Recursive-Sequences-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-03-Q6b",
@@ -13258,7 +13717,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-03-Recursive-Sequences-4.jpg",
       "papers/maths/img/P2-03-Recursive-Sequences-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-03-Q7i",
@@ -13285,7 +13745,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P2-03-Recursive-Sequences-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-03-Q7iia",
@@ -13313,7 +13774,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P2-03-Recursive-Sequences-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-03-Q7iib",
@@ -13339,7 +13801,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P2-03-Recursive-Sequences-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-03-Q7iic",
@@ -13367,7 +13830,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P2-03-Recursive-Sequences-5.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -13403,7 +13867,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-01.jpg",
       "papers/maths/img/P2-04-Circle-Equations-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q1b",
@@ -13431,7 +13896,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-01.jpg",
       "papers/maths/img/P2-04-Circle-Equations-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q1c",
@@ -13460,7 +13926,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-01.jpg",
       "papers/maths/img/P2-04-Circle-Equations-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q1d",
@@ -13489,7 +13956,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-01.jpg",
       "papers/maths/img/P2-04-Circle-Equations-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q2a",
@@ -13518,7 +13986,8 @@ window.BANK.maths = {
       "papers/maths/img/P2-04-Circle-Equations-02.jpg",
       "papers/maths/img/P2-04-Circle-Equations-03.jpg",
       "papers/maths/img/P2-04-Circle-Equations-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q2b",
@@ -13548,7 +14017,8 @@ window.BANK.maths = {
       "papers/maths/img/P2-04-Circle-Equations-02.jpg",
       "papers/maths/img/P2-04-Circle-Equations-03.jpg",
       "papers/maths/img/P2-04-Circle-Equations-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q3a",
@@ -13578,7 +14048,8 @@ window.BANK.maths = {
       "papers/maths/img/P2-04-Circle-Equations-02.jpg",
       "papers/maths/img/P2-04-Circle-Equations-03.jpg",
       "papers/maths/img/P2-04-Circle-Equations-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q3b",
@@ -13609,7 +14080,8 @@ window.BANK.maths = {
       "papers/maths/img/P2-04-Circle-Equations-02.jpg",
       "papers/maths/img/P2-04-Circle-Equations-03.jpg",
       "papers/maths/img/P2-04-Circle-Equations-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q4a",
@@ -13638,7 +14110,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-04.jpg",
       "papers/maths/img/P2-04-Circle-Equations-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q4b",
@@ -13667,7 +14140,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-04.jpg",
       "papers/maths/img/P2-04-Circle-Equations-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q4c",
@@ -13698,7 +14172,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-04.jpg",
       "papers/maths/img/P2-04-Circle-Equations-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q5a",
@@ -13726,7 +14201,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-05.jpg",
       "papers/maths/img/P2-04-Circle-Equations-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q5b",
@@ -13755,7 +14231,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-05.jpg",
       "papers/maths/img/P2-04-Circle-Equations-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q6a",
@@ -13783,7 +14260,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-05.jpg",
       "papers/maths/img/P2-04-Circle-Equations-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q6b",
@@ -13811,7 +14289,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-05.jpg",
       "papers/maths/img/P2-04-Circle-Equations-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q6c",
@@ -13840,7 +14319,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-05.jpg",
       "papers/maths/img/P2-04-Circle-Equations-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q7a",
@@ -13868,7 +14348,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-06.jpg",
       "papers/maths/img/P2-04-Circle-Equations-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q7b",
@@ -13895,7 +14376,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-06.jpg",
       "papers/maths/img/P2-04-Circle-Equations-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q7c",
@@ -13923,7 +14405,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-06.jpg",
       "papers/maths/img/P2-04-Circle-Equations-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q8a",
@@ -13951,7 +14434,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-07.jpg",
       "papers/maths/img/P2-04-Circle-Equations-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q8b",
@@ -13980,7 +14464,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-07.jpg",
       "papers/maths/img/P2-04-Circle-Equations-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q8c",
@@ -14010,7 +14495,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-07.jpg",
       "papers/maths/img/P2-04-Circle-Equations-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q9a",
@@ -14039,7 +14525,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-08.jpg",
       "papers/maths/img/P2-04-Circle-Equations-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q9b",
@@ -14068,7 +14555,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-08.jpg",
       "papers/maths/img/P2-04-Circle-Equations-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q10ia",
@@ -14096,7 +14584,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-08.jpg",
       "papers/maths/img/P2-04-Circle-Equations-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q10ib",
@@ -14124,7 +14613,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-08.jpg",
       "papers/maths/img/P2-04-Circle-Equations-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q10ii",
@@ -14154,7 +14644,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-08.jpg",
       "papers/maths/img/P2-04-Circle-Equations-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q11a",
@@ -14183,7 +14674,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-09.jpg",
       "papers/maths/img/P2-04-Circle-Equations-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q11b",
@@ -14212,7 +14704,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-09.jpg",
       "papers/maths/img/P2-04-Circle-Equations-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q11c",
@@ -14241,7 +14734,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-09.jpg",
       "papers/maths/img/P2-04-Circle-Equations-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q12a",
@@ -14269,7 +14763,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-10.jpg",
       "papers/maths/img/P2-04-Circle-Equations-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q12b",
@@ -14298,7 +14793,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-10.jpg",
       "papers/maths/img/P2-04-Circle-Equations-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q13a",
@@ -14326,7 +14822,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-10.jpg",
       "papers/maths/img/P2-04-Circle-Equations-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q13b",
@@ -14355,7 +14852,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-10.jpg",
       "papers/maths/img/P2-04-Circle-Equations-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q13c",
@@ -14383,7 +14881,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-10.jpg",
       "papers/maths/img/P2-04-Circle-Equations-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q14a",
@@ -14412,7 +14911,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-11.jpg",
       "papers/maths/img/P2-04-Circle-Equations-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q14b",
@@ -14440,7 +14940,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-11.jpg",
       "papers/maths/img/P2-04-Circle-Equations-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q14c",
@@ -14469,7 +14970,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-11.jpg",
       "papers/maths/img/P2-04-Circle-Equations-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-04-Q14d",
@@ -14498,7 +15000,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-04-Circle-Equations-11.jpg",
       "papers/maths/img/P2-04-Circle-Equations-12.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -14535,7 +15038,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-1.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q1b",
@@ -14564,7 +15068,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-1.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q2a",
@@ -14593,7 +15098,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-1.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q2b",
@@ -14622,7 +15128,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-1.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q3a",
@@ -14650,7 +15157,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-2.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q3b",
@@ -14678,7 +15186,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-2.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q4a",
@@ -14707,7 +15216,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-2.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q4b",
@@ -14735,7 +15245,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-2.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q4c",
@@ -14763,7 +15274,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-2.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q5a",
@@ -14792,7 +15304,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-3.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q5b",
@@ -14821,7 +15334,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-3.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q6a",
@@ -14849,7 +15363,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-4.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q6b",
@@ -14878,7 +15393,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-4.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q7a",
@@ -14907,7 +15423,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-4.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q7b",
@@ -14936,7 +15453,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-4.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q7c",
@@ -14964,7 +15482,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-4.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q8ia",
@@ -14993,7 +15512,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-5.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q8ib",
@@ -15021,7 +15541,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-5.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q8iia",
@@ -15050,7 +15571,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-5.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q8iib",
@@ -15079,7 +15601,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-5.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q9a",
@@ -15108,7 +15631,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-6.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q9b",
@@ -15137,7 +15661,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-6.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q10a",
@@ -15165,7 +15690,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-6.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q10b",
@@ -15194,7 +15720,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-6.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q11a",
@@ -15223,7 +15750,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-7.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q11b",
@@ -15252,7 +15780,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-7.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q12",
@@ -15281,7 +15810,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-8.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q13a",
@@ -15308,7 +15838,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-8.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-05-Q13b",
@@ -15338,7 +15869,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-05-Binomial-Theorem-8.jpg",
       "papers/maths/img/P2-05-Binomial-Theorem-9.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -15375,7 +15907,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-01.jpg",
       "papers/maths/img/P2-06-Logarithms-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q1(ii)",
@@ -15406,7 +15939,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-01.jpg",
       "papers/maths/img/P2-06-Logarithms-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q2a",
@@ -15435,7 +15969,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-01.jpg",
       "papers/maths/img/P2-06-Logarithms-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q2b",
@@ -15464,7 +15999,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-01.jpg",
       "papers/maths/img/P2-06-Logarithms-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q2c",
@@ -15493,7 +16029,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-01.jpg",
       "papers/maths/img/P2-06-Logarithms-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q3(i)",
@@ -15522,7 +16059,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-02.jpg",
       "papers/maths/img/P2-06-Logarithms-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q3(ii)",
@@ -15551,7 +16089,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-02.jpg",
       "papers/maths/img/P2-06-Logarithms-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q4a",
@@ -15580,7 +16119,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-02.jpg",
       "papers/maths/img/P2-06-Logarithms-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q4b",
@@ -15610,7 +16150,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-02.jpg",
       "papers/maths/img/P2-06-Logarithms-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q5(i)",
@@ -15640,7 +16181,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-03.jpg",
       "papers/maths/img/P2-06-Logarithms-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q5(ii)",
@@ -15669,7 +16211,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-03.jpg",
       "papers/maths/img/P2-06-Logarithms-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q6",
@@ -15700,7 +16243,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-03.jpg",
       "papers/maths/img/P2-06-Logarithms-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q7",
@@ -15731,7 +16275,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-04.jpg",
       "papers/maths/img/P2-06-Logarithms-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q8a",
@@ -15760,7 +16305,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-04.jpg",
       "papers/maths/img/P2-06-Logarithms-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q8b",
@@ -15791,7 +16337,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-04.jpg",
       "papers/maths/img/P2-06-Logarithms-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q9a",
@@ -15819,7 +16366,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-05.jpg",
       "papers/maths/img/P2-06-Logarithms-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q9b",
@@ -15848,7 +16396,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-05.jpg",
       "papers/maths/img/P2-06-Logarithms-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q9c",
@@ -15878,7 +16427,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-05.jpg",
       "papers/maths/img/P2-06-Logarithms-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q10(i)",
@@ -15906,7 +16456,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-06.jpg",
       "papers/maths/img/P2-06-Logarithms-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q10(ii)",
@@ -15934,7 +16485,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-06.jpg",
       "papers/maths/img/P2-06-Logarithms-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q10(iii)",
@@ -15963,7 +16515,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-06.jpg",
       "papers/maths/img/P2-06-Logarithms-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q11(i)",
@@ -15991,7 +16544,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-06.jpg",
       "papers/maths/img/P2-06-Logarithms-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q11(ii)",
@@ -16020,7 +16574,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-06.jpg",
       "papers/maths/img/P2-06-Logarithms-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q12a",
@@ -16049,7 +16604,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-07.jpg",
       "papers/maths/img/P2-06-Logarithms-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q12b",
@@ -16078,7 +16634,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-07.jpg",
       "papers/maths/img/P2-06-Logarithms-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q12c",
@@ -16107,7 +16664,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-07.jpg",
       "papers/maths/img/P2-06-Logarithms-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q12d",
@@ -16136,7 +16694,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-07.jpg",
       "papers/maths/img/P2-06-Logarithms-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q13(i)",
@@ -16165,7 +16724,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-08.jpg",
       "papers/maths/img/P2-06-Logarithms-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q13(ii)",
@@ -16196,7 +16756,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-08.jpg",
       "papers/maths/img/P2-06-Logarithms-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q14(i)",
@@ -16226,7 +16787,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-08.jpg",
       "papers/maths/img/P2-06-Logarithms-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q14(ii)a",
@@ -16255,7 +16817,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-08.jpg",
       "papers/maths/img/P2-06-Logarithms-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q14(ii)b",
@@ -16283,7 +16846,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-08.jpg",
       "papers/maths/img/P2-06-Logarithms-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q15",
@@ -16313,7 +16877,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-09.jpg",
       "papers/maths/img/P2-06-Logarithms-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q16a",
@@ -16342,7 +16907,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-09.jpg",
       "papers/maths/img/P2-06-Logarithms-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q16b",
@@ -16372,7 +16938,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-09.jpg",
       "papers/maths/img/P2-06-Logarithms-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q17a",
@@ -16400,7 +16967,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-10.jpg",
       "papers/maths/img/P2-06-Logarithms-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q17b",
@@ -16429,7 +16997,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-10.jpg",
       "papers/maths/img/P2-06-Logarithms-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q17c",
@@ -16458,7 +17027,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-10.jpg",
       "papers/maths/img/P2-06-Logarithms-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q17d",
@@ -16488,7 +17058,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-10.jpg",
       "papers/maths/img/P2-06-Logarithms-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q18(i)",
@@ -16517,7 +17088,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-11.jpg",
       "papers/maths/img/P2-06-Logarithms-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q18(ii)",
@@ -16547,7 +17119,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-11.jpg",
       "papers/maths/img/P2-06-Logarithms-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q19a",
@@ -16576,7 +17149,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-11.jpg",
       "papers/maths/img/P2-06-Logarithms-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q19b",
@@ -16604,7 +17178,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-11.jpg",
       "papers/maths/img/P2-06-Logarithms-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q19c",
@@ -16633,7 +17208,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-11.jpg",
       "papers/maths/img/P2-06-Logarithms-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q20a",
@@ -16662,7 +17238,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-12.jpg",
       "papers/maths/img/P2-06-Logarithms-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-06-Q20b",
@@ -16691,7 +17268,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-06-Logarithms-12.jpg",
       "papers/maths/img/P2-06-Logarithms-13.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -16729,7 +17307,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-01.jpg",
       "papers/maths/img/P2-07-Trigonometry-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q1(ii)",
@@ -16760,7 +17339,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-01.jpg",
       "papers/maths/img/P2-07-Trigonometry-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q2",
@@ -16791,7 +17371,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-01.jpg",
       "papers/maths/img/P2-07-Trigonometry-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q3a",
@@ -16820,7 +17401,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-02.jpg",
       "papers/maths/img/P2-07-Trigonometry-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q3b",
@@ -16849,7 +17431,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-02.jpg",
       "papers/maths/img/P2-07-Trigonometry-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q4(i)a",
@@ -16878,7 +17461,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-02.jpg",
       "papers/maths/img/P2-07-Trigonometry-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q4(i)b",
@@ -16907,7 +17491,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-02.jpg",
       "papers/maths/img/P2-07-Trigonometry-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q4(ii)a",
@@ -16936,7 +17521,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-02.jpg",
       "papers/maths/img/P2-07-Trigonometry-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q4(ii)b",
@@ -16965,7 +17551,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-02.jpg",
       "papers/maths/img/P2-07-Trigonometry-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q5(i)",
@@ -16993,7 +17580,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-03.jpg",
       "papers/maths/img/P2-07-Trigonometry-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q5(ii)a",
@@ -17021,7 +17609,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-03.jpg",
       "papers/maths/img/P2-07-Trigonometry-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q5(ii)b",
@@ -17050,7 +17639,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-03.jpg",
       "papers/maths/img/P2-07-Trigonometry-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q6a",
@@ -17079,7 +17669,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-04.jpg",
       "papers/maths/img/P2-07-Trigonometry-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q6b",
@@ -17109,7 +17700,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-04.jpg",
       "papers/maths/img/P2-07-Trigonometry-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q7a",
@@ -17137,7 +17729,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-04.jpg",
       "papers/maths/img/P2-07-Trigonometry-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q7b",
@@ -17167,7 +17760,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-04.jpg",
       "papers/maths/img/P2-07-Trigonometry-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q8(i)",
@@ -17195,7 +17789,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-05.jpg",
       "papers/maths/img/P2-07-Trigonometry-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q8(ii)",
@@ -17224,7 +17819,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-05.jpg",
       "papers/maths/img/P2-07-Trigonometry-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q9a",
@@ -17253,7 +17849,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-05.jpg",
       "papers/maths/img/P2-07-Trigonometry-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q9b",
@@ -17283,7 +17880,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-05.jpg",
       "papers/maths/img/P2-07-Trigonometry-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q10(i)",
@@ -17313,7 +17911,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-06.jpg",
       "papers/maths/img/P2-07-Trigonometry-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q10(ii)",
@@ -17343,7 +17942,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-06.jpg",
       "papers/maths/img/P2-07-Trigonometry-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q11a",
@@ -17371,7 +17971,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-07.jpg",
       "papers/maths/img/P2-07-Trigonometry-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q11b",
@@ -17400,7 +18001,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-07.jpg",
       "papers/maths/img/P2-07-Trigonometry-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q11c",
@@ -17428,7 +18030,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-07.jpg",
       "papers/maths/img/P2-07-Trigonometry-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q12(i)",
@@ -17457,7 +18060,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-07.jpg",
       "papers/maths/img/P2-07-Trigonometry-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q12(ii)",
@@ -17489,7 +18093,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-07.jpg",
       "papers/maths/img/P2-07-Trigonometry-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q13(i)",
@@ -17518,7 +18123,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-08.jpg",
       "papers/maths/img/P2-07-Trigonometry-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q13(ii)a",
@@ -17547,7 +18153,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-08.jpg",
       "papers/maths/img/P2-07-Trigonometry-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q13(ii)b",
@@ -17578,7 +18185,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-08.jpg",
       "papers/maths/img/P2-07-Trigonometry-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q14a",
@@ -17608,7 +18216,8 @@ window.BANK.maths = {
       "papers/maths/img/P2-07-Trigonometry-09.jpg",
       "papers/maths/img/P2-07-Trigonometry-10.jpg",
       "papers/maths/img/P2-07-Trigonometry-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q14b",
@@ -17638,7 +18247,8 @@ window.BANK.maths = {
       "papers/maths/img/P2-07-Trigonometry-09.jpg",
       "papers/maths/img/P2-07-Trigonometry-10.jpg",
       "papers/maths/img/P2-07-Trigonometry-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q15(i)",
@@ -17669,7 +18279,8 @@ window.BANK.maths = {
       "papers/maths/img/P2-07-Trigonometry-09.jpg",
       "papers/maths/img/P2-07-Trigonometry-10.jpg",
       "papers/maths/img/P2-07-Trigonometry-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q15(ii)a",
@@ -17697,7 +18308,8 @@ window.BANK.maths = {
       "papers/maths/img/P2-07-Trigonometry-09.jpg",
       "papers/maths/img/P2-07-Trigonometry-10.jpg",
       "papers/maths/img/P2-07-Trigonometry-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q15(ii)b",
@@ -17727,7 +18339,8 @@ window.BANK.maths = {
       "papers/maths/img/P2-07-Trigonometry-09.jpg",
       "papers/maths/img/P2-07-Trigonometry-10.jpg",
       "papers/maths/img/P2-07-Trigonometry-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q15(ii)c",
@@ -17757,7 +18370,8 @@ window.BANK.maths = {
       "papers/maths/img/P2-07-Trigonometry-09.jpg",
       "papers/maths/img/P2-07-Trigonometry-10.jpg",
       "papers/maths/img/P2-07-Trigonometry-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q16(i)",
@@ -17786,7 +18400,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-11.jpg",
       "papers/maths/img/P2-07-Trigonometry-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q16(ii)",
@@ -17817,7 +18432,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-11.jpg",
       "papers/maths/img/P2-07-Trigonometry-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q17a",
@@ -17846,7 +18462,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-11.jpg",
       "papers/maths/img/P2-07-Trigonometry-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q17b",
@@ -17876,7 +18493,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-07-Trigonometry-11.jpg",
       "papers/maths/img/P2-07-Trigonometry-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q18a",
@@ -17903,7 +18521,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P2-07-Trigonometry-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q18b",
@@ -17932,7 +18551,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P2-07-Trigonometry-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-07-Q18c",
@@ -17960,7 +18580,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P2-07-Trigonometry-12.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -17999,7 +18620,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-08-Differentiation-1.jpg",
       "papers/maths/img/P2-08-Differentiation-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q1b",
@@ -18030,7 +18652,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-08-Differentiation-1.jpg",
       "papers/maths/img/P2-08-Differentiation-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q1c",
@@ -18060,7 +18683,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-08-Differentiation-1.jpg",
       "papers/maths/img/P2-08-Differentiation-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q2a",
@@ -18091,7 +18715,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-08-Differentiation-1.jpg",
       "papers/maths/img/P2-08-Differentiation-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q2b",
@@ -18120,7 +18745,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-08-Differentiation-1.jpg",
       "papers/maths/img/P2-08-Differentiation-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q3a",
@@ -18150,7 +18776,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-08-Differentiation-2.jpg",
       "papers/maths/img/P2-08-Differentiation-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q3b",
@@ -18181,7 +18808,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-08-Differentiation-2.jpg",
       "papers/maths/img/P2-08-Differentiation-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q4a",
@@ -18211,7 +18839,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-08-Differentiation-2.jpg",
       "papers/maths/img/P2-08-Differentiation-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q4b",
@@ -18240,7 +18869,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-08-Differentiation-2.jpg",
       "papers/maths/img/P2-08-Differentiation-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q4c",
@@ -18271,7 +18901,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-08-Differentiation-2.jpg",
       "papers/maths/img/P2-08-Differentiation-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q5a",
@@ -18301,7 +18932,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-08-Differentiation-3.jpg",
       "papers/maths/img/P2-08-Differentiation-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q5b",
@@ -18330,7 +18962,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-08-Differentiation-3.jpg",
       "papers/maths/img/P2-08-Differentiation-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q5c",
@@ -18359,7 +18992,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-08-Differentiation-3.jpg",
       "papers/maths/img/P2-08-Differentiation-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q5d",
@@ -18388,7 +19022,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-08-Differentiation-3.jpg",
       "papers/maths/img/P2-08-Differentiation-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q5e",
@@ -18417,7 +19052,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-08-Differentiation-3.jpg",
       "papers/maths/img/P2-08-Differentiation-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q6a",
@@ -18448,7 +19084,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-08-Differentiation-4.jpg",
       "papers/maths/img/P2-08-Differentiation-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q6b",
@@ -18477,7 +19114,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-08-Differentiation-4.jpg",
       "papers/maths/img/P2-08-Differentiation-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q6c",
@@ -18507,7 +19145,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-08-Differentiation-4.jpg",
       "papers/maths/img/P2-08-Differentiation-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q7a",
@@ -18536,7 +19175,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-08-Differentiation-5.jpg",
       "papers/maths/img/P2-08-Differentiation-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q7b",
@@ -18564,7 +19204,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-08-Differentiation-5.jpg",
       "papers/maths/img/P2-08-Differentiation-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q8a",
@@ -18592,7 +19233,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P2-08-Differentiation-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-08-Q8b",
@@ -18621,7 +19263,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P2-08-Differentiation-6.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -18660,7 +19303,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-01.jpg",
       "papers/maths/img/P2-09-Integration-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q1b",
@@ -18691,7 +19335,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-01.jpg",
       "papers/maths/img/P2-09-Integration-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q1c(i)",
@@ -18722,7 +19367,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-01.jpg",
       "papers/maths/img/P2-09-Integration-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q1c(ii)",
@@ -18754,7 +19400,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-01.jpg",
       "papers/maths/img/P2-09-Integration-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q2a",
@@ -18786,7 +19433,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-02.jpg",
       "papers/maths/img/P2-09-Integration-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q2b",
@@ -18818,7 +19466,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-02.jpg",
       "papers/maths/img/P2-09-Integration-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q2c",
@@ -18851,7 +19500,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-02.jpg",
       "papers/maths/img/P2-09-Integration-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q3(i)",
@@ -18884,7 +19534,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-03.jpg",
       "papers/maths/img/P2-09-Integration-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q3(ii)",
@@ -18916,7 +19567,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-03.jpg",
       "papers/maths/img/P2-09-Integration-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q4",
@@ -18949,7 +19601,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-04.jpg",
       "papers/maths/img/P2-09-Integration-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q5a",
@@ -18981,7 +19634,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-05.jpg",
       "papers/maths/img/P2-09-Integration-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q5b",
@@ -19015,7 +19669,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-05.jpg",
       "papers/maths/img/P2-09-Integration-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q6a",
@@ -19047,7 +19702,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-06.jpg",
       "papers/maths/img/P2-09-Integration-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q6b",
@@ -19078,7 +19734,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-06.jpg",
       "papers/maths/img/P2-09-Integration-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q6c",
@@ -19109,7 +19766,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-06.jpg",
       "papers/maths/img/P2-09-Integration-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q6d",
@@ -19141,7 +19799,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-06.jpg",
       "papers/maths/img/P2-09-Integration-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q7a",
@@ -19172,7 +19831,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-07.jpg",
       "papers/maths/img/P2-09-Integration-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q7b",
@@ -19203,7 +19863,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-07.jpg",
       "papers/maths/img/P2-09-Integration-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q7c",
@@ -19236,7 +19897,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-07.jpg",
       "papers/maths/img/P2-09-Integration-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q8a",
@@ -19268,7 +19930,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-08.jpg",
       "papers/maths/img/P2-09-Integration-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q8b",
@@ -19301,7 +19964,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-08.jpg",
       "papers/maths/img/P2-09-Integration-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q9a",
@@ -19332,7 +19996,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-09.jpg",
       "papers/maths/img/P2-09-Integration-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q9b",
@@ -19364,7 +20029,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-09.jpg",
       "papers/maths/img/P2-09-Integration-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-09-Q9c",
@@ -19397,7 +20063,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-09-Integration-09.jpg",
       "papers/maths/img/P2-09-Integration-10.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -19434,7 +20101,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-01.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q1b",
@@ -19464,7 +20132,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-01.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q1c",
@@ -19494,7 +20163,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-01.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q2a",
@@ -19524,7 +20194,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-02.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q2b",
@@ -19555,7 +20226,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-02.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q3a",
@@ -19584,7 +20256,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-03.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q3b",
@@ -19614,7 +20287,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-03.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q3c",
@@ -19642,7 +20316,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-03.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q4a",
@@ -19671,7 +20346,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-03.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q4b",
@@ -19700,7 +20376,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-03.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q5a",
@@ -19730,7 +20407,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-04.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q5b",
@@ -19760,7 +20438,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-04.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q6a",
@@ -19790,7 +20469,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-05.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q6b",
@@ -19820,7 +20500,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-05.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q7a",
@@ -19849,7 +20530,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-06.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q7b",
@@ -19879,7 +20561,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-06.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q7c",
@@ -19908,7 +20591,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-06.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q8",
@@ -19938,7 +20622,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-07.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q9a",
@@ -19967,7 +20652,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-08.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q9b",
@@ -19995,7 +20681,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-08.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q9c",
@@ -20024,7 +20711,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-08.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q10a",
@@ -20053,7 +20741,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-09.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q10b",
@@ -20083,7 +20772,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-09.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q10c",
@@ -20113,12 +20803,13 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-09.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-10-Q11a",
      "no": "Q11(a)",
-     "marks": 0,
+     "marks": 3,
      "topic": "Trapezium Rule Estimate",
      "keywords": [
       "trapezium rule",
@@ -20130,13 +20821,22 @@ window.BANK.maths = {
       "integral",
       "scan"
      ],
-     "question": "Figure 1 shows part of the curve y = f(x). A table gives y at x = -1, -0.5, 0, 0.5, 1 as 2.287, 4.470, 6.719, 7.291, 2.834. Using the trapezium rule with all the values of y in the table, part (a) asks for an estimate of an integral, but the integral is not shown on the scanned page.",
-     "status": "pending",
-     "answer": "Missing: the integral expression for part (a) and the rest of Q11 (any part (b) and the total marks) are cut off after 'obtain an estimate for' in the scan. Marks not shown.",
-     "steps": [],
+     "question": "Figure 1 shows part of the curve y = f(x). A table gives y at x = -1, -0.5, 0, 0.5, 1 as 2.287, 4.470, 6.719, 7.291, 2.834 (3 d.p.). Using the trapezium rule with all the values of y in the table, obtain an estimate for the integral of f(x) dx from -1 to 1, giving your answer to 2 decimal places.",
+     "status": "ready",
+     "answer": "10.52 (2 d.p.)",
+     "steps": [
+      "Five y-values give 4 strips of width h = 0.5.",
+      "Trapezium rule: integral ~ (h/2)[y0 + y4 + 2(y1 + y2 + y3)].",
+      "= 0.25 x [2.287 + 2.834 + 2(4.470 + 6.719 + 7.291)].",
+      "= 0.25 x [5.121 + 36.960] = 0.25 x 42.081 = 10.52025.",
+      "Estimate = 10.52 (2 d.p.)."
+     ],
      "images": [
       "papers/maths/img/P2-10-Trapezium-Rule-10.jpg",
       "papers/maths/img/P2-10-Trapezium-Rule-11.jpg"
+     ],
+     "figures": [
+      "papers/maths/fig/10-Trapezium-Rule-Q11.jpg"
      ]
     }
    ]
@@ -20175,7 +20875,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-1.jpg",
       "papers/maths/img/P2-11-Proof-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q2",
@@ -20206,7 +20907,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-1.jpg",
       "papers/maths/img/P2-11-Proof-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q3(i)",
@@ -20236,7 +20938,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-1.jpg",
       "papers/maths/img/P2-11-Proof-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q3(ii)",
@@ -20265,7 +20968,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-1.jpg",
       "papers/maths/img/P2-11-Proof-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q4(i)",
@@ -20294,7 +20998,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-2.jpg",
       "papers/maths/img/P2-11-Proof-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q4(ii)",
@@ -20323,7 +21028,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-2.jpg",
       "papers/maths/img/P2-11-Proof-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q5(i)",
@@ -20354,7 +21060,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-2.jpg",
       "papers/maths/img/P2-11-Proof-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q5(ii)",
@@ -20384,7 +21091,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-2.jpg",
       "papers/maths/img/P2-11-Proof-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q6(i)",
@@ -20413,7 +21121,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-3.jpg",
       "papers/maths/img/P2-11-Proof-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q6(ii)",
@@ -20443,7 +21152,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-3.jpg",
       "papers/maths/img/P2-11-Proof-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q7a",
@@ -20473,7 +21183,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-3.jpg",
       "papers/maths/img/P2-11-Proof-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q7b",
@@ -20502,7 +21213,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-3.jpg",
       "papers/maths/img/P2-11-Proof-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q7c",
@@ -20532,7 +21244,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-3.jpg",
       "papers/maths/img/P2-11-Proof-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q8",
@@ -20563,7 +21276,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-4.jpg",
       "papers/maths/img/P2-11-Proof-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q9",
@@ -20594,7 +21308,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-5.jpg",
       "papers/maths/img/P2-11-Proof-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q10(i)",
@@ -20624,7 +21339,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-6.jpg",
       "papers/maths/img/P2-11-Proof-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q10(ii)",
@@ -20655,7 +21371,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-6.jpg",
       "papers/maths/img/P2-11-Proof-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q11(i)",
@@ -20684,7 +21401,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-7.jpg",
       "papers/maths/img/P2-11-Proof-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q11(ii)",
@@ -20714,7 +21432,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-7.jpg",
       "papers/maths/img/P2-11-Proof-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q12a",
@@ -20743,7 +21462,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-7.jpg",
       "papers/maths/img/P2-11-Proof-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q12b",
@@ -20773,7 +21493,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-7.jpg",
       "papers/maths/img/P2-11-Proof-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q13a",
@@ -20802,7 +21523,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-8.jpg",
       "papers/maths/img/P2-11-Proof-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q13b",
@@ -20831,7 +21553,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-8.jpg",
       "papers/maths/img/P2-11-Proof-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q13c",
@@ -20861,7 +21584,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-8.jpg",
       "papers/maths/img/P2-11-Proof-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q14(i)",
@@ -20890,7 +21614,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-8.jpg",
       "papers/maths/img/P2-11-Proof-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q14(ii)(a)",
@@ -20917,7 +21642,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-8.jpg",
       "papers/maths/img/P2-11-Proof-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q14(ii)(b)",
@@ -20946,7 +21672,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P2-11-Proof-8.jpg",
       "papers/maths/img/P2-11-Proof-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q15a",
@@ -20974,7 +21701,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P2-11-Proof-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P2-11-Q15b",
@@ -21002,7 +21730,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P2-11-Proof-9.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -21038,7 +21767,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-01.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q1b",
@@ -21065,7 +21795,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-01.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q1c",
@@ -21095,7 +21826,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-01.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q2a",
@@ -21122,7 +21854,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-01-Function-Modulus-Graphs-02.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-03.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q2b",
@@ -21149,7 +21882,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-01-Function-Modulus-Graphs-02.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-03.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q2c",
@@ -21176,7 +21910,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-01-Function-Modulus-Graphs-02.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-03.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q3a",
@@ -21206,7 +21941,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-01-Function-Modulus-Graphs-02.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-03.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q3b",
@@ -21235,7 +21971,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-01-Function-Modulus-Graphs-02.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-03.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q3c",
@@ -21266,7 +22003,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-01-Function-Modulus-Graphs-02.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-03.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q4a",
@@ -21295,7 +22033,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-04.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q4b",
@@ -21324,7 +22063,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-04.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q5a",
@@ -21350,7 +22090,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-05.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q5b",
@@ -21378,7 +22119,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-05.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q5c",
@@ -21408,7 +22150,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-05.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q6(i)",
@@ -21437,7 +22180,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-06.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q6(ii)",
@@ -21466,7 +22210,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-06.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q7a",
@@ -21495,7 +22240,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-07.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q7b",
@@ -21523,7 +22269,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-07.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q7c",
@@ -21552,7 +22299,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-07.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q8a",
@@ -21579,7 +22327,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-08.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q8b",
@@ -21606,7 +22355,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-08.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q8c",
@@ -21634,7 +22384,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-08.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q8d",
@@ -21663,7 +22414,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-08.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q9a",
@@ -21691,7 +22443,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-01-Function-Modulus-Graphs-09.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-10.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q9b",
@@ -21719,7 +22472,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-01-Function-Modulus-Graphs-09.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-10.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q9c",
@@ -21749,7 +22503,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-01-Function-Modulus-Graphs-09.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-10.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q10a",
@@ -21777,7 +22532,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-11.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q10b",
@@ -21806,7 +22562,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-11.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q11a",
@@ -21832,7 +22589,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-11.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q11b",
@@ -21860,7 +22618,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-11.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q11c",
@@ -21889,7 +22648,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-11.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q12a",
@@ -21915,7 +22675,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-12.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q12b",
@@ -21942,7 +22703,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-12.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q12c",
@@ -21971,7 +22733,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-12.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q13a",
@@ -21999,7 +22762,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-13.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q13b",
@@ -22028,7 +22792,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-13.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q14a",
@@ -22054,7 +22819,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-14.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q14b",
@@ -22082,7 +22848,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-14.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q14c",
@@ -22111,7 +22878,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-14.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q15a",
@@ -22137,7 +22905,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-15.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q15b",
@@ -22164,7 +22933,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-15.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q15c",
@@ -22192,7 +22962,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-15.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q15d",
@@ -22219,7 +22990,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-15.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q16a",
@@ -22245,7 +23017,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-16.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q16b",
@@ -22272,7 +23045,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-16.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q16c",
@@ -22301,7 +23075,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-16.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q16d",
@@ -22329,7 +23104,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-01-Function-Modulus-Graphs-16.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-17.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q17a",
@@ -22356,7 +23132,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-01-Function-Modulus-Graphs-17.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-18.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q17b",
@@ -22384,7 +23161,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-01-Function-Modulus-Graphs-17.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-18.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q17c",
@@ -22414,7 +23192,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-01-Function-Modulus-Graphs-17.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-18.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-19.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-01-Q17d",
@@ -22443,7 +23222,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-01-Function-Modulus-Graphs-17.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-18.jpg",
       "papers/maths/img/P3-01-Function-Modulus-Graphs-19.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -22477,7 +23257,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-1.jpg",
       "papers/maths/img/P3-02-Rational-Functions-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q1b",
@@ -22505,7 +23286,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-1.jpg",
       "papers/maths/img/P3-02-Rational-Functions-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q1c",
@@ -22533,7 +23315,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-1.jpg",
       "papers/maths/img/P3-02-Rational-Functions-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q2a",
@@ -22562,7 +23345,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-1.jpg",
       "papers/maths/img/P3-02-Rational-Functions-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q2b",
@@ -22590,7 +23374,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-1.jpg",
       "papers/maths/img/P3-02-Rational-Functions-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q2c",
@@ -22617,7 +23402,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-1.jpg",
       "papers/maths/img/P3-02-Rational-Functions-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q3a",
@@ -22644,7 +23430,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-2.jpg",
       "papers/maths/img/P3-02-Rational-Functions-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q3b",
@@ -22671,7 +23458,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-2.jpg",
       "papers/maths/img/P3-02-Rational-Functions-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q3c",
@@ -22698,7 +23486,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-2.jpg",
       "papers/maths/img/P3-02-Rational-Functions-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q4a",
@@ -22725,7 +23514,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-3.jpg",
       "papers/maths/img/P3-02-Rational-Functions-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q4b",
@@ -22752,7 +23542,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-3.jpg",
       "papers/maths/img/P3-02-Rational-Functions-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q4c",
@@ -22781,7 +23572,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-3.jpg",
       "papers/maths/img/P3-02-Rational-Functions-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q5a",
@@ -22807,7 +23599,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-3.jpg",
       "papers/maths/img/P3-02-Rational-Functions-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q5b",
@@ -22833,7 +23626,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-3.jpg",
       "papers/maths/img/P3-02-Rational-Functions-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q5c",
@@ -22860,7 +23654,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-3.jpg",
       "papers/maths/img/P3-02-Rational-Functions-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q6",
@@ -22888,7 +23683,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-4.jpg",
       "papers/maths/img/P3-02-Rational-Functions-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q7a",
@@ -22916,7 +23712,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-4.jpg",
       "papers/maths/img/P3-02-Rational-Functions-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q7b",
@@ -22942,7 +23739,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-4.jpg",
       "papers/maths/img/P3-02-Rational-Functions-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q7c",
@@ -22969,7 +23767,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-4.jpg",
       "papers/maths/img/P3-02-Rational-Functions-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q7d",
@@ -22996,7 +23795,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-4.jpg",
       "papers/maths/img/P3-02-Rational-Functions-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q8a",
@@ -23023,7 +23823,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-5.jpg",
       "papers/maths/img/P3-02-Rational-Functions-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q8b",
@@ -23050,7 +23851,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-5.jpg",
       "papers/maths/img/P3-02-Rational-Functions-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q8c",
@@ -23079,7 +23881,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-5.jpg",
       "papers/maths/img/P3-02-Rational-Functions-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q9a",
@@ -23105,7 +23908,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-6.jpg",
       "papers/maths/img/P3-02-Rational-Functions-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q9b",
@@ -23131,7 +23935,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-6.jpg",
       "papers/maths/img/P3-02-Rational-Functions-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q9c",
@@ -23159,7 +23964,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-6.jpg",
       "papers/maths/img/P3-02-Rational-Functions-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q9d",
@@ -23186,7 +23992,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-6.jpg",
       "papers/maths/img/P3-02-Rational-Functions-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q9e",
@@ -23215,7 +24022,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-6.jpg",
       "papers/maths/img/P3-02-Rational-Functions-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q10a",
@@ -23240,7 +24048,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q10b",
@@ -23266,7 +24075,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-02-Q10c",
@@ -23292,7 +24102,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P3-02-Rational-Functions-7.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -23328,7 +24139,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-03-Logarithms-01.jpg",
       "papers/maths/img/P3-03-Logarithms-02.jpg",
       "papers/maths/img/P3-03-Logarithms-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q1b",
@@ -23357,7 +24169,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-03-Logarithms-01.jpg",
       "papers/maths/img/P3-03-Logarithms-02.jpg",
       "papers/maths/img/P3-03-Logarithms-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q2a",
@@ -23386,7 +24199,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-03-Logarithms-01.jpg",
       "papers/maths/img/P3-03-Logarithms-02.jpg",
       "papers/maths/img/P3-03-Logarithms-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q2b",
@@ -23417,7 +24231,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-03-Logarithms-01.jpg",
       "papers/maths/img/P3-03-Logarithms-02.jpg",
       "papers/maths/img/P3-03-Logarithms-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q2c",
@@ -23448,7 +24263,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-03-Logarithms-01.jpg",
       "papers/maths/img/P3-03-Logarithms-02.jpg",
       "papers/maths/img/P3-03-Logarithms-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q3a",
@@ -23475,7 +24291,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-03.jpg",
       "papers/maths/img/P3-03-Logarithms-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q3b",
@@ -23502,7 +24319,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-03.jpg",
       "papers/maths/img/P3-03-Logarithms-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q3c",
@@ -23530,7 +24348,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-03.jpg",
       "papers/maths/img/P3-03-Logarithms-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q4a",
@@ -23557,7 +24376,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-04.jpg",
       "papers/maths/img/P3-03-Logarithms-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q4b",
@@ -23585,7 +24405,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-04.jpg",
       "papers/maths/img/P3-03-Logarithms-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q4c",
@@ -23613,7 +24434,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-04.jpg",
       "papers/maths/img/P3-03-Logarithms-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q4d",
@@ -23641,7 +24463,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-04.jpg",
       "papers/maths/img/P3-03-Logarithms-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q5a",
@@ -23670,7 +24493,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-04.jpg",
       "papers/maths/img/P3-03-Logarithms-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q5b",
@@ -23698,7 +24522,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-04.jpg",
       "papers/maths/img/P3-03-Logarithms-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q5c",
@@ -23725,7 +24550,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-04.jpg",
       "papers/maths/img/P3-03-Logarithms-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q6a",
@@ -23752,7 +24578,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-05.jpg",
       "papers/maths/img/P3-03-Logarithms-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q6b",
@@ -23780,7 +24607,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-05.jpg",
       "papers/maths/img/P3-03-Logarithms-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q7a",
@@ -23808,7 +24636,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-03-Logarithms-06.jpg",
       "papers/maths/img/P3-03-Logarithms-07.jpg",
       "papers/maths/img/P3-03-Logarithms-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q7b",
@@ -23836,7 +24665,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-03-Logarithms-06.jpg",
       "papers/maths/img/P3-03-Logarithms-07.jpg",
       "papers/maths/img/P3-03-Logarithms-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q7c",
@@ -23866,7 +24696,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-03-Logarithms-06.jpg",
       "papers/maths/img/P3-03-Logarithms-07.jpg",
       "papers/maths/img/P3-03-Logarithms-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q8a",
@@ -23895,7 +24726,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-08.jpg",
       "papers/maths/img/P3-03-Logarithms-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q8b",
@@ -23921,7 +24753,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-08.jpg",
       "papers/maths/img/P3-03-Logarithms-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q8c",
@@ -23949,7 +24782,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-08.jpg",
       "papers/maths/img/P3-03-Logarithms-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q9a",
@@ -23975,7 +24809,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-08.jpg",
       "papers/maths/img/P3-03-Logarithms-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q9b",
@@ -24003,7 +24838,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-08.jpg",
       "papers/maths/img/P3-03-Logarithms-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q9c",
@@ -24032,7 +24868,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-08.jpg",
       "papers/maths/img/P3-03-Logarithms-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q10a",
@@ -24058,7 +24895,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-09.jpg",
       "papers/maths/img/P3-03-Logarithms-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q10b",
@@ -24085,7 +24923,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-09.jpg",
       "papers/maths/img/P3-03-Logarithms-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q10c",
@@ -24113,7 +24952,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-09.jpg",
       "papers/maths/img/P3-03-Logarithms-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q10d",
@@ -24141,7 +24981,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-09.jpg",
       "papers/maths/img/P3-03-Logarithms-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q10e",
@@ -24170,7 +25011,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-09.jpg",
       "papers/maths/img/P3-03-Logarithms-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q11a",
@@ -24197,7 +25039,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-10.jpg",
       "papers/maths/img/P3-03-Logarithms-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q11b",
@@ -24224,7 +25067,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-10.jpg",
       "papers/maths/img/P3-03-Logarithms-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q11c",
@@ -24253,7 +25097,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-10.jpg",
       "papers/maths/img/P3-03-Logarithms-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q12a",
@@ -24281,7 +25126,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-11.jpg",
       "papers/maths/img/P3-03-Logarithms-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q12b",
@@ -24307,7 +25153,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-11.jpg",
       "papers/maths/img/P3-03-Logarithms-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q13a",
@@ -24334,7 +25181,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-12.jpg",
       "papers/maths/img/P3-03-Logarithms-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q13b",
@@ -24362,7 +25210,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-12.jpg",
       "papers/maths/img/P3-03-Logarithms-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q13c",
@@ -24389,7 +25238,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-12.jpg",
       "papers/maths/img/P3-03-Logarithms-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q14a",
@@ -24417,7 +25267,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-13.jpg",
       "papers/maths/img/P3-03-Logarithms-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q14b",
@@ -24445,7 +25296,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-13.jpg",
       "papers/maths/img/P3-03-Logarithms-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q14c",
@@ -24474,7 +25326,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-13.jpg",
       "papers/maths/img/P3-03-Logarithms-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q15a",
@@ -24501,7 +25354,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-14.jpg",
       "papers/maths/img/P3-03-Logarithms-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q15b",
@@ -24528,7 +25382,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-14.jpg",
       "papers/maths/img/P3-03-Logarithms-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q16a",
@@ -24555,7 +25410,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-14.jpg",
       "papers/maths/img/P3-03-Logarithms-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q16b",
@@ -24581,7 +25437,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-14.jpg",
       "papers/maths/img/P3-03-Logarithms-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q16c",
@@ -24608,7 +25465,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-14.jpg",
       "papers/maths/img/P3-03-Logarithms-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q17a",
@@ -24634,7 +25492,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-15.jpg",
       "papers/maths/img/P3-03-Logarithms-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q17b",
@@ -24662,7 +25521,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-15.jpg",
       "papers/maths/img/P3-03-Logarithms-16.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-03-Q17c",
@@ -24690,7 +25550,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-03-Logarithms-15.jpg",
       "papers/maths/img/P3-03-Logarithms-16.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -24727,7 +25588,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-01.jpg",
       "papers/maths/img/P3-04-Trigonometry-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q1b",
@@ -24756,7 +25618,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-01.jpg",
       "papers/maths/img/P3-04-Trigonometry-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q2(i)",
@@ -24787,7 +25650,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-01.jpg",
       "papers/maths/img/P3-04-Trigonometry-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q2(ii)",
@@ -24816,7 +25680,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-01.jpg",
       "papers/maths/img/P3-04-Trigonometry-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q3a",
@@ -24846,7 +25711,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-02.jpg",
       "papers/maths/img/P3-04-Trigonometry-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q3b",
@@ -24877,7 +25743,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-02.jpg",
       "papers/maths/img/P3-04-Trigonometry-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q4a",
@@ -24906,7 +25773,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-02.jpg",
       "papers/maths/img/P3-04-Trigonometry-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q4b",
@@ -24935,7 +25803,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-02.jpg",
       "papers/maths/img/P3-04-Trigonometry-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q4c",
@@ -24965,7 +25834,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-02.jpg",
       "papers/maths/img/P3-04-Trigonometry-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q5a",
@@ -24994,7 +25864,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-03.jpg",
       "papers/maths/img/P3-04-Trigonometry-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q5b",
@@ -25024,7 +25895,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-03.jpg",
       "papers/maths/img/P3-04-Trigonometry-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q6a",
@@ -25053,7 +25925,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-04.jpg",
       "papers/maths/img/P3-04-Trigonometry-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q6b",
@@ -25084,7 +25957,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-04.jpg",
       "papers/maths/img/P3-04-Trigonometry-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q6c",
@@ -25114,7 +25988,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-04.jpg",
       "papers/maths/img/P3-04-Trigonometry-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q7a",
@@ -25143,7 +26018,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-05.jpg",
       "papers/maths/img/P3-04-Trigonometry-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q7b",
@@ -25174,7 +26050,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-05.jpg",
       "papers/maths/img/P3-04-Trigonometry-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q8a",
@@ -25204,7 +26081,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-05.jpg",
       "papers/maths/img/P3-04-Trigonometry-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q8b",
@@ -25234,7 +26112,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-05.jpg",
       "papers/maths/img/P3-04-Trigonometry-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q9a",
@@ -25263,7 +26142,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-06.jpg",
       "papers/maths/img/P3-04-Trigonometry-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q9b",
@@ -25294,7 +26174,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-06.jpg",
       "papers/maths/img/P3-04-Trigonometry-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q9c",
@@ -25323,7 +26204,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-06.jpg",
       "papers/maths/img/P3-04-Trigonometry-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q10a",
@@ -25352,7 +26234,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-06.jpg",
       "papers/maths/img/P3-04-Trigonometry-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q10b",
@@ -25383,7 +26266,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-06.jpg",
       "papers/maths/img/P3-04-Trigonometry-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q11a",
@@ -25412,7 +26296,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-07.jpg",
       "papers/maths/img/P3-04-Trigonometry-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q11b",
@@ -25443,7 +26328,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-07.jpg",
       "papers/maths/img/P3-04-Trigonometry-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q12",
@@ -25473,7 +26359,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-08.jpg",
       "papers/maths/img/P3-04-Trigonometry-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q13a",
@@ -25502,7 +26389,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-08.jpg",
       "papers/maths/img/P3-04-Trigonometry-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q13b",
@@ -25532,7 +26420,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-08.jpg",
       "papers/maths/img/P3-04-Trigonometry-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q14a",
@@ -25561,7 +26450,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-09.jpg",
       "papers/maths/img/P3-04-Trigonometry-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q14b",
@@ -25591,7 +26481,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-09.jpg",
       "papers/maths/img/P3-04-Trigonometry-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q15a",
@@ -25620,7 +26511,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-09.jpg",
       "papers/maths/img/P3-04-Trigonometry-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q15b",
@@ -25650,7 +26542,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-09.jpg",
       "papers/maths/img/P3-04-Trigonometry-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q16(i)",
@@ -25679,7 +26572,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-10.jpg",
       "papers/maths/img/P3-04-Trigonometry-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q16(ii)",
@@ -25709,7 +26603,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-10.jpg",
       "papers/maths/img/P3-04-Trigonometry-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q17a",
@@ -25738,7 +26633,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-10.jpg",
       "papers/maths/img/P3-04-Trigonometry-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q17b",
@@ -25768,7 +26664,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-10.jpg",
       "papers/maths/img/P3-04-Trigonometry-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q18a",
@@ -25797,7 +26694,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-11.jpg",
       "papers/maths/img/P3-04-Trigonometry-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q18b",
@@ -25828,7 +26726,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-11.jpg",
       "papers/maths/img/P3-04-Trigonometry-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q19a",
@@ -25857,7 +26756,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-12.jpg",
       "papers/maths/img/P3-04-Trigonometry-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q19b",
@@ -25887,7 +26787,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-12.jpg",
       "papers/maths/img/P3-04-Trigonometry-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q19c",
@@ -25915,7 +26816,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-12.jpg",
       "papers/maths/img/P3-04-Trigonometry-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q19d",
@@ -25944,7 +26846,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-12.jpg",
       "papers/maths/img/P3-04-Trigonometry-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q20a",
@@ -25973,7 +26876,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-13.jpg",
       "papers/maths/img/P3-04-Trigonometry-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q20b",
@@ -26004,7 +26908,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-13.jpg",
       "papers/maths/img/P3-04-Trigonometry-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q21a",
@@ -26034,7 +26939,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-13.jpg",
       "papers/maths/img/P3-04-Trigonometry-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q21b",
@@ -26064,7 +26970,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-13.jpg",
       "papers/maths/img/P3-04-Trigonometry-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q22a",
@@ -26093,7 +27000,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-14.jpg",
       "papers/maths/img/P3-04-Trigonometry-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q22b",
@@ -26123,7 +27031,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-14.jpg",
       "papers/maths/img/P3-04-Trigonometry-15.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-04-Q22c",
@@ -26153,7 +27062,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-04-Trigonometry-14.jpg",
       "papers/maths/img/P3-04-Trigonometry-15.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -26190,7 +27100,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-01.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q1b",
@@ -26219,7 +27130,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-01.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q1c",
@@ -26248,7 +27160,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-01.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q1d",
@@ -26278,7 +27191,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-01.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q1e",
@@ -26307,7 +27221,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-01.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q2a",
@@ -26336,7 +27251,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-02.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q2b",
@@ -26366,7 +27282,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-02.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q2c",
@@ -26396,7 +27313,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-02.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q3a",
@@ -26425,7 +27343,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-03.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q3b",
@@ -26455,7 +27374,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-03.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q3c",
@@ -26484,7 +27404,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-03.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q4a",
@@ -26513,7 +27434,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-04.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q4b",
@@ -26543,7 +27465,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-04.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q5a",
@@ -26572,7 +27495,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-05.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q5b",
@@ -26601,7 +27525,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-05.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q5c",
@@ -26630,7 +27555,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-05.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q6a",
@@ -26659,7 +27585,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-05.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q6b",
@@ -26689,7 +27616,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-05.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q7a",
@@ -26718,7 +27646,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-06.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q7b",
@@ -26747,7 +27676,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-06.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q7c",
@@ -26776,7 +27706,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-06.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q7d",
@@ -26805,7 +27736,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-06.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q8a",
@@ -26835,7 +27767,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-07.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q8b",
@@ -26864,7 +27797,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-07.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q8c",
@@ -26894,7 +27828,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-07.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q9a",
@@ -26923,7 +27858,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-08.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q9b",
@@ -26953,7 +27889,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-08.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q9c",
@@ -26983,7 +27920,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-05-Numerical-Methods-08.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q10a",
@@ -27012,7 +27950,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-05-Numerical-Methods-09.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-10.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q10b",
@@ -27042,7 +27981,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-05-Numerical-Methods-09.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-10.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q10c",
@@ -27072,7 +28012,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-05-Numerical-Methods-09.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-10.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q10d",
@@ -27102,7 +28043,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-05-Numerical-Methods-09.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-10.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q11a",
@@ -27132,7 +28074,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-05-Numerical-Methods-11.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-12.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q11b",
@@ -27162,7 +28105,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-05-Numerical-Methods-11.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-12.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q12a",
@@ -27192,7 +28136,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-05-Numerical-Methods-11.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-12.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q12b",
@@ -27222,7 +28167,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-05-Numerical-Methods-11.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-12.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-05-Q12c",
@@ -27253,7 +28199,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-05-Numerical-Methods-11.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-12.jpg",
       "papers/maths/img/P3-05-Numerical-Methods-13.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -27294,7 +28241,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-06-Differentiation-Basic-1.jpg",
       "papers/maths/img/P3-06-Differentiation-Basic-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-06-Q2a",
@@ -27321,7 +28269,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-06-Differentiation-Basic-1.jpg",
       "papers/maths/img/P3-06-Differentiation-Basic-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-06-Q2b",
@@ -27352,7 +28301,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-06-Differentiation-Basic-1.jpg",
       "papers/maths/img/P3-06-Differentiation-Basic-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-06-Q3a",
@@ -27383,7 +28333,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-06-Differentiation-Basic-2.jpg",
       "papers/maths/img/P3-06-Differentiation-Basic-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-06-Q3b",
@@ -27413,7 +28364,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-06-Differentiation-Basic-2.jpg",
       "papers/maths/img/P3-06-Differentiation-Basic-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-06-Q4a",
@@ -27442,7 +28394,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-06-Differentiation-Basic-2.jpg",
       "papers/maths/img/P3-06-Differentiation-Basic-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-06-Q4b",
@@ -27472,7 +28425,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-06-Differentiation-Basic-2.jpg",
       "papers/maths/img/P3-06-Differentiation-Basic-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-06-Q4c",
@@ -27501,7 +28455,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-06-Differentiation-Basic-2.jpg",
       "papers/maths/img/P3-06-Differentiation-Basic-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-06-Q5a",
@@ -27529,7 +28484,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-06-Differentiation-Basic-3.jpg",
       "papers/maths/img/P3-06-Differentiation-Basic-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-06-Q5b",
@@ -27558,7 +28514,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-06-Differentiation-Basic-3.jpg",
       "papers/maths/img/P3-06-Differentiation-Basic-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-06-Q5c",
@@ -27589,7 +28546,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-06-Differentiation-Basic-3.jpg",
       "papers/maths/img/P3-06-Differentiation-Basic-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-06-Q6a",
@@ -27620,7 +28578,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-06-Differentiation-Basic-4.jpg",
       "papers/maths/img/P3-06-Differentiation-Basic-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-06-Q6b",
@@ -27650,7 +28609,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-06-Differentiation-Basic-4.jpg",
       "papers/maths/img/P3-06-Differentiation-Basic-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-06-Q7a",
@@ -27681,7 +28641,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-06-Differentiation-Basic-5.jpg",
       "papers/maths/img/P3-06-Differentiation-Basic-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-06-Q7b",
@@ -27708,7 +28669,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-06-Differentiation-Basic-5.jpg",
       "papers/maths/img/P3-06-Differentiation-Basic-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-06-Q7c",
@@ -27736,7 +28698,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-06-Differentiation-Basic-5.jpg",
       "papers/maths/img/P3-06-Differentiation-Basic-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-06-Q7d",
@@ -27766,7 +28729,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-06-Differentiation-Basic-5.jpg",
       "papers/maths/img/P3-06-Differentiation-Basic-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-06-Q8a",
@@ -27796,7 +28760,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-06-Differentiation-Basic-6.jpg",
       "papers/maths/img/P3-06-Differentiation-Basic-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-06-Q8b",
@@ -27826,7 +28791,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-06-Differentiation-Basic-6.jpg",
       "papers/maths/img/P3-06-Differentiation-Basic-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-06-Q8c",
@@ -27857,7 +28823,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-06-Differentiation-Basic-6.jpg",
       "papers/maths/img/P3-06-Differentiation-Basic-7.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -27894,7 +28861,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-01.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q1b",
@@ -27925,7 +28893,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-01.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q2",
@@ -27955,7 +28924,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-02.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q3a",
@@ -27985,7 +28955,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-02.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q3b",
@@ -28014,7 +28985,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-02.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q3c",
@@ -28042,7 +29014,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-02.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q4a",
@@ -28069,7 +29042,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-07-Differentiation-Logs-03.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-04.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q4b",
@@ -28098,7 +29072,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-07-Differentiation-Logs-03.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-04.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q5a",
@@ -28130,7 +29105,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-07-Differentiation-Logs-03.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-04.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q5b",
@@ -28162,7 +29138,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-07-Differentiation-Logs-03.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-04.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q5c",
@@ -28193,7 +29170,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-07-Differentiation-Logs-03.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-04.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q6a",
@@ -28222,7 +29200,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-05.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q6b",
@@ -28253,7 +29232,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-05.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q6c",
@@ -28284,7 +29264,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-05.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q7a",
@@ -28314,7 +29295,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-06.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q7b",
@@ -28343,7 +29325,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-06.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q7c",
@@ -28371,7 +29354,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-06.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q8a",
@@ -28398,7 +29382,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-06.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q8b",
@@ -28427,7 +29412,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-06.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q8c",
@@ -28455,7 +29441,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-06.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q9a",
@@ -28485,7 +29472,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-07.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q9b",
@@ -28515,7 +29503,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-07.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q10a",
@@ -28542,7 +29531,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-08.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q10b",
@@ -28571,7 +29561,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-08.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q10c",
@@ -28599,7 +29590,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-08.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q10d",
@@ -28627,7 +29619,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-08.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q10e",
@@ -28657,7 +29650,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-08.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q11a",
@@ -28687,7 +29681,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-09.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q11b",
@@ -28717,7 +29712,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-07-Differentiation-Logs-09.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q12a",
@@ -28747,7 +29743,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-07-Differentiation-Logs-10.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-11.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q12b",
@@ -28778,7 +29775,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-07-Differentiation-Logs-10.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-11.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-07-Q12c",
@@ -28808,7 +29806,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-07-Differentiation-Logs-10.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-11.jpg",
       "papers/maths/img/P3-07-Differentiation-Logs-12.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -28847,7 +29846,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-1.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q2a",
@@ -28876,7 +29876,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-1.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q2b",
@@ -28905,7 +29906,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-1.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q2c",
@@ -28934,7 +29936,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-1.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q3a",
@@ -28960,7 +29963,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-2.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q3b",
@@ -28991,7 +29995,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-2.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q4i",
@@ -29022,7 +30027,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-2.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q4ii",
@@ -29052,7 +30058,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-2.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q5i-a",
@@ -29081,7 +30088,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-3.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q5i-b",
@@ -29109,7 +30117,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-3.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q5ii",
@@ -29139,7 +30148,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-3.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q6a",
@@ -29166,7 +30176,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-4.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q6b",
@@ -29195,7 +30206,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-4.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q6c",
@@ -29225,7 +30237,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-4.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q6d",
@@ -29254,7 +30267,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-4.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q7a",
@@ -29284,7 +30298,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-5.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q7b",
@@ -29314,7 +30329,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-5.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q8a",
@@ -29343,7 +30359,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-5.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q8b",
@@ -29373,7 +30390,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-5.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q9a",
@@ -29402,7 +30420,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-08-Differentiation-Trig-6.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-7.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q9b",
@@ -29433,7 +30452,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-08-Differentiation-Trig-6.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-7.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q9c",
@@ -29465,7 +30485,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-08-Differentiation-Trig-6.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-7.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q10a",
@@ -29493,7 +30514,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-8.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q10b",
@@ -29523,7 +30545,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-8.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q11a",
@@ -29553,7 +30576,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-8.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-08-Q11b",
@@ -29581,7 +30605,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-08-Differentiation-Trig-8.jpg",
       "papers/maths/img/P3-08-Differentiation-Trig-9.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -29617,7 +30642,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-09-Integration-1.jpg",
       "papers/maths/img/P3-09-Integration-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q1ii",
@@ -29647,7 +30673,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-09-Integration-1.jpg",
       "papers/maths/img/P3-09-Integration-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q2i",
@@ -29675,7 +30702,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-09-Integration-1.jpg",
       "papers/maths/img/P3-09-Integration-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q2ii",
@@ -29705,7 +30733,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-09-Integration-1.jpg",
       "papers/maths/img/P3-09-Integration-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q3a",
@@ -29735,7 +30764,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-09-Integration-2.jpg",
       "papers/maths/img/P3-09-Integration-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q3b",
@@ -29765,7 +30795,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-09-Integration-2.jpg",
       "papers/maths/img/P3-09-Integration-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q3c",
@@ -29795,7 +30826,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-09-Integration-2.jpg",
       "papers/maths/img/P3-09-Integration-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q4a",
@@ -29823,7 +30855,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-09-Integration-3.jpg",
       "papers/maths/img/P3-09-Integration-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q4b",
@@ -29854,7 +30887,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-09-Integration-3.jpg",
       "papers/maths/img/P3-09-Integration-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q5",
@@ -29883,7 +30917,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-09-Integration-4.jpg",
       "papers/maths/img/P3-09-Integration-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q6i",
@@ -29911,7 +30946,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-09-Integration-5.jpg",
       "papers/maths/img/P3-09-Integration-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q6ii",
@@ -29940,7 +30976,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-09-Integration-5.jpg",
       "papers/maths/img/P3-09-Integration-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q7a",
@@ -29968,7 +31005,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-09-Integration-5.jpg",
       "papers/maths/img/P3-09-Integration-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q7b",
@@ -29997,7 +31035,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-09-Integration-5.jpg",
       "papers/maths/img/P3-09-Integration-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q8i",
@@ -30026,7 +31065,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-09-Integration-6.jpg",
       "papers/maths/img/P3-09-Integration-7.jpg",
       "papers/maths/img/P3-09-Integration-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q8ii",
@@ -30057,7 +31097,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-09-Integration-6.jpg",
       "papers/maths/img/P3-09-Integration-7.jpg",
       "papers/maths/img/P3-09-Integration-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q9a",
@@ -30087,7 +31128,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-09-Integration-6.jpg",
       "papers/maths/img/P3-09-Integration-7.jpg",
       "papers/maths/img/P3-09-Integration-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q9b",
@@ -30117,7 +31159,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-09-Integration-6.jpg",
       "papers/maths/img/P3-09-Integration-7.jpg",
       "papers/maths/img/P3-09-Integration-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q9c",
@@ -30148,7 +31191,8 @@ window.BANK.maths = {
       "papers/maths/img/P3-09-Integration-6.jpg",
       "papers/maths/img/P3-09-Integration-7.jpg",
       "papers/maths/img/P3-09-Integration-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q10a",
@@ -30177,7 +31221,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-09-Integration-8.jpg",
       "papers/maths/img/P3-09-Integration-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q10b",
@@ -30206,7 +31251,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-09-Integration-8.jpg",
       "papers/maths/img/P3-09-Integration-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q11a",
@@ -30234,7 +31280,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-09-Integration-8.jpg",
       "papers/maths/img/P3-09-Integration-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q11b",
@@ -30264,7 +31311,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-09-Integration-8.jpg",
       "papers/maths/img/P3-09-Integration-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P3-09-Q11c",
@@ -30293,7 +31341,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P3-09-Integration-8.jpg",
       "papers/maths/img/P3-09-Integration-9.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -30332,7 +31381,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-01-Proof-1.jpg",
       "papers/maths/img/P4-01-Proof-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-01-Q2",
@@ -30363,7 +31413,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-01-Proof-1.jpg",
       "papers/maths/img/P4-01-Proof-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-01-Q3(i)",
@@ -30393,7 +31444,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-01-Proof-1.jpg",
       "papers/maths/img/P4-01-Proof-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-01-Q3(ii)",
@@ -30424,7 +31476,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-01-Proof-1.jpg",
       "papers/maths/img/P4-01-Proof-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-01-Q4",
@@ -30452,7 +31505,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-01-Proof-2.jpg",
       "papers/maths/img/P4-01-Proof-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-01-Q5a",
@@ -30482,7 +31536,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-01-Proof-2.jpg",
       "papers/maths/img/P4-01-Proof-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-01-Q5b",
@@ -30513,7 +31568,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-01-Proof-2.jpg",
       "papers/maths/img/P4-01-Proof-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-01-Q6",
@@ -30544,7 +31600,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-01-Proof-3.jpg",
       "papers/maths/img/P4-01-Proof-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-01-Q7",
@@ -30575,7 +31632,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-01-Proof-3.jpg",
       "papers/maths/img/P4-01-Proof-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-01-Q8a",
@@ -30606,7 +31664,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-01-Proof-4.jpg",
       "papers/maths/img/P4-01-Proof-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-01-Q8b",
@@ -30637,7 +31696,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-01-Proof-4.jpg",
       "papers/maths/img/P4-01-Proof-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-01-Q9",
@@ -30668,7 +31728,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-01-Proof-5.jpg",
       "papers/maths/img/P4-01-Proof-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-01-Q10",
@@ -30698,7 +31759,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-01-Proof-5.jpg",
       "papers/maths/img/P4-01-Proof-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-01-Q11",
@@ -30729,7 +31791,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-01-Proof-6.jpg",
       "papers/maths/img/P4-01-Proof-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-01-Q12",
@@ -30760,7 +31823,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-01-Proof-6.jpg",
       "papers/maths/img/P4-01-Proof-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-01-Q13a",
@@ -30790,7 +31854,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P4-01-Proof-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-01-Q13b",
@@ -30818,7 +31883,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P4-01-Proof-7.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -30854,7 +31920,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-1.jpg",
       "papers/maths/img/P4-02-Vectors-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q1b",
@@ -30884,7 +31951,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-1.jpg",
       "papers/maths/img/P4-02-Vectors-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q1c",
@@ -30915,7 +31983,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-1.jpg",
       "papers/maths/img/P4-02-Vectors-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q2",
@@ -30945,7 +32014,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-2.jpg",
       "papers/maths/img/P4-02-Vectors-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q3a",
@@ -30974,7 +32044,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-2.jpg",
       "papers/maths/img/P4-02-Vectors-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q3b",
@@ -31004,7 +32075,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-2.jpg",
       "papers/maths/img/P4-02-Vectors-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q3c",
@@ -31034,7 +32106,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-2.jpg",
       "papers/maths/img/P4-02-Vectors-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q4a",
@@ -31062,7 +32135,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-3.jpg",
       "papers/maths/img/P4-02-Vectors-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q4b",
@@ -31091,7 +32165,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-3.jpg",
       "papers/maths/img/P4-02-Vectors-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q4c",
@@ -31121,7 +32196,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-3.jpg",
       "papers/maths/img/P4-02-Vectors-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q4d",
@@ -31150,7 +32226,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-3.jpg",
       "papers/maths/img/P4-02-Vectors-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q5a",
@@ -31177,7 +32254,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-4.jpg",
       "papers/maths/img/P4-02-Vectors-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q5b",
@@ -31205,7 +32283,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-4.jpg",
       "papers/maths/img/P4-02-Vectors-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q5c",
@@ -31233,7 +32312,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-4.jpg",
       "papers/maths/img/P4-02-Vectors-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q5d",
@@ -31262,7 +32342,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-4.jpg",
       "papers/maths/img/P4-02-Vectors-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q5e",
@@ -31292,7 +32373,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-4.jpg",
       "papers/maths/img/P4-02-Vectors-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q5f",
@@ -31322,7 +32404,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-4.jpg",
       "papers/maths/img/P4-02-Vectors-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q6a",
@@ -31352,7 +32435,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-5.jpg",
       "papers/maths/img/P4-02-Vectors-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q6b",
@@ -31382,7 +32466,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-5.jpg",
       "papers/maths/img/P4-02-Vectors-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q7a",
@@ -31413,7 +32498,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-6.jpg",
       "papers/maths/img/P4-02-Vectors-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q7b",
@@ -31441,7 +32527,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-6.jpg",
       "papers/maths/img/P4-02-Vectors-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q8a",
@@ -31471,7 +32558,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-6.jpg",
       "papers/maths/img/P4-02-Vectors-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q8b",
@@ -31500,7 +32588,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-6.jpg",
       "papers/maths/img/P4-02-Vectors-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q9a",
@@ -31527,7 +32616,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-7.jpg",
       "papers/maths/img/P4-02-Vectors-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q9b",
@@ -31557,7 +32647,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-7.jpg",
       "papers/maths/img/P4-02-Vectors-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q10a",
@@ -31584,7 +32675,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-8.jpg",
       "papers/maths/img/P4-02-Vectors-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q10b",
@@ -31614,7 +32706,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-8.jpg",
       "papers/maths/img/P4-02-Vectors-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q10c",
@@ -31642,7 +32735,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-8.jpg",
       "papers/maths/img/P4-02-Vectors-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-02-Q10d",
@@ -31670,7 +32764,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-02-Vectors-8.jpg",
       "papers/maths/img/P4-02-Vectors-9.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -31707,7 +32802,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-1.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q2a",
@@ -31736,7 +32832,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-1.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q2b",
@@ -31765,7 +32862,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-1.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q2c",
@@ -31793,7 +32891,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-1.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q3a",
@@ -31822,7 +32921,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-2.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q3b",
@@ -31851,7 +32951,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-2.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q4a",
@@ -31880,7 +32981,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-3.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q4b",
@@ -31909,7 +33011,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-3.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q5a",
@@ -31938,7 +33041,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-3.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q5b",
@@ -31967,7 +33071,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-3.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q6a",
@@ -31996,7 +33101,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-4.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q6b",
@@ -32024,7 +33130,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-4.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q6c",
@@ -32053,7 +33160,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-4.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q7a",
@@ -32082,7 +33190,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-4.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q7b",
@@ -32110,7 +33219,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-4.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q8a",
@@ -32139,7 +33249,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-5.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q8b",
@@ -32167,7 +33278,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-5.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q8c",
@@ -32195,7 +33307,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-5.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q9a",
@@ -32224,7 +33337,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-6.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q9b",
@@ -32252,7 +33366,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-6.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q10a",
@@ -32279,7 +33394,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-6.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q10b",
@@ -32309,7 +33425,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-6.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-03-Q10c",
@@ -32338,7 +33455,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-03-Binomial-Theorem-6.jpg",
       "papers/maths/img/P4-03-Binomial-Theorem-7.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -32377,7 +33495,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-1.jpg",
       "papers/maths/img/P4-04-Differential-Equations-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q1b",
@@ -32405,7 +33524,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-1.jpg",
       "papers/maths/img/P4-04-Differential-Equations-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q2",
@@ -32435,7 +33555,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-1.jpg",
       "papers/maths/img/P4-04-Differential-Equations-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q3a",
@@ -32464,7 +33585,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-2.jpg",
       "papers/maths/img/P4-04-Differential-Equations-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q3b",
@@ -32495,7 +33617,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-2.jpg",
       "papers/maths/img/P4-04-Differential-Equations-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q3c",
@@ -32524,7 +33647,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-2.jpg",
       "papers/maths/img/P4-04-Differential-Equations-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q3d",
@@ -32552,7 +33676,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-2.jpg",
       "papers/maths/img/P4-04-Differential-Equations-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q4a",
@@ -32580,7 +33705,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-2.jpg",
       "papers/maths/img/P4-04-Differential-Equations-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q4b",
@@ -32608,7 +33734,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-2.jpg",
       "papers/maths/img/P4-04-Differential-Equations-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q4c",
@@ -32637,7 +33764,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-2.jpg",
       "papers/maths/img/P4-04-Differential-Equations-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q4d",
@@ -32667,7 +33795,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-2.jpg",
       "papers/maths/img/P4-04-Differential-Equations-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q4e",
@@ -32695,7 +33824,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-2.jpg",
       "papers/maths/img/P4-04-Differential-Equations-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q5a",
@@ -32725,7 +33855,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-3.jpg",
       "papers/maths/img/P4-04-Differential-Equations-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q5b",
@@ -32753,7 +33884,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-3.jpg",
       "papers/maths/img/P4-04-Differential-Equations-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q5c",
@@ -32782,7 +33914,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-3.jpg",
       "papers/maths/img/P4-04-Differential-Equations-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q6a",
@@ -32811,7 +33944,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-4.jpg",
       "papers/maths/img/P4-04-Differential-Equations-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q6b",
@@ -32841,7 +33975,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-4.jpg",
       "papers/maths/img/P4-04-Differential-Equations-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q6c",
@@ -32871,7 +34006,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-4.jpg",
       "papers/maths/img/P4-04-Differential-Equations-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q7a",
@@ -32902,7 +34038,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-5.jpg",
       "papers/maths/img/P4-04-Differential-Equations-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q7b",
@@ -32931,7 +34068,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-5.jpg",
       "papers/maths/img/P4-04-Differential-Equations-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q8a",
@@ -32961,7 +34099,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-6.jpg",
       "papers/maths/img/P4-04-Differential-Equations-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q8b",
@@ -32989,7 +34128,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-6.jpg",
       "papers/maths/img/P4-04-Differential-Equations-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q9a",
@@ -33018,7 +34158,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-04-Q9b",
@@ -33046,7 +34187,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P4-04-Differential-Equations-7.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -33084,7 +34226,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-05-Parametric-Curves-1.jpg",
       "papers/maths/img/P4-05-Parametric-Curves-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-05-Q1b",
@@ -33113,7 +34256,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-05-Parametric-Curves-1.jpg",
       "papers/maths/img/P4-05-Parametric-Curves-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-05-Q2",
@@ -33143,7 +34287,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-05-Parametric-Curves-1.jpg",
       "papers/maths/img/P4-05-Parametric-Curves-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-05-Q3a",
@@ -33173,7 +34318,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-05-Parametric-Curves-2.jpg",
       "papers/maths/img/P4-05-Parametric-Curves-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-05-Q3b",
@@ -33201,7 +34347,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-05-Parametric-Curves-2.jpg",
       "papers/maths/img/P4-05-Parametric-Curves-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-05-Q4a",
@@ -33229,7 +34376,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-05-Parametric-Curves-2.jpg",
       "papers/maths/img/P4-05-Parametric-Curves-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-05-Q4b",
@@ -33258,7 +34406,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-05-Parametric-Curves-2.jpg",
       "papers/maths/img/P4-05-Parametric-Curves-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-05-Q5a",
@@ -33288,7 +34437,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-05-Parametric-Curves-3.jpg",
       "papers/maths/img/P4-05-Parametric-Curves-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-05-Q5b",
@@ -33317,7 +34467,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-05-Parametric-Curves-3.jpg",
       "papers/maths/img/P4-05-Parametric-Curves-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-05-Q6a",
@@ -33346,7 +34497,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-05-Parametric-Curves-4.jpg",
       "papers/maths/img/P4-05-Parametric-Curves-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-05-Q6b",
@@ -33375,7 +34527,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-05-Parametric-Curves-4.jpg",
       "papers/maths/img/P4-05-Parametric-Curves-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-05-Q6c",
@@ -33404,7 +34557,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-05-Parametric-Curves-4.jpg",
       "papers/maths/img/P4-05-Parametric-Curves-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-05-Q7a",
@@ -33434,7 +34588,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-05-Parametric-Curves-5.jpg",
       "papers/maths/img/P4-05-Parametric-Curves-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-05-Q7b",
@@ -33462,7 +34617,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-05-Parametric-Curves-5.jpg",
       "papers/maths/img/P4-05-Parametric-Curves-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-05-Q7c",
@@ -33491,7 +34647,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-05-Parametric-Curves-5.jpg",
       "papers/maths/img/P4-05-Parametric-Curves-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-05-Q8a",
@@ -33520,7 +34677,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-05-Parametric-Curves-6.jpg",
       "papers/maths/img/P4-05-Parametric-Curves-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-05-Q8b",
@@ -33549,7 +34707,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-05-Parametric-Curves-6.jpg",
       "papers/maths/img/P4-05-Parametric-Curves-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-05-Q8c",
@@ -33578,7 +34737,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-05-Parametric-Curves-6.jpg",
       "papers/maths/img/P4-05-Parametric-Curves-7.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -33615,7 +34775,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-01.jpg",
       "papers/maths/img/P4-06-Differentiation-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q1b",
@@ -33645,7 +34806,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-01.jpg",
       "papers/maths/img/P4-06-Differentiation-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q2a",
@@ -33673,7 +34835,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-02.jpg",
       "papers/maths/img/P4-06-Differentiation-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q2b",
@@ -33702,7 +34865,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-02.jpg",
       "papers/maths/img/P4-06-Differentiation-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q3a",
@@ -33731,7 +34895,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-03.jpg",
       "papers/maths/img/P4-06-Differentiation-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q3b",
@@ -33760,7 +34925,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-03.jpg",
       "papers/maths/img/P4-06-Differentiation-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q4a",
@@ -33789,7 +34955,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-03.jpg",
       "papers/maths/img/P4-06-Differentiation-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q4b",
@@ -33818,7 +34985,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-03.jpg",
       "papers/maths/img/P4-06-Differentiation-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q5a",
@@ -33846,7 +35014,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-04.jpg",
       "papers/maths/img/P4-06-Differentiation-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q5b",
@@ -33875,7 +35044,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-04.jpg",
       "papers/maths/img/P4-06-Differentiation-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q6",
@@ -33905,7 +35075,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-05.jpg",
       "papers/maths/img/P4-06-Differentiation-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q7a",
@@ -33933,7 +35104,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-06.jpg",
       "papers/maths/img/P4-06-Differentiation-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q7b",
@@ -33962,7 +35134,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-06.jpg",
       "papers/maths/img/P4-06-Differentiation-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q8a",
@@ -33990,7 +35163,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-06.jpg",
       "papers/maths/img/P4-06-Differentiation-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q8b",
@@ -34019,7 +35193,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-06.jpg",
       "papers/maths/img/P4-06-Differentiation-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q9a",
@@ -34048,7 +35223,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-07.jpg",
       "papers/maths/img/P4-06-Differentiation-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q9b",
@@ -34077,7 +35253,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-07.jpg",
       "papers/maths/img/P4-06-Differentiation-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q10a",
@@ -34105,7 +35282,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-07.jpg",
       "papers/maths/img/P4-06-Differentiation-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q10b",
@@ -34133,7 +35311,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-07.jpg",
       "papers/maths/img/P4-06-Differentiation-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q11a",
@@ -34161,7 +35340,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-08.jpg",
       "papers/maths/img/P4-06-Differentiation-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q11b",
@@ -34190,7 +35370,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-08.jpg",
       "papers/maths/img/P4-06-Differentiation-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q12a",
@@ -34219,7 +35400,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-09.jpg",
       "papers/maths/img/P4-06-Differentiation-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q12b",
@@ -34248,7 +35430,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-06-Differentiation-09.jpg",
       "papers/maths/img/P4-06-Differentiation-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q13a",
@@ -34266,12 +35449,19 @@ window.BANK.maths = {
       "pending"
      ],
      "question": "Figure 1 shows part of the curve C with equation 2x - 4xy + y^2 = 13, y >= 0. The point P lies on C and has x coordinate 2. (The instruction for part (a) is not visible on the scan.)",
-     "status": "pending",
-     "answer": "Pending: the instruction for part (a) is missing from the scan; the page gives only that P lies on C with x coordinate 2 (2 marks).",
-     "steps": [],
+     "status": "ready",
+     "answer": "y coordinate of P is 9, so P = (2, 9) (the instruction line is missing on the page; the task is to find y at x = 2)",
+     "steps": [
+      "Substitute x = 2 into the equation of C: 2(2) - 4(2)y + y^2 = 13.",
+      "Rearrange: y^2 - 8y - 9 = 0, so (y - 9)(y + 1) = 0.",
+      "y >= 0 rejects y = -1, so y = 9 and P = (2, 9)."
+     ],
      "images": [
       "papers/maths/img/P4-06-Differentiation-10.jpg",
       "papers/maths/img/P4-06-Differentiation-11.jpg"
+     ],
+     "figures": [
+      "papers/maths/fig/06-Differentiation-Q13.jpg"
      ]
     },
     {
@@ -34295,11 +35485,15 @@ window.BANK.maths = {
      "steps": [
       "Differentiate: 2 - 4y - 4x dy/dx + 2y dy/dx = 0 (product rule on 4xy).",
       "Collect terms: dy/dx (2y - 4x) = 4y - 2.",
-      "Divide by 2 top and bottom: dy/dx = (2y - 1)/(y - 2x)."
+      "Divide by 2 top and bottom: dy/dx = (2y - 1)/(y - 2x).",
+      "Note: if the curve is really 2^x - 4xy + y^2 = 13 (the page prints \"2x\", the superscript may have been lost), the same method gives dy/dx = (4y - 2^x ln 2)/(2y - 4x)."
      ],
      "images": [
       "papers/maths/img/P4-06-Differentiation-10.jpg",
       "papers/maths/img/P4-06-Differentiation-11.jpg"
+     ],
+     "figures": [
+      "papers/maths/fig/06-Differentiation-Q13.jpg"
      ]
     },
     {
@@ -34318,12 +35512,22 @@ window.BANK.maths = {
       "pending"
      ],
      "question": "The tangent to C at P crosses the x-axis at the point Q. Find the x coordinate of Q, giving your answer in the form (a ln 2 + b)/(c ln 2 + d), where a, b, c and d are integers.",
-     "status": "pending",
-     "answer": "Pending: the printed curve gives a rational x coordinate for Q (x = -11/17 with P = (2, 9)), which does not fit the requested ln 2 form. Check the curve equation on the source paper.",
-     "steps": [],
+     "status": "ready",
+     "answer": "x = (4 ln 2 + 9)/(2 ln 2 - 18) = -0.709 (a = 4, b = 9, c = 2, d = -18); this uses the intended curve 2^x - 4xy + y^2 = 13",
+     "steps": [
+      "The required ln 2 form only arises if the curve is 2^x - 4xy + y^2 = 13 (the page prints \"2x\", the superscript x seems lost). At x = 2 both forms give y = 9, so P = (2, 9).",
+      "Differentiate: 2^x ln 2 - 4y - 4x dy/dx + 2y dy/dx = 0, so dy/dx = (4y - 2^x ln 2)/(2y - 4x).",
+      "At P(2, 9): dy/dx = (36 - 4 ln 2)/10 = (18 - 2 ln 2)/5.",
+      "Tangent: y - 9 = m(x - 2). Put y = 0: x = 2 - 9/m = 2 - 45/(18 - 2 ln 2).",
+      "x = (2(18 - 2 ln 2) - 45)/(18 - 2 ln 2) = (-4 ln 2 - 9)/(18 - 2 ln 2) = (4 ln 2 + 9)/(2 ln 2 - 18).",
+      "Check: if the curve were really 2x - 4xy + y^2 = 13, the same method would give Q at x = -11/17, which has no ln 2 form."
+     ],
      "images": [
       "papers/maths/img/P4-06-Differentiation-10.jpg",
       "papers/maths/img/P4-06-Differentiation-11.jpg"
+     ],
+     "figures": [
+      "papers/maths/fig/06-Differentiation-Q13.jpg"
      ]
     },
     {
@@ -34352,7 +35556,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P4-06-Differentiation-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q14b",
@@ -34379,7 +35584,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P4-06-Differentiation-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-06-Q14c",
@@ -34407,7 +35613,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/P4-06-Differentiation-11.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -34444,7 +35651,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-01.jpg",
       "papers/maths/img/P4-07-Integration-Mix-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q1b",
@@ -34474,7 +35682,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-01.jpg",
       "papers/maths/img/P4-07-Integration-Mix-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q2a",
@@ -34503,7 +35712,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-01.jpg",
       "papers/maths/img/P4-07-Integration-Mix-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q2b",
@@ -34533,7 +35743,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-01.jpg",
       "papers/maths/img/P4-07-Integration-Mix-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q3(i)",
@@ -34563,7 +35774,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-02.jpg",
       "papers/maths/img/P4-07-Integration-Mix-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q3(ii)",
@@ -34593,7 +35805,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-02.jpg",
       "papers/maths/img/P4-07-Integration-Mix-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q4(i)",
@@ -34622,7 +35835,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-03.jpg",
       "papers/maths/img/P4-07-Integration-Mix-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q4(ii)",
@@ -34652,7 +35866,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-03.jpg",
       "papers/maths/img/P4-07-Integration-Mix-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q5",
@@ -34682,7 +35897,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-04.jpg",
       "papers/maths/img/P4-07-Integration-Mix-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q6",
@@ -34712,7 +35928,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-04.jpg",
       "papers/maths/img/P4-07-Integration-Mix-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q7a",
@@ -34741,7 +35958,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-05.jpg",
       "papers/maths/img/P4-07-Integration-Mix-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q7b",
@@ -34770,7 +35988,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-05.jpg",
       "papers/maths/img/P4-07-Integration-Mix-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q8a",
@@ -34798,7 +36017,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-06.jpg",
       "papers/maths/img/P4-07-Integration-Mix-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q8b",
@@ -34828,7 +36048,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-06.jpg",
       "papers/maths/img/P4-07-Integration-Mix-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q9(i)",
@@ -34858,7 +36079,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-07.jpg",
       "papers/maths/img/P4-07-Integration-Mix-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q9(ii)",
@@ -34887,7 +36109,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-07.jpg",
       "papers/maths/img/P4-07-Integration-Mix-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q10",
@@ -34917,7 +36140,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-07.jpg",
       "papers/maths/img/P4-07-Integration-Mix-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q11a",
@@ -34945,7 +36169,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-08.jpg",
       "papers/maths/img/P4-07-Integration-Mix-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q11b",
@@ -34973,7 +36198,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-08.jpg",
       "papers/maths/img/P4-07-Integration-Mix-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q11c",
@@ -35003,7 +36229,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-08.jpg",
       "papers/maths/img/P4-07-Integration-Mix-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q12a",
@@ -35031,7 +36258,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-09.jpg",
       "papers/maths/img/P4-07-Integration-Mix-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q12b",
@@ -35060,7 +36288,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-09.jpg",
       "papers/maths/img/P4-07-Integration-Mix-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q12c",
@@ -35077,14 +36306,21 @@ window.BANK.maths = {
       "differential equation",
       "pending"
      ],
-     "question": "Show that the particular solution of the differential equation in part (b) for which y = 1 at x = pi/6 is y = e^(A sec 2x - 1/2), where A is an irrational number to be found. (The printed form uses sec 2x; see the note.)",
-     "status": "pending",
-     "answer": "Pending: the printed target form e^(A sec 2x - 1/2) does not match the differential equation. Working gives e^(A sec x - 1/2) with A = sqrt(3)/4 (A is irrational only in this form). Check the scanned form.",
-     "steps": [],
+     "question": "Show that the particular solution of the differential equation in part (b) for which y = 1 at x = pi/6 is given by y = e^(A sec x - 1/2), where A is an irrational number to be found.",
+     "status": "ready",
+     "answer": "A = sqrt(3)/4, so y = e^((sqrt(3)/4) sec x - 1/2)",
+     "steps": [
+      "Use the general solution from (b): 1/(1 + 2 ln y)^2 = (2/3) cos 2x + C.",
+      "Put y = 1 (ln y = 0) and x = pi/6: 1 = (2/3)(1/2) + C, so C = 2/3.",
+      "1/(1 + 2 ln y)^2 = (2/3)(cos 2x + 1) = (2/3)(2 cos^2 x) = (4/3) cos^2 x.",
+      "(1 + 2 ln y)^2 = (3/4) sec^2 x; take the positive root (it gives 1 at x = pi/6, where sec x = 2/sqrt(3)): 1 + 2 ln y = (sqrt(3)/2) sec x.",
+      "ln y = (sqrt(3)/4) sec x - 1/2, so y = e^(A sec x - 1/2) with A = sqrt(3)/4 (irrational)."
+     ],
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-09.jpg",
       "papers/maths/img/P4-07-Integration-Mix-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q13a",
@@ -35113,7 +36349,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-09.jpg",
       "papers/maths/img/P4-07-Integration-Mix-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q13b",
@@ -35141,7 +36378,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-09.jpg",
       "papers/maths/img/P4-07-Integration-Mix-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q13c",
@@ -35171,7 +36409,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-09.jpg",
       "papers/maths/img/P4-07-Integration-Mix-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q14(i)",
@@ -35201,7 +36440,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-10.jpg",
       "papers/maths/img/P4-07-Integration-Mix-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q14(ii)",
@@ -35230,7 +36470,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-10.jpg",
       "papers/maths/img/P4-07-Integration-Mix-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q15a",
@@ -35259,7 +36500,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-11.jpg",
       "papers/maths/img/P4-07-Integration-Mix-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q15b",
@@ -35289,7 +36531,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-11.jpg",
       "papers/maths/img/P4-07-Integration-Mix-12.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q16a",
@@ -35318,7 +36561,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-12.jpg",
       "papers/maths/img/P4-07-Integration-Mix-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q16b",
@@ -35348,7 +36592,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-12.jpg",
       "papers/maths/img/P4-07-Integration-Mix-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q17a",
@@ -35377,7 +36622,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-12.jpg",
       "papers/maths/img/P4-07-Integration-Mix-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q17b(i)",
@@ -35406,7 +36652,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-12.jpg",
       "papers/maths/img/P4-07-Integration-Mix-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q17b(ii)",
@@ -35435,7 +36682,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-12.jpg",
       "papers/maths/img/P4-07-Integration-Mix-13.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q18a",
@@ -35463,7 +36711,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-13.jpg",
       "papers/maths/img/P4-07-Integration-Mix-14.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-07-Q18b",
@@ -35493,7 +36742,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-07-Integration-Mix-13.jpg",
       "papers/maths/img/P4-07-Integration-Mix-14.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -35532,7 +36782,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-08-Integration-Volume-01.jpg",
       "papers/maths/img/P4-08-Integration-Volume-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q2",
@@ -35563,7 +36814,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-08-Integration-Volume-02.jpg",
       "papers/maths/img/P4-08-Integration-Volume-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q3",
@@ -35593,7 +36845,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-08-Integration-Volume-02.jpg",
       "papers/maths/img/P4-08-Integration-Volume-03.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q4a",
@@ -35621,7 +36874,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-08-Integration-Volume-03.jpg",
       "papers/maths/img/P4-08-Integration-Volume-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q4b",
@@ -35652,7 +36906,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-08-Integration-Volume-03.jpg",
       "papers/maths/img/P4-08-Integration-Volume-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q5a",
@@ -35680,7 +36935,8 @@ window.BANK.maths = {
       "papers/maths/img/P4-08-Integration-Volume-04.jpg",
       "papers/maths/img/P4-08-Integration-Volume-05.jpg",
       "papers/maths/img/P4-08-Integration-Volume-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q5b",
@@ -35710,7 +36966,8 @@ window.BANK.maths = {
       "papers/maths/img/P4-08-Integration-Volume-04.jpg",
       "papers/maths/img/P4-08-Integration-Volume-05.jpg",
       "papers/maths/img/P4-08-Integration-Volume-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q5c",
@@ -35741,7 +36998,8 @@ window.BANK.maths = {
       "papers/maths/img/P4-08-Integration-Volume-04.jpg",
       "papers/maths/img/P4-08-Integration-Volume-05.jpg",
       "papers/maths/img/P4-08-Integration-Volume-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q6",
@@ -35772,7 +37030,8 @@ window.BANK.maths = {
       "papers/maths/img/P4-08-Integration-Volume-06.jpg",
       "papers/maths/img/P4-08-Integration-Volume-07.jpg",
       "papers/maths/img/P4-08-Integration-Volume-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q7a",
@@ -35800,7 +37059,8 @@ window.BANK.maths = {
       "papers/maths/img/P4-08-Integration-Volume-06.jpg",
       "papers/maths/img/P4-08-Integration-Volume-07.jpg",
       "papers/maths/img/P4-08-Integration-Volume-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q7b",
@@ -35829,7 +37089,8 @@ window.BANK.maths = {
       "papers/maths/img/P4-08-Integration-Volume-06.jpg",
       "papers/maths/img/P4-08-Integration-Volume-07.jpg",
       "papers/maths/img/P4-08-Integration-Volume-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q7c",
@@ -35859,7 +37120,8 @@ window.BANK.maths = {
       "papers/maths/img/P4-08-Integration-Volume-06.jpg",
       "papers/maths/img/P4-08-Integration-Volume-07.jpg",
       "papers/maths/img/P4-08-Integration-Volume-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q7d",
@@ -35891,7 +37153,8 @@ window.BANK.maths = {
       "papers/maths/img/P4-08-Integration-Volume-06.jpg",
       "papers/maths/img/P4-08-Integration-Volume-07.jpg",
       "papers/maths/img/P4-08-Integration-Volume-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q8a",
@@ -35919,7 +37182,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-08-Integration-Volume-08.jpg",
       "papers/maths/img/P4-08-Integration-Volume-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q8b",
@@ -35948,7 +37212,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-08-Integration-Volume-08.jpg",
       "papers/maths/img/P4-08-Integration-Volume-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q8c",
@@ -35978,7 +37243,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-08-Integration-Volume-08.jpg",
       "papers/maths/img/P4-08-Integration-Volume-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q8d(i)",
@@ -36007,7 +37273,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-08-Integration-Volume-08.jpg",
       "papers/maths/img/P4-08-Integration-Volume-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q8d(ii)",
@@ -36036,7 +37303,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-08-Integration-Volume-08.jpg",
       "papers/maths/img/P4-08-Integration-Volume-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q9a",
@@ -36064,7 +37332,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-08-Integration-Volume-09.jpg",
       "papers/maths/img/P4-08-Integration-Volume-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q9b",
@@ -36093,7 +37362,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-08-Integration-Volume-09.jpg",
       "papers/maths/img/P4-08-Integration-Volume-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q10a",
@@ -36123,7 +37393,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-08-Integration-Volume-10.jpg",
       "papers/maths/img/P4-08-Integration-Volume-11.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "P4-08-Q10b",
@@ -36152,7 +37423,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/P4-08-Integration-Volume-10.jpg",
       "papers/maths/img/P4-08-Integration-Volume-11.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -36190,7 +37462,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-1.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q1b",
@@ -36220,7 +37493,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-1.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q2a",
@@ -36249,7 +37523,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-1.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q2b",
@@ -36279,7 +37554,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-1.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q3a",
@@ -36308,7 +37584,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-2.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q3b",
@@ -36337,7 +37614,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-2.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q4a",
@@ -36365,7 +37643,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-2.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q4b",
@@ -36395,7 +37674,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-2.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q4c",
@@ -36423,7 +37703,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-2.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q5a",
@@ -36440,14 +37721,20 @@ window.BANK.maths = {
       "displacement",
       "first model"
      ],
-     "question": "A car travels at 25 m s^-1 past point A and decelerates uniformly at 6 m s^-2 until it reaches a road sign. Use this first model to find the speed of the car as it reaches the sign.",
-     "status": "pending",
-     "answer": "Missing on page: the distance from A to the road sign is not given, and it is needed for this part.",
-     "steps": [],
+     "question": "A car is moving at a constant speed of 25 m s^-1 along a straight horizontal road. At t = 0 the car is at point A and the driver sees a road sign 48 m ahead. The car decelerates uniformly at 6 m s^-2 from A until it reaches the road sign. Use this first model to find the speed of the car as it reaches the sign.",
+     "status": "ready",
+     "answer": "7 m s^-1",
+     "steps": [
+      "The sign is 48 m from A (given on the page): u = 25, a = -6, s = 48, v = ?",
+      "Use v^2 = u^2 + 2as: v^2 = 25^2 + 2(-6)(48).",
+      "v^2 = 625 - 576 = 49.",
+      "v = 7 m s^-1 (speed is positive)."
+     ],
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-3.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q5b",
@@ -36464,14 +37751,20 @@ window.BANK.maths = {
       "time",
       "second model"
      ],
-     "question": "Second model: the car decelerates at 6 m s^-2 from A until speed 13 m s^-1, then keeps this speed until it reaches the road sign. Use this model to find the time t when the car reaches the sign.",
-     "status": "pending",
-     "answer": "Missing on page: the distance from A to the road sign is not given, and it is needed for this part.",
-     "steps": [],
+     "question": "Second model: the car decelerates at 6 m s^-2 from A (48 m from the road sign) until its speed is 13 m s^-1, then keeps this speed until it reaches the road sign. Use this model to find the time t when the car reaches the sign.",
+     "status": "ready",
+     "answer": "t = 2.77 s (3 s.f.), i.e. 2 + 10/13",
+     "steps": [
+      "Deceleration stage: v = u + at gives 13 = 25 - 6t1, so t1 = 2 s.",
+      "Distance in this stage: s = (u + v)t/2 = (25 + 13)(2)/2 = 38 m.",
+      "Distance left at constant speed = 48 - 38 = 10 m, so t2 = 10 / 13 = 0.769 s.",
+      "Total t = 2 + 0.769 = 2.77 s (3 s.f.)."
+     ],
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-3.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q5c",
@@ -36488,14 +37781,20 @@ window.BANK.maths = {
       "time",
       "third model"
      ],
-     "question": "Third model: the car moves at 25 m s^-1 from A until t = 0.2 s, then decelerates at 6 m s^-2 until its speed is 13 m s^-1, then keeps this speed until it reaches the road sign. Use this model to find the time t when the car reaches the sign.",
-     "status": "pending",
-     "answer": "Missing on page: the distance from A to the road sign is not given, and it is needed for this part.",
-     "steps": [],
+     "question": "Third model: the car moves at 25 m s^-1 from A (48 m from the road sign) until t = 0.2 s, then decelerates at 6 m s^-2 until its speed is 13 m s^-1, then keeps this speed until it reaches the road sign. Use this model to find the time t when the car reaches the sign.",
+     "status": "ready",
+     "answer": "t = 2.58 s (3 s.f.)",
+     "steps": [
+      "Constant speed stage: 0.2 s at 25 m s^-1 covers 25 x 0.2 = 5 m.",
+      "Deceleration stage (as in part b): 2 s and 38 m.",
+      "Distance left at 13 m s^-1 = 48 - 5 - 38 = 5 m, so time = 5 / 13 = 0.385 s.",
+      "Total t = 0.2 + 2 + 0.385 = 2.58 s (3 s.f.)."
+     ],
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-3.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q6a",
@@ -36524,7 +37823,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-4.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q6b",
@@ -36553,7 +37853,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-4.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q6c",
@@ -36583,7 +37884,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-4.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q7a",
@@ -36610,7 +37912,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-5.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q7b",
@@ -36638,7 +37941,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-5.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q7c",
@@ -36668,7 +37972,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-5.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q7d",
@@ -36698,7 +38003,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-5.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q8a",
@@ -36727,7 +38033,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-6.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q8b",
@@ -36757,7 +38064,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-6.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q9(i)",
@@ -36787,7 +38095,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-6.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q9(ii)",
@@ -36816,7 +38125,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-6.jpg",
       "papers/maths/img/M1-01-SUVAT-Equations-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-01-Q10",
@@ -36845,7 +38155,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/M1-01-SUVAT-Equations-7.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -36883,7 +38194,8 @@ window.BANK.maths = {
       "papers/maths/img/M1-02-SUVAT-Graphs-1.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-2.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q1b",
@@ -36913,7 +38225,8 @@ window.BANK.maths = {
       "papers/maths/img/M1-02-SUVAT-Graphs-1.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-2.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q1c",
@@ -36944,7 +38257,8 @@ window.BANK.maths = {
       "papers/maths/img/M1-02-SUVAT-Graphs-1.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-2.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q1d",
@@ -36973,7 +38287,8 @@ window.BANK.maths = {
       "papers/maths/img/M1-02-SUVAT-Graphs-1.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-2.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q2a",
@@ -37003,7 +38318,8 @@ window.BANK.maths = {
       "papers/maths/img/M1-02-SUVAT-Graphs-1.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-2.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q2b",
@@ -37033,7 +38349,8 @@ window.BANK.maths = {
       "papers/maths/img/M1-02-SUVAT-Graphs-1.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-2.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q2c",
@@ -37062,7 +38379,8 @@ window.BANK.maths = {
       "papers/maths/img/M1-02-SUVAT-Graphs-1.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-2.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q2d",
@@ -37093,7 +38411,8 @@ window.BANK.maths = {
       "papers/maths/img/M1-02-SUVAT-Graphs-1.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-2.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q3a",
@@ -37123,7 +38442,8 @@ window.BANK.maths = {
       "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-4.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q3b",
@@ -37154,7 +38474,8 @@ window.BANK.maths = {
       "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-4.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q3c",
@@ -37182,7 +38503,8 @@ window.BANK.maths = {
       "papers/maths/img/M1-02-SUVAT-Graphs-3.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-4.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q4a",
@@ -37210,7 +38532,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q4b",
@@ -37240,7 +38563,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q4c",
@@ -37269,7 +38593,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q5a",
@@ -37296,7 +38621,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q5b",
@@ -37325,7 +38651,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q5c",
@@ -37355,7 +38682,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q5d",
@@ -37382,7 +38710,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q5e",
@@ -37410,7 +38739,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-02-SUVAT-Graphs-5.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q6a",
@@ -37440,7 +38770,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-02-SUVAT-Graphs-6.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q6b",
@@ -37468,7 +38799,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-02-SUVAT-Graphs-6.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q7a",
@@ -37497,7 +38829,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-02-SUVAT-Graphs-7.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q7b",
@@ -37527,7 +38860,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-02-SUVAT-Graphs-7.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q7c",
@@ -37555,7 +38889,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-02-SUVAT-Graphs-7.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q8a",
@@ -37584,7 +38919,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-02-SUVAT-Graphs-7.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q8b",
@@ -37612,7 +38948,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-02-SUVAT-Graphs-7.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-02-Q8c",
@@ -37641,7 +38978,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-02-SUVAT-Graphs-7.jpg",
       "papers/maths/img/M1-02-SUVAT-Graphs-8.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -37677,7 +39015,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-1.jpg",
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-03-Q1b",
@@ -37706,7 +39045,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-1.jpg",
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-03-Q1c",
@@ -37734,7 +39074,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-1.jpg",
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-03-Q2",
@@ -37765,7 +39106,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-2.jpg",
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-03-Q3a",
@@ -37794,7 +39136,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-2.jpg",
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-03-Q3b",
@@ -37822,7 +39165,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-2.jpg",
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-03-Q4a",
@@ -37850,7 +39194,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-3.jpg",
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-03-Q4b",
@@ -37879,7 +39224,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-3.jpg",
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-03-Q5a",
@@ -37907,7 +39253,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-4.jpg",
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-03-Q5b",
@@ -37934,7 +39281,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-4.jpg",
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-03-Q6a",
@@ -37963,7 +39311,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-5.jpg",
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-03-Q6b",
@@ -37992,7 +39341,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-5.jpg",
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-03-Q7i",
@@ -38021,7 +39371,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-6.jpg",
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-03-Q7ii",
@@ -38049,7 +39400,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-6.jpg",
       "papers/maths/img/M1-03-F-ma-Horizontal-Vertical-7.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -38088,7 +39440,8 @@ window.BANK.maths = {
       "papers/maths/img/M1-04-F-ma-Slope-1.jpg",
       "papers/maths/img/M1-04-F-ma-Slope-2.jpg",
       "papers/maths/img/M1-04-F-ma-Slope-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-04-Q1b",
@@ -38119,7 +39472,8 @@ window.BANK.maths = {
       "papers/maths/img/M1-04-F-ma-Slope-1.jpg",
       "papers/maths/img/M1-04-F-ma-Slope-2.jpg",
       "papers/maths/img/M1-04-F-ma-Slope-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-04-Q2a",
@@ -38149,7 +39503,8 @@ window.BANK.maths = {
       "papers/maths/img/M1-04-F-ma-Slope-1.jpg",
       "papers/maths/img/M1-04-F-ma-Slope-2.jpg",
       "papers/maths/img/M1-04-F-ma-Slope-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-04-Q2b",
@@ -38178,7 +39533,8 @@ window.BANK.maths = {
       "papers/maths/img/M1-04-F-ma-Slope-1.jpg",
       "papers/maths/img/M1-04-F-ma-Slope-2.jpg",
       "papers/maths/img/M1-04-F-ma-Slope-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-04-Q2c",
@@ -38208,7 +39564,8 @@ window.BANK.maths = {
       "papers/maths/img/M1-04-F-ma-Slope-1.jpg",
       "papers/maths/img/M1-04-F-ma-Slope-2.jpg",
       "papers/maths/img/M1-04-F-ma-Slope-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-04-Q3a",
@@ -38237,7 +39594,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-04-F-ma-Slope-3.jpg",
       "papers/maths/img/M1-04-F-ma-Slope-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-04-Q3b",
@@ -38265,7 +39623,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-04-F-ma-Slope-3.jpg",
       "papers/maths/img/M1-04-F-ma-Slope-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-04-Q3c",
@@ -38294,7 +39653,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-04-F-ma-Slope-3.jpg",
       "papers/maths/img/M1-04-F-ma-Slope-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-04-Q4a",
@@ -38322,7 +39682,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-04-F-ma-Slope-4.jpg",
       "papers/maths/img/M1-04-F-ma-Slope-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-04-Q4b",
@@ -38351,7 +39712,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-04-F-ma-Slope-4.jpg",
       "papers/maths/img/M1-04-F-ma-Slope-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-04-Q4c",
@@ -38380,7 +39742,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-04-F-ma-Slope-4.jpg",
       "papers/maths/img/M1-04-F-ma-Slope-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-04-Q5a",
@@ -38410,7 +39773,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-04-F-ma-Slope-4.jpg",
       "papers/maths/img/M1-04-F-ma-Slope-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-04-Q5b",
@@ -38440,7 +39804,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-04-F-ma-Slope-4.jpg",
       "papers/maths/img/M1-04-F-ma-Slope-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-04-Q6",
@@ -38470,7 +39835,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-04-F-ma-Slope-5.jpg",
       "papers/maths/img/M1-04-F-ma-Slope-6.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -38509,7 +39875,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-05-Forces-Equilibrium-1.jpg",
       "papers/maths/img/M1-05-Forces-Equilibrium-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-05-Q2i",
@@ -38538,7 +39905,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-05-Forces-Equilibrium-1.jpg",
       "papers/maths/img/M1-05-Forces-Equilibrium-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-05-Q2ii",
@@ -38567,7 +39935,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-05-Forces-Equilibrium-1.jpg",
       "papers/maths/img/M1-05-Forces-Equilibrium-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-05-Q3a",
@@ -38595,7 +39964,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-05-Forces-Equilibrium-2.jpg",
       "papers/maths/img/M1-05-Forces-Equilibrium-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-05-Q3b",
@@ -38624,7 +39994,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-05-Forces-Equilibrium-2.jpg",
       "papers/maths/img/M1-05-Forces-Equilibrium-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-05-Q3c",
@@ -38652,7 +40023,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-05-Forces-Equilibrium-2.jpg",
       "papers/maths/img/M1-05-Forces-Equilibrium-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-05-Q3d",
@@ -38681,7 +40053,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-05-Forces-Equilibrium-2.jpg",
       "papers/maths/img/M1-05-Forces-Equilibrium-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-05-Q4a",
@@ -38709,7 +40082,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-05-Forces-Equilibrium-2.jpg",
       "papers/maths/img/M1-05-Forces-Equilibrium-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-05-Q4b",
@@ -38737,7 +40111,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-05-Forces-Equilibrium-2.jpg",
       "papers/maths/img/M1-05-Forces-Equilibrium-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-05-Q5a",
@@ -38767,7 +40142,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-05-Forces-Equilibrium-3.jpg",
       "papers/maths/img/M1-05-Forces-Equilibrium-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-05-Q5b",
@@ -38796,7 +40172,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-05-Forces-Equilibrium-3.jpg",
       "papers/maths/img/M1-05-Forces-Equilibrium-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-05-Q5c",
@@ -38824,7 +40201,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-05-Forces-Equilibrium-3.jpg",
       "papers/maths/img/M1-05-Forces-Equilibrium-4.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -38862,7 +40240,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-06-Pulleys-1.jpg",
       "papers/maths/img/M1-06-Pulleys-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-06-Q1b",
@@ -38891,7 +40270,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-06-Pulleys-1.jpg",
       "papers/maths/img/M1-06-Pulleys-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-06-Q1c",
@@ -38920,7 +40300,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-06-Pulleys-1.jpg",
       "papers/maths/img/M1-06-Pulleys-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-06-Q2a",
@@ -38951,7 +40332,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-06-Pulleys-2.jpg",
       "papers/maths/img/M1-06-Pulleys-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-06-Q2b",
@@ -38980,7 +40362,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-06-Pulleys-2.jpg",
       "papers/maths/img/M1-06-Pulleys-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-06-Q3a",
@@ -39009,7 +40392,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-06-Pulleys-3.jpg",
       "papers/maths/img/M1-06-Pulleys-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-06-Q3b",
@@ -39037,7 +40421,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-06-Pulleys-3.jpg",
       "papers/maths/img/M1-06-Pulleys-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-06-Q3c",
@@ -39066,7 +40451,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-06-Pulleys-3.jpg",
       "papers/maths/img/M1-06-Pulleys-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-06-Q3d",
@@ -39094,7 +40480,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-06-Pulleys-3.jpg",
       "papers/maths/img/M1-06-Pulleys-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-06-Q4a",
@@ -39122,7 +40509,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-06-Pulleys-4.jpg",
       "papers/maths/img/M1-06-Pulleys-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-06-Q4b",
@@ -39152,7 +40540,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-06-Pulleys-4.jpg",
       "papers/maths/img/M1-06-Pulleys-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-06-Q4c",
@@ -39181,7 +40570,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-06-Pulleys-4.jpg",
       "papers/maths/img/M1-06-Pulleys-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-06-Q4d",
@@ -39209,7 +40599,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-06-Pulleys-4.jpg",
       "papers/maths/img/M1-06-Pulleys-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-06-Q5a",
@@ -39239,7 +40630,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-06-Pulleys-5.jpg",
       "papers/maths/img/M1-06-Pulleys-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-06-Q5b",
@@ -39269,7 +40661,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-06-Pulleys-5.jpg",
       "papers/maths/img/M1-06-Pulleys-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-06-Q5c",
@@ -39298,7 +40691,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-06-Pulleys-5.jpg",
       "papers/maths/img/M1-06-Pulleys-6.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -39335,7 +40729,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-1.jpg",
       "papers/maths/img/M1-07-Vectors-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q1b",
@@ -39365,7 +40760,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-1.jpg",
       "papers/maths/img/M1-07-Vectors-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q2a",
@@ -39393,7 +40789,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-1.jpg",
       "papers/maths/img/M1-07-Vectors-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q2b",
@@ -39423,7 +40820,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-1.jpg",
       "papers/maths/img/M1-07-Vectors-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q2c",
@@ -39453,7 +40851,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-1.jpg",
       "papers/maths/img/M1-07-Vectors-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q3a",
@@ -39482,7 +40881,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-2.jpg",
       "papers/maths/img/M1-07-Vectors-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q3b",
@@ -39511,7 +40911,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-2.jpg",
       "papers/maths/img/M1-07-Vectors-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q4a",
@@ -39539,7 +40940,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-2.jpg",
       "papers/maths/img/M1-07-Vectors-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q4b",
@@ -39567,7 +40969,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-2.jpg",
       "papers/maths/img/M1-07-Vectors-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q4c",
@@ -39596,7 +40999,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-2.jpg",
       "papers/maths/img/M1-07-Vectors-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q5a",
@@ -39627,7 +41031,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-3.jpg",
       "papers/maths/img/M1-07-Vectors-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q5b",
@@ -39656,7 +41061,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-3.jpg",
       "papers/maths/img/M1-07-Vectors-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q5c",
@@ -39684,7 +41090,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-3.jpg",
       "papers/maths/img/M1-07-Vectors-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q6a",
@@ -39712,7 +41119,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-4.jpg",
       "papers/maths/img/M1-07-Vectors-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q6b",
@@ -39740,7 +41148,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-4.jpg",
       "papers/maths/img/M1-07-Vectors-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q6c",
@@ -39770,7 +41179,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-4.jpg",
       "papers/maths/img/M1-07-Vectors-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q6d",
@@ -39799,7 +41209,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-4.jpg",
       "papers/maths/img/M1-07-Vectors-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q7a",
@@ -39828,7 +41239,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-5.jpg",
       "papers/maths/img/M1-07-Vectors-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q7b",
@@ -39856,7 +41268,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-5.jpg",
       "papers/maths/img/M1-07-Vectors-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q7c",
@@ -39885,7 +41298,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-5.jpg",
       "papers/maths/img/M1-07-Vectors-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q8a",
@@ -39913,7 +41327,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-6.jpg",
       "papers/maths/img/M1-07-Vectors-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q8b",
@@ -39942,7 +41357,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-6.jpg",
       "papers/maths/img/M1-07-Vectors-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q8c",
@@ -39971,7 +41387,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-6.jpg",
       "papers/maths/img/M1-07-Vectors-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q8d",
@@ -39999,7 +41416,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-6.jpg",
       "papers/maths/img/M1-07-Vectors-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q9",
@@ -40028,7 +41446,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-6.jpg",
       "papers/maths/img/M1-07-Vectors-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q10a",
@@ -40056,7 +41475,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-7.jpg",
       "papers/maths/img/M1-07-Vectors-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q10b",
@@ -40085,7 +41505,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-7.jpg",
       "papers/maths/img/M1-07-Vectors-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q10c",
@@ -40113,7 +41534,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-7.jpg",
       "papers/maths/img/M1-07-Vectors-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q10d",
@@ -40142,7 +41564,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-7.jpg",
       "papers/maths/img/M1-07-Vectors-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q10e",
@@ -40171,7 +41594,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-7.jpg",
       "papers/maths/img/M1-07-Vectors-8.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q11a",
@@ -40199,7 +41623,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-8.jpg",
       "papers/maths/img/M1-07-Vectors-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q11b",
@@ -40227,7 +41652,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-8.jpg",
       "papers/maths/img/M1-07-Vectors-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q11c",
@@ -40255,7 +41681,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-8.jpg",
       "papers/maths/img/M1-07-Vectors-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q11d",
@@ -40283,7 +41710,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-07-Vectors-8.jpg",
       "papers/maths/img/M1-07-Vectors-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q12a",
@@ -40310,7 +41738,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/M1-07-Vectors-9.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-07-Q12b",
@@ -40338,7 +41767,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/M1-07-Vectors-9.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -40375,7 +41805,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-08-Moments-01.jpg",
       "papers/maths/img/M1-08-Moments-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q2a",
@@ -40405,7 +41836,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-08-Moments-01.jpg",
       "papers/maths/img/M1-08-Moments-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q2b",
@@ -40433,7 +41865,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-08-Moments-01.jpg",
       "papers/maths/img/M1-08-Moments-02.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q3a",
@@ -40465,7 +41898,8 @@ window.BANK.maths = {
       "papers/maths/img/M1-08-Moments-02.jpg",
       "papers/maths/img/M1-08-Moments-03.jpg",
       "papers/maths/img/M1-08-Moments-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q3b",
@@ -40496,7 +41930,8 @@ window.BANK.maths = {
       "papers/maths/img/M1-08-Moments-02.jpg",
       "papers/maths/img/M1-08-Moments-03.jpg",
       "papers/maths/img/M1-08-Moments-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q3c",
@@ -40525,7 +41960,8 @@ window.BANK.maths = {
       "papers/maths/img/M1-08-Moments-02.jpg",
       "papers/maths/img/M1-08-Moments-03.jpg",
       "papers/maths/img/M1-08-Moments-04.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q4",
@@ -40555,7 +41991,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-08-Moments-04.jpg",
       "papers/maths/img/M1-08-Moments-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q5a",
@@ -40584,7 +42021,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-08-Moments-04.jpg",
       "papers/maths/img/M1-08-Moments-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q5b",
@@ -40614,7 +42052,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-08-Moments-04.jpg",
       "papers/maths/img/M1-08-Moments-05.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q6a",
@@ -40643,7 +42082,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-08-Moments-05.jpg",
       "papers/maths/img/M1-08-Moments-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q6b",
@@ -40672,7 +42112,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-08-Moments-05.jpg",
       "papers/maths/img/M1-08-Moments-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q6c",
@@ -40701,7 +42142,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-08-Moments-05.jpg",
       "papers/maths/img/M1-08-Moments-06.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q7a",
@@ -40731,7 +42173,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-08-Moments-06.jpg",
       "papers/maths/img/M1-08-Moments-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q7b",
@@ -40760,7 +42203,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-08-Moments-06.jpg",
       "papers/maths/img/M1-08-Moments-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q7c",
@@ -40788,7 +42232,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-08-Moments-06.jpg",
       "papers/maths/img/M1-08-Moments-07.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q8",
@@ -40818,7 +42263,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-08-Moments-07.jpg",
       "papers/maths/img/M1-08-Moments-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q9a",
@@ -40848,7 +42294,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-08-Moments-07.jpg",
       "papers/maths/img/M1-08-Moments-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q9b",
@@ -40878,7 +42325,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-08-Moments-07.jpg",
       "papers/maths/img/M1-08-Moments-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q9c",
@@ -40906,7 +42354,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-08-Moments-07.jpg",
       "papers/maths/img/M1-08-Moments-08.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q10",
@@ -40935,7 +42384,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-08-Moments-08.jpg",
       "papers/maths/img/M1-08-Moments-09.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q11a",
@@ -40965,7 +42415,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-08-Moments-09.jpg",
       "papers/maths/img/M1-08-Moments-10.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-08-Q11b",
@@ -40995,7 +42446,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-08-Moments-09.jpg",
       "papers/maths/img/M1-08-Moments-10.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   },
@@ -41033,7 +42485,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-1.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q1b",
@@ -41062,7 +42515,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-1.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q2a",
@@ -41091,7 +42545,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-1.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q2b",
@@ -41121,7 +42576,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-1.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-2.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q3a",
@@ -41151,7 +42607,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-2.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q3b",
@@ -41179,7 +42636,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-2.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q4a",
@@ -41208,7 +42666,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-2.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q4b",
@@ -41236,7 +42695,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-2.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-3.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q5a",
@@ -41264,7 +42724,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-3.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q5b",
@@ -41292,7 +42753,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-3.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q6a",
@@ -41321,7 +42783,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-3.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q6b",
@@ -41349,7 +42812,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-3.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q6c",
@@ -41379,7 +42843,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-3.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-4.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q7a",
@@ -41408,7 +42873,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-4.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q7b",
@@ -41436,7 +42902,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-4.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q7c",
@@ -41465,7 +42932,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-4.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-5.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q8a",
@@ -41495,7 +42963,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-5.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q8b",
@@ -41523,7 +42992,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-5.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q8c",
@@ -41551,7 +43021,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-5.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q9a",
@@ -41579,7 +43050,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-5.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q9b",
@@ -41609,7 +43081,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-5.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-6.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q10a",
@@ -41639,7 +43112,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-6.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q10b",
@@ -41667,7 +43141,8 @@ window.BANK.maths = {
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-6.jpg",
       "papers/maths/img/M1-09-Momentum-Impulse-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q11a",
@@ -41696,7 +43171,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-7.jpg"
-     ]
+     ],
+     "figures": []
     },
     {
      "id": "M1-09-Q11b",
@@ -41723,7 +43199,8 @@ window.BANK.maths = {
      ],
      "images": [
       "papers/maths/img/M1-09-Momentum-Impulse-7.jpg"
-     ]
+     ],
+     "figures": []
     }
    ]
   }

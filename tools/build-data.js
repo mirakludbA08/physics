@@ -42,7 +42,9 @@ function build(subject) {
           status: q.status === 'ready' ? 'ready' : 'pending',
           answer: q.answer,
           steps: Array.isArray(q.steps) ? q.steps : [],
-          images: Array.isArray(q.images) ? q.images : []
+          images: Array.isArray(q.images) ? q.images : [],
+          // Cropped diagrams, tables or graphs the question needs (papers/<subject>/fig/).
+          figures: Array.isArray(q.figures) ? q.figures : []
         }))
       }
     };

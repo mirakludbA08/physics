@@ -18,12 +18,20 @@
         "number of sugars"
       ],
       "question": "Which table row gives the correct number of monosaccharides and disaccharides shown in the sweetness graph?",
-      "status": "pending",
-      "answer": "Pending: the sweetness graph and the answer table rows are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 2 monosaccharides and 3 disaccharides.",
+      "steps": [
+        "The graph shows five sugars: lactose, maltose, glucose, sucrose and fructose.",
+        "Monosaccharides are single sugar units: glucose and fructose, so there are 2.",
+        "Disaccharides are two units joined together: lactose, maltose and sucrose, so there are 3.",
+        "Row B (2 and 3) is therefore correct."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-01.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q1.jpg"
       ]
     },
     {
@@ -67,12 +75,20 @@
         "conclusion"
       ],
       "question": "State two conclusions about the relative sweetness of monosaccharides and of disaccharides from the graph.",
-      "status": "pending",
-      "answer": "Pending: the values on the sweetness graph are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Fructose is the sweetest sugar (1.75); monosaccharides are not all sweeter than disaccharides, e.g. sucrose (1.0) is sweeter than glucose (0.74).",
+      "steps": [
+        "Read the bars: lactose 0.16, maltose 0.33, glucose 0.74, sucrose 1.0, fructose 1.75 (relative sweetness).",
+        "Conclusion 1: fructose, a monosaccharide, is the sweetest sugar shown, about 1.75 times as sweet as sucrose.",
+        "Conclusion 2: disaccharides vary widely in sweetness (0.16 to 1.0) and sucrose is sweeter than glucose, so being a monosaccharide does not guarantee more sweetness.",
+        "Alternative acceptable point: lactose is the least sweet sugar, and the two monosaccharides are on average sweeter than the three disaccharides."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-01.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q1.jpg"
       ]
     },
     {
@@ -102,6 +118,9 @@
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-01.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q1.jpg"
       ]
     },
     {
@@ -202,13 +221,20 @@
         "identify"
       ],
       "question": "Identify the carbohydrate described in part (i) of the diagram.",
-      "status": "pending",
-      "answer": "Pending: the diagram describing each carbohydrate is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: lactose.",
+      "steps": [
+        "Lactose is the disaccharide found in cow's milk (glucose + galactose).",
+        "Amylose is a polysaccharide and galactose is a monosaccharide, so A and B are wrong.",
+        "Sucrose is a disaccharide but is the sugar found in plants such as sugar cane, not milk."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-03.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q2.jpg"
       ]
     },
     {
@@ -225,13 +251,20 @@
         "identify"
       ],
       "question": "Identify the carbohydrate described in part (ii) of the diagram.",
-      "status": "pending",
-      "answer": "Pending: the diagram describing each carbohydrate is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: maltose.",
+      "steps": [
+        "The question sits on the disaccharide branch, so the answer must be a disaccharide.",
+        "Maltose is two alpha glucose units joined by a 1-4 glycosidic bond, so it contains only glucose.",
+        "Sucrose contains fructose, galactose is a monosaccharide, and amylopectin is a polysaccharide."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-03.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q2.jpg"
       ]
     },
     {
@@ -248,13 +281,19 @@
         "identify"
       ],
       "question": "Identify the carbohydrate described in part (iii) of the diagram.",
-      "status": "pending",
-      "answer": "Pending: the diagram describing each carbohydrate is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: glycogen.",
+      "steps": [
+        "Glycogen is the polysaccharide used as the energy store in animals.",
+        "Amylose is the plant store, and fructose and sucrose are not polysaccharides."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-03.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q2.jpg"
       ]
     },
     {
@@ -271,13 +310,19 @@
         "identify"
       ],
       "question": "Identify the carbohydrate described in part (iv) of the diagram.",
-      "status": "pending",
-      "answer": "Pending: the diagram describing each carbohydrate is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: amylopectin.",
+      "steps": [
+        "Amylopectin is a branched polysaccharide, with 1-6 glycosidic bonds at the branch points.",
+        "Amylose has only 1-4 bonds, and fructose and maltose are not polysaccharides."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-02.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-03.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q2.jpg"
       ]
     },
     {
@@ -322,13 +367,21 @@
         "effect of temperature"
       ],
       "question": "Describe the effect of temperature on the solubility of salts F, G and H from the graph.",
-      "status": "pending",
-      "answer": "Pending: the solubility graph for salts F, G and H is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "F: solubility rises steadily with temperature; G: rises sharply to 30 C then falls slowly; H: unaffected (constant at 30 g per 100 g water).",
+      "steps": [
+        "Salt F: solubility increases in a straight line, from about 6 g at 0 C to about 78 g per 100 g water at 80 C.",
+        "Salt G: solubility increases steeply (curved) from about 5 g at 0 C to a maximum of 50 g at 30 C.",
+        "Salt G: above 30 C solubility decreases gradually, to about 40 g at 80 C.",
+        "Salt H: solubility stays constant at 30 g per 100 g water at all temperatures, so temperature has no effect."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-05.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q3.jpg"
       ]
     },
     {
@@ -345,13 +398,20 @@
         "ratio"
       ],
       "question": "How many times more soluble is salt G than salt H at 30 C? Options: A 15.00, B 1.67, C 1.50, D 0.60.",
-      "status": "pending",
-      "answer": "Pending: the solubility values read from the graph at 30 C are needed, and the graph is missing.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 1.67",
+      "steps": [
+        "At 30 C salt G has a solubility of 50 g per 100 g water (its peak).",
+        "At 30 C salt H has a solubility of 30 g per 100 g water.",
+        "Ratio = 50 / 30 = 1.67, so salt G is 1.67 times more soluble than H."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-04.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-05.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q3.jpg"
       ]
     },
     {
@@ -368,13 +428,21 @@
         "compare contrast"
       ],
       "question": "Compare and contrast the effect of temperature on the solubility of sodium chloride and glucose in water, using the graph.",
-      "status": "pending",
-      "answer": "Pending: the solubility-temperature graph for sodium chloride and glucose is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Both are more soluble at higher temperature, but glucose is far more soluble and its solubility increases much more steeply than that of NaCl.",
+      "steps": [
+        "Similarity: the solubility of both sodium chloride and glucose increases as temperature rises from 10 C to 60 C.",
+        "Difference: glucose rises from about 75 to about 300 g per 100 cm^3 (an increase of about 225), whereas NaCl rises only from about 45 to about 55 g (about 10).",
+        "Difference: the glucose curve gets steeper with temperature (non-linear), while NaCl is almost a flat straight line.",
+        "Glucose is more soluble than NaCl at every temperature shown."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-07.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-08.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q4.jpg"
       ]
     },
     {
@@ -391,13 +459,22 @@
         "calculation"
       ],
       "question": "Using the table, calculate the molecular mass of glucose, given that the formula mass of sodium chloride is 58.44.",
-      "status": "pending",
-      "answer": "Pending: the table giving the glucose data is not in the text (glucose, C6H12O6, is 180).",
-      "steps": [],
+      "status": "ready",
+      "answer": "180",
+      "steps": [
+        "Glucose is C6H12O6.",
+        "Carbon: 6 x 12 = 72.",
+        "Hydrogen: 12 x 1 = 12.",
+        "Oxygen: 6 x 16 = 96.",
+        "Molecular mass = 72 + 12 + 96 = 180."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-07.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-08.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q4-2.jpg"
       ]
     },
     {
@@ -414,13 +491,20 @@
         "calculation"
       ],
       "question": "Calculate how many times greater the molecular mass of glucose is than the formula mass of sodium chloride.",
-      "status": "pending",
-      "answer": "Pending: depends on the glucose molecular mass read from the missing table in part (ii). If 180 is used, the answer is about 3.08.",
-      "steps": [],
+      "status": "ready",
+      "answer": "3.08 (3 significant figures)",
+      "steps": [
+        "Ratio = molecular mass of glucose / formula mass of NaCl.",
+        "180 / 58.44 = 3.0801...",
+        "So glucose is 3.08 times greater (3 s.f.)."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-07.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-08.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q4-2.jpg"
       ]
     },
     {
@@ -438,13 +522,21 @@
         "water"
       ],
       "question": "Suggest why sodium chloride and glucose differ in solubility in water.",
-      "status": "pending",
-      "answer": "Pending: the answer depends on which solute is more soluble from the graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Glucose is more soluble because its many -OH groups hydrogen bond with water; NaCl is ionic and dissolves only as its ions are attracted to the charged ends of water molecules.",
+      "steps": [
+        "Water is polar (O delta-, H delta+), so it can dissolve both polar molecules and ions.",
+        "Glucose has several polar -OH groups, which form many hydrogen bonds with water molecules, so large amounts dissolve.",
+        "NaCl is an ionic lattice: Na+ and Cl- have to be pulled out of the lattice by ion-dipole attraction to water, and the graph shows much less NaCl dissolves.",
+        "The difference in the type and number of attractions to water explains the difference in solubility."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-06.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-07.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-08.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q4.jpg"
       ]
     },
     {
@@ -636,13 +728,21 @@
         "diagram"
       ],
       "question": "Complete the diagram to show a 1-2 glycosidic bond between glucose carbon 1 and fructose carbon 2.",
-      "status": "pending",
-      "answer": "Pending: the glucose and fructose diagram to complete is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Draw an oxygen atom as a bridge between C1 of glucose and C2 of fructose (C1-O-C2), with the OH groups on those carbons removed.",
+      "steps": [
+        "A glycosidic bond is a C-O-C link between the two sugar rings.",
+        "Remove the OH from carbon 1 of glucose and the OH from carbon 2 of fructose (they leave as water).",
+        "Draw one oxygen atom bonded to carbon 1 of glucose and to carbon 2 of fructose.",
+        "Each C-O line must be a single bond joining the two ring structures."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-12.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q7.jpg"
       ]
     },
     {
@@ -700,6 +800,9 @@
         "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-12.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q7-2.jpg"
       ]
     },
     {
@@ -728,6 +831,9 @@
         "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-12.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q7-2.jpg"
       ]
     },
     {
@@ -744,13 +850,20 @@
         "reagent"
       ],
       "question": "State why the concentration of maltose and lactose cannot be measured using the sucrose test.",
-      "status": "pending",
-      "answer": "Pending: the steps of the sucrose test chart are missing, so the specific reason cannot be confirmed from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Maltose and lactose contain no fructose, so no coloured product forms with the chemical that binds fructose (and the enzyme is specific to sucrose).",
+      "steps": [
+        "The test breaks sucrose into glucose and fructose, then adds a chemical that binds to fructose and changes colour.",
+        "Maltose is glucose + glucose and lactose is glucose + galactose, so neither releases any fructose.",
+        "Without fructose there is no colour change, so colour intensity cannot be used to measure their concentration."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-11.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-12.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q7-2.jpg"
       ]
     },
     {
@@ -768,14 +881,21 @@
         "starch"
       ],
       "question": "Put one cross in each row of a table to show whether each bond is present in amylose and amylopectin.",
-      "status": "pending",
-      "answer": "Pending: the bonds table with the tick boxes is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Glycosidic bonds: both amylose and amylopectin; 1-6 alpha bonds: amylopectin only; hydrogen bonds: both amylose and amylopectin.",
+      "steps": [
+        "Both are polymers of alpha glucose joined by glycosidic bonds, so tick \"both\" in row 1.",
+        "1-6 alpha bonds form the branches, which only amylopectin has (amylose is unbranched with 1-4 bonds only), so tick \"amylopectin only\" in row 2.",
+        "Hydrogen bonds stabilise the coiled helix of amylose and the folded, branched structure of amylopectin, so tick \"both\" in row 3."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-14.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-15.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-16.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q8.jpg"
       ]
     },
     {
@@ -792,14 +912,22 @@
         "conclusion"
       ],
       "question": "Describe two conclusions about the effect of temperature and source of starch on the loss of amylose, from the graph.",
-      "status": "pending",
-      "answer": "Pending: the amylose loss graph for the four starch sources at three temperatures is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1: more amylose is lost as temperature rises (e.g. cassava 9% at 60 C to 94% at 80 C). 2: the source matters, cassava loses the most amylose and potato the least.",
+      "steps": [
+        "Read the bars (% amylose lost at 60 / 70 / 80 C): potato 4 / 6 / 24; cassava 9 / 60 / 94; sweet potato 8 / 15 / 64; maize 8 / 25 / 58.",
+        "Effect of temperature: for every source, the higher the temperature the greater the % amylose lost, with the largest rise between 70 and 80 C.",
+        "Effect of source: at 70 C and 80 C cassava loses the most amylose (60% and 94%) and potato the least (6% and 24%).",
+        "At 60 C all four sources lose little amylose (4 to 9%), so the differences between sources are small."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-14.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-15.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-16.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q8-2.jpg"
       ]
     },
     {
@@ -817,14 +945,22 @@
         "graph"
       ],
       "question": "Compare and contrast the effects of temperature on the loss of amylose and amylopectin from rice, using the graph.",
-      "status": "pending",
-      "answer": "Pending: the rice cooking temperature graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Both rise with temperature to a peak at 85 C then fall; amylopectin is lost from 20 C (amylose from 40 C), and above about 65 C more amylopectin than amylose is lost.",
+      "steps": [
+        "Similarity: the concentration of both in the liquid increases as temperature rises, reaches a maximum at 85 C (amylopectin about 10.4 a.u., amylose about 5.2 a.u.) and then falls at 90 C.",
+        "Difference: amylopectin is detected from 20 C (about 0.6 a.u.), but no amylose is lost until 40 C (0 a.u.).",
+        "Difference: from about 45 to 65 C slightly more amylose than amylopectin is lost, but above about 65 C the loss of amylopectin is greater.",
+        "Difference: between 60 and 85 C amylopectin rises much more steeply (1.8 to 10.4 a.u.) than amylose (2.8 to 5.2 a.u.)."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-14.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-15.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-16.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q8-3.jpg"
       ]
     },
     {
@@ -841,14 +977,22 @@
         "cooking"
       ],
       "question": "Comment on the effect of the replacement liquids on the hardness and stickiness of cooked rice, using the table.",
-      "status": "pending",
-      "answer": "Pending: the results table for hardness and stickiness of rice is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Amylose in the liquid makes rice harder (19.42 to 27.63) with almost no change in stickiness (1.19 to 1.21); amylopectin makes it stickier (1.19 to 1.71) with little change in hardness (19.42 to 20.43).",
+      "steps": [
+        "Compare with the water control (hardness 19.42, stickiness 1.19).",
+        "Amylose: hardness increases by about 8.2 a.u. (to 27.63) but stickiness is almost unchanged (1.21), so amylose mainly increases hardness.",
+        "Amylopectin: stickiness increases by 0.52 (to 1.71) but hardness changes only slightly (20.43), so amylopectin mainly increases stickiness.",
+        "Both together give hardness 27.65 and stickiness 1.70, almost the same as amylose alone for hardness and amylopectin alone for stickiness, so the effects appear independent."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-14.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-15.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-16.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q8-4.jpg"
       ]
     },
     {
@@ -866,14 +1010,21 @@
         "table"
       ],
       "question": "Suggest why rice should be cooked in a measured volume of water, with the lid on, until all the liquid is absorbed, using the table.",
-      "status": "pending",
-      "answer": "Pending: the table of cooking results is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "So the amylose and amylopectin lost into the cooking liquid are reabsorbed and not poured away; liquid containing them gives harder and stickier rice (27.65 and 1.70) than water alone (19.42 and 1.19).",
+      "steps": [
+        "Cooking releases amylose and amylopectin from the rice into the cooking water.",
+        "If all the liquid is absorbed (lid on, measured volume), these starch molecules go back into the rice rather than being lost.",
+        "The table shows liquid containing both increases hardness (19.42 to 27.65) and stickiness (1.19 to 1.70), so the rice keeps its intended texture."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-13.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-14.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-15.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-16.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q8-4.jpg"
       ]
     },
     {
@@ -918,13 +1069,20 @@
         "table"
       ],
       "question": "Match each statement about carbohydrates to the correct carbohydrate by putting one cross in each row of a table.",
-      "status": "pending",
-      "answer": "Pending: the statements table with the tick boxes is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Row 1 (general formula CnH2nOn): monosaccharides only. Row 2 (glycosidic bonds): polysaccharides only. Row 3 (little effect on water potential): polysaccharides only.",
+      "steps": [
+        "Monosaccharides have the formula CnH2nOn; polysaccharides are made by condensation and lose water, so they do not fit this formula. Tick \"monosaccharides only\".",
+        "Glycosidic bonds join monosaccharide units together, so they occur in polysaccharides and not in single monosaccharides. Tick \"polysaccharides only\".",
+        "Polysaccharides are large and insoluble, so they have little effect on water potential; soluble monosaccharides lower it. Tick \"polysaccharides only\"."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-17.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-18.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q9.jpg"
       ]
     },
     {
@@ -1112,12 +1270,19 @@
         "table"
       ],
       "question": "Which row of the table describes how two amino acids are joined together in an enzyme molecule?",
-      "status": "pending",
-      "answer": "Pending: the table with the rows describing the bonding is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: peptide, condensation.",
+      "steps": [
+        "Amino acids are joined by a peptide bond (CO-NH), so A and B (ester) are wrong.",
+        "The bond forms when a molecule of water is removed, which is a condensation reaction, not hydrolysis.",
+        "Row C (peptide, condensation) is correct."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-19.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-20.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q11.jpg"
       ]
     },
     {
@@ -1190,11 +1355,18 @@
         "table"
       ],
       "question": "Using the table, state which type of bonding is true for the secondary and tertiary structures of a protein.",
-      "status": "pending",
-      "answer": "Pending: the table of bond types for secondary and tertiary structure is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Secondary structure: hydrogen bonds only. Three-dimensional structure: both hydrogen and ionic bonds.",
+      "steps": [
+        "The secondary structure (alpha helix or beta pleated sheet) is held by hydrogen bonds between backbone C=O and N-H groups only.",
+        "The three-dimensional (tertiary) structure is held by hydrogen bonds and ionic bonds between R groups (as well as disulfide bridges and hydrophobic interactions).",
+        "So tick \"hydrogen bonds only\" for secondary and \"both hydrogen and ionic bonds\" for 3-D structure."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-20.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q12.jpg"
       ]
     },
     {
@@ -1251,6 +1423,9 @@
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-21.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-22.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q13.jpg"
       ]
     },
     {
@@ -1295,12 +1470,20 @@
         "table"
       ],
       "question": "Explain the results of the investigation into the effect of two temperatures on the lengths of the primary and secondary structures of a polypeptide, using the table.",
-      "status": "pending",
-      "answer": "Pending: the results table of primary and secondary structure lengths at two temperatures is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The primary structure stays 505 nm because strong peptide bonds are not broken at 55 C; the secondary structure lengthens (48 to 70 nm) because heat breaks its weak hydrogen bonds.",
+      "steps": [
+        "Primary structure length is 505 nm at both 25 C and 55 C: it is held by strong covalent peptide bonds, which are not broken at 55 C.",
+        "Secondary structure increases from 48 nm to 70 nm (an increase of 22 nm, about 46%).",
+        "It is held by weak hydrogen bonds, which are broken or stretched as the molecules gain kinetic energy and vibrate more at 55 C.",
+        "The helix or pleated sheet therefore partly unwinds, so the structure becomes longer."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-21.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-22.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q13-2.jpg"
       ]
     },
     {
@@ -1344,12 +1527,19 @@
         "table"
       ],
       "question": "Put one cross in each row of a table to show whether each structure is present in amylose and amylopectin.",
-      "status": "pending",
-      "answer": "Pending: the structure table with the tick boxes is missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Glycosidic bonds: both; 1-4 alpha bonds: both; branched side chains: amylopectin only.",
+      "steps": [
+        "Both amylose and amylopectin are alpha glucose polymers joined by glycosidic bonds, so tick \"both\".",
+        "1-4 alpha glycosidic bonds form the main chains in both molecules, so tick \"both\".",
+        "Branched side chains (from 1-6 bonds) occur only in amylopectin; amylose is unbranched, so tick \"amylopectin only\"."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-22.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q14.jpg"
       ]
     },
     {
@@ -1377,6 +1567,9 @@
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-22.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q14-2.jpg"
       ]
     },
     {
@@ -1425,15 +1618,24 @@
         "table"
       ],
       "question": "Which row of the table describes the solubility of alanine, aspartate and tryptophan in a non-polar organic solvent, given their R groups in a diagram?",
-      "status": "pending",
-      "answer": "Pending: the R group diagram and the solubility table are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: alanine, tryptophan, aspartate (most to least soluble).",
+      "steps": [
+        "A non-polar solvent dissolves non-polar R groups best and charged R groups worst.",
+        "Alanine (CH3) is small and non-polar, so it is the most soluble.",
+        "Tryptophan has a large ring and hydrocarbon group that is mostly non-polar, so it is moderately soluble.",
+        "Aspartate has a charged carboxylate group (COO-), so it is the least soluble; this matches row B."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-23.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-24.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-25.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-26.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-27.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q15.jpg",
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q15-2.jpg"
       ]
     },
     {
@@ -1451,9 +1653,13 @@
         "solvent"
       ],
       "question": "Calculate how many times more soluble histidine (43.5 g per dm3) is than leucine, given the mass of leucine that dissolves in 250 cm3 of the same solvent.",
-      "status": "pending",
-      "answer": "Pending: the mass of leucine dissolving in 250 cm3 is garbled by a watermark in the text and cannot be read reliably.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1.98 (about 2 times)",
+      "steps": [
+        "Convert leucine to g per dm^3: 5.5 g in 250 cm^3 = 5.5 x (1000 / 250) = 22 g dm^-3.",
+        "Histidine is 43.5 g dm^-3.",
+        "Ratio = 43.5 / 22 = 1.977..., so histidine is 1.98 times more soluble (3 s.f.)."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-23.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-24.jpg",
@@ -1478,15 +1684,26 @@
         "graphs"
       ],
       "question": "Explain the results showing protein and amino acid concentrations in healthy leaf tissue, leaf tissue with galls and galls, using both graphs and the table of five amino acids.",
-      "status": "pending",
-      "answer": "Pending: the two concentration graphs and the table of five amino acid abundances are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Galls contain far more protein (24 vs 5 mg per g) and amino acids (39 vs 21 mg per g) than healthy leaf, because the insect saliva enzymes change the plant tissue so nutrients build up in the galls to feed the larva.",
+      "steps": [
+        "Protein: 5 mg per g in healthy leaf, 13 in leaf with galls and 24 in galls, so galls have about 5 times more protein than healthy tissue.",
+        "Amino acids: 21 in healthy leaf, 24 in leaf with galls and 39 in galls, so galls have about 1.9 times more amino acids; amino acids are the monomers used to build the extra protein.",
+        "Saliva enzymes change the nutrients in the leaf and cause the plant to concentrate or synthesise protein and amino acids in the galls, giving the developing insect a rich food supply.",
+        "Table: histidine is absent from healthy and galled leaf tissue but abundant (++) in galls, so it is made or accumulated only in the galls.",
+        "Arginine (and alanine) fall in leaf with galls but are most abundant in galls, suggesting they are transported from the rest of the leaf into the galls.",
+        "Leucine stays the same (+) everywhere and tryptophan is absent everywhere, so not all amino acids are affected; the effect is selective."
+      ],
       "images": [
         "papers/biology/img/01A-Chemistry-for-Biologists-23.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-24.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-25.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-26.jpg",
         "papers/biology/img/01A-Chemistry-for-Biologists-27.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q15-3.jpg",
+        "papers/biology/fig/01A-Chemistry-for-Biologists-Q15-4.jpg"
       ]
     }
   ]

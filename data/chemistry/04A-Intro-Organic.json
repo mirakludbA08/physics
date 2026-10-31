@@ -80,12 +80,20 @@
         "counting atoms"
       ],
       "question": "What is the molecular formula of the compound shown? Options: A C2HO2; B C4H2O4; C C4H4O4; D C4H6O4.",
-      "status": "pending",
-      "answer": "PENDING: the structure of the compound (diagram) is missing from the text, so the formula cannot be counted.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: C4H2O4",
+      "steps": [
+        "The ring is a four-membered carbon ring (cyclobutene) with 4 carbon atoms, so C4.",
+        "The two ring carbons carrying O are C=O (carbonyl) with no H, and the two ring carbons joined by the C=C each carry an OH, so there are no H on the ring.",
+        "The only hydrogens are the two in the two OH groups, so H2.",
+        "Oxygens: 2 C=O + 2 OH = 4, so the formula is C4H2O4 (option B)."
+      ],
       "images": [
         "papers/chemistry/img/04A-Intro-Organic-01.jpg",
         "papers/chemistry/img/04A-Intro-Organic-02.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04A-Intro-Organic-Q3.jpg"
       ]
     },
     {
@@ -104,14 +112,22 @@
         "fifth molecule"
       ],
       "question": "A sequence of four molecules is shown. Give the molecular formula of the fifth molecule. Options: A CH4O; B C6H11O; C C6H14O; D C7H16O.",
-      "status": "pending",
-      "answer": "PENDING: the four-molecule sequence (diagram) is missing from the text, so the pattern cannot be continued.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: C6H14O",
+      "steps": [
+        "The molecules are ethanol (C2H6O), propan-2-ol (C3H8O), butan-2-ol (C4H10O) and pentan-2-ol (C5H12O).",
+        "Each step adds one CH2 group, so the pattern is a homologous series of secondary alcohols with OH on carbon 2.",
+        "The fifth member is hexan-2-ol with six carbons: C6H14O (option C).",
+        "Check with the general formula CnH(2n+2)O: n = 6 gives C6H14O."
+      ],
       "images": [
         "papers/chemistry/img/04A-Intro-Organic-02.jpg",
         "papers/chemistry/img/04A-Intro-Organic-03.jpg",
         "papers/chemistry/img/04A-Intro-Organic-04.jpg",
         "papers/chemistry/img/04A-Intro-Organic-05.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04A-Intro-Organic-Q4.jpg"
       ]
     },
     {
@@ -143,6 +159,9 @@
         "papers/chemistry/img/04A-Intro-Organic-03.jpg",
         "papers/chemistry/img/04A-Intro-Organic-04.jpg",
         "papers/chemistry/img/04A-Intro-Organic-05.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04A-Intro-Organic-Q4.jpg"
       ]
     },
     {
@@ -320,14 +339,24 @@
         "tick box"
       ],
       "question": "Tick the hazard symbols that apply to ammonium dichromate(VI) from the symbols shown on the packaging.",
-      "status": "pending",
-      "answer": "PENDING: the hazard symbol images are not in the text, so the ticks cannot be checked. The hazards expected are oxidising, toxic and environmental.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Tick the oxidising (flame over circle), toxic (skull and crossbones) and corrosive symbols.",
+      "steps": [
+        "Match each warning on the packaging to a hazard symbol.",
+        "\"Strong oxidiser that enhances the combustion of other substances\": the flame over circle (oxidising) symbol.",
+        "\"Toxic when inhaled and through the skin\": the skull and crossbones symbol.",
+        "\"Contact can irritate and burn the skin and eyes, with possible eye damage\": the corrosive symbol (liquid eating a hand and a surface); the exclamation mark would only be for irritation, and burning is more severe.",
+        "The plain flame (flammable) and exploding bomb symbols are not stated on the packaging, so they are not ticked."
+      ],
       "images": [
         "papers/chemistry/img/04A-Intro-Organic-02.jpg",
         "papers/chemistry/img/04A-Intro-Organic-03.jpg",
         "papers/chemistry/img/04A-Intro-Organic-04.jpg",
         "papers/chemistry/img/04A-Intro-Organic-05.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04A-Intro-Organic-Q5.jpg",
+        "papers/chemistry/fig/04A-Intro-Organic-Q5-2.jpg"
       ]
     },
     {
@@ -377,12 +406,20 @@
         "structure"
       ],
       "question": "Give the IUPAC name of the alkane shown. Options: A 2-ethyl-4,5-dimethylheptane; B 6-ethyl-3,4-dimethylheptane; C 3,4,6-trimethyloctane; D 3,5,6-trimethyloctane.",
-      "status": "pending",
-      "answer": "PENDING: the structure of the alkane (diagram) is missing from the text, so the IUPAC name cannot be matched to an option.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 3,4,6-trimethyloctane",
+      "steps": [
+        "Find the longest carbon chain: it runs from the right-hand end along the zig-zag and then down through the two carbons of the lower-left branch, giving 8 carbons. So the parent is octane, and the lower-left branch is part of the chain, not an ethyl group.",
+        "Three one-carbon branches (methyl groups) hang off this chain, so it is a trimethyloctane.",
+        "Number from the right-hand end: the methyls are on carbons 3, 4 and 6. Numbering from the other end gives 3, 5, 6, which is higher at the second locant.",
+        "The lowest locants are 3,4,6, so the name is 3,4,6-trimethyloctane (option C)."
+      ],
       "images": [
         "papers/chemistry/img/04A-Intro-Organic-05.jpg",
         "papers/chemistry/img/04A-Intro-Organic-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04A-Intro-Organic-Q6.jpg"
       ]
     },
     {
@@ -401,12 +438,18 @@
         "CLP"
       ],
       "question": "A substance is labelled with a hazard symbol (image, not in text). What does the symbol mean? Options: A gloves must be worn; B corrosive; C do not store with flammable substances; D oxidising.",
-      "status": "pending",
-      "answer": "PENDING: the hazard symbol image is not in the text, so the meaning cannot be matched to an option.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: corrosive",
+      "steps": [
+        "The symbol shows a liquid dripping onto a hand and a surface, which is the GHS corrosive symbol.",
+        "Oxidising is a flame over a circle, and flammable is a plain flame, so the other options do not match."
+      ],
       "images": [
         "papers/chemistry/img/04A-Intro-Organic-05.jpg",
         "papers/chemistry/img/04A-Intro-Organic-06.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04A-Intro-Organic-Q7.jpg"
       ]
     },
     {
@@ -465,6 +508,9 @@
       "images": [
         "papers/chemistry/img/04A-Intro-Organic-06.jpg",
         "papers/chemistry/img/04A-Intro-Organic-07.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04A-Intro-Organic-Q9.jpg"
       ]
     },
     {
@@ -483,12 +529,20 @@
         "stereo drawing"
       ],
       "question": "Which skeletal structure matches 3,4-dichloro-2,2-dimethylpentane? The options are skeletal structures (images) not in the text.",
-      "status": "pending",
-      "answer": "PENDING: the skeletal structure options (images) are not in the text. Expected: a pentane chain with two CH3 on C2 and Cl on C3 and C4.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A",
+      "steps": [
+        "Draw the carbon skeleton: pentane chain C1 to C5, with two CH3 groups on C2, and one Cl on each of C3 and C4.",
+        "Structure A is (CH3)3C-CHCl-CHCl-CH3: a quaternary carbon (C2) carrying two methyl branches plus C1, then two CHCl carbons (C3 and C4), then a terminal CH3 (C5).",
+        "B, C and D each put a Cl on the quaternary carbon, which should carry the two methyls, so none of them fits.",
+        "Only A gives 3,4-dichloro-2,2-dimethylpentane."
+      ],
       "images": [
         "papers/chemistry/img/04A-Intro-Organic-07.jpg",
         "papers/chemistry/img/04A-Intro-Organic-08.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04A-Intro-Organic-Q10.jpg"
       ]
     },
     {
@@ -506,12 +560,19 @@
         "safety"
       ],
       "question": "Four reagent bottles W, X, Y and Z have hazard labels (images, not in text). Which two should never be stored together? Options: A W and Z; B Y and Z; C W and X; D Y and X.",
-      "status": "pending",
-      "answer": "PENDING: the hazard labels on bottles W, X, Y and Z are images not present in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: W and X",
+      "steps": [
+        "Read the labels: W is oxidising (flame over circle), X is flammable (flame), Y is corrosive and Z is toxic (skull and crossbones).",
+        "Oxidising agents supply oxygen and make flammable materials burn much more readily, so an oxidiser and a flammable substance must never be stored together.",
+        "That pair is W and X, so the answer is C."
+      ],
       "images": [
         "papers/chemistry/img/04A-Intro-Organic-08.jpg",
         "papers/chemistry/img/04A-Intro-Organic-09.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04A-Intro-Organic-Q11.jpg"
       ]
     },
     {
@@ -530,12 +591,20 @@
         "GHS"
       ],
       "question": "Prop-2-en-1-ol is flammable, toxic and an environmental hazard. Which hazard symbols should be on its container? The options are symbol images not in the text.",
-      "status": "pending",
-      "answer": "PENDING: the hazard symbol options (images) are not in the text. Expected: flame, skull and crossbones (or toxic) and environment symbols.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: flame, skull and crossbones, environmental hazard",
+      "steps": [
+        "Flammable corresponds to the plain flame symbol.",
+        "Toxic corresponds to the skull and crossbones symbol.",
+        "Environmental hazard corresponds to the dead tree and fish symbol.",
+        "Only option A has all three: B and C contain an oxidising symbol, and B and D contain the health-hazard symbol, which is not a stated hazard."
+      ],
       "images": [
         "papers/chemistry/img/04A-Intro-Organic-09.jpg",
         "papers/chemistry/img/04A-Intro-Organic-10.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04A-Intro-Organic-Q12.jpg"
       ]
     },
     {
@@ -554,12 +623,20 @@
         "structure"
       ],
       "question": "What is the empirical formula of the molecule shown? Options: A C4H4Cl; B C4H7Cl; C C8H11Cl2; D C8H14Cl2.",
-      "status": "pending",
-      "answer": "PENDING: the structure of the molecule (diagram) is missing from the text, so the empirical formula cannot be found.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: C4H7Cl",
+      "steps": [
+        "Count the atoms: a six-carbon saturated ring, plus one CH3 and one CH2Cl, so 8 carbons in total.",
+        "Hydrogens: the ring has three CH2 (6 H) and three CH (3 H), so 9 H; the CH3 adds 3 and the CH2Cl adds 2, giving 14 H.",
+        "Two chlorines (one on the ring, one in CH2Cl), so the molecular formula is C8H14Cl2.",
+        "Divide by 2 for the simplest whole-number ratio: C4H7Cl (option B)."
+      ],
       "images": [
         "papers/chemistry/img/04A-Intro-Organic-11.jpg",
         "papers/chemistry/img/04A-Intro-Organic-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04A-Intro-Organic-Q13.jpg"
       ]
     },
     {
@@ -578,12 +655,20 @@
         "structure"
       ],
       "question": "What is the IUPAC name of the hydrocarbon shown? Options: A 2-ethyl-3-methylnonane; B 3,4-dimethyldecane; C 8-ethyl-7-methylnonane; D 7,8-dimethyldecane.",
-      "status": "pending",
-      "answer": "PENDING: the structure of the hydrocarbon (diagram) is missing from the text, so the name cannot be matched to an option.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: 3,4-dimethyldecane",
+      "steps": [
+        "The longest chain goes from the left end along the zig-zag to the carbon carrying the ethyl group and on through the ethyl group, giving 10 carbons, so the parent is decane (not nonane).",
+        "The branches are two methyl groups on adjacent carbons: one on the carbon where the ethyl group joins the chain, and one on the next carbon along.",
+        "Number from the ethyl end so the methyls are on the lowest locants: 3 and 4 (the other direction would give 7 and 8).",
+        "The name is 3,4-dimethyldecane (option B)."
+      ],
       "images": [
         "papers/chemistry/img/04A-Intro-Organic-11.jpg",
         "papers/chemistry/img/04A-Intro-Organic-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04A-Intro-Organic-Q14.jpg"
       ]
     },
     {
@@ -602,12 +687,18 @@
         "alkane"
       ],
       "question": "Which hazard warning symbol would be found on a bottle of hexane? The symbol options are images not in the text.",
-      "status": "pending",
-      "answer": "PENDING: the symbol images are not in the text. Hexane is highly flammable, so the flame symbol is expected.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: the flammable (flame) symbol",
+      "steps": [
+        "Hexane is a volatile alkane that catches fire easily, so it is highly flammable.",
+        "The flame symbol (A) is the flammable pictogram; B is oxidising, C is corrosive, D is toxic."
+      ],
       "images": [
         "papers/chemistry/img/04A-Intro-Organic-11.jpg",
         "papers/chemistry/img/04A-Intro-Organic-12.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04A-Intro-Organic-Q15.jpg"
       ]
     },
     {
@@ -626,12 +717,20 @@
         "pictograms"
       ],
       "question": "Hydrogen peroxide solution causes serious eye damage, is harmful if swallowed and is an oxidising agent. Which hazard symbols should be on its containers? The symbols are images not in the text.",
-      "status": "pending",
-      "answer": "PENDING: the symbol images are not in the text. Expected: corrosion, oxidising and exclamation mark (harmful) symbols.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: corrosive, exclamation mark (harmful) and oxidising",
+      "steps": [
+        "Serious eye damage: corrosive symbol.",
+        "Harmful if swallowed: exclamation mark symbol (harmful or irritant).",
+        "Oxidising agent: flame over circle symbol.",
+        "Only option A contains corrosive, exclamation mark and oxidising together."
+      ],
       "images": [
         "papers/chemistry/img/04A-Intro-Organic-12.jpg",
         "papers/chemistry/img/04A-Intro-Organic-13.jpg"
+      ],
+      "figures": [
+        "papers/chemistry/fig/04A-Intro-Organic-Q16a.jpg"
       ]
     },
     {

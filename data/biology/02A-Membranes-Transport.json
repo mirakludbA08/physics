@@ -19,13 +19,21 @@
         "scale"
       ],
       "question": "Estimate the length of the neck of the adult giraffe from the shoulders, using the information in the photograph.",
-      "status": "pending",
-      "answer": "Missing: the photograph of the giraffe with its scale reference is not in the text, so the neck length cannot be estimated.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 1.9 m (accept about 1.8 to 2.0 m).",
+      "steps": [
+        "Scale: the arrow from the ground to the dashed shoulder line stands for 3.0 m.",
+        "Measure the neck from the shoulders to the top of the head: it is about 0.65 times the length of the 3.0 m arrow.",
+        "Neck length = 0.65 x 3.0 m = about 1.9 m.",
+        "Any sensible estimate obtained by measuring the photograph and scaling against the 3.0 m arrow is acceptable."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-01.jpg",
         "papers/biology/img/02A-Membranes-Transport-02.jpg",
         "papers/biology/img/02A-Membranes-Transport-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q1.jpg"
       ]
     },
     {
@@ -193,13 +201,20 @@
         "ATP"
       ],
       "question": "From a table of features of transport mechanisms, identify the feature that is true for active transport only, facilitated diffusion only, both, or neither.",
-      "status": "pending",
-      "answer": "Missing: the table of transport mechanism features is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Passive process: facilitated diffusion only. Membrane proteins involved: both active transport and facilitated diffusion. Can be up the concentration gradient: active transport only.",
+      "steps": [
+        "Passive process: facilitated diffusion needs no ATP and goes down the gradient, whereas active transport needs ATP, so tick \"facilitated diffusion only\".",
+        "Membrane proteins: facilitated diffusion uses channel or carrier proteins and active transport uses carrier proteins (pumps), so tick \"both\".",
+        "Direction: only active transport can move a substance up (against) its concentration gradient, so tick \"active transport only\"."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-03.jpg",
         "papers/biology/img/02A-Membranes-Transport-04.jpg",
         "papers/biology/img/02A-Membranes-Transport-05.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q2.jpg"
       ]
     },
     {
@@ -217,13 +232,21 @@
         "cytoplasm"
       ],
       "question": "Explain the differences in the uptake of substance K and substance L into an amoeba at 18 C, shown on the graph.",
-      "status": "pending",
-      "answer": "Missing: the graph of uptake of substances K and L is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "K is taken up at a steady rate that carries on for the whole 5 hours, whereas L is taken up more slowly and levels off at about 11.5 ug cm-3 after about 3.8 hours.",
+      "steps": [
+        "K rises steadily from about 0.7 to about 18.5 ug cm-3 (about 3.6 ug cm-3 per hour) with no levelling off, so its uptake is not stopped by the gradient disappearing: it is active transport using ATP, moving K up its concentration gradient.",
+        "L rises more slowly (about 2.5 ug cm-3 per hour, starting at about 2 ug cm-3), then stays flat at about 11.5 ug cm-3 from about 3.8 hours.",
+        "The plateau for L means no net uptake: it moves passively (facilitated diffusion) down its gradient, so uptake stops once the concentration in the cytoplasm equals that outside, or when all the carrier/channel proteins are saturated.",
+        "So K needs energy and can keep accumulating, whereas L is passive and limited by the gradient or the number of transport proteins."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-03.jpg",
         "papers/biology/img/02A-Membranes-Transport-04.jpg",
         "papers/biology/img/02A-Membranes-Transport-05.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q2-2.jpg"
       ]
     },
     {
@@ -241,13 +264,21 @@
         "line"
       ],
       "question": "On the graph, draw a line to show the uptake of substance L at 10 C.",
-      "status": "pending",
-      "answer": "Missing: the graph to be annotated is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A straight line starting at about 2 ug cm-3 at 0 hours, with a smaller gradient than the 18 C line for L, so it lies below it and reaches any plateau later (it may still be rising at 5 hours).",
+      "steps": [
+        "At 10 C the molecules and carrier proteins have less kinetic energy and the membrane is less fluid, so uptake is slower than at 18 C.",
+        "Start the line at the same point as the 18 C line (about 2 ug cm-3 at 0 hours) because nothing has happened yet.",
+        "Draw a straight line with a shallower slope than the 18 C line (less than about 2.5 ug cm-3 per hour, for example reaching about 8 to 9 ug cm-3 at 3.8 hours).",
+        "Any plateau should occur later than 3.8 hours and, if equilibrium sets the limit, at the same concentration of about 11.5 ug cm-3."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-03.jpg",
         "papers/biology/img/02A-Membranes-Transport-04.jpg",
         "papers/biology/img/02A-Membranes-Transport-05.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q2-2.jpg"
       ]
     },
     {
@@ -324,14 +355,21 @@
         "formula"
       ],
       "question": "Calculate the volume of the liposome shown in the diagram, using the formula given in the question.",
-      "status": "pending",
-      "answer": "Missing: the diagram giving the liposome dimensions and the formula image are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "5.2 x 10^5 nm^3 (523 599 nm^3).",
+      "steps": [
+        "The 100 nm arrow is the diameter, so r = 100 / 2 = 50 nm.",
+        "V = 4/3 x pi x r^3 = 4/3 x pi x 50^3 = 4/3 x pi x 125 000.",
+        "V = 523 599 nm^3 = 5.2 x 10^5 nm^3 (2 s.f.); the unit is nm^3."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-05.jpg",
         "papers/biology/img/02A-Membranes-Transport-06.jpg",
         "papers/biology/img/02A-Membranes-Transport-07.jpg",
         "papers/biology/img/02A-Membranes-Transport-08.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q3.jpg"
       ]
     },
     {
@@ -362,6 +400,9 @@
         "papers/biology/img/02A-Membranes-Transport-06.jpg",
         "papers/biology/img/02A-Membranes-Transport-07.jpg",
         "papers/biology/img/02A-Membranes-Transport-08.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q3.jpg"
       ]
     },
     {
@@ -410,14 +451,22 @@
         "50%"
       ],
       "question": "Describe the effects of cholesterol and temperature on membrane permeability to glycerol, as shown in the graph.",
-      "status": "pending",
-      "answer": "Missing: the graph of glycerol permeability against temperature for each cholesterol level is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Permeability to glycerol increases as temperature rises in all three liposomes, and at any temperature it decreases as the proportion of cholesterol increases.",
+      "steps": [
+        "Temperature: permeability rises with temperature for every liposome, and the curves get steeper at higher temperature; with no cholesterol it rises from about 10 a.u. at 1 C to about 280 a.u. at 30 C.",
+        "Cholesterol: at each temperature the permeability is highest with no cholesterol, lower with 20% and lowest with 50% cholesterol; at 30 C it is about 280, 155 and 85 a.u. respectively.",
+        "At 20 C the values are about 150, 75 and 25 a.u., so 50% cholesterol cuts the permeability to about a sixth.",
+        "With 50% cholesterol the permeability is about zero below about 13 C, and its curve is the flattest, so cholesterol also reduces the effect of temperature."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-05.jpg",
         "papers/biology/img/02A-Membranes-Transport-06.jpg",
         "papers/biology/img/02A-Membranes-Transport-07.jpg",
         "papers/biology/img/02A-Membranes-Transport-08.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q3-2.jpg"
       ]
     },
     {
@@ -465,13 +514,21 @@
         "times taller"
       ],
       "question": "The mouse is 3 cm tall. Using the white line on the elephant photograph, calculate how many times taller the elephant is than the mouse.",
-      "status": "pending",
-      "answer": "Missing: the elephant photograph with the white line measurement is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 80 times taller (about 82).",
+      "steps": [
+        "Measure the white line on the elephant photograph: it is about 4.9 cm long.",
+        "Actual height = image size / magnification = 4.9 / 0.02 = about 245 cm.",
+        "Ratio = 245 cm / 3 cm = about 82, so the elephant is about 80 times taller than the mouse.",
+        "The exact value depends on the measured length (a 5.0 cm line gives 250 cm and a ratio of 83)."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-08.jpg",
         "papers/biology/img/02A-Membranes-Transport-09.jpg",
         "papers/biology/img/02A-Membranes-Transport-10.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q4.jpg"
       ]
     },
     {
@@ -520,13 +577,23 @@
         "graph"
       ],
       "question": "Explain the difference in the oxygen dissociation curves of haemoglobin for a mouse and an elephant, using both graphs.",
-      "status": "pending",
-      "answer": "Missing: Graph 1 (oxygen dissociation curves) and Graph 2 (mass-specific metabolic rate) are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The mouse haemoglobin has a lower affinity for oxygen (its curve is to the right) than the elephant haemoglobin, because the mouse has a much higher mass-specific metabolic rate and needs oxygen unloaded more readily to its tissues.",
+      "steps": [
+        "Graph 1: at the same partial pressure of oxygen the elephant haemoglobin is more saturated (for example about 75-80% against about 30% at 4 kPa), so the elephant curve lies to the left and has the higher affinity.",
+        "Graph 2: the mouse has a mass-specific metabolic rate of about 5 cm3 oxygen g-1 hr-1 compared with about 0.2 for the elephant, so its tissues use about 25 times more oxygen per gram.",
+        "The mouse therefore needs a haemoglobin that releases (unloads) oxygen readily at the tissues, even at fairly high partial pressures; a lower affinity does this, and it still loads fully in the lungs at high partial pressure.",
+        "The elephant respires much more slowly per gram, so it needs less oxygen delivered per gram and its higher-affinity haemoglobin loads easily and unloads less readily.",
+        "The mouse has a large surface area to volume ratio and loses heat quickly, which explains its high metabolic rate."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-08.jpg",
         "papers/biology/img/02A-Membranes-Transport-09.jpg",
         "papers/biology/img/02A-Membranes-Transport-10.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q4-2.jpg",
+        "papers/biology/fig/02A-Membranes-Transport-Q4-3.jpg"
       ]
     },
     {
@@ -607,14 +674,21 @@
         "table"
       ],
       "question": "Complete the table by calculating the volume of LDL (diameters 19 to 24 nm) and the ratio of LDL volume to cholesterol volume, using the formula given.",
-      "status": "pending",
-      "answer": "Missing: the table of LDL and cholesterol data and the formula image are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Volume of LDL = 7240 nm^3 (7238 nm^3); ratio of LDL volume to cholesterol volume = 14 : 1.",
+      "steps": [
+        "Diameter 24 nm, so r = 12 nm.",
+        "V = 4/3 x pi x 12^3 = 4/3 x pi x 1728 = 7238 nm^3 (about 7240 nm^3).",
+        "Ratio = 7238 / 523 = 13.8, which is 14 : 1 (written as in the 19 nm row, 3590 / 523 = 7 : 1)."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-10.jpg",
         "papers/biology/img/02A-Membranes-Transport-11.jpg",
         "papers/biology/img/02A-Membranes-Transport-12.jpg",
         "papers/biology/img/02A-Membranes-Transport-13.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q5.jpg"
       ]
     },
     {
@@ -633,14 +707,23 @@
         "atherosclerosis"
       ],
       "question": "Explain why measuring only the level of LDL in the blood is not a reliable predictor of cardiovascular disease, using the graph of LDL and HDL against risk.",
-      "status": "pending",
-      "answer": "Missing: the graph relating LDL and HDL to CVD risk is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The risk of CVD depends on the level of HDL as well as LDL: with high HDL the risk stays low even when LDL is high, whereas with low HDL the risk is higher and rises steeply with LDL, so LDL alone is not a reliable predictor.",
+      "steps": [
+        "Graph: with HDL 0.65 and 1.16 a.u. the risk of CVD rises clearly as LDL rises (the 1.16 line rises steeply at high LDL), but with HDL 1.68 and 2.20 a.u. the lines are low and almost flat, so a high LDL level adds little risk.",
+        "At any given LDL the risk falls as HDL rises; even the lowest LDL with HDL 0.65 a.u. gives a higher risk than the highest LDL with HDL 2.20 a.u., so a person with high LDL and high HDL may be at lower risk than someone with moderate LDL and low HDL.",
+        "Own knowledge: LDL carries cholesterol to tissues and can deposit it in artery walls (atheroma and atherosclerosis), whereas HDL carries cholesterol away from the tissues to the liver, protecting against CVD; the HDL : LDL ratio matters.",
+        "From the question: LDLs cause damage after being absorbed by endothelial cells and broken down by free radicals, so the damage depends on other factors as well as the amount of LDL.",
+        "Other risk factors (smoking, high blood pressure, diet, genes, age, inactivity) also affect CVD, so LDL alone is only a partial predictor."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-10.jpg",
         "papers/biology/img/02A-Membranes-Transport-11.jpg",
         "papers/biology/img/02A-Membranes-Transport-12.jpg",
         "papers/biology/img/02A-Membranes-Transport-13.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q5-2.jpg"
       ]
     },
     {
@@ -701,6 +784,9 @@
         "papers/biology/img/02A-Membranes-Transport-14.jpg",
         "papers/biology/img/02A-Membranes-Transport-15.jpg",
         "papers/biology/img/02A-Membranes-Transport-16.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q6.jpg"
       ]
     },
     {
@@ -732,6 +818,9 @@
         "papers/biology/img/02A-Membranes-Transport-14.jpg",
         "papers/biology/img/02A-Membranes-Transport-15.jpg",
         "papers/biology/img/02A-Membranes-Transport-16.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q6-2.jpg"
       ]
     },
     {
@@ -763,6 +852,9 @@
         "papers/biology/img/02A-Membranes-Transport-14.jpg",
         "papers/biology/img/02A-Membranes-Transport-15.jpg",
         "papers/biology/img/02A-Membranes-Transport-16.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q6-2.jpg"
       ]
     },
     {
@@ -779,14 +871,22 @@
         "graph"
       ],
       "question": "Using the point X on the graph and the oxygen dissociation curve, determine the percentage saturation of haemoglobin in blood leaving the lungs of the person at high altitude.",
-      "status": "pending",
-      "answer": "Missing: the graph and the point X are not in the text, so the percentage saturation cannot be read.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 83% (accept 80 to 85%).",
+      "steps": [
+        "Point X marks the partial pressure of oxygen in the alveoli at high altitude: about 6.3 kPa.",
+        "Blood leaving the lungs is in equilibrium with alveolar air, so its partial pressure of oxygen is also about 6.3 kPa.",
+        "Reading from the dissociation curve at 6.3 kPa gives a percentage saturation of about 83%."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-13.jpg",
         "papers/biology/img/02A-Membranes-Transport-14.jpg",
         "papers/biology/img/02A-Membranes-Transport-15.jpg",
         "papers/biology/img/02A-Membranes-Transport-16.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q6.jpg",
+        "papers/biology/fig/02A-Membranes-Transport-Q6-2.jpg"
       ]
     },
     {
@@ -818,6 +918,9 @@
         "papers/biology/img/02A-Membranes-Transport-14.jpg",
         "papers/biology/img/02A-Membranes-Transport-15.jpg",
         "papers/biology/img/02A-Membranes-Transport-16.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q6-2.jpg"
       ]
     },
     {
@@ -897,14 +1000,24 @@
         "investigation"
       ],
       "question": "Explain the results of an investigation in which paramecia in pond water, solution A and solution B had the number of contractile vacuole pumps counted in 30-second intervals, using the graphs.",
-      "status": "pending",
-      "answer": "Missing: the graphs of contractile vacuole pumping for pond water, solution A and solution B are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The pumping rate matches the rate at which water enters by osmosis: it stays at 2 per 30 s in pond water, falls to 1 in solution A (less water enters) and rises to 4 in solution B (more water enters).",
+      "steps": [
+        "Pond water: 2 pumps per 30 s all the time, so water enters and is pumped out at a steady rate and the cell volume stays constant.",
+        "Solution A: starts at 2 but falls to 1 from 1 minute and stays at 1; A has a lower water potential (more concentrated) than pond water, so the water potential gradient into the cell is smaller, less water enters by osmosis and the vacuole needs to pump less often.",
+        "Solution B: rises from 2 at 0.5 minutes to 3 at 1 minute and 4 from 1.5 minutes; B has a higher water potential (more dilute) than pond water, so a steeper gradient means more water enters by osmosis and the vacuole must pump twice as often as in pond water.",
+        "The delay of 0.5 to 1.5 minutes before the rate changes shows the time the paramecia take to adjust before they reach a new steady rate.",
+        "Pumping water out uses ATP, so more energy is used in B than in pond water or A; the vacuole stops the cell swelling and bursting."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-16.jpg",
         "papers/biology/img/02A-Membranes-Transport-17.jpg",
         "papers/biology/img/02A-Membranes-Transport-18.jpg",
         "papers/biology/img/02A-Membranes-Transport-19.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q7.jpg",
+        "papers/biology/fig/02A-Membranes-Transport-Q7-2.jpg"
       ]
     },
     {
@@ -922,13 +1035,19 @@
         "sucrose"
       ],
       "question": "From a table of sugars, identify the row that shows which sugars are monosaccharides and which are disaccharides.",
-      "status": "pending",
-      "answer": "Missing: the table of sugars and the row options are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: fructose and glucose are the monosaccharides; sucrose only is the disaccharide.",
+      "steps": [
+        "Glucose and fructose are single sugar units, so they are monosaccharides.",
+        "Sucrose is made of one glucose and one fructose joined together, so it is a disaccharide."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-19.jpg",
         "papers/biology/img/02A-Membranes-Transport-20.jpg",
         "papers/biology/img/02A-Membranes-Transport-21.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q8.jpg"
       ]
     },
     {
@@ -974,13 +1093,19 @@
         "calculation"
       ],
       "question": "Calculate the mean concentration of glucose in three pineapples, giving the answer in g dm-3, using the table of sugar concentrations.",
-      "status": "pending",
-      "answer": "Missing: the table of sugar concentrations in the three pineapples is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1080 g dm-3 (1.08 g cm-3).",
+      "steps": [
+        "Mean = (1.22 + 1.02 + 1.00) / 3 = 3.24 / 3 = 1.08 g cm-3.",
+        "1 dm3 = 1000 cm3, so multiply by 1000: 1.08 x 1000 = 1080 g dm-3 (1.08 x 10^3)."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-19.jpg",
         "papers/biology/img/02A-Membranes-Transport-20.jpg",
         "papers/biology/img/02A-Membranes-Transport-21.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q8-2.jpg"
       ]
     },
     {
@@ -999,13 +1124,22 @@
         "preserve"
       ],
       "question": "Explain what the solution of sugars should contain to preserve pineapples by osmotic dehydration, using the table of sugar concentrations.",
-      "status": "pending",
-      "answer": "Missing: the table of sugar concentrations in the pineapples is not in the text, so the sugar composition needed cannot be justified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The solution should contain all three sugars (fructose, glucose and sucrose) in about the same proportions as in the pineapple, but with a higher overall concentration (lower water potential) than the pineapple cells.",
+      "steps": [
+        "Water must leave the pineapple by osmosis through its partially permeable membranes, so the solution needs a lower water potential (a higher total sugar concentration) than the pineapple tissue; this reduces the water content.",
+        "If a sugar were missing from the solution it would diffuse out of the pineapple down its concentration gradient, so the pineapple would lose that sugar and its taste would change; so fructose, glucose and sucrose must all be present.",
+        "Each sugar should be about the same concentration as in the pineapple (mean of about 1.5 g cm-3 fructose, 1.1 g cm-3 glucose and 8.6 g cm-3 sucrose) so there is little net diffusion of any sugar.",
+        "The proportions should stay as in the pineapple: sucrose is by far the main sugar (about 8 times glucose), with fructose slightly more than glucose (about 1.4 times).",
+        "Keeping the sugar concentrations in the pineapple unchanged keeps its sweet taste, while water loss preserves it."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-19.jpg",
         "papers/biology/img/02A-Membranes-Transport-20.jpg",
         "papers/biology/img/02A-Membranes-Transport-21.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q8-2.jpg"
       ]
     },
     {
@@ -1036,6 +1170,9 @@
         "papers/biology/img/02A-Membranes-Transport-21.jpg",
         "papers/biology/img/02A-Membranes-Transport-22.jpg",
         "papers/biology/img/02A-Membranes-Transport-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q9.jpg"
       ]
     },
     {
@@ -1066,6 +1203,9 @@
         "papers/biology/img/02A-Membranes-Transport-21.jpg",
         "papers/biology/img/02A-Membranes-Transport-22.jpg",
         "papers/biology/img/02A-Membranes-Transport-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q9-2.jpg"
       ]
     },
     {
@@ -1127,6 +1267,9 @@
         "papers/biology/img/02A-Membranes-Transport-21.jpg",
         "papers/biology/img/02A-Membranes-Transport-22.jpg",
         "papers/biology/img/02A-Membranes-Transport-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q9-3.jpg"
       ]
     },
     {
@@ -1144,14 +1287,22 @@
         "positive correlation"
       ],
       "question": "Explain how the graph shows a correlation between smoking and death rate from lung cancer in men.",
-      "status": "pending",
-      "answer": "Missing: the graph of smoking against death rate from lung cancer is not in the text, so the trend cannot be described.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Both the number of cigarettes smoked and the death rate rise and then fall, with the death rate following the smoking pattern about 15 years later, which is a positive correlation.",
+      "steps": [
+        "Cigarettes smoked rise from 1945 to a peak at about 1980 and then fall.",
+        "The death rate from lung cancer rises from about 1960 to a peak at about 1995 and then falls, so the two curves have the same shape and move in the same direction.",
+        "The death rate lags about 15 years behind smoking, consistent with the time cancer takes to develop.",
+        "The graph shows a correlation only; it does not prove that smoking causes the deaths."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-23.jpg",
         "papers/biology/img/02A-Membranes-Transport-24.jpg",
         "papers/biology/img/02A-Membranes-Transport-25.jpg",
         "papers/biology/img/02A-Membranes-Transport-26.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q10.jpg"
       ]
     },
     {
@@ -1214,6 +1365,9 @@
         "papers/biology/img/02A-Membranes-Transport-24.jpg",
         "papers/biology/img/02A-Membranes-Transport-25.jpg",
         "papers/biology/img/02A-Membranes-Transport-26.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q10-2.jpg"
       ]
     },
     {
@@ -1245,6 +1399,9 @@
         "papers/biology/img/02A-Membranes-Transport-27.jpg",
         "papers/biology/img/02A-Membranes-Transport-28.jpg",
         "papers/biology/img/02A-Membranes-Transport-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q11.jpg"
       ]
     },
     {
@@ -1263,14 +1420,21 @@
         "membrane diagram"
       ],
       "question": "Which structures in the membrane diagram contain a phosphate group? Options: A Q and R, B Q and T, C R and S, D S and T.",
-      "status": "pending",
-      "answer": "Missing: the labelled membrane diagram (structures Q, R, S, T) is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Q and T.",
+      "steps": [
+        "Q is the head of a phospholipid, which contains the phosphate group.",
+        "T is a whole phospholipid molecule (head plus fatty acid tails), so it contains a phosphate group too.",
+        "R is a fatty acid tail and S is cholesterol, and neither contains phosphate, so options A, C and D are wrong."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-26.jpg",
         "papers/biology/img/02A-Membranes-Transport-27.jpg",
         "papers/biology/img/02A-Membranes-Transport-28.jpg",
         "papers/biology/img/02A-Membranes-Transport-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q11.jpg"
       ]
     },
     {
@@ -1291,14 +1455,20 @@
         "T"
       ],
       "question": "Which ratio of structures in the membrane diagram affects the fluidity of the membrane? Options: A Q:T, B R:Q, C R:T, D S:T.",
-      "status": "pending",
-      "answer": "Missing: the labelled membrane diagram (structures Q, R, S, T) is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: S : T.",
+      "steps": [
+        "S is cholesterol and T is a phospholipid.",
+        "The ratio of cholesterol to phospholipid sets how much cholesterol restricts the movement of the phospholipids, so it affects fluidity."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-26.jpg",
         "papers/biology/img/02A-Membranes-Transport-27.jpg",
         "papers/biology/img/02A-Membranes-Transport-28.jpg",
         "papers/biology/img/02A-Membranes-Transport-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q11.jpg"
       ]
     },
     {
@@ -1329,6 +1499,9 @@
         "papers/biology/img/02A-Membranes-Transport-27.jpg",
         "papers/biology/img/02A-Membranes-Transport-28.jpg",
         "papers/biology/img/02A-Membranes-Transport-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q11.jpg"
       ]
     },
     {
@@ -1347,14 +1520,22 @@
         "membrane diagram"
       ],
       "question": "Explain why each of the molecules in a table and diagram of molecules inside and outside a cell enters the cell by a different mechanism.",
-      "status": "pending",
-      "answer": "Missing: the table of molecules and the diagram are not in the text, so each molecule's mechanism cannot be matched.",
-      "steps": [],
+      "status": "ready",
+      "answer": "E (water) enters by osmosis, F (large polar) by facilitated diffusion, G (non-polar) by simple diffusion through the bilayer and H (small polar) by active transport.",
+      "steps": [
+        "E is water: it is small and dipolar, and the numbers are similar inside and outside (about 5 each side), so it enters by osmosis through the bilayer or aquaporins, depending on water potential.",
+        "F is large and polar, so it cannot cross the hydrophobic core; there are more outside than inside (about 5 outside and 2 inside), so it enters by facilitated diffusion down its gradient through a channel or carrier protein, with no ATP.",
+        "G is non-polar, so it dissolves in the hydrophobic core of the phospholipid bilayer; it is more concentrated outside (about 4 against 1), so it enters by simple diffusion down its concentration gradient with no protein or ATP.",
+        "H is small and polar, so it cannot diffuse through the bilayer; it is more concentrated inside (about 12 inside against 3 outside), so it must enter against its concentration gradient by active transport using a carrier protein and ATP."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-26.jpg",
         "papers/biology/img/02A-Membranes-Transport-27.jpg",
         "papers/biology/img/02A-Membranes-Transport-28.jpg",
         "papers/biology/img/02A-Membranes-Transport-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q11-2.jpg"
       ]
     },
     {
@@ -1372,12 +1553,19 @@
         "structure"
       ],
       "question": "Using the shapes showing the components of a phospholipid, draw a diagram to show its structure.",
-      "status": "pending",
-      "answer": "Missing: the shapes representing the phospholipid components are shown only as an image, not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A phosphate circle joined by a bond (line) to a glycerol square, with two fatty acid rectangles each joined to the glycerol by a bond.",
+      "steps": [
+        "Draw the circle (phosphate group) at the top and join it with a line (covalent bond) to the square (glycerol) below it.",
+        "Join two long rectangles (fatty acids) to the glycerol square, each with its own line, so that they hang parallel to each other away from the head.",
+        "The glycerol must have three attachments in total: one phosphate and two fatty acids (not three fatty acids)."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-29.jpg",
         "papers/biology/img/02A-Membranes-Transport-30.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q12.jpg"
       ]
     },
     {
@@ -1479,15 +1667,22 @@
         "bilayer"
       ],
       "question": "Using the table showing one way the components of phospholipids can be drawn, draw a diagram of a phospholipid.",
-      "status": "pending",
-      "answer": "Missing: the table of phospholipid components is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A glycerol bar with the phosphate circle joined to it by a bond on one side, and two fatty acid rectangles each joined to the glycerol by a bond on the other side.",
+      "steps": [
+        "Draw the tall hatched rectangle (glycerol) in the centre.",
+        "Join the circle (phosphate group) to the glycerol with a short line (bond).",
+        "Join two of the long rectangles (fatty acids) to the glycerol, each with its own bond line, parallel to each other and pointing away from the phosphate."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-30.jpg",
         "papers/biology/img/02A-Membranes-Transport-31.jpg",
         "papers/biology/img/02A-Membranes-Transport-32.jpg",
         "papers/biology/img/02A-Membranes-Transport-33.jpg",
         "papers/biology/img/02A-Membranes-Transport-34.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q13.jpg"
       ]
     },
     {
@@ -1503,15 +1698,21 @@
         "choose diagram"
       ],
       "question": "Which of the diagrams shows an ester bond, one of the bonds present in phospholipids?",
-      "status": "pending",
-      "answer": "Missing: the diagrams of bonds are not in the text, so the correct diagram cannot be selected.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: -C-O-C(=O)-.",
+      "steps": [
+        "An ester bond is C-O-C with a C=O on the second carbon (the carbonyl), formed when a fatty acid joins to the glycerol hydroxyl group.",
+        "A and D contain nitrogen (peptide-type or N-O links), and B has no oxygen link between the carbons, so only C shows an ester bond."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-30.jpg",
         "papers/biology/img/02A-Membranes-Transport-31.jpg",
         "papers/biology/img/02A-Membranes-Transport-32.jpg",
         "papers/biology/img/02A-Membranes-Transport-33.jpg",
         "papers/biology/img/02A-Membranes-Transport-34.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q13-2.jpg"
       ]
     },
     {
@@ -1559,15 +1760,21 @@
         "comparison"
       ],
       "question": "Which row of the table describes an unsaturated fatty acid compared with a saturated fatty acid with the same number of carbon atoms?",
-      "status": "pending",
-      "answer": "Missing: the table with the rows describing fatty acids is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: has double bonds between two carbons, with fewer hydrogens than the saturated fatty acid.",
+      "steps": [
+        "An unsaturated fatty acid has at least one C=C double bond, so \"yes\" for double bonds.",
+        "Each double bond means two fewer hydrogen atoms for the same number of carbons, so it has fewer hydrogens than the saturated one."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-30.jpg",
         "papers/biology/img/02A-Membranes-Transport-31.jpg",
         "papers/biology/img/02A-Membranes-Transport-32.jpg",
         "papers/biology/img/02A-Membranes-Transport-33.jpg",
         "papers/biology/img/02A-Membranes-Transport-34.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q13-3.jpg"
       ]
     },
     {
@@ -1708,14 +1915,22 @@
         "interpretation"
       ],
       "question": "Describe the evidence for and against a relationship between blood cholesterol levels and heart disease, from the graph of a 10-year study.",
-      "status": "pending",
-      "answer": "Missing: the graph of blood cholesterol and heart disease over 10 years is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "For: the group that developed heart disease has its peak at a higher cholesterol level, and more of them have high levels. Against: the two distributions overlap greatly, so many people with high cholesterol did not develop heart disease and many with low cholesterol did.",
+      "steps": [
+        "Evidence for: the peak of the dashed line (developed heart disease) is at a higher blood cholesterol level than the peak of the solid line, and at the highest levels the dashed line is above the solid line.",
+        "Evidence for: at low cholesterol levels the solid line (did not develop disease) is higher than the dashed line.",
+        "Evidence against: the two curves overlap over almost the whole range and have similar shapes and heights, so many people in both groups had the same cholesterol level.",
+        "Evidence against: the difference between the two peaks is small, and there is no cholesterol level that separates the groups, so cholesterol is not the only factor."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-34.jpg",
         "papers/biology/img/02A-Membranes-Transport-35.jpg",
         "papers/biology/img/02A-Membranes-Transport-36.jpg",
         "papers/biology/img/02A-Membranes-Transport-37.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q14.jpg"
       ]
     },
     {
@@ -1733,14 +1948,21 @@
         "conclusions"
       ],
       "question": "Describe the evidence in the graph of HDL and LDL levels and CVD incidence that supports three given conclusions.",
-      "status": "pending",
-      "answer": "Missing: the graph of HDL and LDL levels against incidence of CVD is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Incidence of CVD rises with LDL level, falls with HDL level, and is highest when HDL is low and LDL is high.",
+      "steps": [
+        "LDL: for every HDL group the bars get taller as the LDL level goes from <100 to >=160 mg dm-3, for example at HDL <40 from about 2 a.u. to the tallest bar (about 7 a.u.).",
+        "HDL: for every LDL group the bars get shorter as the HDL level goes from <40 to >=60 mg dm-3.",
+        "Ratio: the tallest bars (above about 6 a.u.) are at low HDL and high LDL, the lowest ratio of HDL to LDL, whereas the shortest bars (below about 1 a.u.) are at HDL >=60 and LDL <100, the highest ratio."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-34.jpg",
         "papers/biology/img/02A-Membranes-Transport-35.jpg",
         "papers/biology/img/02A-Membranes-Transport-36.jpg",
         "papers/biology/img/02A-Membranes-Transport-37.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q14-2.jpg"
       ]
     },
     {
@@ -1772,6 +1994,9 @@
         "papers/biology/img/02A-Membranes-Transport-35.jpg",
         "papers/biology/img/02A-Membranes-Transport-36.jpg",
         "papers/biology/img/02A-Membranes-Transport-37.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q14-3.jpg"
       ]
     },
     {
@@ -1849,14 +2074,20 @@
         "parts II III IV VII"
       ],
       "question": "In a Venn diagram comparing diffusion, facilitated diffusion and active transport, which part would contain the statement 'uses proteins'? Options: A II, B III, C IV, D VII.",
-      "status": "pending",
-      "answer": "Missing: the numbered Venn diagram is not in the text, so the part numbers cannot be matched to the statement.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: Part VII.",
+      "steps": [
+        "Simple diffusion does not use proteins, but facilitated diffusion (channel and carrier proteins) and active transport (carrier pumps) do.",
+        "The part shared by active transport and facilitated diffusion only (outside the diffusion circle) is Part VII."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-37.jpg",
         "papers/biology/img/02A-Membranes-Transport-38.jpg",
         "papers/biology/img/02A-Membranes-Transport-39.jpg",
         "papers/biology/img/02A-Membranes-Transport-40.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q15.jpg"
       ]
     },
     {
@@ -1873,14 +2104,20 @@
         "diffusion"
       ],
       "question": "In the Venn diagram, which part would contain the statement 'needs energy in the form of ATP'? Options: A II, B V, C VI, D VII.",
-      "status": "pending",
-      "answer": "Missing: the numbered Venn diagram is not in the text, so the part number cannot be confirmed.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Part V.",
+      "steps": [
+        "Only active transport needs ATP; diffusion and facilitated diffusion are passive.",
+        "The part that belongs to the active transport circle only is Part V."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-37.jpg",
         "papers/biology/img/02A-Membranes-Transport-38.jpg",
         "papers/biology/img/02A-Membranes-Transport-39.jpg",
         "papers/biology/img/02A-Membranes-Transport-40.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q15.jpg"
       ]
     },
     {
@@ -1897,14 +2134,20 @@
         "parts"
       ],
       "question": "In the Venn diagram, which part would contain the statement 'solutes can only move down a concentration gradient'? Options: A II, B III, C V, D VII.",
-      "status": "pending",
-      "answer": "Missing: the numbered Venn diagram is not in the text, so the part number cannot be confirmed.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Part III.",
+      "steps": [
+        "Solutes move only down a concentration gradient in diffusion and in facilitated diffusion, but active transport can move them against it.",
+        "The part shared by diffusion and facilitated diffusion only (not active transport) is Part III."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-37.jpg",
         "papers/biology/img/02A-Membranes-Transport-38.jpg",
         "papers/biology/img/02A-Membranes-Transport-39.jpg",
         "papers/biology/img/02A-Membranes-Transport-40.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q15.jpg"
       ]
     },
     {
@@ -1952,14 +2195,23 @@
         "osmoregulation"
       ],
       "question": "Explain the changes in water content and amino acid content in the muscle cells of mitten crabs moved from fresh water into sea water, using the graph.",
-      "status": "pending",
-      "answer": "Missing: the graph of water content and amino acid content over 15 days is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Sea water has a lower water potential than the crab cells, so water leaves the muscle cells by osmosis and the water content falls; the cells then raise their amino acid content, lowering their own water potential, so water re-enters and the water content recovers.",
+      "steps": [
+        "Water content falls quickly from about 76% to about 74% in the first day, reaching a minimum of about 73.8% at about 4.5 days, because the sea water has a higher salt concentration (lower water potential) than the muscle cells, so water leaves them by osmosis.",
+        "Amino acid content rises from about 228 a.u. to about 335 a.u. over the 15 days, steeply at first then more slowly, so the crab increases the solute concentration inside its cells (amino acids are made or released by protein breakdown).",
+        "More solutes lower the water potential of the cell contents, reducing the water potential gradient between the cell and the sea water.",
+        "This lets water move back into the cells by osmosis, so water content slowly rises again to about 75% by 15 days.",
+        "The crab is osmoregulating (becoming an osmoconformer), so the cell solute concentration approaches that of the sea water and the rate of change slows as equilibrium is approached."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-37.jpg",
         "papers/biology/img/02A-Membranes-Transport-38.jpg",
         "papers/biology/img/02A-Membranes-Transport-39.jpg",
         "papers/biology/img/02A-Membranes-Transport-40.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q15-2.jpg"
       ]
     },
     {
@@ -1977,12 +2229,19 @@
         "standard form"
       ],
       "question": "A hydra has a body length of 1.8 mm and diameter of 1 mm. Which is the magnification of the drawing? Options: A 3.75 x 10^-2, B 3.75 x 10^-1, C 2.67 x 10^0, D 2.67 x 10^1.",
-      "status": "pending",
-      "answer": "Missing: the length of the hydra in the drawing is not in the text, so the magnification cannot be calculated.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 2.67 x 10^1 (about 27 times).",
+      "steps": [
+        "Measure the length of the body on the drawing: it is about 5 cm (50 mm) from the bracket.",
+        "Magnification = drawing length / actual length = 50 mm / 1.8 mm = about 28, which matches 2.67 x 10^1 (that is, 48 mm / 1.8 mm).",
+        "The other options are far too small: for example 2.67 would make the 1.8 mm body only about 5 mm long on the drawing, and 0.0375 and 0.375 would make the drawing smaller than the animal."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-40.jpg",
         "papers/biology/img/02A-Membranes-Transport-41.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q16.jpg"
       ]
     },
     {
@@ -2173,13 +2432,23 @@
         "adaptation"
       ],
       "question": "Discuss how the structure and behaviour of the hellbender salamander are adapted for gas exchange, using the graph of body rocking frequency, blood pO2 and percentage saturation of the water.",
-      "status": "pending",
-      "answer": "Missing: the graph of body rocking frequency against blood pO2 and water oxygen saturation is not in the text, so the data cannot be used to support the discussion.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The hellbender has skin folds and thin skin that give a large surface area for gas exchange, and it rocks its body to bring fresh oxygenated water over the skin, rocking most when the water has only 25% oxygen saturation.",
+      "steps": [
+        "Structure: the skin folds greatly increase the surface area, and a thin skin with many capillaries gives a short diffusion distance; it also has lungs, so it uses two gas exchange surfaces.",
+        "Behaviour: body rocking and swaying moves water over the skin, replacing the water next to the skin that has lost its oxygen and so keeping the oxygen concentration gradient steep for diffusion.",
+        "Data: blood pO2 rises sharply from about 0.8 kPa at 0% water saturation to about 3.5 kPa at 25%, then increases only slightly to about 3.9 kPa at 100%.",
+        "Rocking frequency rises from about 5 per minute at 0% to a maximum of about 8.5 per minute at 25% saturation, then falls to about 4 per minute at 75 to 100% saturation, because when the water holds plenty of oxygen less rocking is needed.",
+        "At 0% saturation rocking is lower than at 25%, since there is little oxygen to obtain; the hellbender also lives in shallow, fast-flowing, well-oxygenated streams, which helps its skin gas exchange."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-42.jpg",
         "papers/biology/img/02A-Membranes-Transport-43.jpg",
         "papers/biology/img/02A-Membranes-Transport-44.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q17.jpg",
+        "papers/biology/fig/02A-Membranes-Transport-Q17-2.jpg"
       ]
     },
     {
@@ -2198,14 +2467,22 @@
         "table"
       ],
       "question": "From the graph of solute concentration of cells of marine animals P, Q and R, which row of the table identifies them?",
-      "status": "pending",
-      "answer": "Missing: the graph and the table of row options are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: P partial osmoconformer, Q strict osmoconformer, R osmoregulator.",
+      "steps": [
+        "R is a flat line: the cell solute concentration stays constant whatever the sea water concentration, so it is an osmoregulator.",
+        "Q is a steep straight line rising with sea water concentration, so the cell solute concentration matches that of the sea water: a strict osmoconformer.",
+        "P rises only slightly at first and then follows the sea water at higher concentrations, so its cell concentration varies with the sea water only partly: a partial osmoconformer."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-44.jpg",
         "papers/biology/img/02A-Membranes-Transport-45.jpg",
         "papers/biology/img/02A-Membranes-Transport-46.jpg",
         "papers/biology/img/02A-Membranes-Transport-47.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q18.jpg",
+        "papers/biology/fig/02A-Membranes-Transport-Q18-2.jpg"
       ]
     },
     {
@@ -2253,14 +2530,20 @@
         "a.u."
       ],
       "question": "Estimate the chloride ion concentration of the cells of a jellyfish from the table of ion concentrations in sea water and in osmoconformers.",
-      "status": "pending",
-      "answer": "Missing: the table of ion concentrations is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 557 a.u. (accept about 550 to 558 a.u.).",
+      "steps": [
+        "The jellyfish is an osmoconformer, so its ion concentrations are close to those in the sea water (chloride 558).",
+        "Its other ions are about the same as the sea water and the sea urchin (chloride 557), so chloride should be about 557 a.u."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-44.jpg",
         "papers/biology/img/02A-Membranes-Transport-45.jpg",
         "papers/biology/img/02A-Membranes-Transport-46.jpg",
         "papers/biology/img/02A-Membranes-Transport-47.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q18-3.jpg"
       ]
     },
     {
@@ -2277,14 +2560,21 @@
         "two decimal places"
       ],
       "question": "Calculate the percentage difference in the concentration of magnesium ions in the lobster compared with the sea urchin, to two decimal places.",
-      "status": "pending",
-      "answer": "Missing: the table of magnesium ion concentrations in the lobster and sea urchin is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "83.33% lower (-83.33%).",
+      "steps": [
+        "Magnesium: lobster = 9 a.u. and sea urchin = 54 a.u.",
+        "Difference = 9 - 54 = -45 a.u.",
+        "Percentage difference compared with the sea urchin = -45 / 54 x 100 = -83.33%, that is 83.33% lower in the lobster."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-44.jpg",
         "papers/biology/img/02A-Membranes-Transport-45.jpg",
         "papers/biology/img/02A-Membranes-Transport-46.jpg",
         "papers/biology/img/02A-Membranes-Transport-47.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q18-3.jpg"
       ]
     },
     {
@@ -2314,6 +2604,9 @@
         "papers/biology/img/02A-Membranes-Transport-45.jpg",
         "papers/biology/img/02A-Membranes-Transport-46.jpg",
         "papers/biology/img/02A-Membranes-Transport-47.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q18-3.jpg"
       ]
     },
     {
@@ -2343,6 +2636,9 @@
         "papers/biology/img/02A-Membranes-Transport-45.jpg",
         "papers/biology/img/02A-Membranes-Transport-46.jpg",
         "papers/biology/img/02A-Membranes-Transport-47.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q18-3.jpg"
       ]
     },
     {
@@ -2564,13 +2860,19 @@
         "carbohydrate chain"
       ],
       "question": "From the diagram of part of a cell membrane, which letter (P, Q, R or S) represents a membrane glycoprotein?",
-      "status": "pending",
-      "answer": "Missing: the labelled membrane diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Q.",
+      "steps": [
+        "A glycoprotein is a protein with a carbohydrate chain attached.",
+        "Q is the large protein with a branched carbohydrate chain attached, while P has the carbohydrate chain attached to a phospholipid head, so P is a glycolipid."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-49.jpg",
         "papers/biology/img/02A-Membranes-Transport-50.jpg",
         "papers/biology/img/02A-Membranes-Transport-51.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q20.jpg"
       ]
     },
     {
@@ -2816,12 +3118,19 @@
         "calculation"
       ],
       "question": "The amoeba in Shape 1 is roughly spherical. Using surface area of a sphere = 4 pi r^2, which is its surface area? Options: A 90 000 m2, B 90 000 m3, C 360 000 m2, D 360 000 m3.",
-      "status": "pending",
-      "answer": "Missing: the radius of the amoeba in Shape 1 is shown only in the diagram, which is not in the text, so the surface area cannot be calculated to confirm the option.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: 90 000 pi um^2.",
+      "steps": [
+        "The diameter of Shape 1 is 300 um, so r = 150 um.",
+        "Surface area = 4 x pi x 150^2 = 4 x pi x 22 500 = 90 000 pi um^2.",
+        "An area is in um^2, so B and D (um^3) are wrong, and C (360 000 pi) comes from using the diameter instead of the radius."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-52.jpg",
         "papers/biology/img/02A-Membranes-Transport-53.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q22.jpg"
       ]
     },
     {
@@ -2839,12 +3148,18 @@
         "row"
       ],
       "question": "The mass of the amoeba stays the same when it changes from Shape 1 to Shape 2. Which row of the table shows what happens to its surface area and volume?",
-      "status": "pending",
-      "answer": "Missing: the table of surface area and volume changes is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: surface area increases, volume stays the same.",
+      "steps": [
+        "The mass of the amoeba is unchanged, so its volume stays the same.",
+        "Shape 2 has long thin projections, so its surface area is larger than that of a sphere of the same volume."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-52.jpg",
         "papers/biology/img/02A-Membranes-Transport-53.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q22.jpg"
       ]
     },
     {
@@ -3006,14 +3321,20 @@
         "hydrophilic"
       ],
       "question": "Which row of the table describes the charge on the R groups on the amino acids of a channel protein used in facilitated diffusion?",
-      "status": "pending",
-      "answer": "Missing: the table of R group charges is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: polar R groups face inside the channel and non-polar R groups face the rest of the membrane.",
+      "steps": [
+        "The channel contains water and ions, so the R groups lining it are polar (hydrophilic) and attract them.",
+        "The rest of the protein is in contact with the hydrophobic fatty acid tails, so those R groups are non-polar (hydrophobic)."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-53.jpg",
         "papers/biology/img/02A-Membranes-Transport-54.jpg",
         "papers/biology/img/02A-Membranes-Transport-55.jpg",
         "papers/biology/img/02A-Membranes-Transport-56.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q23.jpg"
       ]
     },
     {
@@ -3031,14 +3352,22 @@
         "investigation"
       ],
       "question": "Explain the results of an investigation in which pieces of sweet potato were placed in four coloured dye solutions and their mass change was measured.",
-      "status": "pending",
-      "answer": "Missing: the method diagram and the graph of mass change for the four solutions are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The sweet potato lost mass in purple and orange, gained mass in red and did not change in blue, because of the water potential of each solution compared with the sweet potato cells.",
+      "steps": [
+        "Orange: mass falls from about 1.12 g to about 0.50 g (about 55% loss): the solution has the lowest water potential, so water leaves the cells by osmosis from a large gradient.",
+        "Purple: mass falls from 1.00 g to about 0.87 g (about 13% loss): the solution has a lower water potential than the cells, but the gradient is smaller, so less water leaves by osmosis.",
+        "Red: mass rises from 1.00 g to about 1.39 g (about 39% gain): the solution has a higher water potential than the cell contents, so water enters by osmosis.",
+        "Blue: mass stays at 1.00 g: the water potential of the solution equals that of the cells, so there is no net movement of water."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-53.jpg",
         "papers/biology/img/02A-Membranes-Transport-54.jpg",
         "papers/biology/img/02A-Membranes-Transport-55.jpg",
         "papers/biology/img/02A-Membranes-Transport-56.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q23-2.jpg"
       ]
     },
     {
@@ -3056,13 +3385,20 @@
         "diagram"
       ],
       "question": "From the diagram of a human heart with vessels labelled P, Q, R and S, which pair transports blood to and from the lungs? Options: A P and Q, B Q and S, C R and P, D S and R.",
-      "status": "pending",
-      "answer": "Missing: the labelled heart diagram is not in the text, so the letters cannot be matched to the pulmonary vessels.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: Q and S.",
+      "steps": [
+        "Q is the pulmonary artery, taking deoxygenated blood from the heart to the lungs.",
+        "S is the pulmonary vein, bringing oxygenated blood from the lungs back to the heart.",
+        "P is the vena cava and R is the aorta, so they do not go to the lungs."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-56.jpg",
         "papers/biology/img/02A-Membranes-Transport-57.jpg",
         "papers/biology/img/02A-Membranes-Transport-58.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q24.jpg"
       ]
     },
     {
@@ -3079,13 +3415,19 @@
         "options"
       ],
       "question": "From the labelled heart diagram (P, Q, R, S), which pair of vessels is chosen from options A P, B P and R, C Q, D Q and R?",
-      "status": "pending",
-      "answer": "Missing: the labelled heart diagram is not in the text, so the vessels cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: P.",
+      "steps": [
+        "Veins have valves along their length to stop the backflow of blood, and P is the vena cava, a vein.",
+        "Q (pulmonary artery) and R (aorta) have valves only at their origin at the heart, not along their length."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-56.jpg",
         "papers/biology/img/02A-Membranes-Transport-57.jpg",
         "papers/biology/img/02A-Membranes-Transport-58.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q24.jpg"
       ]
     },
     {
@@ -3103,13 +3445,19 @@
         "P Q R S"
       ],
       "question": "From the labelled heart diagram (options AP, BQ, CR, DS), which blood vessel does the coronary artery branch from?",
-      "status": "pending",
-      "answer": "Missing: the labelled heart diagram is not in the text, so the vessel cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: R.",
+      "steps": [
+        "The coronary arteries supply the heart muscle and branch from the aorta just above the aortic valve.",
+        "The aorta is vessel R."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-56.jpg",
         "papers/biology/img/02A-Membranes-Transport-57.jpg",
         "papers/biology/img/02A-Membranes-Transport-58.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q24.jpg"
       ]
     },
     {
@@ -3182,13 +3530,20 @@
         "capillaries"
       ],
       "question": "Complete the table showing the time taken for a molecule to diffuse over different diffusion distances.",
-      "status": "pending",
-      "answer": "Missing: the table of diffusion distances and times, with the missing values, is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "100 um row: 5000 ms; 1 mm row: 1000 um and 498 000 ms (about 5 x 10^5 ms).",
+      "steps": [
+        "100 um takes 5.0 seconds, which is 5.0 x 1000 = 5000 milliseconds.",
+        "1 mm = 1000 um.",
+        "8.3 minutes = 8.3 x 60 = 498 seconds = 498 000 milliseconds (about 5 x 10^5 ms)."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-56.jpg",
         "papers/biology/img/02A-Membranes-Transport-57.jpg",
         "papers/biology/img/02A-Membranes-Transport-58.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q24-2.jpg"
       ]
     },
     {
@@ -3219,6 +3574,9 @@
         "papers/biology/img/02A-Membranes-Transport-56.jpg",
         "papers/biology/img/02A-Membranes-Transport-57.jpg",
         "papers/biology/img/02A-Membranes-Transport-58.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q24-2.jpg"
       ]
     },
     {
@@ -3358,14 +3716,22 @@
         "two significant figures"
       ],
       "question": "The thickness of the cell membranes between X and Y in the photograph is 22.8 nm. Calculate the magnification of the photograph, to two significant figures.",
-      "status": "pending",
-      "answer": "Missing: the measured image distance between X and Y on the photograph is not in the text, so the magnification cannot be calculated.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 2.6 x 10^5 (about 260 000 times).",
+      "steps": [
+        "Measure the length of the line between X and Y on the photograph: about 6 mm.",
+        "Convert to nm: 6 mm = 6 x 10^6 nm.",
+        "Magnification = image size / actual size = 6 x 10^6 / 22.8 = 2.6 x 10^5 (2 s.f.).",
+        "The result depends on the measured length: 5.5 to 6.5 mm gives 2.4 x 10^5 to 2.9 x 10^5."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-58.jpg",
         "papers/biology/img/02A-Membranes-Transport-59.jpg",
         "papers/biology/img/02A-Membranes-Transport-60.jpg",
         "papers/biology/img/02A-Membranes-Transport-61.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q25.jpg"
       ]
     },
     {
@@ -3429,6 +3795,9 @@
         "papers/biology/img/02A-Membranes-Transport-63.jpg",
         "papers/biology/img/02A-Membranes-Transport-64.jpg",
         "papers/biology/img/02A-Membranes-Transport-65.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q26.jpg"
       ]
     },
     {
@@ -3461,6 +3830,9 @@
         "papers/biology/img/02A-Membranes-Transport-63.jpg",
         "papers/biology/img/02A-Membranes-Transport-64.jpg",
         "papers/biology/img/02A-Membranes-Transport-65.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q26-2.jpg"
       ]
     },
     {
@@ -3480,15 +3852,24 @@
         "double circulation"
       ],
       "question": "Explain how the circulatory system and the gas exchange surfaces of an adult frog meet the oxygen needs of its cells, using the percentage blood flow diagram.",
-      "status": "pending",
-      "answer": "Missing: the diagram showing the percentages of blood flow through the frog's circulatory system is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The adult frog meets its oxygen needs by passing blood through two gas exchange surfaces (lungs and skin) and returning it to the heart, where it is pumped on at higher pressure, with little mixing of oxygenated and deoxygenated blood in the single ventricle.",
+      "steps": [
+        "Gas exchange surfaces: 39% of the blood goes to the lungs and 17% to the skin, so 56% of the output passes through gas exchange surfaces; the lungs have a large surface area, and the thin moist skin has a short diffusion distance, so oxygen is taken up by two surfaces.",
+        "Double circulation: blood goes back to the heart after the lungs (39%) and the skin (61% returns in total), so it is pumped again at higher pressure to the tissues, giving faster flow to the cells than it would after passing through the capillaries only once.",
+        "Separation of the blood: of the 44% going to the cells, 35 parts come from the oxygenated blood returning from the lungs and only 9 from the right atrium; of the 56% going to the lungs and skin, 52 parts come from the right atrium and only 4 from the lung blood.",
+        "So the ventricle gives mostly oxygenated blood to the cells (about 80% of that blood comes from the lungs) and mostly deoxygenated blood to the lungs and skin, so the blood supply to the cells is rich in oxygen.",
+        "The skin also gives extra oxygen while the frog is in water, and its returning blood (17%) is oxygenated."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-61.jpg",
         "papers/biology/img/02A-Membranes-Transport-62.jpg",
         "papers/biology/img/02A-Membranes-Transport-63.jpg",
         "papers/biology/img/02A-Membranes-Transport-64.jpg",
         "papers/biology/img/02A-Membranes-Transport-65.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q26-3.jpg"
       ]
     },
     {
@@ -3507,14 +3888,21 @@
         "V"
       ],
       "question": "From the diagram of structures in part of a cell membrane (options AQ, BR, CT, DV), which structure prevents large polar molecules from diffusing through the membrane?",
-      "status": "pending",
-      "answer": "Missing: the labelled membrane diagram is not in the text, so the structure cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: R.",
+      "steps": [
+        "R is the fatty acid tails, which form the hydrophobic core of the bilayer.",
+        "Large polar molecules cannot dissolve in this hydrophobic core, so they cannot diffuse through it.",
+        "Q is a phosphate head, T a glycoprotein and V a carrier protein, none of which acts as the barrier."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-65.jpg",
         "papers/biology/img/02A-Membranes-Transport-66.jpg",
         "papers/biology/img/02A-Membranes-Transport-67.jpg",
         "papers/biology/img/02A-Membranes-Transport-68.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q27.jpg"
       ]
     },
     {
@@ -3533,14 +3921,20 @@
         "U"
       ],
       "question": "From the membrane diagram (options AP, BS, CT, DU), which structure allows ions to diffuse through the membrane?",
-      "status": "pending",
-      "answer": "Missing: the labelled membrane diagram is not in the text, so the structure cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: U.",
+      "steps": [
+        "U is a protein that spans the whole membrane and forms a water-filled pore, so it is a channel protein.",
+        "Ions are charged, so they cannot cross the hydrophobic core and diffuse through channel proteins such as U."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-65.jpg",
         "papers/biology/img/02A-Membranes-Transport-66.jpg",
         "papers/biology/img/02A-Membranes-Transport-67.jpg",
         "papers/biology/img/02A-Membranes-Transport-68.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q27.jpg"
       ]
     },
     {
@@ -3560,14 +3954,20 @@
         "U"
       ],
       "question": "From the membrane diagram (options AP, BQ, CS, DU), which structure allows the membrane to be fluid?",
-      "status": "pending",
-      "answer": "Missing: the labelled membrane diagram is not in the text, so the structure cannot be identified.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: S.",
+      "steps": [
+        "S is a phospholipid molecule.",
+        "The phospholipids can move sideways past each other, which makes the membrane fluid."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-65.jpg",
         "papers/biology/img/02A-Membranes-Transport-66.jpg",
         "papers/biology/img/02A-Membranes-Transport-67.jpg",
         "papers/biology/img/02A-Membranes-Transport-68.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q27.jpg"
       ]
     },
     {
@@ -3584,14 +3984,20 @@
         "hydroxyl group"
       ],
       "question": "Which diagram shows the correct position of a cholesterol molecule in the membrane?",
-      "status": "pending",
-      "answer": "Missing: the diagrams of cholesterol positions are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B.",
+      "steps": [
+        "Cholesterol sits between the phospholipids, in line with the fatty acid tails, with its small polar -OH group next to the hydrophilic phosphate heads.",
+        "In B, the polar -OH end is at the heads and the hydrophobic rings lie among the tails; in A the -OH group faces the middle of the bilayer, in C the molecule lies flat in the middle of the bilayer, and in D the -OH group is in the middle of the bilayer, away from the heads."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-65.jpg",
         "papers/biology/img/02A-Membranes-Transport-66.jpg",
         "papers/biology/img/02A-Membranes-Transport-67.jpg",
         "papers/biology/img/02A-Membranes-Transport-68.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q27-2.jpg"
       ]
     },
     {
@@ -3608,14 +4014,22 @@
         "describe"
       ],
       "question": "Describe the effect of temperature and cholesterol on membrane fluidity, shown in the graph.",
-      "status": "pending",
-      "answer": "Missing: the graph of the effect of temperature and cholesterol on membrane fluidity is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Membrane fluidity increases with temperature in both cases; cholesterol makes fluidity change gradually with temperature, raising it at low temperature and lowering it at high temperature.",
+      "steps": [
+        "Without cholesterol the fluidity is very low at low temperature, then rises steeply in the middle of the range, and levels off at high temperature.",
+        "With cholesterol the fluidity rises steadily (almost linearly) with temperature.",
+        "At low temperatures the membrane with cholesterol is more fluid than without, and at high temperatures (above the crossover point) it is less fluid than without cholesterol.",
+        "Both reach about the same fluidity at the top of the range, so cholesterol buffers the membrane against changes in temperature."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-65.jpg",
         "papers/biology/img/02A-Membranes-Transport-66.jpg",
         "papers/biology/img/02A-Membranes-Transport-67.jpg",
         "papers/biology/img/02A-Membranes-Transport-68.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q27-3.jpg"
       ]
     },
     {
@@ -3633,14 +4047,20 @@
         "2 decimal places"
       ],
       "question": "Calculate the ratio of protein to lipid in membrane A from the table of composition of three membranes, giving the answer to 2 decimal places (as x : 1).",
-      "status": "pending",
-      "answer": "Missing: the table of protein, lipid and carbohydrate composition of membranes A, B and C is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1.14 : 1.",
+      "steps": [
+        "Protein : lipid in membrane A = 49 : 43.",
+        "Divide by the lipid value: 49 / 43 = 1.14, so the ratio is 1.14 : 1."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-65.jpg",
         "papers/biology/img/02A-Membranes-Transport-66.jpg",
         "papers/biology/img/02A-Membranes-Transport-67.jpg",
         "papers/biology/img/02A-Membranes-Transport-68.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q27-4.jpg"
       ]
     },
     {
@@ -3658,14 +4078,22 @@
         "membranes A B C"
       ],
       "question": "Compare and contrast the composition of the three membranes A, B and C in the table of protein, lipid and carbohydrate.",
-      "status": "pending",
-      "answer": "Missing: the table of protein, lipid and carbohydrate composition of membranes A, B and C is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "All three membranes contain protein, lipid and carbohydrate in different proportions: protein increases A < B < C, whereas lipid and carbohydrate decrease A > B > C, and C contains no carbohydrate.",
+      "steps": [
+        "Similarities: all three contain protein and lipid, and in each membrane the protein percentage is larger than the lipid percentage; A and B are similar (49 and 54% protein, 43 and 42% lipid).",
+        "Difference: protein is 49% in A, 54% in B and 75% in C, so C has much more protein.",
+        "Difference: lipid is 43% in A, 42% in B and only 25% in C.",
+        "Difference: carbohydrate is 8% in A, 4% in B and 0% in C, so C has no glycoproteins or glycolipids."
+      ],
       "images": [
         "papers/biology/img/02A-Membranes-Transport-65.jpg",
         "papers/biology/img/02A-Membranes-Transport-66.jpg",
         "papers/biology/img/02A-Membranes-Transport-67.jpg",
         "papers/biology/img/02A-Membranes-Transport-68.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/02A-Membranes-Transport-Q27-4.jpg"
       ]
     }
   ]

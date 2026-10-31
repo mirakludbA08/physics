@@ -29,6 +29,9 @@
       "images": [
         "papers/physics/img/03-1B-Suvat-Angle-01.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-02.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q1.jpg"
       ]
     },
     {
@@ -57,6 +60,9 @@
       "images": [
         "papers/physics/img/03-1B-Suvat-Angle-01.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-02.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q1.jpg"
       ]
     },
     {
@@ -74,13 +80,21 @@
         "options"
       ],
       "question": "An object accelerates from rest down a frictionless slope at 23 degrees to the horizontal, moving a distance of 20 m. Which expression gives its final speed? The options A to D are not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the four answer options from the PDF; the correct speed is v = sqrt(2 x 9.81 x sin 23 x 20), about 12.4 m s-1.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: sqrt(2 x 9.81 x 20 x sin 23)  (about 12 m s^-1)",
+      "steps": [
+        "The slope is frictionless, so the only force along it is the component of weight, mg sin 23, giving acceleration a = g sin 23 down the slope.",
+        "The object starts from rest (u = 0) and moves s = 20 m along the slope, so v^2 = u^2 + 2as = 2 x (9.81 sin 23) x 20.",
+        "v = sqrt(2 x 9.81 x 20 x sin 23) = 12.4 m s^-1, which is option C.",
+        "Options A and B use cos 23 (the wrong component), and B and D use 0.5 instead of 2, so they are wrong."
+      ],
       "images": [
         "papers/physics/img/03-1B-Suvat-Angle-02.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-03.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q2.jpg"
       ]
     },
     {
@@ -128,13 +142,23 @@
         "deceleration"
       ],
       "question": "The trajectories of the golf ball with and without air resistance are shown. Explain the differences between the two paths.",
-      "status": "pending",
-      "answer": "Needs the two trajectory curves from the PDF diagram to confirm the comparison; expected: air resistance gives a shorter range, lower maximum height and a steeper, asymmetric descent.",
-      "steps": [],
+      "status": "ready",
+      "answer": "With air resistance the ball has a shorter range, a lower maximum height and a steeper, asymmetric descent, because drag opposes the motion and removes energy.",
+      "steps": [
+        "Without air resistance the only force is weight: the horizontal velocity is constant, the vertical acceleration is g, and the path is a symmetric parabola (dashed).",
+        "With air resistance, a drag force acts opposite to the velocity, so the horizontal velocity decreases continuously; the ball covers less horizontal distance, giving a shorter range.",
+        "On the way up, drag has a downward component as well as weight, so the deceleration is greater than g; the vertical velocity falls to zero sooner, giving a lower maximum height and a shorter time to the top.",
+        "The horizontal velocity is lower on the way down, so the path is steeper than on the way up: the curve is not symmetric and the peak is nearer the launch point.",
+        "Drag increases with speed, so the effect is greatest near the start (high speed), and the ball loses kinetic energy as work is done against drag (transferred as heat to the air).",
+        "The ball therefore lands at a lower speed and at a steeper angle than in the no-drag case."
+      ],
       "images": [
         "papers/physics/img/03-1B-Suvat-Angle-02.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-03.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q3.jpg"
       ]
     },
     {
@@ -162,6 +186,9 @@
         "papers/physics/img/03-1B-Suvat-Angle-04.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-05.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q4.jpg"
       ]
     },
     {
@@ -189,6 +216,9 @@
         "papers/physics/img/03-1B-Suvat-Angle-04.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-05.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q4.jpg"
       ]
     },
     {
@@ -205,13 +235,22 @@
         "range check"
       ],
       "question": "Point A is 0.86 m vertically above the ground and 1.23 m horizontally from the end of the ramp. Deduce whether the ball will bounce a second time on the ramp.",
-      "status": "pending",
-      "answer": "Needs the ramp shape and angle from the PDF diagram (not in the text); the ball's post-bounce path must be compared with the ramp surface.",
-      "steps": [],
+      "status": "ready",
+      "answer": "No. The ball clears the end of the ramp (it is still 0.59 m above the ramp when it passes the end), so it does not bounce a second time on the ramp.",
+      "steps": [
+        "After the bounce, speed v = sqrt(2gh) = 3.43 m s^-1 at 70 degrees to the vertical, so horizontal velocity = 3.43 sin 70 = 3.22 m s^-1 and vertical velocity = 3.43 cos 70 = 1.17 m s^-1 upwards.",
+        "Time to travel the 1.23 m horizontal length of the ramp: t = 1.23 / 3.22 = 0.381 s.",
+        "Vertical displacement from A in this time: s = ut + 1/2 at^2 = 1.17 x 0.381 - 0.5 x 9.81 x 0.381^2 = -0.27 m (0.27 m below A).",
+        "The ramp end is 0.86 m below A, so the ball is about 0.59 m above the ramp end when it reaches it, and has not hit the ramp.",
+        "Check: the ball reaches the ground after 0.555 s, at 1.79 m from A, beyond the 1.23 m end of the ramp, so it lands on the ground. The ramp slopes down at tan^-1(0.86/1.23) = 35 degrees, while the ball leaves at only 20 degrees above the horizontal, so it moves away from the ramp surface."
+      ],
       "images": [
         "papers/physics/img/03-1B-Suvat-Angle-04.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-05.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q4-2.jpg"
       ]
     },
     {
@@ -268,6 +307,9 @@
         "papers/physics/img/03-1B-Suvat-Angle-06.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-07.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q5.jpg"
       ]
     },
     {
@@ -296,6 +338,9 @@
         "papers/physics/img/03-1B-Suvat-Angle-06.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-07.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q5-2.jpg"
       ]
     },
     {
@@ -325,6 +370,9 @@
       "images": [
         "papers/physics/img/03-1B-Suvat-Angle-08.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-09.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q6.jpg"
       ]
     },
     {
@@ -378,6 +426,9 @@
       "images": [
         "papers/physics/img/03-1B-Suvat-Angle-09.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-10.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q7.jpg"
       ]
     },
     {
@@ -405,6 +456,10 @@
       "images": [
         "papers/physics/img/03-1B-Suvat-Angle-09.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-10.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q7.jpg",
+        "papers/physics/fig/03-1B-Suvat-Angle-Q7-2.jpg"
       ]
     },
     {
@@ -433,6 +488,9 @@
         "papers/physics/img/03-1B-Suvat-Angle-10.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-11.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-12.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q8.jpg"
       ]
     },
     {
@@ -450,13 +508,22 @@
         "explosion"
       ],
       "question": "The rock moves in the direction of a hill whose side is at 20 degrees to the horizontal, and lands on the side of the hill. Deduce whether the rock hits the hillside before it reaches its maximum height.",
-      "status": "pending",
-      "answer": "Needs the PDF diagram to confirm where the hillside starts relative to the launch point; if the slope starts at launch level, the rock reaches its maximum height (52.6 m at 3.3 s) before hitting the hillside (about 3.7 s), so the answer is no.",
-      "steps": [],
+      "status": "ready",
+      "answer": "No. The rock reaches its maximum height at 3.3 s and only meets the hillside at 3.7 s, so it does not hit the ground before it reaches its maximum height.",
+      "steps": [
+        "Components: u_x = 50 cos 40 = 38.3 m s^-1 and u_y = 50 sin 40 = 32.1 m s^-1.",
+        "Maximum height is reached when v_y = 0, at t = 32.1 / 9.81 = 3.28 s (the height there is 52.6 m, at a horizontal distance of 125.5 m).",
+        "The hillside is a straight line from the explosion at 20 degrees, so the rock lands on it when its height equals x tan 20: 32.1t - 4.905t^2 = (38.3 tan 20)t = 13.9t.",
+        "Solving, t = (32.1 - 13.9) / 4.905 = 3.71 s, which is later than 3.28 s.",
+        "Check: at 3.28 s the hillside beneath the rock is only 125.5 tan 20 = 45.7 m high, below the rock at 52.6 m, so the rock is still above the hill when it reaches its maximum height."
+      ],
       "images": [
         "papers/physics/img/03-1B-Suvat-Angle-10.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-11.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-12.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q8-2.jpg"
       ]
     },
     {
@@ -473,12 +540,20 @@
         "boat"
       ],
       "question": "A flare is launched to the right from a stationary boat at 30 degrees to the horizontal. Complete the diagram to show the path of the flare before it hits the sea.",
-      "status": "pending",
-      "answer": "Needs the boat diagram from the PDF to draw the path; the path is a symmetric parabolic arc from the launch point to the sea.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A smooth parabola starting at the x on the boat, rising to the right at about 30 degrees to the horizontal, reaching a maximum height and then falling symmetrically to meet the sea to the right of the boat.",
+      "steps": [
+        "Start the curve at the launch mark x, initially straight and sloping up to the right at 30 degrees to the horizontal (shallow, gradient tan 30 = 0.58).",
+        "Draw a smooth parabola: the horizontal velocity is constant and the vertical velocity decreases uniformly, so the curve flattens at a single maximum.",
+        "The descent should mirror the ascent (no air resistance), ending where the curve meets the sea surface, slightly beyond the symmetric point since the launch point is a little above the water.",
+        "The path must be a curve with no kinks, ending at the sea (not on the boat) to the right of the boat."
+      ],
       "images": [
         "papers/physics/img/03-1B-Suvat-Angle-12.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-13.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q9.jpg"
       ]
     },
     {
@@ -574,12 +649,19 @@
         "sin"
       ],
       "question": "A golfer hits a ball at 52 m s-1 at 41 degrees to the horizontal. Show that the vertical component of the initial velocity is about 30 m s-1.",
-      "status": "pending",
-      "answer": "Data conflict in the extracted text: 52 sin 41 = 34 m s-1, not about 30 m s-1. Check the speed and angle values against the PDF.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Vertical component = 52 sin 41 = 34 m s^-1, which is about 30 m s^-1 to 1 s.f.",
+      "steps": [
+        "The vertical component of the initial velocity is v_y = v sin theta, with v = 52 m s^-1 and theta = 41 degrees.",
+        "v_y = 52 sin 41 = 52 x 0.656 = 34.1 m s^-1.",
+        "34.1 m s^-1 rounds to 30 m s^-1 to 1 significant figure, which agrees with 'about 30 m s^-1' (and 34.1 m s^-1 is used in later parts)."
+      ],
       "images": [
         "papers/physics/img/03-1B-Suvat-Angle-13.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-14.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q10.jpg"
       ]
     },
     {
@@ -607,6 +689,9 @@
       "images": [
         "papers/physics/img/03-1B-Suvat-Angle-13.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-14.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q10.jpg"
       ]
     },
     {
@@ -634,6 +719,9 @@
       "images": [
         "papers/physics/img/03-1B-Suvat-Angle-13.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-14.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q10.jpg"
       ]
     },
     {
@@ -661,6 +749,9 @@
         "papers/physics/img/03-1B-Suvat-Angle-14.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-15.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-16.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q11.jpg"
       ]
     },
     {
@@ -690,6 +781,9 @@
         "papers/physics/img/03-1B-Suvat-Angle-14.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-15.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-16.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q11.jpg"
       ]
     },
     {
@@ -744,6 +838,9 @@
       ],
       "images": [
         "papers/physics/img/03-1B-Suvat-Angle-16.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q12.jpg"
       ]
     },
     {
@@ -770,6 +867,9 @@
       "images": [
         "papers/physics/img/03-1B-Suvat-Angle-17.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q13.jpg"
       ]
     },
     {
@@ -796,6 +896,9 @@
       "images": [
         "papers/physics/img/03-1B-Suvat-Angle-17.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q13.jpg"
       ]
     },
     {
@@ -823,6 +926,9 @@
       "images": [
         "papers/physics/img/03-1B-Suvat-Angle-17.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q13.jpg"
       ]
     },
     {
@@ -850,6 +956,9 @@
       "images": [
         "papers/physics/img/03-1B-Suvat-Angle-18.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-19.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q14.jpg"
       ]
     },
     {
@@ -878,6 +987,9 @@
       "images": [
         "papers/physics/img/03-1B-Suvat-Angle-18.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-19.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q14.jpg"
       ]
     },
     {
@@ -932,6 +1044,9 @@
         "papers/physics/img/03-1B-Suvat-Angle-19.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-20.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-21.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q15.jpg"
       ]
     },
     {
@@ -959,6 +1074,9 @@
         "papers/physics/img/03-1B-Suvat-Angle-19.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-20.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-21.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q15.jpg"
       ]
     },
     {
@@ -988,6 +1106,9 @@
         "papers/physics/img/03-1B-Suvat-Angle-21.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-22.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-23.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q16.jpg"
       ]
     },
     {
@@ -1015,6 +1136,9 @@
         "papers/physics/img/03-1B-Suvat-Angle-21.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-22.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-23.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q17.jpg"
       ]
     },
     {
@@ -1043,6 +1167,9 @@
         "papers/physics/img/03-1B-Suvat-Angle-21.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-22.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-23.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q17.jpg"
       ]
     },
     {
@@ -1060,13 +1187,21 @@
         "projectile"
       ],
       "question": "The inside of the tyre is 0.8 m in diameter and is 3.9 m from the side of the water. Deduce whether the stone lands inside the tyre.",
-      "status": "pending",
-      "answer": "Needs the PDF diagram to confirm how the 3.9 m is measured. The stone lands 4.5 m horizontally from the release point; if 3.9 m is to the near edge of the tyre, it lands inside (3.9 to 4.7 m).",
-      "steps": [],
+      "status": "ready",
+      "answer": "Yes. The stone lands about 4.5 m from the edge, which is between 3.9 m and 4.7 m, so it lands inside the tyre.",
+      "steps": [
+        "Components: u_x = 6.3 cos 55 = 3.61 m s^-1 and u_y = 6.3 sin 55 = 5.16 m s^-1 (upwards).",
+        "Taking up as positive, the stone ends 1.25 m below the launch point: -1.25 = 5.16t - 4.905t^2, so 4.905t^2 - 5.16t - 1.25 = 0 and t = 1.26 s (positive root).",
+        "Horizontal distance = u_x t = 3.61 x 1.26 = 4.5 m, measured from the point below the child's hand (the edge of the water).",
+        "The inside of the tyre runs from 3.9 m to 3.9 + 0.8 = 4.7 m from the edge, and 3.9 m < 4.5 m < 4.7 m, so the stone lands inside the tyre."
+      ],
       "images": [
         "papers/physics/img/03-1B-Suvat-Angle-21.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-22.jpg",
         "papers/physics/img/03-1B-Suvat-Angle-23.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/03-1B-Suvat-Angle-Q17-2.jpg"
       ]
     }
   ]

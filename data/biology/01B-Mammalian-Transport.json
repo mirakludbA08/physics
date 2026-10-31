@@ -31,6 +31,9 @@
         "papers/biology/img/01B-Mammalian-Transport-01.jpg",
         "papers/biology/img/01B-Mammalian-Transport-02.jpg",
         "papers/biology/img/01B-Mammalian-Transport-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q1.jpg"
       ]
     },
     {
@@ -48,13 +51,20 @@
         "valves"
       ],
       "question": "Explain which stage of the cardiac cycle is shown in the internal diagram of the mammalian heart.",
-      "status": "pending",
-      "answer": "Pending: the labelled heart diagram showing which valves and chambers are open or closed is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Diastole (atrial systole): the AV valves are open and the ventricles are relaxed and filling, so blood flows from the atria into the ventricles.",
+      "steps": [
+        "The valve flaps between the atria and ventricles hang down into the ventricles, so the atrioventricular (AV) valves are open.",
+        "The ventricle walls are relaxed with wide cavities, not squeezed shut as in ventricular systole.",
+        "Blood is therefore moving from the atria into the ventricles, which happens in diastole / atrial systole (the ventricles have not yet contracted)."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-01.jpg",
         "papers/biology/img/01B-Mammalian-Transport-02.jpg",
         "papers/biology/img/01B-Mammalian-Transport-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q1-2.jpg"
       ]
     },
     {
@@ -73,13 +83,21 @@
         "ventricle"
       ],
       "question": "Draw arrows on the heart diagram to show the flow of blood through the left side of the heart and into the aorta.",
-      "status": "pending",
-      "answer": "Pending: the heart diagram to draw arrows on is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Arrows: pulmonary veins -> left atrium -> through the left AV (bicuspid) valve -> left ventricle -> up through the aortic valve -> aorta.",
+      "steps": [
+        "Draw an arrow entering the left atrium from the pulmonary vein (on the right-hand side of the diagram).",
+        "Draw an arrow from the left atrium, through the AV valve, down into the left ventricle.",
+        "Draw an arrow from the left ventricle, up through the aortic (semilunar) valve and into the aorta.",
+        "The arrows should lie inside the chambers and vessels and show a continuous path."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-01.jpg",
         "papers/biology/img/01B-Mammalian-Transport-02.jpg",
         "papers/biology/img/01B-Mammalian-Transport-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q1-2.jpg"
       ]
     },
     {
@@ -97,13 +115,21 @@
         "graph"
       ],
       "question": "Explain the changes in the internal diameter of the aorta shown on the graph over two cardiac cycles.",
-      "status": "pending",
-      "answer": "Pending: the graph of aorta diameter over two cardiac cycles is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "The diameter rises quickly (about 12.8 to 13.7 mm) when the ventricle forces blood in and stretches the elastic wall, then falls slowly as the wall recoils during diastole.",
+      "steps": [
+        "Ventricular systole forces blood into the aorta at high pressure, so the diameter rises sharply from about 12.8 mm to a peak of about 13.7 mm as the elastic wall stretches.",
+        "During diastole the ventricle relaxes and the aortic valve closes, so pressure falls and the diameter decreases slowly back to about 12.8 mm.",
+        "This fall is the elastic recoil of the aorta wall, which squeezes the blood onward and keeps blood flowing smoothly between beats.",
+        "The pattern repeats in the second cardiac cycle."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-01.jpg",
         "papers/biology/img/01B-Mammalian-Transport-02.jpg",
         "papers/biology/img/01B-Mammalian-Transport-03.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q1-3.jpg"
       ]
     },
     {
@@ -120,15 +146,23 @@
         "graph"
       ],
       "question": "Using the graph point indicated on the x-axis, determine whether the person is healthy, given that pulse pressure should be at least 25% of systolic pressure.",
-      "status": "pending",
-      "answer": "Pending: the systolic and diastolic values from the blood pressure graph are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Yes, healthy: pulse pressure is about 5.2 kPa, which is about 35% of the systolic pressure (15.0 kPa) and above 25%.",
+      "steps": [
+        "At the arrow (start of the elastic arteries) systolic pressure is about 15.0 kPa and diastolic pressure is about 9.8 kPa.",
+        "Pulse pressure = 15.0 - 9.8 = 5.2 kPa.",
+        "25% of systolic pressure = 0.25 x 15.0 = 3.75 kPa.",
+        "Pulse pressure (5.2 kPa, about 35% of 15.0) is greater than 3.75 kPa, so the person is healthy."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-03.jpg",
         "papers/biology/img/01B-Mammalian-Transport-04.jpg",
         "papers/biology/img/01B-Mammalian-Transport-05.jpg",
         "papers/biology/img/01B-Mammalian-Transport-06.jpg",
         "papers/biology/img/01B-Mammalian-Transport-07.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q2.jpg"
       ]
     },
     {
@@ -146,15 +180,23 @@
         "elastic arteries"
       ],
       "question": "Estimate the mean arterial pressure (MAP) in the elastic arteries for this person, using the approximation formula and the graph values.",
-      "status": "pending",
-      "answer": "Pending: the MAP formula image and the systolic and diastolic values from the graph are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "11.5 kPa (about 11.5 to 11.6)",
+      "steps": [
+        "Systolic pressure about 15.0 kPa and diastolic pressure about 9.8 kPa at the elastic arteries.",
+        "MAP = diastolic + (systolic - diastolic) / 3.",
+        "MAP = 9.8 + (15.0 - 9.8) / 3 = 9.8 + 1.73 = 11.5 kPa."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-03.jpg",
         "papers/biology/img/01B-Mammalian-Transport-04.jpg",
         "papers/biology/img/01B-Mammalian-Transport-05.jpg",
         "papers/biology/img/01B-Mammalian-Transport-06.jpg",
         "papers/biology/img/01B-Mammalian-Transport-07.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q2.jpg",
+        "papers/biology/fig/01B-Mammalian-Transport-Q2-2.jpg"
       ]
     },
     {
@@ -203,15 +245,23 @@
         "length"
       ],
       "question": "Which formula can be used to calculate resistance to blood flow?",
-      "status": "pending",
-      "answer": "Pending: the formula images for blood flow and resistance are missing from the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 8 eta lambda / (pi r^4)",
+      "steps": [
+        "Blood flow = pi x deltaP x r^4 / (8 x eta x lambda), and also blood flow = deltaP / resistance.",
+        "Equate them: deltaP / resistance = pi deltaP r^4 / (8 eta lambda).",
+        "Rearranging gives resistance = 8 eta lambda / (pi r^4), which is option D."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-03.jpg",
         "papers/biology/img/01B-Mammalian-Transport-04.jpg",
         "papers/biology/img/01B-Mammalian-Transport-05.jpg",
         "papers/biology/img/01B-Mammalian-Transport-06.jpg",
         "papers/biology/img/01B-Mammalian-Transport-07.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q2-3.jpg",
+        "papers/biology/fig/01B-Mammalian-Transport-Q2-4.jpg"
       ]
     },
     {
@@ -353,12 +403,19 @@
         "state of chambers"
       ],
       "question": "Which row of the table describes the atria and ventricles during atrial systole?",
-      "status": "pending",
-      "answer": "Pending: the table of cardiac cycle rows and the cardiac cycle diagram are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: atria contracted, ventricles relaxed.",
+      "steps": [
+        "Atrial systole is the contraction of the atria, which pushes the last blood into the ventricles.",
+        "The ventricles are still relaxed and filling at this point, so row B is correct."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-07.jpg",
         "papers/biology/img/01B-Mammalian-Transport-08.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q3.jpg",
+        "papers/biology/fig/01B-Mammalian-Transport-Q3-2.jpg"
       ]
     },
     {
@@ -403,12 +460,20 @@
         "diagram"
       ],
       "question": "Using the information in the diagram, calculate the duration of ventricular systole in milliseconds, expressed in standard form.",
-      "status": "pending",
-      "answer": "Pending: the time values for the stages from the cardiac cycle diagram are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "3.2 x 10^2 ms (322.5 ms before rounding)",
+      "steps": [
+        "The inner ring is divided into 8 equal segments, so each segment is 1/8 of the 0.86 s cycle.",
+        "Ventricular systole (dark grey segment of the outer ring) spans 3 of these segments, i.e. 135 degrees or 3/8 of the cycle.",
+        "Time = 3/8 x 0.86 s = 0.3225 s = 322.5 ms.",
+        "In standard form (2 s.f.) this is 3.2 x 10^2 ms."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-07.jpg",
         "papers/biology/img/01B-Mammalian-Transport-08.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q3.jpg"
       ]
     },
     {
@@ -424,12 +489,19 @@
         "diagram"
       ],
       "question": "State what proportion of the cardiac cycle is spent in ventricular diastole.",
-      "status": "pending",
-      "answer": "Pending: the stage durations from the cardiac cycle diagram are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "5/8 of the cycle (0.625 or 62.5%)",
+      "steps": [
+        "Ventricular diastole is the black part of the outer ring.",
+        "Ventricular systole is 3/8 of the cycle, so diastole is 1 - 3/8 = 5/8.",
+        "5/8 = 0.625 = 62.5% of the cardiac cycle."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-07.jpg",
         "papers/biology/img/01B-Mammalian-Transport-08.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q3.jpg"
       ]
     },
     {
@@ -474,12 +546,19 @@
         "deoxygenated"
       ],
       "question": "Which diagram shows the direction of blood flow through the vena cava?",
-      "status": "pending",
-      "answer": "Pending: the diagrams of blood flow direction are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A",
+      "steps": [
+        "Blood from the body enters the right atrium through the vena cava, so the arrow must point into the heart.",
+        "Diagram A has an arrow pointing down into the top of the vena cava towards the heart.",
+        "Diagram C shows the arrow pointing away from the heart, and B and D show arrows at the pulmonary vein and pulmonary artery."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-09.jpg",
         "papers/biology/img/01B-Mammalian-Transport-10.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q4.jpg"
       ]
     },
     {
@@ -496,12 +575,19 @@
         "heart"
       ],
       "question": "Which row in the table describes the blood flow through the pulmonary vein?",
-      "status": "pending",
-      "answer": "Pending: the table of blood flow rows is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: pulmonary artery carries deoxygenated blood away from the heart; pulmonary vein carries oxygenated blood towards the heart.",
+      "steps": [
+        "The pulmonary artery takes deoxygenated blood from the right ventricle to the lungs, so away from the heart.",
+        "The pulmonary vein brings oxygenated blood from the lungs back to the left atrium, so towards the heart.",
+        "Only row A matches both."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-09.jpg",
         "papers/biology/img/01B-Mammalian-Transport-10.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q4-2.jpg"
       ]
     },
     {
@@ -519,12 +605,19 @@
         "closed"
       ],
       "question": "Which description of the atrioventricular (AV) valves and semilunar (SL) valves is true for each stage of the cardiac cycle?",
-      "status": "pending",
-      "answer": "Pending: the table describing AV and SL valve states for each stage is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Atrial systole: AV open, SL closed. Ventricular systole: AV closed, SL open. Diastole: AV open, SL closed.",
+      "steps": [
+        "Atrial systole: blood is pushed into the ventricles through open AV valves while the semilunar valves stay closed (second column).",
+        "Ventricular systole: high ventricular pressure shuts the AV valves and forces open the semilunar valves so blood leaves the heart (third column).",
+        "Diastole: pressure in the arteries closes the semilunar valves while blood flows into the relaxed chambers through open AV valves (second column)."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-09.jpg",
         "papers/biology/img/01B-Mammalian-Transport-10.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q4-3.jpg"
       ]
     },
     {
@@ -626,12 +719,20 @@
         "structure"
       ],
       "question": "Complete and label the diagram of a vein to show the structures present in a vein.",
-      "status": "pending",
-      "answer": "Pending: the outline diagram of the vein to complete and label is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Add pocket (semilunar) valves in the lumen that open in the direction of flow, a thin middle layer of muscle and elastic fibres, and an inner endothelium lining a wide lumen; label them.",
+      "steps": [
+        "Draw a valve: pocket-shaped flaps on the inner wall that point in the direction of blood flow (up the page), labelled \"valve\".",
+        "Add a thin middle layer (tunica media, a little smooth muscle and elastic fibre) just inside the outer layer, and label it.",
+        "Draw a smooth, thin inner lining of endothelium round a large lumen, and label it.",
+        "The wall should be thinner and the lumen wider than in an artery."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-10.jpg",
         "papers/biology/img/01B-Mammalian-Transport-11.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q5.jpg"
       ]
     },
     {
@@ -649,12 +750,20 @@
         "labels"
       ],
       "question": "Label the diagram of the human heart with the names of the four major blood vessels.",
-      "status": "pending",
-      "answer": "Pending: the heart diagram to label is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Top right label: aorta. Middle label: pulmonary artery. Lower right label: pulmonary vein. Left label: vena cava.",
+      "steps": [
+        "The top label line goes to the large arch at the top of the heart, which is the aorta.",
+        "The second label line goes to the vessel leaving the right ventricle in front of the aorta, which is the pulmonary artery.",
+        "The label line to the small vessel entering the left atrium on the right is the pulmonary vein.",
+        "The label on the left goes to the vertical vessel entering the right atrium, which is the vena cava."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-12.jpg",
         "papers/biology/img/01B-Mammalian-Transport-13.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q6.jpg"
       ]
     },
     {
@@ -672,12 +781,19 @@
         "valves"
       ],
       "question": "Put a cross in each row of a table to show which blood vessel types contain each listed structure.",
-      "status": "pending",
-      "answer": "Pending: the table of structures and vessel types with tick boxes is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Lining of endothelial cells: arteries, capillaries and veins. Valves along the length: veins only. Wall one cell thick: capillaries only.",
+      "steps": [
+        "All blood vessels have an endothelial lining, so tick the last column in row 1.",
+        "Valves along the length prevent backflow at low pressure, so they occur in veins only.",
+        "Capillaries have a wall that is a single endothelial cell thick, so tick \"capillaries only\" in row 3."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-12.jpg",
         "papers/biology/img/01B-Mammalian-Transport-13.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q6-2.jpg"
       ]
     },
     {
@@ -706,6 +822,9 @@
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-12.jpg",
         "papers/biology/img/01B-Mammalian-Transport-13.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q6-3.jpg"
       ]
     },
     {
@@ -723,13 +842,20 @@
         "diagram"
       ],
       "question": "What is the name of blood vessel Q on the diagram of the heart showing impulse travel times? Options: A aorta, B pulmonary artery, C pulmonary vein, D vena cava.",
-      "status": "pending",
-      "answer": "Pending: the labelled diagram showing impulse times and vessel Q is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: vena cava",
+      "steps": [
+        "The arrow on blood vessel Q points down into the right atrium, so blood flows into the heart.",
+        "The vena cava returns deoxygenated blood from the body to the right atrium.",
+        "The aorta and pulmonary artery carry blood away from the heart, and the pulmonary vein enters the left atrium."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-13.jpg",
         "papers/biology/img/01B-Mammalian-Transport-14.jpg",
         "papers/biology/img/01B-Mammalian-Transport-15.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q7.jpg"
       ]
     },
     {
@@ -775,13 +901,20 @@
         "diagram"
       ],
       "question": "The duration of ventricular systole is the time for the impulse to pass between E and F on the diagram. Calculate the proportion of time the ventricles contract in one heartbeat if the heart beats 73 times per minute.",
-      "status": "pending",
-      "answer": "Pending: the time taken for the impulse between E and F is read from the diagram, which is not in the text. (Cycle length at 73 beats per minute is 60 / 73 = 0.822 s.)",
-      "steps": [],
+      "status": "ready",
+      "answer": "0.061 (about 6.1% of the cardiac cycle)",
+      "steps": [
+        "Ventricular systole = time for the impulse from E to F = 0.05 s (read from the diagram).",
+        "Time for one beat at 73 beats per minute = 60 / 73 = 0.822 s.",
+        "Proportion = 0.05 / 0.822 = 0.061, so the ventricles contract for about 6% of each heartbeat."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-13.jpg",
         "papers/biology/img/01B-Mammalian-Transport-14.jpg",
         "papers/biology/img/01B-Mammalian-Transport-15.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q7.jpg"
       ]
     },
     {
@@ -799,13 +932,20 @@
         "B and D"
       ],
       "question": "The distance between B and D is 12.5 mm. Calculate the speed of the impulse between B and D.",
-      "status": "pending",
-      "answer": "Pending: the time for the impulse to travel between B and D is read from the diagram, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "104 mm s^-1",
+      "steps": [
+        "The time for the impulse from B to D is 0.12 s on the diagram.",
+        "Speed = distance / time = 12.5 mm / 0.12 s = 104.2 mm s^-1.",
+        "To 3 s.f. the speed is 104 mm s^-1."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-13.jpg",
         "papers/biology/img/01B-Mammalian-Transport-14.jpg",
         "papers/biology/img/01B-Mammalian-Transport-15.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q7.jpg"
       ]
     },
     {
@@ -835,6 +975,9 @@
         "papers/biology/img/01B-Mammalian-Transport-13.jpg",
         "papers/biology/img/01B-Mammalian-Transport-14.jpg",
         "papers/biology/img/01B-Mammalian-Transport-15.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q7.jpg"
       ]
     },
     {
@@ -852,13 +995,19 @@
         "vena cava"
       ],
       "question": "Name the blood vessel labelled G on the diagram of the heart in stage F. Options: A aorta, B pulmonary artery, C pulmonary vein, D vena cava.",
-      "status": "pending",
-      "answer": "Pending: the labelled heart diagram for stage F is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: pulmonary artery",
+      "steps": [
+        "G labels the vessel that leaves the top of the right ventricle in front of the aorta and carries blood to the lungs.",
+        "This is the pulmonary artery, not the aorta (which arches over the top), the pulmonary vein or the vena cava."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-15.jpg",
         "papers/biology/img/01B-Mammalian-Transport-16.jpg",
         "papers/biology/img/01B-Mammalian-Transport-17.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q8.jpg"
       ]
     },
     {
@@ -875,13 +1024,21 @@
         "stages"
       ],
       "question": "Which row of the table identifies the stages before and after stage F in the cardiac cycle?",
-      "status": "pending",
-      "answer": "Pending: the table of stages before and after stage F is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: atrial systole before, cardiac diastole after.",
+      "steps": [
+        "In the diagram the ventricle walls are thick with small cavities and the AV valves are shut, so stage F is ventricular systole.",
+        "The cycle runs atrial systole, then ventricular systole, then diastole.",
+        "So the stage before F is atrial systole and the stage after is cardiac diastole (row A)."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-15.jpg",
         "papers/biology/img/01B-Mammalian-Transport-16.jpg",
         "papers/biology/img/01B-Mammalian-Transport-17.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q8.jpg",
+        "papers/biology/fig/01B-Mammalian-Transport-Q8-2.jpg"
       ]
     },
     {
@@ -899,13 +1056,20 @@
         "beats per minute"
       ],
       "question": "Calculate the heart rate from the left ventricle pressure graph, giving the answer to 3 significant figures.",
-      "status": "pending",
-      "answer": "Pending: the cardiac cycle duration read from the left ventricle pressure graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "75.0 beats min^-1",
+      "steps": [
+        "Take the same point in two cycles on the pressure graph, for example the start of the atrial bump at 0.0 s and 0.8 s.",
+        "Time for one cycle = 0.80 s.",
+        "Heart rate = 60 / 0.80 = 75.0 beats per minute (3 s.f.)."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-15.jpg",
         "papers/biology/img/01B-Mammalian-Transport-16.jpg",
         "papers/biology/img/01B-Mammalian-Transport-17.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q8-3.jpg"
       ]
     },
     {
@@ -935,6 +1099,9 @@
         "papers/biology/img/01B-Mammalian-Transport-15.jpg",
         "papers/biology/img/01B-Mammalian-Transport-16.jpg",
         "papers/biology/img/01B-Mammalian-Transport-17.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q8-3.jpg"
       ]
     },
     {
@@ -952,13 +1119,21 @@
         "dog"
       ],
       "question": "Complete the table of blood vessel dimensions in a dog, using the formula surface area = 2 x radius x length.",
-      "status": "pending",
-      "answer": "Pending: the table values for radius and length of the dog blood vessels are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Large veins total surface area = 1.5 x 10^3 cm^2; vena cava length = about 41 cm (40.7).",
+      "steps": [
+        "Large veins: radius = 0.6 / 2 = 0.3 cm, so one vein has area 2 x pi x 0.3 x 20.0 = 37.7 cm^2.",
+        "There are 40 large veins, so total area = 40 x 37.7 = 1508 cm^2 = 1.5 x 10^3 cm^2.",
+        "Vena cava: radius = 1.25 / 2 = 0.625 cm and area = 1.6 x 10^2 cm^2.",
+        "Length = area / (2 x pi x r) = 160 / (2 x pi x 0.625) = 40.7 cm, about 41 cm (a length of 40 cm gives the same 1.6 x 10^2 to 2 s.f.)."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-17.jpg",
         "papers/biology/img/01B-Mammalian-Transport-18.jpg",
         "papers/biology/img/01B-Mammalian-Transport-19.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q9.jpg"
       ]
     },
     {
@@ -988,6 +1163,9 @@
         "papers/biology/img/01B-Mammalian-Transport-17.jpg",
         "papers/biology/img/01B-Mammalian-Transport-18.jpg",
         "papers/biology/img/01B-Mammalian-Transport-19.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q9.jpg"
       ]
     },
     {
@@ -1017,6 +1195,9 @@
         "papers/biology/img/01B-Mammalian-Transport-17.jpg",
         "papers/biology/img/01B-Mammalian-Transport-18.jpg",
         "papers/biology/img/01B-Mammalian-Transport-19.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q9.jpg"
       ]
     },
     {
@@ -1033,13 +1214,20 @@
         "smooth muscle"
       ],
       "question": "Which diagram shows the relative proportions of components in the wall of a large artery?",
-      "status": "pending",
-      "answer": "Pending: the diagrams of blood vessel wall components are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A",
+      "steps": [
+        "A large artery has a thin endothelial layer, the highest proportion of elastic fibres, and also smooth muscle and collagen fibres.",
+        "Diagram A shows exactly this, with the elastic fibre bar longest.",
+        "B has little elastic tissue or muscle (a vein), C has no endothelial layer, and D has no collagen."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-17.jpg",
         "papers/biology/img/01B-Mammalian-Transport-18.jpg",
         "papers/biology/img/01B-Mammalian-Transport-19.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q9-2.jpg"
       ]
     },
     {
@@ -1056,13 +1244,21 @@
         "style"
       ],
       "question": "Draw a diagram, in the style of the previous diagrams, to represent the wall of a capillary.",
-      "status": "pending",
-      "answer": "Pending: the reference diagrams that set the drawing style are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Draw only the endothelial cell layer (white bar) and no bars for elastic fibres, smooth muscle or collagen.",
+      "steps": [
+        "A capillary wall is a single layer of endothelial cells.",
+        "On the grid, draw one bar for the endothelial layer, shaded white to match the key.",
+        "Leave out the elastic fibre, smooth muscle and collagen bars because a capillary wall has none of them."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-17.jpg",
         "papers/biology/img/01B-Mammalian-Transport-18.jpg",
         "papers/biology/img/01B-Mammalian-Transport-19.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q9-2.jpg",
+        "papers/biology/fig/01B-Mammalian-Transport-Q9-3.jpg"
       ]
     },
     {
@@ -1208,6 +1404,9 @@
         "papers/biology/img/01B-Mammalian-Transport-21.jpg",
         "papers/biology/img/01B-Mammalian-Transport-22.jpg",
         "papers/biology/img/01B-Mammalian-Transport-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q11.jpg"
       ]
     },
     {
@@ -1225,13 +1424,21 @@
         "graph"
       ],
       "question": "800 patients had stent A and 400 had stent B. Calculate the difference in the number of patients who developed stent thrombosis three years after insertion, using the graph.",
-      "status": "pending",
-      "answer": "Pending: the incidence values read from the stent thrombosis graph are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "8 patients",
+      "steps": [
+        "At 3 years stent A has an incidence of 1.5% and stent B has an incidence of 1.0%.",
+        "Stent A: 800 x 1.5 / 100 = 12 patients.",
+        "Stent B: 400 x 1.0 / 100 = 4 patients.",
+        "Difference = 12 - 4 = 8 patients."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-21.jpg",
         "papers/biology/img/01B-Mammalian-Transport-22.jpg",
         "papers/biology/img/01B-Mammalian-Transport-23.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q11-2.jpg"
       ]
     },
     {
@@ -1424,14 +1631,21 @@
         "volume"
       ],
       "question": "Give the volume of a yak red blood cell in cm3, using 1 fl = 1.0 x 10^-15 dm3 and the yak volume from the table, in standard form.",
-      "status": "pending",
-      "answer": "Pending: the yak red blood cell volume from the table is not in the text. (Conversion: 1 fl = 1.0 x 10^-12 cm3.)",
-      "steps": [],
+      "status": "ready",
+      "answer": "4.3 x 10^-11 cm^3",
+      "steps": [
+        "The volume of a yak red blood cell is 43 fl.",
+        "1 fl = 1.0 x 10^-15 dm^3, so 43 fl = 4.3 x 10^-14 dm^3.",
+        "1 dm^3 = 1000 cm^3, so 4.3 x 10^-14 dm^3 = 4.3 x 10^-11 cm^3."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-23.jpg",
         "papers/biology/img/01B-Mammalian-Transport-24.jpg",
         "papers/biology/img/01B-Mammalian-Transport-25.jpg",
         "papers/biology/img/01B-Mammalian-Transport-26.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q12.jpg"
       ]
     },
     {
@@ -1449,14 +1663,21 @@
         "mm2"
       ],
       "question": "Calculate the surface area to volume ratio of sphere B, which has a surface area of 768 mm2, using the formula given.",
-      "status": "pending",
-      "answer": "Pending: the formula image and the volume of sphere B from the diagram are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1 : 2.67 (surface area : volume, i.e. 0.375 : 1)",
+      "steps": [
+        "Sphere B has diameter 16 mm, so radius r = 8 mm.",
+        "Volume = 4/3 x 3.0 x 8^3 = 4 x 512 = 2048 mm^3.",
+        "Surface area = 768 mm^2, so surface area : volume = 768 : 2048 = 1 : 2.67."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-23.jpg",
         "papers/biology/img/01B-Mammalian-Transport-24.jpg",
         "papers/biology/img/01B-Mammalian-Transport-25.jpg",
         "papers/biology/img/01B-Mammalian-Transport-26.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q12-2.jpg"
       ]
     },
     {
@@ -1475,14 +1696,24 @@
         "oxygen"
       ],
       "question": "Discuss why the blood of yaks enables these animals to live at high altitudes, using all the information in the question, including the blood table.",
-      "status": "pending",
-      "answer": "Pending: the table of yak and human blood characteristics is not in the text, so the comparison cannot be fully supported.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Yak blood carries much more oxygen: far more red blood cells and haemoglobin per dm^3, smaller cells with a larger surface area to volume ratio, and fetal haemoglobin that binds oxygen more readily at the low partial pressure at altitude.",
+      "steps": [
+        "Yaks have a much higher concentration of red blood cells (1.0 x 10^13 cells dm^-3, against 4.0 x 10^6 to 6.0 x 10^6 as printed for humans) and of haemoglobin (136 g dm^-3 against 12 to 18), so the blood carries far more oxygen per dm^3.",
+        "Yak red blood cells are smaller (43 fl against 90 fl, about half the volume), so they have a larger surface area to volume ratio (small sphere A is 1 : 1.3, larger sphere B is 1 : 2.67), giving faster oxygen diffusion and a short diffusion path to the haemoglobin.",
+        "Fetal haemoglobin has a higher affinity for oxygen than adult haemoglobin, so the yak loads oxygen in the lungs even where the partial pressure of oxygen is low at high altitude.",
+        "Together these allow enough oxygen to be delivered for aerobic respiration to release energy for warmth and movement in thin air.",
+        "Possible drawback: more cells make blood more viscous so more resistance, but the large heart helps to pump it."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-23.jpg",
         "papers/biology/img/01B-Mammalian-Transport-24.jpg",
         "papers/biology/img/01B-Mammalian-Transport-25.jpg",
         "papers/biology/img/01B-Mammalian-Transport-26.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q12.jpg",
+        "papers/biology/fig/01B-Mammalian-Transport-Q12-2.jpg"
       ]
     },
     {
@@ -1499,14 +1730,20 @@
         "systemic"
       ],
       "question": "Which blood vessel takes blood from the heart to the body? Options are labelled A, B, C and D on the diagram of a human heart.",
-      "status": "pending",
-      "answer": "Pending: the labelled heart diagram with letters A to D is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A",
+      "steps": [
+        "The vessel that carries blood from the left ventricle to the body is the aorta.",
+        "A is the large, thick-walled vessel arching from the heart, so it is the aorta."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-26.jpg",
         "papers/biology/img/01B-Mammalian-Transport-27.jpg",
         "papers/biology/img/01B-Mammalian-Transport-28.jpg",
         "papers/biology/img/01B-Mammalian-Transport-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q13.jpg"
       ]
     },
     {
@@ -1523,14 +1760,20 @@
         "vessel"
       ],
       "question": "Which blood vessel has semilunar valves and contains blood with the highest concentration of carbon dioxide? Options are labelled A to D on the diagram.",
-      "status": "pending",
-      "answer": "Pending: the labelled heart diagram with letters A to D is not in the text. The vessel is the pulmonary artery, which has semilunar valves and carries deoxygenated blood.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C",
+      "steps": [
+        "The pulmonary artery has semilunar valves at its base and carries the most carbon dioxide (deoxygenated blood from the right ventricle).",
+        "C is the vessel that curves across the front of the heart and branches towards the lungs, so it is the pulmonary artery."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-26.jpg",
         "papers/biology/img/01B-Mammalian-Transport-27.jpg",
         "papers/biology/img/01B-Mammalian-Transport-28.jpg",
         "papers/biology/img/01B-Mammalian-Transport-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q13.jpg"
       ]
     },
     {
@@ -1547,14 +1790,21 @@
         "cardiac cycle"
       ],
       "question": "When is the heart in ventricular systole on the left ventricle volume graph? Options: A 0.1 s, B 0.4 s, C 0.6 s, D 0.8 s.",
-      "status": "pending",
-      "answer": "Pending: the left ventricle volume graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: at 0.4 seconds",
+      "steps": [
+        "Ventricular systole is when the left ventricle contracts and its volume falls as blood is ejected.",
+        "The volume falls steeply between about 0.23 s and 0.5 s, so at 0.4 s the ventricle is in systole.",
+        "At 0.1 s the volume is rising and at 0.6 s and 0.8 s the ventricle is filling."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-26.jpg",
         "papers/biology/img/01B-Mammalian-Transport-27.jpg",
         "papers/biology/img/01B-Mammalian-Transport-28.jpg",
         "papers/biology/img/01B-Mammalian-Transport-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q13-2.jpg"
       ]
     },
     {
@@ -1572,14 +1822,21 @@
         "heart rate"
       ],
       "question": "Calculate the volume of blood in dm3 pumped out by the left ventricle each minute, using the volume graph.",
-      "status": "pending",
-      "answer": "Pending: the end-diastolic and end-systolic volumes and the heart rate are read from the graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 4.2 dm^3 per minute (4.2 to 4.4 depending on the end-diastolic volume read)",
+      "steps": [
+        "Volume at the start of ventricular systole is about 106 cm^3 and the minimum volume is about 50 cm^3, so stroke volume = 106 - 50 = 56 cm^3 (59 cm^3 if the 109 cm^3 peak is used).",
+        "One cardiac cycle takes 0.8 s (peak to peak from 0.14 s to 0.94 s), so heart rate = 60 / 0.8 = 75 beats per minute.",
+        "Output = 56 x 75 = 4200 cm^3 per minute = 4.2 dm^3 (using 59 cm^3 gives 4425 cm^3 = 4.4 dm^3)."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-26.jpg",
         "papers/biology/img/01B-Mammalian-Transport-27.jpg",
         "papers/biology/img/01B-Mammalian-Transport-28.jpg",
         "papers/biology/img/01B-Mammalian-Transport-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q13-2.jpg"
       ]
     },
     {
@@ -1610,6 +1867,9 @@
         "papers/biology/img/01B-Mammalian-Transport-27.jpg",
         "papers/biology/img/01B-Mammalian-Transport-28.jpg",
         "papers/biology/img/01B-Mammalian-Transport-29.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q13-3.jpg"
       ]
     },
     {
@@ -1626,13 +1886,20 @@
         "letter"
       ],
       "question": "Which letter (P, Q, R or S) on the left ventricle pressure graph indicates when the atrioventricular (mitral) valves close?",
-      "status": "pending",
-      "answer": "Pending: the pressure and volume graphs with letters P, Q, R and S are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: R",
+      "steps": [
+        "The AV (mitral) valves shut when ventricular pressure first rises above the atrial pressure, at the start of ventricular systole.",
+        "R is at the minimum point just before the steep rise in pressure, so R marks the AV valves closing.",
+        "P and Q show the aortic valve opening and closing, and S shows the pressure falling away at the end of systole."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-29.jpg",
         "papers/biology/img/01B-Mammalian-Transport-30.jpg",
         "papers/biology/img/01B-Mammalian-Transport-31.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q14.jpg"
       ]
     },
     {
@@ -1649,13 +1916,20 @@
         "duration"
       ],
       "question": "Calculate the time for one cardiac cycle from the graphs of pressure and volume in the left ventricle.",
-      "status": "pending",
-      "answer": "Pending: the time values read from the left ventricle graphs are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 0.73 s",
+      "steps": [
+        "Measure the time between the same point on two successive cycles, e.g. the start of the rapid pressure rise at about 0.16 s and 0.89 s.",
+        "The time for one cardiac cycle = 0.89 - 0.16 = 0.73 s.",
+        "The volume graph gives the same value (peaks at about 0.13 s and 0.86 s)."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-29.jpg",
         "papers/biology/img/01B-Mammalian-Transport-30.jpg",
         "papers/biology/img/01B-Mammalian-Transport-31.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q14.jpg"
       ]
     },
     {
@@ -1686,6 +1960,9 @@
         "papers/biology/img/01B-Mammalian-Transport-29.jpg",
         "papers/biology/img/01B-Mammalian-Transport-30.jpg",
         "papers/biology/img/01B-Mammalian-Transport-31.jpg"
+      ],
+      "figures": [
+        "papers/biology/fig/01B-Mammalian-Transport-Q14.jpg"
       ]
     },
     {
@@ -1703,9 +1980,13 @@
         "count"
       ],
       "question": "How many of the three statements are correct for blood vessel P on the diagram of the heart? Options: A 0, B 1, C 2, D 3.",
-      "status": "pending",
-      "answer": "Pending: the labelled internal heart diagram identifying vessel P is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: all 3 statements are correct.",
+      "steps": [
+        "Blood vessel P is the vena cava, which is a vein and carries blood to the heart.",
+        "Veins have valves along their length to stop backflow.",
+        "All blood vessels have an endothelial lining, so all three statements are correct."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-31.jpg",
         "papers/biology/img/01B-Mammalian-Transport-32.jpg",
@@ -1755,9 +2036,12 @@
         "vessel P Q R S"
       ],
       "question": "Which blood vessel (P, Q, R or S) does the coronary artery branch from?",
-      "status": "pending",
-      "answer": "Pending: the labelled heart diagram with vessels P, Q, R and S is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: R (the aorta)",
+      "steps": [
+        "The coronary arteries branch off the aorta just above the aortic valve.",
+        "R labels the aorta (the arch at the top of the heart)."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-31.jpg",
         "papers/biology/img/01B-Mammalian-Transport-32.jpg",
@@ -1780,9 +2064,13 @@
         "diagram"
       ],
       "question": "When in the cardiac cycle is valve T open? Options: A atrial systole and cardiac diastole, B atrial systole only, C cardiac diastole and ventricular systole, D ventricular systole only.",
-      "status": "pending",
-      "answer": "Pending: the diagram showing where valve T is located is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: atrial systole and cardiac diastole",
+      "steps": [
+        "Valve T is the left atrioventricular (bicuspid) valve between the left atrium and left ventricle.",
+        "It is open when blood flows from the atrium into the ventricle, which is during diastole and atrial systole.",
+        "It is closed during ventricular systole so that blood cannot flow back into the atrium."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-31.jpg",
         "papers/biology/img/01B-Mammalian-Transport-32.jpg",
@@ -1805,9 +2093,13 @@
         "beats per minute"
       ],
       "question": "Calculate the change in mean heart rate for group 2 after 8 days, from the graph.",
-      "status": "pending",
-      "answer": "Pending: the mean heart rate values for group 2 from the graph are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "+32 beats min^-1 (an increase of about 32)",
+      "steps": [
+        "Group 2 starts with no drug at a mean heart rate of about 62 beats per minute.",
+        "On day 8 the mean heart rate of group 2 is about 94 beats per minute.",
+        "Change = 94 - 62 = +32 beats per minute."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-31.jpg",
         "papers/biology/img/01B-Mammalian-Transport-32.jpg",
@@ -1830,9 +2122,12 @@
         "heart rate"
       ],
       "question": "Calculate the mean length of the cardiac cycle for group 2 on day 4, from the graph.",
-      "status": "pending",
-      "answer": "Pending: the mean heart rate for group 2 on day 4 from the graph is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "0.54 s",
+      "steps": [
+        "Group 2 on day 4 has a mean heart rate of about 111 beats per minute.",
+        "Cycle length = 60 / 111 = 0.54 s."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-31.jpg",
         "papers/biology/img/01B-Mammalian-Transport-32.jpg",
@@ -1855,9 +2150,15 @@
         "drugs"
       ],
       "question": "Comment on the conclusions that can be drawn from the investigation into atropine and propranolol on heart rate.",
-      "status": "pending",
-      "answer": "Pending: the heart rate results for both groups over eight days are needed from the graph, which is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Atropine increases heart rate and propranolol decreases it; the second drug reverses the first so that both groups end at similar rates, but the order does not give identical effects and the overlap in error bars means some differences may not be significant.",
+      "steps": [
+        "Atropine raises heart rate: group 2 rises from about 62 to 111 beats per minute and group 1 rises from about 50 to 97 after switching to atropine.",
+        "Propranolol lowers heart rate: group 1 falls from about 60 to 50 and group 2 falls from 111 to 94 beats per minute after switching to propranolol.",
+        "The effect of atropine (an increase of about 50) is much larger than that of propranolol (a decrease of about 10), suggesting it blocks the slowing effect of the nervous system on the heart.",
+        "By days 7 and 8 the two groups are at similar rates (about 94 to 97) and the error bars overlap, so the order of the drugs makes no clear difference.",
+        "The group 2 rate does not fall back to 62 on propranolol, suggesting a lasting effect of atropine, and the small sample or limited days mean the conclusions are limited."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-31.jpg",
         "papers/biology/img/01B-Mammalian-Transport-32.jpg",
@@ -1966,9 +2267,14 @@
         "table"
       ],
       "question": "Explain why the percentages of components in the tunica media differ between arteries of different sizes, using the table.",
-      "status": "pending",
-      "answer": "Pending: the table of percentages of components in the tunica media of different arteries is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Large arteries need elastin and collagen to stretch, recoil and resist high pressure; small arteries need smooth muscle to control blood flow by constriction.",
+      "steps": [
+        "Large arteries (24.5% elastin, 37.0% collagen) are nearest the heart, where pressure surges are high, so elastin stretches and recoils to smooth the flow and collagen gives strength to prevent bursting.",
+        "Small arteries have only 1.5% elastin and 12.0% collagen because the pressure pulse has been damped by the time blood reaches them.",
+        "Small arteries have the highest proportion of smooth muscle (60.5% against 33.5% in large arteries), which contracts and relaxes to narrow or widen the lumen.",
+        "This vasoconstriction and vasodilation controls how much blood reaches each tissue; medium-sized arteries show intermediate proportions."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-34.jpg",
         "papers/biology/img/01B-Mammalian-Transport-35.jpg",
@@ -1990,9 +2296,12 @@
         "comparison"
       ],
       "question": "Which graph shows the diameter of the blood vessels? Options: A graph 1, B graph 3, C graph 4, D graph 6.",
-      "status": "pending",
-      "answer": "Pending: the graphs 1 to 6 showing vessel features are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: graph 3",
+      "steps": [
+        "Diameter is large in large arteries, falls to the smallest in capillaries, then rises again in veins.",
+        "Graph 3 has this U shape: high at large arteries, lowest at capillaries and small veins, rising at large veins."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-34.jpg",
         "papers/biology/img/01B-Mammalian-Transport-35.jpg",
@@ -2014,9 +2323,12 @@
         "comparison"
       ],
       "question": "Which graph shows the permeability of the blood vessels? Options: A graph 1, B graph 2, C graph 3, D graph 6.",
-      "status": "pending",
-      "answer": "Pending: the graphs 1 to 6 showing vessel features are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: graph 2",
+      "steps": [
+        "Capillaries are the most permeable vessels because their thin walls have gaps for exchange.",
+        "Graph 2 shows a sharp peak at capillaries only and is low elsewhere."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-34.jpg",
         "papers/biology/img/01B-Mammalian-Transport-35.jpg",
@@ -2037,9 +2349,13 @@
         "wall thickness"
       ],
       "question": "How many times greater is the diameter of the aorta lumen than the diameter of the capillary lumen, using the table? Options: A 17 800, B 17 900, C 178 000, D 179 000.",
-      "status": "pending",
-      "answer": "Pending: the lumen diameters of the aorta and capillary in the table are not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 179 000",
+      "steps": [
+        "Convert to the same unit: 2.5 cm = 25 mm = 25 000 micrometres.",
+        "Ratio = 25 000 / 0.14 = 178 571.",
+        "To 3 s.f. this is 179 000, so option D."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-36.jpg",
         "papers/biology/img/01B-Mammalian-Transport-37.jpg",
@@ -2091,9 +2407,13 @@
         "table"
       ],
       "question": "Using the table of durations of ventricular diastole and systole at two heart rates, determine the relationship between heart rate and the durations.",
-      "status": "pending",
-      "answer": "Pending: the table of ventricular diastole and systole durations at two heart rates is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "As heart rate rises both durations shorten, but diastole shortens much more than systole.",
+      "steps": [
+        "From 75 to 200 beats per minute the duration of ventricular diastole falls from 0.53 s to 0.14 s (a fall of 0.39 s, about 74%).",
+        "The duration of ventricular systole falls from 0.27 s to 0.16 s (a fall of 0.11 s, about 41%).",
+        "So the proportion of each cycle spent in diastole falls from about 66% to about 47%, and at 200 beats per minute systole is longer than diastole."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-36.jpg",
         "papers/biology/img/01B-Mammalian-Transport-37.jpg",
@@ -2116,9 +2436,14 @@
         "pulsatile"
       ],
       "question": "Explain the changes in rate and direction of blood flow through the aorta with increasing distance from the heart, using the graph.",
-      "status": "pending",
-      "answer": "Pending: the graph of blood flow rate against distance from the heart in the aorta of a dog is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Forward flow peaks with each heartbeat but the peaks fall with distance from the heart (about 160 to 40 cm s^-1) because the elastic wall stretches and recoils and friction damps the pulse, and small backward flow appears.",
+      "steps": [
+        "Each peak is a surge of blood when the ventricle contracts and forces blood forwards, at the highest rate (about 160 cm s^-1) nearest the heart.",
+        "The peak flow falls with distance (about 115, 95, 88 and 40 cm s^-1) because the elastic aorta wall stretches to absorb energy, and friction and branching reduce the pulse.",
+        "Between peaks flow is close to zero as the heart relaxes, and the wall recoils to keep blood moving.",
+        "Small backward flows (below zero, up to about 10 cm s^-1) occur further along as the elastic walls recoil and pressure waves rebound, and as the aortic valve closes."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-36.jpg",
         "papers/biology/img/01B-Mammalian-Transport-37.jpg",
@@ -2171,9 +2496,14 @@
         "endothelium"
       ],
       "question": "Complete the diagram of a cross-section of an artery and label two of its features.",
-      "status": "pending",
-      "answer": "Pending: the partly drawn artery cross-section diagram is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "Draw concentric layers round the lumen: thin endothelium inside, thick middle layer of smooth muscle and elastic fibres, outer layer of collagen; label any two.",
+      "steps": [
+        "Draw a thin line round the lumen to represent the endothelium (a single layer of flat cells) and label it.",
+        "Draw a thick middle layer (tunica media) between the lumen and the outer circle, containing elastic fibres and smooth muscle, and label it.",
+        "The outer circle is the outer layer (tunica externa) made of collagen fibres.",
+        "The wall should be thick compared with the lumen, which is narrow."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-39.jpg",
         "papers/biology/img/01B-Mammalian-Transport-40.jpg",
@@ -2194,9 +2524,13 @@
         "veins"
       ],
       "question": "Which is the ratio of the diameter of the lumen to the thickness of the wall in the vena cava? Options: A 0.06 : 1.00, B 1.00 : 0.02, C 1.00 : 16.67, D 60.00 : 1.00.",
-      "status": "pending",
-      "answer": "Pending: the table of vein dimensions is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: 60.00 : 1.00",
+      "steps": [
+        "The lumen diameter is 30 mm and the wall thickness is 500 micrometres = 0.5 mm.",
+        "Ratio = 30 : 0.5 = 60 : 1.",
+        "This is option D."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-39.jpg",
         "papers/biology/img/01B-Mammalian-Transport-40.jpg",
@@ -2218,9 +2552,13 @@
         "table"
       ],
       "question": "Calculate the cross-sectional area of the lumen of the small vein, using area = pi r^2 and giving a whole number.",
-      "status": "pending",
-      "answer": "Pending: the radius of the small vein lumen from the table is not in the text.",
-      "steps": [],
+      "status": "ready",
+      "answer": "1134 micrometres^2",
+      "steps": [
+        "The wall is on both sides of the vein, so lumen diameter = 46 - (2 x 4) = 38 micrometres.",
+        "Radius = 19 micrometres.",
+        "Area = pi x r^2 = pi x 19^2 = pi x 361 = 1134 micrometres^2 (whole number)."
+      ],
       "images": [
         "papers/biology/img/01B-Mammalian-Transport-39.jpg",
         "papers/biology/img/01B-Mammalian-Transport-40.jpg",

@@ -399,6 +399,19 @@
     article.appendChild(math('p', 'q-text', q.question));
     const before = earlierParts(q);
     if (before) article.appendChild(before);
+    // Just the diagram, graph or table this question needs, cut from the paper page.
+    if (q.figures && q.figures.length) {
+      const fig = el('figure', 'q-figure');
+      q.figures.forEach((src) => {
+        const img = el('img');
+        img.src = src;
+        img.loading = 'lazy';
+        img.alt = 'Diagram from the ' + q.paper.code + ' paper for question ' + q.no;
+        fig.appendChild(img);
+      });
+      fig.appendChild(el('figcaption', null, 'From the paper. The whole page is in "Question image" below.'));
+      article.appendChild(fig);
+    }
 
     const mcqImage = optionsOnlyInImage(q) && q.images && q.images.length > 0;
     if (mcqImage) article.appendChild(el('p', 'q-mcq-note', 'Multiple choice: the options are on the page from the paper below.'));
@@ -511,7 +524,9 @@
 
   function pdfQuestion(q, withPages, printed) {
     let html = '<p class="pq-text">' + window.QFormat.format(q.question, subject) + '</p>';
-    if (withPages && q.images && q.images.length) {
+    if (!withPages && q.figures && q.figures.length) {
+      html += q.figures.map((src) => '<img class="pq-page" src="' + esc(src) + '" alt="Diagram from the ' + esc(q.paper.code) + ' paper">').join('');
+    } else if (withPages && q.images && q.images.length) {
       // Several parts often share a page: print each page once, with the first part on it.
       const fresh = q.images.filter((src) => !printed.has(src));
       fresh.forEach((src) => printed.add(src));

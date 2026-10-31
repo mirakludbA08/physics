@@ -672,6 +672,28 @@ body.bank {
   background: var(--surface-2);
 }
 
+/* A diagram cropped from the paper, shown with the question. Scans stay on white. */
+.q-figure {
+  margin: 0 0 12px;
+  padding: 8px;
+  border: 1px solid var(--line-strong);
+  border-radius: 10px;
+  background: #fff;
+}
+
+.q-figure img {
+  display: block;
+  max-width: 100%;
+  max-height: 420px;
+  margin: 0 auto 6px;
+}
+
+.q-figure figcaption {
+  color: #5b6573;
+  font-size: 12.5px;
+  text-align: center;
+}
+
 /* Earlier parts of the same question, collapsed under a later part (earlierParts in js/bank.js). */
 .q-context {
   margin: 0 0 12px;

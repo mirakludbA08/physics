@@ -43,9 +43,13 @@
         "polar bond"
       ],
       "question": "Which diagram best represents the electron density map of a hydrogen chloride molecule? (The diagram options are not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the electron density map options, which are missing from the extracted text; the expected map is asymmetric with more density near Cl (check the PDF)",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: contours around both nuclei, closer together and more numerous round the larger Cl nucleus",
+      "steps": [
+        "HCl is a polar covalent molecule, so the shared pair of electrons lies between the nuclei and the outer contour lines enclose both atoms.",
+        "Chlorine is more electronegative, so the electron density is greater and the contours are more crowded round the Cl nucleus than round H.",
+        "A and B show separate, unconnected contours (ions with no shared density), and D shows an almost symmetrical sharing, as in a non-polar molecule."
+      ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-01.jpg"
       ]
@@ -63,9 +67,13 @@
         "MgCl2"
       ],
       "question": "Which is the dot-and-cross diagram for magnesium chloride, showing only outer shell electrons? (The diagram options are not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the dot-and-cross diagram options, which are missing from the extracted text; the correct diagram has Mg2+ with no electrons and two Cl- ions each with 8 electrons (check the PDF)",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: Mg2+ with 8 outer electrons in square brackets, flanked by two [Cl]- ions each with 8 electrons",
+      "steps": [
+        "Magnesium chloride is ionic, MgCl2: Mg loses its 2 outer electrons and each of two Cl atoms gains one.",
+        "Mg2+ has the electronic structure 2,8 and is drawn with 8 electrons in square brackets and a 2+ charge; each Cl- has a full outer shell of 8 electrons and a 1- charge.",
+        "A and B show shared (covalent) electrons, and C shows Mg+ and one Cl-, which gives the wrong formula."
+      ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-01.jpg"
       ]
@@ -648,9 +656,13 @@
         "table"
       ],
       "question": "Which row in the table shows the correct forces in a crystal of lithium iodide? (The table is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the table of forces, which is missing from the extracted text; the correct forces are strong electrostatic attraction between Li+ and I- ions (check the PDF)",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: attractive forces, repulsive forces and some covalent character all present",
+      "steps": [
+        "A crystal of an ionic compound has attractive forces between oppositely charged ions and repulsive forces between ions of the same charge; the attractions outweigh the repulsions overall.",
+        "Li+ is small with a high charge density, so it polarises the large, easily distorted I- ion, which gives the bonding some covalent character.",
+        "So all three columns are ticked."
+      ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-10.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-11.jpg"
@@ -935,9 +947,14 @@
         "data table"
       ],
       "question": "Plot a graph of the ionic radii data for the ions of successive elements (the data table is not included in the extracted text).",
-      "status": "pending",
-      "answer": "Needs the ionic radius data table, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Graph of ionic radius / pm (y-axis) against ion (x-axis, N3- to Al3+ with a gap for Ne) with a straight line of best fit falling from 171 pm at N3- to 54 pm at Al3+",
+      "steps": [
+        "Put the ions in order along the x-axis: N3-, O2-, F-, (Ne, left empty as it forms no ion), Na+, Mg2+, Al3+, evenly spaced; label the axes with units.",
+        "Choose a y-scale from 0 to 200 pm (25 pm per large square) so the points fill most of the grid.",
+        "Plot the five known points: N3- 171, O2- 140, F- 133, Na+ 102 and Al3+ 54 pm (Mg2+ is not plotted; it is to be predicted).",
+        "Draw one straight line of best fit with a negative gradient (about -18 pm per step) passing close to all the points."
+      ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-14.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-15.jpg",
@@ -959,9 +976,13 @@
         "ionic radius"
       ],
       "question": "Predict the radius of the magnesium ion using a straight line of best fit on your graph.",
-      "status": "pending",
-      "answer": "Needs the graph from (a)(i) built from the missing data table; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 75 pm (accept roughly 70 to 80 pm)",
+      "steps": [
+        "Read the radius at the Mg2+ position (between Na+ and Al3+) on the straight line of best fit.",
+        "The line gives about 76 pm; a hand-drawn line through the points gives a value of about 75 pm.",
+        "The value must be marked on the graph with construction lines."
+      ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-14.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-15.jpg",
@@ -1093,9 +1114,12 @@
         "elements R T U V W X Y Z"
       ],
       "question": "An outline of part of the Periodic Table is shown with letters that are not element symbols. Which elements are in the s-block? A R and U; B T and Y; C V and W; D X and Z. (The table outline is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the outline of the Periodic Table with the letters, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: R and U",
+      "steps": [
+        "R is in Group 1 (Period 2) and U is in Group 2 (Period 3), so both fill an s subshell.",
+        "T, V, W and Y are in Groups 6, 4, 7 and 6 respectively (p-block), and X and Z are in the d-block."
+      ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
@@ -1113,9 +1137,12 @@
         "letters V X Y Z"
       ],
       "question": "Which element has four occupied quantum shells, with six electrons in the outermost shell? A V; B X; C Y; D Z. (The table outline is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the outline of the Periodic Table with the letters, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: element Y",
+      "steps": [
+        "Four occupied shells means the element is in Period 4, and six outer electrons means Group 6 (16).",
+        "Y is in the fourth row, in Group 16 (selenium, 2,8,18,6); V and W are in Period 3, X is in Period 4 but in the d-block with 2 outer electrons, and Z is in Period 5."
+      ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
@@ -1133,9 +1160,12 @@
         "periodic table outline"
       ],
       "question": "In which pair do the ions have the same electronic configuration? A R+ and T2-; B T2- and Y2-; C U2+ and T2-; D U2+ and W-. (The table outline is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the outline of the Periodic Table with the letters, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: U2+ and T2-",
+      "steps": [
+        "U2+ is Mg2+ and T2- is O2-, which both have the configuration 1s2 2s2 2p6.",
+        "R+ (Li+, 1s2) differs from T2-, Y2- is Se2- (2,8,18,8) differs from T2-, and W- is Cl- (2,8,8) differs from Mg2+ (2,8)."
+      ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
@@ -1154,9 +1184,12 @@
         "graph"
       ],
       "question": "The first ionisation energies of four successive elements P, Q, R and S are shown (data not included in the extracted text). Which element has atoms with a full outer shell of electrons? A P; B Q; C R; D S.",
-      "status": "pending",
-      "answer": "Needs the first ionisation energy data for P, Q, R and S, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: element Q",
+      "steps": [
+        "The four elements are consecutive: P (1251) and Q (1521) have high first ionisation energies, then R (419) is far lower, so R is a Group 1 metal after Q.",
+        "So Q is a noble gas (argon, 1521) with a full outer shell, R is potassium and S is calcium, and P is chlorine."
+      ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
@@ -1175,9 +1208,12 @@
         "non-metal"
       ],
       "question": "Which element could be X in a gaseous covalent compound with the formula HX? A P; B Q; C R; D S. (The first ionisation energy data are not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the first ionisation energy data for P, Q, R and S, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: element P",
+      "steps": [
+        "P is chlorine (1251 kJ mol^-1), just before the noble gas Q.",
+        "A halogen forms the gaseous covalent hydride HX (HCl) by sharing one pair of electrons."
+      ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
@@ -1195,9 +1231,12 @@
         "group 2"
       ],
       "question": "Which element could be Y in an ionic compound with the formula YF2? A P; B Q; C R; D S. (The first ionisation energy data are not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the first ionisation energy data for P, Q, R and S, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: element S",
+      "steps": [
+        "S is calcium, a Group 2 metal with first ionisation energy 590 kJ mol^-1 after the Group 1 metal R (419).",
+        "Calcium loses 2 electrons to form Ca2+, which combines with two F- ions as the ionic compound CaF2."
+      ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
@@ -1215,9 +1254,13 @@
         "elements P Q R S"
       ],
       "question": "Which element has atoms with the largest atomic radius? A P; B Q; C R; D S. (The first ionisation energy data are not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the first ionisation energy data for P, Q, R and S, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: element R",
+      "steps": [
+        "R (419 kJ mol^-1) is the Group 1 metal, potassium, which has the lowest first ionisation energy.",
+        "P (Cl) and Q (Ar) are in Period 3 with three shells, whereas R (K) and S (Ca) are in Period 4 with four shells.",
+        "K has one proton fewer than Ca in the same shell, so its outer electron is pulled in less strongly and its atom is the largest."
+      ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-17.jpg",
         "papers/chemistry/img/03A-Ionic-Bonding-18.jpg"
@@ -1285,9 +1328,13 @@
         "options inconsistent"
       ],
       "question": "Which ions are shown in order of increasing ionic radius? A F- > O2- > N3-; B F- > N3- > O2-; C O2- > N3- > F-; D N3- > O2- > F-.",
-      "status": "pending",
-      "answer": "The correct increasing order is F- < O2- < N3-, but none of the options as printed in the extracted text shows this (they use '>' throughout); check the PDF for the intended symbols",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: F-, O2-, N3- (ionic radii 133 < 140 < 171 pm)",
+      "steps": [
+        "The ions are isoelectronic (10 electrons), so the radius increases as the number of protons falls: F- (9 protons) < O2- (8) < N3- (7).",
+        "Option A lists the ions in increasing radius order, with F- smallest.",
+        "The options are printed with \">\" signs; if read literally as \"greater than\", D would be true, but that is the decreasing order and does not match the question wording."
+      ],
       "images": [
         "papers/chemistry/img/03A-Ionic-Bonding-19.jpg"
       ]

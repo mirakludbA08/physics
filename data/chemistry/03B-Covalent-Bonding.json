@@ -17,9 +17,12 @@
         "log values"
       ],
       "question": "Complete the table of successive ionisation energies of nitrogen (the table values are not included in the extracted text).",
-      "status": "pending",
-      "answer": "Needs the table of successive ionisation energies, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "log (ionisation energy): 6th = 4.73 and 7th = 4.81",
+      "steps": [
+        "Take log10 of each missing ionisation energy.",
+        "log10(53 268) = 4.73 and log10(64 362) = 4.81, both to 2 decimal places like the other entries."
+      ],
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-01.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-02.jpg",
@@ -40,9 +43,13 @@
         "plot"
       ],
       "question": "Plot a graph of log(ionisation energy) against ionisation number for nitrogen (the data are not included in the extracted text).",
-      "status": "pending",
-      "answer": "Needs the table of successive ionisation energies, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Graph of log (ionisation energy) against ionisation number: seven points from 3.15 at 1 to 4.81 at 7, with a large jump between the 5th and 6th points",
+      "steps": [
+        "Put ionisation number (1 to 7) on the x-axis and log (ionisation energy / kJ mol^-1) on the y-axis, with labelled axes and a y-scale from 3.0 to 5.0 so the points fill the grid.",
+        "Plot (1, 3.15), (2, 3.46), (3, 3.66), (4, 3.87), (5, 3.98), (6, 4.73) and (7, 4.81) accurately.",
+        "Join the points with straight lines (or a smooth line); the first five rise gradually, then there is a big step up between 5 and 6 and a small rise from 6 to 7."
+      ],
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-01.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-02.jpg",
@@ -93,9 +100,13 @@
         "log ionisation energy"
       ],
       "question": "Explain what can be deduced from the graph about the electronic structure of nitrogen. (The graph is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the graph of log(ionisation energy) for nitrogen, which is missing from the extracted text; the expected deduction is 5 outer electrons (2,5 structure) shown by a big jump after the 5th (check the PDF)",
-      "steps": [],
+      "status": "ready",
+      "answer": "Nitrogen has 5 electrons in its outer shell (the second shell) and 2 in the inner shell, so its electronic structure is 2,5",
+      "steps": [
+        "The first five points rise gradually, so these five electrons are removed from the same (outer) shell.",
+        "There is a very large jump between the 5th and 6th ionisation energies, so the 6th electron comes from a shell closer to the nucleus, which is not shielded: nitrogen has 5 outer electrons (Group 5).",
+        "The 6th and 7th values are close together (4.73 and 4.81), so there are 2 electrons in the innermost shell: structure 2,5, i.e. 1s2 2s2 2p3."
+      ],
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-01.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-02.jpg",
@@ -519,9 +530,13 @@
         "HCl"
       ],
       "question": "Which diagram best represents the electron density in a molecule of hydrogen chloride? (The diagram options are not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the electron density diagram options, which are missing from the extracted text; the expected map shows more electron density near the Cl atom (check the PDF)",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: overlapping clouds with the larger Cl cloud overlapping the smaller H cloud",
+      "steps": [
+        "The H and Cl atoms share a pair of electrons, so their electron clouds overlap, which rules out A (separate clouds).",
+        "The chlorine atom is much larger and has more electron density than hydrogen, and it is more electronegative, so the cloud around Cl is bigger; this is shown in D.",
+        "C shows two clouds of nearly equal size (symmetrical sharing) and B is a single cloud with no clear difference between the atoms."
+      ],
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-08.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-09.jpg"
@@ -568,9 +583,12 @@
         "table"
       ],
       "question": "Which row gives the correct polarities of the S-F bond and the SF6 molecule? (The table of rows is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the table of rows, which is missing from the extracted text; the expected answer is a polar S-F bond and a non-polar SF6 molecule (check the PDF)",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: S-F bond polar, SF6 molecule non-polar",
+      "steps": [
+        "Fluorine is more electronegative than sulfur, so each S-F bond is polar.",
+        "SF6 is a symmetrical octahedral molecule with six identical S-F bonds, so the dipoles cancel and the molecule is non-polar."
+      ],
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-09.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-10.jpg"
@@ -643,9 +661,13 @@
         "isotope abundances"
       ],
       "question": "Calculate the relative atomic mass of silicon to two decimal places using the mass spectrum data (the data are shown in a figure not included in the extracted text).",
-      "status": "pending",
-      "answer": "Needs the isotope data from the mass spectrum, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "28.11",
+      "steps": [
+        "The relative abundances add up to 92.17 + 4.71 + 3.12 = 100.00.",
+        "Ar = (28 x 92.17 + 29 x 4.71 + 30 x 3.12) / 100.",
+        "= (2580.76 + 136.59 + 93.60) / 100 = 2810.95 / 100 = 28.11 (28.1095)."
+      ],
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-10.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-11.jpg",
@@ -692,9 +714,12 @@
         "mass numbers"
       ],
       "question": "Complete the table to show the number of protons and neutrons in each isotope of silicon (the table and isotope mass numbers are not included in the extracted text).",
-      "status": "pending",
-      "answer": "Needs the table and isotope mass numbers, which are missing from the extracted text; silicon has 14 protons in every isotope (check the PDF for neutron values)",
-      "steps": [],
+      "status": "ready",
+      "answer": "28Si: 14 protons, 14 neutrons; 29Si: 14 protons, 15 neutrons; 30Si: 14 protons, 16 neutrons",
+      "steps": [
+        "Silicon has atomic number 14, so every isotope has 14 protons.",
+        "Neutrons = mass number - 14: 28 - 14 = 14, 29 - 14 = 15 and 30 - 14 = 16."
+      ],
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-10.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-11.jpg",
@@ -1086,9 +1111,13 @@
         "Br2"
       ],
       "question": "Calculate the relative molecular mass of a different bromine sample, given the percentage abundances of its isotopes (the abundance data are not included in the extracted text), to two decimal places.",
-      "status": "pending",
-      "answer": "Needs the percentage abundances of the isotopes, which are missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "159.74",
+      "steps": [
+        "Ar of Br in this sample = (79 x 56.38 + 81 x 43.62) / 100 = (4454.02 + 3533.22) / 100 = 79.8724.",
+        "A Br2 molecule contains two atoms, so the relative molecular mass = 2 x 79.8724 = 159.7448.",
+        "To two decimal places the relative molecular mass is 159.74."
+      ],
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-15.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-16.jpg",
@@ -1135,9 +1164,13 @@
         "NaCl"
       ],
       "question": "Which diagram best represents the electron density map of sodium chloride? (The diagram options are not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the electron density map options, which are missing from the extracted text; the expected map shows electron density concentrated around the Cl- ions (check the PDF)",
-      "steps": [],
+      "status": "ready",
+      "answer": "A: two separate sets of contours with no shared contour, the Cl- cloud larger than the Na+ cloud",
+      "steps": [
+        "Sodium chloride is ionic: the electron density is centred on the Na+ and Cl- ions with almost no density between them, so the contour lines around the two ions do not join.",
+        "Cl- is larger than Na+, so its contours should cover a bigger area; this is shown in A.",
+        "B has two equal ions, and C and D show electrons shared between the nuclei, which is covalent."
+      ],
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-18.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-19.jpg"
@@ -1420,9 +1453,13 @@
         "polarisation"
       ],
       "question": "Explain the difference in bonding between barium chloride and beryllium chloride, using the electronegativity values shown. (The electronegativity values are not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the electronegativity values shown in the question, which are missing from the extracted text; the expected answer is that BaCl2 has a large electronegativity difference (ionic) while BeCl2 has a smaller difference and a small, highly charged Be2+ that polarises Cl (more covalent) (check the PDF)",
-      "steps": [],
+      "status": "ready",
+      "answer": "BaCl2 is ionic (electronegativity difference 2.1), whereas BeCl2 has a smaller difference (1.5) and so has polar covalent character",
+      "steps": [
+        "Ba-Cl: 3.0 - 0.9 = 2.1, a large difference, so the Cl atom takes the electrons from Ba almost completely, giving Ba2+ and Cl- ions: ionic bonding.",
+        "Be-Cl: 3.0 - 1.5 = 1.5, a smaller difference, so the electrons are shared unevenly, giving a polar covalent bond.",
+        "Be2+ is small with a high charge density, so it polarises the Cl- ion, which increases the covalent character of BeCl2."
+      ],
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-22.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-23.jpg",
@@ -1550,9 +1587,12 @@
         "direction"
       ],
       "question": "To compare polar and non-polar liquids, a stream of liquid from a burette and a positively charged plastic rod can be used. Which row of the table shows the correct direction of deflection? (The table is not included in the extracted text.)",
-      "status": "pending",
-      "answer": "Needs the table of deflection directions, which is missing from the extracted text; the expected answer is that polar liquids are deflected towards a charged rod, whereas non-polar liquids are not deflected (check the PDF)",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: polar liquids are deflected towards the rod, non-polar liquids show no deflection",
+      "steps": [
+        "Polar molecules have a permanent dipole, and the molecules turn so that their delta-negative end faces the positively charged rod, which gives a net attraction and a deflection towards the rod.",
+        "Non-polar molecules have no permanent dipole, so the stream is not deflected."
+      ],
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-25.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-26.jpg"
@@ -1649,9 +1689,12 @@
         "data table"
       ],
       "question": "Identify the Period 3 element that has the successive ionisation energies shown (data not included in the extracted text).",
-      "status": "pending",
-      "answer": "Needs the successive ionisation energy data, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Sulfur",
+      "steps": [
+        "The values rise gradually for the first six ionisations and then jump sharply from 8496 (6th) to 27 107 (7th), so there are 6 electrons in the outer shell.",
+        "An element in Period 3 with 6 outer electrons is in Group 6: sulfur (first ionisation energy about 1000 kJ mol^-1)."
+      ],
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-27.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-28.jpg"
@@ -1672,9 +1715,12 @@
         "lithium to nitrogen"
       ],
       "question": "Complete the diagram by putting crosses to show the approximate melting temperatures of boron and nitrogen in the Period 2 melting temperature chart (the chart is not included in the extracted text).",
-      "status": "pending",
-      "answer": "Needs the melting temperature diagram, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "Boron: cross at about 2350 K (above Be, below C); nitrogen: cross very low, about 60 K (near the x-axis)",
+      "steps": [
+        "Boron has a giant covalent structure with strong covalent bonds, so it has a very high melting temperature of about 2350 K, between that of Be (about 1550 K) and C (about 3900 K).",
+        "Nitrogen is N2, a simple molecular substance with only weak London forces between molecules, so its melting temperature is very low, about 63 K, so the cross is placed close to the zero line."
+      ],
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-27.jpg",
         "papers/chemistry/img/03B-Covalent-Bonding-28.jpg"
@@ -1744,9 +1790,13 @@
         "table"
       ],
       "question": "The melting temperatures of Al, Si, P and S are shown in a table (not included in the extracted text). Which element has the strongest intermolecular forces? A Al; B Si; C P; D S.",
-      "status": "pending",
-      "answer": "Needs the table of melting temperatures, which is missing from the extracted text; check against the PDF",
-      "steps": [],
+      "status": "ready",
+      "answer": "D: S",
+      "steps": [
+        "Al and Si are not molecular: Al is a giant metallic lattice and Si is giant covalent, so they have no intermolecular forces.",
+        "Only P (P4) and S (S8) of the options are molecular, and S has the higher melting temperature (392 K compared with 317 K).",
+        "S8 molecules have more electrons than P4, so the London forces between them are stronger."
+      ],
       "images": [
         "papers/chemistry/img/03B-Covalent-Bonding-29.jpg"
       ]

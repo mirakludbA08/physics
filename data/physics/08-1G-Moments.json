@@ -111,13 +111,22 @@
         "pivot"
       ],
       "question": "A lorry exerts 4.2 x 10^5 N on a bridge of weight 9.8 x 10^5 N supported by two columns giving forces P and Q. The lorry is 35 m from point X. Calculate P and Q by taking moments about X.",
-      "status": "pending",
-      "answer": "Needs the diagram to check the positions of P, Q, the lorry and the bridge centre relative to point X",
-      "steps": [],
+      "status": "ready",
+      "answer": "Q = 6.1 x 10^5 N (6.125 x 10^5 N); P = 7.9 x 10^5 N (7.875 x 10^5 N)",
+      "steps": [
+        "From the diagram, with X at the left end: the lorry is 35 m from X, the bridge weight acts at its centre 35 + 25 = 60 m from X, and Q acts at 35 + 25 + 60 = 120 m from X.",
+        "Take moments about X (P acts through X so has no moment): Q x 120 = (4.2 x 10^5 x 35) + (9.8 x 10^5 x 60).",
+        "Q x 120 = 1.47 x 10^7 + 5.88 x 10^7 = 7.35 x 10^7, so Q = 6.1 x 10^5 N.",
+        "Vertical equilibrium: P + Q = 4.2 x 10^5 + 9.8 x 10^5 = 1.40 x 10^6 N.",
+        "P = 1.40 x 10^6 - 6.125 x 10^5 = 7.9 x 10^5 N."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-02.jpg",
         "papers/physics/img/08-1G-Moments-03.jpg",
         "papers/physics/img/08-1G-Moments-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q3.jpg"
       ]
     },
     {
@@ -135,13 +144,22 @@
         "reaction force"
       ],
       "question": "Explain why force Q increases as the lorry moves across the bridge.",
-      "status": "pending",
-      "answer": "Needs the diagram to confirm which column gives Q and where the lorry moves relative to it and to point X",
-      "steps": [],
+      "status": "ready",
+      "answer": "Moving the lorry towards the Q end increases its moment about X, so Q must increase to keep the bridge in equilibrium (and P falls).",
+      "steps": [
+        "The bridge is in equilibrium, so moments about X balance: Q x 120 = (weight of bridge x 60) + (lorry weight x d), where d is the lorry's distance from X.",
+        "The bridge weight and the lorry weight stay the same, but d increases as the lorry moves towards the Q end.",
+        "So the moment of the lorry's weight about X increases, while the distance from X to Q (120 m) stays fixed.",
+        "Therefore Q must increase to give a larger balancing moment.",
+        "Since P + Q equals the constant total weight, P decreases by the same amount."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-02.jpg",
         "papers/physics/img/08-1G-Moments-03.jpg",
         "papers/physics/img/08-1G-Moments-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q3.jpg"
       ]
     },
     {
@@ -158,14 +176,22 @@
         "force diagram",
         "not in equilibrium"
       ],
-      "question": "A beam pivoted at a point has its centre of gravity at G and a force F acting on it. Which of the diagrams A to D shows an arrangement where the beam could not be in equilibrium?",
-      "status": "pending",
-      "answer": "Needs the four option diagrams (A to D) from the PDF to choose the answer",
-      "steps": [],
+      "question": "A beam is supported by a pivot as shown in the diagrams. The centre of gravity of the beam is at G and the beam is acted on by a force F. Which diagram (A to D) shows an arrangement where the beam could not be in equilibrium?",
+      "status": "ready",
+      "answer": "B",
+      "steps": [
+        "For equilibrium the resultant moment about the pivot must be zero (and the pivot can supply any vertical force needed).",
+        "In every diagram G is to the left of the pivot, so the weight gives an anticlockwise moment about the pivot.",
+        "In A and D, F is upwards to the left of the pivot and in C it is downwards to the right of it: each gives a clockwise moment that can cancel the weight's moment.",
+        "In B, F acts upwards to the right of the pivot, which also gives an anticlockwise moment. Two anticlockwise moments cannot balance, so B cannot be in equilibrium."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-04.jpg",
         "papers/physics/img/08-1G-Moments-05.jpg",
         "papers/physics/img/08-1G-Moments-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q4.jpg"
       ]
     },
     {
@@ -183,13 +209,21 @@
         "equilibrium"
       ],
       "question": "A woman holds a stationary wheelbarrow with an upward force P at the handles, and the ground pushes up with R on the wheel. Explain, using moments about G, why P is less than R.",
-      "status": "pending",
-      "answer": "Needs the diagram to check where G lies between the wheel and the handles",
-      "steps": [],
+      "status": "ready",
+      "answer": "About G, R and P give opposite moments that must be equal; G is much nearer the wheel than the handles, so R has the smaller distance and must be the larger force: P < R.",
+      "steps": [
+        "The wheelbarrow is in equilibrium, so about G the clockwise moment equals the anticlockwise moment. The weight acts through G and has no moment about G.",
+        "R acts upwards at the wheel on one side of G and P acts upwards at the handles on the other side, so they give opposite moments about G.",
+        "The horizontal distance from G to the wheel is much smaller than from G to the handles: R x (distance to wheel) = P x (distance to handles).",
+        "Because the wheel is closer to G, R must be the larger force, so P < R."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-04.jpg",
         "papers/physics/img/08-1G-Moments-05.jpg",
         "papers/physics/img/08-1G-Moments-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q5.jpg"
       ]
     },
     {
@@ -207,13 +241,21 @@
         "reaction force"
       ],
       "question": "The horizontal distance between the wheel centre and the handles is 1.5 m. Using the magnitudes of P and R shown on the diagram, find the horizontal distance between G and the wheel centre.",
-      "status": "pending",
-      "answer": "Needs the values of P and R shown on the diagram, which are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "0.30 m",
+      "steps": [
+        "Vertical equilibrium from the diagram: weight W = P + R = 80 N + 320 N = 400 N.",
+        "Take moments about the centre of the wheel (R passes through it): W x d = P x 1.5, where d is the horizontal distance from the wheel centre to G.",
+        "400 x d = 80 x 1.5 = 120 N m, so d = 0.30 m.",
+        "Check about the handles: 320 x 1.5 = 480 = 400 x (1.5 - 0.30) = 480 N m."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-04.jpg",
         "papers/physics/img/08-1G-Moments-05.jpg",
         "papers/physics/img/08-1G-Moments-06.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q5-2.jpg"
       ]
     },
     {
@@ -426,6 +468,9 @@
         "papers/physics/img/08-1G-Moments-09.jpg",
         "papers/physics/img/08-1G-Moments-10.jpg",
         "papers/physics/img/08-1G-Moments-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q7.jpg"
       ]
     },
     {
@@ -443,14 +488,23 @@
         "load at end of beam",
         "stability"
       ],
-      "question": "A uniform beam weighs 3.0 x 10^4 N, the counterweight weighs 1.1 x 10^5 N and the load weighs 4.4 x 10^4 N. Deduce whether the load can be moved to the end of the beam without the crane toppling.",
-      "status": "pending",
-      "answer": "Needs the beam length and the positions of the counterweight and tower from the diagram, which are not in the text",
-      "steps": [],
+      "question": "The beam is uniform with a weight of 3.0 x 10^4 N, the counterweight has a weight of 1.1 x 10^5 N and the load has a weight of 4.4 x 10^4 N. From the diagram the beam is 30 m long with the counterweight at its left end, 8.0 m from the tower (pivot). Deduce whether the load can be moved to the end of the beam without the crane toppling.",
+      "status": "ready",
+      "answer": "No: the clockwise moment 1.18 x 10^6 N m exceeds the anticlockwise moment 8.8 x 10^5 N m, so the crane would topple.",
+      "steps": [
+        "From the diagram: beam length 30 m, counterweight 8.0 m left of the pivot, so the load end is 30 - 8.0 = 22 m right of the pivot and the beam's centre of gravity (15 m from the left end) is 7.0 m right of the pivot.",
+        "Anticlockwise moment about the pivot (counterweight) = 1.1 x 10^5 x 8.0 = 8.8 x 10^5 N m.",
+        "Clockwise moments: beam = 3.0 x 10^4 x 7.0 = 2.1 x 10^5 N m; load at the end = 4.4 x 10^4 x 22 = 9.68 x 10^5 N m; total = 1.18 x 10^6 N m.",
+        "Clockwise moment (1.18 x 10^6 N m) is greater than anticlockwise moment (8.8 x 10^5 N m), so there is a resultant moment and the crane topples.",
+        "The load could only go out to about (8.8 x 10^5 - 2.1 x 10^5) / 4.4 x 10^4 = 15 m from the tower."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-09.jpg",
         "papers/physics/img/08-1G-Moments-10.jpg",
         "papers/physics/img/08-1G-Moments-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q7.jpg"
       ]
     },
     {
@@ -519,12 +573,19 @@
         "equilibrium"
       ],
       "question": "The builder's minimum force P holds a uniform stone resting on a step. Complete the diagram by adding labelled arrows for the other forces acting on the stone.",
-      "status": "pending",
-      "answer": "Needs the diagram to check the labelled arrows: weight down at the centre, reaction up at the step edge",
-      "steps": [],
+      "status": "ready",
+      "answer": "Two arrows: weight W vertically downwards from the centre of gravity (dot), and the reaction R from the step vertically upwards at the edge of the step.",
+      "steps": [
+        "Weight: a downward arrow labelled W (or \"weight, 415 N\") starting at the centre of gravity, the dot at the middle of the stone.",
+        "Reaction/contact force from the step: an upward arrow labelled R (or \"normal reaction\") at the edge of the step, where the stone pivots. In part (ii) this edge is 0.40 m from the end where P acts, between P and the weight.",
+        "These make the stone's vertical forces balance: R = W + P upwards."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-11.jpg",
         "papers/physics/img/08-1G-Moments-12.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q8.jpg"
       ]
     },
     {
@@ -542,12 +603,20 @@
         "equilibrium"
       ],
       "question": "A 415 N uniform stone of length 0.90 m overhangs the step edge by 0.50 m. Its centre of gravity is at its centre. Calculate the magnitude of the minimum force P.",
-      "status": "pending",
-      "answer": "Needs the diagram to confirm P acts downward at the back end of the stone, 0.40 m from the edge (expected about 52 N)",
-      "steps": [],
+      "status": "ready",
+      "answer": "P = 52 N (51.9 N)",
+      "steps": [
+        "The stone pivots about the edge of the step. The edge is 0.90 - 0.50 = 0.40 m from the end where P acts (the rest, 0.50 m, overhangs).",
+        "The centre of gravity is 0.45 m from that end, so it is 0.45 - 0.40 = 0.05 m beyond the edge. The reaction at the edge has no moment about it.",
+        "Moments about the edge: P x 0.40 = 415 x 0.05.",
+        "P = 20.75 / 0.40 = 51.9 N, about 52 N."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-11.jpg",
         "papers/physics/img/08-1G-Moments-12.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q8-2.jpg"
       ]
     },
     {
@@ -565,13 +634,20 @@
         "wall"
       ],
       "question": "A free-body force diagram for a uniform horizontal flagpole hinged to a wall at O is shown. Identify the forces X, Y and Z.",
-      "status": "pending",
-      "answer": "Needs the free-body diagram from the PDF to identify X, Y and Z",
-      "steps": [],
+      "status": "ready",
+      "answer": "X = tension in the aluminium wire; Y = force of the hinge (wall) on the pole at O; Z = weight of the pole (and flag).",
+      "steps": [
+        "Z points vertically downwards: it is the weight of the flagpole and flag, acting at the pole's centre of gravity.",
+        "X points up and towards the wall at about 20 degrees to the horizontal: it is the tension in the aluminium wire (the force of the wire on the pole at B).",
+        "Y points up and away from the wall: it is the force from the hinge at O on the pole. It has an upward component helping to support the weight and a horizontal component balancing the wire's horizontal pull."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-12.jpg",
         "papers/physics/img/08-1G-Moments-13.jpg",
         "papers/physics/img/08-1G-Moments-14.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q9.jpg"
       ]
     },
     {
@@ -603,6 +679,9 @@
         "papers/physics/img/08-1G-Moments-12.jpg",
         "papers/physics/img/08-1G-Moments-13.jpg",
         "papers/physics/img/08-1G-Moments-14.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q9.jpg"
       ]
     },
     {
@@ -620,13 +699,21 @@
         "reaction"
       ],
       "question": "A coat hook is screwed to a smooth door, with three forces shown on it. Add a labelled arrow to show the additional force needed for the hook to be in equilibrium.",
-      "status": "pending",
-      "answer": "Needs the diagram of the coat hook to draw the arrow (expected: a reaction from the door balancing the resultant of the other forces)",
-      "steps": [],
+      "status": "ready",
+      "answer": "A horizontal arrow pointing to the left (away from the door) at the bottom of the hook where it presses on the door, labelled as the force (normal reaction) of the door on the hook.",
+      "steps": [
+        "The shown forces are not balanced horizontally: the horizontal force from the screw points to the right, with nothing to cancel it.",
+        "So an extra horizontal force of equal size is needed, pointing to the left (away from the door).",
+        "The door is smooth, so its force on the hook is perpendicular to the door (no friction): horizontal. Label it \"force/normal reaction from the door\".",
+        "Draw it at the lower point where the hook touches the door, so that its line of action passes through P and does not upset the moment balance of the weight and the screw force."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-14.jpg",
         "papers/physics/img/08-1G-Moments-15.jpg",
         "papers/physics/img/08-1G-Moments-16.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q10.jpg"
       ]
     },
     {
@@ -644,14 +731,22 @@
         "2.6 kg",
         "rotation"
       ],
-      "question": "Coats of mass 2.6 each hang from a hook pivoting at point P. The maximum horizontal force from the screw is 150 N. Deduce whether a person could hang more than two of these coats.",
-      "status": "pending",
-      "answer": "Needs the distances from pivot P to the coat and to the screw force, which are on the diagram and not in the text",
-      "steps": [],
+      "question": "Coats of mass 2.6 kg each hang from a hook that pivots at point P. The maximum horizontal force from the screw is 150 N, acting 0.9 cm above P, and the weight of the coats acts 2.5 cm horizontally from P. Deduce whether a person could hang more than two of these coats.",
+      "status": "ready",
+      "answer": "No: the weight limit is 54 N (about 5.5 kg, i.e. 2.1 coats), so only two coats can be hung; three coats (76.5 N) would pull the screw out.",
+      "steps": [
+        "Take moments about P: the vertical screw force and the door's force pass through P, so only the weight and the horizontal screw force give moments.",
+        "At the limit: weight x 2.5 cm = 150 N x 0.9 cm, so weight = 135 / 2.5 = 54 N.",
+        "Maximum mass = 54 / 9.81 = 5.5 kg, which is 5.5 / 2.6 = 2.1 coats.",
+        "Two coats weigh 2 x 2.6 x 9.81 = 51 N (< 54 N, so fine); three coats weigh 76.5 N (> 54 N). So a person could not hang more than two coats."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-14.jpg",
         "papers/physics/img/08-1G-Moments-15.jpg",
         "papers/physics/img/08-1G-Moments-16.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q10-2.jpg"
       ]
     },
     {
@@ -694,12 +789,21 @@
         "variation"
       ],
       "question": "The book is moved a distance x to the right. Sketch how the contact force R varies with x between 0 and the limit shown, marking the maximum value of R on the axes.",
-      "status": "pending",
-      "answer": "Needs the sketch axes and the limit of x from the PDF; a sketch cannot be checked from the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "Curve rising with increasing gradient from R = W/2 at x = 0, through R = 2W/3 at x = l/4, to the maximum R = W at x = l/2.",
+      "steps": [
+        "The book touches at its left end and at the lip of the shelf, where R acts. After moving x to the right, these are l - x apart, and the weight acts l/2 from the left end.",
+        "Moments about the left contact: R(l - x) = W(l/2), so R = Wl / (2(l - x)).",
+        "Key values: x = 0 gives R = W/2; x = l/4 gives R = 2W/3; x = l/2 gives R = W.",
+        "Sketch: start at W/2 on the R axis (not at the origin), curve upwards getting steeper, ending at R = W when x = l/2. Mark W on the R axis (the maximum) and W/2 at x = 0."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-16.jpg",
         "papers/physics/img/08-1G-Moments-17.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q11.jpg",
+        "papers/physics/fig/08-1G-Moments-Q11-2.jpg"
       ]
     },
     {
@@ -716,13 +820,20 @@
         "explain",
         "tipping"
       ],
-      "question": "Explain why the book will not remain on the shelf if the condition shown in the diagram is met.",
-      "status": "pending",
-      "answer": "Question text is cut off in the extraction (the condition is missing); check the PDF before answering",
-      "steps": [],
+      "question": "Explain why the book will not remain on the shelf if x > l/2.",
+      "status": "ready",
+      "answer": "The centre of gravity is then beyond the lip of the shelf, so the weight has an unbalanced moment about the lip and the book rotates and falls off.",
+      "steps": [
+        "When x > l/2 the book's centre of gravity, where the weight acts, lies beyond the lip of the shelf.",
+        "The weight then has a moment about the lip (the only point of support on that side) that is not balanced: the shelf can only push upwards, so there is no force able to give an opposite moment.",
+        "The resultant moment is not zero, so the book is not in equilibrium: it rotates about the lip (topples) and falls off."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-16.jpg",
         "papers/physics/img/08-1G-Moments-17.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q11.jpg"
       ]
     },
     {
@@ -881,13 +992,20 @@
         "multiple choice"
       ],
       "question": "A beam with weight W is balanced on two supports, with reaction forces P and Q. Which statement is correct? A: P > Q, B: Q > W, C: Q > P, D: (P + Q) > W.",
-      "status": "pending",
-      "answer": "Needs the diagram to see which support is nearer the centre of gravity; the answer is A or C (B and D are impossible since P + Q = W)",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: Q > P",
+      "steps": [
+        "The beam is in equilibrium, so P + Q = W and moments about the centre of gravity balance: P x (distance from G to P support) = Q x (distance from G to Q support).",
+        "From the diagram, the centre of gravity is nearer the Q support, so Q has the smaller distance and must be the larger force: Q > P.",
+        "B is impossible because Q cannot exceed W (P is positive); D is wrong because P + Q = W exactly; A is wrong because the weight is nearer Q, not P."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-20.jpg",
         "papers/physics/img/08-1G-Moments-21.jpg",
         "papers/physics/img/08-1G-Moments-22.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q14.jpg"
       ]
     },
     {
@@ -905,13 +1023,21 @@
         "stationary"
       ],
       "question": "A dragster and driver weigh 1.23 x 10^4 N, with centre of gravity 1.80 m in front of the rear axle. The front axle is 6.00 m from the rear axle. Calculate the reaction forces R1 and R2 when stationary.",
-      "status": "pending",
-      "answer": "Needs the diagram to confirm which axle R1 and R2 belong to (expected: R1 at the rear 8.6 x 10^3 N, R2 at the front 3.7 x 10^3 N)",
-      "steps": [],
+      "status": "ready",
+      "answer": "R1 = 3.7 x 10^3 N (front axle); R2 = 8.6 x 10^3 N (rear axle)",
+      "steps": [
+        "On the diagram R1 acts at the front axle, R2 at the rear axle; the weight is 1.80 m from the rear axle and 4.20 m from the front axle.",
+        "Moments about the rear axle: R1 x 6.00 = 1.23 x 10^4 x 1.80, so R1 = 3690 N = 3.7 x 10^3 N.",
+        "Vertical equilibrium: R2 = 1.23 x 10^4 - 3690 = 8610 N = 8.6 x 10^3 N.",
+        "Check using moments about the front axle: R2 x 6.00 = 1.23 x 10^4 x 4.20, giving 8610 N."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-20.jpg",
         "papers/physics/img/08-1G-Moments-21.jpg",
         "papers/physics/img/08-1G-Moments-22.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q15.jpg"
       ]
     },
     {
@@ -986,14 +1112,22 @@
         "base",
         "lifting"
       ],
-      "question": "A 110 N parasol with its centre of gravity above the centre of the base is hit by a 14 N horizontal wind force. Explain why the parasol topples, including a calculation.",
-      "status": "pending",
-      "answer": "Needs the height of the wind force and the base radius from the diagram to complete the moments calculation",
-      "steps": [],
+      "question": "A large parasol has been set up on a windy day, with its centre of gravity vertically above the centre of the base, and the bottom of the parasol starts to lift from the ground. The weight of the parasol is 110 N. The wind force is 14 N horizontal, acting 1.80 m above the ground, and the base is 0.44 m wide. Explain why the parasol will topple. Your answer should include a calculation.",
+      "status": "ready",
+      "answer": "Moment of the wind about the tipping edge (25.2 N m) is greater than the restoring moment of the weight (24.2 N m), so the parasol topples.",
+      "steps": [
+        "The parasol tips about the lower edge of the base on the downwind side, so take moments about that edge.",
+        "Overturning moment from the wind = 14 N x 1.80 m = 25.2 N m.",
+        "The weight acts through the centre of the base, 0.44 / 2 = 0.22 m from the edge: restoring moment = 110 N x 0.22 m = 24.2 N m.",
+        "The overturning moment (25.2 N m) is greater than the restoring moment (24.2 N m), so there is a resultant moment and the parasol topples."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-22.jpg",
         "papers/physics/img/08-1G-Moments-23.jpg",
         "papers/physics/img/08-1G-Moments-24.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q16.jpg"
       ]
     },
     {
@@ -1012,13 +1146,22 @@
         "ground"
       ],
       "question": "A rope attached 1.50 m above the ground makes 44 degrees to the vertical. With a 25 N horizontal wind force, find by moments about the centre of the base the vertical force the base exerts on the ground. The ground force acts through the midpoint of the base.",
-      "status": "pending",
-      "answer": "Needs the wind force height and the horizontal distances from the base centre to the rope and to the wind, from the diagram",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 1.4 x 10^2 N (141 N), downwards on the ground",
+      "steps": [
+        "Take moments about the centre of the base. The weight, the ground force (through the midpoint) and the vertical part of the rope tension (the pole is directly above the centre) all have zero moment.",
+        "Wind moment = 25 N x 1.80 m = 45 N m. Rope: its horizontal component T sin44 acts 1.50 m up: T sin44 x 1.50 = 45.",
+        "T = 45 / (1.50 x sin44) = 43.2 N.",
+        "Vertical component of the rope tension, pulling down = T cos44 = 43.2 x cos44 = 31.1 N.",
+        "Vertical equilibrium: ground force on base = 110 + 31.1 = 141 N, so the base exerts about 1.4 x 10^2 N on the ground."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-22.jpg",
         "papers/physics/img/08-1G-Moments-23.jpg",
         "papers/physics/img/08-1G-Moments-24.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q16-2.jpg"
       ]
     },
     {
@@ -1036,13 +1179,21 @@
         "equilibrium"
       ],
       "question": "A uniform plank of length 4.0 m is pivoted 0.90 m from one end, with weight 250 N. Add to the diagram the forces acting on the plank.",
-      "status": "pending",
-      "answer": "Needs the diagram to add the forces (plank weight, person weights, pivot reaction) at the correct positions",
-      "steps": [],
+      "status": "ready",
+      "answer": "Four forces: 950 N down at the left end; 250 N down at the plank's centre (1.10 m right of the pivot); 650 N down at distance x right of the pivot; and an upward pivot reaction of 1850 N at the pivot.",
+      "steps": [
+        "Downward arrow of 950 N at the left end, where the heavier person stands (0.90 m from the pivot).",
+        "Downward arrow of 250 N (weight of the plank) at the centre of the plank, 2.0 m from either end, which is 1.10 m to the right of the pivot.",
+        "Downward arrow of 650 N at the lighter person, a distance x to the right of the pivot.",
+        "Upward arrow at the pivot for the reaction of the pivot on the plank, equal to 950 + 250 + 650 = 1850 N."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-24.jpg",
         "papers/physics/img/08-1G-Moments-25.jpg",
         "papers/physics/img/08-1G-Moments-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q17.jpg"
       ]
     },
     {
@@ -1074,6 +1225,9 @@
         "papers/physics/img/08-1G-Moments-24.jpg",
         "papers/physics/img/08-1G-Moments-25.jpg",
         "papers/physics/img/08-1G-Moments-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q17.jpg"
       ]
     },
     {
@@ -1118,14 +1272,23 @@
         "centre of gravity",
         "rail"
       ],
-      "question": "A board and rail weighing 50 N act 0.45 m from the hinge. A uniform 2.70 m ladder weighs 54 N, with 0.85 m to the left of the hinge. Explain why the board and ladder remain in the position shown.",
-      "status": "pending",
-      "answer": "Needs the diagram to check where the block pushes and which side of the hinge each weight acts",
-      "steps": [],
+      "question": "The board and rail weigh 50 N, acting 0.45 m from the hinge on the block side. The ladder is uniform, 2.70 m long and weighs 54 N, with 0.85 m of it to the left of the hinge. Explain why the board and ladder remain in the position shown.",
+      "status": "ready",
+      "answer": "The net clockwise moment about the hinge (27 - 22.5 = 4.5 N m) is balanced by the block pushing down on the board, so the resultant moment and force are zero and the board stays in equilibrium.",
+      "steps": [
+        "The ladder is uniform, so its weight acts at its centre, 1.35 m from the left end, which is 1.35 - 0.85 = 0.50 m to the right of the hinge.",
+        "Moment of the ladder's weight about the hinge = 54 x 0.50 = 27 N m (clockwise, tending to lift the left end into the roof space).",
+        "The board and rail weigh 50 N at 0.45 m to the left of the hinge: moment = 50 x 0.45 = 22.5 N m the other way (anticlockwise).",
+        "The clockwise moment is larger by 4.5 N m, so the board would rotate into the roof space, but the block pushes down on the board and supplies the 4.5 N m anticlockwise moment needed.",
+        "The resultant moment is therefore zero, and the forces from hinge and block balance the weights, so the board and ladder stay in position."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-24.jpg",
         "papers/physics/img/08-1G-Moments-25.jpg",
         "papers/physics/img/08-1G-Moments-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q18.jpg"
       ]
     },
     {
@@ -1144,13 +1307,21 @@
         "magnitude"
       ],
       "question": "A downward force applied 0.80 m from the hinge rotates the board away from the block. Determine the magnitude of this force.",
-      "status": "pending",
-      "answer": "Needs the diagram to confirm both weights act on the same side of the hinge (if so, the force is about 62 N)",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 5.6 N (5.625 N)",
+      "steps": [
+        "To rotate the board away from the block, the downward force F (0.80 m from the hinge, on the board's left) must give an anticlockwise moment that just exceeds the net clockwise moment.",
+        "At the point of lifting the block force is zero, so the moments about the hinge balance: F x 0.80 + 50 x 0.45 = 54 x 0.50.",
+        "F x 0.80 = 27 - 22.5 = 4.5 N m.",
+        "F = 4.5 / 0.80 = 5.6 N (minimum)."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-24.jpg",
         "papers/physics/img/08-1G-Moments-25.jpg",
         "papers/physics/img/08-1G-Moments-26.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q18.jpg"
       ]
     },
     {
@@ -1168,13 +1339,20 @@
         "moments",
         "pivot"
       ],
-      "question": "A student stands on wood placed on a cylinder with his feet at distances x and y from the cylinder. Which expression equals his weight W?",
-      "status": "pending",
-      "answer": "Needs the answer options and the diagram of the foot forces from the PDF",
-      "steps": [],
+      "question": "A student puts a piece of wood on top of a cylinder and stands on it with his feet at distances x and y from the cylinder; the left foot exerts a force F and the right foot a force (W - F) on the wood, W being his weight. The wood is horizontal, in equilibrium, and its weight is negligible. Which expression is equal to W? A: Fx/y + F, B: Fx/y - F, C: Fy/x + F, D: Fy/x - F.",
+      "status": "ready",
+      "answer": "A: Fx/y + F",
+      "steps": [
+        "Take moments about the cylinder (the pivot): the clockwise and anticlockwise moments are equal.",
+        "F x x = (W - F) x y.",
+        "So W - F = Fx/y, giving W = Fx/y + F, which is option A."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-26.jpg",
         "papers/physics/img/08-1G-Moments-27.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q19.jpg"
       ]
     },
     {
@@ -1193,13 +1371,21 @@
         "beam"
       ],
       "question": "The biceps acts as a spring at 70 degrees to a beam, 4.0 cm from the pivot O. The ball exerts 4.5 N and the beam weighs 15 N. Estimate the forearm and hand length and determine the tension T.",
-      "status": "pending",
-      "answer": "Needs the diagram positions of the ball force and the beam weight, plus the student's own length estimate",
-      "steps": [],
+      "status": "ready",
+      "answer": "Estimate: forearm and hand length about 0.40 m; T about 1.2 x 10^2 N (about 100 to 130 N for lengths of 0.35 to 0.45 m)",
+      "steps": [
+        "Estimate of the total length of forearm and hand: L = 0.40 m (about 0.28 m forearm plus 0.12 m hand; any sensible value of about 0.35 to 0.45 m is fine).",
+        "Moments about O (the hinge force has no moment). Muscle: only the component of T perpendicular to the beam counts, T sin70 at 0.040 m from O.",
+        "Opposing moments: beam weight 15 N x (L/2) = 15 x 0.20 = 3.0 N m, and the ball 4.5 N at (L - 0.090) = 0.31 m: 4.5 x 0.31 = 1.4 N m. Total = 4.4 N m.",
+        "T x sin70 x 0.040 = 4.4, so T = 4.4 / (0.040 x 0.940) = 1.2 x 10^2 N."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-27.jpg",
         "papers/physics/img/08-1G-Moments-28.jpg",
         "papers/physics/img/08-1G-Moments-29.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q20.jpg"
       ]
     },
     {
@@ -1329,13 +1515,22 @@
         "lift"
       ],
       "question": "A uniform 1.40 m rail weighs 95 N. A piston applies 160 N to the rail and the student applies a force F perpendicular to the rail at the handle. Determine the minimum F needed to lift the end of the rail off the ground.",
-      "status": "pending",
-      "answer": "Needs the diagram to get the distances of the piston force and the handle from the pivot",
-      "steps": [],
+      "status": "ready",
+      "answer": "F = 22 N (22.2 N)",
+      "steps": [
+        "At the minimum F the rail is just about to lift off the ground, so take moments about the pivot with no ground force.",
+        "Weight 95 N acts at the middle of the rail (0.70 m along it); its moment arm is 0.70 cos42 = 0.520 m, so moment = 95 x 0.520 = 49.4 N m (tending to rotate the rail down).",
+        "The piston force 160 N is at 18 degrees to the rail, 0.37 m from the pivot: perpendicular component 160 sin18 = 49.4 N, moment = 49.4 x 0.37 = 18.3 N m (helping to lift).",
+        "F is perpendicular to the rail at the handle, 1.40 m from the pivot: moment = 1.40 F.",
+        "Balance: 1.40 F + 18.3 = 49.4, so F = 31.1 / 1.40 = 22 N."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-30.jpg",
         "papers/physics/img/08-1G-Moments-31.jpg",
         "papers/physics/img/08-1G-Moments-32.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q22.jpg"
       ]
     },
     {
@@ -1353,13 +1548,21 @@
         "lift"
       ],
       "question": "The rail could also be lifted by a vertical force on the handle. Explain how the minimum vertical force needed differs from the minimum perpendicular force.",
-      "status": "pending",
-      "answer": "Needs the diagram to confirm the angle of the rail, which sets the moment arm of a vertical force",
-      "steps": [],
+      "status": "ready",
+      "answer": "The minimum vertical force is larger than the perpendicular force (about 30 N compared with 22 N).",
+      "steps": [
+        "The same moment about the pivot is needed in both cases (about 31 N m from the handle force).",
+        "A force perpendicular to the rail acts at the full 1.40 m from the pivot.",
+        "A vertical force is not perpendicular to the rail (the rail is at 42 degrees to the horizontal): its perpendicular distance from the pivot is only 1.40 cos42, or equivalently only its component F cos42 is perpendicular to the rail.",
+        "The moment arm is smaller, so a larger vertical force is needed: F(vertical) = F(perpendicular) / cos42 = about 30 N."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-30.jpg",
         "papers/physics/img/08-1G-Moments-31.jpg",
         "papers/physics/img/08-1G-Moments-32.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q22.jpg"
       ]
     },
     {
@@ -1376,13 +1579,20 @@
         "pivot",
         "table"
       ],
-      "question": "A uniform see-saw balances on a support with two children of equal weight sitting at equal distances. Which row of the table describes the resultant force and resultant moment on the beam?",
-      "status": "pending",
-      "answer": "Needs the table of options from the PDF (the table is missing from the text)",
-      "steps": [],
+      "question": "A see-saw is a uniform beam that balances on a support; the beam can rotate around the top of the support. Two children of equal weight sit on it at equal distances from the support. Which row describes the resultant force and resultant moment on the beam? A: zero force, zero moment; B: zero force, anticlockwise moment; C: downwards force, zero moment; D: downwards force, anticlockwise moment.",
+      "status": "ready",
+      "answer": "A: resultant force zero, resultant moment zero",
+      "steps": [
+        "The children have equal weights at equal distances on opposite sides of the support, so their moments about the support are equal and opposite. The beam is uniform and balanced on its centre, so its weight has no moment.",
+        "The resultant moment is therefore zero.",
+        "The see-saw is balanced and not accelerating, and the upward force from the support equals the total weight, so the resultant force is also zero: row A."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-32.jpg",
         "papers/physics/img/08-1G-Moments-33.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q23.jpg"
       ]
     },
     {
@@ -1427,12 +1637,20 @@
         "weight of beam"
       ],
       "question": "A balance beam has weight 3.1 N and an empty dish weighs 0.64 N. The dish is moved so its horizontal distance from the string is 7.0 cm, and rice is added until equilibrium. Deduce whether the dish now holds 3 portions of rice.",
-      "status": "pending",
-      "answer": "Needs the beam's centre position and the original dish position from the diagram, which are not in the text",
-      "steps": [],
+      "status": "ready",
+      "answer": "No: the dish holds about 8 portions (8.2), not 3.",
+      "steps": [
+        "Take moments about the string. The beam's weight acts 8.0 cm from the string on the side opposite the dish: 3.1 x 8.0 = 24.8 N cm.",
+        "First arrangement (one portion, dish 25.0 cm from the string): (0.64 + w) x 25.0 = 24.8, so 0.64 + w = 0.992 N and the weight of one portion w = 0.352 N.",
+        "Dish at 7.0 cm: total weight at the dish = 24.8 / 7.0 = 3.54 N, so the rice weighs 3.54 - 0.64 = 2.90 N.",
+        "Number of portions = 2.90 / 0.352 = 8.2, so about 8 portions. Three portions would weigh only 1.06 N, which would not balance. The dish does not contain 3 portions."
+      ],
       "images": [
         "papers/physics/img/08-1G-Moments-33.jpg",
         "papers/physics/img/08-1G-Moments-34.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/08-1G-Moments-Q24.jpg"
       ]
     }
   ]

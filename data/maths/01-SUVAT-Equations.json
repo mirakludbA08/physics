@@ -282,10 +282,15 @@
         "displacement",
         "first model"
       ],
-      "question": "A car travels at 25 m s^-1 past point A and decelerates uniformly at 6 m s^-2 until it reaches a road sign. Use this first model to find the speed of the car as it reaches the sign.",
-      "status": "pending",
-      "answer": "Missing on page: the distance from A to the road sign is not given, and it is needed for this part.",
-      "steps": [],
+      "question": "A car is moving at a constant speed of 25 m s^-1 along a straight horizontal road. At t = 0 the car is at point A and the driver sees a road sign 48 m ahead. The car decelerates uniformly at 6 m s^-2 from A until it reaches the road sign. Use this first model to find the speed of the car as it reaches the sign.",
+      "status": "ready",
+      "answer": "7 m s^-1",
+      "steps": [
+        "The sign is 48 m from A (given on the page): u = 25, a = -6, s = 48, v = ?",
+        "Use v^2 = u^2 + 2as: v^2 = 25^2 + 2(-6)(48).",
+        "v^2 = 625 - 576 = 49.",
+        "v = 7 m s^-1 (speed is positive)."
+      ],
       "images": [
         "papers/maths/img/M1-01-SUVAT-Equations-3.jpg",
         "papers/maths/img/M1-01-SUVAT-Equations-4.jpg"
@@ -306,10 +311,15 @@
         "time",
         "second model"
       ],
-      "question": "Second model: the car decelerates at 6 m s^-2 from A until speed 13 m s^-1, then keeps this speed until it reaches the road sign. Use this model to find the time t when the car reaches the sign.",
-      "status": "pending",
-      "answer": "Missing on page: the distance from A to the road sign is not given, and it is needed for this part.",
-      "steps": [],
+      "question": "Second model: the car decelerates at 6 m s^-2 from A (48 m from the road sign) until its speed is 13 m s^-1, then keeps this speed until it reaches the road sign. Use this model to find the time t when the car reaches the sign.",
+      "status": "ready",
+      "answer": "t = 2.77 s (3 s.f.), i.e. 2 + 10/13",
+      "steps": [
+        "Deceleration stage: v = u + at gives 13 = 25 - 6t1, so t1 = 2 s.",
+        "Distance in this stage: s = (u + v)t/2 = (25 + 13)(2)/2 = 38 m.",
+        "Distance left at constant speed = 48 - 38 = 10 m, so t2 = 10 / 13 = 0.769 s.",
+        "Total t = 2 + 0.769 = 2.77 s (3 s.f.)."
+      ],
       "images": [
         "papers/maths/img/M1-01-SUVAT-Equations-3.jpg",
         "papers/maths/img/M1-01-SUVAT-Equations-4.jpg"
@@ -330,10 +340,15 @@
         "time",
         "third model"
       ],
-      "question": "Third model: the car moves at 25 m s^-1 from A until t = 0.2 s, then decelerates at 6 m s^-2 until its speed is 13 m s^-1, then keeps this speed until it reaches the road sign. Use this model to find the time t when the car reaches the sign.",
-      "status": "pending",
-      "answer": "Missing on page: the distance from A to the road sign is not given, and it is needed for this part.",
-      "steps": [],
+      "question": "Third model: the car moves at 25 m s^-1 from A (48 m from the road sign) until t = 0.2 s, then decelerates at 6 m s^-2 until its speed is 13 m s^-1, then keeps this speed until it reaches the road sign. Use this model to find the time t when the car reaches the sign.",
+      "status": "ready",
+      "answer": "t = 2.58 s (3 s.f.)",
+      "steps": [
+        "Constant speed stage: 0.2 s at 25 m s^-1 covers 25 x 0.2 = 5 m.",
+        "Deceleration stage (as in part b): 2 s and 38 m.",
+        "Distance left at 13 m s^-1 = 48 - 5 - 38 = 5 m, so time = 5 / 13 = 0.385 s.",
+        "Total t = 0.2 + 2 + 0.385 = 2.58 s (3 s.f.)."
+      ],
       "images": [
         "papers/maths/img/M1-01-SUVAT-Equations-3.jpg",
         "papers/maths/img/M1-01-SUVAT-Equations-4.jpg"

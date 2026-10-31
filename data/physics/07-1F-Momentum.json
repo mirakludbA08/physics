@@ -90,6 +90,9 @@
       "images": [
         "papers/physics/img/07-1F-Momentum-02.jpg",
         "papers/physics/img/07-1F-Momentum-03.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/07-1F-Momentum-Q3.jpg"
       ]
     },
     {
@@ -107,13 +110,21 @@
         "friction",
         "velocity"
       ],
-      "question": "Identical trolley B is at rest at the bottom of the slope. Trolley A rolls down, collides with B, and they move off together at velocity v. Assess whether the student's prediction (stated in the PDF) was correct, ignoring friction.",
-      "status": "pending",
-      "answer": "The student's prediction is missing from the text (a blank in the question); check the PDF for the stated prediction before assessing.",
-      "steps": [],
+      "question": "Identical trolley B is at rest at the bottom of the slope. Trolley A (released from height h as before) rolls down, collides with B, and the two trolleys join together and move off at velocity v. The student predicted that, provided friction was ignored, v = sqrt(gh/2). Assess whether the student was correct.",
+      "status": "ready",
+      "answer": "The student was correct: v = sqrt(gh/2).",
+      "steps": [
+        "Speed of A at the bottom (no friction): mgh = (1/2)mu^2, so u = sqrt(2gh).",
+        "The trolleys have equal mass m and join together, so momentum is conserved: mu = (m + m)v.",
+        "v = u/2 = sqrt(2gh)/2 = sqrt(2gh/4) = sqrt(gh/2).",
+        "This matches the prediction, so the student was correct (kinetic energy is not conserved in this collision, but momentum is)."
+      ],
       "images": [
         "papers/physics/img/07-1F-Momentum-02.jpg",
         "papers/physics/img/07-1F-Momentum-03.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/07-1F-Momentum-Q3-2.jpg"
       ]
     },
     {
@@ -283,12 +294,19 @@
         "83 ms"
       ],
       "question": "Photographs show a popcorn kernel just before popping and at its maximum height after popping, 83 ms apart. Determine the maximum height after popping.",
-      "status": "pending",
-      "answer": "Needs the photographs in the PDF to read the height scale and the kernel's position at maximum height.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 3.5 cm (accept roughly 3.2 to 3.7 cm)",
+      "steps": [
+        "The 1 cm scale bar on the page is the reference length.",
+        "Measure how far the kernel has risen between the two photographs (centre of the unpopped kernel to centre of the popped kernel): about 3.5 times the scale-bar length.",
+        "Maximum height = 3.5 x 1 cm = 3.5 cm = 0.035 m."
+      ],
       "images": [
         "papers/physics/img/07-1F-Momentum-07.jpg",
         "papers/physics/img/07-1F-Momentum-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/07-1F-Momentum-Q6.jpg"
       ]
     },
     {
@@ -307,12 +325,20 @@
         "velocity"
       ],
       "question": "Calculate the initial speed of the popped popcorn kernel, using the photographs taken 83 ms apart.",
-      "status": "pending",
-      "answer": "Depends on the maximum height from part (i) and the timing shown in the PDF photographs; check against the PDF.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 0.84 m s^-1 (roughly 0.8 m s^-1)",
+      "steps": [
+        "At maximum height the kernel is momentarily at rest, so v = 0. Use h = 0.035 m from part (i) and t = 83 ms = 0.083 s.",
+        "Use s = ((u + v)/2) t: 0.035 = (u/2)(0.083).",
+        "u = 2 x 0.035 / 0.083 = 0.84 m s^-1.",
+        "Check with u = gt = 9.81 x 0.083 = 0.81 m s^-1, so the result is about 0.8 m s^-1."
+      ],
       "images": [
         "papers/physics/img/07-1F-Momentum-07.jpg",
         "papers/physics/img/07-1F-Momentum-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/07-1F-Momentum-Q6.jpg"
       ]
     },
     {
@@ -924,14 +950,22 @@
         "orbital module",
         "service module"
       ],
-      "question": "Before entering the atmosphere, the orbital module (1350 kg) and service module (2100 kg) move away from the descent module (2950 kg) in opposite directions. Determine the velocity of the descent module after separation.",
-      "status": "pending",
-      "answer": "Needs the velocities of the orbital and service modules from the diagram in the PDF, which are not in the text.",
-      "steps": [],
+      "question": "Before entering the atmosphere, the orbital module O (1350 kg) moves away from the descent module D (2950 kg) at 0.82 m s^-1 to the left, and the service module S (2100 kg) moves away at 0.58 m s^-1 to the right. Considering momentum along the horizontal line through the centres, determine the magnitude and direction of the velocity v of the descent module after separation (total momentum was zero before separation).",
+      "status": "ready",
+      "answer": "v = 0.038 m s^-1 (3.8 x 10^-2) to the left",
+      "steps": [
+        "Total momentum is conserved and was zero before the modules separated. Take right as positive.",
+        "0 = 2100(0.58) + 2950v + 1350(-0.82).",
+        "0 = 1218 + 2950v - 1107, so 2950v = -111.",
+        "v = -0.0376 m s^-1: magnitude 0.038 m s^-1, directed to the left (the same way as module O)."
+      ],
       "images": [
         "papers/physics/img/07-1F-Momentum-16.jpg",
         "papers/physics/img/07-1F-Momentum-17.jpg",
         "papers/physics/img/07-1F-Momentum-18.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/07-1F-Momentum-Q16.jpg"
       ]
     },
     {
@@ -1091,13 +1125,21 @@
         "velocity"
       ],
       "question": "A graph shows how the velocity of a skittle varies with time during its collision with a ball. Determine the average acceleration of the skittle during the collision.",
-      "status": "pending",
-      "answer": "Needs the velocity-time graph from the PDF to read the initial and final velocities and the collision time.",
-      "steps": [],
+      "status": "ready",
+      "answer": "About 95 m s^-2 (accept 90 to 100 m s^-2)",
+      "steps": [
+        "Read the graph: the skittle starts to speed up at about 17 ms and its velocity levels off at 2.85 m s^-1 at about 47 ms.",
+        "Change in velocity = 2.85 - 0 = 2.85 m s^-1 in a time of about (47 - 17) ms = 0.030 s.",
+        "Average acceleration = change in velocity / time = 2.85 / 0.030 = 95 m s^-2.",
+        "Check: the steep straight part of the graph has gradient about 2.3 m s^-1 per 23.5 ms = 99 m s^-2, consistent with this."
+      ],
       "images": [
         "papers/physics/img/07-1F-Momentum-19.jpg",
         "papers/physics/img/07-1F-Momentum-20.jpg",
         "papers/physics/img/07-1F-Momentum-21.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/07-1F-Momentum-Q18.jpg"
       ]
     },
     {
@@ -1177,10 +1219,14 @@
         "conservation",
         "hit"
       ],
-      "question": "A bat hits a stationary ball of mass m; the bat's momentum decreases by p and the ball then moves at v. The bat then hits a stationary ball of mass 3m, reducing its momentum by 2p. Which expression gives the velocity of the 3m ball?",
-      "status": "pending",
-      "answer": "Needs the four expression options from the PDF (not in the text). Expected result: 2v/3.",
-      "steps": [],
+      "question": "A student uses a wooden bat to hit a stationary ball of mass m. As the bat hits the ball, the momentum of the bat decreases by Delta p, and the ball then moves with velocity v. The student then uses the bat to hit a stationary ball of mass 3m, and the momentum of the bat decreases by 2 Delta p. Which expression gives the velocity of the ball of mass 3m after being hit? A: (1/6)v, B: (2/3)v, C: (3/2)v, D: 6v.",
+      "status": "ready",
+      "answer": "B: (2/3)v",
+      "steps": [
+        "The ball starts at rest and the bat loses momentum Delta p, so by conservation of momentum the ball gains Delta p: mv = Delta p.",
+        "Second hit: the bat loses 2 Delta p, so the 3m ball gains 2 Delta p: 3m v2 = 2 Delta p = 2mv.",
+        "v2 = 2v/3, which is option B. (A, C and D come from inverting the ratio or mixing up the masses.)"
+      ],
       "images": [
         "papers/physics/img/07-1F-Momentum-21.jpg",
         "papers/physics/img/07-1F-Momentum-22.jpg",
@@ -1291,13 +1337,20 @@
         "mass 3m",
         "conservation"
       ],
-      "question": "A toy train of mass 3m moves at speed v and a toy truck of mass m moves at 2v in the opposite direction. They collide and move off together. Which expression gives their new speed?",
-      "status": "pending",
-      "answer": "Needs the four options from the PDF (not in the text). Expected result: v/4, in the direction the train was moving.",
-      "steps": [],
+      "question": "A toy train of mass 3m is moving with speed v. A toy truck of mass m is moving with speed 2v in the opposite direction. The train and truck collide and move off together. Which expression gives the new speed of the train and truck? A: v/4, B: 4v/5, C: v, D: 5v/4.",
+      "status": "ready",
+      "answer": "A: v/4 (in the direction the train was moving)",
+      "steps": [
+        "Take the train's direction as positive. Total momentum before = 3m(v) + m(-2v) = mv.",
+        "After the collision they move together with mass 4m: 4mV = mv.",
+        "V = v/4, positive, so they move off at v/4 in the train's original direction: option A."
+      ],
       "images": [
         "papers/physics/img/07-1F-Momentum-23.jpg",
         "papers/physics/img/07-1F-Momentum-24.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/07-1F-Momentum-Q21.jpg"
       ]
     },
     {
@@ -1343,13 +1396,21 @@
         "conservation",
         "prediction"
       ],
-      "question": "Gliders A and B have different masses and velocities before they stick together. A student predicts they will move to the left after the collision. Deduce whether the prediction is correct.",
-      "status": "pending",
-      "answer": "Needs the masses and velocities of A and B from the diagram in the PDF to work out the direction of the total momentum.",
-      "steps": [],
+      "question": "Glider A (0.15 kg) moves to the right at 0.32 m s^-1 and glider B (0.20 kg) moves to the left at 0.11 m s^-1 on an air track. The gliders stick together in the collision. A student predicts that the gliders will move to the left after the collision. Deduce whether the prediction is correct.",
+      "status": "ready",
+      "answer": "The prediction is incorrect: the gliders move to the right at about 0.074 m s^-1",
+      "steps": [
+        "Take right as positive. Momentum before = 0.15(0.32) + 0.20(-0.11) = 0.048 - 0.022 = +0.026 kg m s^-1.",
+        "Momentum is conserved and the combined mass is 0.35 kg: 0.35 v = 0.026.",
+        "v = +0.074 m s^-1. This is positive, so the gliders move to the right.",
+        "So the student's prediction (to the left) is not correct."
+      ],
       "images": [
         "papers/physics/img/07-1F-Momentum-23.jpg",
         "papers/physics/img/07-1F-Momentum-24.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/07-1F-Momentum-Q22.jpg"
       ]
     }
   ]

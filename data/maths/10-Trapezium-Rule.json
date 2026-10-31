@@ -715,7 +715,7 @@
     {
       "id": "P2-10-Q11a",
       "no": "Q11(a)",
-      "marks": 0,
+      "marks": 3,
       "topic": "Trapezium Rule Estimate",
       "keywords": [
         "trapezium rule",
@@ -727,13 +727,22 @@
         "integral",
         "scan"
       ],
-      "question": "Figure 1 shows part of the curve y = f(x). A table gives y at x = -1, -0.5, 0, 0.5, 1 as 2.287, 4.470, 6.719, 7.291, 2.834. Using the trapezium rule with all the values of y in the table, part (a) asks for an estimate of an integral, but the integral is not shown on the scanned page.",
-      "status": "pending",
-      "answer": "Missing: the integral expression for part (a) and the rest of Q11 (any part (b) and the total marks) are cut off after 'obtain an estimate for' in the scan. Marks not shown.",
-      "steps": [],
+      "question": "Figure 1 shows part of the curve y = f(x). A table gives y at x = -1, -0.5, 0, 0.5, 1 as 2.287, 4.470, 6.719, 7.291, 2.834 (3 d.p.). Using the trapezium rule with all the values of y in the table, obtain an estimate for the integral of f(x) dx from -1 to 1, giving your answer to 2 decimal places.",
+      "status": "ready",
+      "answer": "10.52 (2 d.p.)",
+      "steps": [
+        "Five y-values give 4 strips of width h = 0.5.",
+        "Trapezium rule: integral ~ (h/2)[y0 + y4 + 2(y1 + y2 + y3)].",
+        "= 0.25 x [2.287 + 2.834 + 2(4.470 + 6.719 + 7.291)].",
+        "= 0.25 x [5.121 + 36.960] = 0.25 x 42.081 = 10.52025.",
+        "Estimate = 10.52 (2 d.p.)."
+      ],
       "images": [
         "papers/maths/img/P2-10-Trapezium-Rule-10.jpg",
         "papers/maths/img/P2-10-Trapezium-Rule-11.jpg"
+      ],
+      "figures": [
+        "papers/maths/fig/10-Trapezium-Rule-Q11.jpg"
       ]
     }
   ]

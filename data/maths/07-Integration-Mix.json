@@ -664,10 +664,16 @@
         "differential equation",
         "pending"
       ],
-      "question": "Show that the particular solution of the differential equation in part (b) for which y = 1 at x = pi/6 is y = e^(A sec 2x - 1/2), where A is an irrational number to be found. (The printed form uses sec 2x; see the note.)",
-      "status": "pending",
-      "answer": "Pending: the printed target form e^(A sec 2x - 1/2) does not match the differential equation. Working gives e^(A sec x - 1/2) with A = sqrt(3)/4 (A is irrational only in this form). Check the scanned form.",
-      "steps": [],
+      "question": "Show that the particular solution of the differential equation in part (b) for which y = 1 at x = pi/6 is given by y = e^(A sec x - 1/2), where A is an irrational number to be found.",
+      "status": "ready",
+      "answer": "A = sqrt(3)/4, so y = e^((sqrt(3)/4) sec x - 1/2)",
+      "steps": [
+        "Use the general solution from (b): 1/(1 + 2 ln y)^2 = (2/3) cos 2x + C.",
+        "Put y = 1 (ln y = 0) and x = pi/6: 1 = (2/3)(1/2) + C, so C = 2/3.",
+        "1/(1 + 2 ln y)^2 = (2/3)(cos 2x + 1) = (2/3)(2 cos^2 x) = (4/3) cos^2 x.",
+        "(1 + 2 ln y)^2 = (3/4) sec^2 x; take the positive root (it gives 1 at x = pi/6, where sec x = 2/sqrt(3)): 1 + 2 ln y = (sqrt(3)/2) sec x.",
+        "ln y = (sqrt(3)/4) sec x - 1/2, so y = e^(A sec x - 1/2) with A = sqrt(3)/4 (irrational)."
+      ],
       "images": [
         "papers/maths/img/P4-07-Integration-Mix-09.jpg",
         "papers/maths/img/P4-07-Integration-Mix-10.jpg"

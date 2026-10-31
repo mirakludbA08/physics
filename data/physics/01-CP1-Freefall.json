@@ -48,13 +48,21 @@
         "image 3"
       ],
       "question": "A sphere released from rest is photographed at constant time intervals. Image 1 shows the release position. Which of the positions P, Q, R or S is the sphere in Image 3? (A P, B Q, C R, D S)",
-      "status": "pending",
-      "answer": "Needs the positions P, Q, R and S shown in the PDF diagram; for release from rest, Image 3 is 4 times as far from Image 1 as Image 2 is.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: R",
+      "steps": [
+        "Released from rest at constant acceleration g, the distance fallen s = 0.5gt^2, so s is proportional to t^2.",
+        "Image 2 is at time T, so its distance from Image 1 is one gap (call it d); in the diagram the gap between Image 1 and Image 2 equals the spacing between P, Q, R and S.",
+        "Image 3 is at time 2T, so its distance from Image 1 is (2)^2 x d = 4d, which is 3 gaps below Image 2.",
+        "Counting gaps down from Image 2: P is 1 gap, Q is 2 gaps, R is 3 gaps, so Image 3 is at R."
+      ],
       "images": [
         "papers/physics/img/01-CP1-Freefall-02.jpg",
         "papers/physics/img/01-CP1-Freefall-03.jpg",
         "papers/physics/img/01-CP1-Freefall-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/01-CP1-Freefall-Q2.jpg"
       ]
     },
     {
@@ -84,6 +92,9 @@
         "papers/physics/img/01-CP1-Freefall-02.jpg",
         "papers/physics/img/01-CP1-Freefall-03.jpg",
         "papers/physics/img/01-CP1-Freefall-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/01-CP1-Freefall-Q3.jpg"
       ]
     },
     {
@@ -113,6 +124,9 @@
         "papers/physics/img/01-CP1-Freefall-02.jpg",
         "papers/physics/img/01-CP1-Freefall-03.jpg",
         "papers/physics/img/01-CP1-Freefall-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/01-CP1-Freefall-Q3.jpg"
       ]
     },
     {
@@ -142,6 +156,9 @@
         "papers/physics/img/01-CP1-Freefall-02.jpg",
         "papers/physics/img/01-CP1-Freefall-03.jpg",
         "papers/physics/img/01-CP1-Freefall-04.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/01-CP1-Freefall-Q3.jpg"
       ]
     },
     {
@@ -187,12 +204,20 @@
         "free fall"
       ],
       "question": "A student times a ball bearing falling from rest through distance s, for a range of values of s. Which row of the table shows the graph whose gradient is g?",
-      "status": "pending",
-      "answer": "Needs the table rows from the PDF; a gradient of g comes from velocity against time (v = gt), not from s against t^2 (gradient 0.5g).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: y-axis 2s, x-axis t^2",
+      "steps": [
+        "Falling from rest with u = 0: s = 0.5gt^2, which can be rearranged to 2s = gt^2.",
+        "So a graph of 2s (y-axis) against t^2 (x-axis) is a straight line through the origin with gradient g.",
+        "A (s against 2t^2) has gradient g/4, and s against t^2 would have gradient g/2.",
+        "C and D give curves, because s is not proportional to t or 2t (s is proportional to t^2)."
+      ],
       "images": [
         "papers/physics/img/01-CP1-Freefall-04.jpg",
         "papers/physics/img/01-CP1-Freefall-05.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/01-CP1-Freefall-Q5.jpg"
       ]
     },
     {
@@ -221,6 +246,10 @@
         "papers/physics/img/01-CP1-Freefall-05.jpg",
         "papers/physics/img/01-CP1-Freefall-06.jpg",
         "papers/physics/img/01-CP1-Freefall-07.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/01-CP1-Freefall-Q6.jpg",
+        "papers/physics/fig/01-CP1-Freefall-Q6-2.jpg"
       ]
     },
     {
@@ -266,13 +295,21 @@
         "freefall"
       ],
       "question": "Using the student's graph of s against t^2, determine the acceleration of free fall g.",
-      "status": "pending",
-      "answer": "Needs the student's s against t^2 graph from the PDF to read the gradient; then g = 2 x gradient.",
-      "steps": [],
+      "status": "ready",
+      "answer": "g = 10 m s^-2 (about 9.9 to 10 m s^-2)",
+      "steps": [
+        "From s = 0.5gt^2, the gradient of the s against t^2 graph is 0.5g, so g = 2 x gradient.",
+        "Use a large triangle on the best-fit line, which passes through the origin and the point (0.040 s^2, 0.20 m).",
+        "Gradient = (0.20 - 0) / (0.040 - 0) = 5.0 m s^-2.",
+        "g = 2 x 5.0 = 10 m s^-2 (the top point (0.0625, 0.31) gives 4.96 and g = 9.9 m s^-2)."
+      ],
       "images": [
         "papers/physics/img/01-CP1-Freefall-05.jpg",
         "papers/physics/img/01-CP1-Freefall-06.jpg",
         "papers/physics/img/01-CP1-Freefall-07.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/01-CP1-Freefall-Q6-3.jpg"
       ]
     },
     {
@@ -290,12 +327,19 @@
         "freefall"
       ],
       "question": "A student measures the time t for a ball bearing to fall different distances s from rest and plots a graph with gradient equal to g. Which row of the table shows this graph?",
-      "status": "pending",
-      "answer": "Needs the table rows from the PDF; the row must be velocity against time (gradient g), not s against t^2 (gradient 0.5g).",
-      "steps": [],
+      "status": "ready",
+      "answer": "B: y-axis 2s, x-axis t^2",
+      "steps": [
+        "From rest, s = 0.5gt^2, so 2s = gt^2.",
+        "Plotting 2s on the y-axis against t^2 on the x-axis gives a straight line through the origin with gradient g.",
+        "A (s against t^2) has gradient 0.5g, while C (t^2 against s) has gradient 2/g and D (t^2 against 2s) has gradient 1/g."
+      ],
       "images": [
         "papers/physics/img/01-CP1-Freefall-07.jpg",
         "papers/physics/img/01-CP1-Freefall-08.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/01-CP1-Freefall-Q7.jpg"
       ]
     },
     {
@@ -421,12 +465,20 @@
         "acceleration"
       ],
       "question": "An object on the Moon falls 0.32 m from rest in a time of 0.63 s. Which expression gives the acceleration due to gravity on the Moon? Options A to D are not in the extracted text.",
-      "status": "pending",
-      "answer": "Needs the four expression options from the PDF; the correct expression is 2 x 0.32 / 0.63^2, which is about 1.6 m s-2.",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: 2 x 0.32 / 0.63^2 (about 1.6 m s^-2)",
+      "steps": [
+        "Released from rest, u = 0, so s = 0.5gt^2 and g = 2s/t^2.",
+        "Substituting s = 0.32 m and t = 0.63 s gives g = (2 x 0.32) / 0.63^2, which is option C.",
+        "Numerically g = 0.64 / 0.397 = 1.6 m s^-2, a sensible value for the Moon (about one sixth of 9.81 m s^-2).",
+        "A is s/(2t), B is s/(2t^2) = g/4 and D is 2s/t (the final speed), so none of them gives g."
+      ],
       "images": [
         "papers/physics/img/01-CP1-Freefall-09.jpg",
         "papers/physics/img/01-CP1-Freefall-10.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/01-CP1-Freefall-Q12.jpg"
       ]
     },
     {
@@ -444,12 +496,20 @@
         "table"
       ],
       "question": "A student drops a ball from several heights, measures the time to reach the ground, and plots height on the y-axis to find g using a graph. Which row of the table is correct for the graph?",
-      "status": "pending",
-      "answer": "Needs the table rows from the PDF; with height on the y-axis the x-axis must be t^2 (gradient 0.5g).",
-      "steps": [],
+      "status": "ready",
+      "answer": "C: (time)^2 on the x-axis, gradient g/2",
+      "steps": [
+        "Falling from rest, h = 0.5gt^2.",
+        "With h on the y-axis and t^2 on the x-axis this is y = (g/2)x, a straight line through the origin with gradient g/2.",
+        "Plotting against t (rows A and B) would give a curve, not a straight line, so those cannot have a constant gradient.",
+        "D is wrong because the gradient is half of g, not twice g."
+      ],
       "images": [
         "papers/physics/img/01-CP1-Freefall-10.jpg",
         "papers/physics/img/01-CP1-Freefall-11.jpg"
+      ],
+      "figures": [
+        "papers/physics/fig/01-CP1-Freefall-Q13.jpg"
       ]
     }
   ]
